@@ -2,6 +2,8 @@
 
 This repository hosts the UI and content of an RSS feed reader.
 
+The feed itself is available at <https://spitlo.com/ajour/>.
+
 ## Links and references
 
 - [How does it work?](https://github.com/osmoscraft/osmosfeed#how-does-it-work).
