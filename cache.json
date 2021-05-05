@@ -4,6 +4,42 @@
       "href": "https://css-tricks.com/feed/",
       "articles": [
         {
+          "description": "This was a great &#8220;Today I Learned&#8221; for me from Josh W. Comeau. If the font-size of an &#60;input&#62; is 16px or larger, Safari on iOS will focus into the input normally. But as soon as the font-size is &#8230;\nThe post 16px or Larger Text Prevents iOS Form Zoom appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/16px-or-larger-text-prevents-ios-form-zoom/",
+          "publishedOn": "2021-05-04T21:16:04.000Z",
+          "wordCount": 590,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "16px or Larger Text Prevents iOS Form Zoom"
+        },
+        {
+          "description": "Here&#8217;s a dilemma: what happens if your WooCommerce site has a problem and the quickest and best way to fix it is to roll back to a previous version? The dilemma is, if you roll back the database, you would &#8230;\nThe post Jetpack Backup: Roll Back Your WooCommerce Site Without Losing Orders appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/jetpack-backup-roll-back-your-woocommerce-site-without-losing-orders/",
+          "publishedOn": "2021-05-04T21:15:57.000Z",
+          "wordCount": 450,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Jetpack Backup: Roll Back Your WooCommerce Site Without Losing Orders"
+        },
+        {
+          "description": "I was just chatting with Eric Meyer the other day and I remembered an Eric Meyer story from my formative years. I wrote a blog post about CSS specificity, and Eric took the time to point out the misleading nature &#8230;\nThe post Let’s use (X, X, X, X) for talking about specificity appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/lets-use-x-x-x-x-for-talking-about-specificity/",
+          "publishedOn": "2021-05-04T14:19:55.000Z",
+          "wordCount": 861,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Let’s use (X, X, X, X) for talking about specificity"
+        },
+        {
+          "description": "A bona fide CSS trick from Kirupa Chinnathambi here. To match a colored shadow with the colors in the background-image of an element, you inherit the background in a pseudo-element, kick it behind the original, then blur and filter it. &#8230;\nThe post Creating Colorful, Smart Shadows appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.kirupa.com/html5/creating_colorful_smart_shadows.htm",
+          "publishedOn": "2021-05-04T14:19:48.000Z",
+          "wordCount": 1279,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Creating Colorful, Smart Shadows"
+        },
+        {
           "description": "In June of 2006, web developers and designers from around the world came to London for the second annual @media conference. The first had been a huge success, and @media 2006 had even more promise. Its speaker lineup was pulled &#8230;\nThe post Chapter 8: CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/chapter-8-css/",
           "publishedOn": "2021-05-03T21:52:08.000Z",
@@ -170,6 +206,24 @@
     {
       "href": "https://www.smashingmagazine.com/feed/",
       "articles": [
+        {
+          "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
+          "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
+          "publishedOn": "2021-05-04T14:30:00.000Z",
+          "wordCount": 1791,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "A Guide To Undoing Mistakes With Git"
+        },
+        {
+          "description": "In this episode, we’re starting our new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to expert Miriam Suzanne to find out.",
+          "link": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/",
+          "publishedOn": "2021-05-04T05:00:00.000Z",
+          "wordCount": 6993,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?"
+        },
         {
           "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
           "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
@@ -367,21 +421,30 @@
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Don’t Lose Your Head: Evaluating Headless"
-        },
-        {
-          "description": "A guide to vanilla JavaScript code snippets &mdash; with resources and lightweight libraries to help you solve a problem without a large overhead or third-party dependencies.",
-          "link": "https://smashingmagazine.com/2021/04/vanilla-javascript-code-snippets/",
-          "publishedOn": "2021-04-05T10:30:00.000Z",
-          "wordCount": 2018,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Vanilla JavaScript Code Snippets"
         }
       ]
     },
     {
       "href": "https://www.freecodecamp.org/news/rss/",
       "articles": [
+        {
+          "description": "A complete guide to Node.js async await",
+          "link": "https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/",
+          "publishedOn": "2021-05-04T16:07:17.000Z",
+          "wordCount": 2235,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Node.js Async Await Tutorial – With Asynchronous JavaScript Examples"
+        },
+        {
+          "description": "To copy files or directories in Unix-based operating systems (Linux and MacOS), you use the cp command. The cp command is a relatively simple command, but its behavior changes slightly depending on the inputs (files vs directories) and the options you pass to it. To view the documentation or manual",
+          "link": "https://www.freecodecamp.org/news/copy-a-directory-in-linux-how-to-cp-a-folder-in-the-command-line-in-linux-and-unix-macos/",
+          "publishedOn": "2021-05-04T15:33:12.000Z",
+          "wordCount": 1012,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Copy a Directory in Linux – How to cp a Folder in the Command Line in Linux and Unix (MacOS)"
+        },
         {
           "description": "Let's go through the five best ways that you can fetch data with React from a GraphQL API. While there are a couple of popular libraries which are made to interact with GraphQL APIs from a React application, there are many different ways to fetch data with GraphQL. I've included",
           "link": "https://www.freecodecamp.org/news/5-ways-to-fetch-data-react-graphql/",
@@ -514,6 +577,15 @@
       "href": "https://christianheilmann.com/feed/",
       "articles": [
         {
+          "description": "A few weeks ago Honeypot.io asked me to answer a few questions about my career, and here is the video of my answers. 00:00 Introduction 00:31 What are your top tips for career advancement? 02:03 What strengths are most important for a developer? 04:07 Work-life balance: how do you do it? 05:11 What mistakes have [&#8230;]",
+          "link": "https://christianheilmann.com/2021/05/04/answering-questions-about-my-career-for-honeypot-io/",
+          "publishedOn": "2021-05-04T10:33:56.000Z",
+          "wordCount": 175,
+          "sourceHref": "https://christianheilmann.com/feed/",
+          "sourceTitle": "Christian Heilmann",
+          "title": "Answering questions about my career for honeypot.io"
+        },
+        {
           "description": "If you got 25 minutes to spare, here&#8217;s a great episode of Matt Wojciakowski &#8217;s &#8220;Tabs vs. Spaces&#8221; show where I talk together with my colleagues Erica Draud and Rachel Simone Weil about Edge Developer tools, accessibility, PWAs and what we&#8217;re doing to make it easier for beginners to get started.",
           "link": "https://christianheilmann.com/2021/04/16/tabs-vs-spaces-show-on-developer-tools/",
           "publishedOn": "2021-04-16T13:05:00.000Z",
@@ -586,17 +658,7 @@
     },
     {
       "href": "https://there.oughta.be/feed.xml",
-      "articles": [
-        {
-          "description": "As all package delivery services in our area have conspired to ring our doorbell just when the kids are having their afternoon nap I decided to smarten up our doorbell. To do so, I created a small PCB that goes into our in-house phone to disable it, trigger other IoT devices if someone rings the bell and to trigger the door opener. You can get an overview in the accompanying video or just read the article.\nClick the image to see the video on youtube.com.\n\n\n\n\nWhat it can do\nWell, I pretty much said it in the…",
-          "link": "https://there.oughta.be/a/smart-doorbell",
-          "publishedOn": "2021-04-04T22:00:00.000Z",
-          "wordCount": 2951,
-          "sourceHref": "https://there.oughta.be/feed.xml",
-          "sourceTitle": "there.oughta.be/",
-          "title": "There oughta be a smart doorbell."
-        }
-      ]
+      "articles": []
     },
     {
       "href": "https://grumpygamer.com/rss",
@@ -647,6 +709,15 @@
     {
       "href": "https://xkcd.com/atom.xml",
       "articles": [
+        {
+          "description": "",
+          "link": "https://xkcd.com/2458/",
+          "publishedOn": "2021-05-03T00:00:00.000Z",
+          "wordCount": 185,
+          "sourceHref": "https://xkcd.com/atom.xml",
+          "sourceTitle": "xkcd.com",
+          "title": "Bubble Wrap"
+        },
         {
           "description": "",
           "link": "https://xkcd.com/2457/",
@@ -761,6 +832,15 @@
       "href": "https://text-mode.tumblr.com/rss",
       "articles": [
         {
+          "description": "Back on Earth, a composition by Michael Finnissy, 2004. Read more and listen here.",
+          "link": "https://text-mode.tumblr.com/post/650277596344582144",
+          "publishedOn": "2021-05-04T18:30:42.000Z",
+          "wordCount": 219,
+          "sourceHref": "https://text-mode.tumblr.com/rss",
+          "sourceTitle": "TEXT-MODE",
+          "title": "Back on Earth, a composition by Michael Finnissy, 2004. Read..."
+        },
+        {
           "description": "These text/graphics objects are possibly 40 000+ years old. Found in Australia. More here.",
           "link": "https://text-mode.tumblr.com/post/650186994528452608",
           "publishedOn": "2021-05-03T18:30:37.000Z",
@@ -853,5 +933,5 @@
       ]
     }
   ],
-  "cliVersion": "1.3.0"
+  "cliVersion": "1.3.1"
 }
