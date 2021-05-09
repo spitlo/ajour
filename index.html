@@ -6,8 +6,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="robots" content="noindex, nofollow" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="shortcut icon" type="image/x-icon" href="assets/favicon.ico" />
-    <link href="assets/styles.css" rel="stylesheet" />
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+    <link rel="alternate" type="application/rss+xml" title="osmos::feed" href="feed.atom" />
+    <link href="styles.css" rel="stylesheet" />
     <style>
   :root {
     /** Use Base16 Default light for now */
@@ -35,6 +36,26 @@
   <body>
     <!-- %after-body-begin.html% -->
     
+    <section class="day-container">
+    <h2>2021-05-08</h2>
+    
+        <h3>TEXT-MODE</h3>
+        <section class="articles-per-source">
+          
+          <article>
+            <details>
+              <summary>Southwest Technical’s 6800 computer and the CT-64 terminal, and...</summary>
+              <div class="details-content">
+                <p>Southwest Technical’s 6800 computer and the CT-64 terminal, and a photo of its 64x16 textmode. Launched in 1975. First image from Creative Computing and second one from here.</p>
+                <a href="https&#58;&#47;&#47;text&#45;mode.tumblr.com&#47;post&#47;650639983331377152">Read · 0 min</a>
+              </div>
+            </details>
+          </article>
+        </section>
+        
+    </section>
+    
+
     <section class="day-container">
     <h2>2021-05-07</h2>
     
@@ -2710,38 +2731,12 @@ laptop.  In recent times, I found that every upgrade of the OS w…</p>
         
     </section>
     
-
-    <section class="day-container">
-    <h2>2021-03-09</h2>
-    
-        <h3>remy sharp's b:log</h3>
-        <section class="articles-per-source">
-          
-          <article>
-            <details>
-              <summary>Postgres CSV import with JSON [til/data]</summary>
-              <div class="details-content">
-                <p>The problem: CSV files generally quoted using &quot; and delimited using , - both of which feature heavily in JSON strings.
-So importing a CSV with JSON doesn't fly.
-One solution (it took me hours and hours to solve) is to use an alternative byte for quote and delimiter.
-For example, quote using \x1 and delimiter using \x2. Inspecting the bytes for the source data should look a little like this if done right:
-
-Now to import requires careful command-line-fu:
-$ cat data.csv  | psql postgres://localhost:5432/m…</p>
-                <a href="https&#58;&#47;&#47;remysharp.com&#47;til&#47;data&#47;postgres&#45;csv&#45;import&#45;with&#45;json">Read · 1 min</a>
-              </div>
-            </details>
-          </article>
-        </section>
-        
-    </section>
-    
     <footer>
-      <time id="build-timestamp" datetime="2021-05-08T00:06:36.344Z">2021-05-08T00:06:36.344Z</time>
-      <span><a href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.4.0</a></span>
+      <time id="build-timestamp" datetime="2021-05-09T00:08:23.297Z">2021-05-09T00:08:23.297Z</time>
+      <span><a href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.5.0</a></span>
     </footer>
     
-    <script src="assets/index.js"></script>
+    <script src="index.js"></script>
     <!-- %before-body-end.html% -->
   </body>
 </html>

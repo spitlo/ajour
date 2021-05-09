@@ -1272,15 +1272,6 @@
           "sourceHref": "https://remysharp.com/feed.xml",
           "sourceTitle": "remy sharp's b:log",
           "title": "Perfect fullscreen 4:3 aspect ratio [til/css]"
-        },
-        {
-          "description": "The problem: CSV files generally quoted using &quot; and delimited using , - both of which feature heavily in JSON strings.\nSo importing a CSV with JSON doesn't fly.\nOne solution (it took me hours and hours to solve) is to use an alternative byte for quote and delimiter.\nFor example, quote using \\x1 and delimiter using \\x2. Inspecting the bytes for the source data should look a little like this if done right:\n\nNow to import requires careful command-line-fu:\n$ cat data.csv  | psql postgres://localhost:5432/m…",
-          "link": "https://remysharp.com/til/data/postgres-csv-import-with-json",
-          "publishedOn": "2021-03-09T12:53:55.000Z",
-          "wordCount": 296,
-          "sourceHref": "https://remysharp.com/feed.xml",
-          "sourceTitle": "remy sharp's b:log",
-          "title": "Postgres CSV import with JSON [til/data]"
         }
       ]
     },
@@ -1374,6 +1365,17 @@
     {
       "href": "https://text-mode.tumblr.com/rss",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/650639983331377152",
+          "author": "TEXT-MODE",
+          "description": "Southwest Technical’s 6800 computer and the CT-64 terminal, and a photo of its 64x16 textmode. Launched in 1975. First image from Creative Computing and second one from here.",
+          "link": "https://text-mode.tumblr.com/post/650639983331377152",
+          "publishedOn": "2021-05-08T18:30:41.000Z",
+          "wordCount": 129,
+          "sourceHref": "https://text-mode.tumblr.com/rss",
+          "sourceTitle": "TEXT-MODE",
+          "title": "Southwest Technical’s 6800 computer and the CT-64 terminal, and..."
+        },
         {
           "description": "Axltm’s works combining PETSCII and custom characters. More here.",
           "link": "https://text-mode.tumblr.com/post/650549373620682752",
@@ -1517,5 +1519,5 @@
       ]
     }
   ],
-  "cliVersion": "1.4.0"
+  "cliVersion": "1.5.0"
 }
