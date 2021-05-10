@@ -970,6 +970,17 @@
       "href": "https://www.sarasoueidan.com/blog/index.xml",
       "articles": [
         {
+          "id": "https://sarasoueidan.com/blog/component-level-art-direction-with-container-queries-and-picture/",
+          "author": "Blog on SaraSoueidan.com",
+          "description": "Container Queries (CQ) allow us to change the styles of a component so it responds to the size of its nearest container. With CQ, we can change how an element looks based on where on a page it is placed and how much horizontal space it occupies.\nA lot about a design pattern could change based on how much space it&rsquo;s got. So Container Queries can be used to do more than just shift elements around in a layout. (Have you seen Jhey&rsquo;s demo yet?!) But we can only take full advantage of the potential Co…",
+          "link": "https://sarasoueidan.com/blog/component-level-art-direction-with-container-queries-and-picture/",
+          "publishedOn": "2021-05-09T00:00:00.000Z",
+          "wordCount": 1388,
+          "sourceHref": "https://www.sarasoueidan.com/blog/index.xml",
+          "sourceTitle": "Blog on SaraSoueidan.com",
+          "title": "Component-level art direction with CSS Container Queries"
+        },
+        {
           "description": "I came cross a CSS bug in Safari today that seems to be more commong than I expected. This article is a writeup of the issue I faced and the current possible work-around(s).\n\n\n    Note:  Less than 72 hours after I wrote this article and filed the bug report, the issue has been marked as resolved fixed! So you can expect this bug to disappear in upcoming releases of Safari. 🎉\n\nThe bug\nJan Persiel—who I’m currently collaborating on a client project with—reported that the type scale we have set up in our patt…",
           "link": "https://sarasoueidan.com/blog/safari-fluid-typography-bug-fix/",
           "publishedOn": "2021-04-15T00:00:00.000Z",
@@ -1059,15 +1070,6 @@
           "sourceHref": "https://grumpygamer.com/rss",
           "sourceTitle": "Grumpy Gamer",
           "title": "April Fools' 2021"
-        },
-        {
-          "description": "",
-          "link": "https://grumpygamer.com/sudoku58",
-          "publishedOn": "2021-03-11T00:00:00.000Z",
-          "wordCount": 734,
-          "sourceHref": "https://grumpygamer.com/rss",
-          "sourceTitle": "Grumpy Gamer",
-          "title": "Today's Sudoku"
         }
       ]
     },
@@ -1313,15 +1315,6 @@
           "sourceHref": "https://rachelbythebay.com/w/atom.xml",
           "sourceTitle": "Writing - rachelbythebay",
           "title": "Compile times, and why \"the obvious\" might not be so"
-        },
-        {
-          "description": "A couple of weeks ago, I read a\npost\nabout how the \"sealed system\" on Big Sur was hurting people.  I kind of \nskimmed through it and figured it was mostly complaining about the \nsize of the download.  For whatever reason, that hadn't been a problem \nfor me and my machines, so I kind of wrote it off.\n\n\nFor a good number of years, I've been (foolishly, as it turns out) using \nthe included Apache httpd to run small localhost-only stuff on my Mac \nlaptop.  In recent times, I found that every upgrade of the OS w…",
-          "link": "https://rachelbythebay.com/w/2021/03/10/sealed/",
-          "publishedOn": "2021-03-11T00:01:12.000Z",
-          "wordCount": 1273,
-          "sourceHref": "https://rachelbythebay.com/w/atom.xml",
-          "sourceTitle": "Writing - rachelbythebay",
-          "title": "Mac upgrade opened sshd to brute force password attacks"
         }
       ]
     },

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-09T00:08:23.298Z</updated>
+    <updated>2021-05-10T00:07:18.292Z</updated>
     <generator>osmosfeed 1.5.0</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Component-level art direction with CSS Container Queries]]></title>
+        <id>https://sarasoueidan.com/blog/component-level-art-direction-with-container-queries-and-picture/</id>
+        <link href="https://sarasoueidan.com/blog/component-level-art-direction-with-container-queries-and-picture/"/>
+        <updated>2021-05-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Container Queries (CQ) allow us to change the styles of a component so it responds to the size of its nearest container. With CQ, we can change how an element looks based on where on a page it is placed and how much horizontal space it occupies.
+A lot about a design pattern could change based on how much space it&rsquo;s got. So Container Queries can be used to do more than just shift elements around in a layout. (Have you seen Jhey&rsquo;s demo yet?!) But we can only take full advantage of the potential Co…]]></summary>
+        <author>
+            <name>Blog on SaraSoueidan.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Southwest Technical’s 6800 computer and the CT-64 terminal, and...]]></title>
         <id>https://text-mode.tumblr.com/post/650639983331377152</id>
@@ -1838,35 +1849,6 @@ Which is great, except for when the browser width (viewport more specifically) i
 Esolangs are experiential works. As has been expressed since the earliest posts of esoteric.codes (reiterated in this twitter thread this morning), we engage with esolangs by writing code in them, which forces us to come to terms with their logic and with the behavior of the virtual machines…]]></summary>
         <author>
             <name>esoteric.codes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mac upgrade opened sshd to brute force password attacks]]></title>
-        <id>https://rachelbythebay.com/w/2021/03/10/sealed/</id>
-        <link href="https://rachelbythebay.com/w/2021/03/10/sealed/"/>
-        <updated>2021-03-11T00:01:12.000Z</updated>
-        <summary type="html"><![CDATA[A couple of weeks ago, I read a
-post
-about how the "sealed system" on Big Sur was hurting people.  I kind of 
-skimmed through it and figured it was mostly complaining about the 
-size of the download.  For whatever reason, that hadn't been a problem 
-for me and my machines, so I kind of wrote it off.
-
-
-For a good number of years, I've been (foolishly, as it turns out) using 
-the included Apache httpd to run small localhost-only stuff on my Mac 
-laptop.  In recent times, I found that every upgrade of the OS w…]]></summary>
-        <author>
-            <name>Writing - rachelbythebay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today's Sudoku]]></title>
-        <id>https://grumpygamer.com/sudoku58</id>
-        <link href="https://grumpygamer.com/sudoku58"/>
-        <updated>2021-03-11T00:00:00.000Z</updated>
-        <author>
-            <name>Grumpy Gamer</name>
         </author>
     </entry>
 </feed>
