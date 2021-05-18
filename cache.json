@@ -1,0 +1,1278 @@
+{
+  "sources": [
+    {
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
+      "articles": [
+        {
+          "id": "https://css-tricks.com/?p=340716",
+          "author": "Chris Coyier",
+          "description": "Addy Osmani on images in HTML:\nThe humble <img> element has gained some superpowers over the years. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can \n…\nThe post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
+          "publishedOn": "2021-05-17T22:38:06.000Z",
+          "wordCount": 5325,
+          "title": "The Humble `img` Element And Core Web Vitals"
+        },
+        {
+          "id": "https://css-tricks.com/?p=339522",
+          "author": "Ashley Kolodziej",
+          "description": "I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.\nThe post A Love Letter to HTML & CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/a-love-letter-to-html-css/",
+          "publishedOn": "2021-05-17T14:27:22.000Z",
+          "wordCount": 1356,
+          "title": "A Love Letter to HTML & CSS"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340594",
+          "author": "Chris Coyier",
+          "description": "An interactive tool for learning grid syntax from Etesam Ansari. In the Learn section, it teaches you some concepts (involving multiple bits of the grid syntax) then gives you a task to complete by filling out the right syntax. I’m …\nThe post Euismod appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.euismod.dev/",
+          "publishedOn": "2021-05-17T14:27:13.000Z",
+          "wordCount": 3,
+          "title": "Euismod"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340136",
+          "author": "Chris Coyier",
+          "description": "I’ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You’re essentially leaving money on the table without them, because they …\nThe post Auto-Generated Social Media Images appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/auto-generated-social-media-images/",
+          "publishedOn": "2021-05-14T20:34:49.000Z",
+          "wordCount": 2273,
+          "title": "Auto-Generated Social Media Images"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340343",
+          "author": "Nathan Babcock",
+          "description": "!default is a Sass flag that indicates conditional assignment to a variable — it assigns a value only if the variable was previously undefined or null. Consider this code snippet:\n$variable: 'test' !default;\nTo the Sass compiler, this line …\nThe post Creating Stylesheet Feature Flags With Sass !default appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/",
+          "publishedOn": "2021-05-14T14:14:34.000Z",
+          "wordCount": 1344,
+          "title": "Creating Stylesheet Feature Flags With Sass !default"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340403",
+          "author": "Chris Coyier",
+          "description": "Manuel Matuzović goes line-by-line through a boilerplate HTML document. I like it. It’s a good reference and has a lot of the same type of stuff I tend to put in the main HTML template. It makes me think about …\nThe post HTML Boilerplates appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/html-boilerplates/",
+          "publishedOn": "2021-05-14T14:13:07.000Z",
+          "wordCount": 781,
+          "title": "HTML Boilerplates"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340490",
+          "author": "Chris Coyier",
+          "description": "Chen Hui Jing covers some recent movement in DevTools:\nFirefox’s grid inspector was pretty full-featured from the get-to and released together with CSS grid in Firefox 52. It was constantly improved upon since. Chrome added a basic grid inspector \n…\nThe post DevTools for CSS layouts 2021 edition appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://chenhuijing.com/blog/devtools-for-css-layouts-2021-edition/#%F0%9F%9A%B2",
+          "publishedOn": "2021-05-13T23:22:45.000Z",
+          "wordCount": 1594,
+          "title": "DevTools for CSS layouts 2021 edition"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340573",
+          "author": "Chris Coyier",
+          "description": "My friends at Sparkbox are doing a survey on design systems, as they do each year. Go ahead and fill it out if you please. Here are the results from last year. In both 2019 and 2020, the vibe was …\nThe post 2021 Design Systems (Survey/Courses) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/2021-design-systems-survey-courses/",
+          "publishedOn": "2021-05-13T22:55:35.000Z",
+          "wordCount": 605,
+          "title": "2021 Design Systems (Survey/Courses)"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340036",
+          "author": "Temani Afif",
+          "description": "When dealing with complex CSS animations, there is a tendency to create expansive @keyframes with lots of declarations. There are a couple of tricks though that I want to talk about that might help make things easier, while staying in …\nThe post Advanced CSS Animation Using cubic-bezier() appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/advanced-css-animation-using-cubic-bezier/",
+          "publishedOn": "2021-05-13T14:24:42.000Z",
+          "wordCount": 2745,
+          "title": "Advanced CSS Animation Using cubic-bezier()"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340118",
+          "author": "Chris Coyier",
+          "description": "Building animations can get complicated, particularly compelling animations where you aren’t just rolling a ball across the screen, but building a scene where many things are moving and changing in concert. When compelling animation is the goal, a timeline GUI …\nThe post SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/svgator-3-0-reshapes-the-way-you-create-and-animate-svg-with-extensive-new-features/",
+          "publishedOn": "2021-05-13T14:24:35.000Z",
+          "wordCount": 986,
+          "title": "SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features"
+        },
+        {
+          "id": "https://css-tricks.com/?p=339960",
+          "author": "Sandrina Pereira",
+          "description": "Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. <button disabled> ) to mark a button as disabled.\nThere are lots of …\nThe post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/making-disabled-buttons-more-inclusive/",
+          "publishedOn": "2021-05-12T14:31:07.000Z",
+          "wordCount": 2886,
+          "title": "Making Disabled Buttons More Inclusive"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340359",
+          "author": "Chris Coyier",
+          "description": "Kitty reflected on an ancient blog post here on CSS-Tricks on how to make an animated pie timer. The old technique is still clever. The new technique is equally clever and much easier. I particularly like the steps() animation function…\nThe post CSS Pie Timer Re-Revisited appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/css-pie-timer-re-revisited/",
+          "publishedOn": "2021-05-11T22:00:29.000Z",
+          "wordCount": 498,
+          "title": "CSS Pie Timer Re-Revisited"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340186",
+          "author": "Geoff Graham",
+          "description": "How many times have you heard that (or even uttered it under your own breath)? I know I’ve heard it in conversations. I also know I’ve wondered the same thing about a product or two — hey, the idea here …\nThe post I could build this during the weekend appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://world.hey.com/joaoqalves/i-could-build-this-during-the-weekend-aa093c5e",
+          "publishedOn": "2021-05-11T21:04:32.000Z",
+          "wordCount": 1416,
+          "title": "I could build this during the weekend"
+        },
+        {
+          "id": "https://css-tricks.com/?p=339138",
+          "author": "Una Kravets",
+          "description": "Chrome is experimenting with @container, a property within the CSS Working Group Containment Level 3 spec being championed by Miriam Suzanne of Oddbird, and a group of engineers across the web platform. @container brings us the ability to …\nThe post Next Gen CSS: @container appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/next-gen-css-container/",
+          "publishedOn": "2021-05-11T14:36:10.000Z",
+          "wordCount": 1569,
+          "title": "Next Gen CSS: @container"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340106",
+          "author": "Chris Coyier",
+          "description": "Like Jamstack, Netlify is coining this term.\nIf your reaction is: great, a new thing I need to know about and learn, know that while Distributed Persistent Rendering (DPR) does involve some new things, this is actually a push …\nThe post Distributed Persistent Rendering (DPR) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/distributed-persistent-rendering-dpr/",
+          "publishedOn": "2021-05-11T14:33:10.000Z",
+          "wordCount": 1446,
+          "title": "Distributed Persistent Rendering (DPR)"
+        }
+      ]
+    },
+    {
+      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "feedUrl": "https://www.smashingmagazine.com/feed/",
+      "siteUrl": "https://www.smashingmagazine.com/",
+      "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
+          "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
+          "description": "Today, we are taking a closer look at [SVGator 3.0](https://www.svgator.com/?utm_source=article&utm_medium=smashingmag&utm_campaign=svgator3_smashing), a new major release of the popular SVG application that lets you create, edit and animate SVG files and make the best out of what SVG has to offer — from start to finish.",
+          "link": "https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
+          "publishedOn": "2021-05-18T10:30:00.000Z",
+          "wordCount": 1796,
+          "title": "How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode, we’re talking about VisBug. What is it, and how is it different from the array of options already found in Chrome DevTools? Drew McLellan talks to its creator Adam Argyle to find out.",
+          "link": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/",
+          "publishedOn": "2021-05-18T05:00:00.000Z",
+          "wordCount": 9250,
+          "title": "Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
+          "author": "hello@smashingmagazine.com (Beau Hartshorne)",
+          "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
+          "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
+          "publishedOn": "2021-05-17T11:30:00.000Z",
+          "wordCount": 2906,
+          "title": "How We Improved Our Core Web Vitals (Case Study)"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
+          "author": "hello@smashingmagazine.com (Átila Fassina)",
+          "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
+          "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
+          "publishedOn": "2021-05-14T10:30:00.000Z",
+          "wordCount": 2393,
+          "title": "Tree-Shaking: A Reference Guide"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.",
+          "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
+          "publishedOn": "2021-05-12T12:42:00.000Z",
+          "wordCount": 3443,
+          "title": "Frustrating Design Patterns That Need Fixing: Birthday Picker"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/05/little-smashing-stories/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Today marks the day we sent out our 300th edition of the Smashing Newsletter. This article is a little celebration in which we share little Smashing stories from people working behind the scenes.",
+          "link": "https://smashingmagazine.com/2021/05/little-smashing-stories/",
+          "publishedOn": "2021-05-12T08:00:00.000Z",
+          "wordCount": 1993,
+          "title": "Little Smashing Stories"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/",
+          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
+          "description": "A prototype of the long-awaited CSS container queries has landed in Chrome Canary and is available for experimentation. Let’s look at what problem is being solved, learn how container queries work, and see how they compare with and complement existing CSS features for layout.",
+          "link": "https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/",
+          "publishedOn": "2021-05-11T13:30:00.000Z",
+          "wordCount": 4874,
+          "title": "A Primer On CSS Container Queries"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/",
+          "author": "hello@smashingmagazine.com (Amanda Annandale)",
+          "description": "At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours — but how?",
+          "link": "https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/",
+          "publishedOn": "2021-05-11T10:00:00.000Z",
+          "wordCount": 1958,
+          "title": "The Conference Platform We Use For Our Online Events: Hopin"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
+          "author": "hello@smashingmagazine.com (Jhey Tompkins)",
+          "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
+          "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
+          "publishedOn": "2021-05-10T11:00:00.000Z",
+          "wordCount": 6310,
+          "title": "Get Started With React By Building A Whac-A-Mole Game"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
+          "author": "hello@smashingmagazine.com (Valeriia Panina)",
+          "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
+          "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
+          "publishedOn": "2021-05-07T10:00:00.000Z",
+          "wordCount": 4127,
+          "title": "How To Organize Product-Related Assets And Collaborate Better"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
+          "author": "hello@smashingmagazine.com (Carson Shold)",
+          "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
+          "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
+          "publishedOn": "2021-05-06T11:00:00.000Z",
+          "wordCount": 2617,
+          "title": "Improving The Performance Of Shopify Themes (Case Study)"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
+          "author": "hello@smashingmagazine.com (Liran Cohen)",
+          "description": "This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.",
+          "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
+          "publishedOn": "2021-05-05T10:30:00.000Z",
+          "wordCount": 2296,
+          "title": "Reducing HTML Payload With Next.js (Case Study)"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
+          "author": "hello@smashingmagazine.com (Tobias Günther)",
+          "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
+          "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
+          "publishedOn": "2021-05-04T14:30:00.000Z",
+          "wordCount": 1791,
+          "title": "A Guide To Undoing Mistakes With Git"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode, we’re starting our new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to expert Miriam Suzanne to find out.",
+          "link": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/",
+          "publishedOn": "2021-05-04T05:00:00.000Z",
+          "wordCount": 6993,
+          "title": "Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
+          "author": "hello@smashingmagazine.com (Mathias Biilmann)",
+          "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
+          "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
+          "publishedOn": "2021-05-03T07:00:00.000Z",
+          "wordCount": 2141,
+          "title": "The Evolution Of Jamstack"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.",
+          "link": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
+          "publishedOn": "2021-04-30T09:00:00.000Z",
+          "wordCount": 2139,
+          "title": "May Is In The Air (2021 Wallpapers Edition)"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
+          "author": "hello@smashingmagazine.com (Addy Osmani)",
+          "description": "Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).",
+          "link": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
+          "publishedOn": "2021-04-29T12:15:00.000Z",
+          "wordCount": 5325,
+          "title": "The Humble `<img>` Element And Core Web Vitals"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/04/image-optimization-pre-release/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.",
+          "link": "https://smashingmagazine.com/2021/04/image-optimization-pre-release/",
+          "publishedOn": "2021-04-28T13:20:00.000Z",
+          "wordCount": 2130,
+          "title": "Meet Image Optimization, A New Smashing Book By Addy Osmani"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/",
+          "author": "hello@smashingmagazine.com (Adrian Bece)",
+          "description": "Easing functions can change the look and feel of an animation by affecting the rate, or speed, of an animation. In this article, we’re going to take a deep dive into easing functions and see how we can use them to create those natural and stunning animations.",
+          "link": "https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/",
+          "publishedOn": "2021-04-27T12:00:00.000Z",
+          "wordCount": 2623,
+          "title": "Understanding Easing Functions For CSS Animations And Transitions"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/",
+          "author": "hello@smashingmagazine.com (Kate Kalcevich & Mike Gifford)",
+          "description": "Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to \"layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early — when it’s easier and cheaper to fix them.",
+          "link": "https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/",
+          "publishedOn": "2021-04-26T11:00:00.000Z",
+          "wordCount": 3279,
+          "title": "How To Bake Layers Of Accessibility Testing Into Your Process"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/",
+          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
+          "description": "The CSS Working Group Editor’s Draft for [Selectors Level 4](https://drafts.csswg.org/selectors-4/) includes several pseudo-class selectors that already have proposal candidates in most modern browsers. This guide will cover ones that currently have the best support along with examples to demonstrate how you can start using them today!",
+          "link": "https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/",
+          "publishedOn": "2021-04-23T08:30:00.000Z",
+          "wordCount": 2430,
+          "title": "A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/04/web-design-done-well-part1/",
+          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
+          "description": "Sometimes it’s the little things in web life that make us look twice. From carousels to documentation to cookie disclaimers, here are some sites taking the mundane and sprinkling in a little magic.",
+          "link": "https://smashingmagazine.com/2021/04/web-design-done-well-part1/",
+          "publishedOn": "2021-04-22T14:00:00.000Z",
+          "wordCount": 1764,
+          "title": "Web Design Done Well: The Ordinary Made Extraordinary (Part 1)"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/",
+          "author": "hello@smashingmagazine.com (Lee Robinson)",
+          "description": "Incremental Static Regeneration (ISR) is a new evolution of the Jamstack, allowing you to update static content instantly without needing a full rebuild of your site. The hybrid approach of Next.js allows you to use ISR for e-commerce, marketing pages, blog posts, ad-backed media, and more.",
+          "link": "https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/",
+          "publishedOn": "2021-04-21T13:55:00.000Z",
+          "wordCount": 1929,
+          "title": "A Complete Guide To Incremental Static Regeneration (ISR) With Next.js"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/",
+          "author": "hello@smashingmagazine.com (Matt Saunders)",
+          "description": "As designers, we are often burdened by the responsibility of producing and managing website content. It’s not our job to write it, but it’s not the client’s either. We can avert disaster by including content production in the design process.",
+          "link": "https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/",
+          "publishedOn": "2021-04-21T08:30:00.000Z",
+          "wordCount": 2998,
+          "title": "Why Content Is Such A Fundamental Part Of The Web Design Process"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/",
+          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
+          "description": "Let’s explore the plugins providing GraphQL servers to WordPress. When should we use WPGraphQL, and when the GraphQL API for WordPress? Is there some advantage of one over the other, or some particular task that is easier to accomplish with one of them? In this article, we will find out.",
+          "link": "https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/",
+          "publishedOn": "2021-04-20T09:00:00.000Z",
+          "wordCount": 3482,
+          "title": "Making GraphQL Work In WordPress"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/",
+          "author": "hello@smashingmagazine.com (Barry Pollard)",
+          "description": "How are Core Web Vitals measured? How do you know your fixes have had the desired effect and when will you see the results in Google Search Console? Let’s figure it out.",
+          "link": "https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/",
+          "publishedOn": "2021-04-19T08:30:00.000Z",
+          "wordCount": 7206,
+          "title": "An In-Depth Guide To Measuring Core Web Vitals"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/04/mistakes-technical-interviews/",
+          "author": "hello@smashingmagazine.com (Emma Bostian)",
+          "description": "It’s no secret that the technical interview process leaves something to be desired; it’s often riddled with anxiety and stress. In this article, we’ll take a look at seven of the most common mistakes candidates make in their technical interviews and explore ways you can avoid them.",
+          "link": "https://smashingmagazine.com/2021/04/mistakes-technical-interviews/",
+          "publishedOn": "2021-04-16T09:00:00.000Z",
+          "wordCount": 2912,
+          "title": "Seven Mistakes To Avoid In Your Technical Interviews"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/04/web-design-clients-fast-part2/",
+          "author": "hello@smashingmagazine.com (Stephen Roe)",
+          "description": "Selling is key to growing your web design business, but it doesn’t have to be complicated! With clear goals, customer research, and proven closing techniques, anyone can find new clients.",
+          "link": "https://smashingmagazine.com/2021/04/web-design-clients-fast-part2/",
+          "publishedOn": "2021-04-15T11:00:00.000Z",
+          "wordCount": 3522,
+          "title": "How To Get Web Design Clients Fast (Part 2)"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/04/from-cats-with-love-navigation-guides-workshops/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "At Smashing, we’ve been busy over the last few months. We’ve set up new workshops, redesigned our navigation, refined performance and improved accessibility. There are subtle UX changes coming in, and we’d love to share what we’ve been cooking.",
+          "link": "https://smashingmagazine.com/2021/04/from-cats-with-love-navigation-guides-workshops/",
+          "publishedOn": "2021-04-15T10:30:00.000Z",
+          "wordCount": 967,
+          "title": "From Cats With Love: New Navigation, Guides And Workshops"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/04/css-overflow-issues/",
+          "author": "hello@smashingmagazine.com (Ahmad Shadeed)",
+          "description": "In this article, we will explore the causes of overflow issues and how to solve them. We will also explore how modern features in the developer tools (DevTools) can make the process of fixing and debugging easier.",
+          "link": "https://smashingmagazine.com/2021/04/css-overflow-issues/",
+          "publishedOn": "2021-04-14T11:00:00.000Z",
+          "wordCount": 1917,
+          "title": "Overflow Issues In CSS"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/",
+          "author": "hello@smashingmagazine.com (Deven Rathore)",
+          "description": "In this article, we’ll be building a video streaming app using Nuxt.js and Node.js. Specifically, we’ll build a server-side Node.js app that will handle fetching and streaming videos, generating thumbnails for your videos, and serving captions and subtitles.",
+          "link": "https://smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/",
+          "publishedOn": "2021-04-13T14:00:00.000Z",
+          "wordCount": 3154,
+          "title": "Building A Video Streaming App With Nuxt.js, Node And Express"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Recently we’ve covered CSS generators, SVG generators and accessible front-end components. This time we look into HTML email, with tools, templates and guides for designers and developers.",
+          "link": "https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/",
+          "publishedOn": "2021-04-12T12:30:00.000Z",
+          "wordCount": 3142,
+          "title": "A Complete Guide To HTML Email"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/04/growing-ux-maturity-in-organizations-part-3/",
+          "author": "hello@smashingmagazine.com (Victor Yocco)",
+          "description": "UX practitioners can play an important role in growing the UX maturity of the organizations and product teams they work with. This final article in a three-part series presents two additional tactics: education of staff on UX principles and processes.",
+          "link": "https://smashingmagazine.com/2021/04/growing-ux-maturity-in-organizations-part-3/",
+          "publishedOn": "2021-04-09T19:30:00.000Z",
+          "wordCount": 5988,
+          "title": "Growing UX Maturity In Organizations: Education And Training (Part 3)"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/04/better-documentation-team-communication-product-design-docs/",
+          "author": "hello@smashingmagazine.com (Ismael González)",
+          "description": "Have you ever struggled to get the green light on your design proposals? Do you feel like your design process needs to be formalized? Is the COVID19 era becoming a challenge for you when working remotely as a designer? Then keep reading to get to know a methodology to document your design process in this article.",
+          "link": "https://smashingmagazine.com/2021/04/better-documentation-team-communication-product-design-docs/",
+          "publishedOn": "2021-04-08T11:00:00.000Z",
+          "wordCount": 1858,
+          "title": "Better Documentation And Team Communication With Product Design Docs"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/04/flaky-tests-living-nightmare/",
+          "author": "hello@smashingmagazine.com (Ramona Schwering)",
+          "description": "Unreliable tests are a living nightmare for anyone who writes automated tests or pays attention to the results. Flaky tests have even given folks nightmares and sleepless nights. In this article, Ramona Schwering shares her experiences to help you get out of this hell or avoid getting into it.",
+          "link": "https://smashingmagazine.com/2021/04/flaky-tests-living-nightmare/",
+          "publishedOn": "2021-04-07T11:00:00.000Z",
+          "wordCount": 4049,
+          "title": "Flaky Tests: Getting Rid Of A Living Nightmare In Testing"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/04/evaluating-headless/",
+          "author": "hello@smashingmagazine.com (David Eglin)",
+          "description": "With many options comes many decisions, and it is easy to drown in all the many benefits of  headless CMS. How do we approach evaluating these options? Let’s figure it out.",
+          "link": "https://smashingmagazine.com/2021/04/evaluating-headless/",
+          "publishedOn": "2021-04-06T16:10:00.000Z",
+          "wordCount": 4083,
+          "title": "Don’t Lose Your Head: Evaluating Headless"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/04/vanilla-javascript-code-snippets/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "A guide to vanilla JavaScript code snippets — with resources and lightweight libraries to help you solve a problem without a large overhead or third-party dependencies.",
+          "link": "https://smashingmagazine.com/2021/04/vanilla-javascript-code-snippets/",
+          "publishedOn": "2021-04-05T10:30:00.000Z",
+          "wordCount": 2018,
+          "title": "Vanilla JavaScript Code Snippets"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/04/guarding-against-disposable-design/",
+          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
+          "description": "Quick, constant change is a given on the web. It is often one of its greatest strengths. As ever, though, there is a balance to find. Although longevity takes a different form online, its value is immeasurable.",
+          "link": "https://smashingmagazine.com/2021/04/guarding-against-disposable-design/",
+          "publishedOn": "2021-04-02T11:00:00.000Z",
+          "wordCount": 3382,
+          "title": "Guarding Against Disposable Design"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/04/designing-developing-fluid-type-space-scales/",
+          "author": "hello@smashingmagazine.com (James Gilyead & Trys Mudford)",
+          "description": "By systemizing the fundamentals of typography and space, and leaning into the inherent fluidity of the web, a free new CSS tool called [Utopia](https://utopia.fyi/) offers an alternative to breakpoint-driven design.",
+          "link": "https://smashingmagazine.com/2021/04/designing-developing-fluid-type-space-scales/",
+          "publishedOn": "2021-04-01T09:44:00.000Z",
+          "wordCount": 2458,
+          "title": "Meet Utopia: Designing And Building With Fluid Type And Space Scales"
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/03/desktop-wallpaper-calendars-april-2021/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Let’s welcome the new month with some fresh wallpapers. Designed with love by artists and designers from across the globe, they are available with and without a calendar for April 2021.",
+          "link": "https://smashingmagazine.com/2021/03/desktop-wallpaper-calendars-april-2021/",
+          "publishedOn": "2021-03-31T10:00:00.000Z",
+          "wordCount": 2035,
+          "title": "The Small Joys Of April (2021 Wallpapers Edition)"
+        }
+      ]
+    },
+    {
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.freecodecamp.org/news/rss/",
+      "siteUrl": "https://www.freecodecamp.org/news",
+      "articles": [
+        {
+          "id": "608898b68eb3fb07cf098337",
+          "author": "",
+          "description": "When you're writing an article to publish on the freeCodeCamp community publication, it's important to keep in mind how you're saying what you're saying.  What are we talking about here? We're referring to your voice and your tone. These two aspects of your writing can have a strong effect on",
+          "link": "https://www.freecodecamp.org/news/voice-and-tone-in-freecodecamp-publication/",
+          "publishedOn": "2021-05-18T02:40:44.000Z",
+          "wordCount": 2357,
+          "title": "Voice and Tone in the freeCodeCamp Community&#x27;s Publication"
+        },
+        {
+          "id": "60a2771762ab9107fe5ab383",
+          "author": "",
+          "description": "HTML vs JSX Hypertext Markup Language (HTML) is the standard language for documents that determine the structure of a web page.  HTML is a very important language in web development. Your code is either in HTML originally or compiles to it so browsers can read it.  JSX, on the other",
+          "link": "https://www.freecodecamp.org/news/html-vs-jsx-whats-the-difference/",
+          "publishedOn": "2021-05-17T21:11:58.000Z",
+          "wordCount": 1169,
+          "title": "HTML vs JSX – What&#x27;s the Difference?"
+        },
+        {
+          "id": "60a16df162ab9107fe5ab01b",
+          "author": "",
+          "description": "When I started out as a web developer, people often threw around the term \"DOM\" in the industry. Every JavaScript tutorial mentioned it, but I didn't know what it meant. Fast forward two years, and now that I know what it's all about, I am going to explain what the",
+          "link": "https://www.freecodecamp.org/news/dom-explained-everything-you-need-to-know-about-the-document-object-model/",
+          "publishedOn": "2021-05-17T17:45:50.000Z",
+          "wordCount": 1282,
+          "title": "The DOM Explained for Beginners – How the Document Object Model Works"
+        },
+        {
+          "id": "609f552e62ab9107fe5aaba0",
+          "author": "",
+          "description": "Lottie is a library that helps render Adobe After Effects animations natively on mobile and the web. I like using Lottie for animations in my projects because: Creating an animation from scratch can be time-consuming, andGIF files can be double the size of Lottie JSON files (the files containing the",
+          "link": "https://www.freecodecamp.org/news/how-to-use-lottie-like-a-pro-resources-for-designers-and-developers/",
+          "publishedOn": "2021-05-17T16:25:22.000Z",
+          "wordCount": 1076,
+          "title": "How to Use the Lottie Library like a Pro – Lottie Resources for Designers and Developers"
+        },
+        {
+          "id": "609cb90262ab9107fe5aa026",
+          "author": "",
+          "description": "I'm a developer who's mostly been writing JavaScript, so the Solidity development environment was a bit hard to learn.  About four months ago, I switched to Hardhat from Truffle. This cool new kid on the block drastically improved my coding experience. So today I want to share it with my",
+          "link": "https://www.freecodecamp.org/news/solidity-tutorial-hardhat-nfts/",
+          "publishedOn": "2021-05-17T14:39:55.000Z",
+          "wordCount": 1233,
+          "title": "Solidity Tutorial – How to Create NFTs with Hardhat"
+        },
+        {
+          "id": "609d63e962ab9107fe5aa2ce",
+          "author": "",
+          "description": "You may have heard of the term SMTP before, and wondered what it is. SMTP is a common method for handling email messages. Today I am going to explain what SMTP is, and how to use an SMTP provider such as SendGrid to send emails from your address. What Is",
+          "link": "https://www.freecodecamp.org/news/what-is-sendgrid-smpt-email-newsletter-tutorial/",
+          "publishedOn": "2021-05-14T20:31:30.000Z",
+          "wordCount": 1293,
+          "title": "What is SendGrid? SMTP Email Newsletter Tutorial"
+        },
+        {
+          "id": "609ea83362ab9107fe5aa920",
+          "author": "",
+          "description": "Welcome to the React for Beginners guide. It's designed to teach you all the core React concepts that you need to know to start building React applications in 2021. I created this resource to give you the most complete and beginner-friendly path to learn React from the ground up. By",
+          "link": "https://www.freecodecamp.org/news/react-for-beginners-cheatsheet/",
+          "publishedOn": "2021-05-14T20:17:37.000Z",
+          "wordCount": 3252,
+          "title": "React for Beginners: Complete React Cheatsheet for 2021"
+        },
+        {
+          "id": "609e8c2162ab9107fe5aa77d",
+          "author": "",
+          "description": "Have you ever wondered how websites are built and designed? Do you want to learn the art of web development but you're not that tech savvy – yet? Well, then this tutorial is for you. It's an introduction to Web Development for beginners so you can learn the basics even if",
+          "link": "https://www.freecodecamp.org/news/web-development-for-beginners-basic-html-and-css/",
+          "publishedOn": "2021-05-14T17:13:14.000Z",
+          "wordCount": 1598,
+          "title": "Web Development for Beginners – Learn Basic HTML and CSS to Build Your First Web Page"
+        },
+        {
+          "id": "609414f32cd0545b5e943526",
+          "author": "",
+          "description": "If you manage a large community, chances are you need a way to communicate updates to your members quickly and efficiently. An email newsletter can be a very effective way to do so. In this article, I am going to provide some tips and suggestions for maximizing the impact and",
+          "link": "https://www.freecodecamp.org/news/how-to-create-an-email-newsletter-design-layout-send/",
+          "publishedOn": "2021-05-13T21:19:40.000Z",
+          "wordCount": 1733,
+          "title": "How to Create an Email Newsletter [2021 Tutorial] – Design, Layout, Send"
+        },
+        {
+          "id": "609952396008950828b3ea8d",
+          "author": "",
+          "description": "Software development and testing go hand in hand. And in the era of agile software development, with quick releases of small iterations, you should do testing more and more frequently.  In order to perform effective testing, you need to know about the different types of testing and when you should",
+          "link": "https://www.freecodecamp.org/news/types-of-software-testing/",
+          "publishedOn": "2021-05-13T19:27:45.000Z",
+          "wordCount": 1826,
+          "title": "What is Software Testing? The 10 Most Common Types of Tests Developers Use in Projects"
+        }
+      ]
+    },
+    {
+      "title": "Christian Heilmann",
+      "feedUrl": "https://christianheilmann.com/feed/",
+      "siteUrl": "https://christianheilmann.com",
+      "articles": [
+        {
+          "id": "https://christianheilmann.com/?p=6774",
+          "author": "Chris Heilmann",
+          "description": "Testing your products for accessibility issues is a tricky thing. Your users have all kind of different needs and setups. They use computers in ways that appear daunting to you and hard to replicate. Any sighted person that used a screen reader to test their products can verify this. Often we turn off the sound […]",
+          "link": "https://christianheilmann.com/2021/05/17/you-cant-automate-accessibility-testing/",
+          "publishedOn": "2021-05-17T10:09:00.000Z",
+          "wordCount": 980,
+          "title": "Automated accessibility testing gets you on the way, but doesn’t find all the problems"
+        },
+        {
+          "id": "https://christianheilmann.com/?p=6763",
+          "author": "Chris Heilmann",
+          "description": "I’m super happy to announce that a new class of mine is now live at Skillshare. The title is Product Management: Tools for Improving Product Accessibility and in it I am covering a lot of tools to automatically check for accessibility in your products, but more importantly what you can do in your browser to […]",
+          "link": "https://christianheilmann.com/2021/05/11/i-have-a-new-course-on-skillshare-product-management-tools-for-improving-product-accessibility/",
+          "publishedOn": "2021-05-11T20:38:23.000Z",
+          "wordCount": 464,
+          "title": "I have a new course on Skillshare:  Product Management: Tools for Improving Product Accessibility"
+        },
+        {
+          "id": "https://christianheilmann.com/?p=6760",
+          "author": "Chris Heilmann",
+          "description": "A few weeks ago Honeypot.io asked me to answer a few questions about my career, and here is the video of my answers. 00:00 Introduction 00:31 What are your top tips for career advancement? 02:03 What strengths are most important for a developer? 04:07 Work-life balance: how do you do it? 05:11 What mistakes have […]",
+          "link": "https://christianheilmann.com/2021/05/04/answering-questions-about-my-career-for-honeypot-io/",
+          "publishedOn": "2021-05-04T10:33:56.000Z",
+          "wordCount": 175,
+          "title": "Answering questions about my career for honeypot.io"
+        },
+        {
+          "id": "https://christianheilmann.com/?p=6755",
+          "author": "Chris Heilmann",
+          "description": "If you got 25 minutes to spare, here’s a great episode of Matt Wojciakowski ’s “Tabs vs. Spaces” show where I talk together with my colleagues Erica Draud and Rachel Simone Weil about Edge Developer tools, accessibility, PWAs and what we’re doing to make it easier for beginners to get started.",
+          "link": "https://christianheilmann.com/2021/04/16/tabs-vs-spaces-show-on-developer-tools/",
+          "publishedOn": "2021-04-16T13:05:00.000Z",
+          "wordCount": 157,
+          "title": "Tabs vs. Spaces show on Developer tools"
+        },
+        {
+          "id": "https://christianheilmann.com/?p=6749",
+          "author": "Chris Heilmann",
+          "description": "One thing that keeps amazing me about Visual Studio Code is how much it helps you automate annoying tasks when you write code. For example, if you add an img tag to the document you need to know the src and find out the width and height to avoid reflow issues when the image was […]",
+          "link": "https://christianheilmann.com/2021/04/14/quick-vs-code-tip-automatically-add-image-width-and-height-to-images/",
+          "publishedOn": "2021-04-14T13:14:21.000Z",
+          "wordCount": 325,
+          "title": "Quick VS Code tip: Automatically add image width and height to images"
+        }
+      ]
+    },
+    {
+      "title": "Hundred Rabbits",
+      "feedUrl": "https://100r.co/links/rss.xml",
+      "siteUrl": "https://100r.co",
+      "articles": [
+        {
+          "id": "woodstove_installation.html",
+          "author": "Rekka Bellum",
+          "description": "It was our dream to have a little wood stove aboard Pino. After researching stoves, we decided that the best model was the cast iron Sardine from Navigator Stoveworks.\nOur Espar forced air diesel heater broke on our last passage, and we decided not to replace it. There are few low-power alternatives to a gas/diesel heater for heating a boat when off the grid. A wood stove was our best low-tech option. We also like that it doubles as a cook top...\nContinue Reading",
+          "link": "https://100r.co/site/woodstove_installation.html",
+          "publishedOn": "2021-04-22T00:00:00.000Z",
+          "wordCount": 2521,
+          "title": "Wood stove installation"
+        }
+      ]
+    },
+    {
+      "title": "Blog on SaraSoueidan.com",
+      "feedUrl": "https://www.sarasoueidan.com/blog/index.xml",
+      "siteUrl": "https://sarasoueidan.com/blog/",
+      "articles": [
+        {
+          "id": "https://sarasoueidan.com/blog/tips-for-reader-modes/",
+          "author": null,
+          "description": "Our content will not always look the way we expect it or want it to. Many apps, tools, and environments that people use to browse the Web strip our content of our CSS and apply their own styles to it. And unless we always keep that in mind, we risk creating incomplete or even broken experiences for users of those technologies or tools.\nYou might be reading this very blog post in a reading app right now, or maybe even listening to it being read out loud to you. In either case, the visual style enhancements I…",
+          "link": "https://sarasoueidan.com/blog/tips-for-reader-modes/",
+          "publishedOn": "2021-05-10T00:00:00.000Z",
+          "wordCount": 2545,
+          "title": "Design for reading: tips for optimizing content for Reader modes and reading apps"
+        },
+        {
+          "id": "https://sarasoueidan.com/blog/component-level-art-direction-with-container-queries-and-picture/",
+          "author": null,
+          "description": "Container Queries (CQ) allow us to change the styles of a component so it responds to the size of its nearest container. With CQ, we can change how an element looks based on where on a page it is placed and how much horizontal space it occupies.\nA lot about a design pattern could change based on how much space it’s got. So Container Queries can be used to do more than just shift elements around in a layout. (Have you seen Jhey’s demo yet?!) But we can only take full advantage of the potential Container Quer…",
+          "link": "https://sarasoueidan.com/blog/component-level-art-direction-with-container-queries-and-picture/",
+          "publishedOn": "2021-05-09T00:00:00.000Z",
+          "wordCount": 1403,
+          "title": "Component-level art direction with CSS Container Queries"
+        },
+        {
+          "id": "https://sarasoueidan.com/blog/safari-fluid-typography-bug-fix/",
+          "author": null,
+          "description": "I came cross a CSS bug in Safari today that seems to be more commong than I expected. This article is a writeup of the issue I faced and the current possible work-around(s).\n\n\n    Note:  Less than 72 hours after I wrote this article and filed the bug report, the issue has been marked as resolved fixed! So you can expect this bug to disappear in upcoming releases of Safari. 🎉\n\nThe bug\nJan Persiel—who I’m currently collaborating on a client project with—reported that the type scale we have set up in our patt…",
+          "link": "https://sarasoueidan.com/blog/safari-fluid-typography-bug-fix/",
+          "publishedOn": "2021-04-15T00:00:00.000Z",
+          "wordCount": 937,
+          "title": "Working around the viewport-based fluid typography bug in Safari"
+        },
+        {
+          "id": "https://sarasoueidan.com/blog/redesign/",
+          "author": null,
+          "description": "It’s about time my Web site got a complete makeover. It’s going to be more than just a fresh coat of paint. It’s going to be a complete rebuild + redesign.\nI’m going to rebuild this Web site from the ground up, starting with a fresh, clean slate—an empty repository, with nothing imported from the old one other than some content, such as my blog posts, list of past speaking engagements, and smilar content that will not change in the future. And some images, of course. OK maybe a few other content elements. B…",
+          "link": "https://sarasoueidan.com/blog/redesign/",
+          "publishedOn": "2021-04-01T00:00:00.000Z",
+          "wordCount": 1767,
+          "title": "🛠 Redesigning and rebuilding my Web site from the ground up"
+        },
+        {
+          "id": "https://sarasoueidan.com/blog/horizontal-rules/",
+          "author": null,
+          "description": "The HTML <hr> element adds a horizontal rule (or line) wherever you place it. A horizontal rule is used to provide a visual break and divide content. Like other HTML elements, horizontal rules can be styled using CSS (and SVG). This means that they don’t have to look like boring, plain horizontal lines. You can get a little creative with them, adding a nice little personal touch to your content and designs.\nIf you’re a frequent reader of this blog, then you’ve most likely already seen what a horizontal rule…",
+          "link": "https://sarasoueidan.com/blog/horizontal-rules/",
+          "publishedOn": "2021-03-25T00:00:00.000Z",
+          "wordCount": 1961,
+          "title": "Not Your Typical Horizontal Rules"
+        }
+      ]
+    },
+    {
+      "title": "there.oughta.be/",
+      "feedUrl": "https://there.oughta.be/feed.xml",
+      "siteUrl": "https://there.oughta.be/",
+      "articles": [
+        {
+          "id": "https://there.oughta.be/a/smart-doorbell",
+          "author": null,
+          "description": "As all package delivery services in our area have conspired to ring our doorbell just when the kids are having their afternoon nap I decided to smarten up our doorbell. To do so, I created a small PCB that goes into our in-house phone to disable it, trigger other IoT devices if someone rings the bell and to trigger the door opener. You can get an overview in the accompanying video or just read the article.\nClick the image to see the video on youtube.com.\n\n\n\n\nWhat it can do\nWell, I pretty much said it in the…",
+          "link": "https://there.oughta.be/a/smart-doorbell",
+          "publishedOn": "2021-04-04T22:00:00.000Z",
+          "wordCount": 2951,
+          "title": "There oughta be a smart doorbell."
+        },
+        {
+          "id": "https://there.oughta.be/a/photo-trap",
+          "author": null,
+          "description": "Recently a squirrel noticed our nut box that was waiting to be raided for almost a year now. But as our squirrels here are a but skittish, I needed to come up with a way to get in close to take nice pictures of them.\nRemembering my project where I used my old Sony Alpha NEX-5T for 3d printing timelapses, I decided to set up a photo trap based on the Wifi remote feature of this camera and it worked perfectly:\nClick the image to see the video on youtube.com.\n\n\nThis should work on any Sony Alpha since the NEX-…",
+          "link": "https://there.oughta.be/a/photo-trap",
+          "publishedOn": "2021-03-22T23:00:00.000Z",
+          "wordCount": 2877,
+          "title": "There oughta be a photo trap."
+        }
+      ]
+    },
+    {
+      "title": "Grumpy Gamer",
+      "feedUrl": "https://grumpygamer.com/rss",
+      "siteUrl": "https://grumpygamer.com",
+      "articles": [
+        {
+          "id": "https://grumpygamer.com/judith_lucero",
+          "author": null,
+          "description": "It is with great sadness that I found out that Judith Lucero passed away.  \nJudith was the lead tester on Monkey Island, Monkey Island 2 as well as a vast number of other Lucasfilm games.\nShe was the one who taught me the importance of testers and how they are a critical gear in the machinery that makes up making a game.  Testers aren't just unit tests in human form. They have a unique perspective on the game and poke not only at the bugs but also the design and the thought process of playing a game.\nIt's a…",
+          "link": "https://grumpygamer.com/judith_lucero",
+          "publishedOn": "2021-05-02T00:00:00.000Z",
+          "wordCount": 1208,
+          "title": "Judith Lucero"
+        },
+        {
+          "id": "https://grumpygamer.com/apple_privacy",
+          "author": null,
+          "description": "If Apple really cared about iOS privacy they would give the user to ability to block any app from reaching the internet.  A lot of the iOS apps I used have no need to ping the internet but they all do to gather metrics and do who-knows-what. \nRather than create a complex and unenforceable privacy policy Apple should just let users block the app from using the internet.  Or require a certificate to access the internet and don't allow it if the fundamental use of the app isn't to connect to the internet.  The…",
+          "link": "https://grumpygamer.com/apple_privacy",
+          "publishedOn": "2021-04-28T00:00:00.000Z",
+          "wordCount": 2135,
+          "title": "Apple and Privacy"
+        },
+        {
+          "id": "https://grumpygamer.com/april_fools_2021",
+          "author": null,
+          "description": "For going on 17 years the Grumpy Gamer blog has been and always will be April Fools' day free.\nStay strong.",
+          "link": "https://grumpygamer.com/april_fools_2021",
+          "publishedOn": "2021-04-01T00:00:00.000Z",
+          "wordCount": 1277,
+          "title": "April Fools' 2021"
+        }
+      ]
+    },
+    {
+      "title": "Emily Short's Interactive Storytelling",
+      "feedUrl": "https://emshort.blog/feed/",
+      "siteUrl": "https://emshort.blog",
+      "articles": [
+        {
+          "id": "http://emshort.blog/?p=41934",
+          "author": "Mort Short",
+          "description": "Events May 16 is the next Seattle Area IF Meetup. May 17 is the next Boston Area IF Meetup. May 23 is a workshop-style meeting of the London/Oxford IF Meetup. The group will be offering feedback on open design problems (some tips and guidelines are included in the event description). You’re welcome whether or not you’ve got an open … Continue reading \"Mid-May Link Assortment\"",
+          "link": "https://emshort.blog/2021/05/15/mid-may-link-assortment-4/",
+          "publishedOn": "2021-05-15T23:17:00.000Z",
+          "wordCount": 1720,
+          "title": "Mid-May Link Assortment"
+        },
+        {
+          "id": "http://emshort.blog/?p=41914",
+          "author": "Mort Short",
+          "description": "Events May 1 will be the beginning of the fourth annual Rayuela de Arena interactive fiction jam. Submissions will be open until May 30. May 1 is also the opening of ParserComp 2021. Submissions can be sent in until June 30. May 1 is also the next SF Bay Area Meetup. May 7 is the Spring Thing voting deadline, when you … Continue reading \"End of April Link Assortment\"",
+          "link": "https://emshort.blog/2021/04/30/end-of-april-link-assortment-5/",
+          "publishedOn": "2021-04-30T23:49:00.000Z",
+          "wordCount": 1804,
+          "title": "End of April Link Assortment"
+        },
+        {
+          "id": "http://emshort.blog/?p=41885",
+          "author": "Mort Short",
+          "description": "Events April 17-18 will be the Flights of Foundry conference (online, so attendees can join from anywhere). The conference covers a wide range of topics, but has a number of interactive fiction/narrative related talks as well. April 18 is the next virtual meetup of the Seattle/Tacoma IF group. April 23 at 11 AM PT, I will be speaking at LudoNarraCon, … Continue reading \"Mid-April Link Assortment\"",
+          "link": "https://emshort.blog/2021/04/15/mid-april-link-assortment-5/",
+          "publishedOn": "2021-04-15T23:51:00.000Z",
+          "wordCount": 1805,
+          "title": "Mid-April Link Assortment"
+        }
+      ]
+    },
+    {
+      "title": "xkcd.com",
+      "feedUrl": "https://xkcd.com/atom.xml",
+      "siteUrl": "https://xkcd.com/",
+      "articles": [
+        {
+          "id": "https://xkcd.com/2464/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/2464/",
+          "publishedOn": "2021-05-17T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Muller's Ratchet"
+        },
+        {
+          "id": "https://xkcd.com/2463/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/2463/",
+          "publishedOn": "2021-05-14T00:00:00.000Z",
+          "wordCount": 183,
+          "title": "Astrophotography"
+        },
+        {
+          "id": "https://xkcd.com/2462/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/2462/",
+          "publishedOn": "2021-05-12T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "NASA Award"
+        },
+        {
+          "id": "https://xkcd.com/2461/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/2461/",
+          "publishedOn": "2021-05-10T00:00:00.000Z",
+          "wordCount": 189,
+          "title": "90's Kid Space Program"
+        }
+      ]
+    },
+    {
+      "title": "remy sharp's b:log",
+      "feedUrl": "https://remysharp.com/feed.xml",
+      "siteUrl": "https://remysharp.com",
+      "articles": [
+        {
+          "id": "my-childhood-companion-the-quickshot",
+          "author": null,
+          "description": "I was an 80s kid and growing up we had a Spectrum computer. As much as Sinclair intended the machine to be used for business purposed, it became hugely popular for games and was in part, responsible for the computer literacy of the UK.\nAs a kid I went through a lot of joysticks and the iconic joysticks of that era were the aviator/cockpit style joystick. Specifically the Cheatah 125+ (which retailed originally for £8.95) and the Quickshot II - which I took to pieces today.",
+          "link": "https://remysharp.com/2021/05/17/my-childhood-companion-the-quickshot",
+          "publishedOn": "2021-05-17T00:00:00.000Z",
+          "wordCount": 727,
+          "title": "My childhood companion: the Quickshot [blog]"
+        },
+        {
+          "id": "2021-05-14-803ab535",
+          "author": null,
+          "description": "Effectively drop in an image, tweak some settings, get a TTF pixel font back out.\nThere's also a useful YouTube video on how to plan pixel font design called Make a Pixel Art Font\nSource: yal.cc",
+          "link": "https://remysharp.com/links/2021-05-14-803ab535",
+          "publishedOn": "2021-05-14T08:18:10.000Z",
+          "wordCount": 181,
+          "title": "Pixel font generator [link]"
+        },
+        {
+          "id": "2021-05-14-03da0b5d",
+          "author": null,
+          "description": "Super tiny font ideal for pixel based games.\nSource: rndmem.com",
+          "link": "https://remysharp.com/links/2021-05-14-03da0b5d",
+          "publishedOn": "2021-05-14T08:08:34.000Z",
+          "wordCount": 149,
+          "title": "mem [link]"
+        },
+        {
+          "id": "next-layer-resolutions",
+          "author": null,
+          "description": "I keep losing this information in the Next manual, so here it is for quick lookup.\n\n\n\nLayer\nName\nResolution\nCell size\nCells\nColours\nColours/cell\n\n\n\n\nL0\nULA\n256 x 192\n8 x 8\n32 x 24\n8\n2\n\n\nL1,0\nLoRes\n128 x 96\n-\n-\n256\n-\n\n\nL1,1\nStandard Res\n256 x 192\n8 x 8\n32 x 24\n256\n2\n\n\nL1,2\nTimex HiRes\n512 x 192\n-\n-\n2\n-\n\n\nL1,3\nTimex HiColour\n256 x 192\n8 x 1\n32 x 192\n256\n2\n\n\nL2\n\n256 x 192\n-\n-\n256\n-\n\n\nL3,0\nText mode\n320 x 256\n8 x 8\n40 x 32\n256\n2\n\n\nL3,1\nText mode\n640 x 256\n8 x 8\n80 x 32\n256\n2\n\n\nL3,2\nGraphics mode\n320 x 256\n8 x 8…",
+          "link": "https://remysharp.com/til/spectrum/next-layer-resolutions",
+          "publishedOn": "2021-05-13T09:21:21.000Z",
+          "wordCount": 540,
+          "title": "Next layer resolutions [til/spectrum]"
+        },
+        {
+          "id": "all-the-things-you-didnt-ask-about-ps2-keyboards",
+          "author": null,
+          "description": "It's a 2 way communication protocol, i.e. the PS/2 keyboard will receive messages from the host/controller\nThere's 6 pins on the lead, but only 4 are used: vcc (power), ground, clock and data\nA key stroke is made up of a make and a break message (i.e. key down, key up), so a key being held down sends repeating make messages\nDifferent machines expect different timing between messages, the Amiga for instance seems to want around 20 microseconds between make and break otherwise it seems to ignore the key up ev…",
+          "link": "https://remysharp.com/til/computing/all-the-things-you-didnt-ask-about-ps2-keyboards",
+          "publishedOn": "2021-05-11T18:15:16.000Z",
+          "wordCount": 404,
+          "title": "All the things you didn't ask about PS/2 keyboards [til/computing]"
+        },
+        {
+          "id": "2021-05-07-689bd71d",
+          "author": null,
+          "description": "This is an interesting and compelling post about using ENV values for secrets - something I do almost exclusively.\nThe only (big) problem I run into is that the solution offered is to use \"docker secrets\" which, for the vast majority of my own work isn't something that's available (I don't use docker for my development or deployments).\nIt makes me wonder, is there a simple alternative for those non-docker devs 🤔\nSource: diogomonica.com",
+          "link": "https://remysharp.com/links/2021-05-07-689bd71d",
+          "publishedOn": "2021-05-07T08:15:25.000Z",
+          "wordCount": 229,
+          "title": "Why you shouldn't use ENV variables for secret data [link]"
+        },
+        {
+          "id": "2021-05-07-72e7b736",
+          "author": null,
+          "description": "My short interpretation of Alex Russell's post (or certainly in my mind):\n\n\nApple have a monopoly\n\n\nSafari, for over a decade now, been way way behind\n\n\nSafari is not a modern browser - this is literally what devs and designers complained about IE6 for years.\n\n\nStill, read Alex's post - it's packed full of data (as usual) and draws a clear conclusion that Apple, again, are delaying progress for the world wide web.\nSource: infrequently.org",
+          "link": "https://remysharp.com/links/2021-05-07-72e7b736",
+          "publishedOn": "2021-05-07T08:12:18.000Z",
+          "wordCount": 222,
+          "title": "Progress Delayed Is Progress Denied [link]"
+        },
+        {
+          "id": "backticks-in-backticks",
+          "author": null,
+          "description": "To put a backtick in a markdown code block, i.e. within backticks, you just add more backticks around your code block.\nReally this is more useful in the inline code blocks, for instance I can do console.log(`you're on the ${branchName} branch`).\nSo inline instead of wrapping with a single ` backtick, you wrap with two backticks, like ``console.log(`this ${demo}`)`` (and to get two backticks in the example shown, I needed to wrap with three backticks).\nOne final tip, to print a single backtick, it needs two …",
+          "link": "https://remysharp.com/til/misc/backticks-in-backticks",
+          "publishedOn": "2021-05-05T12:12:46.000Z",
+          "wordCount": 244,
+          "title": "Backticks in backticks [til/misc]"
+        },
+        {
+          "id": "ps2-spectrum-keys",
+          "author": null,
+          "description": "If I've got a PS/2 connect to my spectrum then certain keys or buttons - like the NMI button - are mapped to either F-keys or key combinations.\nThis isn't a complete list, but useful (to me).\n\n\n\nFunction\nKey\n\n\n\n\nNMI\nF9\n\n\nEdit\nShift + 1\n\n\nCaps lock\nShift + 2\n\n\nBackspace\nShift + 0\n\n\nBreak\nSpace\n\n\n\nKeys that are required when in some other mode that I don't know the name for (i.e. running .uart):\n\n\n\nFunction\nKey\n\n\n\n\nQuote \"\nCtrl + p\n\n\nPlus +\nCtrl + k\n\n\nComma ,\nCtrl + n\n\n\nPeriod .\nCtrl + m\n\n\nColon :\nCtrl + z\n\n\n…",
+          "link": "https://remysharp.com/til/spectrum/ps2-spectrum-keys",
+          "publishedOn": "2021-04-30T09:19:14.000Z",
+          "wordCount": 263,
+          "title": "PS/2 Spectrum keys [til/spectrum]"
+        },
+        {
+          "id": "fun-with-esp-modules",
+          "author": null,
+          "description": "In my evening projects I've been getting into projects that use an ESP module, an ESP 01 specifically, and so I wanted to write up what I've found, how to upgrade (or downgrade) them, common AT commands and general tips either for you my dear reader, or for Future Me when I no doubt forget.\nI'm far from an expert and I've read bits around how sometimes these won't work properly, but these notes worked for me - and fair warning: this is intended as a \"what I've learned so far\".",
+          "link": "https://remysharp.com/2021/04/28/fun-with-esp-modules",
+          "publishedOn": "2021-04-28T00:00:00.000Z",
+          "wordCount": 1914,
+          "title": "Fun with ESP modules [blog]"
+        },
+        {
+          "id": "building-a-ps2-remote-keyboard",
+          "author": null,
+          "description": "In the last week I bought myself a small computer called a neptUNO that has an FPGA (aka - to me - replicate retro computing hardware - see more here).\nThe ports on the machine are suitably old and include: VGA out, DB9 for joysticks/joypads and two PS/2 ports for keyboard and mouse. The device does actually have a USB port, but thus far I can't find anything that works with it. So I bought myself a cheap PS/2 keyboard so I control the menu (selecting cores and ROMs) and of course the damn keyboard wouldn't…",
+          "link": "https://remysharp.com/2021/04/14/building-a-ps2-remote-keyboard",
+          "publishedOn": "2021-04-14T00:00:00.000Z",
+          "wordCount": 1103,
+          "title": "Building a PS/2 remote keyboard [blog]"
+        },
+        {
+          "id": "detecting-emulator-or-hardware",
+          "author": null,
+          "description": "Sometimes useful, I've certainly run into bugs with emulation vs. real machines.\nDEFPROC isReal()\n  ; dw $01DD : nop : nop : ret\n  POKE %$4000, %$dd, 1, 0, 0, %$c9\n  v= USR 16384 :; can't use integer values here - important\n  IF v=16384 THEN ENDPROC= 0 :; CSpect emulator\n  v= % REG 0\n  IF v = 8 THEN ENDPROC= 0 :; ZESarux emulator\n  IF v = 10 THEN ENDPROC= 1:; real h/w\nENDPROC\n\nThis POKE is based on a few ideas. First that when we land in machine code, that BC is the address of entry. So when the code return…",
+          "link": "https://remysharp.com/til/spectrum/detecting-emulator-or-hardware",
+          "publishedOn": "2021-03-28T21:38:22.000Z",
+          "wordCount": 357,
+          "title": "Detecting (Next) Emulator or Hardware [til/spectrum]"
+        },
+        {
+          "id": "the-mythical-code-review",
+          "author": null,
+          "description": "For anyone who's worked in a development team (that involves code) and more than a single individual then the idea of a code review is going to have floated past your bow at some point or another.\nI've been doing code reviews since the early 2000s. It's taken me some twenty years to finally articulate that they're not that useful - or certainly not useful in the form I've seen them in the first two decades of my career.",
+          "link": "https://remysharp.com/2021/03/24/the-mythical-code-review",
+          "publishedOn": "2021-03-24T00:00:00.000Z",
+          "wordCount": 1181,
+          "title": "The mythical code review [blog]"
+        },
+        {
+          "id": "2021-03-23",
+          "author": null,
+          "description": "It's been a while since posting any progress on this project, but I've been working away quietly.\nWhat's nice about Marbles is that because the game is so familiar to me, it let's me spend time experimenting in areas that are typically out of reach.\nThe bulk of the work I've done over the last few months has been all in assembly. The performance of the logic and maths work in NextBASIC was too slow, so I moved it all into a machine code library that I can call from NextBASIC.\nI was able to use the excellent…",
+          "link": "https://remysharp.com/devlog/marbles2/2021-03-23",
+          "publishedOn": "2021-03-23T00:00:00.000Z",
+          "wordCount": 607,
+          "title": "Marbles2 - 23-Mar 2021 [devlog/marbles2]"
+        },
+        {
+          "id": "on-layer-11-enhanced-ula-mode",
+          "author": null,
+          "description": "If you want control of the PAPER colour, you'll need to use PALETTE FORMAT and LAYER PALETTE - read on:\nWith LAYER 1,1:\n\nTo make use of the fuller colour set, you need to enable \"Enhanced ULA functionality\" which is achieved using the PALETTE FORMAT n routine.\nThe PALETTE FORMAT n value is allowed 255, 127, 63, 31, 15, 7, 3, 1 and 0. The pattern here is 255 shifted right.\nTo then select a colour for the layer, the LAYER PALETTE 0, i, v routine is used (or a palette can be loaded with LAYER PALETTE 0 BANK n,…",
+          "link": "https://remysharp.com/til/spectrum/on-layer-11-enhanced-ula-mode",
+          "publishedOn": "2021-03-21T21:22:43.000Z",
+          "wordCount": 518,
+          "title": "On Layer 1,1 enhanced ULA mode [til/spectrum]"
+        }
+      ]
+    },
+    {
+      "title": "Writing - rachelbythebay",
+      "feedUrl": "https://rachelbythebay.com/w/atom.xml",
+      "siteUrl": "https://rachelbythebay.com/w/",
+      "articles": [
+        {
+          "id": "https://rachelbythebay.com/w/2020/09/20/snack/",
+          "author": null,
+          "description": "It turns out my \"Snackwatch\" idea\nfrom two years ago\nhas some legs.  Some people inside a \"valley\" (not really, it's up in \nSF) company are complaining because the snacks have been replaced with \nvending machines.\n\n\nSo far, this is the only proof of it happening, courtesy of an anonymous \npost to one of those apps where you can post things to a \"company \nhangout\" if you have (or had...) a company e-mail address.\n\n\n\n\nIncidentally, if my vending machine story seems familiar but you can't \nfind it in any of th…",
+          "link": "https://rachelbythebay.com/w/2020/09/20/snack/",
+          "publishedOn": "2021-05-12T05:47:56.000Z",
+          "wordCount": 208,
+          "title": "Snackwatch: when credit card readers land at the office"
+        },
+        {
+          "id": "https://rachelbythebay.com/w/2021/05/02/py/",
+          "author": null,
+          "description": "I've written in the past somewhat opaquely about certain programming \nlanguages and my complaints about them.  One that I'm not afraid to \ncomplain about by name is Python.  You can look in enough of my old \nposts to see this pattern keeps coming up.  It never fails to make my \nlife more interesting than it has to be.\n\n\nThis was getting people at the company to see the fact that something \nnew had in fact broken, but only for about half a second before they \nspam-canned the whole thread, and then never saw …",
+          "link": "https://rachelbythebay.com/w/2021/05/02/py/",
+          "publishedOn": "2021-05-03T02:22:12.000Z",
+          "wordCount": 1439,
+          "title": "Python and me, or when in Rome..."
+        },
+        {
+          "id": "https://rachelbythebay.com/w/2021/05/01/code/",
+          "author": null,
+          "description": "Yesterday, I \nwrote a little\nabout what happens when companies have a pervasive culture of shutting \ndown attempts to talk about things that aren't seen as completely \npositive.  I mentioned there was more to the story, and this is part \ntwo.\n\n\nIt would be *really bad* for this kind of stuff to go down, particularly \nwhen the execs are out doing their dog and pony thing in front of the \npress.  Then of course, exactly that happened one afternoon.  What's \nkind of amazing is that this event isn't captured an…",
+          "link": "https://rachelbythebay.com/w/2021/05/01/code/",
+          "publishedOn": "2021-05-02T18:53:43.000Z",
+          "wordCount": 1579,
+          "title": "The Honest Troubleshooting Code of Conduct"
+        },
+        {
+          "id": "https://rachelbythebay.com/w/2021/04/30/speech/",
+          "author": null,
+          "description": "One of the weird patterns I keep seeing in management is that some of \nthe folks with those jobs care more about what people say than what they \ndo.  They want everything to look happy and shiny and nice, even when \nthings are broken and need help.  They don't want you complaining about \nsomething, *especially* not in some venue where other managers might \nsee it.\n\n\nAt some point, they started blocking off those bridges prior to one of \nthe talks.  You could not hang out to watch the show from there.  You \n…",
+          "link": "https://rachelbythebay.com/w/2021/04/30/speech/",
+          "publishedOn": "2021-05-02T04:51:23.000Z",
+          "wordCount": 899,
+          "title": "The chilling effect versus attempts to fix things"
+        },
+        {
+          "id": "https://rachelbythebay.com/w/2021/03/24/comp/",
+          "author": null,
+          "description": "One of the double-edged swords about having done some of this work for a \nwhile is that I have a bunch of random things that I take for granted.  \nThese are mostly just bits of data and other knowledge that I picked up \na long time ago and don't even talk about any more.  This is actually a \nbad thing in certain situations, since everyone comes from a slightly \ndifferent place in terms of what they know and do and their \nspecialties.\n\n\nGiven this, it made me wonder how many things I've woven into my head at…",
+          "link": "https://rachelbythebay.com/w/2021/03/24/comp/",
+          "publishedOn": "2021-03-25T02:57:04.000Z",
+          "wordCount": 1334,
+          "title": "Compile times, and why \"the obvious\" might not be so"
+        }
+      ]
+    },
+    {
+      "title": "LOW-TECH MAGAZINE",
+      "feedUrl": "https://feeds2.feedburner.com/typepad/krisdedecker/lowtechmagazineenglish",
+      "siteUrl": "https://www.lowtechmagazine.com/",
+      "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/typepad/krisdedecker/lowtechmagazineenglish/~3/VvDrwTu8V_0/how-to-design-a-sailing-ship-for-the-21st-century.html",
+          "author": null,
+          "description": "It is surprisingly difficult to build a carbon neutral sailing ship. This is even more the case today, because our standards for safety, health, hygiene, comfort, and convenience have changed profoundly since the Age of Sail.\n\r\n\n\r\n\n\r\nOn board the ship `Garthsnaid' at sea. A view from high up in the rigging. Image by Allan C. Green, circa 1920. \n\r\nThe sailing ship is a textbook example of sustainability. For at least 4,000 years, sailing ships have transported passengers and cargo across the world’s seas and…",
+          "link": "http://feedproxy.google.com/~r/typepad/krisdedecker/lowtechmagazineenglish/~3/VvDrwTu8V_0/how-to-design-a-sailing-ship-for-the-21st-century.html",
+          "publishedOn": "2021-05-11T13:03:34.000Z",
+          "wordCount": 6578,
+          "title": "How to design a sailing ship for the 21st century?"
+        },
+        {
+          "id": "http://feedproxy.google.com/~r/typepad/krisdedecker/lowtechmagazineenglish/~3/lEO1rCFC-sw/urban-fish-ponds-low-tech-sewage-treatment-for-towns-and-cities.html",
+          "author": null,
+          "description": "In the mid 20th century, whole cities' sewage systems safely and successfully used fish to treat and purify their water. Waste-fed fish ponds are a low-tech, cheap, and sustainable alternative to deal with our own shit -- and to obtain high protein food in the process.\n\r\n Image: Fish ponds in the East Kolkata Wetlands – the largest sewage-fed aquaculture system in the world today. Source: Edwards, 2008. [8]\n\r\nAfter we eat and drink, we excrete into toilets, which use water to flush our effluent into municip…",
+          "link": "http://feedproxy.google.com/~r/typepad/krisdedecker/lowtechmagazineenglish/~3/lEO1rCFC-sw/urban-fish-ponds-low-tech-sewage-treatment-for-towns-and-cities.html",
+          "publishedOn": "2021-03-30T09:21:43.000Z",
+          "wordCount": 10478,
+          "title": "Urban Fish Ponds: Low-tech Sewage Treatment for Towns and Cities"
+        }
+      ]
+    },
+    {
+      "title": "esoteric.codes",
+      "feedUrl": "https://esoteric.codes/rss",
+      "siteUrl": "https://esoteric.codes",
+      "articles": [
+        {
+          "id": "https://esoteric.codes/blog/jon-corbett",
+          "author": null,
+          "description": "Jon Corbett's languages Cree# and Ancestral Code allow programming in Cree keywords using Cree concepts and metaphors. In addition to this language, Corbett's PhD research has led to his Indigenous Coding Framework, a work-in-progress that will help other Indigenous communities bring to computation not only their languages but their cultural logic and values as well. Corbett describes the challenges of this work, from the danger of accidentally including colonial understandings in such a system, to working …",
+          "link": "https://esoteric.codes/blog/jon-corbett",
+          "publishedOn": "2021-03-30T06:32:00.000Z",
+          "wordCount": 9250,
+          "title": "Interview with Jon Corbett"
+        }
+      ]
+    },
+    {
+      "title": "Lea Verou",
+      "feedUrl": "https://feeds.feedburner.com/leaverou",
+      "siteUrl": "https://lea.verou.me",
+      "articles": [
+        {
+          "id": "https://lea.verou.me/?p=3293",
+          "author": "Lea Verou",
+          "description": "By now, you probably know that you can use custom properties for individual color components, to avoid repeating the same color coordinates multiple times throughout your theme. You may even know that you can use the same variable for multiple components, e.g. HSL hue and lightness: Here is a very simple page designed with this […]",
+          "link": "http://feedproxy.google.com/~r/leaverou/~3/274lkp8fcPY/",
+          "publishedOn": "2021-03-30T17:40:36.000Z",
+          "wordCount": 1854,
+          "title": "Dark mode in 5 minutes, with inverted lightness variables"
+        }
+      ]
+    },
+    {
+      "title": "TEXT-MODE",
+      "feedUrl": "https://text-mode.tumblr.com/rss",
+      "siteUrl": "https://text-mode.tumblr.com/",
+      "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/651455347805028352",
+          "author": null,
+          "description": "A tweetable program by Andy Wallace (andymakesgames) that you can play with here.\n\n{createCanvas(w=400,w)\nt+=0.006\nfor(y=0;y",
+          "link": "https://text-mode.tumblr.com/post/651455347805028352",
+          "publishedOn": "2021-05-17T18:30:33.000Z",
+          "wordCount": 186,
+          "title": "A tweetable program by Andy Wallace (andymakesgames) that you..."
+        },
+        {
+          "id": "https://text-mode.tumblr.com/post/651398669118193664",
+          "author": null,
+          "description": "PETSCII by Hein, 2021.",
+          "link": "https://text-mode.tumblr.com/post/651398669118193664",
+          "publishedOn": "2021-05-17T03:29:40.000Z",
+          "wordCount": 166,
+          "title": "PETSCII by Hein, 2021."
+        },
+        {
+          "id": "https://text-mode.tumblr.com/post/650639983331377152",
+          "author": null,
+          "description": "Southwest Technical’s 6800 computer and the CT-64 terminal, and a photo of its 64x16 textmode. Launched in 1975. First image from Creative Computing and second one from here.",
+          "link": "https://text-mode.tumblr.com/post/650639983331377152",
+          "publishedOn": "2021-05-08T18:30:41.000Z",
+          "wordCount": 156,
+          "title": "Southwest Technical’s 6800 computer and the CT-64 terminal, and..."
+        },
+        {
+          "id": "https://text-mode.tumblr.com/post/650549373620682752",
+          "author": null,
+          "description": "Axltm’s works combining PETSCII and custom characters. More here.",
+          "link": "https://text-mode.tumblr.com/post/650549373620682752",
+          "publishedOn": "2021-05-07T18:30:29.000Z",
+          "wordCount": 212,
+          "title": "Axltm’s works combining PETSCII and custom characters. More..."
+        },
+        {
+          "id": "https://text-mode.tumblr.com/post/650458802109497344",
+          "author": null,
+          "description": "Snippets from Masanobu Hiraoka’s video for Titanium 2 Step by Battles, 2019. Full video here.",
+          "link": "https://text-mode.tumblr.com/post/650458802109497344",
+          "publishedOn": "2021-05-06T18:30:53.000Z",
+          "wordCount": 223,
+          "title": "Snippets from Masanobu Hiraoka’s video for Titanium 2 Step by..."
+        },
+        {
+          "id": "https://text-mode.tumblr.com/post/650368197593382912",
+          "author": null,
+          "description": "somediyprojects:\nPeruvian Cats stitched by ladycyberdemon23. SAL designed by Michelle Garrette of BendyStitchyDesigns.",
+          "link": "https://text-mode.tumblr.com/post/650368197593382912",
+          "publishedOn": "2021-05-05T18:30:46.000Z",
+          "wordCount": 232,
+          "title": "somediyprojects:\n\nPeruvian Cats stitched by ladycyberdemon23...."
+        },
+        {
+          "id": "https://text-mode.tumblr.com/post/650277596344582144",
+          "author": null,
+          "description": "Back on Earth, a composition by Michael Finnissy, 2004. Read more and listen here.",
+          "link": "https://text-mode.tumblr.com/post/650277596344582144",
+          "publishedOn": "2021-05-04T18:30:42.000Z",
+          "wordCount": 227,
+          "title": "Back on Earth, a composition by Michael Finnissy, 2004. Read..."
+        },
+        {
+          "id": "https://text-mode.tumblr.com/post/650186994528452608",
+          "author": null,
+          "description": "These text/graphics objects are possibly 40 000+ years old. Found in Australia. More here.",
+          "link": "https://text-mode.tumblr.com/post/650186994528452608",
+          "publishedOn": "2021-05-03T18:30:37.000Z",
+          "wordCount": 101,
+          "title": "These text/graphics objects are possibly 40 000+ years old...."
+        },
+        {
+          "id": "https://text-mode.tumblr.com/post/650096393908846592",
+          "author": null,
+          "description": "Made in Microsoft Word by Shaheer Zazai. Don’t miss the videos!   h/t: Heikki Lotvonen",
+          "link": "https://text-mode.tumblr.com/post/650096393908846592",
+          "publishedOn": "2021-05-02T18:30:34.000Z",
+          "wordCount": 238,
+          "title": "Made in Microsoft Word by Shaheer Zazai. Don’t miss the videos! ..."
+        },
+        {
+          "id": "https://text-mode.tumblr.com/post/650005821917396992",
+          "author": null,
+          "description": "By Grau design agency.",
+          "link": "https://text-mode.tumblr.com/post/650005821917396992",
+          "publishedOn": "2021-05-01T18:30:57.000Z",
+          "wordCount": 159,
+          "title": "By Grau design agency."
+        },
+        {
+          "id": "https://text-mode.tumblr.com/post/649915203362930688",
+          "author": null,
+          "description": "PETSCII by christwoballs.",
+          "link": "https://text-mode.tumblr.com/post/649915203362930688",
+          "publishedOn": "2021-04-30T18:30:37.000Z",
+          "wordCount": 207,
+          "title": "PETSCII by christwoballs."
+        },
+        {
+          "id": "https://text-mode.tumblr.com/post/649824613967298560",
+          "author": null,
+          "description": "Gifs of Andreas Gysin’s ASCII/ANSI-works, getting pricey at SuperRare where you can see them in better framerate.",
+          "link": "https://text-mode.tumblr.com/post/649824613967298560",
+          "publishedOn": "2021-04-29T18:30:44.000Z",
+          "wordCount": 225,
+          "title": "Gifs of Andreas Gysin’s ASCII/ANSI-works, getting pricey at..."
+        },
+        {
+          "id": "https://text-mode.tumblr.com/post/649734022411567104",
+          "author": null,
+          "description": "Lord Nikon - capcop, via 16colo.rs.",
+          "link": "https://text-mode.tumblr.com/post/649734022411567104",
+          "publishedOn": "2021-04-28T18:30:49.000Z",
+          "wordCount": 213,
+          "title": "Lord Nikon - capcop, via 16colo.rs."
+        },
+        {
+          "id": "https://text-mode.tumblr.com/post/649643430735134720",
+          "author": null,
+          "description": "Sgt. PETSCII’s Lonely Hearts Club Band by Dr. TerrorZ, 2021.",
+          "link": "https://text-mode.tumblr.com/post/649643430735134720",
+          "publishedOn": "2021-04-27T18:30:54.000Z",
+          "wordCount": 144,
+          "title": "Sgt. PETSCII’s Lonely Hearts Club Band by Dr. TerrorZ,..."
+        },
+        {
+          "id": "https://text-mode.tumblr.com/post/649552827695398912",
+          "author": null,
+          "description": "If We Were Allowed To Visit is a poetry/ascii/game that you play in the browser. Made by Gemma Mahadeo (poet) and Ian MacLarty (game designer). More here. h/t: Tim Koch",
+          "link": "https://text-mode.tumblr.com/post/649552827695398912",
+          "publishedOn": "2021-04-26T18:30:48.000Z",
+          "wordCount": 224,
+          "title": "If We Were Allowed To Visit is a poetry/ascii/game that you play..."
+        },
+        {
+          "id": "https://text-mode.tumblr.com/post/649462232767430656",
+          "author": null,
+          "description": "Chafa converts images or video to text in a terminal, and there are plenty of settings to play with.",
+          "link": "https://text-mode.tumblr.com/post/649462232767430656",
+          "publishedOn": "2021-04-25T18:30:50.000Z",
+          "wordCount": 228,
+          "title": "Chafa converts images or video to text in a terminal, and there..."
+        },
+        {
+          "id": "https://text-mode.tumblr.com/post/649425368773738496",
+          "author": null,
+          "description": "Removing RAM from a computer while it’s on. By Nova/marisa.",
+          "link": "https://text-mode.tumblr.com/post/649425368773738496",
+          "publishedOn": "2021-04-25T08:44:54.000Z",
+          "wordCount": 239,
+          "title": "Removing RAM from a computer while it’s on. By Nova/marisa."
+        }
+      ]
+    }
+  ],
+  "cliVersion": "1.7.2"
+}
