@@ -1,22 +1,20 @@
 {
-  "name": "osmosfeed-template",
+  "name": "ajour",
   "version": "1.0.0",
-  "description": "Use this template to create the UI and content of an RSS feed reader.",
-  "main": "index.js",
+  "description": "Personal feed reader, available online at https://spitlo.com/ajour",
   "scripts": {
     "build": "osmosfeed"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/osmoscraft/osmosfeed-template.git"
+    "url": "git+https://github.com/spitlo/ajour.git"
   },
-  "keywords": [],
-  "author": "osmoscraft",
+  "author": "spitlo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/osmoscraft/osmosfeed-template/issues"
+    "url": "https://github.com/spitlo/ajour/issues"
   },
-  "homepage": "https://github.com/osmoscraft/osmosfeed-template#readme",
+  "homepage": "https://github.com/spitlo/ajour#readme",
   "dependencies": {
     "@osmoscraft/osmosfeed": "^1.7.2"
   }
