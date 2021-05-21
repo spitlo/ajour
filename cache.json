@@ -271,6 +271,15 @@
       "siteUrl": "https://remysharp.com",
       "articles": [
         {
+          "id": "how-do-you-set-the-value-in-an-order-list",
+          "author": null,
+          "description": "Not with CSS, that's how!\n<ol>\n  <li value=\"3\">This is item three.</li>\n  <li value=\"50\">This is item fifty.</li>\n  <li value=\"100\">This is item one hundred.</li>\n</ol>\n\nResult:\n\n  This is item three.\n  This is item fifty.\n  This is item one hundred.\n\nI only I had read the HTML5 Doctor articles we were putting out at the time 🤦",
+          "link": "https://remysharp.com/til/css/how-do-you-set-the-value-in-an-order-list",
+          "publishedOn": "2021-05-20T12:32:31.000Z",
+          "wordCount": 208,
+          "title": "How do you set the value in an order list? [til/css]"
+        },
+        {
           "id": "2021-05-19-69040872",
           "author": null,
           "description": "A combination of workers, websockets and \"durable objects\" (which I've not heard of before).\nA detailed walk through of the tech is on CloudFlare - and I do hope the domain remains active for years to come, I'm certainly challenging the 90s teenager in me when I hear those sound effects.\nDeath match anyone!?\nSource: silentspacemarine.com",
@@ -440,15 +449,6 @@
           "publishedOn": "2021-03-23T00:00:00.000Z",
           "wordCount": 607,
           "title": "Marbles2 - 23-Mar 2021 [devlog/marbles2]"
-        },
-        {
-          "id": "on-layer-11-enhanced-ula-mode",
-          "author": null,
-          "description": "If you want control of the PAPER colour, you'll need to use PALETTE FORMAT and LAYER PALETTE - read on:\nWith LAYER 1,1:\n\nTo make use of the fuller colour set, you need to enable \"Enhanced ULA functionality\" which is achieved using the PALETTE FORMAT n routine.\nThe PALETTE FORMAT n value is allowed 255, 127, 63, 31, 15, 7, 3, 1 and 0. The pattern here is 255 shifted right.\nTo then select a colour for the layer, the LAYER PALETTE 0, i, v routine is used (or a palette can be loaded with LAYER PALETTE 0 BANK n,…",
-          "link": "https://remysharp.com/til/spectrum/on-layer-11-enhanced-ula-mode",
-          "publishedOn": "2021-03-21T21:22:43.000Z",
-          "wordCount": 518,
-          "title": "On Layer 1,1 enhanced ULA mode [til/spectrum]"
         }
       ]
     },
@@ -457,6 +457,15 @@
       "feedUrl": "https://rachelbythebay.com/w/atom.xml",
       "siteUrl": "https://rachelbythebay.com/w/",
       "articles": [
+        {
+          "id": "https://rachelbythebay.com/w/2021/05/19/gtest/",
+          "author": null,
+          "description": "Here's a fun one.  I've been messing around with an OpenBSD 6.9 image to \nsee just how well my existing code works on a non-Linux environment.  \nOnce in a while, I find something unusual and interesting, like a \ndifference in what is supported, and discover a \"Linuxism\" (or really a\n\"glibcism\" in most cases) as a result.\n\n\nThe OpenBSD system has this available via their ports system, so you can \njust \"pkg_add gtest\" and you'll get gtest+gmock 1.8.0p3 on your machine, \nready to go.  Trouble is, it's not quit…",
+          "link": "https://rachelbythebay.com/w/2021/05/19/gtest/",
+          "publishedOn": "2021-05-20T06:18:07.000Z",
+          "wordCount": 905,
+          "title": "gmock and gtest on OpenBSD 6.9 hate each other"
+        },
         {
           "id": "https://rachelbythebay.com/w/2021/05/18/cpu/",
           "author": null,

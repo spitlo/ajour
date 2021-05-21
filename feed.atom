@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-05-20T05:49:18.100Z</updated>
+    <updated>2021-05-21T00:18:49.608Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How do you set the value in an order list? [til/css]]]></title>
+        <id>how-do-you-set-the-value-in-an-order-list</id>
+        <link href="https://remysharp.com/til/css/how-do-you-set-the-value-in-an-order-list"/>
+        <updated>2021-05-20T12:32:31.000Z</updated>
+        <summary type="html"><![CDATA[Not with CSS, that's how!
+<ol>
+  <li value="3">This is item three.</li>
+  <li value="50">This is item fifty.</li>
+  <li value="100">This is item one hundred.</li>
+</ol>
+
+Result:
+
+  This is item three.
+  This is item fifty.
+  This is item one hundred.
+
+I only I had read the HTML5 Doctor articles we were putting out at the time 🤦]]></summary>
+        <author>
+            <name>remy sharp's b:log</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gmock and gtest on OpenBSD 6.9 hate each other]]></title>
+        <id>https://rachelbythebay.com/w/2021/05/19/gtest/</id>
+        <link href="https://rachelbythebay.com/w/2021/05/19/gtest/"/>
+        <updated>2021-05-20T06:18:07.000Z</updated>
+        <summary type="html"><![CDATA[Here's a fun one.  I've been messing around with an OpenBSD 6.9 image to 
+see just how well my existing code works on a non-Linux environment.  
+Once in a while, I find something unusual and interesting, like a 
+difference in what is supported, and discover a "Linuxism" (or really a
+"glibcism" in most cases) as a result.
+
+
+The OpenBSD system has this available via their ports system, so you can 
+just "pkg_add gtest" and you'll get gtest+gmock 1.8.0p3 on your machine, 
+ready to go.  Trouble is, it's not quit…]]></summary>
+        <author>
+            <name>Writing - rachelbythebay</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multiplayer DOOM - in the browser 😱 [link]]]></title>
         <id>2021-05-19-69040872</id>
@@ -1018,21 +1060,6 @@ Click the image to see the video on youtube.com.
 This should work on any Sony Alpha since the NEX-…]]></summary>
         <author>
             <name>there.oughta.be/</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Layer 1,1 enhanced ULA mode [til/spectrum]]]></title>
-        <id>on-layer-11-enhanced-ula-mode</id>
-        <link href="https://remysharp.com/til/spectrum/on-layer-11-enhanced-ula-mode"/>
-        <updated>2021-03-21T21:22:43.000Z</updated>
-        <summary type="html"><![CDATA[If you want control of the PAPER colour, you'll need to use PALETTE FORMAT and LAYER PALETTE - read on:
-With LAYER 1,1:
-
-To make use of the fuller colour set, you need to enable "Enhanced ULA functionality" which is achieved using the PALETTE FORMAT n routine.
-The PALETTE FORMAT n value is allowed 255, 127, 63, 31, 15, 7, 3, 1 and 0. The pattern here is 255 shifted right.
-To then select a colour for the layer, the LAYER PALETTE 0, i, v routine is used (or a palette can be loaded with LAYER PALETTE 0 BANK n,…]]></summary>
-        <author>
-            <name>remy sharp's b:log</name>
         </author>
     </entry>
 </feed>
