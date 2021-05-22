@@ -16,9 +16,9 @@
   <meta name="robots" content="noindex, nofollow">
   <link rel="preload" as="font" type="font/woff2" href="/fonts/GangsterGrotesk-Bold.woff2" crossorigin="anonymous">
   <link rel="preload" as="font" type="font/woff2" href="/fonts/VictorMono-Thin.woff2" crossorigin="anonymous">
-  <link rel="icon" type="image/svg+xml" href="https://spitlo.com/images/favicon.svg?2021-05-21T00:18:49.583Z">
+  <link rel="icon" type="image/svg+xml" href="https://spitlo.com/images/favicon.svg?2021-05-22T00:18:37.557Z">
   <link rel="alternate" type="application/rss+xml" title="Ajour / Spitlo.com" href="feed.atom">
-  <link href="https://spitlo.com/style.css?2021-05-21T00:18:49.583Z" rel="stylesheet">
+  <link href="https://spitlo.com/style.css?2021-05-22T00:18:37.557Z" rel="stylesheet">
 
   <style>
     body { font-size: 14px }
@@ -59,6 +59,35 @@
 
       <p>Feeds I follow:</p>
 
+        <section class="daily-content">
+          <h2 class="daily-heading"><time datatime="2021-05-21">2021-05-21</time></h2>
+              <article data-source="remy sharp&#x27;s b:log" data-rtime="1">
+                <h3><a href=https://remysharp.com/til/cli/when-fd-shows-no-files>When fd shows no files [til/cli]</a></h3>
+                <ul class="meta">
+                  <li><span class="label">Source:</span> <a href=https://remysharp.com>remy sharp&#x27;s b:log</a></li>
+                  <li><span class="label">Date:</span> <time datetime="2021-05-21T11:39:58.000Z">2021-05-21</time></li>
+                  <li><span class="label">Reading time:</span> <time>1 min</time></li>
+                  <li><span class="label">Words</span> <time>320</time></li>
+                </ul>
+                <p>I&#x27;m a big fan of fd and use it as a part of my dev workflow as it&#x27;s way easier than find.
+I&#x27;ve used it to convert files on the fly for ingest, specifically converting xlsx to csv en mass.
+This is the command I was running:
+$ fd . -e xlsx -x sh -c &quot;in2csv &#x27;{}&#x27; &gt; &#x27;{.}&#x27;.csv&quot;
+
+This finds all the files that end with xlsx (using -e) and executes (-x) a shell command that passes the full filename {} to in2csv (part of the csvkit tools) and outputs to the basename {.} with .csv appended.
+Except I found that this wo…</p>
+              </article>
+              <article data-source="Lea Verou" data-rtime="2">
+                <h3><a href=http://feedproxy.google.com/~r/leaverou/~3/XVz0-NIdRMM/>82% of developers get this 3 line CSS quiz wrong</a></h3>
+                <ul class="meta">
+                  <li><span class="label">Source:</span> <a href=https://lea.verou.me>Lea Verou</a></li>
+                  <li><span class="label">Date:</span> <time datetime="2021-05-21T15:13:16.000Z">2021-05-21</time></li>
+                  <li><span class="label">Reading time:</span> <time>2 min</time></li>
+                  <li><span class="label">Words</span> <time>656</time></li>
+                </ul>
+                <p>(I always wanted to do a clickbait title like this and when this chance came along I could not pass it up. 😅 Sorry!) While putting my ideas into slides for my Dynamic CSS workshop for next week, I was working on a slide explaining how the CSS wide keywords work with custom properties. inherit, […]</p>
+              </article>
+        </section>
         <section class="daily-content">
           <h2 class="daily-heading"><time datatime="2021-05-20">2021-05-20</time></h2>
               <article data-source="remy sharp&#x27;s b:log" data-rtime="1">
@@ -1199,44 +1228,10 @@ Given this, it made me wonder how many things I&#x27;ve woven into my head at…
 I&#x27;ve been doing code reviews since the early 2000s. It&#x27;s taken me some twenty years to finally articulate that they&#x27;re not that useful - or certainly not useful in the form I&#x27;ve seen them in the first two decades of my career.</p>
               </article>
         </section>
-        <section class="daily-content">
-          <h2 class="daily-heading"><time datatime="2021-03-23">2021-03-23</time></h2>
-              <article data-source="remy sharp&#x27;s b:log" data-rtime="2">
-                <h3><a href=https://remysharp.com/devlog/marbles2/2021-03-23>Marbles2 - 23-Mar 2021 [devlog/marbles2]</a></h3>
-                <ul class="meta">
-                  <li><span class="label">Source:</span> <a href=https://remysharp.com>remy sharp&#x27;s b:log</a></li>
-                  <li><span class="label">Date:</span> <time datetime="2021-03-23T00:00:00.000Z">2021-03-23</time></li>
-                  <li><span class="label">Reading time:</span> <time>2 min</time></li>
-                  <li><span class="label">Words</span> <time>607</time></li>
-                </ul>
-                <p>It&#x27;s been a while since posting any progress on this project, but I&#x27;ve been working away quietly.
-What&#x27;s nice about Marbles is that because the game is so familiar to me, it let&#x27;s me spend time experimenting in areas that are typically out of reach.
-The bulk of the work I&#x27;ve done over the last few months has been all in assembly. The performance of the logic and maths work in NextBASIC was too slow, so I moved it all into a machine code library that I can call from NextBASIC.
-I was able to use the excellent…</p>
-              </article>
-        </section>
-        <section class="daily-content">
-          <h2 class="daily-heading"><time datatime="2021-03-22">2021-03-22</time></h2>
-              <article data-source="there.oughta.be/" data-rtime="10">
-                <h3><a href=https://there.oughta.be/a/photo-trap>There oughta be a photo trap.</a></h3>
-                <ul class="meta">
-                  <li><span class="label">Source:</span> <a href=https://there.oughta.be/>there.oughta.be/</a></li>
-                  <li><span class="label">Date:</span> <time datetime="2021-03-22T23:00:00.000Z">2021-03-22</time></li>
-                  <li><span class="label">Reading time:</span> <time>10 min</time></li>
-                  <li><span class="label">Words</span> <time>2877</time></li>
-                </ul>
-                <p>Recently a squirrel noticed our nut box that was waiting to be raided for almost a year now. But as our squirrels here are a but skittish, I needed to come up with a way to get in close to take nice pictures of them.
-Remembering my project where I used my old Sony Alpha NEX-5T for 3d printing timelapses, I decided to set up a photo trap based on the Wifi remote feature of this camera and it worked perfectly:
-Click the image to see the video on youtube.com.
-
-
-This should work on any Sony Alpha since the NEX-…</p>
-              </article>
-        </section>
 
       <footer>
         <section class="details">
-          <span class="detail">Built @ 2021-05-21T00:18:49.583Z</span>
+          <span class="detail">Built @ 2021-05-22T00:18:37.557Z</span>
           <span class="divider">|</span>
           <span class="detail">CLI: 1.7.2</span>
           <span class="divider">|</span>

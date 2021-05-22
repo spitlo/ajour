@@ -133,15 +133,6 @@
           "publishedOn": "2021-04-04T22:00:00.000Z",
           "wordCount": 2951,
           "title": "There oughta be a smart doorbell."
-        },
-        {
-          "id": "https://there.oughta.be/a/photo-trap",
-          "author": null,
-          "description": "Recently a squirrel noticed our nut box that was waiting to be raided for almost a year now. But as our squirrels here are a but skittish, I needed to come up with a way to get in close to take nice pictures of them.\nRemembering my project where I used my old Sony Alpha NEX-5T for 3d printing timelapses, I decided to set up a photo trap based on the Wifi remote feature of this camera and it worked perfectly:\nClick the image to see the video on youtube.com.\n\n\nThis should work on any Sony Alpha since the NEX-…",
-          "link": "https://there.oughta.be/a/photo-trap",
-          "publishedOn": "2021-03-22T23:00:00.000Z",
-          "wordCount": 2877,
-          "title": "There oughta be a photo trap."
         }
       ]
     },
@@ -270,6 +261,15 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "when-fd-shows-no-files",
+          "author": null,
+          "description": "I'm a big fan of fd and use it as a part of my dev workflow as it's way easier than find.\nI've used it to convert files on the fly for ingest, specifically converting xlsx to csv en mass.\nThis is the command I was running:\n$ fd . -e xlsx -x sh -c \"in2csv '{}' > '{.}'.csv\"\n\nThis finds all the files that end with xlsx (using -e) and executes (-x) a shell command that passes the full filename {} to in2csv (part of the csvkit tools) and outputs to the basename {.} with .csv appended.\nExcept I found that this wo…",
+          "link": "https://remysharp.com/til/cli/when-fd-shows-no-files",
+          "publishedOn": "2021-05-21T11:39:58.000Z",
+          "wordCount": 320,
+          "title": "When fd shows no files [til/cli]"
+        },
         {
           "id": "how-do-you-set-the-value-in-an-order-list",
           "author": null,
@@ -440,15 +440,6 @@
           "publishedOn": "2021-03-24T00:00:00.000Z",
           "wordCount": 1181,
           "title": "The mythical code review [blog]"
-        },
-        {
-          "id": "2021-03-23",
-          "author": null,
-          "description": "It's been a while since posting any progress on this project, but I've been working away quietly.\nWhat's nice about Marbles is that because the game is so familiar to me, it let's me spend time experimenting in areas that are typically out of reach.\nThe bulk of the work I've done over the last few months has been all in assembly. The performance of the logic and maths work in NextBASIC was too slow, so I moved it all into a machine code library that I can call from NextBASIC.\nI was able to use the excellent…",
-          "link": "https://remysharp.com/devlog/marbles2/2021-03-23",
-          "publishedOn": "2021-03-23T00:00:00.000Z",
-          "wordCount": 607,
-          "title": "Marbles2 - 23-Mar 2021 [devlog/marbles2]"
         }
       ]
     },
@@ -568,6 +559,15 @@
       "feedUrl": "https://feeds.feedburner.com/leaverou",
       "siteUrl": "https://lea.verou.me",
       "articles": [
+        {
+          "id": "https://lea.verou.me/?p=3347",
+          "author": "Lea Verou",
+          "description": "(I always wanted to do a clickbait title like this and when this chance came along I could not pass it up. 😅 Sorry!) While putting my ideas into slides for my Dynamic CSS workshop for next week, I was working on a slide explaining how the CSS wide keywords work with custom properties. inherit, […]",
+          "link": "http://feedproxy.google.com/~r/leaverou/~3/XVz0-NIdRMM/",
+          "publishedOn": "2021-05-21T15:13:16.000Z",
+          "wordCount": 656,
+          "title": "82% of developers get this 3 line CSS quiz wrong"
+        },
         {
           "id": "https://lea.verou.me/?p=3293",
           "author": "Lea Verou",
