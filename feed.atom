@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-05-22T00:18:37.579Z</updated>
+    <updated>2021-05-23T00:21:04.416Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
@@ -30,6 +30,15 @@ This finds all the files that end with xlsx (using -e) and executes (-x) a shell
 Except I found that this wo…]]></summary>
         <author>
             <name>remy sharp's b:log</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Your Classroom]]></title>
+        <id>https://xkcd.com/2466/</id>
+        <link href="https://xkcd.com/2466/"/>
+        <updated>2021-05-21T00:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -1047,17 +1056,6 @@ Given this, it made me wonder how many things I've woven into my head at…]]></
 If you’re a frequent reader of this blog, then you’ve most likely already seen what a horizontal rule…]]></summary>
         <author>
             <name>Blog on SaraSoueidan.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The mythical code review [blog]]]></title>
-        <id>the-mythical-code-review</id>
-        <link href="https://remysharp.com/2021/03/24/the-mythical-code-review"/>
-        <updated>2021-03-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[For anyone who's worked in a development team (that involves code) and more than a single individual then the idea of a code review is going to have floated past your bow at some point or another.
-I've been doing code reviews since the early 2000s. It's taken me some twenty years to finally articulate that they're not that useful - or certainly not useful in the form I've seen them in the first two decades of my career.]]></summary>
-        <author>
-            <name>remy sharp's b:log</name>
         </author>
     </entry>
 </feed>
