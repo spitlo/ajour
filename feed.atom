@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-05-23T00:21:04.416Z</updated>
+    <updated>2021-05-24T00:19:24.123Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[There oughta be a Blender plugin to animate growth.]]></title>
+        <id>https://there.oughta.be/a/blender-plugin-to-animate-growth</id>
+        <link href="https://there.oughta.be/a/blender-plugin-to-animate-growth"/>
+        <updated>2021-05-23T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I have created a Blender plugin that takes an image texture with some structure and generates an animation of how this structure grows. To be more precise, it creates a non-color data image with the animation information that can be used in a shader. Since animations are hard to describe in words or individual images, I highly recommend the video describing this plugin.
+Click the image to see the video on youtube.com.
+
+
+If you are only looking for specific information or the download of the plugin, have a l…]]></summary>
+        <author>
+            <name>there.oughta.be/</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reader feedback on CPUs: pay attention to those frequencies]]></title>
+        <id>https://rachelbythebay.com/w/2021/05/22/cpu/</id>
+        <link href="https://rachelbythebay.com/w/2021/05/22/cpu/"/>
+        <updated>2021-05-23T03:38:00.000Z</updated>
+        <summary type="html"><![CDATA[A couple of days ago, I
+wrote
+about how CPU utilization has a bunch of weird and wacky measurements 
+and how there's a bunch of inconsistent vocabulary to boot.
+
+
+It's been a long time since CPU frequencies have been a simple thing.  
+Ever since Intel dropped the
+"DX2"
+line of 486s onto the world in 1992, we've had to pay careful attention 
+to what we're actually buying.  At the time, there were 25 and 33 MHz 
+486s, and then there was a "66 MHz" 486 (the DX2), but that was the 
+internal frequency.  External…]]></summary>
+        <author>
+            <name>Writing - rachelbythebay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A couple of ways to highlight code syntax in Apple Keynote slides]]></title>
+        <id>https://sarasoueidan.com/blog/copy-paste-from-vscode-to-keynote/</id>
+        <link href="https://sarasoueidan.com/blog/copy-paste-from-vscode-to-keynote/"/>
+        <updated>2021-05-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple Keynote doesn’t come with code syntax highlighting built in. I really wish it did, and hope that Apple would at some point add this feature, especially considering how many developers and engineers use Keynote to create talk slides.
+Seven years ago, I used to take screenshots of code snippets to include them in my presentations. That was very impractical. If I wanted to make changes to the code, I’d have to rewrite it, take a screenshot again, and copy-paste it into Keynote once again. That soon becam…]]></summary>
+        <author>
+            <name>Blog on SaraSoueidan.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[82% of developers get this 3 line CSS quiz wrong]]></title>
         <id>https://lea.verou.me/?p=3347</id>
@@ -1026,36 +1073,6 @@ ENDPROC
 This POKE is based on a few ideas. First that when we land in machine code, that BC is the address of entry. So when the code return…]]></summary>
         <author>
             <name>remy sharp's b:log</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compile times, and why "the obvious" might not be so]]></title>
-        <id>https://rachelbythebay.com/w/2021/03/24/comp/</id>
-        <link href="https://rachelbythebay.com/w/2021/03/24/comp/"/>
-        <updated>2021-03-25T02:57:04.000Z</updated>
-        <summary type="html"><![CDATA[One of the double-edged swords about having done some of this work for a 
-while is that I have a bunch of random things that I take for granted.  
-These are mostly just bits of data and other knowledge that I picked up 
-a long time ago and don't even talk about any more.  This is actually a 
-bad thing in certain situations, since everyone comes from a slightly 
-different place in terms of what they know and do and their 
-specialties.
-
-
-Given this, it made me wonder how many things I've woven into my head at…]]></summary>
-        <author>
-            <name>Writing - rachelbythebay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Not Your Typical Horizontal Rules]]></title>
-        <id>https://sarasoueidan.com/blog/horizontal-rules/</id>
-        <link href="https://sarasoueidan.com/blog/horizontal-rules/"/>
-        <updated>2021-03-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The HTML <hr> element adds a horizontal rule (or line) wherever you place it. A horizontal rule is used to provide a visual break and divide content. Like other HTML elements, horizontal rules can be styled using CSS (and SVG). This means that they don’t have to look like boring, plain horizontal lines. You can get a little creative with them, adding a nice little personal touch to your content and designs.
-If you’re a frequent reader of this blog, then you’ve most likely already seen what a horizontal rule…]]></summary>
-        <author>
-            <name>Blog on SaraSoueidan.com</name>
         </author>
     </entry>
 </feed>

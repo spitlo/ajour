@@ -74,6 +74,15 @@
       "siteUrl": "https://sarasoueidan.com/blog/",
       "articles": [
         {
+          "id": "https://sarasoueidan.com/blog/copy-paste-from-vscode-to-keynote/",
+          "author": null,
+          "description": "Apple Keynote doesn’t come with code syntax highlighting built in. I really wish it did, and hope that Apple would at some point add this feature, especially considering how many developers and engineers use Keynote to create talk slides.\nSeven years ago, I used to take screenshots of code snippets to include them in my presentations. That was very impractical. If I wanted to make changes to the code, I’d have to rewrite it, take a screenshot again, and copy-paste it into Keynote once again. That soon becam…",
+          "link": "https://sarasoueidan.com/blog/copy-paste-from-vscode-to-keynote/",
+          "publishedOn": "2021-05-23T00:00:00.000Z",
+          "wordCount": 647,
+          "title": "A couple of ways to highlight code syntax in Apple Keynote slides"
+        },
+        {
           "id": "https://sarasoueidan.com/blog/tips-for-reader-modes/",
           "author": null,
           "description": "Our content will not always look the way we expect it or want it to. Many apps, tools, and environments that people use to browse the Web strip our content of our CSS and apply their own styles to it. And unless we always keep that in mind, we risk creating incomplete or even broken experiences for users of those technologies or tools.\nYou might be reading this very blog post in a reading app right now, or maybe even listening to it being read out loud to you. In either case, the visual style enhancements I…",
@@ -108,15 +117,6 @@
           "publishedOn": "2021-04-01T00:00:00.000Z",
           "wordCount": 1767,
           "title": "🛠 Redesigning and rebuilding my Web site from the ground up"
-        },
-        {
-          "id": "https://sarasoueidan.com/blog/horizontal-rules/",
-          "author": null,
-          "description": "The HTML <hr> element adds a horizontal rule (or line) wherever you place it. A horizontal rule is used to provide a visual break and divide content. Like other HTML elements, horizontal rules can be styled using CSS (and SVG). This means that they don’t have to look like boring, plain horizontal lines. You can get a little creative with them, adding a nice little personal touch to your content and designs.\nIf you’re a frequent reader of this blog, then you’ve most likely already seen what a horizontal rule…",
-          "link": "https://sarasoueidan.com/blog/horizontal-rules/",
-          "publishedOn": "2021-03-25T00:00:00.000Z",
-          "wordCount": 1961,
-          "title": "Not Your Typical Horizontal Rules"
         }
       ]
     },
@@ -125,6 +125,15 @@
       "feedUrl": "https://there.oughta.be/feed.xml",
       "siteUrl": "https://there.oughta.be/",
       "articles": [
+        {
+          "id": "https://there.oughta.be/a/blender-plugin-to-animate-growth",
+          "author": null,
+          "description": "I have created a Blender plugin that takes an image texture with some structure and generates an animation of how this structure grows. To be more precise, it creates a non-color data image with the animation information that can be used in a shader. Since animations are hard to describe in words or individual images, I highly recommend the video describing this plugin.\nClick the image to see the video on youtube.com.\n\n\nIf you are only looking for specific information or the download of the plugin, have a l…",
+          "link": "https://there.oughta.be/a/blender-plugin-to-animate-growth",
+          "publishedOn": "2021-05-23T22:00:00.000Z",
+          "wordCount": 1755,
+          "title": "There oughta be a Blender plugin to animate growth."
+        },
         {
           "id": "https://there.oughta.be/a/smart-doorbell",
           "author": null,
@@ -449,6 +458,15 @@
       "siteUrl": "https://rachelbythebay.com/w/",
       "articles": [
         {
+          "id": "https://rachelbythebay.com/w/2021/05/22/cpu/",
+          "author": null,
+          "description": "A couple of days ago, I\nwrote\nabout how CPU utilization has a bunch of weird and wacky measurements \nand how there's a bunch of inconsistent vocabulary to boot.\n\n\nIt's been a long time since CPU frequencies have been a simple thing.  \nEver since Intel dropped the\n\"DX2\"\nline of 486s onto the world in 1992, we've had to pay careful attention \nto what we're actually buying.  At the time, there were 25 and 33 MHz \n486s, and then there was a \"66 MHz\" 486 (the DX2), but that was the \ninternal frequency.  External…",
+          "link": "https://rachelbythebay.com/w/2021/05/22/cpu/",
+          "publishedOn": "2021-05-23T03:38:00.000Z",
+          "wordCount": 938,
+          "title": "Reader feedback on CPUs: pay attention to those frequencies"
+        },
+        {
           "id": "https://rachelbythebay.com/w/2021/05/19/gtest/",
           "author": null,
           "description": "Here's a fun one.  I've been messing around with an OpenBSD 6.9 image to \nsee just how well my existing code works on a non-Linux environment.  \nOnce in a while, I find something unusual and interesting, like a \ndifference in what is supported, and discover a \"Linuxism\" (or really a\n\"glibcism\" in most cases) as a result.\n\n\nThe OpenBSD system has this available via their ports system, so you can \njust \"pkg_add gtest\" and you'll get gtest+gmock 1.8.0p3 on your machine, \nready to go.  Trouble is, it's not quit…",
@@ -501,15 +519,6 @@
           "publishedOn": "2021-05-02T04:51:23.000Z",
           "wordCount": 899,
           "title": "The chilling effect versus attempts to fix things"
-        },
-        {
-          "id": "https://rachelbythebay.com/w/2021/03/24/comp/",
-          "author": null,
-          "description": "One of the double-edged swords about having done some of this work for a \nwhile is that I have a bunch of random things that I take for granted.  \nThese are mostly just bits of data and other knowledge that I picked up \na long time ago and don't even talk about any more.  This is actually a \nbad thing in certain situations, since everyone comes from a slightly \ndifferent place in terms of what they know and do and their \nspecialties.\n\n\nGiven this, it made me wonder how many things I've woven into my head at…",
-          "link": "https://rachelbythebay.com/w/2021/03/24/comp/",
-          "publishedOn": "2021-03-25T02:57:04.000Z",
-          "wordCount": 1334,
-          "title": "Compile times, and why \"the obvious\" might not be so"
         }
       ]
     },
