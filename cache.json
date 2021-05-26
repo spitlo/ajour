@@ -289,6 +289,15 @@
       "siteUrl": "https://remysharp.com",
       "articles": [
         {
+          "id": "notes-on-neptuno",
+          "author": null,
+          "description": "I recently - randomly - bought myself a neptUNO FPGA machine, which is somewhere between a MiST and a MiSTer machine.\nThe neptUNO works well as a middle weight retro gaming/platform machine. It can run Spectrum (and the new Spectrum Next), C64, NES, Megadrive, SNES, PC Engine, Amiga 500, Vectrex, original arcade like Galaxian and Bubble Bobble and some more. To run the \"core\" it does require that someone has written the code to program the FPGA but there's a pretty good collection already available.",
+          "link": "https://remysharp.com/2021/05/25/notes-on-neptuno",
+          "publishedOn": "2021-05-25T00:00:00.000Z",
+          "wordCount": 1932,
+          "title": "Notes on neptUNO [blog]"
+        },
+        {
           "id": "when-fd-shows-no-files",
           "author": null,
           "description": "I'm a big fan of fd and use it as a part of my dev workflow as it's way easier than find.\nI've used it to convert files on the fly for ingest, specifically converting xlsx to csv en mass.\nThis is the command I was running:\n$ fd . -e xlsx -x sh -c \"in2csv '{}' > '{.}'.csv\"\n\nThis finds all the files that end with xlsx (using -e) and executes (-x) a shell command that passes the full filename {} to in2csv (part of the csvkit tools) and outputs to the basename {.} with .csv appended.\nExcept I found that this wo…",
