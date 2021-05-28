@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-05-27T00:27:44.555Z</updated>
+    <updated>2021-05-28T00:31:17.295Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
@@ -1113,27 +1113,6 @@ After we eat and drink, we excrete into toilets, which use water to flush our ef
         <summary type="html"><![CDATA[Jon Corbett's languages Cree# and Ancestral Code allow programming in Cree keywords using Cree concepts and metaphors. In addition to this language, Corbett's PhD research has led to his Indigenous Coding Framework, a work-in-progress that will help other Indigenous communities bring to computation not only their languages but their cultural logic and values as well. Corbett describes the challenges of this work, from the danger of accidentally including colonial understandings in such a system, to working …]]></summary>
         <author>
             <name>esoteric.codes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Detecting (Next) Emulator or Hardware [til/spectrum]]]></title>
-        <id>detecting-emulator-or-hardware</id>
-        <link href="https://remysharp.com/til/spectrum/detecting-emulator-or-hardware"/>
-        <updated>2021-03-28T21:38:22.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes useful, I've certainly run into bugs with emulation vs. real machines.
-DEFPROC isReal()
-  ; dw $01DD : nop : nop : ret
-  POKE %$4000, %$dd, 1, 0, 0, %$c9
-  v= USR 16384 :; can't use integer values here - important
-  IF v=16384 THEN ENDPROC= 0 :; CSpect emulator
-  v= % REG 0
-  IF v = 8 THEN ENDPROC= 0 :; ZESarux emulator
-  IF v = 10 THEN ENDPROC= 1:; real h/w
-ENDPROC
-
-This POKE is based on a few ideas. First that when we land in machine code, that BC is the address of entry. So when the code return…]]></summary>
-        <author>
-            <name>remy sharp's b:log</name>
         </author>
     </entry>
 </feed>

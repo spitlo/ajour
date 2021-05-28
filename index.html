@@ -16,9 +16,9 @@
   <meta name="robots" content="noindex, nofollow">
   <link rel="preload" as="font" type="font/woff2" href="/fonts/GangsterGrotesk-Bold.woff2" crossorigin="anonymous">
   <link rel="preload" as="font" type="font/woff2" href="/fonts/VictorMono-Thin.woff2" crossorigin="anonymous">
-  <link rel="icon" type="image/svg+xml" href="https://spitlo.com/images/favicon.svg?2021-05-27T00:27:44.532Z">
+  <link rel="icon" type="image/svg+xml" href="https://spitlo.com/images/favicon.svg?2021-05-28T00:31:17.273Z">
   <link rel="alternate" type="application/rss+xml" title="Ajour / Spitlo.com" href="feed.atom">
-  <link href="https://spitlo.com/style.css?2021-05-27T00:27:44.532Z" rel="stylesheet">
+  <link href="https://spitlo.com/style.css?2021-05-28T00:31:17.273Z" rel="stylesheet">
 
   <style>
     body { font-size: 14px }
@@ -1288,34 +1288,10 @@ After we eat and drink, we excrete into toilets, which use water to flush our ef
                 <p>By now, you probably know that you can use custom properties for individual color components, to avoid repeating the same color coordinates multiple times throughout your theme. You may even know that you can use the same variable for multiple components, e.g. HSL hue and lightness: Here is a very simple page designed with this […]</p>
               </article>
         </section>
-        <section class="daily-content">
-          <h2 class="daily-heading"><time datatime="2021-03-28">2021-03-28</time></h2>
-              <article data-source="remy sharp&#x27;s b:log" data-rtime="1">
-                <h3><a href=https://remysharp.com/til/spectrum/detecting-emulator-or-hardware>Detecting (Next) Emulator or Hardware [til/spectrum]</a></h3>
-                <ul class="meta">
-                  <li><span class="label">Source:</span> <a href=https://remysharp.com>remy sharp&#x27;s b:log</a></li>
-                  <li><span class="label">Date:</span> <time datetime="2021-03-28T21:38:22.000Z">2021-03-28</time></li>
-                  <li><span class="label">Reading time:</span> <time>1 min</time></li>
-                  <li><span class="label">Words</span> <time>357</time></li>
-                </ul>
-                <p>Sometimes useful, I&#x27;ve certainly run into bugs with emulation vs. real machines.
-DEFPROC isReal()
-  ; dw $01DD : nop : nop : ret
-  POKE %$4000, %$dd, 1, 0, 0, %$c9
-  v&#x3D; USR 16384 :; can&#x27;t use integer values here - important
-  IF v&#x3D;16384 THEN ENDPROC&#x3D; 0 :; CSpect emulator
-  v&#x3D; % REG 0
-  IF v &#x3D; 8 THEN ENDPROC&#x3D; 0 :; ZESarux emulator
-  IF v &#x3D; 10 THEN ENDPROC&#x3D; 1:; real h/w
-ENDPROC
-
-This POKE is based on a few ideas. First that when we land in machine code, that BC is the address of entry. So when the code return…</p>
-              </article>
-        </section>
 
       <footer>
         <section class="details">
-          <span class="detail">Built @ 2021-05-27T00:27:44.532Z</span>
+          <span class="detail">Built @ 2021-05-28T00:31:17.273Z</span>
           <span class="divider">|</span>
           <span class="detail">CLI: 1.7.2</span>
           <span class="divider">|</span>

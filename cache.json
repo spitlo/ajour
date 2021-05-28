@@ -467,15 +467,6 @@
           "publishedOn": "2021-04-14T00:00:00.000Z",
           "wordCount": 1103,
           "title": "Building a PS/2 remote keyboard [blog]"
-        },
-        {
-          "id": "detecting-emulator-or-hardware",
-          "author": null,
-          "description": "Sometimes useful, I've certainly run into bugs with emulation vs. real machines.\nDEFPROC isReal()\n  ; dw $01DD : nop : nop : ret\n  POKE %$4000, %$dd, 1, 0, 0, %$c9\n  v= USR 16384 :; can't use integer values here - important\n  IF v=16384 THEN ENDPROC= 0 :; CSpect emulator\n  v= % REG 0\n  IF v = 8 THEN ENDPROC= 0 :; ZESarux emulator\n  IF v = 10 THEN ENDPROC= 1:; real h/w\nENDPROC\n\nThis POKE is based on a few ideas. First that when we land in machine code, that BC is the address of entry. So when the code return…",
-          "link": "https://remysharp.com/til/spectrum/detecting-emulator-or-hardware",
-          "publishedOn": "2021-03-28T21:38:22.000Z",
-          "wordCount": 357,
-          "title": "Detecting (Next) Emulator or Hardware [til/spectrum]"
         }
       ]
     },
