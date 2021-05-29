@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-05-29T00:40:08.344Z</updated>
+    <updated>2021-05-29T09:52:52.688Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building a more privacy preserving ads-based ecosystem]]></title>
+        <id>https://blog.mozilla.org/?p=65766</id>
+        <link href="https://blog.mozilla.org/en/mozilla/building-a-more-privacy-preserving-ads-based-ecosystem/"/>
+        <updated>2021-05-29T02:46:22.000Z</updated>
+        <summary type="html"><![CDATA[Advertising is central to the internet economy. It funds many free products and services. But it is also very intrusive. It is powered by ubiquitous surveillance and it is used in ways that harm individuals and society. The advertising ecosystem is fundamentally broken in its current form. Advertising does not need to harm consumer privacy. […]
+The post Building a more privacy preserving ads-based ecosystem appeared first on The Mozilla Blog.]]></summary>
+        <author>
+            <name>Mozilla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The future of ads and privacy]]></title>
+        <id>https://blog.mozilla.org/?p=65769</id>
+        <link href="https://blog.mozilla.org/en/mozilla/the-future-of-ads-and-privacy/"/>
+        <updated>2021-05-29T02:45:31.000Z</updated>
+        <summary type="html"><![CDATA[The modern web is funded by advertisements. Advertisements pay for all those “free” services you love, as well as many of the products you use on a daily basis — including Firefox. There’s nothing inherently wrong with advertising: Mozilla’s Principle #9 states that “Commercial involvement in the development of the internet brings many benefits.” However, […]
+The post The future of ads and privacy appeared first on The Mozilla Blog.]]></summary>
+        <author>
+            <name>Eric Rescorla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astronomy Status Board]]></title>
+        <id>https://xkcd.com/2469/</id>
+        <link href="https://xkcd.com/2469/"/>
+        <updated>2021-05-28T00:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zeke Smith on internet haters, Survivor and sending support to people online]]></title>
         <id>https://blog.mozilla.org/?p=65598</id>
@@ -1352,26 +1383,6 @@ tar -xf dnspeep-linux.tar.gz
 sudo…]]></summary>
         <author>
             <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dark mode in 5 minutes, with inverted lightness variables]]></title>
-        <id>https://lea.verou.me/?p=3293</id>
-        <link href="http://feedproxy.google.com/~r/leaverou/~3/274lkp8fcPY/"/>
-        <updated>2021-03-30T17:40:36.000Z</updated>
-        <summary type="html"><![CDATA[By now, you probably know that you can use custom properties for individual color components, to avoid repeating the same color coordinates multiple times throughout your theme. You may even know that you can use the same variable for multiple components, e.g. HSL hue and lightness: Here is a very simple page designed with this […]]]></summary>
-        <author>
-            <name>Lea Verou</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Magical 3D Button]]></title>
-        <id>https://www.joshwcomeau.com/animation/3d-button/</id>
-        <link href="https://www.joshwcomeau.com/animation/3d-button/"/>
-        <updated>2021-03-30T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Every action we take on the web starts with a button click, and yet most buttons are ho-hum and uninspired. In this tutorial, we'll build an animated 3D button with HTML and CSS that sparks joy.]]></summary>
-        <author>
-            <name>Josh W. Comeau</name>
         </author>
     </entry>
 </feed>
