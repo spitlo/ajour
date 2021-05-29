@@ -24,7 +24,7 @@
       body { font-size: 14px; }
       body.framed footer { display: none; }
       #closer { display: none; }
-      body.framed #closer { display: block; }
+      body.framed #closer { display: block; position: fixed; top: 0; left: 48rem; cursor: pointer; font-family: "Victor Mono", "Courier New", monospace; }
       article { border-bottom: 1px solid #eee; margin-bottom: 2.4em; max-width: 48rem; padding-bottom: 1.2em; }
     </style>
   </head>
@@ -36,7 +36,8 @@
       <main>
         <h1>Spitlo.com: Ajour</h1>
 
-        <p>Feeds I follow:</p>
+        <p>These are the latest updates from some feeds I follow. Updated once a day.</p>
+        <p>VIsit <a target="_blank" rel="noopener noreferrer" href="https://github.com/osmoscraft/osmosfeed">osmos::feed</a> for more info or to make your own custom feed reader.</p>
 
         {{#each dates}}
           <section class="daily-content">
