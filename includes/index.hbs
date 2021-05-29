@@ -1,74 +1,82 @@
 <!doctype html>
 <html lang="en" class="noJS">
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="apple-mobile-web-app-capable" content="yes">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
 
-  <script type="module">
-    document.documentElement.classList.remove('noJS');
-    document.documentElement.classList.add('js');
+    <script type="module">
+      document.documentElement.classList.remove('noJS');
+      document.documentElement.classList.add('js');
+    </script>
+
+    <title>{{siteTitle}}</title>
+
+    <meta name="robots" content="noindex, nofollow">
+    <link rel="preload" as="font" type="font/woff2" href="/fonts/GangsterGrotesk-Bold.woff2" crossorigin="anonymous">
+    <link rel="preload" as="font" type="font/woff2" href="/fonts/VictorMono-Thin.woff2" crossorigin="anonymous">
+    <link rel="icon" type="image/svg+xml" href="https://spitlo.com/images/favicon.svg?{{siteBuildTimestamp}}">
+    <link rel="alternate" type="application/rss+xml" title="{{siteTitle}}" href="{{feedHref}}">
+    <link href="https://spitlo.com/style.css?{{siteBuildTimestamp}}" rel="stylesheet">
+
+    <style>
+      body { font-size: 14px; }
+      body.framed footer { display: none; }
+      #closer { display: none; }
+      body.framed #closer { display: block; }
+      article { border-bottom: 1px solid #eee; margin-bottom: 2.4em; max-width: 48rem; padding-bottom: 1.2em; }
+    </style>
+  </head>
+
+  <body>
+    <div id="closer">[✕]</div>
+
+    <div class="contentWrapper {{ content_class }}">
+      <main>
+        <h1>Spitlo.com: Ajour</h1>
+
+        <p>Feeds I follow:</p>
+
+        {{#each dates}}
+          <section class="daily-content">
+            <h2 class="daily-heading"><time datatime="{{isoPublishDate}}">{{isoPublishDate}}</time></h2>
+              {{#each articles}}
+                <article data-source="{{source.title}}" data-rtime="{{readingTimeInMin}}">
+                  <h3><a target="_blank" rel="noopener noreferrer" href={{link}}>{{title}}</a></h3>
+                  <ul class="meta">
+                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href={{source.siteUrl}}>{{source.title}}</a></li>
+                    <li><span class="label">Date:</span> <time datetime="{{ publishedOn }}">{{isoPublishDate}}</time></li>
+                    <li><span class="label">Reading time:</span> <time>{{readingTimeInMin}} min</time></li>
+                    <li><span class="label">Words</span> <time>{{wordCount}}</time></li>
+                  </ul>
+                  <p>{{description}}</p>
+                </article>
+              {{/each}}
+          </section>
+        {{/each}}
+
+        <footer>
+          <section class="details">
+            <span class="detail">Built @ {{siteBuildTimestamp}}</span>
+            <span class="divider">|</span>
+            <span class="detail">CLI: {{cliVersion}}</span>
+            <span class="divider">|</span>
+            <span class="detail">Docs: <a target="_blank" rel="noopener noreferrer" href="{{projectUrl}}">{{projectUrl}}</a></span>
+            <span class="divider">|</span>
+          </section>
+        </footer>
+      </main>
+    </div>
+  </body>
+
+  <script>
+    const frameElement = window.frameElement
+    if (frameElement) {
+      document.body.className = 'framed'
+      document.getElementById('closer').onclick = () => {
+        frameElement.parentElement.remove()
+      }
+    }
   </script>
-
-  <title>{{siteTitle}}</title>
-
-  <meta name="robots" content="noindex, nofollow">
-  <link rel="preload" as="font" type="font/woff2" href="/fonts/GangsterGrotesk-Bold.woff2" crossorigin="anonymous">
-  <link rel="preload" as="font" type="font/woff2" href="/fonts/VictorMono-Thin.woff2" crossorigin="anonymous">
-  <link rel="icon" type="image/svg+xml" href="https://spitlo.com/images/favicon.svg?{{siteBuildTimestamp}}">
-  <link rel="alternate" type="application/rss+xml" title="{{siteTitle}}" href="{{feedHref}}">
-  <link href="https://spitlo.com/style.css?{{siteBuildTimestamp}}" rel="stylesheet">
-
-  <style>
-    body { font-size: 14px }
-    article { border-bottom: 1px solid #eee; margin-bottom: 2.4em; max-width: 48rem; padding-bottom: 1.2em }
-  </style>
-
-  <!-- %before-head-end.html% -->
-</head>
-
-<body>
-  <!-- %after-body-begin.html% -->
-
-  <div class="contentWrapper {{ content_class }}">
-    <main>
-      <h1>Spitlo.com: Ajour</h1>
-
-      <p>Feeds I follow:</p>
-
-      {{#each dates}}
-        <section class="daily-content">
-          <h2 class="daily-heading"><time datatime="{{isoPublishDate}}">{{isoPublishDate}}</time></h2>
-            {{#each articles}}
-              <article data-source="{{source.title}}" data-rtime="{{readingTimeInMin}}">
-                <h3><a href={{link}}>{{title}}</a></h3>
-                <ul class="meta">
-                  <li><span class="label">Source:</span> <a href={{source.siteUrl}}>{{source.title}}</a></li>
-                  <li><span class="label">Date:</span> <time datetime="{{ publishedOn }}">{{isoPublishDate}}</time></li>
-                  <li><span class="label">Reading time:</span> <time>{{readingTimeInMin}} min</time></li>
-                  <li><span class="label">Words</span> <time>{{wordCount}}</time></li>
-                </ul>
-                <p>{{description}}</p>
-              </article>
-            {{/each}}
-        </section>
-      {{/each}}
-
-      <footer>
-        <section class="details">
-          <span class="detail">Built @ {{siteBuildTimestamp}}</span>
-          <span class="divider">|</span>
-          <span class="detail">CLI: {{cliVersion}}</span>
-          <span class="divider">|</span>
-          <span class="detail">Docs: <a target="_blank" rel="noopener noreferrer" href="{{projectUrl}}">{{projectUrl}}</a></span>
-          <span class="divider">|</span>
-        </section>
-      </footer>
-    </main>
-  </div>
-
-  <!-- %before-body-end.html% -->
-</body>
-
 </html>
