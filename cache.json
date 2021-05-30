@@ -823,15 +823,6 @@
           "publishedOn": "2021-04-03T09:06:28.000Z",
           "wordCount": 1591,
           "title": "What problems do people solve with strace?"
-        },
-        {
-          "id": "https://jvns.ca/blog/2021/03/31/dnspeep-tool/",
-          "author": null,
-          "description": "Hello! Over the last few days I made a little tool called dnspeep that lets\nyou see what DNS queries your computer is making, and what responses it’s getting. It’s about 250 lines of Rust right now.\nI’ll talk about how you can try it, what it’s for, why I made it, and some problems I ran into while writing it.\nhow to try it\nI built some binaries so you can quickly try it out.\nFor Linux (x86):\nwget https://github.com/jvns/dnspeep/releases/download/v0.1.0/dnspeep-linux.tar.gz\ntar -xf dnspeep-linux.tar.gz\nsudo…",
-          "link": "https://jvns.ca/blog/2021/03/31/dnspeep-tool/",
-          "publishedOn": "2021-03-31T11:21:24.000Z",
-          "wordCount": 1346,
-          "title": "A tool to spy on your DNS queries: dnspeep"
         }
       ]
     },

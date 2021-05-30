@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-05-29T10:38:49.032Z</updated>
+    <updated>2021-05-30T00:43:44.574Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
@@ -1365,24 +1365,6 @@ I’m going to rebuild this Web site from the ground up, starting with a fresh, 
 Stay strong.]]></summary>
         <author>
             <name>Grumpy Gamer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A tool to spy on your DNS queries: dnspeep]]></title>
-        <id>https://jvns.ca/blog/2021/03/31/dnspeep-tool/</id>
-        <link href="https://jvns.ca/blog/2021/03/31/dnspeep-tool/"/>
-        <updated>2021-03-31T11:21:24.000Z</updated>
-        <summary type="html"><![CDATA[Hello! Over the last few days I made a little tool called dnspeep that lets
-you see what DNS queries your computer is making, and what responses it’s getting. It’s about 250 lines of Rust right now.
-I’ll talk about how you can try it, what it’s for, why I made it, and some problems I ran into while writing it.
-how to try it
-I built some binaries so you can quickly try it out.
-For Linux (x86):
-wget https://github.com/jvns/dnspeep/releases/download/v0.1.0/dnspeep-linux.tar.gz
-tar -xf dnspeep-linux.tar.gz
-sudo…]]></summary>
-        <author>
-            <name>Julia Evans</name>
         </author>
     </entry>
 </feed>
