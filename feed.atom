@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-05-30T00:43:44.574Z</updated>
+    <updated>2021-05-30T19:48:19.177Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Perils of Rehydration]]></title>
+        <id>https://www.joshwcomeau.com/react/the-perils-of-rehydration/</id>
+        <link href="https://www.joshwcomeau.com/react/the-perils-of-rehydration/"/>
+        <updated>2021-05-30T14:32:03.000Z</updated>
+        <summary type="html"><![CDATA[A surprisingly-common misconception can lead to big rendering issues that are difficult to debug. This deep-dive tutorial examines how React and Gatsby can be used to pre-render content, and how we can work around the constraints to build dynamic, personalized web apps.]]></summary>
+        <author>
+            <name>Josh W. Comeau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building a more privacy preserving ads-based ecosystem]]></title>
         <id>https://blog.mozilla.org/?p=65766</id>
@@ -230,6 +240,16 @@ Except I found that this wo…]]></summary>
         <updated>2021-05-21T00:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[That’s Not My Burnout]]></title>
+        <id>https://alistapart.com/article/thats-not-my-burnout/</id>
+        <link href="https://alistapart.com/article/thats-not-my-burnout/"/>
+        <updated>2021-05-20T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Are you like me, reading about people fading away as they burn out, and feeling unable to relate? Do you feel like your feelings are invisible to the world because you’re experiencing burnout differently? When burnout starts to push down on us, our core comes through more. Beautiful, peaceful souls get quieter and fade into that distant and distracted burnout we’ve all read about. But some of us, those with fires always burning on the edges of our core, get hotter. In my heart I am fire. When I face burnout…]]></summary>
+        <author>
+            <name>by</name>
         </author>
     </entry>
     <entry>
@@ -833,6 +853,17 @@ Source: infrequently.org]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Beware the Cut ‘n’ Paste Persona]]></title>
+        <id>https://alistapart.com/article/beware-the-cut-n-paste-persona/</id>
+        <link href="https://alistapart.com/article/beware-the-cut-n-paste-persona/"/>
+        <updated>2021-05-06T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This Person Does Not Exist is a website that generates human faces with a machine learning algorithm. It takes real portraits and recombines them into fake human faces. We recently scrolled past a LinkedIn post stating that this website could be useful “if you are developing a persona and looking for a photo.” 
+We agree: the computer-generated faces could be a great match for personas—but not for the reason you might think. Ironically, the website highlights the core issue of this very common design method:…]]></summary>
+        <author>
+            <name>by ,</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Detroit’s digital divide reminds us how far America has to go for internet equity]]></title>
         <id>https://blog.mozilla.org/foxtail/?p=65103</id>
         <link href="https://blog.mozilla.org/en/internet-culture/deep-dives/digital-divide-detroit-broadband-internet-access-2021/"/>
@@ -1120,6 +1151,17 @@ Ctrl + z
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Immersive Content Strategy]]></title>
+        <id>https://alistapart.com/article/immersive-content-strategy/</id>
+        <link href="https://alistapart.com/article/immersive-content-strategy/"/>
+        <updated>2021-04-29T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Beyond the severe toll of the coronavirus pandemic, perhaps no other disruption has transformed user experiences quite like how the tethers to our formerly web-biased era of content have frayed. We’re transitioning to a new world of remote work and digital content. We’re also experimenting with unprecedented content channels that, not too long ago, elicited chuckles at the watercooler, like voice interfaces, digital signage, augmented reality, and virtual reality.
+Many factors are responsible. Perhaps it’s …]]></summary>
+        <author>
+            <name>by</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lord Nikon - capcop, via 16colo.rs.]]></title>
         <id>https://text-mode.tumblr.com/post/649734022411567104</id>
         <link href="https://text-mode.tumblr.com/post/649734022411567104"/>
@@ -1202,6 +1244,19 @@ I'm far from an expert and I've read bits around how sometimes these won't work 
         <summary type="html"><![CDATA[Removing RAM from a computer while it’s on. By Nova/marisa.]]></summary>
         <author>
             <name>TEXT-MODE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do You Need to Localize Your Website?]]></title>
+        <id>https://alistapart.com/article/do-you-need-to-localize-your-website/</id>
+        <link href="https://alistapart.com/article/do-you-need-to-localize-your-website/"/>
+        <updated>2021-04-22T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Global markets give you access to new customers. All you need to do is inform potential buyers about your product or service. 
+Your website is a good place to introduce your product or service outside your locale. Localizing your web content sounds like the right way to reach out to the global market. Localization will bridge the language barriers, or the wider scope of differing cultures. 
+Before we move on further with the discussion, let’s focus on the definition of “localization.” 
+What is localization?…]]></summary>
+        <author>
+            <name>by</name>
         </author>
     </entry>
     <entry>
@@ -1343,28 +1398,6 @@ there were some things I hadn’t thought of too!
 I’m not goin…]]></summary>
         <author>
             <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🛠 Redesigning and rebuilding my Web site from the ground up]]></title>
-        <id>https://sarasoueidan.com/blog/redesign/</id>
-        <link href="https://sarasoueidan.com/blog/redesign/"/>
-        <updated>2021-04-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s about time my Web site got a complete makeover. It’s going to be more than just a fresh coat of paint. It’s going to be a complete rebuild + redesign.
-I’m going to rebuild this Web site from the ground up, starting with a fresh, clean slate—an empty repository, with nothing imported from the old one other than some content, such as my blog posts, list of past speaking engagements, and smilar content that will not change in the future. And some images, of course. OK maybe a few other content elements. B…]]></summary>
-        <author>
-            <name>Blog on SaraSoueidan.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[April Fools' 2021]]></title>
-        <id>https://grumpygamer.com/april_fools_2021</id>
-        <link href="https://grumpygamer.com/april_fools_2021"/>
-        <updated>2021-04-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[For going on 17 years the Grumpy Gamer blog has been and always will be April Fools' day free.
-Stay strong.]]></summary>
-        <author>
-            <name>Grumpy Gamer</name>
         </author>
     </entry>
 </feed>

@@ -108,15 +108,6 @@
           "publishedOn": "2021-04-15T00:00:00.000Z",
           "wordCount": 937,
           "title": "Working around the viewport-based fluid typography bug in Safari"
-        },
-        {
-          "id": "https://sarasoueidan.com/blog/redesign/",
-          "author": null,
-          "description": "It’s about time my Web site got a complete makeover. It’s going to be more than just a fresh coat of paint. It’s going to be a complete rebuild + redesign.\nI’m going to rebuild this Web site from the ground up, starting with a fresh, clean slate—an empty repository, with nothing imported from the old one other than some content, such as my blog posts, list of past speaking engagements, and smilar content that will not change in the future. And some images, of course. OK maybe a few other content elements. B…",
-          "link": "https://sarasoueidan.com/blog/redesign/",
-          "publishedOn": "2021-04-01T00:00:00.000Z",
-          "wordCount": 1767,
-          "title": "🛠 Redesigning and rebuilding my Web site from the ground up"
         }
       ]
     },
@@ -167,15 +158,6 @@
           "publishedOn": "2021-04-28T00:00:00.000Z",
           "wordCount": 2135,
           "title": "Apple and Privacy"
-        },
-        {
-          "id": "https://grumpygamer.com/april_fools_2021",
-          "author": null,
-          "description": "For going on 17 years the Grumpy Gamer blog has been and always will be April Fools' day free.\nStay strong.",
-          "link": "https://grumpygamer.com/april_fools_2021",
-          "publishedOn": "2021-04-01T00:00:00.000Z",
-          "wordCount": 1277,
-          "title": "April Fools' 2021"
         }
       ]
     },
@@ -832,6 +814,15 @@
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
         {
+          "id": "https://www.joshwcomeau.com/react/the-perils-of-rehydration/",
+          "author": "Josh W. Comeau",
+          "description": "A surprisingly-common misconception can lead to big rendering issues that are difficult to debug. This deep-dive tutorial examines how React and Gatsby can be used to pre-render content, and how we can work around the constraints to build dynamic, personalized web apps.",
+          "link": "https://www.joshwcomeau.com/react/the-perils-of-rehydration/",
+          "publishedOn": "2021-05-30T14:32:03.000Z",
+          "wordCount": 2283,
+          "title": "The Perils of Rehydration"
+        },
+        {
           "id": "https://www.joshwcomeau.com/career/no-cs-degree-required/",
           "author": "Josh W. Comeau",
           "description": "A look at how hundreds of developers got their start in the industry despite not having a Computer Science or Software Engineering degree. We'll sort responses into 6 categories, and detail strategies that you can use to ensure you capture the attention of potential employers!",
@@ -981,6 +972,49 @@
           "publishedOn": "2021-05-06T12:53:00.000Z",
           "wordCount": 2356,
           "title": "Detroit’s digital divide reminds us how far America has to go for internet equity"
+        }
+      ]
+    },
+    {
+      "title": "A List Apart: The Full Feed",
+      "feedUrl": "https://alistapart.com/main/feed/",
+      "siteUrl": "https://alistapart.com",
+      "articles": [
+        {
+          "id": "https://alistapart.com/article/thats-not-my-burnout/",
+          "author": "by",
+          "description": "Are you like me, reading about people fading away as they burn out, and feeling unable to relate? Do you feel like your feelings are invisible to the world because you’re experiencing burnout differently? When burnout starts to push down on us, our core comes through more. Beautiful, peaceful souls get quieter and fade into that distant and distracted burnout we’ve all read about. But some of us, those with fires always burning on the edges of our core, get hotter. In my heart I am fire. When I face burnout…",
+          "link": "https://alistapart.com/article/thats-not-my-burnout/",
+          "publishedOn": "2021-05-20T14:00:00.000Z",
+          "wordCount": 3869,
+          "title": "That’s Not My Burnout"
+        },
+        {
+          "id": "https://alistapart.com/article/beware-the-cut-n-paste-persona/",
+          "author": "by ,",
+          "description": "This Person Does Not Exist is a website that generates human faces with a machine learning algorithm. It takes real portraits and recombines them into fake human faces. We recently scrolled past a LinkedIn post stating that this website could be useful “if you are developing a persona and looking for a photo.” \nWe agree: the computer-generated faces could be a great match for personas—but not for the reason you might think. Ironically, the website highlights the core issue of this very common design method:…",
+          "link": "https://alistapart.com/article/beware-the-cut-n-paste-persona/",
+          "publishedOn": "2021-05-06T14:00:00.000Z",
+          "wordCount": 4231,
+          "title": "Beware the Cut ‘n’ Paste Persona"
+        },
+        {
+          "id": "https://alistapart.com/article/immersive-content-strategy/",
+          "author": "by",
+          "description": "Beyond the severe toll of the coronavirus pandemic, perhaps no other disruption has transformed user experiences quite like how the tethers to our formerly web-biased era of content have frayed. We’re transitioning to a new world of remote work and digital content. We’re also experimenting with unprecedented content channels that, not too long ago, elicited chuckles at the watercooler, like voice interfaces, digital signage, augmented reality, and virtual reality.\nMany factors are responsible. Perhaps it’s …",
+          "link": "https://alistapart.com/article/immersive-content-strategy/",
+          "publishedOn": "2021-04-29T14:00:00.000Z",
+          "wordCount": 5422,
+          "title": "Immersive Content Strategy"
+        },
+        {
+          "id": "https://alistapart.com/article/do-you-need-to-localize-your-website/",
+          "author": "by",
+          "description": "Global markets give you access to new customers. All you need to do is inform potential buyers about your product or service. \nYour website is a good place to introduce your product or service outside your locale. Localizing your web content sounds like the right way to reach out to the global market. Localization will bridge the language barriers, or the wider scope of differing cultures. \nBefore we move on further with the discussion, let’s focus on the definition of “localization.” \nWhat is localization?…",
+          "link": "https://alistapart.com/article/do-you-need-to-localize-your-website/",
+          "publishedOn": "2021-04-22T14:00:00.000Z",
+          "wordCount": 2981,
+          "title": "Do You Need to Localize Your Website?"
         }
       ]
     }
