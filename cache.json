@@ -503,6 +503,15 @@
       "siteUrl": "https://rachelbythebay.com/w/",
       "articles": [
         {
+          "id": "https://rachelbythebay.com/w/2021/06/01/count/",
+          "author": null,
+          "description": "There are some interesting patterns which repeat in management.  I \nunderstand that it comes from a desire to quantify things and maybe even \ntry to point at things which are moving the right direction (or not).  \nCounting outages (SEVs, whatever you call them) is not one of those \nthings.\n\nbehave\nin the face of a measurement.  In short, if you start counting them, \nit's probably because you're going to start making reports which say \n\"we had X outages in this span of time\".  There might even be a *gasp* \nt…",
+          "link": "https://rachelbythebay.com/w/2021/06/01/count/",
+          "publishedOn": "2021-06-01T23:24:23.000Z",
+          "wordCount": 1085,
+          "title": "Please don't count outages (or SEVs, or whatever)"
+        },
+        {
           "id": "https://rachelbythebay.com/w/2021/05/26/irc/",
           "author": null,
           "description": "There's a pretty big round of crazy going on in the free software/open \nsource IRC sphere of late.  I won't get into the specifics here - it's \nall over Hacker News and whatnot.  (If you find this post years from \nnow, you should check out HN's \"past\" feature.  It'll help with \ncontext.  Hint: \"freenode\".)\n\n\nI have only one piece of unrequested advice for anyone who thinks about \nrunning (or owning, I guess) an IRC network and/or *using* an IRC \nnetwork: pick one or the other, but never both.\n\n\nIf you hang …",
@@ -832,15 +841,6 @@
           "publishedOn": "2021-04-16T09:02:55.000Z",
           "wordCount": 2422,
           "title": "Notes on building debugging puzzles"
-        },
-        {
-          "id": "https://jvns.ca/blog/2021/04/03/what-problems-do-people-solve-with-strace/",
-          "author": null,
-          "description": "Yesterday I asked on Twitter about what problems people are solving with strace and\nas usual everyone really delivered! I got 200 answers and then spent a bunch of\ntime manually categorizing them into 9 categories of problems.\nAll of the problems are about either finding files a program depends on,\nfiguring out why a program is stuck or slow, or finding out why a program is\nfailing. These generally matched up with what I use strace for myself, but\nthere were some things I hadn’t thought of too!\nI’m not goin…",
-          "link": "https://jvns.ca/blog/2021/04/03/what-problems-do-people-solve-with-strace/",
-          "publishedOn": "2021-04-03T09:06:28.000Z",
-          "wordCount": 1591,
-          "title": "What problems do people solve with strace?"
         }
       ]
     },
@@ -901,6 +901,42 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=65783",
+          "author": "Mozilla",
+          "description": "Amid the COVID-19 lockdowns of early 2020, millions of Americans found themselves trapped at home with a backlog of unaddressed mental-health issues. As with so many other things, computer screens and video calls became the only portals out of lockdown—for work, entertainment and, ultimately, real psychological help. \nThe post Sharing your deepest emotions online: Did 2020 change the future of therapy? appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/internet-culture/deep-dives/online-zoom-therapy-after-covid19-pandemic/",
+          "publishedOn": "2021-06-01T15:59:24.000Z",
+          "wordCount": 1733,
+          "title": "Sharing your deepest emotions online: Did 2020 change the future of therapy?"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=65662",
+          "author": "M.J. Kelly",
+          "description": "Sometimes you need to take a screenshot of something online to save it or share it with someone. Firefox has a built-in feature that makes grabbing a screenshot quick and easy. Here’s how to use the Firefox screenshot feature in your desktop browser: Use the menu Right-click for Windows or two-finger tap on Mac to […]\nThe post How to capture screenshots instantly with Firefox appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/products/firefox/how-to-capture-screenshots-with-firefox/",
+          "publishedOn": "2021-06-01T13:00:16.000Z",
+          "wordCount": 1019,
+          "title": "How to capture screenshots instantly with Firefox"
+        },
+        {
+          "id": "https://blog.mozilla.org/foxtail/?p=65539",
+          "author": "M.J. Kelly",
+          "description": "In today’s major release, Firefox sports a fresh new design that gets you where you’re going online, fast and distraction-free. And since we’re all about privacy, we’re also expanding integrated privacy protections in Firefox, so you feel safe and free to be yourself online thanks to fewer eyes following you across the web.\nThe post A fresh new Firefox is here appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/products/firefox/fresh-new-look-for-firefox/",
+          "publishedOn": "2021-06-01T13:00:14.000Z",
+          "wordCount": 1715,
+          "title": "A fresh new Firefox is here"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=65674",
+          "author": "Selena Deckelmann",
+          "description": "We set out in 2021 to reimagine Firefox’s design to be fast, modern and inviting the first time you run it and every day after. We’ve always had your back on privacy, and still do. Now with today’s new release we’re also bringing you a modern new look designed to streamline and calm things down.\nThe post Modern, clean new Firefox clears the way to all you need online appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/news/modern-clean-new-firefox-clears-the-way-to-all-you-need-online/",
+          "publishedOn": "2021-06-01T13:00:00.000Z",
+          "wordCount": 2300,
+          "title": "Modern, clean new Firefox clears the way to all you need online"
+        },
         {
           "id": "https://blog.mozilla.org/?p=65766",
           "author": "Mozilla",
@@ -1059,6 +1095,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=480896",
+          "author": "Kristina Panos",
+          "description": "Don’t know about you, but we can’t start the day without coffee and a shower. If you were to drag us on some overnight trip into the wilderness, we could …read more",
+          "link": "https://hackaday.com/2021/06/01/disposable-rocket-stove-keeps-you-fueled-in-the-wild/",
+          "publishedOn": "2021-06-01T23:00:43.000Z",
+          "wordCount": 1227,
+          "title": "Disposable Rocket Stove Keeps You Fueled in the Wild"
+        },
+        {
+          "id": "https://hackaday.com/?p=480612",
+          "author": "Tom Nardi",
+          "description": "We’re big fans of the Arduboy here at Hackaday, but we’ll admit its tiny screen isn’t exactly ideal for long gaming sessions. There are some DIY builds of the open …read more",
+          "link": "https://hackaday.com/2021/06/01/arduboy-on-the-big-screen/",
+          "publishedOn": "2021-06-01T20:00:35.000Z",
+          "wordCount": 1148,
+          "title": "Arduboy on the Big Screen"
+        },
+        {
+          "id": "https://hackaday.com/?p=473818",
+          "author": "Al Williams",
+          "description": "You may not know the name [Richard Hamming], but you definitely use some of his work. While working for Bell Labs, he developed Hamming codes — the parent of a …read more",
+          "link": "https://hackaday.com/2021/06/01/anti-gravity-time-travel-and-teleportation-dr-hamming-gives-advice/",
+          "publishedOn": "2021-06-01T17:01:18.000Z",
+          "wordCount": 1770,
+          "title": "Anti-Gravity, Time Travel, and Teleportation: Dr. Hamming Gives Advice"
+        },
+        {
+          "id": "https://hackaday.com/?p=480078&preview=true&preview_id=480078",
+          "author": "Dan Maloney",
+          "description": "Join us on Wednesday, June 2 at noon Pacific for the Satellite Comms Hack Chat with Paul Marsh! All things considered, space isn’t that far away; you could drive the …read more",
+          "link": "https://hackaday.com/2021/06/01/satellite-communications-hack-chat/",
+          "publishedOn": "2021-06-01T16:00:25.000Z",
+          "wordCount": 1189,
+          "title": "Satellite Communications Hack Chat"
+        },
+        {
+          "id": "https://hackaday.com/?p=480225",
+          "author": "Chris Lott",
+          "description": "[JK Lee] has been experimenting with a monorail tripteron motion control system (video, embedded below) and trying to improve performance with varying tweaks to the design and with varying degrees …read more",
+          "link": "https://hackaday.com/2021/06/01/trippy-tripteron-kinematics-brainteaser/",
+          "publishedOn": "2021-06-01T15:30:00.000Z",
+          "wordCount": 2464,
+          "title": "Trippy Tripteron Kinematics Brainteaser"
+        },
+        {
+          "id": "https://hackaday.com/?p=480238",
+          "author": "Tom Nardi",
+          "description": "To hear founder Richard Branson tell it, the first operational flight of Virgin Galactic’s SpaceShipTwo has been 18 months out since at least 2008. But a series of delays, technical …read more",
+          "link": "https://hackaday.com/2021/06/01/virgin-galactics-long-road-to-commercial-spaceflight/",
+          "publishedOn": "2021-06-01T14:00:39.000Z",
+          "wordCount": 3017,
+          "title": "Virgin Galactic’s Long Road to Commercial Spaceflight"
+        },
+        {
+          "id": "https://hackaday.com/?p=480676",
+          "author": "Roger Cheng",
+          "description": "SpaceX has always been willing to break from aerospace tradition if they feel there’s a more pragmatic solution. Today this is most visible in their use of standard construction equipment …read more",
+          "link": "https://hackaday.com/2021/06/01/not-all-spacex-software-goes-to-space/",
+          "publishedOn": "2021-06-01T11:00:00.000Z",
+          "wordCount": 1609,
+          "title": "Not All SpaceX Software Goes To Space"
+        },
         {
           "id": "https://hackaday.com/?p=480241",
           "author": "Lewin Day",
