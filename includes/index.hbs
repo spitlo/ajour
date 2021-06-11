@@ -27,7 +27,10 @@
       body.framed #closer { display: block; position: fixed; top: 0; left: 48rem; cursor: pointer; font-family: "Victor Mono", "Courier New", monospace; z-index: 1000; }
       body.framed header { display: none; }
       article { border-bottom: 1px solid #eee; margin-bottom: 2.4em; max-width: 48rem; padding-bottom: 1.2em; }
-      .arrow { display: inline-block; transform: rotate(180deg); margin-right: 10px; }
+      .arrow { margin-right: 10px; }
+      header .logo.home::before { display: none; }
+      header .logo.home::after { display: none; }
+      @media (max-width: 680px) { header .logo { text-align: left; margin-bottom: 24px; } }
     </style>
   </head>
 
@@ -37,7 +40,7 @@
     <div class="contentWrapper">
        <header id="top">
         <div class="logo home">
-          <a href="/"><span class="arrow">➜</span>Back to spitlo.com</a>
+          <a href="/"><span class="arrow">◂</span>Back to spitlo.com</a>
         </div>
       </header>
 
