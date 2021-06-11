@@ -246,6 +246,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2474/",
+          "author": null,
+          "description": "",
+          "link": "https://xkcd.com/2474/",
+          "publishedOn": "2021-06-09T00:00:00.000Z",
+          "wordCount": 191,
+          "title": "First Time Since Early 2020"
+        },
+        {
           "id": "https://xkcd.com/2473/",
           "author": null,
           "description": "",
@@ -931,6 +940,69 @@
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
         {
+          "id": "https://www.joshwcomeau.com/react/modern-spacer-gif/",
+          "author": "Josh W. Comeau",
+          "description": "The 90s web gave us many delightful things: web rings, guestbooks, “under construction” animations, and spacer GIFs. In this article, we'll see how I use a Spacer component to solve common layout problems, and why it's often a great tool for the job in the modern web.",
+          "link": "https://www.joshwcomeau.com/react/modern-spacer-gif/",
+          "publishedOn": "2021-06-10T14:31:26.000Z",
+          "wordCount": 1921,
+          "title": "Let's Bring Spacer GIFs Back!"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/react/boop/",
+          "author": "Josh W. Comeau",
+          "description": "An in-depth tutorial that teaches how to create one of the most adorable interactions I've ever created. We'll learn how to use React components and hooks to abstract behaviours, and see how to design the perfect API. Even if you're not into animations, I think you'll find it interesting!",
+          "link": "https://www.joshwcomeau.com/react/boop/",
+          "publishedOn": "2021-06-10T14:31:26.000Z",
+          "wordCount": 2203,
+          "title": "Boop!"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/react/announcing-use-sound-react-hook/",
+          "author": "Josh W. Comeau",
+          "description": "By and large, using the web is a visual experience. This is in terrible contrast to mobile apps, which interact with three of our human senses (sight, sound, and touch, through haptic feedback). I just released a library to make it easy to add sound to your React app, and I make the case that you should consider using it!",
+          "link": "https://www.joshwcomeau.com/react/announcing-use-sound-react-hook/",
+          "publishedOn": "2021-06-10T14:31:26.000Z",
+          "wordCount": 1299,
+          "title": "Announcing “use-sound”, a React Hook for Sound Effects"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/animation/3d-button/",
+          "author": "Josh W. Comeau",
+          "description": "Every action we take on the web starts with a button click, and yet most buttons are ho-hum and uninspired. In this tutorial, we'll build an animated 3D button with HTML and CSS that sparks joy.",
+          "link": "https://www.joshwcomeau.com/animation/3d-button/",
+          "publishedOn": "2021-06-09T19:32:34.000Z",
+          "wordCount": 2335,
+          "title": "Building a Magical 3D Button"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/css/the-importance-of-learning-css/",
+          "author": "Josh W. Comeau",
+          "description": "I know so many super-talented developers who share the same achilles heel: CSS. Instead of trying to “outrun” CSS, this article explores why leaning in and going deeper can be a tremendous boon for your development life and your career.",
+          "link": "https://www.joshwcomeau.com/css/the-importance-of-learning-css/",
+          "publishedOn": "2021-06-09T19:32:34.000Z",
+          "wordCount": 1997,
+          "title": "The Importance of Learning CSS"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/animation/css-transitions/",
+          "author": "Josh W. Comeau",
+          "description": "This comprehensive guide shows how to use CSS transitions! A back-to-basics look at the fundamental building blocks we need to create microinteractions and other animations.",
+          "link": "https://www.joshwcomeau.com/animation/css-transitions/",
+          "publishedOn": "2021-06-09T19:32:34.000Z",
+          "wordCount": 3478,
+          "title": "An Interactive Guide to CSS Transitions"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/css/rules-of-margin-collapse/",
+          "author": "Josh W. Comeau",
+          "description": "“Margin collapse” has a dastardly reputation, one of the trickier parts of CSS. Fortunately, it gets a lot easier once you learn a few rules! In this tutorial, we take a deep dive into the governing principles, and learn how to use them to our advantage.",
+          "link": "https://www.joshwcomeau.com/css/rules-of-margin-collapse/",
+          "publishedOn": "2021-06-09T19:32:34.000Z",
+          "wordCount": 1970,
+          "title": "The Rules of Margin Collapse"
+        },
+        {
           "id": "https://www.joshwcomeau.com/react/the-perils-of-rehydration/",
           "author": "Josh W. Comeau",
           "description": "A surprisingly-common misconception can lead to big rendering issues that are difficult to debug. This deep-dive tutorial examines how React and Gatsby can be used to pre-render content, and how we can work around the constraints to build dynamic, personalized web apps.",
@@ -982,6 +1054,24 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=66322",
+          "author": "Eric Rescorla",
+          "description": "In a previous post, I wrote about a new set of technologies “Privacy Preserving Advertising”, which are intended to allow for advertising without compromising privacy. This post discusses one of those proposals–Federated Learning of Cohorts (FLoC)–which Chrome is currently testing. The idea behind FLoC is to make it possible to target ads based on the […]\nThe post Privacy analysis of FLoC appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/privacy-analysis-of-floc/",
+          "publishedOn": "2021-06-10T16:05:37.000Z",
+          "wordCount": 1991,
+          "title": "Privacy analysis of FLoC"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=66206",
+          "author": "Scott DeVaney",
+          "description": "Sometimes the hardest thing to write is the first word. It means you’re committed. No looking back now. You can’t leave that lone word just sitting there. Better add a second word, then a third. Now you’re on your way.  Procrastination can be a major blocker for writers. While putting everything off until the last […]\nThe post Become a better writer with these five extensions for Firefox appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/products/firefox/extensions-addons/become-a-better-writer-with-these-five-extensions-for-firefox/",
+          "publishedOn": "2021-06-08T22:42:36.000Z",
+          "wordCount": 1193,
+          "title": "Become a better writer with these five extensions for Firefox"
+        },
         {
           "id": "https://blog.mozilla.org/?p=65825",
           "author": "M.J. Kelly",
@@ -1194,6 +1284,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=481281",
+          "author": "Kristina Panos",
+          "description": "What’s the worst thing about split keyboards? If they have one general fault, it’s that almost none of them have a number pad. If you can fly on that thing, …read more",
+          "link": "https://hackaday.com/2021/06/10/redox-redux-split-keeb-gets-a-num-pad/",
+          "publishedOn": "2021-06-10T23:00:02.000Z",
+          "wordCount": 1131,
+          "title": "Redox Redux: Split Keeb Gets a Num Pad"
+        },
+        {
+          "id": "https://hackaday.com/?p=482160",
+          "author": "Lewin Day",
+          "description": "One of the most annoying things about bicycles is that they don’t stay up on their own, especially when they’re stationary. That’s why they come with stands, after all. That …read more",
+          "link": "https://hackaday.com/2021/06/10/a-self-driving-bicycle-is-something-to-marvel-at/",
+          "publishedOn": "2021-06-10T20:00:05.000Z",
+          "wordCount": 1635,
+          "title": "A Self-Driving Bicycle is Something to Marvel At"
+        },
+        {
+          "id": "https://hackaday.com/?p=482150",
+          "author": "Lewin Day",
+          "description": "Back in 1996, Bob Pease posed an experiment in an April Fools column. “Take an ordinary NPN transistor, ground the base, pull the emitter up to 12 V with a …read more",
+          "link": "https://hackaday.com/2021/06/10/an-explanation-of-a-classic-semiconductor-riddle/",
+          "publishedOn": "2021-06-10T18:30:00.000Z",
+          "wordCount": 1328,
+          "title": "An Explanation of a Classic Semiconductor Riddle"
+        },
+        {
+          "id": "https://hackaday.com/?p=475916",
+          "author": "Chris Lott",
+          "description": "A few months ago, a tweet by [Ken Shirriff] asking about simple digital simulators caught my attention. The topic came up again in May when a repair video by [CuriousMarc] …read more",
+          "link": "https://hackaday.com/2021/06/10/survey-of-simple-logic-simulators/",
+          "publishedOn": "2021-06-10T17:01:56.000Z",
+          "wordCount": 1961,
+          "title": "Survey of Simple Logic Simulators"
+        },
+        {
+          "id": "https://hackaday.com/?p=481979",
+          "author": "Mike Szczys",
+          "description": "This is the final weekend to enter your display-related project in the 2021 Hackaday Prize. The good news is, pretty much anything that has a display on it fits the …read more",
+          "link": "https://hackaday.com/2021/06/10/final-weekend-for-display-challenge-of-the-hackaday-prize/",
+          "publishedOn": "2021-06-10T16:01:39.000Z",
+          "wordCount": 1163,
+          "title": "Final Weekend for Display Challenge of the Hackaday Prize"
+        },
+        {
+          "id": "https://hackaday.com/?p=482163",
+          "author": "Lewin Day",
+          "description": "Playing chess online is all well and good, and opens up a whole world of competitors that would otherwise be unavailable in one’s local area. But there’s something to be …read more",
+          "link": "https://hackaday.com/2021/06/10/automatic-chessboard-lets-online-players-move-the-pieces/",
+          "publishedOn": "2021-06-10T15:00:00.000Z",
+          "wordCount": 1357,
+          "title": "Automatic Chessboard Lets Online Players Move The Pieces"
+        },
+        {
+          "id": "https://hackaday.com/?p=473422",
+          "author": "Kristina Panos",
+          "description": "Glass is one of humanity’s oldest materials, and it is still used widely for everything from drinking vessels and packaging to optics and communications. Unfortunately, the methods for working with …read more",
+          "link": "https://hackaday.com/2021/06/10/injection-molded-glass-breakthrough-shatters-ceiling-of-work-methods/",
+          "publishedOn": "2021-06-10T14:00:21.000Z",
+          "wordCount": 2677,
+          "title": "Injection-Molded Glass Breakthrough Shatters Ceiling of Work Methods"
+        },
         {
           "id": "https://hackaday.com/?p=482032",
           "author": "Lewin Day",
@@ -1840,6 +1993,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2261",
+          "author": "Cory Doctorow",
+          "description": "Today's links A denialism taxonomy: FLICC (fake experts, logical fallacies, impossible expectations, cherry picking, conspiracy theories). Urban broadband deserts: Digital redlining is a policy, not an accident. This day in history: 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading A denialism taxonomy (permalink) The science denial industry has deep roots – tobacco-cancer denial, lead paint/gas denial and other ancestral forms of commerci…",
+          "link": "https://pluralistic.net/2021/06/10/flicc/",
+          "publishedOn": "2021-06-10T16:52:58.000Z",
+          "wordCount": 3030,
+          "title": "Pluralistic: 10 Jun 2021"
+        },
         {
           "id": "https://pluralistic.net/?p=2253",
           "author": "Cory Doctorow",
