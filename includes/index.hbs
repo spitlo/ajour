@@ -14,8 +14,8 @@
     <title>{{siteTitle}}</title>
 
     <meta name="robots" content="noindex, nofollow">
-    <link rel="preload" as="font" type="font/woff2" href="/fonts/GangsterGrotesk-Bold.woff2" crossorigin="anonymous">
-    <link rel="preload" as="font" type="font/woff2" href="/fonts/VictorMono-Thin.woff2" crossorigin="anonymous">
+    <link rel="preload" as="font" type="font/woff2" href="https://spitlo.com/fonts/GangsterGrotesk-Bold.woff2" crossorigin="anonymous">
+    <link rel="preload" as="font" type="font/woff2" href="https://spitlo.com/fonts/VictorMono-Thin.woff2" crossorigin="anonymous">
     <link rel="icon" type="image/svg+xml" href="https://spitlo.com/images/favicon.svg?{{siteBuildTimestamp}}">
     <link rel="alternate" type="application/rss+xml" title="{{siteTitle}}" href="{{feedHref}}">
     <link href="https://spitlo.com/style.css?{{siteBuildTimestamp}}" rel="stylesheet">
@@ -25,14 +25,22 @@
       body.framed footer { display: none; }
       #closer { display: none; }
       body.framed #closer { display: block; position: fixed; top: 0; left: 48rem; cursor: pointer; font-family: "Victor Mono", "Courier New", monospace; z-index: 1000; }
+      body.framed header { display: none; }
       article { border-bottom: 1px solid #eee; margin-bottom: 2.4em; max-width: 48rem; padding-bottom: 1.2em; }
+      .arrow { display: inline-block; transform: rotate(180deg); margin-right: 10px; }
     </style>
   </head>
 
   <body>
     <div id="closer">[✕]</div>
 
-    <div class="contentWrapper {{ content_class }}">
+    <div class="contentWrapper">
+       <header id="top">
+        <div class="logo home">
+          <a href="/"><span class="arrow">➜</span>Back to spitlo.com</a>
+        </div>
+      </header>
+
       <main>
         <h1>Spitlo.com: Ajour</h1>
 
@@ -67,6 +75,14 @@
             <span class="divider">|</span>
             <span class="detail">Docs: <a target="_blank" rel="noopener noreferrer" href="{{projectUrl}}">{{projectUrl}}</a></span>
             <span class="divider">|</span>
+          </section>
+          <section class="links">
+            <span class="link">
+              Repo: <a href="https://github.com/spitlo/ajour" target="_blank" rel="noopener noreferrer">spitlo/ajour</a>
+            </span>
+            <span class="shadow link">
+              <span>⌃</span> <a href="#top">Back to top</a>
+            </span>
           </section>
         </footer>
       </main>

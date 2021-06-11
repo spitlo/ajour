@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Personal feed reader, available online at https://spitlo.com/ajour",
   "scripts": {
-    "build": "osmosfeed"
+    "build": "osmosfeed",
+    "dev": "live-server --verbose --no-browser --watch=\"$INIT_CWD/public\" --open=\"$INIT_CWD/public\""
   },
   "repository": {
     "type": "git",
@@ -17,5 +18,8 @@
   "homepage": "https://github.com/spitlo/ajour#readme",
   "dependencies": {
     "@osmoscraft/osmosfeed": "^1.7.2"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
   }
 }
