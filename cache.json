@@ -169,6 +169,15 @@
       "siteUrl": "https://grumpygamer.com",
       "articles": [
         {
+          "id": "https://grumpygamer.com/commodore_asm",
+          "author": null,
+          "description": "This series on Commodore's Assemblers from pagetable.com is giving me flashbacks to hacking out GraphicsBASIC in my childhood bedroom.  Good times.",
+          "link": "https://grumpygamer.com/commodore_asm",
+          "publishedOn": "2021-06-12T00:00:00.000Z",
+          "wordCount": 105,
+          "title": "Commodore Assemblers"
+        },
+        {
           "id": "https://grumpygamer.com/dungeoneering",
           "author": null,
           "description": "I loved this game... all I want is for it to be on the Switch.",
@@ -245,6 +254,15 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2475/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/health_drink.png\" title=\"You'd need to keep track of so many people! Would you use, like, Excel or something? Far too fancy for a simple country nanoenzyme developer like me.\" alt=\"You'd need to keep track of so many people! Would you use, like, Excel or something? Far too fancy for a simple country nanoenzyme developer like me.\" />",
+          "link": "https://xkcd.com/2475/",
+          "publishedOn": "2021-06-11T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Health Drink"
+        },
         {
           "id": "https://xkcd.com/2474/",
           "author": null,
@@ -548,15 +566,6 @@
           "publishedOn": "2021-04-28T00:00:00.000Z",
           "wordCount": 1914,
           "title": "Fun with ESP modules [blog]"
-        },
-        {
-          "id": "building-a-ps2-remote-keyboard",
-          "author": null,
-          "description": "In the last week I bought myself a small computer called a neptUNO that has an FPGA (aka - to me - replicate retro computing hardware - see more here).\nThe ports on the machine are suitably old and include: VGA out, DB9 for joysticks/joypads and two PS/2 ports for keyboard and mouse. The device does actually have a USB port, but thus far I can't find anything that works with it. So I bought myself a cheap PS/2 keyboard so I control the menu (selecting cores and ROMs) and of course the damn keyboard wouldn't…",
-          "link": "https://remysharp.com/2021/04/14/building-a-ps2-remote-keyboard",
-          "publishedOn": "2021-04-14T00:00:00.000Z",
-          "wordCount": 1103,
-          "title": "Building a PS/2 remote keyboard [blog]"
         }
       ]
     },
@@ -1037,15 +1046,6 @@
           "publishedOn": "2021-04-14T13:00:00.000Z",
           "wordCount": 1524,
           "title": "Why My Blog is Closed-Source"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/css/stacking-contexts/",
-          "author": "Josh W. Comeau",
-          "description": "The z-index property can be a tricky little bugger. Sometimes, no matter how much you crank up the number, the element never rises to the top! In this article, we explore stacking contexts, and see how they can thwart our efforts to use z-index. We'll also learn how to use this mechanism to our advantage.",
-          "link": "https://www.joshwcomeau.com/css/stacking-contexts/",
-          "publishedOn": "2021-04-14T12:00:00.000Z",
-          "wordCount": 2198,
-          "title": "What the heck, z-index??"
         }
       ]
     },
@@ -1293,6 +1293,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=481014",
+          "author": "Jenny List",
+          "description": "With laptops having become a commodity item and single-board computers having conquered the lower end for our community, building a PC for yourself is no longer the rite of passage …read more",
+          "link": "https://hackaday.com/2021/06/12/3d-print-an-entire-pc-case/",
+          "publishedOn": "2021-06-12T23:00:11.000Z",
+          "wordCount": 1151,
+          "title": "3D Print An Entire PC Case"
+        },
+        {
+          "id": "https://hackaday.com/?p=481767",
+          "author": "Dan Maloney",
+          "description": "For anyone that’s fiddled around with a magnifying glass, it’s pretty easy to understand how optical microscopes work. And as microscopes are just an elaboration on a simple hand lens, …read more",
+          "link": "https://hackaday.com/2021/06/12/macro-model-makes-atomic-force-microscopy-easier-to-understand/",
+          "publishedOn": "2021-06-12T20:00:45.000Z",
+          "wordCount": 1175,
+          "title": "Macro Model Makes Atomic Force Microscopy Easier to Understand"
+        },
+        {
+          "id": "https://hackaday.com/?p=481272",
+          "author": "Jenny List",
+          "description": "For years, Europeans have been browsing the central aisles of the German Aldi and Lidl supermarket chains, attracted by the surprising variety of transitory non-grocery bargains to be found there. …read more",
+          "link": "https://hackaday.com/2021/06/12/hacking-the-lidl-home-gateway/",
+          "publishedOn": "2021-06-12T17:01:14.000Z",
+          "wordCount": 1364,
+          "title": "Hacking The Lidl Home Gateway"
+        },
+        {
+          "id": "https://hackaday.com/?p=482493",
+          "author": "Elliot Williams",
+          "description": "How is it possible that there’s a geek culture? I mean, it’s one thing to assume that all folks of a nerdy enough bent will know a little Ohm’s law, …read more",
+          "link": "https://hackaday.com/2021/06/12/what-every-geek-must-know/",
+          "publishedOn": "2021-06-12T14:00:16.000Z",
+          "wordCount": 5336,
+          "title": "What Every Geek Must Know"
+        },
+        {
+          "id": "https://hackaday.com/?p=482296",
+          "author": "Tom Nardi",
+          "description": "Looking to capitalize on his familiarity with the Raspberry Pi, [Sebastian Zen Tatum] decided to put the diminutive Pi Zero at the heart of his “antweight” fighting robot, $hmoney. While …read more",
+          "link": "https://hackaday.com/2021/06/12/raspberry-pi-zero-takes-the-wheel-in-miniature-fighting-robot/",
+          "publishedOn": "2021-06-12T11:01:29.000Z",
+          "wordCount": 1929,
+          "title": "Raspberry Pi Zero Takes the Wheel in Miniature Fighting Robot"
+        },
+        {
+          "id": "https://hackaday.com/?p=480000",
+          "author": "Bryan Cockfield",
+          "description": "The versatility of 3D printers is simply amazing. Capable of producing a wide variety of prototypes, miscellaneous parts, artwork, and even other 3D printers, it’s an excellent addition to any …read more",
+          "link": "https://hackaday.com/2021/06/12/magnets-how-do-they-work-on-3d-printers/",
+          "publishedOn": "2021-06-12T08:01:59.000Z",
+          "wordCount": 1524,
+          "title": "A 3D Printer with an Electromagnetic Tool Changer"
+        },
+        {
+          "id": "https://hackaday.com/?p=482161",
+          "author": "Lewin Day",
+          "description": "[AndrewMohawk] had seen all kinds of ambient lighting systems for TVs come and go over the years, and the one thing they all had in common was that they didn’t …read more",
+          "link": "https://hackaday.com/2021/06/11/tv-ambient-lighting-built-for-awesome-performance/",
+          "publishedOn": "2021-06-12T05:00:21.000Z",
+          "wordCount": 2560,
+          "title": "TV Ambient Lighting Built for Awesome Performance"
+        },
         {
           "id": "https://hackaday.com/?p=482275",
           "author": "Dan Maloney",
@@ -2074,6 +2137,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2273",
+          "author": "Cory Doctorow",
+          "description": "Today's links The ACCESS Act: The most significant interop legislation in US history. This day in history: 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading > The ACCESS Act (permalink) Five Big Tech antitrust bills were introduced in the House Judiciary Committee today; they're the most significant antitrust effort in more than half a century, and they cover a lot of ground. https://cicilline.house.gov/press-release/house-lawmakers-release-anti-monopoly-agenda-stronger-online-economy-opportunity There's a bill to ban \"self-preferencing\" (when a company-run marketplace pushes its inferior products over its rivals' superior ones); another to block anticompetitive acquisitions; a bill to block \"walled gardens\"; and a …",
+          "link": "https://pluralistic.net/2021/06/12/access-act/",
+          "publishedOn": "2021-06-12T15:42:53.000Z",
+          "wordCount": 1613,
+          "title": "Pluralistic: 12 Jun 2021"
+        },
         {
           "id": "https://pluralistic.net/?p=2267",
           "author": "Cory Doctorow",
