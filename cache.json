@@ -67,15 +67,6 @@
           "publishedOn": "2021-04-16T13:05:00.000Z",
           "wordCount": 157,
           "title": "Tabs vs. Spaces show on Developer tools"
-        },
-        {
-          "id": "https://christianheilmann.com/?p=6749",
-          "author": "Chris Heilmann",
-          "description": "One thing that keeps amazing me about Visual Studio Code is how much it helps you automate annoying tasks when you write code. For example, if you add an img tag to the document you need to know the src and find out the width and height to avoid reflow issues when the image was […]",
-          "link": "https://christianheilmann.com/2021/04/14/quick-vs-code-tip-automatically-add-image-width-and-height-to-images/",
-          "publishedOn": "2021-04-14T13:14:21.000Z",
-          "wordCount": 325,
-          "title": "Quick VS Code tip: Automatically add image width and height to images"
         }
       ]
     },
@@ -135,15 +126,6 @@
           "publishedOn": "2021-05-09T00:00:00.000Z",
           "wordCount": 1403,
           "title": "Component-level art direction with CSS Container Queries"
-        },
-        {
-          "id": "https://sarasoueidan.com/blog/safari-fluid-typography-bug-fix/",
-          "author": null,
-          "description": "I came cross a CSS bug in Safari today that seems to be more commong than I expected. This article is a writeup of the issue I faced and the current possible work-around(s).\n\n\n    Note:  Less than 72 hours after I wrote this article and filed the bug report, the issue has been marked as resolved fixed! So you can expect this bug to disappear in upcoming releases of Safari. 🎉\n\nThe bug\nJan Persiel—who I’m currently collaborating on a client project with—reported that the type scale we have set up in our patt…",
-          "link": "https://sarasoueidan.com/blog/safari-fluid-typography-bug-fix/",
-          "publishedOn": "2021-04-15T00:00:00.000Z",
-          "wordCount": 937,
-          "title": "Working around the viewport-based fluid typography bug in Safari"
         }
       ]
     },
@@ -976,6 +958,15 @@
           "title": "Announcing “use-sound”, a React Hook for Sound Effects"
         },
         {
+          "id": "https://www.joshwcomeau.com/css/stacking-contexts/",
+          "author": "Josh W. Comeau",
+          "description": "The z-index property can be a tricky little bugger. Sometimes, no matter how much you crank up the number, the element never rises to the top! In this article, we explore stacking contexts, and see how they can thwart our efforts to use z-index. We'll also learn how to use this mechanism to our advantage.",
+          "link": "https://www.joshwcomeau.com/css/stacking-contexts/",
+          "publishedOn": "2021-06-09T19:32:34.000Z",
+          "wordCount": 2573,
+          "title": "What the heck, z-index??"
+        },
+        {
           "id": "https://www.joshwcomeau.com/animation/3d-button/",
           "author": "Josh W. Comeau",
           "description": "Every action we take on the web starts with a button click, and yet most buttons are ho-hum and uninspired. In this tutorial, we'll build an animated 3D button with HTML and CSS that sparks joy.",
@@ -1037,15 +1028,6 @@
           "publishedOn": "2021-05-08T14:48:39.000Z",
           "wordCount": 3464,
           "title": "How I Built My Blog"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/blog/why-my-blog-is-closed-source/",
-          "author": "Josh W. Comeau",
-          "description": "In our community, it's so common for developer projects to be open-source. I'm breaking with this trend for my blog, but I have good reasons! In this article, I'll share my reasoning, as well as a workaround in case you _really_ want to see the source. If you're considering whether a project should be open-source or not, I hope you'll find it valuable.",
-          "link": "https://www.joshwcomeau.com/blog/why-my-blog-is-closed-source/",
-          "publishedOn": "2021-04-14T13:00:00.000Z",
-          "wordCount": 1524,
-          "title": "Why My Blog is Closed-Source"
         }
       ]
     },
@@ -1293,6 +1275,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=482107&preview=true&preview_id=482107",
+          "author": "Dan Maloney",
+          "description": "When someone offers to write you a check for $5 billion for your company, it seems like a good idea to take it. But in the world of corporate acquisitions …read more",
+          "link": "https://hackaday.com/2021/06/13/hackaday-links-june-13-2021/",
+          "publishedOn": "2021-06-13T23:00:04.000Z",
+          "wordCount": 1470,
+          "title": "Hackaday Links: June 13, 2021"
+        },
+        {
+          "id": "https://hackaday.com/?p=482496",
+          "author": "Kristina Panos",
+          "description": "Wood-infused filament has been around for awhile now, and while it can be used to create some fairly impressive pieces, the finished product won’t fool the astute observer. For one …read more",
+          "link": "https://hackaday.com/2021/06/13/sawdust-printer-goes-against-the-grain-by-working-with-wood-waste/",
+          "publishedOn": "2021-06-13T20:00:33.000Z",
+          "wordCount": 1767,
+          "title": "Sawdust Printer Goes Against the Grain By Working with Wood Waste"
+        },
+        {
+          "id": "https://hackaday.com/?p=481846",
+          "author": "Jenny List",
+          "description": "“Bring our home computing out of the 1970s and into the 1980s and beyond” is the irresistible promise made by the creator of 8088ify, a piece of software which translates …read more",
+          "link": "https://hackaday.com/2021/06/13/translate-your-cp-m-code-to-8086-and-leave-the-1970s-behind/",
+          "publishedOn": "2021-06-13T17:00:18.000Z",
+          "wordCount": 2456,
+          "title": "Translate Your CP/M Code to 8086, And Leave The 1970s Behind!"
+        },
+        {
+          "id": "https://hackaday.com/?p=482378",
+          "author": "Kristina Panos",
+          "description": "They say you learn something new every day, and they’re usually right about that. Today’s tidbit is that just anybody (including [Ian Charnas]) can exchange money for jet engines, no …read more",
+          "link": "https://hackaday.com/2021/06/13/roller-skating-wile-e-coyote-style/",
+          "publishedOn": "2021-06-13T14:00:05.000Z",
+          "wordCount": 2112,
+          "title": "Roller Skating, Wile E. Coyote-Style"
+        },
+        {
+          "id": "https://hackaday.com/?p=482162",
+          "author": "Lewin Day",
+          "description": "There’s plenty of obscure sports in the world. Many of them could benefit from bespoke equipment like scoring displays, but are too obscure to support commercial efforts in this regard. …read more",
+          "link": "https://hackaday.com/2021/06/13/mickeys-big-timer-makes-glider-competitions-better/",
+          "publishedOn": "2021-06-13T11:00:09.000Z",
+          "wordCount": 1217,
+          "title": "Mickey’s Big Timer Makes Glider Competitions Better"
+        },
+        {
+          "id": "https://hackaday.com/?p=481762",
+          "author": "Jenny List",
+          "description": "If you liked playing Super Mario Bros. 35, the unique multiplayer battle royale Mario game that Nintendo released last year on the Switch to celebrate 35 years since the original …read more",
+          "link": "https://hackaday.com/2021/06/13/super-mario-bros-35-lives-again-with-a-fan-made-server/",
+          "publishedOn": "2021-06-13T08:00:43.000Z",
+          "wordCount": 1826,
+          "title": "Super Mario Bros. 35 Lives Again With A Fan-Made Server"
+        },
+        {
+          "id": "https://hackaday.com/?p=481957",
+          "author": "Kristina Panos",
+          "description": "We know this feeling all too well [YOHON!] spent $340 building, lubing, and filming a custom keyboard and it still wasn’t perfect until they got the keycaps sorted. They bought …read more",
+          "link": "https://hackaday.com/2021/06/12/waterslide-decals-for-wingding-keycaps/",
+          "publishedOn": "2021-06-13T05:00:26.000Z",
+          "wordCount": 2042,
+          "title": "Waterslide Decals for Wingding Keycaps"
+        },
         {
           "id": "https://hackaday.com/?p=481014",
           "author": "Jenny List",
@@ -2137,6 +2182,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2277",
+          "author": "Cory Doctorow",
+          "description": "Today's links A stroll through Magnolia Park: Mask deniers, studio surplus, vintage stores, and the re-emergence of Zap/Action Haunted Mansion kits. This day in history: 2001, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading A stroll through Magnolia Park (permalink) One of the weird ironies of living in the US and having family, friends and colleagues abroad is the vast, iniquitous gap in vaccine availability based on where you live, and, more particularly, whether you live in a poor country or a rich one. Vaccine Apartheid is a global terror and horror, but that's not the \"ironic\" part. That would be the American vaccine deniers who have effectively killed the dream of herd immunity, and taken anti-vax from a threat to…",
+          "link": "https://pluralistic.net/2021/06/13/haunted-mansion/",
+          "publishedOn": "2021-06-13T15:48:09.000Z",
+          "wordCount": 1924,
+          "title": "Pluralistic: 13 Jun 2021"
+        },
         {
           "id": "https://pluralistic.net/?p=2273",
           "author": "Cory Doctorow",
