@@ -219,15 +219,6 @@
           "publishedOn": "2021-04-30T23:49:00.000Z",
           "wordCount": 1804,
           "title": "End of April Link Assortment"
-        },
-        {
-          "id": "http://emshort.blog/?p=41885",
-          "author": "Mort Short",
-          "description": "Events April 17-18 will be the Flights of Foundry conference (online, so attendees can join from anywhere). The conference covers a wide range of topics, but has a number of interactive fiction/narrative related talks as well. April 18 is the next virtual meetup of the Seattle/Tacoma IF group. April 23 at 11 AM PT, I will be speaking at LudoNarraCon, … Continue reading \"Mid-April Link Assortment\"",
-          "link": "https://emshort.blog/2021/04/15/mid-april-link-assortment-5/",
-          "publishedOn": "2021-04-15T23:51:00.000Z",
-          "wordCount": 1805,
-          "title": "Mid-April Link Assortment"
         }
       ]
     },
@@ -236,6 +227,15 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2476/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/base_rate.png\" title=\"Sure, you can talk about per-capita adjustment, but if you want to solve the problem, it's obvious that this is the group you need to focus on.\" alt=\"Sure, you can talk about per-capita adjustment, but if you want to solve the problem, it's obvious that this is the group you need to focus on.\" />",
+          "link": "https://xkcd.com/2476/",
+          "publishedOn": "2021-06-14T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Base Rate"
+        },
         {
           "id": "https://xkcd.com/2475/",
           "author": null,
@@ -379,6 +379,33 @@
       "siteUrl": "https://remysharp.com",
       "articles": [
         {
+          "id": "2021-06-14",
+          "author": null,
+          "description": "Marbles Squared is now in the last leg of development and I'm working through the minor bugs in the software - things like a single white pixel sometimes appears in the bottom of the \"game over\" box.\nBut right up to the last moments I'm still making significant changes that I won't be able to change later once it's released: the scoring system.\nOriginally the scoring was based on the same system as the original Palm Pilot version. Specifically, the scoring was n * (5 + n) where n is the blocks selected.\nWhen I've been testing the game I hadn't noticed any particular issues. But once I set into actually playing the game, and thinking about the moves I'm placing and making good use of the undo feature (which on the Spectrum is unlimited and on the Palm Pilot was limited to a single undo per …",
+          "link": "https://remysharp.com/devlog/marbles2/2021-06-14",
+          "publishedOn": "2021-06-14T00:00:00.000Z",
+          "wordCount": 793,
+          "title": "Marbles2 - 14-Jun 2021 [devlog/marbles2]"
+        },
+        {
+          "id": "i-took-a-nand-and-made-a-computer",
+          "author": null,
+          "description": "I've just today finished an online course that I stumbled upon, it took me a month (of bits during lunch breaks and a few evenings) and it was really rewarding.\nIt's been around for about 5 years, so it's possible you've heard of it, but all the same, it's called From Nand to Tetris.",
+          "link": "https://remysharp.com/2021/06/14/i-took-a-nand-and-made-a-computer",
+          "publishedOn": "2021-06-14T00:00:00.000Z",
+          "wordCount": 718,
+          "title": "I took a NAND and made a computer [blog]"
+        },
+        {
+          "id": "fugitive-telemetry-the-murderbot-diaries-6",
+          "author": null,
+          "description": "I'll never tire of how board the Murderbot is!\nI've read every one of the Murderbot diaries and have always enjoyed the fresh take on a bot that's painted in world where people distrust them by default, and yet the Murderbot would rather avoid eye contact, shy away and watch their streaming TV series on their own.\nAs the books have evolved, it's fun that Murderbot knows that I'm reading their diary and often breaks the \"fourth wall\" to speak to us, or share how they'd much rather be doing something else.\nIn a way, Murderbot reminds me of many geek developers who'd rather stay indoors, hide from the sun, complain about other humans and generally prefer their own company.",
+          "link": "https://remysharp.com/books/2021/fugitive-telemetry-the-murderbot-diaries-6",
+          "publishedOn": "2021-06-12T00:00:00.000Z",
+          "wordCount": 280,
+          "title": "Fugitive Telemetry (The Murderbot Diaries, #6) [book]"
+        },
+        {
           "id": "file-hacking-fully-self-contained-nextbasic",
           "author": null,
           "description": "With the new Spectrum Next computer there's two main modes of distributing (new) games: the NEX file format, which \"is good for a program that takes over the machine\", and the BAS file format that \"is the native SD-card format for BASIC programs\".\nThere are others that are used, for instance, .snx, but I'm mostly seen these two afore mentioned for new projects.\nWhat's particularly appealing about the NEX format is everything is self contained. If I want to distribute a game in this format, it's a single sho…",
@@ -386,6 +413,15 @@
           "publishedOn": "2021-05-31T00:00:00.000Z",
           "wordCount": 2169,
           "title": "File hacking: fully self contained NextBASIC [spectrum] [blog]"
+        },
+        {
+          "id": "84k",
+          "author": null,
+          "description": "After I got used to the technical aspect of the writing, a really engrossing story.\nThe book is written in a way that quite often ends right in the middle of a train of thought. Reading on a kindle it was hard to work out if it was intentional or if there was a problem with the Kindle edition! After a while I got used to it, and learnt to just to either let go of the sentiment or ignore it.\nThe story uses time jumping a lot but thankfully the book is written in a way that it was easy to know when we had jumped back or forwards through time.\nThe story is set in a dystopian alternative reality, which frankly isn't far from our reality now and it's easy to see how our society could get there. Which makes the entire story even more scary.\nThe story primarily follows Theo Miller a person who has lived in the world as it becomes worse and just gone along with it because \"that's just the way the world works\".\nHe weighs crime for indemnity, of course rape has a power indemnity than sexual harassment (because… Men made the rules",
+          "link": "https://remysharp.com/books/2021/84k",
+          "publishedOn": "2021-05-30T00:00:00.000Z",
+          "wordCount": 350,
+          "title": "84K [book]"
         },
         {
           "id": "notes-on-neptuno",
@@ -913,15 +949,6 @@
           "publishedOn": "2021-05-02T11:41:59.000Z",
           "wordCount": 674,
           "title": "I put all of my comics online!"
-        },
-        {
-          "id": "https://jvns.ca/blog/2021/04/16/notes-on-debugging-puzzles/",
-          "author": null,
-          "description": "Hello! This week I started building some choose-your-own-adventure-style puzzles about\ndebugging networking problems. I’m pretty excited about it and I’m trying to organize my thoughts so here’s a blog post!\nThe two I’ve made so far are:\nThe Case of the Connection Timeout\nThe Case of the Slow Website\nI’ll talk about how I came to this idea, design decisions I made, how it works,\nwhat I think is hard about making these puzzles, and some feedback I’ve gotten so far.\nwhy this choose-your-own-adventure format?\n…",
-          "link": "https://jvns.ca/blog/2021/04/16/notes-on-debugging-puzzles/",
-          "publishedOn": "2021-04-16T09:02:55.000Z",
-          "wordCount": 2422,
-          "title": "Notes on building debugging puzzles"
         }
       ]
     },
@@ -1275,6 +1302,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=482460",
+          "author": "Kristina Panos",
+          "description": "Wouldn’t it be nice if every webcam had a hardware switch? Especially for those built-in webcams like the one in your laptop. Since they don’t have switches yet, we’re just …read more",
+          "link": "https://hackaday.com/2021/06/14/friendly-webcam-robot-keeps-an-eye-on-privacy/",
+          "publishedOn": "2021-06-14T23:00:39.000Z",
+          "wordCount": 1084,
+          "title": "Friendly Webcam Robot Keeps an Eye on Privacy"
+        },
+        {
+          "id": "https://hackaday.com/?p=482221",
+          "author": "Tom Nardi",
+          "description": "If you’re looking for a quick and easy way to control a few devices from your computer, a cheap USB relay board might be the ideal solution. These are fairly …read more",
+          "link": "https://hackaday.com/2021/06/14/custom-firmware-teaches-usb-relay-board-new-tricks/",
+          "publishedOn": "2021-06-14T20:00:49.000Z",
+          "wordCount": 1358,
+          "title": "Custom Firmware Teaches USB Relay Board New Tricks"
+        },
+        {
+          "id": "https://hackaday.com/?p=482508",
+          "author": "Dan Maloney",
+          "description": "We’ll just go ahead and say it right up front: we love teardowns. Ripping into old gear and seeing how engineers solved problems — or didn’t — is endlessly fascinating, …read more",
+          "link": "https://hackaday.com/2021/06/14/digital-x-ray-scanner-teardown-yields-bounty-of-engineering-goodies/",
+          "publishedOn": "2021-06-14T18:30:00.000Z",
+          "wordCount": 1430,
+          "title": "Digital X-Ray Scanner Teardown Yields Bounty of Engineering Goodies"
+        },
+        {
+          "id": "https://hackaday.com/?p=481025",
+          "author": "Adam Zeloof",
+          "description": "Ask any electronics hobbyist or professional what the simplest building blocks of electronic circuits are, and they’ll undoubtedly say resistors, capacitors, and inductors. Ask a mechanically-inclined person the same question …read more",
+          "link": "https://hackaday.com/2021/06/14/building-blocks-relating-mechanical-elements-to-electronic-components/",
+          "publishedOn": "2021-06-14T17:00:12.000Z",
+          "wordCount": 2765,
+          "title": "Building Blocks: Relating Mechanical Elements to Electronic Components"
+        },
+        {
+          "id": "https://hackaday.com/?p=482126",
+          "author": "Mike Szczys",
+          "description": "You sure do learn a lot when life suddenly makes it impossible to go into the office and asks that you instead do the same work remotely. Sure, there are …read more",
+          "link": "https://hackaday.com/2021/06/14/todays-challenge-is-all-about-work-from-home-life/",
+          "publishedOn": "2021-06-14T16:01:42.000Z",
+          "wordCount": 1903,
+          "title": "Today’s Challenge is All About Work-From-Home Life"
+        },
+        {
+          "id": "https://hackaday.com/?p=482075",
+          "author": "Jenny List",
+          "description": "Voice controlled home assistants are the wonder of our age, once you’ve made peace with the privacy concerns of sharing the intimacies of your life with a data centre owned …read more",
+          "link": "https://hackaday.com/2021/06/14/alexa-bring-me-a-beer/",
+          "publishedOn": "2021-06-14T15:00:54.000Z",
+          "wordCount": 1409,
+          "title": "Alexa, Bring Me A Beer!"
+        },
+        {
+          "id": "https://hackaday.com/?p=480364",
+          "author": "Maya Posch",
+          "description": "There is no question that poaching has become an existential threat to the five species of rhinoceros alive today. Even the wildlife reserves where most rhinos live struggle to provide …read more",
+          "link": "https://hackaday.com/2021/06/14/rhisotope-addressing-poaching-by-making-rhinoceros-horns-radioactive/",
+          "publishedOn": "2021-06-14T14:01:02.000Z",
+          "wordCount": 4790,
+          "title": "Rhisotope: Addressing Poaching By Making Rhinoceros Horns Radioactive"
+        },
         {
           "id": "https://hackaday.com/?p=482107&preview=true&preview_id=482107",
           "author": "Dan Maloney",
@@ -2182,6 +2272,20 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2280",
+          "author": "Cory Doctorow",
+          "description": "Today's links The Rent's Too Damned High: A podcast of my Medium column on the long con of asset appreciation. Highway to Hell: The infrastructure \"compromise\" is just funny accounting. This day in history: 2001, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The Rent's Too Damned High (permalink) This week on my podcast, I read my Medium column \"The Rent's Too Damned High,\" an essay about the economic incoherence of making home-ownership the path to economic security and a middle-class life. https://medium.com/p/520f958d5ec5/ Obviously, home-ownership does allow for intergenerational wealth accumulation (simply compare the wealth accumulation gap between Black families who were excluded from home subsidies like the GI…",
+          "link": "https://pluralistic.net/2021/06/14/euthanasia-of-the-rentier/",
+          "publishedOn": "2021-06-14T15:26:01.000Z",
+          "wordCount": 2155,
+          "title": "Pluralistic: 14 Jun 2021",
+          "enclosure": {
+            "url": "https://archive.org/download/Cory_Doctorow_Podcast_392/Cory_Doctorow_Podcast_392_-_The_Rents_Too_Damned_High.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "https://pluralistic.net/?p=2277",
           "author": "Cory Doctorow",
