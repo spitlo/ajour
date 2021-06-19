@@ -237,6 +237,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2478/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/alien_visitors_2.png\" title=\"&quot;Although fresh juice DOES sound--&quot; &quot;NO! For humanity to survive we must learn from the mistakes of the past.&quot;\" alt=\"&quot;Although fresh juice DOES sound--&quot; &quot;NO! For humanity to survive we must learn from the mistakes of the past.&quot;\" />",
+          "link": "https://xkcd.com/2478/",
+          "publishedOn": "2021-06-18T00:00:00.000Z",
+          "wordCount": 187,
+          "title": "Alien Visitors 2"
+        },
+        {
           "id": "https://xkcd.com/2477/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/alien_visitors.png\" title=\"Stay right there, we'll be back in a minute. We've just gotta brainstorm some new wonders. Have you all figured out gears yet? Yes? Crap.\" alt=\"Stay right there, we'll be back in a minute. We've just gotta brainstorm some new wonders. Have you all figured out gears yet? Yes? Crap.\" />",
@@ -396,6 +405,24 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "modifying-autoincrements",
+          "author": null,
+          "description": "When using postgres locally for development, sometimes, if the production dataset is too large, I'll take a sample to work with locally.\nMore recently I've run into the problem that when I load new production data into tables with auto increment primary key columns, I'll get a conflict, i.e. I load some production data in locally, and then when the auto increment runs it'll hit a conflict - because my local sequences are completely out of sync with production.\nThe solution is to update my local sequence value. This is a two part process.\n1. Capture current values from production:\nSELECT last_value FROM public.<table>_<col>_seq;\n\nSo for something like user ids, this would be:\nSELECT last_value FROM public.user_id_seq;\n>>> 304\n\nIf this doesn't yield a result, then the sequence name is wrong, and it can be checked with the following query:\nSELECT pg_get_serial_sequence('user', 'id');\n\nNow armed with this value, in my example 304, the next part is to upload locally:\n2. Update sequences locally:\nALTER SEQUENCE <table>_<col>_seq RESTART WITH <next_value>;\n\nIt's important that I update to the next value, not the current value:\nALTER SEQUENCE user_id_seq RESTART WITH 305;\n\nNow when the next id for the user is loaded through an insert, the sequences are in sync.",
+          "link": "https://remysharp.com/til/data/modifying-autoincrements",
+          "publishedOn": "2021-06-18T08:10:17.000Z",
+          "wordCount": 346,
+          "title": "Modifying auto increments [til/data]"
+        },
+        {
+          "id": "fast-snapshot-and-restoring-for-postgres",
+          "author": null,
+          "description": "I've been using postgres a lot lately for projects, but when dealing with large dataset changes and testing, it's not a quick process to reset the state to start again.\nI stumbled upon stellar which appears to do exactly this job, but I had a couple of gotchas so figured I'd capture it here.",
+          "link": "https://remysharp.com/2021/06/18/fast-snapshot-and-restoring-for-postgres",
+          "publishedOn": "2021-06-18T00:00:00.000Z",
+          "wordCount": 500,
+          "title": "Fast snapshot and restoring for postgres [blog]"
+        },
         {
           "id": "2021-06-14",
           "author": null,
@@ -1082,6 +1109,15 @@
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
         {
+          "id": "https://blog.mozilla.org/?p=66411",
+          "author": "Natalie Linden",
+          "description": "Big wave surf legend and surfboard maker, Gary Linden talks the ocean, the internet and where humanity goes from here.\nThe post Gary Linden, legendary surfer & Firefox fan appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/products/firefox/gary-linden-big-wave-surfer/",
+          "publishedOn": "2021-06-18T16:00:00.000Z",
+          "wordCount": 2691,
+          "title": "Gary Linden, legendary surfer & Firefox fan"
+        },
+        {
           "id": "http://blog.mozilla.org/foxtail/2017/10/11/internet-search-engine-browser/",
           "author": "Chelsea Novak",
           "description": "Real talk: this web stuff can get confusing. And it’s really important that we all understand how it works, so we can be as informed and empowered as possible. Let’s start by breaking down the differences between the internet, browsers, search engines and websites. Lots of us get these four things confused with each other […]\nThe post What is the difference between the internet, browsers, search engines and websites? appeared first on The Mozilla Blog.",
@@ -1347,6 +1383,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=482945",
+          "author": "Lewin Day",
+          "description": "Keeping soil moist is key to keeping most plants happy. It can be a pain having to dip one’s fingers into dirty soil on the regular, so it’s desirable to …read more",
+          "link": "https://hackaday.com/2021/06/18/check-soil-moisture-at-a-glance-with-this-useful-display/",
+          "publishedOn": "2021-06-18T23:00:04.000Z",
+          "wordCount": 1198,
+          "title": "Check Soil Moisture At A Glance With This Useful Display"
+        },
+        {
+          "id": "https://hackaday.com/?p=482959",
+          "author": "Lewin Day",
+          "description": "Water resistance is an important feature of a modern watch. It makes wearing the watch far more practical in this modern world of sudden rainstorms and urban water balloon ambushes. …read more",
+          "link": "https://hackaday.com/2021/06/18/just-how-water-resistant-is-the-casio-f91w/",
+          "publishedOn": "2021-06-18T20:00:51.000Z",
+          "wordCount": 1523,
+          "title": "Just How Water Resistant Is The Casio F91W?"
+        },
+        {
+          "id": "https://hackaday.com/?p=482793",
+          "author": "Chris Lott",
+          "description": "[Gerrit Braun], co-founder of the [Miniatur Wunderland] model railway and miniature airport attraction in Hamburg, takes his model building seriously. For more than five years, he and his team have …read more",
+          "link": "https://hackaday.com/2021/06/18/formula-1-tv-broadcasting-in-187-scale/",
+          "publishedOn": "2021-06-18T18:30:00.000Z",
+          "wordCount": 1604,
+          "title": "Formula 1 TV Broadcasting in 1:87 Scale"
+        },
+        {
+          "id": "https://hackaday.com/?p=479978",
+          "author": "Jenny List",
+          "description": "Here at Hackaday we’re privileged to be part of a global community of hackers, makers, technology enthusiasts and creative people whose collective works make our daily news feeds such a …read more",
+          "link": "https://hackaday.com/2021/06/18/do-you-spaceapi/",
+          "publishedOn": "2021-06-18T17:00:14.000Z",
+          "wordCount": 1733,
+          "title": "Do You SpaceAPI?"
+        },
+        {
+          "id": "https://hackaday.com/?p=481960&preview=true&preview_id=481960",
+          "author": "Dan Maloney",
+          "description": "Hackaday’s Mike Szczys is taking a bit of vacation this week, so Elliot is joined by Staff Writer Dan Maloney to talk about all the cool hacks and great articles …read more",
+          "link": "https://hackaday.com/2021/06/18/hackaday-podcast-123-radioactive-rhinos-wile-e-coyote-jetpack-radio-hacks-3-ways-and-battery-welders-on-the-spot/",
+          "publishedOn": "2021-06-18T16:01:55.000Z",
+          "wordCount": 1369,
+          "title": "Hackaday Podcast 123: Radioactive Rhinos, Wile E. Coyote Jetpack, Radio Hacks 3-Ways, and Battery Welders on the Spot"
+        },
+        {
+          "id": "https://hackaday.com/?p=482957",
+          "author": "Lewin Day",
+          "description": "These days, there’s all manner of addressable LEDs out there that can be easily used to produce blinky, flashy projects. However, there’s nothing stopping makers from doing things the old …read more",
+          "link": "https://hackaday.com/2021/06/18/led-matrix-glasses-built-with-the-help-of-graph-paper/",
+          "publishedOn": "2021-06-18T15:30:00.000Z",
+          "wordCount": 1370,
+          "title": "LED Matrix Glasses Built With The Help Of Graph Paper"
+        },
+        {
+          "id": "https://hackaday.com/?p=483049",
+          "author": "Jonathan Bennett",
+          "description": "First off, Apple has issued an update for some very old devices. Well, vintage 2013, but that’s a long time in cell-phone years. Fixed are a trio of vulnerabilities, two …read more",
+          "link": "https://hackaday.com/2021/06/18/this-week-in-security-updates-leaks-hacking-old-hardware-and-making-new/",
+          "publishedOn": "2021-06-18T14:00:29.000Z",
+          "wordCount": 2699,
+          "title": "This Week in Security: Updates, Leaks, Hacking Old Hardware, And Making New"
+        },
         {
           "id": "https://hackaday.com/?p=482736",
           "author": "Bryan Cockfield",
