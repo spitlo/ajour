@@ -6,6 +6,29 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=6835",
+          "author": "Chris Heilmann",
+          "description": "Last week my former colleague Si Jobling interviewed me for his Make life work podcast about working from home, in different time zones and how to optimise your workflow. This also tied in nicely with Tools and Tips to Optimize Your Workflow as a Developer class and I shared how this one got prepared and […]",
+          "link": "https://christianheilmann.com/2021/06/21/making-remote-work-podcast/",
+          "publishedOn": "2021-06-21T19:35:47.000Z",
+          "wordCount": 220,
+          "title": "Making remote work – Podcast",
+          "enclosure": {
+            "url": "https://media.blubrry.com/make_life/s/pinecast.com/listen/64375c1f-08ec-4fe6-96f6-65fd6647b1ca.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          }
+        },
+        {
+          "id": "https://christianheilmann.com/?p=6833",
+          "author": "Chris Heilmann",
+          "description": "I got a cold email asking me to write a blog post about “Seven things you can’t do in React” for exposure on a “leading technology blog”. I sent them my proposal, wish me luck… 1. Boil the perfect egg 2. Connect to your inner child 3. Reach that itchy part on your back 4. […]",
+          "link": "https://christianheilmann.com/2021/06/21/seven-things-you-cant-do-in-react/",
+          "publishedOn": "2021-06-21T16:18:19.000Z",
+          "wordCount": 229,
+          "title": "Seven things you can’t do in React…"
+        },
+        {
           "id": "https://christianheilmann.com/?p=6821",
           "author": "Chris Heilmann",
           "description": "Often you will be part of meetings where people show demos of what your product could look like in the future. These are brain-storming, visionary meetings that can have great outcomes. The idea is to not think in boundaries but in benefits for your users and customers. The longer you work in a certain company […]",
@@ -228,6 +251,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2479/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/houseguests.png\" title=\"You can come on in, we're all fully vaccinated. Except the spare room off the living room. Don't go in there, we're not fully vaccinated in there.\" alt=\"You can come on in, we're all fully vaccinated. Except the spare room off the living room. Don't go in there, we're not fully vaccinated in there.\" />",
+          "link": "https://xkcd.com/2479/",
+          "publishedOn": "2021-06-21T00:00:00.000Z",
+          "wordCount": 183,
+          "title": "Houseguests"
+        },
+        {
           "id": "https://xkcd.com/2478/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/alien_visitors_2.png\" title=\"&quot;Although fresh juice DOES sound--&quot; &quot;NO! For humanity to survive we must learn from the mistakes of the past.&quot;\" alt=\"&quot;Although fresh juice DOES sound--&quot; &quot;NO! For humanity to survive we must learn from the mistakes of the past.&quot;\" />",
@@ -396,6 +428,15 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "light-dark-firefox-theme-switching",
+          "author": null,
+          "description": "After baulking at the fuss over light and dark theming in both browsers and systems, I've fully jumped into the bandwagon and enjoy when my system theme switches to \"evening\" mode and everything goes easier on my eyes - I even blogged about my set up last year.\nFirefox recently updated with a System Theme that would change when the system went from light to dark and back again, but I wasn't personally so keen on the light theme.\nThe excellent Firefox Color lets me easily customise and adjust the theme, but at the cost of having to manually switch between light and dark. So I wrote an extension to do it for me!",
+          "link": "https://remysharp.com/2021/06/21/light-dark-firefox-theme-switching",
+          "publishedOn": "2021-06-21T00:00:00.000Z",
+          "wordCount": 690,
+          "title": "Light/Dark firefox theme switching [blog]"
+        },
         {
           "id": "modifying-autoincrements",
           "author": null,
@@ -740,7 +781,17 @@
       "title": "esoteric.codes",
       "feedUrl": "https://esoteric.codes/rss",
       "siteUrl": "https://esoteric.codes",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://esoteric.codes/blog/zzo38",
+          "author": null,
+          "description": "Zzo38 is undoubtedly the most prolific of esolangers. In addition to his long list of fully developed esolangs are his unimplemented ideas and experiments. He has been creating languages since 1994 with DZZZZ, a Funge-like language not much younger than Befunge. \n\n\r\n» Is there a meaning behind your pseudonym zzo38?\n\r\n\"ZZO\" is like \"ZZT\", which is a DOS-based game engine I have used in the past (and still do). (ZZT wasn't Free software at the time, but it is now.)\n\r\nThe numbers 3 and 8 are from I wanted to decorate a pillow with numbers but those are the only numbers they had.\n\r\n» Your list on the esolangs wiki of unusual features of languages is fascinating, e.g. how COBOL can change the locations GOTOs point to. Do you draw from these in designing your own languages? What are the most esoteric features you've found in non-esoteric languages? What do you consider the most non-intentionally-esoteric language?\n\r\nIt had been said that PostScript is both esoteric and non-esoteric at the same time. Additionally, I would think PostScript is both general-purpose and domain-specific at the same time, too.\nRead More",
+          "link": "https://esoteric.codes/blog/zzo38",
+          "publishedOn": "2021-06-21T07:39:00.000Z",
+          "wordCount": 2756,
+          "title": "Interview with Zzo38"
+        }
+      ]
     },
     {
       "title": "Lea Verou",
@@ -993,6 +1044,15 @@
       "feedUrl": "https://www.joshwcomeau.com/rss.xml",
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
+        {
+          "id": "https://www.joshwcomeau.com/react/demystifying-styled-components/",
+          "author": "Josh W. Comeau",
+          "description": "For so many React devs, styled-components seems kinda magical. It isn't at all clear how it uses traditional CSS features under-the-hood, and that lack of clarity can cause real problems when things go awry. In this post, we'll learn exactly how styled-components works by building our own mini-version.",
+          "link": "https://www.joshwcomeau.com/react/demystifying-styled-components/",
+          "publishedOn": "2021-06-21T14:13:12.000Z",
+          "wordCount": 2758,
+          "title": "Demystifying styled-components"
+        },
         {
           "id": "https://www.joshwcomeau.com/react/modern-spacer-gif/",
           "author": "Josh W. Comeau",
@@ -1357,15 +1417,6 @@
           "publishedOn": "2021-04-29T14:00:00.000Z",
           "wordCount": 5422,
           "title": "Immersive Content Strategy"
-        },
-        {
-          "id": "https://alistapart.com/article/do-you-need-to-localize-your-website/",
-          "author": "by",
-          "description": "Global markets give you access to new customers. All you need to do is inform potential buyers about your product or service. \nYour website is a good place to introduce your product or service outside your locale. Localizing your web content sounds like the right way to reach out to the global market. Localization will bridge the language barriers, or the wider scope of differing cultures. \nBefore we move on further with the discussion, let’s focus on the definition of “localization.” \nWhat is localization?…",
-          "link": "https://alistapart.com/article/do-you-need-to-localize-your-website/",
-          "publishedOn": "2021-04-22T14:00:00.000Z",
-          "wordCount": 2981,
-          "title": "Do You Need to Localize Your Website?"
         }
       ]
     },
@@ -1374,6 +1425,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=483276",
+          "author": "Bryan Cockfield",
+          "description": "[James Sharman] has built an impressive 8-bit homebrew computer. Based on TTL logic chips, it has a pipelined design which makes it capable of Commodore-level computing, but [James] hasn’t quite …read more",
+          "link": "https://hackaday.com/2021/06/21/vga-from-scratch-on-a-homebrew-8-bit-computer/",
+          "publishedOn": "2021-06-21T23:00:52.000Z",
+          "wordCount": 1113,
+          "title": "VGA From Scratch On A Homebrew 8-bit Computer"
+        },
+        {
+          "id": "https://hackaday.com/?p=483434",
+          "author": "Al Williams",
+          "description": "Smart watches are pretty common today, but how many people do you know with a smart hat? [Oliver] built Wilson which he bills as “the IoT hat.” We wonder if …read more",
+          "link": "https://hackaday.com/2021/06/21/forget-smart-watch-build-a-smart-hat/",
+          "publishedOn": "2021-06-21T20:00:02.000Z",
+          "wordCount": 1142,
+          "title": "Forget Smart Watch; Build a Smart Hat"
+        },
+        {
+          "id": "https://hackaday.com/?p=483414",
+          "author": "Jenny List",
+          "description": "There are some times when an awesome project comes into your feed, but a language barrier intervenes as you try to follow its creator’s description. [Kanti Sharma]’s laser display appears …read more",
+          "link": "https://hackaday.com/2021/06/21/a-laser-display-board-of-your-very-own/",
+          "publishedOn": "2021-06-21T18:30:36.000Z",
+          "wordCount": 3963,
+          "title": "A Laser Display Board Of Your Very Own"
+        },
+        {
+          "id": "https://hackaday.com/?p=480336",
+          "author": "Kristina Panos",
+          "description": "As much as I’d like to devote an article to each and every bit of keyboard-related what-have-you that I come across in my travels through the intertubes, there just aren’t …read more",
+          "link": "https://hackaday.com/2021/06/21/keebin-with-kristina-the-one-with-the-chinese-typewriter/",
+          "publishedOn": "2021-06-21T17:00:48.000Z",
+          "wordCount": 2041,
+          "title": "Keebin’ with Kristina: the One with the Chinese Typewriter"
+        },
+        {
+          "id": "https://hackaday.com/?p=483042&preview=true&preview_id=483042",
+          "author": "Dan Maloney",
+          "description": "Join us on Wednesday, June 23 at noon Pacific for the Microscopy Hack Chat with Zachary Tong! There was a time when electronics was very much a hobby that existed …read more",
+          "link": "https://hackaday.com/2021/06/21/microscopy-hack-chat-with-zachary-tong/",
+          "publishedOn": "2021-06-21T16:00:57.000Z",
+          "wordCount": 1226,
+          "title": "Microscopy Hack Chat with Zachary Tong"
+        },
+        {
+          "id": "https://hackaday.com/?p=483342",
+          "author": "Chris Lott",
+          "description": "A forum post by New Zealand electronics enthusiast [zl2wrw] about retreiving waypoints from a mysterious floppy disk caught our eye. The navigation system on his friend’s fishing boat had died and …read more",
+          "link": "https://hackaday.com/2021/06/21/raspberry-pi-floppy-driver-uncovers-fishy-secrets/",
+          "publishedOn": "2021-06-21T15:00:00.000Z",
+          "wordCount": 1837,
+          "title": "Raspberry Pi Floppy Driver Uncovers Fishy Secrets"
+        },
+        {
+          "id": "https://hackaday.com/?p=481856",
+          "author": "Tom Nardi",
+          "description": "While the price of electronic paper has dropped considerably over the last few years, it’s still relatively expensive when compared to more traditional display technology. Accordingly, we’ve seen a lot …read more",
+          "link": "https://hackaday.com/2021/06/21/review-inkplate-6plus/",
+          "publishedOn": "2021-06-21T14:00:46.000Z",
+          "wordCount": 2329,
+          "title": "Review: Inkplate 6PLUS"
+        },
         {
           "id": "https://hackaday.com/?p=482900&preview=true&preview_id=482900",
           "author": "Dan Maloney",
@@ -2722,6 +2836,20 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2309",
+          "author": "Cory Doctorow",
+          "description": "Today's links Podcasting \"Inside the Clock Tower\": Reading my Consumer Reports story about an interoperable future. This day in history: 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Podcasting \"Inside the Clock Tower\" (permalink) Today on my podcast, I read \"Inside the Clock Tower,\" a short science fiction story for Consumer Reports that depicts a future of interoperable social media (as contemplated by the recently introduced ACCESS Act). https://digital-lab.consumerreports.org/2021/06/15/inside-the-clock-tower/ The ACCESS Act would require large social media platforms to create gateways (APIs) that new services could plug into, so that users who quit the monopoly services would still be able to talk to the friends, custo…",
+          "link": "https://pluralistic.net/2021/06/21/interop-fables/",
+          "publishedOn": "2021-06-21T14:56:27.000Z",
+          "wordCount": 1455,
+          "title": "Pluralistic: 21 Jun 2021",
+          "enclosure": {
+            "url": "https://ia801409.us.archive.org/21/items/Cory_Doctorow_Podcast_394/Cory_Doctorow_Podcast_393_-_Inside_The_Clock_Tower.mp3",
+            "length": "16277504",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "https://pluralistic.net/?p=2301",
           "author": "Cory Doctorow",
