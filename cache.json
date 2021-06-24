@@ -251,6 +251,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2480/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/no_the_other_one.png\" title=\"Key West, Virginia is not to be confused with Key, West Virginia.\" alt=\"Key West, Virginia is not to be confused with Key, West Virginia.\" />",
+          "link": "https://xkcd.com/2480/",
+          "publishedOn": "2021-06-23T00:00:00.000Z",
+          "wordCount": 189,
+          "title": "No, The Other One"
+        },
+        {
           "id": "https://xkcd.com/2479/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/houseguests.png\" title=\"You can come on in, we're all fully vaccinated. Except the spare room off the living room. Don't go in there, we're not fully vaccinated in there.\" alt=\"You can come on in, we're all fully vaccinated. Except the spare room off the living room. Don't go in there, we're not fully vaccinated in there.\" />",
@@ -966,15 +975,6 @@
           "publishedOn": "2021-04-25T18:30:50.000Z",
           "wordCount": 228,
           "title": "Chafa converts images or video to text in a terminal, and there..."
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/649425368773738496",
-          "author": null,
-          "description": "Removing RAM from a computer while it’s on. By Nova/marisa.",
-          "link": "https://text-mode.tumblr.com/post/649425368773738496",
-          "publishedOn": "2021-04-25T08:44:54.000Z",
-          "wordCount": 239,
-          "title": "Removing RAM from a computer while it’s on. By Nova/marisa."
         }
       ]
     },
@@ -1425,6 +1425,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=484097",
+          "author": "Dan Maloney",
+          "description": "John McAfee, the founder of McAfee Associates and pioneer in the antivirus field, was found dead today, June 23, 2021, of an apparent suicide in a Barcelona prison cell. Born …read more",
+          "link": "https://hackaday.com/2021/06/23/john-mcafees-wild-ride-is-over/",
+          "publishedOn": "2021-06-23T23:01:48.000Z",
+          "wordCount": 1427,
+          "title": "John McAfee’s Wild Ride is Over"
+        },
+        {
+          "id": "https://hackaday.com/?p=483418",
+          "author": "Dan Maloney",
+          "description": "Sound recording and playback have come a long way in the last century or so, but it’s fair to say there’s still a lot of interesting stuff locked away on …read more",
+          "link": "https://hackaday.com/2021/06/23/piezo-pickup-makes-wax-records-easy-to-digitize/",
+          "publishedOn": "2021-06-23T20:00:24.000Z",
+          "wordCount": 1670,
+          "title": "Piezo Pickup Makes Wax Records Easy to Digitize"
+        },
+        {
+          "id": "https://hackaday.com/?p=483601",
+          "author": "Dan Maloney",
+          "description": "There’s no doubting the utility of the trusty solderless breadboard, but you have to admit they’re less than perfect. They’re not ideal for certain types of circuits, of course, but …read more",
+          "link": "https://hackaday.com/2021/06/23/silicon-jumpers-make-this-wire-free-breadboard-programmable/",
+          "publishedOn": "2021-06-23T18:30:00.000Z",
+          "wordCount": 1667,
+          "title": "Silicon Jumpers Make this Wire-Free Breadboard Programmable"
+        },
+        {
+          "id": "https://hackaday.com/?p=481569",
+          "author": "Jonathan Bennett",
+          "description": "Raise your hand if you remember when PulseAudio was famous for breaking audio on Linux for everyone. For quite a few years, the standard answer for any audio problem on …read more",
+          "link": "https://hackaday.com/2021/06/23/pipewire-the-newest-audio-kid-on-the-linux-block/",
+          "publishedOn": "2021-06-23T17:00:43.000Z",
+          "wordCount": 4185,
+          "title": "PipeWire, The Newest Audio Kid on the Linux Block"
+        },
+        {
+          "id": "https://hackaday.com/?p=483758",
+          "author": "Donald Papp",
+          "description": "The earliest televisions used a spinning disk technology called the Nipkow disk, which is exactly what [Science ‘n’ Stuff] recreated with their Arduino-based mechanical color television (video link, also embedded …read more",
+          "link": "https://hackaday.com/2021/06/23/big-spinning-disk-makes-a-small-color-video-display/",
+          "publishedOn": "2021-06-23T15:30:00.000Z",
+          "wordCount": 1527,
+          "title": "Big Spinning Disk Makes a Small Color Video Display"
+        },
+        {
+          "id": "https://hackaday.com/?p=482729",
+          "author": "Maya Posch",
+          "description": "After decades of improvements to hard disk drive (HDD) technology, manufacturers are now close to taking the next big leap that will boost storage density to new levels. Using laser-assisted …read more",
+          "link": "https://hackaday.com/2021/06/23/how-graphene-may-enable-the-next-generations-of-high-density-hard-drives/",
+          "publishedOn": "2021-06-23T14:01:49.000Z",
+          "wordCount": 3669,
+          "title": "How Graphene May Enable The Next Generations Of High-Density Hard Drives"
+        },
+        {
+          "id": "https://hackaday.com/?p=483692",
+          "author": "Maya Posch",
+          "description": "With the market for STM32F103C8-based ‘Blue Pill’ boards slowly being overrun with boards that contain either a cloned, fake or outright broken chip, [Terry Porter] really wanted to have an …read more",
+          "link": "https://hackaday.com/2021/06/23/test-your-blue-pill-board-for-a-genuine-stm32f103c8-mcu/",
+          "publishedOn": "2021-06-23T11:00:00.000Z",
+          "wordCount": 2535,
+          "title": "Test Your ‘Blue Pill’ Board For A Genuine STM32F103C8 MCU"
+        },
         {
           "id": "https://hackaday.com/?p=483549",
           "author": "Kristina Panos",

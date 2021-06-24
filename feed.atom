@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-06-23T00:15:02.245Z</updated>
+    <updated>2021-06-24T00:12:16.068Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[John McAfee’s Wild Ride is Over]]></title>
+        <id>https://hackaday.com/?p=484097</id>
+        <link href="https://hackaday.com/2021/06/23/john-mcafees-wild-ride-is-over/"/>
+        <updated>2021-06-23T23:01:48.000Z</updated>
+        <summary type="html"><![CDATA[John McAfee, the founder of McAfee Associates and pioneer in the antivirus field, was found dead today, June 23, 2021, of an apparent suicide in a Barcelona prison cell. Born …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Piezo Pickup Makes Wax Records Easy to Digitize]]></title>
+        <id>https://hackaday.com/?p=483418</id>
+        <link href="https://hackaday.com/2021/06/23/piezo-pickup-makes-wax-records-easy-to-digitize/"/>
+        <updated>2021-06-23T20:00:24.000Z</updated>
+        <summary type="html"><![CDATA[Sound recording and playback have come a long way in the last century or so, but it’s fair to say there’s still a lot of interesting stuff locked away on …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silicon Jumpers Make this Wire-Free Breadboard Programmable]]></title>
+        <id>https://hackaday.com/?p=483601</id>
+        <link href="https://hackaday.com/2021/06/23/silicon-jumpers-make-this-wire-free-breadboard-programmable/"/>
+        <updated>2021-06-23T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s no doubting the utility of the trusty solderless breadboard, but you have to admit they’re less than perfect. They’re not ideal for certain types of circuits, of course, but …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PipeWire, The Newest Audio Kid on the Linux Block]]></title>
+        <id>https://hackaday.com/?p=481569</id>
+        <link href="https://hackaday.com/2021/06/23/pipewire-the-newest-audio-kid-on-the-linux-block/"/>
+        <updated>2021-06-23T17:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Raise your hand if you remember when PulseAudio was famous for breaking audio on Linux for everyone. For quite a few years, the standard answer for any audio problem on …read more]]></summary>
+        <author>
+            <name>Jonathan Bennett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big Spinning Disk Makes a Small Color Video Display]]></title>
+        <id>https://hackaday.com/?p=483758</id>
+        <link href="https://hackaday.com/2021/06/23/big-spinning-disk-makes-a-small-color-video-display/"/>
+        <updated>2021-06-23T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The earliest televisions used a spinning disk technology called the Nipkow disk, which is exactly what [Science ‘n’ Stuff] recreated with their Arduino-based mechanical color television (video link, also embedded …read more]]></summary>
+        <author>
+            <name>Donald Papp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Graphene May Enable The Next Generations Of High-Density Hard Drives]]></title>
+        <id>https://hackaday.com/?p=482729</id>
+        <link href="https://hackaday.com/2021/06/23/how-graphene-may-enable-the-next-generations-of-high-density-hard-drives/"/>
+        <updated>2021-06-23T14:01:49.000Z</updated>
+        <summary type="html"><![CDATA[After decades of improvements to hard disk drive (HDD) technology, manufacturers are now close to taking the next big leap that will boost storage density to new levels. Using laser-assisted …read more]]></summary>
+        <author>
+            <name>Maya Posch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Test Your ‘Blue Pill’ Board For A Genuine STM32F103C8 MCU]]></title>
+        <id>https://hackaday.com/?p=483692</id>
+        <link href="https://hackaday.com/2021/06/23/test-your-blue-pill-board-for-a-genuine-stm32f103c8-mcu/"/>
+        <updated>2021-06-23T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With the market for STM32F103C8-based ‘Blue Pill’ boards slowly being overrun with boards that contain either a cloned, fake or outright broken chip, [Terry Porter] really wanted to have an …read more]]></summary>
+        <author>
+            <name>Maya Posch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No, The Other One]]></title>
+        <id>https://xkcd.com/2480/</id>
+        <link href="https://xkcd.com/2480/"/>
+        <updated>2021-06-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/no_the_other_one.png" title="Key West, Virginia is not to be confused with Key, West Virginia." alt="Key West, Virginia is not to be confused with Key, West Virginia." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flexible Prototyping for E-Textiles That Doesn’t Cost an Arm and a Leg]]></title>
         <id>https://hackaday.com/?p=483549</id>
@@ -3773,16 +3853,6 @@ I'm far from an expert and I've read bits around how sometimes these won't work 
         <link href="https://text-mode.tumblr.com/post/649462232767430656"/>
         <updated>2021-04-25T18:30:50.000Z</updated>
         <summary type="html"><![CDATA[Chafa converts images or video to text in a terminal, and there are plenty of settings to play with.]]></summary>
-        <author>
-            <name>TEXT-MODE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Removing RAM from a computer while it’s on. By Nova/marisa.]]></title>
-        <id>https://text-mode.tumblr.com/post/649425368773738496</id>
-        <link href="https://text-mode.tumblr.com/post/649425368773738496"/>
-        <updated>2021-04-25T08:44:54.000Z</updated>
-        <summary type="html"><![CDATA[Removing RAM from a computer while it’s on. By Nova/marisa.]]></summary>
         <author>
             <name>TEXT-MODE</name>
         </author>
