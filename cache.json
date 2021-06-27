@@ -190,15 +190,6 @@
           "publishedOn": "2021-05-02T00:00:00.000Z",
           "wordCount": 1208,
           "title": "Judith Lucero"
-        },
-        {
-          "id": "https://grumpygamer.com/apple_privacy",
-          "author": null,
-          "description": "If Apple really cared about iOS privacy they would give the user to ability to block any app from reaching the internet.  A lot of the iOS apps I used have no need to ping the internet but they all do to gather metrics and do who-knows-what. \nRather than create a complex and unenforceable privacy policy Apple should just let users block the app from using the internet.  Or require a certificate to access the internet and don't allow it if the fundamental use of the app isn't to connect to the internet.  The…",
-          "link": "https://grumpygamer.com/apple_privacy",
-          "publishedOn": "2021-04-28T00:00:00.000Z",
-          "wordCount": 2135,
-          "title": "Apple and Privacy"
         }
       ]
     },
@@ -661,24 +652,6 @@
           "publishedOn": "2021-04-30T09:19:14.000Z",
           "wordCount": 263,
           "title": "PS/2 Spectrum keys [til/spectrum]"
-        },
-        {
-          "id": "the-galaxy-and-the-ground-within-wayfarers-4",
-          "author": null,
-          "description": "Surprisingly difficult to connect with.\nThis is still a well written, interesting, continues the Wayfarer universe and prompts some challenging thoughts.\nWhere I did struggle was connection with the characters. Because they're exclusively alien, and entirely so: 4 arms and a shell, tiny sloth like swinging creatures, Laru fur-ball bendy things (though I imagined the creature from Ice Age oddly enough), because they're hard to visualise in my head I found it harder to connect to the characters.\nI do also sus…",
-          "link": "https://remysharp.com/books/2021/the-galaxy-and-the-ground-within-wayfarers-4",
-          "publishedOn": "2021-04-28T00:00:00.000Z",
-          "wordCount": 354,
-          "title": "The Galaxy, and the Ground Within (Wayfarers, #4) [book]"
-        },
-        {
-          "id": "fun-with-esp-modules",
-          "author": null,
-          "description": "In my evening projects I've been getting into projects that use an ESP module, an ESP 01 specifically, and so I wanted to write up what I've found, how to upgrade (or downgrade) them, common AT commands and general tips either for you my dear reader, or for Future Me when I no doubt forget.\nI'm far from an expert and I've read bits around how sometimes these won't work properly, but these notes worked for me - and fair warning: this is intended as a \"what I've learned so far\".",
-          "link": "https://remysharp.com/2021/04/28/fun-with-esp-modules",
-          "publishedOn": "2021-04-28T00:00:00.000Z",
-          "wordCount": 1914,
-          "title": "Fun with ESP modules [blog]"
         }
       ]
     },
@@ -966,15 +939,6 @@
           "publishedOn": "2021-04-28T18:30:49.000Z",
           "wordCount": 213,
           "title": "Lord Nikon - capcop, via 16colo.rs."
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/649643430735134720",
-          "author": null,
-          "description": "Sgt. PETSCII’s Lonely Hearts Club Band by Dr. TerrorZ, 2021.",
-          "link": "https://text-mode.tumblr.com/post/649643430735134720",
-          "publishedOn": "2021-04-27T18:30:54.000Z",
-          "wordCount": 144,
-          "title": "Sgt. PETSCII’s Lonely Hearts Club Band by Dr. TerrorZ,..."
         }
       ]
     },
@@ -1443,6 +1407,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=483636",
+          "author": "Tom Nardi",
+          "description": "Even if you’ve got a decent sized workshop, there’s only so much stuff you can have sitting on the bench at one time. That’s why [Eric Strebel], ever the prolific …read more",
+          "link": "https://hackaday.com/2021/06/26/custom-3d-printer-cart-hides-clever-features/",
+          "publishedOn": "2021-06-26T23:00:00.000Z",
+          "wordCount": 1237,
+          "title": "Custom 3D Printer Cart Hides Clever Features"
+        },
+        {
+          "id": "https://hackaday.com/?p=483468",
+          "author": "Jenny List",
+          "description": "The arrival of LoRa a few years ago gave  us at last an accessible licence-free UHF communication protocol with significant range. It’s closed-source, but there are plenty of modules available …read more",
+          "link": "https://hackaday.com/2021/06/26/lora-messenger-in-nokias-shell/",
+          "publishedOn": "2021-06-26T20:00:00.000Z",
+          "wordCount": 1514,
+          "title": "LoRa Messenger in Nokia’s Shell"
+        },
+        {
+          "id": "https://hackaday.com/?p=483675",
+          "author": "Danie Conradie",
+          "description": "As you dive deeper into the world of electronics, a good oscilloscope quickly is an indispensable tool. However, for many use cases where you’re debugging low voltage, low speed circuits, …read more",
+          "link": "https://hackaday.com/2021/06/26/raspberry-pi-pico-oscilloscope/",
+          "publishedOn": "2021-06-26T17:01:43.000Z",
+          "wordCount": 2570,
+          "title": "Raspberry Pi Pico Oscilloscope"
+        },
+        {
+          "id": "https://hackaday.com/?p=484370",
+          "author": "Elliot Williams",
+          "description": "Get yourself a decent stereo inspection microscope, preferably optical. Something that can magnify from maybe 4x to 40x is fine, anything outside this range is icing on the cake. Some …read more",
+          "link": "https://hackaday.com/2021/06/26/how-did-i-live-without-a-microscope/",
+          "publishedOn": "2021-06-26T14:00:18.000Z",
+          "wordCount": 3404,
+          "title": "How Did I Live Without a Microscope?"
+        },
+        {
+          "id": "https://hackaday.com/?p=483592",
+          "author": "Bryan Cockfield",
+          "description": "[Emiel] aka [The Practical Engineer] makes all kinds of fun projects in his fully-featured shop, and one of his tangents has been building a series of solenoid engines. These engines …read more",
+          "link": "https://hackaday.com/2021/06/26/can-the-solenoid-engine-power-a-car/",
+          "publishedOn": "2021-06-26T11:01:09.000Z",
+          "wordCount": 1379,
+          "title": "Can the Solenoid Engine Power a Car?"
+        },
+        {
+          "id": "https://hackaday.com/?p=483535",
+          "author": "Jenny List",
+          "description": "The quest for truly random numbers is something to which scientists and engineers have devoted a lot of time and effort. The trick is to find an unpredictable source of …read more",
+          "link": "https://hackaday.com/2021/06/26/random-numbers-from-a-smoke-detector/",
+          "publishedOn": "2021-06-26T08:01:38.000Z",
+          "wordCount": 1995,
+          "title": "Random Numbers From A Smoke Detector"
+        },
+        {
+          "id": "https://hackaday.com/?p=483617",
+          "author": "Chris Lott",
+          "description": "A few years ago, [Gregory Sanders] aka [Dr Gerg] had one simple wish in mind when he started what is now the PiNet project — to know whether his garage …read more",
+          "link": "https://hackaday.com/2021/06/25/pinet-one-small-project-grows-unexpectedly/",
+          "publishedOn": "2021-06-26T05:00:12.000Z",
+          "wordCount": 3112,
+          "title": "PiNet — One Small Project Grows Unexpectedly"
+        },
         {
           "id": "https://hackaday.com/?p=483871",
           "author": "Zach Zeman",
@@ -3106,6 +3133,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2323",
+          "author": "Cory Doctorow",
+          "description": "Today's links The Overlapping Infrastructure of Urban Surveillance: A long, tall graphic depicting the invisible, ubiquitous city spy-grid. How Peter Thiel gamed the Roth IRA for tax-free billions: More from Propublica's Secret IRS Files. New York City's 100 worst landlords: Gotta catch 'em all. This day in history: 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The Overlapping Infrastructure of Urban Surveillance (permalink) From traffic-cams to mobile device tracking to social media spying and beyond, the urban landscape has quietly become a locus of ubiquitous surveillance, without any meaningful debate, let alone democratic oversight or consent. \"The Overlapping Infrastructure of Urban Surveillance, and How to Fix …",
+          "link": "https://pluralistic.net/2021/06/26/wax-rothful/",
+          "publishedOn": "2021-06-26T11:15:10.000Z",
+          "wordCount": 2670,
+          "title": "Pluralistic: 26 Jun 2021"
+        },
         {
           "id": "https://pluralistic.net/?p=2319",
           "author": "Cory Doctorow",
