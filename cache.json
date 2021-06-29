@@ -643,15 +643,6 @@
           "publishedOn": "2021-05-02T00:00:00.000Z",
           "wordCount": 166,
           "title": "Remote Control [book]"
-        },
-        {
-          "id": "ps2-spectrum-keys",
-          "author": null,
-          "description": "If I've got a PS/2 connect to my spectrum then certain keys or buttons - like the NMI button - are mapped to either F-keys or key combinations.\nThis isn't a complete list, but useful (to me).\n\n\n\nFunction\nKey\n\n\n\n\nNMI\nF9\n\n\nEdit\nShift + 1\n\n\nCaps lock\nShift + 2\n\n\nBackspace\nShift + 0\n\n\nBreak\nSpace\n\n\n\nKeys that are required when in some other mode that I don't know the name for (i.e. running .uart):\n\n\n\nFunction\nKey\n\n\n\n\nQuote \"\nCtrl + p\n\n\nPlus +\nCtrl + k\n\n\nComma ,\nCtrl + n\n\n\nPeriod .\nCtrl + m\n\n\nColon :\nCtrl + z\n\n\n…",
-          "link": "https://remysharp.com/til/spectrum/ps2-spectrum-keys",
-          "publishedOn": "2021-04-30T09:19:14.000Z",
-          "wordCount": 263,
-          "title": "PS/2 Spectrum keys [til/spectrum]"
         }
       ]
     },
@@ -921,15 +912,6 @@
           "publishedOn": "2021-04-30T18:30:37.000Z",
           "wordCount": 207,
           "title": "PETSCII by christwoballs."
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/649824613967298560",
-          "author": null,
-          "description": "Gifs of Andreas Gysin’s ASCII/ANSI-works, getting pricey at SuperRare where you can see them in better framerate.",
-          "link": "https://text-mode.tumblr.com/post/649824613967298560",
-          "publishedOn": "2021-04-29T18:30:44.000Z",
-          "wordCount": 225,
-          "title": "Gifs of Andreas Gysin’s ASCII/ANSI-works, getting pricey at..."
         }
       ]
     },
@@ -1381,15 +1363,6 @@
           "publishedOn": "2021-05-06T14:00:00.000Z",
           "wordCount": 4231,
           "title": "Beware the Cut ‘n’ Paste Persona"
-        },
-        {
-          "id": "https://alistapart.com/article/immersive-content-strategy/",
-          "author": "by",
-          "description": "Beyond the severe toll of the coronavirus pandemic, perhaps no other disruption has transformed user experiences quite like how the tethers to our formerly web-biased era of content have frayed. We’re transitioning to a new world of remote work and digital content. We’re also experimenting with unprecedented content channels that, not too long ago, elicited chuckles at the watercooler, like voice interfaces, digital signage, augmented reality, and virtual reality.\nMany factors are responsible. Perhaps it’s …",
-          "link": "https://alistapart.com/article/immersive-content-strategy/",
-          "publishedOn": "2021-04-29T14:00:00.000Z",
-          "wordCount": 5422,
-          "title": "Immersive Content Strategy"
         }
       ]
     },
@@ -1398,6 +1371,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=483886",
+          "author": "Lewin Day",
+          "description": "Electric cars have been around for a while now, and thus they’re starting to get chopped up and modded just like any other car. [Daniel Öster] is one such person …read more",
+          "link": "https://hackaday.com/2021/06/28/retrofitting-fast-charging-to-a-nissan-leaf-ev/",
+          "publishedOn": "2021-06-28T23:00:10.000Z",
+          "wordCount": 1205,
+          "title": "Retrofitting Fast Charging To A Nissan Leaf EV"
+        },
+        {
+          "id": "https://hackaday.com/?p=484203",
+          "author": "Tom Nardi",
+          "description": "Back before the industry agreed on the now ubiquitous clamshell form factor of portable computers, there were a class of not-quite-desktop computers that the community affectionately refers to as “luggable” …read more",
+          "link": "https://hackaday.com/2021/06/28/a-modern-take-on-the-luggable-computer/",
+          "publishedOn": "2021-06-28T20:00:04.000Z",
+          "wordCount": 2991,
+          "title": "A Modern Take on the “Luggable” Computer"
+        },
+        {
+          "id": "https://hackaday.com/?p=484344",
+          "author": "Mike Szczys",
+          "description": "We asked you to rethink what displays can look like and you didn’t disappoint. From almost 150 entries the judges have winnowed the list down to ten projects which are …read more",
+          "link": "https://hackaday.com/2021/06/28/ten-projects-won-the-rethink-displays-round-of-the-hackaday-prize/",
+          "publishedOn": "2021-06-28T18:31:39.000Z",
+          "wordCount": 1276,
+          "title": "Ten Projects Won the Rethink Displays Round of the Hackaday Prize"
+        },
+        {
+          "id": "https://hackaday.com/?p=483220",
+          "author": "Tom Nardi",
+          "description": "Back in September of 2019, I had the opportunity to climb aboard the restored B-17G bomber Nine-O-Nine as part of a national “Wings of Freedom” airport tour operated by the …read more",
+          "link": "https://hackaday.com/2021/06/28/despite-uncertainty-wwii-warbirds-resume-tours/",
+          "publishedOn": "2021-06-28T17:01:11.000Z",
+          "wordCount": 3020,
+          "title": "Despite Uncertainty, WWII Warbirds Resume Tours"
+        },
+        {
+          "id": "https://hackaday.com/?p=484380",
+          "author": "Dan Maloney",
+          "description": "When it comes to inspiring a lifelong appreciation of science, few experiences are as powerful as that first glimpse of the world swimming in a drop of pond water as …read more",
+          "link": "https://hackaday.com/2021/06/28/lego-microscope-aims-to-discover-future-scientists/",
+          "publishedOn": "2021-06-28T15:30:00.000Z",
+          "wordCount": 1319,
+          "title": "Lego Microscope Aims to Discover Future Scientists"
+        },
+        {
+          "id": "https://hackaday.com/?p=480459",
+          "author": "Donald Papp",
+          "description": "We all need the occasional win when it comes to work or personal projects. Being able to feel that payoff of progress and satisfaction is deeply important, because if everything …read more",
+          "link": "https://hackaday.com/2021/06/28/we-all-need-a-win-sometimes-so-make-them-yourself/",
+          "publishedOn": "2021-06-28T14:00:10.000Z",
+          "wordCount": 3319,
+          "title": "We All Need a Win Sometimes, So Make Them Yourself"
+        },
+        {
+          "id": "https://hackaday.com/?p=484305",
+          "author": "Jenny List",
+          "description": "Cars and smartphones have something curious in common, just as most everyday saloon cars from different manufacturers have tended towards similarity, so have smartphones. Whether your smartphone the latest and …read more",
+          "link": "https://hackaday.com/2021/06/28/a-phone-that-old-shouldnt-be-running-android/",
+          "publishedOn": "2021-06-28T11:00:00.000Z",
+          "wordCount": 1968,
+          "title": "A Phone That Old Shouldn’t Be Running Android"
+        },
         {
           "id": "https://hackaday.com/?p=483763&preview=true&preview_id=483763",
           "author": "Dan Maloney",
@@ -3187,6 +3223,20 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2335",
+          "author": "Cory Doctorow",
+          "description": "Today's links Podcasting \"Qualia\": My column on quant-bias, antitrust, drug policy and epidemiology. Lazy Congress only schedules 9 days' work this summer: We're not paying you to party on donors' yachts. This day in history: 2006, 2011, 2016 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Podcasting \"Qualia\" (permalink) This week on my podcast, I read \"Qualia,\" my May, 2021 Locus Magazine column about quantitative bias, epidemiology, antitrust and drug policy. It's a timely piece, given the six historic antitrust laws that passed the House Judiciary Committee last week: https://doctorow.medium.com/moral-hazard-and-monopoly-42e30eb159a8 The pandemic delivered some hard lessons about quantitative bias – that's when you pay attention to t…",
+          "link": "https://pluralistic.net/2021/06/28/dubious-quant-residue/",
+          "publishedOn": "2021-06-28T15:43:43.000Z",
+          "wordCount": 2983,
+          "title": "Pluralistic: 28 Jun 2021",
+          "enclosure": {
+            "url": "https://archive.org/download/Cory_Doctorow_Podcast_395/Cory_Doctorow_Podcast_395_-_Qualia.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "https://pluralistic.net/?p=2331",
           "author": "Cory Doctorow",
