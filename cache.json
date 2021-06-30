@@ -224,15 +224,6 @@
           "publishedOn": "2021-05-15T23:17:00.000Z",
           "wordCount": 1720,
           "title": "Mid-May Link Assortment"
-        },
-        {
-          "id": "http://emshort.blog/?p=41914",
-          "author": "Mort Short",
-          "description": "Events May 1 will be the beginning of the fourth annual Rayuela de Arena interactive fiction jam. Submissions will be open until May 30. May 1 is also the opening of ParserComp 2021. Submissions can be sent in until June 30. May 1 is also the next SF Bay Area Meetup. May 7 is the Spring Thing voting deadline, when you … Continue reading \"End of April Link Assortment\"",
-          "link": "https://emshort.blog/2021/04/30/end-of-april-link-assortment-5/",
-          "publishedOn": "2021-04-30T23:49:00.000Z",
-          "wordCount": 1804,
-          "title": "End of April Link Assortment"
         }
       ]
     },
@@ -241,6 +232,15 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2482/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/indoor_socializing.png\" title=\"The problem with learning about biology is that everyone you meet is it.\" alt=\"The problem with learning about biology is that everyone you meet is it.\" />",
+          "link": "https://xkcd.com/2482/",
+          "publishedOn": "2021-06-28T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Indoor Socializing"
+        },
         {
           "id": "https://xkcd.com/2481/",
           "author": null,
@@ -437,6 +437,15 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "2021-06-29-2fe8bda4",
+          "author": null,
+          "description": "A great collection of tools similar to my own \"CLI improved\" post a few years back and includes some tools I use daily already (including jq, bat, fd and fzf).\nThere's some nice additions but the trick is to use them for local tooling and not for shared tools or workflows as it's less likely someone else will have a tool like sd installed.\nThe dog and xh look particularly interesting to me.\nSource: github.com",
+          "link": "https://remysharp.com/links/2021-06-29-2fe8bda4",
+          "publishedOn": "2021-06-29T09:40:59.000Z",
+          "wordCount": 234,
+          "title": "A collection of modern/faster alternatives to common unix commands [link]"
+        },
         {
           "id": "light-dark-firefox-theme-switching",
           "author": null,
@@ -903,15 +912,6 @@
           "publishedOn": "2021-05-01T18:30:57.000Z",
           "wordCount": 159,
           "title": "By Grau design agency."
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/649915203362930688",
-          "author": null,
-          "description": "PETSCII by christwoballs.",
-          "link": "https://text-mode.tumblr.com/post/649915203362930688",
-          "publishedOn": "2021-04-30T18:30:37.000Z",
-          "wordCount": 207,
-          "title": "PETSCII by christwoballs."
         }
       ]
     },
@@ -1371,6 +1371,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=483679",
+          "author": "Danie Conradie",
+          "description": "[James Bruton] is experimenting is a series of interesting mechanical mechanisms, the latest being a CVT transmission system which uses a tilting sphere to get a variable speed output from …read more",
+          "link": "https://hackaday.com/2021/06/29/ball-cvt-drives-robot-from-a-constant-speed-motor/",
+          "publishedOn": "2021-06-29T23:00:28.000Z",
+          "wordCount": 1385,
+          "title": "Ball CVT Drives Robot From A Constant Speed Motor"
+        },
+        {
+          "id": "https://hackaday.com/?p=484233",
+          "author": "Tom Nardi",
+          "description": "Ever since the SMART Response XE was brought to our attention back in 2018, we’ve been keeping a close lookout for projects that make use of the Arduino-compatible educational gadget. …read more",
+          "link": "https://hackaday.com/2021/06/29/smart-response-xe-turned-pocket-basic-playground/",
+          "publishedOn": "2021-06-29T20:00:42.000Z",
+          "wordCount": 1401,
+          "title": "SMART Response XE Turned Pocket BASIC Playground"
+        },
+        {
+          "id": "https://hackaday.com/?p=484213",
+          "author": "Dan Maloney",
+          "description": "On the scale of things worth worrying about, having to consider whether your EPROMs will be accidentally erased by some stray light in the shop is probably pretty low on …read more",
+          "link": "https://hackaday.com/2021/06/29/just-how-vulnerable-to-accidental-erasure-are-eproms-anyway/",
+          "publishedOn": "2021-06-29T18:30:00.000Z",
+          "wordCount": 1833,
+          "title": "Just How Vulnerable to Accidental Erasure are EPROMs Anyway?"
+        },
+        {
+          "id": "https://hackaday.com/?p=472919",
+          "author": "Kristina Panos",
+          "description": "The unspoken promise of new technologies is that they will advance and enhance our picture of the world — that goes double for the ones that are specifically designed to …read more",
+          "link": "https://hackaday.com/2021/06/29/kathleen-lonsdale-saw-through-the-structure-of-benzene/",
+          "publishedOn": "2021-06-29T17:00:02.000Z",
+          "wordCount": 2273,
+          "title": "Kathleen Lonsdale Saw Through the Structure of Benzene"
+        },
+        {
+          "id": "https://hackaday.com/?p=484695",
+          "author": "Danie Conradie",
+          "description": "Recycling plastic into filament normally involves chopping it into tiny pieces and pushing it through a screw extruder. [JRT3D] is taking a different approach with PetBot, which cuts PET bottles …read more",
+          "link": "https://hackaday.com/2021/06/29/petbot-turn-pet-bottles-into-filament/",
+          "publishedOn": "2021-06-29T15:30:00.000Z",
+          "wordCount": 2476,
+          "title": "PetBot: Turn PET bottles Into Filament"
+        },
+        {
+          "id": "https://hackaday.com/?p=484703",
+          "author": "Jenny List",
+          "description": "There was a time when a new version of Windows was a really big deal, such the launch of Windows 95 for which the tones of the Rolling Stones’ Start …read more",
+          "link": "https://hackaday.com/2021/06/29/the-great-windows-11-computer-extinction-experiment/",
+          "publishedOn": "2021-06-29T14:01:43.000Z",
+          "wordCount": 11983,
+          "title": "The Great Windows 11 Computer Extinction Experiment"
+        },
+        {
+          "id": "https://hackaday.com/?p=484748",
+          "author": "Dan Maloney",
+          "description": "It’s a problem that few of us will likely ever face: once you’ve built your first homemade integrated circuit, what do you do next? If you’re [Sam Zeloof], the answer …read more",
+          "link": "https://hackaday.com/2021/06/29/garage-semiconductor-fab-gets-reactive-ion-etching-upgrade/",
+          "publishedOn": "2021-06-29T11:00:00.000Z",
+          "wordCount": 1702,
+          "title": "Garage Semiconductor Fab Gets Reactive-Ion Etching Upgrade"
+        },
         {
           "id": "https://hackaday.com/?p=483886",
           "author": "Lewin Day",
@@ -3223,6 +3286,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2340",
+          "author": "Cory Doctorow",
+          "description": "Today's links SCOTUS to wrongfully accused terrorists: \"drop dead\": Kavanaugh finds new ways to be wrong. Intuit sabotages the Child Tax Credit: Bad web-design is a choice. This day in history: 2001, 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading SCOTUS to wrongfully accused terrorists: \"drop dead\" (permalink) When people call the US Supreme Court \"corporate-friendly,\" it's often hard to know what that means in concrete terms. But here's an example of what it means when the highest court in the land is in the tank for big business. Transunion is a giant credit reporting bureau. These companies have their origin in a company called \"Retail Credit\" (now Equifax). RC paid people to spy on their neighbors and kept se…",
+          "link": "https://pluralistic.net/2021/06/29/three-times-is-enemy-action/",
+          "publishedOn": "2021-06-29T14:06:10.000Z",
+          "wordCount": 2317,
+          "title": "Pluralistic: 29 Jun 2021"
+        },
         {
           "id": "https://pluralistic.net/?p=2335",
           "author": "Cory Doctorow",
