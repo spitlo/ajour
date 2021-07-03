@@ -90,15 +90,6 @@
           "publishedOn": "2021-05-11T20:38:23.000Z",
           "wordCount": 464,
           "title": "I have a new course on Skillshare:  Product Management: Tools for Improving Product Accessibility"
-        },
-        {
-          "id": "https://christianheilmann.com/?p=6760",
-          "author": "Chris Heilmann",
-          "description": "A few weeks ago Honeypot.io asked me to answer a few questions about my career, and here is the video of my answers. 00:00 Introduction 00:31 What are your top tips for career advancement? 02:03 What strengths are most important for a developer? 04:07 Work-life balance: how do you do it? 05:11 What mistakes have […]",
-          "link": "https://christianheilmann.com/2021/05/04/answering-questions-about-my-career-for-honeypot-io/",
-          "publishedOn": "2021-05-04T10:33:56.000Z",
-          "wordCount": 175,
-          "title": "Answering questions about my career for honeypot.io"
         }
       ]
     },
@@ -464,6 +455,15 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "extracting-previous-copy-from-github",
+          "author": null,
+          "description": "Sometimes I need to pull a complete copy of a previous file out of a github (this is useful when needing to do visual binary diffs to see which bytes have moves or changed).\nTo pull a specific file, say the last commit, the following command line does the trick:\ngit show HEAD^:./myfile.bin > myfile.bin\n\nThe HEAD^ means \"one commit behind the head of the branch\" (the \"head\" being the last commit on the branch). Though if you've got merge commits where a commit has more than one parent commit this can get a little complicated (which why I tend to stick to just the previous commit).\nUsing HEAD^^ or HEAD^2 means \"two commits before the head of the branch\". There's also detailed stackoverflow post about the difference between the caret ^ and the tilde ~ with examples of how they traverse up the tree.",
+          "link": "https://remysharp.com/til/cli/extracting-previous-copy-from-github",
+          "publishedOn": "2021-07-02T09:51:37.000Z",
+          "wordCount": 289,
+          "title": "Extracting previous copy from github [til/cli]"
+        },
         {
           "id": "me-and-tinnitus-entry-1",
           "author": null,
@@ -894,15 +894,6 @@
           "publishedOn": "2021-05-04T18:30:42.000Z",
           "wordCount": 227,
           "title": "Back on Earth, a composition by Michael Finnissy, 2004. Read..."
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/650186994528452608",
-          "author": null,
-          "description": "These text/graphics objects are possibly 40 000+ years old. Found in Australia. More here.",
-          "link": "https://text-mode.tumblr.com/post/650186994528452608",
-          "publishedOn": "2021-05-03T18:30:37.000Z",
-          "wordCount": 101,
-          "title": "These text/graphics objects are possibly 40 000+ years old...."
         }
       ]
     },
@@ -1362,6 +1353,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=484273",
+          "author": "Matthew Carlson",
+          "description": "Some might look at a cheap inkjet printer and see a clunky device that costs more to replace the ink than to buy a new one. [Abhishek Verma] saw an …read more",
+          "link": "https://hackaday.com/2021/07/02/from-printer-to-vinyl-cutter/",
+          "publishedOn": "2021-07-02T23:00:42.000Z",
+          "wordCount": 1158,
+          "title": "From Printer to Vinyl Cutter"
+        },
+        {
+          "id": "https://hackaday.com/?p=484314",
+          "author": "Tom Nardi",
+          "description": "The new hotness in consumer electronics might be RF remotes based on protocols like Bluetooth Low Energy, but there’s still plenty of life left in the classic infrared remote. Especially …read more",
+          "link": "https://hackaday.com/2021/07/02/an-oshw-ir-remote-control-powered-by-the-attiny13a/",
+          "publishedOn": "2021-07-02T20:00:58.000Z",
+          "wordCount": 1303,
+          "title": "An OSHW IR Remote Control Powered by the ATtiny13A"
+        },
+        {
+          "id": "https://hackaday.com/?p=483839",
+          "author": "Kristina Panos",
+          "description": "They say you shouldn’t cheap out on anything that comes between you and the ground. Typically, that list includes shoes, tires, and mattresses. But it’s 2021, and it’s high time …read more",
+          "link": "https://hackaday.com/2021/07/02/throne-of-dev-an-endgame-office-chair/",
+          "publishedOn": "2021-07-02T18:30:00.000Z",
+          "wordCount": 2040,
+          "title": "Throne of Dev: an Endgame Office Chair"
+        },
+        {
+          "id": "https://hackaday.com/?p=485038",
+          "author": "Dan Maloney",
+          "description": "The Hubble Space Telescope’s remarkably long service life and its string of astonishing contributions to astronomy belie its troubled history. Long before its launch into low Earth orbit in 1990, …read more",
+          "link": "https://hackaday.com/2021/07/02/the-trouble-with-hubble-payload-computer-glitch-stops-science-at-the-space-observatory/",
+          "publishedOn": "2021-07-02T17:01:28.000Z",
+          "wordCount": 2678,
+          "title": "The Trouble with Hubble: Payload Computer Glitch Stops Science at the Space Observatory"
+        },
+        {
+          "id": "https://hackaday.com/?p=485410&preview=true&preview_id=485410",
+          "author": "Mike Szczys",
+          "description": "Hackaday editors Mike Szczys and Elliot Williams look through the most interesting hacks of the week. We spent ample time in adulation of the automatons built by François Junod; wizard-level …read more",
+          "link": "https://hackaday.com/2021/07/02/hackaday-podcast-125-linux-users-talking-windows-11-pop-bottle-filament-old-phones-with-modern-guts-and-eavesdropping-in-rf/",
+          "publishedOn": "2021-07-02T16:01:36.000Z",
+          "wordCount": 1320,
+          "title": "Hackaday Podcast 125:  Linux Users Talking Windows 11, Pop Bottle Filament, Old Phones with Modern Guts, and Eavesdropping in RF"
+        },
+        {
+          "id": "https://hackaday.com/?p=485387",
+          "author": "Bryan Cockfield",
+          "description": "The longevity of plastic is both a blessing and a curse. On the one hand, it’s extremely durable, inexpensive, and easy to work with, but it also doesn’t biodegrade and …read more",
+          "link": "https://hackaday.com/2021/07/02/discarded-plastic-laser-cut-and-reassembled/",
+          "publishedOn": "2021-07-02T15:30:00.000Z",
+          "wordCount": 2039,
+          "title": "Discarded Plastic Laser-Cut And Reassembled"
+        },
+        {
+          "id": "https://hackaday.com/?p=485199",
+          "author": "Jonathan Bennett",
+          "description": "Code signing is the silver bullet that will save us from malware, right? Not so much, particularly when vendors can be convinced to sign malicious code. Researchers at G DATA …read more",
+          "link": "https://hackaday.com/2021/07/02/this-week-in-security-bad-signs-from-microsoft-an-epyc-vm-escape/",
+          "publishedOn": "2021-07-02T14:00:16.000Z",
+          "wordCount": 3033,
+          "title": "This Week in Security: Bad Signs from Microsoft, An Epyc VM Escape"
+        },
         {
           "id": "https://hackaday.com/?p=484491",
           "author": "Bryan Cockfield",
@@ -3403,6 +3457,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2352",
+          "author": "Cory Doctorow",
+          "description": "Today's links Nominate for the EFF Pioneer Awards: Who will win this year's Barlow? Biden admin orders an end to surprise billing: But without legal reform, the next president could reverse it. I'm Sorry I Haven't a Clue is back: The funniest thing on the radio, anywhere in the world, now in its 75th series. This day in history: 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Nominate for the EFF Pioneer Awards (permalink) Nominations are now open for the EFF's annual Pioneer Awards, AKA the Barlow Award, now it its 30th year! https://www.eff.org/nominations-open-2021-barlows The Barlow recognizes people, projects and groups who \"have contributed substantially to the health, growth, accessibility, or freedom of co…",
+          "link": "https://pluralistic.net/2021/07/02/spoil-the-surprise/",
+          "publishedOn": "2021-07-02T15:56:37.000Z",
+          "wordCount": 2444,
+          "title": "Pluralistic: 02 Jul 2021"
+        },
         {
           "id": "https://pluralistic.net/?p=2348",
           "author": "Cory Doctorow",
