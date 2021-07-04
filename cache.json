@@ -242,6 +242,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2484/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/h_alpha.png\" title=\"&quot;All the companies whose blimps I shot fireworks at are mad, but MetLife is especially miffed because I dressed up as the Red Baron.&quot;\" alt=\"&quot;All the companies whose blimps I shot fireworks at are mad, but MetLife is especially miffed because I dressed up as the Red Baron.&quot;\" />",
+          "link": "https://xkcd.com/2484/",
+          "publishedOn": "2021-07-02T00:00:00.000Z",
+          "wordCount": 183,
+          "title": "H-alpha"
+        },
+        {
           "id": "https://xkcd.com/2483/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/linked_list_interview_problem.png\" title=\"I'd traverse it myself, but it's singly linked, so I'm worried that I won't be able to find my way back to 2021.\" alt=\"I'd traverse it myself, but it's singly linked, so I'm worried that I won't be able to find my way back to 2021.\" />",
@@ -670,15 +679,6 @@
           "publishedOn": "2021-05-07T08:12:18.000Z",
           "wordCount": 222,
           "title": "Progress Delayed Is Progress Denied [link]"
-        },
-        {
-          "id": "backticks-in-backticks",
-          "author": null,
-          "description": "To put a backtick in a markdown code block, i.e. within backticks, you just add more backticks around your code block.\nReally this is more useful in the inline code blocks, for instance I can do console.log(`you're on the ${branchName} branch`).\nSo inline instead of wrapping with a single ` backtick, you wrap with two backticks, like ``console.log(`this ${demo}`)`` (and to get two backticks in the example shown, I needed to wrap with three backticks).\nOne final tip, to print a single backtick, it needs two …",
-          "link": "https://remysharp.com/til/misc/backticks-in-backticks",
-          "publishedOn": "2021-05-05T12:12:46.000Z",
-          "wordCount": 244,
-          "title": "Backticks in backticks [til/misc]"
         }
       ]
     },
@@ -885,15 +885,6 @@
           "publishedOn": "2021-05-05T18:30:46.000Z",
           "wordCount": 232,
           "title": "somediyprojects:\n\nPeruvian Cats stitched by ladycyberdemon23...."
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/650277596344582144",
-          "author": null,
-          "description": "Back on Earth, a composition by Michael Finnissy, 2004. Read more and listen here.",
-          "link": "https://text-mode.tumblr.com/post/650277596344582144",
-          "publishedOn": "2021-05-04T18:30:42.000Z",
-          "wordCount": 227,
-          "title": "Back on Earth, a composition by Michael Finnissy, 2004. Read..."
         }
       ]
     },
@@ -1353,6 +1344,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=484041",
+          "author": "Danie Conradie",
+          "description": "One of the unexpected side effects of our this pandemic is a sudden growth in the global population of captive colonies of Lactobacillus bacteria and yeast. Also known as sourdough …read more",
+          "link": "https://hackaday.com/2021/07/03/e-ink-equipped-sourdough-starter-jar/",
+          "publishedOn": "2021-07-03T23:00:17.000Z",
+          "wordCount": 1198,
+          "title": "E-Ink Equipped Sourdough Starter Jar"
+        },
+        {
+          "id": "https://hackaday.com/?p=484260",
+          "author": "Tom Nardi",
+          "description": "When we last checked in on the WiFiWart, an ambitious project to scratch-build a Linux powered penetration testing drop box small enough to be disguised as a standard phone charger, …read more",
+          "link": "https://hackaday.com/2021/07/03/wifiwart-linux-pentesting-device-gets-first-pcbs/",
+          "publishedOn": "2021-07-03T20:00:30.000Z",
+          "wordCount": 1646,
+          "title": "WiFiWart Linux Pentesting Device Gets First PCBs"
+        },
+        {
+          "id": "https://hackaday.com/?p=485291",
+          "author": "Jenny List",
+          "description": "The commoditised PC is the most versatile tool many of us will own, and since it has been around for a very long time it is also something that can …read more",
+          "link": "https://hackaday.com/2021/07/03/your-pc-sound-card-as-a-sensor-input/",
+          "publishedOn": "2021-07-03T17:01:29.000Z",
+          "wordCount": 2260,
+          "title": "Your PC Sound Card As A Sensor Input"
+        },
+        {
+          "id": "https://hackaday.com/?p=485487",
+          "author": "Elliot Williams",
+          "description": "If you’ve taken a physics class, you’ve doubtless heard tales of mythical beasts like the massless string, the frictionless bearing, and the perfect sphere. And if you’re designing something new, …read more",
+          "link": "https://hackaday.com/2021/07/03/the-devil-is-in-the-details/",
+          "publishedOn": "2021-07-03T14:00:35.000Z",
+          "wordCount": 1750,
+          "title": "The Devil is in the Details"
+        },
+        {
+          "id": "https://hackaday.com/?p=485309",
+          "author": "Jenny List",
+          "description": "Since the first Raspberry Pi came to market back in 2012 there have been a variety of models released. Some of them are rarer than others, and unusual boards can …read more",
+          "link": "https://hackaday.com/2021/07/03/a-custom-raspberry-pi-spotted-in-the-wild/",
+          "publishedOn": "2021-07-03T11:01:58.000Z",
+          "wordCount": 2107,
+          "title": "A Custom Raspberry Pi Spotted In The Wild"
+        },
+        {
+          "id": "https://hackaday.com/?p=484339",
+          "author": "Kristina Panos",
+          "description": "Although film and animation have come quite a long way, there’s still something magical about that grandaddy of them all, the zoetrope. Thanks to persistence of vision, our eyes are …read more",
+          "link": "https://hackaday.com/2021/07/03/3d-zoetrope-uses-illusion-to-double-the-frames/",
+          "publishedOn": "2021-07-03T08:01:39.000Z",
+          "wordCount": 1462,
+          "title": "3D Zoetrope Uses Illusion to Double the Frames"
+        },
+        {
+          "id": "https://hackaday.com/?p=485090",
+          "author": "Bryan Cockfield",
+          "description": "For retro gaming, there’s really no substitute for original hardware. As it ages, though, a lot of us need to find something passable since antique hardware won’t last forever. If …read more",
+          "link": "https://hackaday.com/2021/07/02/understanding-custom-signal-protocols-with-old-nintendos/",
+          "publishedOn": "2021-07-03T05:00:36.000Z",
+          "wordCount": 1240,
+          "title": "Understanding Custom Signal Protocols with Old Nintendos"
+        },
         {
           "id": "https://hackaday.com/?p=484273",
           "author": "Matthew Carlson",
@@ -3457,6 +3511,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2355",
+          "author": "Cory Doctorow",
+          "description": "Today's links The future is symmetrical: Broadband netizens vs asymmetrical mouse-potatoes. This day in history: 2006, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The future is symmetrical (permalink) When Mitch Kapor articulated the principle that \"architecture is politics\" at the founding of EFF, he was charging technologists with the moral duty to contemplate the kinds of social interactions their technological decisions would facilitate – and prohibit. At question was nothing less than the character of the networked society. Would the vast, pluripotent, general purpose, interconnected network serve as a glorified video-on-demand service, the world's greatest pornography distribution system, a giant high-tech mall? Or …",
+          "link": "https://pluralistic.net/2021/07/03/beautiful-symmetry/",
+          "publishedOn": "2021-07-03T18:33:44.000Z",
+          "wordCount": 2335,
+          "title": "Pluralistic: 03 Jul 2021"
+        },
         {
           "id": "https://pluralistic.net/?p=2352",
           "author": "Cory Doctorow",
