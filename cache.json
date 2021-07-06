@@ -242,6 +242,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2485/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/nightmare_code.png\" title=\"Charsets even used to be known as 'alpha-bets' before that word's obvious negative associations caused it to die out.\" alt=\"Charsets even used to be known as 'alpha-bets' before that word's obvious negative associations caused it to die out.\" />",
+          "link": "https://xkcd.com/2485/",
+          "publishedOn": "2021-07-05T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Nightmare Code"
+        },
+        {
           "id": "https://xkcd.com/2484/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/h_alpha.png\" title=\"&quot;All the companies whose blimps I shot fireworks at are mad, but MetLife is especially miffed because I dressed up as the Red Baron.&quot;\" alt=\"&quot;All the companies whose blimps I shot fireworks at are mad, but MetLife is especially miffed because I dressed up as the Red Baron.&quot;\" />",
@@ -465,6 +474,15 @@
       "siteUrl": "https://remysharp.com",
       "articles": [
         {
+          "id": "2021-07-05",
+          "author": null,
+          "description": "Ready for release.\nAfter nearly ten months of tinkering in the evening, the Marbles Squared ZX Spectrum Next port is going live this weekend.\nIt's not that it actually took 10 months to develop, it's just along the way I learnt and wrote the code grid handling in assembly, and then I wrote an assembly based dot command that handles HTTP requests both getting and posting data to web servers - and this is now part of the official spectrum core code (which will ship in future machines) - so that's a nice bonus.\nI'm fairly confident there's no lurking bugs, though I am trying to squash one non blocking issue where the game can't get the high scores from the web (though oddly the game was able to post the high score for the player in question 🤔). Still, I think it's looking pretty snazzy:\n\nAll the same, the itch download page is primed and ready for release on Saturday. There's two downloads available: the game and the game with fully documented source code and PDF overview article.\nIn lieu of the release, I've been looking back at the original version I wrote in the early 2000s and found a web based Palm Pilot emulator that let me actually play and capture screenshots of the original game (I even managed to recover the source code and published it on github). So I present to you - the old version:\n\nOnce the game is live for the Spectrum I'll release the web version and if I planned the code right, we'll all be able to contribute to the high score leader board!",
+          "link": "https://remysharp.com/devlog/marbles2/2021-07-05",
+          "publishedOn": "2021-07-05T00:00:00.000Z",
+          "wordCount": 413,
+          "title": "Marbles2 - 5-Jul 2021 [devlog/marbles2]"
+        },
+        {
           "id": "extracting-previous-copy-from-github",
           "author": null,
           "description": "Sometimes I need to pull a complete copy of a previous file out of a github (this is useful when needing to do visual binary diffs to see which bytes have moves or changed).\nTo pull a specific file, say the last commit, the following command line does the trick:\ngit show HEAD^:./myfile.bin > myfile.bin\n\nThe HEAD^ means \"one commit behind the head of the branch\" (the \"head\" being the last commit on the branch). Though if you've got merge commits where a commit has more than one parent commit this can get a little complicated (which why I tend to stick to just the previous commit).\nUsing HEAD^^ or HEAD^2 means \"two commits before the head of the branch\". There's also detailed stackoverflow post about the difference between the caret ^ and the tilde ~ with examples of how they traverse up the tree.",
@@ -661,24 +679,6 @@
           "publishedOn": "2021-05-11T18:15:16.000Z",
           "wordCount": 404,
           "title": "All the things you didn't ask about PS/2 keyboards [til/computing]"
-        },
-        {
-          "id": "2021-05-07-689bd71d",
-          "author": null,
-          "description": "This is an interesting and compelling post about using ENV values for secrets - something I do almost exclusively.\nThe only (big) problem I run into is that the solution offered is to use \"docker secrets\" which, for the vast majority of my own work isn't something that's available (I don't use docker for my development or deployments).\nIt makes me wonder, is there a simple alternative for those non-docker devs 🤔\nSource: diogomonica.com",
-          "link": "https://remysharp.com/links/2021-05-07-689bd71d",
-          "publishedOn": "2021-05-07T08:15:25.000Z",
-          "wordCount": 229,
-          "title": "Why you shouldn't use ENV variables for secret data [link]"
-        },
-        {
-          "id": "2021-05-07-72e7b736",
-          "author": null,
-          "description": "My short interpretation of Alex Russell's post (or certainly in my mind):\n\n\nApple have a monopoly\n\n\nSafari, for over a decade now, been way way behind\n\n\nSafari is not a modern browser - this is literally what devs and designers complained about IE6 for years.\n\n\nStill, read Alex's post - it's packed full of data (as usual) and draws a clear conclusion that Apple, again, are delaying progress for the world wide web.\nSource: infrequently.org",
-          "link": "https://remysharp.com/links/2021-05-07-72e7b736",
-          "publishedOn": "2021-05-07T08:12:18.000Z",
-          "wordCount": 222,
-          "title": "Progress Delayed Is Progress Denied [link]"
         }
       ]
     },
@@ -867,15 +867,6 @@
           "publishedOn": "2021-05-07T18:30:29.000Z",
           "wordCount": 212,
           "title": "Axltm’s works combining PETSCII and custom characters. More..."
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/650458802109497344",
-          "author": null,
-          "description": "Snippets from Masanobu Hiraoka’s video for Titanium 2 Step by Battles, 2019. Full video here.",
-          "link": "https://text-mode.tumblr.com/post/650458802109497344",
-          "publishedOn": "2021-05-06T18:30:53.000Z",
-          "wordCount": 223,
-          "title": "Snippets from Masanobu Hiraoka’s video for Titanium 2 Step by..."
         }
       ]
     },
@@ -1275,15 +1266,6 @@
           "publishedOn": "2021-05-11T20:04:00.000Z",
           "wordCount": 1050,
           "title": "Peace of mind browser add-ons for Firefox"
-        },
-        {
-          "id": "https://blog.mozilla.org/foxtail/?p=65103",
-          "author": "Mozilla",
-          "description": "The need for equitable broadband internet access has been a problem since the term “digital divide” was first coined in the mid-1990s, but these conversations are getting renewed attention as a result of COVID-19 forcing lives online more rapidly in 2020 than ever before. At Mozilla, we are committed to building an internet that includes […]\nThe post Detroit’s digital divide reminds us how far America has to go for internet equity appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/internet-culture/deep-dives/digital-divide-detroit-broadband-internet-access-2021/",
-          "publishedOn": "2021-05-06T12:53:00.000Z",
-          "wordCount": 2356,
-          "title": "Detroit’s digital divide reminds us how far America has to go for internet equity"
         }
       ]
     },
@@ -1318,15 +1300,6 @@
           "publishedOn": "2021-05-20T14:00:00.000Z",
           "wordCount": 3869,
           "title": "That’s Not My Burnout"
-        },
-        {
-          "id": "https://alistapart.com/article/beware-the-cut-n-paste-persona/",
-          "author": "by ,",
-          "description": "This Person Does Not Exist is a website that generates human faces with a machine learning algorithm. It takes real portraits and recombines them into fake human faces. We recently scrolled past a LinkedIn post stating that this website could be useful “if you are developing a persona and looking for a photo.” \nWe agree: the computer-generated faces could be a great match for personas—but not for the reason you might think. Ironically, the website highlights the core issue of this very common design method:…",
-          "link": "https://alistapart.com/article/beware-the-cut-n-paste-persona/",
-          "publishedOn": "2021-05-06T14:00:00.000Z",
-          "wordCount": 4231,
-          "title": "Beware the Cut ‘n’ Paste Persona"
         }
       ]
     },
@@ -1335,6 +1308,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=484419",
+          "author": "Matthew Carlson",
+          "description": "The notion of segmenting and quantizing the day into discrete segments of time is perhaps one of the most human things we do. Heralding back to a simpler era when …read more",
+          "link": "https://hackaday.com/2021/07/05/wooden-linear-clock-aided-by-gps/",
+          "publishedOn": "2021-07-05T23:01:37.000Z",
+          "wordCount": 1378,
+          "title": "Wooden Linear Clock Aided By GPS"
+        },
+        {
+          "id": "https://hackaday.com/?p=484980",
+          "author": "Chris Lott",
+          "description": "[Andrew Lamchenko], who has built a number of small e-ink-based sensors this year, released another design called the eON Indoor Air Quality Sensor. As his previous sensor designs, the …read more",
+          "link": "https://hackaday.com/2021/07/05/diy-air-quality-sensor/",
+          "publishedOn": "2021-07-05T20:01:23.000Z",
+          "wordCount": 1413,
+          "title": "DIY Air Quality Sensor"
+        },
+        {
+          "id": "https://hackaday.com/?p=484300",
+          "author": "Kristina Panos",
+          "description": "How hard could it be to make a collapsible silicone container? Turns out, it’s really, really hard — collapsible containers have rigid guidelines. Just ask [Eric Strebel], who failed dozens …read more",
+          "link": "https://hackaday.com/2021/07/05/how-to-make-a-collapsible-container-without-breaking-down/",
+          "publishedOn": "2021-07-05T17:01:28.000Z",
+          "wordCount": 1231,
+          "title": "How to Make a Collapsible Container Without Breaking Down"
+        },
+        {
+          "id": "https://hackaday.com/?p=485498&preview=true&preview_id=485498",
+          "author": "Dan Maloney",
+          "description": "Join us on Wednesday, July 7 at noon Pacific for the Microfluidics for Biohacking Hack Chat with Krishna Sanka! “Microfluidics” sounds like a weird and wonderful field, but one that …read more",
+          "link": "https://hackaday.com/2021/07/05/microfluidics-for-biohacking-hack-chat/",
+          "publishedOn": "2021-07-05T16:00:41.000Z",
+          "wordCount": 1218,
+          "title": "Microfluidics for Biohacking Hack Chat"
+        },
+        {
+          "id": "https://hackaday.com/?p=483813",
+          "author": "Donald Papp",
+          "description": "Empty spools from 3D printer filament are the kind of thing that begs to be repurposed, and one option is [3d-printy]’s vertical filament spool parts drawer design. The way this …read more",
+          "link": "https://hackaday.com/2021/07/05/a-new-spin-on-empty-filament-spools-for-part-storage/",
+          "publishedOn": "2021-07-05T14:01:16.000Z",
+          "wordCount": 1924,
+          "title": "A New Spin on Empty Filament Spools for Part Storage"
+        },
+        {
+          "id": "https://hackaday.com/?p=483884",
+          "author": "Lewin Day",
+          "description": "Signal is a popular encrypted messaging app, typically used on smartphones. The cross-platform service can now be used via the ESP32, however, thanks to the work of [Dharmik] and [Tirth]. …read more",
+          "link": "https://hackaday.com/2021/07/05/messaging-on-signal-via-the-esp32/",
+          "publishedOn": "2021-07-05T11:01:00.000Z",
+          "wordCount": 1442,
+          "title": "Messaging on Signal Via The ESP32"
+        },
+        {
+          "id": "https://hackaday.com/?p=482876",
+          "author": "Danie Conradie",
+          "description": "There is a depressing amount of trash in our oceans, and a lot of it is washes up on beaches. [Glenn Morris] has turned collecting all this trash into a …read more",
+          "link": "https://hackaday.com/2021/07/05/litter-buggies-haul-trash-off-the-beach/",
+          "publishedOn": "2021-07-05T08:01:35.000Z",
+          "wordCount": 2384,
+          "title": "Litter Buggies Haul Trash Off The Beach"
+        },
         {
           "id": "https://hackaday.com/?p=484933&preview=true&preview_id=484933",
           "author": "Dan Maloney",
@@ -3565,6 +3601,20 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2359",
+          "author": "Cory Doctorow",
+          "description": "Today's links Conspiracy fantasy: The political significance and personal appeal of conspiratorialism. Podcasting \"Self Publishing\": My column on monopolism, publishing, and the fortunes of authors. This day in history: 2001, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Conspiracy fantasy (permalink) When we talk about conspiratorialism, we tend to focus (naturally) on the content of the conspiracy. Not only are those stories entertainingly outlandish – they're also the point of contact between conspiracists and the world. If your mom is shouting about \"Hollywood pedos,\" it's natural that you'll end up discussing the relationship of this belief to observable reality. But while the content of conspiratorial beliefs ge…",
+          "link": "https://pluralistic.net/2021/07/05/ideomotor-response/",
+          "publishedOn": "2021-07-05T16:17:04.000Z",
+          "wordCount": 3997,
+          "title": "Pluralistic: 05 Jul 2021",
+          "enclosure": {
+            "url": "https://archive.org/download/Cory_Doctorow_Podcast_396/Cory_Doctorow_Podcast_396_-_Self_Publishing.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "https://pluralistic.net/?p=2355",
           "author": "Cory Doctorow",
