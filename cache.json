@@ -140,15 +140,6 @@
           "publishedOn": "2021-05-10T00:00:00.000Z",
           "wordCount": 2545,
           "title": "Design for reading: tips for optimizing content for Reader modes and reading apps"
-        },
-        {
-          "id": "https://sarasoueidan.com/blog/component-level-art-direction-with-container-queries-and-picture/",
-          "author": null,
-          "description": "Container Queries (CQ) allow us to change the styles of a component so it responds to the size of its nearest container. With CQ, we can change how an element looks based on where on a page it is placed and how much horizontal space it occupies.\nA lot about a design pattern could change based on how much space it’s got. So Container Queries can be used to do more than just shift elements around in a layout. (Have you seen Jhey’s demo yet?!) But we can only take full advantage of the potential Container Quer…",
-          "link": "https://sarasoueidan.com/blog/component-level-art-direction-with-container-queries-and-picture/",
-          "publishedOn": "2021-05-09T00:00:00.000Z",
-          "wordCount": 1403,
-          "title": "Component-level art direction with CSS Container Queries"
         }
       ]
     },
@@ -241,6 +232,15 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2486/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/board_game_party_schedule.png\" title=\"Several of the guests are secretly playing Meta Board Game Party. Every minute of parallel debate in the breakaway faction earns double victory points!\" alt=\"Several of the guests are secretly playing Meta Board Game Party. Every minute of parallel debate in the breakaway faction earns double victory points!\" />",
+          "link": "https://xkcd.com/2486/",
+          "publishedOn": "2021-07-07T00:00:00.000Z",
+          "wordCount": 189,
+          "title": "Board Game Party Schedule"
+        },
         {
           "id": "https://xkcd.com/2485/",
           "author": null,
@@ -849,15 +849,6 @@
           "publishedOn": "2021-05-17T03:29:40.000Z",
           "wordCount": 166,
           "title": "PETSCII by Hein, 2021."
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/650639983331377152",
-          "author": null,
-          "description": "Southwest Technical’s 6800 computer and the CT-64 terminal, and a photo of its 64x16 textmode. Launched in 1975. First image from Creative Computing and second one from here.",
-          "link": "https://text-mode.tumblr.com/post/650639983331377152",
-          "publishedOn": "2021-05-08T18:30:41.000Z",
-          "wordCount": 156,
-          "title": "Southwest Technical’s 6800 computer and the CT-64 terminal, and..."
         }
       ]
     },
@@ -1016,15 +1007,6 @@
           "publishedOn": "2021-05-13T17:22:29.000Z",
           "wordCount": 2151,
           "title": "Becoming a Software Developer Without a CS Degree"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/blog/how-i-built-my-blog/",
-          "author": "Josh W. Comeau",
-          "description": "An in-depth look at the technical stack behind this very blog! We'll see how I use Next's API routes to implement my hit and like counters, how I use MDX to add interaction and customization, and how I organize my codebase, among others.",
-          "link": "https://www.joshwcomeau.com/blog/how-i-built-my-blog/",
-          "publishedOn": "2021-05-08T14:48:39.000Z",
-          "wordCount": 3464,
-          "title": "How I Built My Blog"
         }
       ]
     },
@@ -1299,6 +1281,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=485481",
+          "author": "Kristina Panos",
+          "description": "How much water have you had to drink today? We would venture to guess that the answer is somewhere between ‘absolutely none’ and ‘not not nearly enough’. You can go …read more",
+          "link": "https://hackaday.com/2021/07/07/drink-water-on-schedule-or-else-flood-your-desk/",
+          "publishedOn": "2021-07-07T23:00:19.000Z",
+          "wordCount": 1344,
+          "title": "Drink Water on Schedule or Else Flood Your Desk"
+        },
+        {
+          "id": "https://hackaday.com/?p=485720",
+          "author": "Lewin Day",
+          "description": "3D printing is all well and good if you want one of something, but if you want lots of plastic parts that are all largely identical, you should consider injection …read more",
+          "link": "https://hackaday.com/2021/07/07/a-plastic-injection-machine-you-can-use-at-home/",
+          "publishedOn": "2021-07-07T20:00:30.000Z",
+          "wordCount": 1507,
+          "title": "A Plastic Injection Machine You Can Use At Home"
+        },
+        {
+          "id": "https://hackaday.com/?p=485159",
+          "author": "Kristina Panos",
+          "description": "We all need someone to talk to sometimes, and the pandemic has only made matters worse when it comes to the number of people living with anxiety and depression. Exchanging …read more",
+          "link": "https://hackaday.com/2021/07/07/emojo-chatbot-will-be-there-for-you/",
+          "publishedOn": "2021-07-07T18:30:00.000Z",
+          "wordCount": 1209,
+          "title": "EMOJO Chatbot Will Be There for You"
+        },
+        {
+          "id": "https://hackaday.com/?p=485210",
+          "author": "Jenny List",
+          "description": "Earlier this week it was widely reported that Softbank’s friendly-faced almost-humanoid Pepper robot was not long for this world, as the Japanese company’s subsidiary in France that had been responsible …read more",
+          "link": "https://hackaday.com/2021/07/07/did-you-meet-pepper/",
+          "publishedOn": "2021-07-07T17:00:48.000Z",
+          "wordCount": 1698,
+          "title": "Did You Meet Pepper?"
+        },
+        {
+          "id": "https://hackaday.com/?p=485476",
+          "author": "Kristina Panos",
+          "description": "If you’re one of today’s lucky 10,000* who have never seen a Nintoaster case mod before, boy are we glad you get to see this one first. [Dizzle813] found a …read more",
+          "link": "https://hackaday.com/2021/07/07/leggo-my-nintoaster/",
+          "publishedOn": "2021-07-07T15:30:00.000Z",
+          "wordCount": 1320,
+          "title": "Leggo My Nintoaster!"
+        },
+        {
+          "id": "https://hackaday.com/?p=484414",
+          "author": "Tom Nardi",
+          "description": "At this point the average Hackaday reader is likely familiar with so-called “Proof of Work” (PoW) cryptocurrencies, such as Bitcoin, Ethereum, and Dogecoin. In the most basic of terms, these …read more",
+          "link": "https://hackaday.com/2021/07/07/whats-chia-and-why-is-it-eating-all-the-hard-drives/",
+          "publishedOn": "2021-07-07T14:00:38.000Z",
+          "wordCount": 7517,
+          "title": "What’s Chia, and Why is it Eating all the Hard Drives?"
+        },
+        {
+          "id": "https://hackaday.com/?p=485650",
+          "author": "Al Williams",
+          "description": "There’s a lot of expense in what telephone companies call “the last mile” — delivering service from the main trunks to your home or business. StarLink wants to avoid that …read more",
+          "link": "https://hackaday.com/2021/07/07/starlink-terminal-unit-firmware-dumped/",
+          "publishedOn": "2021-07-07T11:00:00.000Z",
+          "wordCount": 1731,
+          "title": "StarLink Terminal Unit Firmware Dumped"
+        },
         {
           "id": "https://hackaday.com/?p=485131",
           "author": "Danie Conradie",
@@ -3655,6 +3700,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2368",
+          "author": "Cory Doctorow",
+          "description": "Today's links Technological self-determination: Competition is a means, not an end. Biden delivers Right to Repair via executive order: End of the line for John Deere's asshole lobbyists. Comic book store files comic-book lawsuit: Third Planet Comics has already won its case…in my heart. This day in history: 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Technological self-determination (permalink) My latest Locus Magazine column is \"Tech Monopolies and the Insufficient Necessity of Interoperability,\" an essay about the goal of competition and its handmaiden, interoperability, namely, \"technological self-determination.\" https://locusmag.com/2021/07/cory-doctorow-tech-monopolies-and-the-insufficient-necessity-of-i…",
+          "link": "https://pluralistic.net/2021/07/07/instrumentalism/",
+          "publishedOn": "2021-07-07T13:53:12.000Z",
+          "wordCount": 2454,
+          "title": "Pluralistic: 07 Jul 2021"
+        },
         {
           "id": "https://pluralistic.net/?p=2365",
           "author": "Cory Doctorow",
