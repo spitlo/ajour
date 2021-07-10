@@ -456,6 +456,15 @@
       "siteUrl": "https://remysharp.com",
       "articles": [
         {
+          "id": "how-to-inspect-elements-that-hide-on-mouse-move",
+          "author": null,
+          "description": "Specific blog post title, eh? But very specific problem that's a pain in the backside when it comes to debugging it.\nHow do you inspect an element that hides on mouse move? Such as a tooltip (though I'm not a fan of the UI element, if only for the lack of accessibility) it's certainly not obvious.",
+          "link": "https://remysharp.com/2021/07/09/how-to-inspect-elements-that-hide-on-mouse-move",
+          "publishedOn": "2021-07-09T00:00:00.000Z",
+          "wordCount": 501,
+          "title": "How to inspect elements that hide on mouse move [blog]"
+        },
+        {
           "id": "2021-07-05",
           "author": null,
           "description": "Ready for release.\nAfter nearly ten months of tinkering in the evening, the Marbles Squared ZX Spectrum Next port is going live this weekend.\nIt's not that it actually took 10 months to develop, it's just along the way I learnt and wrote the code grid handling in assembly, and then I wrote an assembly based dot command that handles HTTP requests both getting and posting data to web servers - and this is now part of the official spectrum core code (which will ship in future machines) - so that's a nice bonus.\nI'm fairly confident there's no lurking bugs, though I am trying to squash one non blocking issue where the game can't get the high scores from the web (though oddly the game was able to post the high score for the player in question 🤔). Still, I think it's looking pretty snazzy:\n\nAll the same, the itch download page is primed and ready for release on Saturday. There's two downloads available: the game and the game with fully documented source code and PDF overview article.\nIn lieu of the release, I've been looking back at the original version I wrote in the early 2000s and found a web based Palm Pilot emulator that let me actually play and capture screenshots of the original game (I even managed to recover the source code and published it on github). So I present to you - the old version:\n\nOnce the game is live for the Spectrum I'll release the web version and if I planned the code right, we'll all be able to contribute to the high score leader board!",
@@ -1016,6 +1025,24 @@
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
         {
+          "id": "https://blog.mozilla.org/?p=66519",
+          "author": "Mozilla",
+          "description": "The Biden Administration issued today an Executive Order on Promoting Competition in the American Economy. “Reinstating net neutrality is a crucial down payment on the much broader internet reform that we need and we’re glad to see the Biden Administration make this a priority in its new Executive Order today. Net neutrality preserves the environment […]\nThe post Net neutrality: reacting on the Executive Order on Promoting Competition in the American Economy appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/net-neutrality-reacting-on-the-executive-order-on-promoting-competition-in-the-american-economy/",
+          "publishedOn": "2021-07-09T23:17:15.000Z",
+          "wordCount": 943,
+          "title": "Net neutrality: reacting on the Executive Order on Promoting Competition in the American Economy"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=66514",
+          "author": "Marshall Erwin",
+          "description": "Regulators and technology companies together have an unique opportunity to improve the privacy properties of online advertising. Improving privacy for everyone must remain the north star of efforts surrounding privacy preserving advertising and we welcome the recent moves by the UK’s Competition Markets Authority to invite public comments on the recent voluntary commitments proposed by […]\nThe post Mozilla responds to the UK CMA consultation on Google’s commitments on the Chrome Privacy Sandbox appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/uk-cma-google-commitments-chrome-privacy-sandbox/",
+          "publishedOn": "2021-07-09T08:00:00.000Z",
+          "wordCount": 1219,
+          "title": "Mozilla responds to the UK CMA consultation on Google’s commitments on the Chrome Privacy Sandbox"
+        },
+        {
           "id": "https://blog.mozilla.org/?p=66512",
           "author": "Mozilla",
           "description": "CIRA Joins Firefox’s Trusted Recursive Resolver Program In a few weeks, Firefox will start the by-default rollout of DNS over HTTPS (or DoH for short) to its Canadian users in partnership with local DoH provider CIRA, the Canadian Internet Registration Authority. DoH will first become a default for 1% of Canadian Firefox users on July […]\nThe post Firefox extends privacy and security of Canadian internet users with by-default DNS-over-HTTPS rollout in Canada appeared first on The Mozilla Blog.",
@@ -1290,6 +1317,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=485891",
+          "author": "Lewin Day",
+          "description": "A regular car horn is fine, but lacks finesse for more subtle communication. For example, some car horns aren’t particularly adept at short indicatory honks, and can only blare loudly …read more",
+          "link": "https://hackaday.com/2021/07/09/custom-car-horn-makes-many-sounds/",
+          "publishedOn": "2021-07-09T23:00:59.000Z",
+          "wordCount": 1177,
+          "title": "Custom Car Horn Makes Many Sounds"
+        },
+        {
+          "id": "https://hackaday.com/?p=485882",
+          "author": "Lewin Day",
+          "description": "Sometimes, walking even a short distance can grow boring if it’s a part of your regular routine. [Alexandre Chappel] found himself in just such a position, so elected to quickly …read more",
+          "link": "https://hackaday.com/2021/07/09/3d-printed-parts-make-for-a-quick-electric-scooter-build/",
+          "publishedOn": "2021-07-09T20:00:36.000Z",
+          "wordCount": 1164,
+          "title": "3D Printed Parts Make for a Quick Electric Scooter Build"
+        },
+        {
+          "id": "https://hackaday.com/?p=485203",
+          "author": "Tom Nardi",
+          "description": "Handling tiny surface mount components and inspecting PCBs is a lot easier with a nice stereo microscope, but because of their cost and bulk, most hobbyists have to do without. …read more",
+          "link": "https://hackaday.com/2021/07/09/raspberry-pi-cameras-stand-in-for-stereo-microscope/",
+          "publishedOn": "2021-07-09T18:30:00.000Z",
+          "wordCount": 1543,
+          "title": "Raspberry Pi Cameras Stand in for Stereo Microscope"
+        },
+        {
+          "id": "https://hackaday.com/?p=482085",
+          "author": "Maya Posch",
+          "description": "Even as we bask in the knowledge that our neighboring planet Mars is currently home to a multitude of still functional landers, a triplet of rovers and with an ever-growing …read more",
+          "link": "https://hackaday.com/2021/07/09/checking-up-on-earths-sister-planet-nasas-upcoming-venus-missions/",
+          "publishedOn": "2021-07-09T17:01:32.000Z",
+          "wordCount": 3406,
+          "title": "Checking Up On Earth’s Sister Planet: NASA’s Upcoming Venus Missions"
+        },
+        {
+          "id": "https://hackaday.com/?p=486045&preview=true&preview_id=486045",
+          "author": "Dan Maloney",
+          "description": "Hackaday editors Elliot Williams and Mike Szczys dive into a week of exceptional hacks. Tip-top of the list has to be the precision measuring instrument that uses a cable spooling …read more",
+          "link": "https://hackaday.com/2021/07/09/hackaday-podcast-126-cable-3d-scanner-tesla-charger-robot-ultrasonic-anemometer-and-a-zoetrope/",
+          "publishedOn": "2021-07-09T16:01:48.000Z",
+          "wordCount": 1227,
+          "title": "Hackaday Podcast 126: Cable 3D-Scanner, Tesla Charger Robot, Ultrasonic Anemometer, and a Zoetrope"
+        },
+        {
+          "id": "https://hackaday.com/?p=485216",
+          "author": "Danie Conradie",
+          "description": "Flying wings are popular options for fixed-wing FPV flying, but they have one rather annoying characteristic: yaw wag. The flying wing will wobble on the yaw axis while flying, and …read more",
+          "link": "https://hackaday.com/2021/07/09/eliminate-vertical-stabiliser-with-arduplane/",
+          "publishedOn": "2021-07-09T15:30:00.000Z",
+          "wordCount": 1277,
+          "title": "Eliminate Vertical Stabiliser with ArduPlane"
+        },
+        {
+          "id": "https://hackaday.com/?p=485862",
+          "author": "Jonathan Bennett",
+          "description": "For the second time, Microsoft has attempted and failed to patch the PrintNightmare vulnerability. Tracked initially as CVE-2021-1675, and the second RCE as CVE-2021-34527. We warned you about this last …read more",
+          "link": "https://hackaday.com/2021/07/09/this-week-in-security-print-nightmare-continues-ransomware-goes-bigger-and-atm-jackpots/",
+          "publishedOn": "2021-07-09T14:00:23.000Z",
+          "wordCount": 3055,
+          "title": "This Week in Security: Print Nightmare Continues, Ransomware Goes Bigger, And ATM Jackpots!"
+        },
         {
           "id": "https://hackaday.com/?p=485725",
           "author": "Lewin Day",
