@@ -81,15 +81,6 @@
           "publishedOn": "2021-05-17T10:09:00.000Z",
           "wordCount": 980,
           "title": "Automated accessibility testing gets you on the way, but doesn’t find all the problems"
-        },
-        {
-          "id": "https://christianheilmann.com/?p=6763",
-          "author": "Chris Heilmann",
-          "description": "I’m super happy to announce that a new class of mine is now live at Skillshare. The title is Product Management: Tools for Improving Product Accessibility and in it I am covering a lot of tools to automatically check for accessibility in your products, but more importantly what you can do in your browser to […]",
-          "link": "https://christianheilmann.com/2021/05/11/i-have-a-new-course-on-skillshare-product-management-tools-for-improving-product-accessibility/",
-          "publishedOn": "2021-05-11T20:38:23.000Z",
-          "wordCount": 464,
-          "title": "I have a new course on Skillshare:  Product Management: Tools for Improving Product Accessibility"
         }
       ]
     },
@@ -223,6 +214,15 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2487/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/danger_mnemonic.png\" title=\"It's definitely not the time to try drinking beer before liquor.\" alt=\"It's definitely not the time to try drinking beer before liquor.\" />",
+          "link": "https://xkcd.com/2487/",
+          "publishedOn": "2021-07-09T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Danger Mnemonic"
+        },
         {
           "id": "https://xkcd.com/2486/",
           "author": null,
@@ -438,15 +438,6 @@
           "publishedOn": "2021-05-14T00:00:00.000Z",
           "wordCount": 183,
           "title": "Astrophotography"
-        },
-        {
-          "id": "https://xkcd.com/2462/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/2462/",
-          "publishedOn": "2021-05-12T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "NASA Award"
         }
       ]
     },
@@ -661,15 +652,6 @@
           "publishedOn": "2021-05-13T09:21:21.000Z",
           "wordCount": 540,
           "title": "Next layer resolutions [til/spectrum]"
-        },
-        {
-          "id": "all-the-things-you-didnt-ask-about-ps2-keyboards",
-          "author": null,
-          "description": "It's a 2 way communication protocol, i.e. the PS/2 keyboard will receive messages from the host/controller\nThere's 6 pins on the lead, but only 4 are used: vcc (power), ground, clock and data\nA key stroke is made up of a make and a break message (i.e. key down, key up), so a key being held down sends repeating make messages\nDifferent machines expect different timing between messages, the Amiga for instance seems to want around 20 microseconds between make and break otherwise it seems to ignore the key up ev…",
-          "link": "https://remysharp.com/til/computing/all-the-things-you-didnt-ask-about-ps2-keyboards",
-          "publishedOn": "2021-05-11T18:15:16.000Z",
-          "wordCount": 404,
-          "title": "All the things you didn't ask about PS/2 keyboards [til/computing]"
         }
       ]
     },
@@ -740,15 +722,6 @@
           "publishedOn": "2021-05-19T00:47:43.000Z",
           "wordCount": 1129,
           "title": "How we talk about CPU (or processors, or cores, or...)"
-        },
-        {
-          "id": "https://rachelbythebay.com/w/2020/09/20/snack/",
-          "author": null,
-          "description": "It turns out my \"Snackwatch\" idea\nfrom two years ago\nhas some legs.  Some people inside a \"valley\" (not really, it's up in \nSF) company are complaining because the snacks have been replaced with \nvending machines.\n\n\nSo far, this is the only proof of it happening, courtesy of an anonymous \npost to one of those apps where you can post things to a \"company \nhangout\" if you have (or had...) a company e-mail address.\n\n\n\n\nIncidentally, if my vending machine story seems familiar but you can't \nfind it in any of th…",
-          "link": "https://rachelbythebay.com/w/2020/09/20/snack/",
-          "publishedOn": "2021-05-12T05:47:56.000Z",
-          "wordCount": 208,
-          "title": "Snackwatch: when credit card readers land at the office"
         }
       ]
     },
@@ -756,17 +729,7 @@
       "title": "LOW-TECH MAGAZINE",
       "feedUrl": "https://feeds2.feedburner.com/typepad/krisdedecker/lowtechmagazineenglish",
       "siteUrl": "https://www.lowtechmagazine.com/",
-      "articles": [
-        {
-          "id": "http://feedproxy.google.com/~r/typepad/krisdedecker/lowtechmagazineenglish/~3/VvDrwTu8V_0/how-to-design-a-sailing-ship-for-the-21st-century.html",
-          "author": null,
-          "description": "It is surprisingly difficult to build a carbon neutral sailing ship. This is even more the case today, because our standards for safety, health, hygiene, comfort, and convenience have changed profoundly since the Age of Sail.\n\r\n\n\r\n\n\r\nOn board the ship `Garthsnaid' at sea. A view from high up in the rigging. Image by Allan C. Green, circa 1920. \n\r\nThe sailing ship is a textbook example of sustainability. For at least 4,000 years, sailing ships have transported passengers and cargo across the world’s seas and…",
-          "link": "http://feedproxy.google.com/~r/typepad/krisdedecker/lowtechmagazineenglish/~3/VvDrwTu8V_0/how-to-design-a-sailing-ship-for-the-21st-century.html",
-          "publishedOn": "2021-05-11T13:03:34.000Z",
-          "wordCount": 6578,
-          "title": "How to design a sailing ship for the 21st century?"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "esoteric.codes",
@@ -892,15 +855,6 @@
           "publishedOn": "2021-05-17T09:14:37.000Z",
           "wordCount": 2505,
           "title": "How to look at the stack with gdb"
-        },
-        {
-          "id": "https://jvns.ca/blog/2021/05/11/what-s-the-osi-model-/",
-          "author": null,
-          "description": "TCP/IP is the set of networking protocols that we use on the modern internet –\nTCP, UDP, IP, ARP, ICMP, DNS, etc. When I talk about “networking”, I’m\nbasically always talking about TCP/IP.\nMany explanations of TCP/IP start with something called the “OSI model”. I\ndon’t use the OSI model when explaining networking because when I first\nstarted learning about internet networking I found all of the OSI model\nexplanations really confusing – it wasn’t clear to me at all how the OSI\nmodel corresponded to TCP/IP.\nS…",
-          "link": "https://jvns.ca/blog/2021/05/11/what-s-the-osi-model-/",
-          "publishedOn": "2021-05-11T14:58:41.000Z",
-          "wordCount": 1047,
-          "title": "The OSI model doesn't map well to TCP/IP"
         }
       ]
     },
@@ -1266,15 +1220,6 @@
           "publishedOn": "2021-05-14T13:09:00.000Z",
           "wordCount": 1129,
           "title": "Enter our college essay contest for a chance to win $5,000"
-        },
-        {
-          "id": "https://blog.mozilla.org/foxtail/?p=65138",
-          "author": "Scott DeVaney",
-          "description": "The web can be as wonderful as it is overwhelming. Fortunately there are ways you can customize Firefox with add-ons to achieve a more harmonious browsing experience. Here are a few examples—from soothing visual enhancements to great tools for mental clarity and peace of mind. Firefox themes Perhaps the easiest way to bring good vibes […]\nThe post Peace of mind browser add-ons for Firefox appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/products/firefox/extensions-addons/peace-of-mind-browser-add-ons-for-firefox/",
-          "publishedOn": "2021-05-11T20:04:00.000Z",
-          "wordCount": 1050,
-          "title": "Peace of mind browser add-ons for Firefox"
         }
       ]
     },
@@ -1317,6 +1262,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=485284",
+          "author": "Jenny List",
+          "description": "Cyberdecks, the portable computers notable for a freely expressed form factor, owe much to post-apocalyptic sci-fi. But they are not always the most practical devices. There’s a reason that all …read more",
+          "link": "https://hackaday.com/2021/07/10/is-it-a-cyberdeck-or-a-vintage-toshiba/",
+          "publishedOn": "2021-07-10T23:01:31.000Z",
+          "wordCount": 1303,
+          "title": "Is It A Cyberdeck Or A Vintage Toshiba?"
+        },
+        {
+          "id": "https://hackaday.com/?p=485145",
+          "author": "Donald Papp",
+          "description": "[Mikst] has been working on wearable electronics and sensors for a long time, and shared the results of a different kind of bend sensor that fits directly onto the skin. …read more",
+          "link": "https://hackaday.com/2021/07/10/skin-mounted-wearable-bend-sensor-gets-close-and-personal/",
+          "publishedOn": "2021-07-10T20:01:31.000Z",
+          "wordCount": 1112,
+          "title": "Skin-Mounted Wearable Bend Sensor Gets Close and Personal"
+        },
+        {
+          "id": "https://hackaday.com/?p=485885",
+          "author": "Lewin Day",
+          "description": "Sometimes you’ve gotta haul big heavy loads around a wide area. Regular wheelbarrows are fine, but it can quickly grow tiring when one has to make multiple trips. [Workshop from …read more",
+          "link": "https://hackaday.com/2021/07/10/building-a-big-ol-powerful-wheelbarrow/",
+          "publishedOn": "2021-07-10T17:01:39.000Z",
+          "wordCount": 1611,
+          "title": "Building a Big Ol’ Powerful Wheelbarrow"
+        },
+        {
+          "id": "https://hackaday.com/?p=486187",
+          "author": "Elliot Williams",
+          "description": "Last year, as my Corona Hobby™, I took up RC plane flying. I started out with discus-launched gliders, and honestly that’s still my main love, but there’s only so much …read more",
+          "link": "https://hackaday.com/2021/07/10/you-cant-fix-what-you-cant-measure/",
+          "publishedOn": "2021-07-10T14:00:16.000Z",
+          "wordCount": 2062,
+          "title": "You Can’t Fix What You Can’t Measure"
+        },
+        {
+          "id": "https://hackaday.com/?p=485889",
+          "author": "Lewin Day",
+          "description": "A regular vice is great if you want to clamp rectangular objects, but it can fall down a little with more complex shapes. Inspired by an ancient vise [Chris Borge] …read more",
+          "link": "https://hackaday.com/2021/07/10/fractal-vise-holds-odd-shaped-objects-tight/",
+          "publishedOn": "2021-07-10T11:01:56.000Z",
+          "wordCount": 2116,
+          "title": "Fractal Vise Holds Odd-Shaped Objects Tight"
+        },
+        {
+          "id": "https://hackaday.com/?p=486137",
+          "author": "Tom Nardi",
+          "description": "When he found this broken Narco DME 890 that was headed for the trash, [Yeo Kheng Meng] did what any self-respecting hardware hacker would do: he took it back to …read more",
+          "link": "https://hackaday.com/2021/07/10/up-close-and-personal-with-some-busted-avionics/",
+          "publishedOn": "2021-07-10T08:01:39.000Z",
+          "wordCount": 1349,
+          "title": "Up Close and Personal With Some Busted Avionics"
+        },
+        {
+          "id": "https://hackaday.com/?p=485670",
+          "author": "Dan Maloney",
+          "description": "At Hackaday, we celebrate all kinds of projects, but we’ll have to admit that the polished and professional-looking builds tend to catch our eye a lot more than perhaps they …read more",
+          "link": "https://hackaday.com/2021/07/09/a-home-automation-solution-for-fans-of-quick-and-dirty-solutions/",
+          "publishedOn": "2021-07-10T05:00:04.000Z",
+          "wordCount": 1901,
+          "title": "Home Automation for Fans of Quick-and-Dirty Solutions"
+        },
         {
           "id": "https://hackaday.com/?p=485891",
           "author": "Lewin Day",
@@ -3862,6 +3870,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2380",
+          "author": "Cory Doctorow",
+          "description": "Today's links Biden's Right to Repair will include electronics, too: Part of a broad antimonopoly agenda. This day in history: 2001, 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Biden's Right to Repair will include electronics, too (permalink) The Biden administration teased a sweeping antimonopoly executive order last week, including a Right to Repair provision that was to be aimed at agricultural equipment – a direct assault on the corporate power of repair archnemesis John Deere. https://pluralistic.net/2021/07/07/instrumentalism/#r2r But it turns out that the executive order goes far beyond tractors and other agricultural equipment – it also applies to consumer electronics, including mobile phones, and this…",
+          "link": "https://pluralistic.net/2021/07/10/unnixing-the-fix/",
+          "publishedOn": "2021-07-10T17:08:31.000Z",
+          "wordCount": 1882,
+          "title": "Pluralistic: 10 Jul 2021"
+        },
         {
           "id": "https://pluralistic.net/?p=2371",
           "author": "Cory Doctorow",
