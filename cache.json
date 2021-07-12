@@ -643,15 +643,6 @@
           "publishedOn": "2021-05-14T08:08:34.000Z",
           "wordCount": 149,
           "title": "mem [link]"
-        },
-        {
-          "id": "next-layer-resolutions",
-          "author": null,
-          "description": "I keep losing this information in the Next manual, so here it is for quick lookup.\n\n\n\nLayer\nName\nResolution\nCell size\nCells\nColours\nColours/cell\n\n\n\n\nL0\nULA\n256 x 192\n8 x 8\n32 x 24\n8\n2\n\n\nL1,0\nLoRes\n128 x 96\n-\n-\n256\n-\n\n\nL1,1\nStandard Res\n256 x 192\n8 x 8\n32 x 24\n256\n2\n\n\nL1,2\nTimex HiRes\n512 x 192\n-\n-\n2\n-\n\n\nL1,3\nTimex HiColour\n256 x 192\n8 x 1\n32 x 192\n256\n2\n\n\nL2\n\n256 x 192\n-\n-\n256\n-\n\n\nL3,0\nText mode\n320 x 256\n8 x 8\n40 x 32\n256\n2\n\n\nL3,1\nText mode\n640 x 256\n8 x 8\n80 x 32\n256\n2\n\n\nL3,2\nGraphics mode\n320 x 256\n8 x 8…",
-          "link": "https://remysharp.com/til/spectrum/next-layer-resolutions",
-          "publishedOn": "2021-05-13T09:21:21.000Z",
-          "wordCount": 540,
-          "title": "Next layer resolutions [til/spectrum]"
         }
       ]
     },
@@ -1262,6 +1253,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=485642&preview=true&preview_id=485642",
+          "author": "Dan Maloney",
+          "description": "Well, at least the acronym will stay the same. It looks like black is the new blue for Windows 11, as the BSOD screen gets its first makeover in years. …read more",
+          "link": "https://hackaday.com/2021/07/11/hackaday-links-july-11-2021/",
+          "publishedOn": "2021-07-11T23:00:47.000Z",
+          "wordCount": 1440,
+          "title": "Hackaday Links: July 11, 2021"
+        },
+        {
+          "id": "https://hackaday.com/?p=484585",
+          "author": "Jenny List",
+          "description": "Adding an audio channel to your microcontroller project can mean a pile of extra components and a ton of processing power, as a compressed stream must be retrieved and sent …read more",
+          "link": "https://hackaday.com/2021/07/11/digital-audio-for-microcontrollers-doesnt-come-much-simpler-than-a-wart/",
+          "publishedOn": "2021-07-11T20:01:22.000Z",
+          "wordCount": 1396,
+          "title": "Digital Audio for Microcontrollers Doesn’t Come Much Simpler Than a WART"
+        },
+        {
+          "id": "https://hackaday.com/?p=486270",
+          "author": "Tom Nardi",
+          "description": "We’ve all seen those smooth panning shots, which combined with some public domain beats, are a hallmark of the modern YouTube tech video. Recreating that style in your own productions …read more",
+          "link": "https://hackaday.com/2021/07/11/motorized-camera-slider-gives-your-shots-style/",
+          "publishedOn": "2021-07-11T17:01:55.000Z",
+          "wordCount": 1205,
+          "title": "Motorized Camera Slider Gives Your Shots Style"
+        },
+        {
+          "id": "https://hackaday.com/?p=485823",
+          "author": "Tom Nardi",
+          "description": "With a bit of luck, you’ll live your whole life without needing an implanted medical device. But if you do end up getting the news that your doctor will be …read more",
+          "link": "https://hackaday.com/2021/07/11/tuning-into-medical-implants-with-the-rtl-sdr/",
+          "publishedOn": "2021-07-11T14:01:08.000Z",
+          "wordCount": 1551,
+          "title": "Tuning into Medical Implants with the RTL-SDR"
+        },
+        {
+          "id": "https://hackaday.com/?p=485873",
+          "author": "Al Williams",
+          "description": "Microfluidics — working with tiny volumes of fluids in tiny channels — isn’t something you’d think would be inexpensive. Unless you read [Alexander Bissells’] post on how he created microfluidic …read more",
+          "link": "https://hackaday.com/2021/07/11/discount-microfluidics-from-a-9-spree-at-the-dollar-store/",
+          "publishedOn": "2021-07-11T11:01:22.000Z",
+          "wordCount": 1188,
+          "title": "Discount Microfluidics from a $9 Spree at the Dollar Store"
+        },
+        {
+          "id": "https://hackaday.com/?p=485559",
+          "author": "Jenny List",
+          "description": "id Software’s iconic 1993 first-person shooter game Doom was the game to play on your 486 (or fast 386) and was for many their first introduction to immersive 3D environments …read more",
+          "link": "https://hackaday.com/2021/07/11/but-does-it-run-toom/",
+          "publishedOn": "2021-07-11T08:01:14.000Z",
+          "wordCount": 2577,
+          "title": "But Does It Run TOOM?"
+        },
+        {
+          "id": "https://hackaday.com/?p=485538",
+          "author": "Danie Conradie",
+          "description": "[Mike Patey] had made a name for himself by building high-performance experimental aircraft. In his latest project, he added a transforming wing that can extend its chord by up to …read more",
+          "link": "https://hackaday.com/2021/07/10/wing-can-expand-to-fly-really-slow-for-short-take-off-and-landing/",
+          "publishedOn": "2021-07-11T05:01:53.000Z",
+          "wordCount": 3046,
+          "title": "Wing Can Expand To Fly Really Slow for Short Take-Off and Landing"
+        },
         {
           "id": "https://hackaday.com/?p=485284",
           "author": "Jenny List",

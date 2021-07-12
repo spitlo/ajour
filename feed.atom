@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-07-11T00:14:38.061Z</updated>
+    <updated>2021-07-12T00:14:20.911Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hackaday Links: July 11, 2021]]></title>
+        <id>https://hackaday.com/?p=485642&amp;preview=true&amp;preview_id=485642</id>
+        <link href="https://hackaday.com/2021/07/11/hackaday-links-july-11-2021/"/>
+        <updated>2021-07-11T23:00:47.000Z</updated>
+        <summary type="html"><![CDATA[Well, at least the acronym will stay the same. It looks like black is the new blue for Windows 11, as the BSOD screen gets its first makeover in years. …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Audio for Microcontrollers Doesn’t Come Much Simpler Than a WART]]></title>
+        <id>https://hackaday.com/?p=484585</id>
+        <link href="https://hackaday.com/2021/07/11/digital-audio-for-microcontrollers-doesnt-come-much-simpler-than-a-wart/"/>
+        <updated>2021-07-11T20:01:22.000Z</updated>
+        <summary type="html"><![CDATA[Adding an audio channel to your microcontroller project can mean a pile of extra components and a ton of processing power, as a compressed stream must be retrieved and sent …read more]]></summary>
+        <author>
+            <name>Jenny List</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motorized Camera Slider Gives Your Shots Style]]></title>
+        <id>https://hackaday.com/?p=486270</id>
+        <link href="https://hackaday.com/2021/07/11/motorized-camera-slider-gives-your-shots-style/"/>
+        <updated>2021-07-11T17:01:55.000Z</updated>
+        <summary type="html"><![CDATA[We’ve all seen those smooth panning shots, which combined with some public domain beats, are a hallmark of the modern YouTube tech video. Recreating that style in your own productions …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tuning into Medical Implants with the RTL-SDR]]></title>
+        <id>https://hackaday.com/?p=485823</id>
+        <link href="https://hackaday.com/2021/07/11/tuning-into-medical-implants-with-the-rtl-sdr/"/>
+        <updated>2021-07-11T14:01:08.000Z</updated>
+        <summary type="html"><![CDATA[With a bit of luck, you’ll live your whole life without needing an implanted medical device. But if you do end up getting the news that your doctor will be …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discount Microfluidics from a $9 Spree at the Dollar Store]]></title>
+        <id>https://hackaday.com/?p=485873</id>
+        <link href="https://hackaday.com/2021/07/11/discount-microfluidics-from-a-9-spree-at-the-dollar-store/"/>
+        <updated>2021-07-11T11:01:22.000Z</updated>
+        <summary type="html"><![CDATA[Microfluidics — working with tiny volumes of fluids in tiny channels — isn’t something you’d think would be inexpensive. Unless you read [Alexander Bissells’] post on how he created microfluidic …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[But Does It Run TOOM?]]></title>
+        <id>https://hackaday.com/?p=485559</id>
+        <link href="https://hackaday.com/2021/07/11/but-does-it-run-toom/"/>
+        <updated>2021-07-11T08:01:14.000Z</updated>
+        <summary type="html"><![CDATA[id Software’s iconic 1993 first-person shooter game Doom was the game to play on your 486 (or fast 386) and was for many their first introduction to immersive 3D environments …read more]]></summary>
+        <author>
+            <name>Jenny List</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wing Can Expand To Fly Really Slow for Short Take-Off and Landing]]></title>
+        <id>https://hackaday.com/?p=485538</id>
+        <link href="https://hackaday.com/2021/07/10/wing-can-expand-to-fly-really-slow-for-short-take-off-and-landing/"/>
+        <updated>2021-07-11T05:01:53.000Z</updated>
+        <summary type="html"><![CDATA[[Mike Patey] had made a name for himself by building high-performance experimental aircraft. In his latest project, he added a transforming wing that can extend its chord by up to …read more]]></summary>
+        <author>
+            <name>Danie Conradie</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is It A Cyberdeck Or A Vintage Toshiba?]]></title>
         <id>https://hackaday.com/?p=485284</id>
@@ -4808,106 +4878,6 @@ Source: rndmem.com]]></summary>
         <summary type="html"><![CDATA[A look at how hundreds of developers got their start in the industry despite not having a Computer Science or Software Engineering degree. We'll sort responses into 6 categories, and detail strategies that you can use to ensure you capture the attention of potential employers!]]></summary>
         <author>
             <name>Josh W. Comeau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next layer resolutions [til/spectrum]]]></title>
-        <id>next-layer-resolutions</id>
-        <link href="https://remysharp.com/til/spectrum/next-layer-resolutions"/>
-        <updated>2021-05-13T09:21:21.000Z</updated>
-        <summary type="html"><![CDATA[I keep losing this information in the Next manual, so here it is for quick lookup.
-
-
-
-Layer
-Name
-Resolution
-Cell size
-Cells
-Colours
-Colours/cell
-
-
-
-
-L0
-ULA
-256 x 192
-8 x 8
-32 x 24
-8
-2
-
-
-L1,0
-LoRes
-128 x 96
--
--
-256
--
-
-
-L1,1
-Standard Res
-256 x 192
-8 x 8
-32 x 24
-256
-2
-
-
-L1,2
-Timex HiRes
-512 x 192
--
--
-2
--
-
-
-L1,3
-Timex HiColour
-256 x 192
-8 x 1
-32 x 192
-256
-2
-
-
-L2
-
-256 x 192
--
--
-256
--
-
-
-L3,0
-Text mode
-320 x 256
-8 x 8
-40 x 32
-256
-2
-
-
-L3,1
-Text mode
-640 x 256
-8 x 8
-80 x 32
-256
-2
-
-
-L3,2
-Graphics mode
-320 x 256
-8 x 8…]]></summary>
-        <author>
-            <name>remy sharp's b:log</name>
         </author>
     </entry>
 </feed>
