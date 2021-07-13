@@ -429,15 +429,6 @@
           "publishedOn": "2021-05-17T00:00:00.000Z",
           "wordCount": 185,
           "title": "Muller's Ratchet"
-        },
-        {
-          "id": "https://xkcd.com/2463/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/2463/",
-          "publishedOn": "2021-05-14T00:00:00.000Z",
-          "wordCount": 183,
-          "title": "Astrophotography"
         }
       ]
     },
@@ -625,24 +616,6 @@
           "publishedOn": "2021-05-17T00:00:00.000Z",
           "wordCount": 727,
           "title": "My childhood companion: the Quickshot [blog]"
-        },
-        {
-          "id": "2021-05-14-803ab535",
-          "author": null,
-          "description": "Effectively drop in an image, tweak some settings, get a TTF pixel font back out.\nThere's also a useful YouTube video on how to plan pixel font design called Make a Pixel Art Font\nSource: yal.cc",
-          "link": "https://remysharp.com/links/2021-05-14-803ab535",
-          "publishedOn": "2021-05-14T08:18:10.000Z",
-          "wordCount": 181,
-          "title": "Pixel font generator [link]"
-        },
-        {
-          "id": "2021-05-14-03da0b5d",
-          "author": null,
-          "description": "Super tiny font ideal for pixel based games.\nSource: rndmem.com",
-          "link": "https://remysharp.com/links/2021-05-14-03da0b5d",
-          "publishedOn": "2021-05-14T08:08:34.000Z",
-          "wordCount": 149,
-          "title": "mem [link]"
         }
       ]
     },
@@ -952,15 +925,6 @@
           "publishedOn": "2021-05-30T14:32:03.000Z",
           "wordCount": 2283,
           "title": "The Perils of Rehydration"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/career/no-cs-degree-required/",
-          "author": "Josh W. Comeau",
-          "description": "A look at how hundreds of developers got their start in the industry despite not having a Computer Science or Software Engineering degree. We'll sort responses into 6 categories, and detail strategies that you can use to ensure you capture the attention of potential employers!",
-          "link": "https://www.joshwcomeau.com/career/no-cs-degree-required/",
-          "publishedOn": "2021-05-13T17:22:29.000Z",
-          "wordCount": 2151,
-          "title": "Becoming a Software Developer Without a CS Degree"
         }
       ]
     },
@@ -969,6 +933,24 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "http://blog.mozilla.org/foxtail/2020/10/05/break-free-from-the-doomscroll-with-pocket/",
+          "author": "M.J. Kelly",
+          "description": "Last year a new phrase crept into the zeitgeist: doomscrolling, the tendency to get stuck in a bad news content cycle even when consuming it makes us feel worse. That’s no surprise given that 2020 was one for the books with an unrelenting flow of calamitous topics, from the pandemic to murder hornets to wild […]\nThe post Break free from the doomscroll with Pocket appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/internet-culture/deep-dives/break-free-from-the-doomscroll-with-pocket/",
+          "publishedOn": "2021-07-12T18:26:09.000Z",
+          "wordCount": 2307,
+          "title": "Break free from the doomscroll with Pocket"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=66519",
+          "author": "Mozilla",
+          "description": "The Biden Administration issued today an Executive Order on Promoting Competition in the American Economy. “Reinstating net neutrality is a crucial down payment on the much broader internet reform that we need and we’re glad to see the Biden Administration make this a priority in its new Executive Order today. Net neutrality preserves the environment […]\nThe post Net neutrality: reacting to the Executive Order on Promoting Competition in the American Economy appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/internet-policy/net-neutrality-reacting-on-the-executive-order-on-promoting-competition-in-the-american-economy/",
+          "publishedOn": "2021-07-09T23:17:15.000Z",
+          "wordCount": 953,
+          "title": "Net neutrality: reacting to the Executive Order on Promoting Competition in the American Economy"
+        },
         {
           "id": "https://blog.mozilla.org/?p=66519",
           "author": "Mozilla",
@@ -1253,6 +1235,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=485687",
+          "author": "Kristina Panos",
+          "description": "Do you live in a small or yard-less space, but want to grow things anyway? You’re not totally out of luck — you’ll just have to get creative and probably …read more",
+          "link": "https://hackaday.com/2021/07/12/revolving-plant-tower-is-solar-powered/",
+          "publishedOn": "2021-07-12T23:00:27.000Z",
+          "wordCount": 1191,
+          "title": "Revolving Plant Tower is Solar-Powered"
+        },
+        {
+          "id": "https://hackaday.com/?p=485886",
+          "author": "Lewin Day",
+          "description": "Nerf blasters are fun to play with, and it’s now possible to even get robotic Nerf launchers you can use to chase around your friends. [Engineering After Hours] wasn’t satisfied …read more",
+          "link": "https://hackaday.com/2021/07/12/a-capable-nerf-launcher-robot/",
+          "publishedOn": "2021-07-12T20:00:24.000Z",
+          "wordCount": 1139,
+          "title": "A Capable Nerf Launcher Robot"
+        },
+        {
+          "id": "https://hackaday.com/?p=485403",
+          "author": "Bryan Cockfield",
+          "description": "While the disquieting appearance of some of the robots coming out of DARPA and other labs might give us some reservations about how much intelligence we want to give to …read more",
+          "link": "https://hackaday.com/2021/07/12/get-yourself-a-pupper-for-education/",
+          "publishedOn": "2021-07-12T18:31:43.000Z",
+          "wordCount": 1236,
+          "title": "Get Yourself A Pupper (For Education)"
+        },
+        {
+          "id": "https://hackaday.com/?p=483386",
+          "author": "Tom Nardi",
+          "description": "Regular readers may be aware that I have a certain affinity for vintage VTech educational toys, especially ones that attempted to visually or even functionally tie in with contemporary computer …read more",
+          "link": "https://hackaday.com/2021/07/12/teardown-vtech-smart-start/",
+          "publishedOn": "2021-07-12T17:00:34.000Z",
+          "wordCount": 2223,
+          "title": "Teardown: VTech Smart Start"
+        },
+        {
+          "id": "https://hackaday.com/?p=485691&preview=true&preview_id=485691",
+          "author": "Dan Maloney",
+          "description": "Join us on Wednesday, July 14 at noon Pacific for the SCADA Security Hack Chat with Éireann Leverett! As a society, we’ve learned a lot of hard lessons over the …read more",
+          "link": "https://hackaday.com/2021/07/12/scada-security-hack-chat/",
+          "publishedOn": "2021-07-12T16:00:42.000Z",
+          "wordCount": 1620,
+          "title": "SCADA Security Hack Chat"
+        },
+        {
+          "id": "https://hackaday.com/?p=486151",
+          "author": "Tom Nardi",
+          "description": "The 1984 Timex Computer 2048 that [Drygol] recently got his hands on was in pretty poor shape. Not only did it have the mangled exterior that comes from several decades …read more",
+          "link": "https://hackaday.com/2021/07/12/chip-transplant-brings-timex-2048-back-from-grave/",
+          "publishedOn": "2021-07-12T15:01:08.000Z",
+          "wordCount": 2492,
+          "title": "Chip Transplant Brings Timex 2048 Back from Grave"
+        },
+        {
+          "id": "https://hackaday.com/?p=481933",
+          "author": "Jenny List",
+          "description": "If you were born in the 1960s or early 1970s, the chances are that somewhere in your childhood ambitions lay a desire to be an astronaut or cosmonaut. Once Yuri …read more",
+          "link": "https://hackaday.com/2021/07/12/as-chinese-wheels-touch-martian-soil-and-indian-astronauts-walk-towards-the-launch-pad-can-we-hope-for-another-space-race/",
+          "publishedOn": "2021-07-12T14:01:31.000Z",
+          "wordCount": 3349,
+          "title": "As Chinese Wheels Touch Martian Soil And Indian Astronauts Walk Towards The Launch Pad, Can We Hope For Another Space Race?"
+        },
         {
           "id": "https://hackaday.com/?p=485642&preview=true&preview_id=485642",
           "author": "Dan Maloney",
@@ -3924,6 +3969,20 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2385",
+          "author": "Cory Doctorow",
+          "description": "Today's links Podcasting \"Tech Monopolies and the Insufficient Necessity of Interoperability\": Corporate rivalries vs public power. The Sacklers will get to keep billions: What's a little mass-murder between friends? This day in history: 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Podcasting \"Tech Monopolies and the Insufficient Necessity of Interoperability\" (permalink) This week on my podcast, I read my latest Locus Magazine column, \"Tech Monopolies and the Insufficient Necessity of Interoperability.\" It presents a theory of change to get us to a world of aggressive, trans-industry, global trustbusting. https://locusmag.com/2021/07/cory-doctorow-tech-monopolies-and-the-insufficient-necessity-of-interoperabil…",
+          "link": "https://pluralistic.net/2021/07/12/monopolist-solidarity/",
+          "publishedOn": "2021-07-12T15:58:04.000Z",
+          "wordCount": 2951,
+          "title": "Pluralistic: 12 Jul 2021",
+          "enclosure": {
+            "url": "https://archive.org/download/Cory_Doctorow_Podcast_397/Cory_Doctorow_Podcast_397_-_Tech_Monopolies_and_the_Insufficient_Necessity_of_Interoperability.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "https://pluralistic.net/?p=2380",
           "author": "Cory Doctorow",
