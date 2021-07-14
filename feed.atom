@@ -2,10 +2,106 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-07-13T00:14:07.849Z</updated>
+    <updated>2021-07-14T00:14:00.088Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Stop Touching My Face]]></title>
+        <id>https://hackaday.com/?p=486585</id>
+        <link href="https://hackaday.com/2021/07/13/stop-touching-my-face/"/>
+        <updated>2021-07-13T23:01:44.000Z</updated>
+        <summary type="html"><![CDATA[We all have a habit or two that we’re not terribly proud of and have probably thought of any number of ways to help rid ourselves of them. Well, [Friedlc] …read more]]></summary>
+        <author>
+            <name>Orlando Hoilett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wobble Disk Coffee Roaster Looks Good in Wood]]></title>
+        <id>https://hackaday.com/?p=486224</id>
+        <link href="https://hackaday.com/2021/07/13/wobble-disk-coffee-roaster-looks-good-in-wood/"/>
+        <updated>2021-07-13T20:00:04.000Z</updated>
+        <summary type="html"><![CDATA[If you love coffee, you probably make it yourself at home most of the time using beans from some hipster coffee shop where the employees have full-sleeve tattoos and strong …read more]]></summary>
+        <author>
+            <name>Kristina Panos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Responsive Paintings Do It with Heat and Light]]></title>
+        <id>https://hackaday.com/?p=482881</id>
+        <link href="https://hackaday.com/2021/07/13/responsive-paintings-do-it-with-heat-and-light/"/>
+        <updated>2021-07-13T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Art is a conversation, yes. But normally, it’s a short one: the artist makes a statement and the audience responds, each bringing their own interpretations. The hard thing about being …read more]]></summary>
+        <author>
+            <name>Kristina Panos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Virginia Apgar May Have Saved Your Life]]></title>
+        <id>https://hackaday.com/?p=485202</id>
+        <link href="https://hackaday.com/2021/07/13/virginia-apgar-may-have-saved-your-life/"/>
+        <updated>2021-07-13T17:00:15.000Z</updated>
+        <summary type="html"><![CDATA[Between the 1930s and the 1950s, something sort of strange happened in the United States. The infant mortality rate went into decline, but the number of babies that died within …read more]]></summary>
+        <author>
+            <name>Kristina Panos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Printed CNC Knee Mill]]></title>
+        <id>https://hackaday.com/?p=485542</id>
+        <link href="https://hackaday.com/2021/07/13/3d-printed-cnc-knee-mill/"/>
+        <updated>2021-07-13T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[CNC mills will never match real heavy metal mills on hard materials, but that won’t stop people from pushing the limits of these DIY machines. One of the usual suspects, …read more]]></summary>
+        <author>
+            <name>Danie Conradie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muse Group Continues Tone Deaf Handling of Audacity]]></title>
+        <id>https://hackaday.com/?p=486555</id>
+        <link href="https://hackaday.com/2021/07/13/muse-group-continues-tone-deaf-handling-of-audacity/"/>
+        <updated>2021-07-13T14:00:09.000Z</updated>
+        <summary type="html"><![CDATA[When we last checked in on the Audacity community, privacy-minded users of the free and open source audio editor were concerned over proposed plans to add telemetry reporting to the …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Linux Kernel 5.14 Audio Update]]></title>
+        <id>https://hackaday.com/?p=485612</id>
+        <link href="https://hackaday.com/2021/07/13/the-linux-kernel-5-14-audio-update/"/>
+        <updated>2021-07-13T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You may remember the Pipewire coverage we ran a couple weeks ago, and the TODO item to fix up Firewire device support with Pipewire. It turns out that this is …read more]]></summary>
+        <author>
+            <name>Jonathan Bennett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fat Dactyls]]></title>
+        <id>https://esoteric.codes/blog/fat-dactyls</id>
+        <link href="https://esoteric.codes/blog/fat-dactyls"/>
+        <updated>2021-07-13T10:18:00.000Z</updated>
+        <summary type="html"><![CDATA[If you make a language and are lucky, someone else will write code for it. If you are very lucky, someone else will find uses for it you never intended, or that even challenge the premise of the language.
+
+This is not the same as using the language in an unexpected way. Urban Müller could not have foreseen brainfuck as the bedrock for a Rust-like language or a CPU. But do these projects truly counter brainfuck's premise? I would argue not. Brainfuck appears chaotic but part of its appeal has always been in conquering that chaos, in building efficient algorithms using the language despite the challenge. These projects counter the chaos of brainfuck, but that really is the appeal of brainfuck in the first place, they are simply taking it much further than could have been anticipated. If Müller had wanted brainfuck to be impossible to master, he would have designed the language much differently.
+
+Sometimes, however, a language inspires work that falls very far from the intent of its original designer. Most esolangs, like mainstream programming languages, are open systems and don't dictate how programmers use them. C# offers many features to make structured code easy. But I can also write C# that looks like 80s BASIC wrapped in some standard C# boilerplate:
+Read More]]></summary>
+        <author>
+            <name>esoteric.codes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tip: not everyone has macOS to hide those ugly scrollbars [blog]]]></title>
+        <id>tip-not-everyone-has-macos-to-hide-those-ugly-scrollbars</id>
+        <link href="https://remysharp.com/2021/07/13/tip-not-everyone-has-macos-to-hide-those-ugly-scrollbars"/>
+        <updated>2021-07-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is a shorties as blog posts go, but a goodie, and certainly one for future Rem to read.
+My default machine for development has a trackpad for input. Both in the laptop state and when I have it connected to an external monitor. Up until recently, I had no idea that other users were seeing a very different view of my web pages than I was.]]></summary>
+        <author>
+            <name>remy sharp's b:log</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Revolving Plant Tower is Solar-Powered]]></title>
         <id>https://hackaday.com/?p=485687</id>
@@ -95,6 +191,16 @@ The post Break free from the doomscroll with Pocket appeared first on The Mozill
         <summary type="html"><![CDATA[If you were born in the 1960s or early 1970s, the chances are that somewhere in your childhood ambitions lay a desire to be an astronaut or cosmonaut. Once Yuri …read more]]></summary>
         <author>
             <name>Jenny List</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Board Game Argument: Legacy]]></title>
+        <id>https://xkcd.com/2488/</id>
+        <link href="https://xkcd.com/2488/"/>
+        <updated>2021-07-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/board_game_argument_legacy.png" title="Listen, you need to get over your reluctance to permanently alter a game. Now roll 2d6 to determine how many ounces of soda to spill into the box." alt="Listen, you need to get over your reluctance to permanently alter a game. Now roll 2d6 to determine how many ounces of soda to spill into the box." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -3190,6 +3296,16 @@ The post Privacy analysis of FLoC appeared first on The Mozilla Blog.]]></summar
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Becoming a Software Developer Without a CS Degree]]></title>
+        <id>https://www.joshwcomeau.com/career/no-cs-degree-required/</id>
+        <link href="https://www.joshwcomeau.com/career/no-cs-degree-required/"/>
+        <updated>2021-06-10T14:31:26.000Z</updated>
+        <summary type="html"><![CDATA[A look at how hundreds of developers got their start in the industry despite not having a Computer Science or Software Engineering degree. We'll sort responses into 6 categories, and detail strategies that you can use to ensure you capture the attention of potential employers!]]></summary>
+        <author>
+            <name>Josh W. Comeau</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Let's Bring Spacer GIFs Back!]]></title>
         <id>https://www.joshwcomeau.com/react/modern-spacer-gif/</id>
         <link href="https://www.joshwcomeau.com/react/modern-spacer-gif/"/>
@@ -4927,17 +5043,6 @@ As a kid I went through a lot of joysticks and the iconic joysticks of that era 
         <summary type="html"><![CDATA[Events May 16 is the next Seattle Area IF Meetup. May 17 is the next Boston Area IF Meetup. May 23 is a workshop-style meeting of the London/Oxford IF Meetup. The group will be offering feedback on open design problems (some tips and guidelines are included in the event description). You’re welcome whether or not you’ve got an open … Continue reading "Mid-May Link Assortment"]]></summary>
         <author>
             <name>Mort Short</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enter our college essay contest for a chance to win $5,000]]></title>
-        <id>https://blog.mozilla.org/foxtail/?p=65150</id>
-        <link href="https://blog.mozilla.org/en/products/pocket/college-essay-contest-pocket-hercampus-announcement/"/>
-        <updated>2021-05-14T13:09:00.000Z</updated>
-        <summary type="html"><![CDATA[The world this year’s college graduates will inherit is vastly different than the one they grew up expecting. COVID-19, a changing political climate, and a fluctuating economy all have something to do with it. But one of the biggest factors: continuous advancements in technology. New developments in social platforms, artificial intelligence, and augmented reality continue […]
-The post Enter our college essay contest for a chance to win $5,000 appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Rebecca Smith</name>
         </author>
     </entry>
 </feed>

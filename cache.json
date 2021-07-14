@@ -215,6 +215,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2488/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/board_game_argument_legacy.png\" title=\"Listen, you need to get over your reluctance to permanently alter a game. Now roll 2d6 to determine how many ounces of soda to spill into the box.\" alt=\"Listen, you need to get over your reluctance to permanently alter a game. Now roll 2d6 to determine how many ounces of soda to spill into the box.\" />",
+          "link": "https://xkcd.com/2488/",
+          "publishedOn": "2021-07-12T00:00:00.000Z",
+          "wordCount": 189,
+          "title": "Board Game Argument: Legacy"
+        },
+        {
           "id": "https://xkcd.com/2487/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/danger_mnemonic.png\" title=\"It's definitely not the time to try drinking beer before liquor.\" alt=\"It's definitely not the time to try drinking beer before liquor.\" />",
@@ -437,6 +446,15 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "tip-not-everyone-has-macos-to-hide-those-ugly-scrollbars",
+          "author": null,
+          "description": "This is a shorties as blog posts go, but a goodie, and certainly one for future Rem to read.\nMy default machine for development has a trackpad for input. Both in the laptop state and when I have it connected to an external monitor. Up until recently, I had no idea that other users were seeing a very different view of my web pages than I was.",
+          "link": "https://remysharp.com/2021/07/13/tip-not-everyone-has-macos-to-hide-those-ugly-scrollbars",
+          "publishedOn": "2021-07-13T00:00:00.000Z",
+          "wordCount": 429,
+          "title": "Tip: not everyone has macOS to hide those ugly scrollbars [blog]"
+        },
         {
           "id": "how-to-inspect-elements-that-hide-on-mouse-move",
           "author": null,
@@ -701,6 +719,15 @@
       "siteUrl": "https://esoteric.codes",
       "articles": [
         {
+          "id": "https://esoteric.codes/blog/fat-dactyls",
+          "author": null,
+          "description": "If you make a language and are lucky, someone else will write code for it. If you are very lucky, someone else will find uses for it you never intended, or that even challenge the premise of the language.\n\r\nThis is not the same as using the language in an unexpected way. Urban Müller could not have foreseen brainfuck as the bedrock for a Rust-like language or a CPU. But do these projects truly counter brainfuck's premise? I would argue not. Brainfuck appears chaotic but part of its appeal has always been in conquering that chaos, in building efficient algorithms using the language despite the challenge. These projects counter the chaos of brainfuck, but that really is the appeal of brainfuck in the first place, they are simply taking it much further than could have been anticipated. If Müller had wanted brainfuck to be impossible to master, he would have designed the language much differently.\n\r\nSometimes, however, a language inspires work that falls very far from the intent of its original designer. Most esolangs, like mainstream programming languages, are open systems and don't dictate how programmers use them. C# offers many features to make structured code easy. But I can also write C# that looks like 80s BASIC wrapped in some standard C# boilerplate:\nRead More",
+          "link": "https://esoteric.codes/blog/fat-dactyls",
+          "publishedOn": "2021-07-13T10:18:00.000Z",
+          "wordCount": 1354,
+          "title": "Fat Dactyls"
+        },
+        {
           "id": "https://esoteric.codes/blog/zzo38",
           "author": null,
           "description": "Zzo38 is undoubtedly the most prolific of esolangers. In addition to his long list of fully developed esolangs are his unimplemented ideas and experiments. He has been creating languages since 1994 with DZZZZ, a Funge-like language not much younger than Befunge. \n\n\r\n» Is there a meaning behind your pseudonym zzo38?\n\r\n\"ZZO\" is like \"ZZT\", which is a DOS-based game engine I have used in the past (and still do). (ZZT wasn't Free software at the time, but it is now.)\n\r\nThe numbers 3 and 8 are from I wanted to decorate a pillow with numbers but those are the only numbers they had.\n\r\n» Your list on the esolangs wiki of unusual features of languages is fascinating, e.g. how COBOL can change the locations GOTOs point to. Do you draw from these in designing your own languages? What are the most esoteric features you've found in non-esoteric languages? What do you consider the most non-intentionally-esoteric language?\n\r\nIt had been said that PostScript is both esoteric and non-esoteric at the same time. Additionally, I would think PostScript is both general-purpose and domain-specific at the same time, too.\nRead More",
@@ -835,6 +862,15 @@
           "publishedOn": "2021-06-21T14:13:12.000Z",
           "wordCount": 2758,
           "title": "Demystifying styled-components"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/career/no-cs-degree-required/",
+          "author": "Josh W. Comeau",
+          "description": "A look at how hundreds of developers got their start in the industry despite not having a Computer Science or Software Engineering degree. We'll sort responses into 6 categories, and detail strategies that you can use to ensure you capture the attention of potential employers!",
+          "link": "https://www.joshwcomeau.com/career/no-cs-degree-required/",
+          "publishedOn": "2021-06-10T14:31:26.000Z",
+          "wordCount": 2151,
+          "title": "Becoming a Software Developer Without a CS Degree"
         },
         {
           "id": "https://www.joshwcomeau.com/react/modern-spacer-gif/",
@@ -1184,15 +1220,6 @@
           "publishedOn": "2021-05-17T13:21:00.000Z",
           "wordCount": 1805,
           "title": "Class of Zoom: The reality of virtual graduation, prom & college orientation"
-        },
-        {
-          "id": "https://blog.mozilla.org/foxtail/?p=65150",
-          "author": "Rebecca Smith",
-          "description": "The world this year’s college graduates will inherit is vastly different than the one they grew up expecting. COVID-19, a changing political climate, and a fluctuating economy all have something to do with it. But one of the biggest factors: continuous advancements in technology. New developments in social platforms, artificial intelligence, and augmented reality continue […]\nThe post Enter our college essay contest for a chance to win $5,000 appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/products/pocket/college-essay-contest-pocket-hercampus-announcement/",
-          "publishedOn": "2021-05-14T13:09:00.000Z",
-          "wordCount": 1129,
-          "title": "Enter our college essay contest for a chance to win $5,000"
         }
       ]
     },
@@ -1235,6 +1262,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=486585",
+          "author": "Orlando Hoilett",
+          "description": "We all have a habit or two that we’re not terribly proud of and have probably thought of any number of ways to help rid ourselves of them. Well, [Friedlc] …read more",
+          "link": "https://hackaday.com/2021/07/13/stop-touching-my-face/",
+          "publishedOn": "2021-07-13T23:01:44.000Z",
+          "wordCount": 1265,
+          "title": "Stop Touching My Face"
+        },
+        {
+          "id": "https://hackaday.com/?p=486224",
+          "author": "Kristina Panos",
+          "description": "If you love coffee, you probably make it yourself at home most of the time using beans from some hipster coffee shop where the employees have full-sleeve tattoos and strong …read more",
+          "link": "https://hackaday.com/2021/07/13/wobble-disk-coffee-roaster-looks-good-in-wood/",
+          "publishedOn": "2021-07-13T20:00:04.000Z",
+          "wordCount": 1187,
+          "title": "Wobble Disk Coffee Roaster Looks Good in Wood"
+        },
+        {
+          "id": "https://hackaday.com/?p=482881",
+          "author": "Kristina Panos",
+          "description": "Art is a conversation, yes. But normally, it’s a short one: the artist makes a statement and the audience responds, each bringing their own interpretations. The hard thing about being …read more",
+          "link": "https://hackaday.com/2021/07/13/responsive-paintings-do-it-with-heat-and-light/",
+          "publishedOn": "2021-07-13T18:30:00.000Z",
+          "wordCount": 1269,
+          "title": "Responsive Paintings Do It with Heat and Light"
+        },
+        {
+          "id": "https://hackaday.com/?p=485202",
+          "author": "Kristina Panos",
+          "description": "Between the 1930s and the 1950s, something sort of strange happened in the United States. The infant mortality rate went into decline, but the number of babies that died within …read more",
+          "link": "https://hackaday.com/2021/07/13/virginia-apgar-may-have-saved-your-life/",
+          "publishedOn": "2021-07-13T17:00:15.000Z",
+          "wordCount": 2642,
+          "title": "Virginia Apgar May Have Saved Your Life"
+        },
+        {
+          "id": "https://hackaday.com/?p=485542",
+          "author": "Danie Conradie",
+          "description": "CNC mills will never match real heavy metal mills on hard materials, but that won’t stop people from pushing the limits of these DIY machines. One of the usual suspects, …read more",
+          "link": "https://hackaday.com/2021/07/13/3d-printed-cnc-knee-mill/",
+          "publishedOn": "2021-07-13T15:30:00.000Z",
+          "wordCount": 4075,
+          "title": "3D Printed CNC Knee Mill"
+        },
+        {
+          "id": "https://hackaday.com/?p=486555",
+          "author": "Tom Nardi",
+          "description": "When we last checked in on the Audacity community, privacy-minded users of the free and open source audio editor were concerned over proposed plans to add telemetry reporting to the …read more",
+          "link": "https://hackaday.com/2021/07/13/muse-group-continues-tone-deaf-handling-of-audacity/",
+          "publishedOn": "2021-07-13T14:00:09.000Z",
+          "wordCount": 4824,
+          "title": "Muse Group Continues Tone Deaf Handling of Audacity"
+        },
+        {
+          "id": "https://hackaday.com/?p=485612",
+          "author": "Jonathan Bennett",
+          "description": "You may remember the Pipewire coverage we ran a couple weeks ago, and the TODO item to fix up Firewire device support with Pipewire. It turns out that this is …read more",
+          "link": "https://hackaday.com/2021/07/13/the-linux-kernel-5-14-audio-update/",
+          "publishedOn": "2021-07-13T11:00:00.000Z",
+          "wordCount": 2978,
+          "title": "The Linux Kernel 5.14 Audio Update"
+        },
         {
           "id": "https://hackaday.com/?p=485687",
           "author": "Kristina Panos",
