@@ -215,6 +215,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2490/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/pre_pandemic_ketchup.png\" title=\"I wonder what year I'll discard the last weird food item that I bought online in early 2020.\" alt=\"I wonder what year I'll discard the last weird food item that I bought online in early 2020.\" />",
+          "link": "https://xkcd.com/2490/",
+          "publishedOn": "2021-07-16T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Pre-Pandemic Ketchup"
+        },
+        {
           "id": "https://xkcd.com/2489/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/bad_map_projection_the_greenland_special.png\" title=\"The projection for those who think the Mercator projection gives people a distorted idea of how big Greenland is, but a very accurate idea of how big it SHOULD be.\" alt=\"The projection for those who think the Mercator projection gives people a distorted idea of how big Greenland is, but a very accurate idea of how big it SHOULD be.\" />",
@@ -447,6 +456,15 @@
       "siteUrl": "https://remysharp.com",
       "articles": [
         {
+          "id": "2021-07-16",
+          "author": null,
+          "description": "The game went live just under a week ago and the feedback has been really nice to see.\nThere's been a balance of \"regular\" players and power players, and in those power players is where the game got some more much needed play testing.\nThe one thing that I had designed into the game was the unlimited undo. The side effect was that, technically, there's infinite ability to make your way through the game so long as you had time and patience - a lot of patience!\nThe knock on problem with infinite moves is that the score really isn't infinite. In fact, I alluded to that in a previous devlog because the score is a 16bit value, it has a max range.\nSo with that, this new release adds a penalty to using the undo. I went through a lot of different ideas and tested them out to see how they affected the score. Here's just a few that I tried:\n\nSubtracting 100 points per undo\nHalving the score per undo\nSubtracting the number of blocks restored\nUsing the undo depth as a multiplier - as in: if you undo twice, the penalty is greater\n\nThese had either drastic effects on the score, which made it pointless, or very subtle effects which rendered the penalty ineffective.\nWhat I settled on was using your progress as the multiplier. So, undo costs 25 points per undo on level 1. On level 2, it costs 50 points, level 3 75 points and so on.\nThis changes the dynamic of the game in a really interesting way. You start to consider the impact on your decisions against your score: do I continue with undo and risk it, or do I accept the fate of stable score and hope it's good enough for a highscore?\nThere was also some fixes for the custom themes - around the palette because I require a custom palette for the game's main tiles, but when you add your own custom tiles the game switches to the default Layer 2 palette - so there were fixes around that too. And here's Gaz Mashall's own custom theme in action behind a new user interface change:",
+          "link": "https://remysharp.com/devlog/marbles2/2021-07-16",
+          "publishedOn": "2021-07-16T00:00:00.000Z",
+          "wordCount": 506,
+          "title": "Marbles2 - 16-Jul 2021 [devlog/marbles2]"
+        },
+        {
           "id": "me-and-tinnitus-entry-2",
           "author": null,
           "description": "To test if I'm suitable for the treatment I talked about in entry 1, and the only in-person appointment I'd need, I would have to have a hearing test.\nI've only ever had a hearing test when I was a kid and I do remember even then they mentioned there was some slight loss. Hearing is important to the The Lenire System treatment because it plays audio to help rewire the brain, so if I have hearing damage, I won't be suitable.",
@@ -625,15 +643,6 @@
           "publishedOn": "2021-05-19T00:00:00.000Z",
           "wordCount": 725,
           "title": "Marbles2 - 19-May 2021 [devlog/marbles2]"
-        },
-        {
-          "id": "2021-05-18",
-          "author": null,
-          "description": "Progress is being made.\nHaving coded this game a number of times over the last 20 years and actually having played it a lot, I was finding that the spectrum flavour was somewhat harder than I would like.\nI would vary rarely manage to clear an entire board and though a challenge is fun, too difficult and being stuck in the same score range is not.\nOne approach I started to consider was whether I can write software to run through generated boards and work out which ones can be completed (at least one way) and…",
-          "link": "https://remysharp.com/devlog/marbles2/2021-05-18",
-          "publishedOn": "2021-05-18T00:00:00.000Z",
-          "wordCount": 447,
-          "title": "Marbles2 - 18-May 2021 [devlog/marbles2]"
         }
       ]
     },
@@ -776,17 +785,7 @@
       "title": "TEXT-MODE",
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
-      "articles": [
-        {
-          "id": "https://text-mode.tumblr.com/post/651455347805028352",
-          "author": null,
-          "description": "A tweetable program by Andy Wallace (andymakesgames) that you can play with here.\n\n{createCanvas(w=400,w)\nt+=0.006\nfor(y=0;y",
-          "link": "https://text-mode.tumblr.com/post/651455347805028352",
-          "publishedOn": "2021-05-17T18:30:33.000Z",
-          "wordCount": 186,
-          "title": "A tweetable program by Andy Wallace (andymakesgames) that you..."
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Julia Evans",
@@ -951,6 +950,15 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=66547",
+          "author": "Damiano",
+          "description": "At Mozilla, we believe part of making the internet we want is celebrating the best of the internet, and that can be as simple as sharing a tweet that made us pause in our feed. Twitter isn’t perfect, but there are individual tweets that come pretty close. Each week in Top Shelf, we will be […]\nThe post Olivia Rodrigo, the cast of “The French Dispatch,” “Loki” and more are on this week’s Top Shelf appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/internet-culture/top-shelf-olivia-rodrigo-july-12/",
+          "publishedOn": "2021-07-16T20:16:56.000Z",
+          "wordCount": 1197,
+          "title": "Olivia Rodrigo, the cast of “The French Dispatch,” “Loki” and more are on this week’s Top Shelf"
+        },
         {
           "id": "http://blog.mozilla.org/foxtail/2020/10/05/break-free-from-the-doomscroll-with-pocket/",
           "author": "M.J. Kelly",
@@ -1193,15 +1201,6 @@
           "publishedOn": "2021-05-19T01:56:51.000Z",
           "wordCount": 722,
           "title": "A fresh new Firefox for desktop and mobile"
-        },
-        {
-          "id": "https://blog.mozilla.org/foxtail/?p=65162",
-          "author": "Mozilla",
-          "description": "Last spring, Norah W. took note of how former President Barack Obama, Beyoncé and K-Pop band BTS broadcasted impassioned commencement speeches to the graduating class of 2020. Now that it’s her turn to mark the end of high school, she can’t help but feel disregarded. “It felt like the entire world mourned the class of […]\nThe post Class of Zoom: The reality of virtual graduation, prom & college orientation appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/internet-culture/deep-dives/high-school-graduates-zoom-school-prom-graduation/",
-          "publishedOn": "2021-05-17T13:21:00.000Z",
-          "wordCount": 1805,
-          "title": "Class of Zoom: The reality of virtual graduation, prom & college orientation"
         }
       ]
     },
@@ -1253,6 +1252,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=486668&preview=true&preview_id=486668",
+          "author": "Mike Szczys",
+          "description": "This is the final weekend to enter your work-from-home project in the 2021 Hackaday Prize. We know how much fun it is to be creative with home setups that keep …read more",
+          "link": "https://hackaday.com/2021/07/16/final-weekend-for-work-from-home-challenge-of-the-hackaday-prize/",
+          "publishedOn": "2021-07-16T21:01:57.000Z",
+          "wordCount": 1274,
+          "title": "Final Weekend for Work-From-Home Challenge of the Hackaday Prize"
+        },
+        {
+          "id": "https://hackaday.com/?p=487020",
+          "author": "Tom Nardi",
+          "description": "Generally speaking, creating custom mirrors is a complex task that involves a lot of careful grinding, and isn’t something to be taken lightly if you need precision results. Just ask …read more",
+          "link": "https://hackaday.com/2021/07/16/making-custom-curved-mirrors-at-home/",
+          "publishedOn": "2021-07-16T20:00:14.000Z",
+          "wordCount": 1221,
+          "title": "Making Custom Curved Mirrors at Home"
+        },
+        {
+          "id": "https://hackaday.com/?p=487222",
+          "author": "Dan Maloney",
+          "description": "Good news this morning from low Earth orbit, where the Hubble Space Telescope is back online after a long and worrisome month of inactivity following a glitch with the observatory’s …read more",
+          "link": "https://hackaday.com/2021/07/16/the-fix-is-in-hubbles-troubles-appear-over-for-now/",
+          "publishedOn": "2021-07-16T18:11:33.000Z",
+          "wordCount": 2505,
+          "title": "The Fix is In: Hubble’s Troubles Appear Over for Now"
+        },
+        {
+          "id": "https://hackaday.com/?p=485114",
+          "author": "Jenny List",
+          "description": "The world of open source software is one that often sees disputes between developers, some of which spawn lifelong schisms between devotees of different forks, and others mere storms in …read more",
+          "link": "https://hackaday.com/2021/07/16/just-what-have-we-become/",
+          "publishedOn": "2021-07-16T17:01:44.000Z",
+          "wordCount": 3495,
+          "title": "Just What Have We Become?"
+        },
+        {
+          "id": "https://hackaday.com/?p=487082&preview=true&preview_id=487082",
+          "author": "Mike Szczys",
+          "description": "Hackaday editors Mike Szczys and Elliot Williams help you get caught up on a week of wonder hacks. We don’t remember seeing a floppy drive headline the demoscene, but sure …read more",
+          "link": "https://hackaday.com/2021/07/16/hackaday-podcast-127-whippletree-clamps-sniffing-your-stomach-radio-multimeter-hum-fix-and-c64-demo-no-c64/",
+          "publishedOn": "2021-07-16T16:01:37.000Z",
+          "wordCount": 1289,
+          "title": "Hackaday Podcast 127: Whippletree Clamps, Sniffing Your Stomach Radio, Multimeter Hum Fix, and C64 Demo; No C64"
+        },
+        {
+          "id": "https://hackaday.com/?p=486909",
+          "author": "Maya Posch",
+          "description": "When the Apollo astronauts made their way to the Moon, their communication equipment had a transmission power of a mere 20 W, which the sensitive receivers back on Earth managed …read more",
+          "link": "https://hackaday.com/2021/07/16/inside-a-20-watt-traveling-wave-tube-amplifier-from-apollo/",
+          "publishedOn": "2021-07-16T15:30:00.000Z",
+          "wordCount": 1780,
+          "title": "Inside A 20-Watt Traveling Wave Tube Amplifier From Apollo"
+        },
+        {
+          "id": "https://hackaday.com/?p=486994",
+          "author": "Jonathan Bennett",
+          "description": "The funniest thing happened to REvil this week. Their online presence seems to have disappeared. Their Tor sites as well as conventional sites all went down about the same time …read more",
+          "link": "https://hackaday.com/2021/07/16/this-week-is-security-revil-goes-dark-kaseya-cleanup-android-updates-and-terrible-firmware/",
+          "publishedOn": "2021-07-16T14:00:42.000Z",
+          "wordCount": 2687,
+          "title": "This Week is Security: REvil Goes Dark, Kaseya Cleanup, Android Updates, And Terrible Firmware"
+        },
         {
           "id": "https://hackaday.com/?p=486707",
           "author": "Dan Maloney",
@@ -4176,6 +4238,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2395",
+          "author": "Cory Doctorow",
+          "description": "Today's links Interop and the Public Interest Internet: To fight network effects, reduce switching costs. This day in history: 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Interop and the Public Interest Internet (permalink) When we talk about the internet's problems and solutions, we tend to focus on Big Tech, the monopolizers who dominate our digital lives. That's only natural. But there's another internet, one that deserves our attention: The Public Interest Internet. https://www.eff.org/issues/public-interest-internet The Public Interest Internet is a \"wider, more diverse, more generous world. Often run by volunteers, frequently without any institutional affiliation, sometimes tiny, often local, but free for everyone o…",
+          "link": "https://pluralistic.net/2021/07/16/pidgin/",
+          "publishedOn": "2021-07-16T17:51:15.000Z",
+          "wordCount": 1662,
+          "title": "Pluralistic: 16 Jul 2021"
+        },
         {
           "id": "https://pluralistic.net/?p=2392",
           "author": "Cory Doctorow",
