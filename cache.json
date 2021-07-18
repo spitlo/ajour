@@ -438,15 +438,6 @@
           "publishedOn": "2021-05-21T00:00:00.000Z",
           "wordCount": 187,
           "title": "In Your Classroom"
-        },
-        {
-          "id": "https://xkcd.com/2465/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/2465/",
-          "publishedOn": "2021-05-19T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Dimensional Chess"
         }
       ]
     },
@@ -625,24 +616,6 @@
           "publishedOn": "2021-05-20T12:32:31.000Z",
           "wordCount": 208,
           "title": "How do you set the value in an order list? [til/css]"
-        },
-        {
-          "id": "2021-05-19-69040872",
-          "author": null,
-          "description": "A combination of workers, websockets and \"durable objects\" (which I've not heard of before).\nA detailed walk through of the tech is on CloudFlare - and I do hope the domain remains active for years to come, I'm certainly challenging the 90s teenager in me when I hear those sound effects.\nDeath match anyone!?\nSource: silentspacemarine.com",
-          "link": "https://remysharp.com/links/2021-05-19-69040872",
-          "publishedOn": "2021-05-19T09:39:53.000Z",
-          "wordCount": 215,
-          "title": "Multiplayer DOOM - in the browser 😱 [link]"
-        },
-        {
-          "id": "2021-05-19",
-          "author": null,
-          "description": "During game play it always bothered me that there was no fluidity to the interaction. That is, you select a block and they swap into the right place.\nThere's no falling effect, no selection effect, just - vanish.\nNextBASIC doesn't have much bandwidth (compared to assembly) but it does leverage hardware sprites via a handful of NextBASIC (software) routines (AKA the Sprite System), which translates to: do a bit more for a bit less.\nSo I've added this animation when you select a block in the game. It's a bit …",
-          "link": "https://remysharp.com/devlog/marbles2/2021-05-19",
-          "publishedOn": "2021-05-19T00:00:00.000Z",
-          "wordCount": 725,
-          "title": "Marbles2 - 19-May 2021 [devlog/marbles2]"
         }
       ]
     },
@@ -704,15 +677,6 @@
           "publishedOn": "2021-05-20T06:18:07.000Z",
           "wordCount": 905,
           "title": "gmock and gtest on OpenBSD 6.9 hate each other"
-        },
-        {
-          "id": "https://rachelbythebay.com/w/2021/05/18/cpu/",
-          "author": null,
-          "description": "There are a bunch of ways that we talk about CPU, and they're not all \nmeasuring the same thing.  We're not even always talking about the same \nphysical part of the computer!  More on that in a bit, though.  Let's\ntalk about the numbers first.\n\n\nA load average can be particularly fun since it usually (on Linux) \nincludes stuff that's in the kernel and trying to run but is stuck on \nsome kind of lock, like if \nreading /proc/pid/cmdline gets stuck,\nor a NFS mount is hung, or whatever.  If you stack a bunch of…",
-          "link": "https://rachelbythebay.com/w/2021/05/18/cpu/",
-          "publishedOn": "2021-05-19T00:47:43.000Z",
-          "wordCount": 1129,
-          "title": "How we talk about CPU (or processors, or cores, or...)"
         }
       ]
     },
@@ -1192,15 +1156,6 @@
           "publishedOn": "2021-05-19T13:24:00.000Z",
           "wordCount": 1768,
           "title": "How to actually enjoy being online again"
-        },
-        {
-          "id": "https://blog.mozilla.org/foxtail/?p=64968",
-          "author": "M.J. Kelly",
-          "description": "You don’t last 20 years as a browser without making improvements along the way. So on June 1, that’s exactly what we’re doing. Get ready for a fresh new Firefox.\nThe post A fresh new Firefox for desktop and mobile appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/videos/a-fresh-new-firefox-for-desktop-and-mobile/",
-          "publishedOn": "2021-05-19T01:56:51.000Z",
-          "wordCount": 722,
-          "title": "A fresh new Firefox for desktop and mobile"
         }
       ]
     },
@@ -1252,6 +1207,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=486947",
+          "author": "Al Williams",
+          "description": "A classic problem. You have a new CPU and a 15-year old water cooling system. Of course, the bracket doesn’t fit. Time to buy a new cooler? Not if you …read more",
+          "link": "https://hackaday.com/2021/07/17/cnc-saves-water-cooling-setup/",
+          "publishedOn": "2021-07-17T23:00:00.000Z",
+          "wordCount": 1071,
+          "title": "CNC Saves Water Cooling Setup"
+        },
+        {
+          "id": "https://hackaday.com/?p=487126",
+          "author": "Kristina Panos",
+          "description": "Good news, everyone! The results of the Reinvented Retro contest are in, and the creators of these three groovy projects have each won a $200 online shopping spree to Digi-Key. …read more",
+          "link": "https://hackaday.com/2021/07/17/reinvented-retro-contest-winners-announced/",
+          "publishedOn": "2021-07-17T20:01:16.000Z",
+          "wordCount": 1491,
+          "title": "Reinvented Retro Contest Winners Announced"
+        },
+        {
+          "id": "https://hackaday.com/?p=487001",
+          "author": "Stephen Ogier",
+          "description": "The semiconductor shortage sparked by the pandemic is showing no signs of slowing down. Although auto manufacturers were some of the first affected, the shortage has now spread and is …read more",
+          "link": "https://hackaday.com/2021/07/17/tales-from-the-global-chip-shortage-smoothieboard/",
+          "publishedOn": "2021-07-17T17:01:48.000Z",
+          "wordCount": 1689,
+          "title": "Tales from the Global Chip Shortage: Smoothieboard"
+        },
+        {
+          "id": "https://hackaday.com/?p=487243",
+          "author": "Elliot Williams",
+          "description": "If you haven’t been following along with the licensing kerfuffle surrounding the open-source Audacity audio editing software, take a sec to read Tom Nardi’s piece and get up to speed. …read more",
+          "link": "https://hackaday.com/2021/07/17/open-source-is-choice/",
+          "publishedOn": "2021-07-17T14:00:25.000Z",
+          "wordCount": 6042,
+          "title": "Open Source is Choice"
+        },
+        {
+          "id": "https://hackaday.com/?p=486453",
+          "author": "Dan Maloney",
+          "description": "Say what you want about Soviet technology, but you’ve got to admit there was a certain style to Cold War-era electronics. Things were perhaps not as streamlined and sleek as …read more",
+          "link": "https://hackaday.com/2021/07/17/soviet-scientific-calculator-gives-up-its-cold-war-era-secrets/",
+          "publishedOn": "2021-07-17T11:01:02.000Z",
+          "wordCount": 1395,
+          "title": "Soviet Scientific Calculator Gives Up Its Cold War-Era Secrets"
+        },
+        {
+          "id": "https://hackaday.com/?p=486825",
+          "author": "Matthew Carlson",
+          "description": "The mesmerizing properties of fractals are surprising as their visual complexity often arises from simple equations. [CodeParade] set out to show how simple a fractal is by creating them using …read more",
+          "link": "https://hackaday.com/2021/07/17/finding-fractals-in-the-1930s/",
+          "publishedOn": "2021-07-17T08:01:18.000Z",
+          "wordCount": 2286,
+          "title": "Finding Fractals in the 1930’s"
+        },
+        {
+          "id": "https://hackaday.com/?p=487248",
+          "author": "Kristina Panos",
+          "description": "Have you seen this yet? YouTuber [VK’s Channel] claims to have a permanent fix for Joy-Con drift — the tendency for Nintendo Switch controllers to behave as though they’re being …read more",
+          "link": "https://hackaday.com/2021/07/16/fixing-joy-con-drift-with-recycle-bin-parts/",
+          "publishedOn": "2021-07-17T05:00:51.000Z",
+          "wordCount": 1842,
+          "title": "Fixing Joy-Con Drift with Recycle Bin Parts"
+        },
         {
           "id": "https://hackaday.com/?p=486668&preview=true&preview_id=486668",
           "author": "Mike Szczys",
