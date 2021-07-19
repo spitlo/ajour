@@ -172,6 +172,15 @@
       "siteUrl": "https://emshort.blog",
       "articles": [
         {
+          "id": "http://emshort.blog/?p=42020",
+          "author": "Emily Short",
+          "description": "Many years ago, I started writing a fantasy story. In the story, there was a culturally important game you could play with friends, which was usually mostly a bit like poker. The thing was, every once in a while you would draw some totally weird extra card that had never been in the pack before. … Continue reading \"The Uncanny Deck: Co-authoring with GPT-2\"",
+          "link": "https://emshort.blog/2021/07/18/the-uncanny-deck-co-authoring-with-gpt-2/",
+          "publishedOn": "2021-07-18T17:39:36.000Z",
+          "wordCount": 3210,
+          "title": "The Uncanny Deck: Co-authoring with GPT-2"
+        },
+        {
           "id": "http://emshort.blog/?p=41987",
           "author": "Emily Short",
           "description": "Thanks Sharp-eyed readers may have noticed that over the last year and a half, a lot of these posts have been signed “Mort Short” rather than “Emily.” This is because, for a lot of the pandemic, I haven’t had the time and energy to guarantee that the link assortment would happen on time twice a … Continue reading \"Mid-July Link Assortment\"",
@@ -661,6 +670,15 @@
           "title": "Reader feedback on CPUs: pay attention to those frequencies"
         },
         {
+          "id": "https://rachelbythebay.com/w/2021/05/18/cpu/",
+          "author": null,
+          "description": "There are a bunch of ways that we talk about CPU, and they're not all \nmeasuring the same thing.  We're not even always talking about the same \nphysical part of the computer!  More on that in a bit, though.  Let's\ntalk about the numbers first.\n\n\nA load average can be particularly fun since it usually (on Linux) \nincludes stuff that's in the kernel and trying to run but is stuck on \nsome kind of lock, like if \nreading /proc/pid/cmdline gets stuck,\nor a NFS mount is hung, or whatever.  If you stack a bunch of those up \nfrom cron jobs or other repetitive things, you might end up with a load \naverage in the hundreds or thousands... and still have a perfectly \nresponsive machine!\n\n\nClearly, the load average is only one way to look at things.\n\n\nIf the process suddenly ramps up and gets very busy…",
+          "link": "https://rachelbythebay.com/w/2021/05/18/cpu/",
+          "publishedOn": "2021-05-23T03:35:19.000Z",
+          "wordCount": 1138,
+          "title": "How we talk about CPU (or processors, or cores, or...)"
+        },
+        {
           "id": "https://rachelbythebay.com/w/2021/04/30/speech/",
           "author": null,
           "description": "One of the weird patterns I keep seeing in management is that some of \nthe folks with those jobs care more about what people say than what they \ndo.  They want everything to look happy and shiny and nice, even when \nthings are broken and need help.  They don't want you complaining about \nsomething, *especially* not in some venue where other managers might \nsee it.\n\n\nAt some point, they started blocking off those bridges prior to one of \nthe talks.  You could not hang out to watch the show from there.  You \nalso could not *cross them* just to go to the other side.  The first \ntime they did this, they didn't tell anyone and people were \nunderstandably confused and annoyed.\n\n\nBut, someone complained.  Unsurprisingly, people who do reliability work \nlike me tend to not stand for things like th…",
@@ -668,15 +686,6 @@
           "publishedOn": "2021-05-23T03:35:16.000Z",
           "wordCount": 899,
           "title": "The chilling effect versus attempts to fix things"
-        },
-        {
-          "id": "https://rachelbythebay.com/w/2021/05/19/gtest/",
-          "author": null,
-          "description": "Here's a fun one.  I've been messing around with an OpenBSD 6.9 image to \nsee just how well my existing code works on a non-Linux environment.  \nOnce in a while, I find something unusual and interesting, like a \ndifference in what is supported, and discover a \"Linuxism\" (or really a\n\"glibcism\" in most cases) as a result.\n\n\nThe OpenBSD system has this available via their ports system, so you can \njust \"pkg_add gtest\" and you'll get gtest+gmock 1.8.0p3 on your machine, \nready to go.  Trouble is, it's not quit…",
-          "link": "https://rachelbythebay.com/w/2021/05/19/gtest/",
-          "publishedOn": "2021-05-20T06:18:07.000Z",
-          "wordCount": 905,
-          "title": "gmock and gtest on OpenBSD 6.9 hate each other"
         }
       ]
     },
@@ -1147,15 +1156,6 @@
           "publishedOn": "2021-05-20T13:34:00.000Z",
           "wordCount": 870,
           "title": "Behind the design of the fresh new Firefox coming June 1"
-        },
-        {
-          "id": "https://blog.mozilla.org/foxtail/?p=65175",
-          "author": "Rebecca Smith",
-          "description": "COVID-19 accelerated changes in our behaviors that drove our lives increasingly online. Screens became our almost exclusive discovery point to the world. There were some benefits to this rapid shift. For many people, work was able to continue relatively uninterrupted at home, almost anything could be ordered online and delivered, and we were able to […]\nThe post How to actually enjoy being online again appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/internet-culture/deep-dives/how-to-enjoy-being-online-again/",
-          "publishedOn": "2021-05-19T13:24:00.000Z",
-          "wordCount": 1768,
-          "title": "How to actually enjoy being online again"
         }
       ]
     },
@@ -1207,6 +1207,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=486789&preview=true&preview_id=486789",
+          "author": "Dan Maloney",
+          "description": "Tell the world that something is in short supply, and you can bet that people will start reacting to that news in the ways that make the most sense to …read more",
+          "link": "https://hackaday.com/2021/07/18/hackaday-links-july-18-2021/",
+          "publishedOn": "2021-07-18T23:00:07.000Z",
+          "wordCount": 1617,
+          "title": "Hackaday Links: July 18, 2021"
+        },
+        {
+          "id": "https://hackaday.com/?p=487320",
+          "author": "Donald Papp",
+          "description": "Old electrolytic capacitors are notorious for not working like they used to, but what exactly does a bad capacitor look like, and what kinds of problems can it cause? Usually …read more",
+          "link": "https://hackaday.com/2021/07/18/faulty-electrolytic-caps-dont-always-look-bad/",
+          "publishedOn": "2021-07-18T20:00:22.000Z",
+          "wordCount": 2422,
+          "title": "Faulty Electrolytic Caps Don’t Always Look Bad"
+        },
+        {
+          "id": "https://hackaday.com/?p=487357",
+          "author": "Adam Zeloof",
+          "description": "It’s an old misconception that digital musicians just use a mouse and keyboard for their art. This is often far from the truth, as many computer music artists have a …read more",
+          "link": "https://hackaday.com/2021/07/18/midi-mouse-makes-marvelous-music/",
+          "publishedOn": "2021-07-18T17:00:27.000Z",
+          "wordCount": 1277,
+          "title": "MIDI Mouse Makes Marvelous Music"
+        },
+        {
+          "id": "https://hackaday.com/?p=487429",
+          "author": "Matthew Carlson",
+          "description": "If you stop to think, the number of pre-recorded voices and sounds you might hear on an average day might number in the hundreds. Everything from subway announcements, alerts on …read more",
+          "link": "https://hackaday.com/2021/07/18/the-hidden-sounds-of-the-past/",
+          "publishedOn": "2021-07-18T14:00:59.000Z",
+          "wordCount": 1533,
+          "title": "The Hidden Sounds Of The Past"
+        },
+        {
+          "id": "https://hackaday.com/?p=487404",
+          "author": "Al Williams",
+          "description": "There are several important decisions you make in your life: Coke or Pepsi; vi or emacs; PC or Mac. But, lately, you need to pick a battery ecosystem for your …read more",
+          "link": "https://hackaday.com/2021/07/18/dewalt-literal-hack-upgrades-battery/",
+          "publishedOn": "2021-07-18T11:00:25.000Z",
+          "wordCount": 3765,
+          "title": "DeWalt Literal Hack Upgrades Battery"
+        },
+        {
+          "id": "https://hackaday.com/?p=485890",
+          "author": "Lewin Day",
+          "description": "We’ve all found ourselves swimming amongst too many similar-looking USB cables over the years. Some have all the conductors and functionality, some are weird power-only oddballs, and some charge our …read more",
+          "link": "https://hackaday.com/2021/07/18/arduino-cable-tracer-helps-diagnose-broken-usb-cables/",
+          "publishedOn": "2021-07-18T08:00:49.000Z",
+          "wordCount": 2375,
+          "title": "Arduino Cable Tracer Helps Diagnose Broken USB Cables"
+        },
+        {
+          "id": "https://hackaday.com/?p=486449",
+          "author": "Bryan Cockfield",
+          "description": "Minecraft seems to be a game in which anything is possible, both in the virtual world and in the real one. As a sandbox-style game, we’ve seen all kinds of …read more",
+          "link": "https://hackaday.com/2021/07/17/control-an-irl-home-from-minecraft/",
+          "publishedOn": "2021-07-18T05:00:37.000Z",
+          "wordCount": 1575,
+          "title": "Control an IRL Home From Minecraft"
+        },
         {
           "id": "https://hackaday.com/?p=486947",
           "author": "Al Williams",
