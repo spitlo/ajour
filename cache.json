@@ -438,15 +438,6 @@
           "publishedOn": "2021-05-24T00:00:00.000Z",
           "wordCount": 185,
           "title": "Wikipedia Caltrops"
-        },
-        {
-          "id": "https://xkcd.com/2466/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/2466/",
-          "publishedOn": "2021-05-21T00:00:00.000Z",
-          "wordCount": 187,
-          "title": "In Your Classroom"
         }
       ]
     },
@@ -607,24 +598,6 @@
           "publishedOn": "2021-05-25T00:00:00.000Z",
           "wordCount": 1932,
           "title": "Notes on neptUNO [blog]"
-        },
-        {
-          "id": "when-fd-shows-no-files",
-          "author": null,
-          "description": "I'm a big fan of fd and use it as a part of my dev workflow as it's way easier than find.\nI've used it to convert files on the fly for ingest, specifically converting xlsx to csv en mass.\nThis is the command I was running:\n$ fd . -e xlsx -x sh -c \"in2csv '{}' > '{.}'.csv\"\n\nThis finds all the files that end with xlsx (using -e) and executes (-x) a shell command that passes the full filename {} to in2csv (part of the csvkit tools) and outputs to the basename {.} with .csv appended.\nExcept I found that this wo…",
-          "link": "https://remysharp.com/til/cli/when-fd-shows-no-files",
-          "publishedOn": "2021-05-21T11:39:58.000Z",
-          "wordCount": 320,
-          "title": "When fd shows no files [til/cli]"
-        },
-        {
-          "id": "how-do-you-set-the-value-in-an-order-list",
-          "author": null,
-          "description": "Not with CSS, that's how!\n<ol>\n  <li value=\"3\">This is item three.</li>\n  <li value=\"50\">This is item fifty.</li>\n  <li value=\"100\">This is item one hundred.</li>\n</ol>\n\nResult:\n\n  This is item three.\n  This is item fifty.\n  This is item one hundred.\n\nI only I had read the HTML5 Doctor articles we were putting out at the time 🤦",
-          "link": "https://remysharp.com/til/css/how-do-you-set-the-value-in-an-order-list",
-          "publishedOn": "2021-05-20T12:32:31.000Z",
-          "wordCount": 208,
-          "title": "How do you set the value in an order list? [til/css]"
         }
       ]
     },
@@ -808,6 +781,15 @@
       "feedUrl": "https://www.joshwcomeau.com/rss.xml",
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
+        {
+          "id": "https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/",
+          "author": "Josh W. Comeau",
+          "description": "As software developers, we're always learning new things; it's practically the whole gig! If we can learn to quickly pick up new languages/frameworks/tools, we'll become so much more effective at our job. It's sort of a superpower.",
+          "link": "https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/",
+          "publishedOn": "2021-07-19T14:24:16.000Z",
+          "wordCount": 2893,
+          "title": "How To Learn Stuff Quickly"
+        },
         {
           "id": "https://www.joshwcomeau.com/react/demystifying-styled-components/",
           "author": "Josh W. Comeau",
@@ -1147,15 +1129,6 @@
           "publishedOn": "2021-05-25T17:18:39.000Z",
           "wordCount": 1078,
           "title": "Why I’m joining Mozilla’s Board of Directors"
-        },
-        {
-          "id": "https://blog.mozilla.org/foxtail/?p=65187",
-          "author": "M.J. Kelly",
-          "description": "A new Firefox is coming your way on June 1 with a fresh look designed for today’s modern life online. We pored over the browser’s user interface pixel by pixel, measured the value users were getting from our massive library of features, and ultimately streamlined the Firefox experience to be clean, inviting and easier to […]\nThe post Behind the design of the fresh new Firefox coming June 1 appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/products/firefox/new-firefox-coming-june-1/",
-          "publishedOn": "2021-05-20T13:34:00.000Z",
-          "wordCount": 870,
-          "title": "Behind the design of the fresh new Firefox coming June 1"
         }
       ]
     },
@@ -1190,15 +1163,6 @@
           "publishedOn": "2021-06-17T14:00:00.000Z",
           "wordCount": 4041,
           "title": "Asynchronous Design Critique: Giving Feedback"
-        },
-        {
-          "id": "https://alistapart.com/article/thats-not-my-burnout/",
-          "author": "by",
-          "description": "Are you like me, reading about people fading away as they burn out, and feeling unable to relate? Do you feel like your feelings are invisible to the world because you’re experiencing burnout differently? When burnout starts to push down on us, our core comes through more. Beautiful, peaceful souls get quieter and fade into that distant and distracted burnout we’ve all read about. But some of us, those with fires always burning on the edges of our core, get hotter. In my heart I am fire. When I face burnout…",
-          "link": "https://alistapart.com/article/thats-not-my-burnout/",
-          "publishedOn": "2021-05-20T14:00:00.000Z",
-          "wordCount": 3869,
-          "title": "That’s Not My Burnout"
         }
       ]
     },
@@ -1207,6 +1171,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=487295",
+          "author": "Donald Papp",
+          "description": "A camera dolly can be fantastic filmmaking tool, and [Cornelius] was determined to create his own version: the “Dope” DIY Dolly. The result not only upped his production quality, but …read more",
+          "link": "https://hackaday.com/2021/07/19/diy-camera-dolly-costs-more-time-than-money/",
+          "publishedOn": "2021-07-19T23:00:20.000Z",
+          "wordCount": 1209,
+          "title": "DIY Camera Dolly Costs More Time than Money"
+        },
+        {
+          "id": "https://hackaday.com/?p=487129&preview=true&preview_id=487129",
+          "author": "Mike Szczys",
+          "description": "Beginning right now, the 2021 Hackaday Prize challenges you to Reimagine Supportive Tech. Quite frankly, this is all about shortcuts to success. Can we make it easier for people to …read more",
+          "link": "https://hackaday.com/2021/07/19/reimagine-supportive-tech-for-the-newest-hackaday-prize-challenge/",
+          "publishedOn": "2021-07-19T21:01:18.000Z",
+          "wordCount": 1461,
+          "title": "Reimagine Supportive Tech for the Newest Hackaday Prize Challenge"
+        },
+        {
+          "id": "https://hackaday.com/?p=487356",
+          "author": "Tom Nardi",
+          "description": "Rolling your own digital picture frame that loads images from an SD card and displays them on an LCD with a modern microcontroller like the ESP32 is an afternoon project, …read more",
+          "link": "https://hackaday.com/2021/07/19/an-oled-photo-frame-powered-by-the-attiny85/",
+          "publishedOn": "2021-07-19T20:00:29.000Z",
+          "wordCount": 1317,
+          "title": "An OLED Photo Frame Powered by the ATtiny85"
+        },
+        {
+          "id": "https://hackaday.com/?p=487273",
+          "author": "Chris Lott",
+          "description": "[Francesco] developed a parametric design tool called SOL75 which aims to take the drudgery out of designing the basic mechanical parts used in projects. He knows how to design things …read more",
+          "link": "https://hackaday.com/2021/07/19/sol75-uses-ai-to-design-standard-mechanical-parts/",
+          "publishedOn": "2021-07-19T18:30:52.000Z",
+          "wordCount": 1584,
+          "title": "SOL75 Uses AI to Design Standard Mechanical Parts"
+        },
+        {
+          "id": "https://hackaday.com/?p=483252",
+          "author": "Maya Posch",
+          "description": "When writing code for a new hardware platform, the last thing you want to do is bother with the minutiae of I/O routines, string handling and other similarly tedious details …read more",
+          "link": "https://hackaday.com/2021/07/19/the-newlib-embedded-c-standard-library-and-how-to-use-it/",
+          "publishedOn": "2021-07-19T17:00:34.000Z",
+          "wordCount": 2669,
+          "title": "The Newlib Embedded C Standard Library And How To Use It"
+        },
+        {
+          "id": "https://hackaday.com/?p=486791&preview=true&preview_id=486791",
+          "author": "Dan Maloney",
+          "description": "Join us on Wednesday, July 21 at noon Pacific for the Python Your Keyboard Hack Chat with the Adafruit crew! Especially over the last year and a half, most of …read more",
+          "link": "https://hackaday.com/2021/07/19/python-your-keyboard-hack-chat-with-adafruit/",
+          "publishedOn": "2021-07-19T16:00:27.000Z",
+          "wordCount": 1628,
+          "title": "Python Your Keyboard Hack Chat with Adafruit"
+        },
+        {
+          "id": "https://hackaday.com/?p=487473",
+          "author": "Chris Lott",
+          "description": "Samsung is causing much angst among its SmartThings customers by shutting down support for its original SmartThings home automation hub as of the end of June. These are network-connected home …read more",
+          "link": "https://hackaday.com/2021/07/19/samsung-shuttering-original-smartthings-hubs/",
+          "publishedOn": "2021-07-19T15:30:19.000Z",
+          "wordCount": 3515,
+          "title": "Samsung Shuttering Original SmartThings Hubs"
+        },
         {
           "id": "https://hackaday.com/?p=486789&preview=true&preview_id=486789",
           "author": "Dan Maloney",
