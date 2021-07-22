@@ -122,17 +122,7 @@
       "title": "Blog on SaraSoueidan.com",
       "feedUrl": "https://www.sarasoueidan.com/blog/index.xml",
       "siteUrl": "https://sarasoueidan.com/blog/",
-      "articles": [
-        {
-          "id": "https://sarasoueidan.com/blog/copy-paste-from-vscode-to-keynote/",
-          "author": null,
-          "description": "Apple Keynote doesn’t come with code syntax highlighting built in. I really wish it did, and hope that Apple would at some point add this feature, especially considering how many developers and engineers use Keynote to create talk slides.\nSeven years ago, I used to take screenshots of code snippets to include them in my presentations. That was very impractical. If I wanted to make changes to the code, I’d have to rewrite it, take a screenshot again, and copy-paste it into Keynote once again. That soon becam…",
-          "link": "https://sarasoueidan.com/blog/copy-paste-from-vscode-to-keynote/",
-          "publishedOn": "2021-05-23T00:00:00.000Z",
-          "wordCount": 647,
-          "title": "A couple of ways to highlight code syntax in Apple Keynote slides"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "there.oughta.be/",
@@ -650,33 +640,6 @@
           "publishedOn": "2021-05-26T21:32:21.000Z",
           "wordCount": 585,
           "title": "IRC: run it or use it, but try to avoid doing both"
-        },
-        {
-          "id": "https://rachelbythebay.com/w/2021/05/22/cpu/",
-          "author": null,
-          "description": "A couple of days ago, I\nwrote\nabout how CPU utilization has a bunch of weird and wacky measurements \nand how there's a bunch of inconsistent vocabulary to boot.\n\n\nIt's been a long time since CPU frequencies have been a simple thing.  \nEver since Intel dropped the\n\"DX2\"\nline of 486s onto the world in 1992, we've had to pay careful attention \nto what we're actually buying.  At the time, there were 25 and 33 MHz \n486s, and then there was a \"66 MHz\" 486 (the DX2), but that was the \ninternal frequency.  External…",
-          "link": "https://rachelbythebay.com/w/2021/05/22/cpu/",
-          "publishedOn": "2021-05-23T03:38:00.000Z",
-          "wordCount": 938,
-          "title": "Reader feedback on CPUs: pay attention to those frequencies"
-        },
-        {
-          "id": "https://rachelbythebay.com/w/2021/05/18/cpu/",
-          "author": null,
-          "description": "There are a bunch of ways that we talk about CPU, and they're not all \nmeasuring the same thing.  We're not even always talking about the same \nphysical part of the computer!  More on that in a bit, though.  Let's\ntalk about the numbers first.\n\n\nA load average can be particularly fun since it usually (on Linux) \nincludes stuff that's in the kernel and trying to run but is stuck on \nsome kind of lock, like if \nreading /proc/pid/cmdline gets stuck,\nor a NFS mount is hung, or whatever.  If you stack a bunch of those up \nfrom cron jobs or other repetitive things, you might end up with a load \naverage in the hundreds or thousands... and still have a perfectly \nresponsive machine!\n\n\nClearly, the load average is only one way to look at things.\n\n\nIf the process suddenly ramps up and gets very busy…",
-          "link": "https://rachelbythebay.com/w/2021/05/18/cpu/",
-          "publishedOn": "2021-05-23T03:35:19.000Z",
-          "wordCount": 1138,
-          "title": "How we talk about CPU (or processors, or cores, or...)"
-        },
-        {
-          "id": "https://rachelbythebay.com/w/2021/04/30/speech/",
-          "author": null,
-          "description": "One of the weird patterns I keep seeing in management is that some of \nthe folks with those jobs care more about what people say than what they \ndo.  They want everything to look happy and shiny and nice, even when \nthings are broken and need help.  They don't want you complaining about \nsomething, *especially* not in some venue where other managers might \nsee it.\n\n\nAt some point, they started blocking off those bridges prior to one of \nthe talks.  You could not hang out to watch the show from there.  You \nalso could not *cross them* just to go to the other side.  The first \ntime they did this, they didn't tell anyone and people were \nunderstandably confused and annoyed.\n\n\nBut, someone complained.  Unsurprisingly, people who do reliability work \nlike me tend to not stand for things like th…",
-          "link": "https://rachelbythebay.com/w/2021/04/30/speech/",
-          "publishedOn": "2021-05-23T03:35:16.000Z",
-          "wordCount": 899,
-          "title": "The chilling effect versus attempts to fix things"
         }
       ]
     },
@@ -790,6 +753,15 @@
       "feedUrl": "https://www.joshwcomeau.com/rss.xml",
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
+        {
+          "id": "https://www.joshwcomeau.com/react/prefers-reduced-motion/",
+          "author": "Josh W. Comeau",
+          "description": "I really love animation, but not everybody does. In fact, it can make some people literally sick! In this tutorial, we'll see how to ensure that we respect user preferences, and create animations that can be disabled.",
+          "link": "https://www.joshwcomeau.com/react/prefers-reduced-motion/",
+          "publishedOn": "2021-07-21T19:42:21.000Z",
+          "wordCount": 1826,
+          "title": "Accessible Animations in React"
+        },
         {
           "id": "https://www.joshwcomeau.com/career/remote-work-pt2/",
           "author": "Josh W. Comeau",
@@ -1189,6 +1161,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=487418",
+          "author": "Michael Shaub",
+          "description": "Back in 2018, [Salah] created a prototype display that seems to defy logic using little more than a Pringles can and a fast motor. While not volumetric, this hack does …read more",
+          "link": "https://hackaday.com/2021/07/21/a-new-spin-on-360-degree-displays/",
+          "publishedOn": "2021-07-21T23:00:59.000Z",
+          "wordCount": 1288,
+          "title": "A New Spin on 360 Degree Displays"
+        },
+        {
+          "id": "https://hackaday.com/?p=487498",
+          "author": "Tom Nardi",
+          "description": "Even with more and more devices making the leap to USB-C, the Arduino Uno still proudly sports a comparatively ancient Type-B port. It wouldn’t be a stretch to say that …read more",
+          "link": "https://hackaday.com/2021/07/21/clever-pcb-brings-micro-usb-to-the-arduino-uno/",
+          "publishedOn": "2021-07-21T20:00:56.000Z",
+          "wordCount": 2146,
+          "title": "Clever PCB Brings Micro USB To The Arduino Uno"
+        },
+        {
+          "id": "https://hackaday.com/?p=487701",
+          "author": "Danie Conradie",
+          "description": "Thanks to 3D printing and cheap hobby servos, building you’re own small walking robot is not particularly difficult, but getting them to walk smoothly can be an entirely different story. …read more",
+          "link": "https://hackaday.com/2021/07/21/zerobug-from-simulation-to-smooth-walking/",
+          "publishedOn": "2021-07-21T18:30:00.000Z",
+          "wordCount": 1507,
+          "title": "ZeroBug: From Simulation To Smooth Walking"
+        },
+        {
+          "id": "https://hackaday.com/?p=484555",
+          "author": "Jenny List",
+          "description": "In 2021 all our electronics are solid state, in that they exclusively use semiconductor devices as their active components. Some of us may experiment with vacuum tubes, but only for …read more",
+          "link": "https://hackaday.com/2021/07/21/retrotechtacular-nuvistor-vacuums-last-gasp/",
+          "publishedOn": "2021-07-21T17:01:14.000Z",
+          "wordCount": 2490,
+          "title": "Retrotechtacular: Nuvistor, Vacuum’s Last Gasp"
+        },
+        {
+          "id": "https://hackaday.com/?p=487133",
+          "author": "Bryan Cockfield",
+          "description": "We’re always a fan of an interesting or unique clock build around here, which often use intricate pieces of technology to keep time such as weights and gears, crystal oscillators, …read more",
+          "link": "https://hackaday.com/2021/07/21/precise-sundial-tells-time-to-the-minute/",
+          "publishedOn": "2021-07-21T15:30:00.000Z",
+          "wordCount": 1440,
+          "title": "Precise Sundial Tells Time to the Minute"
+        },
+        {
+          "id": "https://hackaday.com/?p=485293",
+          "author": "Lewin Day",
+          "description": "Blurring is a commonly used visual effect when digitally editing photos and videos. One of the most common blurs used in these fields is the Gaussian blur. You may have …read more",
+          "link": "https://hackaday.com/2021/07/21/what-exactly-is-a-gaussian-blur/",
+          "publishedOn": "2021-07-21T14:00:33.000Z",
+          "wordCount": 2758,
+          "title": "What Exactly is a Gaussian Blur?"
+        },
+        {
+          "id": "https://hackaday.com/?p=487698",
+          "author": "Jenny List",
+          "description": "GNU/Linux is an open-source marvel that has over the past three decades given us an almost infinitely versatile and powerful UNIX-like operating system. But even it has its limitations, particularly …read more",
+          "link": "https://hackaday.com/2021/07/21/its-linux-but-on-an-esp32/",
+          "publishedOn": "2021-07-21T11:00:00.000Z",
+          "wordCount": 2596,
+          "title": "It’s Linux – But On An ESP32"
+        },
         {
           "id": "https://hackaday.com/?p=487561",
           "author": "Donald Papp",

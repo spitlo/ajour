@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-07-21T00:13:54.782Z</updated>
+    <updated>2021-07-22T00:14:36.821Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A New Spin on 360 Degree Displays]]></title>
+        <id>https://hackaday.com/?p=487418</id>
+        <link href="https://hackaday.com/2021/07/21/a-new-spin-on-360-degree-displays/"/>
+        <updated>2021-07-21T23:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Back in 2018, [Salah] created a prototype display that seems to defy logic using little more than a Pringles can and a fast motor. While not volumetric, this hack does …read more]]></summary>
+        <author>
+            <name>Michael Shaub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clever PCB Brings Micro USB To The Arduino Uno]]></title>
+        <id>https://hackaday.com/?p=487498</id>
+        <link href="https://hackaday.com/2021/07/21/clever-pcb-brings-micro-usb-to-the-arduino-uno/"/>
+        <updated>2021-07-21T20:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Even with more and more devices making the leap to USB-C, the Arduino Uno still proudly sports a comparatively ancient Type-B port. It wouldn’t be a stretch to say that …read more]]></summary>
+        <author>
+            <name>Tom Nardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accessible Animations in React]]></title>
+        <id>https://www.joshwcomeau.com/react/prefers-reduced-motion/</id>
+        <link href="https://www.joshwcomeau.com/react/prefers-reduced-motion/"/>
+        <updated>2021-07-21T19:42:21.000Z</updated>
+        <summary type="html"><![CDATA[I really love animation, but not everybody does. In fact, it can make some people literally sick! In this tutorial, we'll see how to ensure that we respect user preferences, and create animations that can be disabled.]]></summary>
+        <author>
+            <name>Josh W. Comeau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZeroBug: From Simulation To Smooth Walking]]></title>
+        <id>https://hackaday.com/?p=487701</id>
+        <link href="https://hackaday.com/2021/07/21/zerobug-from-simulation-to-smooth-walking/"/>
+        <updated>2021-07-21T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Thanks to 3D printing and cheap hobby servos, building you’re own small walking robot is not particularly difficult, but getting them to walk smoothly can be an entirely different story. …read more]]></summary>
+        <author>
+            <name>Danie Conradie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Retrotechtacular: Nuvistor, Vacuum’s Last Gasp]]></title>
+        <id>https://hackaday.com/?p=484555</id>
+        <link href="https://hackaday.com/2021/07/21/retrotechtacular-nuvistor-vacuums-last-gasp/"/>
+        <updated>2021-07-21T17:01:14.000Z</updated>
+        <summary type="html"><![CDATA[In 2021 all our electronics are solid state, in that they exclusively use semiconductor devices as their active components. Some of us may experiment with vacuum tubes, but only for …read more]]></summary>
+        <author>
+            <name>Jenny List</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Precise Sundial Tells Time to the Minute]]></title>
+        <id>https://hackaday.com/?p=487133</id>
+        <link href="https://hackaday.com/2021/07/21/precise-sundial-tells-time-to-the-minute/"/>
+        <updated>2021-07-21T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[We’re always a fan of an interesting or unique clock build around here, which often use intricate pieces of technology to keep time such as weights and gears, crystal oscillators, …read more]]></summary>
+        <author>
+            <name>Bryan Cockfield</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Exactly is a Gaussian Blur?]]></title>
+        <id>https://hackaday.com/?p=485293</id>
+        <link href="https://hackaday.com/2021/07/21/what-exactly-is-a-gaussian-blur/"/>
+        <updated>2021-07-21T14:00:33.000Z</updated>
+        <summary type="html"><![CDATA[Blurring is a commonly used visual effect when digitally editing photos and videos. One of the most common blurs used in these fields is the Gaussian blur. You may have …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s Linux – But On An ESP32]]></title>
+        <id>https://hackaday.com/?p=487698</id>
+        <link href="https://hackaday.com/2021/07/21/its-linux-but-on-an-esp32/"/>
+        <updated>2021-07-21T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GNU/Linux is an open-source marvel that has over the past three decades given us an almost infinitely versatile and powerful UNIX-like operating system. But even it has its limitations, particularly …read more]]></summary>
+        <author>
+            <name>Jenny List</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Live Energy Monitor Helps Plan Power-Hungry Appliance Use]]></title>
         <id>https://hackaday.com/?p=487561</id>
@@ -5372,94 +5452,6 @@ If you are only looking for specific information or the download of the plugin, 
         <summary type="html"><![CDATA[Today's links How the Sacklers rigged the game: Kickstarting the opioid epidemic and escaping with a fortune bigger than the Rockefellers'. This day in history: 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading How the Sacklers rigged the game (permalink) Two quotes to ponder as you read "Purdue's Poison Pill," Adam Levitin's forthcoming Texas Law Review paper: "Some will rob you with a six-gun, And some with a fountain pen." (W. Guthrie) "Behin…]]></summary>
         <author>
             <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reader feedback on CPUs: pay attention to those frequencies]]></title>
-        <id>https://rachelbythebay.com/w/2021/05/22/cpu/</id>
-        <link href="https://rachelbythebay.com/w/2021/05/22/cpu/"/>
-        <updated>2021-05-23T03:38:00.000Z</updated>
-        <summary type="html"><![CDATA[A couple of days ago, I
-wrote
-about how CPU utilization has a bunch of weird and wacky measurements 
-and how there's a bunch of inconsistent vocabulary to boot.
-
-
-It's been a long time since CPU frequencies have been a simple thing.  
-Ever since Intel dropped the
-"DX2"
-line of 486s onto the world in 1992, we've had to pay careful attention 
-to what we're actually buying.  At the time, there were 25 and 33 MHz 
-486s, and then there was a "66 MHz" 486 (the DX2), but that was the 
-internal frequency.  External…]]></summary>
-        <author>
-            <name>Writing - rachelbythebay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How we talk about CPU (or processors, or cores, or...)]]></title>
-        <id>https://rachelbythebay.com/w/2021/05/18/cpu/</id>
-        <link href="https://rachelbythebay.com/w/2021/05/18/cpu/"/>
-        <updated>2021-05-23T03:35:19.000Z</updated>
-        <summary type="html"><![CDATA[There are a bunch of ways that we talk about CPU, and they're not all 
-measuring the same thing.  We're not even always talking about the same 
-physical part of the computer!  More on that in a bit, though.  Let's
-talk about the numbers first.
-
-
-A load average can be particularly fun since it usually (on Linux) 
-includes stuff that's in the kernel and trying to run but is stuck on 
-some kind of lock, like if 
-reading /proc/pid/cmdline gets stuck,
-or a NFS mount is hung, or whatever.  If you stack a bunch of those up 
-from cron jobs or other repetitive things, you might end up with a load 
-average in the hundreds or thousands... and still have a perfectly 
-responsive machine!
-
-
-Clearly, the load average is only one way to look at things.
-
-
-If the process suddenly ramps up and gets very busy…]]></summary>
-        <author>
-            <name>Writing - rachelbythebay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The chilling effect versus attempts to fix things]]></title>
-        <id>https://rachelbythebay.com/w/2021/04/30/speech/</id>
-        <link href="https://rachelbythebay.com/w/2021/04/30/speech/"/>
-        <updated>2021-05-23T03:35:16.000Z</updated>
-        <summary type="html"><![CDATA[One of the weird patterns I keep seeing in management is that some of 
-the folks with those jobs care more about what people say than what they 
-do.  They want everything to look happy and shiny and nice, even when 
-things are broken and need help.  They don't want you complaining about 
-something, *especially* not in some venue where other managers might 
-see it.
-
-
-At some point, they started blocking off those bridges prior to one of 
-the talks.  You could not hang out to watch the show from there.  You 
-also could not *cross them* just to go to the other side.  The first 
-time they did this, they didn't tell anyone and people were 
-understandably confused and annoyed.
-
-
-But, someone complained.  Unsurprisingly, people who do reliability work 
-like me tend to not stand for things like th…]]></summary>
-        <author>
-            <name>Writing - rachelbythebay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A couple of ways to highlight code syntax in Apple Keynote slides]]></title>
-        <id>https://sarasoueidan.com/blog/copy-paste-from-vscode-to-keynote/</id>
-        <link href="https://sarasoueidan.com/blog/copy-paste-from-vscode-to-keynote/"/>
-        <updated>2021-05-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Apple Keynote doesn’t come with code syntax highlighting built in. I really wish it did, and hope that Apple would at some point add this feature, especially considering how many developers and engineers use Keynote to create talk slides.
-Seven years ago, I used to take screenshots of code snippets to include them in my presentations. That was very impractical. If I wanted to make changes to the code, I’d have to rewrite it, take a screenshot again, and copy-paste it into Keynote once again. That soon becam…]]></summary>
-        <author>
-            <name>Blog on SaraSoueidan.com</name>
         </author>
     </entry>
 </feed>
