@@ -6,6 +6,15 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=6860",
+          "author": "Chris Heilmann",
+          "description": "Now that Visual Studio Code has an in-built JavaScript debugger, it has become incredibly convenient to debug your project without leaving the editor. You can debug JavaScript, tweak CSS and the DOM and interact with the browser Console right inside VS Code. And you don’t need to know which extensions to install as the editor […]",
+          "link": "https://christianheilmann.com/2021/07/22/debugging-javascript-dom-css-and-logging-console-without-leaving-visual-studio-code/",
+          "publishedOn": "2021-07-22T10:27:35.000Z",
+          "wordCount": 444,
+          "title": "Debugging JavaScript, DOM, CSS and accessing the browser console without leaving Visual Studio Code"
+        },
+        {
           "id": "https://christianheilmann.com/?p=6854",
           "author": "Chris Heilmann",
           "description": "Over the course of my career I’ve seen a lot of excellent accessibility presentations and learned a lot. That’s because I worked in the accessibility space and went to specialist conferences. Web development conferences also have accessibility talks and their number is rising. But often these don’t go past the 101 stage or repeat things […]",
@@ -128,17 +137,7 @@
       "title": "there.oughta.be/",
       "feedUrl": "https://there.oughta.be/feed.xml",
       "siteUrl": "https://there.oughta.be/",
-      "articles": [
-        {
-          "id": "https://there.oughta.be/a/blender-plugin-to-animate-growth",
-          "author": null,
-          "description": "I have created a Blender plugin that takes an image texture with some structure and generates an animation of how this structure grows. To be more precise, it creates a non-color data image with the animation information that can be used in a shader. Since animations are hard to describe in words or individual images, I highly recommend the video describing this plugin.\nClick the image to see the video on youtube.com.\n\n\nIf you are only looking for specific information or the download of the plugin, have a l…",
-          "link": "https://there.oughta.be/a/blender-plugin-to-animate-growth",
-          "publishedOn": "2021-05-23T22:00:00.000Z",
-          "wordCount": 1755,
-          "title": "There oughta be a Blender plugin to animate growth."
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Grumpy Gamer",
@@ -222,6 +221,15 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2492/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/commonly_mispronounced_equations.png\" title=\"&quot;Epsihootamoo doopsiquorps&quot; --the Schrödinger equation for the hydrogen atom\" alt=\"&quot;Epsihootamoo doopsiquorps&quot; --the Schrödinger equation for the hydrogen atom\" />",
+          "link": "https://xkcd.com/2492/",
+          "publishedOn": "2021-07-21T00:00:00.000Z",
+          "wordCount": 187,
+          "title": "Commonly Mispronounced Equations"
+        },
         {
           "id": "https://xkcd.com/2491/",
           "author": null,
@@ -437,15 +445,6 @@
           "publishedOn": "2021-05-26T00:00:00.000Z",
           "wordCount": 183,
           "title": "Inheritance"
-        },
-        {
-          "id": "https://xkcd.com/2467/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/2467/",
-          "publishedOn": "2021-05-24T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Wikipedia Caltrops"
         }
       ]
     },
@@ -687,15 +686,6 @@
           "publishedOn": "2021-06-24T17:08:50.000Z",
           "wordCount": 1883,
           "title": "Inherit ancestor font-size, for fun and profit"
-        },
-        {
-          "id": "https://lea.verou.me/?p=3357",
-          "author": "Lea Verou",
-          "description": "Today I ran into an interesting problem. Interesting because it’s one of those very straightforward, deceptively simple questions, that after a fair amount of digging, does not appear to have a definite answer (though I would love to be wrong!). The problem was to determine if the current tab is active. Yes, as simple as […]",
-          "link": "http://feedproxy.google.com/~r/leaverou/~3/YPAezrj9qVA/",
-          "publishedOn": "2021-05-24T11:49:17.000Z",
-          "wordCount": 1328,
-          "title": "Is the current tab active?"
         }
       ]
     },
@@ -895,6 +885,15 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=66573",
+          "author": "Jen Caltrider",
+          "description": "A growing number of us have connected devices in our homes, offices, driveways and even our bodies. The convenience and fun of integrating a device with daily life is real, but there haven’t been nearly enough conversations about who owns that data and how much consumers are letting big companies into their lives in unexpected […]\nThe post Do you own a connected device? Here’s why you should be wary of the Peloton lock issue. appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/internet-culture/deep-dives/peloton-connected-device-ownership/",
+          "publishedOn": "2021-07-20T21:51:14.000Z",
+          "wordCount": 1197,
+          "title": "Do you own a connected device? Here’s why you should be wary of the Peloton lock issue."
+        },
         {
           "id": "https://blog.mozilla.org/?p=66547",
           "author": "Damiano",
@@ -1161,6 +1160,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=487704",
+          "author": "Danie Conradie",
+          "description": "Tracked robots usually require at least two wheels inside to work properly. However, [James Bruton] discovered a curious tractor design from the 1940s, the Fordson Rotaped, which only uses a …read more",
+          "link": "https://hackaday.com/2021/07/22/rover-uses-different-kind-of-tracks/",
+          "publishedOn": "2021-07-22T23:00:05.000Z",
+          "wordCount": 1154,
+          "title": "Rover Uses Different Kind Of Tracks"
+        },
+        {
+          "id": "https://hackaday.com/?p=487708",
+          "author": "Lewin Day",
+          "description": "Humans have an innate knack for identifying food that is fit to eat. There’s a reason you instinctively enjoy fresh fruit and vegetables, but find maggot-infested rotting flesh offputting, for …read more",
+          "link": "https://hackaday.com/2021/07/22/detecting-ripeness-in-fruit-and-vegetables-via-neural-networks/",
+          "publishedOn": "2021-07-22T20:00:39.000Z",
+          "wordCount": 1405,
+          "title": "Detecting Ripeness in Fruit and Vegetables Via Neural Networks"
+        },
+        {
+          "id": "https://hackaday.com/?p=487923",
+          "author": "Tom Nardi",
+          "description": "Whether it’s a 3D printed robot chassis or a stained glass window, looking at a completed object and trying to understand how it was designed and put together can be …read more",
+          "link": "https://hackaday.com/2021/07/22/new-video-series-designing-with-complex-geometry/",
+          "publishedOn": "2021-07-22T18:31:53.000Z",
+          "wordCount": 1702,
+          "title": "New Video Series: Designing with Complex Geometry"
+        },
+        {
+          "id": "https://hackaday.com/?p=484189",
+          "author": "Al Williams",
+          "description": "Aviation history is a bit strange. People tend to remember some firsts but not others and — sometimes — not even firsts. For example, everyone knows Amelia Earhart attempted to …read more",
+          "link": "https://hackaday.com/2021/07/22/who-flew-across-the-atlantic-first-the-airborne-boats-of-1919/",
+          "publishedOn": "2021-07-22T17:01:47.000Z",
+          "wordCount": 3313,
+          "title": "Who Flew Across the Atlantic First? The Airborne Boats of 1919"
+        },
+        {
+          "id": "https://hackaday.com/?p=487858&preview=true&preview_id=487858",
+          "author": "Kristina Panos",
+          "description": "Yes, we’re still in a pandemic and yes, these types of events are still happening over videoconference and not in meat space. But you know what? That means that so …read more",
+          "link": "https://hackaday.com/2021/07/22/no-mask-required-bring-a-hack-is-back-august-5th/",
+          "publishedOn": "2021-07-22T16:01:20.000Z",
+          "wordCount": 1341,
+          "title": "No Mask Required: Bring-A-Hack is Back August 5th"
+        },
+        {
+          "id": "https://hackaday.com/?p=487785",
+          "author": "Tom Nardi",
+          "description": "It’s easy to think that devices which generate thousands of volts of electricity must involve relatively modern technology, but the fact is, machines capable of firing sparks through open air …read more",
+          "link": "https://hackaday.com/2021/07/22/lord-kelvins-contraption-turns-drips-into-sparks/",
+          "publishedOn": "2021-07-22T15:30:00.000Z",
+          "wordCount": 1586,
+          "title": "Lord Kelvin’s Contraption Turns Drips into Sparks"
+        },
+        {
+          "id": "https://hackaday.com/?p=479383",
+          "author": "Kristina Panos",
+          "description": "There I was, thirty years after I first sat down at an Apple IIe , and I suddenly found myself wondering if I would ever use a computer again without …read more",
+          "link": "https://hackaday.com/2021/07/22/avoiding-repetitive-stress-injury-invest-in-yourself-now-or-pay-later/",
+          "publishedOn": "2021-07-22T14:01:51.000Z",
+          "wordCount": 5415,
+          "title": "Avoiding Repetitive Stress Injury: Invest in Yourself Now, Or Pay Later"
+        },
         {
           "id": "https://hackaday.com/?p=487418",
           "author": "Michael Shaub",
@@ -4864,15 +4926,6 @@
           "publishedOn": "2021-05-24T16:25:24.000Z",
           "wordCount": 3395,
           "title": "Pluralistic: 24 May 2021"
-        },
-        {
-          "id": "https://pluralistic.net/?p=2199",
-          "author": "Cory Doctorow",
-          "description": "Today's links How the Sacklers rigged the game: Kickstarting the opioid epidemic and escaping with a fortune bigger than the Rockefellers'. This day in history: 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading How the Sacklers rigged the game (permalink) Two quotes to ponder as you read \"Purdue's Poison Pill,\" Adam Levitin's forthcoming Texas Law Review paper: \"Some will rob you with a six-gun, And some with a fountain pen.\" (W. Guthrie) \"Behin…",
-          "link": "https://pluralistic.net/2021/05/23/a-bankrupt-process/",
-          "publishedOn": "2021-05-23T19:40:24.000Z",
-          "wordCount": 3004,
-          "title": "Pluralistic: 23 May 2021"
         }
       ]
     }
