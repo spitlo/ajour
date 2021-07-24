@@ -596,15 +596,6 @@
           "publishedOn": "2021-05-30T00:00:00.000Z",
           "wordCount": 350,
           "title": "84K [book]"
-        },
-        {
-          "id": "notes-on-neptuno",
-          "author": null,
-          "description": "I recently - randomly - bought myself a neptUNO FPGA machine, which is somewhere between a MiST and a MiSTer machine.\nThe neptUNO works well as a middle weight retro gaming/platform machine. It can run Spectrum (and the new Spectrum Next), C64, NES, Megadrive, SNES, PC Engine, Amiga 500, Vectrex, original arcade like Galaxian and Bubble Bobble and some more. To run the \"core\" it does require that someone has written the code to program the FPGA but there's a pretty good collection already available.",
-          "link": "https://remysharp.com/2021/05/25/notes-on-neptuno",
-          "publishedOn": "2021-05-25T00:00:00.000Z",
-          "wordCount": 1932,
-          "title": "Notes on neptUNO [blog]"
         }
       ]
     },
@@ -726,15 +717,6 @@
           "publishedOn": "2021-06-02T10:48:15.000Z",
           "wordCount": 669,
           "title": "You can now buy print version of my zines!"
-        },
-        {
-          "id": "https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/",
-          "author": null,
-          "description": "I was talking to Jemma recently about what stops people\nfrom blogging. One barrier that stood out to me was: it’s hard to identify\nwhich things you know will be useful to other people!\nThe process I use for a lot of my blog posts is:\nStruggle with something (usually computer-related)\nEventually (days or months or years later), figure out how to solve some of\nthe problems I had\nWrite a blog post about what helped me\nI think this approach is effective because if I struggled with something,\nthere’s a pretty go…",
-          "link": "https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/",
-          "publishedOn": "2021-05-24T13:59:07.000Z",
-          "wordCount": 1869,
-          "title": "Blog about what you've struggled with"
         }
       ]
     },
@@ -885,6 +867,15 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=66604",
+          "author": "Damiano",
+          "description": "Our favorite tweets from journalists this week that featured baseball, a rocket and more. \nThe post Space Cowboy, Guardians of Cleveland, and Tony Award winner Ellen Barkin considers a Subtack – here is this week’s Top Shelf. appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/internet-culture/top-shelf-july-23/",
+          "publishedOn": "2021-07-23T21:08:08.000Z",
+          "wordCount": 1124,
+          "title": "Space Cowboy, Guardians of Cleveland, and Tony Award winner Ellen Barkin considers a Subtack – here is this week’s Top Shelf."
+        },
         {
           "id": "https://blog.mozilla.org/?p=66573",
           "author": "Jen Caltrider",
@@ -1160,6 +1151,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=487721",
+          "author": "Lewin Day",
+          "description": "Sentry turrets have long been a feature of science fiction films and video games. These days, there’s nothing stopping you from building your own. [otjones99] has done just that, with …read more",
+          "link": "https://hackaday.com/2021/07/23/a-nerf-ball-turret-complete-with-fpv/",
+          "publishedOn": "2021-07-23T23:00:39.000Z",
+          "wordCount": 1145,
+          "title": "A Nerf Ball Turret Complete With FPV"
+        },
+        {
+          "id": "https://hackaday.com/?p=488278",
+          "author": "Chris Lott",
+          "description": "If the Cortex family of embedded microprocessors aren’t flexible enough for your designs, an article published this week (click here for the PDF version) in the journal Nature might be of interest. …read more",
+          "link": "https://hackaday.com/2021/07/23/arm-researchers-announce-the-plasticarm/",
+          "publishedOn": "2021-07-23T20:00:34.000Z",
+          "wordCount": 1524,
+          "title": "Arm Researchers Announce the PlasticArm"
+        },
+        {
+          "id": "https://hackaday.com/?p=488349",
+          "author": "Tom Nardi",
+          "description": "Regular readers will likely be aware of the considerable debate over changes being made to the free and open source audio editor Audacity by the project’s new owners, Muse Group. …read more",
+          "link": "https://hackaday.com/2021/07/23/new-privacy-policy-gets-audacity-back-on-track/",
+          "publishedOn": "2021-07-23T18:31:52.000Z",
+          "wordCount": 2396,
+          "title": "New Privacy Policy Gets Audacity Back on Track"
+        },
+        {
+          "id": "https://hackaday.com/?p=484862",
+          "author": "Jenny List",
+          "description": "In my work for Hackaday over the years I have been privileged to interact with some of the most creative people I have ever met, I have travelled far more …read more",
+          "link": "https://hackaday.com/2021/07/23/are-hackers-being-let-down-in-education/",
+          "publishedOn": "2021-07-23T17:01:02.000Z",
+          "wordCount": 5088,
+          "title": "Are Hackers Being Let Down In Education?"
+        },
+        {
+          "id": "https://hackaday.com/?p=488174&preview=true&preview_id=488174",
+          "author": "Mike Szczys",
+          "description": "Hackaday editors Elliot Williams and Mike Szczys bubble sort the best hardware hacks so you don’t miss ’em. This week we’re smitten by the perfection of a telephone tape loop …read more",
+          "link": "https://hackaday.com/2021/07/23/hackaday-podcast-128-3d-printing-injection-molds-squiggly-audio-tape-curvy-mirrors-and-space-cadets/",
+          "publishedOn": "2021-07-23T16:01:29.000Z",
+          "wordCount": 1304,
+          "title": "Hackaday Podcast 128: 3D-Printing Injection Molds, Squiggly Audio Tape, Curvy Mirrors, and Space Cadets"
+        },
+        {
+          "id": "https://hackaday.com/?p=488117",
+          "author": "Lewin Day",
+          "description": "Rollercoasters are great fun if you can deal with the exhilaration without throwing up or otherwise screaming until you pass out. Of course, the big outdoors ones are a little …read more",
+          "link": "https://hackaday.com/2021/07/23/3d-printed-roller-coaster-looks-pretty-darn-fun/",
+          "publishedOn": "2021-07-23T15:00:00.000Z",
+          "wordCount": 1364,
+          "title": "3D Printed Roller Coaster Looks Pretty Darn Fun"
+        },
+        {
+          "id": "https://hackaday.com/?p=488001",
+          "author": "Jonathan Bennett",
+          "description": "The NSO Group has been in the news again recently, with multiple stories reporting on their Pegasus spyware product. The research and reporting spearheaded by Amnesty International is collectively known …read more",
+          "link": "https://hackaday.com/2021/07/23/this-week-in-security-nso-print-spooler-and-a-mysterious-decryptor/",
+          "publishedOn": "2021-07-23T14:00:11.000Z",
+          "wordCount": 3315,
+          "title": "This Week in Security: NSO, Print Spooler, and a Mysterious Decryptor"
+        },
         {
           "id": "https://hackaday.com/?p=487704",
           "author": "Danie Conradie",
@@ -4917,15 +4971,6 @@
           "publishedOn": "2021-05-25T16:53:12.000Z",
           "wordCount": 2459,
           "title": "Pluralistic: 25 May 2021"
-        },
-        {
-          "id": "https://pluralistic.net/?p=2203",
-          "author": "Cory Doctorow",
-          "description": "Today's links Podcasting \"The Memex Method\": Reading my inaugural Medium column for my podcast. Watomatic, for lower Whatsapp switching costs: Comcom in action. This day in history: 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Podcasting \"The Memex Method\" (permalink) This week on my podcast, I read \"The Memex Method,\" my inaugural weekly column for Medium, in which I reflect on 20 years' worth of blogging, and how it made me a …",
-          "link": "https://pluralistic.net/2021/05/24/how-about-nah/",
-          "publishedOn": "2021-05-24T16:25:24.000Z",
-          "wordCount": 3395,
-          "title": "Pluralistic: 24 May 2021"
         }
       ]
     }
