@@ -222,6 +222,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2494/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/flawed_data.png\" title=\"We trained it to produce data that looked convincing, and we have to admit the results look convincing!\" alt=\"We trained it to produce data that looked convincing, and we have to admit the results look convincing!\" />",
+          "link": "https://xkcd.com/2494/",
+          "publishedOn": "2021-07-26T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Flawed Data"
+        },
+        {
           "id": "https://xkcd.com/2493/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/dual_usb_c.png\" title=\"Small devices use two-prong USB-AC, but there's also a three-prong version with a USB-B plug as the ground.\" alt=\"Small devices use two-prong USB-AC, but there's also a three-prong version with a USB-B plug as the ground.\" />",
@@ -1046,24 +1055,6 @@
           "publishedOn": "2021-06-01T13:00:00.000Z",
           "wordCount": 2300,
           "title": "Modern, clean new Firefox clears the way to all you need online"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=65766",
-          "author": "Mozilla",
-          "description": "Advertising is central to the internet economy. It funds many free products and services. But it is also very intrusive. It is powered by ubiquitous surveillance and it is used in ways that harm individuals and society. The advertising ecosystem is fundamentally broken in its current form. Advertising does not need to harm consumer privacy. […]\nThe post Building a more privacy preserving ads-based ecosystem appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/building-a-more-privacy-preserving-ads-based-ecosystem/",
-          "publishedOn": "2021-05-29T02:46:22.000Z",
-          "wordCount": 1105,
-          "title": "Building a more privacy preserving ads-based ecosystem"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=65769",
-          "author": "Eric Rescorla",
-          "description": "The modern web is funded by advertisements. Advertisements pay for all those “free” services you love, as well as many of the products you use on a daily basis — including Firefox. There’s nothing inherently wrong with advertising: Mozilla’s Principle #9 states that “Commercial involvement in the development of the internet brings many benefits.” However, […]\nThe post The future of ads and privacy appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/the-future-of-ads-and-privacy/",
-          "publishedOn": "2021-05-29T02:45:31.000Z",
-          "wordCount": 1718,
-          "title": "The future of ads and privacy"
         }
       ]
     },
@@ -1106,6 +1097,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=488788",
+          "author": "Elliot Williams",
+          "description": "A few days ago, the US Federal Trade Commission (FTC) came out with a 5-0 unanimous vote on its position on right to repair. (PDF) It’s great news, in that …read more",
+          "link": "https://hackaday.com/2021/07/27/ftc-rules-on-right-to-repair/",
+          "publishedOn": "2021-07-27T23:01:37.000Z",
+          "wordCount": 1170,
+          "title": "FTC Rules on Right to Repair"
+        },
+        {
+          "id": "https://hackaday.com/?p=488614",
+          "author": "Bryan Cockfield",
+          "description": "Felling a tree properly is a skill that takes some practice to master, especially without causing any injuries or property damage. Getting the tree cut down though is sometimes only …read more",
+          "link": "https://hackaday.com/2021/07/27/building-a-stump-grinder-from-the-ground-up/",
+          "publishedOn": "2021-07-27T20:00:06.000Z",
+          "wordCount": 1355,
+          "title": "Building a Stump Grinder from the Ground Up"
+        },
+        {
+          "id": "https://hackaday.com/?p=488520",
+          "author": "Donald Papp",
+          "description": "3D printers are quite common nowadays, but we’re still far from exhausting new ideas to try with them. [Angus] of [Maker’s Muse] recently got interested in 3D printing small mechanical …read more",
+          "link": "https://hackaday.com/2021/07/27/see-this-hybrid-approach-to-folded-3d-printed-mechanisms/",
+          "publishedOn": "2021-07-27T18:30:00.000Z",
+          "wordCount": 1264,
+          "title": "See This Hybrid Approach to Folded 3D Printed Mechanisms"
+        },
+        {
+          "id": "https://hackaday.com/?p=486080",
+          "author": "Kristina Panos",
+          "description": "Hand-Wired Hell Help Do you dream of building a curvy ergonomic keyboard or macro pad, even though the idea of hand wiring gives you nightmares? You can make it a …read more",
+          "link": "https://hackaday.com/2021/07/27/keebin-with-kristina-the-one-with-the-mad-model-m/",
+          "publishedOn": "2021-07-27T17:00:37.000Z",
+          "wordCount": 2038,
+          "title": "Keebin’ with Kristina: the one with the Mad Model M"
+        },
+        {
+          "id": "https://hackaday.com/?p=488657&preview=true&preview_id=488657",
+          "author": "Kristina Panos",
+          "description": "Here we are, a year and change into this pandemic, and if you were new to working-from-home every day at the start, surely it has lost its luster by now. …read more",
+          "link": "https://hackaday.com/2021/07/27/ten-projects-won-the-refresh-work-from-home-life-round-of-the-hackaday-prize/",
+          "publishedOn": "2021-07-27T16:01:56.000Z",
+          "wordCount": 1437,
+          "title": "Ten Projects Won the Refresh Work-From-Home-Life Round of the Hackaday Prize"
+        },
+        {
+          "id": "https://hackaday.com/?p=488402",
+          "author": "Dan Maloney",
+          "description": "Normally, when a project calls for addressable LEDs, we just throw a strip of WS2812s and an Arduino together, cobble together some code from the examples in the FastLED library, …read more",
+          "link": "https://hackaday.com/2021/07/27/cool-ws2811-trick-makes-led-art-installation-smooth/",
+          "publishedOn": "2021-07-27T15:00:00.000Z",
+          "wordCount": 1571,
+          "title": "Cool WS2811 Trick Makes LED Art Installation Smooth"
+        },
+        {
+          "id": "https://hackaday.com/?p=485565",
+          "author": "Donald Papp",
+          "description": "A thermal camera is a tool I have been wanting to add to my workbench for quite a while, so when I learned about the tCam-Mini, a wireless thermal camera …read more",
+          "link": "https://hackaday.com/2021/07/27/hand-on-review-tcam-mini-wifi-thermal-imager/",
+          "publishedOn": "2021-07-27T14:01:27.000Z",
+          "wordCount": 3164,
+          "title": "Hands-On Review: tCam-Mini WiFi Thermal Imager"
+        },
         {
           "id": "https://hackaday.com/?p=487713",
           "author": "Lewin Day",
@@ -4722,6 +4776,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2403",
+          "author": "Cory Doctorow",
+          "description": "Today's links What would a live concert album sound like with all the songs taken out?: Gavin Edwards' \"Having Fun On Stage With Everybody.\" The infosec apocalypse is nigh: Ed Snowden on the NSO's malware. This day in history: 2001, 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading What would a live concert album sound like with all the songs taken out? (permalink) I've known Gavin Edwards for decades, and watched him produce a string of weird and imaginative and wholly successful projects, from his books of \"mondegreens\" (misheard lyrics) to his definitive biography of Mr Rogers: https://memex.craphound.com/2019/10/29/kindness-and-wonder-mr-rogers-biography-is-a-study-in-empathy-and-a-deep-genuine-love-for-children…",
+          "link": "https://pluralistic.net/2021/07/27/gas-on-the-fire/",
+          "publishedOn": "2021-07-27T15:32:22.000Z",
+          "wordCount": 2238,
+          "title": "Pluralistic: 27 Jul 2021"
+        },
         {
           "id": "https://pluralistic.net/?p=2398",
           "author": "Cory Doctorow",
