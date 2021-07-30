@@ -240,6 +240,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2495/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/universal_seat_belt.png\" title=\"The plug fits really snugly, so it should be safe in a crash.\" alt=\"The plug fits really snugly, so it should be safe in a crash.\" />",
+          "link": "https://xkcd.com/2495/",
+          "publishedOn": "2021-07-28T00:00:00.000Z",
+          "wordCount": 187,
+          "title": "Universal Seat Belt"
+        },
+        {
           "id": "https://xkcd.com/2494/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/flawed_data.png\" title=\"We trained it to produce data that looked convincing, and we have to admit the results look convincing!\" alt=\"We trained it to produce data that looked convincing, and we have to admit the results look convincing!\" />",
@@ -454,15 +463,6 @@
           "publishedOn": "2021-06-02T00:00:00.000Z",
           "wordCount": 185,
           "title": "Hippo Attacks"
-        },
-        {
-          "id": "https://xkcd.com/2470/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/2470/",
-          "publishedOn": "2021-05-31T00:00:00.000Z",
-          "wordCount": 187,
-          "title": "Next Slide Please"
         }
       ]
     },
@@ -596,15 +596,6 @@
           "publishedOn": "2021-06-12T00:00:00.000Z",
           "wordCount": 280,
           "title": "Fugitive Telemetry (The Murderbot Diaries, #6) [book]"
-        },
-        {
-          "id": "file-hacking-fully-self-contained-nextbasic",
-          "author": null,
-          "description": "With the new Spectrum Next computer there's two main modes of distributing (new) games: the NEX file format, which \"is good for a program that takes over the machine\", and the BAS file format that \"is the native SD-card format for BASIC programs\".\nThere are others that are used, for instance, .snx, but I'm mostly seen these two afore mentioned for new projects.\nWhat's particularly appealing about the NEX format is everything is self contained. If I want to distribute a game in this format, it's a single sho…",
-          "link": "https://remysharp.com/2021/05/31/file-hacking-fully-self-contained-nextbasic",
-          "publishedOn": "2021-05-31T00:00:00.000Z",
-          "wordCount": 2169,
-          "title": "File hacking: fully self contained NextBASIC [spectrum] [blog]"
         }
       ]
     },
@@ -850,15 +841,6 @@
           "publishedOn": "2021-06-09T19:32:34.000Z",
           "wordCount": 1970,
           "title": "The Rules of Margin Collapse"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/react/the-perils-of-rehydration/",
-          "author": "Josh W. Comeau",
-          "description": "A surprisingly-common misconception can lead to big rendering issues that are difficult to debug. This deep-dive tutorial examines how React and Gatsby can be used to pre-render content, and how we can work around the constraints to build dynamic, personalized web apps.",
-          "link": "https://www.joshwcomeau.com/react/the-perils-of-rehydration/",
-          "publishedOn": "2021-05-30T14:32:03.000Z",
-          "wordCount": 2283,
-          "title": "The Perils of Rehydration"
         }
       ]
     },
@@ -867,6 +849,15 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=66633",
+          "author": "Mozilla",
+          "description": "Will 2021 prove to be the year privacy went mainstream? Our guest author discusses events pointing to a turning point in favor of consumer privacy.\nThe post 2021: The year privacy went mainstream appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/internet-culture/deep-dives/2021-the-year-privacy-went-mainstream/",
+          "publishedOn": "2021-07-29T16:00:36.000Z",
+          "wordCount": 1761,
+          "title": "2021: The year privacy went mainstream"
+        },
         {
           "id": "https://blog.mozilla.org/?p=66635",
           "author": "M.J. Kelly",
@@ -1091,6 +1082,15 @@
       "siteUrl": "https://alistapart.com",
       "articles": [
         {
+          "id": "https://alistapart.com/article/voice-content-and-usability/",
+          "author": "by",
+          "description": "We’ve been having conversations for thousands of years. Whether to convey information, conduct transactions, or simply to check in on one another, people have yammered away, chattering and gesticulating, through spoken conversation for countless generations. Only in the last few millennia have we begun to commit our conversations to writing, and only in the last few decades have we begun to outsource them to the computer, a machine that shows much more affinity for written correspondence than for the slangy vagaries of spoken language.\nComputers have trouble because between spoken and written language, speech is more primordial. To have successful conversations with us, machines must grapple with the messiness of human speech: the disfluencies and pauses, the gestures and body language, an…",
+          "link": "https://alistapart.com/article/voice-content-and-usability/",
+          "publishedOn": "2021-07-29T13:00:00.000Z",
+          "wordCount": 3835,
+          "title": "Voice Content and Usability"
+        },
+        {
           "id": "https://alistapart.com/article/designing-for-the-unexpected/",
           "author": "by",
           "description": "I’m not sure when I first heard this quote, but it’s something that has stayed with me over the years. How do you create services for situations you can’t imagine? Or design products that work on devices yet to be invented?\nFlash, Photoshop, and responsive design\nWhen I first started designing websites, my go-to software was Photoshop. I created a 960px canvas and set about creating a layout that I would later drop content in. The development phase was about attaining pixel-perfect accuracy using fixed widths, fixed heights, and absolute positioning.\nEthan Marcotte’s talk at An Event Apart and subsequent article “Responsive Web Design” in A List Apart in 2010 changed all this. I was sold on responsive design as soon as I heard about it, but I was also terrified. The pixel-perfect designs f…",
@@ -1124,6 +1124,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=488639",
+          "author": "Danie Conradie",
+          "description": "Creating large domino art displays is a long and nerve-racking process, where bumping a single domino can mean starting from scratch. To automate the process of creating these displays, a …read more",
+          "link": "https://hackaday.com/2021/07/29/create-large-scale-domino-art-with-a-robot/",
+          "publishedOn": "2021-07-29T23:00:44.000Z",
+          "wordCount": 1204,
+          "title": "Create Large Scale Domino Art With A Robot"
+        },
+        {
+          "id": "https://hackaday.com/?p=489301",
+          "author": "Al Williams",
+          "description": "If you suffer from nostalgia, you might remember carving a block of wood into a car, adding some wheels, and racing it against other contestants in a pinewood derby. Today’s …read more",
+          "link": "https://hackaday.com/2021/07/29/pinewood-derby-scale-measures-cg/",
+          "publishedOn": "2021-07-29T20:00:13.000Z",
+          "wordCount": 1301,
+          "title": "Pinewood Derby Scale Measures CG"
+        },
+        {
+          "id": "https://hackaday.com/?p=486599",
+          "author": "Kristina Panos",
+          "description": "[Tegwyn☠Twmffat] recently got a job as a part-time bike courier and has come to realize just how dangerous it can be to mix leg-powered transportation with various sizes of engine-driven …read more",
+          "link": "https://hackaday.com/2021/07/29/bright-bike-light-might-make-them-back-off/",
+          "publishedOn": "2021-07-29T18:30:00.000Z",
+          "wordCount": 1660,
+          "title": "Bright Bike Light Might Make Them Back Off"
+        },
+        {
+          "id": "https://hackaday.com/?p=484468",
+          "author": "Al Williams",
+          "description": "My son, Patrick, has observed on more than one occasion that I do not like 3D printing. That may sound odd, because I built a printer back in 2012 and …read more",
+          "link": "https://hackaday.com/2021/07/29/fail-of-the-week-the-metal-hot-end-upgrade/",
+          "publishedOn": "2021-07-29T17:01:29.000Z",
+          "wordCount": 3910,
+          "title": "Fail of the Week: The Metal Hot End Upgrade"
+        },
+        {
+          "id": "https://hackaday.com/?p=486601",
+          "author": "Kristina Panos",
+          "description": "In case you’ve been living under a rock that doesn’t have internet access, the Raspberry Pi Foundation got into the silicon sales and microcontroller game all at once this year …read more",
+          "link": "https://hackaday.com/2021/07/29/new-video-series-raspberry-pi-pico-and-rp2040-deep-dive-with-uri-shaked/",
+          "publishedOn": "2021-07-29T16:01:10.000Z",
+          "wordCount": 1913,
+          "title": "New Video Series: Raspberry Pi Pico and RP2040 Deep Dive with Uri Shaked"
+        },
+        {
+          "id": "https://hackaday.com/?p=486945",
+          "author": "Dan Maloney",
+          "description": "When it comes to turning a raw block of metal into a useful part, most processes are pretty dramatic. Sharp and tough tools are slammed into raw stock to remove …read more",
+          "link": "https://hackaday.com/2021/07/29/3d-printed-tooling-enables-diy-electrochemical-machining/",
+          "publishedOn": "2021-07-29T15:30:00.000Z",
+          "wordCount": 1396,
+          "title": "3D-Printed Tooling Enables DIY Electrochemical Machining"
+        },
+        {
+          "id": "https://hackaday.com/?p=483994",
+          "author": "Jenny List",
+          "description": "As we’ve traced our no-nonsense path through the world of Hi-Fi audio, we’ve started with the listener, understood the limitations of the human ear, and thence proceeded to the loudspeaker. …read more",
+          "link": "https://hackaday.com/2021/07/29/know-audio-amplifiers-and-distortion/",
+          "publishedOn": "2021-07-29T14:00:18.000Z",
+          "wordCount": 3004,
+          "title": "Know Audio: Amplifiers And Distortion"
+        },
         {
           "id": "https://hackaday.com/?p=488688",
           "author": "Lewin Day",
@@ -4840,24 +4903,6 @@
           "publishedOn": "2021-05-31T14:01:19.000Z",
           "wordCount": 1469,
           "title": "A Look Back on the Oroville Dam with Practical Engineering"
-        },
-        {
-          "id": "https://hackaday.com/?p=479568",
-          "author": "Dan Maloney",
-          "description": "Let’s be honest — not too many of us have a need to deposit nanometer-thick films onto substrates in a controlled manner. But if you do find yourself in such …read more",
-          "link": "https://hackaday.com/2021/05/31/thin-coatings-require-an-impressive-collection-of-equipment-and-know-how/",
-          "publishedOn": "2021-05-31T11:01:00.000Z",
-          "wordCount": 2409,
-          "title": "Thin Coatings Require an Impressive Collection of Equipment and Know-How"
-        },
-        {
-          "id": "https://hackaday.com/?p=476718",
-          "author": "Jenny List",
-          "description": "For a satisfying Youtube watching session there is noting like some quality machine shop work, and that’s exactly what [Made In Poland] supply with their conversion of a small 12V …read more",
-          "link": "https://hackaday.com/2021/05/31/a-chainsaw-gives-this-winch-some-grunt/",
-          "publishedOn": "2021-05-31T08:01:38.000Z",
-          "wordCount": 1521,
-          "title": "A Chainsaw Gives This Winch Some Grunt"
         }
       ]
     },
@@ -4866,6 +4911,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2407",
+          "author": "Cory Doctorow",
+          "description": "Today's links Bankruptcy and elite impunity: The Sacklers offer billions of reasons to overthrow the system. Stories from Black women's customer service hell: The women who answer the phone when you call Disney, Airbnb, Carnival and others. Tracking you with accelerometer signatures: Yet another latent unique identifier with horrifying consequences. Unauthorized cups: RFID-equipped disposable cups deny water to homeless people. This day in history: 2001, 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Bankruptcy and elite impunity (permalink) I've been writing about the Sackler crime-family for years, as a new generation turned the family's benzo empire into a opioid powerhouse, exceeding the Rockefeller family fo…",
+          "link": "https://pluralistic.net/2021/07/29/impunity-corrodes/",
+          "publishedOn": "2021-07-29T19:21:27.000Z",
+          "wordCount": 4526,
+          "title": "Pluralistic: 29 Jul 2021"
+        },
         {
           "id": "https://pluralistic.net/?p=2403",
           "author": "Cory Doctorow",
