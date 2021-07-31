@@ -6,6 +6,15 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=6880",
+          "author": "Chris Heilmann",
+          "description": "Using the new in-built JavaScript debugger in Visual Studio code you can use the browser developer tools Console right inside the editor. I just published a “TikTok” style video on the official Visual Studio Code channel explaining this and – after lots of criticism for the quality of the video (lads, this is on purpose!) […]",
+          "link": "https://christianheilmann.com/2021/07/30/using-console-log-debugging-in-visual-studio-code/",
+          "publishedOn": "2021-07-30T10:22:18.000Z",
+          "wordCount": 499,
+          "title": "Using console.log() debugging in Visual Studio Code"
+        },
+        {
           "id": "https://christianheilmann.com/?p=6869",
           "author": "Chris Heilmann",
           "description": "I’m currently investigating a strange bug we got reported with the Edge Developer Tools. Voiceover on MacOS announces the DOM tree as a table and tells you how to navigate it – which then doesn’t work. The reason is that the markup isn’t a table. The DOM tree is, well, a tree, built with OL, […]",
@@ -99,15 +108,6 @@
           "publishedOn": "2021-06-08T15:57:25.000Z",
           "wordCount": 443,
           "title": "Accessibility issues you can discover and fix using the browser Developer Tools"
-        },
-        {
-          "id": "https://christianheilmann.com/?p=6799",
-          "author": "Chris Heilmann",
-          "description": "I just finished the writing part of the new edition of the Developer Advocacy Handbook. I wrote the original almost 15 years ago, and this edition is a heavy re-write. A lot has changed in the world of Developer Advocacy and I tried to add my findings over the last few years to the book. […]",
-          "link": "https://christianheilmann.com/2021/05/31/the-new-developer-advocacy-handbook-is-live/",
-          "publishedOn": "2021-05-31T14:47:20.000Z",
-          "wordCount": 399,
-          "title": "The (new) Developer Advocacy Handbook is live!"
         }
       ]
     },
@@ -222,15 +222,6 @@
           "publishedOn": "2021-06-15T14:37:00.000Z",
           "wordCount": 1546,
           "title": "Mid-June Link Assortment"
-        },
-        {
-          "id": "http://emshort.blog/?p=41950",
-          "author": "Mort Short",
-          "description": "Events June 5 is the next SF / Bay Area IF Meetup. June 13 is the next Seattle Area IF Meetup. June 21 I will be presenting to the VOLUPTAS summer school, which is working on playable experiences to teach architecture. Game designers interested in the crossover with architectural pedagogy might find this an interesting project. June 30 is the ParserComp … Continue reading \"End of May Link Assortment\"",
-          "link": "https://emshort.blog/2021/05/31/end-of-may-link-assortment-7/",
-          "publishedOn": "2021-05-31T23:47:00.000Z",
-          "wordCount": 1676,
-          "title": "End of May Link Assortment"
         }
       ]
     },
@@ -239,6 +230,15 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2496/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/mine_captcha.png\" title=\"This data is actually going into improving our self-driving car project, so hurry up--it's almost at the minefield.\" alt=\"This data is actually going into improving our self-driving car project, so hurry up--it's almost at the minefield.\" />",
+          "link": "https://xkcd.com/2496/",
+          "publishedOn": "2021-07-30T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Mine Captcha"
+        },
         {
           "id": "https://xkcd.com/2495/",
           "author": null,
@@ -1124,6 +1124,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=488168",
+          "author": "Kristina Panos",
+          "description": "[Sam March] has made a lot of different kinds of things, many of which have appeared on these very pages. Nowadays he wants to get the viewers more involved in …read more",
+          "link": "https://hackaday.com/2021/07/30/step-n-snack-fanny-pack-motivates-with-mms/",
+          "publishedOn": "2021-07-30T23:00:52.000Z",
+          "wordCount": 1337,
+          "title": "Step ‘n Snack Fanny Pack Motivates with M&Ms"
+        },
+        {
+          "id": "https://hackaday.com/?p=489494",
+          "author": "Bryan Cockfield",
+          "description": "As computers became more popular in the late 80s and into the 90s, they vastly changed their environments. Of course the technological changes were obvious, but plenty of other things …read more",
+          "link": "https://hackaday.com/2021/07/30/charger-caddy-shows-what-3d-printers-were-meant-for/",
+          "publishedOn": "2021-07-30T20:00:04.000Z",
+          "wordCount": 1261,
+          "title": "Charger Caddy Shows What 3D Printers Were Meant For"
+        },
+        {
+          "id": "https://hackaday.com/?p=488322",
+          "author": "Bryan Cockfield",
+          "description": "The 68000 chip was ubiquitous in the computing world well past its heyday in the 1980s. It was used as the basis for many PCs and video game consoles, and …read more",
+          "link": "https://hackaday.com/2021/07/30/build-a-barebones-68000/",
+          "publishedOn": "2021-07-30T18:30:00.000Z",
+          "wordCount": 1669,
+          "title": "Build A Barebones 68000"
+        },
+        {
+          "id": "https://hackaday.com/?p=453099",
+          "author": "Jenny List",
+          "description": "The world of antique furniture and the world of hackers rarely coincide, and perhaps the allure of the latest tech is greater for most of us than that of a …read more",
+          "link": "https://hackaday.com/2021/07/30/fresh-paint-or-patina-of-ages-thats-the-antique-question/",
+          "publishedOn": "2021-07-30T17:01:49.000Z",
+          "wordCount": 3531,
+          "title": "Fresh Paint or Patina of Ages, That’s The Antique Question"
+        },
+        {
+          "id": "https://hackaday.com/?p=489514&preview=true&preview_id=489514",
+          "author": "Mike Szczys",
+          "description": "Hackaday editors Mike Szczys and Elliot Williams have found a critical mass of projects this week that wouldn’t be possible without 3D printers. There’s an absolutely astounding model roller coaster …read more",
+          "link": "https://hackaday.com/2021/07/30/hackaday-podcast-129-super-clever-3d-printing-jigs-and-registration-things-90s-car-audio-and-smooth-led-fades/",
+          "publishedOn": "2021-07-30T16:01:36.000Z",
+          "wordCount": 1379,
+          "title": "Hackaday Podcast 129: Super Clever 3D Printing, Jigs and Registration Things, 90s Car Audio, and Smooth LED Fades"
+        },
+        {
+          "id": "https://hackaday.com/?p=489312",
+          "author": "Bryan Cockfield",
+          "description": "While it might be nice to imagine owning a cabin in the woods to escape from society, complete with an outdoor sauna to take in the scenic views of nature, …read more",
+          "link": "https://hackaday.com/2021/07/30/mobile-sauna-for-on-the-go-relaxation/",
+          "publishedOn": "2021-07-30T15:00:00.000Z",
+          "wordCount": 1464,
+          "title": "Mobile Sauna for On-The-Go Relaxation"
+        },
+        {
+          "id": "https://hackaday.com/?p=489327",
+          "author": "Jonathan Bennett",
+          "description": "Fail2ban is a great tool for dynamically blocking IP addresses that show bad behavior, like making repeated login attempts. It was just announced that a vulnerability could allow an attacker …read more",
+          "link": "https://hackaday.com/2021/07/30/this-week-in-security-fail2rce-tpm-sniffing-fishy-leaks-and-decompiling/",
+          "publishedOn": "2021-07-30T14:00:45.000Z",
+          "wordCount": 2428,
+          "title": "This Week in Security: Fail2RCE, TPM Sniffing, Fishy Leaks, and Decompiling"
+        },
         {
           "id": "https://hackaday.com/?p=488639",
           "author": "Danie Conradie",
@@ -4849,60 +4912,6 @@
           "publishedOn": "2021-06-01T14:00:39.000Z",
           "wordCount": 3017,
           "title": "Virgin Galactic’s Long Road to Commercial Spaceflight"
-        },
-        {
-          "id": "https://hackaday.com/?p=480676",
-          "author": "Roger Cheng",
-          "description": "SpaceX has always been willing to break from aerospace tradition if they feel there’s a more pragmatic solution. Today this is most visible in their use of standard construction equipment …read more",
-          "link": "https://hackaday.com/2021/06/01/not-all-spacex-software-goes-to-space/",
-          "publishedOn": "2021-06-01T11:00:00.000Z",
-          "wordCount": 1609,
-          "title": "Not All SpaceX Software Goes To Space"
-        },
-        {
-          "id": "https://hackaday.com/?p=480241",
-          "author": "Lewin Day",
-          "description": "The Fallout series of games has a variety of ridiculous weapons, not least the Super Sledge — a rocket propelled sledgehammer that looks about as dangerous for the wielder as …read more",
-          "link": "https://hackaday.com/2021/05/31/building-fallouts-super-sledge/",
-          "publishedOn": "2021-06-01T02:01:31.000Z",
-          "wordCount": 1122,
-          "title": "Building Fallout’s Super Sledge"
-        },
-        {
-          "id": "https://hackaday.com/?p=476823",
-          "author": "Chris Lott",
-          "description": "A few years ago [Mechatrommer] got one of the low-cost Aneng Q1 multimeters and has converted it into a bench top meter. He first tried and failed to do an LCD …read more",
-          "link": "https://hackaday.com/2021/05/31/handheld-multimeter-converted-for-bench-top-use/",
-          "publishedOn": "2021-05-31T23:01:49.000Z",
-          "wordCount": 1404,
-          "title": "Handheld Multimeter Converted for Bench Top Use"
-        },
-        {
-          "id": "https://hackaday.com/?p=476626",
-          "author": "Kristina Panos",
-          "description": "Like many of us, [Emily’s Electric Oddities] has had a lot of time for projects over the past year or so, including one that had been kicking around since late …read more",
-          "link": "https://hackaday.com/2021/05/31/emilys-eerie-educational-electric-eyeball-entertains/",
-          "publishedOn": "2021-05-31T20:01:37.000Z",
-          "wordCount": 1273,
-          "title": "[Emily]’s Eerie Educational Electric Eyeball Entertains"
-        },
-        {
-          "id": "https://hackaday.com/?p=480242",
-          "author": "Lewin Day",
-          "description": "We don’t typically use gasoline engines smaller than 50 cc or so on a regular basis. Below that size, electric motors are typically less messy and more capable of doing …read more",
-          "link": "https://hackaday.com/2021/05/31/tiny-gasoline-engine-fitted-with-a-custom-billet-waterpump/",
-          "publishedOn": "2021-05-31T17:01:51.000Z",
-          "wordCount": 1344,
-          "title": "Tiny Gasoline Engine Fitted With A Custom Billet Waterpump"
-        },
-        {
-          "id": "https://hackaday.com/?p=479886",
-          "author": "Jonathan Bennett",
-          "description": "Back when it first happened, we covered the Oroville Dam near-disaster. Heavier-than-expected rainfall in California back in early 2017 led to running the dam’s primary spillway at much higher-than-normal levels. …read more",
-          "link": "https://hackaday.com/2021/05/31/a-look-back-on-the-oroville-dam-with-practical-engineering/",
-          "publishedOn": "2021-05-31T14:01:19.000Z",
-          "wordCount": 1469,
-          "title": "A Look Back on the Oroville Dam with Practical Engineering"
         }
       ]
     },
@@ -4911,6 +4920,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2411",
+          "author": "Cory Doctorow",
+          "description": "Today's links Games Workshop declares war on its customers (again): Terms of service banning fan art launch alongside a new transmedia subscription service. This day in history: 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Games Workshop declares war on its customers (again) (permalink) There's a difference between a con-artist and a grifter. A con-artist is just a gabby mugger, and when they vanish with your money, you know you've been robbed. A grifter, on the other hand, is someone who can work the law to declare your stuff to be their stuff, which makes you a lawless cur because your pockets are stuffed full of their money and merely handing it over is the least you can do to make up for your sin. IP trolls…",
+          "link": "https://pluralistic.net/2021/07/30/space-marines/",
+          "publishedOn": "2021-07-30T21:01:29.000Z",
+          "wordCount": 3391,
+          "title": "Pluralistic: 30 Jul 2021"
+        },
         {
           "id": "https://pluralistic.net/?p=2407",
           "author": "Cory Doctorow",
