@@ -117,6 +117,15 @@
       "siteUrl": "https://100r.co",
       "articles": [
         {
+          "id": "log.html#july2021",
+          "author": "Rekka Bellum",
+          "description": "Hey everyone! This is the list of all the changes we've done to our projects and apps during the month of July. We'll also be reporting in our on position in the world, and on our future plans.\nSummary Of Changes\nNasu, implemented the export of .theme files, and theme support.\nLeft, worked on Uxn-native version, and implemented theme support.\nNiju, progressed on animations and started implementing controls.\nGrimgrains, added a new recipe: Stovetop Blackberry Cake.\nWiktopher, added a new chapter: Lupin's Logbook.\nUxn, created a proportional font format for Uxn, and improved documention for Varvara.\nOrca, implemented theme support\nNoodle, published tutorial, and implemented theme support\n\n\nNews\nThis month, Calcifer is being re-built. While we wait for that, we're working on more projects aboard. We added insulation to the v-berth, an attempt to keep Pino warm this winter. We created a new portal called boat projects on our wiki that covers most of the major construction projects we've done to the boat.\nOur friends at Compudanzas have started writing an Introduction to Uxn Programming tutorial. We recommend it to anyone interested in programming for the Uxn Computer. No prior understanding of stack-machines, or Assembly, required! The first covers basics, and the latest chapter focuses on learning to draw pixels on the screen.\nIf you missed Devine's performance at Flash Crash, you can watch it here.\nPino book club\nWe're reading Mingming & the Art of Minimal Ocean Sailing by Roger Taylor and The Swarm by Frank Schatzing.\nPino's location: 48° 40.768'N, 123° 24.802'W\nContinue Reading",
+          "link": "https://100r.co/site/log.html#july2021",
+          "publishedOn": "2021-08-01T00:00:00.000Z",
+          "wordCount": 5448,
+          "title": "Summary of changes for July"
+        },
+        {
           "id": "dry_toilet_installation.html",
           "author": "Rekka Bellum",
           "description": "The work is done. Building a dry toilet was more work than we had anticipated, but we still prefer it over the ready-made models. We learned tons doing it, and now our toilet is perfectly suited to our space. The pandemic has pushed more people into boat and van living (to travel within their own countries) and towards simple systems. Looking at the Nature's Head website, they've had a 8-week waiting list for ages. It's either you wait for the thing, or you build the thing.\nDry toilets are simple to use and have few parts, but it doesn't mean that they are simple to build. Simple is hard, it costs time, and requires a ton of creativity.\nContinue Reading",
@@ -603,17 +612,7 @@
       "title": "Writing - rachelbythebay",
       "feedUrl": "https://rachelbythebay.com/w/atom.xml",
       "siteUrl": "https://rachelbythebay.com/w/",
-      "articles": [
-        {
-          "id": "https://rachelbythebay.com/w/2021/06/02/air/",
-          "author": null,
-          "description": "I saw this on my stuff a few minutes ago and went digging.  Here's what \nthe vendor (\"BreezoMeter\") thinks is going on for this whole area right \nnow:\n\n\n\n\nWell, there you go.  According to them, we are in hell.",
-          "link": "https://rachelbythebay.com/w/2021/06/02/air/",
-          "publishedOn": "2021-06-02T20:27:59.000Z",
-          "wordCount": 190,
-          "title": "Bad air quality data for a whole region"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "LOW-TECH MAGAZINE",
@@ -1070,6 +1069,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=488659&preview=true&preview_id=488659",
+          "author": "Dan Maloney",
+          "description": "Amateur radio operators have a saying: When all else fails, there’s ham radio. And that’s true, at least to an extent — knock out the power, tear down the phone …read more",
+          "link": "https://hackaday.com/2021/08/01/hackaday-links-august-1-2021/",
+          "publishedOn": "2021-08-01T23:00:23.000Z",
+          "wordCount": 1614,
+          "title": "Hackaday Links: August 1, 2021"
+        },
+        {
+          "id": "https://hackaday.com/?p=488757",
+          "author": "Dan Maloney",
+          "description": "With the principles of molecular biology very much in the zeitgeist these days, we thought it would be handy to provide some sort of visual aid to help our readers …read more",
+          "link": "https://hackaday.com/2021/08/01/retrotechtacular-understanding-protein-synthesis-through-interpretive-dance/",
+          "publishedOn": "2021-08-01T20:00:00.000Z",
+          "wordCount": 1404,
+          "title": "Retrotechtacular: Understanding Protein Synthesis Through Interpretive Dance"
+        },
+        {
+          "id": "https://hackaday.com/?p=488764",
+          "author": "Jenny List",
+          "description": "Ever since humanity has grasped the idea of a robot, we’ve wanted to imagine them into walking humanoid form. But making a robot walk like a human is not an …read more",
+          "link": "https://hackaday.com/2021/08/01/ostrich-robot-machine-learns-itself-to-5k/",
+          "publishedOn": "2021-08-01T17:00:00.000Z",
+          "wordCount": 1632,
+          "title": "Ostrich Robot Machine-Learns Itself To 5K"
+        },
+        {
+          "id": "https://hackaday.com/?p=489515",
+          "author": "Al Williams",
+          "description": "Software defined radio and widespread software-controlled PLL synthesis for RF has been a game changer. Things like the RTL-SDR can be any kind of radio you like on almost any …read more",
+          "link": "https://hackaday.com/2021/08/01/hacking-a-pic-to-redefine-a-microphones-transmit-frequency/",
+          "publishedOn": "2021-08-01T14:00:00.000Z",
+          "wordCount": 1105,
+          "title": "Hacking a PIC to Redefine a Microphone’s Transmit Frequency"
+        },
+        {
+          "id": "https://hackaday.com/?p=488767",
+          "author": "Al Williams",
+          "description": "These days, a pretty nice oscilloscope can fit in your toolbox and even a “big” instrument is probably something you can tuck under your arm. But that hasn’t always been …read more",
+          "link": "https://hackaday.com/2021/08/01/the-oscope-restoration/",
+          "publishedOn": "2021-08-01T11:00:00.000Z",
+          "wordCount": 1488,
+          "title": "The O’Scope Restoration"
+        },
+        {
+          "id": "https://hackaday.com/?p=488678",
+          "author": "Jenny List",
+          "description": "When making a recording it can be surprisingly difficult to capture a good stereo image. A well-known technique is the ORTF microphone arrangement in which two cardoid microphones sit at …read more",
+          "link": "https://hackaday.com/2021/08/01/stereo-recording-made-easy-with-a-3d-printed-mount/",
+          "publishedOn": "2021-08-01T08:00:00.000Z",
+          "wordCount": 1425,
+          "title": "Stereo Recording Made Easy With A 3D-Printed Mount"
+        },
+        {
+          "id": "https://hackaday.com/?p=487966",
+          "author": "Jenny List",
+          "description": "The Pine64 folks have given us so many tasty pieces of hardware over the last few years, but it’s fair to say that their products are for experimenters rather than …read more",
+          "link": "https://hackaday.com/2021/07/31/an-epic-tale-of-reset-line-detective-work/",
+          "publishedOn": "2021-08-01T05:00:00.000Z",
+          "wordCount": 1737,
+          "title": "An Epic Tale Of Reset Line Detective Work"
+        },
         {
           "id": "https://hackaday.com/?p=487398",
           "author": "Jenny List",
@@ -4795,69 +4857,6 @@
           "publishedOn": "2021-06-03T14:01:27.000Z",
           "wordCount": 4052,
           "title": "Mariner 4: Our First Up-Close Look at Mars"
-        },
-        {
-          "id": "https://hackaday.com/?p=480868",
-          "author": "Danie Conradie",
-          "description": "Ever wished for some robotic enhancements for your next nerf war? Well, it’s time to dig through the parts bin and build yourself a nerf gun with aimbot built right …read more",
-          "link": "https://hackaday.com/2021/06/03/auto-aiming-nerf-gun-to-give-you-the-edge-in-battle/",
-          "publishedOn": "2021-06-03T11:00:00.000Z",
-          "wordCount": 1402,
-          "title": "Auto-Aiming Nerf Gun To Give You The Edge In Battle"
-        },
-        {
-          "id": "https://hackaday.com/?p=481027",
-          "author": "Kristina Panos",
-          "description": "For all the cool regenerative tricks the human body can do, it’s kind of weird that we only have one shot at tooth enamel with no way to get it …read more",
-          "link": "https://hackaday.com/2021/06/02/trials-begin-for-lozenge-that-rebuilds-tooth-enamel/",
-          "publishedOn": "2021-06-02T23:01:31.000Z",
-          "wordCount": 1286,
-          "title": "Trials Begin for Lozenge That Rebuilds Tooth Enamel"
-        },
-        {
-          "id": "https://hackaday.com/?p=480803",
-          "author": "Tom Nardi",
-          "description": "While humans have done a pretty good job of figuring out how to fly with various mechanical contrivances, the fact remains that our natural senses aren’t really well suited to …read more",
-          "link": "https://hackaday.com/2021/06/02/arduino-variometer-in-a-mint-tin/",
-          "publishedOn": "2021-06-02T20:00:31.000Z",
-          "wordCount": 1918,
-          "title": "Arduino Variometer in a Mint Tin"
-        },
-        {
-          "id": "https://hackaday.com/?p=480797",
-          "author": "Dan Maloney",
-          "description": "Any video that starts with a phase diagram has instantly earned our attention. Admittedly, we have a pretty low bar for that kind of stuff, but eye candy aside, [Robin …read more",
-          "link": "https://hackaday.com/2021/06/02/make-your-desoldering-easier-by-minding-your-own-bismuth/",
-          "publishedOn": "2021-06-02T18:30:00.000Z",
-          "wordCount": 1743,
-          "title": "Make Your Desoldering Easier by Minding Your Own Bismuth"
-        },
-        {
-          "id": "https://hackaday.com/?p=476761",
-          "author": "Jenny List",
-          "description": "A lot of our projects make noise. It can be something as simple as a microcontroller driving a small speaker or a truly ambitious Hi-Fi project, but common to all …read more",
-          "link": "https://hackaday.com/2021/06/02/know-audio-start-at-the-very-beginning/",
-          "publishedOn": "2021-06-02T17:00:58.000Z",
-          "wordCount": 2227,
-          "title": "Know Audio: Start At The Very Beginning"
-        },
-        {
-          "id": "https://hackaday.com/?p=481263",
-          "author": "Bryan Cockfield",
-          "description": "Wind energy isn’t quite as common of an alternative energy source as solar, at least for small installations. It’s usually much easier just to throw a few panels and a …read more",
-          "link": "https://hackaday.com/2021/06/02/full-size-3d-printed-wind-turbine/",
-          "publishedOn": "2021-06-02T15:30:00.000Z",
-          "wordCount": 2052,
-          "title": "Full Size 3D-Printed Wind Turbine"
-        },
-        {
-          "id": "https://hackaday.com/?p=480751",
-          "author": "Maya Posch",
-          "description": "We’ve had nuclear fission reactors in operation all over the world for ages, but nuclear fusion always seems to be a decade or two away. While one cannot predict when …read more",
-          "link": "https://hackaday.com/2021/06/02/fueling-up-for-fusion-masts-super-x-jets-deuterium-tritium-experiments-for-iter-and-more/",
-          "publishedOn": "2021-06-02T14:01:13.000Z",
-          "wordCount": 2933,
-          "title": "Fueling Up For Fusion: MAST’s Super-X, JET’s Deuterium-Tritium Experiments For ITER, And More"
         }
       ]
     },
@@ -4866,6 +4865,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2414",
+          "author": "Cory Doctorow",
+          "description": "Today's links Github pledges legal aid for interoperators: Youtube-dl's legacy. This day in history: 2001, 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Github pledges legal aid for interoperators (permalink) Last October, the RIAA launched a bizarre campaign of legal bullying against youtube-dl, a free/open library that lets people save Youtube (and other) videos for a variety of purposes, including critical analysis, offline viewing, archiving and remixing. https://pluralistic.net/2020/10/24/1201-v-dl-youtube/#1201 The RIAA attacked youtube-dl under Section 1201 of the Digital Millennium Copyright Act (DMCA1201) a 1998 law that indiscriminately bans helping people remove DRM, even if no copyright infringement …",
+          "link": "https://pluralistic.net/2021/08/01/balance-of-forces/",
+          "publishedOn": "2021-08-01T15:08:26.000Z",
+          "wordCount": 1936,
+          "title": "Pluralistic: 01 Aug 2021"
+        },
         {
           "id": "https://pluralistic.net/?p=2411",
           "author": "Cory Doctorow",
@@ -5250,15 +5258,6 @@
           "publishedOn": "2021-06-03T17:08:29.000Z",
           "wordCount": 1763,
           "title": "Pluralistic: 03 Jun 2021"
-        },
-        {
-          "id": "https://pluralistic.net/?p=2224",
-          "author": "Cory Doctorow",
-          "description": "Today's links NYC's driver-owned Uber alternative: Platform cooperativism needs interoperability, though. Amazon running scared from arbitration at scale: The right kind of automation. How the Dutch helped CBS cheat on its taxes: Onshore-offshore and the IP shell-game. This day in history: 2006, 2010, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading NYC's driver-owned Uber alternative (permalink) New Yorkers have a new ridehailing alternative t…",
-          "link": "https://pluralistic.net/2021/06/02/arbitrary-arbitration/",
-          "publishedOn": "2021-06-02T15:52:33.000Z",
-          "wordCount": 2309,
-          "title": "Pluralistic: 02 Jun 2021"
         }
       ]
     }
