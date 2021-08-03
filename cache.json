@@ -158,7 +158,17 @@
       "title": "Blog on SaraSoueidan.com",
       "feedUrl": "https://www.sarasoueidan.com/blog/index.xml",
       "siteUrl": "https://sarasoueidan.com/blog/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://sarasoueidan.com/blog/curating-aaa/",
+          "author": null,
+          "description": "I’m speaking, MC’ing and curating the programme for Access All Areas — an upcoming accessibility-focussed conference. Here’s all about the event, and how you can join us to learn more about accessibility, and maybe even present and share your expertise at the event!\nAbout the conference (what, when, where)\nAccess All Areas (or aaa) is a new online conference—part of a series of focussed conferences created by the folks at Web Directions. This conference is focussed on accessibility for developers: understanding the different kinds of accessibility issues that our code may create, finding those issues using available auditing and testing tools, as well as techniques and technologies for addressing them.\nThis inclusive, remote-friendly conference will take place for the first time this year …",
+          "link": "https://sarasoueidan.com/blog/curating-aaa/",
+          "publishedOn": "2021-08-02T00:00:00.000Z",
+          "wordCount": 902,
+          "title": "I’m curating the programme for an upcoming accessibility-focussed conference ✨"
+        }
+      ]
     },
     {
       "title": "there.oughta.be/",
@@ -248,6 +258,15 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2497/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/logic_gates.png\" title=\"In C, the multiocular O represents the bitwise norxondor gorgonax.\" alt=\"In C, the multiocular O represents the bitwise norxondor gorgonax.\" />",
+          "link": "https://xkcd.com/2497/",
+          "publishedOn": "2021-08-02T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Logic Gates"
+        },
         {
           "id": "https://xkcd.com/2496/",
           "author": null,
@@ -463,15 +482,6 @@
           "publishedOn": "2021-06-07T00:00:00.000Z",
           "wordCount": 185,
           "title": "Product Launch"
-        },
-        {
-          "id": "https://xkcd.com/2472/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/2472/",
-          "publishedOn": "2021-06-04T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Fuzzy Blob"
         }
       ]
     },
@@ -480,6 +490,15 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "me-and-tinnitus-entry-3",
+          "author": null,
+          "description": "The day after my last entry on my tinnitus I was approved, or rather I was in an acceptable range of hearing, to qualify for the Lenire treatment. The equipment isn't cheap but I've always justified the money spent on improving my health or mental health is always money worth spending. So I paid up the equipment was configured and shipped from Ireland on the Friday and I had my \"fitting\" appointment on the Wednesday. Then I was off.",
+          "link": "https://remysharp.com/2021/08/02/me-and-tinnitus-entry-3",
+          "publishedOn": "2021-08-02T00:00:00.000Z",
+          "wordCount": 1030,
+          "title": "Me & Tinnitus: entry 3 [blog]"
+        },
         {
           "id": "2021-07-16",
           "author": null,
@@ -612,7 +631,17 @@
       "title": "Writing - rachelbythebay",
       "feedUrl": "https://rachelbythebay.com/w/atom.xml",
       "siteUrl": "https://rachelbythebay.com/w/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://rachelbythebay.com/w/2021/08/02/meetings/",
+          "author": null,
+          "description": "I was a new employee.  I wanted to see what the reliability situation \nwas at the company.  Nobody was going to just tell me, so I had to just \ntry a bunch of things to see how much could be learned from poking \naround.\n\n\nAt one of them, there were two people representing a single outage.  One \nof them (\"user\") was from this team that used GPUs to compute something \nor other.  The other one (\"service\") managed the team that ran the \ngunk that let people ask for machines with GPUs so they can run stuff.  \nWhat happened is that \"service\" presented it as \"user screwed up and \nwas down because of some stuff that happened\".\n\n\nIt turned out to be a completely different story than the one they were \npitching.  In fact, what happened is that the \"service\" team made some \nchange and started shippin…",
+          "link": "https://rachelbythebay.com/w/2021/08/02/meetings/",
+          "publishedOn": "2021-08-02T09:15:15.000Z",
+          "wordCount": 1160,
+          "title": "Reliability meeting experiences"
+        }
+      ]
     },
     {
       "title": "LOW-TECH MAGAZINE",
@@ -1069,6 +1098,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=488572",
+          "author": "Danie Conradie",
+          "description": "[Eric Arcana] has been creating animated holiday decorations for several years, which involved a lot of custom code to make things light up the way he wanted, pulling the microcontroller …read more",
+          "link": "https://hackaday.com/2021/08/02/dedicated-led-animation-framework-for-esp32/",
+          "publishedOn": "2021-08-02T23:00:40.000Z",
+          "wordCount": 1139,
+          "title": "Dedicated LED Animation Framework For ESP32"
+        },
+        {
+          "id": "https://hackaday.com/?p=489630",
+          "author": "Danie Conradie",
+          "description": "A motorbike might not take up a lot of parking space, but this is not true for the trailer required to transport one. To solve this problem, [Make It Extreme] …read more",
+          "link": "https://hackaday.com/2021/08/02/single-wheel-motorcycle-trailer/",
+          "publishedOn": "2021-08-02T20:00:10.000Z",
+          "wordCount": 1727,
+          "title": "Single-Wheel Motorcycle Trailer"
+        },
+        {
+          "id": "https://hackaday.com/?p=487224",
+          "author": "Kristina Panos",
+          "description": "While there’s probably a Cherry MX clone born every year or so, it’s not often that such a radically different type of switch comes along. These “Void” switches are Hall-effect …read more",
+          "link": "https://hackaday.com/2021/08/02/mag-lev-switches-are-the-future-of-clacking/",
+          "publishedOn": "2021-08-02T18:30:00.000Z",
+          "wordCount": 1380,
+          "title": "Mag-Lev Switches Are the Future of Clacking"
+        },
+        {
+          "id": "https://hackaday.com/?p=489560",
+          "author": "Mike Szczys",
+          "description": "For years I’ve looked forward to seeing each new unofficial hardware badge that comes out of the #Badgelife powerhouse known as AND!XOR. A mix of new and interesting components, alternate-reality …read more",
+          "link": "https://hackaday.com/2021/08/02/andxors-def-con-29-electronic-badge-is-an-assembly-puzzle/",
+          "publishedOn": "2021-08-02T17:01:01.000Z",
+          "wordCount": 1815,
+          "title": "AND!XOR’s DEF CON 29 Electronic Badge is an Assembly Puzzle"
+        },
+        {
+          "id": "https://hackaday.com/?p=489634",
+          "author": "Danie Conradie",
+          "description": "Quadcopters are great for maneuverability and slow, stable flight, but it comes at the cost of efficiency. [Peter Ryseck]’s Mini QBIT quadrotor biplane brings in some of the efficiency of …read more",
+          "link": "https://hackaday.com/2021/08/02/vtol-tailsitter-flies-with-quadcopter-control-software/",
+          "publishedOn": "2021-08-02T15:30:00.000Z",
+          "wordCount": 1483,
+          "title": "VTOL Tailsitter Flies With Quadcopter Control Software"
+        },
+        {
+          "id": "https://hackaday.com/?p=487991",
+          "author": "Maya Posch",
+          "description": "In late June of 2021, GitHub launched a ‘technical preview’ of what they termed GitHub Copilot, described as an ‘AI pair programmer which helps you write better code’. Quite predictably, …read more",
+          "link": "https://hackaday.com/2021/08/02/github-copilot-and-the-unfulfilled-promises-of-an-artificial-intelligence-future/",
+          "publishedOn": "2021-08-02T14:01:18.000Z",
+          "wordCount": 4484,
+          "title": "GitHub Copilot And The Unfulfilled Promises Of An Artificial Intelligence Future"
+        },
+        {
+          "id": "https://hackaday.com/?p=488575",
+          "author": "Danie Conradie",
+          "description": "Shoplifting is a major problem for many brick-and-mortar retail stores, and it seems that stealing and then selling power tools is a lucrative enterprise for some criminals. To combat this, …read more",
+          "link": "https://hackaday.com/2021/08/02/home-depot-is-selling-power-tools-that-require-activation-in-store/",
+          "publishedOn": "2021-08-02T11:00:00.000Z",
+          "wordCount": 12947,
+          "title": "Home Depot Is Selling Power Tools That Require Activation In-Store"
+        },
         {
           "id": "https://hackaday.com/?p=488659&preview=true&preview_id=488659",
           "author": "Dan Maloney",
@@ -4803,60 +4895,6 @@
           "publishedOn": "2021-06-04T14:00:32.000Z",
           "wordCount": 2763,
           "title": "This Week in Security: Ransomware, WeLock, and Amazon Arbitration"
-        },
-        {
-          "id": "https://hackaday.com/?p=480776",
-          "author": "Bryan Cockfield",
-          "description": "It’s easy to get caught up in a build and forget that the final version usually needs some sort of enclosure, especially things with sensitive electronics in them. The [Director …read more",
-          "link": "https://hackaday.com/2021/06/03/radio-build-goes-outside-the-box/",
-          "publishedOn": "2021-06-03T23:00:17.000Z",
-          "wordCount": 1141,
-          "title": "Radio Build Goes Outside The Box"
-        },
-        {
-          "id": "https://hackaday.com/?p=480615",
-          "author": "Stephen Ogier",
-          "description": "Portable air conditioning units are a great way to cool off a space during the hot summer months, but they require some place to blow the heat they’ve removed from …read more",
-          "link": "https://hackaday.com/2021/06/03/air-extractor-automatically-gives-ac-a-boost/",
-          "publishedOn": "2021-06-03T20:00:48.000Z",
-          "wordCount": 1672,
-          "title": "Air Extractor Automatically Gives AC a Boost"
-        },
-        {
-          "id": "https://hackaday.com/?p=481090",
-          "author": "Danie Conradie",
-          "description": "Do you miss the mind-blowing typing speed of your old Nokia brick with predictive text turned on? Well, so did [Guy Dupont], so he created a USB keypad with T9 …read more",
-          "link": "https://hackaday.com/2021/06/03/miss-the-predictive-text-from-your-old-nokia-build-your-own-t9-keypad/",
-          "publishedOn": "2021-06-03T18:30:00.000Z",
-          "wordCount": 1686,
-          "title": "Miss The Predictive Text From Your Old Nokia? Build Your Own T9 Keypad"
-        },
-        {
-          "id": "https://hackaday.com/?p=466001",
-          "author": "Lewin Day",
-          "description": "Typically, when it comes to inclement weather, ice is the worst of the worst of driving conditions. Regular tyres have little to no grip in such situations, and accidents are …read more",
-          "link": "https://hackaday.com/2021/06/03/how-to-get-into-cars-ice-racing-mods/",
-          "publishedOn": "2021-06-03T17:00:04.000Z",
-          "wordCount": 2633,
-          "title": "How To Get Into Cars: Ice Racing Mods"
-        },
-        {
-          "id": "https://hackaday.com/?p=480737",
-          "author": "Kristina Panos",
-          "description": "It’s true; hackers like clocks. And hackers like useless machines. But would they like an intersection of the two? We’re thinking yes, probably, though we would argue that this QR …read more",
-          "link": "https://hackaday.com/2021/06/03/retro-useless-clock-eventually-shows-you-the-time/",
-          "publishedOn": "2021-06-03T15:30:00.000Z",
-          "wordCount": 1261,
-          "title": "Retro Useless Clock Eventually Shows You the Time"
-        },
-        {
-          "id": "https://hackaday.com/?p=480934",
-          "author": "Dan Maloney",
-          "description": "In the grand scheme of things, it wasn’t all that long ago that the entire body of knowledge of our solar system was built solely with Earth-based observations. Turning first …read more",
-          "link": "https://hackaday.com/2021/06/03/mariner-4-our-first-up-close-look-at-mars/",
-          "publishedOn": "2021-06-03T14:01:27.000Z",
-          "wordCount": 4052,
-          "title": "Mariner 4: Our First Up-Close Look at Mars"
         }
       ]
     },
@@ -4865,6 +4903,20 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2422",
+          "author": "Cory Doctorow",
+          "description": "Today's links Machine learning sucks at covid: Every \"AI\" covid tool was useless. Podcasting \"Are We Having Fun Yet?\": The first three parts of my ongoing Medium series on queueing, aggregate demand management and theme parks. This day in history: 2020, 2016, 2011, 2006, 2001 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Machine learning sucks at covid (permalink) The worst part of machine learning snake-oil isn't that it's useless or harmful – it's that ML-based statistical conclusions have the veneer of mathematics, the empirical facewash that makes otherwise suspect conclusions seem neutral, factual and scientific. Think of \"predictive policing,\" in which police arrest data is fed to a statistical model that tells the police where …",
+          "link": "https://pluralistic.net/2021/08/02/autoquack/",
+          "publishedOn": "2021-08-02T16:57:12.000Z",
+          "wordCount": 2287,
+          "title": "Pluralistic: 02 Aug 2021",
+          "enclosure": {
+            "url": "https://archive.org/download/Cory_Doctorow_Podcast_398/Cory_Doctorow_Podcast_398_-_Are_We_Having_Fun_Yet.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "https://pluralistic.net/?p=2414",
           "author": "Cory Doctorow",
@@ -5249,15 +5301,6 @@
           "publishedOn": "2021-06-04T15:40:43.000Z",
           "wordCount": 2981,
           "title": "Pluralistic: 04 Jun 2021"
-        },
-        {
-          "id": "https://pluralistic.net/?p=2230",
-          "author": "Cory Doctorow",
-          "description": "Today's links Efficiency is very inefficient: Resiliency is not a market good. This day in history: 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Efficiency is very inefficient (permalink) Doctors use the term \"crisis\" to refer to the crossroads where the patient improves or goes into terminal decline. In that sense, we are living through a major crisis, a juncture revealed by the pandemic that we have yet to traverse. For 40 years, th…",
-          "link": "https://pluralistic.net/2021/06/03/jitters/",
-          "publishedOn": "2021-06-03T17:08:29.000Z",
-          "wordCount": 1763,
-          "title": "Pluralistic: 03 Jun 2021"
         }
       ]
     }
