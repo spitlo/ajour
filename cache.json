@@ -198,15 +198,6 @@
           "publishedOn": "2021-06-12T00:00:00.000Z",
           "wordCount": 105,
           "title": "Commodore Assemblers"
-        },
-        {
-          "id": "https://grumpygamer.com/dungeoneering",
-          "author": null,
-          "description": "I loved this game... all I want is for it to be on the Switch.",
-          "link": "https://grumpygamer.com/dungeoneering",
-          "publishedOn": "2021-06-07T00:00:00.000Z",
-          "wordCount": 151,
-          "title": "Guild of Dungeoneering"
         }
       ]
     },
@@ -267,6 +258,15 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2498/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/forest_walk.png\" title=\"The only other person to walk by was a linguist back in the 80s, but she just spent a while dissecting the phrase 'help me down' before getting distracted by a squirrel and wandering off.\" alt=\"The only other person to walk by was a linguist back in the 80s, but she just spent a while dissecting the phrase 'help me down' before getting distracted by a squirrel and wandering off.\" />",
+          "link": "https://xkcd.com/2498/",
+          "publishedOn": "2021-08-04T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Forest Walk"
+        },
         {
           "id": "https://xkcd.com/2497/",
           "author": null,
@@ -482,15 +482,6 @@
           "publishedOn": "2021-06-09T00:00:00.000Z",
           "wordCount": 191,
           "title": "First Time Since Early 2020"
-        },
-        {
-          "id": "https://xkcd.com/2473/",
-          "author": null,
-          "description": "",
-          "link": "https://xkcd.com/2473/",
-          "publishedOn": "2021-06-07T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Product Launch"
         }
       ]
     },
@@ -869,6 +860,24 @@
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
         {
+          "id": "https://blog.mozilla.org/?p=66686",
+          "author": "M.J. Kelly",
+          "description": "Every summer I say I’m going to go watch the meteor showers, but life always seems to get in the way. This year, however, I scored a last minute midweek campsite on the Washington coast so I can take in the Perseid meteor shower away from city lights. While the Perseids are ongoing from mid-July […]\nThe post Perseid meteor shower on your mind? Check out these online resources for newbie astronomers plus 6 Firefox themes for daytime stargazing. appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/products/firefox/extensions-addons/perseid-meteor-shower-online-resources-firefox-themes/",
+          "publishedOn": "2021-08-05T20:40:28.000Z",
+          "wordCount": 1206,
+          "title": "Perseid meteor shower on your mind? Check out these online resources for newbie astronomers plus 6 Firefox themes for daytime stargazing."
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=66683",
+          "author": "Mozilla",
+          "description": "The post An update from Firefox appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/products/firefox/an-update-from-firefox/",
+          "publishedOn": "2021-08-05T14:46:22.000Z",
+          "wordCount": 749,
+          "title": "An update from Firefox"
+        },
+        {
           "id": "https://blog.mozilla.org/?p=66790",
           "author": "Marshall Erwin",
           "description": "Recently the Surgeon General of the United States weighed in on the spread of disinformation on major platforms and its effects on people and society. He echoed the calls of researchers, activists and organizations, like Mozilla, for the major platforms to release more data, and to provide access to researchers in order to analyze the […]\nThe post Why Facebook’s claims about the Ad Observer are wrong appeared first on The Mozilla Blog.",
@@ -1083,6 +1092,15 @@
       "siteUrl": "https://alistapart.com",
       "articles": [
         {
+          "id": "https://alistapart.com/article/sustainable-web-design-excerpt/",
+          "author": "by",
+          "description": "In the 1950s, many in the elite running community had begun to believe it wasn’t possible to run a mile in less than four minutes. Runners had been attempting it since the late 19th century and were beginning to draw the conclusion that the human body simply wasn’t built for the task. \nBut on May 6, 1956, Roger Bannister took everyone by surprise. It was a cold, wet day in Oxford, England—conditions no one expected to lend themselves to record-setting—and yet Bannister did just that, running a mile in 3:59.4 and becoming the first person in the record books to run a mile in under four minutes. \nThis shift in the benchmark had profound effects; the world now knew that the four-minute mile was possible. Bannister’s record lasted only forty-six days, when it was snatched away by Australian ru…",
+          "link": "https://alistapart.com/article/sustainable-web-design-excerpt/",
+          "publishedOn": "2021-08-05T14:00:00.000Z",
+          "wordCount": 3535,
+          "title": "Sustainable Web Design, An Excerpt"
+        },
+        {
           "id": "https://alistapart.com/article/voice-content-and-usability/",
           "author": "by",
           "description": "We’ve been having conversations for thousands of years. Whether to convey information, conduct transactions, or simply to check in on one another, people have yammered away, chattering and gesticulating, through spoken conversation for countless generations. Only in the last few millennia have we begun to commit our conversations to writing, and only in the last few decades have we begun to outsource them to the computer, a machine that shows much more affinity for written correspondence than for the slangy vagaries of spoken language.\nComputers have trouble because between spoken and written language, speech is more primordial. To have successful conversations with us, machines must grapple with the messiness of human speech: the disfluencies and pauses, the gestures and body language, an…",
@@ -1125,6 +1143,69 @@
       "feedUrl": "https://hackaday.com/blog/feed/",
       "siteUrl": "https://hackaday.com",
       "articles": [
+        {
+          "id": "https://hackaday.com/?p=490256",
+          "author": "Kristina Panos",
+          "description": "Back in 2013, [Michael Stapelberg] created what is lovingly referred to as the Stapelberg controller: a replacement keyboard controller for the original Kinesis Advantage, the decades-old darling of the ergonomic …read more",
+          "link": "https://hackaday.com/2021/08/05/kinesis-teensy-qmk-advantage-over-your-keyboard/",
+          "publishedOn": "2021-08-05T23:00:54.000Z",
+          "wordCount": 1133,
+          "title": "Kinesis + Teensy = QMK Advantage Over your Keyboard"
+        },
+        {
+          "id": "https://hackaday.com/?p=489845",
+          "author": "Joshua Vasquez",
+          "description": "The working principle of digital calipers is mysterious enough that we’d never think to dismantle, much less improve them, right? Well, think again, as [Limi DIY] retrofits the processing element …read more",
+          "link": "https://hackaday.com/2021/08/05/custom-caliper-tracks-for-when-youre-going-the-distance/",
+          "publishedOn": "2021-08-05T20:00:00.000Z",
+          "wordCount": 1594,
+          "title": "Custom Caliper Tracks for When You’re Going the Distance"
+        },
+        {
+          "id": "https://hackaday.com/?p=489596",
+          "author": "Danie Conradie",
+          "description": "Conventional airfoil wings have come out on top for getting flying machines airborne over the last century, but there were a few other interesting designs that have come and gone. …read more",
+          "link": "https://hackaday.com/2021/08/05/magnus-effect-rc-aircraft-is-a-lot-harder-than-it-looks/",
+          "publishedOn": "2021-08-05T18:30:00.000Z",
+          "wordCount": 1411,
+          "title": "Magnus-Effect RC Aircraft Is A Lot Harder Than  It Looks"
+        },
+        {
+          "id": "https://hackaday.com/?p=490239",
+          "author": "Tom Nardi",
+          "description": "To say that 2020 was a transformative year would be something of an understatement. The COVID-19 pandemic completely changed the way we worked, learned, and lived. Despite all those jokes …read more",
+          "link": "https://hackaday.com/2021/08/05/hands-on-def-con-29-badge-embraces-the-new-normal/",
+          "publishedOn": "2021-08-05T17:01:31.000Z",
+          "wordCount": 2289,
+          "title": "Hands On: DEF CON 29 Badge Embraces the New Normal"
+        },
+        {
+          "id": "https://hackaday.com/?p=490221",
+          "author": "Kristina Panos",
+          "description": "This weekend is the Vintage Computer Festival (VCF) West, which will be held in-person at the Computer History Museum in Mountain View, California. Here is the complete schedule of events. …read more",
+          "link": "https://hackaday.com/2021/08/05/vintage-computer-festival-west-is-this-weekend/",
+          "publishedOn": "2021-08-05T15:31:04.000Z",
+          "wordCount": 1247,
+          "title": "Vintage Computer Festival West is This Weekend"
+        },
+        {
+          "id": "https://hackaday.com/?p=486097",
+          "author": "Al Williams",
+          "description": "The life of a Linux user can be a bit difficult. Sometimes you have to — or want to — run Windows. Why Windows? Sometimes you have a work computer …read more",
+          "link": "https://hackaday.com/2021/08/05/linux-fu-the-windows-x11-connection/",
+          "publishedOn": "2021-08-05T14:00:48.000Z",
+          "wordCount": 4348,
+          "title": "Linux Fu: The Windows X11 Connection"
+        },
+        {
+          "id": "https://hackaday.com/?p=490132",
+          "author": "Mike Szczys",
+          "description": "We spend a lot of time thinking of how to create 3D objects, but what about being able to print full color graphics on the objects we create? This isn’t …read more",
+          "link": "https://hackaday.com/2021/08/05/this-is-a-3d-ink-jet-printer/",
+          "publishedOn": "2021-08-05T11:00:00.000Z",
+          "wordCount": 1724,
+          "title": "This is a 3D Ink Jet Printer"
+        },
         {
           "id": "https://hackaday.com/?p=488568",
           "author": "Danie Conradie",
@@ -4850,42 +4931,6 @@
           "publishedOn": "2021-06-07T14:01:53.000Z",
           "wordCount": 8185,
           "title": "Electric Vehicles Could Be The Grid Storage Solution We’ve Been Dreaming Of"
-        },
-        {
-          "id": "https://hackaday.com/?p=481301&preview=true&preview_id=481301",
-          "author": "Dan Maloney",
-          "description": "There are a bunch of newly minted millionaires this week, after it was announced that Stack OverFlow would be acquired for $1.8 billion by European tech investment firm Prosus. While …read more",
-          "link": "https://hackaday.com/2021/06/06/hackaday-links-june-6-2021/",
-          "publishedOn": "2021-06-06T23:00:01.000Z",
-          "wordCount": 1597,
-          "title": "Hackaday Links: June 6, 2021"
-        },
-        {
-          "id": "https://hackaday.com/?p=454379",
-          "author": "Danie Conradie",
-          "description": "LoRa is great for sending short data packets over long ranges but is not normally suitable for voice communications. [Dan Fay] is looking to change this with QMesh, a synchronized, …read more",
-          "link": "https://hackaday.com/2021/06/06/qmesh-lora-mesh-networked-voice-communications/",
-          "publishedOn": "2021-06-06T20:01:42.000Z",
-          "wordCount": 1457,
-          "title": "QMESH: LoRa Mesh Networked Voice Communications"
-        },
-        {
-          "id": "https://hackaday.com/?p=481000",
-          "author": "Jenny List",
-          "description": "If you search the outer reaches of the internet you will find all sorts of web sites and videos purporting to answer to free energy in the form of perpetual …read more",
-          "link": "https://hackaday.com/2021/06/06/sailing-faster-than-the-wind-itself/",
-          "publishedOn": "2021-06-06T17:01:17.000Z",
-          "wordCount": 2944,
-          "title": "Sailing Faster Than The Wind Itself"
-        },
-        {
-          "id": "https://hackaday.com/?p=481086",
-          "author": "Bryan Cockfield",
-          "description": "Placing two motors together in a shared drive is a simple enough task. By using something like a chain or a belt to couple them, or even placing them on …read more",
-          "link": "https://hackaday.com/2021/06/06/differential-drive-doesnt-quite-work-as-expected/",
-          "publishedOn": "2021-06-06T14:01:19.000Z",
-          "wordCount": 1713,
-          "title": "Differential Drive Doesn’t Quite Work As Expected"
         }
       ]
     },
@@ -4894,6 +4939,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2441",
+          "author": "Cory Doctorow",
+          "description": "Today's links Meet the new generation of pro-abortion activists: No more Mx Nice Intersectionalist. Anti-vaxers cool the mark: Using sociology to understand the con. Drone delivery crashes: What do AI, self-driving cars and Amazon drones have in common? Facebook escalates war on accountability: Privacywashing vs Ad Observer. This day in history: 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Meet the new generation of pro-abortion activists (permalink) With Roe v Wade likely headed to the US Supreme Court and a woman's right to a safe and legal abortion under grave threat, a new generation of pro-abortion activists are rising up. As Amelia Pollard writes for The American Prospect, this new wave is militant, organized a…",
+          "link": "https://pluralistic.net/2021/08/05/comprehensive-sex-ed/",
+          "publishedOn": "2021-08-05T18:29:22.000Z",
+          "wordCount": 3403,
+          "title": "Pluralistic: 05 Aug 2021"
+        },
         {
           "id": "https://pluralistic.net/?p=2436",
           "author": "Cory Doctorow",
