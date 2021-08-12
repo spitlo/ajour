@@ -6,6 +6,15 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=6923",
+          "author": "Chris Heilmann",
+          "description": "Visual Studio Code now has a TikTok channel and they asked me if I wanted to contribute, so here you are: @vscode A look under the hood ##vscode ##techtok ##codetok ##programming ##edutok ♬ original sound – Visual Studio Code A 20 second video of me explaining that I like VS Code a lot as it […]",
+          "link": "https://christianheilmann.com/2021/08/11/published-on-tiktok-but-kompressor-does-not-dance/",
+          "publishedOn": "2021-08-11T11:05:23.000Z",
+          "wordCount": 380,
+          "title": "Published on TikTok, but Kompressor does not dance"
+        },
+        {
           "id": "https://christianheilmann.com/?p=6916",
           "author": "Chris Heilmann",
           "description": "This weekend I released a video on the YouTube Channel of Visual Studio Code that shows end-to-end web project debugging. In five minutes I walk through debugging a web project bit by bit: I open a project inside VS Code by opening its folder. The demo used is a simple, plain Vanilla JS/CSS/HTML ToDo app […]",
@@ -248,6 +257,15 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2501/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/average_familiarity.png\" title=\"How could anyone consider themselves a well-rounded adult without a basic understanding of silicate geochemistry? Silicates are everywhere! It's hard to throw a rock without throwing one!\" alt=\"How could anyone consider themselves a well-rounded adult without a basic understanding of silicate geochemistry? Silicates are everywhere! It's hard to throw a rock without throwing one!\" />",
+          "link": "https://xkcd.com/2501/",
+          "publishedOn": "2021-08-11T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Average Familiarity"
+        },
         {
           "id": "https://xkcd.com/2500/",
           "author": null,
@@ -535,6 +553,15 @@
           "title": "Marbles2 - 5-Jul 2021 [devlog/marbles2]"
         },
         {
+          "id": "broad-band-the-untold-story-of-the-women-who-made-the-internet",
+          "author": null,
+          "description": "A real kind of urgency and excitement in their writing. Superb.\nA refreshing lesson in the history of the internet, primarily focused on the US (with a decent hat tip to Dame Wendy Hall) but really well written.\nA recommendation by Jeremy Keith tipped this from my \"to read\" list into my brain and it was one of the easier non-fiction books I've read, purely down to Evens' writing style.\nHighly recommend if you're working on the web or interested in modern computing history.",
+          "link": "https://remysharp.com/books/2021/broad-band-the-untold-story-of-the-women-who-made-the-internet",
+          "publishedOn": "2021-07-04T00:00:00.000Z",
+          "wordCount": 257,
+          "title": "Broad Band: The Untold Story of the Women Who Made the Internet [book]"
+        },
+        {
           "id": "extracting-previous-copy-from-github",
           "author": null,
           "description": "Sometimes I need to pull a complete copy of a previous file out of a github (this is useful when needing to do visual binary diffs to see which bytes have moves or changed).\nTo pull a specific file, say the last commit, the following command line does the trick:\ngit show HEAD^:./myfile.bin > myfile.bin\n\nThe HEAD^ means \"one commit behind the head of the branch\" (the \"head\" being the last commit on the branch). Though if you've got merge commits where a commit has more than one parent commit this can get a little complicated (which why I tend to stick to just the previous commit).\nUsing HEAD^^ or HEAD^2 means \"two commits before the head of the branch\". There's also detailed stackoverflow post about the difference between the caret ^ and the tilde ~ with examples of how they traverse up the tree.",
@@ -560,6 +587,15 @@
           "publishedOn": "2021-06-29T09:40:59.000Z",
           "wordCount": 234,
           "title": "A collection of modern/faster alternatives to common unix commands [link]"
+        },
+        {
+          "id": "marge-and-the-secret-tunnel-marge-4",
+          "author": null,
+          "description": "The kids absolutely love the Marge in Charge series.\nI'm suitably impressed with Isla Fisher's stories and would love to see more of these tails for the kids. We've also read the 9 book version - easily readable aloud and full of great drawings.",
+          "link": "https://remysharp.com/books/2021/marge-and-the-secret-tunnel-marge-4",
+          "publishedOn": "2021-06-28T00:00:00.000Z",
+          "wordCount": 206,
+          "title": "Marge and the Secret Tunnel (Marge, #4) [book]"
         },
         {
           "id": "light-dark-firefox-theme-switching",
@@ -999,6 +1035,15 @@
       "siteUrl": "https://pluralistic.net",
       "articles": [
         {
+          "id": "https://pluralistic.net/?p=2464",
+          "author": "Cory Doctorow",
+          "description": "Today's links Canada's got the world's worst internet ideas: The Canada Variant is the most virulent \"online harms\" rule. IRS leaks reveal billions reaped through ultra-wealthy lobbying on the tax bill: A cast of dozens. This day in history: 2001, 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Canada's got the world's worst internet ideas (permalink) Canada's government is poised to pass a \"harmful content\" regulation. It's a worst-in-class mutation of a dangerous idea that's swept the globe, in which governments demand that hamfisted tech giants remove broad categories of speech – too swiftly for meaningful analysis. Many countries have proposed or passed rules on these lines: Australia, France, UK, Germany, Ind…",
+          "link": "https://pluralistic.net/2021/08/11/the-canada-variant/",
+          "publishedOn": "2021-08-11T15:49:38.000Z",
+          "wordCount": 2643,
+          "title": "Pluralistic: 11 Aug 2021"
+        },
+        {
           "id": "https://pluralistic.net/?p=2456",
           "author": "Cory Doctorow",
           "description": "Today's links End of the line for Uber: Accounting tricks and tech gimmickry don't matter when the coffers are empty. This day in history: 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading End of the line for Uber (permalink) Uber is a bezzle (\"the magic interval when a confidence trickster knows he has the money he has appropriated but the victim does not yet understand that he has lost it\"). Every bezzle ends. Uber's time is up. Uber was never going to be profitable. Never. It lured drivers and riders into cars by subsidizing rides with billions and billions of dollars from the Saudi royal family, keeping up the con-artist's ever-shifting patter about how all of this would some day stand on its own. Like the prete…",
@@ -1397,15 +1442,6 @@
           "publishedOn": "2021-06-13T15:48:09.000Z",
           "wordCount": 1924,
           "title": "Pluralistic: 13 Jun 2021"
-        },
-        {
-          "id": "https://pluralistic.net/?p=2273",
-          "author": "Cory Doctorow",
-          "description": "Today's links The ACCESS Act: The most significant interop legislation in US history. This day in history: 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading > The ACCESS Act (permalink) Five Big Tech antitrust bills were introduced in the House Judiciary Committee today; they're the most significant antitrust effort in more than half a century, and they cover a lot of ground. https://cicilline.house.gov/press-release/house-lawmakers-release-anti-monopoly-agenda-stronger-online-economy-opportunity There's a bill to ban \"self-preferencing\" (when a company-run marketplace pushes its inferior products over its rivals' superior ones); another to block anticompetitive acquisitions; a bill to block \"walled gardens\"; and a …",
-          "link": "https://pluralistic.net/2021/06/12/access-act/",
-          "publishedOn": "2021-06-12T15:42:53.000Z",
-          "wordCount": 1613,
-          "title": "Pluralistic: 12 Jun 2021"
         }
       ]
     }
