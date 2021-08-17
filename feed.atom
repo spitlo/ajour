@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-08-16T06:28:27.871Z</updated>
+    <updated>2021-08-17T00:16:00.692Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: 16 Aug 2021]]></title>
+        <id>https://pluralistic.net/?p=2480</id>
+        <link href="https://pluralistic.net/2021/08/16/die-miete-ist-zu-hoch/"/>
+        <updated>2021-08-16T17:36:46.000Z</updated>
+        <summary type="html"><![CDATA[Today's links Housing, money laundry, speculation and precarity: Henry George was an optimist. This day in history: 2001, 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Housing, money laundry, speculation and precarity (permalink) Something amazing is happening in Berlin. Next month, Berliners will vote in a referendum to force Germany's largest publicly traded landlords to sell 240,000 homes to the state, whereupon those homes will become publicly owned housing. https://www.ft.com/content/4a5fb5ed-00cf-4a70-8653-820f0c1ff757 Berlin is a rarity: a semi-autonomous city whose history is overshadowed by a half-century of heavy public spending (in the west) as part of a program to prove that capitalism was a system o…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Memo Spike Connector]]></title>
+        <id>https://xkcd.com/2503/</id>
+        <link href="https://xkcd.com/2503/"/>
+        <updated>2021-08-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/memo_spike_connector.png" title="Backward-compatible with many existing cables, and can connect directly to phones or tablets if you press them down hard enough." alt="Backward-compatible with many existing cables, and can connect directly to phones or tablets if you press them down hard enough." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mid-August Link Assortment]]></title>
         <id>http://emshort.blog/?p=42007</id>
@@ -1495,78 +1515,6 @@ The excellent Firefox Color lets me easily customise and adjust the theme, but a
 The post Gary Linden, legendary surfer & Firefox fan appeared first on The Mozilla Blog.]]></summary>
         <author>
             <name>Natalie Linden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modifying auto increments [til/data]]]></title>
-        <id>modifying-autoincrements</id>
-        <link href="https://remysharp.com/til/data/modifying-autoincrements"/>
-        <updated>2021-06-18T08:10:17.000Z</updated>
-        <summary type="html"><![CDATA[When using postgres locally for development, sometimes, if the production dataset is too large, I'll take a sample to work with locally.
-More recently I've run into the problem that when I load new production data into tables with auto increment primary key columns, I'll get a conflict, i.e. I load some production data in locally, and then when the auto increment runs it'll hit a conflict - because my local sequences are completely out of sync with production.
-The solution is to update my local sequence value. This is a two part process.
-1. Capture current values from production:
-SELECT last_value FROM public.<table>_<col>_seq;
-
-So for something like user ids, this would be:
-SELECT last_value FROM public.user_id_seq;
->>> 304
-
-If this doesn't yield a result, then the sequence name is wrong, and it can be checked with the following query:
-SELECT pg_get_serial_sequence('user', 'id');
-
-Now armed with this value, in my example 304, the next part is to upload locally:
-2. Update sequences locally:
-ALTER SEQUENCE <table>_<col>_seq RESTART WITH <next_value>;
-
-It's important that I update to the next value, not the current value:
-ALTER SEQUENCE user_id_seq RESTART WITH 305;
-
-Now when the next id for the user is loaded through an insert, the sequences are in sync.]]></summary>
-        <author>
-            <name>remy sharp's b:log</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alien Visitors 2]]></title>
-        <id>https://xkcd.com/2478/</id>
-        <link href="https://xkcd.com/2478/"/>
-        <updated>2021-06-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/alien_visitors_2.png" title="&quot;Although fresh juice DOES sound--&quot; &quot;NO! For humanity to survive we must learn from the mistakes of the past.&quot;" alt="&quot;Although fresh juice DOES sound--&quot; &quot;NO! For humanity to survive we must learn from the mistakes of the past.&quot;" />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fast snapshot and restoring for postgres [blog]]]></title>
-        <id>fast-snapshot-and-restoring-for-postgres</id>
-        <link href="https://remysharp.com/2021/06/18/fast-snapshot-and-restoring-for-postgres"/>
-        <updated>2021-06-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I've been using postgres a lot lately for projects, but when dealing with large dataset changes and testing, it's not a quick process to reset the state to start again.
-I stumbled upon stellar which appears to do exactly this job, but I had a couple of gotchas so figured I'd capture it here.]]></summary>
-        <author>
-            <name>remy sharp's b:log</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitsy is Beautiful! (exploring the Bitsy space and some of my favorite Bitsy games)]]></title>
-        <id>http://www.nathalielawhead.com/candybox/?p=5033</id>
-        <link href="http://www.nathalielawhead.com/candybox/bitsy-is-beautiful-exploring-the-bitsy-space-and-some-of-my-favorite-bitsy-games"/>
-        <updated>2021-06-17T23:19:56.000Z</updated>
-        <summary type="html"><![CDATA[This post is all about Bitsy! I vividly remember the very first Bitsy game that I played. I don’t remember who it was by, or how to find it again… it’s lost in the sea of Bitsy games that came out since. I almost brushed it off because, judging by the first impression, Bitsy looks so easy to not think much of. In a space like itch.io that is inundated with thousands of really great indie games, all with some pretty great and complicated visual styles, why even try it? On the other hand Bitsy runs in the browser so...]]></summary>
-        <author>
-            <name>alienmelon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the difference between the internet, browsers, search engines and websites?]]></title>
-        <id>http://blog.mozilla.org/foxtail/2017/10/11/internet-search-engine-browser/</id>
-        <link href="https://blog.mozilla.org/en/internet-culture/mozilla-explains/internet-search-engine-browser/"/>
-        <updated>2021-06-17T18:32:09.000Z</updated>
-        <summary type="html"><![CDATA[Real talk: this web stuff can get confusing. And it’s really important that we all understand how it works, so we can be as informed and empowered as possible. Let’s start by breaking down the differences between the internet, browsers, search engines and websites. Lots of us get these four things confused with each other […]
-The post What is the difference between the internet, browsers, search engines and websites? appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Chelsea Novak</name>
         </author>
     </entry>
 </feed>

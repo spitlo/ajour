@@ -258,6 +258,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2503/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/memo_spike_connector.png\" title=\"Backward-compatible with many existing cables, and can connect directly to phones or tablets if you press them down hard enough.\" alt=\"Backward-compatible with many existing cables, and can connect directly to phones or tablets if you press them down hard enough.\" />",
+          "link": "https://xkcd.com/2503/",
+          "publishedOn": "2021-08-16T00:00:00.000Z",
+          "wordCount": 187,
+          "title": "Memo Spike Connector"
+        },
+        {
           "id": "https://xkcd.com/2502/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/every_data_table.png\" title=\"I'm hoping 2022 is relatively normal because I don't know what symbol comes after the asterisk and the dagger.\" alt=\"I'm hoping 2022 is relatively normal because I don't know what symbol comes after the asterisk and the dagger.\" />",
@@ -472,15 +481,6 @@
           "publishedOn": "2021-06-21T00:00:00.000Z",
           "wordCount": 183,
           "title": "Houseguests"
-        },
-        {
-          "id": "https://xkcd.com/2478/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/alien_visitors_2.png\" title=\"&quot;Although fresh juice DOES sound--&quot; &quot;NO! For humanity to survive we must learn from the mistakes of the past.&quot;\" alt=\"&quot;Although fresh juice DOES sound--&quot; &quot;NO! For humanity to survive we must learn from the mistakes of the past.&quot;\" />",
-          "link": "https://xkcd.com/2478/",
-          "publishedOn": "2021-06-18T00:00:00.000Z",
-          "wordCount": 187,
-          "title": "Alien Visitors 2"
         }
       ]
     },
@@ -596,24 +596,6 @@
           "publishedOn": "2021-06-21T00:00:00.000Z",
           "wordCount": 690,
           "title": "Light/Dark firefox theme switching [blog]"
-        },
-        {
-          "id": "modifying-autoincrements",
-          "author": null,
-          "description": "When using postgres locally for development, sometimes, if the production dataset is too large, I'll take a sample to work with locally.\nMore recently I've run into the problem that when I load new production data into tables with auto increment primary key columns, I'll get a conflict, i.e. I load some production data in locally, and then when the auto increment runs it'll hit a conflict - because my local sequences are completely out of sync with production.\nThe solution is to update my local sequence value. This is a two part process.\n1. Capture current values from production:\nSELECT last_value FROM public.<table>_<col>_seq;\n\nSo for something like user ids, this would be:\nSELECT last_value FROM public.user_id_seq;\n>>> 304\n\nIf this doesn't yield a result, then the sequence name is wrong, and it can be checked with the following query:\nSELECT pg_get_serial_sequence('user', 'id');\n\nNow armed with this value, in my example 304, the next part is to upload locally:\n2. Update sequences locally:\nALTER SEQUENCE <table>_<col>_seq RESTART WITH <next_value>;\n\nIt's important that I update to the next value, not the current value:\nALTER SEQUENCE user_id_seq RESTART WITH 305;\n\nNow when the next id for the user is loaded through an insert, the sequences are in sync.",
-          "link": "https://remysharp.com/til/data/modifying-autoincrements",
-          "publishedOn": "2021-06-18T08:10:17.000Z",
-          "wordCount": 346,
-          "title": "Modifying auto increments [til/data]"
-        },
-        {
-          "id": "fast-snapshot-and-restoring-for-postgres",
-          "author": null,
-          "description": "I've been using postgres a lot lately for projects, but when dealing with large dataset changes and testing, it's not a quick process to reset the state to start again.\nI stumbled upon stellar which appears to do exactly this job, but I had a couple of gotchas so figured I'd capture it here.",
-          "link": "https://remysharp.com/2021/06/18/fast-snapshot-and-restoring-for-postgres",
-          "publishedOn": "2021-06-18T00:00:00.000Z",
-          "wordCount": 500,
-          "title": "Fast snapshot and restoring for postgres [blog]"
         }
       ]
     },
@@ -929,15 +911,6 @@
           "publishedOn": "2021-06-18T16:00:00.000Z",
           "wordCount": 2691,
           "title": "Gary Linden, legendary surfer & Firefox fan"
-        },
-        {
-          "id": "http://blog.mozilla.org/foxtail/2017/10/11/internet-search-engine-browser/",
-          "author": "Chelsea Novak",
-          "description": "Real talk: this web stuff can get confusing. And it’s really important that we all understand how it works, so we can be as informed and empowered as possible. Let’s start by breaking down the differences between the internet, browsers, search engines and websites. Lots of us get these four things confused with each other […]\nThe post What is the difference between the internet, browsers, search engines and websites? appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/internet-culture/mozilla-explains/internet-search-engine-browser/",
-          "publishedOn": "2021-06-17T18:32:09.000Z",
-          "wordCount": 1214,
-          "title": "What is the difference between the internet, browsers, search engines and websites?"
         }
       ]
     },
@@ -989,6 +962,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2480",
+          "author": "Cory Doctorow",
+          "description": "Today's links Housing, money laundry, speculation and precarity: Henry George was an optimist. This day in history: 2001, 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Housing, money laundry, speculation and precarity (permalink) Something amazing is happening in Berlin. Next month, Berliners will vote in a referendum to force Germany's largest publicly traded landlords to sell 240,000 homes to the state, whereupon those homes will become publicly owned housing. https://www.ft.com/content/4a5fb5ed-00cf-4a70-8653-820f0c1ff757 Berlin is a rarity: a semi-autonomous city whose history is overshadowed by a half-century of heavy public spending (in the west) as part of a program to prove that capitalism was a system o…",
+          "link": "https://pluralistic.net/2021/08/16/die-miete-ist-zu-hoch/",
+          "publishedOn": "2021-08-16T17:36:46.000Z",
+          "wordCount": 2824,
+          "title": "Pluralistic: 16 Aug 2021"
+        },
         {
           "id": "https://pluralistic.net/?p=2472",
           "author": "Cory Doctorow",
@@ -1408,15 +1390,6 @@
           "publishedOn": "2021-06-23T01:28:15.000Z",
           "wordCount": 5697,
           "title": "My next game will be a horror game! (unpacking the horrors of social media, the violence of words, and the experiences it will be based on…)"
-        },
-        {
-          "id": "http://www.nathalielawhead.com/candybox/?p=5033",
-          "author": "alienmelon",
-          "description": "This post is all about Bitsy! I vividly remember the very first Bitsy game that I played. I don’t remember who it was by, or how to find it again… it’s lost in the sea of Bitsy games that came out since. I almost brushed it off because, judging by the first impression, Bitsy looks so easy to not think much of. In a space like itch.io that is inundated with thousands of really great indie games, all with some pretty great and complicated visual styles, why even try it? On the other hand Bitsy runs in the browser so...",
-          "link": "http://www.nathalielawhead.com/candybox/bitsy-is-beautiful-exploring-the-bitsy-space-and-some-of-my-favorite-bitsy-games",
-          "publishedOn": "2021-06-17T23:19:56.000Z",
-          "wordCount": 3756,
-          "title": "Bitsy is Beautiful! (exploring the Bitsy space and some of my favorite Bitsy games)"
         }
       ]
     }
