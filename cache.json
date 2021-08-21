@@ -94,29 +94,6 @@
           "publishedOn": "2021-06-30T21:45:02.000Z",
           "wordCount": 950,
           "title": "The unseen benefits of accessibility"
-        },
-        {
-          "id": "https://christianheilmann.com/?p=6835",
-          "author": "Chris Heilmann",
-          "description": "Last week my former colleague Si Jobling interviewed me for his Make life work podcast about working from home, in different time zones and how to optimise your workflow. This also tied in nicely with Tools and Tips to Optimize Your Workflow as a Developer class and I shared how this one got prepared and […]",
-          "link": "https://christianheilmann.com/2021/06/21/making-remote-work-podcast/",
-          "publishedOn": "2021-06-21T19:35:47.000Z",
-          "wordCount": 220,
-          "title": "Making remote work – Podcast",
-          "enclosure": {
-            "url": "https://media.blubrry.com/make_life/s/pinecast.com/listen/64375c1f-08ec-4fe6-96f6-65fd6647b1ca.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          }
-        },
-        {
-          "id": "https://christianheilmann.com/?p=6833",
-          "author": "Chris Heilmann",
-          "description": "I got a cold email asking me to write a blog post about “Seven things you can’t do in React” for exposure on a “leading technology blog”. I sent them my proposal, wish me luck… 1. Boil the perfect egg 2. Connect to your inner child 3. Reach that itchy part on your back 4. […]",
-          "link": "https://christianheilmann.com/2021/06/21/seven-things-you-cant-do-in-react/",
-          "publishedOn": "2021-06-21T16:18:19.000Z",
-          "wordCount": 229,
-          "title": "Seven things you can’t do in React…"
         }
       ]
     },
@@ -257,6 +234,15 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2505/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/news_story_reaction.png\" title=\"Unless the next line is, &quot;After we broke up, she blamed the painting and spent years planning her revenge, so my sorrow is mixed with relief that the dogs at least denied her that triumph.&quot;\" alt=\"Unless the next line is, &quot;After we broke up, she blamed the painting and spent years planning her revenge, so my sorrow is mixed with relief that the dogs at least denied her that triumph.&quot;\" />",
+          "link": "https://xkcd.com/2505/",
+          "publishedOn": "2021-08-20T00:00:00.000Z",
+          "wordCount": 187,
+          "title": "News Story Reaction"
+        },
         {
           "id": "https://xkcd.com/2504/",
           "author": null,
@@ -605,6 +591,24 @@
       "siteUrl": "https://rachelbythebay.com/w/",
       "articles": [
         {
+          "id": "https://rachelbythebay.com/w/2021/08/20/phones/",
+          "author": null,
+          "description": "I \nwrote\nthe other day about how I went out and bought a second cell \nphone just because I wanted it to take the burden of all of the crap my \nnew employer was about to throw at me.  I didn't get into the reasoning \nbehind this, or some of my experiences, and figured it's probably worth \nsome explanation.\n\n\nThis was far enough back in time to where we all still had desk \nphones, and assigned numbers that would ring in straight from the \noutside world, if you can believe it.  Mine never got any use, but it \nwas definitely there for the first couple of years.\n\n\nIn those times, things were relatively simple.  The most mixing of work \nand personal stuff you could do was using your work laptop for other \nstuff.  I did this, and I know now that it was stupid, but I will now \nexplain how it came …",
+          "link": "https://rachelbythebay.com/w/2021/08/20/phones/",
+          "publishedOn": "2021-08-20T21:16:15.000Z",
+          "wordCount": 1885,
+          "title": "Your devices and your employer"
+        },
+        {
+          "id": "https://rachelbythebay.com/w/2021/08/19/batt/",
+          "author": null,
+          "description": "I have a secondary phone which doesn't get a whole lot of use.  I bought \nit a couple of years ago before starting a full time employee gig with \nthe pink mustache factory.  I did this because my friends who were \nalready there advised me that the company did not supply phones but did \nexpect you to load a crapload of apps on to do your job.\n\n\nIt also meant that I could put it away at the end of the day and all \nwork-related stuff would stay out of sight and out of mind until the \nnext morning.\n\n\nSo, overall, I was surprised when it started being really belligerent \nabout battery statuses.  I would find it at the end of the day somewhere \ndown below 30% charge despite doing nothing but carrying it around in my \npurse all day.  Then, it would stay there at some low value for a very \nlong ti…",
+          "link": "https://rachelbythebay.com/w/2021/08/19/batt/",
+          "publishedOn": "2021-08-20T02:17:32.000Z",
+          "wordCount": 1076,
+          "title": "Sometimes it really is just a bad battery"
+        },
+        {
           "id": "https://rachelbythebay.com/w/2021/08/18/infra/",
           "author": null,
           "description": "A while back, I bought and installed a dash camera on my car.  I figured \nafter initially seeing tons of crazy Russian insurance scams thwarted by \nit, and then a bunch of crazy videos from the rest of the world, it was \nmy turn.  Then, over the weekend, it finally paid off by capturing video \nof something awful that happened to me.\n\n\nMy assumption is that the Phoenix-Vegas traffic makes things really \ncrappy, hence the added enforcement and whatnot.  I figured, okay, I'll \nset the cruise control exactly at the 75 mph limit and just leave it \nthere until I'm well past this area.  At least it's going to be \nwell-maintained, well-lit, and all of that, right?  Safety corridor?\nSurely that means they also maintain it better, since they enforce much \nmore strenuously?\n\n\nIt was just a single sou…",
@@ -751,15 +755,6 @@
           "publishedOn": "2021-07-19T14:24:16.000Z",
           "wordCount": 2893,
           "title": "How To Learn Stuff Quickly"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/react/demystifying-styled-components/",
-          "author": "Josh W. Comeau",
-          "description": "For so many React devs, styled-components seems kinda magical. It isn't at all clear how it uses traditional CSS features under-the-hood, and that lack of clarity can cause real problems when things go awry. In this post, we'll learn exactly how styled-components works by building our own mini-version.",
-          "link": "https://www.joshwcomeau.com/react/demystifying-styled-components/",
-          "publishedOn": "2021-06-21T14:13:12.000Z",
-          "wordCount": 2758,
-          "title": "Demystifying styled-components"
         }
       ]
     },
@@ -768,6 +763,15 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=66855",
+          "author": "Damiano",
+          "description": "At Mozilla, we believe part of making the internet we want is celebrating the best of the internet, and that can be as simple as sharing a tweet that made us pause in our feed. Twitter isn’t perfect, but there are individual tweets that come pretty close. Each week in Top Shelf, we will be […]\nThe post Cybersecurity, Facebook data, OnlyFans update and more are on this week’s Top Shelf appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/internet-culture/best-tweets-august-16-cybersecurity-facebook-data-onlyfans/",
+          "publishedOn": "2021-08-20T22:22:18.000Z",
+          "wordCount": 1167,
+          "title": "Cybersecurity, Facebook data, OnlyFans update and more are on this week’s Top Shelf"
+        },
         {
           "id": "https://blog.mozilla.org/?p=66812",
           "author": "Damiano",
@@ -1360,20 +1364,6 @@
           "publishedOn": "2021-06-22T16:37:35.000Z",
           "wordCount": 2939,
           "title": "Pluralistic: 22 Jun 2021"
-        },
-        {
-          "id": "https://pluralistic.net/?p=2309",
-          "author": "Cory Doctorow",
-          "description": "Today's links Podcasting \"Inside the Clock Tower\": Reading my Consumer Reports story about an interoperable future. This day in history: 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Podcasting \"Inside the Clock Tower\" (permalink) Today on my podcast, I read \"Inside the Clock Tower,\" a short science fiction story for Consumer Reports that depicts a future of interoperable social media (as contemplated by the recently introduced ACCESS Act). https://digital-lab.consumerreports.org/2021/06/15/inside-the-clock-tower/ The ACCESS Act would require large social media platforms to create gateways (APIs) that new services could plug into, so that users who quit the monopoly services would still be able to talk to the friends, custo…",
-          "link": "https://pluralistic.net/2021/06/21/interop-fables/",
-          "publishedOn": "2021-06-21T14:56:27.000Z",
-          "wordCount": 1455,
-          "title": "Pluralistic: 21 Jun 2021",
-          "enclosure": {
-            "url": "https://ia801409.us.archive.org/21/items/Cory_Doctorow_Podcast_394/Cory_Doctorow_Podcast_393_-_Inside_The_Clock_Tower.mp3",
-            "length": "16277504",
-            "type": "audio/mpeg"
-          }
         }
       ]
     },
