@@ -262,6 +262,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2508/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/circumappendiceal_somectomy.png\" title=\"Some personal news: After treating my first case a few years ago with antibiotics, I can report that I have now had appendicitis for the second and--unless something extremely unexpected happened with the surgery--final time.\" alt=\"Some personal news: After treating my first case a few years ago with antibiotics, I can report that I have now had appendicitis for the second and--unless something extremely unexpected happened with the surgery--final time.\" />",
+          "link": "https://xkcd.com/2508/",
+          "publishedOn": "2021-08-27T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Circumappendiceal Somectomy"
+        },
+        {
           "id": "https://xkcd.com/2507/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/usv_c.png\" title=\"Ultra-Serial Violet C light is unpolarized, so you don't have to flip the polarizing filter over when you get the orientation wrong the first time.\" alt=\"Ultra-Serial Violet C light is unpolarized, so you don't have to flip the polarizing filter over when you get the orientation wrong the first time.\" />",
@@ -582,15 +591,6 @@
           "publishedOn": "2021-07-01T00:00:00.000Z",
           "wordCount": 922,
           "title": "Me & Tinnitus: entry 1 [blog]"
-        },
-        {
-          "id": "2021-06-29-2fe8bda4",
-          "author": null,
-          "description": "A great collection of tools similar to my own \"CLI improved\" post a few years back and includes some tools I use daily already (including jq, bat, fd and fzf).\nThere's some nice additions but the trick is to use them for local tooling and not for shared tools or workflows as it's less likely someone else will have a tool like sd installed.\nThe dog and xh look particularly interesting to me.\nSource: github.com",
-          "link": "https://remysharp.com/links/2021-06-29-2fe8bda4",
-          "publishedOn": "2021-06-29T09:40:59.000Z",
-          "wordCount": 234,
-          "title": "A collection of modern/faster alternatives to common unix commands [link]"
         }
       ]
     },
@@ -1417,20 +1417,6 @@
           "publishedOn": "2021-06-29T14:06:10.000Z",
           "wordCount": 2317,
           "title": "Pluralistic: 29 Jun 2021"
-        },
-        {
-          "id": "https://pluralistic.net/?p=2335",
-          "author": "Cory Doctorow",
-          "description": "Today's links Podcasting \"Qualia\": My column on quant-bias, antitrust, drug policy and epidemiology. Lazy Congress only schedules 9 days' work this summer: We're not paying you to party on donors' yachts. This day in history: 2006, 2011, 2016 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Podcasting \"Qualia\" (permalink) This week on my podcast, I read \"Qualia,\" my May, 2021 Locus Magazine column about quantitative bias, epidemiology, antitrust and drug policy. It's a timely piece, given the six historic antitrust laws that passed the House Judiciary Committee last week: https://doctorow.medium.com/moral-hazard-and-monopoly-42e30eb159a8 The pandemic delivered some hard lessons about quantitative bias – that's when you pay attention to t…",
-          "link": "https://pluralistic.net/2021/06/28/dubious-quant-residue/",
-          "publishedOn": "2021-06-28T15:43:43.000Z",
-          "wordCount": 2983,
-          "title": "Pluralistic: 28 Jun 2021",
-          "enclosure": {
-            "url": "https://archive.org/download/Cory_Doctorow_Podcast_395/Cory_Doctorow_Podcast_395_-_Qualia.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          }
         }
       ]
     },
