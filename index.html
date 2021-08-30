@@ -16,9 +16,9 @@
     <meta name="robots" content="noindex, nofollow">
     <link rel="preload" as="font" type="font/woff2" href="https://spitlo.com/fonts/GangsterGrotesk-Bold.woff2" crossorigin="anonymous">
     <link rel="preload" as="font" type="font/woff2" href="https://spitlo.com/fonts/VictorMono-Thin.woff2" crossorigin="anonymous">
-    <link rel="icon" type="image/svg+xml" href="https://spitlo.com/images/favicon.svg?2021-08-29T00:16:30.711Z">
+    <link rel="icon" type="image/svg+xml" href="https://spitlo.com/images/favicon.svg?2021-08-30T00:16:05.170Z">
     <link rel="alternate" type="application/rss+xml" title="Ajour / Spitlo.com" href="feed.atom">
-    <link href="https://spitlo.com/style.css?2021-08-29T00:16:30.711Z" rel="stylesheet">
+    <link href="https://spitlo.com/style.css?2021-08-30T00:16:05.170Z" rel="stylesheet">
 
     <style>
       body { font-size: 14px; }
@@ -52,6 +52,35 @@
           Visit <a target="_blank" rel="noopener noreferrer" href="https://github.com/osmoscraft/osmosfeed">osmos::feed</a> for more info or to make your own custom feed reader.
         </p>
 
+          <section class="daily-content">
+            <h2 class="daily-heading"><time datatime="2021-08-29">2021-08-29</time></h2>
+                <article data-source="Writing - rachelbythebay" data-rtime="6">
+                  <h3><a target="_blank" rel="noopener noreferrer" href=https://rachelbythebay.com/w/2021/08/28/big/>Big company tale: six months for a list and a button</a></h3>
+                  <ul class="meta">
+                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://rachelbythebay.com/w/>Writing - rachelbythebay</a></li>
+                    <li><span class="label">Date:</span> <time datetime="2021-08-29T06:37:52.000Z">2021-08-29</time></li>
+                    <li><span class="label">Reading time:</span> <time>6 min</time></li>
+                    <li><span class="label">Words</span> <time>1672</time></li>
+                  </ul>
+                  <p>One of the projects I did at a big company once upon a time was evolving 
+organically, and we eventually realized we needed a &quot;dashboard&quot; of 
+sorts.  That is, we wanted an internally-hosted page that would let 
+anyone load it up and see what was going on with the service.  It was 
+intended to be simple: ping our server, ask for the status, and then 
+render the response into a simple list.  Later on, we knew we were going 
+to want to add the ability to send a &quot;panic&quot; signal to our server from 
+this page, so that anyone in the company could hit the &quot;big red button&quot; 
+if things went haywire.
+
+
+January 1: we put up a terrible hack: a shell script that runs a 
+Python script that talks to the service to get the status and then 
+dumps out raw HTML to a file in someone&#x27;s public_html path.  
+
+
+Janua…</p>
+                </article>
+          </section>
           <section class="daily-content">
             <h2 class="daily-heading"><time datatime="2021-08-28">2021-08-28</time></h2>
                 <article data-source="Pluralistic: Daily links from Cory Doctorow" data-rtime="9">
@@ -1828,89 +1857,11 @@ Using HEAD^^ or HEAD^2 means &quot;two commits before the head of the branch&quo
 It might seem counterintuitive to start the process of receiving feedback with a question, but that makes sense if we realize that getting feedback can be thought of as a form of design research. In the same way that we wouldn’t do any research without the right questions to get the insights that we need, the best way to ask for feedback is also to craft sharp questions.
 Design critique is not a one-shot process. Sure, any good feedback workflow continues until the project is finished, but this is particularly true for design because design wor…</p>
                 </article>
-                <article data-source="The Candybox Blog" data-rtime="14">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=http://www.nathalielawhead.com/candybox/if-cosbys-trial-were-game-industry-twitter-discourse>If Cosby’s trial were Game Industry Twitter Discourse™…</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=http://www.nathalielawhead.com/candybox>The Candybox Blog</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2021-07-01T00:06:15.000Z">2021-07-01</time></li>
-                    <li><span class="label">Reading time:</span> <time>14 min</time></li>
-                    <li><span class="label">Words</span> <time>4055</time></li>
-                  </ul>
-                  <p>This post is a rant because, despite all the things my blog has become known for… it is still my personal blog where I talk about how I am doing. Today I’m angry and need to vent. Alternative title: Need to vent. Might delete later. Just days ago my Twitter timeline was blowing up with news of Near’s death. It’s a very difficult and heartbreaking story. I don’t really want to say much about this loss other than it is a tremendous loss. I’ll share the two tweets, but please look up this person’s contributions too. This post is not...</p>
-                </article>
-                <article data-source="Hundred Rabbits" data-rtime="17">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://100r.co/site/log.html#june2021>Summary of changes for June</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://100r.co>Hundred Rabbits</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2021-07-01T00:00:00.000Z">2021-07-01</time></li>
-                    <li><span class="label">Reading time:</span> <time>17 min</time></li>
-                    <li><span class="label">Words</span> <time>5230</time></li>
-                  </ul>
-                  <p>Hey everyone! This is the list of all the changes we&#x27;ve done to our projects and apps during the month of June. We&#x27;ll also be reporting in our on position in the world, and on our future plans.
-Summary Of Changes
-Nasu, released a nasu guide, and updated the look of the icon. We have also discontinued the old javascript version.
-Uxn, released an uxn guide.
-Orca, working on the Uxn port.
-Niju, started work on sprites. Implemented hover states.
-Noodle, made Noodle responsive for small screens and added highlight to save state
-News
-Pino and crew spent the first half of the month in the boatyard. We splashed back into the water on the 14th and moved to North Saanich to have access to a workshop with the goal of completing our dry toilet. We are documenting the entire installation, with plans to update the page when we begin to use it. We are ALMOST done with this project.
-We started working on Niju, a hiragana/katakana review application. We used this project to test our the latest iteration of Nasu so we could finalize the documentation.
-On June 26 2021, Devine met up with the London SF reading group to talk about solarpunk, see their notes. On July 10th UTC 20:00, Devine will also perform with  Orca for flash crash.
-See Uxn running on the ESP32. It is TOO adorable!
-Pino book club
-We&#x27;re reading Nature as Measure by Wes Jackson, The Strange Last Voyage of Donald Crowhurst by Nicholas Tomalin and Ron Hall and Labyrinths by Jorge Luis Borges.
-Pino&#x27;s location: 48° 40.768&#x27;N, 123° 24.802&#x27;W
-Continue Reading</p>
-                </article>
-                <article data-source="remy sharp&#x27;s b:log" data-rtime="3">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://remysharp.com/2021/07/01/me-and-tinnitus-entry-1>Me &amp; Tinnitus: entry 1 [blog]</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://remysharp.com>remy sharp&#x27;s b:log</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2021-07-01T00:00:00.000Z">2021-07-01</time></li>
-                    <li><span class="label">Reading time:</span> <time>3 min</time></li>
-                    <li><span class="label">Words</span> <time>922</time></li>
-                  </ul>
-                  <p>I&#x27;ve set my foot on the first part of a journey that I&#x27;m not sure where it&#x27;ll lead, but I do know that it&#x27;s going to be emotional so this is the place I&#x27;ll be putting those experiences.</p>
-                </article>
-          </section>
-          <section class="daily-content">
-            <h2 class="daily-heading"><time datatime="2021-06-30">2021-06-30</time></h2>
-                <article data-source="Christian Heilmann" data-rtime="3">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://christianheilmann.com/2021/06/30/the-unseen-benefits-of-accessibility/>The unseen benefits of accessibility</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://christianheilmann.com>Christian Heilmann</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2021-06-30T21:45:02.000Z">2021-06-30</time></li>
-                    <li><span class="label">Reading time:</span> <time>3 min</time></li>
-                    <li><span class="label">Words</span> <time>950</time></li>
-                  </ul>
-                  <p>A few days ago I posted a graph I found some time ago that jokingly explained the benefits of subtitles in movies and tweeted about it. Good #a11y features are beneficial for lots of people. pic.twitter.com/2RMnTzseey— Chris Heilmann (@codepo8) June 28, 2021 The tweet went wild and so far has 35 answers, 290 retweets, 1,500 […]</p>
-                </article>
-                <article data-source="Pluralistic: Daily links from Cory Doctorow" data-rtime="9">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://pluralistic.net/2021/06/30/based/>Pluralistic: 30 Jun 2021</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://pluralistic.net>Pluralistic: Daily links from Cory Doctorow</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2021-06-30T17:07:19.000Z">2021-06-30</time></li>
-                    <li><span class="label">Reading time:</span> <time>9 min</time></li>
-                    <li><span class="label">Words</span> <time>2784</time></li>
-                  </ul>
-                  <p>Today&#x27;s links Corruption: Concentrated gains, diffused losses. This day in history: 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Corruption (permalink) &quot;Corruption&quot; conjures images of bags of cash changing hands in deserted parking garages, but I&#x27;d like to propose a simple and concrete definition that goes beyond that: &quot;Corruption&quot; is when something bad happens because its harms are diffused and its gains are concentrated. Here&#x27;s what I mean. West Virginia is known as coal country, but coal is actually a small, dwindling industry in WV; WV&#x27;s biggest industry is chemical processing, dominated by Dow – chem processing, like many industries, is heavily concentrated into a few global monopolies. WV has a water crisis, wi…</p>
-                </article>
-                <article data-source="Emily Short&#x27;s Interactive Storytelling" data-rtime="5">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://emshort.blog/2021/06/30/end-of-june-link-assortment-6/>End of June Link Assortment</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://emshort.blog>Emily Short&#x27;s Interactive Storytelling</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2021-06-30T17:05:12.000Z">2021-06-30</time></li>
-                    <li><span class="label">Reading time:</span> <time>5 min</time></li>
-                    <li><span class="label">Words</span> <time>1448</time></li>
-                  </ul>
-                  <p>Events July 3 is the next SF Bay Area IF Meetup. ParserComp closes for new entrants very very soon, and the games will be available to play and judge throughout July – so if you’d like to try some piping hot new text adventures, they’ll be available shortly. (If you’re curious about the how and … Continue reading &quot;End of June Link Assortment&quot;</p>
-                </article>
           </section>
 
         <footer>
           <section class="details">
-            <span class="detail">Built @ 2021-08-29T00:16:30.711Z</span>
+            <span class="detail">Built @ 2021-08-30T00:16:05.170Z</span>
             <span class="divider">|</span>
             <span class="detail">CLI: 1.10.2</span>
             <span class="divider">|</span>

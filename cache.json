@@ -103,15 +103,6 @@
           "publishedOn": "2021-07-15T20:39:24.000Z",
           "wordCount": 1201,
           "title": "How many happy users did your product have this month?"
-        },
-        {
-          "id": "https://christianheilmann.com/?p=6839",
-          "author": "Chris Heilmann",
-          "description": "A few days ago I posted a graph I found some time ago that jokingly explained the benefits of subtitles in movies and tweeted about it. Good #a11y features are beneficial for lots of people. pic.twitter.com/2RMnTzseey— Chris Heilmann (@codepo8) June 28, 2021 The tweet went wild and so far has 35 answers, 290 retweets, 1,500 […]",
-          "link": "https://christianheilmann.com/2021/06/30/the-unseen-benefits-of-accessibility/",
-          "publishedOn": "2021-06-30T21:45:02.000Z",
-          "wordCount": 950,
-          "title": "The unseen benefits of accessibility"
         }
       ]
     },
@@ -137,15 +128,6 @@
           "publishedOn": "2021-07-28T00:00:00.000Z",
           "wordCount": 1902,
           "title": "Dry Toilet Installation"
-        },
-        {
-          "id": "log.html#june2021",
-          "author": "Rekka Bellum",
-          "description": "Hey everyone! This is the list of all the changes we've done to our projects and apps during the month of June. We'll also be reporting in our on position in the world, and on our future plans.\nSummary Of Changes\nNasu, released a nasu guide, and updated the look of the icon. We have also discontinued the old javascript version.\nUxn, released an uxn guide.\nOrca, working on the Uxn port.\nNiju, started work on sprites. Implemented hover states.\nNoodle, made Noodle responsive for small screens and added highlight to save state\nNews\nPino and crew spent the first half of the month in the boatyard. We splashed back into the water on the 14th and moved to North Saanich to have access to a workshop with the goal of completing our dry toilet. We are documenting the entire installation, with plans to update the page when we begin to use it. We are ALMOST done with this project.\nWe started working on Niju, a hiragana/katakana review application. We used this project to test our the latest iteration of Nasu so we could finalize the documentation.\nOn June 26 2021, Devine met up with the London SF reading group to talk about solarpunk, see their notes. On July 10th UTC 20:00, Devine will also perform with  Orca for flash crash.\nSee Uxn running on the ESP32. It is TOO adorable!\nPino book club\nWe're reading Nature as Measure by Wes Jackson, The Strange Last Voyage of Donald Crowhurst by Nicholas Tomalin and Ron Hall and Labyrinths by Jorge Luis Borges.\nPino's location: 48° 40.768'N, 123° 24.802'W\nContinue Reading",
-          "link": "https://100r.co/site/log.html#june2021",
-          "publishedOn": "2021-07-01T00:00:00.000Z",
-          "wordCount": 5230,
-          "title": "Summary of changes for June"
         }
       ]
     },
@@ -244,15 +226,6 @@
           "publishedOn": "2021-07-15T20:59:00.000Z",
           "wordCount": 1885,
           "title": "Mid-July Link Assortment"
-        },
-        {
-          "id": "http://emshort.blog/?p=41980",
-          "author": "Emily Short",
-          "description": "Events July 3 is the next SF Bay Area IF Meetup. ParserComp closes for new entrants very very soon, and the games will be available to play and judge throughout July – so if you’d like to try some piping hot new text adventures, they’ll be available shortly. (If you’re curious about the how and … Continue reading \"End of June Link Assortment\"",
-          "link": "https://emshort.blog/2021/06/30/end-of-june-link-assortment-6/",
-          "publishedOn": "2021-06-30T17:05:12.000Z",
-          "wordCount": 1448,
-          "title": "End of June Link Assortment"
         }
       ]
     },
@@ -573,15 +546,6 @@
           "publishedOn": "2021-07-02T09:51:37.000Z",
           "wordCount": 289,
           "title": "Extracting previous copy from github [til/cli]"
-        },
-        {
-          "id": "me-and-tinnitus-entry-1",
-          "author": null,
-          "description": "I've set my foot on the first part of a journey that I'm not sure where it'll lead, but I do know that it's going to be emotional so this is the place I'll be putting those experiences.",
-          "link": "https://remysharp.com/2021/07/01/me-and-tinnitus-entry-1",
-          "publishedOn": "2021-07-01T00:00:00.000Z",
-          "wordCount": 922,
-          "title": "Me & Tinnitus: entry 1 [blog]"
         }
       ]
     },
@@ -590,6 +554,15 @@
       "feedUrl": "https://rachelbythebay.com/w/atom.xml",
       "siteUrl": "https://rachelbythebay.com/w/",
       "articles": [
+        {
+          "id": "https://rachelbythebay.com/w/2021/08/28/big/",
+          "author": null,
+          "description": "One of the projects I did at a big company once upon a time was evolving \norganically, and we eventually realized we needed a \"dashboard\" of \nsorts.  That is, we wanted an internally-hosted page that would let \nanyone load it up and see what was going on with the service.  It was \nintended to be simple: ping our server, ask for the status, and then \nrender the response into a simple list.  Later on, we knew we were going \nto want to add the ability to send a \"panic\" signal to our server from \nthis page, so that anyone in the company could hit the \"big red button\" \nif things went haywire.\n\n\nJanuary 1: we put up a terrible hack: a shell script that runs a \nPython script that talks to the service to get the status and then \ndumps out raw HTML to a file in someone's public_html path.  \n\n\nJanua…",
+          "link": "https://rachelbythebay.com/w/2021/08/28/big/",
+          "publishedOn": "2021-08-29T06:37:52.000Z",
+          "wordCount": 1672,
+          "title": "Big company tale: six months for a list and a button"
+        },
         {
           "id": "https://rachelbythebay.com/w/2021/08/23/shield/",
           "author": null,
@@ -1399,15 +1372,6 @@
           "publishedOn": "2021-07-01T15:40:27.000Z",
           "wordCount": 2313,
           "title": "Pluralistic: 01 Jul 2021"
-        },
-        {
-          "id": "https://pluralistic.net/?p=2343",
-          "author": "Cory Doctorow",
-          "description": "Today's links Corruption: Concentrated gains, diffused losses. This day in history: 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Corruption (permalink) \"Corruption\" conjures images of bags of cash changing hands in deserted parking garages, but I'd like to propose a simple and concrete definition that goes beyond that: \"Corruption\" is when something bad happens because its harms are diffused and its gains are concentrated. Here's what I mean. West Virginia is known as coal country, but coal is actually a small, dwindling industry in WV; WV's biggest industry is chemical processing, dominated by Dow – chem processing, like many industries, is heavily concentrated into a few global monopolies. WV has a water crisis, wi…",
-          "link": "https://pluralistic.net/2021/06/30/based/",
-          "publishedOn": "2021-06-30T17:07:19.000Z",
-          "wordCount": 2784,
-          "title": "Pluralistic: 30 Jun 2021"
         }
       ]
     },
@@ -1442,15 +1406,6 @@
           "publishedOn": "2021-07-24T00:11:20.000Z",
           "wordCount": 3586,
           "title": "The Machine That Eats People"
-        },
-        {
-          "id": "http://www.nathalielawhead.com/candybox/?p=5055",
-          "author": "alienmelon",
-          "description": "This post is a rant because, despite all the things my blog has become known for… it is still my personal blog where I talk about how I am doing. Today I’m angry and need to vent. Alternative title: Need to vent. Might delete later. Just days ago my Twitter timeline was blowing up with news of Near’s death. It’s a very difficult and heartbreaking story. I don’t really want to say much about this loss other than it is a tremendous loss. I’ll share the two tweets, but please look up this person’s contributions too. This post is not...",
-          "link": "http://www.nathalielawhead.com/candybox/if-cosbys-trial-were-game-industry-twitter-discourse",
-          "publishedOn": "2021-07-01T00:06:15.000Z",
-          "wordCount": 4055,
-          "title": "If Cosby’s trial were Game Industry Twitter Discourse™…"
         }
       ]
     }
