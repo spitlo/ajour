@@ -573,15 +573,6 @@
           "publishedOn": "2021-07-05T00:00:00.000Z",
           "wordCount": 413,
           "title": "Marbles2 - 5-Jul 2021 [devlog/marbles2]"
-        },
-        {
-          "id": "broad-band-the-untold-story-of-the-women-who-made-the-internet",
-          "author": null,
-          "description": "A real kind of urgency and excitement in their writing. Superb.\nA refreshing lesson in the history of the internet, primarily focused on the US (with a decent hat tip to Dame Wendy Hall) but really well written.\nA recommendation by Jeremy Keith tipped this from my \"to read\" list into my brain and it was one of the easier non-fiction books I've read, purely down to Evens' writing style.\nHighly recommend if you're working on the web or interested in modern computing history.",
-          "link": "https://remysharp.com/books/2021/broad-band-the-untold-story-of-the-women-who-made-the-internet",
-          "publishedOn": "2021-07-04T00:00:00.000Z",
-          "wordCount": 257,
-          "title": "Broad Band: The Untold Story of the Women Who Made the Internet [book]"
         }
       ]
     },
@@ -590,6 +581,15 @@
       "feedUrl": "https://rachelbythebay.com/w/atom.xml",
       "siteUrl": "https://rachelbythebay.com/w/",
       "articles": [
+        {
+          "id": "https://rachelbythebay.com/w/2021/09/01/dash/",
+          "author": null,
+          "description": "Over the weekend, I wrote a\npost\nabout a big company project that dragged on for six months.  It elicited \na bunch of responses in the usual places, but two or three of them were \na little... off.  I figured I'd handle all of them at once right here.\n\n\nI bet there was something that came up in the meeting where I said \nsomething like \"you should be able to talk to our server right now but \ngive it a try and let us know if you can't\".  This meant that our RPC \ndefinitions were checked into source control like you'd expect, our \nservice was already running in production (and NOT on someone's dev \nmachine), and it had a well-defined service name.  This means anyone who \nknew how to talk the company's flavor of RPC could totally send it a \nrequest and get something back given just a little yak…",
+          "link": "https://rachelbythebay.com/w/2021/09/01/dash/",
+          "publishedOn": "2021-09-01T22:31:43.000Z",
+          "wordCount": 1037,
+          "title": "Followup on the dashboard story"
+        },
         {
           "id": "https://rachelbythebay.com/w/2021/08/28/big/",
           "author": null,
@@ -798,6 +798,15 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=67228",
+          "author": "Mozilla",
+          "description": "Today, Mozilla published an independent security audit of its Mozilla VPN, which provides encryption and device-level protection of your connection and information when you are on the Web, from Cure53, an unbiased cybersecurity firm based in Berlin with more than 15 years of running software testing and code auditing. Mozilla periodically works with third-party organizations […]\nThe post Mozilla VPN Completes Independent Security Audit by Cure53 appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53/",
+          "publishedOn": "2021-09-01T16:10:01.000Z",
+          "wordCount": 955,
+          "title": "Mozilla VPN Completes Independent Security Audit by Cure53"
+        },
         {
           "id": "https://blog.mozilla.org/?p=66868",
           "author": "Elise Blanchard",
@@ -1055,6 +1064,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2563",
+          "author": "Cory Doctorow",
+          "description": "Today's links Eviction is over (if we want it): The Big Bag of Money Method. This day in history: 2001, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Eviction is over (if we want it) (permalink) Now that the illegitimate, undemocratic Supremes have voided the CDC eviction ban, and now that the cowardly Dems who control House, Senate and Oval Office have declined to pass an eviction ban bill, millions of Americans teeter on the brink of homelessness. As we look at this looming crisis, which will increase the spread of covid, kill more Americans, and put a generations-long stamp of trauma on the people who lose their homes, we're asked to side with either renters or landlords. But that's a false dichotomy. Americans owe $12-14b to …",
+          "link": "https://pluralistic.net/2021/09/01/learned-helplessness/",
+          "publishedOn": "2021-09-01T16:41:46.000Z",
+          "wordCount": 1800,
+          "title": "Pluralistic: 01 Sep 2021"
+        },
         {
           "id": "https://pluralistic.net/?p=2559",
           "author": "Cory Doctorow",
@@ -1422,15 +1440,6 @@
             "length": "0",
             "type": "audio/mpeg"
           }
-        },
-        {
-          "id": "https://pluralistic.net/?p=2355",
-          "author": "Cory Doctorow",
-          "description": "Today's links The future is symmetrical: Broadband netizens vs asymmetrical mouse-potatoes. This day in history: 2006, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The future is symmetrical (permalink) When Mitch Kapor articulated the principle that \"architecture is politics\" at the founding of EFF, he was charging technologists with the moral duty to contemplate the kinds of social interactions their technological decisions would facilitate – and prohibit. At question was nothing less than the character of the networked society. Would the vast, pluripotent, general purpose, interconnected network serve as a glorified video-on-demand service, the world's greatest pornography distribution system, a giant high-tech mall? Or …",
-          "link": "https://pluralistic.net/2021/07/03/beautiful-symmetry/",
-          "publishedOn": "2021-07-03T18:33:44.000Z",
-          "wordCount": 2335,
-          "title": "Pluralistic: 03 Jul 2021"
         }
       ]
     },

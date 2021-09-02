@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-09-01T00:16:01.163Z</updated>
+    <updated>2021-09-02T00:16:41.084Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Followup on the dashboard story]]></title>
+        <id>https://rachelbythebay.com/w/2021/09/01/dash/</id>
+        <link href="https://rachelbythebay.com/w/2021/09/01/dash/"/>
+        <updated>2021-09-01T22:31:43.000Z</updated>
+        <summary type="html"><![CDATA[Over the weekend, I wrote a
+post
+about a big company project that dragged on for six months.  It elicited 
+a bunch of responses in the usual places, but two or three of them were 
+a little... off.  I figured I'd handle all of them at once right here.
+
+
+I bet there was something that came up in the meeting where I said 
+something like "you should be able to talk to our server right now but 
+give it a try and let us know if you can't".  This meant that our RPC 
+definitions were checked into source control like you'd expect, our 
+service was already running in production (and NOT on someone's dev 
+machine), and it had a well-defined service name.  This means anyone who 
+knew how to talk the company's flavor of RPC could totally send it a 
+request and get something back given just a little yak…]]></summary>
+        <author>
+            <name>Writing - rachelbythebay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: 01 Sep 2021]]></title>
+        <id>https://pluralistic.net/?p=2563</id>
+        <link href="https://pluralistic.net/2021/09/01/learned-helplessness/"/>
+        <updated>2021-09-01T16:41:46.000Z</updated>
+        <summary type="html"><![CDATA[Today's links Eviction is over (if we want it): The Big Bag of Money Method. This day in history: 2001, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Eviction is over (if we want it) (permalink) Now that the illegitimate, undemocratic Supremes have voided the CDC eviction ban, and now that the cowardly Dems who control House, Senate and Oval Office have declined to pass an eviction ban bill, millions of Americans teeter on the brink of homelessness. As we look at this looming crisis, which will increase the spread of covid, kill more Americans, and put a generations-long stamp of trauma on the people who lose their homes, we're asked to side with either renters or landlords. But that's a false dichotomy. Americans owe $12-14b to …]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla VPN Completes Independent Security Audit by Cure53]]></title>
+        <id>https://blog.mozilla.org/?p=67228</id>
+        <link href="https://blog.mozilla.org/en/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53/"/>
+        <updated>2021-09-01T16:10:01.000Z</updated>
+        <summary type="html"><![CDATA[Today, Mozilla published an independent security audit of its Mozilla VPN, which provides encryption and device-level protection of your connection and information when you are on the Web, from Cure53, an unbiased cybersecurity firm based in Berlin with more than 15 years of running software testing and code auditing. Mozilla periodically works with third-party organizations […]
+The post Mozilla VPN Completes Independent Security Audit by Cure53 appeared first on The Mozilla Blog.]]></summary>
+        <author>
+            <name>Mozilla</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An Interactive Guide to Keyframe Animations]]></title>
         <id>https://www.joshwcomeau.com/animation/keyframe-animations/</id>
@@ -1703,29 +1748,6 @@ In lieu of the release, I've been looking back at the original version I wrote i
 Once the game is live for the Spectrum I'll release the web version and if I planned the code right, we'll all be able to contribute to the high score leader board!]]></summary>
         <author>
             <name>remy sharp's b:log</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Broad Band: The Untold Story of the Women Who Made the Internet [book]]]></title>
-        <id>broad-band-the-untold-story-of-the-women-who-made-the-internet</id>
-        <link href="https://remysharp.com/books/2021/broad-band-the-untold-story-of-the-women-who-made-the-internet"/>
-        <updated>2021-07-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A real kind of urgency and excitement in their writing. Superb.
-A refreshing lesson in the history of the internet, primarily focused on the US (with a decent hat tip to Dame Wendy Hall) but really well written.
-A recommendation by Jeremy Keith tipped this from my "to read" list into my brain and it was one of the easier non-fiction books I've read, purely down to Evens' writing style.
-Highly recommend if you're working on the web or interested in modern computing history.]]></summary>
-        <author>
-            <name>remy sharp's b:log</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 03 Jul 2021]]></title>
-        <id>https://pluralistic.net/?p=2355</id>
-        <link href="https://pluralistic.net/2021/07/03/beautiful-symmetry/"/>
-        <updated>2021-07-03T18:33:44.000Z</updated>
-        <summary type="html"><![CDATA[Today's links The future is symmetrical: Broadband netizens vs asymmetrical mouse-potatoes. This day in history: 2006, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The future is symmetrical (permalink) When Mitch Kapor articulated the principle that "architecture is politics" at the founding of EFF, he was charging technologists with the moral duty to contemplate the kinds of social interactions their technological decisions would facilitate – and prohibit. At question was nothing less than the character of the networked society. Would the vast, pluripotent, general purpose, interconnected network serve as a glorified video-on-demand service, the world's greatest pornography distribution system, a giant high-tech mall? Or …]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
         </author>
     </entry>
 </feed>
