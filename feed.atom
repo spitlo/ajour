@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-09-02T00:16:41.084Z</updated>
+    <updated>2021-09-03T00:15:03.441Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MIDI controller to PS/2 - part 1 [blog]]]></title>
+        <id>midi-controller-to-ps2-part-1</id>
+        <link href="https://remysharp.com/2021/09/02/midi-controller-to-ps2-part-1"/>
+        <updated>2021-09-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A little while back I saw a technical demo that used the shell of MIDI controller and inserted a PS/2 keyboard (effectively) under the keys to then control a program on the ZX Spectrum Next.
+This prompted me to buy a MIDI controller but I didn't want to gut out the new hardware. So instead I found a way to map the USB MIDI to the PS/2 key presses, allowing me to use the piano keyboard on the retro hardware.]]></summary>
+        <author>
+            <name>remy sharp's b:log</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Followup on the dashboard story]]></title>
         <id>https://rachelbythebay.com/w/2021/09/01/dash/</id>
@@ -49,6 +60,16 @@ request and get something back given just a little yak…]]></summary>
 The post Mozilla VPN Completes Independent Security Audit by Cure53 appeared first on The Mozilla Blog.]]></summary>
         <author>
             <name>Mozilla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern Tools]]></title>
+        <id>https://xkcd.com/2510/</id>
+        <link href="https://xkcd.com/2510/"/>
+        <updated>2021-09-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/modern_tools.png" title="I tried to train an AI to repair my Python environment but it kept giving up and deleting itself." alt="I tried to train an AI to repair my Python environment but it kept giving up and deleting itself." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -1720,34 +1741,6 @@ numbers = [1, 2, 3, 4…]]></summary>
         <summary type="html"><![CDATA[Today's links Conspiracy fantasy: The political significance and personal appeal of conspiratorialism. Podcasting "Self Publishing": My column on monopolism, publishing, and the fortunes of authors. This day in history: 2001, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Conspiracy fantasy (permalink) When we talk about conspiratorialism, we tend to focus (naturally) on the content of the conspiracy. Not only are those stories entertainingly outlandish – they're also the point of contact between conspiracists and the world. If your mom is shouting about "Hollywood pedos," it's natural that you'll end up discussing the relationship of this belief to observable reality. But while the content of conspiratorial beliefs ge…]]></summary>
         <author>
             <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nightmare Code]]></title>
-        <id>https://xkcd.com/2485/</id>
-        <link href="https://xkcd.com/2485/"/>
-        <updated>2021-07-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/nightmare_code.png" title="Charsets even used to be known as 'alpha-bets' before that word's obvious negative associations caused it to die out." alt="Charsets even used to be known as 'alpha-bets' before that word's obvious negative associations caused it to die out." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marbles2 - 5-Jul 2021 [devlog/marbles2]]]></title>
-        <id>2021-07-05</id>
-        <link href="https://remysharp.com/devlog/marbles2/2021-07-05"/>
-        <updated>2021-07-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ready for release.
-After nearly ten months of tinkering in the evening, the Marbles Squared ZX Spectrum Next port is going live this weekend.
-It's not that it actually took 10 months to develop, it's just along the way I learnt and wrote the code grid handling in assembly, and then I wrote an assembly based dot command that handles HTTP requests both getting and posting data to web servers - and this is now part of the official spectrum core code (which will ship in future machines) - so that's a nice bonus.
-I'm fairly confident there's no lurking bugs, though I am trying to squash one non blocking issue where the game can't get the high scores from the web (though oddly the game was able to post the high score for the player in question 🤔). Still, I think it's looking pretty snazzy:
-
-All the same, the itch download page is primed and ready for release on Saturday. There's two downloads available: the game and the game with fully documented source code and PDF overview article.
-In lieu of the release, I've been looking back at the original version I wrote in the early 2000s and found a web based Palm Pilot emulator that let me actually play and capture screenshots of the original game (I even managed to recover the source code and published it on github). So I present to you - the old version:
-
-Once the game is live for the Spectrum I'll release the web version and if I planned the code right, we'll all be able to contribute to the high score leader board!]]></summary>
-        <author>
-            <name>remy sharp's b:log</name>
         </author>
     </entry>
 </feed>

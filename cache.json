@@ -244,6 +244,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2510/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/modern_tools.png\" title=\"I tried to train an AI to repair my Python environment but it kept giving up and deleting itself.\" alt=\"I tried to train an AI to repair my Python environment but it kept giving up and deleting itself.\" />",
+          "link": "https://xkcd.com/2510/",
+          "publishedOn": "2021-09-01T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Modern Tools"
+        },
+        {
           "id": "https://xkcd.com/2509/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/useful_geometry_formulas.png\" title=\"Geometry textbooks always try to trick you by adding decorative stripes and dotted lines.\" alt=\"Geometry textbooks always try to trick you by adding decorative stripes and dotted lines.\" />",
@@ -458,15 +467,6 @@
           "publishedOn": "2021-07-07T00:00:00.000Z",
           "wordCount": 189,
           "title": "Board Game Party Schedule"
-        },
-        {
-          "id": "https://xkcd.com/2485/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/nightmare_code.png\" title=\"Charsets even used to be known as 'alpha-bets' before that word's obvious negative associations caused it to die out.\" alt=\"Charsets even used to be known as 'alpha-bets' before that word's obvious negative associations caused it to die out.\" />",
-          "link": "https://xkcd.com/2485/",
-          "publishedOn": "2021-07-05T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Nightmare Code"
         }
       ]
     },
@@ -475,6 +475,15 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "midi-controller-to-ps2-part-1",
+          "author": null,
+          "description": "A little while back I saw a technical demo that used the shell of MIDI controller and inserted a PS/2 keyboard (effectively) under the keys to then control a program on the ZX Spectrum Next.\nThis prompted me to buy a MIDI controller but I didn't want to gut out the new hardware. So instead I found a way to map the USB MIDI to the PS/2 key presses, allowing me to use the piano keyboard on the retro hardware.",
+          "link": "https://remysharp.com/2021/09/02/midi-controller-to-ps2-part-1",
+          "publishedOn": "2021-09-02T00:00:00.000Z",
+          "wordCount": 1060,
+          "title": "MIDI controller to PS/2 - part 1 [blog]"
+        },
         {
           "id": "the-whole-truth-di-adam-fawley-5",
           "author": null,
@@ -564,15 +573,6 @@
           "publishedOn": "2021-07-09T00:00:00.000Z",
           "wordCount": 501,
           "title": "How to inspect elements that hide on mouse move [blog]"
-        },
-        {
-          "id": "2021-07-05",
-          "author": null,
-          "description": "Ready for release.\nAfter nearly ten months of tinkering in the evening, the Marbles Squared ZX Spectrum Next port is going live this weekend.\nIt's not that it actually took 10 months to develop, it's just along the way I learnt and wrote the code grid handling in assembly, and then I wrote an assembly based dot command that handles HTTP requests both getting and posting data to web servers - and this is now part of the official spectrum core code (which will ship in future machines) - so that's a nice bonus.\nI'm fairly confident there's no lurking bugs, though I am trying to squash one non blocking issue where the game can't get the high scores from the web (though oddly the game was able to post the high score for the player in question 🤔). Still, I think it's looking pretty snazzy:\n\nAll the same, the itch download page is primed and ready for release on Saturday. There's two downloads available: the game and the game with fully documented source code and PDF overview article.\nIn lieu of the release, I've been looking back at the original version I wrote in the early 2000s and found a web based Palm Pilot emulator that let me actually play and capture screenshots of the original game (I even managed to recover the source code and published it on github). So I present to you - the old version:\n\nOnce the game is live for the Spectrum I'll release the web version and if I planned the code right, we'll all be able to contribute to the high score leader board!",
-          "link": "https://remysharp.com/devlog/marbles2/2021-07-05",
-          "publishedOn": "2021-07-05T00:00:00.000Z",
-          "wordCount": 413,
-          "title": "Marbles2 - 5-Jul 2021 [devlog/marbles2]"
         }
       ]
     },
