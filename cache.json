@@ -467,15 +467,6 @@
           "publishedOn": "2021-07-12T00:00:00.000Z",
           "wordCount": 189,
           "title": "Board Game Argument: Legacy"
-        },
-        {
-          "id": "https://xkcd.com/2487/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/danger_mnemonic.png\" title=\"It's definitely not the time to try drinking beer before liquor.\" alt=\"It's definitely not the time to try drinking beer before liquor.\" />",
-          "link": "https://xkcd.com/2487/",
-          "publishedOn": "2021-07-09T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Danger Mnemonic"
         }
       ]
     },
@@ -573,15 +564,6 @@
           "publishedOn": "2021-07-13T00:00:00.000Z",
           "wordCount": 429,
           "title": "Tip: not everyone has macOS to hide those ugly scrollbars [blog]"
-        },
-        {
-          "id": "how-to-inspect-elements-that-hide-on-mouse-move",
-          "author": null,
-          "description": "Specific blog post title, eh? But very specific problem that's a pain in the backside when it comes to debugging it.\nHow do you inspect an element that hides on mouse move? Such as a tooltip (though I'm not a fan of the UI element, if only for the lack of accessibility) it's certainly not obvious.",
-          "link": "https://remysharp.com/2021/07/09/how-to-inspect-elements-that-hide-on-mouse-move",
-          "publishedOn": "2021-07-09T00:00:00.000Z",
-          "wordCount": 501,
-          "title": "How to inspect elements that hide on mouse move [blog]"
         }
       ]
     },
@@ -590,6 +572,15 @@
       "feedUrl": "https://rachelbythebay.com/w/atom.xml",
       "siteUrl": "https://rachelbythebay.com/w/",
       "articles": [
+        {
+          "id": "https://rachelbythebay.com/w/2021/09/05/clever/",
+          "author": null,
+          "description": "I wrote this a couple of years ago in another context, but it looks like \nit's still just as applicable today, so I decided to bring it out from \nbehind the permission curtain.  This originally was only visible to \ncoworkers who happened to look at my feed.  Now it isn't.\n\n\nCode runs on people.  Please keep it simple.\n\n\nYou can throw all kinds of wicked, nasty, complicated, \nKlein-bottle-wannabe tricks into code and the computer will shrug and \nslog on through it.\n\n\nNobody will ever have more state about the code than the original author \nat the time of creation.  Everything after that pales in comparison.  If \nit takes an hour to figure out what's going on, well, that's an hour \nthat wasn't spent doing something else more useful and interesting.\n\n\nWe get it, you're clever.  But the business doesn't need clever. It \nneeds code that is only as complicated as absolutely necessary to get \nthe job done.  Anything else is just wasted effort.\n\n\nIf a problem calls for clever, okay, then have at it.  But I bet it \ndoesn't.  Most things really don't. Be honest with yourself, and with \nyour future coworkers.  It makes for a healthier environment. \n\n\nI think this was originally written as an indirect response to some \n\"clever-wielding\" that had been witnessed on one of my tours of duty in \nsome infrastructure team.  It's not clear that it had any positive \neffect, though.  These things are hard to measure after the fact, \nparticularly once the \"look how high I can pile up the clever\" culture \nhas infected a team thoroughly and it starts being rewarded.",
+          "link": "https://rachelbythebay.com/w/2021/09/05/clever/",
+          "publishedOn": "2021-09-06T04:39:52.000Z",
+          "wordCount": 478,
+          "title": "Code runs on people"
+        },
         {
           "id": "https://rachelbythebay.com/w/2021/09/01/dash/",
           "author": null,
@@ -1004,24 +995,6 @@
           "publishedOn": "2021-07-09T23:17:15.000Z",
           "wordCount": 943,
           "title": "Net neutrality: reacting on the Executive Order on Promoting Competition in the American Economy"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=66514",
-          "author": "Marshall Erwin",
-          "description": "Regulators and technology companies together have an unique opportunity to improve the privacy properties of online advertising. Improving privacy for everyone must remain the north star of efforts surrounding privacy preserving advertising and we welcome the recent moves by the UK’s Competition Markets Authority to invite public comments on the recent voluntary commitments proposed by […]\nThe post Mozilla responds to the UK CMA consultation on Google’s commitments on the Chrome Privacy Sandbox appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/uk-cma-google-commitments-chrome-privacy-sandbox/",
-          "publishedOn": "2021-07-09T08:00:00.000Z",
-          "wordCount": 1219,
-          "title": "Mozilla responds to the UK CMA consultation on Google’s commitments on the Chrome Privacy Sandbox"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=66512",
-          "author": "Mozilla",
-          "description": "CIRA Joins Firefox’s Trusted Recursive Resolver Program In a few weeks, Firefox will start the by-default rollout of DNS over HTTPS (or DoH for short) to its Canadian users in partnership with local DoH provider CIRA, the Canadian Internet Registration Authority. DoH will first become a default for 1% of Canadian Firefox users on July […]\nThe post Firefox extends privacy and security of Canadian internet users with by-default DNS-over-HTTPS rollout in Canada appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/news/firefox-by-default-dns-over-https-rollout-in-canada/",
-          "publishedOn": "2021-07-08T13:00:00.000Z",
-          "wordCount": 1379,
-          "title": "Firefox extends privacy and security of Canadian internet users with by-default DNS-over-HTTPS rollout in Canada"
         }
       ]
     },
@@ -1426,15 +1399,6 @@
           "publishedOn": "2021-07-10T17:08:31.000Z",
           "wordCount": 1882,
           "title": "Pluralistic: 10 Jul 2021"
-        },
-        {
-          "id": "https://pluralistic.net/?p=2371",
-          "author": "Cory Doctorow",
-          "description": "Today's links Indonesia's gig work tech resistance: Tuyul apps and the IT of the Road. Owning a sports-team is a plute's get-out-of-tax-free card: Here's what to do about it. This day in history: 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Indonesia's gig work tech resistance (permalink) Gojek is a $10B Indonesian \"super app\" that combines \"Postmates, Apple Pay, Venmo, and Uber\" serviced by an army of ojol – drivers – who are subjected to all the high-handed algorithmic horrors that gig workers everywhere suffer through. https://www.vice.com/en/article/7kvpng/delivery-drivers-are-using-grey-market-apps-to-make-their-jobs-suck-less But Indonesian ojol aren't helpless before their apps; a legion of toolsmiths pr…",
-          "link": "https://pluralistic.net/2021/07/08/tuyul-apps/",
-          "publishedOn": "2021-07-08T14:53:31.000Z",
-          "wordCount": 2852,
-          "title": "Pluralistic: 08 Jul 2021"
         }
       ]
     },
