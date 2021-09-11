@@ -503,6 +503,15 @@
       "siteUrl": "https://remysharp.com",
       "articles": [
         {
+          "id": "2021-09-10-689ee834",
+          "author": null,
+          "description": "Free, Open Source and based solely on Open Data - simple API to boot.\nExtremely useful for quick hacks, potentially useful for smaller projects (though limited to UK).\nSource: postcodes.io",
+          "link": "https://remysharp.com/links/2021-09-10-689ee834",
+          "publishedOn": "2021-09-10T13:26:19.000Z",
+          "wordCount": 185,
+          "title": "Postcode & Geolocation API for the UK [link]"
+        },
+        {
           "id": "working-with-the-esp-in-cspect",
           "author": null,
           "description": "After developing the .http tool for the Spectrum Next in assembly, for my own workflow I did most of the testing against an emulator (before moving to hardware), however there's some quirks with Cspect and the wifi/esp/internet setup, and since I've been through the fire and come out the other side it makes sense to write it up.",
@@ -591,15 +600,6 @@
           "publishedOn": "2021-07-14T00:00:00.000Z",
           "wordCount": 951,
           "title": "Me & Tinnitus: entry 2 [blog]"
-        },
-        {
-          "id": "tip-not-everyone-has-macos-to-hide-those-ugly-scrollbars",
-          "author": null,
-          "description": "This is a shorties as blog posts go, but a goodie, and certainly one for future Rem to read.\nMy default machine for development has a trackpad for input. Both in the laptop state and when I have it connected to an external monitor. Up until recently, I had no idea that other users were seeing a very different view of my web pages than I was.",
-          "link": "https://remysharp.com/2021/07/13/tip-not-everyone-has-macos-to-hide-those-ugly-scrollbars",
-          "publishedOn": "2021-07-13T00:00:00.000Z",
-          "wordCount": 429,
-          "title": "Tip: not everyone has macOS to hide those ugly scrollbars [blog]"
         }
       ]
     },
@@ -719,15 +719,6 @@
           "publishedOn": "2021-08-18T09:20:00.000Z",
           "wordCount": 1547,
           "title": "Coding in Indigenous African Languages"
-        },
-        {
-          "id": "https://esoteric.codes/blog/fat-dactyls",
-          "author": null,
-          "description": "If you make a language and are lucky, someone else will write code for it. If you are very lucky, someone else will find uses for it you never intended, or that even challenge the premise of the language.\n\r\nThis is not the same as using the language in an unexpected way. Urban Müller could not have foreseen brainfuck as the bedrock for a Rust-like language or a CPU. But do these projects truly counter brainfuck's premise? I would argue not. Brainfuck appears chaotic but part of its appeal has always been in conquering that chaos, in building efficient algorithms using the language despite the challenge. These projects counter the chaos of brainfuck, but that really is the appeal of brainfuck in the first place, they are simply taking it much further than could have been anticipated. If Müller had wanted brainfuck to be impossible to master, he would have designed the language much differently.\n\r\nSometimes, however, a language inspires work that falls very far from the intent of its original designer. Most esolangs, like mainstream programming languages, are open systems and don't dictate how programmers use them. C# offers many features to make structured code easy. But I can also write C# that looks like 80s BASIC wrapped in some standard C# boilerplate:\nRead More",
-          "link": "https://esoteric.codes/blog/fat-dactyls",
-          "publishedOn": "2021-07-13T10:18:00.000Z",
-          "wordCount": 1354,
-          "title": "Fat Dactyls"
         }
       ]
     },
@@ -748,6 +739,15 @@
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
+        {
+          "id": "https://jvns.ca/blog/2021/09/10/hashmaps-make-things-fast/",
+          "author": null,
+          "description": "Hello! I was talking to a friend yesterday who was studying for a programming\ninterview and trying to learn some algorithms basics.\nThe topic of quadratic-time vs linear-time algorithms came up, I thought this\nwould be fun to write about here because avoiding quadratic-time algorithms\nisn’t just important in interviews – it’s sometimes good to know about in real\nlife too! I’ll explain what a “quadratic-time algorithm is” in a minute :)\nhere are the 3 things we’ll talk about:\nquadratic time functions are WAY WAY WAY slower than linear time functions\nsometimes you can make a quadratic algorithm into a linear algorithm by using a hashmap\nthis is because hashmaps lookups are very fast (instant!)\nI’m going to try to keep the math jargon to a minimum and focus on real code\nexamples and how fast/…",
+          "link": "https://jvns.ca/blog/2021/09/10/hashmaps-make-things-fast/",
+          "publishedOn": "2021-09-10T12:48:10.000Z",
+          "wordCount": 1446,
+          "title": "Quadratic algorithms are slow (and hashmaps are fast)"
+        },
         {
           "id": "https://jvns.ca/blog/confusing-explanations/",
           "author": null,
@@ -825,6 +825,15 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=67302",
+          "author": "Damiano",
+          "description": "At Mozilla, we believe part of making the internet we want is celebrating the best of the internet, and that can be as simple as sharing a tweet that made us pause in our feed. Twitter isn’t perfect, but there are individual tweets that come pretty close. Each week in Top Shelf, we will be […]\nThe post Matrix 4, Blue’s Clues, #StarTrekDay and More — Everything That’s Old is New Again in This Week’s Top Shelf appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/internet-culture/best-tweets-matrix-blues-clues-september-10th/",
+          "publishedOn": "2021-09-10T21:29:55.000Z",
+          "wordCount": 1168,
+          "title": "Matrix 4, Blue’s Clues, #StarTrekDay and More — Everything That’s Old is New Again in This Week’s Top Shelf"
+        },
         {
           "id": "https://blog.mozilla.org/?p=67299",
           "author": "M.J. Kelly",
@@ -1022,15 +1031,6 @@
           "publishedOn": "2021-07-16T20:16:56.000Z",
           "wordCount": 1197,
           "title": "Olivia Rodrigo, the cast of “The French Dispatch,” “Loki” and more are on this week’s Top Shelf"
-        },
-        {
-          "id": "http://blog.mozilla.org/foxtail/2020/10/05/break-free-from-the-doomscroll-with-pocket/",
-          "author": "M.J. Kelly",
-          "description": "Last year a new phrase crept into the zeitgeist: doomscrolling, the tendency to get stuck in a bad news content cycle even when consuming it makes us feel worse. That’s no surprise given that 2020 was one for the books with an unrelenting flow of calamitous topics, from the pandemic to murder hornets to wild […]\nThe post Break free from the doomscroll with Pocket appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/internet-culture/deep-dives/break-free-from-the-doomscroll-with-pocket/",
-          "publishedOn": "2021-07-12T18:26:09.000Z",
-          "wordCount": 2307,
-          "title": "Break free from the doomscroll with Pocket"
         }
       ]
     },
@@ -1412,20 +1412,6 @@
           "publishedOn": "2021-07-14T17:50:45.000Z",
           "wordCount": 2215,
           "title": "Pluralistic: 14 Jul 2021"
-        },
-        {
-          "id": "https://pluralistic.net/?p=2385",
-          "author": "Cory Doctorow",
-          "description": "Today's links Podcasting \"Tech Monopolies and the Insufficient Necessity of Interoperability\": Corporate rivalries vs public power. The Sacklers will get to keep billions: What's a little mass-murder between friends? This day in history: 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Podcasting \"Tech Monopolies and the Insufficient Necessity of Interoperability\" (permalink) This week on my podcast, I read my latest Locus Magazine column, \"Tech Monopolies and the Insufficient Necessity of Interoperability.\" It presents a theory of change to get us to a world of aggressive, trans-industry, global trustbusting. https://locusmag.com/2021/07/cory-doctorow-tech-monopolies-and-the-insufficient-necessity-of-interoperabil…",
-          "link": "https://pluralistic.net/2021/07/12/monopolist-solidarity/",
-          "publishedOn": "2021-07-12T15:58:04.000Z",
-          "wordCount": 2951,
-          "title": "Pluralistic: 12 Jul 2021",
-          "enclosure": {
-            "url": "https://archive.org/download/Cory_Doctorow_Podcast_397/Cory_Doctorow_Podcast_397_-_Tech_Monopolies_and_the_Insufficient_Necessity_of_Interoperability.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          }
         }
       ]
     },

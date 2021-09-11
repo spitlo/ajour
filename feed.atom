@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-09-10T00:17:54.754Z</updated>
+    <updated>2021-09-11T00:16:33.272Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Matrix 4, Blue’s Clues, #StarTrekDay and More — Everything That’s Old is New Again in This Week’s Top Shelf]]></title>
+        <id>https://blog.mozilla.org/?p=67302</id>
+        <link href="https://blog.mozilla.org/en/internet-culture/best-tweets-matrix-blues-clues-september-10th/"/>
+        <updated>2021-09-10T21:29:55.000Z</updated>
+        <summary type="html"><![CDATA[At Mozilla, we believe part of making the internet we want is celebrating the best of the internet, and that can be as simple as sharing a tweet that made us pause in our feed. Twitter isn’t perfect, but there are individual tweets that come pretty close. Each week in Top Shelf, we will be […]
+The post Matrix 4, Blue’s Clues, #StarTrekDay and More — Everything That’s Old is New Again in This Week’s Top Shelf appeared first on The Mozilla Blog.]]></summary>
+        <author>
+            <name>Damiano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postcode & Geolocation API for the UK [link]]]></title>
+        <id>2021-09-10-689ee834</id>
+        <link href="https://remysharp.com/links/2021-09-10-689ee834"/>
+        <updated>2021-09-10T13:26:19.000Z</updated>
+        <summary type="html"><![CDATA[Free, Open Source and based solely on Open Data - simple API to boot.
+Extremely useful for quick hacks, potentially useful for smaller projects (though limited to UK).
+Source: postcodes.io]]></summary>
+        <author>
+            <name>remy sharp's b:log</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quadratic algorithms are slow (and hashmaps are fast)]]></title>
+        <id>https://jvns.ca/blog/2021/09/10/hashmaps-make-things-fast/</id>
+        <link href="https://jvns.ca/blog/2021/09/10/hashmaps-make-things-fast/"/>
+        <updated>2021-09-10T12:48:10.000Z</updated>
+        <summary type="html"><![CDATA[Hello! I was talking to a friend yesterday who was studying for a programming
+interview and trying to learn some algorithms basics.
+The topic of quadratic-time vs linear-time algorithms came up, I thought this
+would be fun to write about here because avoiding quadratic-time algorithms
+isn’t just important in interviews – it’s sometimes good to know about in real
+life too! I’ll explain what a “quadratic-time algorithm is” in a minute :)
+here are the 3 things we’ll talk about:
+quadratic time functions are WAY WAY WAY slower than linear time functions
+sometimes you can make a quadratic algorithm into a linear algorithm by using a hashmap
+this is because hashmaps lookups are very fast (instant!)
+I’m going to try to keep the math jargon to a minimum and focus on real code
+examples and how fast/…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Feel good when you get online with Firefox]]></title>
         <id>https://blog.mozilla.org/?p=67299</id>
@@ -1730,53 +1774,6 @@ Ethan Marcotte’s talk at An Event Apart and subsequent article “Responsive W
 I've only ever had a hearing test when I was a kid and I do remember even then they mentioned there was some slight loss. Hearing is important to the The Lenire System treatment because it plays audio to help rewire the brain, so if I have hearing damage, I won't be suitable.]]></summary>
         <author>
             <name>remy sharp's b:log</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fat Dactyls]]></title>
-        <id>https://esoteric.codes/blog/fat-dactyls</id>
-        <link href="https://esoteric.codes/blog/fat-dactyls"/>
-        <updated>2021-07-13T10:18:00.000Z</updated>
-        <summary type="html"><![CDATA[If you make a language and are lucky, someone else will write code for it. If you are very lucky, someone else will find uses for it you never intended, or that even challenge the premise of the language.
-
-This is not the same as using the language in an unexpected way. Urban Müller could not have foreseen brainfuck as the bedrock for a Rust-like language or a CPU. But do these projects truly counter brainfuck's premise? I would argue not. Brainfuck appears chaotic but part of its appeal has always been in conquering that chaos, in building efficient algorithms using the language despite the challenge. These projects counter the chaos of brainfuck, but that really is the appeal of brainfuck in the first place, they are simply taking it much further than could have been anticipated. If Müller had wanted brainfuck to be impossible to master, he would have designed the language much differently.
-
-Sometimes, however, a language inspires work that falls very far from the intent of its original designer. Most esolangs, like mainstream programming languages, are open systems and don't dictate how programmers use them. C# offers many features to make structured code easy. But I can also write C# that looks like 80s BASIC wrapped in some standard C# boilerplate:
-Read More]]></summary>
-        <author>
-            <name>esoteric.codes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tip: not everyone has macOS to hide those ugly scrollbars [blog]]]></title>
-        <id>tip-not-everyone-has-macos-to-hide-those-ugly-scrollbars</id>
-        <link href="https://remysharp.com/2021/07/13/tip-not-everyone-has-macos-to-hide-those-ugly-scrollbars"/>
-        <updated>2021-07-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is a shorties as blog posts go, but a goodie, and certainly one for future Rem to read.
-My default machine for development has a trackpad for input. Both in the laptop state and when I have it connected to an external monitor. Up until recently, I had no idea that other users were seeing a very different view of my web pages than I was.]]></summary>
-        <author>
-            <name>remy sharp's b:log</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Break free from the doomscroll with Pocket]]></title>
-        <id>http://blog.mozilla.org/foxtail/2020/10/05/break-free-from-the-doomscroll-with-pocket/</id>
-        <link href="https://blog.mozilla.org/en/internet-culture/deep-dives/break-free-from-the-doomscroll-with-pocket/"/>
-        <updated>2021-07-12T18:26:09.000Z</updated>
-        <summary type="html"><![CDATA[Last year a new phrase crept into the zeitgeist: doomscrolling, the tendency to get stuck in a bad news content cycle even when consuming it makes us feel worse. That’s no surprise given that 2020 was one for the books with an unrelenting flow of calamitous topics, from the pandemic to murder hornets to wild […]
-The post Break free from the doomscroll with Pocket appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>M.J. Kelly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 12 Jul 2021]]></title>
-        <id>https://pluralistic.net/?p=2385</id>
-        <link href="https://pluralistic.net/2021/07/12/monopolist-solidarity/"/>
-        <updated>2021-07-12T15:58:04.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Podcasting "Tech Monopolies and the Insufficient Necessity of Interoperability": Corporate rivalries vs public power. The Sacklers will get to keep billions: What's a little mass-murder between friends? This day in history: 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Podcasting "Tech Monopolies and the Insufficient Necessity of Interoperability" (permalink) This week on my podcast, I read my latest Locus Magazine column, "Tech Monopolies and the Insufficient Necessity of Interoperability." It presents a theory of change to get us to a world of aggressive, trans-industry, global trustbusting. https://locusmag.com/2021/07/cory-doctorow-tech-monopolies-and-the-insufficient-necessity-of-interoperabil…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
         </author>
     </entry>
 </feed>
