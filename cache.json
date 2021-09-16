@@ -146,6 +146,15 @@
       "siteUrl": "https://sarasoueidan.com/blog/",
       "articles": [
         {
+          "id": "https://sarasoueidan.com/blog/in-quest-of-search/",
+          "author": null,
+          "description": "There’s been a recent discussion on Twitter about the idea of adding a new element in HTML that represents a search interface. A search form, basically.\nThe idea is to create a semantic HTML element for the ARIA search role, which represents a landmark region “that contains a collection of items and objects that, as a whole, combine to create a search facility.”\nOpinions have been shared in the Twitter thread about whether adding a new HTML element is necessary. Many have argued that it was unnecessary because we can use the ARIA search role and repurpose a form element to create the same semantics. I disagree. And this article is the longer version of my personal opinion on the subject.\ntl;dr\nI do strongly encourage the addition of a new HTML element that represents—and can consequently o…",
+          "link": "https://sarasoueidan.com/blog/in-quest-of-search/",
+          "publishedOn": "2021-09-15T00:00:00.000Z",
+          "wordCount": 1514,
+          "title": "In Quest of Search"
+        },
+        {
           "id": "https://sarasoueidan.com/blog/focus-indicators/",
           "author": null,
           "description": "This post is a modified, text-only excerpt from my Practical Accessibility video course. I wanted to share this guide to designing accessible focus indicators because focus styles are a recurring discussion I have with designers I work with on most projects, so I thought it would be useful to provide this guide as a helpful reference. This guide is aimed at both designers who want to learn about accessibility considerations for designing focus indicators, as well as developers who want to implement them.\nImagine you visit a Web site and you want to browse it for some content. You want to buy something; or maybe book a flight somewhere. And as you move your cursor onto the page, it suddenly disappears. Your hand may be still on the mouse, and you’re moving the mouse across the screen and ac…",
@@ -182,6 +191,15 @@
       "feedUrl": "https://emshort.blog/feed/",
       "siteUrl": "https://emshort.blog",
       "articles": [
+        {
+          "id": "http://emshort.blog/?p=42212",
+          "author": "Emily Short",
+          "description": "Events September 18-19, Emperatriz Ung is running a session for the Asian-American Writers’ Workshop called Prototyping Memory, A Game Design Approach To Nonfiction, about using Inform and IF techniques to reimagine setting, perspective, and structure. The Oxford/London IF Meetup is currently running a jam for pieces written for Seltani, Andrew Plotkin’s multiplayer hypertext platform. We’ll … Continue reading \"Mid-September Link Assortment\"",
+          "link": "https://emshort.blog/2021/09/15/mid-september-link-assortment-6/",
+          "publishedOn": "2021-09-15T17:30:00.000Z",
+          "wordCount": 2432,
+          "title": "Mid-September Link Assortment"
+        },
         {
           "id": "http://emshort.blog/?p=42283",
           "author": "Emily Short",
@@ -807,6 +825,24 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=67348",
+          "author": "Mozilla",
+          "description": "Your online privacy remains our top priority, and we know that one of the first things to secure your privacy when you go online is to get on a Virtual Private Network (VPN), an encrypted connection that serves as a tunnel between your computer and VPN server. Today, we’re launching the latest release of our […]\nThe post Mozilla VPN adds advanced privacy features: Custom DNS servers and Multi-hop appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/mozilla-vpn-adds-advanced-privacy-features-custom-dns-servers-and-multi-hop/",
+          "publishedOn": "2021-09-15T22:43:21.000Z",
+          "wordCount": 1448,
+          "title": "Mozilla VPN adds advanced privacy features: Custom DNS servers and Multi-hop"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=67315",
+          "author": "Mozilla",
+          "description": "Today, people have to work too hard to find what they want online, sifting through and steering clear of content, clutter and click-bait not worthy of their time. Over time, navigation on the internet has become increasingly centralized and optimized for clicks and scrolling, not for getting people to where they want to go or […]\nThe post Get where you’re going faster, with Firefox Suggest appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/products/firefox/firefox-news/firefox-suggest/",
+          "publishedOn": "2021-09-15T16:16:30.000Z",
+          "wordCount": 1221,
+          "title": "Get where you’re going faster, with Firefox Suggest"
+        },
         {
           "id": "https://blog.mozilla.org/?p=67302",
           "author": "Damiano",
