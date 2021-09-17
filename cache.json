@@ -6,6 +6,15 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=6959",
+          "author": "Chris Heilmann",
+          "description": "Summary: With the release of 1.3.1 of the Edge Tools for VS Code we introduce a better way to get changes you made in the Styles tool back into your source code. We’d love to know what you think of it and what we can do better. There’s a GitHub issue dedicated to feedback. Developer […]",
+          "link": "https://christianheilmann.com/2021/09/16/css-mirror-editing-in-edge-devtools-for-vs-code/",
+          "publishedOn": "2021-09-16T06:16:47.000Z",
+          "wordCount": 697,
+          "title": "CSS Mirror Editing in Edge DevTools for VS Code"
+        },
+        {
           "id": "https://christianheilmann.com/?p=6946",
           "author": "Chris Heilmann",
           "description": "When using the Edge DevTools for VS Code extension inside the editor, one thing that I kept doing wrong was opening files accidentally next to the tools. By default, the tools show up as their own pane next to the main editor. This is an editor pane of VS Code, and thus supports many things, […]",
@@ -253,15 +262,6 @@
           "publishedOn": "2021-07-31T10:23:00.000Z",
           "wordCount": 1925,
           "title": "End of July Link Assortment"
-        },
-        {
-          "id": "http://emshort.blog/?p=42020",
-          "author": "Emily Short",
-          "description": "Many years ago, I started writing a fantasy story. In the story, there was a culturally important game you could play with friends, which was usually mostly a bit like poker. The thing was, every once in a while you would draw some totally weird extra card that had never been in the pack before. … Continue reading \"The Uncanny Deck: Co-authoring with GPT-2\"",
-          "link": "https://emshort.blog/2021/07/18/the-uncanny-deck-co-authoring-with-gpt-2/",
-          "publishedOn": "2021-07-18T17:39:36.000Z",
-          "wordCount": 3210,
-          "title": "The Uncanny Deck: Co-authoring with GPT-2"
         }
       ]
     },
@@ -270,6 +270,15 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2516/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/hubble_tension.png\" title=\"Oh, wait, I might've had it set to kph instead of mph. But that would make the discrepancy even wider!\" alt=\"Oh, wait, I might've had it set to kph instead of mph. But that would make the discrepancy even wider!\" />",
+          "link": "https://xkcd.com/2516/",
+          "publishedOn": "2021-09-15T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Hubble Tension"
+        },
         {
           "id": "https://xkcd.com/2515/",
           "author": null,
@@ -485,15 +494,6 @@
           "publishedOn": "2021-07-21T00:00:00.000Z",
           "wordCount": 187,
           "title": "Commonly Mispronounced Equations"
-        },
-        {
-          "id": "https://xkcd.com/2491/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/immune_factory.png\" title=\"In the final vote, the doubters were won over by the strength of the name IMMUNION.\" alt=\"In the final vote, the doubters were won over by the strength of the name IMMUNION.\" />",
-          "link": "https://xkcd.com/2491/",
-          "publishedOn": "2021-07-19T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Immune Factory"
         }
       ]
     },
@@ -502,6 +502,15 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "2021-09-16-e08f8eb6",
+          "author": null,
+          "description": "I've been struggling to get my head around voltage and amps - specifically after I bought a device that wanted 5V and 2A supply, but I was only giving it 1.6A I found the machine would fail (and reboot). The lack of amperage meant it wasn't able to supply the entire board.\nJust the image from this post was enough to make it click in my head 👍\n\n\nVOLTAGE is like the pressure that pushes water through the hose. It is measured in volts (V).\n\n\nCURRENT is like the diameter of the hose. The wider it is, the more water will flow through. It is measured in amps (I or A).\n\n\nRESISTANCE is like sand in the hose that slows down the water flow. It is measured in ohms (R or Ω).\n\n\nSource: www.freeingenergy.com",
+          "link": "https://remysharp.com/links/2021-09-16-e08f8eb6",
+          "publishedOn": "2021-09-16T15:55:56.000Z",
+          "wordCount": 295,
+          "title": "Understanding the basics of electricity by thinking of it as water [link]"
+        },
         {
           "id": "2021-09-10-689ee834",
           "author": null,
@@ -722,6 +731,15 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2021/09/16/debugging-in-a-repl-is-fun/",
+          "author": null,
+          "description": "Hello! I was talking to a Python programmer friend yesterday about debugging,\nand I mentioned that I really like debugging using a REPL. He said he’d never\ntried it and that it sounded fun, so I thought I’d write a quick post about it.\nThis debugging method doesn’t work in a lot of languages, but it does work in\nPython and Ruby and kiiiiiind of in C (via gdb).\nwhat’s a REPL?\nREPL stands for “read eval print loop”. A REPL is a program that:\nreads some input from you like print(f\"2 + 2 = {2+2}\") (read)\nevaluates the input (eval)\nprint out the result (print)\nand then goes back to step 1 (loop)\nHere’s an example of me using the IPython REPL to run a print statement. (also\nit demonstrates f-strings, my favourite Python 3 feature)\n$ ipython3\nPython 3.9.5 (default, May 24 2021, 12:50:35) \nType 'c…",
+          "link": "https://jvns.ca/blog/2021/09/16/debugging-in-a-repl-is-fun/",
+          "publishedOn": "2021-09-16T08:48:58.000Z",
+          "wordCount": 1100,
+          "title": "Debugging by starting a REPL at a breakpoint is fun"
+        },
+        {
           "id": "https://jvns.ca/blog/2021/09/10/hashmaps-make-things-fast/",
           "author": null,
           "description": "Hello! I was talking to a friend yesterday who was studying for a programming\ninterview and trying to learn some algorithms basics.\nThe topic of quadratic-time vs linear-time algorithms came up, I thought this\nwould be fun to write about here because avoiding quadratic-time algorithms\nisn’t just important in interviews – it’s sometimes good to know about in real\nlife too! I’ll explain what a “quadratic-time algorithm is” in a minute :)\nhere are the 3 things we’ll talk about:\nquadratic time functions are WAY WAY WAY slower than linear time functions\nsometimes you can make a quadratic algorithm into a linear algorithm by using a hashmap\nthis is because hashmaps lookups are very fast (instant!)\nI’m going to try to keep the math jargon to a minimum and focus on real code\nexamples and how fast/…",
@@ -825,6 +843,15 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=67274",
+          "author": "Sarah Vasquez",
+          "description": "If recent surveys and polls ring true, over 46% of the global workforce is considering leaving their employer this year. Despite COVID-19 causing initial turnover due to the related economic downturn, the current phenomenon coined “The Great Resignation” is attributed to the many job seekers choosing to leave their current employment voluntarily. Mass vaccinations and […]\nThe post The Great Resignation: New gig? Here are 7 tips to ensure success appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/products/firefox/the-great-resignation-new-job-tips/",
+          "publishedOn": "2021-09-16T20:20:00.000Z",
+          "wordCount": 2280,
+          "title": "The Great Resignation: New gig? Here are 7 tips to ensure success"
+        },
         {
           "id": "https://blog.mozilla.org/?p=67348",
           "author": "Mozilla",

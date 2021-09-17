@@ -2,10 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-09-16T00:16:48.446Z</updated>
+    <updated>2021-09-17T00:17:26.430Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Great Resignation: New gig? Here are 7 tips to ensure success]]></title>
+        <id>https://blog.mozilla.org/?p=67274</id>
+        <link href="https://blog.mozilla.org/en/products/firefox/the-great-resignation-new-job-tips/"/>
+        <updated>2021-09-16T20:20:00.000Z</updated>
+        <summary type="html"><![CDATA[If recent surveys and polls ring true, over 46% of the global workforce is considering leaving their employer this year. Despite COVID-19 causing initial turnover due to the related economic downturn, the current phenomenon coined “The Great Resignation” is attributed to the many job seekers choosing to leave their current employment voluntarily. Mass vaccinations and […]
+The post The Great Resignation: New gig? Here are 7 tips to ensure success appeared first on The Mozilla Blog.]]></summary>
+        <author>
+            <name>Sarah Vasquez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the basics of electricity by thinking of it as water [link]]]></title>
+        <id>2021-09-16-e08f8eb6</id>
+        <link href="https://remysharp.com/links/2021-09-16-e08f8eb6"/>
+        <updated>2021-09-16T15:55:56.000Z</updated>
+        <summary type="html"><![CDATA[I've been struggling to get my head around voltage and amps - specifically after I bought a device that wanted 5V and 2A supply, but I was only giving it 1.6A I found the machine would fail (and reboot). The lack of amperage meant it wasn't able to supply the entire board.
+Just the image from this post was enough to make it click in my head 👍
+
+
+VOLTAGE is like the pressure that pushes water through the hose. It is measured in volts (V).
+
+
+CURRENT is like the diameter of the hose. The wider it is, the more water will flow through. It is measured in amps (I or A).
+
+
+RESISTANCE is like sand in the hose that slows down the water flow. It is measured in ohms (R or Ω).
+
+
+Source: www.freeingenergy.com]]></summary>
+        <author>
+            <name>remy sharp's b:log</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debugging by starting a REPL at a breakpoint is fun]]></title>
+        <id>https://jvns.ca/blog/2021/09/16/debugging-in-a-repl-is-fun/</id>
+        <link href="https://jvns.ca/blog/2021/09/16/debugging-in-a-repl-is-fun/"/>
+        <updated>2021-09-16T08:48:58.000Z</updated>
+        <summary type="html"><![CDATA[Hello! I was talking to a Python programmer friend yesterday about debugging,
+and I mentioned that I really like debugging using a REPL. He said he’d never
+tried it and that it sounded fun, so I thought I’d write a quick post about it.
+This debugging method doesn’t work in a lot of languages, but it does work in
+Python and Ruby and kiiiiiind of in C (via gdb).
+what’s a REPL?
+REPL stands for “read eval print loop”. A REPL is a program that:
+reads some input from you like print(f"2 + 2 = {2+2}") (read)
+evaluates the input (eval)
+print out the result (print)
+and then goes back to step 1 (loop)
+Here’s an example of me using the IPython REPL to run a print statement. (also
+it demonstrates f-strings, my favourite Python 3 feature)
+$ ipython3
+Python 3.9.5 (default, May 24 2021, 12:50:35) 
+Type 'c…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Mirror Editing in Edge DevTools for VS Code]]></title>
+        <id>https://christianheilmann.com/?p=6959</id>
+        <link href="https://christianheilmann.com/2021/09/16/css-mirror-editing-in-edge-devtools-for-vs-code/"/>
+        <updated>2021-09-16T06:16:47.000Z</updated>
+        <summary type="html"><![CDATA[Summary: With the release of 1.3.1 of the Edge Tools for VS Code we introduce a better way to get changes you made in the Styles tool back into your source code. We’d love to know what you think of it and what we can do better. There’s a GitHub issue dedicated to feedback. Developer […]]]></summary>
+        <author>
+            <name>Chris Heilmann</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mozilla VPN adds advanced privacy features: Custom DNS servers and Multi-hop]]></title>
         <id>https://blog.mozilla.org/?p=67348</id>
@@ -50,6 +119,16 @@ tl;dr
 I do strongly encourage the addition of a new HTML element that represents—and can consequently o…]]></summary>
         <author>
             <name>Blog on SaraSoueidan.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hubble Tension]]></title>
+        <id>https://xkcd.com/2516/</id>
+        <link href="https://xkcd.com/2516/"/>
+        <updated>2021-09-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/hubble_tension.png" title="Oh, wait, I might've had it set to kph instead of mph. But that would make the discrepancy even wider!" alt="Oh, wait, I might've had it set to kph instead of mph. But that would make the discrepancy even wider!" />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -1711,26 +1790,6 @@ The post Do you own a connected device? Here’s why you should be wary of the P
         <summary type="html"><![CDATA[As software developers, we're always learning new things; it's practically the whole gig! If we can learn to quickly pick up new languages/frameworks/tools, we'll become so much more effective at our job. It's sort of a superpower.]]></summary>
         <author>
             <name>Josh W. Comeau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Immune Factory]]></title>
-        <id>https://xkcd.com/2491/</id>
-        <link href="https://xkcd.com/2491/"/>
-        <updated>2021-07-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/immune_factory.png" title="In the final vote, the doubters were won over by the strength of the name IMMUNION." alt="In the final vote, the doubters were won over by the strength of the name IMMUNION." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Uncanny Deck: Co-authoring with GPT-2]]></title>
-        <id>http://emshort.blog/?p=42020</id>
-        <link href="https://emshort.blog/2021/07/18/the-uncanny-deck-co-authoring-with-gpt-2/"/>
-        <updated>2021-07-18T17:39:36.000Z</updated>
-        <summary type="html"><![CDATA[Many years ago, I started writing a fantasy story. In the story, there was a culturally important game you could play with friends, which was usually mostly a bit like poker. The thing was, every once in a while you would draw some totally weird extra card that had never been in the pack before. … Continue reading "The Uncanny Deck: Co-authoring with GPT-2"]]></summary>
-        <author>
-            <name>Emily Short</name>
         </author>
     </entry>
 </feed>
