@@ -253,6 +253,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2518/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/lumpers_and_splitters.png\" title=\"Anna Karenina is a happy family lumper and unhappy family splitter.\" alt=\"Anna Karenina is a happy family lumper and unhappy family splitter.\" />",
+          "link": "https://xkcd.com/2518/",
+          "publishedOn": "2021-09-20T00:00:00.000Z",
+          "wordCount": 187,
+          "title": "Lumpers and Splitters"
+        },
+        {
           "id": "https://xkcd.com/2517/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/rover_replies.png\" title=\"I'm so glad NASA let you take your phone to Mars!\" alt=\"I'm so glad NASA let you take your phone to Mars!\" />",
@@ -467,15 +476,6 @@
           "publishedOn": "2021-07-26T00:00:00.000Z",
           "wordCount": 185,
           "title": "Flawed Data"
-        },
-        {
-          "id": "https://xkcd.com/2493/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/dual_usb_c.png\" title=\"Small devices use two-prong USB-AC, but there's also a three-prong version with a USB-B plug as the ground.\" alt=\"Small devices use two-prong USB-AC, but there's also a three-prong version with a USB-B plug as the ground.\" />",
-          "link": "https://xkcd.com/2493/",
-          "publishedOn": "2021-07-23T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Dual USB-C"
         }
       ]
     },
@@ -740,6 +740,15 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2021/09/20/teaching-by-filling-in-knowledge-gaps/",
+          "author": null,
+          "description": "Hello! This post (like patterns in confusing explanations)\nis another one in the “julia attempts to articulate her teaching strategy”\nseries.\nI’ll start out by talking about a “backwards” approach to learning\nthat I think a lot of you will recognize (do projects first without fully\nunderstanding what you’re doing, fill in missing knowledge after), and then\ntalk about I try to teach in a way that works better with that mode of\nlearning.\nhow I’ve learned programming: backwards\nThere are a lot of “basic” concepts in programming, like memory management,\nnetworking, operating systems, assembly, etc. You could imagine that you learn\nprogramming by first starting with the basic concepts and then learning\nabstractions on top of those concepts.\nBut, even though I have a very traditional CS backgrou…",
+          "link": "https://jvns.ca/blog/2021/09/20/teaching-by-filling-in-knowledge-gaps/",
+          "publishedOn": "2021-09-20T09:28:40.000Z",
+          "wordCount": 1995,
+          "title": "Teaching by filling in knowledge gaps"
+        },
+        {
           "id": "https://jvns.ca/blog/2021/09/16/debugging-in-a-repl-is-fun/",
           "author": null,
           "description": "Hello! I was talking to a Python programmer friend yesterday about debugging,\nand I mentioned that I really like debugging using a REPL. He said he’d never\ntried it and that it sounded fun, so I thought I’d write a quick post about it.\nThis debugging method doesn’t work in a lot of languages, but it does work in\nPython and Ruby and kiiiiiind of in C (via gdb).\nwhat’s a REPL?\nREPL stands for “read eval print loop”. A REPL is a program that:\nreads some input from you like print(f\"2 + 2 = {2+2}\") (read)\nevaluates the input (eval)\nprint out the result (print)\nand then goes back to step 1 (loop)\nHere’s an example of me using the IPython REPL to run a print statement. (also\nit demonstrates f-strings, my favourite Python 3 feature)\n$ ipython3\nPython 3.9.5 (default, May 24 2021, 12:50:35) \nType 'c…",
@@ -834,6 +843,15 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=67335",
+          "author": "Jonathan Claudius",
+          "description": "Spyware has been in the news recently with stories like the Apple security vulnerability that allowed devices to be infected without the owner knowing it, and a former editor of The New York Observer being charged with a felony for unlawfully spying on his spouse with spyware. Spyware is a sub-category of malware that’s aimed […]\nThe post Did you hear about Apple’s security vulnerability? Here’s how to find and remove spyware. appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/internet-culture/mozilla-explains/find-and-remove-spyware/",
+          "publishedOn": "2021-09-20T16:00:57.000Z",
+          "wordCount": 2037,
+          "title": "Did you hear about Apple’s security vulnerability? Here’s how to find and remove spyware."
+        },
         {
           "id": "https://blog.mozilla.org/?p=67274",
           "author": "Sarah Vasquez",
