@@ -609,6 +609,15 @@
       "siteUrl": "https://rachelbythebay.com/w/",
       "articles": [
         {
+          "id": "https://rachelbythebay.com/w/2021/09/20/hop/",
+          "author": null,
+          "description": "I have an older iPhone that used to be my daily driver.  It mostly just \nhangs around for testing random junk.  It's still getting updates, and \nso when Apple offered it iOS 15 today, I installed it.  This gave me a \nchance to turn on their beta \"private relay\" stuff which seems to be \na TOR-like system.\n\n\nWhat did surprise me is the lack of \"stickiness\" for these IP addresses.  \nEvery five seconds or so, it seems to hop to another address in the same \n(IPv6, remember) /64.  If you're not down with v6 conventions yet, this \nmeans the first four parts like \"xxxx:xxxx:xxxx:xxxx\" stay the same, but \nthe last four change completely every time.\n\n\nI actually don't have any v4-only (aka LEGACY) stuff to try it on, so I \nhave no idea what happens on that side of the world.  It probably looks \nabout the same, albeit within a much smaller range of possible source IP \naddresses.  It probably resembles a CGNAT type situation.\n\nIt'll be fun to see what this breaks, and who howls the loudest.",
+          "link": "https://rachelbythebay.com/w/2021/09/20/hop/",
+          "publishedOn": "2021-09-21T01:45:25.000Z",
+          "wordCount": 362,
+          "title": "Apple's private relay service does not sit still"
+        },
+        {
           "id": "https://rachelbythebay.com/w/2021/09/05/clever/",
           "author": null,
           "description": "I wrote this a couple of years ago in another context, but it looks like \nit's still just as applicable today, so I decided to bring it out from \nbehind the permission curtain.  This originally was only visible to \ncoworkers who happened to look at my feed.  Now it isn't.\n\n\nCode runs on people.  Please keep it simple.\n\n\nYou can throw all kinds of wicked, nasty, complicated, \nKlein-bottle-wannabe tricks into code and the computer will shrug and \nslog on through it.\n\n\nNobody will ever have more state about the code than the original author \nat the time of creation.  Everything after that pales in comparison.  If \nit takes an hour to figure out what's going on, well, that's an hour \nthat wasn't spent doing something else more useful and interesting.\n\n\nWe get it, you're clever.  But the business doesn't need clever. It \nneeds code that is only as complicated as absolutely necessary to get \nthe job done.  Anything else is just wasted effort.\n\n\nIf a problem calls for clever, okay, then have at it.  But I bet it \ndoesn't.  Most things really don't. Be honest with yourself, and with \nyour future coworkers.  It makes for a healthier environment. \n\n\nI think this was originally written as an indirect response to some \n\"clever-wielding\" that had been witnessed on one of my tours of duty in \nsome infrastructure team.  It's not clear that it had any positive \neffect, though.  These things are hard to measure after the fact, \nparticularly once the \"look how high I can pile up the clever\" culture \nhas infected a team thoroughly and it starts being rewarded.",
@@ -783,6 +792,15 @@
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
         {
+          "id": "https://www.joshwcomeau.com/animation/css-transitions/",
+          "author": "Josh W. Comeau",
+          "description": "This comprehensive guide shows how to use CSS transitions! A back-to-basics look at the fundamental building blocks we need to create microinteractions and other animations.",
+          "link": "https://www.joshwcomeau.com/animation/css-transitions/",
+          "publishedOn": "2021-09-21T17:49:38.000Z",
+          "wordCount": 3507,
+          "title": "An Interactive Guide to CSS Transitions"
+        },
+        {
           "id": "https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/",
           "author": "Josh W. Comeau",
           "description": "As software developers, we're always learning new things; it's practically the whole gig! If we can learn to quickly pick up new languages/frameworks/tools, we'll become so much more effective at our job. It's sort of a superpower.",
@@ -843,6 +861,15 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=67369",
+          "author": "M.J. Kelly",
+          "description": "In real estate, the age old mantra is “location, location, location,” meaning that location drives value. That’s true even when it comes to data collection in the online world, too — your location history is valuable, authentic information. In all likelihood, you’re leaving a breadcrumb trail of location data every day, but there are a […]\nThe post Location history: How your location is tracked and how you can limit sharing it appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/internet-culture/mozilla-explains/location-history/",
+          "publishedOn": "2021-09-21T22:00:42.000Z",
+          "wordCount": 1466,
+          "title": "Location history: How your location is tracked and how you can limit sharing it"
+        },
         {
           "id": "https://blog.mozilla.org/?p=67335",
           "author": "Jonathan Claudius",
@@ -1058,15 +1085,6 @@
           "publishedOn": "2021-07-28T16:00:00.000Z",
           "wordCount": 1380,
           "title": "Celebrating Mozilla VPN: How we’re keeping your data safe for you"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=66604",
-          "author": "Damiano",
-          "description": "Our favorite tweets from journalists this week that featured baseball, a rocket and more. \nThe post Space Cowboy, Guardians of Cleveland, and Tony Award winner Ellen Barkin considers a Subtack – here is this week’s Top Shelf. appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/internet-culture/top-shelf-july-23/",
-          "publishedOn": "2021-07-23T21:08:08.000Z",
-          "wordCount": 1124,
-          "title": "Space Cowboy, Guardians of Cleveland, and Tony Award winner Ellen Barkin considers a Subtack – here is this week’s Top Shelf."
         }
       ]
     },
@@ -1109,6 +1127,20 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2590",
+          "author": "Cory Doctorow",
+          "description": "Today's links The Actual Star: Monica Byrne's millennium-spanning tour-de-force climate novel. Ignore career advice from established writers: We don't know anything about breaking in today. The Framework is the most exciting laptop I've ever used: Sustainable, upgradeable, repairable and powerful. This day in history: 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The Actual Star (permalink) This month marks the publication of \"The Actual Star,\" a new, wildly ambitious, wildly successful novel by Monica Byrne, spanning 3,000 years of history from the ancient Maya to a distant future. https://www.harpervoyagerbooks.com/book/9780063002913/the-actual-star/ The tale braids three moments: the collapse of the Mayan roy…",
+          "link": "https://pluralistic.net/2021/09/21/monica-byrne/",
+          "publishedOn": "2021-09-21T14:34:49.000Z",
+          "wordCount": 3800,
+          "title": "Pluralistic: 21 Sep 2021",
+          "enclosure": {
+            "url": "http://mpegmedia.abc.net.au/rn/podcast/2011/09/lnl_20110916_2240.mp3",
+            "length": "8706688",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "https://pluralistic.net/?p=2575",
           "author": "Cory Doctorow",
@@ -1455,15 +1487,6 @@
           "publishedOn": "2021-08-09T23:00:40.000Z",
           "wordCount": 3380,
           "title": "Tiny tools and the ephemeral nature of digital art…"
-        },
-        {
-          "id": "http://www.nathalielawhead.com/candybox/?p=5072",
-          "author": "alienmelon",
-          "description": "I just finished having a really long conversation with another friend that works in games and it inspired me to write this post. It’s given me a lot to think about. I’m still processing my experiences… As I write this, the game space is under another metoo “moment”. More of these horrible, but all too normal stories, this time coming out of Blizzard. I won’t be linking to any of these because I don’t have the stomach for it. We’ve had these “moments” come and go now for the last few years. Each time reminding this space of the abuse...",
-          "link": "http://www.nathalielawhead.com/candybox/the-machine-that-eats-people",
-          "publishedOn": "2021-07-24T00:11:20.000Z",
-          "wordCount": 3586,
-          "title": "The Machine That Eats People"
         }
       ]
     }

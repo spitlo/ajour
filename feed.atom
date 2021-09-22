@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-09-21T00:15:12.207Z</updated>
+    <updated>2021-09-22T00:17:55.606Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Location history: How your location is tracked and how you can limit sharing it]]></title>
+        <id>https://blog.mozilla.org/?p=67369</id>
+        <link href="https://blog.mozilla.org/en/internet-culture/mozilla-explains/location-history/"/>
+        <updated>2021-09-21T22:00:42.000Z</updated>
+        <summary type="html"><![CDATA[In real estate, the age old mantra is “location, location, location,” meaning that location drives value. That’s true even when it comes to data collection in the online world, too — your location history is valuable, authentic information. In all likelihood, you’re leaving a breadcrumb trail of location data every day, but there are a […]
+The post Location history: How your location is tracked and how you can limit sharing it appeared first on The Mozilla Blog.]]></summary>
+        <author>
+            <name>M.J. Kelly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Interactive Guide to CSS Transitions]]></title>
+        <id>https://www.joshwcomeau.com/animation/css-transitions/</id>
+        <link href="https://www.joshwcomeau.com/animation/css-transitions/"/>
+        <updated>2021-09-21T17:49:38.000Z</updated>
+        <summary type="html"><![CDATA[This comprehensive guide shows how to use CSS transitions! A back-to-basics look at the fundamental building blocks we need to create microinteractions and other animations.]]></summary>
+        <author>
+            <name>Josh W. Comeau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: 21 Sep 2021]]></title>
+        <id>https://pluralistic.net/?p=2590</id>
+        <link href="https://pluralistic.net/2021/09/21/monica-byrne/"/>
+        <updated>2021-09-21T14:34:49.000Z</updated>
+        <summary type="html"><![CDATA[Today's links The Actual Star: Monica Byrne's millennium-spanning tour-de-force climate novel. Ignore career advice from established writers: We don't know anything about breaking in today. The Framework is the most exciting laptop I've ever used: Sustainable, upgradeable, repairable and powerful. This day in history: 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The Actual Star (permalink) This month marks the publication of "The Actual Star," a new, wildly ambitious, wildly successful novel by Monica Byrne, spanning 3,000 years of history from the ancient Maya to a distant future. https://www.harpervoyagerbooks.com/book/9780063002913/the-actual-star/ The tale braids three moments: the collapse of the Mayan roy…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple's private relay service does not sit still]]></title>
+        <id>https://rachelbythebay.com/w/2021/09/20/hop/</id>
+        <link href="https://rachelbythebay.com/w/2021/09/20/hop/"/>
+        <updated>2021-09-21T01:45:25.000Z</updated>
+        <summary type="html"><![CDATA[I have an older iPhone that used to be my daily driver.  It mostly just 
+hangs around for testing random junk.  It's still getting updates, and 
+so when Apple offered it iOS 15 today, I installed it.  This gave me a 
+chance to turn on their beta "private relay" stuff which seems to be 
+a TOR-like system.
+
+
+What did surprise me is the lack of "stickiness" for these IP addresses.  
+Every five seconds or so, it seems to hop to another address in the same 
+(IPv6, remember) /64.  If you're not down with v6 conventions yet, this 
+means the first four parts like "xxxx:xxxx:xxxx:xxxx" stay the same, but 
+the last four change completely every time.
+
+
+I actually don't have any v4-only (aka LEGACY) stuff to try it on, so I 
+have no idea what happens on that side of the world.  It probably looks 
+about the same, albeit within a much smaller range of possible source IP 
+addresses.  It probably resembles a CGNAT type situation.
+
+It'll be fun to see what this breaks, and who howls the loudest.]]></summary>
+        <author>
+            <name>Writing - rachelbythebay</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Did you hear about Apple’s security vulnerability? Here’s how to find and remove spyware.]]></title>
         <id>https://blog.mozilla.org/?p=67335</id>
@@ -1784,27 +1844,6 @@ Continue Reading]]></summary>
         <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/flawed_data.png" title="We trained it to produce data that looked convincing, and we have to admit the results look convincing!" alt="We trained it to produce data that looked convincing, and we have to admit the results look convincing!" />]]></summary>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Machine That Eats People]]></title>
-        <id>http://www.nathalielawhead.com/candybox/?p=5072</id>
-        <link href="http://www.nathalielawhead.com/candybox/the-machine-that-eats-people"/>
-        <updated>2021-07-24T00:11:20.000Z</updated>
-        <summary type="html"><![CDATA[I just finished having a really long conversation with another friend that works in games and it inspired me to write this post. It’s given me a lot to think about. I’m still processing my experiences… As I write this, the game space is under another metoo “moment”. More of these horrible, but all too normal stories, this time coming out of Blizzard. I won’t be linking to any of these because I don’t have the stomach for it. We’ve had these “moments” come and go now for the last few years. Each time reminding this space of the abuse...]]></summary>
-        <author>
-            <name>alienmelon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Space Cowboy, Guardians of Cleveland, and Tony Award winner Ellen Barkin considers a Subtack – here is this week’s Top Shelf.]]></title>
-        <id>https://blog.mozilla.org/?p=66604</id>
-        <link href="https://blog.mozilla.org/en/internet-culture/top-shelf-july-23/"/>
-        <updated>2021-07-23T21:08:08.000Z</updated>
-        <summary type="html"><![CDATA[Our favorite tweets from journalists this week that featured baseball, a rocket and more. 
-The post Space Cowboy, Guardians of Cleveland, and Tony Award winner Ellen Barkin considers a Subtack – here is this week’s Top Shelf. appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Damiano</name>
         </author>
     </entry>
 </feed>
