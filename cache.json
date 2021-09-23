@@ -712,6 +712,15 @@
       "siteUrl": "https://esoteric.codes",
       "articles": [
         {
+          "id": "https://esoteric.codes/blog/escher-circuits-using-vision-to-perform-computation",
+          "author": null,
+          "description": "In 2008, Mark Changizi, a Sloan-Swartz Fellow in Theoretical Neuroscience at Caltech, noted that the eye can make sense of complex relationships that often mystify the brain. \n\r\n\r\nOur everyday visual perceptions rely upon unfathomably complex computations carried out by tens of billions of neurons across over half our cortex. In spite of this, it does not “feel” like work to see. Our cognitive powers are, in stark contrast, “slow and painful,” and we have great trouble with embarrassingly simple logic tasks. \n\r\nMight it be possible to harness our visual computational powers for other tasks, perhaps for tasks cognition finds difficult? \n\r\n\r\nIn other words, could we trick the eye into performing computation? \n\r\nChangizi proposed the Escher Circuit, \"a special kind of image that amounts to 'visual software' our 'visual hardware' computes\" merely through perception.\n\r\nEscher Circuits work by creating different states corresponding to how the eye resolves ambiguous images. Its core component, the wire, holds a state of 0 when we perceive it as if we are to the right of it; otherwise, it holds a state of 1.\n\r\n\nwire\n\r\n\n0\n\r\n\n1\n\r\n\r\n \nRead More",
+          "link": "https://esoteric.codes/blog/escher-circuits-using-vision-to-perform-computation",
+          "publishedOn": "2021-09-22T07:29:00.000Z",
+          "wordCount": 1009,
+          "title": "Escher Circuits: Using Vision to Perform Computation"
+        },
+        {
           "id": "https://esoteric.codes/blog/bouk-monkey-satirical-code-used-by-people-who-dont-get-the-joke",
           "author": null,
           "description": "Collisions between the personal and the commercial in open-source have become familiar, like when an irate independent developer pulled a widely-used package entirely in 2016 bringing down hundreds of projects. But we don't expect a commercial enterprise to suddenly discover a package they have long relied on forbids any use at all—and does so for a very good reason.\n\r\nThis was the realization for dapr, a “portable, serverless, event-driven runtime,” with 14k stars on GitHub, when an issue was opened last week about its dependency bouk/monkey. Monkey's license, in its entirety, reads:\n\r\n\r\nI do not give anyone permissions to use this tool for any purpose. Don’t use it.\n\r\nI’m not interested in changing this license. Please don’t ask.\n\r\n\r\nIt raises the question: do even corporate entities read the licenses of packages they use? While Dapr was called out, Arduino, SalesForce, and hundreds of other projects also reference Monkey.\nRead More",
@@ -1127,6 +1136,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2598",
+          "author": "Cory Doctorow",
+          "description": "Today's links Gig workers around the globe: One disease, many pathologies. Mutual Aid and David Graeber: A new, illustrated edition of Kropotkin's masterpiece, with an introduction from the great, much-missed hero of Occupy. Facebook algorithm boosts pro-Facebook news: Orwell was an optimist. This day in history: 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Gig workers around the globe (permalink) My 2010 YA science fiction novel For the Win imagines a global solidarity movement among precarious gig workers paid to \"gold farm\" inside massively multiplayer online games. https://craphound.com/category/ftw/ The kids who do this work realize they have more in common with each other than their bosses, and form a glo…",
+          "link": "https://pluralistic.net/2021/09/22/kropotkin-graeber/",
+          "publishedOn": "2021-09-22T16:43:23.000Z",
+          "wordCount": 3396,
+          "title": "Pluralistic: 22 Sep 2021"
+        },
         {
           "id": "https://pluralistic.net/?p=2590",
           "author": "Cory Doctorow",
