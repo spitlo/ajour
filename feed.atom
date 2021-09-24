@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-09-23T00:17:13.673Z</updated>
+    <updated>2021-09-24T00:16:14.105Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: 23 Sep 2021]]></title>
+        <id>https://pluralistic.net/?p=2606</id>
+        <link href="https://pluralistic.net/2021/09/23/remedies-beyond-antitrust/"/>
+        <updated>2021-09-23T16:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Today's links The Halloween Moon: A YA novel from Nightvale creator Joseph Fink. The music monopolists: Thinking outside the antitrust box. This day in history: 2011, 2016 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The Halloween Moon (permalink) In "The Halloween Moon," Welcome to Nightvale co-creator Joseph Fink brings his superb, unmatchable gift for balancing the weird and the real to a spooky middle-grades novel that echoes such classics as Neil Gaiman's Coraline. https://www.harpercollins.com/products/the-halloween-moon-joseph-fink If you're a stranger to Fink's work, the thing you need to know is that Nightvale and his other projects manage to walk the tightrope between weird, creepypasta-style humor and real pathos, in a glo…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Content Model Is Not a Design System]]></title>
+        <id>https://alistapart.com/article/a-content-model-is-not-a-design-system/</id>
+        <link href="https://alistapart.com/article/a-content-model-is-not-a-design-system/"/>
+        <updated>2021-09-23T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you remember when having a great website was enough? Now, people are getting answers from Siri, Google search snippets, and mobile apps, not just our websites. Forward-thinking organizations have adopted an omnichannel content strategy, whose mission is to reach audiences across multiple digital channels and platforms.
+But how do you set up a content management system (CMS) to reach your audience now and in the future? I learned the hard way that creating a content model—a definition of content types, attributes, and relationships that let people and systems understand content—with my more familiar design-system thinking would capsize my customer’s omnichannel content strategy. You can avoid that outcome by creating content models that are semantic and that also connect related content.…]]></summary>
+        <author>
+            <name>by</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A different take on the NUMA OOM killer story]]></title>
+        <id>https://rachelbythebay.com/w/2021/09/22/membind/</id>
+        <link href="https://rachelbythebay.com/w/2021/09/22/membind/"/>
+        <updated>2021-09-23T05:10:10.000Z</updated>
+        <summary type="html"><![CDATA[I was digging through some notes on old outages tonight and found 
+something potentially useful for other people.  It's something I
+have mentioned before,
+but it seems like maybe that post didn't have enough specifics to
+make it really "land" when someone else does a web search.
+
+
+On a Wednesday night not so long ago, someone opened a SEV (that is, a 
+notification of something going wrong) and said the individual tasks for 
+their service were "crash looping".  These things ran in an environment 
+where they were supervised by the job runner, so if they died, they'd be 
+restarted, but you never wanted to keep it in this kind of state.
+
+
+It looked like this had started when some update had rolled out.  That 
+is, prior to the update, their service was fine.  After they changed 
+something, it s…]]></summary>
+        <author>
+            <name>Writing - rachelbythebay</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pluralistic: 22 Sep 2021]]></title>
         <id>https://pluralistic.net/?p=2598</id>
@@ -49,6 +96,16 @@ wire
 Read More]]></summary>
         <author>
             <name>esoteric.codes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sloped Border]]></title>
+        <id>https://xkcd.com/2519/</id>
+        <link href="https://xkcd.com/2519/"/>
+        <updated>2021-09-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/sloped_border.png" title="&quot;The slope will be 74° at ground level.&quot; &quot;Okay, I think we can hack together a  ... wait, why did they specify ground level? It's 74° everywhere, right? ... Oh no, there's a whole section in the treaty labeled 'curvature.'&quot;" alt="&quot;The slope will be 74° at ground level.&quot; &quot;Okay, I think we can hack together a  ... wait, why did they specify ground level? It's 74° everywhere, right? ... Oh no, there's a whole section in the treaty labeled 'curvature.'&quot;" />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -1879,16 +1936,6 @@ Continue Reading]]></summary>
         <summary type="html"><![CDATA[Today's links Charter schools are money laundries: "The hidden world of charter schools operated for financial gain." Disney parks and aggregate demand management: My ongoing series on Medium, for an age of supply shocks. Oregon's carbon offsets go up in smoke: The Bootleg Fire is more evidence that markets can't solve the climate emergency. Surge pricing violates antitrust law: Even the weaksauce version pushed by the econ establishment. This day in history: 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Charter schools are money laundries (permalink) Critiques of charter schools usually focus on poor quality education (disproportionately affecting racialized and poor people) and dangerous ideology (the movement is fu…]]></summary>
         <author>
             <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flawed Data]]></title>
-        <id>https://xkcd.com/2494/</id>
-        <link href="https://xkcd.com/2494/"/>
-        <updated>2021-07-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/flawed_data.png" title="We trained it to produce data that looked convincing, and we have to admit the results look convincing!" alt="We trained it to produce data that looked convincing, and we have to admit the results look convincing!" />]]></summary>
-        <author>
-            <name>xkcd.com</name>
         </author>
     </entry>
 </feed>
