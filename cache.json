@@ -253,6 +253,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2520/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/symbols.png\" title=\"&quot;röntgen&quot; and &quot;rem&quot; are 20th-century physics terms that mean &quot;no trespassing.&quot;\" alt=\"&quot;röntgen&quot; and &quot;rem&quot; are 20th-century physics terms that mean &quot;no trespassing.&quot;\" />",
+          "link": "https://xkcd.com/2520/",
+          "publishedOn": "2021-09-24T00:00:00.000Z",
+          "wordCount": 183,
+          "title": "Symbols"
+        },
+        {
           "id": "https://xkcd.com/2519/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/sloped_border.png\" title=\"&quot;The slope will be 74° at ground level.&quot; &quot;Okay, I think we can hack together a  ... wait, why did they specify ground level? It's 74° everywhere, right? ... Oh no, there's a whole section in the treaty labeled 'curvature.'&quot;\" alt=\"&quot;The slope will be 74° at ground level.&quot; &quot;Okay, I think we can hack together a  ... wait, why did they specify ground level? It's 74° everywhere, right? ... Oh no, there's a whole section in the treaty labeled 'curvature.'&quot;\" />",
@@ -767,6 +776,15 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2021/09/24/new-tool--an-nginx-playground/",
+          "author": null,
+          "description": "Hello! On Wednesday I was talking to a friend about how it would be cool to\nhave an nginx playground website where you can just paste in an nginx config\nand test it out. And then I realized it might actually be pretty easy to build,\nso got excited and started coding and I built it. It’s at\nhttps://nginx-playground.wizardzines.com.\nHere’s a screenshot:\n\nFor the rest of the post I’m mostly going to talk about how I built the\nproject, because there were a few decisions that weren’t obvious to me.\nhow to use it\nYou need to enter both an nginx config and a curl or http command to make a\nHTTP request to that nginx instance\nAnd then you click “Run” in the top right, and it’ll output either:\nthe results of the command you executed (if nginx started successfully), or\nthe nginx error logs (if nginx …",
+          "link": "https://jvns.ca/blog/2021/09/24/new-tool--an-nginx-playground/",
+          "publishedOn": "2021-09-24T08:25:33.000Z",
+          "wordCount": 1500,
+          "title": "New tool: an nginx playground"
+        },
+        {
           "id": "https://jvns.ca/blog/2021/09/20/teaching-by-filling-in-knowledge-gaps/",
           "author": null,
           "description": "Hello! This post (like patterns in confusing explanations)\nis another one in the “julia attempts to articulate her teaching strategy”\nseries.\nI’ll start out by talking about a “backwards” approach to learning\nthat I think a lot of you will recognize (do projects first without fully\nunderstanding what you’re doing, fill in missing knowledge after), and then\ntalk about I try to teach in a way that works better with that mode of\nlearning.\nhow I’ve learned programming: backwards\nThere are a lot of “basic” concepts in programming, like memory management,\nnetworking, operating systems, assembly, etc. You could imagine that you learn\nprogramming by first starting with the basic concepts and then learning\nabstractions on top of those concepts.\nBut, even though I have a very traditional CS backgrou…",
@@ -1155,6 +1173,15 @@
       "siteUrl": "https://pluralistic.net",
       "articles": [
         {
+          "id": "https://pluralistic.net/?p=2611",
+          "author": "Cory Doctorow",
+          "description": "Today's links Demonopolizing the internet with interoperability: My op-ed in the Communications of the ACM This day in history: 2001, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Demonopolizing the internet with interoperability (permalink) The Communications of the Association for Computing Machinery has just published my editorial, \"Competitive Compatibility: Let's Fix the Internet, Not the Tech Giants,\" explaining how interoperability was once an engine for competition and user empowerment – and how that ended. https://cacm.acm.org/magazines/2021/10/255710-competitive-compatibility/fulltext As the title suggests, regulators are fed up with Big Tech's abuses, but they're not sure what to do about it. One approach is to \"…",
+          "link": "https://pluralistic.net/2021/09/24/comcom-acm/",
+          "publishedOn": "2021-09-24T13:20:46.000Z",
+          "wordCount": 1403,
+          "title": "Pluralistic: 24 Sep 2021"
+        },
+        {
           "id": "https://pluralistic.net/?p=2606",
           "author": "Cory Doctorow",
           "description": "Today's links The Halloween Moon: A YA novel from Nightvale creator Joseph Fink. The music monopolists: Thinking outside the antitrust box. This day in history: 2011, 2016 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The Halloween Moon (permalink) In \"The Halloween Moon,\" Welcome to Nightvale co-creator Joseph Fink brings his superb, unmatchable gift for balancing the weird and the real to a spooky middle-grades novel that echoes such classics as Neil Gaiman's Coraline. https://www.harpercollins.com/products/the-halloween-moon-joseph-fink If you're a stranger to Fink's work, the thing you need to know is that Nightvale and his other projects manage to walk the tightrope between weird, creepypasta-style humor and real pathos, in a glo…",
@@ -1480,15 +1507,6 @@
           "publishedOn": "2021-07-27T15:32:22.000Z",
           "wordCount": 2238,
           "title": "Pluralistic: 27 Jul 2021"
-        },
-        {
-          "id": "https://pluralistic.net/?p=2398",
-          "author": "Cory Doctorow",
-          "description": "Today's links Charter schools are money laundries: \"The hidden world of charter schools operated for financial gain.\" Disney parks and aggregate demand management: My ongoing series on Medium, for an age of supply shocks. Oregon's carbon offsets go up in smoke: The Bootleg Fire is more evidence that markets can't solve the climate emergency. Surge pricing violates antitrust law: Even the weaksauce version pushed by the econ establishment. This day in history: 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Charter schools are money laundries (permalink) Critiques of charter schools usually focus on poor quality education (disproportionately affecting racialized and poor people) and dangerous ideology (the movement is fu…",
-          "link": "https://pluralistic.net/2021/07/26/aggregate-demand/",
-          "publishedOn": "2021-07-26T19:09:08.000Z",
-          "wordCount": 4046,
-          "title": "Pluralistic: 26 Jul 2021"
         }
       ]
     },

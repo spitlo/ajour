@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-09-24T00:16:14.105Z</updated>
+    <updated>2021-09-25T00:17:28.431Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: 24 Sep 2021]]></title>
+        <id>https://pluralistic.net/?p=2611</id>
+        <link href="https://pluralistic.net/2021/09/24/comcom-acm/"/>
+        <updated>2021-09-24T13:20:46.000Z</updated>
+        <summary type="html"><![CDATA[Today's links Demonopolizing the internet with interoperability: My op-ed in the Communications of the ACM This day in history: 2001, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Demonopolizing the internet with interoperability (permalink) The Communications of the Association for Computing Machinery has just published my editorial, "Competitive Compatibility: Let's Fix the Internet, Not the Tech Giants," explaining how interoperability was once an engine for competition and user empowerment – and how that ended. https://cacm.acm.org/magazines/2021/10/255710-competitive-compatibility/fulltext As the title suggests, regulators are fed up with Big Tech's abuses, but they're not sure what to do about it. One approach is to "…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New tool: an nginx playground]]></title>
+        <id>https://jvns.ca/blog/2021/09/24/new-tool--an-nginx-playground/</id>
+        <link href="https://jvns.ca/blog/2021/09/24/new-tool--an-nginx-playground/"/>
+        <updated>2021-09-24T08:25:33.000Z</updated>
+        <summary type="html"><![CDATA[Hello! On Wednesday I was talking to a friend about how it would be cool to
+have an nginx playground website where you can just paste in an nginx config
+and test it out. And then I realized it might actually be pretty easy to build,
+so got excited and started coding and I built it. It’s at
+https://nginx-playground.wizardzines.com.
+Here’s a screenshot:
+
+For the rest of the post I’m mostly going to talk about how I built the
+project, because there were a few decisions that weren’t obvious to me.
+how to use it
+You need to enter both an nginx config and a curl or http command to make a
+HTTP request to that nginx instance
+And then you click “Run” in the top right, and it’ll output either:
+the results of the command you executed (if nginx started successfully), or
+the nginx error logs (if nginx …]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Symbols]]></title>
+        <id>https://xkcd.com/2520/</id>
+        <link href="https://xkcd.com/2520/"/>
+        <updated>2021-09-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/symbols.png" title="&quot;röntgen&quot; and &quot;rem&quot; are 20th-century physics terms that mean &quot;no trespassing.&quot;" alt="&quot;röntgen&quot; and &quot;rem&quot; are 20th-century physics terms that mean &quot;no trespassing.&quot;" />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pluralistic: 23 Sep 2021]]></title>
         <id>https://pluralistic.net/?p=2606</id>
@@ -1924,16 +1968,6 @@ Continue Reading]]></summary>
         <link href="https://pluralistic.net/2021/07/27/gas-on-the-fire/"/>
         <updated>2021-07-27T15:32:22.000Z</updated>
         <summary type="html"><![CDATA[Today's links What would a live concert album sound like with all the songs taken out?: Gavin Edwards' "Having Fun On Stage With Everybody." The infosec apocalypse is nigh: Ed Snowden on the NSO's malware. This day in history: 2001, 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading What would a live concert album sound like with all the songs taken out? (permalink) I've known Gavin Edwards for decades, and watched him produce a string of weird and imaginative and wholly successful projects, from his books of "mondegreens" (misheard lyrics) to his definitive biography of Mr Rogers: https://memex.craphound.com/2019/10/29/kindness-and-wonder-mr-rogers-biography-is-a-study-in-empathy-and-a-deep-genuine-love-for-children…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 26 Jul 2021]]></title>
-        <id>https://pluralistic.net/?p=2398</id>
-        <link href="https://pluralistic.net/2021/07/26/aggregate-demand/"/>
-        <updated>2021-07-26T19:09:08.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Charter schools are money laundries: "The hidden world of charter schools operated for financial gain." Disney parks and aggregate demand management: My ongoing series on Medium, for an age of supply shocks. Oregon's carbon offsets go up in smoke: The Bootleg Fire is more evidence that markets can't solve the climate emergency. Surge pricing violates antitrust law: Even the weaksauce version pushed by the econ establishment. This day in history: 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Charter schools are money laundries (permalink) Critiques of charter schools usually focus on poor quality education (disproportionately affecting racialized and poor people) and dangerous ideology (the movement is fu…]]></summary>
         <author>
             <name>Cory Doctorow</name>
         </author>
