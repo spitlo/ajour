@@ -208,15 +208,6 @@
           "publishedOn": "2021-08-10T17:38:00.000Z",
           "wordCount": 4024,
           "title": "Mailbag: Plot. It’s a Problem."
-        },
-        {
-          "id": "http://emshort.blog/?p=42004",
-          "author": "Emily Short",
-          "description": "Events The competition for games with a classic text parser, ParserComp, is just winding up now, so the results should be visible either now or in the very near future. And if you haven’t had a chance to play yet, you may enjoy checking out the range of games here. August 2-6 is the Foundations … Continue reading \"End of July Link Assortment\"",
-          "link": "https://emshort.blog/2021/07/31/end-of-july-link-assortment-5/",
-          "publishedOn": "2021-07-31T10:23:00.000Z",
-          "wordCount": 1925,
-          "title": "End of July Link Assortment"
         }
       ]
     },
@@ -225,6 +216,15 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2521/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/toothpaste.png\" title=\"&quot;9 out of 10 dentists have banned me from their offices.&quot;\" alt=\"&quot;9 out of 10 dentists have banned me from their offices.&quot;\" />",
+          "link": "https://xkcd.com/2521/",
+          "publishedOn": "2021-09-27T00:00:00.000Z",
+          "wordCount": 183,
+          "title": "Toothpaste"
+        },
         {
           "id": "https://xkcd.com/2520/",
           "author": null,
@@ -783,6 +783,42 @@
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
         {
+          "id": "https://www.joshwcomeau.com/animation/3d-button/",
+          "author": "Josh W. Comeau",
+          "description": "Every action we take on the web starts with a button click, and yet most buttons are ho-hum and uninspired. In this tutorial, we'll build an animated 3D button with HTML and CSS that sparks joy.",
+          "link": "https://www.joshwcomeau.com/animation/3d-button/",
+          "publishedOn": "2021-09-28T14:03:38.000Z",
+          "wordCount": 2340,
+          "title": "Building a Magical 3D Button"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/css/the-importance-of-learning-css/",
+          "author": "Josh W. Comeau",
+          "description": "I know so many super-talented developers who share the same achilles heel: CSS. Instead of trying to “outrun” CSS, this article explores why leaning in and going deeper can be a tremendous boon for your development life and your career.",
+          "link": "https://www.joshwcomeau.com/css/the-importance-of-learning-css/",
+          "publishedOn": "2021-09-28T14:03:38.000Z",
+          "wordCount": 2015,
+          "title": "The Importance of Learning CSS"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/css/stacking-contexts/",
+          "author": "Josh W. Comeau",
+          "description": "The z-index property can be a tricky little bugger. Sometimes, no matter how much you crank up the number, the element never rises to the top! In this article, we explore stacking contexts, and see how they can thwart our efforts to use z-index. We'll also learn how to use this mechanism to our advantage.",
+          "link": "https://www.joshwcomeau.com/css/stacking-contexts/",
+          "publishedOn": "2021-09-28T14:03:38.000Z",
+          "wordCount": 2581,
+          "title": "What the heck, z-index??"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/css/full-bleed/",
+          "author": "Josh W. Comeau",
+          "description": "Certain layouts are surprisingly dastardly. On the modern web, one of the most common layouts is also one of the trickiest. In this tutorial, I break down how to build the \"full-bleed\" layout using CSS Grid.",
+          "link": "https://www.joshwcomeau.com/css/full-bleed/",
+          "publishedOn": "2021-09-28T14:03:38.000Z",
+          "wordCount": 1791,
+          "title": "Full-Bleed Layout Using CSS Grid"
+        },
+        {
           "id": "https://www.joshwcomeau.com/animation/css-transitions/",
           "author": "Josh W. Comeau",
           "description": "This comprehensive guide shows how to use CSS transitions! A back-to-basics look at the fundamental building blocks we need to create microinteractions and other animations.",
@@ -1091,6 +1127,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2631",
+          "author": "Cory Doctorow",
+          "description": "Today's links Democrats can pass the reconciliation today (sorta): A bet on the 'endowment effect.' This day in history: 2001, 2016, 2020 Colophon: Resourcecent publications, upcoming/recent appearances, current writing projects, current reading Democrats can pass the reconciliation today (sorta) (permalink) This week, millions are playing Congressional Kremlinology, guessing whether House/Senate Dems have the votes for the $3.5T reconciliation package, playing Fantasy Football Sophie's Choice to cut programs if corporate Dems whittle it down. https://prospect.org/infrastructure/building-back-america/infrastructure-summer-sophies-choice-of-the-reconciliation-bill/ But as Harold Meyerson writes for The American Prospect, there's a high-stakes, high-risk gambit that would let the willing, pr…",
+          "link": "https://pluralistic.net/2021/09/28/timescale-dependent/",
+          "publishedOn": "2021-09-28T16:10:00.000Z",
+          "wordCount": 1689,
+          "title": "Pluralistic: 28 Sep 2021"
+        },
         {
           "id": "https://pluralistic.net/?p=2623",
           "author": "Cory Doctorow",
@@ -1422,15 +1467,6 @@
           "publishedOn": "2021-08-01T15:08:26.000Z",
           "wordCount": 1936,
           "title": "Pluralistic: 01 Aug 2021"
-        },
-        {
-          "id": "https://pluralistic.net/?p=2411",
-          "author": "Cory Doctorow",
-          "description": "Today's links Games Workshop declares war on its customers (again): Terms of service banning fan art launch alongside a new transmedia subscription service. This day in history: 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Games Workshop declares war on its customers (again) (permalink) There's a difference between a con-artist and a grifter. A con-artist is just a gabby mugger, and when they vanish with your money, you know you've been robbed. A grifter, on the other hand, is someone who can work the law to declare your stuff to be their stuff, which makes you a lawless cur because your pockets are stuffed full of their money and merely handing it over is the least you can do to make up for your sin. IP trolls…",
-          "link": "https://pluralistic.net/2021/07/30/space-marines/",
-          "publishedOn": "2021-07-30T21:01:29.000Z",
-          "wordCount": 3391,
-          "title": "Pluralistic: 30 Jul 2021"
         }
       ]
     },
