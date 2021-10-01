@@ -126,15 +126,6 @@
           "publishedOn": "2021-08-13T00:00:00.000Z",
           "wordCount": 6909,
           "title": "A guide to designing accessible, WCAG-compliant focus indicators"
-        },
-        {
-          "id": "https://sarasoueidan.com/blog/curating-aaa/",
-          "author": null,
-          "description": "I’m speaking, MC’ing and curating the programme for Access All Areas — an upcoming accessibility-focussed conference. Here’s all about the event, and how you can join us to learn more about accessibility, and maybe even present and share your expertise at the event!\nAbout the conference (what, when, where)\nAccess All Areas (or aaa) is a new online conference—part of a series of focussed conferences created by the folks at Web Directions. This conference is focussed on accessibility for developers: understanding the different kinds of accessibility issues that our code may create, finding those issues using available auditing and testing tools, as well as techniques and technologies for addressing them.\nThis inclusive, remote-friendly conference will take place for the first time this year …",
-          "link": "https://sarasoueidan.com/blog/curating-aaa/",
-          "publishedOn": "2021-08-02T00:00:00.000Z",
-          "wordCount": 902,
-          "title": "I’m curating the programme for an upcoming accessibility-focussed conference ✨"
         }
       ]
     },
@@ -155,6 +146,15 @@
       "feedUrl": "https://emshort.blog/feed/",
       "siteUrl": "https://emshort.blog",
       "articles": [
+        {
+          "id": "http://emshort.blog/?p=42219",
+          "author": "Emily Short",
+          "description": "Events Tomorrow, October 1, IF Comp games will be available to play and judge. Anyone can participate in judging — so if you want to be part of that, check out the website for instructions. The judging period runs through November 15. October 2 is the next meetup of the San Francisco Bay Area IF … Continue reading \"End of September Link Assortment\"",
+          "link": "https://emshort.blog/2021/09/30/end-of-september-link-assortment-6/",
+          "publishedOn": "2021-09-30T17:30:00.000Z",
+          "wordCount": 2011,
+          "title": "End of September Link Assortment"
+        },
         {
           "id": "http://emshort.blog/?p=42212",
           "author": "Emily Short",
@@ -216,6 +216,15 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2522/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/two_factor_security_key.png\" title=\"The bruises on my fingertips are my proof of work.\" alt=\"The bruises on my fingertips are my proof of work.\" />",
+          "link": "https://xkcd.com/2522/",
+          "publishedOn": "2021-09-29T00:00:00.000Z",
+          "wordCount": 187,
+          "title": "Two-Factor Security Key"
+        },
         {
           "id": "https://xkcd.com/2521/",
           "author": null,
@@ -431,15 +440,6 @@
           "publishedOn": "2021-08-04T00:00:00.000Z",
           "wordCount": 185,
           "title": "Forest Walk"
-        },
-        {
-          "id": "https://xkcd.com/2497/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/logic_gates.png\" title=\"In C, the multiocular O represents the bitwise norxondor gorgonax.\" alt=\"In C, the multiocular O represents the bitwise norxondor gorgonax.\" />",
-          "link": "https://xkcd.com/2497/",
-          "publishedOn": "2021-08-02T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Logic Gates"
         }
       ]
     },
@@ -555,15 +555,6 @@
           "publishedOn": "2021-08-16T00:00:00.000Z",
           "wordCount": 257,
           "title": "Hold Up the Sky [book]"
-        },
-        {
-          "id": "me-and-tinnitus-entry-3",
-          "author": null,
-          "description": "The day after my last entry on my tinnitus I was approved, or rather I was in an acceptable range of hearing, to qualify for the Lenire treatment. The equipment isn't cheap but I've always justified the money spent on improving my health or mental health is always money worth spending. So I paid up the equipment was configured and shipped from Ireland on the Friday and I had my \"fitting\" appointment on the Wednesday. Then I was off.",
-          "link": "https://remysharp.com/2021/08/02/me-and-tinnitus-entry-3",
-          "publishedOn": "2021-08-02T00:00:00.000Z",
-          "wordCount": 1030,
-          "title": "Me & Tinnitus: entry 3 [blog]"
         }
       ]
     },
@@ -572,6 +563,15 @@
       "feedUrl": "https://rachelbythebay.com/w/atom.xml",
       "siteUrl": "https://rachelbythebay.com/w/",
       "articles": [
+        {
+          "id": "https://rachelbythebay.com/w/2021/09/29/alnum/",
+          "author": null,
+          "description": "I got really bored tonight and went down some rabbit holes and turned up \nsomething from about a year ago.  If you follow the latest Linux type \nstuff, you probably remember this, but if not, this might seem new to \nyou.  It's just something dumb and amusing.\n\n\nGo grab a Linux box with glibc on it.  Then compile and run this C code:\n\n\nThen run it and watch what happens.  If you have multiple machines, try \nit on some of them and compare the results.  If the results are \ndifferent, why do you suppose that is?\n\n\nNeat, right?  It makes me want to go looking for places where people are \ncalling these functions with ints that I can control to see if I can \nblow it up.\n\nsource\nto see how the sausage is made by someone who did the work already.\n\n\n...\n\n\nThis is awesome because it's that many more possibilities.  I had been \ngrepping source for \"isalnum\" to try to find inputs I can control, but \nnow I realize that FAR more functions give a way into this.  Have fun!",
+          "link": "https://rachelbythebay.com/w/2021/09/29/alnum/",
+          "publishedOn": "2021-09-30T05:34:02.000Z",
+          "wordCount": 403,
+          "title": "Fun with glibc and the ctype.h functions"
+        },
         {
           "id": "https://rachelbythebay.com/w/2021/09/22/membind/",
           "author": null,
@@ -661,15 +661,6 @@
           "publishedOn": "2021-08-17T21:27:02.000Z",
           "wordCount": 941,
           "title": "Asking nicely for root command execution (and getting it)"
-        },
-        {
-          "id": "https://rachelbythebay.com/w/2021/08/02/meetings/",
-          "author": null,
-          "description": "I was a new employee.  I wanted to see what the reliability situation \nwas at the company.  Nobody was going to just tell me, so I had to just \ntry a bunch of things to see how much could be learned from poking \naround.\n\n\nAt one of them, there were two people representing a single outage.  One \nof them (\"user\") was from this team that used GPUs to compute something \nor other.  The other one (\"service\") managed the team that ran the \ngunk that let people ask for machines with GPUs so they can run stuff.  \nWhat happened is that \"service\" presented it as \"user screwed up and \nwas down because of some stuff that happened\".\n\n\nIt turned out to be a completely different story than the one they were \npitching.  In fact, what happened is that the \"service\" team made some \nchange and started shippin…",
-          "link": "https://rachelbythebay.com/w/2021/08/02/meetings/",
-          "publishedOn": "2021-08-02T09:15:15.000Z",
-          "wordCount": 1160,
-          "title": "Reliability meeting experiences"
         }
       ]
     },
@@ -1128,6 +1119,15 @@
       "siteUrl": "https://pluralistic.net",
       "articles": [
         {
+          "id": "https://pluralistic.net/?p=2647",
+          "author": "Cory Doctorow",
+          "description": "Today's links Facebook thrives on criticism of \"disinformation\": They'd rather be evil than incompetent. This day in history: 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Facebook thrives on criticism of \"disinformation\" (permalink) The mainstream critique of Facebook is surprisingly compatible with Facebook's own narrative about its products. FB critics say that the company's machine learning and data-gathering slides disinformation past users' critical faculties, poisoning their minds. Meanwhile, Facebook itself tells advertisers that it can use data and machine learning to slide past users' critical faculties, convincing them to buy stuff. In other words, the mainline of Facebook critics start from the presumption that …",
+          "link": "https://pluralistic.net/2021/09/30/dont-believe-the-criti-hype/",
+          "publishedOn": "2021-09-30T18:06:31.000Z",
+          "wordCount": 2763,
+          "title": "Pluralistic: 30 Sep 2021"
+        },
+        {
           "id": "https://pluralistic.net/?p=2638",
           "author": "Cory Doctorow",
           "description": "Today's links Debts that can't be paid, won't be paid: The first David Graeber Foundation meetup, between Thomas Piketty and Michael Hudson. \"Are you calling me a racist?\": The libertarian case for racism. Wells Fargo can't stop criming: The nation's third-biggest bank is a criminal enterprise. This day in history: 2001, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Debts that can't be paid, won't be paid (permalink) It's been just over a year since the death of activist, writer and anthropologist Gavid Graeber – a brilliant speaker, writer and thinker who helped give us Occupy, \"we are the 99%\" and \"Bullshit Jobs.\" On the anniversary of David's death, his widow Nika Dubrovsky convened the first \"Art Project\" discussi…",
@@ -1467,15 +1467,6 @@
             "length": "0",
             "type": "audio/mpeg"
           }
-        },
-        {
-          "id": "https://pluralistic.net/?p=2414",
-          "author": "Cory Doctorow",
-          "description": "Today's links Github pledges legal aid for interoperators: Youtube-dl's legacy. This day in history: 2001, 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Github pledges legal aid for interoperators (permalink) Last October, the RIAA launched a bizarre campaign of legal bullying against youtube-dl, a free/open library that lets people save Youtube (and other) videos for a variety of purposes, including critical analysis, offline viewing, archiving and remixing. https://pluralistic.net/2020/10/24/1201-v-dl-youtube/#1201 The RIAA attacked youtube-dl under Section 1201 of the Digital Millennium Copyright Act (DMCA1201) a 1998 law that indiscriminately bans helping people remove DRM, even if no copyright infringement …",
-          "link": "https://pluralistic.net/2021/08/01/balance-of-forces/",
-          "publishedOn": "2021-08-01T15:08:26.000Z",
-          "wordCount": 1936,
-          "title": "Pluralistic: 01 Aug 2021"
         }
       ]
     },

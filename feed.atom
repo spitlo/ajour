@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-09-30T00:18:46.717Z</updated>
+    <updated>2021-10-01T00:18:02.214Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: 30 Sep 2021]]></title>
+        <id>https://pluralistic.net/?p=2647</id>
+        <link href="https://pluralistic.net/2021/09/30/dont-believe-the-criti-hype/"/>
+        <updated>2021-09-30T18:06:31.000Z</updated>
+        <summary type="html"><![CDATA[Today's links Facebook thrives on criticism of "disinformation": They'd rather be evil than incompetent. This day in history: 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Facebook thrives on criticism of "disinformation" (permalink) The mainstream critique of Facebook is surprisingly compatible with Facebook's own narrative about its products. FB critics say that the company's machine learning and data-gathering slides disinformation past users' critical faculties, poisoning their minds. Meanwhile, Facebook itself tells advertisers that it can use data and machine learning to slide past users' critical faculties, convincing them to buy stuff. In other words, the mainline of Facebook critics start from the presumption that …]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[End of September Link Assortment]]></title>
+        <id>http://emshort.blog/?p=42219</id>
+        <link href="https://emshort.blog/2021/09/30/end-of-september-link-assortment-6/"/>
+        <updated>2021-09-30T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Events Tomorrow, October 1, IF Comp games will be available to play and judge. Anyone can participate in judging — so if you want to be part of that, check out the website for instructions. The judging period runs through November 15. October 2 is the next meetup of the San Francisco Bay Area IF … Continue reading "End of September Link Assortment"]]></summary>
+        <author>
+            <name>Emily Short</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fun with glibc and the ctype.h functions]]></title>
+        <id>https://rachelbythebay.com/w/2021/09/29/alnum/</id>
+        <link href="https://rachelbythebay.com/w/2021/09/29/alnum/"/>
+        <updated>2021-09-30T05:34:02.000Z</updated>
+        <summary type="html"><![CDATA[I got really bored tonight and went down some rabbit holes and turned up 
+something from about a year ago.  If you follow the latest Linux type 
+stuff, you probably remember this, but if not, this might seem new to 
+you.  It's just something dumb and amusing.
+
+
+Go grab a Linux box with glibc on it.  Then compile and run this C code:
+
+
+Then run it and watch what happens.  If you have multiple machines, try 
+it on some of them and compare the results.  If the results are 
+different, why do you suppose that is?
+
+
+Neat, right?  It makes me want to go looking for places where people are 
+calling these functions with ints that I can control to see if I can 
+blow it up.
+
+source
+to see how the sausage is made by someone who did the work already.
+
+
+...
+
+
+This is awesome because it's that many more possibilities.  I had been 
+grepping source for "isalnum" to try to find inputs I can control, but 
+now I realize that FAR more functions give a way into this.  Have fun!]]></summary>
+        <author>
+            <name>Writing - rachelbythebay</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pluralistic: 29 Sep 2021]]></title>
         <id>https://pluralistic.net/?p=2638</id>
@@ -27,6 +84,16 @@ We thought we'd document the process of fixing a shower power cord. Although, th
 In …]]></summary>
         <author>
             <name>Rekka Bellum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two-Factor Security Key]]></title>
+        <id>https://xkcd.com/2522/</id>
+        <link href="https://xkcd.com/2522/"/>
+        <updated>2021-09-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/two_factor_security_key.png" title="The bruises on my fingertips are my proof of work." alt="The bruises on my fingertips are my proof of work." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -1847,75 +1914,6 @@ The post Privacy analysis of SWAN.community and United ID 2.0 appeared first on 
         <link href="https://pluralistic.net/2021/08/02/autoquack/"/>
         <updated>2021-08-02T16:57:12.000Z</updated>
         <summary type="html"><![CDATA[Today's links Machine learning sucks at covid: Every "AI" covid tool was useless. Podcasting "Are We Having Fun Yet?": The first three parts of my ongoing Medium series on queueing, aggregate demand management and theme parks. This day in history: 2020, 2016, 2011, 2006, 2001 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Machine learning sucks at covid (permalink) The worst part of machine learning snake-oil isn't that it's useless or harmful – it's that ML-based statistical conclusions have the veneer of mathematics, the empirical facewash that makes otherwise suspect conclusions seem neutral, factual and scientific. Think of "predictive policing," in which police arrest data is fed to a statistical model that tells the police where …]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reliability meeting experiences]]></title>
-        <id>https://rachelbythebay.com/w/2021/08/02/meetings/</id>
-        <link href="https://rachelbythebay.com/w/2021/08/02/meetings/"/>
-        <updated>2021-08-02T09:15:15.000Z</updated>
-        <summary type="html"><![CDATA[I was a new employee.  I wanted to see what the reliability situation 
-was at the company.  Nobody was going to just tell me, so I had to just 
-try a bunch of things to see how much could be learned from poking 
-around.
-
-
-At one of them, there were two people representing a single outage.  One 
-of them ("user") was from this team that used GPUs to compute something 
-or other.  The other one ("service") managed the team that ran the 
-gunk that let people ask for machines with GPUs so they can run stuff.  
-What happened is that "service" presented it as "user screwed up and 
-was down because of some stuff that happened".
-
-
-It turned out to be a completely different story than the one they were 
-pitching.  In fact, what happened is that the "service" team made some 
-change and started shippin…]]></summary>
-        <author>
-            <name>Writing - rachelbythebay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I’m curating the programme for an upcoming accessibility-focussed conference ✨]]></title>
-        <id>https://sarasoueidan.com/blog/curating-aaa/</id>
-        <link href="https://sarasoueidan.com/blog/curating-aaa/"/>
-        <updated>2021-08-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I’m speaking, MC’ing and curating the programme for Access All Areas — an upcoming accessibility-focussed conference. Here’s all about the event, and how you can join us to learn more about accessibility, and maybe even present and share your expertise at the event!
-About the conference (what, when, where)
-Access All Areas (or aaa) is a new online conference—part of a series of focussed conferences created by the folks at Web Directions. This conference is focussed on accessibility for developers: understanding the different kinds of accessibility issues that our code may create, finding those issues using available auditing and testing tools, as well as techniques and technologies for addressing them.
-This inclusive, remote-friendly conference will take place for the first time this year …]]></summary>
-        <author>
-            <name>Blog on SaraSoueidan.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logic Gates]]></title>
-        <id>https://xkcd.com/2497/</id>
-        <link href="https://xkcd.com/2497/"/>
-        <updated>2021-08-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/logic_gates.png" title="In C, the multiocular O represents the bitwise norxondor gorgonax." alt="In C, the multiocular O represents the bitwise norxondor gorgonax." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Me & Tinnitus: entry 3 [blog]]]></title>
-        <id>me-and-tinnitus-entry-3</id>
-        <link href="https://remysharp.com/2021/08/02/me-and-tinnitus-entry-3"/>
-        <updated>2021-08-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The day after my last entry on my tinnitus I was approved, or rather I was in an acceptable range of hearing, to qualify for the Lenire treatment. The equipment isn't cheap but I've always justified the money spent on improving my health or mental health is always money worth spending. So I paid up the equipment was configured and shipped from Ireland on the Friday and I had my "fitting" appointment on the Wednesday. Then I was off.]]></summary>
-        <author>
-            <name>remy sharp's b:log</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 01 Aug 2021]]></title>
-        <id>https://pluralistic.net/?p=2414</id>
-        <link href="https://pluralistic.net/2021/08/01/balance-of-forces/"/>
-        <updated>2021-08-01T15:08:26.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Github pledges legal aid for interoperators: Youtube-dl's legacy. This day in history: 2001, 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Github pledges legal aid for interoperators (permalink) Last October, the RIAA launched a bizarre campaign of legal bullying against youtube-dl, a free/open library that lets people save Youtube (and other) videos for a variety of purposes, including critical analysis, offline viewing, archiving and remixing. https://pluralistic.net/2020/10/24/1201-v-dl-youtube/#1201 The RIAA attacked youtube-dl under Section 1201 of the Digital Millennium Copyright Act (DMCA1201) a 1998 law that indiscriminately bans helping people remove DRM, even if no copyright infringement …]]></summary>
         <author>
             <name>Cory Doctorow</name>
         </author>
