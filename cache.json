@@ -217,6 +217,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2523/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/endangered.png\" title=\"The list includes polio, Guinea worm, and this one particular enterovirus strain that they've been tracking out of spite after it went around the lab a few years ago.\" alt=\"The list includes polio, Guinea worm, and this one particular enterovirus strain that they've been tracking out of spite after it went around the lab a few years ago.\" />",
+          "link": "https://xkcd.com/2523/",
+          "publishedOn": "2021-10-01T00:00:00.000Z",
+          "wordCount": 183,
+          "title": "Endangered"
+        },
+        {
           "id": "https://xkcd.com/2522/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/two_factor_security_key.png\" title=\"The bruises on my fingertips are my proof of work.\" alt=\"The bruises on my fingertips are my proof of work.\" />",
@@ -880,6 +889,33 @@
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
         {
+          "id": "https://blog.mozilla.org/?p=67511",
+          "author": "Damiano",
+          "description": "At Mozilla, we believe part of making the internet we want is celebrating the best of the internet, and that can be as simple as sharing a tweet that made us pause in our feed. Twitter isn’t perfect, but there are individual tweets that come pretty close. Each week in Top Shelf, we will be […]\nThe post Miracle Whip, Finstas, #InternationalPodcastDay, and #FreeBritney all made the Top Shelf this week appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/internet-culture/best-tweets-miracle-whip-finstas-internationalpodcastday-freebritney-oct-1/",
+          "publishedOn": "2021-10-01T22:12:36.000Z",
+          "wordCount": 1164,
+          "title": "Miracle Whip, Finstas, #InternationalPodcastDay, and #FreeBritney all made the Top Shelf this week"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=67487",
+          "author": "Eric Rescorla",
+          "description": "Fingerprinting is a major threat to user privacy on the Web. Fingerprinting uses existing properties of your browser like screen size, installed add-ons, etc. to create a unique or semi-unique identifier which it can use to track you around the Web. Even if individual values are not particularly unique, the combination of values can be […]\nThe post Analysis of  Google’s Privacy Budget Proposal appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/google-privacy-budget-analysis/",
+          "publishedOn": "2021-10-01T16:00:00.000Z",
+          "wordCount": 1309,
+          "title": "Analysis of  Google’s Privacy Budget Proposal"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=67455",
+          "author": "Jenifer Boscacci",
+          "description": "A password is like a key to your house. In the online world, your password keeps your house of personal information safe, so a super strong password is like having a superhero in a fight of good vs. evil. In recognition of Cybersecurity Awareness month, we revisited our “Princesses make terrible passwords for Disney+ and […]\nThe post Superhero passwords may be your kryptonite wherever you go online appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/news/superhero-passwords-may-be-your-kryptonite-wherever-you-go-online/",
+          "publishedOn": "2021-10-01T13:00:41.000Z",
+          "wordCount": 1470,
+          "title": "Superhero passwords may be your kryptonite wherever you go online"
+        },
+        {
           "id": "https://blog.mozilla.org/?p=67369",
           "author": "M.J. Kelly",
           "description": "In real estate, the age old mantra is “location, location, location,” meaning that location drives value. That’s true even when it comes to data collection in the online world, too — your location history is valuable, authentic information. In all likelihood, you’re leaving a breadcrumb trail of location data every day, but there are a […]\nThe post Location history: How your location is tracked and how you can limit sharing it appeared first on The Mozilla Blog.",
@@ -1453,20 +1489,6 @@
           "publishedOn": "2021-08-03T16:40:33.000Z",
           "wordCount": 1671,
           "title": "Pluralistic: 03 Aug 2021"
-        },
-        {
-          "id": "https://pluralistic.net/?p=2422",
-          "author": "Cory Doctorow",
-          "description": "Today's links Machine learning sucks at covid: Every \"AI\" covid tool was useless. Podcasting \"Are We Having Fun Yet?\": The first three parts of my ongoing Medium series on queueing, aggregate demand management and theme parks. This day in history: 2020, 2016, 2011, 2006, 2001 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Machine learning sucks at covid (permalink) The worst part of machine learning snake-oil isn't that it's useless or harmful – it's that ML-based statistical conclusions have the veneer of mathematics, the empirical facewash that makes otherwise suspect conclusions seem neutral, factual and scientific. Think of \"predictive policing,\" in which police arrest data is fed to a statistical model that tells the police where …",
-          "link": "https://pluralistic.net/2021/08/02/autoquack/",
-          "publishedOn": "2021-08-02T16:57:12.000Z",
-          "wordCount": 2287,
-          "title": "Pluralistic: 02 Aug 2021",
-          "enclosure": {
-            "url": "https://archive.org/download/Cory_Doctorow_Podcast_398/Cory_Doctorow_Podcast_398_-_Are_We_Having_Fun_Yet.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          }
         }
       ]
     },
