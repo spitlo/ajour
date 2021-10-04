@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-10-03T00:18:46.886Z</updated>
+    <updated>2021-10-04T00:18:00.817Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Summary of changes for September]]></title>
+        <id>log.html#sep2021</id>
+        <link href="https://100r.co/site/log.html#sep2021"/>
+        <updated>2021-10-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone! This is the list of all the changes we've done to our projects and apps during the month of September. We'll also be reporting in our on position in the world, and on our future plans.
+Summary Of Changes
+Orca, added way for instances of Orca to talk to each other.
+Calc, wrote a little graphical calculator to help with learning binary and hexadecimal.
+Dexe, added option to copy the textual value of a selection.
+Uxn, updated UxnDS emulator.
+Wiktopher, added Chapter 16: The Big Dark.
+100R, added new pages: Western Canada, alcohol stove, decorations and shore power cord repair. The site also has a new splash.
+News
+It is an early announcement, but end of June 2022 we will be giving a keynote presentation, alongside Khyam Allami, at NIME(New Interfaces for Musical Expression).
+Rekka wrote an article on Saving Energy When Cooking Aboard for Noonsite.
+Check out Eli's guide on installing Uxn on OS X, and Keijiro's version of Flappy Bird in UxnTal.
+Our friends at Compudanzas have released part 6 of their Introduction to Uxn Programming tutorial. This new chapter basically shows you how to build Pong!
+Pino book club
+We started reading The Stories of Ray Bradbury by Ray Bradbury. Favorite shorts so far include There Will Come Soft Rains, The Coffin and There Was an Old Woman.
+Pino's location: 48° 42.230'N, 123° 36.900'W
+Continue Reading]]></summary>
+        <author>
+            <name>Rekka Bellum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The CSS prefers-color-scheme user query and order of preference]]></title>
+        <id>https://sarasoueidan.com/blog/prefers-color-scheme-browser-vs-os/</id>
+        <link href="https://sarasoueidan.com/blog/prefers-color-scheme-browser-vs-os/"/>
+        <updated>2021-10-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I spent some time in Reeder app this morning, catching up with RSS and the latest articles published by my favorite blogs.
+I was reading Scott O’Hara’s article about using JavaScript to detect high contrast and dark modes, which includes a small, very useful script to do exactly what the title says. The output of that script at first looked like it was a “false positive”. But some further investigation led me to learn something new about the prefers-color-scheme CSS user query.
+
+Scott’s article includes a Codepen to demonstrate the output of the script. The script will check and detect if you currently have high contrast mode or dark mode enabled, and will output the result of the check.
+See the Pen 
+  JavaScript to detect media queries by Scott (@scottohara)
+  on CodePen.
+
+
+Since JavaScri…]]></summary>
+        <author>
+            <name>Blog on SaraSoueidan.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pluralistic: 02 Oct 2021]]></title>
         <id>https://pluralistic.net/?p=2658</id>
@@ -1928,38 +1973,6 @@ But on May 6, 1956, Roger Bannister took everyone by surprise. It was a cold, we
 This shift in the benchmark had profound effects; the world now knew that the four-minute mile was possible. Bannister’s record lasted only forty-six days, when it was snatched away by Australian ru…]]></summary>
         <author>
             <name>by</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Facebook’s claims about the Ad Observer are wrong]]></title>
-        <id>https://blog.mozilla.org/?p=66790</id>
-        <link href="https://blog.mozilla.org/en/mozilla/news/why-facebooks-claims-about-the-ad-observer-are-wrong/"/>
-        <updated>2021-08-04T17:33:45.000Z</updated>
-        <summary type="html"><![CDATA[Recently the Surgeon General of the United States weighed in on the spread of disinformation on major platforms and its effects on people and society. He echoed the calls of researchers, activists and organizations, like Mozilla, for the major platforms to release more data, and to provide access to researchers in order to analyze the […]
-The post Why Facebook’s claims about the Ad Observer are wrong appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Marshall Erwin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Privacy analysis of SWAN.community and United ID 2.0]]></title>
-        <id>https://blog.mozilla.org/?p=66787</id>
-        <link href="https://blog.mozilla.org/en/mozilla/swan-uid2-privacy/"/>
-        <updated>2021-08-04T17:13:53.000Z</updated>
-        <summary type="html"><![CDATA[Earlier this summer, we started a series of blog posts analyzing the technical merits of the various privacy-preserving advertising proposals out there. Our goal is to advance the debate and help break down this complex topic. In this new addition to this series, we look at the SWAN.community and United ID 2.0 proposals. We have […]
-The post Privacy analysis of SWAN.community and United ID 2.0 appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Mozilla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 04 Aug 2021]]></title>
-        <id>https://pluralistic.net/?p=2436</id>
-        <link href="https://pluralistic.net/2021/08/04/eighty-sixed/"/>
-        <updated>2021-08-04T16:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Vaccine refusal and health insurance: Insurers to unvaccinated: "Drop dead." Congress has allocated enough money to end the eviction crisis: But they asked the states to hand it out. Utilities governed like empires: One bad account disconnection can cost you everything. This day in history: 2001, 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Vaccine refusal and health insurance (permalink) At the start of the pandemic, the otherwise irredeemable American health insurance industry experienced a momentary lapse in shittiness and agreed to waive copayments and deductibles for covid hospitalizations. Now, that's ending. This is bad news for anyone who gets hospitalized with covid, because hospitals hav…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
         </author>
     </entry>
 </feed>

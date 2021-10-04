@@ -76,6 +76,15 @@
       "siteUrl": "https://100r.co",
       "articles": [
         {
+          "id": "log.html#sep2021",
+          "author": "Rekka Bellum",
+          "description": "Hey everyone! This is the list of all the changes we've done to our projects and apps during the month of September. We'll also be reporting in our on position in the world, and on our future plans.\nSummary Of Changes\nOrca, added way for instances of Orca to talk to each other.\nCalc, wrote a little graphical calculator to help with learning binary and hexadecimal.\nDexe, added option to copy the textual value of a selection.\nUxn, updated UxnDS emulator.\nWiktopher, added Chapter 16: The Big Dark.\n100R, added new pages: Western Canada, alcohol stove, decorations and shore power cord repair. The site also has a new splash.\nNews\nIt is an early announcement, but end of June 2022 we will be giving a keynote presentation, alongside Khyam Allami, at NIME(New Interfaces for Musical Expression).\nRekka wrote an article on Saving Energy When Cooking Aboard for Noonsite.\nCheck out Eli's guide on installing Uxn on OS X, and Keijiro's version of Flappy Bird in UxnTal.\nOur friends at Compudanzas have released part 6 of their Introduction to Uxn Programming tutorial. This new chapter basically shows you how to build Pong!\nPino book club\nWe started reading The Stories of Ray Bradbury by Ray Bradbury. Favorite shorts so far include There Will Come Soft Rains, The Coffin and There Was an Old Woman.\nPino's location: 48° 42.230'N, 123° 36.900'W\nContinue Reading",
+          "link": "https://100r.co/site/log.html#sep2021",
+          "publishedOn": "2021-10-03T00:00:00.000Z",
+          "wordCount": 5918,
+          "title": "Summary of changes for September"
+        },
+        {
           "id": "shore_power_cord_repair.html",
           "author": "Rekka Bellum",
           "description": "On a rainy summer day, we pulled into Silva bay on Gabriola Island and found a place at a dock to wait out a spell of bad weather. The power receptacle appeared fine, but once we were ready to leave we found the male connection of our shore power cord had melted. Two out of three prongs were stuck in the receptacle. We've never had issues with our cord before, and for now we assume that the marina shore connection was faulty. Either way, we had to repair the power cord.\nWe always prefer to repair than to replace, so when we returned to a place with a marine store, we got ourselves replacements connections, both male and female, to replace the two damaged ends.\nWe thought we'd document the process of fixing a shower power cord. Although, this is only specific to Marinco marine fittings.\nIn …",
@@ -100,6 +109,15 @@
       "feedUrl": "https://www.sarasoueidan.com/blog/index.xml",
       "siteUrl": "https://sarasoueidan.com/blog/",
       "articles": [
+        {
+          "id": "https://sarasoueidan.com/blog/prefers-color-scheme-browser-vs-os/",
+          "author": null,
+          "description": "I spent some time in Reeder app this morning, catching up with RSS and the latest articles published by my favorite blogs.\nI was reading Scott O’Hara’s article about using JavaScript to detect high contrast and dark modes, which includes a small, very useful script to do exactly what the title says. The output of that script at first looked like it was a “false positive”. But some further investigation led me to learn something new about the prefers-color-scheme CSS user query.\n\nScott’s article includes a Codepen to demonstrate the output of the script. The script will check and detect if you currently have high contrast mode or dark mode enabled, and will output the result of the check.\nSee the Pen \n  JavaScript to detect media queries by Scott (@scottohara)\n  on CodePen.\n\n\nSince JavaScri…",
+          "link": "https://sarasoueidan.com/blog/prefers-color-scheme-browser-vs-os/",
+          "publishedOn": "2021-10-03T00:00:00.000Z",
+          "wordCount": 798,
+          "title": "The CSS prefers-color-scheme user query and order of preference"
+        },
         {
           "id": "https://sarasoueidan.com/blog/in-quest-of-search/",
           "author": null,
@@ -1085,24 +1103,6 @@
           "publishedOn": "2021-08-05T14:46:22.000Z",
           "wordCount": 749,
           "title": "An update from Firefox"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=66790",
-          "author": "Marshall Erwin",
-          "description": "Recently the Surgeon General of the United States weighed in on the spread of disinformation on major platforms and its effects on people and society. He echoed the calls of researchers, activists and organizations, like Mozilla, for the major platforms to release more data, and to provide access to researchers in order to analyze the […]\nThe post Why Facebook’s claims about the Ad Observer are wrong appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/news/why-facebooks-claims-about-the-ad-observer-are-wrong/",
-          "publishedOn": "2021-08-04T17:33:45.000Z",
-          "wordCount": 1412,
-          "title": "Why Facebook’s claims about the Ad Observer are wrong"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=66787",
-          "author": "Mozilla",
-          "description": "Earlier this summer, we started a series of blog posts analyzing the technical merits of the various privacy-preserving advertising proposals out there. Our goal is to advance the debate and help break down this complex topic. In this new addition to this series, we look at the SWAN.community and United ID 2.0 proposals. We have […]\nThe post Privacy analysis of SWAN.community and United ID 2.0 appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/swan-uid2-privacy/",
-          "publishedOn": "2021-08-04T17:13:53.000Z",
-          "wordCount": 1183,
-          "title": "Privacy analysis of SWAN.community and United ID 2.0"
         }
       ]
     },
@@ -1471,15 +1471,6 @@
           "publishedOn": "2021-08-05T18:29:22.000Z",
           "wordCount": 3403,
           "title": "Pluralistic: 05 Aug 2021"
-        },
-        {
-          "id": "https://pluralistic.net/?p=2436",
-          "author": "Cory Doctorow",
-          "description": "Today's links Vaccine refusal and health insurance: Insurers to unvaccinated: \"Drop dead.\" Congress has allocated enough money to end the eviction crisis: But they asked the states to hand it out. Utilities governed like empires: One bad account disconnection can cost you everything. This day in history: 2001, 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Vaccine refusal and health insurance (permalink) At the start of the pandemic, the otherwise irredeemable American health insurance industry experienced a momentary lapse in shittiness and agreed to waive copayments and deductibles for covid hospitalizations. Now, that's ending. This is bad news for anyone who gets hospitalized with covid, because hospitals hav…",
-          "link": "https://pluralistic.net/2021/08/04/eighty-sixed/",
-          "publishedOn": "2021-08-04T16:16:00.000Z",
-          "wordCount": 2363,
-          "title": "Pluralistic: 04 Aug 2021"
         }
       ]
     },
