@@ -58,15 +58,6 @@
           "publishedOn": "2021-08-09T20:46:52.000Z",
           "wordCount": 744,
           "title": "[Video] Learn how to debug web projects end-to-end in VS Code in 5 minutes"
-        },
-        {
-          "id": "https://christianheilmann.com/?p=6912",
-          "author": "Chris Heilmann",
-          "description": "Today the World Wide Web is 30 years old. I’ve worked on it since 1997 or so and I saw a lot of technologies and design trends come and go. I’ve also seen a lot of “this is much better and will replace the web” solutions come and go. What remained is the web with […]",
-          "link": "https://christianheilmann.com/2021/08/06/happy-birthday-www-30-years-of-mining-a-landfill-for-valid-code/",
-          "publishedOn": "2021-08-06T15:37:31.000Z",
-          "wordCount": 1122,
-          "title": "Happy Birthday, WWW – 30 years of mining a landfill for valid code"
         }
       ]
     },
@@ -156,6 +147,15 @@
       "siteUrl": "https://emshort.blog",
       "articles": [
         {
+          "id": "http://emshort.blog/?p=42081",
+          "author": "Emily Short",
+          "description": "Today’s question, gathered from Twitter a little while back, is this: How do you go from the macro to the micro, i.e. from a big, broad idea for a game to the concrete instantiation of it? A long time ago I wrote Idea to Implementation, a discussion of how to get from implementation to completed … Continue reading \"Mailbag: Macro to Micro Ideas\"",
+          "link": "https://emshort.blog/2021/10/05/mailbag-macro-to-micro-ideas/",
+          "publishedOn": "2021-10-05T17:22:00.000Z",
+          "wordCount": 3882,
+          "title": "Mailbag: Macro to Micro Ideas"
+        },
+        {
           "id": "http://emshort.blog/?p=42219",
           "author": "Emily Short",
           "description": "Events Tomorrow, October 1, IF Comp games will be available to play and judge. Anyone can participate in judging — so if you want to be part of that, check out the website for instructions. The judging period runs through November 15. October 2 is the next meetup of the San Francisco Bay Area IF … Continue reading \"End of September Link Assortment\"",
@@ -225,6 +225,15 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2524/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/comet_visitor.png\" title=\"It's a myth that the Great Wall of China is the only human-made structure visible from space--there are LOTS of structures for us to feel self-conscious about!\" alt=\"It's a myth that the Great Wall of China is the only human-made structure visible from space--there are LOTS of structures for us to feel self-conscious about!\" />",
+          "link": "https://xkcd.com/2524/",
+          "publishedOn": "2021-10-04T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Comet Visitor"
+        },
         {
           "id": "https://xkcd.com/2523/",
           "author": null,
@@ -564,6 +573,15 @@
       "siteUrl": "https://rachelbythebay.com/w/",
       "articles": [
         {
+          "id": "https://rachelbythebay.com/w/2021/10/05/cmd/",
+          "author": null,
+          "description": "Here's something fun I saw which created an outage once.  I've written \nabout this\nbefore,\nbut in light of yesterday's fun and games, I figured this one is worth \nanother mention.\n\n\nOne way to do this on a Linux box with the usual GNU userspace stuff is \nto feed it to date, like this:\n\n\nThe problem is, there's another command very much like it that will even \nspit out the same output, only it has a nice little side-effect: it \nalso sets the clock.  That command is date -s.\n\n\nAnother problem is that you might not have known that -s has that \neffect, and you have been using it because it gives you the output you \nwant, and you don't realize what else it can do.\n\n\nThis then touched off a whole bunch of badness which I already talked \nabout before.  It messed up other systems, and brought up questions of \nhow to defend against it, and all of that other good stuff you'd expect \nto hear after a problem of that sort.\n\ndisplay everything, but instead it \ncleared everything.\n\n\nshow mpls lsp\n\n\nclear mpls lsp\n\n\nHopefully the similarity to 'date -d' vs. 'date -s' is clear.\n\nSmall commands can have giant consequences.",
+          "link": "https://rachelbythebay.com/w/2021/10/05/cmd/",
+          "publishedOn": "2021-10-05T21:54:44.000Z",
+          "wordCount": 498,
+          "title": "'date -d' vs. 'date -s', and 'show foo' vs. 'clear foo'"
+        },
+        {
           "id": "https://rachelbythebay.com/w/2021/10/04/callthecops/",
           "author": null,
           "description": "Some people who know me and know what I used to do saw the news today \n(or just tried to go online for cat pictures and failed) have been \nreaching out for reactions.\n\n\n\n\n\nAs for the potential customer, well, you should know how to reach me.  \nBring your checkbook.",
@@ -731,6 +749,15 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2021/10/05/tools-to-look-at-bgp-routes/",
+          "author": null,
+          "description": "Yesterday there was a big Facebook outage caused by BGP. I’ve been vaguely\ninterested in learning more about BGP for a long time, so I was reading a\ncouple of articles.\nI got frustrated because none of the articles showed me how I could actually\nlook up information related to BGP on my computer, so I wrote a tweet asking for tools.\nI got a bunch of useful replies as always, so this blog post shows some tools\nyou can use to look up BGP information. There might be an above average number\nof things wrong in this post because I don’t understand BGP that well.\nI can’t publish BGP routes\nOne of the reasons I’ve never learned much about BGP is – as far as I know, I don’t have access to publish BGP routes on the internet.\nWith most networking protocols, you can pretty trivially get access to\nimple…",
+          "link": "https://jvns.ca/blog/2021/10/05/tools-to-look-at-bgp-routes/",
+          "publishedOn": "2021-10-05T08:53:24.000Z",
+          "wordCount": 2684,
+          "title": "Tools to explore BGP"
+        },
+        {
           "id": "https://jvns.ca/blog/2021/10/02/all-my-zines-are-now-available-in-print/",
           "author": null,
           "description": "Hello! In June I announced that I was releasing 4 zines in print and promised “more zines\ncoming soon”. “Soon” has arrived! You can get any zine you want in print now!\nI’m doing this now so that you can get zines in the mail in time for Christmas, or\nany other end-of-year holiday you celebrate :)\nyou can preorder zines today!\nFirst the basic facts!\nyou can preorder zines as of today\nthe preorder deadline is October 12\nzines will ship around November 5\nyou’ll get them in time for Christmas\nmore logistical details in the Preorders FAQ\nHere’s the link to get them:\nPreorder print zines\n\n\n\n\n\nHere are a few more notes about how the print zines work – they’re mostly the same as last time\nwhy a preorder?\nIt makes it easier to decide how many zines to print! I don’t want to\naccidentally underestima…",
@@ -897,6 +924,15 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=67466",
+          "author": "Mozilla",
+          "description": "One of our promises this year was to deliver ways that can help you navigate the web easily and get you quickly where you need to go. We took a giant step in that direction earlier this year when we shared a new Firefox experience. We were on a mission to save you time and […]\nThe post News from Firefox Focus and Firefox on Mobile appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/news/news-from-firefox-focus-and-firefox-on-mobile/",
+          "publishedOn": "2021-10-05T13:00:00.000Z",
+          "wordCount": 1502,
+          "title": "News from Firefox Focus and Firefox on Mobile"
+        },
         {
           "id": "https://blog.mozilla.org/?p=67429",
           "author": "M.J. Kelly",
@@ -1127,6 +1163,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2672",
+          "author": "Cory Doctorow",
+          "description": "Today's links The Attack Surface paperback is out: And a once-in-a-lifetime deal on the Little Brother audiobooks. Dave Eggers' \"The Every\": A tragicomic look at Big Tech, following from \"The Circle.\" Open Access Ninja: \"The Brew of Law.\" This day in history: 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The Attack Surface paperback is out (permalink) It's my book-birthday! Today marks publication of the Tor (US/Canada) paperback edition of ATTACK SURFACE, a standalone adult Little Brother book. https://us.macmillan.com/books/9781250757517/attacksurface Little Brother and its sequel Homeland were young adult novels that told the tale of Marcus Yallow, a bright young activist in San Francisco who works with his peers to orga…",
+          "link": "https://pluralistic.net/2021/10/05/masha-rides-again/",
+          "publishedOn": "2021-10-05T15:43:11.000Z",
+          "wordCount": 3236,
+          "title": "Pluralistic: 05 Oct 2021"
+        },
         {
           "id": "https://pluralistic.net/?p=2663",
           "author": "Cory Doctorow",
@@ -1444,20 +1489,6 @@
           "publishedOn": "2021-08-07T16:42:41.000Z",
           "wordCount": 2685,
           "title": "Pluralistic: 07 Aug 2021"
-        },
-        {
-          "id": "https://pluralistic.net/?p=2444",
-          "author": "Cory Doctorow",
-          "description": "Today's links Scammers sell griefers social media banning services: And charge their victims 100x more to get un-banned. Facebook's official disinformation research portal is a bad joke: Especially compared with the independent Ad Obervatory, which the company wants to destroy. This day in history: 2001, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Scammers sell griefers social media banning services (permalink) The Big Tech platforms can be horrible places. Harassers, abusers and griefers have figured out how to use them to meet one another, form vicious assault squads, and drive their targets off the service and make life miserable for those who stay. https://www.themarysue.com/phd-in-gamergate/ What's more, the pl…",
-          "link": "https://pluralistic.net/2021/08/06/get-you-coming-and-going/",
-          "publishedOn": "2021-08-06T16:48:06.000Z",
-          "wordCount": 2604,
-          "title": "Pluralistic: 06 Aug 2021",
-          "enclosure": {
-            "url": "http://www.ntk.net/ballmer/dancemonkeyboy.mpg",
-            "length": "162",
-            "type": "video/mpeg"
-          }
         }
       ]
     },

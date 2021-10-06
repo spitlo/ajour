@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-10-05T00:17:57.698Z</updated>
+    <updated>2021-10-06T00:17:24.443Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA['date -d' vs. 'date -s', and 'show foo' vs. 'clear foo']]></title>
+        <id>https://rachelbythebay.com/w/2021/10/05/cmd/</id>
+        <link href="https://rachelbythebay.com/w/2021/10/05/cmd/"/>
+        <updated>2021-10-05T21:54:44.000Z</updated>
+        <summary type="html"><![CDATA[Here's something fun I saw which created an outage once.  I've written 
+about this
+before,
+but in light of yesterday's fun and games, I figured this one is worth 
+another mention.
+
+
+One way to do this on a Linux box with the usual GNU userspace stuff is 
+to feed it to date, like this:
+
+
+The problem is, there's another command very much like it that will even 
+spit out the same output, only it has a nice little side-effect: it 
+also sets the clock.  That command is date -s.
+
+
+Another problem is that you might not have known that -s has that 
+effect, and you have been using it because it gives you the output you 
+want, and you don't realize what else it can do.
+
+
+This then touched off a whole bunch of badness which I already talked 
+about before.  It messed up other systems, and brought up questions of 
+how to defend against it, and all of that other good stuff you'd expect 
+to hear after a problem of that sort.
+
+display everything, but instead it 
+cleared everything.
+
+
+show mpls lsp
+
+
+clear mpls lsp
+
+
+Hopefully the similarity to 'date -d' vs. 'date -s' is clear.
+
+Small commands can have giant consequences.]]></summary>
+        <author>
+            <name>Writing - rachelbythebay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mailbag: Macro to Micro Ideas]]></title>
+        <id>http://emshort.blog/?p=42081</id>
+        <link href="https://emshort.blog/2021/10/05/mailbag-macro-to-micro-ideas/"/>
+        <updated>2021-10-05T17:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Today’s question, gathered from Twitter a little while back, is this: How do you go from the macro to the micro, i.e. from a big, broad idea for a game to the concrete instantiation of it? A long time ago I wrote Idea to Implementation, a discussion of how to get from implementation to completed … Continue reading "Mailbag: Macro to Micro Ideas"]]></summary>
+        <author>
+            <name>Emily Short</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: 05 Oct 2021]]></title>
+        <id>https://pluralistic.net/?p=2672</id>
+        <link href="https://pluralistic.net/2021/10/05/masha-rides-again/"/>
+        <updated>2021-10-05T15:43:11.000Z</updated>
+        <summary type="html"><![CDATA[Today's links The Attack Surface paperback is out: And a once-in-a-lifetime deal on the Little Brother audiobooks. Dave Eggers' "The Every": A tragicomic look at Big Tech, following from "The Circle." Open Access Ninja: "The Brew of Law." This day in history: 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The Attack Surface paperback is out (permalink) It's my book-birthday! Today marks publication of the Tor (US/Canada) paperback edition of ATTACK SURFACE, a standalone adult Little Brother book. https://us.macmillan.com/books/9781250757517/attacksurface Little Brother and its sequel Homeland were young adult novels that told the tale of Marcus Yallow, a bright young activist in San Francisco who works with his peers to orga…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[News from Firefox Focus and Firefox on Mobile]]></title>
+        <id>https://blog.mozilla.org/?p=67466</id>
+        <link href="https://blog.mozilla.org/en/mozilla/news/news-from-firefox-focus-and-firefox-on-mobile/"/>
+        <updated>2021-10-05T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[One of our promises this year was to deliver ways that can help you navigate the web easily and get you quickly where you need to go. We took a giant step in that direction earlier this year when we shared a new Firefox experience. We were on a mission to save you time and […]
+The post News from Firefox Focus and Firefox on Mobile appeared first on The Mozilla Blog.]]></summary>
+        <author>
+            <name>Mozilla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tools to explore BGP]]></title>
+        <id>https://jvns.ca/blog/2021/10/05/tools-to-look-at-bgp-routes/</id>
+        <link href="https://jvns.ca/blog/2021/10/05/tools-to-look-at-bgp-routes/"/>
+        <updated>2021-10-05T08:53:24.000Z</updated>
+        <summary type="html"><![CDATA[Yesterday there was a big Facebook outage caused by BGP. I’ve been vaguely
+interested in learning more about BGP for a long time, so I was reading a
+couple of articles.
+I got frustrated because none of the articles showed me how I could actually
+look up information related to BGP on my computer, so I wrote a tweet asking for tools.
+I got a bunch of useful replies as always, so this blog post shows some tools
+you can use to look up BGP information. There might be an above average number
+of things wrong in this post because I don’t understand BGP that well.
+I can’t publish BGP routes
+One of the reasons I’ve never learned much about BGP is – as far as I know, I don’t have access to publish BGP routes on the internet.
+With most networking protocols, you can pretty trivially get access to
+imple…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[In the news today: *munch munch munch*]]></title>
         <id>https://rachelbythebay.com/w/2021/10/04/callthecops/</id>
@@ -44,6 +144,16 @@ Bring your checkbook.]]></summary>
 The post Do you need a VPN at home? Here are 5 reasons you might. appeared first on The Mozilla Blog.]]></summary>
         <author>
             <name>M.J. Kelly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comet Visitor]]></title>
+        <id>https://xkcd.com/2524/</id>
+        <link href="https://xkcd.com/2524/"/>
+        <updated>2021-10-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/comet_visitor.png" title="It's a myth that the Great Wall of China is the only human-made structure visible from space--there are LOTS of structures for us to feel self-conscious about!" alt="It's a myth that the Great Wall of China is the only human-made structure visible from space--there are LOTS of structures for us to feel self-conscious about!" />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -1940,26 +2050,6 @@ Imagine you visit a Web site and you want to browse it for some content. You wan
         <summary type="html"><![CDATA[Today's links Doordash privacywashes its war on workers: Tech rights are workers' rights. End bankruptcy shopping: No more Sacklers, ever. This day in history: 2001, 2006, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Doordash privacywashes its war on workers (permalink) Dashers aren't stupid. They know that the difference between a profitable Doordash delivery and one where they earn less than they spend on gas is the size of the tip they get at the end of the job. Of course, Doordash knows this too. The company – a corporate predator with a history of wage theft and worker misclassification – knows that its only hope of sustainability is to make real, profitable businesses like restaurants dependent on it. If Doordash can…]]></summary>
         <author>
             <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 06 Aug 2021]]></title>
-        <id>https://pluralistic.net/?p=2444</id>
-        <link href="https://pluralistic.net/2021/08/06/get-you-coming-and-going/"/>
-        <updated>2021-08-06T16:48:06.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Scammers sell griefers social media banning services: And charge their victims 100x more to get un-banned. Facebook's official disinformation research portal is a bad joke: Especially compared with the independent Ad Obervatory, which the company wants to destroy. This day in history: 2001, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Scammers sell griefers social media banning services (permalink) The Big Tech platforms can be horrible places. Harassers, abusers and griefers have figured out how to use them to meet one another, form vicious assault squads, and drive their targets off the service and make life miserable for those who stay. https://www.themarysue.com/phd-in-gamergate/ What's more, the pl…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy Birthday, WWW – 30 years of mining a landfill for valid code]]></title>
-        <id>https://christianheilmann.com/?p=6912</id>
-        <link href="https://christianheilmann.com/2021/08/06/happy-birthday-www-30-years-of-mining-a-landfill-for-valid-code/"/>
-        <updated>2021-08-06T15:37:31.000Z</updated>
-        <summary type="html"><![CDATA[Today the World Wide Web is 30 years old. I’ve worked on it since 1997 or so and I saw a lot of technologies and design trends come and go. I’ve also seen a lot of “this is much better and will replace the web” solutions come and go. What remained is the web with […]]]></summary>
-        <author>
-            <name>Chris Heilmann</name>
         </author>
     </entry>
 </feed>
