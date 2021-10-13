@@ -6,6 +6,15 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=6972",
+          "author": "Chris Heilmann",
+          "description": "Starting with the next version of Microsoft Edge, we are running an experiment that allows you to use Visual Studio Code as the editor of the in-browser Developer Tools. Here’s a three minute video explaining why we think this is a good idea. Developer Tools have excellent visual tools that allow you to tweak and […]",
+          "link": "https://christianheilmann.com/2021/10/12/what-if-you-could-use-visual-studio-code-as-the-editor-of-in-browser-developer-tools/",
+          "publishedOn": "2021-10-12T15:21:15.000Z",
+          "wordCount": 575,
+          "title": "What if… you could use Visual Studio Code as the editor of in-browser Developer Tools?"
+        },
+        {
           "id": "https://christianheilmann.com/?p=6959",
           "author": "Chris Heilmann",
           "description": "Summary: With the release of 1.3.1 of the Edge Tools for VS Code we introduce a better way to get changes you made in the Styles tool back into your source code. We’d love to know what you think of it and what we can do better. There’s a GitHub issue dedicated to feedback. Developer […]",
@@ -208,6 +217,15 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2527/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/new_nobel_prizes.png\" title=\"They've endowed a separate prize in Physiology or Medicine or Stopping Dr. Adams.\" alt=\"They've endowed a separate prize in Physiology or Medicine or Stopping Dr. Adams.\" />",
+          "link": "https://xkcd.com/2527/",
+          "publishedOn": "2021-10-11T00:00:00.000Z",
+          "wordCount": 187,
+          "title": "New Nobel Prizes"
+        },
         {
           "id": "https://xkcd.com/2526/",
           "author": null,
@@ -546,6 +564,15 @@
       "feedUrl": "https://rachelbythebay.com/w/atom.xml",
       "siteUrl": "https://rachelbythebay.com/w/",
       "articles": [
+        {
+          "id": "https://rachelbythebay.com/w/2021/10/12/break/",
+          "author": null,
+          "description": "I know I've already\ncommented\non a certain site's big outage\ntwice now,\nbut I have one more bit of rumor to share, and it apparently invalidates \nwhat I had heard previously.  That is, it may not have been a matter of \n\"show X Y\" vs. \"clear X Y\", but rather some kind of automation that went \na bit too far.\n\n\nThen, what if you didn't have to actually type something in to hit the \nbutton?  Maybe you forgot, or something else happened, and you didn't \nfill it in, so when you did that, it said \"okay, cool then\" and \ndid all of them instead?\n\n\nGo to tool, don't type in target, hit button, ALL targets affected.\n\n\nIt sounds like another kind of \"footgun\" (you know, something you can \nuse to shoot yourself in the foot) from the world of databases: an \nUPDATE without a WHERE.\n\n\n\nUPDATE my_table SET invalid = true WHERE asset_id = 1012;\n\n\n\nImagine what happens when you forget the WHERE.  It's the last thing on \nthe line as shown, so you could send off the command early and it would \ntotally work.  It would look like this:\n\n\nAnd... guess what, without that WHERE, it just set that bit everywhere.  \nEverything is marked invalid, and your business might suffer for it.\n\n\nFinal note on the \"do all the things\" thing: maybe the tool \nactually is supposed to let you do that.  In that case, maybe it would \nbe good if it said something like \"you are about to drain 123,456 \ndevices, so type in that exact number to proceed\".  You know,\nthat\nkind of thing.  It tends to add enough of a pause to prevent some \ndisasters.",
+          "link": "https://rachelbythebay.com/w/2021/10/12/break/",
+          "publishedOn": "2021-10-12T19:50:16.000Z",
+          "wordCount": 524,
+          "title": "An UPDATE without a WHERE, or something close to it"
+        },
         {
           "id": "https://rachelbythebay.com/w/2021/10/05/cmd/",
           "author": null,
@@ -1114,15 +1141,6 @@
           "publishedOn": "2021-08-20T22:22:18.000Z",
           "wordCount": 1167,
           "title": "Cybersecurity, Facebook data, OnlyFans update and more are on this week’s Top Shelf"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=66812",
-          "author": "Damiano",
-          "description": "At Mozilla, we believe part of making the internet we want is celebrating the best of the internet, and that can be as simple as sharing a tweet that made us pause in our feed. Twitter isn’t perfect, but there are individual tweets that come pretty close. Each week in Top Shelf, we will be […]\nThe post Fall Plans vs. the Delta Variant, Deciphering Gen Z’s use of emojis, Sarah Paulson as Linda Tripp, and more are on this week’s Top Shelf appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/internet-culture/best-tweets-week-of-august-8/",
-          "publishedOn": "2021-08-13T21:28:51.000Z",
-          "wordCount": 1103,
-          "title": "Fall Plans vs. the Delta Variant, Deciphering Gen Z’s use of emojis, Sarah Paulson as Linda Tripp, and more are on this week’s Top Shelf"
         }
       ]
     },
@@ -1156,6 +1174,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2703",
+          "author": "Cory Doctorow",
+          "description": "Today's links This Thing Between Us, a neck-hair-stand-up cuycuy horror: Gus Moreno's debut novel. There are no corporate criminals in America: Because America doesn't have corporate crime prosecutions. This day in history: 2001, 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading This Thing Between Us, a neck-hair-stand-up cuycuy horror (permalink) Gus Moreno's debut novel, \"This Thing Between Us,\" is a genuinely creepy supernatural horror novel, a book that made the hairs on the back of my neck stand up and prompted me to turn on the nightlight at bedtime. https://www.fsgoriginals.com/books/this-thing-between-us I almost didn't read it. It's billed as a book about a widower whose smart-speaker is haunted by his wife…",
+          "link": "https://pluralistic.net/2021/10/12/no-criminals-no-crimes/",
+          "publishedOn": "2021-10-12T18:22:40.000Z",
+          "wordCount": 2965,
+          "title": "Pluralistic: 12 Oct 2021"
+        },
         {
           "id": "https://pluralistic.net/?p=2697",
           "author": "Cory Doctorow",
@@ -1473,15 +1500,6 @@
           "publishedOn": "2021-08-14T21:23:58.000Z",
           "wordCount": 2029,
           "title": "Pluralistic: 14 Aug 2021"
-        },
-        {
-          "id": "https://pluralistic.net/?p=2467",
-          "author": "Cory Doctorow",
-          "description": "Today's links Smart cities are neither, 2021 edition: \"Whose Streets? Our Streets! (Tech Edition).\" End of the line for Reaganomics: The OG antitrust is back, baby! This day in history: 2001, 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Smart cities are neither, 2021 edition (permalink) The lockdown was a chaotic time for \"smart cities.\" On the one hand, the most prominent smart city project in the world – Google's Sidewalk Labs project in Toronto – collapsed thanks to the company's lies about privacy and land use coming to light. https://pluralistic.net/2020/05/07/just-look-at-it/#ding-dong On the other hand, the standalone vendors that promise smart city services that you can graft onto your \"dumb\" city saw t…",
-          "link": "https://pluralistic.net/2021/08/13/post-bork-era/",
-          "publishedOn": "2021-08-13T16:26:05.000Z",
-          "wordCount": 2821,
-          "title": "Pluralistic: 13 Aug 2021"
         }
       ]
     },

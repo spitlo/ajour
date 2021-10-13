@@ -16,9 +16,9 @@
     <meta name="robots" content="noindex, nofollow">
     <link rel="preload" as="font" type="font/woff2" href="https://spitlo.com/fonts/GangsterGrotesk-Bold.woff2" crossorigin="anonymous">
     <link rel="preload" as="font" type="font/woff2" href="https://spitlo.com/fonts/VictorMono-Thin.woff2" crossorigin="anonymous">
-    <link rel="icon" type="image/svg+xml" href="https://spitlo.com/images/favicon.svg?2021-10-12T00:18:36.694Z">
+    <link rel="icon" type="image/svg+xml" href="https://spitlo.com/images/favicon.svg?2021-10-13T00:16:59.321Z">
     <link rel="alternate" type="application/rss+xml" title="Ajour / Spitlo.com" href="feed.atom">
-    <link href="https://spitlo.com/style.css?2021-10-12T00:18:36.694Z" rel="stylesheet">
+    <link href="https://spitlo.com/style.css?2021-10-13T00:16:59.321Z" rel="stylesheet">
 
     <style>
       body { font-size: 14px; }
@@ -53,6 +53,83 @@
         </p>
 
           <section class="daily-content">
+            <h2 class="daily-heading"><time datatime="2021-10-12">2021-10-12</time></h2>
+                <article data-source="Writing - rachelbythebay" data-rtime="2">
+                  <h3><a target="_blank" rel="noopener noreferrer" href=https://rachelbythebay.com/w/2021/10/12/break/>An UPDATE without a WHERE, or something close to it</a></h3>
+                  <ul class="meta">
+                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://rachelbythebay.com/w/>Writing - rachelbythebay</a></li>
+                    <li><span class="label">Date:</span> <time datetime="2021-10-12T19:50:16.000Z">2021-10-12</time></li>
+                    <li><span class="label">Reading time:</span> <time>2 min</time></li>
+                    <li><span class="label">Words</span> <time>524</time></li>
+                  </ul>
+                  <p>I know I&#x27;ve already
+commented
+on a certain site&#x27;s big outage
+twice now,
+but I have one more bit of rumor to share, and it apparently invalidates 
+what I had heard previously.  That is, it may not have been a matter of 
+&quot;show X Y&quot; vs. &quot;clear X Y&quot;, but rather some kind of automation that went 
+a bit too far.
+
+
+Then, what if you didn&#x27;t have to actually type something in to hit the 
+button?  Maybe you forgot, or something else happened, and you didn&#x27;t 
+fill it in, so when you did that, it said &quot;okay, cool then&quot; and 
+did all of them instead?
+
+
+Go to tool, don&#x27;t type in target, hit button, ALL targets affected.
+
+
+It sounds like another kind of &quot;footgun&quot; (you know, something you can 
+use to shoot yourself in the foot) from the world of databases: an 
+UPDATE without a WHERE.
+
+
+
+UPDATE my_table SET invalid &#x3D; true WHERE asset_id &#x3D; 1012;
+
+
+
+Imagine what happens when you forget the WHERE.  It&#x27;s the last thing on 
+the line as shown, so you could send off the command early and it would 
+totally work.  It would look like this:
+
+
+And... guess what, without that WHERE, it just set that bit everywhere.  
+Everything is marked invalid, and your business might suffer for it.
+
+
+Final note on the &quot;do all the things&quot; thing: maybe the tool 
+actually is supposed to let you do that.  In that case, maybe it would 
+be good if it said something like &quot;you are about to drain 123,456 
+devices, so type in that exact number to proceed&quot;.  You know,
+that
+kind of thing.  It tends to add enough of a pause to prevent some 
+disasters.</p>
+                </article>
+                <article data-source="Pluralistic: Daily links from Cory Doctorow" data-rtime="10">
+                  <h3><a target="_blank" rel="noopener noreferrer" href=https://pluralistic.net/2021/10/12/no-criminals-no-crimes/>Pluralistic: 12 Oct 2021</a></h3>
+                  <ul class="meta">
+                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://pluralistic.net>Pluralistic: Daily links from Cory Doctorow</a></li>
+                    <li><span class="label">Date:</span> <time datetime="2021-10-12T18:22:40.000Z">2021-10-12</time></li>
+                    <li><span class="label">Reading time:</span> <time>10 min</time></li>
+                    <li><span class="label">Words</span> <time>2965</time></li>
+                  </ul>
+                  <p>Today&#x27;s links This Thing Between Us, a neck-hair-stand-up cuycuy horror: Gus Moreno&#x27;s debut novel. There are no corporate criminals in America: Because America doesn&#x27;t have corporate crime prosecutions. This day in history: 2001, 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading This Thing Between Us, a neck-hair-stand-up cuycuy horror (permalink) Gus Moreno&#x27;s debut novel, &quot;This Thing Between Us,&quot; is a genuinely creepy supernatural horror novel, a book that made the hairs on the back of my neck stand up and prompted me to turn on the nightlight at bedtime. https://www.fsgoriginals.com/books/this-thing-between-us I almost didn&#x27;t read it. It&#x27;s billed as a book about a widower whose smart-speaker is haunted by his wife…</p>
+                </article>
+                <article data-source="Christian Heilmann" data-rtime="2">
+                  <h3><a target="_blank" rel="noopener noreferrer" href=https://christianheilmann.com/2021/10/12/what-if-you-could-use-visual-studio-code-as-the-editor-of-in-browser-developer-tools/>What if… you could use Visual Studio Code as the editor of in-browser Developer Tools?</a></h3>
+                  <ul class="meta">
+                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://christianheilmann.com>Christian Heilmann</a></li>
+                    <li><span class="label">Date:</span> <time datetime="2021-10-12T15:21:15.000Z">2021-10-12</time></li>
+                    <li><span class="label">Reading time:</span> <time>2 min</time></li>
+                    <li><span class="label">Words</span> <time>575</time></li>
+                  </ul>
+                  <p>Starting with the next version of Microsoft Edge, we are running an experiment that allows you to use Visual Studio Code as the editor of the in-browser Developer Tools. Here’s a three minute video explaining why we think this is a good idea. Developer Tools have excellent visual tools that allow you to tweak and […]</p>
+                </article>
+          </section>
+          <section class="daily-content">
             <h2 class="daily-heading"><time datatime="2021-10-11">2021-10-11</time></h2>
                 <article data-source="Pluralistic: Daily links from Cory Doctorow" data-rtime="8">
                   <h3><a target="_blank" rel="noopener noreferrer" href=https://pluralistic.net/2021/10/11/consider-the-ant/>Pluralistic: 11 Oct 2021</a></h3>
@@ -63,6 +140,16 @@
                     <li><span class="label">Words</span> <time>2259</time></li>
                   </ul>
                   <p>Today&#x27;s links Podcasting &quot;Hope, Not Optimism&quot;: A theory of change based on truth, not fiction. This day in history: 2001, 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Podcasting &quot;Hope, Not Optimism&quot; (permalink) This week on my podcast, a reading of my latest Medium column, &quot;Hope, not optimism,&quot; in which I describe a theory of change that distinguishes activism from novelism. https://doctorow.medium.com/hope-not-optimism-943e88291b Plotting a novel is a process of radical simplification: a character goes through a linear progression of challenges of increasing difficulty and consequence, until the stakes are raised to their utmost when the tale reaches its climax. That&#x27;s nothing like the real world (perhaps that…</p>
+                </article>
+                <article data-source="xkcd.com" data-rtime="1">
+                  <h3><a target="_blank" rel="noopener noreferrer" href=https://xkcd.com/2527/>New Nobel Prizes</a></h3>
+                  <ul class="meta">
+                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://xkcd.com/>xkcd.com</a></li>
+                    <li><span class="label">Date:</span> <time datetime="2021-10-11T00:00:00.000Z">2021-10-11</time></li>
+                    <li><span class="label">Reading time:</span> <time>1 min</time></li>
+                    <li><span class="label">Words</span> <time>187</time></li>
+                  </ul>
+                  <p>No content preview</p>
                 </article>
           </section>
           <section class="daily-content">
@@ -2228,34 +2315,10 @@ This to me, falls within the right to repair (which I really don&#x27;t understa
                   <p>Today&#x27;s links Provocateur copyrights a Magic: The Gathering Deck: Come for the compilation copyright, stay for the free IP Law Casebook. This day in history: 2001, 2006, 2011, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Provocateur copyrights a Magic: The Gathering Deck (permalink) Copyright does not protect the fruits of your hard work. It just doesn&#x27;t. No matter what you&#x27;ve heard, the legal basis for copyright – in US law and in international treaties – is to protect creativity, not effort. If you labor for five years to create a faithful catalog of all the houses in a city or all the books in a library, with the goal of creating as faithful, logical and linear resource as possible, copyright holds no protection for you. On t…</p>
                 </article>
           </section>
-          <section class="daily-content">
-            <h2 class="daily-heading"><time datatime="2021-08-13">2021-08-13</time></h2>
-                <article data-source="The Mozilla Blog" data-rtime="4">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://blog.mozilla.org/en/internet-culture/best-tweets-week-of-august-8/>Fall Plans vs. the Delta Variant, Deciphering Gen Z’s use of emojis, Sarah Paulson as Linda Tripp, and more are on this week’s Top Shelf</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://blog.mozilla.org/en/>The Mozilla Blog</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2021-08-13T21:28:51.000Z">2021-08-13</time></li>
-                    <li><span class="label">Reading time:</span> <time>4 min</time></li>
-                    <li><span class="label">Words</span> <time>1103</time></li>
-                  </ul>
-                  <p>At Mozilla, we believe part of making the internet we want is celebrating the best of the internet, and that can be as simple as sharing a tweet that made us pause in our feed. Twitter isn’t perfect, but there are individual tweets that come pretty close. Each week in Top Shelf, we will be […]
-The post Fall Plans vs. the Delta Variant, Deciphering Gen Z’s use of emojis, Sarah Paulson as Linda Tripp, and more are on this week’s Top Shelf appeared first on The Mozilla Blog.</p>
-                </article>
-                <article data-source="Pluralistic: Daily links from Cory Doctorow" data-rtime="9">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://pluralistic.net/2021/08/13/post-bork-era/>Pluralistic: 13 Aug 2021</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://pluralistic.net>Pluralistic: Daily links from Cory Doctorow</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2021-08-13T16:26:05.000Z">2021-08-13</time></li>
-                    <li><span class="label">Reading time:</span> <time>9 min</time></li>
-                    <li><span class="label">Words</span> <time>2821</time></li>
-                  </ul>
-                  <p>Today&#x27;s links Smart cities are neither, 2021 edition: &quot;Whose Streets? Our Streets! (Tech Edition).&quot; End of the line for Reaganomics: The OG antitrust is back, baby! This day in history: 2001, 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Smart cities are neither, 2021 edition (permalink) The lockdown was a chaotic time for &quot;smart cities.&quot; On the one hand, the most prominent smart city project in the world – Google&#x27;s Sidewalk Labs project in Toronto – collapsed thanks to the company&#x27;s lies about privacy and land use coming to light. https://pluralistic.net/2020/05/07/just-look-at-it/#ding-dong On the other hand, the standalone vendors that promise smart city services that you can graft onto your &quot;dumb&quot; city saw t…</p>
-                </article>
-          </section>
 
         <footer>
           <section class="details">
-            <span class="detail">Built @ 2021-10-12T00:18:36.694Z</span>
+            <span class="detail">Built @ 2021-10-13T00:16:59.321Z</span>
             <span class="divider">|</span>
             <span class="detail">CLI: 1.11.2</span>
             <span class="divider">|</span>
