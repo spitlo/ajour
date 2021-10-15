@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-10-14T00:17:23.871Z</updated>
+    <updated>2021-10-15T00:18:14.839Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hacked! Unravelling a data breach]]></title>
+        <id>https://blog.mozilla.org/?p=67517</id>
+        <link href="https://blog.mozilla.org/en/internet-culture/hacked-unravelling-a-data-breach/"/>
+        <updated>2021-10-14T21:30:24.000Z</updated>
+        <summary type="html"><![CDATA[This is a story about paying a steep price for a pair of cheap socks. The first loose thread in June One Tuesday morning as I* was having my coffee and toast before kicking off the work day, I got a text from my credit card company alerting me to a suspected fraud charge. Of […]
+The post Hacked! Unravelling a data breach appeared first on The Mozilla Blog.]]></summary>
+        <author>
+            <name>Mozilla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking at the outlying data points]]></title>
+        <id>https://rachelbythebay.com/w/2021/10/13/temp/</id>
+        <link href="https://rachelbythebay.com/w/2021/10/13/temp/"/>
+        <updated>2021-10-14T03:02:42.000Z</updated>
+        <summary type="html"><![CDATA[One of the fun things I used to do at a prior job was to dig through the 
+raw data points which were collected from the *many* servers we had.  I 
+could just pick an interesting-sounding metric and then would just ask 
+the system to show me the top 10 or bottom 10 out of a population of 
+thousands or more.
+
+
+To get my feet wet with the whole "investigations" thing that we'd do, I 
+started looking into this one day and chose one of the many temp sensors 
+which were being logged by the servers.  I forget exactly which one it 
+was, for there were many.  The CPUs logged it, the chassis logged it, 
+the power supply logged it, and so on.  There were so many choices.
+
+
+I went looking for a reason.  What could possibly explain this?  First 
+off, it didn't line up with any obvious pattern in the host names.  The 
+hosts were named for whichever team owned them, followed by a sequence 
+number that was bumped any time a new one was provisioned.  There was no 
+signal to be found in that.
+
+
+There was more, though.  You could also see a "rack position" in this 
+data, and now it started getting interesting.  It seems that all of the 
+really hot machines had a rack position of something low, like 04 or 05, 
+and never anything higher than that.  In fact, when looking at a whole 
+rack, it was always the lowest number of all of the positions that were 
+being used.  Now this was worth chasing!
+
+
+It's good that I asked, since they told me something surprising: 
+position 04 or 05 or whatever was the *bottom* of the rack.  Yes, 
+somehow, the lowest machine in the rack was the hottest!  They found 
+this interesting, too, and wound up digging into it.  Given that I was 
+far away in a distant office, this was the best way for us to proceed.
+
+
+The problem was that the bottommost server would have nothing below it 
+but just open space until it got to the floor.  That space would not 
+move air efficiently, and it obviously mattered.
+
+
+This rolled out and my hot spots disappeared.  Fantastic!]]></summary>
+        <author>
+            <name>Writing - rachelbythebay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In support of Wren (the abuse she endured while working on Fight Knight)]]></title>
+        <id>http://www.nathalielawhead.com/candybox/?p=5131</id>
+        <link href="http://www.nathalielawhead.com/candybox/in-support-of-wren-the-abuse-she-endured-while-working-on-fight-knight"/>
+        <updated>2021-10-14T01:03:46.000Z</updated>
+        <summary type="html"><![CDATA[I am writing this post in support of Wren. Hello, I'm the "writer" of the Dangen Warning and the former writer of Fight Knight. I feel it's important for me to come forward about why I left the Fight Knight project. https://t.co/ccrZgh1IeA — Wren (@rivalerose) October 1, 2021 Wren is a wonderful human who endured physical abuse, psychological abuse, gaslighting, manipulation, and pretty much that entire spectrum that we’re way too used to hearing about when survivors share their stories. She endured this while working on the game Fight Knight, putting out what I’m sure was amazing work that we...]]></summary>
+        <author>
+            <name>alienmelon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTTPS and your online security]]></title>
         <id>http://blog.mozilla.org/foxtail/2017/04/21/https-protect/</id>
@@ -37,6 +109,16 @@ Better screencasts often (to me) means simpler for your audience or student to f
 Source: howtoegghead.com]]></summary>
         <author>
             <name>remy sharp's b:log</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flag Map Sabotage]]></title>
+        <id>https://xkcd.com/2528/</id>
+        <link href="https://xkcd.com/2528/"/>
+        <updated>2021-10-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/flag_map_sabotage.png" title="Delaware hopes to explore the western edge of areas marked with the Belgian flag, once the tornadoes die down." alt="Delaware hopes to explore the western edge of areas marked with the Belgian flag, once the tornadoes die down." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -2098,26 +2180,6 @@ This to me, falls within the right to repair (which I really don't understand or
         <summary type="html"><![CDATA[Today's links Housing, money laundry, speculation and precarity: Henry George was an optimist. This day in history: 2001, 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Housing, money laundry, speculation and precarity (permalink) Something amazing is happening in Berlin. Next month, Berliners will vote in a referendum to force Germany's largest publicly traded landlords to sell 240,000 homes to the state, whereupon those homes will become publicly owned housing. https://www.ft.com/content/4a5fb5ed-00cf-4a70-8653-820f0c1ff757 Berlin is a rarity: a semi-autonomous city whose history is overshadowed by a half-century of heavy public spending (in the west) as part of a program to prove that capitalism was a system o…]]></summary>
         <author>
             <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memo Spike Connector]]></title>
-        <id>https://xkcd.com/2503/</id>
-        <link href="https://xkcd.com/2503/"/>
-        <updated>2021-08-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/memo_spike_connector.png" title="Backward-compatible with many existing cables, and can connect directly to phones or tablets if you press them down hard enough." alt="Backward-compatible with many existing cables, and can connect directly to phones or tablets if you press them down hard enough." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hold Up the Sky [book]]]></title>
-        <id>hold-up-the-sky</id>
-        <link href="https://remysharp.com/books/2021/hold-up-the-sky"/>
-        <updated>2021-08-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Interesting mix of ideas.I'd read the Three Body Problem trilogy so I know that Cixin Liu's style was massive ideas of the cosmic scale and showing me how small we really are - and these short stories continue the theme.What I didn't anticipate in these short stories was the total mix of stories (though that's entirely on me).I didn't personally find any one story punching above the rest. I did, oddly, enjoy the story of the poet challenging the energy being and thusly breaking reality on a galactic scale.Overall, well written, cosmic ideas, but not quite my kind of mind bending.]]></summary>
-        <author>
-            <name>remy sharp's b:log</name>
         </author>
     </entry>
 </feed>

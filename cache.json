@@ -209,6 +209,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2528/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/flag_map_sabotage.png\" title=\"Delaware hopes to explore the western edge of areas marked with the Belgian flag, once the tornadoes die down.\" alt=\"Delaware hopes to explore the western edge of areas marked with the Belgian flag, once the tornadoes die down.\" />",
+          "link": "https://xkcd.com/2528/",
+          "publishedOn": "2021-10-13T00:00:00.000Z",
+          "wordCount": 187,
+          "title": "Flag Map Sabotage"
+        },
+        {
           "id": "https://xkcd.com/2527/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/new_nobel_prizes.png\" title=\"They've endowed a separate prize in Physiology or Medicine or Stopping Dr. Adams.\" alt=\"They've endowed a separate prize in Physiology or Medicine or Stopping Dr. Adams.\" />",
@@ -423,15 +432,6 @@
           "publishedOn": "2021-08-18T00:00:00.000Z",
           "wordCount": 187,
           "title": "Fissile Raspberry Isotopes"
-        },
-        {
-          "id": "https://xkcd.com/2503/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/memo_spike_connector.png\" title=\"Backward-compatible with many existing cables, and can connect directly to phones or tablets if you press them down hard enough.\" alt=\"Backward-compatible with many existing cables, and can connect directly to phones or tablets if you press them down hard enough.\" />",
-          "link": "https://xkcd.com/2503/",
-          "publishedOn": "2021-08-16T00:00:00.000Z",
-          "wordCount": 187,
-          "title": "Memo Spike Connector"
         }
       ]
     },
@@ -547,15 +547,6 @@
           "publishedOn": "2021-08-17T00:00:00.000Z",
           "wordCount": 1422,
           "title": "Removing \"shows\" from Spotify [blog]"
-        },
-        {
-          "id": "hold-up-the-sky",
-          "author": null,
-          "description": "Interesting mix of ideas.I'd read the Three Body Problem trilogy so I know that Cixin Liu's style was massive ideas of the cosmic scale and showing me how small we really are - and these short stories continue the theme.What I didn't anticipate in these short stories was the total mix of stories (though that's entirely on me).I didn't personally find any one story punching above the rest. I did, oddly, enjoy the story of the poet challenging the energy being and thusly breaking reality on a galactic scale.Overall, well written, cosmic ideas, but not quite my kind of mind bending.",
-          "link": "https://remysharp.com/books/2021/hold-up-the-sky",
-          "publishedOn": "2021-08-16T00:00:00.000Z",
-          "wordCount": 257,
-          "title": "Hold Up the Sky [book]"
         }
       ]
     },
@@ -564,6 +555,15 @@
       "feedUrl": "https://rachelbythebay.com/w/atom.xml",
       "siteUrl": "https://rachelbythebay.com/w/",
       "articles": [
+        {
+          "id": "https://rachelbythebay.com/w/2021/10/13/temp/",
+          "author": null,
+          "description": "One of the fun things I used to do at a prior job was to dig through the \nraw data points which were collected from the *many* servers we had.  I \ncould just pick an interesting-sounding metric and then would just ask \nthe system to show me the top 10 or bottom 10 out of a population of \nthousands or more.\n\n\nTo get my feet wet with the whole \"investigations\" thing that we'd do, I \nstarted looking into this one day and chose one of the many temp sensors \nwhich were being logged by the servers.  I forget exactly which one it \nwas, for there were many.  The CPUs logged it, the chassis logged it, \nthe power supply logged it, and so on.  There were so many choices.\n\n\nI went looking for a reason.  What could possibly explain this?  First \noff, it didn't line up with any obvious pattern in the host names.  The \nhosts were named for whichever team owned them, followed by a sequence \nnumber that was bumped any time a new one was provisioned.  There was no \nsignal to be found in that.\n\n\nThere was more, though.  You could also see a \"rack position\" in this \ndata, and now it started getting interesting.  It seems that all of the \nreally hot machines had a rack position of something low, like 04 or 05, \nand never anything higher than that.  In fact, when looking at a whole \nrack, it was always the lowest number of all of the positions that were \nbeing used.  Now this was worth chasing!\n\n\nIt's good that I asked, since they told me something surprising: \nposition 04 or 05 or whatever was the *bottom* of the rack.  Yes, \nsomehow, the lowest machine in the rack was the hottest!  They found \nthis interesting, too, and wound up digging into it.  Given that I was \nfar away in a distant office, this was the best way for us to proceed.\n\n\nThe problem was that the bottommost server would have nothing below it \nbut just open space until it got to the floor.  That space would not \nmove air efficiently, and it obviously mattered.\n\n\nThis rolled out and my hot spots disappeared.  Fantastic!",
+          "link": "https://rachelbythebay.com/w/2021/10/13/temp/",
+          "publishedOn": "2021-10-14T03:02:42.000Z",
+          "wordCount": 839,
+          "title": "Looking at the outlying data points"
+        },
         {
           "id": "https://rachelbythebay.com/w/2021/10/12/break/",
           "author": null,
@@ -944,6 +944,15 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=67517",
+          "author": "Mozilla",
+          "description": "This is a story about paying a steep price for a pair of cheap socks. The first loose thread in June One Tuesday morning as I* was having my coffee and toast before kicking off the work day, I got a text from my credit card company alerting me to a suspected fraud charge. Of […]\nThe post Hacked! Unravelling a data breach appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/internet-culture/hacked-unravelling-a-data-breach/",
+          "publishedOn": "2021-10-14T21:30:24.000Z",
+          "wordCount": 1670,
+          "title": "Hacked! Unravelling a data breach"
+        },
         {
           "id": "http://blog.mozilla.org/foxtail/2017/04/21/https-protect/",
           "author": "M.J. Kelly",
@@ -1517,6 +1526,15 @@
       "feedUrl": "http://www.nathalielawhead.com/candybox/feed",
       "siteUrl": "http://www.nathalielawhead.com/candybox",
       "articles": [
+        {
+          "id": "http://www.nathalielawhead.com/candybox/?p=5131",
+          "author": "alienmelon",
+          "description": "I am writing this post in support of Wren. Hello, I'm the \"writer\" of the Dangen Warning and the former writer of Fight Knight. I feel it's important for me to come forward about why I left the Fight Knight project. https://t.co/ccrZgh1IeA — Wren (@rivalerose) October 1, 2021 Wren is a wonderful human who endured physical abuse, psychological abuse, gaslighting, manipulation, and pretty much that entire spectrum that we’re way too used to hearing about when survivors share their stories. She endured this while working on the game Fight Knight, putting out what I’m sure was amazing work that we...",
+          "link": "http://www.nathalielawhead.com/candybox/in-support-of-wren-the-abuse-she-endured-while-working-on-fight-knight",
+          "publishedOn": "2021-10-14T01:03:46.000Z",
+          "wordCount": 2955,
+          "title": "In support of Wren (the abuse she endured while working on Fight Knight)"
+        },
         {
           "id": "http://www.nathalielawhead.com/candybox/?p=5122",
           "author": "alienmelon",
