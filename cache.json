@@ -218,6 +218,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2529/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/unsolved_math_problems.png\" title=\"After decades of studying the curve and the procedure that generates it, the consensus explanation is &quot;it's just like that.&quot;\" alt=\"After decades of studying the curve and the procedure that generates it, the consensus explanation is &quot;it's just like that.&quot;\" />",
+          "link": "https://xkcd.com/2529/",
+          "publishedOn": "2021-10-15T00:00:00.000Z",
+          "wordCount": 187,
+          "title": "Unsolved Math Problems"
+        },
+        {
           "id": "https://xkcd.com/2528/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/flag_map_sabotage.png\" title=\"Delaware hopes to explore the western edge of areas marked with the Belgian flag, once the tornadoes die down.\" alt=\"Delaware hopes to explore the western edge of areas marked with the Belgian flag, once the tornadoes die down.\" />",
@@ -432,15 +441,6 @@
           "publishedOn": "2021-08-20T00:00:00.000Z",
           "wordCount": 187,
           "title": "News Story Reaction"
-        },
-        {
-          "id": "https://xkcd.com/2504/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/fissile_raspberry_isotopes.png\" title=\"Grandma's shelf-stable blackberry pie meson recipe was a huge seller until her farm was shut down by a joint FDA/NRC investigation.\" alt=\"Grandma's shelf-stable blackberry pie meson recipe was a huge seller until her farm was shut down by a joint FDA/NRC investigation.\" />",
-          "link": "https://xkcd.com/2504/",
-          "publishedOn": "2021-08-18T00:00:00.000Z",
-          "wordCount": 187,
-          "title": "Fissile Raspberry Isotopes"
         }
       ]
     },
@@ -680,15 +680,6 @@
           "publishedOn": "2021-08-18T23:42:04.000Z",
           "wordCount": 787,
           "title": "A big hole in a big road ate one of my tires"
-        },
-        {
-          "id": "https://rachelbythebay.com/w/2021/08/17/pop/",
-          "author": null,
-          "description": "There was a SEV review meeting once upon a time, and in it, we had \nreviewed some incident where something bad happened involving something \nthat ran as root.  I don't remember the finer points of that one any \nmore, but the resident VP who ran the show wondered aloud how much \n\"root exposure\" we had in our infra in general.  That got my attention.\n\n\nAfter the meeting ended without using the whole 90 minutes, the room was \nstill reserved for another 15-20 minutes or so, and a couple of people \nhung out to look at the list.  One noticed that this one service \nrunning everywhere had these options for \"pre\" and \"post\" commands.  \nThis was a service which was normally used for performance measurement \nstuff and involved running an external command.  You'd say \"okay, \nanalyze this thing for me\"…",
-          "link": "https://rachelbythebay.com/w/2021/08/17/pop/",
-          "publishedOn": "2021-08-17T21:27:02.000Z",
-          "wordCount": 941,
-          "title": "Asking nicely for root command execution (and getting it)"
         }
       ]
     },
@@ -730,15 +721,6 @@
           "publishedOn": "2021-08-30T10:33:00.000Z",
           "wordCount": 1908,
           "title": "Monkey: the satirical Go package used unwittingly by Arduino and SalesForce"
-        },
-        {
-          "id": "https://esoteric.codes/blog/african-programming-languages",
-          "author": null,
-          "description": "A phonebook.yl program in Yorlang\n\r\nThe language Yorlang began like many code projects, with a group of programmers contemplating a what-if.\n\r\n\r\nOne evening after work, i was scrolling through the messages in a group chat that i'm in and i read a message by someone talking about how cool it will be to have a programming language in yoruba that can process the command \"sope 'hello world' \". So, i thought it was cool and i decided to create a very small language.\n\r\n\r\nWith that modest intention in mind, Karounwi Anoulowapo (based in Nigeria) created Yorlang, a JS-like language using keywords drawn from Yoruba. As colleagues requested more features, he kept expanding it until it became a full-fledged language. Other Yoruba-speaking programmers contributed, along with some non-speakers who were excited about a programming language created by and for West Africans.\n\r\n\r\nOne of the major contributors to the projects is a guy from the Igbo tribe. He documented the architecture of the code, contributed helper functions to the language, and also made small sample programs using yorlang.\nRead More",
-          "link": "https://esoteric.codes/blog/african-programming-languages",
-          "publishedOn": "2021-08-18T09:20:00.000Z",
-          "wordCount": 1547,
-          "title": "Coding in Indigenous African Languages"
         }
       ]
     },
@@ -762,7 +744,17 @@
       "title": "TEXT-MODE",
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/665225002021519360",
+          "author": null,
+          "description": "garadinervi:\nNancy Middlebrook, Norway #3, (woven with hand dyed cotton), 2020",
+          "link": "https://text-mode.tumblr.com/post/665225002021519360",
+          "publishedOn": "2021-10-16T18:13:19.000Z",
+          "wordCount": 176,
+          "title": "Untitled"
+        }
+      ]
     },
     {
       "title": "Julia Evans",
@@ -1203,6 +1195,15 @@
       "siteUrl": "https://pluralistic.net",
       "articles": [
         {
+          "id": "https://pluralistic.net/?p=2726",
+          "author": "Cory Doctorow",
+          "description": "Today's links The Chicago Tribune is being murdered before our eyes: And it's a serial killing. This day in history: 2001, 2020. Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The Chicago Tribune is being murdered before our eyes (permalink) Last May, the profitable Chicago Tribune was acquired by the notorious vulture firm Alden Global Capital. They suffered waves of downsizing, including a sell-off of the iconic Tribute Building. Today, a skeleton crew puts out the Trib from \"a newsroom the size of a Chipotle.\" In a long, deeply reported article about Alden for The Atlantic, McKay Coppins catalogs the civic losses that Chicago suffered when its major daily newspaper was bought and strangled by Alden and its secretive, far-right owner…",
+          "link": "https://pluralistic.net/2021/10/16/sociopathic-monsters/",
+          "publishedOn": "2021-10-16T23:59:39.000Z",
+          "wordCount": 2745,
+          "title": "Pluralistic: 16 Oct 2021"
+        },
+        {
           "id": "https://pluralistic.net/?p=2722",
           "author": "Cory Doctorow",
           "description": "Today's links ROT 8000 and what \"security\" means: AKA, \"infosec is a team sport.\" This day in history: 2001, 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading ROT 8000 and what \"security\" means (permalink) If you're an Internet Person of a Certain Vintage, you'll likely experience the same thrill of delight I felt this morning when I discovered ROT8000, a Unicode version of the old ROT13 cipher. But after I finished smiling, I got to thinking. http://rot8000.com/Index ROT13 is a toy cipher with a simple method for scrambling text – simply change each character in the message to the character that comes 13 letters after it in the alphabet: A=M, B=N, C=O, etc. You're ROTating each character 13 positions forward – henc…",
@@ -1519,15 +1520,6 @@
           "publishedOn": "2021-08-18T17:41:08.000Z",
           "wordCount": 1966,
           "title": "Pluralistic: 18 Aug 2021"
-        },
-        {
-          "id": "https://pluralistic.net/?p=2489",
-          "author": "Cory Doctorow",
-          "description": "Today's links Sandman Slim's final adventure: King Bullet brings in Richard Kadrey's masterpiece for a hell of a landing. Big Oil caught lying about methane: 84 times worse than CO2. This day in history: 2001, 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Sandman Slim's final adventure (permalink) It's been more than a decade since Richard Kadrey blew the roof off supernatural horror with his hardboiled SANDMAN SLIM, the tale of an LA magician whose coven sends him to hell, who returns to wreak bloody revenge. https://memex.craphound.com/2009/07/24/kadreys-sandman-slim-a-hard-boiled-revenge-novel-from-hell/ As impressive as that breakout was, Kadrey has only gone from strength to strength, publishing ten more vo…",
-          "link": "https://pluralistic.net/2021/08/17/king-bullet/",
-          "publishedOn": "2021-08-17T16:02:53.000Z",
-          "wordCount": 1881,
-          "title": "Pluralistic: 17 Aug 2021"
         }
       ]
     },
@@ -1589,15 +1581,6 @@
           "publishedOn": "2021-08-30T22:57:29.000Z",
           "wordCount": 4195,
           "title": "A retrospective on the Electric Zine Maker, making tools, sharing the $ numbers, and more (after launching the really big update…)"
-        },
-        {
-          "id": "http://www.nathalielawhead.com/candybox/?p=5093",
-          "author": "alienmelon",
-          "description": "Here’s a small but meaningful announcement! Download link >> https://pizzapranks.itch.io/indiepocalypse-x-kus Over the last few months I was secretly working on a collaboration project for the “Indiepocalypse x kuš” mashup. The project teamed up a group of random indie devs (provided by Indiepocalypse) with random comic artists (provided by kuš). The results are stellar! Even thecatamites worked on a game for it. I’m honored to be part of this! The person I was teamed up with is Gvidas Pakarklis, who is an amazing illustrator and artist. You can see more of his work on Instagram. His work is very symbolic and...",
-          "link": "http://www.nathalielawhead.com/candybox/indiepocalypse-x-kus-the-secret-collaboration-i-was-working-on-is-out-now",
-          "publishedOn": "2021-08-17T20:26:47.000Z",
-          "wordCount": 1267,
-          "title": "Indiepocalypse x kuš! (The secret collaboration I was working on is out now!!)"
         }
       ]
     }
