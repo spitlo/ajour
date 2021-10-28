@@ -423,6 +423,15 @@
       "siteUrl": "https://remysharp.com",
       "articles": [
         {
+          "id": "2021-10-27-568af69b",
+          "author": null,
+          "description": "I hadn't realised that Medium had made JavaScript a requirement to be able to read any Medium post - I'd had JS disabled for ages on Medium just because of all the extra cruft they added.\nBut now, without JS, you only get the first few lines of content, and the rest is loaded entirely with JS - which… is stupid.\nScribe fixes all that and focuses entirely on the author's content.\nI also used the FAQ to auto redirect and now I can read the full content without being distracted by Medium's horrid cruft.\nGreat example of taking back the web.\nSource: scribe.rip",
+          "link": "https://remysharp.com/links/2021-10-27-568af69b",
+          "publishedOn": "2021-10-27T17:26:35.000Z",
+          "wordCount": 257,
+          "title": "Scribe - An alternative frontend to Medium [link]"
+        },
+        {
           "id": "2021-10-13-b8820d28",
           "author": null,
           "description": "The Egghead screencasts themselves are excellent, but this is a treasure trove of tips for better screencasts.\nBetter screencasts often (to me) means simpler for your audience or student to follow along - which is only positive.\nSource: howtoegghead.com",
@@ -520,6 +529,24 @@
       "siteUrl": "https://rachelbythebay.com/w/",
       "articles": [
         {
+          "id": "https://rachelbythebay.com/w/2021/03/10/sealed/",
+          "author": null,
+          "description": "A couple of weeks ago, I read a\npost\nabout how the \"sealed system\" on Big Sur was hurting people.  I kind of \nskimmed through it and figured it was mostly complaining about the \nsize of the download.  For whatever reason, that hadn't been a problem \nfor me and my machines, so I kind of wrote it off.\n\n\nFor a good number of years, I've been (foolishly, as it turns out) using \nthe included Apache httpd to run small localhost-only stuff on my Mac \nlaptop.  In recent times, I found that every upgrade of the OS would \nrevert my httpd.conf and it would need to be put back.\n\n\nWhy would it matter if the sshd config got reverted?  Simple: it's \nbecause the stock Mac sshd install includes password-based auth, and \nthat means someone can brute-force their way onto your machine if they \ncan connect to …",
+          "link": "https://rachelbythebay.com/w/2021/03/10/sealed/",
+          "publishedOn": "2021-10-27T23:27:38.000Z",
+          "wordCount": 1281,
+          "title": "Mac upgrade opened sshd to brute force password attacks"
+        },
+        {
+          "id": "https://rachelbythebay.com/w/2021/10/27/macssh/",
+          "author": null,
+          "description": "If you're riding the bleeding edge of Mac software updates, you might \nhave just installed Monterey, or you will soon.  If you're also running \nsshd so you can log in remotely, you should be aware that the typical \n\"revert your config\" shenanigans have happened, so you are\nonce again\naccepting password authentication, and thus are subject to a brute-force \nattack.\n\n\nEditing that file would likely get reverted upon the next patch \n(12.0.2?), so that's right out.  You can't go past it with a higher \nnumber, since as the sshd_config points out, the *first* instance of a \nsetting is kept, and subsequent instances of the same setting are \nignored.\n\n\n\nUsePAM no\nPasswordAuthentication no\n\n\n\nFinally, after you make this change, make sure it actually worked by \nforcing a password/interactive-only login attempt to the machine.  Make \nsure it fails and doesn't ask you for a password.  If you don't know how \nto do this, the\nprevious post\ncontains info on that, including a terrible scanner script that belongs \nin the bottom of a cat box.\n\nEnjoy.",
+          "link": "https://rachelbythebay.com/w/2021/10/27/macssh/",
+          "publishedOn": "2021-10-27T23:26:13.000Z",
+          "wordCount": 302,
+          "title": "Disabling ssh password auth on Monterey is different"
+        },
+        {
           "id": "https://rachelbythebay.com/w/2021/10/13/temp/",
           "author": null,
           "description": "One of the fun things I used to do at a prior job was to dig through the \nraw data points which were collected from the *many* servers we had.  I \ncould just pick an interesting-sounding metric and then would just ask \nthe system to show me the top 10 or bottom 10 out of a population of \nthousands or more.\n\n\nTo get my feet wet with the whole \"investigations\" thing that we'd do, I \nstarted looking into this one day and chose one of the many temp sensors \nwhich were being logged by the servers.  I forget exactly which one it \nwas, for there were many.  The CPUs logged it, the chassis logged it, \nthe power supply logged it, and so on.  There were so many choices.\n\n\nI went looking for a reason.  What could possibly explain this?  First \noff, it didn't line up with any obvious pattern in the host names.  The \nhosts were named for whichever team owned them, followed by a sequence \nnumber that was bumped any time a new one was provisioned.  There was no \nsignal to be found in that.\n\n\nThere was more, though.  You could also see a \"rack position\" in this \ndata, and now it started getting interesting.  It seems that all of the \nreally hot machines had a rack position of something low, like 04 or 05, \nand never anything higher than that.  In fact, when looking at a whole \nrack, it was always the lowest number of all of the positions that were \nbeing used.  Now this was worth chasing!\n\n\nIt's good that I asked, since they told me something surprising: \nposition 04 or 05 or whatever was the *bottom* of the rack.  Yes, \nsomehow, the lowest machine in the rack was the hottest!  They found \nthis interesting, too, and wound up digging into it.  Given that I was \nfar away in a distant office, this was the best way for us to proceed.\n\n\nThe problem was that the bottommost server would have nothing below it \nbut just open space until it got to the floor.  That space would not \nmove air efficiently, and it obviously mattered.\n\n\nThis rolled out and my hot spots disappeared.  Fantastic!",
@@ -599,15 +626,6 @@
           "publishedOn": "2021-09-01T22:31:43.000Z",
           "wordCount": 1037,
           "title": "Followup on the dashboard story"
-        },
-        {
-          "id": "https://rachelbythebay.com/w/2021/08/28/big/",
-          "author": null,
-          "description": "One of the projects I did at a big company once upon a time was evolving \norganically, and we eventually realized we needed a \"dashboard\" of \nsorts.  That is, we wanted an internally-hosted page that would let \nanyone load it up and see what was going on with the service.  It was \nintended to be simple: ping our server, ask for the status, and then \nrender the response into a simple list.  Later on, we knew we were going \nto want to add the ability to send a \"panic\" signal to our server from \nthis page, so that anyone in the company could hit the \"big red button\" \nif things went haywire.\n\n\nJanuary 1: we put up a terrible hack: a shell script that runs a \nPython script that talks to the service to get the status and then \ndumps out raw HTML to a file in someone's public_html path.  \n\n\nJanua…",
-          "link": "https://rachelbythebay.com/w/2021/08/28/big/",
-          "publishedOn": "2021-08-29T06:37:52.000Z",
-          "wordCount": 1672,
-          "title": "Big company tale: six months for a list and a button"
         }
       ]
     },
@@ -875,6 +893,24 @@
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
         {
+          "id": "https://blog.mozilla.org/?p=67442",
+          "author": "M.J. Kelly",
+          "description": "Have you ever been in that situation where you need to give your email address over, but you don’t want to? There could be a security reason. Can you trust who you’re sharing with not to spam your inbox? Are you certain they won’t expose you to data breaches due to lax security on their […]\nThe post Tired of spam? A burner email account could be the answer. appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/products/firefox/burner-email-firefox-relay/",
+          "publishedOn": "2021-10-27T16:15:00.000Z",
+          "wordCount": 1551,
+          "title": "Tired of spam? A burner email account could be the answer."
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=67618",
+          "author": "Mozilla",
+          "description": "Slate and Mozilla’s Pocket have extended their ‘Behind The Podcasts’ collaboration, partnering on a series of new Pocket Collections to provide podcast and Pocket fans with even more opportunities to explore the behind-the-scenes stories that inspired some of Slate’s most successful podcasts. This November, Pocket readers can look forward to all-new collections curated by Slate’s […]\nThe post More Stories Behind the Podcasts: Slate’s Latest Curated Collections on Pocket appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/products/pocket/slate-pocket-partnership-slow-burn-season-6/",
+          "publishedOn": "2021-10-27T13:00:00.000Z",
+          "wordCount": 1231,
+          "title": "More Stories Behind the Podcasts: Slate’s Latest Curated Collections on Pocket"
+        },
+        {
           "id": "https://blog.mozilla.org/?p=67585",
           "author": "Mozilla",
           "description": "This is a story of how one email almost cleared out my life savings. Finding my dream home  My husband and I had relocated to a new city and had been renting for two and a half years. We were finally ready to buy our own place and stop throwing money away on rent, and […]\nThe post Hacked! How finding my dream home almost led me to a financial nightmare appeared first on The Mozilla Blog.",
@@ -1077,6 +1113,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2779",
+          "author": "Cory Doctorow",
+          "description": "Today's links Hospital rings up $2755 upcharge by sending pregnant woman to ER: Poudre Valley Hospital is a clip-joint. This day in history: 2001, 2006, 2011, 2016, 2020. Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Hospital rings up $2755 upcharge by sending pregnant woman to ER (permalink) \"American health care billing horror stories\" is one of my favorite, love-to-hate-it genres. The 24/7 gaslighting delivered by the health-industrial complex is quite a mind-zap and it's nice to get these reminders that we're not all hallucinating here. If you'd like an unrolled version of this thread to read or share, here's a link to it on pluralistic.net, my surveillance-free, ad-free, tracker-free blog: https://pluralistic.net/2021/10/27/cross…",
+          "link": "https://pluralistic.net/2021/10/27/crossing-a-line/",
+          "publishedOn": "2021-10-27T17:31:03.000Z",
+          "wordCount": 1813,
+          "title": "Pluralistic: 27 Oct 2021"
+        },
         {
           "id": "https://pluralistic.net/?p=2773",
           "author": "Cory Doctorow",
@@ -1409,15 +1454,6 @@
             "length": "0",
             "type": "audio/mpeg"
           }
-        },
-        {
-          "id": "https://pluralistic.net/?p=2547",
-          "author": "Cory Doctorow",
-          "description": "Today's links The \"work ethic\" is a dirty trick we play on ourselves: Rationalizing away the pointlessness and indignity of low-waged work. Facebook's war on switching costs: Network effects attract users, switching costs take them hostage. This day in history: 2001, 2006, 2020. Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The \"work ethic\" is a dirty trick we play on ourselves (permalink) In Nebraska – and elsewhere – the forced-labor camps that some prisoners are sent to have been rebranded. They're called \"Work-Ethic Camps\" now, and prisoners do 30-40h/week of hard labor for $1.21/day, interspersed with \"intro to business\" courses. As Jamiek McCallum writes in Aeon: \"If there was a formula for obliterating the work ethic, giving pe…",
-          "link": "https://pluralistic.net/2021/08/28/talking-hard-work-blues/",
-          "publishedOn": "2021-08-28T18:01:31.000Z",
-          "wordCount": 2618,
-          "title": "Pluralistic: 28 Aug 2021"
         }
       ]
     },

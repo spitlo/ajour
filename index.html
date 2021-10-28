@@ -16,9 +16,9 @@
     <meta name="robots" content="noindex, nofollow">
     <link rel="preload" as="font" type="font/woff2" href="https://spitlo.com/fonts/GangsterGrotesk-Bold.woff2" crossorigin="anonymous">
     <link rel="preload" as="font" type="font/woff2" href="https://spitlo.com/fonts/VictorMono-Thin.woff2" crossorigin="anonymous">
-    <link rel="icon" type="image/svg+xml" href="https://spitlo.com/images/favicon.svg?2021-10-27T00:17:25.924Z">
+    <link rel="icon" type="image/svg+xml" href="https://spitlo.com/images/favicon.svg?2021-10-28T00:17:59.173Z">
     <link rel="alternate" type="application/rss+xml" title="Ajour / Spitlo.com" href="feed.atom">
-    <link href="https://spitlo.com/style.css?2021-10-27T00:17:25.924Z" rel="stylesheet">
+    <link href="https://spitlo.com/style.css?2021-10-28T00:17:59.173Z" rel="stylesheet">
 
     <style>
       body { font-size: 14px; }
@@ -52,6 +52,123 @@
           Visit <a target="_blank" rel="noopener noreferrer" href="https://github.com/osmoscraft/osmosfeed">osmos::feed</a> for more info or to make your own custom feed reader.
         </p>
 
+          <section class="daily-content">
+            <h2 class="daily-heading"><time datatime="2021-10-27">2021-10-27</time></h2>
+                <article data-source="Writing - rachelbythebay" data-rtime="4">
+                  <h3><a target="_blank" rel="noopener noreferrer" href=https://rachelbythebay.com/w/2021/03/10/sealed/>Mac upgrade opened sshd to brute force password attacks</a></h3>
+                  <ul class="meta">
+                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://rachelbythebay.com/w/>Writing - rachelbythebay</a></li>
+                    <li><span class="label">Date:</span> <time datetime="2021-10-27T23:27:38.000Z">2021-10-27</time></li>
+                    <li><span class="label">Reading time:</span> <time>4 min</time></li>
+                    <li><span class="label">Words</span> <time>1281</time></li>
+                  </ul>
+                  <p>A couple of weeks ago, I read a
+post
+about how the &quot;sealed system&quot; on Big Sur was hurting people.  I kind of 
+skimmed through it and figured it was mostly complaining about the 
+size of the download.  For whatever reason, that hadn&#x27;t been a problem 
+for me and my machines, so I kind of wrote it off.
+
+
+For a good number of years, I&#x27;ve been (foolishly, as it turns out) using 
+the included Apache httpd to run small localhost-only stuff on my Mac 
+laptop.  In recent times, I found that every upgrade of the OS would 
+revert my httpd.conf and it would need to be put back.
+
+
+Why would it matter if the sshd config got reverted?  Simple: it&#x27;s 
+because the stock Mac sshd install includes password-based auth, and 
+that means someone can brute-force their way onto your machine if they 
+can connect to …</p>
+                </article>
+                <article data-source="Writing - rachelbythebay" data-rtime="1">
+                  <h3><a target="_blank" rel="noopener noreferrer" href=https://rachelbythebay.com/w/2021/10/27/macssh/>Disabling ssh password auth on Monterey is different</a></h3>
+                  <ul class="meta">
+                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://rachelbythebay.com/w/>Writing - rachelbythebay</a></li>
+                    <li><span class="label">Date:</span> <time datetime="2021-10-27T23:26:13.000Z">2021-10-27</time></li>
+                    <li><span class="label">Reading time:</span> <time>1 min</time></li>
+                    <li><span class="label">Words</span> <time>302</time></li>
+                  </ul>
+                  <p>If you&#x27;re riding the bleeding edge of Mac software updates, you might 
+have just installed Monterey, or you will soon.  If you&#x27;re also running 
+sshd so you can log in remotely, you should be aware that the typical 
+&quot;revert your config&quot; shenanigans have happened, so you are
+once again
+accepting password authentication, and thus are subject to a brute-force 
+attack.
+
+
+Editing that file would likely get reverted upon the next patch 
+(12.0.2?), so that&#x27;s right out.  You can&#x27;t go past it with a higher 
+number, since as the sshd_config points out, the *first* instance of a 
+setting is kept, and subsequent instances of the same setting are 
+ignored.
+
+
+
+UsePAM no
+PasswordAuthentication no
+
+
+
+Finally, after you make this change, make sure it actually worked by 
+forcing a password/interactive-only login attempt to the machine.  Make 
+sure it fails and doesn&#x27;t ask you for a password.  If you don&#x27;t know how 
+to do this, the
+previous post
+contains info on that, including a terrible scanner script that belongs 
+in the bottom of a cat box.
+
+Enjoy.</p>
+                </article>
+                <article data-source="Pluralistic: Daily links from Cory Doctorow" data-rtime="6">
+                  <h3><a target="_blank" rel="noopener noreferrer" href=https://pluralistic.net/2021/10/27/crossing-a-line/>Pluralistic: 27 Oct 2021</a></h3>
+                  <ul class="meta">
+                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://pluralistic.net>Pluralistic: Daily links from Cory Doctorow</a></li>
+                    <li><span class="label">Date:</span> <time datetime="2021-10-27T17:31:03.000Z">2021-10-27</time></li>
+                    <li><span class="label">Reading time:</span> <time>6 min</time></li>
+                    <li><span class="label">Words</span> <time>1813</time></li>
+                  </ul>
+                  <p>Today&#x27;s links Hospital rings up $2755 upcharge by sending pregnant woman to ER: Poudre Valley Hospital is a clip-joint. This day in history: 2001, 2006, 2011, 2016, 2020. Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Hospital rings up $2755 upcharge by sending pregnant woman to ER (permalink) &quot;American health care billing horror stories&quot; is one of my favorite, love-to-hate-it genres. The 24/7 gaslighting delivered by the health-industrial complex is quite a mind-zap and it&#x27;s nice to get these reminders that we&#x27;re not all hallucinating here. If you&#x27;d like an unrolled version of this thread to read or share, here&#x27;s a link to it on pluralistic.net, my surveillance-free, ad-free, tracker-free blog: https://pluralistic.net/2021/10/27/cross…</p>
+                </article>
+                <article data-source="remy sharp&#x27;s b:log" data-rtime="1">
+                  <h3><a target="_blank" rel="noopener noreferrer" href=https://remysharp.com/links/2021-10-27-568af69b>Scribe - An alternative frontend to Medium [link]</a></h3>
+                  <ul class="meta">
+                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://remysharp.com>remy sharp&#x27;s b:log</a></li>
+                    <li><span class="label">Date:</span> <time datetime="2021-10-27T17:26:35.000Z">2021-10-27</time></li>
+                    <li><span class="label">Reading time:</span> <time>1 min</time></li>
+                    <li><span class="label">Words</span> <time>257</time></li>
+                  </ul>
+                  <p>I hadn&#x27;t realised that Medium had made JavaScript a requirement to be able to read any Medium post - I&#x27;d had JS disabled for ages on Medium just because of all the extra cruft they added.
+But now, without JS, you only get the first few lines of content, and the rest is loaded entirely with JS - which… is stupid.
+Scribe fixes all that and focuses entirely on the author&#x27;s content.
+I also used the FAQ to auto redirect and now I can read the full content without being distracted by Medium&#x27;s horrid cruft.
+Great example of taking back the web.
+Source: scribe.rip</p>
+                </article>
+                <article data-source="The Mozilla Blog" data-rtime="5">
+                  <h3><a target="_blank" rel="noopener noreferrer" href=https://blog.mozilla.org/en/products/firefox/burner-email-firefox-relay/>Tired of spam? A burner email account could be the answer.</a></h3>
+                  <ul class="meta">
+                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://blog.mozilla.org/en/>The Mozilla Blog</a></li>
+                    <li><span class="label">Date:</span> <time datetime="2021-10-27T16:15:00.000Z">2021-10-27</time></li>
+                    <li><span class="label">Reading time:</span> <time>5 min</time></li>
+                    <li><span class="label">Words</span> <time>1551</time></li>
+                  </ul>
+                  <p>Have you ever been in that situation where you need to give your email address over, but you don’t want to? There could be a security reason. Can you trust who you’re sharing with not to spam your inbox? Are you certain they won’t expose you to data breaches due to lax security on their […]
+The post Tired of spam? A burner email account could be the answer. appeared first on The Mozilla Blog.</p>
+                </article>
+                <article data-source="The Mozilla Blog" data-rtime="4">
+                  <h3><a target="_blank" rel="noopener noreferrer" href=https://blog.mozilla.org/en/products/pocket/slate-pocket-partnership-slow-burn-season-6/>More Stories Behind the Podcasts: Slate’s Latest Curated Collections on Pocket</a></h3>
+                  <ul class="meta">
+                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://blog.mozilla.org/en/>The Mozilla Blog</a></li>
+                    <li><span class="label">Date:</span> <time datetime="2021-10-27T13:00:00.000Z">2021-10-27</time></li>
+                    <li><span class="label">Reading time:</span> <time>4 min</time></li>
+                    <li><span class="label">Words</span> <time>1231</time></li>
+                  </ul>
+                  <p>Slate and Mozilla’s Pocket have extended their ‘Behind The Podcasts’ collaboration, partnering on a series of new Pocket Collections to provide podcast and Pocket fans with even more opportunities to explore the behind-the-scenes stories that inspired some of Slate’s most successful podcasts. This November, Pocket readers can look forward to all-new collections curated by Slate’s […]
+The post More Stories Behind the Podcasts: Slate’s Latest Curated Collections on Pocket appeared first on The Mozilla Blog.</p>
+                </article>
+          </section>
           <section class="daily-content">
             <h2 class="daily-heading"><time datatime="2021-10-26">2021-10-26</time></h2>
                 <article data-source="Pluralistic: Daily links from Cory Doctorow" data-rtime="8">
@@ -2119,52 +2236,10 @@ Previous years, this evening specifically I try hard to hold the pain (and fear 
 This year has been different. As each year has always been different. No different bad or different good. Different… peaceful.</p>
                 </article>
           </section>
-          <section class="daily-content">
-            <h2 class="daily-heading"><time datatime="2021-08-29">2021-08-29</time></h2>
-                <article data-source="Writing - rachelbythebay" data-rtime="6">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://rachelbythebay.com/w/2021/08/28/big/>Big company tale: six months for a list and a button</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://rachelbythebay.com/w/>Writing - rachelbythebay</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2021-08-29T06:37:52.000Z">2021-08-29</time></li>
-                    <li><span class="label">Reading time:</span> <time>6 min</time></li>
-                    <li><span class="label">Words</span> <time>1672</time></li>
-                  </ul>
-                  <p>One of the projects I did at a big company once upon a time was evolving 
-organically, and we eventually realized we needed a &quot;dashboard&quot; of 
-sorts.  That is, we wanted an internally-hosted page that would let 
-anyone load it up and see what was going on with the service.  It was 
-intended to be simple: ping our server, ask for the status, and then 
-render the response into a simple list.  Later on, we knew we were going 
-to want to add the ability to send a &quot;panic&quot; signal to our server from 
-this page, so that anyone in the company could hit the &quot;big red button&quot; 
-if things went haywire.
-
-
-January 1: we put up a terrible hack: a shell script that runs a 
-Python script that talks to the service to get the status and then 
-dumps out raw HTML to a file in someone&#x27;s public_html path.  
-
-
-Janua…</p>
-                </article>
-          </section>
-          <section class="daily-content">
-            <h2 class="daily-heading"><time datatime="2021-08-28">2021-08-28</time></h2>
-                <article data-source="Pluralistic: Daily links from Cory Doctorow" data-rtime="9">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://pluralistic.net/2021/08/28/talking-hard-work-blues/>Pluralistic: 28 Aug 2021</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://pluralistic.net>Pluralistic: Daily links from Cory Doctorow</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2021-08-28T18:01:31.000Z">2021-08-28</time></li>
-                    <li><span class="label">Reading time:</span> <time>9 min</time></li>
-                    <li><span class="label">Words</span> <time>2618</time></li>
-                  </ul>
-                  <p>Today&#x27;s links The &quot;work ethic&quot; is a dirty trick we play on ourselves: Rationalizing away the pointlessness and indignity of low-waged work. Facebook&#x27;s war on switching costs: Network effects attract users, switching costs take them hostage. This day in history: 2001, 2006, 2020. Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The &quot;work ethic&quot; is a dirty trick we play on ourselves (permalink) In Nebraska – and elsewhere – the forced-labor camps that some prisoners are sent to have been rebranded. They&#x27;re called &quot;Work-Ethic Camps&quot; now, and prisoners do 30-40h/week of hard labor for $1.21/day, interspersed with &quot;intro to business&quot; courses. As Jamiek McCallum writes in Aeon: &quot;If there was a formula for obliterating the work ethic, giving pe…</p>
-                </article>
-          </section>
 
         <footer>
           <section class="details">
-            <span class="detail">Built @ 2021-10-27T00:17:25.924Z</span>
+            <span class="detail">Built @ 2021-10-28T00:17:59.173Z</span>
             <span class="divider">|</span>
             <span class="detail">CLI: 1.11.3</span>
             <span class="divider">|</span>
