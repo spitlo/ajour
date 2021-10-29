@@ -6,6 +6,15 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=6988",
+          "author": "Chris Heilmann",
+          "description": "The 1.4.0 release of the Microsoft Tools for Visual Studio Code brings a few highly requested features. We improved the screencasting feature, added device emulation and live issue reporting in your source code. You can check the 3 minute highlight reel here . Improved screencasting In previous versions of the extension, the screencast was a […]",
+          "link": "https://christianheilmann.com/2021/10/28/edge-devtools-for-visual-studio-code-1-4-0-improved-screencasting-device-emulation-and-live-inline-issue-reporting/",
+          "publishedOn": "2021-10-28T06:02:36.000Z",
+          "wordCount": 566,
+          "title": "Edge DevTools for Visual Studio Code 1.4.0 – Improved Screencasting, Device Emulation and live, inline issue reporting"
+        },
+        {
           "id": "https://christianheilmann.com/?p=6972",
           "author": "Chris Heilmann",
           "description": "Starting with the next version of Microsoft Edge, we are running an experiment that allows you to use Visual Studio Code as the editor of the in-browser Developer Tools. Here’s a three minute video explaining why we think this is a good idea. Developer Tools have excellent visual tools that allow you to tweak and […]",
@@ -190,6 +199,15 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2534/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/retractable_rocket.png\" title=\"Hard to believe that for so many years once they were fully extended we just let them tip over.\" alt=\"Hard to believe that for so many years once they were fully extended we just let them tip over.\" />",
+          "link": "https://xkcd.com/2534/",
+          "publishedOn": "2021-10-27T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Retractable Rocket"
+        },
         {
           "id": "https://xkcd.com/2533/",
           "author": null,
@@ -405,15 +423,6 @@
           "publishedOn": "2021-09-01T00:00:00.000Z",
           "wordCount": 185,
           "title": "Modern Tools"
-        },
-        {
-          "id": "https://xkcd.com/2509/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/useful_geometry_formulas.png\" title=\"Geometry textbooks always try to trick you by adding decorative stripes and dotted lines.\" alt=\"Geometry textbooks always try to trick you by adding decorative stripes and dotted lines.\" />",
-          "link": "https://xkcd.com/2509/",
-          "publishedOn": "2021-08-30T00:00:00.000Z",
-          "wordCount": 187,
-          "title": "Useful Geometry Formulas"
         }
       ]
     },
@@ -502,24 +511,6 @@
           "publishedOn": "2021-09-02T00:00:00.000Z",
           "wordCount": 1060,
           "title": "MIDI controller to PS/2 - part 1 [blog]"
-        },
-        {
-          "id": "the-whole-truth-di-adam-fawley-5",
-          "author": null,
-          "description": "Unstoppable page turner.\nI'm not known for reading books quickly - heck, the last book I read was 45 pages (or 80 pages, or 90 pages, or something low according to Kindle) and it took me a week to read.\nThis book is 400+ pages and I swallowed it in a matter of days. I cannot resist Hunter's writing style and it has me ending each chapter/section with \"just one more…\".\nGreat stuff. It also brings in some of the end of book 4 - All The Rage into a larger storyline.\nThe writing is certainly formulaic to some degree, but that's not particularly a bad thing and having familiarity with the characters, for me having read all the DI Adam Fawley series, means I can follow along at a much more interesting pace through the book.\nI suspect this is classic \"beach reading\" if I were the type. I've enjoyed every one of Hunter's books I've read so far and I'll be pre-ordering the sixth installment: and easy choice.",
-          "link": "https://remysharp.com/books/2021/the-whole-truth-di-adam-fawley-5",
-          "publishedOn": "2021-08-30T00:00:00.000Z",
-          "wordCount": 332,
-          "title": "The Whole Truth (DI Adam Fawley, #5) [book]"
-        },
-        {
-          "id": "flowers-for-eleven",
-          "author": null,
-          "description": "As I write this, it's the evening of the 30th of August. Previous years, indeed the last decade, this evening is terribly painful for me. This evening, 11 years ago Julie and I arrived at hospital, around this precise time, to find that during the late stages of labour, Tia's heartbeat had stopped.\nPrevious years, this evening specifically I try hard to hold the pain (and fear and anger) at arm's length.\nThis year has been different. As each year has always been different. No different bad or different good. Different… peaceful.",
-          "link": "https://remysharp.com/2021/08/30/flowers-for-eleven",
-          "publishedOn": "2021-08-30T00:00:00.000Z",
-          "wordCount": 435,
-          "title": "Flowers for Eleven [blog]"
         }
       ]
     },
@@ -658,15 +649,6 @@
           "publishedOn": "2021-09-22T07:29:00.000Z",
           "wordCount": 1009,
           "title": "Escher Circuits: Using Vision to Perform Computation"
-        },
-        {
-          "id": "https://esoteric.codes/blog/bouk-monkey-satirical-code-used-by-people-who-dont-get-the-joke",
-          "author": null,
-          "description": "Collisions between the personal and the commercial in open-source have become familiar, like when an irate independent developer pulled a widely-used package entirely in 2016 bringing down hundreds of projects. But we don't expect a commercial enterprise to suddenly discover a package they have long relied on forbids any use at all—and does so for a very good reason.\n\r\nThis was the realization for dapr, a “portable, serverless, event-driven runtime,” with 14k stars on GitHub, when an issue was opened last week about its dependency bouk/monkey. Monkey's license, in its entirety, reads:\n\r\n\r\nI do not give anyone permissions to use this tool for any purpose. Don’t use it.\n\r\nI’m not interested in changing this license. Please don’t ask.\n\r\n\r\nIt raises the question: do even corporate entities read the licenses of packages they use? While Dapr was called out, Arduino, SalesForce, and hundreds of other projects also reference Monkey.\nRead More",
-          "link": "https://esoteric.codes/blog/bouk-monkey-satirical-code-used-by-people-who-dont-get-the-joke",
-          "publishedOn": "2021-08-30T10:33:00.000Z",
-          "wordCount": 1908,
-          "title": "Monkey: the satirical Go package used unwittingly by Arduino and SalesForce"
         }
       ]
     },
@@ -691,6 +673,15 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/666306458432012288",
+          "author": null,
+          "description": "ascii-yume:",
+          "link": "https://text-mode.tumblr.com/post/666306458432012288",
+          "publishedOn": "2021-10-28T16:42:36.000Z",
+          "wordCount": 207,
+          "title": "Untitled"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/665225002021519360",
           "author": null,
@@ -892,6 +883,15 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=67634",
+          "author": "Mozilla",
+          "description": "Mozilla’s Firefox is thrilled to be named one of the nearly 100 brands within Fast Company Magazine’s inaugural and high-profile, Brands That Matter 2021 ranking and recognition program for companies and nonprofits that have had an undeniable impact on business and culture. Mozilla’s Firefox was recognized by Fast Company specifically for “continuing to do what […]\nThe post Mozilla’s Firefox named in inaugural Brands That Matter appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/mozillas-firefox-named-in-inaugural-brands-that-matter/",
+          "publishedOn": "2021-10-28T16:16:50.000Z",
+          "wordCount": 1130,
+          "title": "Mozilla’s Firefox named in inaugural Brands That Matter"
+        },
         {
           "id": "https://blog.mozilla.org/?p=67442",
           "author": "M.J. Kelly",
@@ -1113,6 +1113,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2783",
+          "author": "Cory Doctorow",
+          "description": "Today's links The new DRM-breaking exemptions just dropped: But here's the bad news… All of science gets a general index: For your text-mining pleasure, courtesy of Carl Malamud and Public Resource. Europe's trustbusters lose the plot: Filternet, made in Europe. This day in history: 2001, 2006, 2011, 2016, 2020. Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The new DRM-breaking exemptions just dropped (permalink) The DMCA was signed into law by Bill Clinton in 1998. It has a weird history. Its inception came from Bruce Lehmann, Microsoft's chief copyright enforcer, whom Clinton tapped to serve as his Copyright Czar. This was back in the \"Information Superhighway\" days, when Al Gore was holding hearings on the demilitarization and comm…",
+          "link": "https://pluralistic.net/2021/10/28/clintons-ghost/",
+          "publishedOn": "2021-10-28T16:39:32.000Z",
+          "wordCount": 4353,
+          "title": "Pluralistic: 28 Oct 2021"
+        },
         {
           "id": "https://pluralistic.net/?p=2779",
           "author": "Cory Doctorow",
