@@ -414,15 +414,6 @@
           "publishedOn": "2021-09-03T00:00:00.000Z",
           "wordCount": 187,
           "title": "Recreate the Conditions"
-        },
-        {
-          "id": "https://xkcd.com/2510/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/modern_tools.png\" title=\"I tried to train an AI to repair my Python environment but it kept giving up and deleting itself.\" alt=\"I tried to train an AI to repair my Python environment but it kept giving up and deleting itself.\" />",
-          "link": "https://xkcd.com/2510/",
-          "publishedOn": "2021-09-01T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Modern Tools"
         }
       ]
     },
@@ -519,6 +510,15 @@
       "feedUrl": "https://rachelbythebay.com/w/atom.xml",
       "siteUrl": "https://rachelbythebay.com/w/",
       "articles": [
+        {
+          "id": "https://rachelbythebay.com/w/2021/10/30/5tb/",
+          "author": null,
+          "description": "Almost ten years ago,\nI wrote an obscure post about something that would have only made sense \nif you also worked at Google at the time it happened (around 2010).  It \nwas a reference to an Xtranormal video that someone created about the \nperils of trying to get your stuff running in production without having \nsomeone hate on you for \"doing it wrong\".\n\n\nWhen it came out, I took a screenshot of the long-suffering engineer \n(some kind of red panda/fox girl thing) and had a T-shirt made from it.  \nI wore it to work a few times to great effect.  It was our own little \ninternal joke within the company.\n\n\nReady?  \nHere it is.\n\n\nAs for everything in the video, it is really close to what the reality \nof production was back in the day.  Things were actually quite a bit \nworse than what it suggests, if you can believe it.  The whole thing \nabout \"get quota in two cells\" misses the fact that it was damn near \nimpossible to get the quota you needed across multiple services \n(compute, storage, ...) in the same place at the same time.\n\n\nSo, if you heard stories about software engineers doing shady deals to \ntrade quota between teams so they could get all of the stuff in the \nsame spot?  Yep, this is where those came from.  That's the kind of \nthing that was happening.  People had to blow time and energy on \nworrying about that kind of thing instead of working on whatever they \nwere supposed to be doing.\n\n\nI'm sure my non-solution probably bit someone later.  Sorry, whoever.",
+          "link": "https://rachelbythebay.com/w/2021/10/30/5tb/",
+          "publishedOn": "2021-10-30T22:26:43.000Z",
+          "wordCount": 581,
+          "title": "Now you can (try to) serve five terabytes, too"
+        },
         {
           "id": "https://rachelbythebay.com/w/2021/03/10/sealed/",
           "author": null,
@@ -857,15 +857,6 @@
           "publishedOn": "2021-09-12T22:10:28.000Z",
           "wordCount": 1757,
           "title": "CSS Variables for React Devs"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/animation/keyframe-animations/",
-          "author": "Josh W. Comeau",
-          "description": "CSS keyframe animations are incredibly flexible and powerful, but they’re also a bit weird. In this deep-dive tutorial, we'll learn how CSS keyframes work from the ground up, and see how to use them to build high-quality animations.",
-          "link": "https://www.joshwcomeau.com/animation/keyframe-animations/",
-          "publishedOn": "2021-08-31T21:41:57.000Z",
-          "wordCount": 2013,
-          "title": "An Interactive Guide to Keyframe Animations"
         }
       ]
     },
@@ -1104,6 +1095,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2789",
+          "author": "Cory Doctorow",
+          "description": "Today's links LaserWriter II: Tamara Shopsin's celebration of the heroic era of the Mac. This day in history: 2001, 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading LaserWriter II (permalink) \"LaserWriter II\" is Tamara Shopsin's fictionalized history of Tekserv, NYC's legendary Apple computer repair store. It's a vivid, loving, heartfelt portrait of an heroic moment in the history of personal computing: a moment when computers transformed lives and captured the hearts of people in every field of endeavor. https://us.macmillan.com/books/9780374602581/laserwriterii Shopsin, of course, is one of the Shopsins, of Shopsin's Restaurant, the famously eccentric, floridly weird, and completely and utterly amazing NYC instit…",
+          "link": "https://pluralistic.net/2021/10/29/norwegian-potato-flour-enchiladas/",
+          "publishedOn": "2021-10-30T02:12:11.000Z",
+          "wordCount": 1774,
+          "title": "Pluralistic: 29 Oct 2021"
+        },
         {
           "id": "https://pluralistic.net/?p=2783",
           "author": "Cory Doctorow",
@@ -1431,15 +1431,6 @@
           "publishedOn": "2021-09-01T16:41:46.000Z",
           "wordCount": 1800,
           "title": "Pluralistic: 01 Sep 2021"
-        },
-        {
-          "id": "https://pluralistic.net/?p=2559",
-          "author": "Cory Doctorow",
-          "description": "Today's links Inequality, not gerontocracy: Who killed interest rates? Monopoly power and political corruption: Starve the (corporate) beast, shrink it until it fits in a bathtub. This day in history: 2006, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Inequality, not gerontocracy (permalink) The received wisdom among economists is that the US's historical low interests rates are driven by high savings by aging boomers who are getting ready for, or in, retirement. The idea is boomers have salted away so much cash that banks don't bid for their savings, so interest rates fall. But at last week's Jackson Hole conference, a trio of economists presented a very different explanation for low interest, one that better fits the facts. In…",
-          "link": "https://pluralistic.net/2021/08/31/and-drown-it/",
-          "publishedOn": "2021-08-31T17:14:02.000Z",
-          "wordCount": 2571,
-          "title": "Pluralistic: 31 Aug 2021"
         }
       ]
     },

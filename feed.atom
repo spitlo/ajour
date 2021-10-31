@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-10-30T00:17:15.635Z</updated>
+    <updated>2021-10-31T00:18:58.345Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Now you can (try to) serve five terabytes, too]]></title>
+        <id>https://rachelbythebay.com/w/2021/10/30/5tb/</id>
+        <link href="https://rachelbythebay.com/w/2021/10/30/5tb/"/>
+        <updated>2021-10-30T22:26:43.000Z</updated>
+        <summary type="html"><![CDATA[Almost ten years ago,
+I wrote an obscure post about something that would have only made sense 
+if you also worked at Google at the time it happened (around 2010).  It 
+was a reference to an Xtranormal video that someone created about the 
+perils of trying to get your stuff running in production without having 
+someone hate on you for "doing it wrong".
+
+
+When it came out, I took a screenshot of the long-suffering engineer 
+(some kind of red panda/fox girl thing) and had a T-shirt made from it.  
+I wore it to work a few times to great effect.  It was our own little 
+internal joke within the company.
+
+
+Ready?  
+Here it is.
+
+
+As for everything in the video, it is really close to what the reality 
+of production was back in the day.  Things were actually quite a bit 
+worse than what it suggests, if you can believe it.  The whole thing 
+about "get quota in two cells" misses the fact that it was damn near 
+impossible to get the quota you needed across multiple services 
+(compute, storage, ...) in the same place at the same time.
+
+
+So, if you heard stories about software engineers doing shady deals to 
+trade quota between teams so they could get all of the stuff in the 
+same spot?  Yep, this is where those came from.  That's the kind of 
+thing that was happening.  People had to blow time and energy on 
+worrying about that kind of thing instead of working on whatever they 
+were supposed to be doing.
+
+
+I'm sure my non-solution probably bit someone later.  Sorry, whoever.]]></summary>
+        <author>
+            <name>Writing - rachelbythebay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: 29 Oct 2021]]></title>
+        <id>https://pluralistic.net/?p=2789</id>
+        <link href="https://pluralistic.net/2021/10/29/norwegian-potato-flour-enchiladas/"/>
+        <updated>2021-10-30T02:12:11.000Z</updated>
+        <summary type="html"><![CDATA[Today's links LaserWriter II: Tamara Shopsin's celebration of the heroic era of the Mac. This day in history: 2001, 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading LaserWriter II (permalink) "LaserWriter II" is Tamara Shopsin's fictionalized history of Tekserv, NYC's legendary Apple computer repair store. It's a vivid, loving, heartfelt portrait of an heroic moment in the history of personal computing: a moment when computers transformed lives and captured the hearts of people in every field of endeavor. https://us.macmillan.com/books/9780374602581/laserwriterii Shopsin, of course, is one of the Shopsins, of Shopsin's Restaurant, the famously eccentric, floridly weird, and completely and utterly amazing NYC instit…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Common Cold Viruses]]></title>
         <id>https://xkcd.com/2535/</id>
@@ -1968,36 +2022,6 @@ request and get something back given just a little yak…]]></summary>
 The post Mozilla VPN Completes Independent Security Audit by Cure53 appeared first on The Mozilla Blog.]]></summary>
         <author>
             <name>Mozilla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modern Tools]]></title>
-        <id>https://xkcd.com/2510/</id>
-        <link href="https://xkcd.com/2510/"/>
-        <updated>2021-09-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/modern_tools.png" title="I tried to train an AI to repair my Python environment but it kept giving up and deleting itself." alt="I tried to train an AI to repair my Python environment but it kept giving up and deleting itself." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Interactive Guide to Keyframe Animations]]></title>
-        <id>https://www.joshwcomeau.com/animation/keyframe-animations/</id>
-        <link href="https://www.joshwcomeau.com/animation/keyframe-animations/"/>
-        <updated>2021-08-31T21:41:57.000Z</updated>
-        <summary type="html"><![CDATA[CSS keyframe animations are incredibly flexible and powerful, but they’re also a bit weird. In this deep-dive tutorial, we'll learn how CSS keyframes work from the ground up, and see how to use them to build high-quality animations.]]></summary>
-        <author>
-            <name>Josh W. Comeau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 31 Aug 2021]]></title>
-        <id>https://pluralistic.net/?p=2559</id>
-        <link href="https://pluralistic.net/2021/08/31/and-drown-it/"/>
-        <updated>2021-08-31T17:14:02.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Inequality, not gerontocracy: Who killed interest rates? Monopoly power and political corruption: Starve the (corporate) beast, shrink it until it fits in a bathtub. This day in history: 2006, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Inequality, not gerontocracy (permalink) The received wisdom among economists is that the US's historical low interests rates are driven by high savings by aging boomers who are getting ready for, or in, retirement. The idea is boomers have salted away so much cash that banks don't bid for their savings, so interest rates fall. But at last week's Jackson Hole conference, a trio of economists presented a very different explanation for low interest, one that better fits the facts. In…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
         </author>
     </entry>
 </feed>
