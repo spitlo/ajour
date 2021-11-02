@@ -6,6 +6,20 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=6999",
+          "author": "Chris Heilmann",
+          "description": "This is a talk that I’ve given at CityJS this September. I am a principal product manager for developer tools in Microsoft Edge and these are things I encountered during working on the tools, documenting them and going through user feedback. You can watch the recording of the talk on Youtube . Here’s a write-up […]",
+          "link": "https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/",
+          "publishedOn": "2021-11-01T14:21:08.000Z",
+          "wordCount": 2400,
+          "title": "Developer Tools secrets that shouldn’t be secrets",
+          "enclosure": {
+            "url": "https://christianheilmann.com/wp-content/uploads/2021/10/log-vs-live-expression-smaller.mp4",
+            "length": "2040538",
+            "type": "video/mp4"
+          }
+        },
+        {
           "id": "https://christianheilmann.com/?p=6988",
           "author": "Chris Heilmann",
           "description": "The 1.4.0 release of the Microsoft Tools for Visual Studio Code brings a few highly requested features. We improved the screencasting feature, added device emulation and live issue reporting in your source code. You can check the 3 minute highlight reel here . Improved screencasting In previous versions of the extension, the screencast was a […]",
@@ -199,6 +213,15 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2536/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/wirecutter.png\" title=\"This was always going to be a controversial Wirecutter post, but what really got them in trouble were their 'budget' and 'upgrade' picks.\" alt=\"This was always going to be a controversial Wirecutter post, but what really got them in trouble were their 'budget' and 'upgrade' picks.\" />",
+          "link": "https://xkcd.com/2536/",
+          "publishedOn": "2021-11-01T00:00:00.000Z",
+          "wordCount": 183,
+          "title": "Wirecutter"
+        },
         {
           "id": "https://xkcd.com/2535/",
           "author": null,
@@ -414,15 +437,6 @@
           "publishedOn": "2021-09-06T00:00:00.000Z",
           "wordCount": 183,
           "title": "Revelation"
-        },
-        {
-          "id": "https://xkcd.com/2511/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/recreate_the_conditions.png\" title=\"We've almost finished constructing the piña collider.\" alt=\"We've almost finished constructing the piña collider.\" />",
-          "link": "https://xkcd.com/2511/",
-          "publishedOn": "2021-09-03T00:00:00.000Z",
-          "wordCount": 187,
-          "title": "Recreate the Conditions"
         }
       ]
     },
