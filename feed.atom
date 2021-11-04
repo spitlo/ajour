@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-11-03T00:17:27.754Z</updated>
+    <updated>2021-11-04T00:17:50.406Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Summary of changes for October]]></title>
+        <id>log.html#oct2021</id>
+        <link href="https://100r.co/site/log.html#oct2021"/>
+        <updated>2021-11-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone! This is the list of all the changes we've done to our projects and apps during the month of October. We'll also be reporting in our on position in the world, and on our future plans.
+Summary Of Changes
+donsol, ported our Famicom(6502) code to Varvara(uxn).
+uxn, wrote a reference guide and created a list of community projects.
+noodle, added guides for the line and rectangle tool and updated shortcuts in the documentation.
+grimgrains, optimized images and published a Chunky Apple Jam recipe.
+100r, optimized images (see Rek's notes). Added new pages: boom tent, grinder and small space.
+left, optimized code.
+nasu, fixed crashing bug with large selections.
+News
+This month, we found a used grain mill for Pino! Flour doesn't keep as well as whole grains, so we decided to start milling flour (wheat berries, soy beans or chickpeas) only as we need it. We only released a Guide to Lacto-fermenting vegetables on grimgrains.
+Donsol is now available as an uxn rom on itchio.
+See Devine's daily drawings series for October.
+Pino book club
+We're continuing our readings of The Stories of Ray Bradbury by Ray Bradbury. Favorite shorts this month include The Long Rain, The City and Kaleidoscope.
+Pino's location: 48° 42.230'N, 123° 36.900'W
+Continue Reading]]></summary>
+        <author>
+            <name>Rekka Bellum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Painbow Award]]></title>
+        <id>https://xkcd.com/2537/</id>
+        <link href="https://xkcd.com/2537/"/>
+        <updated>2021-11-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/painbow_award.png" title="This year, our team took home the dark blue ribbon, better than the midnight blue we got last year but still short of the winning navy blue." alt="This year, our team took home the dark blue ribbon, better than the midnight blue we got last year but still short of the winning navy blue." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Life is complicated. There’s more than one way to browse to meet your needs with Firefox Focus.]]></title>
         <id>https://blog.mozilla.org/?p=67767</id>
@@ -1983,16 +2019,6 @@ has infected a team thoroughly and it starts being rewarded.]]></summary>
         <summary type="html"><![CDATA[Very brief but a good bridging story.]]></summary>
         <author>
             <name>remy sharp's b:log</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 04 Sep 2021]]></title>
-        <id>https://pluralistic.net/?p=2575</id>
-        <link href="https://pluralistic.net/2021/09/04/hypervigilance/"/>
-        <updated>2021-09-04T14:36:01.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Proctorio's awful reviews disappear down the memory hole: Ian Linkletter saved the receipts. This day in history: 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Proctorio's awful reviews disappear down the memory hole (permalink) Remember Proctorio? They're the "remote proctoring" company that boomed during the pandemic by promising that they could stop exam cheating through gross, discriminatory privacy invasions and snake-oil machine learning. In case you've lost the thread (it's been a minute), Proctorio is a tool that transforms students' personal computers into surveillance tools. For example, when you sit down, you have to use your webcam to give a remote party a tour of your room. If you live in crowded condit…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
         </author>
     </entry>
 </feed>
