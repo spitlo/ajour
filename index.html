@@ -16,9 +16,9 @@
     <meta name="robots" content="noindex, nofollow">
     <link rel="preload" as="font" type="font/woff2" href="https://spitlo.com/fonts/GangsterGrotesk-Bold.woff2" crossorigin="anonymous">
     <link rel="preload" as="font" type="font/woff2" href="https://spitlo.com/fonts/VictorMono-Thin.woff2" crossorigin="anonymous">
-    <link rel="icon" type="image/svg+xml" href="https://spitlo.com/images/favicon.svg?2021-11-04T00:17:50.384Z">
+    <link rel="icon" type="image/svg+xml" href="https://spitlo.com/images/favicon.svg?2021-11-05T09:12:25.865Z">
     <link rel="alternate" type="application/rss+xml" title="Ajour / Spitlo.com" href="feed.atom">
-    <link href="https://spitlo.com/style.css?2021-11-04T00:17:50.384Z" rel="stylesheet">
+    <link href="https://spitlo.com/style.css?2021-11-05T09:12:25.865Z" rel="stylesheet">
 
     <style>
       body { font-size: 14px; }
@@ -52,6 +52,111 @@
           Visit <a target="_blank" rel="noopener noreferrer" href="https://github.com/osmoscraft/osmosfeed">osmos::feed</a> for more info or to make your own custom feed reader.
         </p>
 
+          <section class="daily-content">
+            <h2 class="daily-heading"><time datatime="2021-11-05">2021-11-05</time></h2>
+                <article data-source="Writing - rachelbythebay" data-rtime="2">
+                  <h3><a target="_blank" rel="noopener noreferrer" href=https://rachelbythebay.com/w/2021/11/05/sevenbits/>Years since 1900 + seven bits &#x3D; breakage in 2028</a></h3>
+                  <ul class="meta">
+                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://rachelbythebay.com/w/>Writing - rachelbythebay</a></li>
+                    <li><span class="label">Date:</span> <time datetime="2021-11-05T07:13:18.000Z">2021-11-05</time></li>
+                    <li><span class="label">Reading time:</span> <time>2 min</time></li>
+                    <li><span class="label">Words</span> <time>652</time></li>
+                  </ul>
+                  <p>Last November, I put up a
+list
+of a bunch of &quot;magic numbers&quot; including some years in which time/date 
+stuff is likely to break.  There&#x27;s 2036 for the NTP era rollover, 2038 
+for time_t requiring 32 bits in January *and* another GPS week rollover 
+in November.
+
+
+Looking at the current year gives you a hint.  It&#x27;s 2021, but another 
+way of looking at that is that we&#x27;re 121 years past the year 1900.  A 
+fair number of things use(d) 1900 as an epoch, base year, or just an 
+offset of sorts.  Why?  Well, they were probably invented in simpler 
+times when the current year wasn&#x27;t quite that far from 1900 at the time, 
+and it would fit into fewer bits.  Specifically, it&#x27;ll fit into just 
+seven bits... until 2028, that is.
+
+
+So, if someone used 1900 as their base year, stored years relative to 
+that, and then did it in just seven bits (or eight bits where one of 
+them is a sign bit), it&#x27;ll overflow in a little over six years.  What 
+happens then depends on which method was used, and whether it applies 
+certain kinds of sanity checks.
+
+1773.  Neat!
+
+
+I originally spotted this thanks to a 
+bug report type comment
+on an epitaph (!) on HN.  That one is about ISO 9660 (CD/DVD stuff) 
+software and how it handles years.
+
+similar
+was found in the Linux kernel in 2015 (and appears to have been 
+patched).
+
+reference to this same problem
+that might be useful if you&#x27;re trying to keep your HP 3000 alive.  You 
+know, the things with the 
+300+ lb disk drives?  
+(If you know, you know.)
+
+
+Wikipedia does have 2028 in their epic
+list
+of time formatting and storage bugs, naturally, but it only talks about 
+systems from the &#x27;70s.  It doesn&#x27;t mention ISO 9660 at all - at the 
+moment, that is.  Perhaps someone in the know will update it and then 
+this comment will be obsolete.
+
+
+...
+
+
+Eleven bits!  Luxury!  Ah, well, guess what happens in 2048?  Yep!
+
+
+Finally, one random thing for anyone who&#x27;s not already aware: try
+log2(n) to get a feel for how big a number is in binary.  Neat, right?</p>
+                </article>
+          </section>
+          <section class="daily-content">
+            <h2 class="daily-heading"><time datatime="2021-11-04">2021-11-04</time></h2>
+                <article data-source="LOW-TECH MAGAZINE" data-rtime="2">
+                  <h3><a target="_blank" rel="noopener noreferrer" href=http://feedproxy.google.com/~r/typepad/krisdedecker/lowtechmagazineenglish/~3/-7QmVM_YaNw/fascine-mattresses-basketry-gone-wild.html>Fascine Mattresses: Basketry Gone Wild</a></h3>
+                  <ul class="meta">
+                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://www.lowtechmagazine.com/>LOW-TECH MAGAZINE</a></li>
+                    <li><span class="label">Date:</span> <time datetime="2021-11-04T18:50:58.000Z">2021-11-04</time></li>
+                    <li><span class="label">Reading time:</span> <time>2 min</time></li>
+                    <li><span class="label">Words</span> <time>497</time></li>
+                  </ul>
+                  <p>Around the 17th century, the Dutch started reinforcing their dykes and harbours with sturdy mats the size of football pitches – hand-woven from thousands of twigs grown on nearby coppice plantations. These “fascine mattresses” were weighted with rocks and sunk into canals, estuaries, and rivers. This article contains many images and would be a 12.1 MB download from this website. Therefore, I kindly invite you to read the article on our solar powered website, where it has been compressed to 1.90 MB.</p>
+                </article>
+                <article data-source="Julia Evans" data-rtime="5">
+                  <h3><a target="_blank" rel="noopener noreferrer" href=https://jvns.ca/blog/2021/11/04/how-do-you-tell-if-a-problem-is-caused-by-dns/>How do you tell if a problem is caused by DNS?</a></h3>
+                  <ul class="meta">
+                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=http://jvns.ca/atom.xml>Julia Evans</a></li>
+                    <li><span class="label">Date:</span> <time datetime="2021-11-04T11:19:22.000Z">2021-11-04</time></li>
+                    <li><span class="label">Reading time:</span> <time>5 min</time></li>
+                    <li><span class="label">Words</span> <time>1647</time></li>
+                  </ul>
+                  <p>I was looking into problems people were having with DNS a few months ago and I
+noticed one common theme – a lot of people have server issues (“my server is
+down! or it’s slow!“), but they can’t tell if the problem is caused by DNS or
+not.
+So here are a few tools I use to tell if a problem I’m having is caused by DNS,
+as well as a few DNS debuggging stories from my life.
+I don’t try to interpret browser error messages
+First, let’s talk briefly about browser error messages. You might think that
+your browser will tell you if the problem is DNS or not! And it could but
+mine doesn’t seem to do so in any obvious way.
+On my machine, if Firefox fails to resolve DNS for a site, it gives me the
+error: Hmm. We’re having trouble finding that site. We can’t connect to the
+server at bananas.wizardzines.…</p>
+                </article>
+          </section>
           <section class="daily-content">
             <h2 class="daily-heading"><time datatime="2021-11-03">2021-11-03</time></h2>
                 <article data-source="Hundred Rabbits" data-rtime="20">
@@ -2155,78 +2260,10 @@ The post Did internet friends fill the gaps left by social distance? appeared fi
                   <p>The No. 1 Ladies&#x27; Detective Agency</p>
                 </article>
           </section>
-          <section class="daily-content">
-            <h2 class="daily-heading"><time datatime="2021-09-06">2021-09-06</time></h2>
-                <article data-source="Writing - rachelbythebay" data-rtime="2">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://rachelbythebay.com/w/2021/09/05/clever/>Code runs on people</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://rachelbythebay.com/w/>Writing - rachelbythebay</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2021-09-06T04:39:52.000Z">2021-09-06</time></li>
-                    <li><span class="label">Reading time:</span> <time>2 min</time></li>
-                    <li><span class="label">Words</span> <time>478</time></li>
-                  </ul>
-                  <p>I wrote this a couple of years ago in another context, but it looks like 
-it&#x27;s still just as applicable today, so I decided to bring it out from 
-behind the permission curtain.  This originally was only visible to 
-coworkers who happened to look at my feed.  Now it isn&#x27;t.
-
-
-Code runs on people.  Please keep it simple.
-
-
-You can throw all kinds of wicked, nasty, complicated, 
-Klein-bottle-wannabe tricks into code and the computer will shrug and 
-slog on through it.
-
-
-Nobody will ever have more state about the code than the original author 
-at the time of creation.  Everything after that pales in comparison.  If 
-it takes an hour to figure out what&#x27;s going on, well, that&#x27;s an hour 
-that wasn&#x27;t spent doing something else more useful and interesting.
-
-
-We get it, you&#x27;re clever.  But the business doesn&#x27;t need clever. It 
-needs code that is only as complicated as absolutely necessary to get 
-the job done.  Anything else is just wasted effort.
-
-
-If a problem calls for clever, okay, then have at it.  But I bet it 
-doesn&#x27;t.  Most things really don&#x27;t. Be honest with yourself, and with 
-your future coworkers.  It makes for a healthier environment. 
-
-
-I think this was originally written as an indirect response to some 
-&quot;clever-wielding&quot; that had been witnessed on one of my tours of duty in 
-some infrastructure team.  It&#x27;s not clear that it had any positive 
-effect, though.  These things are hard to measure after the fact, 
-particularly once the &quot;look how high I can pile up the clever&quot; culture 
-has infected a team thoroughly and it starts being rewarded.</p>
-                </article>
-                <article data-source="xkcd.com" data-rtime="1">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://xkcd.com/2512/>Revelation</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://xkcd.com/>xkcd.com</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2021-09-06T00:00:00.000Z">2021-09-06</time></li>
-                    <li><span class="label">Reading time:</span> <time>1 min</time></li>
-                    <li><span class="label">Words</span> <time>183</time></li>
-                  </ul>
-                  <p>No content preview</p>
-                </article>
-                <article data-source="remy sharp&#x27;s b:log" data-rtime="1">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://remysharp.com/books/2021/home-habitat-range-niche-territory>Home: Habitat, Range, Niche, Territory [book]</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://remysharp.com>remy sharp&#x27;s b:log</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2021-09-06T00:00:00.000Z">2021-09-06</time></li>
-                    <li><span class="label">Reading time:</span> <time>1 min</time></li>
-                    <li><span class="label">Words</span> <time>165</time></li>
-                  </ul>
-                  <p>Very brief but a good bridging story.</p>
-                </article>
-          </section>
 
         <footer>
           <section class="details">
-            <span class="detail">Built @ 2021-11-04T00:17:50.384Z</span>
+            <span class="detail">Built @ 2021-11-05T09:12:25.865Z</span>
             <span class="divider">|</span>
             <span class="detail">CLI: 1.11.3</span>
             <span class="divider">|</span>

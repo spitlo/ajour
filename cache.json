@@ -437,15 +437,6 @@
           "publishedOn": "2021-09-08T00:00:00.000Z",
           "wordCount": 185,
           "title": "Saturn Hexagon"
-        },
-        {
-          "id": "https://xkcd.com/2512/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/revelation.png\" title=\"And the heaven departed as a scroll when it is rolled together, but then more heaven kept appearing to replace it, as if the scroll was infinite.\" alt=\"And the heaven departed as a scroll when it is rolled together, but then more heaven kept appearing to replace it, as if the scroll was infinite.\" />",
-          "link": "https://xkcd.com/2512/",
-          "publishedOn": "2021-09-06T00:00:00.000Z",
-          "wordCount": 183,
-          "title": "Revelation"
         }
       ]
     },
@@ -525,15 +516,6 @@
           "publishedOn": "2021-09-07T00:00:00.000Z",
           "wordCount": 161,
           "title": "The No. 1 Ladies' Detective Agency [book]"
-        },
-        {
-          "id": "home-habitat-range-niche-territory",
-          "author": null,
-          "description": "Very brief but a good bridging story.",
-          "link": "https://remysharp.com/books/2021/home-habitat-range-niche-territory",
-          "publishedOn": "2021-09-06T00:00:00.000Z",
-          "wordCount": 165,
-          "title": "Home: Habitat, Range, Niche, Territory [book]"
         }
       ]
     },
@@ -542,6 +524,15 @@
       "feedUrl": "https://rachelbythebay.com/w/atom.xml",
       "siteUrl": "https://rachelbythebay.com/w/",
       "articles": [
+        {
+          "id": "https://rachelbythebay.com/w/2021/11/05/sevenbits/",
+          "author": null,
+          "description": "Last November, I put up a\nlist\nof a bunch of \"magic numbers\" including some years in which time/date \nstuff is likely to break.  There's 2036 for the NTP era rollover, 2038 \nfor time_t requiring 32 bits in January *and* another GPS week rollover \nin November.\n\n\nLooking at the current year gives you a hint.  It's 2021, but another \nway of looking at that is that we're 121 years past the year 1900.  A \nfair number of things use(d) 1900 as an epoch, base year, or just an \noffset of sorts.  Why?  Well, they were probably invented in simpler \ntimes when the current year wasn't quite that far from 1900 at the time, \nand it would fit into fewer bits.  Specifically, it'll fit into just \nseven bits... until 2028, that is.\n\n\nSo, if someone used 1900 as their base year, stored years relative to \nthat, and then did it in just seven bits (or eight bits where one of \nthem is a sign bit), it'll overflow in a little over six years.  What \nhappens then depends on which method was used, and whether it applies \ncertain kinds of sanity checks.\n\n1773.  Neat!\n\n\nI originally spotted this thanks to a \nbug report type comment\non an epitaph (!) on HN.  That one is about ISO 9660 (CD/DVD stuff) \nsoftware and how it handles years.\n\nsimilar\nwas found in the Linux kernel in 2015 (and appears to have been \npatched).\n\nreference to this same problem\nthat might be useful if you're trying to keep your HP 3000 alive.  You \nknow, the things with the \n300+ lb disk drives?  \n(If you know, you know.)\n\n\nWikipedia does have 2028 in their epic\nlist\nof time formatting and storage bugs, naturally, but it only talks about \nsystems from the '70s.  It doesn't mention ISO 9660 at all - at the \nmoment, that is.  Perhaps someone in the know will update it and then \nthis comment will be obsolete.\n\n\n...\n\n\nEleven bits!  Luxury!  Ah, well, guess what happens in 2048?  Yep!\n\n\nFinally, one random thing for anyone who's not already aware: try\nlog2(n) to get a feel for how big a number is in binary.  Neat, right?",
+          "link": "https://rachelbythebay.com/w/2021/11/05/sevenbits/",
+          "publishedOn": "2021-11-05T07:13:18.000Z",
+          "wordCount": 652,
+          "title": "Years since 1900 + seven bits = breakage in 2028"
+        },
         {
           "id": "https://rachelbythebay.com/w/2021/10/30/5tb/",
           "author": null,
@@ -631,15 +622,6 @@
           "publishedOn": "2021-09-21T01:45:25.000Z",
           "wordCount": 362,
           "title": "Apple's private relay service does not sit still"
-        },
-        {
-          "id": "https://rachelbythebay.com/w/2021/09/05/clever/",
-          "author": null,
-          "description": "I wrote this a couple of years ago in another context, but it looks like \nit's still just as applicable today, so I decided to bring it out from \nbehind the permission curtain.  This originally was only visible to \ncoworkers who happened to look at my feed.  Now it isn't.\n\n\nCode runs on people.  Please keep it simple.\n\n\nYou can throw all kinds of wicked, nasty, complicated, \nKlein-bottle-wannabe tricks into code and the computer will shrug and \nslog on through it.\n\n\nNobody will ever have more state about the code than the original author \nat the time of creation.  Everything after that pales in comparison.  If \nit takes an hour to figure out what's going on, well, that's an hour \nthat wasn't spent doing something else more useful and interesting.\n\n\nWe get it, you're clever.  But the business doesn't need clever. It \nneeds code that is only as complicated as absolutely necessary to get \nthe job done.  Anything else is just wasted effort.\n\n\nIf a problem calls for clever, okay, then have at it.  But I bet it \ndoesn't.  Most things really don't. Be honest with yourself, and with \nyour future coworkers.  It makes for a healthier environment. \n\n\nI think this was originally written as an indirect response to some \n\"clever-wielding\" that had been witnessed on one of my tours of duty in \nsome infrastructure team.  It's not clear that it had any positive \neffect, though.  These things are hard to measure after the fact, \nparticularly once the \"look how high I can pile up the clever\" culture \nhas infected a team thoroughly and it starts being rewarded.",
-          "link": "https://rachelbythebay.com/w/2021/09/05/clever/",
-          "publishedOn": "2021-09-06T04:39:52.000Z",
-          "wordCount": 478,
-          "title": "Code runs on people"
         }
       ]
     },
@@ -648,6 +630,15 @@
       "feedUrl": "https://feeds2.feedburner.com/typepad/krisdedecker/lowtechmagazineenglish",
       "siteUrl": "https://www.lowtechmagazine.com/",
       "articles": [
+        {
+          "id": "http://feedproxy.google.com/~r/typepad/krisdedecker/lowtechmagazineenglish/~3/-7QmVM_YaNw/fascine-mattresses-basketry-gone-wild.html",
+          "author": null,
+          "description": "Around the 17th century, the Dutch started reinforcing their dykes and harbours with sturdy mats the size of football pitches – hand-woven from thousands of twigs grown on nearby coppice plantations. These “fascine mattresses” were weighted with rocks and sunk into canals, estuaries, and rivers. This article contains many images and would be a 12.1 MB download from this website. Therefore, I kindly invite you to read the article on our solar powered website, where it has been compressed to 1.90 MB.",
+          "link": "http://feedproxy.google.com/~r/typepad/krisdedecker/lowtechmagazineenglish/~3/-7QmVM_YaNw/fascine-mattresses-basketry-gone-wild.html",
+          "publishedOn": "2021-11-04T18:50:58.000Z",
+          "wordCount": 497,
+          "title": "Fascine Mattresses: Basketry Gone Wild"
+        },
         {
           "id": "http://feedproxy.google.com/~r/typepad/krisdedecker/lowtechmagazineenglish/~3/s1xYIgkW3e8/how-to-build-a-low-tech-solar-panel.html",
           "author": null,
@@ -721,6 +712,15 @@
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
+        {
+          "id": "https://jvns.ca/blog/2021/11/04/how-do-you-tell-if-a-problem-is-caused-by-dns/",
+          "author": null,
+          "description": "I was looking into problems people were having with DNS a few months ago and I\nnoticed one common theme – a lot of people have server issues (“my server is\ndown! or it’s slow!“), but they can’t tell if the problem is caused by DNS or\nnot.\nSo here are a few tools I use to tell if a problem I’m having is caused by DNS,\nas well as a few DNS debuggging stories from my life.\nI don’t try to interpret browser error messages\nFirst, let’s talk briefly about browser error messages. You might think that\nyour browser will tell you if the problem is DNS or not! And it could but\nmine doesn’t seem to do so in any obvious way.\nOn my machine, if Firefox fails to resolve DNS for a site, it gives me the\nerror: Hmm. We’re having trouble finding that site. We can’t connect to the\nserver at bananas.wizardzines.…",
+          "link": "https://jvns.ca/blog/2021/11/04/how-do-you-tell-if-a-problem-is-caused-by-dns/",
+          "publishedOn": "2021-11-04T11:19:22.000Z",
+          "wordCount": 1647,
+          "title": "How do you tell if a problem is caused by DNS?"
+        },
         {
           "id": "https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/",
           "author": null,

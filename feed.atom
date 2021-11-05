@@ -2,10 +2,109 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-11-04T00:17:50.406Z</updated>
+    <updated>2021-11-05T09:12:25.905Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Years since 1900 + seven bits = breakage in 2028]]></title>
+        <id>https://rachelbythebay.com/w/2021/11/05/sevenbits/</id>
+        <link href="https://rachelbythebay.com/w/2021/11/05/sevenbits/"/>
+        <updated>2021-11-05T07:13:18.000Z</updated>
+        <summary type="html"><![CDATA[Last November, I put up a
+list
+of a bunch of "magic numbers" including some years in which time/date 
+stuff is likely to break.  There's 2036 for the NTP era rollover, 2038 
+for time_t requiring 32 bits in January *and* another GPS week rollover 
+in November.
+
+
+Looking at the current year gives you a hint.  It's 2021, but another 
+way of looking at that is that we're 121 years past the year 1900.  A 
+fair number of things use(d) 1900 as an epoch, base year, or just an 
+offset of sorts.  Why?  Well, they were probably invented in simpler 
+times when the current year wasn't quite that far from 1900 at the time, 
+and it would fit into fewer bits.  Specifically, it'll fit into just 
+seven bits... until 2028, that is.
+
+
+So, if someone used 1900 as their base year, stored years relative to 
+that, and then did it in just seven bits (or eight bits where one of 
+them is a sign bit), it'll overflow in a little over six years.  What 
+happens then depends on which method was used, and whether it applies 
+certain kinds of sanity checks.
+
+1773.  Neat!
+
+
+I originally spotted this thanks to a 
+bug report type comment
+on an epitaph (!) on HN.  That one is about ISO 9660 (CD/DVD stuff) 
+software and how it handles years.
+
+similar
+was found in the Linux kernel in 2015 (and appears to have been 
+patched).
+
+reference to this same problem
+that might be useful if you're trying to keep your HP 3000 alive.  You 
+know, the things with the 
+300+ lb disk drives?  
+(If you know, you know.)
+
+
+Wikipedia does have 2028 in their epic
+list
+of time formatting and storage bugs, naturally, but it only talks about 
+systems from the '70s.  It doesn't mention ISO 9660 at all - at the 
+moment, that is.  Perhaps someone in the know will update it and then 
+this comment will be obsolete.
+
+
+...
+
+
+Eleven bits!  Luxury!  Ah, well, guess what happens in 2048?  Yep!
+
+
+Finally, one random thing for anyone who's not already aware: try
+log2(n) to get a feel for how big a number is in binary.  Neat, right?]]></summary>
+        <author>
+            <name>Writing - rachelbythebay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fascine Mattresses: Basketry Gone Wild]]></title>
+        <id>http://feedproxy.google.com/~r/typepad/krisdedecker/lowtechmagazineenglish/~3/-7QmVM_YaNw/fascine-mattresses-basketry-gone-wild.html</id>
+        <link href="http://feedproxy.google.com/~r/typepad/krisdedecker/lowtechmagazineenglish/~3/-7QmVM_YaNw/fascine-mattresses-basketry-gone-wild.html"/>
+        <updated>2021-11-04T18:50:58.000Z</updated>
+        <summary type="html"><![CDATA[Around the 17th century, the Dutch started reinforcing their dykes and harbours with sturdy mats the size of football pitches – hand-woven from thousands of twigs grown on nearby coppice plantations. These “fascine mattresses” were weighted with rocks and sunk into canals, estuaries, and rivers. This article contains many images and would be a 12.1 MB download from this website. Therefore, I kindly invite you to read the article on our solar powered website, where it has been compressed to 1.90 MB.]]></summary>
+        <author>
+            <name>LOW-TECH MAGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How do you tell if a problem is caused by DNS?]]></title>
+        <id>https://jvns.ca/blog/2021/11/04/how-do-you-tell-if-a-problem-is-caused-by-dns/</id>
+        <link href="https://jvns.ca/blog/2021/11/04/how-do-you-tell-if-a-problem-is-caused-by-dns/"/>
+        <updated>2021-11-04T11:19:22.000Z</updated>
+        <summary type="html"><![CDATA[I was looking into problems people were having with DNS a few months ago and I
+noticed one common theme – a lot of people have server issues (“my server is
+down! or it’s slow!“), but they can’t tell if the problem is caused by DNS or
+not.
+So here are a few tools I use to tell if a problem I’m having is caused by DNS,
+as well as a few DNS debuggging stories from my life.
+I don’t try to interpret browser error messages
+First, let’s talk briefly about browser error messages. You might think that
+your browser will tell you if the problem is DNS or not! And it could but
+mine doesn’t seem to do so in any obvious way.
+On my machine, if Firefox fails to resolve DNS for a site, it gives me the
+error: Hmm. We’re having trouble finding that site. We can’t connect to the
+server at bananas.wizardzines.…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Summary of changes for October]]></title>
         <id>log.html#oct2021</id>
@@ -1952,71 +2051,6 @@ The post Did internet friends fill the gaps left by social distance? appeared fi
         <link href="https://remysharp.com/books/2021/the-no-1-ladies-detective-agency"/>
         <updated>2021-09-07T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[The No. 1 Ladies' Detective Agency]]></summary>
-        <author>
-            <name>remy sharp's b:log</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code runs on people]]></title>
-        <id>https://rachelbythebay.com/w/2021/09/05/clever/</id>
-        <link href="https://rachelbythebay.com/w/2021/09/05/clever/"/>
-        <updated>2021-09-06T04:39:52.000Z</updated>
-        <summary type="html"><![CDATA[I wrote this a couple of years ago in another context, but it looks like 
-it's still just as applicable today, so I decided to bring it out from 
-behind the permission curtain.  This originally was only visible to 
-coworkers who happened to look at my feed.  Now it isn't.
-
-
-Code runs on people.  Please keep it simple.
-
-
-You can throw all kinds of wicked, nasty, complicated, 
-Klein-bottle-wannabe tricks into code and the computer will shrug and 
-slog on through it.
-
-
-Nobody will ever have more state about the code than the original author 
-at the time of creation.  Everything after that pales in comparison.  If 
-it takes an hour to figure out what's going on, well, that's an hour 
-that wasn't spent doing something else more useful and interesting.
-
-
-We get it, you're clever.  But the business doesn't need clever. It 
-needs code that is only as complicated as absolutely necessary to get 
-the job done.  Anything else is just wasted effort.
-
-
-If a problem calls for clever, okay, then have at it.  But I bet it 
-doesn't.  Most things really don't. Be honest with yourself, and with 
-your future coworkers.  It makes for a healthier environment. 
-
-
-I think this was originally written as an indirect response to some 
-"clever-wielding" that had been witnessed on one of my tours of duty in 
-some infrastructure team.  It's not clear that it had any positive 
-effect, though.  These things are hard to measure after the fact, 
-particularly once the "look how high I can pile up the clever" culture 
-has infected a team thoroughly and it starts being rewarded.]]></summary>
-        <author>
-            <name>Writing - rachelbythebay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revelation]]></title>
-        <id>https://xkcd.com/2512/</id>
-        <link href="https://xkcd.com/2512/"/>
-        <updated>2021-09-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/revelation.png" title="And the heaven departed as a scroll when it is rolled together, but then more heaven kept appearing to replace it, as if the scroll was infinite." alt="And the heaven departed as a scroll when it is rolled together, but then more heaven kept appearing to replace it, as if the scroll was infinite." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Home: Habitat, Range, Niche, Territory [book]]]></title>
-        <id>home-habitat-range-niche-territory</id>
-        <link href="https://remysharp.com/books/2021/home-habitat-range-niche-territory"/>
-        <updated>2021-09-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Very brief but a good bridging story.]]></summary>
         <author>
             <name>remy sharp's b:log</name>
         </author>
