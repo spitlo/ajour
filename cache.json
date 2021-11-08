@@ -6,6 +6,15 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=7038",
+          "author": "Chris Heilmann",
+          "description": "Interfaces on the web have to be accessible independent of input device. In addition to using the right HTML to make it possible to activate functionality with mouse, keyboard, voice activation or any of the possible ways it is also important to have a visual indicator which element is currently active. This is why we […]",
+          "link": "https://christianheilmann.com/2021/11/07/quick-browser-developer-tools-tip-define-and-test-interaction-states-in-css-using-state-simulation/",
+          "publishedOn": "2021-11-07T15:58:36.000Z",
+          "wordCount": 389,
+          "title": "Quick browser Developer Tools tip: define and test interaction states in CSS using state simulation"
+        },
+        {
           "id": "https://christianheilmann.com/?p=6999",
           "author": "Chris Heilmann",
           "description": "This is a talk that I’ve given at CityJS this September. I am a principal product manager for developer tools in Microsoft Edge and these are things I encountered during working on the tools, documenting them and going through user feedback. You can watch the recording of the talk on Youtube . Here’s a write-up […]",
@@ -45,15 +54,6 @@
           "publishedOn": "2021-09-16T06:16:47.000Z",
           "wordCount": 697,
           "title": "CSS Mirror Editing in Edge DevTools for VS Code"
-        },
-        {
-          "id": "https://christianheilmann.com/?p=6946",
-          "author": "Chris Heilmann",
-          "description": "When using the Edge DevTools for VS Code extension inside the editor, one thing that I kept doing wrong was opening files accidentally next to the tools. By default, the tools show up as their own pane next to the main editor. This is an editor pane of VS Code, and thus supports many things, […]",
-          "link": "https://christianheilmann.com/2021/09/08/locking-editor-panes-in-visual-studio-code-helps-unwanted-multi-tab-experiences/",
-          "publishedOn": "2021-09-08T19:19:56.000Z",
-          "wordCount": 308,
-          "title": "Locking editor panes in Visual Studio Code prevents unwanted multi-tab experiences"
         }
       ]
     },
@@ -507,15 +507,6 @@
           "publishedOn": "2021-09-10T13:26:19.000Z",
           "wordCount": 185,
           "title": "Postcode & Geolocation API for the UK [link]"
-        },
-        {
-          "id": "working-with-the-esp-in-cspect",
-          "author": null,
-          "description": "After developing the .http tool for the Spectrum Next in assembly, for my own workflow I did most of the testing against an emulator (before moving to hardware), however there's some quirks with Cspect and the wifi/esp/internet setup, and since I've been through the fire and come out the other side it makes sense to write it up.",
-          "link": "https://remysharp.com/2021/09/09/working-with-the-esp-in-cspect",
-          "publishedOn": "2021-09-09T00:00:00.000Z",
-          "wordCount": 693,
-          "title": "Working with the ESP in Cspect [spectrum] [blog]"
         }
       ]
     },
@@ -524,6 +515,24 @@
       "feedUrl": "https://rachelbythebay.com/w/atom.xml",
       "siteUrl": "https://rachelbythebay.com/w/",
       "articles": [
+        {
+          "id": "https://rachelbythebay.com/w/2021/11/07/select/",
+          "author": null,
+          "description": "There's something to be said for writing a \npost\nlate on a Saturday night.  For some reason, it tends to bring out \nTHE ONE\nmore than any other time of the week.  I wonder why that is.\n\n\nI mean, you're not wrong... but how's the rest of that quote go?\n\n\nRecall that it turned into a situation where the individual components \nof the query (ip, helo, from, to) were now in their own tables, so they \nall had a number now - the \"id\" column.  I figured, okay, I need to \nobtain those little suckers before I can build a query with them, so \nlet's query!\n\n\nSo, yep, I fired off four queries to get four numbers, then built up a \nquery, then fired that off as a fifth to get my results.\n\n\nDid I mention that I obviously didn't know the first thing about JOIN \nback then?  It took several more years for that to happen organically.\n\nGo on, bag on me for being ignorant.  I know what that really means.",
+          "link": "https://rachelbythebay.com/w/2021/11/07/select/",
+          "publishedOn": "2021-11-07T19:27:57.000Z",
+          "wordCount": 357,
+          "title": "But wait, there's more"
+        },
+        {
+          "id": "https://rachelbythebay.com/w/2021/11/06/sql/",
+          "author": null,
+          "description": "The first time you encounter something, you're probably going to make \nsome mistakes.  There's a post going around tonight about how someone \nforgot to put an index on some database thing and wound up doing full \ntable scans (or something like that).  The rub is that instead of just \nbeing slow, it also cost a fair amount of money because this crazy \nvendor system charged by the row or somesuch.  So, by scanning \nthe whole table, they touched all of those rows, and oh hey, massive \namounts of money just set ablaze!\n\n\nThis system was something that was intended to slow down or stop a lot \nof the \"open proxy\" spam that was going around at the time - late 2002.  \nIt was apparent that these spammer scum would grab an open proxy and \nthen would connect outward to your mail exchanger and would t…",
+          "link": "https://rachelbythebay.com/w/2021/11/06/sql/",
+          "publishedOn": "2021-11-07T19:27:06.000Z",
+          "wordCount": 1199,
+          "title": "A terrible schema from a clueless programmer"
+        },
         {
           "id": "https://rachelbythebay.com/w/2021/11/05/sevenbits/",
           "author": null,
