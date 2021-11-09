@@ -419,15 +419,6 @@
           "publishedOn": "2021-09-13T00:00:00.000Z",
           "wordCount": 185,
           "title": "Vaccine Research"
-        },
-        {
-          "id": "https://xkcd.com/2514/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/lab_equipment.png\" title=\"I've been working on chocolate bar annealing techniques to try to produce the perfect laser s'more. Maybe don't mention that on the grant application though.\" alt=\"I've been working on chocolate bar annealing techniques to try to produce the perfect laser s'more. Maybe don't mention that on the grant application though.\" />",
-          "link": "https://xkcd.com/2514/",
-          "publishedOn": "2021-09-10T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Lab Equipment"
         }
       ]
     },
@@ -515,6 +506,15 @@
       "feedUrl": "https://rachelbythebay.com/w/atom.xml",
       "siteUrl": "https://rachelbythebay.com/w/",
       "articles": [
+        {
+          "id": "https://rachelbythebay.com/w/2021/11/08/hardware/",
+          "author": null,
+          "description": "In writing about my dumb little \"mailserv\" project this past weekend, I \npurposely avoided mentioning some of the parameters lest they distract \nfrom the message I was trying to convey.  My attempted message was \nsomething along the lines of \"everyone starts somewhere, ignorance is \nthe default state until changed, and look at some of the shit I have \ninflicted upon the world as proof\".\n\n\nIn the case of the mailserv project, that is, the thing that did what \nwe'd call \"greylisting\" today, it ran on an auxiliary box that itself \nonly existed because of yet another terrible hack involving a second T1 \nand the systemic inability to run BGP properly.  I've talked about the \nfiner points of that before, and it's not really on topic here.  But, \nkeep in mind that it meant from 1997 forward, I had a machine running \nSquid just so we could push some web traffic out this secondary \n(fractional) T1 to take the load off the main circuit.\n\n\nIt was relatively cheap shit, and it had no special \"server\" features.\n\n\n\n\n\nThat's a Pentium 150 with 128 megabytes of memory, a (PATA!) IDE hard \ndrive with just 1.6 GB of space, a 10 Mbps Ethernet card, plus a video \ncard, CD-ROM drive and Sound Blaster that meant nothing, because it was \na server.  (The SB16, incidentally, proves this was intended to be a \nclassroom box running Kid Pix for some elementary school students.)\n\n\nAll of this in 128 MB of memory and a gig and a half of disk space.\n\n\nInstrumenting things to find slow points and trying to do something \nabout it made for a bunch of little changes over the year or two that \nthis spam filtering service existed.  Everything was driven by actual \nneeds and a distinct lack of system resources.  It kept up with the load \nand stopped a great many things that otherwise would have annoyed my \nusers.\n\nThis is just an example of what we did with what was available then.",
+          "link": "https://rachelbythebay.com/w/2021/11/08/hardware/",
+          "publishedOn": "2021-11-08T09:51:09.000Z",
+          "wordCount": 693,
+          "title": "The hardware behind my old mail filtering server"
+        },
         {
           "id": "https://rachelbythebay.com/w/2021/11/07/select/",
           "author": null,
@@ -907,6 +907,24 @@
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
         {
+          "id": "https://blog.mozilla.org/?p=67877",
+          "author": "Mitchell Baker",
+          "description": "I am excited to announce that Eric Muhlheim has joined Mozilla Corporation as our Chief Financial Officer (CFO). As our CFO Eric will be a key member of our steering committee reporting to me. He will lead our continued strategy to scale our mission impact by growing and diversifying our revenue through new investments, product […]\nThe post Welcome Eric Muhlheim, our incoming Chief Financial Officer appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/eric-muhlheim-mozilla-chief-financial-officer/",
+          "publishedOn": "2021-11-08T16:53:03.000Z",
+          "wordCount": 1109,
+          "title": "Welcome Eric Muhlheim, our incoming Chief Financial Officer"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=67823",
+          "author": "M.J. Kelly",
+          "description": "With something like 15 billion mobile phones in the world, our collective thumbs are getting a workout from swiping and tapping tiny screens all day. Check out some of our favorite pro tips and tricks for getting the most out of Firefox on your phone and tablet that might also give your thumbs and your […]\nThe post 8 Firefox pro tips and tricks for Android and iOS (plus a few more) appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/products/firefox/firefox-tips-android-ios/",
+          "publishedOn": "2021-11-08T15:29:34.000Z",
+          "wordCount": 1869,
+          "title": "8 Firefox pro tips and tricks for Android and iOS (plus a few more)"
+        },
+        {
           "id": "https://blog.mozilla.org/?p=67767",
           "author": "M.J. Kelly",
           "description": "According to researchers, the average person has about 6,200 thoughts throughout the day. That’s a lot of time spent bouncing between random thought bubbles like: Does my cat understand me?  Who is Kaia Gerber’s mom? Best sneaky vegan side dishes Why is everyone talking about bones or no bones? Parkour vs slacklining Cheapest flights to […]\nThe post Life is complicated. There’s more than one way to browse to meet your needs with Firefox Focus. appeared first on The Mozilla Blog.",
@@ -1094,24 +1112,6 @@
           "publishedOn": "2021-09-10T21:29:55.000Z",
           "wordCount": 1168,
           "title": "Matrix 4, Blue’s Clues, #StarTrekDay and More — Everything That’s Old is New Again in This Week’s Top Shelf"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=67299",
-          "author": "M.J. Kelly",
-          "description": "The post Feel good when you get online with Firefox appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/videos/feel-good-when-you-get-online-with-firefox/",
-          "publishedOn": "2021-09-09T22:02:49.000Z",
-          "wordCount": 664,
-          "title": "Feel good when you get online with Firefox"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=67252",
-          "author": "Rebecca Smith",
-          "description": "March 2020 brought to the world a scenario we only imagined possible in dystopian novels. Once bustling cities and towns were desolate. In contrast, the highways and byways of the internet were completely congested with people grasping for human connection, and internet friends became more important than ever.  Since then, there have been countless discussions […]\nThe post Did internet friends fill the gaps left by social distance? appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/internet-culture/internet-friends-during-pandemic-online/",
-          "publishedOn": "2021-09-09T14:35:00.000Z",
-          "wordCount": 1922,
-          "title": "Did internet friends fill the gaps left by social distance?"
         }
       ]
     },
@@ -1145,6 +1145,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2803",
+          "author": "Cory Doctorow",
+          "description": "Today's links Imagining the end of capitalism: TINA, TAPAS, and Ministry for the Future. Charlie Jane Anders' Victories Greater Than Death: YA space opera that is thoroughly modern and crackling with adventure. Right-Clicker-Mentality: Bezzlers coin a phrase to describe the anti-bezzle. This day in history: 2006, 2011, 2016 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Imagining the end of capitalism (permalink) My latest column for Locus Magazine is \"The Unimaginable,\" about the relationship of science fiction plays to the future. Sf is a literature of inspiration and warning, not prediction. https://locusmag.com/2021/11/cory-doctorow-the-unimaginable/ I mean, thank goodness. If the future was predictable, there'd be no point in gett…",
+          "link": "https://pluralistic.net/2021/11/08/tina-v-tapas/",
+          "publishedOn": "2021-11-08T17:28:38.000Z",
+          "wordCount": 2860,
+          "title": "Pluralistic: 08 Nov 2021"
+        },
         {
           "id": "https://pluralistic.net/?p=2789",
           "author": "Cory Doctorow",
