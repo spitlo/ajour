@@ -104,15 +104,6 @@
           "publishedOn": "2021-10-03T00:00:00.000Z",
           "wordCount": 798,
           "title": "The CSS prefers-color-scheme user query and order of preference"
-        },
-        {
-          "id": "https://sarasoueidan.com/blog/in-quest-of-search/",
-          "author": null,
-          "description": "There’s been a recent discussion on Twitter about the idea of adding a new element in HTML that represents a search interface. A search form, basically.\nThe idea is to create a semantic HTML element for the ARIA search role, which represents a landmark region “that contains a collection of items and objects that, as a whole, combine to create a search facility.”\nOpinions have been shared in the Twitter thread about whether adding a new HTML element is necessary. Many have argued that it was unnecessary because we can use the ARIA search role and repurpose a form element to create the same semantics. I disagree. And this article is the longer version of my personal opinion on the subject.\ntl;dr\nI do strongly encourage the addition of a new HTML element that represents—and can consequently o…",
-          "link": "https://sarasoueidan.com/blog/in-quest-of-search/",
-          "publishedOn": "2021-09-15T00:00:00.000Z",
-          "wordCount": 1514,
-          "title": "In Quest of Search"
         }
       ]
     },
@@ -455,15 +446,6 @@
           "publishedOn": "2021-09-17T00:00:00.000Z",
           "wordCount": 185,
           "title": "Rover Replies"
-        },
-        {
-          "id": "https://xkcd.com/2516/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/hubble_tension.png\" title=\"Oh, wait, I might've had it set to kph instead of mph. But that would make the discrepancy even wider!\" alt=\"Oh, wait, I might've had it set to kph instead of mph. But that would make the discrepancy even wider!\" />",
-          "link": "https://xkcd.com/2516/",
-          "publishedOn": "2021-09-15T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Hubble Tension"
         }
       ]
     },
@@ -909,6 +891,15 @@
           "title": "Full-Bleed Layout Using CSS Grid"
         },
         {
+          "id": "https://www.joshwcomeau.com/css/designing-shadows/",
+          "author": "Josh W. Comeau",
+          "description": "When I look around the web, most of the shadows I see are fuzzy grey boxes. It doesn't have to be this way, though! CSS gives us the tools to create rich, lush, lifelike shadows. In this tutorial, I'll show you how.",
+          "link": "https://www.joshwcomeau.com/css/designing-shadows/",
+          "publishedOn": "2021-09-23T19:35:28.000Z",
+          "wordCount": 3739,
+          "title": "Designing Beautiful Shadows in CSS"
+        },
+        {
           "id": "https://www.joshwcomeau.com/css/css-variables-for-react-devs/",
           "author": "Josh W. Comeau",
           "description": "CSS Variables are *really* cool, and they're incredibly powerful when it comes to React! This tutorial shows how we can use them with React to create dynamic themes. We'll see how to get the most out of CSS-in-JS tools like styled-components, and how our mental frame around media queries has been wrong all along.",
@@ -1208,6 +1199,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2835",
+          "author": "Cory Doctorow",
+          "description": "Today's links How to be safe(r) online: Ars Technica's excellent guide, by Sean Gallagher. This day in history: 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading How to be safe(r) online (permalink) I flatter myself that I am pretty secure online. I've written a series of global bestsellers about information security, I've worked for EFF for nearly 20 years, I've given keynotes at some of the world's largest infosec conferences. And yet, I have been hacked. It wasn't even very sophisticated! It was in 2010. My kid had made a fuss about going to day-care so my wife and I were late walking to work. The cafe we always stopped at for a coffee had longer lines at that hour, so I stood in line while she sat down and read …",
+          "link": "https://pluralistic.net/2021/11/13/opsec-soup-to-nuts/",
+          "publishedOn": "2021-11-13T16:16:17.000Z",
+          "wordCount": 2974,
+          "title": "Pluralistic: 13 Nov 2021"
+        },
         {
           "id": "https://pluralistic.net/?p=2828",
           "author": "Cory Doctorow",
@@ -1561,6 +1561,15 @@
       "feedUrl": "http://www.nathalielawhead.com/candybox/feed",
       "siteUrl": "http://www.nathalielawhead.com/candybox",
       "articles": [
+        {
+          "id": "http://www.nathalielawhead.com/candybox/?p=5179",
+          "author": "alienmelon",
+          "description": "This is a continuation of my original post “In support of Wren (the abuse she endured while working on Fight Knight)“. More things have happened since I originally voiced support for Wren and I think it’s really important to discuss how this is all unfolding, in order to hold those responsible for this abuse accountable. I will do my best to be as concise as possible. I am still shook up. TW: severe content warning for all this. Hello, I'm the \"writer\" of the Dangen Warning and the former writer of Fight Knight. I feel it's important for me to...",
+          "link": "http://www.nathalielawhead.com/candybox/part-2-in-support-of-wren-the-abuse-she-continues-to-endure-fight-knight-and-publicly-ridiculing-her-trauma",
+          "publishedOn": "2021-11-13T01:55:14.000Z",
+          "wordCount": 3864,
+          "title": "Part 2: In support of Wren (the abuse she continues to endure, Fight Knight, and publicly ridiculing her trauma)"
+        },
         {
           "id": "http://www.nathalielawhead.com/candybox/?p=5167",
           "author": "alienmelon",
