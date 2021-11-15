@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-11-14T00:18:45.741Z</updated>
+    <updated>2021-11-15T00:18:27.667Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: 14 Nov 2021]]></title>
+        <id>https://pluralistic.net/?p=2841</id>
+        <link href="https://pluralistic.net/2021/11/14/still-the-product/"/>
+        <updated>2021-11-14T16:00:15.000Z</updated>
+        <summary type="html"><![CDATA[Today's links Vizio makes more money spying on people who buy TVs than it does on TVs themselves: Even if you're paying for the product, you're still the product. This day in history: 2011, 2016 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Vizio makes more money spying on people who buy TVs than it does on TVs themselves (permalink) In the simplistic account of what many call "surveillance capitalism," the original sin was swapping our attention for free content, summed up in the pithy phrase, "If you're not paying for the product, you're the product." That's a comforting frame if you think that the problem with surveillance capitalism is surveillance, rather than capitalism. If you think that some companies want to make money the ho…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pluralistic: 13 Nov 2021]]></title>
         <id>https://pluralistic.net/?p=2835</id>
@@ -2210,73 +2220,6 @@ RESISTANCE is like sand in the hose that slows down the water flow. It is measur
 Source: www.freeingenergy.com]]></summary>
         <author>
             <name>remy sharp's b:log</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debugging by starting a REPL at a breakpoint is fun]]></title>
-        <id>https://jvns.ca/blog/2021/09/16/debugging-in-a-repl-is-fun/</id>
-        <link href="https://jvns.ca/blog/2021/09/16/debugging-in-a-repl-is-fun/"/>
-        <updated>2021-09-16T08:48:58.000Z</updated>
-        <summary type="html"><![CDATA[Hello! I was talking to a Python programmer friend yesterday about debugging,
-and I mentioned that I really like debugging using a REPL. He said he’d never
-tried it and that it sounded fun, so I thought I’d write a quick post about it.
-This debugging method doesn’t work in a lot of languages, but it does work in
-Python and Ruby and kiiiiiind of in C (via gdb).
-what’s a REPL?
-REPL stands for “read eval print loop”. A REPL is a program that:
-reads some input from you like print(f"2 + 2 = {2+2}") (read)
-evaluates the input (eval)
-print out the result (print)
-and then goes back to step 1 (loop)
-Here’s an example of me using the IPython REPL to run a print statement. (also
-it demonstrates f-strings, my favourite Python 3 feature)
-$ ipython3
-Python 3.9.5 (default, May 24 2021, 12:50:35) 
-Type 'c…]]></summary>
-        <author>
-            <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Mirror Editing in Edge DevTools for VS Code]]></title>
-        <id>https://christianheilmann.com/?p=6959</id>
-        <link href="https://christianheilmann.com/2021/09/16/css-mirror-editing-in-edge-devtools-for-vs-code/"/>
-        <updated>2021-09-16T06:16:47.000Z</updated>
-        <summary type="html"><![CDATA[Summary: With the release of 1.3.1 of the Edge Tools for VS Code we introduce a better way to get changes you made in the Styles tool back into your source code. We’d love to know what you think of it and what we can do better. There’s a GitHub issue dedicated to feedback. Developer […]]]></summary>
-        <author>
-            <name>Chris Heilmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla VPN adds advanced privacy features: Custom DNS servers and Multi-hop]]></title>
-        <id>https://blog.mozilla.org/?p=67348</id>
-        <link href="https://blog.mozilla.org/en/mozilla/mozilla-vpn-adds-advanced-privacy-features-custom-dns-servers-and-multi-hop/"/>
-        <updated>2021-09-15T22:43:21.000Z</updated>
-        <summary type="html"><![CDATA[Your online privacy remains our top priority, and we know that one of the first things to secure your privacy when you go online is to get on a Virtual Private Network (VPN), an encrypted connection that serves as a tunnel between your computer and VPN server. Today, we’re launching the latest release of our […]
-The post Mozilla VPN adds advanced privacy features: Custom DNS servers and Multi-hop appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Mozilla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mid-September Link Assortment]]></title>
-        <id>http://emshort.blog/?p=42212</id>
-        <link href="https://emshort.blog/2021/09/15/mid-september-link-assortment-6/"/>
-        <updated>2021-09-15T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Events September 18-19, Emperatriz Ung is running a session for the Asian-American Writers’ Workshop called Prototyping Memory, A Game Design Approach To Nonfiction, about using Inform and IF techniques to reimagine setting, perspective, and structure. The Oxford/London IF Meetup is currently running a jam for pieces written for Seltani, Andrew Plotkin’s multiplayer hypertext platform. We’ll … Continue reading "Mid-September Link Assortment"]]></summary>
-        <author>
-            <name>Emily Short</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get where you’re going faster, with Firefox Suggest]]></title>
-        <id>https://blog.mozilla.org/?p=67315</id>
-        <link href="https://blog.mozilla.org/en/products/firefox/firefox-news/firefox-suggest/"/>
-        <updated>2021-09-15T16:16:30.000Z</updated>
-        <summary type="html"><![CDATA[Today, people have to work too hard to find what they want online, sifting through and steering clear of content, clutter and click-bait not worthy of their time. Over time, navigation on the internet has become increasingly centralized and optimized for clicks and scrolling, not for getting people to where they want to go or […]
-The post Get where you’re going faster, with Firefox Suggest appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Mozilla</name>
         </author>
     </entry>
 </feed>

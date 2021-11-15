@@ -45,15 +45,6 @@
           "publishedOn": "2021-10-12T15:21:15.000Z",
           "wordCount": 575,
           "title": "What if… you could use Visual Studio Code as the editor of in-browser Developer Tools?"
-        },
-        {
-          "id": "https://christianheilmann.com/?p=6959",
-          "author": "Chris Heilmann",
-          "description": "Summary: With the release of 1.3.1 of the Edge Tools for VS Code we introduce a better way to get changes you made in the Styles tool back into your source code. We’d love to know what you think of it and what we can do better. There’s a GitHub issue dedicated to feedback. Developer […]",
-          "link": "https://christianheilmann.com/2021/09/16/css-mirror-editing-in-edge-devtools-for-vs-code/",
-          "publishedOn": "2021-09-16T06:16:47.000Z",
-          "wordCount": 697,
-          "title": "CSS Mirror Editing in Edge DevTools for VS Code"
         }
       ]
     },
@@ -205,15 +196,6 @@
           "publishedOn": "2021-09-30T17:30:00.000Z",
           "wordCount": 2011,
           "title": "End of September Link Assortment"
-        },
-        {
-          "id": "http://emshort.blog/?p=42212",
-          "author": "Emily Short",
-          "description": "Events September 18-19, Emperatriz Ung is running a session for the Asian-American Writers’ Workshop called Prototyping Memory, A Game Design Approach To Nonfiction, about using Inform and IF techniques to reimagine setting, perspective, and structure. The Oxford/London IF Meetup is currently running a jam for pieces written for Seltani, Andrew Plotkin’s multiplayer hypertext platform. We’ll … Continue reading \"Mid-September Link Assortment\"",
-          "link": "https://emshort.blog/2021/09/15/mid-september-link-assortment-6/",
-          "publishedOn": "2021-09-15T17:30:00.000Z",
-          "wordCount": 2432,
-          "title": "Mid-September Link Assortment"
         }
       ]
     },
@@ -810,15 +792,6 @@
           "publishedOn": "2021-09-20T09:28:40.000Z",
           "wordCount": 1995,
           "title": "Teaching by filling in knowledge gaps"
-        },
-        {
-          "id": "https://jvns.ca/blog/2021/09/16/debugging-in-a-repl-is-fun/",
-          "author": null,
-          "description": "Hello! I was talking to a Python programmer friend yesterday about debugging,\nand I mentioned that I really like debugging using a REPL. He said he’d never\ntried it and that it sounded fun, so I thought I’d write a quick post about it.\nThis debugging method doesn’t work in a lot of languages, but it does work in\nPython and Ruby and kiiiiiind of in C (via gdb).\nwhat’s a REPL?\nREPL stands for “read eval print loop”. A REPL is a program that:\nreads some input from you like print(f\"2 + 2 = {2+2}\") (read)\nevaluates the input (eval)\nprint out the result (print)\nand then goes back to step 1 (loop)\nHere’s an example of me using the IPython REPL to run a print statement. (also\nit demonstrates f-strings, my favourite Python 3 feature)\n$ ipython3\nPython 3.9.5 (default, May 24 2021, 12:50:35) \nType 'c…",
-          "link": "https://jvns.ca/blog/2021/09/16/debugging-in-a-repl-is-fun/",
-          "publishedOn": "2021-09-16T08:48:58.000Z",
-          "wordCount": 1100,
-          "title": "Debugging by starting a REPL at a breakpoint is fun"
         }
       ]
     },
@@ -1148,24 +1121,6 @@
           "publishedOn": "2021-09-16T20:20:00.000Z",
           "wordCount": 2280,
           "title": "The Great Resignation: New gig? Here are 7 tips to ensure success"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=67348",
-          "author": "Mozilla",
-          "description": "Your online privacy remains our top priority, and we know that one of the first things to secure your privacy when you go online is to get on a Virtual Private Network (VPN), an encrypted connection that serves as a tunnel between your computer and VPN server. Today, we’re launching the latest release of our […]\nThe post Mozilla VPN adds advanced privacy features: Custom DNS servers and Multi-hop appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/mozilla-vpn-adds-advanced-privacy-features-custom-dns-servers-and-multi-hop/",
-          "publishedOn": "2021-09-15T22:43:21.000Z",
-          "wordCount": 1448,
-          "title": "Mozilla VPN adds advanced privacy features: Custom DNS servers and Multi-hop"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=67315",
-          "author": "Mozilla",
-          "description": "Today, people have to work too hard to find what they want online, sifting through and steering clear of content, clutter and click-bait not worthy of their time. Over time, navigation on the internet has become increasingly centralized and optimized for clicks and scrolling, not for getting people to where they want to go or […]\nThe post Get where you’re going faster, with Firefox Suggest appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/products/firefox/firefox-news/firefox-suggest/",
-          "publishedOn": "2021-09-15T16:16:30.000Z",
-          "wordCount": 1221,
-          "title": "Get where you’re going faster, with Firefox Suggest"
         }
       ]
     },
@@ -1199,6 +1154,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2841",
+          "author": "Cory Doctorow",
+          "description": "Today's links Vizio makes more money spying on people who buy TVs than it does on TVs themselves: Even if you're paying for the product, you're still the product. This day in history: 2011, 2016 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Vizio makes more money spying on people who buy TVs than it does on TVs themselves (permalink) In the simplistic account of what many call \"surveillance capitalism,\" the original sin was swapping our attention for free content, summed up in the pithy phrase, \"If you're not paying for the product, you're the product.\" That's a comforting frame if you think that the problem with surveillance capitalism is surveillance, rather than capitalism. If you think that some companies want to make money the ho…",
+          "link": "https://pluralistic.net/2021/11/14/still-the-product/",
+          "publishedOn": "2021-11-14T16:00:15.000Z",
+          "wordCount": 1981,
+          "title": "Pluralistic: 14 Nov 2021"
+        },
         {
           "id": "https://pluralistic.net/?p=2835",
           "author": "Cory Doctorow",
