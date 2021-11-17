@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-11-16T00:18:06.184Z</updated>
+    <updated>2021-11-17T00:18:42.184Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: 16 Nov 2021]]></title>
+        <id>https://pluralistic.net/?p=2848</id>
+        <link href="https://pluralistic.net/2021/11/16/cop-tech/"/>
+        <updated>2021-11-16T17:33:45.000Z</updated>
+        <summary type="html"><![CDATA[Today's links What Police Get When They Get Your Phone: A new season of EFF's podcast, on cop-tech and what to do about it. This day in history: 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading What Police Get When They Get Your Phone (permalink) It's not surprising that the debate over digital rights is dominated by technologists – after all, spotting risks (and promises) of technology requires a technical understanding. Likewise, it's not surprising that technologists are accused of solutionism – they've got a hammer, and they're gonna look for nails. The problem with this critique is that not every tech intervention is solutionism. I mean, sure, social problems are caused by social relations, but tech can change…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Firefox Relay Premium, allowing more aliases to protect your identity from spammers]]></title>
+        <id>https://blog.mozilla.org/?p=68007</id>
+        <link href="https://blog.mozilla.org/en/mozilla/firefox-relay-and-premium-service/"/>
+        <updated>2021-11-16T14:00:33.000Z</updated>
+        <summary type="html"><![CDATA[Today, Firefox Relay, a privacy-first and free product that hides your real email address to help protect your identity, is available with a new paid Premium service offering. The release comes just in time for the holiday season to help spare your inbox from being inundated with emails from e-commerce sites, especially those sites where […]
+The post Introducing Firefox Relay Premium, allowing more aliases to protect your identity from spammers appeared first on The Mozilla Blog.]]></summary>
+        <author>
+            <name>Mozilla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing “Shadow Palette Generator”]]></title>
+        <id>https://www.joshwcomeau.com/css/introducing-shadow-palette-generator/</id>
+        <link href="https://www.joshwcomeau.com/css/introducing-shadow-palette-generator/"/>
+        <updated>2021-11-16T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In order to create lush, realistic shadows in CSS, we need to use multiple layers and colors. How do we come up with all of the parameters, though? I've built a tool that'll help.]]></summary>
+        <author>
+            <name>Josh W. Comeau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Make Tiny Weird Software, Please! (all about desktop pets, old computer eras, and virtual toys)]]></title>
         <id>http://www.nathalielawhead.com/candybox/?p=5173</id>
@@ -14,6 +45,25 @@
         <summary type="html"><![CDATA[I recently gave a keynote talk at the ATLAS Institute at the University of Colorado’s Whaaat!? 2021 Festival. A festival focusing on small and quirky games and experimental interactions. They’re doing wonderful work. I’m honored to have been part of this, talking about something very near and dear to my heart. This post is that keynote turned into a blog post. I’m sharing a lot of links here! Mind the in-line text links too for good resources. I hope this will be useful to people that share this same interest. ~ ~ ~ As most of you know, my work...]]></summary>
         <author>
             <name>alienmelon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some notes on using esbuild]]></title>
+        <id>https://jvns.ca/blog/2021/11/15/esbuild-vue/</id>
+        <link href="https://jvns.ca/blog/2021/11/15/esbuild-vue/"/>
+        <updated>2021-11-15T19:14:17.000Z</updated>
+        <summary type="html"><![CDATA[Hello!
+I’ve been writing more frontend code in the last year or two – I’ve been making a bunch of little Vue projects. (for example nginx playground, sql playground, this dns lookup tool, and a couple of others)
+My general approach to frontend development has been pretty “pretend it’s 2005” – I usually
+have an index.html file, a script.js file, and then I do a <script
+src="script.js"> and that’s it. You can see an example of that approach here.
+This has been working mostly ok for me, but sometimes I run into problems. So I
+wanted to talk about one of those problems, a solution I found
+(esbuild!), and what I needed to learn to solve the problem (some very basic facts about how npm builds work).
+Some of the facts in this post might
+be wrong because still I don’t understand Javascript build s…]]></summary>
+        <author>
+            <name>Julia Evans</name>
         </author>
     </entry>
     <entry>
@@ -2026,6 +2076,16 @@ is, prior to the update, their service was fine.  After they changed
 something, it s…]]></summary>
         <author>
             <name>Writing - rachelbythebay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Learn Stuff Quickly]]></title>
+        <id>https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/</id>
+        <link href="https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/"/>
+        <updated>2021-09-22T17:07:02.000Z</updated>
+        <summary type="html"><![CDATA[As software developers, we're always learning new things; it's practically the whole gig! If we can learn to quickly pick up new languages/frameworks/tools, we'll become so much more effective at our job. It's sort of a superpower.]]></summary>
+        <author>
+            <name>Josh W. Comeau</name>
         </author>
     </entry>
     <entry>
