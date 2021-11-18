@@ -16,9 +16,9 @@
     <meta name="robots" content="noindex, nofollow">
     <link rel="preload" as="font" type="font/woff2" href="https://spitlo.com/fonts/GangsterGrotesk-Bold.woff2" crossorigin="anonymous">
     <link rel="preload" as="font" type="font/woff2" href="https://spitlo.com/fonts/VictorMono-Thin.woff2" crossorigin="anonymous">
-    <link rel="icon" type="image/svg+xml" href="https://spitlo.com/images/favicon.svg?2021-11-17T00:18:42.110Z">
+    <link rel="icon" type="image/svg+xml" href="https://spitlo.com/images/favicon.svg?2021-11-18T00:18:57.475Z">
     <link rel="alternate" type="application/rss+xml" title="Ajour / Spitlo.com" href="feed.atom">
-    <link href="https://spitlo.com/style.css?2021-11-17T00:18:42.110Z" rel="stylesheet">
+    <link href="https://spitlo.com/style.css?2021-11-18T00:18:57.475Z" rel="stylesheet">
 
     <style>
       body { font-size: 14px; }
@@ -52,6 +52,54 @@
           Visit <a target="_blank" rel="noopener noreferrer" href="https://github.com/osmoscraft/osmosfeed">osmos::feed</a> for more info or to make your own custom feed reader.
         </p>
 
+          <section class="daily-content">
+            <h2 class="daily-heading"><time datatime="2021-11-17">2021-11-17</time></h2>
+                <article data-source="Pluralistic: Daily links from Cory Doctorow" data-rtime="9">
+                  <h3><a target="_blank" rel="noopener noreferrer" href=https://pluralistic.net/2021/11/17/do-well-do-good-do-nothing/>Pluralistic: 17 Nov 2021</a></h3>
+                  <ul class="meta">
+                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://pluralistic.net>Pluralistic: Daily links from Cory Doctorow</a></li>
+                    <li><span class="label">Date:</span> <time datetime="2021-11-17T20:31:58.000Z">2021-11-17</time></li>
+                    <li><span class="label">Reading time:</span> <time>9 min</time></li>
+                    <li><span class="label">Words</span> <time>2724</time></li>
+                  </ul>
+                  <p>Today&#x27;s links Aspiration&#x27;s comprehensively deceptive greenwashing: It&#x27;s &quot;do well&quot; OR &quot;do good.&quot; Live Nation is to blame for the Astroworld deaths: Monopoly kills fandom, literally. This day in history: 2006, 2011, 2016 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Aspiration&#x27;s comprehensively deceptive greenwashing (permalink) It&#x27;s impossible to miss Aspiration&#x27;s star-studded marketing blitz, in which a succession of A-listers promise you that you can save the planet by switching credit-cards (&quot;Do good. Do well.&quot;). They&#x27;re emblematic of the promise of green capitalism, the idea that climate emergency is about a slight misconfiguration of the profit motive and the finance sector. If that&#x27;s true, it&#x27;s great news for our species, our civ…</p>
+                </article>
+                <article data-source="Julia Evans" data-rtime="4">
+                  <h3><a target="_blank" rel="noopener noreferrer" href=https://jvns.ca/blog/2021/11/17/debugging-a-weird--file-not-found--error/>Debugging a weird &#x27;file not found&#x27; error</a></h3>
+                  <ul class="meta">
+                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=http://jvns.ca/atom.xml>Julia Evans</a></li>
+                    <li><span class="label">Date:</span> <time datetime="2021-11-17T12:34:36.000Z">2021-11-17</time></li>
+                    <li><span class="label">Reading time:</span> <time>4 min</time></li>
+                    <li><span class="label">Words</span> <time>1284</time></li>
+                  </ul>
+                  <p>Yesterday I ran into a weird error where I ran a program and got the error
+“file not found” even though the program I was running existed. It’s something
+I’ve run into before, but every time I’m very surprised and confused by it
+(what do you MEAN file not found, the file is RIGHT THERE???!!??)
+So let’s talk about what happened and why!
+the error
+Let’s start by showing the error message I got. I had a Go program called
+serve.go, and I was trying to bundle it into a Docker container with this
+Dockerfile:
+FROM golang:1.17 AS go
+
+ADD ./serve.go /app/serve.go
+WORKDIR /app
+RUN go build serve.go
+
+FROM alpine:3.14
+
+COPY --from&#x3D;go /app/serve /app/serve
+COPY ./static /app/static
+WORKDIR /app/static
+CMD [&quot;/app/serve&quot;]
+
+This Dockerfile
+Builds the Go program
+Copies the binary into an Alpine container
+P…</p>
+                </article>
+          </section>
           <section class="daily-content">
             <h2 class="daily-heading"><time datatime="2021-11-16">2021-11-16</time></h2>
                 <article data-source="Pluralistic: Daily links from Cory Doctorow" data-rtime="6">
@@ -626,6 +674,16 @@ log2(n) to get a feel for how big a number is in binary.  Neat, right?</p>
           </section>
           <section class="daily-content">
             <h2 class="daily-heading"><time datatime="2021-11-04">2021-11-04</time></h2>
+                <article data-source="LOW-TECH MAGAZINE" data-rtime="4">
+                  <h3><a target="_blank" rel="noopener noreferrer" href=https://www.lowtechmagazine.com/2021/11/fascine-mattresses-basketry-gone-wild.html>Fascine Mattresses: Basketry Gone Wild</a></h3>
+                  <ul class="meta">
+                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://www.lowtechmagazine.com/>LOW-TECH MAGAZINE</a></li>
+                    <li><span class="label">Date:</span> <time datetime="2021-11-04T18:50:58.000Z">2021-11-04</time></li>
+                    <li><span class="label">Reading time:</span> <time>4 min</time></li>
+                    <li><span class="label">Words</span> <time>1158</time></li>
+                  </ul>
+                  <p>Around the 17th century, the Dutch started reinforcing their dykes and harbours with sturdy mats the size of football pitches – hand-woven from thousands of twigs grown on nearby coppice plantations. These “fascine mattresses” were weighted with rocks and sunk into canals, estuaries, and rivers. This article contains many images and would be a 12.1 MB download from this website. Therefore, I kindly invite you to read the article on our solar powered website, where it has been compressed to 1.90 MB.</p>
+                </article>
                 <article data-source="LOW-TECH MAGAZINE" data-rtime="2">
                   <h3><a target="_blank" rel="noopener noreferrer" href=http://feedproxy.google.com/~r/typepad/krisdedecker/lowtechmagazineenglish/~3/-7QmVM_YaNw/fascine-mattresses-basketry-gone-wild.html>Fascine Mattresses: Basketry Gone Wild</a></h3>
                   <ul class="meta">
@@ -1629,6 +1687,16 @@ Do you like head scratchers?  What makes a puzzle good? What makes a puzzle hard
                   </ul>
                   <p>Today&#x27;s links We paid to develop Merck&#x27;s covid pill: And now they&#x27;re charging us a 4,000% markup on it. This day in history: 2016, 2020. Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading We paid to develop Merck&#x27;s covid pill (permalink) Comparing the government to a household or a business isn&#x27;t merely inapt (a government is a currency creator, while a household is a currency user – their budgeting constraints are totally unrelated) – it&#x27;s also profoundly dishonest. Like, if you really are worried about government &quot;living beyond its means,&quot; then you should freak out every time Congress writes a $715B no-strings-attached check to the Pentagon, or sends $258B to the ultra-rich as part of the CARES Act. https://www.propublica.org/article/the…</p>
                 </article>
+                <article data-source="LOW-TECH MAGAZINE" data-rtime="22">
+                  <h3><a target="_blank" rel="noopener noreferrer" href=https://www.lowtechmagazine.com/2021/10/how-to-build-a-low-tech-solar-panel.html>How to Build a Low-tech Solar Panel?</a></h3>
+                  <ul class="meta">
+                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://www.lowtechmagazine.com/>LOW-TECH MAGAZINE</a></li>
+                    <li><span class="label">Date:</span> <time datetime="2021-10-06T10:12:00.000Z">2021-10-06</time></li>
+                    <li><span class="label">Reading time:</span> <time>22 min</time></li>
+                    <li><span class="label">Words</span> <time>6661</time></li>
+                  </ul>
+                  <p>George Cove, a forgotten solar power pioneer, may have built a highly efficient photovoltaic panel 40 years before Bell Labs engineers invented silicon cells. If proven to work, his design could lead to less complex and more sustainable solar panels. Above: George Cove stands next to his third solar array. Source: &quot;Generating electricity by the sun&#x27;s rays&quot;, Popular Electricity, Volume 2, nr. 12, April 1910, pp.793. More efficient, less sustainable Ever since Bell Labs presented the first practical solar PV panel in the 1950s, technological development has focused on reducing costs and increasing the efficiency of solar cells. According to these standards, researchers have made a lot of progress. The efficiency of solar panels increased from less than 5% in...</p>
+                </article>
                 <article data-source="LOW-TECH MAGAZINE" data-rtime="19">
                   <h3><a target="_blank" rel="noopener noreferrer" href=http://feedproxy.google.com/~r/typepad/krisdedecker/lowtechmagazineenglish/~3/s1xYIgkW3e8/how-to-build-a-low-tech-solar-panel.html>How to Build a Low-tech Solar Panel?</a></h3>
                   <ul class="meta">
@@ -2470,7 +2538,7 @@ But, even though I have a very traditional CS backgrou…</p>
 
         <footer>
           <section class="details">
-            <span class="detail">Built @ 2021-11-17T00:18:42.110Z</span>
+            <span class="detail">Built @ 2021-11-18T00:18:57.475Z</span>
             <span class="divider">|</span>
             <span class="detail">CLI: 1.11.3</span>
             <span class="divider">|</span>

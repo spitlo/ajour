@@ -640,6 +640,15 @@
       "siteUrl": "https://www.lowtechmagazine.com/",
       "articles": [
         {
+          "id": "https://www.lowtechmagazine.com/2021/11/fascine-mattresses-basketry-gone-wild.html",
+          "author": null,
+          "description": "Around the 17th century, the Dutch started reinforcing their dykes and harbours with sturdy mats the size of football pitches – hand-woven from thousands of twigs grown on nearby coppice plantations. These “fascine mattresses” were weighted with rocks and sunk into canals, estuaries, and rivers. This article contains many images and would be a 12.1 MB download from this website. Therefore, I kindly invite you to read the article on our solar powered website, where it has been compressed to 1.90 MB.",
+          "link": "https://www.lowtechmagazine.com/2021/11/fascine-mattresses-basketry-gone-wild.html",
+          "publishedOn": "2021-11-04T18:50:58.000Z",
+          "wordCount": 1158,
+          "title": "Fascine Mattresses: Basketry Gone Wild"
+        },
+        {
           "id": "http://feedproxy.google.com/~r/typepad/krisdedecker/lowtechmagazineenglish/~3/-7QmVM_YaNw/fascine-mattresses-basketry-gone-wild.html",
           "author": null,
           "description": "Around the 17th century, the Dutch started reinforcing their dykes and harbours with sturdy mats the size of football pitches – hand-woven from thousands of twigs grown on nearby coppice plantations. These “fascine mattresses” were weighted with rocks and sunk into canals, estuaries, and rivers. This article contains many images and would be a 12.1 MB download from this website. Therefore, I kindly invite you to read the article on our solar powered website, where it has been compressed to 1.90 MB.",
@@ -647,6 +656,15 @@
           "publishedOn": "2021-11-04T18:50:58.000Z",
           "wordCount": 497,
           "title": "Fascine Mattresses: Basketry Gone Wild"
+        },
+        {
+          "id": "https://www.lowtechmagazine.com/2021/10/how-to-build-a-low-tech-solar-panel.html",
+          "author": null,
+          "description": "George Cove, a forgotten solar power pioneer, may have built a highly efficient photovoltaic panel 40 years before Bell Labs engineers invented silicon cells. If proven to work, his design could lead to less complex and more sustainable solar panels. Above: George Cove stands next to his third solar array. Source: \"Generating electricity by the sun's rays\", Popular Electricity, Volume 2, nr. 12, April 1910, pp.793. More efficient, less sustainable Ever since Bell Labs presented the first practical solar PV panel in the 1950s, technological development has focused on reducing costs and increasing the efficiency of solar cells. According to these standards, researchers have made a lot of progress. The efficiency of solar panels increased from less than 5% in...",
+          "link": "https://www.lowtechmagazine.com/2021/10/how-to-build-a-low-tech-solar-panel.html",
+          "publishedOn": "2021-10-06T10:12:00.000Z",
+          "wordCount": 6661,
+          "title": "How to Build a Low-tech Solar Panel?"
         },
         {
           "id": "http://feedproxy.google.com/~r/typepad/krisdedecker/lowtechmagazineenglish/~3/s1xYIgkW3e8/how-to-build-a-low-tech-solar-panel.html",
@@ -730,6 +748,15 @@
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
+        {
+          "id": "https://jvns.ca/blog/2021/11/17/debugging-a-weird--file-not-found--error/",
+          "author": null,
+          "description": "Yesterday I ran into a weird error where I ran a program and got the error\n“file not found” even though the program I was running existed. It’s something\nI’ve run into before, but every time I’m very surprised and confused by it\n(what do you MEAN file not found, the file is RIGHT THERE???!!??)\nSo let’s talk about what happened and why!\nthe error\nLet’s start by showing the error message I got. I had a Go program called\nserve.go, and I was trying to bundle it into a Docker container with this\nDockerfile:\nFROM golang:1.17 AS go\n\nADD ./serve.go /app/serve.go\nWORKDIR /app\nRUN go build serve.go\n\nFROM alpine:3.14\n\nCOPY --from=go /app/serve /app/serve\nCOPY ./static /app/static\nWORKDIR /app/static\nCMD [\"/app/serve\"]\n\nThis Dockerfile\nBuilds the Go program\nCopies the binary into an Alpine container\nP…",
+          "link": "https://jvns.ca/blog/2021/11/17/debugging-a-weird--file-not-found--error/",
+          "publishedOn": "2021-11-17T12:34:36.000Z",
+          "wordCount": 1284,
+          "title": "Debugging a weird 'file not found' error"
+        },
         {
           "id": "https://jvns.ca/blog/2021/11/15/esbuild-vue/",
           "author": null,
@@ -1172,6 +1199,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2856",
+          "author": "Cory Doctorow",
+          "description": "Today's links Aspiration's comprehensively deceptive greenwashing: It's \"do well\" OR \"do good.\" Live Nation is to blame for the Astroworld deaths: Monopoly kills fandom, literally. This day in history: 2006, 2011, 2016 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Aspiration's comprehensively deceptive greenwashing (permalink) It's impossible to miss Aspiration's star-studded marketing blitz, in which a succession of A-listers promise you that you can save the planet by switching credit-cards (\"Do good. Do well.\"). They're emblematic of the promise of green capitalism, the idea that climate emergency is about a slight misconfiguration of the profit motive and the finance sector. If that's true, it's great news for our species, our civ…",
+          "link": "https://pluralistic.net/2021/11/17/do-well-do-good-do-nothing/",
+          "publishedOn": "2021-11-17T20:31:58.000Z",
+          "wordCount": 2724,
+          "title": "Pluralistic: 17 Nov 2021"
+        },
         {
           "id": "https://pluralistic.net/?p=2848",
           "author": "Cory Doctorow",

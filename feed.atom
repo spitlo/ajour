@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-11-17T00:18:42.184Z</updated>
+    <updated>2021-11-18T00:18:57.515Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: 17 Nov 2021]]></title>
+        <id>https://pluralistic.net/?p=2856</id>
+        <link href="https://pluralistic.net/2021/11/17/do-well-do-good-do-nothing/"/>
+        <updated>2021-11-17T20:31:58.000Z</updated>
+        <summary type="html"><![CDATA[Today's links Aspiration's comprehensively deceptive greenwashing: It's "do well" OR "do good." Live Nation is to blame for the Astroworld deaths: Monopoly kills fandom, literally. This day in history: 2006, 2011, 2016 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Aspiration's comprehensively deceptive greenwashing (permalink) It's impossible to miss Aspiration's star-studded marketing blitz, in which a succession of A-listers promise you that you can save the planet by switching credit-cards ("Do good. Do well."). They're emblematic of the promise of green capitalism, the idea that climate emergency is about a slight misconfiguration of the profit motive and the finance sector. If that's true, it's great news for our species, our civ…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debugging a weird 'file not found' error]]></title>
+        <id>https://jvns.ca/blog/2021/11/17/debugging-a-weird--file-not-found--error/</id>
+        <link href="https://jvns.ca/blog/2021/11/17/debugging-a-weird--file-not-found--error/"/>
+        <updated>2021-11-17T12:34:36.000Z</updated>
+        <summary type="html"><![CDATA[Yesterday I ran into a weird error where I ran a program and got the error
+“file not found” even though the program I was running existed. It’s something
+I’ve run into before, but every time I’m very surprised and confused by it
+(what do you MEAN file not found, the file is RIGHT THERE???!!??)
+So let’s talk about what happened and why!
+the error
+Let’s start by showing the error message I got. I had a Go program called
+serve.go, and I was trying to bundle it into a Docker container with this
+Dockerfile:
+FROM golang:1.17 AS go
+
+ADD ./serve.go /app/serve.go
+WORKDIR /app
+RUN go build serve.go
+
+FROM alpine:3.14
+
+COPY --from=go /app/serve /app/serve
+COPY ./static /app/static
+WORKDIR /app/static
+CMD ["/app/serve"]
+
+This Dockerfile
+Builds the Go program
+Copies the binary into an Alpine container
+P…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pluralistic: 16 Nov 2021]]></title>
         <id>https://pluralistic.net/?p=2848</id>
@@ -541,6 +586,16 @@ log2(n) to get a feel for how big a number is in binary.  Neat, right?]]></summa
         <summary type="html"><![CDATA[As the pandemic, or at least it's social effects, start to wind down (or certainly in the UK… or in Brighton 🤷‍♀), I thought it would be wise (for me) to write down what I got up to. I'd love to read any of your accounts too … if you even want to remember!]]></summary>
         <author>
             <name>remy sharp's b:log</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fascine Mattresses: Basketry Gone Wild]]></title>
+        <id>https://www.lowtechmagazine.com/2021/11/fascine-mattresses-basketry-gone-wild.html</id>
+        <link href="https://www.lowtechmagazine.com/2021/11/fascine-mattresses-basketry-gone-wild.html"/>
+        <updated>2021-11-04T18:50:58.000Z</updated>
+        <summary type="html"><![CDATA[Around the 17th century, the Dutch started reinforcing their dykes and harbours with sturdy mats the size of football pitches – hand-woven from thousands of twigs grown on nearby coppice plantations. These “fascine mattresses” were weighted with rocks and sunk into canals, estuaries, and rivers. This article contains many images and would be a 12.1 MB download from this website. Therefore, I kindly invite you to read the article on our solar powered website, where it has been compressed to 1.90 MB.]]></summary>
+        <author>
+            <name>LOW-TECH MAGAZINE</name>
         </author>
     </entry>
     <entry>
@@ -1466,6 +1521,16 @@ Do you like head scratchers?  What makes a puzzle good? What makes a puzzle hard
         <summary type="html"><![CDATA[Today's links We paid to develop Merck's covid pill: And now they're charging us a 4,000% markup on it. This day in history: 2016, 2020. Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading We paid to develop Merck's covid pill (permalink) Comparing the government to a household or a business isn't merely inapt (a government is a currency creator, while a household is a currency user – their budgeting constraints are totally unrelated) – it's also profoundly dishonest. Like, if you really are worried about government "living beyond its means," then you should freak out every time Congress writes a $715B no-strings-attached check to the Pentagon, or sends $258B to the ultra-rich as part of the CARES Act. https://www.propublica.org/article/the…]]></summary>
         <author>
             <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Low-tech Solar Panel?]]></title>
+        <id>https://www.lowtechmagazine.com/2021/10/how-to-build-a-low-tech-solar-panel.html</id>
+        <link href="https://www.lowtechmagazine.com/2021/10/how-to-build-a-low-tech-solar-panel.html"/>
+        <updated>2021-10-06T10:12:00.000Z</updated>
+        <summary type="html"><![CDATA[George Cove, a forgotten solar power pioneer, may have built a highly efficient photovoltaic panel 40 years before Bell Labs engineers invented silicon cells. If proven to work, his design could lead to less complex and more sustainable solar panels. Above: George Cove stands next to his third solar array. Source: "Generating electricity by the sun's rays", Popular Electricity, Volume 2, nr. 12, April 1910, pp.793. More efficient, less sustainable Ever since Bell Labs presented the first practical solar PV panel in the 1950s, technological development has focused on reducing costs and increasing the efficiency of solar cells. According to these standards, researchers have made a lot of progress. The efficiency of solar panels increased from less than 5% in...]]></summary>
+        <author>
+            <name>LOW-TECH MAGAZINE</name>
         </author>
     </entry>
     <entry>
