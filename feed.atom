@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-11-18T00:18:57.515Z</updated>
+    <updated>2021-11-19T00:18:28.494Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Let’s not send developers to the accessibility tree tool]]></title>
+        <id>https://christianheilmann.com/?p=7045</id>
+        <link href="https://christianheilmann.com/2021/11/18/lets-not-send-developers-to-the-accessibility-tree-tool/"/>
+        <updated>2021-11-18T17:14:58.000Z</updated>
+        <summary type="html"><![CDATA[Testing for accessibility is an incredibly important part of your development process. Products that don’t block out users because of easy to avoid issues have more success. And the longer you wait with fixing accessibility problems, the harder it gets. That’s why it is annoying when it is hard to find out about accessibility problems. […]]]></summary>
+        <author>
+            <name>Chris Heilmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: 18 Nov 2021]]></title>
+        <id>https://pluralistic.net/?p=2864</id>
+        <link href="https://pluralistic.net/2021/11/18/bipartisan-consensus/"/>
+        <updated>2021-11-18T15:03:38.000Z</updated>
+        <summary type="html"><![CDATA[Today's links This is your Congress on drugs: Corruption kills. Harvard is full of rich, white low-achievers: 43% of white Harvard students didn't get in on merit. This day in history: 2001, 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading This is your Congress on drugs (permalink) Back in 2014, a pair of political scientists published a study of 1,779 US "policy issues" over 20 years, concluding that elected officials make policy to benefit the richest ten percent of the country to the exclusion of the needs of everyone else. https://www.cambridge.org/core/journals/perspectives-on-politics/article/testing-theories-of-american-politics-elites-interest-groups-and-average-citizens/62327F513959D0A304D4893B382B992B Thi…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pluralistic: 17 Nov 2021]]></title>
         <id>https://pluralistic.net/?p=2856</id>
@@ -49,6 +69,16 @@ Copies the binary into an Alpine container
 P…]]></summary>
         <author>
             <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Never Told Anyone]]></title>
+        <id>https://xkcd.com/2543/</id>
+        <link href="https://xkcd.com/2543/"/>
+        <updated>2021-11-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/never_told_anyone.png" title="Even if you said you were an employee of the website, if you asked for my password, I'd tell you." alt="Even if you said you were an employee of the website, if you asked for my password, I'd tell you." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -2287,39 +2317,6 @@ It'll be fun to see what this breaks, and who howls the loudest.]]></summary>
 The post Did you hear about Apple’s security vulnerability? Here’s how to find and remove spyware. appeared first on The Mozilla Blog.]]></summary>
         <author>
             <name>Jonathan Claudius</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teaching by filling in knowledge gaps]]></title>
-        <id>https://jvns.ca/blog/2021/09/20/teaching-by-filling-in-knowledge-gaps/</id>
-        <link href="https://jvns.ca/blog/2021/09/20/teaching-by-filling-in-knowledge-gaps/"/>
-        <updated>2021-09-20T09:28:40.000Z</updated>
-        <summary type="html"><![CDATA[Hello! This post (like patterns in confusing explanations)
-is another one in the “julia attempts to articulate her teaching strategy”
-series.
-I’ll start out by talking about a “backwards” approach to learning
-that I think a lot of you will recognize (do projects first without fully
-understanding what you’re doing, fill in missing knowledge after), and then
-talk about I try to teach in a way that works better with that mode of
-learning.
-how I’ve learned programming: backwards
-There are a lot of “basic” concepts in programming, like memory management,
-networking, operating systems, assembly, etc. You could imagine that you learn
-programming by first starting with the basic concepts and then learning
-abstractions on top of those concepts.
-But, even though I have a very traditional CS backgrou…]]></summary>
-        <author>
-            <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lumpers and Splitters]]></title>
-        <id>https://xkcd.com/2518/</id>
-        <link href="https://xkcd.com/2518/"/>
-        <updated>2021-09-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/lumpers_and_splitters.png" title="Anna Karenina is a happy family lumper and unhappy family splitter." alt="Anna Karenina is a happy family lumper and unhappy family splitter." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
         </author>
     </entry>
 </feed>
