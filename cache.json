@@ -119,6 +119,15 @@
       "siteUrl": "https://grumpygamer.com",
       "articles": [
         {
+          "id": "https://grumpygamer.com/lrg_signing",
+          "author": null,
+          "description": "Last month I finally got done signing over 7000 cards for the Limited Run Games physical release of Monkey Island.\nThey asked if I would hand sign cards to go in the boxes.  Sure, how many can that be?  500?  800?\nNope.\nThey had over 7000 preorders and I signed every one of those cards.  If you bought one of the LRG Monkey Island boxes you won't get a Certificate of Authenticity with a crappy machine printed signature. \nI signed them all. \nI even left a few special messages on the backs.",
+          "link": "https://grumpygamer.com/lrg_signing",
+          "publishedOn": "2021-11-19T00:00:00.000Z",
+          "wordCount": 420,
+          "title": "7000 Signatures later..."
+        },
+        {
           "id": "https://grumpygamer.com/make_your_own_game_engine",
           "author": null,
           "description": "At first I was going to just copy/paste his article and call it my own then I realized that is kind of a dick move.\nHow to make your own game engine (and why) by Tyler Glaiel\nWell worth a read.\nIn my 35+ year career in games I've never used an off the shelf game engine.  Starting with SCUMM I've always build my own.  I love the power and the freedom.  It's hard work and probably cost me more but I love making game engines and writing compilers.  It's a skill you slowly acquire and after the 5th one it's not a daunting task anymore.\nI ran into a programmer at an indie meet-up and she told me this story about how another programmer at her company brought up building their own game engine.  Someone responded with \"What! Are you Ron Gilbert!\"\nI wear that as a badge of honor.  😀",
@@ -222,6 +231,15 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2544/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/heart_stopping_texts.png\" title=\"Was this your car? [looping 'image loading' animation]\" alt=\"Was this your car? [looping 'image loading' animation]\" />",
+          "link": "https://xkcd.com/2544/",
+          "publishedOn": "2021-11-19T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Heart-Stopping Texts"
+        },
         {
           "id": "https://xkcd.com/2543/",
           "author": null,
@@ -631,15 +649,6 @@
           "publishedOn": "2021-09-23T05:10:10.000Z",
           "wordCount": 783,
           "title": "A different take on the NUMA OOM killer story"
-        },
-        {
-          "id": "https://rachelbythebay.com/w/2021/09/20/hop/",
-          "author": null,
-          "description": "I have an older iPhone that used to be my daily driver.  It mostly just \nhangs around for testing random junk.  It's still getting updates, and \nso when Apple offered it iOS 15 today, I installed it.  This gave me a \nchance to turn on their beta \"private relay\" stuff which seems to be \na TOR-like system.\n\n\nWhat did surprise me is the lack of \"stickiness\" for these IP addresses.  \nEvery five seconds or so, it seems to hop to another address in the same \n(IPv6, remember) /64.  If you're not down with v6 conventions yet, this \nmeans the first four parts like \"xxxx:xxxx:xxxx:xxxx\" stay the same, but \nthe last four change completely every time.\n\n\nI actually don't have any v4-only (aka LEGACY) stuff to try it on, so I \nhave no idea what happens on that side of the world.  It probably looks \nabout the same, albeit within a much smaller range of possible source IP \naddresses.  It probably resembles a CGNAT type situation.\n\nIt'll be fun to see what this breaks, and who howls the loudest.",
-          "link": "https://rachelbythebay.com/w/2021/09/20/hop/",
-          "publishedOn": "2021-09-21T01:45:25.000Z",
-          "wordCount": 362,
-          "title": "Apple's private relay service does not sit still"
         }
       ]
     },
@@ -1157,15 +1166,6 @@
           "publishedOn": "2021-09-21T22:00:42.000Z",
           "wordCount": 1466,
           "title": "Location history: How your location is tracked and how you can limit sharing it"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=67335",
-          "author": "Jonathan Claudius",
-          "description": "Spyware has been in the news recently with stories like the Apple security vulnerability that allowed devices to be infected without the owner knowing it, and a former editor of The New York Observer being charged with a felony for unlawfully spying on his spouse with spyware. Spyware is a sub-category of malware that’s aimed […]\nThe post Did you hear about Apple’s security vulnerability? Here’s how to find and remove spyware. appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/internet-culture/mozilla-explains/find-and-remove-spyware/",
-          "publishedOn": "2021-09-20T16:00:57.000Z",
-          "wordCount": 2037,
-          "title": "Did you hear about Apple’s security vulnerability? Here’s how to find and remove spyware."
         }
       ]
     },
@@ -1199,6 +1199,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2868",
+          "author": "Cory Doctorow",
+          "description": "Today's links Teamsters transformed: Militant labor is strong labor. This day in history: 2001, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Teamsters transformed (permalink) It's one (true) thing to say that American union membership is down – that's a quantifiable, objective proposition. It's another to say that American unions are weak – and contrariwise, that unions are getting stronger. That's a lot more abstract and harder to pin down. If you'd like an unrolled version of this thread to read or share, here's a link to it on pluralistic.net, my surveillance-free, ad-free, tracker-free blog: https://pluralistic.net/2021/11/19/hoffa-jr-defeated/#teamsters-for-a-democratic-union But here's a nice, concrete version of wha…",
+          "link": "https://pluralistic.net/2021/11/19/hoffa-jr-defeated/",
+          "publishedOn": "2021-11-19T20:09:57.000Z",
+          "wordCount": 1425,
+          "title": "Pluralistic: 19 Nov 2021"
+        },
         {
           "id": "https://pluralistic.net/?p=2864",
           "author": "Cory Doctorow",

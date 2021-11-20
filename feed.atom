@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-11-19T00:18:28.494Z</updated>
+    <updated>2021-11-20T00:17:55.887Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: 19 Nov 2021]]></title>
+        <id>https://pluralistic.net/?p=2868</id>
+        <link href="https://pluralistic.net/2021/11/19/hoffa-jr-defeated/"/>
+        <updated>2021-11-19T20:09:57.000Z</updated>
+        <summary type="html"><![CDATA[Today's links Teamsters transformed: Militant labor is strong labor. This day in history: 2001, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Teamsters transformed (permalink) It's one (true) thing to say that American union membership is down – that's a quantifiable, objective proposition. It's another to say that American unions are weak – and contrariwise, that unions are getting stronger. That's a lot more abstract and harder to pin down. If you'd like an unrolled version of this thread to read or share, here's a link to it on pluralistic.net, my surveillance-free, ad-free, tracker-free blog: https://pluralistic.net/2021/11/19/hoffa-jr-defeated/#teamsters-for-a-democratic-union But here's a nice, concrete version of wha…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7000 Signatures later...]]></title>
+        <id>https://grumpygamer.com/lrg_signing</id>
+        <link href="https://grumpygamer.com/lrg_signing"/>
+        <updated>2021-11-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Last month I finally got done signing over 7000 cards for the Limited Run Games physical release of Monkey Island.
+They asked if I would hand sign cards to go in the boxes.  Sure, how many can that be?  500?  800?
+Nope.
+They had over 7000 preorders and I signed every one of those cards.  If you bought one of the LRG Monkey Island boxes you won't get a Certificate of Authenticity with a crappy machine printed signature. 
+I signed them all. 
+I even left a few special messages on the backs.]]></summary>
+        <author>
+            <name>Grumpy Gamer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heart-Stopping Texts]]></title>
+        <id>https://xkcd.com/2544/</id>
+        <link href="https://xkcd.com/2544/"/>
+        <updated>2021-11-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/heart_stopping_texts.png" title="Was this your car? [looping 'image loading' animation]" alt="Was this your car? [looping 'image loading' animation]" />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Let’s not send developers to the accessibility tree tool]]></title>
         <id>https://christianheilmann.com/?p=7045</id>
@@ -2277,46 +2312,6 @@ The post Location history: How your location is tracked and how you can limit sh
         <summary type="html"><![CDATA[Today's links The Actual Star: Monica Byrne's millennium-spanning tour-de-force climate novel. Ignore career advice from established writers: We don't know anything about breaking in today. The Framework is the most exciting laptop I've ever used: Sustainable, upgradeable, repairable and powerful. This day in history: 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The Actual Star (permalink) This month marks the publication of "The Actual Star," a new, wildly ambitious, wildly successful novel by Monica Byrne, spanning 3,000 years of history from the ancient Maya to a distant future. https://www.harpervoyagerbooks.com/book/9780063002913/the-actual-star/ The tale braids three moments: the collapse of the Mayan roy…]]></summary>
         <author>
             <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple's private relay service does not sit still]]></title>
-        <id>https://rachelbythebay.com/w/2021/09/20/hop/</id>
-        <link href="https://rachelbythebay.com/w/2021/09/20/hop/"/>
-        <updated>2021-09-21T01:45:25.000Z</updated>
-        <summary type="html"><![CDATA[I have an older iPhone that used to be my daily driver.  It mostly just 
-hangs around for testing random junk.  It's still getting updates, and 
-so when Apple offered it iOS 15 today, I installed it.  This gave me a 
-chance to turn on their beta "private relay" stuff which seems to be 
-a TOR-like system.
-
-
-What did surprise me is the lack of "stickiness" for these IP addresses.  
-Every five seconds or so, it seems to hop to another address in the same 
-(IPv6, remember) /64.  If you're not down with v6 conventions yet, this 
-means the first four parts like "xxxx:xxxx:xxxx:xxxx" stay the same, but 
-the last four change completely every time.
-
-
-I actually don't have any v4-only (aka LEGACY) stuff to try it on, so I 
-have no idea what happens on that side of the world.  It probably looks 
-about the same, albeit within a much smaller range of possible source IP 
-addresses.  It probably resembles a CGNAT type situation.
-
-It'll be fun to see what this breaks, and who howls the loudest.]]></summary>
-        <author>
-            <name>Writing - rachelbythebay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did you hear about Apple’s security vulnerability? Here’s how to find and remove spyware.]]></title>
-        <id>https://blog.mozilla.org/?p=67335</id>
-        <link href="https://blog.mozilla.org/en/internet-culture/mozilla-explains/find-and-remove-spyware/"/>
-        <updated>2021-09-20T16:00:57.000Z</updated>
-        <summary type="html"><![CDATA[Spyware has been in the news recently with stories like the Apple security vulnerability that allowed devices to be infected without the owner knowing it, and a former editor of The New York Observer being charged with a felony for unlawfully spying on his spouse with spyware. Spyware is a sub-category of malware that’s aimed […]
-The post Did you hear about Apple’s security vulnerability? Here’s how to find and remove spyware. appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Jonathan Claudius</name>
         </author>
     </entry>
 </feed>
