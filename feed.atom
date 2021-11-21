@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-11-20T00:17:55.887Z</updated>
+    <updated>2021-11-21T00:19:12.973Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: 20 Nov 2021]]></title>
+        <id>https://pluralistic.net/?p=2871</id>
+        <link href="https://pluralistic.net/2021/11/20/quiet-part-out-loud/"/>
+        <updated>2021-11-20T16:15:56.000Z</updated>
+        <summary type="html"><![CDATA[Today's links Inflation or price-gouging?: Big business loves inflation talk. This day in history: 2006, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Inflation or price-gouging? (permalink) You can't turn around these days without bumping into scary inflation talk, and with good reason: asset bubbles, supply chain shocks and energy geopolitics are on their way to wiping out most or all of the wage gains eked out by low-waged workers during the pandemic's labor shortage. The underlying message of this scare-talk is that we've been too generous with "essential workers," by allowing them to inch a little closer to a living wage, and now it's time to roll that back, for their own good. What's the point of making $0.50/h more if it c…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pluralistic: 19 Nov 2021]]></title>
         <id>https://pluralistic.net/?p=2868</id>
@@ -2224,92 +2234,6 @@ something, it s…]]></summary>
         <link href="https://pluralistic.net/2021/09/22/kropotkin-graeber/"/>
         <updated>2021-09-22T16:43:23.000Z</updated>
         <summary type="html"><![CDATA[Today's links Gig workers around the globe: One disease, many pathologies. Mutual Aid and David Graeber: A new, illustrated edition of Kropotkin's masterpiece, with an introduction from the great, much-missed hero of Occupy. Facebook algorithm boosts pro-Facebook news: Orwell was an optimist. This day in history: 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Gig workers around the globe (permalink) My 2010 YA science fiction novel For the Win imagines a global solidarity movement among precarious gig workers paid to "gold farm" inside massively multiplayer online games. https://craphound.com/category/ftw/ The kids who do this work realize they have more in common with each other than their bosses, and form a glo…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Escher Circuits: Using Vision to Perform Computation]]></title>
-        <id>https://esoteric.codes/blog/escher-circuits-using-vision-to-perform-computation</id>
-        <link href="https://esoteric.codes/blog/escher-circuits-using-vision-to-perform-computation"/>
-        <updated>2021-09-22T07:29:00.000Z</updated>
-        <summary type="html"><![CDATA[In 2008, Mark Changizi, a Sloan-Swartz Fellow in Theoretical Neuroscience at Caltech, noted that the eye can make sense of complex relationships that often mystify the brain. 
-
-
-Our everyday visual perceptions rely upon unfathomably complex computations carried out by tens of billions of neurons across over half our cortex. In spite of this, it does not “feel” like work to see. Our cognitive powers are, in stark contrast, “slow and painful,” and we have great trouble with embarrassingly simple logic tasks. 
-
-Might it be possible to harness our visual computational powers for other tasks, perhaps for tasks cognition finds difficult? 
-
-
-In other words, could we trick the eye into performing computation? 
-
-Changizi proposed the Escher Circuit, "a special kind of image that amounts to 'visual software' our 'visual hardware' computes" merely through perception.
-
-Escher Circuits work by creating different states corresponding to how the eye resolves ambiguous images. Its core component, the wire, holds a state of 0 when we perceive it as if we are to the right of it; otherwise, it holds a state of 1.
-
-
-wire
-
-
-0
-
-
-1
-
-
- 
-Read More]]></summary>
-        <author>
-            <name>esoteric.codes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sloped Border]]></title>
-        <id>https://xkcd.com/2519/</id>
-        <link href="https://xkcd.com/2519/"/>
-        <updated>2021-09-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/sloped_border.png" title="&quot;The slope will be 74° at ground level.&quot; &quot;Okay, I think we can hack together a  ... wait, why did they specify ground level? It's 74° everywhere, right? ... Oh no, there's a whole section in the treaty labeled 'curvature.'&quot;" alt="&quot;The slope will be 74° at ground level.&quot; &quot;Okay, I think we can hack together a  ... wait, why did they specify ground level? It's 74° everywhere, right? ... Oh no, there's a whole section in the treaty labeled 'curvature.'&quot;" />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Location history: How your location is tracked and how you can limit sharing it]]></title>
-        <id>https://blog.mozilla.org/?p=67369</id>
-        <link href="https://blog.mozilla.org/en/internet-culture/mozilla-explains/location-history/"/>
-        <updated>2021-09-21T22:00:42.000Z</updated>
-        <summary type="html"><![CDATA[In real estate, the age old mantra is “location, location, location,” meaning that location drives value. That’s true even when it comes to data collection in the online world, too — your location history is valuable, authentic information. In all likelihood, you’re leaving a breadcrumb trail of location data every day, but there are a […]
-The post Location history: How your location is tracked and how you can limit sharing it appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>M.J. Kelly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Variables for React Devs]]></title>
-        <id>https://www.joshwcomeau.com/css/css-variables-for-react-devs/</id>
-        <link href="https://www.joshwcomeau.com/css/css-variables-for-react-devs/"/>
-        <updated>2021-09-21T17:49:38.000Z</updated>
-        <summary type="html"><![CDATA[CSS Variables are *really* cool, and they're incredibly powerful when it comes to React! This tutorial shows how we can use them with React to create dynamic themes. We'll see how to get the most out of CSS-in-JS tools like styled-components, and how our mental frame around media queries has been wrong all along.]]></summary>
-        <author>
-            <name>Josh W. Comeau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Interactive Guide to CSS Transitions]]></title>
-        <id>https://www.joshwcomeau.com/animation/css-transitions/</id>
-        <link href="https://www.joshwcomeau.com/animation/css-transitions/"/>
-        <updated>2021-09-21T17:49:38.000Z</updated>
-        <summary type="html"><![CDATA[This comprehensive guide shows how to use CSS transitions! A back-to-basics look at the fundamental building blocks we need to create microinteractions and other animations.]]></summary>
-        <author>
-            <name>Josh W. Comeau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 21 Sep 2021]]></title>
-        <id>https://pluralistic.net/?p=2590</id>
-        <link href="https://pluralistic.net/2021/09/21/monica-byrne/"/>
-        <updated>2021-09-21T14:34:49.000Z</updated>
-        <summary type="html"><![CDATA[Today's links The Actual Star: Monica Byrne's millennium-spanning tour-de-force climate novel. Ignore career advice from established writers: We don't know anything about breaking in today. The Framework is the most exciting laptop I've ever used: Sustainable, upgradeable, repairable and powerful. This day in history: 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The Actual Star (permalink) This month marks the publication of "The Actual Star," a new, wildly ambitious, wildly successful novel by Monica Byrne, spanning 3,000 years of history from the ancient Maya to a distant future. https://www.harpervoyagerbooks.com/book/9780063002913/the-actual-star/ The tale braids three moments: the collapse of the Mayan roy…]]></summary>
         <author>
             <name>Cory Doctorow</name>
         </author>

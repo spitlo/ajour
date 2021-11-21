@@ -455,15 +455,6 @@
           "publishedOn": "2021-09-24T00:00:00.000Z",
           "wordCount": 183,
           "title": "Symbols"
-        },
-        {
-          "id": "https://xkcd.com/2519/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/sloped_border.png\" title=\"&quot;The slope will be 74° at ground level.&quot; &quot;Okay, I think we can hack together a  ... wait, why did they specify ground level? It's 74° everywhere, right? ... Oh no, there's a whole section in the treaty labeled 'curvature.'&quot;\" alt=\"&quot;The slope will be 74° at ground level.&quot; &quot;Okay, I think we can hack together a  ... wait, why did they specify ground level? It's 74° everywhere, right? ... Oh no, there's a whole section in the treaty labeled 'curvature.'&quot;\" />",
-          "link": "https://xkcd.com/2519/",
-          "publishedOn": "2021-09-22T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Sloped Border"
         }
       ]
     },
@@ -699,17 +690,7 @@
       "title": "esoteric.codes",
       "feedUrl": "https://esoteric.codes/rss",
       "siteUrl": "https://esoteric.codes",
-      "articles": [
-        {
-          "id": "https://esoteric.codes/blog/escher-circuits-using-vision-to-perform-computation",
-          "author": null,
-          "description": "In 2008, Mark Changizi, a Sloan-Swartz Fellow in Theoretical Neuroscience at Caltech, noted that the eye can make sense of complex relationships that often mystify the brain. \n\r\n\r\nOur everyday visual perceptions rely upon unfathomably complex computations carried out by tens of billions of neurons across over half our cortex. In spite of this, it does not “feel” like work to see. Our cognitive powers are, in stark contrast, “slow and painful,” and we have great trouble with embarrassingly simple logic tasks. \n\r\nMight it be possible to harness our visual computational powers for other tasks, perhaps for tasks cognition finds difficult? \n\r\n\r\nIn other words, could we trick the eye into performing computation? \n\r\nChangizi proposed the Escher Circuit, \"a special kind of image that amounts to 'visual software' our 'visual hardware' computes\" merely through perception.\n\r\nEscher Circuits work by creating different states corresponding to how the eye resolves ambiguous images. Its core component, the wire, holds a state of 0 when we perceive it as if we are to the right of it; otherwise, it holds a state of 1.\n\r\n\nwire\n\r\n\n0\n\r\n\n1\n\r\n\r\n \nRead More",
-          "link": "https://esoteric.codes/blog/escher-circuits-using-vision-to-perform-computation",
-          "publishedOn": "2021-09-22T07:29:00.000Z",
-          "wordCount": 1009,
-          "title": "Escher Circuits: Using Vision to Perform Computation"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Lea Verou",
@@ -925,24 +906,6 @@
           "publishedOn": "2021-09-22T17:07:02.000Z",
           "wordCount": 2945,
           "title": "How To Learn Stuff Quickly"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/css/css-variables-for-react-devs/",
-          "author": "Josh W. Comeau",
-          "description": "CSS Variables are *really* cool, and they're incredibly powerful when it comes to React! This tutorial shows how we can use them with React to create dynamic themes. We'll see how to get the most out of CSS-in-JS tools like styled-components, and how our mental frame around media queries has been wrong all along.",
-          "link": "https://www.joshwcomeau.com/css/css-variables-for-react-devs/",
-          "publishedOn": "2021-09-21T17:49:38.000Z",
-          "wordCount": 1749,
-          "title": "CSS Variables for React Devs"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/animation/css-transitions/",
-          "author": "Josh W. Comeau",
-          "description": "This comprehensive guide shows how to use CSS transitions! A back-to-basics look at the fundamental building blocks we need to create microinteractions and other animations.",
-          "link": "https://www.joshwcomeau.com/animation/css-transitions/",
-          "publishedOn": "2021-09-21T17:49:38.000Z",
-          "wordCount": 3507,
-          "title": "An Interactive Guide to CSS Transitions"
         }
       ]
     },
@@ -1157,15 +1120,6 @@
           "publishedOn": "2021-10-01T13:00:41.000Z",
           "wordCount": 1470,
           "title": "Superhero passwords may be your kryptonite wherever you go online"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=67369",
-          "author": "M.J. Kelly",
-          "description": "In real estate, the age old mantra is “location, location, location,” meaning that location drives value. That’s true even when it comes to data collection in the online world, too — your location history is valuable, authentic information. In all likelihood, you’re leaving a breadcrumb trail of location data every day, but there are a […]\nThe post Location history: How your location is tracked and how you can limit sharing it appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/internet-culture/mozilla-explains/location-history/",
-          "publishedOn": "2021-09-21T22:00:42.000Z",
-          "wordCount": 1466,
-          "title": "Location history: How your location is tracked and how you can limit sharing it"
         }
       ]
     },
@@ -1199,6 +1153,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2871",
+          "author": "Cory Doctorow",
+          "description": "Today's links Inflation or price-gouging?: Big business loves inflation talk. This day in history: 2006, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Inflation or price-gouging? (permalink) You can't turn around these days without bumping into scary inflation talk, and with good reason: asset bubbles, supply chain shocks and energy geopolitics are on their way to wiping out most or all of the wage gains eked out by low-waged workers during the pandemic's labor shortage. The underlying message of this scare-talk is that we've been too generous with \"essential workers,\" by allowing them to inch a little closer to a living wage, and now it's time to roll that back, for their own good. What's the point of making $0.50/h more if it c…",
+          "link": "https://pluralistic.net/2021/11/20/quiet-part-out-loud/",
+          "publishedOn": "2021-11-20T16:15:56.000Z",
+          "wordCount": 1893,
+          "title": "Pluralistic: 20 Nov 2021"
+        },
         {
           "id": "https://pluralistic.net/?p=2868",
           "author": "Cory Doctorow",
@@ -1589,20 +1552,6 @@
           "publishedOn": "2021-09-22T16:43:23.000Z",
           "wordCount": 3396,
           "title": "Pluralistic: 22 Sep 2021"
-        },
-        {
-          "id": "https://pluralistic.net/?p=2590",
-          "author": "Cory Doctorow",
-          "description": "Today's links The Actual Star: Monica Byrne's millennium-spanning tour-de-force climate novel. Ignore career advice from established writers: We don't know anything about breaking in today. The Framework is the most exciting laptop I've ever used: Sustainable, upgradeable, repairable and powerful. This day in history: 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The Actual Star (permalink) This month marks the publication of \"The Actual Star,\" a new, wildly ambitious, wildly successful novel by Monica Byrne, spanning 3,000 years of history from the ancient Maya to a distant future. https://www.harpervoyagerbooks.com/book/9780063002913/the-actual-star/ The tale braids three moments: the collapse of the Mayan roy…",
-          "link": "https://pluralistic.net/2021/09/21/monica-byrne/",
-          "publishedOn": "2021-09-21T14:34:49.000Z",
-          "wordCount": 3800,
-          "title": "Pluralistic: 21 Sep 2021",
-          "enclosure": {
-            "url": "http://mpegmedia.abc.net.au/rn/podcast/2011/09/lnl_20110916_2240.mp3",
-            "length": "8706688",
-            "type": "audio/mpeg"
-          }
         }
       ]
     },
