@@ -464,6 +464,15 @@
       "siteUrl": "https://remysharp.com",
       "articles": [
         {
+          "id": "why-i-write-and-when-i-dont",
+          "author": null,
+          "description": "I've been publishing on my blog since 2006 - something I'm personally proud of. My blog is the personal little space I've carved for myself on the web. Whilst I'm here in the real world, my blog will exist in the digital world, and every single post URL will work (404s are for the weak! 😏).\nBack in 2015 I set myself an goal to publish at least two posts a month, for the most part I've managed. I've always been a fan of \"easy goals\" - something that's achievable without it causing stress - so doing some writing twice a month definitely hit that sweet spot.\nThis particular blog has been active since 2006, but I had also toyed with more diary-like sites during the early-2000s but the URLs are so obscure not only has the web forgotten, but they're wiped clean from my own memory.\nWhen I starte…",
+          "link": "https://remysharp.com/2021/11/21/why-i-write-and-when-i-dont",
+          "publishedOn": "2021-11-21T00:00:00.000Z",
+          "wordCount": 1655,
+          "title": "Why I write and why I won't [blog]"
+        },
+        {
           "id": "2021-11-11-0ad5612e",
           "author": null,
           "description": "I think this might be one of the first balanced or non-invested reads of what \"Web3\" means and Sloan's opening notes really resonate:\n\nIt’s for kids. I mean that in a good way! I think Web3 has resonated powerfully with young people because it feels like something genuinely new, and it feels like it can be theirs. Who could argue with those feelings? Not me.\n\nThe notes go on and I come away with the same general sense that I've had so far of the crowd cheering on for Web3: it's about making money. Which is fine, the world runs on capitalism for the most part, it's just not entirely for me.\nAnd I think that's the rub, the stories I know of the creation and the spread of the web (and indeed the internet) came from those wanting to share and do good. The stories I've read were never about making money but instead creating a place for others.\nI will concede that I don't tend to read the \"got rich by selling X web start up\" - but it's that start in the web that's what drives me, and what I love about the web. It's what I love about the Open Web.\nWeb Zero if you will. It was about sharing, community, learning and finding a place in the world.\nSource: society.robinsloan.com",
@@ -631,15 +640,6 @@
           "publishedOn": "2021-09-30T05:34:02.000Z",
           "wordCount": 403,
           "title": "Fun with glibc and the ctype.h functions"
-        },
-        {
-          "id": "https://rachelbythebay.com/w/2021/09/22/membind/",
-          "author": null,
-          "description": "I was digging through some notes on old outages tonight and found \nsomething potentially useful for other people.  It's something I\nhave mentioned before,\nbut it seems like maybe that post didn't have enough specifics to\nmake it really \"land\" when someone else does a web search.\n\n\nOn a Wednesday night not so long ago, someone opened a SEV (that is, a \nnotification of something going wrong) and said the individual tasks for \ntheir service were \"crash looping\".  These things ran in an environment \nwhere they were supervised by the job runner, so if they died, they'd be \nrestarted, but you never wanted to keep it in this kind of state.\n\n\nIt looked like this had started when some update had rolled out.  That \nis, prior to the update, their service was fine.  After they changed \nsomething, it s…",
-          "link": "https://rachelbythebay.com/w/2021/09/22/membind/",
-          "publishedOn": "2021-09-23T05:10:10.000Z",
-          "wordCount": 783,
-          "title": "A different take on the NUMA OOM killer story"
         }
       ]
     },
@@ -836,6 +836,15 @@
           "title": "Accessible Animations in React"
         },
         {
+          "id": "https://www.joshwcomeau.com/animation/css-transitions/",
+          "author": "Josh W. Comeau",
+          "description": "This comprehensive guide shows how to use CSS transitions! A back-to-basics look at the fundamental building blocks we need to create microinteractions and other animations.",
+          "link": "https://www.joshwcomeau.com/animation/css-transitions/",
+          "publishedOn": "2021-09-28T14:03:38.000Z",
+          "wordCount": 3579,
+          "title": "An Interactive Guide to CSS Transitions"
+        },
+        {
           "id": "https://www.joshwcomeau.com/animation/keyframe-animations/",
           "author": "Josh W. Comeau",
           "description": "CSS keyframe animations are incredibly flexible and powerful, but they’re also a bit weird. In this deep-dive tutorial, we'll learn how CSS keyframes work from the ground up, and see how to use them to build high-quality animations.",
@@ -897,15 +906,6 @@
           "publishedOn": "2021-09-23T19:35:28.000Z",
           "wordCount": 3739,
           "title": "Designing Beautiful Shadows in CSS"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/",
-          "author": "Josh W. Comeau",
-          "description": "As software developers, we're always learning new things; it's practically the whole gig! If we can learn to quickly pick up new languages/frameworks/tools, we'll become so much more effective at our job. It's sort of a superpower.",
-          "link": "https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/",
-          "publishedOn": "2021-09-22T17:07:02.000Z",
-          "wordCount": 2945,
-          "title": "How To Learn Stuff Quickly"
         }
       ]
     },
@@ -1543,15 +1543,6 @@
           "publishedOn": "2021-09-23T16:00:36.000Z",
           "wordCount": 3945,
           "title": "Pluralistic: 23 Sep 2021"
-        },
-        {
-          "id": "https://pluralistic.net/?p=2598",
-          "author": "Cory Doctorow",
-          "description": "Today's links Gig workers around the globe: One disease, many pathologies. Mutual Aid and David Graeber: A new, illustrated edition of Kropotkin's masterpiece, with an introduction from the great, much-missed hero of Occupy. Facebook algorithm boosts pro-Facebook news: Orwell was an optimist. This day in history: 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Gig workers around the globe (permalink) My 2010 YA science fiction novel For the Win imagines a global solidarity movement among precarious gig workers paid to \"gold farm\" inside massively multiplayer online games. https://craphound.com/category/ftw/ The kids who do this work realize they have more in common with each other than their bosses, and form a glo…",
-          "link": "https://pluralistic.net/2021/09/22/kropotkin-graeber/",
-          "publishedOn": "2021-09-22T16:43:23.000Z",
-          "wordCount": 3396,
-          "title": "Pluralistic: 22 Sep 2021"
         }
       ]
     },
