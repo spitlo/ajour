@@ -232,6 +232,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2545/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/bayes_theorem.png\" title=\"P((B|A)|(A|B)) represents the probability that you'll mix up the order of the terms when using Bayesian notation.\" alt=\"P((B|A)|(A|B)) represents the probability that you'll mix up the order of the terms when using Bayesian notation.\" />",
+          "link": "https://xkcd.com/2545/",
+          "publishedOn": "2021-11-22T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Bayes' Theorem"
+        },
+        {
           "id": "https://xkcd.com/2544/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/heart_stopping_texts.png\" title=\"Was this your car? [looping 'image loading' animation]\" alt=\"Was this your car? [looping 'image loading' animation]\" />",
@@ -446,15 +455,6 @@
           "publishedOn": "2021-09-27T00:00:00.000Z",
           "wordCount": 183,
           "title": "Toothpaste"
-        },
-        {
-          "id": "https://xkcd.com/2520/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/symbols.png\" title=\"&quot;röntgen&quot; and &quot;rem&quot; are 20th-century physics terms that mean &quot;no trespassing.&quot;\" alt=\"&quot;röntgen&quot; and &quot;rem&quot; are 20th-century physics terms that mean &quot;no trespassing.&quot;\" />",
-          "link": "https://xkcd.com/2520/",
-          "publishedOn": "2021-09-24T00:00:00.000Z",
-          "wordCount": 183,
-          "title": "Symbols"
         }
       ]
     },
@@ -800,15 +800,6 @@
           "publishedOn": "2021-10-02T09:42:31.000Z",
           "wordCount": 993,
           "title": "All my zines are now available in print!"
-        },
-        {
-          "id": "https://jvns.ca/blog/2021/09/24/new-tool--an-nginx-playground/",
-          "author": null,
-          "description": "Hello! On Wednesday I was talking to a friend about how it would be cool to\nhave an nginx playground website where you can just paste in an nginx config\nand test it out. And then I realized it might actually be pretty easy to build,\nso got excited and started coding and I built it. It’s at\nhttps://nginx-playground.wizardzines.com.\nHere’s a screenshot:\n\nFor the rest of the post I’m mostly going to talk about how I built the\nproject, because there were a few decisions that weren’t obvious to me.\nhow to use it\nYou need to enter both an nginx config and a curl or http command to make a\nHTTP request to that nginx instance\nAnd then you click “Run” in the top right, and it’ll output either:\nthe results of the command you executed (if nginx started successfully), or\nthe nginx error logs (if nginx …",
-          "link": "https://jvns.ca/blog/2021/09/24/new-tool--an-nginx-playground/",
-          "publishedOn": "2021-09-24T08:25:33.000Z",
-          "wordCount": 1500,
-          "title": "New tool: an nginx playground"
         }
       ]
     },
@@ -897,15 +888,6 @@
           "publishedOn": "2021-09-28T14:03:38.000Z",
           "wordCount": 1791,
           "title": "Full-Bleed Layout Using CSS Grid"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/css/designing-shadows/",
-          "author": "Josh W. Comeau",
-          "description": "When I look around the web, most of the shadows I see are fuzzy grey boxes. It doesn't have to be this way, though! CSS gives us the tools to create rich, lush, lifelike shadows. In this tutorial, I'll show you how.",
-          "link": "https://www.joshwcomeau.com/css/designing-shadows/",
-          "publishedOn": "2021-09-23T19:35:28.000Z",
-          "wordCount": 3739,
-          "title": "Designing Beautiful Shadows in CSS"
         }
       ]
     },
@@ -1136,15 +1118,6 @@
           "publishedOn": "2021-10-21T14:00:00.000Z",
           "wordCount": 4062,
           "title": "How to Sell UX Research with Two Simple Questions"
-        },
-        {
-          "id": "https://alistapart.com/article/a-content-model-is-not-a-design-system/",
-          "author": "by",
-          "description": "Do you remember when having a great website was enough? Now, people are getting answers from Siri, Google search snippets, and mobile apps, not just our websites. Forward-thinking organizations have adopted an omnichannel content strategy, whose mission is to reach audiences across multiple digital channels and platforms.\nBut how do you set up a content management system (CMS) to reach your audience now and in the future? I learned the hard way that creating a content model—a definition of content types, attributes, and relationships that let people and systems understand content—with my more familiar design-system thinking would capsize my customer’s omnichannel content strategy. You can avoid that outcome by creating content models that are semantic and that also connect related content.…",
-          "link": "https://alistapart.com/article/a-content-model-is-not-a-design-system/",
-          "publishedOn": "2021-09-23T14:00:00.000Z",
-          "wordCount": 2436,
-          "title": "A Content Model Is Not a Design System"
         }
       ]
     },
@@ -1153,6 +1126,20 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2878",
+          "author": "Cory Doctorow",
+          "description": "Today's links Private ambulances want a ban on firefighters rescuing babies: American Medical Response says Prescott Valley's firefighters shouldn't be allowed to operate an ambulance. Podcasting \"Jam To-Day\": How to free Big Tech's hostages on day one. This day in history: 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Private ambulances want a ban on firefighters rescuing babies (permalink) Prescott Valley, AZ is home to 150,000 people and a single private ambulance operator with the exclusive regional franchise: Lifeline Ambulance, a division of American Medical Response (AMR) – a predatory monopolist that has snapped up many smaller ambulance companies and locked in lucrative exclusivity deals with many US ci…",
+          "link": "https://pluralistic.net/2021/11/22/amr-vs-babies/",
+          "publishedOn": "2021-11-22T16:55:25.000Z",
+          "wordCount": 2320,
+          "title": "Pluralistic: 21 Nov 2021",
+          "enclosure": {
+            "url": "https://archive.org/download/Cory_Doctorow_Podcast_408/Cory_Doctorow_Podcast_408_-_Jam-To-Day.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "https://pluralistic.net/?p=2871",
           "author": "Cory Doctorow",
@@ -1534,15 +1521,6 @@
           "publishedOn": "2021-09-24T13:20:46.000Z",
           "wordCount": 1403,
           "title": "Pluralistic: 24 Sep 2021"
-        },
-        {
-          "id": "https://pluralistic.net/?p=2606",
-          "author": "Cory Doctorow",
-          "description": "Today's links The Halloween Moon: A YA novel from Nightvale creator Joseph Fink. The music monopolists: Thinking outside the antitrust box. This day in history: 2011, 2016 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The Halloween Moon (permalink) In \"The Halloween Moon,\" Welcome to Nightvale co-creator Joseph Fink brings his superb, unmatchable gift for balancing the weird and the real to a spooky middle-grades novel that echoes such classics as Neil Gaiman's Coraline. https://www.harpercollins.com/products/the-halloween-moon-joseph-fink If you're a stranger to Fink's work, the thing you need to know is that Nightvale and his other projects manage to walk the tightrope between weird, creepypasta-style humor and real pathos, in a glo…",
-          "link": "https://pluralistic.net/2021/09/23/remedies-beyond-antitrust/",
-          "publishedOn": "2021-09-23T16:00:36.000Z",
-          "wordCount": 3945,
-          "title": "Pluralistic: 23 Sep 2021"
         }
       ]
     },

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-11-22T00:18:51.271Z</updated>
+    <updated>2021-11-23T00:18:38.389Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: 21 Nov 2021]]></title>
+        <id>https://pluralistic.net/?p=2878</id>
+        <link href="https://pluralistic.net/2021/11/22/amr-vs-babies/"/>
+        <updated>2021-11-22T16:55:25.000Z</updated>
+        <summary type="html"><![CDATA[Today's links Private ambulances want a ban on firefighters rescuing babies: American Medical Response says Prescott Valley's firefighters shouldn't be allowed to operate an ambulance. Podcasting "Jam To-Day": How to free Big Tech's hostages on day one. This day in history: 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Private ambulances want a ban on firefighters rescuing babies (permalink) Prescott Valley, AZ is home to 150,000 people and a single private ambulance operator with the exclusive regional franchise: Lifeline Ambulance, a division of American Medical Response (AMR) – a predatory monopolist that has snapped up many smaller ambulance companies and locked in lucrative exclusivity deals with many US ci…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bayes' Theorem]]></title>
+        <id>https://xkcd.com/2545/</id>
+        <link href="https://xkcd.com/2545/"/>
+        <updated>2021-11-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/bayes_theorem.png" title="P((B|A)|(A|B)) represents the probability that you'll mix up the order of the terms when using Bayesian notation." alt="P((B|A)|(A|B)) represents the probability that you'll mix up the order of the terms when using Bayesian notation." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why I write and why I won't [blog]]]></title>
         <id>why-i-write-and-when-i-dont</id>
@@ -2148,71 +2168,6 @@ In …]]></summary>
         <summary type="html"><![CDATA[Today's links Demonopolizing the internet with interoperability: My op-ed in the Communications of the ACM This day in history: 2001, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Demonopolizing the internet with interoperability (permalink) The Communications of the Association for Computing Machinery has just published my editorial, "Competitive Compatibility: Let's Fix the Internet, Not the Tech Giants," explaining how interoperability was once an engine for competition and user empowerment – and how that ended. https://cacm.acm.org/magazines/2021/10/255710-competitive-compatibility/fulltext As the title suggests, regulators are fed up with Big Tech's abuses, but they're not sure what to do about it. One approach is to "…]]></summary>
         <author>
             <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New tool: an nginx playground]]></title>
-        <id>https://jvns.ca/blog/2021/09/24/new-tool--an-nginx-playground/</id>
-        <link href="https://jvns.ca/blog/2021/09/24/new-tool--an-nginx-playground/"/>
-        <updated>2021-09-24T08:25:33.000Z</updated>
-        <summary type="html"><![CDATA[Hello! On Wednesday I was talking to a friend about how it would be cool to
-have an nginx playground website where you can just paste in an nginx config
-and test it out. And then I realized it might actually be pretty easy to build,
-so got excited and started coding and I built it. It’s at
-https://nginx-playground.wizardzines.com.
-Here’s a screenshot:
-
-For the rest of the post I’m mostly going to talk about how I built the
-project, because there were a few decisions that weren’t obvious to me.
-how to use it
-You need to enter both an nginx config and a curl or http command to make a
-HTTP request to that nginx instance
-And then you click “Run” in the top right, and it’ll output either:
-the results of the command you executed (if nginx started successfully), or
-the nginx error logs (if nginx …]]></summary>
-        <author>
-            <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Symbols]]></title>
-        <id>https://xkcd.com/2520/</id>
-        <link href="https://xkcd.com/2520/"/>
-        <updated>2021-09-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/symbols.png" title="&quot;röntgen&quot; and &quot;rem&quot; are 20th-century physics terms that mean &quot;no trespassing.&quot;" alt="&quot;röntgen&quot; and &quot;rem&quot; are 20th-century physics terms that mean &quot;no trespassing.&quot;" />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing Beautiful Shadows in CSS]]></title>
-        <id>https://www.joshwcomeau.com/css/designing-shadows/</id>
-        <link href="https://www.joshwcomeau.com/css/designing-shadows/"/>
-        <updated>2021-09-23T19:35:28.000Z</updated>
-        <summary type="html"><![CDATA[When I look around the web, most of the shadows I see are fuzzy grey boxes. It doesn't have to be this way, though! CSS gives us the tools to create rich, lush, lifelike shadows. In this tutorial, I'll show you how.]]></summary>
-        <author>
-            <name>Josh W. Comeau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 23 Sep 2021]]></title>
-        <id>https://pluralistic.net/?p=2606</id>
-        <link href="https://pluralistic.net/2021/09/23/remedies-beyond-antitrust/"/>
-        <updated>2021-09-23T16:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Today's links The Halloween Moon: A YA novel from Nightvale creator Joseph Fink. The music monopolists: Thinking outside the antitrust box. This day in history: 2011, 2016 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The Halloween Moon (permalink) In "The Halloween Moon," Welcome to Nightvale co-creator Joseph Fink brings his superb, unmatchable gift for balancing the weird and the real to a spooky middle-grades novel that echoes such classics as Neil Gaiman's Coraline. https://www.harpercollins.com/products/the-halloween-moon-joseph-fink If you're a stranger to Fink's work, the thing you need to know is that Nightvale and his other projects manage to walk the tightrope between weird, creepypasta-style humor and real pathos, in a glo…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Content Model Is Not a Design System]]></title>
-        <id>https://alistapart.com/article/a-content-model-is-not-a-design-system/</id>
-        <link href="https://alistapart.com/article/a-content-model-is-not-a-design-system/"/>
-        <updated>2021-09-23T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you remember when having a great website was enough? Now, people are getting answers from Siri, Google search snippets, and mobile apps, not just our websites. Forward-thinking organizations have adopted an omnichannel content strategy, whose mission is to reach audiences across multiple digital channels and platforms.
-But how do you set up a content management system (CMS) to reach your audience now and in the future? I learned the hard way that creating a content model—a definition of content types, attributes, and relationships that let people and systems understand content—with my more familiar design-system thinking would capsize my customer’s omnichannel content strategy. You can avoid that outcome by creating content models that are semantic and that also connect related content.…]]></summary>
-        <author>
-            <name>by</name>
         </author>
     </entry>
 </feed>

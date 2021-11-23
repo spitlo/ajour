@@ -16,9 +16,9 @@
     <meta name="robots" content="noindex, nofollow">
     <link rel="preload" as="font" type="font/woff2" href="https://spitlo.com/fonts/GangsterGrotesk-Bold.woff2" crossorigin="anonymous">
     <link rel="preload" as="font" type="font/woff2" href="https://spitlo.com/fonts/VictorMono-Thin.woff2" crossorigin="anonymous">
-    <link rel="icon" type="image/svg+xml" href="https://spitlo.com/images/favicon.svg?2021-11-22T00:18:51.247Z">
+    <link rel="icon" type="image/svg+xml" href="https://spitlo.com/images/favicon.svg?2021-11-23T00:18:38.350Z">
     <link rel="alternate" type="application/rss+xml" title="Ajour / Spitlo.com" href="feed.atom">
-    <link href="https://spitlo.com/style.css?2021-11-22T00:18:51.247Z" rel="stylesheet">
+    <link href="https://spitlo.com/style.css?2021-11-23T00:18:38.350Z" rel="stylesheet">
 
     <style>
       body { font-size: 14px; }
@@ -52,6 +52,29 @@
           Visit <a target="_blank" rel="noopener noreferrer" href="https://github.com/osmoscraft/osmosfeed">osmos::feed</a> for more info or to make your own custom feed reader.
         </p>
 
+          <section class="daily-content">
+            <h2 class="daily-heading"><time datatime="2021-11-22">2021-11-22</time></h2>
+                <article data-source="Pluralistic: Daily links from Cory Doctorow" data-rtime="8">
+                  <h3><a target="_blank" rel="noopener noreferrer" href=https://pluralistic.net/2021/11/22/amr-vs-babies/>Pluralistic: 21 Nov 2021</a></h3>
+                  <ul class="meta">
+                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://pluralistic.net>Pluralistic: Daily links from Cory Doctorow</a></li>
+                    <li><span class="label">Date:</span> <time datetime="2021-11-22T16:55:25.000Z">2021-11-22</time></li>
+                    <li><span class="label">Reading time:</span> <time>8 min</time></li>
+                    <li><span class="label">Words</span> <time>2320</time></li>
+                  </ul>
+                  <p>Today&#x27;s links Private ambulances want a ban on firefighters rescuing babies: American Medical Response says Prescott Valley&#x27;s firefighters shouldn&#x27;t be allowed to operate an ambulance. Podcasting &quot;Jam To-Day&quot;: How to free Big Tech&#x27;s hostages on day one. This day in history: 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Private ambulances want a ban on firefighters rescuing babies (permalink) Prescott Valley, AZ is home to 150,000 people and a single private ambulance operator with the exclusive regional franchise: Lifeline Ambulance, a division of American Medical Response (AMR) – a predatory monopolist that has snapped up many smaller ambulance companies and locked in lucrative exclusivity deals with many US ci…</p>
+                </article>
+                <article data-source="xkcd.com" data-rtime="1">
+                  <h3><a target="_blank" rel="noopener noreferrer" href=https://xkcd.com/2545/>Bayes&#x27; Theorem</a></h3>
+                  <ul class="meta">
+                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://xkcd.com/>xkcd.com</a></li>
+                    <li><span class="label">Date:</span> <time datetime="2021-11-22T00:00:00.000Z">2021-11-22</time></li>
+                    <li><span class="label">Reading time:</span> <time>1 min</time></li>
+                    <li><span class="label">Words</span> <time>185</time></li>
+                  </ul>
+                  <p>No content preview</p>
+                </article>
+          </section>
           <section class="daily-content">
             <h2 class="daily-heading"><time datatime="2021-11-21">2021-11-21</time></h2>
                 <article data-source="remy sharp&#x27;s b:log" data-rtime="6">
@@ -2362,79 +2385,11 @@ In …</p>
                   </ul>
                   <p>Today&#x27;s links Demonopolizing the internet with interoperability: My op-ed in the Communications of the ACM This day in history: 2001, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Demonopolizing the internet with interoperability (permalink) The Communications of the Association for Computing Machinery has just published my editorial, &quot;Competitive Compatibility: Let&#x27;s Fix the Internet, Not the Tech Giants,&quot; explaining how interoperability was once an engine for competition and user empowerment – and how that ended. https://cacm.acm.org/magazines/2021/10/255710-competitive-compatibility/fulltext As the title suggests, regulators are fed up with Big Tech&#x27;s abuses, but they&#x27;re not sure what to do about it. One approach is to &quot;…</p>
                 </article>
-                <article data-source="Julia Evans" data-rtime="5">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://jvns.ca/blog/2021/09/24/new-tool--an-nginx-playground/>New tool: an nginx playground</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=http://jvns.ca/atom.xml>Julia Evans</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2021-09-24T08:25:33.000Z">2021-09-24</time></li>
-                    <li><span class="label">Reading time:</span> <time>5 min</time></li>
-                    <li><span class="label">Words</span> <time>1500</time></li>
-                  </ul>
-                  <p>Hello! On Wednesday I was talking to a friend about how it would be cool to
-have an nginx playground website where you can just paste in an nginx config
-and test it out. And then I realized it might actually be pretty easy to build,
-so got excited and started coding and I built it. It’s at
-https://nginx-playground.wizardzines.com.
-Here’s a screenshot:
-
-For the rest of the post I’m mostly going to talk about how I built the
-project, because there were a few decisions that weren’t obvious to me.
-how to use it
-You need to enter both an nginx config and a curl or http command to make a
-HTTP request to that nginx instance
-And then you click “Run” in the top right, and it’ll output either:
-the results of the command you executed (if nginx started successfully), or
-the nginx error logs (if nginx …</p>
-                </article>
-                <article data-source="xkcd.com" data-rtime="1">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://xkcd.com/2520/>Symbols</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://xkcd.com/>xkcd.com</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2021-09-24T00:00:00.000Z">2021-09-24</time></li>
-                    <li><span class="label">Reading time:</span> <time>1 min</time></li>
-                    <li><span class="label">Words</span> <time>183</time></li>
-                  </ul>
-                  <p>No content preview</p>
-                </article>
-          </section>
-          <section class="daily-content">
-            <h2 class="daily-heading"><time datatime="2021-09-23">2021-09-23</time></h2>
-                <article data-source="Josh Comeau&#x27;s blog" data-rtime="12">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://www.joshwcomeau.com/css/designing-shadows/>Designing Beautiful Shadows in CSS</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://www.joshwcomeau.com/>Josh Comeau&#x27;s blog</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2021-09-23T19:35:28.000Z">2021-09-23</time></li>
-                    <li><span class="label">Reading time:</span> <time>12 min</time></li>
-                    <li><span class="label">Words</span> <time>3739</time></li>
-                  </ul>
-                  <p>When I look around the web, most of the shadows I see are fuzzy grey boxes. It doesn&#x27;t have to be this way, though! CSS gives us the tools to create rich, lush, lifelike shadows. In this tutorial, I&#x27;ll show you how.</p>
-                </article>
-                <article data-source="Pluralistic: Daily links from Cory Doctorow" data-rtime="13">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://pluralistic.net/2021/09/23/remedies-beyond-antitrust/>Pluralistic: 23 Sep 2021</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://pluralistic.net>Pluralistic: Daily links from Cory Doctorow</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2021-09-23T16:00:36.000Z">2021-09-23</time></li>
-                    <li><span class="label">Reading time:</span> <time>13 min</time></li>
-                    <li><span class="label">Words</span> <time>3945</time></li>
-                  </ul>
-                  <p>Today&#x27;s links The Halloween Moon: A YA novel from Nightvale creator Joseph Fink. The music monopolists: Thinking outside the antitrust box. This day in history: 2011, 2016 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The Halloween Moon (permalink) In &quot;The Halloween Moon,&quot; Welcome to Nightvale co-creator Joseph Fink brings his superb, unmatchable gift for balancing the weird and the real to a spooky middle-grades novel that echoes such classics as Neil Gaiman&#x27;s Coraline. https://www.harpercollins.com/products/the-halloween-moon-joseph-fink If you&#x27;re a stranger to Fink&#x27;s work, the thing you need to know is that Nightvale and his other projects manage to walk the tightrope between weird, creepypasta-style humor and real pathos, in a glo…</p>
-                </article>
-                <article data-source="A List Apart: The Full Feed" data-rtime="8">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://alistapart.com/article/a-content-model-is-not-a-design-system/>A Content Model Is Not a Design System</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://alistapart.com>A List Apart: The Full Feed</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2021-09-23T14:00:00.000Z">2021-09-23</time></li>
-                    <li><span class="label">Reading time:</span> <time>8 min</time></li>
-                    <li><span class="label">Words</span> <time>2436</time></li>
-                  </ul>
-                  <p>Do you remember when having a great website was enough? Now, people are getting answers from Siri, Google search snippets, and mobile apps, not just our websites. Forward-thinking organizations have adopted an omnichannel content strategy, whose mission is to reach audiences across multiple digital channels and platforms.
-But how do you set up a content management system (CMS) to reach your audience now and in the future? I learned the hard way that creating a content model—a definition of content types, attributes, and relationships that let people and systems understand content—with my more familiar design-system thinking would capsize my customer’s omnichannel content strategy. You can avoid that outcome by creating content models that are semantic and that also connect related content.…</p>
-                </article>
           </section>
 
         <footer>
           <section class="details">
-            <span class="detail">Built @ 2021-11-22T00:18:51.247Z</span>
+            <span class="detail">Built @ 2021-11-23T00:18:38.350Z</span>
             <span class="divider">|</span>
             <span class="detail">CLI: 1.11.3</span>
             <span class="divider">|</span>
