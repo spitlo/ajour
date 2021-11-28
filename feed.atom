@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-11-27T00:17:50.175Z</updated>
+    <updated>2021-11-28T00:19:50.866Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
@@ -24,6 +24,16 @@
         <summary type="html"><![CDATA[This week has been Yak Shaving Galore. It went a bit like this: I’ve been working on a web component that I need for the project I’m working on. More on that later, but let’s call it <x-foo> for now. Of course that needs to be developed as a separate reusable library and released as […]]]></summary>
         <author>
             <name>Lea Verou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Siren]]></title>
+        <id>https://xkcd.com/2547/</id>
+        <link href="https://xkcd.com/2547/"/>
+        <updated>2021-11-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/siren.png" title="Directions from CITY OF TROY to ITHACA / Total time: 10y 54d 14h 25m / Warning: Route crosses an international border / route includes capture by the goddess Calypso / route includes a ferry" alt="Directions from CITY OF TROY to ITHACA / Total time: 10y 54d 14h 25m / Warning: Route crosses an international border / route includes capture by the goddess Calypso / route includes a ferry" />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -2085,109 +2095,6 @@ now I realize that FAR more functions give a way into this.  Have fun!]]></summa
         <summary type="html"><![CDATA[Today's links Debts that can't be paid, won't be paid: The first David Graeber Foundation meetup, between Thomas Piketty and Michael Hudson. "Are you calling me a racist?": The libertarian case for racism. Wells Fargo can't stop criming: The nation's third-biggest bank is a criminal enterprise. This day in history: 2001, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Debts that can't be paid, won't be paid (permalink) It's been just over a year since the death of activist, writer and anthropologist Gavid Graeber – a brilliant speaker, writer and thinker who helped give us Occupy, "we are the 99%" and "Bullshit Jobs." On the anniversary of David's death, his widow Nika Dubrovsky convened the first "Art Project" discussi…]]></summary>
         <author>
             <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Repairing our shore power cord]]></title>
-        <id>shore_power_cord_repair.html</id>
-        <link href="https://100r.co/site/shore_power_cord_repair.html"/>
-        <updated>2021-09-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[On a rainy summer day, we pulled into Silva bay on Gabriola Island and found a place at a dock to wait out a spell of bad weather. The power receptacle appeared fine, but once we were ready to leave we found the male connection of our shore power cord had melted. Two out of three prongs were stuck in the receptacle. We've never had issues with our cord before, and for now we assume that the marina shore connection was faulty. Either way, we had to repair the power cord.
-We always prefer to repair than to replace, so when we returned to a place with a marine store, we got ourselves replacements connections, both male and female, to replace the two damaged ends.
-We thought we'd document the process of fixing a shower power cord. Although, this is only specific to Marinco marine fittings.
-In …]]></summary>
-        <author>
-            <name>Rekka Bellum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two-Factor Security Key]]></title>
-        <id>https://xkcd.com/2522/</id>
-        <link href="https://xkcd.com/2522/"/>
-        <updated>2021-09-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/two_factor_security_key.png" title="The bruises on my fingertips are my proof of work." alt="The bruises on my fingertips are my proof of work." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 28 Sep 2021]]></title>
-        <id>https://pluralistic.net/?p=2631</id>
-        <link href="https://pluralistic.net/2021/09/28/timescale-dependent/"/>
-        <updated>2021-09-28T16:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Democrats can pass the reconciliation today (sorta): A bet on the 'endowment effect.' This day in history: 2001, 2016, 2020 Colophon: Resourcecent publications, upcoming/recent appearances, current writing projects, current reading Democrats can pass the reconciliation today (sorta) (permalink) This week, millions are playing Congressional Kremlinology, guessing whether House/Senate Dems have the votes for the $3.5T reconciliation package, playing Fantasy Football Sophie's Choice to cut programs if corporate Dems whittle it down. https://prospect.org/infrastructure/building-back-america/infrastructure-summer-sophies-choice-of-the-reconciliation-bill/ But as Harold Meyerson writes for The American Prospect, there's a high-stakes, high-risk gambit that would let the willing, pr…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Interactive Guide to CSS Transitions]]></title>
-        <id>https://www.joshwcomeau.com/animation/css-transitions/</id>
-        <link href="https://www.joshwcomeau.com/animation/css-transitions/"/>
-        <updated>2021-09-28T14:03:38.000Z</updated>
-        <summary type="html"><![CDATA[This comprehensive guide shows how to use CSS transitions! A back-to-basics look at the fundamental building blocks we need to create microinteractions and other animations.]]></summary>
-        <author>
-            <name>Josh W. Comeau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Interactive Guide to Keyframe Animations]]></title>
-        <id>https://www.joshwcomeau.com/animation/keyframe-animations/</id>
-        <link href="https://www.joshwcomeau.com/animation/keyframe-animations/"/>
-        <updated>2021-09-28T14:03:38.000Z</updated>
-        <summary type="html"><![CDATA[CSS keyframe animations are incredibly flexible and powerful, but they’re also a bit weird. In this deep-dive tutorial, we'll learn how CSS keyframes work from the ground up, and see how to use them to build high-quality animations.]]></summary>
-        <author>
-            <name>Josh W. Comeau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The World of CSS Transforms]]></title>
-        <id>https://www.joshwcomeau.com/css/transforms/</id>
-        <link href="https://www.joshwcomeau.com/css/transforms/"/>
-        <updated>2021-09-28T14:03:38.000Z</updated>
-        <summary type="html"><![CDATA[The “transform” property is such a powerful part of the CSS language! In this blog post, we'll take a deep look at this property and see some of the nifty things it can do.]]></summary>
-        <author>
-            <name>Josh W. Comeau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Magical 3D Button]]></title>
-        <id>https://www.joshwcomeau.com/animation/3d-button/</id>
-        <link href="https://www.joshwcomeau.com/animation/3d-button/"/>
-        <updated>2021-09-28T14:03:38.000Z</updated>
-        <summary type="html"><![CDATA[Every action we take on the web starts with a button click, and yet most buttons are ho-hum and uninspired. In this tutorial, we'll build an animated 3D button with HTML and CSS that sparks joy.]]></summary>
-        <author>
-            <name>Josh W. Comeau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Importance of Learning CSS]]></title>
-        <id>https://www.joshwcomeau.com/css/the-importance-of-learning-css/</id>
-        <link href="https://www.joshwcomeau.com/css/the-importance-of-learning-css/"/>
-        <updated>2021-09-28T14:03:38.000Z</updated>
-        <summary type="html"><![CDATA[I know so many super-talented developers who share the same achilles heel: CSS. Instead of trying to “outrun” CSS, this article explores why leaning in and going deeper can be a tremendous boon for your development life and your career.]]></summary>
-        <author>
-            <name>Josh W. Comeau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What the heck, z-index??]]></title>
-        <id>https://www.joshwcomeau.com/css/stacking-contexts/</id>
-        <link href="https://www.joshwcomeau.com/css/stacking-contexts/"/>
-        <updated>2021-09-28T14:03:38.000Z</updated>
-        <summary type="html"><![CDATA[The z-index property can be a tricky little bugger. Sometimes, no matter how much you crank up the number, the element never rises to the top! In this article, we explore stacking contexts, and see how they can thwart our efforts to use z-index. We'll also learn how to use this mechanism to our advantage.]]></summary>
-        <author>
-            <name>Josh W. Comeau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full-Bleed Layout Using CSS Grid]]></title>
-        <id>https://www.joshwcomeau.com/css/full-bleed/</id>
-        <link href="https://www.joshwcomeau.com/css/full-bleed/"/>
-        <updated>2021-09-28T14:03:38.000Z</updated>
-        <summary type="html"><![CDATA[Certain layouts are surprisingly dastardly. On the modern web, one of the most common layouts is also one of the trickiest. In this tutorial, I break down how to build the "full-bleed" layout using CSS Grid.]]></summary>
-        <author>
-            <name>Josh W. Comeau</name>
         </author>
     </entry>
 </feed>
