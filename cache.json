@@ -622,15 +622,6 @@
           "publishedOn": "2021-10-04T18:39:56.000Z",
           "wordCount": 136,
           "title": "In the news today: *munch munch munch*"
-        },
-        {
-          "id": "https://rachelbythebay.com/w/2021/09/29/alnum/",
-          "author": null,
-          "description": "I got really bored tonight and went down some rabbit holes and turned up \nsomething from about a year ago.  If you follow the latest Linux type \nstuff, you probably remember this, but if not, this might seem new to \nyou.  It's just something dumb and amusing.\n\n\nGo grab a Linux box with glibc on it.  Then compile and run this C code:\n\n\nThen run it and watch what happens.  If you have multiple machines, try \nit on some of them and compare the results.  If the results are \ndifferent, why do you suppose that is?\n\n\nNeat, right?  It makes me want to go looking for places where people are \ncalling these functions with ints that I can control to see if I can \nblow it up.\n\nsource\nto see how the sausage is made by someone who did the work already.\n\n\n...\n\n\nThis is awesome because it's that many more possibilities.  I had been \ngrepping source for \"isalnum\" to try to find inputs I can control, but \nnow I realize that FAR more functions give a way into this.  Have fun!",
-          "link": "https://rachelbythebay.com/w/2021/09/29/alnum/",
-          "publishedOn": "2021-09-30T05:34:02.000Z",
-          "wordCount": 403,
-          "title": "Fun with glibc and the ctype.h functions"
         }
       ]
     },
@@ -1073,6 +1064,15 @@
       "siteUrl": "https://pluralistic.net",
       "articles": [
         {
+          "id": "https://pluralistic.net/?p=2919",
+          "author": "Cory Doctorow",
+          "description": "Today's links The Cuban vaccines: Omicron, vaccine apartheid, WTO TRIPS waivers and the false hope of viruses \"gentling\" themselves. This day in history: 2001, 2006, 2011, 2016 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The Cuban vaccines (permalink) Are you low-key freaking out about omicron? Yeah, me too. Can't we catch a break? Maybe. Step one to preventing new, scarier mutant strains is to reduce the number of infected people, which require a mix of ventilation, masking, distancing, and, of course, vaccinations. These days, the \"vaccine controversy\" is primarily about vaccine-hesitancy and vaccine denial – that is, about people who can get the vaccine but choose not to. But if you cast your mind way, way, way back to last sprin…",
+          "link": "https://pluralistic.net/2021/11/28/somos-cuba/",
+          "publishedOn": "2021-11-28T15:55:23.000Z",
+          "wordCount": 2599,
+          "title": "Pluralistic: 28 Nov 2021"
+        },
+        {
           "id": "https://pluralistic.net/?p=2906",
           "author": "Cory Doctorow",
           "description": "Today's links UK ICO: surveillance advertising is dead: A true consent framework would do the trick. This day in history: 2011, 2016 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading UK ICO: surveillance advertising is dead (permalink) Here's the theory behind Europe's GDPR: if an online service wants to collect, store and/or process your personal information, it has to obtain your real, informed consent for each of those activities. In theory, this should have exterminated surveillance-based \"behavioral\" ads. In practice, nothing of the sort has happened…yet. Let's look at the theory first. The ad-tech industry has long maintained that it obtains consent for all its data-processing. This is an obvious pretense. This \"consent\" consists of…",
@@ -1453,15 +1453,6 @@
           "publishedOn": "2021-09-30T18:06:31.000Z",
           "wordCount": 2763,
           "title": "Pluralistic: 30 Sep 2021"
-        },
-        {
-          "id": "https://pluralistic.net/?p=2638",
-          "author": "Cory Doctorow",
-          "description": "Today's links Debts that can't be paid, won't be paid: The first David Graeber Foundation meetup, between Thomas Piketty and Michael Hudson. \"Are you calling me a racist?\": The libertarian case for racism. Wells Fargo can't stop criming: The nation's third-biggest bank is a criminal enterprise. This day in history: 2001, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Debts that can't be paid, won't be paid (permalink) It's been just over a year since the death of activist, writer and anthropologist Gavid Graeber – a brilliant speaker, writer and thinker who helped give us Occupy, \"we are the 99%\" and \"Bullshit Jobs.\" On the anniversary of David's death, his widow Nika Dubrovsky convened the first \"Art Project\" discussi…",
-          "link": "https://pluralistic.net/2021/09/29/jubilance/",
-          "publishedOn": "2021-09-29T19:36:49.000Z",
-          "wordCount": 4972,
-          "title": "Pluralistic: 29 Sep 2021"
         }
       ]
     },

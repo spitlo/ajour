@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-11-28T00:19:50.866Z</updated>
+    <updated>2021-11-29T00:19:11.471Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: 28 Nov 2021]]></title>
+        <id>https://pluralistic.net/?p=2919</id>
+        <link href="https://pluralistic.net/2021/11/28/somos-cuba/"/>
+        <updated>2021-11-28T15:55:23.000Z</updated>
+        <summary type="html"><![CDATA[Today's links The Cuban vaccines: Omicron, vaccine apartheid, WTO TRIPS waivers and the false hope of viruses "gentling" themselves. This day in history: 2001, 2006, 2011, 2016 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The Cuban vaccines (permalink) Are you low-key freaking out about omicron? Yeah, me too. Can't we catch a break? Maybe. Step one to preventing new, scarier mutant strains is to reduce the number of infected people, which require a mix of ventilation, masking, distancing, and, of course, vaccinations. These days, the "vaccine controversy" is primarily about vaccine-hesitancy and vaccine denial – that is, about people who can get the vaccine but choose not to. But if you cast your mind way, way, way back to last sprin…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pluralistic: 26 Nov 2021]]></title>
         <id>https://pluralistic.net/?p=2906</id>
@@ -2048,53 +2058,6 @@ The post Superhero passwords may be your kryptonite wherever you go online appea
         <summary type="html"><![CDATA[Events Tomorrow, October 1, IF Comp games will be available to play and judge. Anyone can participate in judging — so if you want to be part of that, check out the website for instructions. The judging period runs through November 15. October 2 is the next meetup of the San Francisco Bay Area IF … Continue reading "End of September Link Assortment"]]></summary>
         <author>
             <name>Emily Short</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fun with glibc and the ctype.h functions]]></title>
-        <id>https://rachelbythebay.com/w/2021/09/29/alnum/</id>
-        <link href="https://rachelbythebay.com/w/2021/09/29/alnum/"/>
-        <updated>2021-09-30T05:34:02.000Z</updated>
-        <summary type="html"><![CDATA[I got really bored tonight and went down some rabbit holes and turned up 
-something from about a year ago.  If you follow the latest Linux type 
-stuff, you probably remember this, but if not, this might seem new to 
-you.  It's just something dumb and amusing.
-
-
-Go grab a Linux box with glibc on it.  Then compile and run this C code:
-
-
-Then run it and watch what happens.  If you have multiple machines, try 
-it on some of them and compare the results.  If the results are 
-different, why do you suppose that is?
-
-
-Neat, right?  It makes me want to go looking for places where people are 
-calling these functions with ints that I can control to see if I can 
-blow it up.
-
-source
-to see how the sausage is made by someone who did the work already.
-
-
-...
-
-
-This is awesome because it's that many more possibilities.  I had been 
-grepping source for "isalnum" to try to find inputs I can control, but 
-now I realize that FAR more functions give a way into this.  Have fun!]]></summary>
-        <author>
-            <name>Writing - rachelbythebay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 29 Sep 2021]]></title>
-        <id>https://pluralistic.net/?p=2638</id>
-        <link href="https://pluralistic.net/2021/09/29/jubilance/"/>
-        <updated>2021-09-29T19:36:49.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Debts that can't be paid, won't be paid: The first David Graeber Foundation meetup, between Thomas Piketty and Michael Hudson. "Are you calling me a racist?": The libertarian case for racism. Wells Fargo can't stop criming: The nation's third-biggest bank is a criminal enterprise. This day in history: 2001, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Debts that can't be paid, won't be paid (permalink) It's been just over a year since the death of activist, writer and anthropologist Gavid Graeber – a brilliant speaker, writer and thinker who helped give us Occupy, "we are the 99%" and "Bullshit Jobs." On the anniversary of David's death, his widow Nika Dubrovsky convened the first "Art Project" discussi…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
         </author>
     </entry>
 </feed>
