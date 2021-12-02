@@ -70,15 +70,6 @@
           "publishedOn": "2021-11-03T00:00:00.000Z",
           "wordCount": 6084,
           "title": "Summary of changes for October"
-        },
-        {
-          "id": "log.html#sep2021",
-          "author": "Rekka Bellum",
-          "description": "Hey everyone! This is the list of all the changes we've done to our projects and apps during the month of September. We'll also be reporting in our on position in the world, and on our future plans.\nSummary Of Changes\nOrca, added way for instances of Orca to talk to each other.\nCalc, wrote a little graphical calculator to help with learning binary and hexadecimal.\nDexe, added option to copy the textual value of a selection.\nUxn, updated UxnDS emulator.\nWiktopher, added Chapter 16: The Big Dark.\n100R, added new pages: Western Canada, alcohol stove, decorations and shore power cord repair. The site also has a new splash.\nNews\nIt is an early announcement, but end of June 2022 we will be giving a keynote presentation, alongside Khyam Allami, at NIME(New Interfaces for Musical Expression).\nRekka wrote an article on Saving Energy When Cooking Aboard for Noonsite.\nCheck out Eli's guide on installing Uxn on OS X, and Keijiro's version of Flappy Bird in UxnTal.\nOur friends at Compudanzas have released part 6 of their Introduction to Uxn Programming tutorial. This new chapter basically shows you how to build Pong!\nPino book club\nWe started reading The Stories of Ray Bradbury by Ray Bradbury. Favorite shorts so far include There Will Come Soft Rains, The Coffin and There Was an Old Woman.\nPino's location: 48° 42.230'N, 123° 36.900'W\nContinue Reading",
-          "link": "https://100r.co/site/log.html#sep2021",
-          "publishedOn": "2021-10-03T00:00:00.000Z",
-          "wordCount": 5918,
-          "title": "Summary of changes for September"
         }
       ]
     },
@@ -86,17 +77,7 @@
       "title": "Blog on SaraSoueidan.com",
       "feedUrl": "https://www.sarasoueidan.com/blog/index.xml",
       "siteUrl": "https://sarasoueidan.com/blog/",
-      "articles": [
-        {
-          "id": "https://sarasoueidan.com/blog/prefers-color-scheme-browser-vs-os/",
-          "author": null,
-          "description": "I spent some time in Reeder app this morning, catching up with RSS and the latest articles published by my favorite blogs.\nI was reading Scott O’Hara’s article about using JavaScript to detect high contrast and dark modes, which includes a small, very useful script to do exactly what the title says. The output of that script at first looked like it was a “false positive”. But some further investigation led me to learn something new about the prefers-color-scheme CSS user query.\n\nScott’s article includes a Codepen to demonstrate the output of the script. The script will check and detect if you currently have high contrast mode or dark mode enabled, and will output the result of the check.\nSee the Pen \n  JavaScript to detect media queries by Scott (@scottohara)\n  on CodePen.\n\n\nSince JavaScri…",
-          "link": "https://sarasoueidan.com/blog/prefers-color-scheme-browser-vs-os/",
-          "publishedOn": "2021-10-03T00:00:00.000Z",
-          "wordCount": 798,
-          "title": "The CSS prefers-color-scheme user query and order of preference"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "there.oughta.be/",
@@ -825,6 +806,29 @@
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
         {
+          "id": "https://blog.mozilla.org/?p=68030",
+          "author": "Rebecca Smith",
+          "description": "While we can’t predict what the history books will say about 2021, we can analyze what defined this year for us. We do just that in Pocket’s Best of 2021 — the most-saved, -read and -shared articles by Pocket readers, spanning culture, science, tech and more. \nThe post Pocket’s state-by-state guide to the most popular articles in 2021 appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/products/pocket/pocket-top-stories-by-state-best-of-2021/",
+          "publishedOn": "2021-12-01T14:43:33.000Z",
+          "wordCount": 2520,
+          "title": "Pocket’s state-by-state guide to the most popular articles in 2021",
+          "enclosure": {
+            "url": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2021/12/Best-of-Pocket-2021_15s_Social-Video_16x9.mp4",
+            "length": "12540335",
+            "type": "video/mp4"
+          }
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=68032",
+          "author": "Rebecca Smith",
+          "description": "We aren’t the only ones putting out Top 10 content lists or Year in Reviews, but we’d argue these lists are different from the rest — a cut above. Pocket readers are a discerning bunch: they gravitate to fascinating long reads that deeply immerse readers in a story or subject; explainers that demystify complex or […]\nThe post Celebrating Pocket’s Best of 2021 appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/products/pocket/pocket-best-of-2021/",
+          "publishedOn": "2021-12-01T14:30:00.000Z",
+          "wordCount": 1077,
+          "title": "Celebrating Pocket’s Best of 2021"
+        },
+        {
           "id": "https://blog.mozilla.org/?p=68007",
           "author": "Mozilla",
           "description": "Today, Firefox Relay, a privacy-first and free product that hides your real email address to help protect your identity, is available with a new paid Premium service offering. The release comes just in time for the holiday season to help spare your inbox from being inundated with emails from e-commerce sites, especially those sites where […]\nThe post Introducing Firefox Relay Premium, allowing more aliases to protect your identity from spammers appeared first on The Mozilla Blog.",
@@ -1027,6 +1031,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2932",
+          "author": "Cory Doctorow",
+          "description": "Today's links Fintech is a scam, a listicle in eight parts: $91.5b/year, doubling every year. Teaching thread management with puzzle games: Rocky's Boots, 2021 edition. This day in history: 2001, 2006, 2011, 2016, 2020. Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Fintech is a scam, a listicle in eight parts (permalink) The world's economy ground to a halt during the pandemic as millions died, production slowed or stopped altogether, and the resulting supply chain disruptions made many essential products and services impossible to deliver. And yet, the world's billionaires added $5.5b to their net worth during that time. https://ips-dc.org/global-billionaires-see-5-5-trillion-pandemic-wealth-surge/ Thank \"financialization,\" the subor…",
+          "link": "https://pluralistic.net/2021/12/01/satyajit-das/",
+          "publishedOn": "2021-12-01T18:42:08.000Z",
+          "wordCount": 2965,
+          "title": "Pluralistic: 01 Dec 2021"
+        },
         {
           "id": "https://pluralistic.net/?p=2923",
           "author": "Cory Doctorow",
@@ -1408,15 +1421,6 @@
             "length": "0",
             "type": "audio/mpeg"
           }
-        },
-        {
-          "id": "https://pluralistic.net/?p=2658",
-          "author": "Cory Doctorow",
-          "description": "Today's links How the IMF loan-sharks the global south: With surcharges, the cruelty is the point. This day in history: 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading How the IMF loan-sharks the global south (permalink) When you take out a loan or get a credit card, the headline figure is the \"APR\" – the annual percentage rate of interest. But anyone who's ever borrowed because they were poor and needed money has learned the hard way that APRs are pure fiction. To get the true APR (what economists politely call the \"effective\" APR) you have to factor in the fees, penalties and other gotchas that turn reasonable seeming interest rates into perennial, inescapable debt-traps. Take student debt. During the 2020 presi…",
-          "link": "https://pluralistic.net/2021/10/02/debt-trap/",
-          "publishedOn": "2021-10-02T17:50:22.000Z",
-          "wordCount": 2405,
-          "title": "Pluralistic: 02 Oct 2021"
         }
       ]
     },
