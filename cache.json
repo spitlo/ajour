@@ -515,6 +515,15 @@
       "siteUrl": "https://rachelbythebay.com/w/",
       "articles": [
         {
+          "id": "https://rachelbythebay.com/w/2021/12/02/build/",
+          "author": null,
+          "description": "I've told some stories about what happens when you end up at a company \nthat builds nothing and instead rents everything from some vendor.  \nGiven that, it's only fair that I describe something bad that can \nhappen at a company which is known for building stuff.\n\n\nThe trouble is that sometimes these companies will hire someone who's \nknown for doing X... and *only* X.  They're a builder, all right, as \nlong as you want them to build X.  Perhaps they have been building X at \nsome other company, and now your company has hired them to come and do \nthat same job over here instead.\n\n\nThere's also the possibility that the prestige of having this person \nworking at the company is what they're actually cultivating, and \nmanagement wants to make this person happy by letting them work on their \npet project, even if the pet project itself is not doing anything \npositive.\n\nactually belongs in \nproduction.  In one outcome, it's brilliantly executed and things grow.  \nBut, this is about the downsides, and in that scenario, it's a stinking \npile of garbage and needs to be thrown out, but it gets forced in, \nanyway.\n\n\nIf this project is being pushed for political reasons, then it should \nnot come as a surprise that when it finally does ship to production,\nit causes outages and generally fails to deliver on its promises.  It's \nactually worse than just leaving things the way they had been before any \nof this stuff showed up.\n\n\nJust imagine what companies would look like if their hiring processes \nfiltered out this kind of charlatan instead of looking for whether they \ncould do some dumb coding card trick in a 45 minute interview block.\nI think they'd look very different, and a whole bunch of people would \nhave to find another industry to prey upon.",
+          "link": "https://rachelbythebay.com/w/2021/12/02/build/",
+          "publishedOn": "2021-12-03T03:33:11.000Z",
+          "wordCount": 606,
+          "title": "One way a builder culture can fail"
+        },
+        {
           "id": "https://rachelbythebay.com/w/2021/11/08/hardware/",
           "author": null,
           "description": "In writing about my dumb little \"mailserv\" project this past weekend, I \npurposely avoided mentioning some of the parameters lest they distract \nfrom the message I was trying to convey.  My attempted message was \nsomething along the lines of \"everyone starts somewhere, ignorance is \nthe default state until changed, and look at some of the shit I have \ninflicted upon the world as proof\".\n\n\nIn the case of the mailserv project, that is, the thing that did what \nwe'd call \"greylisting\" today, it ran on an auxiliary box that itself \nonly existed because of yet another terrible hack involving a second T1 \nand the systemic inability to run BGP properly.  I've talked about the \nfiner points of that before, and it's not really on topic here.  But, \nkeep in mind that it meant from 1997 forward, I had a machine running \nSquid just so we could push some web traffic out this secondary \n(fractional) T1 to take the load off the main circuit.\n\n\nIt was relatively cheap shit, and it had no special \"server\" features.\n\n\n\n\n\nThat's a Pentium 150 with 128 megabytes of memory, a (PATA!) IDE hard \ndrive with just 1.6 GB of space, a 10 Mbps Ethernet card, plus a video \ncard, CD-ROM drive and Sound Blaster that meant nothing, because it was \na server.  (The SB16, incidentally, proves this was intended to be a \nclassroom box running Kid Pix for some elementary school students.)\n\n\nAll of this in 128 MB of memory and a gig and a half of disk space.\n\n\nInstrumenting things to find slow points and trying to do something \nabout it made for a bunch of little changes over the year or two that \nthis spam filtering service existed.  Everything was driven by actual \nneeds and a distinct lack of system resources.  It kept up with the load \nand stopped a great many things that otherwise would have annoyed my \nusers.\n\nThis is just an example of what we did with what was available then.",
@@ -603,15 +612,6 @@
           "publishedOn": "2021-10-05T21:54:44.000Z",
           "wordCount": 498,
           "title": "'date -d' vs. 'date -s', and 'show foo' vs. 'clear foo'"
-        },
-        {
-          "id": "https://rachelbythebay.com/w/2021/10/04/callthecops/",
-          "author": null,
-          "description": "Some people who know me and know what I used to do saw the news today \n(or just tried to go online for cat pictures and failed) have been \nreaching out for reactions.\n\n\n\n\n\nAs for the potential customer, well, you should know how to reach me.  \nBring your checkbook.",
-          "link": "https://rachelbythebay.com/w/2021/10/04/callthecops/",
-          "publishedOn": "2021-10-04T18:39:56.000Z",
-          "wordCount": 136,
-          "title": "In the news today: *munch munch munch*"
         }
       ]
     },
@@ -772,15 +772,6 @@
           "publishedOn": "2021-10-21T11:06:26.000Z",
           "wordCount": 1868,
           "title": "How to get useful answers to your questions"
-        },
-        {
-          "id": "https://jvns.ca/blog/2021/10/05/tools-to-look-at-bgp-routes/",
-          "author": null,
-          "description": "Yesterday there was a big Facebook outage caused by BGP. I’ve been vaguely\ninterested in learning more about BGP for a long time, so I was reading a\ncouple of articles.\nI got frustrated because none of the articles showed me how I could actually\nlook up information related to BGP on my computer, so I wrote a tweet asking for tools.\nI got a bunch of useful replies as always, so this blog post shows some tools\nyou can use to look up BGP information. There might be an above average number\nof things wrong in this post because I don’t understand BGP that well.\nI can’t publish BGP routes\nOne of the reasons I’ve never learned much about BGP is – as far as I know, I don’t have access to publish BGP routes on the internet.\nWith most networking protocols, you can pretty trivially get access to\nimple…",
-          "link": "https://jvns.ca/blog/2021/10/05/tools-to-look-at-bgp-routes/",
-          "publishedOn": "2021-10-05T08:53:24.000Z",
-          "wordCount": 2684,
-          "title": "Tools to explore BGP"
         }
       ]
     },
@@ -1016,15 +1007,6 @@
           "publishedOn": "2021-10-05T13:00:00.000Z",
           "wordCount": 1502,
           "title": "News from Firefox Focus and Firefox on Mobile"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=67429",
-          "author": "M.J. Kelly",
-          "description": "You might have heard of VPNs — virtual private networks — at some point, and chalked them up to something only “super techy” people or hackers would ever use. At this point in the evolution of online life, however, VPNs have become more mainstream, and anyone may have good reasons to use one. VPNs are […]\nThe post Do you need a VPN at home? Here are 5 reasons you might. appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/products/mozilla-vpn/do-you-need-a-vpn-at-home-here-are-5-reasons-you-might/",
-          "publishedOn": "2021-10-04T15:50:00.000Z",
-          "wordCount": 1202,
-          "title": "Do you need a VPN at home? Here are 5 reasons you might."
         }
       ]
     },
@@ -1434,20 +1416,6 @@
           "publishedOn": "2021-10-05T15:43:11.000Z",
           "wordCount": 3236,
           "title": "Pluralistic: 05 Oct 2021"
-        },
-        {
-          "id": "https://pluralistic.net/?p=2663",
-          "author": "Cory Doctorow",
-          "description": "Today's links Podcasting \"Take It Back\": My Medium column on copyright termination and rights reversion. Savage Love A-Z: A bestiary of good sex. The Pandora Papers: Tax avoidance is tax evasion. USPS pilots postal banking: Slashing taxes (on the poor). This day in history: 2001, 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Podcasting \"Take It Back\" (permalink) This week on my podcast, I read \"Take It Back,\" my Medium essay, \"Take it back: Copyright reversion, bargaining power, and authors’ rights,\" all about the obscure, but increasingly exciting realm of copyright termination at reversion. https://doctorow.medium.com/take-it-back-e3689628f4f0 What's copyright termination? Under US law, creators can file paper…",
-          "link": "https://pluralistic.net/2021/10/04/avoidance-is-evasion/",
-          "publishedOn": "2021-10-04T16:01:00.000Z",
-          "wordCount": 4890,
-          "title": "Pluralistic: 04 Oct 2021",
-          "enclosure": {
-            "url": "https://archive.org/download/Cory_Doctorow_Podcast_403/Cory_Doctorow_Podcast_403_-_Take_It_Back.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          }
         }
       ]
     },
