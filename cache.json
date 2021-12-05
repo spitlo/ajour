@@ -195,15 +195,6 @@
           "publishedOn": "2021-10-15T17:30:00.000Z",
           "wordCount": 1809,
           "title": "Mid-October Link Assortment"
-        },
-        {
-          "id": "http://emshort.blog/?p=42081",
-          "author": "Emily Short",
-          "description": "Today’s question, gathered from Twitter a little while back, is this: How do you go from the macro to the micro, i.e. from a big, broad idea for a game to the concrete instantiation of it? A long time ago I wrote Idea to Implementation, a discussion of how to get from implementation to completed … Continue reading \"Mailbag: Macro to Micro Ideas\"",
-          "link": "https://emshort.blog/2021/10/05/mailbag-macro-to-micro-ideas/",
-          "publishedOn": "2021-10-05T17:22:00.000Z",
-          "wordCount": 3882,
-          "title": "Mailbag: Macro to Micro Ideas"
         }
       ]
     },
@@ -212,6 +203,15 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2550/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/webb.png\" title=\"Each one contains a chocolate shaped like a famous spacecraft and, for the later numbers, a pamphlet on managing anxiety.\" alt=\"Each one contains a chocolate shaped like a famous spacecraft and, for the later numbers, a pamphlet on managing anxiety.\" />",
+          "link": "https://xkcd.com/2550/",
+          "publishedOn": "2021-12-03T00:00:00.000Z",
+          "wordCount": 183,
+          "title": "Webb"
+        },
         {
           "id": "https://xkcd.com/2549/",
           "author": null,
@@ -427,15 +427,6 @@
           "publishedOn": "2021-10-08T00:00:00.000Z",
           "wordCount": 187,
           "title": "TSP vs TBSP"
-        },
-        {
-          "id": "https://xkcd.com/2525/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/air_travel_packing_list.png\" title=\"I know the etiquette is controversial, but I think it's rude when the person in front of me reclines their seat into the bell of my trumpet.\" alt=\"I know the etiquette is controversial, but I think it's rude when the person in front of me reclines their seat into the bell of my trumpet.\" />",
-          "link": "https://xkcd.com/2525/",
-          "publishedOn": "2021-10-06T00:00:00.000Z",
-          "wordCount": 189,
-          "title": "Air Travel Packing List"
         }
       ]
     },
@@ -603,15 +594,6 @@
           "publishedOn": "2021-10-12T19:50:16.000Z",
           "wordCount": 524,
           "title": "An UPDATE without a WHERE, or something close to it"
-        },
-        {
-          "id": "https://rachelbythebay.com/w/2021/10/05/cmd/",
-          "author": null,
-          "description": "Here's something fun I saw which created an outage once.  I've written \nabout this\nbefore,\nbut in light of yesterday's fun and games, I figured this one is worth \nanother mention.\n\n\nOne way to do this on a Linux box with the usual GNU userspace stuff is \nto feed it to date, like this:\n\n\nThe problem is, there's another command very much like it that will even \nspit out the same output, only it has a nice little side-effect: it \nalso sets the clock.  That command is date -s.\n\n\nAnother problem is that you might not have known that -s has that \neffect, and you have been using it because it gives you the output you \nwant, and you don't realize what else it can do.\n\n\nThis then touched off a whole bunch of badness which I already talked \nabout before.  It messed up other systems, and brought up questions of \nhow to defend against it, and all of that other good stuff you'd expect \nto hear after a problem of that sort.\n\ndisplay everything, but instead it \ncleared everything.\n\n\nshow mpls lsp\n\n\nclear mpls lsp\n\n\nHopefully the similarity to 'date -d' vs. 'date -s' is clear.\n\nSmall commands can have giant consequences.",
-          "link": "https://rachelbythebay.com/w/2021/10/05/cmd/",
-          "publishedOn": "2021-10-05T21:54:44.000Z",
-          "wordCount": 498,
-          "title": "'date -d' vs. 'date -s', and 'show foo' vs. 'clear foo'"
         }
       ]
     },
@@ -646,24 +628,6 @@
           "publishedOn": "2021-11-04T18:50:58.000Z",
           "wordCount": 497,
           "title": "Fascine Mattresses: Basketry Gone Wild"
-        },
-        {
-          "id": "https://www.lowtechmagazine.com/2021/10/how-to-build-a-low-tech-solar-panel.html",
-          "author": null,
-          "description": "George Cove, a forgotten solar power pioneer, may have built a highly efficient photovoltaic panel 40 years before Bell Labs engineers invented silicon cells. If proven to work, his design could lead to less complex and more sustainable solar panels. Above: George Cove stands next to his third solar array. Source: \"Generating electricity by the sun's rays\", Popular Electricity, Volume 2, nr. 12, April 1910, pp.793. More efficient, less sustainable Ever since Bell Labs presented the first practical solar PV panel in the 1950s, technological development has focused on reducing costs and increasing the efficiency of solar cells. According to these standards, researchers have made a lot of progress. The efficiency of solar panels increased from less than 5% in...",
-          "link": "https://www.lowtechmagazine.com/2021/10/how-to-build-a-low-tech-solar-panel.html",
-          "publishedOn": "2021-10-06T10:12:00.000Z",
-          "wordCount": 6661,
-          "title": "How to Build a Low-tech Solar Panel?"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/typepad/krisdedecker/lowtechmagazineenglish/~3/s1xYIgkW3e8/how-to-build-a-low-tech-solar-panel.html",
-          "author": null,
-          "description": "George Cove, a forgotten solar power pioneer, may have built a highly efficient photovoltaic panel 40 years before Bell Labs engineers invented silicon cells. If proven to work, his design could lead to less complex and more sustainable solar panels. Above: George Cove stands next to his third solar array. Source: \"Generating electricity by the sun's rays\", Popular Electricity, Volume 2, nr. 12, April 1910, pp.793. More efficient, less sustainable Ever since Bell Labs presented the first practical solar PV panel in the 1950s, technological development has focused on reducing costs and increasing the efficiency of solar cells. According to these standards, researchers have made a lot of progress. The efficiency of solar panels increased from less than 5% in...",
-          "link": "http://feedproxy.google.com/~r/typepad/krisdedecker/lowtechmagazineenglish/~3/s1xYIgkW3e8/how-to-build-a-low-tech-solar-panel.html",
-          "publishedOn": "2021-10-06T10:12:00.000Z",
-          "wordCount": 5751,
-          "title": "How to Build a Low-tech Solar Panel?"
         }
       ]
     },
@@ -738,6 +702,15 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2021/12/04/how-to-use-dig/",
+          "author": null,
+          "description": "Hello! I talked to a couple of friends recently who mentioned they wished they knew\nhow to use dig to make DNS queries, so here’s a quick blog post about it.\nWhen I first started using dig I found it a bit intimidating – there are so\nmany options! I’m going to leave out most of dig’s options in this post and just\ntalk about the ones I actually use.\nAlso I learned recently that you can set up a .digrc configuration file to make its output\neasier to read and it makes it SO MUCH nicer to use.\nI also drew a zine page about dig a few years ago, but I wanted to write this post to include a bit more information.\n2 types of dig arguments: query and formatting\nThere are 2 main types of arguments you can pass to dig:\narguments that tell dig what DNS query to make\narguments that tell dig how to forma…",
+          "link": "https://jvns.ca/blog/2021/12/04/how-to-use-dig/",
+          "publishedOn": "2021-12-04T08:44:04.000Z",
+          "wordCount": 1491,
+          "title": "How to use dig"
+        },
+        {
           "id": "https://jvns.ca/blog/2021/11/17/debugging-a-weird--file-not-found--error/",
           "author": null,
           "description": "Yesterday I ran into a weird error where I ran a program and got the error\n“file not found” even though the program I was running existed. It’s something\nI’ve run into before, but every time I’m very surprised and confused by it\n(what do you MEAN file not found, the file is RIGHT THERE???!!??)\nSo let’s talk about what happened and why!\nthe error\nLet’s start by showing the error message I got. I had a Go program called\nserve.go, and I was trying to bundle it into a Docker container with this\nDockerfile:\nFROM golang:1.17 AS go\n\nADD ./serve.go /app/serve.go\nWORKDIR /app\nRUN go build serve.go\n\nFROM alpine:3.14\n\nCOPY --from=go /app/serve /app/serve\nCOPY ./static /app/static\nWORKDIR /app/static\nCMD [\"/app/serve\"]\n\nThis Dockerfile\nBuilds the Go program\nCopies the binary into an Alpine container\nP…",
@@ -797,15 +770,6 @@
           "publishedOn": "2021-11-16T14:00:00.000Z",
           "wordCount": 1230,
           "title": "Introducing “Shadow Palette Generator”"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/react/prefers-reduced-motion/",
-          "author": "Josh W. Comeau",
-          "description": "I really love animation, but not everybody does. In fact, it can make some people literally sick! In this tutorial, we'll see how to ensure that we respect user preferences, and create animations that can be disabled.",
-          "link": "https://www.joshwcomeau.com/react/prefers-reduced-motion/",
-          "publishedOn": "2021-10-06T05:42:21.000Z",
-          "wordCount": 1826,
-          "title": "Accessible Animations in React"
         }
       ]
     },
@@ -998,15 +962,6 @@
           "publishedOn": "2021-10-13T21:47:32.000Z",
           "wordCount": 1779,
           "title": "HTTPS and your online security"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=67466",
-          "author": "Mozilla",
-          "description": "One of our promises this year was to deliver ways that can help you navigate the web easily and get you quickly where you need to go. We took a giant step in that direction earlier this year when we shared a new Firefox experience. We were on a mission to save you time and […]\nThe post News from Firefox Focus and Firefox on Mobile appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/news/news-from-firefox-focus-and-firefox-on-mobile/",
-          "publishedOn": "2021-10-05T13:00:00.000Z",
-          "wordCount": 1502,
-          "title": "News from Firefox Focus and Firefox on Mobile"
         }
       ]
     },
@@ -1407,15 +1362,6 @@
           "publishedOn": "2021-10-06T16:13:40.000Z",
           "wordCount": 1799,
           "title": "Pluralistic: 06 Oct 2021"
-        },
-        {
-          "id": "https://pluralistic.net/?p=2672",
-          "author": "Cory Doctorow",
-          "description": "Today's links The Attack Surface paperback is out: And a once-in-a-lifetime deal on the Little Brother audiobooks. Dave Eggers' \"The Every\": A tragicomic look at Big Tech, following from \"The Circle.\" Open Access Ninja: \"The Brew of Law.\" This day in history: 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The Attack Surface paperback is out (permalink) It's my book-birthday! Today marks publication of the Tor (US/Canada) paperback edition of ATTACK SURFACE, a standalone adult Little Brother book. https://us.macmillan.com/books/9781250757517/attacksurface Little Brother and its sequel Homeland were young adult novels that told the tale of Marcus Yallow, a bright young activist in San Francisco who works with his peers to orga…",
-          "link": "https://pluralistic.net/2021/10/05/masha-rides-again/",
-          "publishedOn": "2021-10-05T15:43:11.000Z",
-          "wordCount": 3236,
-          "title": "Pluralistic: 05 Oct 2021"
         }
       ]
     },
