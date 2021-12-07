@@ -143,15 +143,6 @@
           "publishedOn": "2021-10-10T00:00:00.000Z",
           "wordCount": 235,
           "title": "Happy Birthday ScummVM"
-        },
-        {
-          "id": "https://grumpygamer.com/favorite_puzzle",
-          "author": null,
-          "description": "Chatting with a game designer friend the other day and we were bemoaning the state of adventure game puzzles and it got us talking.  So I was wondering what is your favorite puzzle in Thimbleweed Park, Maniac Mansion, Monkey Island or any other classic point-and-click game?\nDo you like head scratchers?  What makes a puzzle good? What makes a puzzle hard? What makes a puzzle just busy work? Is that bad?",
-          "link": "https://grumpygamer.com/favorite_puzzle",
-          "publishedOn": "2021-10-08T00:00:00.000Z",
-          "wordCount": 5122,
-          "title": "Favorite Puzzle"
         }
       ]
     },
@@ -418,15 +409,6 @@
           "publishedOn": "2021-10-11T00:00:00.000Z",
           "wordCount": 187,
           "title": "New Nobel Prizes"
-        },
-        {
-          "id": "https://xkcd.com/2526/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/tsp_vs_tbsp.png\" title=\"It's like one teraspoon / when all you need is a kilonife\" alt=\"It's like one teraspoon / when all you need is a kilonife\" />",
-          "link": "https://xkcd.com/2526/",
-          "publishedOn": "2021-10-08T00:00:00.000Z",
-          "wordCount": 187,
-          "title": "TSP vs TBSP"
         }
       ]
     },
@@ -701,6 +683,15 @@
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
+        {
+          "id": "https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/",
+          "author": null,
+          "description": "Hello! Yesterday I tweeted this:\n\nI feel like the term \"DNS propagation\" is misleading, like you're not actually waiting for DNS records to \"propagate\", you're waiting for cached records to expire\n— 🔎Julia Evans🔍 (@b0rk) December 5, 2021\n \nand I want to talk about it a little more. This came up because I was showing a\nfriend a demo of how DNS caching works last week, and he realized that what was\nhappening in the demo didn’t line up with his mental model of how DNS worked.\nHe immediately brought this up and adjusted his mental model (“oh, DNS records are\npulled, not pushed!“). But this it got me thinking – why did my very\nsmart and experienced friend have an inaccurate mental model for how DNS works\nin the first place?\nFirst – I’m very tired of posts that complain about how people are “w…",
+          "link": "https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/",
+          "publishedOn": "2021-12-06T09:44:31.000Z",
+          "wordCount": 2209,
+          "title": "DNS doesn't \"propagate\""
+        },
         {
           "id": "https://jvns.ca/blog/2021/12/04/how-to-use-dig/",
           "author": null,
@@ -1353,15 +1344,6 @@
           "publishedOn": "2021-10-08T17:55:31.000Z",
           "wordCount": 2771,
           "title": "Pluralistic: 08 Oct 2021"
-        },
-        {
-          "id": "https://pluralistic.net/?p=2687",
-          "author": "Cory Doctorow",
-          "description": "Today's links DoS a federal agency, then charge for access: Enq carries on a tradition of genuinely terrible startup ideas. \"Inclusive Access\" allows textbook monopolists to permanently consolidate their gains: Universities are auto-billing students for high-priced, self-destructing textbooks they can't loan or sell. Scottish Limited Partnerships are still laundering criminal millions: Offshore is actually onshore. This day in history: 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading DoS a federal agency, then charge for access (permalink) There's a hell of a zap that neoclassical economics puts on your head. After being brainwashed to think that markets \"naturally emerge\" wherever a shortage occurs, a certain kind of ev…",
-          "link": "https://pluralistic.net/2021/10/07/markets-in-everything/",
-          "publishedOn": "2021-10-07T16:12:06.000Z",
-          "wordCount": 2483,
-          "title": "Pluralistic: 07 Oct 2021"
         }
       ]
     },
