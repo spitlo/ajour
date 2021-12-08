@@ -688,92 +688,6 @@
       ]
     },
     {
-      "title": "Julia Evans",
-      "feedUrl": "https://jvns.ca/atom.xml",
-      "siteUrl": "http://jvns.ca/atom.xml",
-      "articles": [
-        {
-          "id": "https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/",
-          "author": null,
-          "description": "Hello! Yesterday I tweeted this:\n\nI feel like the term \"DNS propagation\" is misleading, like you're not actually waiting for DNS records to \"propagate\", you're waiting for cached records to expire\n— 🔎Julia Evans🔍 (@b0rk) December 5, 2021\n \nand I want to talk about it a little more. This came up because I was showing a\nfriend a demo of how DNS caching works last week, and he realized that what was\nhappening in the demo didn’t line up with his mental model of how DNS worked.\nHe immediately brought this up and adjusted his mental model (“oh, DNS records are\npulled, not pushed!“). But this it got me thinking – why did my very\nsmart and experienced friend have an inaccurate mental model for how DNS works\nin the first place?\nFirst – I’m very tired of posts that complain about how people are “w…",
-          "link": "https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/",
-          "publishedOn": "2021-12-06T09:44:31.000Z",
-          "wordCount": 2209,
-          "title": "DNS doesn't \"propagate\""
-        },
-        {
-          "id": "https://jvns.ca/blog/2021/12/04/how-to-use-dig/",
-          "author": null,
-          "description": "Hello! I talked to a couple of friends recently who mentioned they wished they knew\nhow to use dig to make DNS queries, so here’s a quick blog post about it.\nWhen I first started using dig I found it a bit intimidating – there are so\nmany options! I’m going to leave out most of dig’s options in this post and just\ntalk about the ones I actually use.\nAlso I learned recently that you can set up a .digrc configuration file to make its output\neasier to read and it makes it SO MUCH nicer to use.\nI also drew a zine page about dig a few years ago, but I wanted to write this post to include a bit more information.\n2 types of dig arguments: query and formatting\nThere are 2 main types of arguments you can pass to dig:\narguments that tell dig what DNS query to make\narguments that tell dig how to forma…",
-          "link": "https://jvns.ca/blog/2021/12/04/how-to-use-dig/",
-          "publishedOn": "2021-12-04T08:44:04.000Z",
-          "wordCount": 1491,
-          "title": "How to use dig"
-        },
-        {
-          "id": "https://jvns.ca/blog/2021/11/17/debugging-a-weird--file-not-found--error/",
-          "author": null,
-          "description": "Yesterday I ran into a weird error where I ran a program and got the error\n“file not found” even though the program I was running existed. It’s something\nI’ve run into before, but every time I’m very surprised and confused by it\n(what do you MEAN file not found, the file is RIGHT THERE???!!??)\nSo let’s talk about what happened and why!\nthe error\nLet’s start by showing the error message I got. I had a Go program called\nserve.go, and I was trying to bundle it into a Docker container with this\nDockerfile:\nFROM golang:1.17 AS go\n\nADD ./serve.go /app/serve.go\nWORKDIR /app\nRUN go build serve.go\n\nFROM alpine:3.14\n\nCOPY --from=go /app/serve /app/serve\nCOPY ./static /app/static\nWORKDIR /app/static\nCMD [\"/app/serve\"]\n\nThis Dockerfile\nBuilds the Go program\nCopies the binary into an Alpine container\nP…",
-          "link": "https://jvns.ca/blog/2021/11/17/debugging-a-weird--file-not-found--error/",
-          "publishedOn": "2021-11-17T12:34:36.000Z",
-          "wordCount": 1284,
-          "title": "Debugging a weird 'file not found' error"
-        },
-        {
-          "id": "https://jvns.ca/blog/2021/11/15/esbuild-vue/",
-          "author": null,
-          "description": "Hello!\nI’ve been writing more frontend code in the last year or two – I’ve been making a bunch of little Vue projects. (for example nginx playground, sql playground, this dns lookup tool, and a couple of others)\nMy general approach to frontend development has been pretty “pretend it’s 2005” – I usually\nhave an index.html file, a script.js file, and then I do a <script\nsrc=\"script.js\"> and that’s it. You can see an example of that approach here.\nThis has been working mostly ok for me, but sometimes I run into problems. So I\nwanted to talk about one of those problems, a solution I found\n(esbuild!), and what I needed to learn to solve the problem (some very basic facts about how npm builds work).\nSome of the facts in this post might\nbe wrong because still I don’t understand Javascript build s…",
-          "link": "https://jvns.ca/blog/2021/11/15/esbuild-vue/",
-          "publishedOn": "2021-11-15T19:14:17.000Z",
-          "wordCount": 1750,
-          "title": "Some notes on using esbuild"
-        },
-        {
-          "id": "https://jvns.ca/blog/2021/11/04/how-do-you-tell-if-a-problem-is-caused-by-dns/",
-          "author": null,
-          "description": "I was looking into problems people were having with DNS a few months ago and I\nnoticed one common theme – a lot of people have server issues (“my server is\ndown! or it’s slow!“), but they can’t tell if the problem is caused by DNS or\nnot.\nSo here are a few tools I use to tell if a problem I’m having is caused by DNS,\nas well as a few DNS debuggging stories from my life.\nI don’t try to interpret browser error messages\nFirst, let’s talk briefly about browser error messages. You might think that\nyour browser will tell you if the problem is DNS or not! And it could but\nmine doesn’t seem to do so in any obvious way.\nOn my machine, if Firefox fails to resolve DNS for a site, it gives me the\nerror: Hmm. We’re having trouble finding that site. We can’t connect to the\nserver at bananas.wizardzines.…",
-          "link": "https://jvns.ca/blog/2021/11/04/how-do-you-tell-if-a-problem-is-caused-by-dns/",
-          "publishedOn": "2021-11-04T11:19:22.000Z",
-          "wordCount": 1647,
-          "title": "How do you tell if a problem is caused by DNS?"
-        },
-        {
-          "id": "https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/",
-          "author": null,
-          "description": "5 years ago I wrote a post called how to ask good questions.\nI still really like that post, but it’s missing a few of the tactics I use to\nget useful answers like “interrupt people when they’re going off on an\nirrelevant tangent”.\nwhat can go wrong when asking questions\nOften when I ask a vague or underspecified question, what happens is one of:\nthe person starts by explaining a bunch of stuff I already know\nthe person explains some things which I don’t know, but which I don’t think\nare relevant to my problem\nthe person starts giving a relevant explanation, but using terminology that\nI don’t understand, so I still end up being confused\nNone of these give me the answer to my question and this can be quite\nfrustrating (it often feels condescending when someone embarks on a lengthy\nexplanatio…",
-          "link": "https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/",
-          "publishedOn": "2021-10-21T11:06:26.000Z",
-          "wordCount": 1868,
-          "title": "How to get useful answers to your questions"
-        }
-      ]
-    },
-    {
-      "title": "Josh Comeau's blog",
-      "feedUrl": "https://www.joshwcomeau.com/rss.xml",
-      "siteUrl": "https://www.joshwcomeau.com/",
-      "articles": [
-        {
-          "id": "https://www.joshwcomeau.com/css/custom-css-reset/",
-          "author": "Josh W. Comeau",
-          "description": "I have a set of baseline CSS styles that come with me from project to project. In the past, I'd use a typical CSS reset, but times have changed, and I believe I have a better set of global styles!",
-          "link": "https://www.joshwcomeau.com/css/custom-css-reset/",
-          "publishedOn": "2021-11-23T12:00:00.000Z",
-          "wordCount": 3037,
-          "title": "My Custom CSS Reset"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/css/introducing-shadow-palette-generator/",
-          "author": "Josh W. Comeau",
-          "description": "In order to create lush, realistic shadows in CSS, we need to use multiple layers and colors. How do we come up with all of the parameters, though? I've built a tool that'll help.",
-          "link": "https://www.joshwcomeau.com/css/introducing-shadow-palette-generator/",
-          "publishedOn": "2021-11-16T14:00:00.000Z",
-          "wordCount": 1230,
-          "title": "Introducing “Shadow Palette Generator”"
-        }
-      ]
-    },
-    {
       "title": "The Mozilla Blog",
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
@@ -962,6 +876,92 @@
           "publishedOn": "2021-10-13T21:47:32.000Z",
           "wordCount": 1779,
           "title": "HTTPS and your online security"
+        }
+      ]
+    },
+    {
+      "title": "Julia Evans",
+      "feedUrl": "https://jvns.ca/atom.xml",
+      "siteUrl": "http://jvns.ca/atom.xml",
+      "articles": [
+        {
+          "id": "https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/",
+          "author": null,
+          "description": "Hello! Yesterday I tweeted this:\n\nI feel like the term \"DNS propagation\" is misleading, like you're not actually waiting for DNS records to \"propagate\", you're waiting for cached records to expire\n— 🔎Julia Evans🔍 (@b0rk) December 5, 2021\n \nand I want to talk about it a little more. This came up because I was showing a\nfriend a demo of how DNS caching works last week, and he realized that what was\nhappening in the demo didn’t line up with his mental model of how DNS worked.\nHe immediately brought this up and adjusted his mental model (“oh, DNS records are\npulled, not pushed!“). But this it got me thinking – why did my very\nsmart and experienced friend have an inaccurate mental model for how DNS works\nin the first place?\nFirst – I’m very tired of posts that complain about how people are “w…",
+          "link": "https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/",
+          "publishedOn": "2021-12-06T09:44:31.000Z",
+          "wordCount": 2209,
+          "title": "DNS doesn't \"propagate\""
+        },
+        {
+          "id": "https://jvns.ca/blog/2021/12/04/how-to-use-dig/",
+          "author": null,
+          "description": "Hello! I talked to a couple of friends recently who mentioned they wished they knew\nhow to use dig to make DNS queries, so here’s a quick blog post about it.\nWhen I first started using dig I found it a bit intimidating – there are so\nmany options! I’m going to leave out most of dig’s options in this post and just\ntalk about the ones I actually use.\nAlso I learned recently that you can set up a .digrc configuration file to make its output\neasier to read and it makes it SO MUCH nicer to use.\nI also drew a zine page about dig a few years ago, but I wanted to write this post to include a bit more information.\n2 types of dig arguments: query and formatting\nThere are 2 main types of arguments you can pass to dig:\narguments that tell dig what DNS query to make\narguments that tell dig how to forma…",
+          "link": "https://jvns.ca/blog/2021/12/04/how-to-use-dig/",
+          "publishedOn": "2021-12-04T08:44:04.000Z",
+          "wordCount": 1491,
+          "title": "How to use dig"
+        },
+        {
+          "id": "https://jvns.ca/blog/2021/11/17/debugging-a-weird--file-not-found--error/",
+          "author": null,
+          "description": "Yesterday I ran into a weird error where I ran a program and got the error\n“file not found” even though the program I was running existed. It’s something\nI’ve run into before, but every time I’m very surprised and confused by it\n(what do you MEAN file not found, the file is RIGHT THERE???!!??)\nSo let’s talk about what happened and why!\nthe error\nLet’s start by showing the error message I got. I had a Go program called\nserve.go, and I was trying to bundle it into a Docker container with this\nDockerfile:\nFROM golang:1.17 AS go\n\nADD ./serve.go /app/serve.go\nWORKDIR /app\nRUN go build serve.go\n\nFROM alpine:3.14\n\nCOPY --from=go /app/serve /app/serve\nCOPY ./static /app/static\nWORKDIR /app/static\nCMD [\"/app/serve\"]\n\nThis Dockerfile\nBuilds the Go program\nCopies the binary into an Alpine container\nP…",
+          "link": "https://jvns.ca/blog/2021/11/17/debugging-a-weird--file-not-found--error/",
+          "publishedOn": "2021-11-17T12:34:36.000Z",
+          "wordCount": 1284,
+          "title": "Debugging a weird 'file not found' error"
+        },
+        {
+          "id": "https://jvns.ca/blog/2021/11/15/esbuild-vue/",
+          "author": null,
+          "description": "Hello!\nI’ve been writing more frontend code in the last year or two – I’ve been making a bunch of little Vue projects. (for example nginx playground, sql playground, this dns lookup tool, and a couple of others)\nMy general approach to frontend development has been pretty “pretend it’s 2005” – I usually\nhave an index.html file, a script.js file, and then I do a <script\nsrc=\"script.js\"> and that’s it. You can see an example of that approach here.\nThis has been working mostly ok for me, but sometimes I run into problems. So I\nwanted to talk about one of those problems, a solution I found\n(esbuild!), and what I needed to learn to solve the problem (some very basic facts about how npm builds work).\nSome of the facts in this post might\nbe wrong because still I don’t understand Javascript build s…",
+          "link": "https://jvns.ca/blog/2021/11/15/esbuild-vue/",
+          "publishedOn": "2021-11-15T19:14:17.000Z",
+          "wordCount": 1750,
+          "title": "Some notes on using esbuild"
+        },
+        {
+          "id": "https://jvns.ca/blog/2021/11/04/how-do-you-tell-if-a-problem-is-caused-by-dns/",
+          "author": null,
+          "description": "I was looking into problems people were having with DNS a few months ago and I\nnoticed one common theme – a lot of people have server issues (“my server is\ndown! or it’s slow!“), but they can’t tell if the problem is caused by DNS or\nnot.\nSo here are a few tools I use to tell if a problem I’m having is caused by DNS,\nas well as a few DNS debuggging stories from my life.\nI don’t try to interpret browser error messages\nFirst, let’s talk briefly about browser error messages. You might think that\nyour browser will tell you if the problem is DNS or not! And it could but\nmine doesn’t seem to do so in any obvious way.\nOn my machine, if Firefox fails to resolve DNS for a site, it gives me the\nerror: Hmm. We’re having trouble finding that site. We can’t connect to the\nserver at bananas.wizardzines.…",
+          "link": "https://jvns.ca/blog/2021/11/04/how-do-you-tell-if-a-problem-is-caused-by-dns/",
+          "publishedOn": "2021-11-04T11:19:22.000Z",
+          "wordCount": 1647,
+          "title": "How do you tell if a problem is caused by DNS?"
+        },
+        {
+          "id": "https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/",
+          "author": null,
+          "description": "5 years ago I wrote a post called how to ask good questions.\nI still really like that post, but it’s missing a few of the tactics I use to\nget useful answers like “interrupt people when they’re going off on an\nirrelevant tangent”.\nwhat can go wrong when asking questions\nOften when I ask a vague or underspecified question, what happens is one of:\nthe person starts by explaining a bunch of stuff I already know\nthe person explains some things which I don’t know, but which I don’t think\nare relevant to my problem\nthe person starts giving a relevant explanation, but using terminology that\nI don’t understand, so I still end up being confused\nNone of these give me the answer to my question and this can be quite\nfrustrating (it often feels condescending when someone embarks on a lengthy\nexplanatio…",
+          "link": "https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/",
+          "publishedOn": "2021-10-21T11:06:26.000Z",
+          "wordCount": 1868,
+          "title": "How to get useful answers to your questions"
+        }
+      ]
+    },
+    {
+      "title": "Josh Comeau's blog",
+      "feedUrl": "https://www.joshwcomeau.com/rss.xml",
+      "siteUrl": "https://www.joshwcomeau.com/",
+      "articles": [
+        {
+          "id": "https://www.joshwcomeau.com/css/custom-css-reset/",
+          "author": "Josh W. Comeau",
+          "description": "I have a set of baseline CSS styles that come with me from project to project. In the past, I'd use a typical CSS reset, but times have changed, and I believe I have a better set of global styles!",
+          "link": "https://www.joshwcomeau.com/css/custom-css-reset/",
+          "publishedOn": "2021-11-23T12:00:00.000Z",
+          "wordCount": 3037,
+          "title": "My Custom CSS Reset"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/css/introducing-shadow-palette-generator/",
+          "author": "Josh W. Comeau",
+          "description": "In order to create lush, realistic shadows in CSS, we need to use multiple layers and colors. How do we come up with all of the parameters, though? I've built a tool that'll help.",
+          "link": "https://www.joshwcomeau.com/css/introducing-shadow-palette-generator/",
+          "publishedOn": "2021-11-16T14:00:00.000Z",
+          "wordCount": 1230,
+          "title": "Introducing “Shadow Palette Generator”"
         }
       ]
     },
