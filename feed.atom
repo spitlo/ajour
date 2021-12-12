@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-12-11T00:18:02.698Z</updated>
+    <updated>2021-12-12T13:01:07.859Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
@@ -1844,123 +1844,6 @@ This rolled out and my hot spots disappeared.  Fantastic!]]></summary>
         <summary type="html"><![CDATA[I am writing this post in support of Wren. Hello, I'm the "writer" of the Dangen Warning and the former writer of Fight Knight. I feel it's important for me to come forward about why I left the Fight Knight project. https://t.co/ccrZgh1IeA — Wren (@rivalerose) October 1, 2021 Wren is a wonderful human who endured physical abuse, psychological abuse, gaslighting, manipulation, and pretty much that entire spectrum that we’re way too used to hearing about when survivors share their stories. She endured this while working on the game Fight Knight, putting out what I’m sure was amazing work that we...]]></summary>
         <author>
             <name>alienmelon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTTPS and your online security]]></title>
-        <id>http://blog.mozilla.org/foxtail/2017/04/21/https-protect/</id>
-        <link href="https://blog.mozilla.org/en/products/firefox/https-protect/"/>
-        <updated>2021-10-13T21:47:32.000Z</updated>
-        <summary type="html"><![CDATA[We have long advised Web users to look for HTTPS and the lock icon in the address bar of their favorite browser (Firefox!) before typing passwords or other private information into a website. These are solid tips, but it’s worth digging deeper into what HTTPS does and doesn’t do to protect your online security and […]
-The post HTTPS and your online security appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>M.J. Kelly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 13 Oct 2021]]></title>
-        <id>https://pluralistic.net/?p=2712</id>
-        <link href="https://pluralistic.net/2021/10/13/theres-an-app-for-that/"/>
-        <updated>2021-10-13T16:26:24.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Charter uses bad credit threats to corral ex-subscribers: "Resubscribe or we'll keep trashing your credit report." Adobe uses copyfraud to preserve spyware: A free-as-in-surveillance-free Flash installer is gone thanks to a bogus copyright claim. India funded a starving kids' app, but not food: Solutionism at its worst. This day in history: 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Charter uses bad credit threats to corral ex-subscribers (permalink) I'm more of a Charter-Spectrum hostage than a customer: I need the internet to earn my living, and my town (Burbank) has signed an exclusive deal with Charter, so I send them $134.99/mo for some of the worst internet in California. It turns out that Chart…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Screencasting technical guide by Egghead [link]]]></title>
-        <id>2021-10-13-b8820d28</id>
-        <link href="https://remysharp.com/links/2021-10-13-b8820d28"/>
-        <updated>2021-10-13T12:14:06.000Z</updated>
-        <summary type="html"><![CDATA[The Egghead screencasts themselves are excellent, but this is a treasure trove of tips for better screencasts.
-Better screencasts often (to me) means simpler for your audience or student to follow along - which is only positive.
-Source: howtoegghead.com]]></summary>
-        <author>
-            <name>remy sharp's b:log</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flag Map Sabotage]]></title>
-        <id>https://xkcd.com/2528/</id>
-        <link href="https://xkcd.com/2528/"/>
-        <updated>2021-10-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/flag_map_sabotage.png" title="Delaware hopes to explore the western edge of areas marked with the Belgian flag, once the tornadoes die down." alt="Delaware hopes to explore the western edge of areas marked with the Belgian flag, once the tornadoes die down." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An UPDATE without a WHERE, or something close to it]]></title>
-        <id>https://rachelbythebay.com/w/2021/10/12/break/</id>
-        <link href="https://rachelbythebay.com/w/2021/10/12/break/"/>
-        <updated>2021-10-12T19:50:16.000Z</updated>
-        <summary type="html"><![CDATA[I know I've already
-commented
-on a certain site's big outage
-twice now,
-but I have one more bit of rumor to share, and it apparently invalidates 
-what I had heard previously.  That is, it may not have been a matter of 
-"show X Y" vs. "clear X Y", but rather some kind of automation that went 
-a bit too far.
-
-
-Then, what if you didn't have to actually type something in to hit the 
-button?  Maybe you forgot, or something else happened, and you didn't 
-fill it in, so when you did that, it said "okay, cool then" and 
-did all of them instead?
-
-
-Go to tool, don't type in target, hit button, ALL targets affected.
-
-
-It sounds like another kind of "footgun" (you know, something you can 
-use to shoot yourself in the foot) from the world of databases: an 
-UPDATE without a WHERE.
-
-
-
-UPDATE my_table SET invalid = true WHERE asset_id = 1012;
-
-
-
-Imagine what happens when you forget the WHERE.  It's the last thing on 
-the line as shown, so you could send off the command early and it would 
-totally work.  It would look like this:
-
-
-And... guess what, without that WHERE, it just set that bit everywhere.  
-Everything is marked invalid, and your business might suffer for it.
-
-
-Final note on the "do all the things" thing: maybe the tool 
-actually is supposed to let you do that.  In that case, maybe it would 
-be good if it said something like "you are about to drain 123,456 
-devices, so type in that exact number to proceed".  You know,
-that
-kind of thing.  It tends to add enough of a pause to prevent some 
-disasters.]]></summary>
-        <author>
-            <name>Writing - rachelbythebay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 12 Oct 2021]]></title>
-        <id>https://pluralistic.net/?p=2703</id>
-        <link href="https://pluralistic.net/2021/10/12/no-criminals-no-crimes/"/>
-        <updated>2021-10-12T18:22:40.000Z</updated>
-        <summary type="html"><![CDATA[Today's links This Thing Between Us, a neck-hair-stand-up cuycuy horror: Gus Moreno's debut novel. There are no corporate criminals in America: Because America doesn't have corporate crime prosecutions. This day in history: 2001, 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading This Thing Between Us, a neck-hair-stand-up cuycuy horror (permalink) Gus Moreno's debut novel, "This Thing Between Us," is a genuinely creepy supernatural horror novel, a book that made the hairs on the back of my neck stand up and prompted me to turn on the nightlight at bedtime. https://www.fsgoriginals.com/books/this-thing-between-us I almost didn't read it. It's billed as a book about a widower whose smart-speaker is haunted by his wife…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What if… you could use Visual Studio Code as the editor of in-browser Developer Tools?]]></title>
-        <id>https://christianheilmann.com/?p=6972</id>
-        <link href="https://christianheilmann.com/2021/10/12/what-if-you-could-use-visual-studio-code-as-the-editor-of-in-browser-developer-tools/"/>
-        <updated>2021-10-12T15:21:15.000Z</updated>
-        <summary type="html"><![CDATA[Starting with the next version of Microsoft Edge, we are running an experiment that allows you to use Visual Studio Code as the editor of the in-browser Developer Tools. Here’s a three minute video explaining why we think this is a good idea. Developer Tools have excellent visual tools that allow you to tweak and […]]]></summary>
-        <author>
-            <name>Chris Heilmann</name>
         </author>
     </entry>
 </feed>
