@@ -91,6 +91,15 @@
       "siteUrl": "https://grumpygamer.com",
       "articles": [
         {
+          "id": "https://grumpygamer.com/lego5",
+          "author": null,
+          "description": "After 7000 signatures, some progress.  I am getting help.",
+          "link": "https://grumpygamer.com/lego5",
+          "publishedOn": "2021-12-12T21:35:16.000Z",
+          "wordCount": 77,
+          "title": "Lego Report 5"
+        },
+        {
           "id": "https://grumpygamer.com/lrg_signing",
           "author": null,
           "description": "Last month I finally got done signing over 7000 cards for the Limited Run Games physical release of Monkey Island.\nThey asked if I would hand sign cards to go in the boxes.  Sure, how many can that be?  500?  800?\nNope.\nThey had over 7000 preorders and I signed every one of those cards.  If you bought one of the LRG Monkey Island boxes you won't get a Certificate of Authenticity with a crappy machine printed signature. \nI signed them all. \nI even left a few special messages on the backs.",
@@ -540,15 +549,6 @@
           "publishedOn": "2021-10-27T23:26:13.000Z",
           "wordCount": 302,
           "title": "Disabling ssh password auth on Monterey is different"
-        },
-        {
-          "id": "https://rachelbythebay.com/w/2021/10/13/temp/",
-          "author": null,
-          "description": "One of the fun things I used to do at a prior job was to dig through the \nraw data points which were collected from the *many* servers we had.  I \ncould just pick an interesting-sounding metric and then would just ask \nthe system to show me the top 10 or bottom 10 out of a population of \nthousands or more.\n\n\nTo get my feet wet with the whole \"investigations\" thing that we'd do, I \nstarted looking into this one day and chose one of the many temp sensors \nwhich were being logged by the servers.  I forget exactly which one it \nwas, for there were many.  The CPUs logged it, the chassis logged it, \nthe power supply logged it, and so on.  There were so many choices.\n\n\nI went looking for a reason.  What could possibly explain this?  First \noff, it didn't line up with any obvious pattern in the host names.  The \nhosts were named for whichever team owned them, followed by a sequence \nnumber that was bumped any time a new one was provisioned.  There was no \nsignal to be found in that.\n\n\nThere was more, though.  You could also see a \"rack position\" in this \ndata, and now it started getting interesting.  It seems that all of the \nreally hot machines had a rack position of something low, like 04 or 05, \nand never anything higher than that.  In fact, when looking at a whole \nrack, it was always the lowest number of all of the positions that were \nbeing used.  Now this was worth chasing!\n\n\nIt's good that I asked, since they told me something surprising: \nposition 04 or 05 or whatever was the *bottom* of the rack.  Yes, \nsomehow, the lowest machine in the rack was the hottest!  They found \nthis interesting, too, and wound up digging into it.  Given that I was \nfar away in a distant office, this was the best way for us to proceed.\n\n\nThe problem was that the bottommost server would have nothing below it \nbut just open space until it got to the floor.  That space would not \nmove air efficiently, and it obviously mattered.\n\n\nThis rolled out and my hot spots disappeared.  Fantastic!",
-          "link": "https://rachelbythebay.com/w/2021/10/13/temp/",
-          "publishedOn": "2021-10-14T03:02:42.000Z",
-          "wordCount": 839,
-          "title": "Looking at the outlying data points"
         }
       ]
     },
@@ -1387,15 +1387,6 @@
           "publishedOn": "2021-10-15T20:20:14.000Z",
           "wordCount": 4474,
           "title": "Talk Transcript: Your uniqueness is your strength (and why that matters to the indiegame space)"
-        },
-        {
-          "id": "http://www.nathalielawhead.com/candybox/?p=5131",
-          "author": "alienmelon",
-          "description": "I am writing this post in support of Wren. Hello, I'm the \"writer\" of the Dangen Warning and the former writer of Fight Knight. I feel it's important for me to come forward about why I left the Fight Knight project. https://t.co/ccrZgh1IeA — Wren (@rivalerose) October 1, 2021 Wren is a wonderful human who endured physical abuse, psychological abuse, gaslighting, manipulation, and pretty much that entire spectrum that we’re way too used to hearing about when survivors share their stories. She endured this while working on the game Fight Knight, putting out what I’m sure was amazing work that we...",
-          "link": "http://www.nathalielawhead.com/candybox/in-support-of-wren-the-abuse-she-endured-while-working-on-fight-knight",
-          "publishedOn": "2021-10-14T01:03:46.000Z",
-          "wordCount": 2955,
-          "title": "In support of Wren (the abuse she endured while working on Fight Knight)"
         }
       ]
     }

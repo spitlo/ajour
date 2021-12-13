@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-12-12T13:01:07.859Z</updated>
+    <updated>2021-12-13T00:19:24.825Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lego Report 5]]></title>
+        <id>https://grumpygamer.com/lego5</id>
+        <link href="https://grumpygamer.com/lego5"/>
+        <updated>2021-12-12T21:35:16.000Z</updated>
+        <summary type="html"><![CDATA[After 7000 signatures, some progress.  I am getting help.]]></summary>
+        <author>
+            <name>Grumpy Gamer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Incident Report]]></title>
         <id>https://xkcd.com/2553/</id>
@@ -1783,67 +1793,6 @@ Nancy Middlebrook, Norway #3, (woven with hand dyed cotton), 2020]]></summary>
 The post Hacked! Unravelling a data breach appeared first on The Mozilla Blog.]]></summary>
         <author>
             <name>Mozilla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looking at the outlying data points]]></title>
-        <id>https://rachelbythebay.com/w/2021/10/13/temp/</id>
-        <link href="https://rachelbythebay.com/w/2021/10/13/temp/"/>
-        <updated>2021-10-14T03:02:42.000Z</updated>
-        <summary type="html"><![CDATA[One of the fun things I used to do at a prior job was to dig through the 
-raw data points which were collected from the *many* servers we had.  I 
-could just pick an interesting-sounding metric and then would just ask 
-the system to show me the top 10 or bottom 10 out of a population of 
-thousands or more.
-
-
-To get my feet wet with the whole "investigations" thing that we'd do, I 
-started looking into this one day and chose one of the many temp sensors 
-which were being logged by the servers.  I forget exactly which one it 
-was, for there were many.  The CPUs logged it, the chassis logged it, 
-the power supply logged it, and so on.  There were so many choices.
-
-
-I went looking for a reason.  What could possibly explain this?  First 
-off, it didn't line up with any obvious pattern in the host names.  The 
-hosts were named for whichever team owned them, followed by a sequence 
-number that was bumped any time a new one was provisioned.  There was no 
-signal to be found in that.
-
-
-There was more, though.  You could also see a "rack position" in this 
-data, and now it started getting interesting.  It seems that all of the 
-really hot machines had a rack position of something low, like 04 or 05, 
-and never anything higher than that.  In fact, when looking at a whole 
-rack, it was always the lowest number of all of the positions that were 
-being used.  Now this was worth chasing!
-
-
-It's good that I asked, since they told me something surprising: 
-position 04 or 05 or whatever was the *bottom* of the rack.  Yes, 
-somehow, the lowest machine in the rack was the hottest!  They found 
-this interesting, too, and wound up digging into it.  Given that I was 
-far away in a distant office, this was the best way for us to proceed.
-
-
-The problem was that the bottommost server would have nothing below it 
-but just open space until it got to the floor.  That space would not 
-move air efficiently, and it obviously mattered.
-
-
-This rolled out and my hot spots disappeared.  Fantastic!]]></summary>
-        <author>
-            <name>Writing - rachelbythebay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In support of Wren (the abuse she endured while working on Fight Knight)]]></title>
-        <id>http://www.nathalielawhead.com/candybox/?p=5131</id>
-        <link href="http://www.nathalielawhead.com/candybox/in-support-of-wren-the-abuse-she-endured-while-working-on-fight-knight"/>
-        <updated>2021-10-14T01:03:46.000Z</updated>
-        <summary type="html"><![CDATA[I am writing this post in support of Wren. Hello, I'm the "writer" of the Dangen Warning and the former writer of Fight Knight. I feel it's important for me to come forward about why I left the Fight Knight project. https://t.co/ccrZgh1IeA — Wren (@rivalerose) October 1, 2021 Wren is a wonderful human who endured physical abuse, psychological abuse, gaslighting, manipulation, and pretty much that entire spectrum that we’re way too used to hearing about when survivors share their stories. She endured this while working on the game Fight Knight, putting out what I’m sure was amazing work that we...]]></summary>
-        <author>
-            <name>alienmelon</name>
         </author>
     </entry>
 </feed>
