@@ -186,6 +186,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2554/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/gift_exchange.png\" title=\"In addition to having all their budgets in a spreadsheet with consistent formatting, they just love expressing preferences on a well-calibrated numerical scale.\" alt=\"In addition to having all their budgets in a spreadsheet with consistent formatting, they just love expressing preferences on a well-calibrated numerical scale.\" />",
+          "link": "https://xkcd.com/2554/",
+          "publishedOn": "2021-12-13T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Gift Exchange"
+        },
+        {
           "id": "https://xkcd.com/2553/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/incident_report.png\" title=\"Increasing-precision timestamps are the Jaws theme of incident reports.\" alt=\"Increasing-precision timestamps are the Jaws theme of incident reports.\" />",
@@ -400,15 +409,6 @@
           "publishedOn": "2021-10-18T00:00:00.000Z",
           "wordCount": 185,
           "title": "Clinical Trials"
-        },
-        {
-          "id": "https://xkcd.com/2529/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/unsolved_math_problems.png\" title=\"After decades of studying the curve and the procedure that generates it, the consensus explanation is &quot;it's just like that.&quot;\" alt=\"After decades of studying the curve and the procedure that generates it, the consensus explanation is &quot;it's just like that.&quot;\" />",
-          "link": "https://xkcd.com/2529/",
-          "publishedOn": "2021-10-15T00:00:00.000Z",
-          "wordCount": 187,
-          "title": "Unsolved Math Problems"
         }
       ]
     },
@@ -605,24 +605,6 @@
           "publishedOn": "2021-11-26T16:08:17.000Z",
           "wordCount": 625,
           "title": "On Yak Shaving and <md-block>, a new HTML element for Markdown"
-        },
-        {
-          "id": "https://lea.verou.me/?p=3384",
-          "author": "Lea Verou",
-          "description": "When developing customizable components, one often wants to expose various parameters of the styling as custom properties, and form a sort of CSS API. This is still underutlized, but there are libraries, e.g. Shoelace, that already list custom properties alongside other parts of each component’s API (even CSS parts!). Note: I’m using “component” here broadly, […]",
-          "link": "https://lea.verou.me/2021/10/custom-properties-with-defaults/",
-          "publishedOn": "2021-10-15T11:22:40.000Z",
-          "wordCount": 1247,
-          "title": "Custom properties with defaults: 3+1 strategies"
-        },
-        {
-          "id": "https://lea.verou.me/?p=3384",
-          "author": "Lea Verou",
-          "description": "When developing customizable components, one often wants to expose various parameters of the styling as custom properties, and form a sort of CSS API. This is still underutlized, but there are libraries, e.g. Shoelace, that already list custom properties alongside other parts of each component’s API (even CSS parts!). Note: I’m using “component” here broadly, […]",
-          "link": "http://feedproxy.google.com/~r/leaverou/~3/h1tDrR0P_JU/",
-          "publishedOn": "2021-10-15T11:22:40.000Z",
-          "wordCount": 1247,
-          "title": "Custom properties with defaults: 3+1 strategies"
         }
       ]
     },
@@ -849,15 +831,6 @@
           "publishedOn": "2021-10-19T16:09:03.000Z",
           "wordCount": 1051,
           "title": "Welcome Imo Udom, Mozilla’s new Senior Vice President, Innovation Ecosystems"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=67517",
-          "author": "Mozilla",
-          "description": "This is a story about paying a steep price for a pair of cheap socks. The first loose thread in June One Tuesday morning as I* was having my coffee and toast before kicking off the work day, I got a text from my credit card company alerting me to a suspected fraud charge. Of […]\nThe post Hacked! Unravelling a data breach appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/internet-culture/hacked-unravelling-a-data-breach/",
-          "publishedOn": "2021-10-14T21:30:24.000Z",
-          "wordCount": 1670,
-          "title": "Hacked! Unravelling a data breach"
         }
       ]
     },
