@@ -143,6 +143,15 @@
       "siteUrl": "https://emshort.blog",
       "articles": [
         {
+          "id": "http://emshort.blog/?p=42239",
+          "author": "Emily Short",
+          "description": "Events January 1 is currently scheduled as the next meetup of the SF Bay Interactive Fiction Meetup, but given that that is New Year’s Day, it’s possible that that will change. Running for a week starting January 1 on itch is the Historically Accurate Game Jam. This isn’t specifically an IF competition, and games of … Continue reading \"Mid-December Link Assortment\"",
+          "link": "https://emshort.blog/2021/12/15/mid-december-link-assortment-6/",
+          "publishedOn": "2021-12-15T17:30:00.000Z",
+          "wordCount": 1530,
+          "title": "Mid-December Link Assortment"
+        },
+        {
           "id": "http://emshort.blog/?p=42237",
           "author": "Emily Short",
           "description": "Events December 4 is the next meetup of the San Francisco Bay Area IF Group. December 12 is the next meetup of the Seattle/Tacoma IF Group, meeting online via Discord. The Ectocomp competition for spooky and Halloween-y games is now over, but the entries can still be played. Or, if you’re looking for something to … Continue reading \"End of November Link Assortment\"",
@@ -612,15 +621,6 @@
           "publishedOn": "2021-10-28T16:42:36.000Z",
           "wordCount": 207,
           "title": "Untitled"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/665225002021519360",
-          "author": null,
-          "description": "garadinervi:\nNancy Middlebrook, Norway #3, (woven with hand dyed cotton), 2020",
-          "link": "https://text-mode.tumblr.com/post/665225002021519360",
-          "publishedOn": "2021-10-16T18:13:19.000Z",
-          "wordCount": 176,
-          "title": "Untitled"
         }
       ]
     },
@@ -830,6 +830,15 @@
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
+        {
+          "id": "https://jvns.ca/blog/2021/12/15/mess-with-dns/",
+          "author": null,
+          "description": "Hello! I’ve been thinking about how to explain DNS a bunch in the last year.\nI like to learn in a very hands-on way. And so when I write a zine, I often\nclose the zine by saying something like “… and the best way to learn more\nabout this is to play around and experiment!“.\nSo I built a site where you can do experiments with DNS called Mess With DNS. It has examples of experiments you can try, and\nyou’ve very encouraged to come up with your own experiments.\nIn this post I’ll talk about why I made this, how it works, and give you\nprobably more details than you want to know about how I built it (design, testing,\nsecurity, writing an authoritative nameserver, live streaming updates, etc)\na screencast\nHere’s a GIF screencast of what it looks like to use it:\n\nit’s a real DNS server\nFirst: Mess W…",
+          "link": "https://jvns.ca/blog/2021/12/15/mess-with-dns/",
+          "publishedOn": "2021-12-15T09:41:36.000Z",
+          "wordCount": 3105,
+          "title": "New tool: Mess with DNS!"
+        },
         {
           "id": "https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/",
           "author": null,
@@ -1281,15 +1290,6 @@
             "length": "27025408",
             "type": "audio/mpeg"
           }
-        },
-        {
-          "id": "https://pluralistic.net/?p=2726",
-          "author": "Cory Doctorow",
-          "description": "Today's links The Chicago Tribune is being murdered before our eyes: And it's a serial killing. This day in history: 2001, 2020. Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The Chicago Tribune is being murdered before our eyes (permalink) Last May, the profitable Chicago Tribune was acquired by the notorious vulture firm Alden Global Capital. They suffered waves of downsizing, including a sell-off of the iconic Tribute Building. Today, a skeleton crew puts out the Trib from \"a newsroom the size of a Chipotle.\" In a long, deeply reported article about Alden for The Atlantic, McKay Coppins catalogs the civic losses that Chicago suffered when its major daily newspaper was bought and strangled by Alden and its secretive, far-right owner…",
-          "link": "https://pluralistic.net/2021/10/16/sociopathic-monsters/",
-          "publishedOn": "2021-10-16T23:59:39.000Z",
-          "wordCount": 2745,
-          "title": "Pluralistic: 16 Oct 2021"
         }
       ]
     },
