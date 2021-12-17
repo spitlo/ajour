@@ -83,7 +83,17 @@
       "title": "there.oughta.be/",
       "feedUrl": "https://there.oughta.be/feed.xml",
       "siteUrl": "https://there.oughta.be/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://there.oughta.be/a/wifi-game-boy-cartridge",
+          "author": null,
+          "description": "It took a while, but I finally managed to create my own Game Boy cartridge. With WiFi! At this point, it can only demo a simple telnet-style communication and access Wikipedia articles, but I am confident that I will showcase more in the future. For now, the interesting and surprisingly tricky part is how the thing works at all. Click the image to see the video on youtube.com. If you just want to see the cartridge in action or want to get into all the details, I highly recommend to watch the video first as it goes through the difficulties and their respective solutions. In contrast, this article here is less visual in its explanations and mostly documents the device in detail, so unless you are already familiar with the parallel memory interface of the Game Boy, you might want to start with the overview from the video.",
+          "link": "https://there.oughta.be/a/wifi-game-boy-cartridge",
+          "publishedOn": "2021-12-15T23:00:00.000Z",
+          "wordCount": 5880,
+          "title": "There oughta be a WiFi Game Boy cartridge."
+        }
+      ]
     },
     {
       "title": "Grumpy Gamer",
@@ -185,6 +195,15 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2555/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/notifications.png\" title=\"It's 10:34 PM for this user. They really need to get going, they have a thing early tomorrow. Are you sure you want to notify?\" alt=\"It's 10:34 PM for this user. They really need to get going, they have a thing early tomorrow. Are you sure you want to notify?\" />",
+          "link": "https://xkcd.com/2555/",
+          "publishedOn": "2021-12-15T00:00:00.000Z",
+          "wordCount": 183,
+          "title": "Notifications"
+        },
         {
           "id": "https://xkcd.com/2554/",
           "author": null,
@@ -400,15 +419,6 @@
           "publishedOn": "2021-10-20T00:00:00.000Z",
           "wordCount": 185,
           "title": "Dark Arts"
-        },
-        {
-          "id": "https://xkcd.com/2530/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/clinical_trials.png\" title=\"We don't need to do a clinical trial of this change because the standard of care is to adopt new ideas without doing clinical trials.\" alt=\"We don't need to do a clinical trial of this change because the standard of care is to adopt new ideas without doing clinical trials.\" />",
-          "link": "https://xkcd.com/2530/",
-          "publishedOn": "2021-10-18T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Clinical Trials"
         }
       ]
     },
@@ -629,6 +639,15 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=68166",
+          "author": "Sarah Vasquez",
+          "description": "Your favorite go-to resource to discover, save, and spend time with interesting reads, has gone to Texas. This December, Pocket has teamed up with Texas Monthly, bringing Pocket users weekly deep dives on every episode of America’s Girls, Texas Monthly’s fascinating new podcast about how the Dallas Cowboys Cheerleaders became international icons.  From the scandals […]\nThe post Pocket & Texas Monthly Take You Inside The World of the Dallas Cowboys Cheerleaders With New Partnership appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/products/pocket/pocket-texas-monthly-take-you-inside-the-world-of-the-dallas-cowboys-cheerleaders-with-new-partnership/",
+          "publishedOn": "2021-12-16T23:15:21.000Z",
+          "wordCount": 2104,
+          "title": "Pocket & Texas Monthly Take You Inside The World of the Dallas Cowboys Cheerleaders With New Partnership"
+        },
         {
           "id": "https://blog.mozilla.org/?p=68152",
           "author": "Rebecca Smith",
