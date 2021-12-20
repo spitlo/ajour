@@ -516,6 +516,24 @@
       "siteUrl": "https://rachelbythebay.com/w/",
       "articles": [
         {
+          "id": "https://rachelbythebay.com/w/2021/12/18/log/",
+          "author": null,
+          "description": "Logging stuff is in the news this week.  Specifically, people with Java \nand log4j somewhere in their lives are having a miserable time.  I \nfigured I'd re-tell a story about terrible things done by way of a bunch \nof feature-rich libraries and dubious interconnections.  I've mentioned \nthis in passing before, but this time I've tried to be much more \nspecific about how it works.\n\n\nPart 1: the flags.\n\n\n\nDEFINE_bool(enable_foo, false, \"Enable the foo feature\");\n \n...\n \nvoid my_func() {\n  if (FLAGS_enable_foo) {\n    do_something();\n  }\n}\n\n\n\n\nDECLARE_bool(enable_foo);\n \n...\n \nvoid other_func() {\n  // Turns out we need foo enabled to do our stuff.\n  FLAGS_enable_foo = true;\n  // ...\n}\n\n\n\n\nint main(int argc, char** argv) {\n  InitCompany(argc, argv);  // populates FLAGS_ of all kinds\n  // ...\n}\n…",
+          "link": "https://rachelbythebay.com/w/2021/12/18/log/",
+          "publishedOn": "2021-12-19T01:05:39.000Z",
+          "wordCount": 1330,
+          "title": "Log libraries and the tendency to open holes in things"
+        },
+        {
+          "id": "https://rachelbythebay.com/w/2020/11/26/magic/",
+          "author": null,
+          "description": "Hello, world!  A couple of days ago, I noticed someone remarking on a \nline from an older post of mine that had been making the rounds.  In it, \nI say something about adding a number to \"my list of magic numbers\".  \nThat person wanted to see that list.\n\n\nAnd so, I have put together this list of everything I can think of at \nthe moment, along with a whole bunch of commentary that should be able \nto send you on dozens of romps through Wikipedia.  Hopefully this will \nboth satisfy the request for \"the list\" and provide a lot of amusement \non a day which normally is lacking in content.\n\n\nBe safe out there, and enjoy.\n\n\n\"HTTP\" is 0x48545450 (1213486160) or 0x50545448 (1347703880).  If it \nshows up in your error logs, you're probably calling out to a poor web \nserver instead of someone who actua…",
+          "link": "https://rachelbythebay.com/w/2020/11/26/magic/",
+          "publishedOn": "2021-12-03T06:19:07.000Z",
+          "wordCount": 3043,
+          "title": "My list of magic numbers for your turkey day enjoyment"
+        },
+        {
           "id": "https://rachelbythebay.com/w/2021/12/02/build/",
           "author": null,
           "description": "I've told some stories about what happens when you end up at a company \nthat builds nothing and instead rents everything from some vendor.  \nGiven that, it's only fair that I describe something bad that can \nhappen at a company which is known for building stuff.\n\n\nThe trouble is that sometimes these companies will hire someone who's \nknown for doing X... and *only* X.  They're a builder, all right, as \nlong as you want them to build X.  Perhaps they have been building X at \nsome other company, and now your company has hired them to come and do \nthat same job over here instead.\n\n\nThere's also the possibility that the prestige of having this person \nworking at the company is what they're actually cultivating, and \nmanagement wants to make this person happy by letting them work on their \npet project, even if the pet project itself is not doing anything \npositive.\n\nactually belongs in \nproduction.  In one outcome, it's brilliantly executed and things grow.  \nBut, this is about the downsides, and in that scenario, it's a stinking \npile of garbage and needs to be thrown out, but it gets forced in, \nanyway.\n\n\nIf this project is being pushed for political reasons, then it should \nnot come as a surprise that when it finally does ship to production,\nit causes outages and generally fails to deliver on its promises.  It's \nactually worse than just leaving things the way they had been before any \nof this stuff showed up.\n\n\nJust imagine what companies would look like if their hiring processes \nfiltered out this kind of charlatan instead of looking for whether they \ncould do some dumb coding card trick in a 45 minute interview block.\nI think they'd look very different, and a whole bunch of people would \nhave to find another industry to prey upon.",
@@ -920,15 +938,6 @@
           "publishedOn": "2021-11-04T11:19:22.000Z",
           "wordCount": 1647,
           "title": "How do you tell if a problem is caused by DNS?"
-        },
-        {
-          "id": "https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/",
-          "author": null,
-          "description": "5 years ago I wrote a post called how to ask good questions.\nI still really like that post, but it’s missing a few of the tactics I use to\nget useful answers like “interrupt people when they’re going off on an\nirrelevant tangent”.\nwhat can go wrong when asking questions\nOften when I ask a vague or underspecified question, what happens is one of:\nthe person starts by explaining a bunch of stuff I already know\nthe person explains some things which I don’t know, but which I don’t think\nare relevant to my problem\nthe person starts giving a relevant explanation, but using terminology that\nI don’t understand, so I still end up being confused\nNone of these give me the answer to my question and this can be quite\nfrustrating (it often feels condescending when someone embarks on a lengthy\nexplanatio…",
-          "link": "https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/",
-          "publishedOn": "2021-10-21T11:06:26.000Z",
-          "wordCount": 1868,
-          "title": "How to get useful answers to your questions"
         }
       ]
     },
@@ -1295,15 +1304,6 @@
             "length": "0",
             "type": "audio/mpeg"
           }
-        },
-        {
-          "id": "https://pluralistic.net/?p=2749",
-          "author": "Cory Doctorow",
-          "description": "Today's links Copyleft lawsuit against Vizio will allow anyone to defend the commons: Software Freedom Conservancy realizes the dream of \"Community-Oriented GPL Enforcement.\" The monopoly strategy behind the Google/Microsoft mobile patent wars: The victory condition isn't highest profits, it's market dominance. This day in history: 2006, 2011, 2016, 2020. Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Copyleft lawsuit against Vizio will allow anyone to defend the commons (permalink) When the free software movement started to make headway, proprietary software companies like Microsoft went to war against it, describing the licenses at its core (like the GPL) as \"viral licenses\" to scare companies off from using free software. The GPL is…",
-          "link": "https://pluralistic.net/2021/10/20/vizio-vs-the-world/",
-          "publishedOn": "2021-10-20T17:19:18.000Z",
-          "wordCount": 2551,
-          "title": "Pluralistic: 20 Oct 2021"
         }
       ]
     },

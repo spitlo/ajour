@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-12-19T00:21:24.894Z</updated>
+    <updated>2021-12-20T00:20:37.360Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Log libraries and the tendency to open holes in things]]></title>
+        <id>https://rachelbythebay.com/w/2021/12/18/log/</id>
+        <link href="https://rachelbythebay.com/w/2021/12/18/log/"/>
+        <updated>2021-12-19T01:05:39.000Z</updated>
+        <summary type="html"><![CDATA[Logging stuff is in the news this week.  Specifically, people with Java 
+and log4j somewhere in their lives are having a miserable time.  I 
+figured I'd re-tell a story about terrible things done by way of a bunch 
+of feature-rich libraries and dubious interconnections.  I've mentioned 
+this in passing before, but this time I've tried to be much more 
+specific about how it works.
+
+
+Part 1: the flags.
+
+
+
+DEFINE_bool(enable_foo, false, "Enable the foo feature");
+ 
+...
+ 
+void my_func() {
+  if (FLAGS_enable_foo) {
+    do_something();
+  }
+}
+
+
+
+
+DECLARE_bool(enable_foo);
+ 
+...
+ 
+void other_func() {
+  // Turns out we need foo enabled to do our stuff.
+  FLAGS_enable_foo = true;
+  // ...
+}
+
+
+
+
+int main(int argc, char** argv) {
+  InitCompany(argc, argv);  // populates FLAGS_ of all kinds
+  // ...
+}
+…]]></summary>
+        <author>
+            <name>Writing - rachelbythebay</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Turing Complete]]></title>
         <id>https://xkcd.com/2556/</id>
@@ -281,6 +333,34 @@ arguments that tell dig what DNS query to make
 arguments that tell dig how to forma…]]></summary>
         <author>
             <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My list of magic numbers for your turkey day enjoyment]]></title>
+        <id>https://rachelbythebay.com/w/2020/11/26/magic/</id>
+        <link href="https://rachelbythebay.com/w/2020/11/26/magic/"/>
+        <updated>2021-12-03T06:19:07.000Z</updated>
+        <summary type="html"><![CDATA[Hello, world!  A couple of days ago, I noticed someone remarking on a 
+line from an older post of mine that had been making the rounds.  In it, 
+I say something about adding a number to "my list of magic numbers".  
+That person wanted to see that list.
+
+
+And so, I have put together this list of everything I can think of at 
+the moment, along with a whole bunch of commentary that should be able 
+to send you on dozens of romps through Wikipedia.  Hopefully this will 
+both satisfy the request for "the list" and provide a lot of amusement 
+on a day which normally is lacking in content.
+
+
+Be safe out there, and enjoy.
+
+
+"HTTP" is 0x48545450 (1213486160) or 0x50545448 (1347703880).  If it 
+shows up in your error logs, you're probably calling out to a poor web 
+server instead of someone who actua…]]></summary>
+        <author>
+            <name>Writing - rachelbythebay</name>
         </author>
     </entry>
     <entry>
@@ -1726,39 +1806,6 @@ Here’s the trick. You need to get stakeholders themselves to identify high-ris
         <link href="https://pluralistic.net/2021/10/21/sidechannels/"/>
         <updated>2021-10-21T12:31:15.000Z</updated>
         <summary type="html"><![CDATA[Today's links Imperfections in your Bluetooth beacons allow for unstoppable tracking: Fingerprinting BLE with minor material variations in radio hardware. This day in history: 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Imperfections in your Bluetooth beacons allow for unstoppable tracking (permalink) It's often said that there is a trade-off between privacy and convenience – while that's often overstated, there are some ways in which it is inarguably true. For example, it would be convenient to give all your devices radio chips that constantly broadcasted a unique number, and whenever one of our mobile devices encountered a radio beacon, it could log the event and the location. Then, if we wanted to find something …]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to get useful answers to your questions]]></title>
-        <id>https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/</id>
-        <link href="https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/"/>
-        <updated>2021-10-21T11:06:26.000Z</updated>
-        <summary type="html"><![CDATA[5 years ago I wrote a post called how to ask good questions.
-I still really like that post, but it’s missing a few of the tactics I use to
-get useful answers like “interrupt people when they’re going off on an
-irrelevant tangent”.
-what can go wrong when asking questions
-Often when I ask a vague or underspecified question, what happens is one of:
-the person starts by explaining a bunch of stuff I already know
-the person explains some things which I don’t know, but which I don’t think
-are relevant to my problem
-the person starts giving a relevant explanation, but using terminology that
-I don’t understand, so I still end up being confused
-None of these give me the answer to my question and this can be quite
-frustrating (it often feels condescending when someone embarks on a lengthy
-explanatio…]]></summary>
-        <author>
-            <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 20 Oct 2021]]></title>
-        <id>https://pluralistic.net/?p=2749</id>
-        <link href="https://pluralistic.net/2021/10/20/vizio-vs-the-world/"/>
-        <updated>2021-10-20T17:19:18.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Copyleft lawsuit against Vizio will allow anyone to defend the commons: Software Freedom Conservancy realizes the dream of "Community-Oriented GPL Enforcement." The monopoly strategy behind the Google/Microsoft mobile patent wars: The victory condition isn't highest profits, it's market dominance. This day in history: 2006, 2011, 2016, 2020. Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Copyleft lawsuit against Vizio will allow anyone to defend the commons (permalink) When the free software movement started to make headway, proprietary software companies like Microsoft went to war against it, describing the licenses at its core (like the GPL) as "viral licenses" to scare companies off from using free software. The GPL is…]]></summary>
         <author>
             <name>Cory Doctorow</name>
         </author>
