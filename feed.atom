@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-12-25T00:19:28.716Z</updated>
+    <updated>2021-12-26T00:21:57.273Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fix the unit test and open a giant hole everywhere]]></title>
+        <id>https://rachelbythebay.com/w/2021/12/24/mkdir/</id>
+        <link href="https://rachelbythebay.com/w/2021/12/24/mkdir/"/>
+        <updated>2021-12-25T19:49:20.000Z</updated>
+        <summary type="html"><![CDATA[Several years back, I was doing my thing in a corporate environment, 
+working on a project with some friends.  By virtue of being in a very 
+large company, we had quite the assortment of libraries which could be 
+brought in to do stuff.  Given that we had a "would be nice" item on our 
+feature list that involved doing something with the filesystem, I went 
+looking for a matching feature, and it turned into a security dumpster 
+fire.  Here's what happened.
+
+
+When you're in that situation, you can't just mkdir() the final path.  
+It won't work.  You have to start from the top and work your way down.  
+The ones which already exist will probably fail with -EEXIST, so 
+sometimes it makes more sense to look at what's there, work your way 
+down, and then start the mkdir calls when you find that p…]]></summary>
+        <author>
+            <name>Writing - rachelbythebay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Twelve Days of Crunch Time Again]]></title>
+        <id>https://grumpygamer.com/12_days_of_crunch_time_yet_again</id>
+        <link href="https://grumpygamer.com/12_days_of_crunch_time_yet_again"/>
+        <updated>2021-12-25T17:56:05.000Z</updated>
+        <summary type="html"><![CDATA[Holiday repost!
+Clayton and I did this back in Dec of 2004.  Interesting how much hasn't changed. I'd have more "male" spouses now, something about loot crates and IAP, kissing up to steamers, and maybe change the last verse to be more "indie", but its shockingly accurate years later.
+The Twelve Days of Crunch Time
+A poem by Gilbert and Kauzlaric
+On the twelfth day of crunch time,
+My project gave to me...
+
+Twelve cents in royalties,
+
+Eleven kiss-ass previews,
+
+Ten nerdy testers,
+
+Nine patent lawsuits,
+
+Eight unplanned for features,
+
+Seven frames a second,
+
+Six angry spouses,
+
+Five focus groups!
+
+Four unstable hacks,
+
+Three days without sleep,
+
+Two surly artists,
+
+and a crappy publishing deal.]]></summary>
+        <author>
+            <name>Grumpy Gamer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[December 25th Launch]]></title>
+        <id>https://xkcd.com/2559/</id>
+        <link href="https://xkcd.com/2559/"/>
+        <updated>2021-12-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/december_25th_launch.png" title="Update: Santa has been destroyed by the range safety officer." alt="Update: Santa has been destroyed by the range safety officer." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lego Report 6]]></title>
         <id>https://grumpygamer.com/lego6</id>
@@ -1766,26 +1838,6 @@ The post Tired of spam? A burner email account could be the answer. appeared fir
 The post More Stories Behind the Podcasts: Slate’s Latest Curated Collections on Pocket appeared first on The Mozilla Blog.]]></summary>
         <author>
             <name>Mozilla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Retractable Rocket]]></title>
-        <id>https://xkcd.com/2534/</id>
-        <link href="https://xkcd.com/2534/"/>
-        <updated>2021-10-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/retractable_rocket.png" title="Hard to believe that for so many years once they were fully extended we just let them tip over." alt="Hard to believe that for so many years once they were fully extended we just let them tip over." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 26 Oct 2021]]></title>
-        <id>https://pluralistic.net/?p=2773</id>
-        <link href="https://pluralistic.net/2021/10/26/inequality-and-guard-labor/"/>
-        <updated>2021-10-26T15:59:35.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Maxing out our global credit-card with authoritarian debt: Or, why countries are spending more on "border security" than the climate emergency. This day in history: 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Maxing out our global credit-card with authoritarian debt (permalink) People who fret about the debt we're taking on to deal with climate change are (half) right. Because there's two ways of dealing with the climate emergency: either we can avert it, or we can seek high ground and erect high walls. Guess which one we're doing. Yeah. The world's richest countries are on track to spending more on their "border defense" than they are on their climate commitments. Molly Taft breaks it down for G…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
         </author>
     </entry>
 </feed>

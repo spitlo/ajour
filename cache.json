@@ -110,6 +110,15 @@
       "siteUrl": "https://grumpygamer.com",
       "articles": [
         {
+          "id": "https://grumpygamer.com/12_days_of_crunch_time_yet_again",
+          "author": null,
+          "description": "Holiday repost!\nClayton and I did this back in Dec of 2004.  Interesting how much hasn't changed. I'd have more \"male\" spouses now, something about loot crates and IAP, kissing up to steamers, and maybe change the last verse to be more \"indie\", but its shockingly accurate years later.\nThe Twelve Days of Crunch Time\nA poem by Gilbert and Kauzlaric\nOn the twelfth day of crunch time,\nMy project gave to me...\n\nTwelve cents in royalties,\n\nEleven kiss-ass previews,\n\nTen nerdy testers,\n\nNine patent lawsuits,\n\nEight unplanned for features,\n\nSeven frames a second,\n\nSix angry spouses,\n\nFive focus groups!\n\nFour unstable hacks,\n\nThree days without sleep,\n\nTwo surly artists,\n\nand a crappy publishing deal.",
+          "link": "https://grumpygamer.com/12_days_of_crunch_time_yet_again",
+          "publishedOn": "2021-12-25T17:56:05.000Z",
+          "wordCount": 207,
+          "title": "The Twelve Days of Crunch Time Again"
+        },
+        {
           "id": "https://grumpygamer.com/lego6",
           "author": null,
           "description": "We should be done in time for the upcoming gladiator '22 season.  Tickets are still available. I hear Ferocianus Maximus is going to do well this year.",
@@ -213,6 +222,15 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2559/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/december_25th_launch.png\" title=\"Update: Santa has been destroyed by the range safety officer.\" alt=\"Update: Santa has been destroyed by the range safety officer.\" />",
+          "link": "https://xkcd.com/2559/",
+          "publishedOn": "2021-12-24T00:00:00.000Z",
+          "wordCount": 205,
+          "title": "December 25th Launch"
+        },
         {
           "id": "https://xkcd.com/2558/",
           "author": null,
@@ -428,15 +446,6 @@
           "publishedOn": "2021-10-29T00:00:00.000Z",
           "wordCount": 187,
           "title": "Common Cold Viruses"
-        },
-        {
-          "id": "https://xkcd.com/2534/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/retractable_rocket.png\" title=\"Hard to believe that for so many years once they were fully extended we just let them tip over.\" alt=\"Hard to believe that for so many years once they were fully extended we just let them tip over.\" />",
-          "link": "https://xkcd.com/2534/",
-          "publishedOn": "2021-10-27T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Retractable Rocket"
         }
       ]
     },
@@ -533,6 +542,15 @@
       "feedUrl": "https://rachelbythebay.com/w/atom.xml",
       "siteUrl": "https://rachelbythebay.com/w/",
       "articles": [
+        {
+          "id": "https://rachelbythebay.com/w/2021/12/24/mkdir/",
+          "author": null,
+          "description": "Several years back, I was doing my thing in a corporate environment, \nworking on a project with some friends.  By virtue of being in a very \nlarge company, we had quite the assortment of libraries which could be \nbrought in to do stuff.  Given that we had a \"would be nice\" item on our \nfeature list that involved doing something with the filesystem, I went \nlooking for a matching feature, and it turned into a security dumpster \nfire.  Here's what happened.\n\n\nWhen you're in that situation, you can't just mkdir() the final path.  \nIt won't work.  You have to start from the top and work your way down.  \nThe ones which already exist will probably fail with -EEXIST, so \nsometimes it makes more sense to look at what's there, work your way \ndown, and then start the mkdir calls when you find that p…",
+          "link": "https://rachelbythebay.com/w/2021/12/24/mkdir/",
+          "publishedOn": "2021-12-25T19:49:20.000Z",
+          "wordCount": 961,
+          "title": "Fix the unit test and open a giant hole everywhere"
+        },
         {
           "id": "https://rachelbythebay.com/w/2021/12/18/log/",
           "author": null,
@@ -1253,15 +1271,6 @@
           "publishedOn": "2021-10-27T17:31:03.000Z",
           "wordCount": 1813,
           "title": "Pluralistic: 27 Oct 2021"
-        },
-        {
-          "id": "https://pluralistic.net/?p=2773",
-          "author": "Cory Doctorow",
-          "description": "Today's links Maxing out our global credit-card with authoritarian debt: Or, why countries are spending more on \"border security\" than the climate emergency. This day in history: 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Maxing out our global credit-card with authoritarian debt (permalink) People who fret about the debt we're taking on to deal with climate change are (half) right. Because there's two ways of dealing with the climate emergency: either we can avert it, or we can seek high ground and erect high walls. Guess which one we're doing. Yeah. The world's richest countries are on track to spending more on their \"border defense\" than they are on their climate commitments. Molly Taft breaks it down for G…",
-          "link": "https://pluralistic.net/2021/10/26/inequality-and-guard-labor/",
-          "publishedOn": "2021-10-26T15:59:35.000Z",
-          "wordCount": 2375,
-          "title": "Pluralistic: 26 Oct 2021"
         }
       ]
     },
