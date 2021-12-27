@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-12-26T00:21:57.273Z</updated>
+    <updated>2021-12-27T00:20:55.946Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
@@ -1712,130 +1712,6 @@ I'm sure my non-solution probably bit someone later.  Sorry, whoever.]]></summar
         <updated>2021-10-28T16:16:50.000Z</updated>
         <summary type="html"><![CDATA[Mozilla’s Firefox is thrilled to be named one of the nearly 100 brands within Fast Company Magazine’s inaugural and high-profile, Brands That Matter 2021 ranking and recognition program for companies and nonprofits that have had an undeniable impact on business and culture. Mozilla’s Firefox was recognized by Fast Company specifically for “continuing to do what […]
 The post Mozilla’s Firefox named in inaugural Brands That Matter appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Mozilla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Edge DevTools for Visual Studio Code 1.4.0 – Improved Screencasting, Device Emulation and live, inline issue reporting]]></title>
-        <id>https://christianheilmann.com/?p=6988</id>
-        <link href="https://christianheilmann.com/2021/10/28/edge-devtools-for-visual-studio-code-1-4-0-improved-screencasting-device-emulation-and-live-inline-issue-reporting/"/>
-        <updated>2021-10-28T06:02:36.000Z</updated>
-        <summary type="html"><![CDATA[The 1.4.0 release of the Microsoft Tools for Visual Studio Code brings a few highly requested features. We improved the screencasting feature, added device emulation and live issue reporting in your source code. You can check the 3 minute highlight reel here . Improved screencasting In previous versions of the extension, the screencast was a […]]]></summary>
-        <author>
-            <name>Chris Heilmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mac upgrade opened sshd to brute force password attacks]]></title>
-        <id>https://rachelbythebay.com/w/2021/03/10/sealed/</id>
-        <link href="https://rachelbythebay.com/w/2021/03/10/sealed/"/>
-        <updated>2021-10-27T23:27:38.000Z</updated>
-        <summary type="html"><![CDATA[A couple of weeks ago, I read a
-post
-about how the "sealed system" on Big Sur was hurting people.  I kind of 
-skimmed through it and figured it was mostly complaining about the 
-size of the download.  For whatever reason, that hadn't been a problem 
-for me and my machines, so I kind of wrote it off.
-
-
-For a good number of years, I've been (foolishly, as it turns out) using 
-the included Apache httpd to run small localhost-only stuff on my Mac 
-laptop.  In recent times, I found that every upgrade of the OS would 
-revert my httpd.conf and it would need to be put back.
-
-
-Why would it matter if the sshd config got reverted?  Simple: it's 
-because the stock Mac sshd install includes password-based auth, and 
-that means someone can brute-force their way onto your machine if they 
-can connect to …]]></summary>
-        <author>
-            <name>Writing - rachelbythebay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disabling ssh password auth on Monterey is different]]></title>
-        <id>https://rachelbythebay.com/w/2021/10/27/macssh/</id>
-        <link href="https://rachelbythebay.com/w/2021/10/27/macssh/"/>
-        <updated>2021-10-27T23:26:13.000Z</updated>
-        <summary type="html"><![CDATA[If you're riding the bleeding edge of Mac software updates, you might 
-have just installed Monterey, or you will soon.  If you're also running 
-sshd so you can log in remotely, you should be aware that the typical 
-"revert your config" shenanigans have happened, so you are
-once again
-accepting password authentication, and thus are subject to a brute-force 
-attack.
-
-
-Editing that file would likely get reverted upon the next patch 
-(12.0.2?), so that's right out.  You can't go past it with a higher 
-number, since as the sshd_config points out, the *first* instance of a 
-setting is kept, and subsequent instances of the same setting are 
-ignored.
-
-
-
-UsePAM no
-PasswordAuthentication no
-
-
-
-Finally, after you make this change, make sure it actually worked by 
-forcing a password/interactive-only login attempt to the machine.  Make 
-sure it fails and doesn't ask you for a password.  If you don't know how 
-to do this, the
-previous post
-contains info on that, including a terrible scanner script that belongs 
-in the bottom of a cat box.
-
-Enjoy.]]></summary>
-        <author>
-            <name>Writing - rachelbythebay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 27 Oct 2021]]></title>
-        <id>https://pluralistic.net/?p=2779</id>
-        <link href="https://pluralistic.net/2021/10/27/crossing-a-line/"/>
-        <updated>2021-10-27T17:31:03.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Hospital rings up $2755 upcharge by sending pregnant woman to ER: Poudre Valley Hospital is a clip-joint. This day in history: 2001, 2006, 2011, 2016, 2020. Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Hospital rings up $2755 upcharge by sending pregnant woman to ER (permalink) "American health care billing horror stories" is one of my favorite, love-to-hate-it genres. The 24/7 gaslighting delivered by the health-industrial complex is quite a mind-zap and it's nice to get these reminders that we're not all hallucinating here. If you'd like an unrolled version of this thread to read or share, here's a link to it on pluralistic.net, my surveillance-free, ad-free, tracker-free blog: https://pluralistic.net/2021/10/27/cross…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scribe - An alternative frontend to Medium [link]]]></title>
-        <id>2021-10-27-568af69b</id>
-        <link href="https://remysharp.com/links/2021-10-27-568af69b"/>
-        <updated>2021-10-27T17:26:35.000Z</updated>
-        <summary type="html"><![CDATA[I hadn't realised that Medium had made JavaScript a requirement to be able to read any Medium post - I'd had JS disabled for ages on Medium just because of all the extra cruft they added.
-But now, without JS, you only get the first few lines of content, and the rest is loaded entirely with JS - which… is stupid.
-Scribe fixes all that and focuses entirely on the author's content.
-I also used the FAQ to auto redirect and now I can read the full content without being distracted by Medium's horrid cruft.
-Great example of taking back the web.
-Source: scribe.rip]]></summary>
-        <author>
-            <name>remy sharp's b:log</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tired of spam? A burner email account could be the answer.]]></title>
-        <id>https://blog.mozilla.org/?p=67442</id>
-        <link href="https://blog.mozilla.org/en/products/firefox/burner-email-firefox-relay/"/>
-        <updated>2021-10-27T16:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever been in that situation where you need to give your email address over, but you don’t want to? There could be a security reason. Can you trust who you’re sharing with not to spam your inbox? Are you certain they won’t expose you to data breaches due to lax security on their […]
-The post Tired of spam? A burner email account could be the answer. appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>M.J. Kelly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More Stories Behind the Podcasts: Slate’s Latest Curated Collections on Pocket]]></title>
-        <id>https://blog.mozilla.org/?p=67618</id>
-        <link href="https://blog.mozilla.org/en/products/pocket/slate-pocket-partnership-slow-burn-season-6/"/>
-        <updated>2021-10-27T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Slate and Mozilla’s Pocket have extended their ‘Behind The Podcasts’ collaboration, partnering on a series of new Pocket Collections to provide podcast and Pocket fans with even more opportunities to explore the behind-the-scenes stories that inspired some of Slate’s most successful podcasts. This November, Pocket readers can look forward to all-new collections curated by Slate’s […]
-The post More Stories Behind the Podcasts: Slate’s Latest Curated Collections on Pocket appeared first on The Mozilla Blog.]]></summary>
         <author>
             <name>Mozilla</name>
         </author>

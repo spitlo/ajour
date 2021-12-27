@@ -45,15 +45,6 @@
             "length": "2040538",
             "type": "video/mp4"
           }
-        },
-        {
-          "id": "https://christianheilmann.com/?p=6988",
-          "author": "Chris Heilmann",
-          "description": "The 1.4.0 release of the Microsoft Tools for Visual Studio Code brings a few highly requested features. We improved the screencasting feature, added device emulation and live issue reporting in your source code. You can check the 3 minute highlight reel here . Improved screencasting In previous versions of the extension, the screencast was a […]",
-          "link": "https://christianheilmann.com/2021/10/28/edge-devtools-for-visual-studio-code-1-4-0-improved-screencasting-device-emulation-and-live-inline-issue-reporting/",
-          "publishedOn": "2021-10-28T06:02:36.000Z",
-          "wordCount": 566,
-          "title": "Edge DevTools for Visual Studio Code 1.4.0 – Improved Screencasting, Device Emulation and live, inline issue reporting"
         }
       ]
     },
@@ -525,15 +516,6 @@
           "publishedOn": "2021-10-31T00:00:00.000Z",
           "wordCount": 287,
           "title": "The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1) [book]"
-        },
-        {
-          "id": "2021-10-27-568af69b",
-          "author": null,
-          "description": "I hadn't realised that Medium had made JavaScript a requirement to be able to read any Medium post - I'd had JS disabled for ages on Medium just because of all the extra cruft they added.\nBut now, without JS, you only get the first few lines of content, and the rest is loaded entirely with JS - which… is stupid.\nScribe fixes all that and focuses entirely on the author's content.\nI also used the FAQ to auto redirect and now I can read the full content without being distracted by Medium's horrid cruft.\nGreat example of taking back the web.\nSource: scribe.rip",
-          "link": "https://remysharp.com/links/2021-10-27-568af69b",
-          "publishedOn": "2021-10-27T17:26:35.000Z",
-          "wordCount": 257,
-          "title": "Scribe - An alternative frontend to Medium [link]"
         }
       ]
     },
@@ -622,24 +604,6 @@
           "publishedOn": "2021-10-30T22:26:43.000Z",
           "wordCount": 581,
           "title": "Now you can (try to) serve five terabytes, too"
-        },
-        {
-          "id": "https://rachelbythebay.com/w/2021/03/10/sealed/",
-          "author": null,
-          "description": "A couple of weeks ago, I read a\npost\nabout how the \"sealed system\" on Big Sur was hurting people.  I kind of \nskimmed through it and figured it was mostly complaining about the \nsize of the download.  For whatever reason, that hadn't been a problem \nfor me and my machines, so I kind of wrote it off.\n\n\nFor a good number of years, I've been (foolishly, as it turns out) using \nthe included Apache httpd to run small localhost-only stuff on my Mac \nlaptop.  In recent times, I found that every upgrade of the OS would \nrevert my httpd.conf and it would need to be put back.\n\n\nWhy would it matter if the sshd config got reverted?  Simple: it's \nbecause the stock Mac sshd install includes password-based auth, and \nthat means someone can brute-force their way onto your machine if they \ncan connect to …",
-          "link": "https://rachelbythebay.com/w/2021/03/10/sealed/",
-          "publishedOn": "2021-10-27T23:27:38.000Z",
-          "wordCount": 1281,
-          "title": "Mac upgrade opened sshd to brute force password attacks"
-        },
-        {
-          "id": "https://rachelbythebay.com/w/2021/10/27/macssh/",
-          "author": null,
-          "description": "If you're riding the bleeding edge of Mac software updates, you might \nhave just installed Monterey, or you will soon.  If you're also running \nsshd so you can log in remotely, you should be aware that the typical \n\"revert your config\" shenanigans have happened, so you are\nonce again\naccepting password authentication, and thus are subject to a brute-force \nattack.\n\n\nEditing that file would likely get reverted upon the next patch \n(12.0.2?), so that's right out.  You can't go past it with a higher \nnumber, since as the sshd_config points out, the *first* instance of a \nsetting is kept, and subsequent instances of the same setting are \nignored.\n\n\n\nUsePAM no\nPasswordAuthentication no\n\n\n\nFinally, after you make this change, make sure it actually worked by \nforcing a password/interactive-only login attempt to the machine.  Make \nsure it fails and doesn't ask you for a password.  If you don't know how \nto do this, the\nprevious post\ncontains info on that, including a terrible scanner script that belongs \nin the bottom of a cat box.\n\nEnjoy.",
-          "link": "https://rachelbythebay.com/w/2021/10/27/macssh/",
-          "publishedOn": "2021-10-27T23:26:13.000Z",
-          "wordCount": 302,
-          "title": "Disabling ssh password auth on Monterey is different"
         }
       ]
     },
@@ -886,24 +850,6 @@
           "publishedOn": "2021-10-28T16:16:50.000Z",
           "wordCount": 1130,
           "title": "Mozilla’s Firefox named in inaugural Brands That Matter"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=67442",
-          "author": "M.J. Kelly",
-          "description": "Have you ever been in that situation where you need to give your email address over, but you don’t want to? There could be a security reason. Can you trust who you’re sharing with not to spam your inbox? Are you certain they won’t expose you to data breaches due to lax security on their […]\nThe post Tired of spam? A burner email account could be the answer. appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/products/firefox/burner-email-firefox-relay/",
-          "publishedOn": "2021-10-27T16:15:00.000Z",
-          "wordCount": 1551,
-          "title": "Tired of spam? A burner email account could be the answer."
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=67618",
-          "author": "Mozilla",
-          "description": "Slate and Mozilla’s Pocket have extended their ‘Behind The Podcasts’ collaboration, partnering on a series of new Pocket Collections to provide podcast and Pocket fans with even more opportunities to explore the behind-the-scenes stories that inspired some of Slate’s most successful podcasts. This November, Pocket readers can look forward to all-new collections curated by Slate’s […]\nThe post More Stories Behind the Podcasts: Slate’s Latest Curated Collections on Pocket appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/products/pocket/slate-pocket-partnership-slow-burn-season-6/",
-          "publishedOn": "2021-10-27T13:00:00.000Z",
-          "wordCount": 1231,
-          "title": "More Stories Behind the Podcasts: Slate’s Latest Curated Collections on Pocket"
         }
       ]
     },
@@ -1262,15 +1208,6 @@
           "publishedOn": "2021-10-28T16:39:32.000Z",
           "wordCount": 4353,
           "title": "Pluralistic: 28 Oct 2021"
-        },
-        {
-          "id": "https://pluralistic.net/?p=2779",
-          "author": "Cory Doctorow",
-          "description": "Today's links Hospital rings up $2755 upcharge by sending pregnant woman to ER: Poudre Valley Hospital is a clip-joint. This day in history: 2001, 2006, 2011, 2016, 2020. Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Hospital rings up $2755 upcharge by sending pregnant woman to ER (permalink) \"American health care billing horror stories\" is one of my favorite, love-to-hate-it genres. The 24/7 gaslighting delivered by the health-industrial complex is quite a mind-zap and it's nice to get these reminders that we're not all hallucinating here. If you'd like an unrolled version of this thread to read or share, here's a link to it on pluralistic.net, my surveillance-free, ad-free, tracker-free blog: https://pluralistic.net/2021/10/27/cross…",
-          "link": "https://pluralistic.net/2021/10/27/crossing-a-line/",
-          "publishedOn": "2021-10-27T17:31:03.000Z",
-          "wordCount": 1813,
-          "title": "Pluralistic: 27 Oct 2021"
         }
       ]
     },
