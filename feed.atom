@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2021-12-29T00:19:55.372Z</updated>
+    <updated>2021-12-30T00:20:27.807Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Moonfall]]></title>
+        <id>https://xkcd.com/2561/</id>
+        <link href="https://xkcd.com/2561/"/>
+        <updated>2021-12-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/moonfall.png" title="Novel ideas and cool explosions are both good, but what I really want from a movie is novel ideas ABOUT cool explosions." alt="Novel ideas and cool explosions are both good, but what I really want from a movie is novel ideas ABOUT cool explosions." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lego Report 8]]></title>
         <id>https://grumpygamer.com/lego8</id>
@@ -1629,76 +1639,6 @@ The post Introducing new Colorways for Firefox 94 appeared first on The Mozilla 
         <summary type="html"><![CDATA[Events IF Comp games are currently available to play and judge. Anyone can participate in judging — so if you want to be part of that, check out the website for instructions. The judging period runs through November 15. November 6 is the next meetup of the San Francisco Bay Area IF Group. Starting November … Continue reading "End of October Link Assortment"]]></summary>
         <author>
             <name>Emily Short</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MIDI controller to PS/2 - part 2 [blog]]]></title>
-        <id>midi-controller-to-ps2-part-2</id>
-        <link href="https://remysharp.com/2021/10/31/midi-controller-to-ps2-part-2"/>
-        <updated>2021-10-31T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In part 1 I explained how I took (mostly) off the shelf breakout boards and wired them up to talk to the Spectrum Next so I could use a MIDI controller attached to the PS/2 port (the external keyboard) to play music on the Spectrum Next's DAW software: NextDAW.
-However, I wanted to make it tidier and cheaper (to a potential user) which I alluded to at the end of the part 1 post.
-I did just that, and produced 30 custom PCBs with a custom 3D printed housing which have all been sold and sent to people across the globe, including the UK, Germany, Sweden, Netherlands, Brazil and Japan.]]></summary>
-        <author>
-            <name>remy sharp's b:log</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1) [book]]]></title>
-        <id>the-hitchhikers-guide-to-the-galaxy-hitchhikers-guide-to-the-galaxy-1</id>
-        <link href="https://remysharp.com/books/2021/the-hitchhikers-guide-to-the-galaxy-hitchhikers-guide-to-the-galaxy-1"/>
-        <updated>2021-10-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[My kind of silly.
-I'd known the story for many years, but didn't realise it was written in the 70s (or "nearly 80s"). My best knowledge of it was the movie with Martin Freeman in 2005 … which, didn't quite live up to my expectation round the hype.
-The book I found to be better (than the film - sorry purists - I know I shouldn't compare!), though I couldn't stop hearing Alan Rickman's voice as Marvin.
-I did sort of feel like nothing actually happened in the book. It was an adventure, but I think I missed the character arcs - or… I wasn't sure where to look!
-Overall, good, funny and properly silly.]]></summary>
-        <author>
-            <name>remy sharp's b:log</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Now you can (try to) serve five terabytes, too]]></title>
-        <id>https://rachelbythebay.com/w/2021/10/30/5tb/</id>
-        <link href="https://rachelbythebay.com/w/2021/10/30/5tb/"/>
-        <updated>2021-10-30T22:26:43.000Z</updated>
-        <summary type="html"><![CDATA[Almost ten years ago,
-I wrote an obscure post about something that would have only made sense 
-if you also worked at Google at the time it happened (around 2010).  It 
-was a reference to an Xtranormal video that someone created about the 
-perils of trying to get your stuff running in production without having 
-someone hate on you for "doing it wrong".
-
-
-When it came out, I took a screenshot of the long-suffering engineer 
-(some kind of red panda/fox girl thing) and had a T-shirt made from it.  
-I wore it to work a few times to great effect.  It was our own little 
-internal joke within the company.
-
-
-Ready?  
-Here it is.
-
-
-As for everything in the video, it is really close to what the reality 
-of production was back in the day.  Things were actually quite a bit 
-worse than what it suggests, if you can believe it.  The whole thing 
-about "get quota in two cells" misses the fact that it was damn near 
-impossible to get the quota you needed across multiple services 
-(compute, storage, ...) in the same place at the same time.
-
-
-So, if you heard stories about software engineers doing shady deals to 
-trade quota between teams so they could get all of the stuff in the 
-same spot?  Yep, this is where those came from.  That's the kind of 
-thing that was happening.  People had to blow time and energy on 
-worrying about that kind of thing instead of working on whatever they 
-were supposed to be doing.
-
-
-I'm sure my non-solution probably bit someone later.  Sorry, whoever.]]></summary>
-        <author>
-            <name>Writing - rachelbythebay</name>
         </author>
     </entry>
 </feed>

@@ -232,6 +232,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2561/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/moonfall.png\" title=\"Novel ideas and cool explosions are both good, but what I really want from a movie is novel ideas ABOUT cool explosions.\" alt=\"Novel ideas and cool explosions are both good, but what I really want from a movie is novel ideas ABOUT cool explosions.\" />",
+          "link": "https://xkcd.com/2561/",
+          "publishedOn": "2021-12-29T00:00:00.000Z",
+          "wordCount": 201,
+          "title": "Moonfall"
+        },
+        {
           "id": "https://xkcd.com/2560/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/confounding_variables.png\" title=\"You can find a perfect correlation if you just control for the residual.\" alt=\"You can find a perfect correlation if you just control for the residual.\" />",
@@ -516,24 +525,6 @@
           "publishedOn": "2021-11-05T00:00:00.000Z",
           "wordCount": 952,
           "title": "What I did last pandemic [blog]"
-        },
-        {
-          "id": "midi-controller-to-ps2-part-2",
-          "author": null,
-          "description": "In part 1 I explained how I took (mostly) off the shelf breakout boards and wired them up to talk to the Spectrum Next so I could use a MIDI controller attached to the PS/2 port (the external keyboard) to play music on the Spectrum Next's DAW software: NextDAW.\nHowever, I wanted to make it tidier and cheaper (to a potential user) which I alluded to at the end of the part 1 post.\nI did just that, and produced 30 custom PCBs with a custom 3D printed housing which have all been sold and sent to people across the globe, including the UK, Germany, Sweden, Netherlands, Brazil and Japan.",
-          "link": "https://remysharp.com/2021/10/31/midi-controller-to-ps2-part-2",
-          "publishedOn": "2021-10-31T09:00:00.000Z",
-          "wordCount": 1551,
-          "title": "MIDI controller to PS/2 - part 2 [blog]"
-        },
-        {
-          "id": "the-hitchhikers-guide-to-the-galaxy-hitchhikers-guide-to-the-galaxy-1",
-          "author": null,
-          "description": "My kind of silly.\nI'd known the story for many years, but didn't realise it was written in the 70s (or \"nearly 80s\"). My best knowledge of it was the movie with Martin Freeman in 2005 … which, didn't quite live up to my expectation round the hype.\nThe book I found to be better (than the film - sorry purists - I know I shouldn't compare!), though I couldn't stop hearing Alan Rickman's voice as Marvin.\nI did sort of feel like nothing actually happened in the book. It was an adventure, but I think I missed the character arcs - or… I wasn't sure where to look!\nOverall, good, funny and properly silly.",
-          "link": "https://remysharp.com/books/2021/the-hitchhikers-guide-to-the-galaxy-hitchhikers-guide-to-the-galaxy-1",
-          "publishedOn": "2021-10-31T00:00:00.000Z",
-          "wordCount": 287,
-          "title": "The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1) [book]"
         }
       ]
     },
@@ -613,15 +604,6 @@
           "publishedOn": "2021-11-05T07:13:18.000Z",
           "wordCount": 652,
           "title": "Years since 1900 + seven bits = breakage in 2028"
-        },
-        {
-          "id": "https://rachelbythebay.com/w/2021/10/30/5tb/",
-          "author": null,
-          "description": "Almost ten years ago,\nI wrote an obscure post about something that would have only made sense \nif you also worked at Google at the time it happened (around 2010).  It \nwas a reference to an Xtranormal video that someone created about the \nperils of trying to get your stuff running in production without having \nsomeone hate on you for \"doing it wrong\".\n\n\nWhen it came out, I took a screenshot of the long-suffering engineer \n(some kind of red panda/fox girl thing) and had a T-shirt made from it.  \nI wore it to work a few times to great effect.  It was our own little \ninternal joke within the company.\n\n\nReady?  \nHere it is.\n\n\nAs for everything in the video, it is really close to what the reality \nof production was back in the day.  Things were actually quite a bit \nworse than what it suggests, if you can believe it.  The whole thing \nabout \"get quota in two cells\" misses the fact that it was damn near \nimpossible to get the quota you needed across multiple services \n(compute, storage, ...) in the same place at the same time.\n\n\nSo, if you heard stories about software engineers doing shady deals to \ntrade quota between teams so they could get all of the stuff in the \nsame spot?  Yep, this is where those came from.  That's the kind of \nthing that was happening.  People had to blow time and energy on \nworrying about that kind of thing instead of working on whatever they \nwere supposed to be doing.\n\n\nI'm sure my non-solution probably bit someone later.  Sorry, whoever.",
-          "link": "https://rachelbythebay.com/w/2021/10/30/5tb/",
-          "publishedOn": "2021-10-30T22:26:43.000Z",
-          "wordCount": 581,
-          "title": "Now you can (try to) serve five terabytes, too"
         }
       ]
     },
