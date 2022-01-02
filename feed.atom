@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-01-01T00:21:05.220Z</updated>
+    <updated>2022-01-02T00:21:28.878Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[YYMMDDHHMM just overflowed a signed 32 bit int]]></title>
+        <id>https://rachelbythebay.com/w/2022/01/01/baddate/</id>
+        <link href="https://rachelbythebay.com/w/2022/01/01/baddate/"/>
+        <updated>2022-01-01T19:36:01.000Z</updated>
+        <summary type="html"><![CDATA[I guess I've turned into a collector of numbers that break things 
+sometimes.  Here's another one I just heard about, and it's directly 
+related to what just happened with the calendar.
+
+
+The last value for last year is December 31, 2021 at 23:59, and in this 
+format it becomes 2112312359.  That just fits into a signed 32 bit 
+number (which tops out at 2147483647).
+
+
+So, if you're using Microsoft Exchange and stopped getting your mail in 
+the past couple of hours, this is why!
+
+Really!  No joke!
+
+Happy 2022, everyone.]]></summary>
+        <author>
+            <name>Writing - rachelbythebay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021]]></title>
+        <id>https://grumpygamer.com/the_future</id>
+        <link href="https://grumpygamer.com/the_future"/>
+        <updated>2022-01-01T02:01:21.000Z</updated>
+        <summary type="html"><![CDATA[Well, it's 2022 and everything is turning out exactly as I predicted back when I was 7. Self-driving cars, space stations, the internet.  Nailed it.
+Favorite TV show of 2021 was Only Murders in the Building.  
+Favorite game of 2021 was Loop Heroes. 
+Favorite book of 2021 was Einstein's Fridge.
+Favorite rediscovered joy of 2021 was reading physical books.
+Favorite movie of 2021 was Dune.
+Favorite time waster of 2021 was watching physics videos on YouTube.
+Least favorite movie of 2021 was anything with f**king superheroes.
+Favorite pandemic of 2021 was Covid-19 (three years running).
+See you in an exciting 2022 where everyone will be nice and respectful and personal agendas are put aside for the greater good and we all come together and save the planet. 
+Either that or a horrific dystopian post-apocalyptic world where we hunt each other for food.
+2022 could go either way.]]></summary>
+        <author>
+            <name>Grumpy Gamer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[End of December Link Assortment]]></title>
         <id>http://emshort.blog/?p=42242</id>
@@ -1627,75 +1673,6 @@ error: Hmm. We’re having trouble finding that site. We can’t connect to the
 server at bananas.wizardzines.…]]></summary>
         <author>
             <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summary of changes for October]]></title>
-        <id>log.html#oct2021</id>
-        <link href="https://100r.co/site/log.html#oct2021"/>
-        <updated>2021-11-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hey everyone! This is the list of all the changes we've done to our projects and apps during the month of October. We'll also be reporting in our on position in the world, and on our future plans.
-Summary Of Changes
-donsol, ported our Famicom(6502) code to Varvara(uxn).
-uxn, wrote a reference guide and created a list of community projects.
-noodle, added guides for the line and rectangle tool and updated shortcuts in the documentation.
-grimgrains, optimized images and published a Chunky Apple Jam recipe.
-100r, optimized images (see Rek's notes). Added new pages: boom tent, grinder and small space.
-left, optimized code.
-nasu, fixed crashing bug with large selections.
-News
-This month, we found a used grain mill for Pino! Flour doesn't keep as well as whole grains, so we decided to start milling flour (wheat berries, soy beans or chickpeas) only as we need it. We only released a Guide to Lacto-fermenting vegetables on grimgrains.
-Donsol is now available as an uxn rom on itchio.
-See Devine's daily drawings series for October.
-Pino book club
-We're continuing our readings of The Stories of Ray Bradbury by Ray Bradbury. Favorite shorts this month include The Long Rain, The City and Kaleidoscope.
-Pino's location: 48° 42.230'N, 123° 36.900'W
-Continue Reading]]></summary>
-        <author>
-            <name>Rekka Bellum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Painbow Award]]></title>
-        <id>https://xkcd.com/2537/</id>
-        <link href="https://xkcd.com/2537/"/>
-        <updated>2021-11-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/painbow_award.png" title="This year, our team took home the dark blue ribbon, better than the midnight blue we got last year but still short of the winning navy blue." alt="This year, our team took home the dark blue ribbon, better than the midnight blue we got last year but still short of the winning navy blue." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Life is complicated. There’s more than one way to browse to meet your needs with Firefox Focus.]]></title>
-        <id>https://blog.mozilla.org/?p=67767</id>
-        <link href="https://blog.mozilla.org/en/products/firefox/firefox-focus-or-firefox/"/>
-        <updated>2021-11-02T22:03:39.000Z</updated>
-        <summary type="html"><![CDATA[According to researchers, the average person has about 6,200 thoughts throughout the day. That’s a lot of time spent bouncing between random thought bubbles like: Does my cat understand me?  Who is Kaia Gerber’s mom? Best sneaky vegan side dishes Why is everyone talking about bones or no bones? Parkour vs slacklining Cheapest flights to […]
-The post Life is complicated. There’s more than one way to browse to meet your needs with Firefox Focus. appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>M.J. Kelly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox brings you a new homepage making it easier to jump back in to the stuff you care about on your mobile devices]]></title>
-        <id>https://blog.mozilla.org/?p=67656</id>
-        <link href="https://blog.mozilla.org/en/mozilla/news/firefox-brings-you-a-new-homepage/"/>
-        <updated>2021-11-02T13:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Today, we are rolling out a brand new Firefox homepage on Android and iOS, designed for those on-the-go, short bursts of online interactions that are constantly interrupted by life. With this new Firefox homepage we wanted to lift that heavy mental burden of remembering to finish those halfway read articles or vacation research until you […]
-The post Firefox brings you a new homepage making it easier to jump back in to the stuff you care about on your mobile devices appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Mozilla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing new Colorways for Firefox 94]]></title>
-        <id>https://blog.mozilla.org/?p=67720</id>
-        <link href="https://blog.mozilla.org/en/products/firefox/introducing-new-colorways-for-firefox-94/"/>
-        <updated>2021-11-02T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, Firefox is launching Colorways, a new feature that allows our users to express their most authentic selves and to bring them joy while browsing the web. As we challenge what the browser has been, and expand and define the vision of what Firefox browser is and can be, part of that challenge is to […]
-The post Introducing new Colorways for Firefox 94 appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Damiano</name>
         </author>
     </entry>
 </feed>

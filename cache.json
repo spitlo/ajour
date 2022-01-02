@@ -56,15 +56,6 @@
           "publishedOn": "2021-12-01T00:00:00.000Z",
           "wordCount": 6253,
           "title": "Summary of changes for November"
-        },
-        {
-          "id": "log.html#oct2021",
-          "author": "Rekka Bellum",
-          "description": "Hey everyone! This is the list of all the changes we've done to our projects and apps during the month of October. We'll also be reporting in our on position in the world, and on our future plans.\nSummary Of Changes\ndonsol, ported our Famicom(6502) code to Varvara(uxn).\nuxn, wrote a reference guide and created a list of community projects.\nnoodle, added guides for the line and rectangle tool and updated shortcuts in the documentation.\ngrimgrains, optimized images and published a Chunky Apple Jam recipe.\n100r, optimized images (see Rek's notes). Added new pages: boom tent, grinder and small space.\nleft, optimized code.\nnasu, fixed crashing bug with large selections.\nNews\nThis month, we found a used grain mill for Pino! Flour doesn't keep as well as whole grains, so we decided to start milling flour (wheat berries, soy beans or chickpeas) only as we need it. We only released a Guide to Lacto-fermenting vegetables on grimgrains.\nDonsol is now available as an uxn rom on itchio.\nSee Devine's daily drawings series for October.\nPino book club\nWe're continuing our readings of The Stories of Ray Bradbury by Ray Bradbury. Favorite shorts this month include The Long Rain, The City and Kaleidoscope.\nPino's location: 48° 42.230'N, 123° 36.900'W\nContinue Reading",
-          "link": "https://100r.co/site/log.html#oct2021",
-          "publishedOn": "2021-11-03T00:00:00.000Z",
-          "wordCount": 6084,
-          "title": "Summary of changes for October"
         }
       ]
     },
@@ -95,6 +86,15 @@
       "feedUrl": "https://grumpygamer.com/rss",
       "siteUrl": "https://grumpygamer.com",
       "articles": [
+        {
+          "id": "https://grumpygamer.com/the_future",
+          "author": null,
+          "description": "Well, it's 2022 and everything is turning out exactly as I predicted back when I was 7. Self-driving cars, space stations, the internet.  Nailed it.\nFavorite TV show of 2021 was Only Murders in the Building.  \nFavorite game of 2021 was Loop Heroes. \nFavorite book of 2021 was Einstein's Fridge.\nFavorite rediscovered joy of 2021 was reading physical books.\nFavorite movie of 2021 was Dune.\nFavorite time waster of 2021 was watching physics videos on YouTube.\nLeast favorite movie of 2021 was anything with f**king superheroes.\nFavorite pandemic of 2021 was Covid-19 (three years running).\nSee you in an exciting 2022 where everyone will be nice and respectful and personal agendas are put aside for the greater good and we all come together and save the planet. \nEither that or a horrific dystopian post-apocalyptic world where we hunt each other for food.\n2022 could go either way.",
+          "link": "https://grumpygamer.com/the_future",
+          "publishedOn": "2022-01-01T02:01:21.000Z",
+          "wordCount": 384,
+          "title": "2021"
+        },
         {
           "id": "https://grumpygamer.com/lego8",
           "author": null,
@@ -450,15 +450,6 @@
           "publishedOn": "2021-11-05T00:00:00.000Z",
           "wordCount": 183,
           "title": "Snack"
-        },
-        {
-          "id": "https://xkcd.com/2537/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/painbow_award.png\" title=\"This year, our team took home the dark blue ribbon, better than the midnight blue we got last year but still short of the winning navy blue.\" alt=\"This year, our team took home the dark blue ribbon, better than the midnight blue we got last year but still short of the winning navy blue.\" />",
-          "link": "https://xkcd.com/2537/",
-          "publishedOn": "2021-11-03T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Painbow Award"
         }
       ]
     },
@@ -537,6 +528,15 @@
       "feedUrl": "https://rachelbythebay.com/w/atom.xml",
       "siteUrl": "https://rachelbythebay.com/w/",
       "articles": [
+        {
+          "id": "https://rachelbythebay.com/w/2022/01/01/baddate/",
+          "author": null,
+          "description": "I guess I've turned into a collector of numbers that break things \nsometimes.  Here's another one I just heard about, and it's directly \nrelated to what just happened with the calendar.\n\n\nThe last value for last year is December 31, 2021 at 23:59, and in this \nformat it becomes 2112312359.  That just fits into a signed 32 bit \nnumber (which tops out at 2147483647).\n\n\nSo, if you're using Microsoft Exchange and stopped getting your mail in \nthe past couple of hours, this is why!\n\nReally!  No joke!\n\nHappy 2022, everyone.",
+          "link": "https://rachelbythebay.com/w/2022/01/01/baddate/",
+          "publishedOn": "2022-01-01T19:36:01.000Z",
+          "wordCount": 160,
+          "title": "YYMMDDHHMM just overflowed a signed 32 bit int"
+        },
         {
           "id": "https://rachelbythebay.com/w/2021/12/24/mkdir/",
           "author": null,
@@ -808,33 +808,6 @@
           "publishedOn": "2021-11-08T15:29:34.000Z",
           "wordCount": 1869,
           "title": "8 Firefox pro tips and tricks for Android and iOS (plus a few more)"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=67767",
-          "author": "M.J. Kelly",
-          "description": "According to researchers, the average person has about 6,200 thoughts throughout the day. That’s a lot of time spent bouncing between random thought bubbles like: Does my cat understand me?  Who is Kaia Gerber’s mom? Best sneaky vegan side dishes Why is everyone talking about bones or no bones? Parkour vs slacklining Cheapest flights to […]\nThe post Life is complicated. There’s more than one way to browse to meet your needs with Firefox Focus. appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/products/firefox/firefox-focus-or-firefox/",
-          "publishedOn": "2021-11-02T22:03:39.000Z",
-          "wordCount": 1248,
-          "title": "Life is complicated. There’s more than one way to browse to meet your needs with Firefox Focus."
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=67656",
-          "author": "Mozilla",
-          "description": "Today, we are rolling out a brand new Firefox homepage on Android and iOS, designed for those on-the-go, short bursts of online interactions that are constantly interrupted by life. With this new Firefox homepage we wanted to lift that heavy mental burden of remembering to finish those halfway read articles or vacation research until you […]\nThe post Firefox brings you a new homepage making it easier to jump back in to the stuff you care about on your mobile devices appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/news/firefox-brings-you-a-new-homepage/",
-          "publishedOn": "2021-11-02T13:00:15.000Z",
-          "wordCount": 1603,
-          "title": "Firefox brings you a new homepage making it easier to jump back in to the stuff you care about on your mobile devices"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=67720",
-          "author": "Damiano",
-          "description": "Today, Firefox is launching Colorways, a new feature that allows our users to express their most authentic selves and to bring them joy while browsing the web. As we challenge what the browser has been, and expand and define the vision of what Firefox browser is and can be, part of that challenge is to […]\nThe post Introducing new Colorways for Firefox 94 appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/products/firefox/introducing-new-colorways-for-firefox-94/",
-          "publishedOn": "2021-11-02T13:00:00.000Z",
-          "wordCount": 2515,
-          "title": "Introducing new Colorways for Firefox 94"
         }
       ]
     },
