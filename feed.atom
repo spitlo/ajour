@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-01-03T00:20:50.686Z</updated>
+    <updated>2022-01-04T00:20:58.044Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: 03 Jan 2022]]></title>
+        <id>https://pluralistic.net/?p=2973</id>
+        <link href="https://pluralistic.net/2022/01/03/party-like-its-1926/"/>
+        <updated>2022-01-03T16:28:58.000Z</updated>
+        <summary type="html"><![CDATA[Today's links Happy Public Domain Day: The public domain continues to roar back after decades in a coma. 2021 Daddy-Daughter podcast: The latest in a lengthy series. This day in history: 2002, 2007 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Happy Public Domain Day (permalink) On January 1, 2019 something extraordinary happened. For the first time since 1998, the American public domain got bigger. What happened in 1998? Congress – led by Rep Sonny Bono – extended the copyright on all works by 20 years. Works that had already been in the public domain went back into copyright. Works that were in copyright got an extra 20 years. The public domain…froze. This was a wanton, destructive act. The vast majority of works that the Sonny Bono…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Throat and Nasal Passages]]></title>
+        <id>https://xkcd.com/2563/</id>
+        <link href="https://xkcd.com/2563/"/>
+        <updated>2022-01-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/throat_and_nasal_passages.png" title="I always felt like what the 'you are now aware of your tongue' thing neeeded in order to be truly enjoyable was an element of mortal peril." alt="I always felt like what the 'you are now aware of your tongue' thing neeeded in order to be truly enjoyable was an element of mortal peril." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YYMMDDHHMM just overflowed a signed 32 bit int]]></title>
         <id>https://rachelbythebay.com/w/2022/01/01/baddate/</id>
@@ -1595,113 +1615,6 @@ then would connect outward to your mail exchanger and would t…]]></summary>
         <summary type="html"><![CDATA[“There are countless tiny tools scattered across the internet, all made with love from independent developers. They might not look like much at first, but if you start using them in combiation with your Professional Everyday Tools, you open the doors for wonderful, unique, and beautiful art. This workshop will demo a tiny handful of these tiny tools, using them in combination with the Electric Zine Maker to make a zine! My hope is that you will leave inspired, and start collecting tiny tools of your own… to regularly find use for in your work.” Cool Tools itch.io collection Open...]]></summary>
         <author>
             <name>alienmelon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Years since 1900 + seven bits = breakage in 2028]]></title>
-        <id>https://rachelbythebay.com/w/2021/11/05/sevenbits/</id>
-        <link href="https://rachelbythebay.com/w/2021/11/05/sevenbits/"/>
-        <updated>2021-11-05T07:13:18.000Z</updated>
-        <summary type="html"><![CDATA[Last November, I put up a
-list
-of a bunch of "magic numbers" including some years in which time/date 
-stuff is likely to break.  There's 2036 for the NTP era rollover, 2038 
-for time_t requiring 32 bits in January *and* another GPS week rollover 
-in November.
-
-
-Looking at the current year gives you a hint.  It's 2021, but another 
-way of looking at that is that we're 121 years past the year 1900.  A 
-fair number of things use(d) 1900 as an epoch, base year, or just an 
-offset of sorts.  Why?  Well, they were probably invented in simpler 
-times when the current year wasn't quite that far from 1900 at the time, 
-and it would fit into fewer bits.  Specifically, it'll fit into just 
-seven bits... until 2028, that is.
-
-
-So, if someone used 1900 as their base year, stored years relative to 
-that, and then did it in just seven bits (or eight bits where one of 
-them is a sign bit), it'll overflow in a little over six years.  What 
-happens then depends on which method was used, and whether it applies 
-certain kinds of sanity checks.
-
-1773.  Neat!
-
-
-I originally spotted this thanks to a 
-bug report type comment
-on an epitaph (!) on HN.  That one is about ISO 9660 (CD/DVD stuff) 
-software and how it handles years.
-
-similar
-was found in the Linux kernel in 2015 (and appears to have been 
-patched).
-
-reference to this same problem
-that might be useful if you're trying to keep your HP 3000 alive.  You 
-know, the things with the 
-300+ lb disk drives?  
-(If you know, you know.)
-
-
-Wikipedia does have 2028 in their epic
-list
-of time formatting and storage bugs, naturally, but it only talks about 
-systems from the '70s.  It doesn't mention ISO 9660 at all - at the 
-moment, that is.  Perhaps someone in the know will update it and then 
-this comment will be obsolete.
-
-
-...
-
-
-Eleven bits!  Luxury!  Ah, well, guess what happens in 2048?  Yep!
-
-
-Finally, one random thing for anyone who's not already aware: try
-log2(n) to get a feel for how big a number is in binary.  Neat, right?]]></summary>
-        <author>
-            <name>Writing - rachelbythebay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snack]]></title>
-        <id>https://xkcd.com/2538/</id>
-        <link href="https://xkcd.com/2538/"/>
-        <updated>2021-11-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/snack.png" title="Although grad students, suddenly reminded that food exists, tend to just grab and devour both without further discussion." alt="Although grad students, suddenly reminded that food exists, tend to just grab and devour both without further discussion." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What I did last pandemic [blog]]]></title>
-        <id>what-i-did-last-pandemic</id>
-        <link href="https://remysharp.com/2021/11/05/what-i-did-last-pandemic"/>
-        <updated>2021-11-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As the pandemic, or at least it's social effects, start to wind down (or certainly in the UK… or in Brighton 🤷‍♀), I thought it would be wise (for me) to write down what I got up to. I'd love to read any of your accounts too … if you even want to remember!]]></summary>
-        <author>
-            <name>remy sharp's b:log</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fascine Mattresses: Basketry Gone Wild]]></title>
-        <id>https://www.lowtechmagazine.com/2021/11/fascine-mattresses-basketry-gone-wild.html</id>
-        <link href="https://www.lowtechmagazine.com/2021/11/fascine-mattresses-basketry-gone-wild.html"/>
-        <updated>2021-11-04T18:50:58.000Z</updated>
-        <summary type="html"><![CDATA[Around the 17th century, the Dutch started reinforcing their dykes and harbours with sturdy mats the size of football pitches – hand-woven from thousands of twigs grown on nearby coppice plantations. These “fascine mattresses” were weighted with rocks and sunk into canals, estuaries, and rivers. This article contains many images and would be a 12.1 MB download from this website. Therefore, I kindly invite you to read the article on our solar powered website, where it has been compressed to 1.90 MB.]]></summary>
-        <author>
-            <name>LOW-TECH MAGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fascine Mattresses: Basketry Gone Wild]]></title>
-        <id>http://feedproxy.google.com/~r/typepad/krisdedecker/lowtechmagazineenglish/~3/-7QmVM_YaNw/fascine-mattresses-basketry-gone-wild.html</id>
-        <link href="http://feedproxy.google.com/~r/typepad/krisdedecker/lowtechmagazineenglish/~3/-7QmVM_YaNw/fascine-mattresses-basketry-gone-wild.html"/>
-        <updated>2021-11-04T18:50:58.000Z</updated>
-        <summary type="html"><![CDATA[Around the 17th century, the Dutch started reinforcing their dykes and harbours with sturdy mats the size of football pitches – hand-woven from thousands of twigs grown on nearby coppice plantations. These “fascine mattresses” were weighted with rocks and sunk into canals, estuaries, and rivers. This article contains many images and would be a 12.1 MB download from this website. Therefore, I kindly invite you to read the article on our solar powered website, where it has been compressed to 1.90 MB.]]></summary>
-        <author>
-            <name>LOW-TECH MAGAZINE</name>
         </author>
     </entry>
 </feed>

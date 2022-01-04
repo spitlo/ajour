@@ -227,6 +227,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2563/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/throat_and_nasal_passages.png\" title=\"I always felt like what the 'you are now aware of your tongue' thing neeeded in order to be truly enjoyable was an element of mortal peril.\" alt=\"I always felt like what the 'you are now aware of your tongue' thing neeeded in order to be truly enjoyable was an element of mortal peril.\" />",
+          "link": "https://xkcd.com/2563/",
+          "publishedOn": "2022-01-03T00:00:00.000Z",
+          "wordCount": 207,
+          "title": "Throat and Nasal Passages"
+        },
+        {
           "id": "https://xkcd.com/2562/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/formatting_meeting.png\" title=\"Neither group uses iso 8601 because the big-endian enthusiasts were all at the meeting 20 years ago.\" alt=\"Neither group uses iso 8601 because the big-endian enthusiasts were all at the meeting 20 years ago.\" />",
@@ -441,15 +450,6 @@
           "publishedOn": "2021-11-08T00:00:00.000Z",
           "wordCount": 183,
           "title": "Flinch"
-        },
-        {
-          "id": "https://xkcd.com/2538/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/snack.png\" title=\"Although grad students, suddenly reminded that food exists, tend to just grab and devour both without further discussion.\" alt=\"Although grad students, suddenly reminded that food exists, tend to just grab and devour both without further discussion.\" />",
-          "link": "https://xkcd.com/2538/",
-          "publishedOn": "2021-11-05T00:00:00.000Z",
-          "wordCount": 183,
-          "title": "Snack"
         }
       ]
     },
@@ -547,15 +547,6 @@
           "publishedOn": "2021-11-11T19:39:57.000Z",
           "wordCount": 376,
           "title": "Notes on Web3 by Robin Sloan [link]"
-        },
-        {
-          "id": "what-i-did-last-pandemic",
-          "author": null,
-          "description": "As the pandemic, or at least it's social effects, start to wind down (or certainly in the UK… or in Brighton 🤷‍♀), I thought it would be wise (for me) to write down what I got up to. I'd love to read any of your accounts too … if you even want to remember!",
-          "link": "https://remysharp.com/2021/11/05/what-i-did-last-pandemic",
-          "publishedOn": "2021-11-05T00:00:00.000Z",
-          "wordCount": 952,
-          "title": "What I did last pandemic [blog]"
         }
       ]
     },
@@ -635,15 +626,6 @@
           "publishedOn": "2021-11-07T19:27:06.000Z",
           "wordCount": 1199,
           "title": "A terrible schema from a clueless programmer"
-        },
-        {
-          "id": "https://rachelbythebay.com/w/2021/11/05/sevenbits/",
-          "author": null,
-          "description": "Last November, I put up a\nlist\nof a bunch of \"magic numbers\" including some years in which time/date \nstuff is likely to break.  There's 2036 for the NTP era rollover, 2038 \nfor time_t requiring 32 bits in January *and* another GPS week rollover \nin November.\n\n\nLooking at the current year gives you a hint.  It's 2021, but another \nway of looking at that is that we're 121 years past the year 1900.  A \nfair number of things use(d) 1900 as an epoch, base year, or just an \noffset of sorts.  Why?  Well, they were probably invented in simpler \ntimes when the current year wasn't quite that far from 1900 at the time, \nand it would fit into fewer bits.  Specifically, it'll fit into just \nseven bits... until 2028, that is.\n\n\nSo, if someone used 1900 as their base year, stored years relative to \nthat, and then did it in just seven bits (or eight bits where one of \nthem is a sign bit), it'll overflow in a little over six years.  What \nhappens then depends on which method was used, and whether it applies \ncertain kinds of sanity checks.\n\n1773.  Neat!\n\n\nI originally spotted this thanks to a \nbug report type comment\non an epitaph (!) on HN.  That one is about ISO 9660 (CD/DVD stuff) \nsoftware and how it handles years.\n\nsimilar\nwas found in the Linux kernel in 2015 (and appears to have been \npatched).\n\nreference to this same problem\nthat might be useful if you're trying to keep your HP 3000 alive.  You \nknow, the things with the \n300+ lb disk drives?  \n(If you know, you know.)\n\n\nWikipedia does have 2028 in their epic\nlist\nof time formatting and storage bugs, naturally, but it only talks about \nsystems from the '70s.  It doesn't mention ISO 9660 at all - at the \nmoment, that is.  Perhaps someone in the know will update it and then \nthis comment will be obsolete.\n\n\n...\n\n\nEleven bits!  Luxury!  Ah, well, guess what happens in 2048?  Yep!\n\n\nFinally, one random thing for anyone who's not already aware: try\nlog2(n) to get a feel for how big a number is in binary.  Neat, right?",
-          "link": "https://rachelbythebay.com/w/2021/11/05/sevenbits/",
-          "publishedOn": "2021-11-05T07:13:18.000Z",
-          "wordCount": 652,
-          "title": "Years since 1900 + seven bits = breakage in 2028"
         }
       ]
     },
@@ -660,24 +642,6 @@
           "publishedOn": "2021-12-02T22:17:04.000Z",
           "wordCount": 990,
           "title": "The Printed Website: Volume III & The Comments"
-        },
-        {
-          "id": "https://www.lowtechmagazine.com/2021/11/fascine-mattresses-basketry-gone-wild.html",
-          "author": null,
-          "description": "Around the 17th century, the Dutch started reinforcing their dykes and harbours with sturdy mats the size of football pitches – hand-woven from thousands of twigs grown on nearby coppice plantations. These “fascine mattresses” were weighted with rocks and sunk into canals, estuaries, and rivers. This article contains many images and would be a 12.1 MB download from this website. Therefore, I kindly invite you to read the article on our solar powered website, where it has been compressed to 1.90 MB.",
-          "link": "https://www.lowtechmagazine.com/2021/11/fascine-mattresses-basketry-gone-wild.html",
-          "publishedOn": "2021-11-04T18:50:58.000Z",
-          "wordCount": 1158,
-          "title": "Fascine Mattresses: Basketry Gone Wild"
-        },
-        {
-          "id": "http://feedproxy.google.com/~r/typepad/krisdedecker/lowtechmagazineenglish/~3/-7QmVM_YaNw/fascine-mattresses-basketry-gone-wild.html",
-          "author": null,
-          "description": "Around the 17th century, the Dutch started reinforcing their dykes and harbours with sturdy mats the size of football pitches – hand-woven from thousands of twigs grown on nearby coppice plantations. These “fascine mattresses” were weighted with rocks and sunk into canals, estuaries, and rivers. This article contains many images and would be a 12.1 MB download from this website. Therefore, I kindly invite you to read the article on our solar powered website, where it has been compressed to 1.90 MB.",
-          "link": "http://feedproxy.google.com/~r/typepad/krisdedecker/lowtechmagazineenglish/~3/-7QmVM_YaNw/fascine-mattresses-basketry-gone-wild.html",
-          "publishedOn": "2021-11-04T18:50:58.000Z",
-          "wordCount": 497,
-          "title": "Fascine Mattresses: Basketry Gone Wild"
         }
       ]
     },
@@ -954,6 +918,20 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2973",
+          "author": "Cory Doctorow",
+          "description": "Today's links Happy Public Domain Day: The public domain continues to roar back after decades in a coma. 2021 Daddy-Daughter podcast: The latest in a lengthy series. This day in history: 2002, 2007 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Happy Public Domain Day (permalink) On January 1, 2019 something extraordinary happened. For the first time since 1998, the American public domain got bigger. What happened in 1998? Congress – led by Rep Sonny Bono – extended the copyright on all works by 20 years. Works that had already been in the public domain went back into copyright. Works that were in copyright got an extra 20 years. The public domain…froze. This was a wanton, destructive act. The vast majority of works that the Sonny Bono…",
+          "link": "https://pluralistic.net/2022/01/03/party-like-its-1926/",
+          "publishedOn": "2022-01-03T16:28:58.000Z",
+          "wordCount": 2534,
+          "title": "Pluralistic: 03 Jan 2022",
+          "enclosure": {
+            "url": "https://archive.org/download/Cory_Doctorow_Podcast_410/Cory_Doctorow_Podcast_410_-_Daddy-Daughter_Podcast_2021_Edition.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "https://pluralistic.net/?p=2969",
           "author": "Cory Doctorow",
