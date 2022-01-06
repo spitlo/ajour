@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-01-05T00:22:05.518Z</updated>
+    <updated>2022-01-06T00:21:48.958Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: 05 Jan 2022]]></title>
+        <id>https://pluralistic.net/?p=2991</id>
+        <link href="https://pluralistic.net/2022/01/05/hillrom/"/>
+        <updated>2022-01-05T16:21:05.000Z</updated>
+        <summary type="html"><![CDATA[Today's links Hospital beds are a monopoly: The casket to hospital bed monopoly pipeline. This day in history: 2007, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Hospital beds are a monopoly (permalink) The great James Boyle tells an important parable about the coining of the term "ecology." Before the term came into wide use, the "ecology movement" as we know it was just a bunch of fragmented, seemingly disconnected issues. https://thepublicdomain.org/thepublicdomain1.pdf Like, if you're worried about owls and I'm worried about the ozone layer, it's not immediately apparent that we're fighting the same fight. It's not intuitive to link the fate of charismatic nocturnal avians to the gaseous composition of the upper atmosp…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why might you run your own DNS server?]]></title>
+        <id>https://jvns.ca/blog/2022/01/05/why-might-you-run-your-own-dns-server-/</id>
+        <link href="https://jvns.ca/blog/2022/01/05/why-might-you-run-your-own-dns-server-/"/>
+        <updated>2022-01-05T06:42:51.000Z</updated>
+        <summary type="html"><![CDATA[One of the things that makes DNS difficult to understand is that it’s
+decentralized. There are thousands (maybe hundreds of thousands? I don’t know!) of authoritative nameservers, and at least
+10 million resolvers.
+And they’re running lots of different software! All these different servers
+running software means that there’s a lot of inconsistency in how DNS works,
+which can cause all kinds of frustrating problems.
+But instead of talking about the problems, I’m interested in figuring out –
+why is it a good thing that DNS is decentralized?
+why is it good that DNS is decentralized?
+One reason is scalability – the decentralized design of DNS makes it
+easier to scale and more resilient to failures. I find it really amazing that
+DNS is still scaling well even though it’s almost 40 years old. Th…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sunshield]]></title>
+        <id>https://xkcd.com/2564/</id>
+        <link href="https://xkcd.com/2564/"/>
+        <updated>2022-01-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/sunshield.png" title="RIP the surface of Mars" alt="RIP the surface of Mars" />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[On GameJolt’s new policy: why stigmatizing “sex” in games is harmful to the medium and never works…]]></title>
         <id>http://www.nathalielawhead.com/candybox/?p=5236</id>
@@ -1625,16 +1666,6 @@ then would connect outward to your mail exchanger and would t…]]></summary>
         <summary type="html"><![CDATA[Interfaces on the web have to be accessible independent of input device. In addition to using the right HTML to make it possible to activate functionality with mouse, keyboard, voice activation or any of the possible ways it is also important to have a visual indicator which element is currently active. This is why we […]]]></summary>
         <author>
             <name>Chris Heilmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZineCamp Workshop – using tiny open source tools in your own work, the values of preservation, and building your own tiny tool box]]></title>
-        <id>http://www.nathalielawhead.com/candybox/?p=5167</id>
-        <link href="http://www.nathalielawhead.com/candybox/zinecamp-workshop-using-tiny-open-source-tools-in-your-own-work-the-values-of-preservation-and-building-your-own-tiny-tool-box"/>
-        <updated>2021-11-06T21:18:35.000Z</updated>
-        <summary type="html"><![CDATA[“There are countless tiny tools scattered across the internet, all made with love from independent developers. They might not look like much at first, but if you start using them in combiation with your Professional Everyday Tools, you open the doors for wonderful, unique, and beautiful art. This workshop will demo a tiny handful of these tiny tools, using them in combination with the Electric Zine Maker to make a zine! My hope is that you will leave inspired, and start collecting tiny tools of your own… to regularly find use for in your work.” Cool Tools itch.io collection Open...]]></summary>
-        <author>
-            <name>alienmelon</name>
         </author>
     </entry>
 </feed>

@@ -227,6 +227,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2564/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/sunshield.png\" title=\"RIP the surface of Mars\" alt=\"RIP the surface of Mars\" />",
+          "link": "https://xkcd.com/2564/",
+          "publishedOn": "2022-01-05T00:00:00.000Z",
+          "wordCount": 201,
+          "title": "Sunshield"
+        },
+        {
           "id": "https://xkcd.com/2563/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/throat_and_nasal_passages.png\" title=\"I always felt like what the 'you are now aware of your tongue' thing neeeded in order to be truly enjoyable was an element of mortal peril.\" alt=\"I always felt like what the 'you are now aware of your tongue' thing neeeded in order to be truly enjoyable was an element of mortal peril.\" />",
@@ -817,6 +826,15 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2022/01/05/why-might-you-run-your-own-dns-server-/",
+          "author": null,
+          "description": "One of the things that makes DNS difficult to understand is that it’s\ndecentralized. There are thousands (maybe hundreds of thousands? I don’t know!) of authoritative nameservers, and at least\n10 million resolvers.\nAnd they’re running lots of different software! All these different servers\nrunning software means that there’s a lot of inconsistency in how DNS works,\nwhich can cause all kinds of frustrating problems.\nBut instead of talking about the problems, I’m interested in figuring out –\nwhy is it a good thing that DNS is decentralized?\nwhy is it good that DNS is decentralized?\nOne reason is scalability – the decentralized design of DNS makes it\neasier to scale and more resilient to failures. I find it really amazing that\nDNS is still scaling well even though it’s almost 40 years old. Th…",
+          "link": "https://jvns.ca/blog/2022/01/05/why-might-you-run-your-own-dns-server-/",
+          "publishedOn": "2022-01-05T06:42:51.000Z",
+          "wordCount": 1858,
+          "title": "Why might you run your own DNS server?"
+        },
+        {
           "id": "https://jvns.ca/blog/2021/12/31/2021--year-in-review/",
           "author": null,
           "description": "It’s the end of the year again! This was my second full year working for myself\non wizard zines.\nHere are some thoughts about what I’m working towards, a bunch of things I made\nthis year, and a few ideas and questions about 2022.\nmade some progress on a “mission statement”\nI think the two hardest things about working for myself are working alone and\nhaving to decide what to do.\nThis year I spent some time trying to figure out what I’m doing with wizard\nzines. This is hard for me because I work in a pretty intuitive way – I have\nsome feelings about what’s important, and even though following my feelings\nusually turns out well, I can’t always explain what I’m trying to do.\nHere are some thoughts about what I’m trying to do:\nI’m only interested in explaining “old” established technologies (HT…",
@@ -918,6 +936,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=2991",
+          "author": "Cory Doctorow",
+          "description": "Today's links Hospital beds are a monopoly: The casket to hospital bed monopoly pipeline. This day in history: 2007, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Hospital beds are a monopoly (permalink) The great James Boyle tells an important parable about the coining of the term \"ecology.\" Before the term came into wide use, the \"ecology movement\" as we know it was just a bunch of fragmented, seemingly disconnected issues. https://thepublicdomain.org/thepublicdomain1.pdf Like, if you're worried about owls and I'm worried about the ozone layer, it's not immediately apparent that we're fighting the same fight. It's not intuitive to link the fate of charismatic nocturnal avians to the gaseous composition of the upper atmosp…",
+          "link": "https://pluralistic.net/2022/01/05/hillrom/",
+          "publishedOn": "2022-01-05T16:21:05.000Z",
+          "wordCount": 2705,
+          "title": "Pluralistic: 05 Jan 2022"
+        },
         {
           "id": "https://pluralistic.net/?p=2985",
           "author": "Cory Doctorow",
@@ -1228,15 +1255,6 @@
           "publishedOn": "2021-11-13T01:55:14.000Z",
           "wordCount": 3864,
           "title": "Part 2: In support of Wren (the abuse she continues to endure, Fight Knight, and publicly ridiculing her trauma)"
-        },
-        {
-          "id": "http://www.nathalielawhead.com/candybox/?p=5167",
-          "author": "alienmelon",
-          "description": "“There are countless tiny tools scattered across the internet, all made with love from independent developers. They might not look like much at first, but if you start using them in combiation with your Professional Everyday Tools, you open the doors for wonderful, unique, and beautiful art. This workshop will demo a tiny handful of these tiny tools, using them in combination with the Electric Zine Maker to make a zine! My hope is that you will leave inspired, and start collecting tiny tools of your own… to regularly find use for in your work.” Cool Tools itch.io collection Open...",
-          "link": "http://www.nathalielawhead.com/candybox/zinecamp-workshop-using-tiny-open-source-tools-in-your-own-work-the-values-of-preservation-and-building-your-own-tiny-tool-box",
-          "publishedOn": "2021-11-06T21:18:35.000Z",
-          "wordCount": 2640,
-          "title": "ZineCamp Workshop – using tiny open source tools in your own work, the values of preservation, and building your own tiny tool box"
         }
       ]
     }
