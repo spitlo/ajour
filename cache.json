@@ -139,15 +139,6 @@
           "publishedOn": "2021-11-19T00:00:00.000Z",
           "wordCount": 420,
           "title": "7000 Signatures later..."
-        },
-        {
-          "id": "https://grumpygamer.com/make_your_own_game_engine",
-          "author": null,
-          "description": "At first I was going to just copy/paste his article and call it my own then I realized that is kind of a dick move.\nHow to make your own game engine (and why) by Tyler Glaiel\nWell worth a read.\nIn my 35+ year career in games I've never used an off the shelf game engine.  Starting with SCUMM I've always build my own.  I love the power and the freedom.  It's hard work and probably cost me more but I love making game engines and writing compilers.  It's a skill you slowly acquire and after the 5th one it's not a daunting task anymore.\nI ran into a programmer at an indie meet-up and she told me this story about how another programmer at her company brought up building their own game engine.  Someone responded with \"What! Are you Ron Gilbert!\"\nI wear that as a badge of honor.  😀",
-          "link": "https://grumpygamer.com/make_your_own_game_engine",
-          "publishedOn": "2021-11-12T00:00:00.000Z",
-          "wordCount": 299,
-          "title": "How to make your own game engine"
         }
       ]
     },
@@ -199,6 +190,15 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2566/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/decorative_constants.png\" title=\"Arguably, the '1/2' in the drag equation is purely decorative, since drag coefficients are already unitless and could just as easily be half as big. Some derivations give more justification for the extra 1/2 than others, but one textbook just calls it 'a traditional tribute to Euler and Bernoulli.'\" alt=\"Arguably, the '1/2' in the drag equation is purely decorative, since drag coefficients are already unitless and could just as easily be half as big. Some derivations give more justification for the extra 1/2 than others, but one textbook just calls it 'a traditional tribute to Euler and Bernoulli.'\" />",
+          "link": "https://xkcd.com/2566/",
+          "publishedOn": "2022-01-10T00:00:00.000Z",
+          "wordCount": 192,
+          "title": "Decorative Constants"
+        },
         {
           "id": "https://xkcd.com/2565/",
           "author": null,
@@ -414,15 +414,6 @@
           "publishedOn": "2021-11-15T00:00:00.000Z",
           "wordCount": 185,
           "title": "Daylight Calendar"
-        },
-        {
-          "id": "https://xkcd.com/2541/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/occam.png\" title=\"Oh no, Murphy just picked up the razor.\" alt=\"Oh no, Murphy just picked up the razor.\" />",
-          "link": "https://xkcd.com/2541/",
-          "publishedOn": "2021-11-12T00:00:00.000Z",
-          "wordCount": 183,
-          "title": "Occam"
         }
       ]
     },
@@ -511,15 +502,6 @@
           "publishedOn": "2021-11-21T00:00:00.000Z",
           "wordCount": 1655,
           "title": "Why I write and why I won't [blog]"
-        },
-        {
-          "id": "2021-11-11-0ad5612e",
-          "author": null,
-          "description": "I think this might be one of the first balanced or non-invested reads of what \"Web3\" means and Sloan's opening notes really resonate:\n\nIt’s for kids. I mean that in a good way! I think Web3 has resonated powerfully with young people because it feels like something genuinely new, and it feels like it can be theirs. Who could argue with those feelings? Not me.\n\nThe notes go on and I come away with the same general sense that I've had so far of the crowd cheering on for Web3: it's about making money. Which is fine, the world runs on capitalism for the most part, it's just not entirely for me.\nAnd I think that's the rub, the stories I know of the creation and the spread of the web (and indeed the internet) came from those wanting to share and do good. The stories I've read were never about making money but instead creating a place for others.\nI will concede that I don't tend to read the \"got rich by selling X web start up\" - but it's that start in the web that's what drives me, and what I love about the web. It's what I love about the Open Web.\nWeb Zero if you will. It was about sharing, community, learning and finding a place in the world.\nSource: society.robinsloan.com",
-          "link": "https://remysharp.com/links/2021-11-11-0ad5612e",
-          "publishedOn": "2021-11-11T19:39:57.000Z",
-          "wordCount": 376,
-          "title": "Notes on Web3 by Robin Sloan [link]"
         }
       ]
     },
@@ -625,6 +607,24 @@
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
         {
+          "id": "https://blog.mozilla.org/?p=68219",
+          "author": "Lindsey Shepard",
+          "description": "For most, the New Year marks a time to reflect, reset and re-prioritize. While learning a new language, creating a budget or starting up a new hobby have become staples of our New Years’ Resolutions, as our lives increasingly shift online, it’s important we also use this opportunity to reassess our digital habits. Whether you […]\nThe post Digital Checklist: How to Start 2022 Right appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/uncategorized/digital-checklist-how-to-start-2022-right/",
+          "publishedOn": "2022-01-10T18:00:53.000Z",
+          "wordCount": 2012,
+          "title": "Digital Checklist: How to Start 2022 Right"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=68200",
+          "author": "Mozilla",
+          "description": "Browser maker Mozilla today announced a partnership with The Markup, the non-profit newsroom that investigates how technology is reshaping society, on a research project to provide insights into and data about a space that’s opaque to policymakers, researchers and users themselves. By joining Mozilla and The Markup’s “Facebook Pixel Hunt” in Firefox, people can help […]\nThe post Mozilla partners with The Markup to launch Rally study into Facebook’s tracking and data collection practices appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/news/mozilla-themarkup-partner-rally-facebook-tracking-data-collection/",
+          "publishedOn": "2022-01-10T11:00:00.000Z",
+          "wordCount": 1383,
+          "title": "Mozilla partners with The Markup to launch Rally study into Facebook’s tracking and data collection practices"
+        },
+        {
           "id": "https://blog.mozilla.org/?p=68166",
           "author": "Sarah Vasquez",
           "description": "Your favorite go-to resource to discover, save, and spend time with interesting reads, has gone to Texas. This December, Pocket has teamed up with Texas Monthly, bringing Pocket users weekly deep dives on every episode of America’s Girls, Texas Monthly’s fascinating new podcast about how the Dallas Cowboys Cheerleaders became international icons.  From the scandals […]\nThe post Pocket & Texas Monthly Take You Inside The World of the Dallas Cowboys Cheerleaders With New Partnership appeared first on The Mozilla Blog.",
@@ -691,33 +691,6 @@
           "publishedOn": "2021-11-16T14:00:33.000Z",
           "wordCount": 1531,
           "title": "Introducing Firefox Relay Premium, allowing more aliases to protect your identity from spammers"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=67996",
-          "author": "Rebecca Smith",
-          "description": "Here at Mozilla, we are the first to admit the internet isn’t perfect, but we are also quick to point out that the internet is pretty darn magical. The internet opens up doors and opportunities, allows for people to connect with others, and lets everyone find where they belong — their corners of the internet. […]\nThe post A Firefox mobile product manager on her favorite corners of the internet appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/internet-culture/interviews/my-corner-of-the-internet-with-vesta-zare/",
-          "publishedOn": "2021-11-11T19:11:33.000Z",
-          "wordCount": 1427,
-          "title": "A Firefox mobile product manager on her favorite corners of the internet"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=67996",
-          "author": "Rebecca Smith",
-          "description": "Here at Mozilla, we are the first to admit the internet isn’t perfect, but we are also quick to point out that the internet is pretty darn magical. The internet opens up doors and opportunities, allows for people to connect with others, and lets everyone find where they belong — their corners of the internet. […]\nThe post A Firefox mobile product manager on her favorite corners of the internet appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/internet-culture/interviews/my-corner-of-the-internet-with-vesta-ware/",
-          "publishedOn": "2021-11-11T19:11:33.000Z",
-          "wordCount": 1391,
-          "title": "A Firefox mobile product manager on her favorite corners of the internet"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=67970",
-          "author": "Mozilla",
-          "description": "There are plenty of reasons why you might want to keep something you are doing on the web to yourself. You might be looking for a ring for your soon-to-be fiance, looking up what those mysterious skin rashes could be, or reading a salacious celebrity gossip blog. That’s where Private Browsing mode comes in handy. […]\nThe post Firefox’s Private Browsing mode upleveled for you appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/firefoxs-private-browsing-mode-upleveled-for-you/",
-          "publishedOn": "2021-11-11T14:58:45.000Z",
-          "wordCount": 1549,
-          "title": "Firefox’s Private Browsing mode upleveled for you"
         }
       ]
     },
@@ -837,6 +810,20 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=3007",
+          "author": "Cory Doctorow",
+          "description": "Today's links Personnel are policy: The Dems may do something to materially improve voters' lives. Maybe. Podcasting \"Science fiction is a Luddite Literature\": My last pre-op podcast. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Personnel are policy (permalink) It's hard not to freak out, watching Biden get punked by Joe Manchin over Build Back Better. Manchin's transparent ruse – splitting the infrastructure bill from BBB – was obviously a prelude to a betrayal. Thanks to Dem leadership's foolish error, the party that holds the House, the Senate and the Oval Office will go into the mid-terms and the next presidential election having failed to deliver on the vast majority of their cam…",
+          "link": "https://pluralistic.net/2022/01/10/see-you-in-the-funny-papers/",
+          "publishedOn": "2022-01-10T16:16:36.000Z",
+          "wordCount": 2022,
+          "title": "Pluralistic: 10 Jan 2022",
+          "enclosure": {
+            "url": "https://ia801504.us.archive.org/27/items/Cory_Doctorow_Podcast_411/Cory_Doctorow_Podcast_411_-_Science_Fiction_is_a_Luddite_literature.mp3",
+            "length": "21667840",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "https://pluralistic.net/?p=2998",
           "author": "Cory Doctorow",
@@ -1142,5 +1129,5 @@
       ]
     }
   ],
-  "cliVersion": "1.11.3"
+  "cliVersion": "1.12.0"
 }
