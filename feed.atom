@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-01-14T00:20:59.346Z</updated>
+    <updated>2022-01-15T00:20:39.384Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Spinthariscope]]></title>
+        <id>https://xkcd.com/2568/</id>
+        <link href="https://xkcd.com/2568/"/>
+        <updated>2022-01-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/spinthariscope.png" title="Other high scorers are melt-in-your-hand aluminum-destroying gallium and tritium-powered glowsticks. Lawn darts are toward the other end." alt="Other high scorers are melt-in-your-hand aluminum-destroying gallium and tritium-powered glowsticks. Lawn darts are toward the other end." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Turning a GitHub page into a Progressive Web App]]></title>
         <id>https://christianheilmann.com/?p=7077</id>
@@ -1442,45 +1452,6 @@ The post Introducing Firefox Relay Premium, allowing more aliases to protect you
         <summary type="html"><![CDATA[In order to create lush, realistic shadows in CSS, we need to use multiple layers and colors. How do we come up with all of the parameters, though? I've built a tool that'll help.]]></summary>
         <author>
             <name>Josh W. Comeau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make Tiny Weird Software, Please! (all about desktop pets, old computer eras, and virtual toys)]]></title>
-        <id>http://www.nathalielawhead.com/candybox/?p=5173</id>
-        <link href="http://www.nathalielawhead.com/candybox/make-tiny-weird-software-please-all-about-desktop-pets-old-computer-eras-and-virtual-toys"/>
-        <updated>2021-11-15T23:13:04.000Z</updated>
-        <summary type="html"><![CDATA[I recently gave a keynote talk at the ATLAS Institute at the University of Colorado’s Whaaat!? 2021 Festival. A festival focusing on small and quirky games and experimental interactions. They’re doing wonderful work. I’m honored to have been part of this, talking about something very near and dear to my heart. This post is that keynote turned into a blog post. I’m sharing a lot of links here! Mind the in-line text links too for good resources. I hope this will be useful to people that share this same interest. ~ ~ ~ As most of you know, my work...]]></summary>
-        <author>
-            <name>alienmelon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some notes on using esbuild]]></title>
-        <id>https://jvns.ca/blog/2021/11/15/esbuild-vue/</id>
-        <link href="https://jvns.ca/blog/2021/11/15/esbuild-vue/"/>
-        <updated>2021-11-15T19:14:17.000Z</updated>
-        <summary type="html"><![CDATA[Hello!
-I’ve been writing more frontend code in the last year or two – I’ve been making a bunch of little Vue projects. (for example nginx playground, sql playground, this dns lookup tool, and a couple of others)
-My general approach to frontend development has been pretty “pretend it’s 2005” – I usually
-have an index.html file, a script.js file, and then I do a <script
-src="script.js"> and that’s it. You can see an example of that approach here.
-This has been working mostly ok for me, but sometimes I run into problems. So I
-wanted to talk about one of those problems, a solution I found
-(esbuild!), and what I needed to learn to solve the problem (some very basic facts about how npm builds work).
-Some of the facts in this post might
-be wrong because still I don’t understand Javascript build s…]]></summary>
-        <author>
-            <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mid-November Link Assortment]]></title>
-        <id>http://emshort.blog/?p=42234</id>
-        <link href="https://emshort.blog/2021/11/15/mid-november-link-assortment-6/"/>
-        <updated>2021-11-15T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Events IF Comp judging ends today — you may have a few hours left to register your opinions, if you wish — and results will be available soon. Today also marks the beginning of fos1’s jam for TADS games, which will run through early 2022. This is intended to invite more authors to try out … Continue reading "Mid-November Link Assortment"]]></summary>
-        <author>
-            <name>Emily Short</name>
         </author>
     </entry>
 </feed>

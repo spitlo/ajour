@@ -200,15 +200,6 @@
           "publishedOn": "2021-11-30T17:30:00.000Z",
           "wordCount": 1665,
           "title": "End of November Link Assortment"
-        },
-        {
-          "id": "http://emshort.blog/?p=42234",
-          "author": "Emily Short",
-          "description": "Events IF Comp judging ends today — you may have a few hours left to register your opinions, if you wish — and results will be available soon. Today also marks the beginning of fos1’s jam for TADS games, which will run through early 2022. This is intended to invite more authors to try out … Continue reading \"Mid-November Link Assortment\"",
-          "link": "https://emshort.blog/2021/11/15/mid-november-link-assortment-6/",
-          "publishedOn": "2021-11-15T17:30:00.000Z",
-          "wordCount": 1545,
-          "title": "Mid-November Link Assortment"
         }
       ]
     },
@@ -217,6 +208,15 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2568/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/spinthariscope.png\" title=\"Other high scorers are melt-in-your-hand aluminum-destroying gallium and tritium-powered glowsticks. Lawn darts are toward the other end.\" alt=\"Other high scorers are melt-in-your-hand aluminum-destroying gallium and tritium-powered glowsticks. Lawn darts are toward the other end.\" />",
+          "link": "https://xkcd.com/2568/",
+          "publishedOn": "2022-01-14T00:00:00.000Z",
+          "wordCount": 190,
+          "title": "Spinthariscope"
+        },
         {
           "id": "https://xkcd.com/2567/",
           "author": null,
@@ -806,15 +806,6 @@
           "publishedOn": "2021-11-17T12:34:36.000Z",
           "wordCount": 1284,
           "title": "Debugging a weird 'file not found' error"
-        },
-        {
-          "id": "https://jvns.ca/blog/2021/11/15/esbuild-vue/",
-          "author": null,
-          "description": "Hello!\nI’ve been writing more frontend code in the last year or two – I’ve been making a bunch of little Vue projects. (for example nginx playground, sql playground, this dns lookup tool, and a couple of others)\nMy general approach to frontend development has been pretty “pretend it’s 2005” – I usually\nhave an index.html file, a script.js file, and then I do a <script\nsrc=\"script.js\"> and that’s it. You can see an example of that approach here.\nThis has been working mostly ok for me, but sometimes I run into problems. So I\nwanted to talk about one of those problems, a solution I found\n(esbuild!), and what I needed to learn to solve the problem (some very basic facts about how npm builds work).\nSome of the facts in this post might\nbe wrong because still I don’t understand Javascript build s…",
-          "link": "https://jvns.ca/blog/2021/11/15/esbuild-vue/",
-          "publishedOn": "2021-11-15T19:14:17.000Z",
-          "wordCount": 1750,
-          "title": "Some notes on using esbuild"
         }
       ]
     },
@@ -1170,15 +1161,6 @@
             "length": "27823182",
             "type": "video/mp4"
           }
-        },
-        {
-          "id": "http://www.nathalielawhead.com/candybox/?p=5173",
-          "author": "alienmelon",
-          "description": "I recently gave a keynote talk at the ATLAS Institute at the University of Colorado’s Whaaat!? 2021 Festival. A festival focusing on small and quirky games and experimental interactions. They’re doing wonderful work. I’m honored to have been part of this, talking about something very near and dear to my heart. This post is that keynote turned into a blog post. I’m sharing a lot of links here! Mind the in-line text links too for good resources. I hope this will be useful to people that share this same interest. ~ ~ ~ As most of you know, my work...",
-          "link": "http://www.nathalielawhead.com/candybox/make-tiny-weird-software-please-all-about-desktop-pets-old-computer-eras-and-virtual-toys",
-          "publishedOn": "2021-11-15T23:13:04.000Z",
-          "wordCount": 6023,
-          "title": "Make Tiny Weird Software, Please! (all about desktop pets, old computer eras, and virtual toys)"
         }
       ]
     }
