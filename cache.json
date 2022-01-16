@@ -175,6 +175,15 @@
       "siteUrl": "https://emshort.blog",
       "articles": [
         {
+          "id": "http://emshort.blog/?p=42577",
+          "author": "Emily Short",
+          "description": "Events Feb 5 is the next meeting of the SF Bay IF Meetup. If you wish to enter Spring Thing this year with a new work of interactive fiction, you have until March 1 to submit your intent to enter, and March 31 to complete your game. Releases chiaroscuro is a short, low-fantasy IF novella … Continue reading \"Mid-January Link Assortment\"",
+          "link": "https://emshort.blog/2022/01/15/mid-january-link-assortment-6/",
+          "publishedOn": "2022-01-15T17:30:00.000Z",
+          "wordCount": 1434,
+          "title": "Mid-January Link Assortment"
+        },
+        {
           "id": "http://emshort.blog/?p=42242",
           "author": "Emily Short",
           "description": "Events Running for a week starting January 1 on itch is the Historically Accurate Game Jam. This isn’t specifically an IF competition, and games of all types are welcome, as long as they’re written in a week and address the chosen time period or event of the jam. If you’ve had a craving to contribute … Continue reading \"End of December Link Assortment\"",
@@ -432,15 +441,6 @@
           "publishedOn": "2021-11-19T00:00:00.000Z",
           "wordCount": 185,
           "title": "Heart-Stopping Texts"
-        },
-        {
-          "id": "https://xkcd.com/2543/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/never_told_anyone.png\" title=\"Even if you said you were an employee of the website, if you asked for my password, I'd tell you.\" alt=\"Even if you said you were an employee of the website, if you asked for my password, I'd tell you.\" />",
-          "link": "https://xkcd.com/2543/",
-          "publishedOn": "2021-11-17T00:00:00.000Z",
-          "wordCount": 187,
-          "title": "Never Told Anyone"
         }
       ]
     },
@@ -727,15 +727,6 @@
           "publishedOn": "2021-12-01T14:30:00.000Z",
           "wordCount": 1077,
           "title": "Celebrating Pocket’s Best of 2021"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=68007",
-          "author": "Mozilla",
-          "description": "Today, Firefox Relay, a privacy-first and free product that hides your real email address to help protect your identity, is available with a new paid Premium service offering. The release comes just in time for the holiday season to help spare your inbox from being inundated with emails from e-commerce sites, especially those sites where […]\nThe post Introducing Firefox Relay Premium, allowing more aliases to protect your identity from spammers appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/firefox-relay-and-premium-service/",
-          "publishedOn": "2021-11-16T14:00:33.000Z",
-          "wordCount": 1531,
-          "title": "Introducing Firefox Relay Premium, allowing more aliases to protect your identity from spammers"
         }
       ]
     },
@@ -744,6 +735,15 @@
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
+        {
+          "id": "https://jvns.ca/blog/2022/01/15/some-ways-dns-can-break/",
+          "author": null,
+          "description": "When I first learned about it, DNS didn’t seem like it should be THAT\ncomplicated. Like, there are DNS records, they’re stored on a server, what’s\nthe big deal?\nBut with DNS, reading about how it works in a textbook doesn’t prepare you for\nthe sheer volume of different ways DNS can break your system in practice. It’s\nnot just caching problems!\nSo I asked people on Twitter for\nexample of DNS problems they’ve run into, especially DNS problems that didn’t\ninitially appear to be DNS problems. (the popular “it’s always DNS” meme)\nI’m not going to discuss how to solve or avoid any of these problems in this\npost, but I’ve linked to webpages discussing the problem where I could find\nthem.\nproblem: slow network requests\nYour network requests are a little bit slower than expected, and it’s actually\n…",
+          "link": "https://jvns.ca/blog/2022/01/15/some-ways-dns-can-break/",
+          "publishedOn": "2022-01-15T12:25:37.000Z",
+          "wordCount": 1508,
+          "title": "Some ways DNS can break"
+        },
         {
           "id": "https://jvns.ca/blog/2022/01/11/how-to-find-a-domain-s-authoritative-nameserver/",
           "author": null,
@@ -858,15 +858,6 @@
           "publishedOn": "2021-11-23T12:00:00.000Z",
           "wordCount": 3037,
           "title": "My Custom CSS Reset"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/css/introducing-shadow-palette-generator/",
-          "author": "Josh W. Comeau",
-          "description": "In order to create lush, realistic shadows in CSS, we need to use multiple layers and colors. How do we come up with all of the parameters, though? I've built a tool that'll help.",
-          "link": "https://www.joshwcomeau.com/css/introducing-shadow-palette-generator/",
-          "publishedOn": "2021-11-16T14:00:00.000Z",
-          "wordCount": 1230,
-          "title": "Introducing “Shadow Palette Generator”"
         }
       ]
     },
@@ -1108,20 +1099,6 @@
           "publishedOn": "2021-11-17T20:31:58.000Z",
           "wordCount": 2724,
           "title": "Pluralistic: 17 Nov 2021"
-        },
-        {
-          "id": "https://pluralistic.net/?p=2848",
-          "author": "Cory Doctorow",
-          "description": "Today's links What Police Get When They Get Your Phone: A new season of EFF's podcast, on cop-tech and what to do about it. This day in history: 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading What Police Get When They Get Your Phone (permalink) It's not surprising that the debate over digital rights is dominated by technologists – after all, spotting risks (and promises) of technology requires a technical understanding. Likewise, it's not surprising that technologists are accused of solutionism – they've got a hammer, and they're gonna look for nails. The problem with this critique is that not every tech intervention is solutionism. I mean, sure, social problems are caused by social relations, but tech can change…",
-          "link": "https://pluralistic.net/2021/11/16/cop-tech/",
-          "publishedOn": "2021-11-16T17:33:45.000Z",
-          "wordCount": 1914,
-          "title": "Pluralistic: 16 Nov 2021",
-          "enclosure": {
-            "url": "https://archive.org/download/h2fti-ep1-harlan-yu-mix-vfinal/h2fti-ep1-harlan-yu-mix-vfinal.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          }
         }
       ]
     },
