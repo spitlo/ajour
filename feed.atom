@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-01-16T00:22:23.928Z</updated>
+    <updated>2022-01-17T00:21:21.195Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
@@ -1400,51 +1400,6 @@ I even left a few special messages on the backs.]]></summary>
         <summary type="html"><![CDATA[Today's links This is your Congress on drugs: Corruption kills. Harvard is full of rich, white low-achievers: 43% of white Harvard students didn't get in on merit. This day in history: 2001, 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading This is your Congress on drugs (permalink) Back in 2014, a pair of political scientists published a study of 1,779 US "policy issues" over 20 years, concluding that elected officials make policy to benefit the richest ten percent of the country to the exclusion of the needs of everyone else. https://www.cambridge.org/core/journals/perspectives-on-politics/article/testing-theories-of-american-politics-elites-interest-groups-and-average-citizens/62327F513959D0A304D4893B382B992B Thi…]]></summary>
         <author>
             <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 17 Nov 2021]]></title>
-        <id>https://pluralistic.net/?p=2856</id>
-        <link href="https://pluralistic.net/2021/11/17/do-well-do-good-do-nothing/"/>
-        <updated>2021-11-17T20:31:58.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Aspiration's comprehensively deceptive greenwashing: It's "do well" OR "do good." Live Nation is to blame for the Astroworld deaths: Monopoly kills fandom, literally. This day in history: 2006, 2011, 2016 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Aspiration's comprehensively deceptive greenwashing (permalink) It's impossible to miss Aspiration's star-studded marketing blitz, in which a succession of A-listers promise you that you can save the planet by switching credit-cards ("Do good. Do well."). They're emblematic of the promise of green capitalism, the idea that climate emergency is about a slight misconfiguration of the profit motive and the finance sector. If that's true, it's great news for our species, our civ…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debugging a weird 'file not found' error]]></title>
-        <id>https://jvns.ca/blog/2021/11/17/debugging-a-weird--file-not-found--error/</id>
-        <link href="https://jvns.ca/blog/2021/11/17/debugging-a-weird--file-not-found--error/"/>
-        <updated>2021-11-17T12:34:36.000Z</updated>
-        <summary type="html"><![CDATA[Yesterday I ran into a weird error where I ran a program and got the error
-“file not found” even though the program I was running existed. It’s something
-I’ve run into before, but every time I’m very surprised and confused by it
-(what do you MEAN file not found, the file is RIGHT THERE???!!??)
-So let’s talk about what happened and why!
-the error
-Let’s start by showing the error message I got. I had a Go program called
-serve.go, and I was trying to bundle it into a Docker container with this
-Dockerfile:
-FROM golang:1.17 AS go
-
-ADD ./serve.go /app/serve.go
-WORKDIR /app
-RUN go build serve.go
-
-FROM alpine:3.14
-
-COPY --from=go /app/serve /app/serve
-COPY ./static /app/static
-WORKDIR /app/static
-CMD ["/app/serve"]
-
-This Dockerfile
-Builds the Go program
-Copies the binary into an Alpine container
-P…]]></summary>
-        <author>
-            <name>Julia Evans</name>
         </author>
     </entry>
 </feed>

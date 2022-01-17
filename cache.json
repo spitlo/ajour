@@ -797,15 +797,6 @@
           "publishedOn": "2021-12-04T08:44:04.000Z",
           "wordCount": 1491,
           "title": "How to use dig"
-        },
-        {
-          "id": "https://jvns.ca/blog/2021/11/17/debugging-a-weird--file-not-found--error/",
-          "author": null,
-          "description": "Yesterday I ran into a weird error where I ran a program and got the error\n“file not found” even though the program I was running existed. It’s something\nI’ve run into before, but every time I’m very surprised and confused by it\n(what do you MEAN file not found, the file is RIGHT THERE???!!??)\nSo let’s talk about what happened and why!\nthe error\nLet’s start by showing the error message I got. I had a Go program called\nserve.go, and I was trying to bundle it into a Docker container with this\nDockerfile:\nFROM golang:1.17 AS go\n\nADD ./serve.go /app/serve.go\nWORKDIR /app\nRUN go build serve.go\n\nFROM alpine:3.14\n\nCOPY --from=go /app/serve /app/serve\nCOPY ./static /app/static\nWORKDIR /app/static\nCMD [\"/app/serve\"]\n\nThis Dockerfile\nBuilds the Go program\nCopies the binary into an Alpine container\nP…",
-          "link": "https://jvns.ca/blog/2021/11/17/debugging-a-weird--file-not-found--error/",
-          "publishedOn": "2021-11-17T12:34:36.000Z",
-          "wordCount": 1284,
-          "title": "Debugging a weird 'file not found' error"
         }
       ]
     },
@@ -1090,15 +1081,6 @@
           "publishedOn": "2021-11-18T15:03:38.000Z",
           "wordCount": 1782,
           "title": "Pluralistic: 18 Nov 2021"
-        },
-        {
-          "id": "https://pluralistic.net/?p=2856",
-          "author": "Cory Doctorow",
-          "description": "Today's links Aspiration's comprehensively deceptive greenwashing: It's \"do well\" OR \"do good.\" Live Nation is to blame for the Astroworld deaths: Monopoly kills fandom, literally. This day in history: 2006, 2011, 2016 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Aspiration's comprehensively deceptive greenwashing (permalink) It's impossible to miss Aspiration's star-studded marketing blitz, in which a succession of A-listers promise you that you can save the planet by switching credit-cards (\"Do good. Do well.\"). They're emblematic of the promise of green capitalism, the idea that climate emergency is about a slight misconfiguration of the profit motive and the finance sector. If that's true, it's great news for our species, our civ…",
-          "link": "https://pluralistic.net/2021/11/17/do-well-do-good-do-nothing/",
-          "publishedOn": "2021-11-17T20:31:58.000Z",
-          "wordCount": 2724,
-          "title": "Pluralistic: 17 Nov 2021"
         }
       ]
     },
