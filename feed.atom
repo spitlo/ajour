@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-01-24T00:19:33.065Z</updated>
+    <updated>2022-01-25T00:21:27.134Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hosting my static sites with nginx]]></title>
+        <id>https://jvns.ca/blog/2022/01/24/hosting-my-static-sites-with-nginx/</id>
+        <link href="https://jvns.ca/blog/2022/01/24/hosting-my-static-sites-with-nginx/"/>
+        <updated>2022-01-24T07:59:19.000Z</updated>
+        <summary type="html"><![CDATA[Hello! Recently I’ve been thinking about putting my static sites on servers
+that I run myself instead of using managed services like Netlify or GitHub
+Pages.
+Originally I thought that running my own servers would require a lot of
+maintenance and be a huge pain, but I was chatting with Wesley about what kind
+of maintainance their servers require, and
+they convinced me that it might not be that bad.
+So I decided to try out moving all my static sites to a $5/month server to see
+what it was like.
+Everything in here is pretty standard but I wanted to write down what I did
+anyway because there are a surprising number of decisions and I like to see
+what choices other people make.
+the constraint: only static sites
+To keep things simple, I decided that this server would only run nginx and
+only serv…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alien Observers]]></title>
+        <id>https://xkcd.com/2572/</id>
+        <link href="https://xkcd.com/2572/"/>
+        <updated>2022-01-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/alien_observers.png" title="ALERT: Human 910-25J-1Q38 has created a Youtube channel. Increase erratic jerkiness of flying by 30% until safely out of range." alt="ALERT: Human 910-25J-1Q38 has created a Youtube channel. Increase erratic jerkiness of flying by 30% until safely out of range." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Revenge of the Hot Water Bottle]]></title>
         <id>https://www.lowtechmagazine.com/2022/01/the-revenge-of-the-hot-water-bottle.html</id>
@@ -1313,26 +1347,6 @@ The very ending, like the last few pages of The Name of the Wind did surprise me
         <summary type="html"><![CDATA[This week has been Yak Shaving Galore. It went a bit like this: I’ve been working on a web component that I need for the project I’m working on. More on that later, but let’s call it <x-foo> for now. Of course that needs to be developed as a separate reusable library and released as […]]]></summary>
         <author>
             <name>Lea Verou</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Siren]]></title>
-        <id>https://xkcd.com/2547/</id>
-        <link href="https://xkcd.com/2547/"/>
-        <updated>2021-11-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/siren.png" title="Directions from CITY OF TROY to ITHACA / Total time: 10y 54d 14h 25m / Warning: Route crosses an international border / route includes capture by the goddess Calypso / route includes a ferry" alt="Directions from CITY OF TROY to ITHACA / Total time: 10y 54d 14h 25m / Warning: Route crosses an international border / route includes capture by the goddess Calypso / route includes a ferry" />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 25 Nov 2021]]></title>
-        <id>https://pluralistic.net/?p=2902</id>
-        <link href="https://pluralistic.net/2021/11/25/strikesgiving/"/>
-        <updated>2021-11-25T18:30:30.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Unions are finally fighting two-tier contracts: How the actual fuck did they fail to see through this bullshit decades ago? McKinsey taught Big Pharma how to price-gouge: Leaked slides document the lies, sleaze and profiteering. This day in history: 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Unions are finally fighting two-tier contracts (permalink) Now that Striketober has given way to Strikesgiving, let's pause for a moment and be grateful that labor made 2021 the year that unions wised up to the self-immolating scam that is the two-tier contract. As Alexandra Bradbury writes for Labor Notes, this year's most prominent labor actions fought against two-tier contracts, from the Teamsters to John Deere to Ka…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
         </author>
     </entry>
 </feed>

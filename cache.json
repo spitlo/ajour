@@ -223,6 +223,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2572/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/alien_observers.png\" title=\"ALERT: Human 910-25J-1Q38 has created a Youtube channel. Increase erratic jerkiness of flying by 30% until safely out of range.\" alt=\"ALERT: Human 910-25J-1Q38 has created a Youtube channel. Increase erratic jerkiness of flying by 30% until safely out of range.\" />",
+          "link": "https://xkcd.com/2572/",
+          "publishedOn": "2022-01-24T00:00:00.000Z",
+          "wordCount": 192,
+          "title": "Alien Observers"
+        },
+        {
           "id": "https://xkcd.com/2571/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/hydraulic_analogy.png\" title=\"Current (water) running through the water (wires) causes it to boil, increasing the pressure (voltage), but resisting (impeding) the flow of hydroelectricity (water currents). This is the basis for Ohm's law.\" alt=\"Current (water) running through the water (wires) causes it to boil, increasing the pressure (voltage), but resisting (impeding) the flow of hydroelectricity (water currents). This is the basis for Ohm's law.\" />",
@@ -437,15 +446,6 @@
           "publishedOn": "2021-11-29T00:00:00.000Z",
           "wordCount": 185,
           "title": "Awful People"
-        },
-        {
-          "id": "https://xkcd.com/2547/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/siren.png\" title=\"Directions from CITY OF TROY to ITHACA / Total time: 10y 54d 14h 25m / Warning: Route crosses an international border / route includes capture by the goddess Calypso / route includes a ferry\" alt=\"Directions from CITY OF TROY to ITHACA / Total time: 10y 54d 14h 25m / Warning: Route crosses an international border / route includes capture by the goddess Calypso / route includes a ferry\" />",
-          "link": "https://xkcd.com/2547/",
-          "publishedOn": "2021-11-26T00:00:00.000Z",
-          "wordCount": 183,
-          "title": "Siren"
         }
       ]
     },
@@ -750,6 +750,15 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2022/01/24/hosting-my-static-sites-with-nginx/",
+          "author": null,
+          "description": "Hello! Recently I’ve been thinking about putting my static sites on servers\nthat I run myself instead of using managed services like Netlify or GitHub\nPages.\nOriginally I thought that running my own servers would require a lot of\nmaintenance and be a huge pain, but I was chatting with Wesley about what kind\nof maintainance their servers require, and\nthey convinced me that it might not be that bad.\nSo I decided to try out moving all my static sites to a $5/month server to see\nwhat it was like.\nEverything in here is pretty standard but I wanted to write down what I did\nanyway because there are a surprising number of decisions and I like to see\nwhat choices other people make.\nthe constraint: only static sites\nTo keep things simple, I decided that this server would only run nginx and\nonly serv…",
+          "link": "https://jvns.ca/blog/2022/01/24/hosting-my-static-sites-with-nginx/",
+          "publishedOn": "2022-01-24T07:59:19.000Z",
+          "wordCount": 1666,
+          "title": "Hosting my static sites with nginx"
+        },
+        {
           "id": "https://jvns.ca/blog/2022/01/15/some-ways-dns-can-break/",
           "author": null,
           "description": "When I first learned about it, DNS didn’t seem like it should be THAT\ncomplicated. Like, there are DNS records, they’re stored on a server, what’s\nthe big deal?\nBut with DNS, reading about how it works in a textbook doesn’t prepare you for\nthe sheer volume of different ways DNS can break your system in practice. It’s\nnot just caching problems!\nSo I asked people on Twitter for\nexample of DNS problems they’ve run into, especially DNS problems that didn’t\ninitially appear to be DNS problems. (the popular “it’s always DNS” meme)\nI’m not going to discuss how to solve or avoid any of these problems in this\npost, but I’ve linked to webpages discussing the problem where I could find\nthem.\nproblem: slow network requests\nYour network requests are a little bit slower than expected, and it’s actually\n…",
@@ -1018,15 +1027,6 @@
           "publishedOn": "2021-11-26T19:07:40.000Z",
           "wordCount": 2697,
           "title": "Pluralistic: 26 Nov 2021"
-        },
-        {
-          "id": "https://pluralistic.net/?p=2902",
-          "author": "Cory Doctorow",
-          "description": "Today's links Unions are finally fighting two-tier contracts: How the actual fuck did they fail to see through this bullshit decades ago? McKinsey taught Big Pharma how to price-gouge: Leaked slides document the lies, sleaze and profiteering. This day in history: 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Unions are finally fighting two-tier contracts (permalink) Now that Striketober has given way to Strikesgiving, let's pause for a moment and be grateful that labor made 2021 the year that unions wised up to the self-immolating scam that is the two-tier contract. As Alexandra Bradbury writes for Labor Notes, this year's most prominent labor actions fought against two-tier contracts, from the Teamsters to John Deere to Ka…",
-          "link": "https://pluralistic.net/2021/11/25/strikesgiving/",
-          "publishedOn": "2021-11-25T18:30:30.000Z",
-          "wordCount": 2353,
-          "title": "Pluralistic: 25 Nov 2021"
         }
       ]
     },
