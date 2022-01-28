@@ -464,15 +464,6 @@
           "publishedOn": "2021-12-01T00:00:00.000Z",
           "wordCount": 185,
           "title": "Edge Cake"
-        },
-        {
-          "id": "https://xkcd.com/2548/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/awful_people.png\" title=\"Hm, this burger place has a couple of good reviews, but LakeSlayer7 says he got food poisoning there and everyone should try this other place down by the lake instead.\" alt=\"Hm, this burger place has a couple of good reviews, but LakeSlayer7 says he got food poisoning there and everyone should try this other place down by the lake instead.\" />",
-          "link": "https://xkcd.com/2548/",
-          "publishedOn": "2021-11-29T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Awful People"
         }
       ]
     },
@@ -552,15 +543,6 @@
           "publishedOn": "2021-12-12T00:00:00.000Z",
           "wordCount": 281,
           "title": "Away with the Penguins [book]"
-        },
-        {
-          "id": "the-wise-mans-fear-the-kingkiller-chronicle-2",
-          "author": null,
-          "description": "A wonderful journey into Rothfuss' world.\nAs part two of a three part series covering three days (one book per day), the tone and story continues brilliantly onwards from book one (which I read mid-2019).\nThe characters, their quirks and more importantly to me, the beautiful prose of the book came right back to life.\nThe book clocks in at a 1,000 pages, and though by my standard that's a (very) long book, quite often I found myself happy that I was still inside the tale and that I still had a long way to go before it would end (and I knew that the current decade wait for book three could well draw longer so I wasn't so eager to finish the book!).\nFor me, the enjoyment was in the storytelling and being whisked away into the world completely. I honestly did find the amount of sex in the book kind of over the top. I can buy that Kvothe is a legend character and one part of that is perhaps he has a reputation with women, but I'm not wholely sure I needed the many-month-long shagathon story when Kvothe is away with the faeries…\nStill, even with this, I found myself wanting to stay in the world for as long as I could.\nThe very ending, like the last few pages of The Name of the Wind did surprise me a left me a little confused, but I like to think that one day The Doors of Stone will answer some of those questions…",
-          "link": "https://remysharp.com/books/2021/the-wise-mans-fear-the-kingkiller-chronicle-2",
-          "publishedOn": "2021-11-29T00:00:00.000Z",
-          "wordCount": 420,
-          "title": "The Wise Man's Fear (The Kingkiller Chronicle, #2) [book]"
         }
       ]
     },
@@ -846,6 +828,24 @@
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
         {
+          "id": "https://www.joshwcomeau.com/css/stacking-contexts/",
+          "author": "Josh W. Comeau",
+          "description": "The z-index property can be a tricky little bugger. Sometimes, no matter how much you crank up the number, the element never rises to the top! In this article, we explore stacking contexts, and see how they can thwart our efforts to use z-index. We'll also learn how to use this mechanism to our advantage.",
+          "link": "https://www.joshwcomeau.com/css/stacking-contexts/",
+          "publishedOn": "2022-01-27T09:49:38.000Z",
+          "wordCount": 2680,
+          "title": "What The Heck, z-index??"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/css/css-variables-for-react-devs/",
+          "author": "Josh W. Comeau",
+          "description": "CSS Variables are *really* cool, and they're incredibly powerful when it comes to React! This tutorial shows how we can use them with React to create dynamic themes. We'll see how to get the most out of CSS-in-JS tools like styled-components, and how our mental frame around media queries has been wrong all along.",
+          "link": "https://www.joshwcomeau.com/css/css-variables-for-react-devs/",
+          "publishedOn": "2022-01-27T09:49:38.000Z",
+          "wordCount": 2537,
+          "title": "CSS Variables for React Devs"
+        },
+        {
           "id": "https://www.joshwcomeau.com/css/make-beautiful-gradients/",
           "author": "Josh W. Comeau",
           "description": "Have you ever noticed that gradients tend to look a little gray and washed-out in the middle? This happens because of a mathematical quirk with RGB colors. Fortunately, we can work around this quirk, and create beautiful, lush, saturated gradients.",
@@ -904,6 +904,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=3038",
+          "author": "Cory Doctorow",
+          "description": "Today's links As stocks tumble, wealthy speculators bid up house prices: The long-run effect of Obama's choice to bail out lenders, not borrowers. Cops' imaginary fears send addicts to real jail: The deadly myth of the fentanyl contact high. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading As stocks tumble, wealthy speculators bid up house prices (permalink) The Obama administration's most consequential decision was to address the Great Financial Crisis by bailing out the finance sector, rather than borrowers. It was an unforced error, directed by Goldman-Sachs bankers elevated to the ranks of finance regulators, and we are still living with its consequences. The choice to enact quantitat…",
+          "link": "https://pluralistic.net/2022/01/27/extraordinary-popular-delusions/",
+          "publishedOn": "2022-01-27T18:02:12.000Z",
+          "wordCount": 2709,
+          "title": "Pluralistic: 27 Jan 2022"
+        },
         {
           "id": "https://pluralistic.net/?p=3007",
           "author": "Cory Doctorow",
@@ -1026,15 +1035,6 @@
           "publishedOn": "2021-11-29T16:43:44.000Z",
           "wordCount": 2584,
           "title": "Pluralistic: 29 Nov 2021"
-        },
-        {
-          "id": "https://pluralistic.net/?p=2919",
-          "author": "Cory Doctorow",
-          "description": "Today's links The Cuban vaccines: Omicron, vaccine apartheid, WTO TRIPS waivers and the false hope of viruses \"gentling\" themselves. This day in history: 2001, 2006, 2011, 2016 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The Cuban vaccines (permalink) Are you low-key freaking out about omicron? Yeah, me too. Can't we catch a break? Maybe. Step one to preventing new, scarier mutant strains is to reduce the number of infected people, which require a mix of ventilation, masking, distancing, and, of course, vaccinations. These days, the \"vaccine controversy\" is primarily about vaccine-hesitancy and vaccine denial – that is, about people who can get the vaccine but choose not to. But if you cast your mind way, way, way back to last sprin…",
-          "link": "https://pluralistic.net/2021/11/28/somos-cuba/",
-          "publishedOn": "2021-11-28T15:55:23.000Z",
-          "wordCount": 2599,
-          "title": "Pluralistic: 28 Nov 2021"
         }
       ]
     },
