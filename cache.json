@@ -79,15 +79,6 @@
           "publishedOn": "2021-12-31T00:00:00.000Z",
           "wordCount": 6478,
           "title": "Summary of changes for December"
-        },
-        {
-          "id": "log.html#nov2021",
-          "author": "Rekka Bellum",
-          "description": "Hey everyone! This is the list of all the changes we've done to our projects and apps during the month of November. We'll also be reporting in our on position in the world, and on our future plans.\nSummary Of Changes\nDonsol, designed a donsol turnip.\nUxn, wrote a file browser rom(Mastodon), improved on uxn utilities (clock, calculator(both YouTube)).\nNasu, added nametable to preview items on the spritesheet, and added option to flip a sprite horizontally or vertically in the blend view.\n100r, added an information section on {drownspire}, the studio we had prior to hundredrabbits.\nOquonie, started tests to port the game to Uxntal(Birdsite).\nLeft, fixed bugs and improved speed.\nNews\nThis month, there was an intro to Uxn Programming(YouTube) workshop by Compudanzas, an event by Babycastles Academy. Give it a watch!\nNovember was a very rainy month in Victoria, a perfect time for experiments in the galley. We are growing Lion's Mane mushrooms currently (a first for us), and we are continuing to lacto-ferment vegetables like kohlrabi, turnips, daikon, cauliflower and red onion. To learn how to do it, see our guide to lactofermentation.\nPino book club\nWe're reading The Summer Book by Tove Jansson (it's such a lovely book).\nPino's location: 48° 42.230'N, 123° 36.900'W\nContinue Reading",
-          "link": "https://100r.co/site/log.html#nov2021",
-          "publishedOn": "2021-12-01T00:00:00.000Z",
-          "wordCount": 6253,
-          "title": "Summary of changes for November"
         }
       ]
     },
@@ -223,15 +214,6 @@
           "publishedOn": "2021-12-15T17:30:00.000Z",
           "wordCount": 1530,
           "title": "Mid-December Link Assortment"
-        },
-        {
-          "id": "http://emshort.blog/?p=42237",
-          "author": "Emily Short",
-          "description": "Events December 4 is the next meetup of the San Francisco Bay Area IF Group. December 12 is the next meetup of the Seattle/Tacoma IF Group, meeting online via Discord. The Ectocomp competition for spooky and Halloween-y games is now over, but the entries can still be played. Or, if you’re looking for something to … Continue reading \"End of November Link Assortment\"",
-          "link": "https://emshort.blog/2021/11/30/end-of-november-link-assortment-6/",
-          "publishedOn": "2021-11-30T17:30:00.000Z",
-          "wordCount": 1665,
-          "title": "End of November Link Assortment"
         }
       ]
     },
@@ -240,6 +222,15 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2574/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/autoresponder.png\" title=\"I ADMIRE HOW YOU SET BOUNDARIES AND I HOPE YOUR COLLEAGUES RESPECT THEM! PLEASE SPARE MY LIFE!\" alt=\"I ADMIRE HOW YOU SET BOUNDARIES AND I HOPE YOUR COLLEAGUES RESPECT THEM! PLEASE SPARE MY LIFE!\" />",
+          "link": "https://xkcd.com/2574/",
+          "publishedOn": "2022-01-28T00:00:00.000Z",
+          "wordCount": 189,
+          "title": "Autoresponder"
+        },
         {
           "id": "https://xkcd.com/2573/",
           "author": null,
@@ -455,15 +446,6 @@
           "publishedOn": "2021-12-03T00:00:00.000Z",
           "wordCount": 183,
           "title": "Webb"
-        },
-        {
-          "id": "https://xkcd.com/2549/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/edge_cake.png\" title=\"Every time IERS adds or removes a leap second, they send me a birthday cake out of superstition.\" alt=\"Every time IERS adds or removes a leap second, they send me a birthday cake out of superstition.\" />",
-          "link": "https://xkcd.com/2549/",
-          "publishedOn": "2021-12-01T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Edge Cake"
         }
       ]
     },
@@ -473,6 +455,15 @@
       "siteUrl": "https://remysharp.com",
       "articles": [
         {
+          "id": "trim",
+          "author": null,
+          "description": "At the start of this year, after over 2½ years of growing my hair, I cut it all off, right to the scalp and donated it to charity, specifically so Little Princess Trust, a charity who create wigs for little girls with cancer. Whilst Julie also raised over £650 which pays for the creation.\nI did post the progress on Twitter, but I don't trust that site to be around in the next decade or two, so I'm posting it here too, since this site will be around as long as I am.",
+          "link": "https://remysharp.com/2022/01/29/trim",
+          "publishedOn": "2022-01-29T00:00:00.000Z",
+          "wordCount": 418,
+          "title": "Trim [blog]"
+        },
+        {
           "id": "2022-01-18-47fd232c",
           "author": null,
           "description": "A simple mono font, but also comes with it's own easy to use visual editor where you can work on an multi-layered 5x11 grid to customise the font to your liking - and download it as an .OTF file.\nSource: brutalita.com",
@@ -480,6 +471,15 @@
           "publishedOn": "2022-01-18T10:00:06.000Z",
           "wordCount": 193,
           "title": "Brutalita Sans - font and editor [link]"
+        },
+        {
+          "id": "klara-and-the-sun",
+          "author": null,
+          "description": "Klara and the Sun",
+          "link": "https://remysharp.com/books/2022/klara-and-the-sun",
+          "publishedOn": "2022-01-14T00:00:00.000Z",
+          "wordCount": 157,
+          "title": "Klara and the Sun [book]"
         },
         {
           "id": "books-i-read-in-2021",
@@ -785,6 +785,15 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2022/01/29/reasons-for-servers-to-support-ipv6/",
+          "author": null,
+          "description": "I’ve been having a hard time understanding IPv6. On one hand, the basics initially seem pretty\nstraightforward (there aren’t enough IPv4 addresses for all the devices on the\ninternet, so people invented IPv6! There are enough IPv6 addresses for\neveryone!)\nBut when I try to actually understand it, I run into a lot of questions. One\nquestion is: twitter.com does not support IPv6. Presumably it can’t be causing\nthem THAT many issues to not support it. So why do websites support IPv6?\nI asked people on Twitter why their servers support IPv6\nand I got a lot of great answers, which I’ll summarize here. These all come\nwith the disclaimer that I have basically 0 experience with IPv6 so I can’t evaluate these reasons very well.\nFirst though, I want to explain why it’s possible for twitter.com to no…",
+          "link": "https://jvns.ca/blog/2022/01/29/reasons-for-servers-to-support-ipv6/",
+          "publishedOn": "2022-01-29T07:44:38.000Z",
+          "wordCount": 1832,
+          "title": "Reasons for servers to support IPv6"
+        },
+        {
           "id": "https://jvns.ca/blog/2022/01/24/hosting-my-static-sites-with-nginx/",
           "author": null,
           "description": "Hello! Recently I’ve been thinking about putting my static sites on servers\nthat I run myself instead of using managed services like Netlify or GitHub\nPages.\nOriginally I thought that running my own servers would require a lot of\nmaintenance and be a huge pain, but I was chatting with Wesley about what kind\nof maintainance their servers require, and\nthey convinced me that it might not be that bad.\nSo I decided to try out moving all my static sites to a $5/month server to see\nwhat it was like.\nEverything in here is pretty standard but I wanted to write down what I did\nanyway because there are a surprising number of decisions and I like to see\nwhat choices other people make.\nthe constraint: only static sites\nTo keep things simple, I decided that this server would only run nginx and\nonly serv…",
@@ -940,6 +949,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=3049",
+          "author": "Cory Doctorow",
+          "description": "Today's links No, payday lenders aren't nice guys: Won't someone think of the poor usurers? The Right to Repair: A stupendous new book on a very urgent subject. This day in history: 2002, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading No, payday lenders aren't nice guys (permalink) \"It is difficult to get a man to understand something when his salary depends upon his not understanding it.\" That quote from Upton Sinclair reveals the ideological underpinnings of consequential errors by economists that lead to material, negative consequences for poor people. Here's one of those errors. A pair of economists, one associated with the the far-right Scalia Center at George Mason University, performed a deeply flawed analysis of payd…",
+          "link": "https://pluralistic.net/2022/01/29/planned-obsolescence/",
+          "publishedOn": "2022-01-29T17:40:32.000Z",
+          "wordCount": 2056,
+          "title": "Pluralistic: 29 Jan 2022"
+        },
         {
           "id": "https://pluralistic.net/?p=3044",
           "author": "Cory Doctorow",
