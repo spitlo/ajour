@@ -473,15 +473,6 @@
           "publishedOn": "2021-12-08T00:00:00.000Z",
           "wordCount": 187,
           "title": "The Last Molecule"
-        },
-        {
-          "id": "https://xkcd.com/2551/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/debunking.png\" title=\"Mark Zuckerberg has only neutral feelings toward Peppa Pig, who he understands is a fictional character, and he blames the coronavirus pandemic on other factors.\" alt=\"Mark Zuckerberg has only neutral feelings toward Peppa Pig, who he understands is a fictional character, and he blames the coronavirus pandemic on other factors.\" />",
-          "link": "https://xkcd.com/2551/",
-          "publishedOn": "2021-12-06T00:00:00.000Z",
-          "wordCount": 183,
-          "title": "Debunking"
         }
       ]
     },
@@ -683,6 +674,15 @@
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
         {
+          "id": "https://blog.mozilla.org/?p=68415",
+          "author": "Mozilla",
+          "description": "Mozilla’s mission is to make sure the Internet remains open and accessible to all. Four years ago, we launched Firefox Reality, a browser for mixed reality, and our exploration in browsing in new and emerging realities. We’ve been at the forefront of developing new technologies, like WebVR and WebAR, and in some instances, Mozilla continues […]\nThe post Update on Firefox Reality appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/news/update-on-firefox-reality/",
+          "publishedOn": "2022-02-03T14:03:11.000Z",
+          "wordCount": 1074,
+          "title": "Update on Firefox Reality"
+        },
+        {
           "id": "https://blog.mozilla.org/?p=68376",
           "author": "Mozilla",
           "description": "At Mozilla, online privacy has always been one of our top priorities. Recently we announced Total Cookie Protection on Firefox Focus to combat cross-site tracking, and last year we introduced Firefox Relay, a privacy-first product that hides your real email address to help protect your identity. We are always looking for ways to offer privacy […]\nThe post Keep your multiple online lives private with Multi-Account Containers Add-on on Mozilla VPN appeared first on The Mozilla Blog.",
@@ -868,15 +868,6 @@
           "publishedOn": "2021-12-15T09:41:36.000Z",
           "wordCount": 3105,
           "title": "New tool: Mess with DNS!"
-        },
-        {
-          "id": "https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/",
-          "author": null,
-          "description": "Hello! Yesterday I tweeted this:\n\nI feel like the term \"DNS propagation\" is misleading, like you're not actually waiting for DNS records to \"propagate\", you're waiting for cached records to expire\n— 🔎Julia Evans🔍 (@b0rk) December 5, 2021\n \nand I want to talk about it a little more. This came up because I was showing a\nfriend a demo of how DNS caching works last week, and he realized that what was\nhappening in the demo didn’t line up with his mental model of how DNS worked.\nHe immediately brought this up and adjusted his mental model (“oh, DNS records are\npulled, not pushed!“). But this it got me thinking – why did my very\nsmart and experienced friend have an inaccurate mental model for how DNS works\nin the first place?\nFirst – I’m very tired of posts that complain about how people are “w…",
-          "link": "https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/",
-          "publishedOn": "2021-12-06T09:44:31.000Z",
-          "wordCount": 2209,
-          "title": "DNS doesn't \"propagate\""
         }
       ]
     },
@@ -962,6 +953,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=3090",
+          "author": "Cory Doctorow",
+          "description": "Today's links Money is power: A political economy parable (with a side of environmental racism). When crypto-exchanges go broke, you'll lose it all: The fatal flaw in the \"neither fish nor fowl\" gambit (there is such a thing as society). This day in history: 2017 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Money is power (permalink) \"Political economy\" may sound like an obscure technical matter, but it's a really very simple (and incredibly important) idea: That the economy is inevitably political, and there is no way to depoliticize economic theory. That is, every aspect of economics – taxation, antitrust, contract and labor law, etc – is fundamentally political. There is no objective perch on which an economist can stand and decid…",
+          "link": "https://pluralistic.net/2022/02/03/liquidation-preference/",
+          "publishedOn": "2022-02-03T20:23:37.000Z",
+          "wordCount": 3418,
+          "title": "Pluralistic: 03 Feb 2022"
+        },
         {
           "id": "https://pluralistic.net/?p=3080",
           "author": "Cory Doctorow",
@@ -1116,15 +1116,6 @@
             "length": "0",
             "type": "audio/mpeg"
           }
-        },
-        {
-          "id": "https://pluralistic.net/?p=2947",
-          "author": "Cory Doctorow",
-          "description": "Today's links When you hear \"one size fits all,\" think \"universal\": The origins and expansion of a right-wing shibboleth. This day in history: 2001, 2006, 2011, 2016, 2020 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading When you hear \"one size fits all,\" think \"universal\" (permalink) Once, the phrase \"one size fits all\" was a futuristic boast offered by manufacturers availing themselves of new, high-tech materials that stretched and flexed without tearing or deforming. Today, it's a curse-word used to damn universal programs. What happened? As is so often the case with big linguistic shifts, the culprit is capitalist realism, the ideology that there is no alternative to unfettered profit-seeking, which relies heavily on linguistic games…",
-          "link": "https://pluralistic.net/2021/12/05/universalism/",
-          "publishedOn": "2021-12-05T16:31:25.000Z",
-          "wordCount": 2120,
-          "title": "Pluralistic: 05 Dec 2021"
         }
       ]
     },
