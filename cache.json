@@ -250,6 +250,15 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2578/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/sword_pull.png\" title=\"Merlin really shouldn't leave his dirt bike lying around.\" alt=\"Merlin really shouldn't leave his dirt bike lying around.\" />",
+          "link": "https://xkcd.com/2578/",
+          "publishedOn": "2022-02-07T00:00:00.000Z",
+          "wordCount": 197,
+          "title": "Sword Pull"
+        },
+        {
           "id": "https://xkcd.com/2577/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/sea_chase.png\" title=\"There are two rules on this ship: Never gaze back into the projection abyss, and never touch the red button labeled DYMAXION.\" alt=\"There are two rules on this ship: Never gaze back into the projection abyss, and never touch the red button labeled DYMAXION.\" />",
@@ -464,15 +473,6 @@
           "publishedOn": "2021-12-13T00:00:00.000Z",
           "wordCount": 185,
           "title": "Gift Exchange"
-        },
-        {
-          "id": "https://xkcd.com/2553/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/incident_report.png\" title=\"Increasing-precision timestamps are the Jaws theme of incident reports.\" alt=\"Increasing-precision timestamps are the Jaws theme of incident reports.\" />",
-          "link": "https://xkcd.com/2553/",
-          "publishedOn": "2021-12-10T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Incident Report"
         }
       ]
     },
@@ -789,24 +789,6 @@
           "publishedOn": "2021-12-16T23:15:21.000Z",
           "wordCount": 2104,
           "title": "Pocket & Texas Monthly Take You Inside The World of the Dallas Cowboys Cheerleaders With New Partnership"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=68152",
-          "author": "Rebecca Smith",
-          "description": "While Mozilla can’t make your impossible-to-shop-for dad any easier to shop for, we can help make the process of holiday shopping more enjoyable. \nThe post My best holiday shopping tip? Mozilla appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/my-best-holiday-shopping-tip-mozilla/",
-          "publishedOn": "2021-12-09T22:30:00.000Z",
-          "wordCount": 1537,
-          "title": "My best holiday shopping tip? Mozilla"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=68141",
-          "author": "Jenifer Boscacci",
-          "description": "All this year, we’ve been experimenting with features to help you discover articles and voices that are relevant to your interests, and better organize your lists so you can easily find the stories that fit your mood or your time available. We saw lots of users engaging with positive and meaningful content, which demonstrated to […]\nThe post Year in Review: How we’re curating the web with you and our top Pocket features appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/products/year-in-review-how-were-curating-the-web-with-you-and-our-top-pocket-features/",
-          "publishedOn": "2021-12-09T14:06:09.000Z",
-          "wordCount": 1653,
-          "title": "Year in Review: How we’re curating the web with you and our top Pocket features"
         }
       ]
     },
@@ -954,23 +936,27 @@
       "title": "A List Apart: The Full Feed",
       "feedUrl": "https://alistapart.com/main/feed/",
       "siteUrl": "https://alistapart.com",
-      "articles": [
-        {
-          "id": "https://alistapart.com/article/breaking-out-of-the-box/",
-          "author": "by",
-          "description": "CSS is about styling boxes. In fact, the whole web is made of boxes, from the browser viewport to elements on a page. But every once in a while a new feature comes along that makes us rethink our design approach.\nRound displays, for example, make it fun to play with circular clip areas. Mobile screen notches and virtual keyboards offer challenges to best organize content that stays clear of them. And dual screen or foldable devices make us rethink how to best use available space in a number of different device postures.\nSketches of a round display, a common rectangular mobile display, and a device with a foldable display.\n\n\n\nThese recent evolutions of the web platform made it both more challenging and more interesting to design products. They’re great opportunities for us to break out of o…",
-          "link": "https://alistapart.com/article/breaking-out-of-the-box/",
-          "publishedOn": "2021-12-09T15:00:00.000Z",
-          "wordCount": 3751,
-          "title": "Breaking Out of the Box"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Pluralistic: Daily links from Cory Doctorow",
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=3115",
+          "author": "Cory Doctorow",
+          "description": "Today's links Podcasting part one of \"The Internet Heist\": My origin story, fighting the Broadcast Flag. This day in history: 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Podcasting part one of \"The Internet Heist\" (permalink) This week on my podcast, I read the first part of \"The Internet Heist,\" a three-part series I wrote for Medium on the \"Broadcast Flag,\" which was invented 20 years ago, on my first day on the job at EFF. It's basically my origin-story. https://onezero.medium.com/the-internet-heist-part-i-3395769891b0 The Broadcast Flag was an incredibly gnarly, high-stakes digital technology issue. It combined no fewer than three esoteric fields – spectrum allocation, computer science, and copyright – and threa…",
+          "link": "https://pluralistic.net/2022/02/07/broadcast-flag/",
+          "publishedOn": "2022-02-07T16:41:17.000Z",
+          "wordCount": 1851,
+          "title": "Pluralistic: 07 Feb 2022",
+          "enclosure": {
+            "url": "https://archive.org/download/Cory_Doctorow_Podcast_413/Cory_Doctorow_Podcast_413_-_The_Internet_Heist_Part_I.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          }
+        },
         {
           "id": "https://pluralistic.net/?p=3111",
           "author": "Cory Doctorow",
@@ -1129,15 +1115,6 @@
             "length": "0",
             "type": "audio/mpeg"
           }
-        },
-        {
-          "id": "https://pluralistic.net/?p=2969",
-          "author": "Cory Doctorow",
-          "description": "Today's links Electrify: Saul Griffith's visionary, practical program for a US clean energy transition. This day in history: 2011, 2016 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Electrify (permalink) In Electrify, the MacArthur prizewinning engineer Saul Griffith offers a detailed, optimistic and urgent roadmap for a climate-respecting energy transition that we can actually accomplish in 10-15 years. There are a lot of popular science books out there, but the world really needs more popular engineering books – books that set out the technical parameters of our problems and the various proposed solutions, sorting the likely from the plausible to the foolish, and laying out a practical range of plans to accomplish the best of them. …",
-          "link": "https://pluralistic.net/2021/12/09/practical-visionary/",
-          "publishedOn": "2021-12-09T21:15:38.000Z",
-          "wordCount": 2007,
-          "title": "Pluralistic: 09 Dec 2021"
         }
       ]
     },
