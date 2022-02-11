@@ -6,6 +6,15 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=7124",
+          "author": "Chris Heilmann",
+          "description": "I just encountered a sneaky thing I had not seen, although it probably worked in 1999 already. A web site was showing a different title on the tab, depending on it being active or not. The whole trick is to use the blur and focus event handlers on the window to change the title. window.onblur […]",
+          "link": "https://christianheilmann.com/2022/02/10/showing-different-titles-depending-if-the-tab-is-active-or-not/",
+          "publishedOn": "2022-02-10T18:49:56.000Z",
+          "wordCount": 355,
+          "title": "Showing different titles depending if the tab is active or not"
+        },
+        {
           "id": "https://christianheilmann.com/?p=7114",
           "author": "Chris Heilmann",
           "description": "I’m part of a few organisations on GitHub and had one email address for notifications. This annoyed me as I didn’t want company notifications to my personal account as I couldn’t answer these. As it turns out, you can set up several email addresses in your GitHub account. In settings, go to Access > Emails […]",
@@ -189,15 +198,6 @@
           "publishedOn": "2021-12-22T22:03:50.000Z",
           "wordCount": 95,
           "title": "Lego Report 6"
-        },
-        {
-          "id": "https://grumpygamer.com/lego5",
-          "author": null,
-          "description": "After 7000 signatures, some progress.  I am getting help.",
-          "link": "https://grumpygamer.com/lego5",
-          "publishedOn": "2021-12-12T21:35:16.000Z",
-          "wordCount": 77,
-          "title": "Lego Report 5"
         }
       ]
     },
@@ -473,15 +473,6 @@
           "publishedOn": "2021-12-15T00:00:00.000Z",
           "wordCount": 183,
           "title": "Notifications"
-        },
-        {
-          "id": "https://xkcd.com/2554/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/gift_exchange.png\" title=\"In addition to having all their budgets in a spreadsheet with consistent formatting, they just love expressing preferences on a well-calibrated numerical scale.\" alt=\"In addition to having all their budgets in a spreadsheet with consistent formatting, they just love expressing preferences on a well-calibrated numerical scale.\" />",
-          "link": "https://xkcd.com/2554/",
-          "publishedOn": "2021-12-13T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Gift Exchange"
         }
       ]
     },
@@ -587,6 +578,15 @@
       "feedUrl": "https://rachelbythebay.com/w/atom.xml",
       "siteUrl": "https://rachelbythebay.com/w/",
       "articles": [
+        {
+          "id": "https://rachelbythebay.com/w/2022/02/09/nice/",
+          "author": null,
+          "description": "I once worked at a place that had an interesting little problem stemming \nfrom the way they managed machines and some of the fun side-effects \nprocesses can have on each other.  This is back in the pre-systemd days \nof running services, such that things tended to be started or restarted \nby someone or something that itself ran as root.  That is, if you \nstarted something, it might inherit one or more things from your \nenvironment.  Likewise, if you ran something with an unusual \nenvironment, it might bestow those \"gifts\" onto anything it happened to \ntouch.\n\n\nAfter locking themselves out of machines too many times, people \ngenerally learned that after you mess with a glibc upgrade, you restart \nthe sshd listener on port 22.  Of course, they also had to learn to not \nwhack EVERY sshd at the…",
+          "link": "https://rachelbythebay.com/w/2022/02/09/nice/",
+          "publishedOn": "2022-02-10T19:24:29.000Z",
+          "wordCount": 951,
+          "title": "A nice story about Unix processes \"infecting\" each other"
+        },
         {
           "id": "https://rachelbythebay.com/w/2022/01/26/swcbbs/",
           "author": null,
@@ -952,6 +952,15 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=3130",
+          "author": "Cory Doctorow",
+          "description": "Today's links Welcome to the Palmerverse: Ada Palmer's Renaissance-informed science fictional futurism. SEC vs private equity ripoffs: Personnel really are policy. Neuromancer today: Eileen Gunn on the enduring significance and wonder of William Gibson. Gators and Amazon tag-team small sellers: Amazon's bad conduct is good for (a certain kind of) business. This day in history: 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Welcome to the Palmerverse (permalink) Today in Wired, Gregory Barber profiles my friend, colleague and collaborator Ada Palmer, an extraordinary writer, librettist, historian, scholar, activist and performer: https://www.wired.com/story/ada-palmer-sci-fi-future-weird-hand-progress/ Palmer has just w…",
+          "link": "https://pluralistic.net/2022/02/10/monopoly-begets-monopoly/",
+          "publishedOn": "2022-02-10T20:53:37.000Z",
+          "wordCount": 3619,
+          "title": "Pluralistic: 10 Feb 2022"
+        },
         {
           "id": "https://pluralistic.net/?p=3126",
           "author": "Cory Doctorow",

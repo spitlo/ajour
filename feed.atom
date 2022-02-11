@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-02-10T00:22:20.760Z</updated>
+    <updated>2022-02-11T00:21:03.403Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: 10 Feb 2022]]></title>
+        <id>https://pluralistic.net/?p=3130</id>
+        <link href="https://pluralistic.net/2022/02/10/monopoly-begets-monopoly/"/>
+        <updated>2022-02-10T20:53:37.000Z</updated>
+        <summary type="html"><![CDATA[Today's links Welcome to the Palmerverse: Ada Palmer's Renaissance-informed science fictional futurism. SEC vs private equity ripoffs: Personnel really are policy. Neuromancer today: Eileen Gunn on the enduring significance and wonder of William Gibson. Gators and Amazon tag-team small sellers: Amazon's bad conduct is good for (a certain kind of) business. This day in history: 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Welcome to the Palmerverse (permalink) Today in Wired, Gregory Barber profiles my friend, colleague and collaborator Ada Palmer, an extraordinary writer, librettist, historian, scholar, activist and performer: https://www.wired.com/story/ada-palmer-sci-fi-future-weird-hand-progress/ Palmer has just w…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A nice story about Unix processes "infecting" each other]]></title>
+        <id>https://rachelbythebay.com/w/2022/02/09/nice/</id>
+        <link href="https://rachelbythebay.com/w/2022/02/09/nice/"/>
+        <updated>2022-02-10T19:24:29.000Z</updated>
+        <summary type="html"><![CDATA[I once worked at a place that had an interesting little problem stemming 
+from the way they managed machines and some of the fun side-effects 
+processes can have on each other.  This is back in the pre-systemd days 
+of running services, such that things tended to be started or restarted 
+by someone or something that itself ran as root.  That is, if you 
+started something, it might inherit one or more things from your 
+environment.  Likewise, if you ran something with an unusual 
+environment, it might bestow those "gifts" onto anything it happened to 
+touch.
+
+
+After locking themselves out of machines too many times, people 
+generally learned that after you mess with a glibc upgrade, you restart 
+the sshd listener on port 22.  Of course, they also had to learn to not 
+whack EVERY sshd at the…]]></summary>
+        <author>
+            <name>Writing - rachelbythebay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Showing different titles depending if the tab is active or not]]></title>
+        <id>https://christianheilmann.com/?p=7124</id>
+        <link href="https://christianheilmann.com/2022/02/10/showing-different-titles-depending-if-the-tab-is-active-or-not/"/>
+        <updated>2022-02-10T18:49:56.000Z</updated>
+        <summary type="html"><![CDATA[I just encountered a sneaky thing I had not seen, although it probably worked in 1999 already. A web site was showing a different title on the tab, depending on it being active or not. The whole trick is to use the blur and focus event handlers on the window to change the title. window.onblur […]]]></summary>
+        <author>
+            <name>Chris Heilmann</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pluralistic: 09 Feb 2022]]></title>
         <id>https://pluralistic.net/?p=3126</id>
@@ -1498,26 +1542,6 @@ First: Mess W…]]></summary>
 Younger Remy would have never believed that I could read a book this length. It was simple something that was impossible. For me, my Kindle changed reading for me and opened the door to the world of literature.]]></summary>
         <author>
             <name>remy sharp's b:log</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gift Exchange]]></title>
-        <id>https://xkcd.com/2554/</id>
-        <link href="https://xkcd.com/2554/"/>
-        <updated>2021-12-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/gift_exchange.png" title="In addition to having all their budgets in a spreadsheet with consistent formatting, they just love expressing preferences on a well-calibrated numerical scale." alt="In addition to having all their budgets in a spreadsheet with consistent formatting, they just love expressing preferences on a well-calibrated numerical scale." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lego Report 5]]></title>
-        <id>https://grumpygamer.com/lego5</id>
-        <link href="https://grumpygamer.com/lego5"/>
-        <updated>2021-12-12T21:35:16.000Z</updated>
-        <summary type="html"><![CDATA[After 7000 signatures, some progress.  I am getting help.]]></summary>
-        <author>
-            <name>Grumpy Gamer</name>
         </author>
     </entry>
 </feed>
