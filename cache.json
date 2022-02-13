@@ -473,15 +473,6 @@
           "publishedOn": "2021-12-17T00:00:00.000Z",
           "wordCount": 185,
           "title": "Turing Complete"
-        },
-        {
-          "id": "https://xkcd.com/2555/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/notifications.png\" title=\"It's 10:34 PM for this user. They really need to get going, they have a thing early tomorrow. Are you sure you want to notify?\" alt=\"It's 10:34 PM for this user. They really need to get going, they have a thing early tomorrow. Are you sure you want to notify?\" />",
-          "link": "https://xkcd.com/2555/",
-          "publishedOn": "2021-12-15T00:00:00.000Z",
-          "wordCount": 183,
-          "title": "Notifications"
         }
       ]
     },
@@ -868,15 +859,6 @@
           "publishedOn": "2021-12-31T09:27:53.000Z",
           "wordCount": 1790,
           "title": "2021: Year in review"
-        },
-        {
-          "id": "https://jvns.ca/blog/2021/12/15/mess-with-dns/",
-          "author": null,
-          "description": "Hello! I’ve been thinking about how to explain DNS a bunch in the last year.\nI like to learn in a very hands-on way. And so when I write a zine, I often\nclose the zine by saying something like “… and the best way to learn more\nabout this is to play around and experiment!“.\nSo I built a site where you can do experiments with DNS called Mess With DNS. It has examples of experiments you can try, and\nyou’ve very encouraged to come up with your own experiments.\nIn this post I’ll talk about why I made this, how it works, and give you\nprobably more details than you want to know about how I built it (design, testing,\nsecurity, writing an authoritative nameserver, live streaming updates, etc)\na screencast\nHere’s a GIF screencast of what it looks like to use it:\n\nit’s a real DNS server\nFirst: Mess W…",
-          "link": "https://jvns.ca/blog/2021/12/15/mess-with-dns/",
-          "publishedOn": "2021-12-15T09:41:36.000Z",
-          "wordCount": 3105,
-          "title": "New tool: Mess with DNS!"
         }
       ]
     },
@@ -1230,5 +1212,5 @@
       ]
     }
   ],
-  "cliVersion": "1.12.0"
+  "cliVersion": "1.12.1"
 }
