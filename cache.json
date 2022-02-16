@@ -232,6 +232,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2581/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/health_stats.png\" title=\"You will live on forever in our hearts, pushing a little extra blood toward our left hands now and then to give them a squeeze.\" alt=\"You will live on forever in our hearts, pushing a little extra blood toward our left hands now and then to give them a squeeze.\" />",
+          "link": "https://xkcd.com/2581/",
+          "publishedOn": "2022-02-14T00:00:00.000Z",
+          "wordCount": 197,
+          "title": "Health Stats",
+          "imageUrl": "https://imgs.xkcd.com/comics/health_stats_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2580/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/rest_and_fluids.png\" title=\"Remember not to take it easy. Put a hot washcloth on your forehead, remain standing, and breathe dry air while taking lots of histamines. You need to give your body a chance to get sick again.\" alt=\"Remember not to take it easy. Put a hot washcloth on your forehead, remain standing, and breathe dry air while taking lots of histamines. You need to give your body a chance to get sick again.\" />",
@@ -543,6 +553,16 @@
       "siteUrl": "https://rachelbythebay.com/w/",
       "articles": [
         {
+          "id": "https://rachelbythebay.com/w/2022/02/15/4740180/",
+          "author": null,
+          "description": "Oh dear.  The software fungus where bits of code take the\nliteral characters \"HTTP\" as a number\nhas expanded.  Now it has a variant: 4740180.\n\n\nWhere does this one come from?  \nGo and gRPC, apparently!\n\n\nI found this while searching the web for \"1213486160\" to see how things \nhave been going in the past few years.  Unfortunately, it's still biting \npeople all over the place.  There are far too many posts asking people \nto upgrade their software, or restart things, or do any number of \nuseless rubber-chicken-waving techniques which ultimately will \naccomplish nothing.\n\nWhen you see a funny-looking number, figure out where it comes from.\nThat's the only way to have any chance of understanding what's actually \ngoing on.",
+          "link": "https://rachelbythebay.com/w/2022/02/15/4740180/",
+          "publishedOn": "2022-02-15T08:11:35.000Z",
+          "wordCount": 182,
+          "title": "Add 4740180 to the list of silly magic numbers",
+          "imageUrl": null
+        },
+        {
           "id": "https://rachelbythebay.com/w/2022/02/14/feedback/",
           "author": null,
           "description": "Yep, it's time for another round of reader feedback.\n\n\"process infection\" story:\n\nhttps://lwn.net/Articles/883547/):\n\n\nIf you do privileged execution of specific operations via IPC you get \nthe guarantee that whatever is done, is done from a well-defined, \npristine execution environment, without leaking context implicitly. The \nIPC message is the *full* vulnerable surface, and that's as minimal as \nit can get. And that's great.\n\n\n\n\nOh wow, thank you for mentioning that, unnamed reader!  I definitely \nread that post on LWN at some point in the past couple of days when the \npkexec thing started going around.  It must have really worked its way \ninto my head, and then eventually stirred up the memory of everything \ngetting \"nicely infected\" at $OLD_JOB.\n\n\nEvery time I talk about trying to par…",
@@ -656,6 +676,16 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=68380",
+          "author": "Rebecca Smith",
+          "description": "“But maybe I like this new me.” The trailer for Disney and Pixar’s new film, “Turning Red,” streaming on Disney+ March 11, ends with Mei, its 13-year-old protagonist, considering a wild idea: acceptance. Maybe I like this new me. Yes, in her case the “new me” is becoming a giant red panda when she feels […]\nThe post Firefox And Pixar Animation Studios team up to help you show your true colors appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/products/firefox/true-colors-with-firefox-pixar-animation-studios-turning-red/",
+          "publishedOn": "2022-02-15T14:00:00.000Z",
+          "wordCount": 1212,
+          "title": "Firefox And Pixar Animation Studios team up to help you show your true colors",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/02/TR-blog-partnership_1200x800-1280x853.jpg"
+        },
         {
           "id": "https://blog.mozilla.org/?p=68461",
           "author": "Rebecca Smith",
@@ -928,6 +958,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=3150",
+          "author": "Cory Doctorow",
+          "description": "Today's links McKinsey For Kids (no, really): Give us a child when they are seven and they are ours for life. Outing German spy agencies by mailing them Airtags: A threat-model parable. This day in history: 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading McKinsey For Kids (no, really) (permalink) McKinsey for Kids is a new website from the scandal-haunted consulting giants who proposed that Oxycontin-producers Purdue Pharma pay a bounty to pharma distributors based on the number of lethal overdoses in their territories. Its purpose is to teach kids to think like McKinsey Consultants. https://www.mckinsey.com/featured-insights/mckinsey-for-kids/hungry-fish-baffled-farmers-and-what-happened-next \"Chapter 1\" of the p…",
+          "link": "https://pluralistic.net/2022/02/15/management-jesuits/",
+          "publishedOn": "2022-02-15T17:18:11.000Z",
+          "wordCount": 1864,
+          "title": "Pluralistic: 15 Feb 2022",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=3143",
           "author": "Cory Doctorow",
