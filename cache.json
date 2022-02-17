@@ -625,15 +625,6 @@
           "publishedOn": "2021-12-20T02:56:14.000Z",
           "wordCount": 3043,
           "title": "My list of magic numbers for your turkey day enjoyment"
-        },
-        {
-          "id": "https://rachelbythebay.com/w/2021/12/18/log/",
-          "author": null,
-          "description": "Logging stuff is in the news this week.  Specifically, people with Java \nand log4j somewhere in their lives are having a miserable time.  I \nfigured I'd re-tell a story about terrible things done by way of a bunch \nof feature-rich libraries and dubious interconnections.  I've mentioned \nthis in passing before, but this time I've tried to be much more \nspecific about how it works.\n\n\nPart 1: the flags.\n\n\n\nDEFINE_bool(enable_foo, false, \"Enable the foo feature\");\n \n...\n \nvoid my_func() {\n  if (FLAGS_enable_foo) {\n    do_something();\n  }\n}\n\n\n\n\nDECLARE_bool(enable_foo);\n \n...\n \nvoid other_func() {\n  // Turns out we need foo enabled to do our stuff.\n  FLAGS_enable_foo = true;\n  // ...\n}\n\n\n\n\nint main(int argc, char** argv) {\n  InitCompany(argc, argv);  // populates FLAGS_ of all kinds\n  // ...\n}\n…",
-          "link": "https://rachelbythebay.com/w/2021/12/18/log/",
-          "publishedOn": "2021-12-19T01:05:39.000Z",
-          "wordCount": 1330,
-          "title": "Log libraries and the tendency to open holes in things"
         }
       ]
     },
@@ -676,6 +667,26 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=68502",
+          "author": "Mozilla",
+          "description": "“Privacy is fundamental and cannot be treated as optional. Companies and regulators need to work hand in hand to provide stronger privacy protections to people. Technical privacy protections by companies are complementary to privacy regulation and neither alone is sufficient.” Marshall Erwin Marshall Erwin, Mozilla’s Chief Security Officer, testified today before the Committee on House […]\nThe post Americans deserve federal privacy protections and greater transparency into hidden harms online appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/americans-deserve-federal-privacy-protections-and-greater-transparency-into-hidden-harms-online/",
+          "publishedOn": "2022-02-16T21:45:04.000Z",
+          "wordCount": 1084,
+          "title": "Americans deserve federal privacy protections and greater transparency into hidden harms online",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/02/header_privacy_protect-identity-1079x719.png"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=68476",
+          "author": "Kristina Bravo",
+          "description": "Data Privacy Day has come and gone. But here at Mozilla, helping educate people around online privacy is so important to us that we want to be your guide to protecting your data over the next four weeks. Save this page on Pocket, come back every Wednesday and find a couple of quick things you […]\nThe post How to secure your data in less than 10 minutes appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/privacy-security/how-to-secure-data-online/",
+          "publishedOn": "2022-02-16T18:15:45.000Z",
+          "wordCount": 1020,
+          "title": "How to secure your data in less than 10 minutes",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/02/header_privacy_five-myths-password-managers-1080x720.jpg"
+        },
         {
           "id": "https://blog.mozilla.org/?p=68380",
           "author": "Rebecca Smith",
@@ -958,6 +969,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=3155",
+          "author": "Cory Doctorow",
+          "description": "Today's links The extremely shady \"educational integrity\" industry: From Proctorio to Honorlock. Oh great, there's DRM in printer PAPER now: Dymo was so preoccupied with whether or not they could, they didn't stop to think if they should. This day in history: 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The extremely shady \"educational integrity\" industry (permalink) The pandemic presented an opportunity to reconsider our seemingly immutable assumptions about life – for adults, anyway. We got the Great Resignation and \"hybrid\" work-from-home. Our kids got remote learning. Ugh. Don't get me wrong: remote learning has its advantages, especially for kids coping with physical and mental health issues, kids with pas…",
+          "link": "https://pluralistic.net/2022/02/16/unauthorized-paper/",
+          "publishedOn": "2022-02-16T16:17:57.000Z",
+          "wordCount": 2823,
+          "title": "Pluralistic: 16 Feb 2022",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=3150",
           "author": "Cory Doctorow",
