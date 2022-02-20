@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-02-19T00:26:42.071Z</updated>
+    <updated>2022-02-20T00:28:27.034Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: 19 Feb 2022]]></title>
+        <id>https://pluralistic.net/?p=3180</id>
+        <link href="https://pluralistic.net/2022/02/19/now-we-are-two/"/>
+        <updated>2022-02-19T15:35:44.000Z</updated>
+        <summary type="html"><![CDATA[Today's links Pluralistic is two: Still at it! This day in history: 2002, 2007, 2012, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Pluralistic is two (permalink) Today is the second anniversary of the founding of Pluralistic, my multiplatform, non-metrics-driven, solo blog, founded in some haste after my unplanned (but overdue and amicable) departure from Boing Boing. For two years, I've been putting out a new edition nearly every day (550 posts, or 75%). Each edition has one or more posts, and many of the editions have consisted of one or two long essays. In some ways, Pluralistic's long form essays are the dividends for the 20+ years I've been a daily blogger. All those short pieces I've written over the preceding decades are …]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mid-February Link Assortment]]></title>
+        <id>http://emshort.blog/?p=42614</id>
+        <link href="https://emshort.blog/2022/02/19/mid-february-link-assortment-6/"/>
+        <updated>2022-02-19T13:27:25.000Z</updated>
+        <summary type="html"><![CDATA[Mask demo! This month’s link assortment is a few days later than usual; that’s because I was focused in the first half of February on launching the demo for Mask of the Rose, the new game I’ve been working on at Failbetter. Mask of the Rose is set in the Fallen London universe, but decades … Continue reading "Mid-February Link Assortment"]]></summary>
+        <author>
+            <name>Emily Short</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pluralistic: 18 Feb 2022]]></title>
         <id>https://pluralistic.net/?p=3174</id>
@@ -17,6 +37,44 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Chorded Keyboard]]></title>
+        <id>https://xkcd.com/2583/</id>
+        <link href="https://xkcd.com/2583/"/>
+        <updated>2022-02-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/chorded_keyboard.png" title="And even though it all went wrong / I'll stand before the lord of song / with nothing on my tongue but 'I don't understand, I swear I backed up my keyboard config before messing with it'" alt="And even though it all went wrong / I'll stand before the lord of song / with nothing on my tongue but 'I don't understand, I swear I backed up my keyboard config before messing with it'" />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My "daily drivers", and what happened to Slackware here]]></title>
+        <id>https://rachelbythebay.com/w/2022/02/17/using/</id>
+        <link href="https://rachelbythebay.com/w/2022/02/17/using/"/>
+        <updated>2022-02-17T21:48:27.000Z</updated>
+        <summary type="html"><![CDATA[In
+yesterday's post,
+I mentioned taking my old Mac Mini out of the OS X/macos ecosystem and 
+bringing it into Debian, and then what kind of hilarity followed when I 
+attempted to install a Javascript linter (and it tried to drag in 180+ 
+node-related packages).
+
+
+Readers are advised that this post will probably contain 
+definitely contains a even higher than usual amount of 
+navel-gazing as I dish out the details of my setup.  My usual 
+disclaimer of "this works for me and probably won't work for you, so if 
+you have different tastes, then great, go with that" definitely applies 
+here.
+
+
+First of all, the one that most people actually notice is the actual box 
+which is serving rachelbythebay.com, which at the moment is a box called 
+snowgoose.  I had installed it in early 2020 as CentOS 8 …]]></summary>
+        <author>
+            <name>Writing - rachelbythebay</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Pluralistic: 17 Feb 2022]]></title>
         <id>https://pluralistic.net/?p=3158</id>
         <link href="https://pluralistic.net/2022/02/17/live-by-the-swordlive-by-the-sword/"/>
@@ -24,6 +82,32 @@
         <summary type="html"><![CDATA[Today's links The last days of Myspace: Facebook is following the steep decline playbook. The child labor story hidden by the Great Resignation: Bosses want to turn kids into scabs. This day in history: 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The last days of Myspace (permalink) I hated Facebook from the start and couldn't wait for it to die. That was a pretty reasonable thing to expect. After all, I'd watched social networks from Sixdegrees on crash and burn as the network effects that drove their growth also drove their precipitous collapse. A system enjoys "network effects" if it increases in value as it adds users. Social networks are all about these effects: you join Facebook because your friends are there,…]]></summary>
         <author>
             <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A twisted maze of dependencies]]></title>
+        <id>https://rachelbythebay.com/w/2022/02/16/deps/</id>
+        <link href="https://rachelbythebay.com/w/2022/02/16/deps/"/>
+        <updated>2022-02-17T03:07:46.000Z</updated>
+        <summary type="html"><![CDATA[Oh sure, everyone laughs about things having a lot of dependencies, but 
+do they ever really think about the implications of having hundreds of 
+teeny little libraries, all moving independently?  This is how it 
+manifests in the real world.
+
+
+My relative inexperience with Debian systems means I'm constantly being 
+delighted to discover that such and such has already been packaged up 
+and is just an apt command away.  Things that I would have done by hand 
+in the years up to this point now have someone else worrying about them.
+
+
+This is what happened next:
+
+
+... huh.  The story basically ends there.  I'm going to handle this some 
+other way.]]></summary>
+        <author>
+            <name>Writing - rachelbythebay</name>
         </author>
     </entry>
     <entry>
@@ -1555,44 +1639,6 @@ Solid stuff.]]></summary>
         <summary type="html"><![CDATA[We should be done in time for the upcoming gladiator '22 season.  Tickets are still available. I hear Ferocianus Maximus is going to do well this year.]]></summary>
         <author>
             <name>Grumpy Gamer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rapid Test Results]]></title>
-        <id>https://xkcd.com/2558/</id>
-        <link href="https://xkcd.com/2558/"/>
-        <updated>2021-12-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/rapid_test_results.png" title="A solid red area with two white lines means that you have been infected with the anti-coronavirus, COVID+19, which will cure anyone you have close contact with." alt="A solid red area with two white lines means that you have been infected with the anti-coronavirus, COVID+19, which will cure anyone you have close contact with." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My list of magic numbers for your turkey day enjoyment]]></title>
-        <id>https://rachelbythebay.com/w/2020/11/26/magic/</id>
-        <link href="https://rachelbythebay.com/w/2020/11/26/magic/"/>
-        <updated>2021-12-20T02:56:14.000Z</updated>
-        <summary type="html"><![CDATA[Hello, world!  A couple of days ago, I noticed someone remarking on a 
-line from an older post of mine that had been making the rounds.  In it, 
-I say something about adding a number to "my list of magic numbers".  
-That person wanted to see that list.
-
-
-And so, I have put together this list of everything I can think of at 
-the moment, along with a whole bunch of commentary that should be able 
-to send you on dozens of romps through Wikipedia.  Hopefully this will 
-both satisfy the request for "the list" and provide a lot of amusement 
-on a day which normally is lacking in content.
-
-
-Be safe out there, and enjoy.
-
-
-"HTTP" is 0x48545450 (1213486160) or 0x50545448 (1347703880).  If it 
-shows up in your error logs, you're probably calling out to a poor web 
-server instead of someone who actua…]]></summary>
-        <author>
-            <name>Writing - rachelbythebay</name>
         </author>
     </entry>
 </feed>

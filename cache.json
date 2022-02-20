@@ -189,6 +189,16 @@
       "siteUrl": "https://emshort.blog",
       "articles": [
         {
+          "id": "http://emshort.blog/?p=42614",
+          "author": "Emily Short",
+          "description": "Mask demo! This month’s link assortment is a few days later than usual; that’s because I was focused in the first half of February on launching the demo for Mask of the Rose, the new game I’ve been working on at Failbetter. Mask of the Rose is set in the Fallen London universe, but decades … Continue reading \"Mid-February Link Assortment\"",
+          "link": "https://emshort.blog/2022/02/19/mid-february-link-assortment-6/",
+          "publishedOn": "2022-02-19T13:27:25.000Z",
+          "wordCount": 1961,
+          "title": "Mid-February Link Assortment",
+          "imageUrl": "https://emshort.files.wordpress.com/2022/02/capsule_logo_mask-of-the-rose.png"
+        },
+        {
           "id": "http://emshort.blog/?p=42583",
           "author": "Emily Short",
           "description": "Events February 5 is the next meeting of the SF Bay IF Meetup. February 20 is the next meeting of the Seattle IF Meetup, and will be held via Discord, so people are welcome to attend remotely. It will feature a guest appearance from Daniel Ravipinto, one of the authors of the classic parser IF … Continue reading \"End of January Link Assortment\"",
@@ -222,6 +232,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2583/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/chorded_keyboard.png\" title=\"And even though it all went wrong / I'll stand before the lord of song / with nothing on my tongue but 'I don't understand, I swear I backed up my keyboard config before messing with it'\" alt=\"And even though it all went wrong / I'll stand before the lord of song / with nothing on my tongue but 'I don't understand, I swear I backed up my keyboard config before messing with it'\" />",
+          "link": "https://xkcd.com/2583/",
+          "publishedOn": "2022-02-18T00:00:00.000Z",
+          "wordCount": 197,
+          "title": "Chorded Keyboard",
+          "imageUrl": "https://imgs.xkcd.com/comics/chorded_keyboard_2x.png"
+        },
         {
           "id": "https://xkcd.com/2582/",
           "author": null,
@@ -439,15 +459,6 @@
           "publishedOn": "2021-12-24T00:00:00.000Z",
           "wordCount": 205,
           "title": "December 25th Launch"
-        },
-        {
-          "id": "https://xkcd.com/2558/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/rapid_test_results.png\" title=\"A solid red area with two white lines means that you have been infected with the anti-coronavirus, COVID+19, which will cure anyone you have close contact with.\" alt=\"A solid red area with two white lines means that you have been infected with the anti-coronavirus, COVID+19, which will cure anyone you have close contact with.\" />",
-          "link": "https://xkcd.com/2558/",
-          "publishedOn": "2021-12-22T00:00:00.000Z",
-          "wordCount": 205,
-          "title": "Rapid Test Results"
         }
       ]
     },
@@ -545,6 +556,26 @@
       "siteUrl": "https://rachelbythebay.com/w/",
       "articles": [
         {
+          "id": "https://rachelbythebay.com/w/2022/02/17/using/",
+          "author": null,
+          "description": "In\nyesterday's post,\nI mentioned taking my old Mac Mini out of the OS X/macos ecosystem and \nbringing it into Debian, and then what kind of hilarity followed when I \nattempted to install a Javascript linter (and it tried to drag in 180+ \nnode-related packages).\n\n\nReaders are advised that this post will probably contain \ndefinitely contains a even higher than usual amount of \nnavel-gazing as I dish out the details of my setup.  My usual \ndisclaimer of \"this works for me and probably won't work for you, so if \nyou have different tastes, then great, go with that\" definitely applies \nhere.\n\n\nFirst of all, the one that most people actually notice is the actual box \nwhich is serving rachelbythebay.com, which at the moment is a box called \nsnowgoose.  I had installed it in early 2020 as CentOS 8 …",
+          "link": "https://rachelbythebay.com/w/2022/02/17/using/",
+          "publishedOn": "2022-02-17T21:48:27.000Z",
+          "wordCount": 2660,
+          "title": "My \"daily drivers\", and what happened to Slackware here",
+          "imageUrl": null
+        },
+        {
+          "id": "https://rachelbythebay.com/w/2022/02/16/deps/",
+          "author": null,
+          "description": "Oh sure, everyone laughs about things having a lot of dependencies, but \ndo they ever really think about the implications of having hundreds of \nteeny little libraries, all moving independently?  This is how it \nmanifests in the real world.\n\n\nMy relative inexperience with Debian systems means I'm constantly being \ndelighted to discover that such and such has already been packaged up \nand is just an apt command away.  Things that I would have done by hand \nin the years up to this point now have someone else worrying about them.\n\n\nThis is what happened next:\n\n\n... huh.  The story basically ends there.  I'm going to handle this some \nother way.",
+          "link": "https://rachelbythebay.com/w/2022/02/16/deps/",
+          "publishedOn": "2022-02-17T03:07:46.000Z",
+          "wordCount": 752,
+          "title": "A twisted maze of dependencies",
+          "imageUrl": null
+        },
+        {
           "id": "https://rachelbythebay.com/w/2022/02/15/4740180/",
           "author": null,
           "description": "Oh dear.  The software fungus where bits of code take the\nliteral characters \"HTTP\" as a number\nhas expanded.  Now it has a variant: 4740180.\n\n\nWhere does this one come from?  \nGo and gRPC, apparently!\n\n\nI found this while searching the web for \"1213486160\" to see how things \nhave been going in the past few years.  Unfortunately, it's still biting \npeople all over the place.  There are far too many posts asking people \nto upgrade their software, or restart things, or do any number of \nuseless rubber-chicken-waving techniques which ultimately will \naccomplish nothing.\n\nWhen you see a funny-looking number, figure out where it comes from.\nThat's the only way to have any chance of understanding what's actually \ngoing on.",
@@ -608,15 +639,6 @@
           "publishedOn": "2021-12-25T19:49:20.000Z",
           "wordCount": 961,
           "title": "Fix the unit test and open a giant hole everywhere"
-        },
-        {
-          "id": "https://rachelbythebay.com/w/2020/11/26/magic/",
-          "author": null,
-          "description": "Hello, world!  A couple of days ago, I noticed someone remarking on a \nline from an older post of mine that had been making the rounds.  In it, \nI say something about adding a number to \"my list of magic numbers\".  \nThat person wanted to see that list.\n\n\nAnd so, I have put together this list of everything I can think of at \nthe moment, along with a whole bunch of commentary that should be able \nto send you on dozens of romps through Wikipedia.  Hopefully this will \nboth satisfy the request for \"the list\" and provide a lot of amusement \non a day which normally is lacking in content.\n\n\nBe safe out there, and enjoy.\n\n\n\"HTTP\" is 0x48545450 (1213486160) or 0x50545448 (1347703880).  If it \nshows up in your error logs, you're probably calling out to a poor web \nserver instead of someone who actua…",
-          "link": "https://rachelbythebay.com/w/2020/11/26/magic/",
-          "publishedOn": "2021-12-20T02:56:14.000Z",
-          "wordCount": 3043,
-          "title": "My list of magic numbers for your turkey day enjoyment"
         }
       ]
     },
@@ -961,6 +983,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=3180",
+          "author": "Cory Doctorow",
+          "description": "Today's links Pluralistic is two: Still at it! This day in history: 2002, 2007, 2012, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Pluralistic is two (permalink) Today is the second anniversary of the founding of Pluralistic, my multiplatform, non-metrics-driven, solo blog, founded in some haste after my unplanned (but overdue and amicable) departure from Boing Boing. For two years, I've been putting out a new edition nearly every day (550 posts, or 75%). Each edition has one or more posts, and many of the editions have consisted of one or two long essays. In some ways, Pluralistic's long form essays are the dividends for the 20+ years I've been a daily blogger. All those short pieces I've written over the preceding decades are …",
+          "link": "https://pluralistic.net/2022/02/19/now-we-are-two/",
+          "publishedOn": "2022-02-19T15:35:44.000Z",
+          "wordCount": 1816,
+          "title": "Pluralistic: 19 Feb 2022",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=3174",
           "author": "Cory Doctorow",
