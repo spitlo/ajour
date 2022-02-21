@@ -171,15 +171,6 @@
           "publishedOn": "2021-12-25T17:56:05.000Z",
           "wordCount": 207,
           "title": "The Twelve Days of Crunch Time Again"
-        },
-        {
-          "id": "https://grumpygamer.com/lego6",
-          "author": null,
-          "description": "We should be done in time for the upcoming gladiator '22 season.  Tickets are still available. I hear Ferocianus Maximus is going to do well this year.",
-          "link": "https://grumpygamer.com/lego6",
-          "publishedOn": "2021-12-22T22:03:50.000Z",
-          "wordCount": 95,
-          "title": "Lego Report 6"
         }
       ]
     },
@@ -556,6 +547,16 @@
       "siteUrl": "https://rachelbythebay.com/w/",
       "articles": [
         {
+          "id": "https://rachelbythebay.com/w/2022/02/20/return/",
+          "author": null,
+          "description": "If you agree with the notion that you need to be able to tell the \ndifference between the absence of a value and a value itself, then this \nhas some impacts on the code you write.  If you want to keep 'em \nseparated (so they can come out and play), then it gets you looking at \nyour API designs in certain ways.\n\n\nImagine we're talking about a helper function that is intended to be run \ninside a program that's handling the access to a web page.  It's \nprobably a CGI program, but it could also be buried inside some much \nbigger thing, too.  This is all about C++ styles, but you can probably \nsee slices of other languages in here, too.\n\n\nstring UserIP() -- No more lifetime worries here, but oops, uh, well, \nwhat if we don't know what it is and need to provide an error?  If it's \na CGI situatio…",
+          "link": "https://rachelbythebay.com/w/2022/02/20/return/",
+          "publishedOn": "2022-02-20T21:33:28.000Z",
+          "wordCount": 834,
+          "title": "Returning values and errors",
+          "imageUrl": null
+        },
+        {
           "id": "https://rachelbythebay.com/w/2022/02/17/using/",
           "author": null,
           "description": "In\nyesterday's post,\nI mentioned taking my old Mac Mini out of the OS X/macos ecosystem and \nbringing it into Debian, and then what kind of hilarity followed when I \nattempted to install a Javascript linter (and it tried to drag in 180+ \nnode-related packages).\n\n\nReaders are advised that this post will probably contain \ndefinitely contains a even higher than usual amount of \nnavel-gazing as I dish out the details of my setup.  My usual \ndisclaimer of \"this works for me and probably won't work for you, so if \nyou have different tastes, then great, go with that\" definitely applies \nhere.\n\n\nFirst of all, the one that most people actually notice is the actual box \nwhich is serving rachelbythebay.com, which at the moment is a box called \nsnowgoose.  I had installed it in early 2020 as CentOS 8 …",
@@ -836,6 +837,16 @@
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
+        {
+          "id": "https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/",
+          "author": null,
+          "description": "Hello! I was talking to some friends the other day about the types of\nconference talks we enjoyed.\nOne category we came up with was “you know this thing that used to be super\nhard? Turns out now it’s WAY EASIER and maybe you can do it now!“.\nSo I asked on Twitter about programming things that used to be hard and are now easy\nHere are some of the answers I got. Not all of them are equally “easy”, but I\nfound reading the list really fun and it gave me some ideas for things to\nlearn. Maybe it’ll give you some ideas too.\nSSL certificates, with Let’s Encrypt\nConcurrency, with async/await (in several languages)\nCentering in CSS, with flexbox/grid\nBuilding fast programs, with Go\nImage recognition, with transfer learning (someone pointed out that the joke in this XKCD doesn’t make sense anymore)\nB…",
+          "link": "https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/",
+          "publishedOn": "2022-02-20T09:00:36.000Z",
+          "wordCount": 452,
+          "title": "Things that used to be hard and are now easy",
+          "imageUrl": null
+        },
         {
           "id": "https://jvns.ca/blog/2022/02/14/some-dns-terminology/",
           "author": null,
