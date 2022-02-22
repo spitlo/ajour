@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-02-22T00:24:04.729Z</updated>
+    <updated>2022-02-22T05:38:02.020Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Results without all of the brackets]]></title>
+        <id>https://rachelbythebay.com/w/2022/02/21/result/</id>
+        <link href="https://rachelbythebay.com/w/2022/02/21/result/"/>
+        <updated>2022-02-22T05:01:25.000Z</updated>
+        <summary type="html"><![CDATA[Yesterday, I
+put forth
+a bunch of API possibilities for the problem of needing to return a 
+value but also indicating the lack of a value and being able to comment 
+on why.  In it, the notion of a "wrapper" around a string was presented, 
+such that it might look like "Result<string>", and those brackets 
+started looking like a pain.  There was also the possibility of having 
+something like "ResultString", but didn't that open the door to having a 
+bunch of code duplication?
+
+
+After this had existed for a while, the general happy feeling of having 
+this stuff in place became infectious.  I wanted it to cover other 
+things with it, too.  I wanted it to handle something a bit more 
+complicated than a mere string, and so decided to try my hand at the 
+template-wrangling metaprogramming cruft t…]]></summary>
+        <author>
+            <name>Writing - rachelbythebay</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pluralistic: 21 Feb 2022]]></title>
         <id>https://pluralistic.net/?p=3185</id>
@@ -14,6 +39,16 @@
         <summary type="html"><![CDATA[Today's links A(nother) massive Swiss banking leak: Sunshine won't disinfect anything on its own. The people's disruption: Tech rights are workers' rights. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading A(nother) massive Swiss banking leak (permalink) Look, there's been another massive banking leak, this one from Credit Suisse, showing complicity in laundering money for the world's greatest monsters: human traffickers, despots, criminals. They're calling it Suisse Secrets. https://www.theguardian.com/news/2022/feb/20/credit-suisse-secrets-leak-unmasks-criminals-fraudsters-corrupt-politicians They had to call it that, because Swiss Leaks was already taken, for the 2015 UBS leaks that rev…]]></summary>
         <author>
             <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Headline Words]]></title>
+        <id>https://xkcd.com/2584/</id>
+        <link href="https://xkcd.com/2584/"/>
+        <updated>2022-02-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/headline_words.png" title="Roundly-condemned headlinese initiative shuttered indefinitely." alt="Roundly-condemned headlinese initiative shuttered indefinitely." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>

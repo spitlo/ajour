@@ -224,6 +224,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2584/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/headline_words.png\" title=\"Roundly-condemned headlinese initiative shuttered indefinitely.\" alt=\"Roundly-condemned headlinese initiative shuttered indefinitely.\" />",
+          "link": "https://xkcd.com/2584/",
+          "publishedOn": "2022-02-21T00:00:00.000Z",
+          "wordCount": 197,
+          "title": "Headline Words",
+          "imageUrl": "https://imgs.xkcd.com/comics/headline_words_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2583/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/chorded_keyboard.png\" title=\"And even though it all went wrong / I'll stand before the lord of song / with nothing on my tongue but 'I don't understand, I swear I backed up my keyboard config before messing with it'\" alt=\"And even though it all went wrong / I'll stand before the lord of song / with nothing on my tongue but 'I don't understand, I swear I backed up my keyboard config before messing with it'\" />",
@@ -528,6 +538,16 @@
       "feedUrl": "https://rachelbythebay.com/w/atom.xml",
       "siteUrl": "https://rachelbythebay.com/w/",
       "articles": [
+        {
+          "id": "https://rachelbythebay.com/w/2022/02/21/result/",
+          "author": null,
+          "description": "Yesterday, I\nput forth\na bunch of API possibilities for the problem of needing to return a \nvalue but also indicating the lack of a value and being able to comment \non why.  In it, the notion of a \"wrapper\" around a string was presented, \nsuch that it might look like \"Result<string>\", and those brackets \nstarted looking like a pain.  There was also the possibility of having \nsomething like \"ResultString\", but didn't that open the door to having a \nbunch of code duplication?\n\n\nAfter this had existed for a while, the general happy feeling of having \nthis stuff in place became infectious.  I wanted it to cover other \nthings with it, too.  I wanted it to handle something a bit more \ncomplicated than a mere string, and so decided to try my hand at the \ntemplate-wrangling metaprogramming cruft t…",
+          "link": "https://rachelbythebay.com/w/2022/02/21/result/",
+          "publishedOn": "2022-02-22T05:01:25.000Z",
+          "wordCount": 809,
+          "title": "Results without all of the brackets",
+          "imageUrl": null
+        },
         {
           "id": "https://rachelbythebay.com/w/2022/02/20/return/",
           "author": null,
