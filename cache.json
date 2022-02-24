@@ -162,15 +162,6 @@
           "publishedOn": "2021-12-27T02:09:08.000Z",
           "wordCount": 189,
           "title": "Lego Report 7"
-        },
-        {
-          "id": "https://grumpygamer.com/12_days_of_crunch_time_yet_again",
-          "author": null,
-          "description": "Holiday repost!\nClayton and I did this back in Dec of 2004.  Interesting how much hasn't changed. I'd have more \"male\" spouses now, something about loot crates and IAP, kissing up to steamers, and maybe change the last verse to be more \"indie\", but its shockingly accurate years later.\nThe Twelve Days of Crunch Time\nA poem by Gilbert and Kauzlaric\nOn the twelfth day of crunch time,\nMy project gave to me...\n\nTwelve cents in royalties,\n\nEleven kiss-ass previews,\n\nTen nerdy testers,\n\nNine patent lawsuits,\n\nEight unplanned for features,\n\nSeven frames a second,\n\nSix angry spouses,\n\nFive focus groups!\n\nFour unstable hacks,\n\nThree days without sleep,\n\nTwo surly artists,\n\nand a crappy publishing deal.",
-          "link": "https://grumpygamer.com/12_days_of_crunch_time_yet_again",
-          "publishedOn": "2021-12-25T17:56:05.000Z",
-          "wordCount": 207,
-          "title": "The Twelve Days of Crunch Time Again"
         }
       ]
     },
@@ -223,6 +214,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2585/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/rounding.png\" title=\"I've developed a novel propulsion system powered by loss of precision in unit conversion.\" alt=\"I've developed a novel propulsion system powered by loss of precision in unit conversion.\" />",
+          "link": "https://xkcd.com/2585/",
+          "publishedOn": "2022-02-23T00:00:00.000Z",
+          "wordCount": 195,
+          "title": "Rounding",
+          "imageUrl": "https://imgs.xkcd.com/comics/rounding_2x.png"
+        },
         {
           "id": "https://xkcd.com/2584/",
           "author": null,
@@ -633,15 +634,6 @@
           "publishedOn": "2022-01-01T19:36:01.000Z",
           "wordCount": 160,
           "title": "YYMMDDHHMM just overflowed a signed 32 bit int"
-        },
-        {
-          "id": "https://rachelbythebay.com/w/2021/12/24/mkdir/",
-          "author": null,
-          "description": "Several years back, I was doing my thing in a corporate environment, \nworking on a project with some friends.  By virtue of being in a very \nlarge company, we had quite the assortment of libraries which could be \nbrought in to do stuff.  Given that we had a \"would be nice\" item on our \nfeature list that involved doing something with the filesystem, I went \nlooking for a matching feature, and it turned into a security dumpster \nfire.  Here's what happened.\n\n\nWhen you're in that situation, you can't just mkdir() the final path.  \nIt won't work.  You have to start from the top and work your way down.  \nThe ones which already exist will probably fail with -EEXIST, so \nsometimes it makes more sense to look at what's there, work your way \ndown, and then start the mkdir calls when you find that p…",
-          "link": "https://rachelbythebay.com/w/2021/12/24/mkdir/",
-          "publishedOn": "2021-12-25T19:49:20.000Z",
-          "wordCount": 961,
-          "title": "Fix the unit test and open a giant hole everywhere"
         }
       ]
     },
@@ -839,6 +831,16 @@
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
+        {
+          "id": "https://jvns.ca/blog/2022/02/23/getaddrinfo-is-kind-of-weird/",
+          "author": null,
+          "description": "Hello! Here are some things you may or may not have noticed about DNS:\nwhen you resolve a DNS name in a Python program, it checks /etc/hosts, but when you use dig, it doesn’t.\nswitching Linux distributions can sometimes change how your DNS works, for example if you use Alpine Linux instead of Ubuntu it can cause problems.\nMac OS has DNS caching, but Linux doesn’t necessarily unless you use systemd-resolved or something\nTo understand all of these, we need to learn about a function called\ngetaddrinfo which is responsible for doing DNS lookups.\nThere are a bunch of surprising-to-me things about getaddrinfo, and once I\nlearned about them, it explained a bunch of the confusing DNS behaviour I’d\nseen in the past.\nwhere does getaddrinfo come from?\ngetaddrinfo is part of a library called libc whic…",
+          "link": "https://jvns.ca/blog/2022/02/23/getaddrinfo-is-kind-of-weird/",
+          "publishedOn": "2022-02-23T08:33:56.000Z",
+          "wordCount": 1180,
+          "title": "Some things about getaddrinfo that surprised me",
+          "imageUrl": null
+        },
         {
           "id": "https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/",
           "author": null,

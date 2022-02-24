@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-02-23T00:28:16.586Z</updated>
+    <updated>2022-02-24T00:25:25.050Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Some things about getaddrinfo that surprised me]]></title>
+        <id>https://jvns.ca/blog/2022/02/23/getaddrinfo-is-kind-of-weird/</id>
+        <link href="https://jvns.ca/blog/2022/02/23/getaddrinfo-is-kind-of-weird/"/>
+        <updated>2022-02-23T08:33:56.000Z</updated>
+        <summary type="html"><![CDATA[Hello! Here are some things you may or may not have noticed about DNS:
+when you resolve a DNS name in a Python program, it checks /etc/hosts, but when you use dig, it doesn’t.
+switching Linux distributions can sometimes change how your DNS works, for example if you use Alpine Linux instead of Ubuntu it can cause problems.
+Mac OS has DNS caching, but Linux doesn’t necessarily unless you use systemd-resolved or something
+To understand all of these, we need to learn about a function called
+getaddrinfo which is responsible for doing DNS lookups.
+There are a bunch of surprising-to-me things about getaddrinfo, and once I
+learned about them, it explained a bunch of the confusing DNS behaviour I’d
+seen in the past.
+where does getaddrinfo come from?
+getaddrinfo is part of a library called libc whic…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rounding]]></title>
+        <id>https://xkcd.com/2585/</id>
+        <link href="https://xkcd.com/2585/"/>
+        <updated>2022-02-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/rounding.png" title="I've developed a novel propulsion system powered by loss of precision in unit conversion." alt="I've developed a novel propulsion system powered by loss of precision in unit conversion." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pluralistic: 22 Feb 2022]]></title>
         <id>https://pluralistic.net/?p=3191</id>
@@ -1648,68 +1678,6 @@ Most of the debris is still assembled large chucks, so it shouldn't take long to
         <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/confounding_variables.png" title="You can find a perfect correlation if you just control for the residual." alt="You can find a perfect correlation if you just control for the residual." />]]></summary>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fix the unit test and open a giant hole everywhere]]></title>
-        <id>https://rachelbythebay.com/w/2021/12/24/mkdir/</id>
-        <link href="https://rachelbythebay.com/w/2021/12/24/mkdir/"/>
-        <updated>2021-12-25T19:49:20.000Z</updated>
-        <summary type="html"><![CDATA[Several years back, I was doing my thing in a corporate environment, 
-working on a project with some friends.  By virtue of being in a very 
-large company, we had quite the assortment of libraries which could be 
-brought in to do stuff.  Given that we had a "would be nice" item on our 
-feature list that involved doing something with the filesystem, I went 
-looking for a matching feature, and it turned into a security dumpster 
-fire.  Here's what happened.
-
-
-When you're in that situation, you can't just mkdir() the final path.  
-It won't work.  You have to start from the top and work your way down.  
-The ones which already exist will probably fail with -EEXIST, so 
-sometimes it makes more sense to look at what's there, work your way 
-down, and then start the mkdir calls when you find that p…]]></summary>
-        <author>
-            <name>Writing - rachelbythebay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Twelve Days of Crunch Time Again]]></title>
-        <id>https://grumpygamer.com/12_days_of_crunch_time_yet_again</id>
-        <link href="https://grumpygamer.com/12_days_of_crunch_time_yet_again"/>
-        <updated>2021-12-25T17:56:05.000Z</updated>
-        <summary type="html"><![CDATA[Holiday repost!
-Clayton and I did this back in Dec of 2004.  Interesting how much hasn't changed. I'd have more "male" spouses now, something about loot crates and IAP, kissing up to steamers, and maybe change the last verse to be more "indie", but its shockingly accurate years later.
-The Twelve Days of Crunch Time
-A poem by Gilbert and Kauzlaric
-On the twelfth day of crunch time,
-My project gave to me...
-
-Twelve cents in royalties,
-
-Eleven kiss-ass previews,
-
-Ten nerdy testers,
-
-Nine patent lawsuits,
-
-Eight unplanned for features,
-
-Seven frames a second,
-
-Six angry spouses,
-
-Five focus groups!
-
-Four unstable hacks,
-
-Three days without sleep,
-
-Two surly artists,
-
-and a crappy publishing deal.]]></summary>
-        <author>
-            <name>Grumpy Gamer</name>
         </author>
     </entry>
 </feed>
