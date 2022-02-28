@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-02-27T00:26:55.458Z</updated>
+    <updated>2022-02-28T00:28:04.671Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: 27 Feb 2022]]></title>
+        <id>https://pluralistic.net/?p=3211</id>
+        <link href="https://pluralistic.net/2022/02/27/not-an-ad/"/>
+        <updated>2022-02-27T17:22:47.000Z</updated>
+        <summary type="html"><![CDATA[Today's links Amazon's $31b "ad business" isn't: They getcha coming and going. This day in history: 2002, 2012, 2017, 2021. Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Amazon's $31b "ad business" isn't (permalink) Looking at Amazon's quarterly financials, it would be easy to mistake the company's $31b ad division as a serious shift in the online advertising industry, but that would be a huge mistake. You see, Amazon's not really selling ads. Nearly all of that $31b is for an "ad" on Amazon itself: that is it's Amazon collecting billions from the sellers who rely on the company as their main retail channel, who are locked in a bidding war to buy the top spots in search and product pages. This is a huge shift for Amazon in every way. …]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C++ header files and inter-class connections]]></title>
+        <id>https://rachelbythebay.com/w/2022/02/26/include/</id>
+        <link href="https://rachelbythebay.com/w/2022/02/26/include/"/>
+        <updated>2022-02-27T11:35:01.000Z</updated>
+        <summary type="html"><![CDATA[There are some interesting implications to the way that you have to 
+handle references to other bits of code when you write a C++ header 
+file.  There are things you can do which turn out to be suboptimal, and 
+until or unless you work someplace with a coding style document or get 
+some mentor who's already been there, you're likely to make some
+mistakes.
+
+
+Anyway, a common way to do this is to set up the outer class such that 
+it has a pointer to the inner one.  You *could* have it just own it 
+directly, but then that introduces problems.
+
+
+
+ private:
+  Bar bar_;
+
+
+
+Of course, bar.h probably has its own dependencies which get #included, 
+and so now you end up with this evil web of slow compiles.  It sucks.
+
+
+What used to happen next is that someone would say, okay, let's make it 
+a pointe…]]></summary>
+        <author>
+            <name>Writing - rachelbythebay</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Greek Letters]]></title>
         <id>https://xkcd.com/2586/</id>
@@ -1626,16 +1670,6 @@ Continue Reading]]></summary>
         <summary type="html"><![CDATA[Iron Widow (Iron Widow, #1)]]></summary>
         <author>
             <name>remy sharp's b:log</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tiny indiegames and the joy of Very Small Things]]></title>
-        <id>http://www.nathalielawhead.com/candybox/?p=5229</id>
-        <link href="http://www.nathalielawhead.com/candybox/tiny-indiegames-and-the-joy-of-very-small-things"/>
-        <updated>2021-12-30T01:53:05.000Z</updated>
-        <summary type="html"><![CDATA[~ This post is my epic roundup of recommendations for 202x! ~ When we talk about games, especially the indie game space, most of the games we suggest are ones with lots of critical acclaim, playtime, and that demand plenty of involvement. Playing a game these days feels like as much of a financial investment as it becomes a life investment. I find myself drawn more and more to spelunking itch.io for tiny hidden gems… getting lost while diving into all the developer pages filled with all these odd little works. Browsing itch or GameJolt has become almost as rewarding...]]></summary>
-        <author>
-            <name>alienmelon</name>
         </author>
     </entry>
 </feed>

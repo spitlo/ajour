@@ -505,6 +505,16 @@
       "siteUrl": "https://rachelbythebay.com/w/",
       "articles": [
         {
+          "id": "https://rachelbythebay.com/w/2022/02/26/include/",
+          "author": null,
+          "description": "There are some interesting implications to the way that you have to \nhandle references to other bits of code when you write a C++ header \nfile.  There are things you can do which turn out to be suboptimal, and \nuntil or unless you work someplace with a coding style document or get \nsome mentor who's already been there, you're likely to make some\nmistakes.\n\n\nAnyway, a common way to do this is to set up the outer class such that \nit has a pointer to the inner one.  You *could* have it just own it \ndirectly, but then that introduces problems.\n\n\n\n private:\n  Bar bar_;\n\n\n\nOf course, bar.h probably has its own dependencies which get #included, \nand so now you end up with this evil web of slow compiles.  It sucks.\n\n\nWhat used to happen next is that someone would say, okay, let's make it \na pointe…",
+          "link": "https://rachelbythebay.com/w/2022/02/26/include/",
+          "publishedOn": "2022-02-27T11:35:01.000Z",
+          "wordCount": 1934,
+          "title": "C++ header files and inter-class connections",
+          "imageUrl": null
+        },
+        {
           "id": "https://rachelbythebay.com/w/2022/02/21/result/",
           "author": null,
           "description": "Yesterday, I\nput forth\na bunch of API possibilities for the problem of needing to return a \nvalue but also indicating the lack of a value and being able to comment \non why.  In it, the notion of a \"wrapper\" around a string was presented, \nsuch that it might look like \"Result<string>\", and those brackets \nstarted looking like a pain.  There was also the possibility of having \nsomething like \"ResultString\", but didn't that open the door to having a \nbunch of code duplication?\n\n\nAfter this had existed for a while, the general happy feeling of having \nthis stuff in place became infectious.  I wanted it to cover other \nthings with it, too.  I wanted it to handle something a bit more \ncomplicated than a mere string, and so decided to try my hand at the \ntemplate-wrangling metaprogramming cruft t…",
@@ -964,6 +974,16 @@
       "siteUrl": "https://pluralistic.net",
       "articles": [
         {
+          "id": "https://pluralistic.net/?p=3211",
+          "author": "Cory Doctorow",
+          "description": "Today's links Amazon's $31b \"ad business\" isn't: They getcha coming and going. This day in history: 2002, 2012, 2017, 2021. Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Amazon's $31b \"ad business\" isn't (permalink) Looking at Amazon's quarterly financials, it would be easy to mistake the company's $31b ad division as a serious shift in the online advertising industry, but that would be a huge mistake. You see, Amazon's not really selling ads. Nearly all of that $31b is for an \"ad\" on Amazon itself: that is it's Amazon collecting billions from the sellers who rely on the company as their main retail channel, who are locked in a bidding war to buy the top spots in search and product pages. This is a huge shift for Amazon in every way. …",
+          "link": "https://pluralistic.net/2022/02/27/not-an-ad/",
+          "publishedOn": "2022-02-27T17:22:47.000Z",
+          "wordCount": 2372,
+          "title": "Pluralistic: 27 Feb 2022",
+          "imageUrl": null
+        },
+        {
           "id": "https://pluralistic.net/?p=3200",
           "author": "Cory Doctorow",
           "description": "Today's links Mass arbitration attack could bring Intuit to its knees: Justice for the millions ripped off by Turbotax's \"Free File\" fraud. This day in history: 2002, 2007, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Mass arbitration attack could bring Intuit to its knees (permalink) Ever hear of \"binding arbitration?\" That's a clause in a contract that says that you aren't allowed to sue the company you're doing business with, even if they cheat, maim or kill you. It was invented to let giant companies of equal size and power agree in advance not to spend billions and decades in court to resolve contractual disputes. Then, Federalist Society judges led by Antonin Scalia set about clearing the way for arbitration to be cr…",
@@ -1314,15 +1334,6 @@
           "publishedOn": "2022-01-04T22:53:16.000Z",
           "wordCount": 3706,
           "title": "On GameJolt’s new policy: why stigmatizing “sex” in games is harmful to the medium and never works…"
-        },
-        {
-          "id": "http://www.nathalielawhead.com/candybox/?p=5229",
-          "author": "alienmelon",
-          "description": "~ This post is my epic roundup of recommendations for 202x! ~ When we talk about games, especially the indie game space, most of the games we suggest are ones with lots of critical acclaim, playtime, and that demand plenty of involvement. Playing a game these days feels like as much of a financial investment as it becomes a life investment. I find myself drawn more and more to spelunking itch.io for tiny hidden gems… getting lost while diving into all the developer pages filled with all these odd little works. Browsing itch or GameJolt has become almost as rewarding...",
-          "link": "http://www.nathalielawhead.com/candybox/tiny-indiegames-and-the-joy-of-very-small-things",
-          "publishedOn": "2021-12-30T01:53:05.000Z",
-          "wordCount": 4744,
-          "title": "Tiny indiegames and the joy of Very Small Things"
         }
       ]
     }
