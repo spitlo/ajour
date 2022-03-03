@@ -2,10 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-03-02T00:30:43.835Z</updated>
+    <updated>2022-03-03T00:34:19.892Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: 02 Mar 2022]]></title>
+        <id>https://pluralistic.net/?p=3230</id>
+        <link href="https://pluralistic.net/2022/03/02/shadow-banking-2-point-oh/"/>
+        <updated>2022-03-02T14:53:28.000Z</updated>
+        <summary type="html"><![CDATA[Today's links Defi and Shadow Banking 2.0: Leverage, rigidity and bank runs. This day in history: 2002, 2012, 2017 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Defi and Shadow Banking 2.0 (permalink) 14 year ago, the world's financial system came to the brink of collapse. Central banks scrambled to react. Businesses shuttered. People lost their homes. Many governments fell. Faith in our institutions shattered. The Occupy movement was launched. So was Bitcoin. What brought on the Great Financial Crisis? The "shadow banking system" – a system of unregulated financial activities that are just like their regulated cousins, except that they're, well, unregulated. The GFC was precipitated by "financial innovation": new tricks that allowed …]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Universally unique identifier?  Sometimes...]]></title>
+        <id>https://rachelbythebay.com/w/2022/03/01/uuid/</id>
+        <link href="https://rachelbythebay.com/w/2022/03/01/uuid/"/>
+        <updated>2022-03-02T03:44:06.000Z</updated>
+        <summary type="html"><![CDATA[This is a short one since it's somewhere between a random bit of 
+"grab some popcorn" amusement and a "huh, that might be a problem some 
+day".  In short, it looks like every Raspberry Pi filesystem installed 
+from any given release image probably ends up with the same
+UUID.
+
+
+For instance, if you downloaded the "lite" version of Raspbian between 
+roughly November 8th and January 28th, you probably got a file called 
+2021-10-30-raspios-bullseye-armhf-lite.zip.  Inside, there's an image, 
+and the idea is that you dump that straight to your SD card, cram it in 
+the Pi, and off you go.  The second partition on that image is an ext4 
+filesystem which was created on some build machine somewhere.  The UUID 
+on it never gets "evolved" to something else after the install.
+
+
+You can see it inside the image itself here:
+
+
+Or, if you actually installed a few of these things like I did over the 
+past couple of months, you can just 'tune2fs -l /dev/mmcblk0p2' and see 
+the same value in there.
+
+
+Don't end up with a pile of SD cards on your desk and think "I know, 
+I'll use the filesystem UUIDs to track which one goes where", in other 
+words.
+
+
+If it's not breaking anything for you, it's probably best to just let it 
+be.  Untangling a boot mess on these weird little boxes is anything but 
+fun.
+
+Note: if you're actually on a recent Raspberry Pi, odds are good that 
+your /etc/fstab will be using *partition* UUIDs (PARTUUID=...) and not 
+those of the filesystem.  If in doubt, use blkid to see what's what.]]></summary>
+        <author>
+            <name>Writing - rachelbythebay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Party Quadrants]]></title>
+        <id>https://xkcd.com/2588/</id>
+        <link href="https://xkcd.com/2588/"/>
+        <updated>2022-03-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/party_quadrants.png" title="Single-elimination might provide more drama, but I think we can all agree that a comprehensive numerical scoring system will let us better judge the party's winner." alt="Single-elimination might provide more drama, but I think we can all agree that a comprehensive numerical scoring system will let us better judge the party's winner." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to make sure you aren’t spreading misinformation online]]></title>
         <id>https://blog.mozilla.org/?p=68508</id>
@@ -1617,61 +1682,6 @@ DNS is still scaling well even though it’s almost 40 years old. Th…]]></summ
         <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/throat_and_nasal_passages.png" title="I always felt like what the 'you are now aware of your tongue' thing neeeded in order to be truly enjoyable was an element of mortal peril." alt="I always felt like what the 'you are now aware of your tongue' thing neeeded in order to be truly enjoyable was an element of mortal peril." />]]></summary>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YYMMDDHHMM just overflowed a signed 32 bit int]]></title>
-        <id>https://rachelbythebay.com/w/2022/01/01/baddate/</id>
-        <link href="https://rachelbythebay.com/w/2022/01/01/baddate/"/>
-        <updated>2022-01-01T19:36:01.000Z</updated>
-        <summary type="html"><![CDATA[I guess I've turned into a collector of numbers that break things 
-sometimes.  Here's another one I just heard about, and it's directly 
-related to what just happened with the calendar.
-
-
-The last value for last year is December 31, 2021 at 23:59, and in this 
-format it becomes 2112312359.  That just fits into a signed 32 bit 
-number (which tops out at 2147483647).
-
-
-So, if you're using Microsoft Exchange and stopped getting your mail in 
-the past couple of hours, this is why!
-
-Really!  No joke!
-
-Happy 2022, everyone.]]></summary>
-        <author>
-            <name>Writing - rachelbythebay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Magical 3D Button]]></title>
-        <id>https://www.joshwcomeau.com/animation/3d-button/</id>
-        <link href="https://www.joshwcomeau.com/animation/3d-button/"/>
-        <updated>2022-01-01T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Every action we take on the web starts with a button click, and yet most buttons are ho-hum and uninspired. In this tutorial, we'll build an animated 3D button with HTML and CSS that sparks joy.]]></summary>
-        <author>
-            <name>Josh W. Comeau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magical Rainbow Gradients]]></title>
-        <id>https://www.joshwcomeau.com/react/rainbow-button/</id>
-        <link href="https://www.joshwcomeau.com/react/rainbow-button/"/>
-        <updated>2022-01-01T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you've ever tried to animate a gradient, you've been met with a harsh reality—it isn't possible. At least, it wasn't! In this tutorial, we'll leverage bleeding-edge browser features to animate ANY CSS property, including background gradients, using CSS Houdini, CSS variables, and React.]]></summary>
-        <author>
-            <name>Josh W. Comeau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Folding the DOM]]></title>
-        <id>https://www.joshwcomeau.com/react/folding-the-dom/</id>
-        <link href="https://www.joshwcomeau.com/react/folding-the-dom/"/>
-        <updated>2022-01-01T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this post, we'll explore a technique we can use to "fold" a DOM node, like folding a letter in real-life. On that journey, we'll learn a lot about 3D transforms and CSS animation techniques!]]></summary>
-        <author>
-            <name>Josh W. Comeau</name>
         </author>
     </entry>
 </feed>

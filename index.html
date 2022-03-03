@@ -16,9 +16,9 @@
     <meta name="robots" content="noindex, nofollow">
     <link rel="preload" as="font" type="font/woff2" href="https://spitlo.com/fonts/GangsterGrotesk-Bold.woff2" crossorigin="anonymous">
     <link rel="preload" as="font" type="font/woff2" href="https://spitlo.com/fonts/VictorMono-Thin.woff2" crossorigin="anonymous">
-    <link rel="icon" type="image/svg+xml" href="https://spitlo.com/images/favicon.svg?2022-03-02T00:30:43.804Z">
+    <link rel="icon" type="image/svg+xml" href="https://spitlo.com/images/favicon.svg?2022-03-03T00:34:19.856Z">
     <link rel="alternate" type="application/rss+xml" title="Ajour / Spitlo.com" href="feed.atom">
-    <link href="https://spitlo.com/style.css?2022-03-02T00:30:43.804Z" rel="stylesheet">
+    <link href="https://spitlo.com/style.css?2022-03-03T00:34:19.856Z" rel="stylesheet">
 
     <style>
       body { font-size: 14px; }
@@ -52,6 +52,74 @@
           Visit <a target="_blank" rel="noopener noreferrer" href="https://github.com/osmoscraft/osmosfeed">osmos::feed</a> for more info or to make your own custom feed reader.
         </p>
 
+          <section class="daily-content">
+            <h2 class="daily-heading"><time datatime="2022-03-02">2022-03-02</time></h2>
+                <article data-source="Pluralistic: Daily links from Cory Doctorow" data-rtime="9">
+                  <h3><a target="_blank" rel="noopener noreferrer" href=https://pluralistic.net/2022/03/02/shadow-banking-2-point-oh/>Pluralistic: 02 Mar 2022</a></h3>
+                  <ul class="meta">
+                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://pluralistic.net>Pluralistic: Daily links from Cory Doctorow</a></li>
+                    <li><span class="label">Date:</span> <time datetime="2022-03-02T14:53:28.000Z">2022-03-02</time></li>
+                    <li><span class="label">Reading time:</span> <time>9 min</time></li>
+                    <li><span class="label">Words</span> <time>2664</time></li>
+                  </ul>
+                  <p>Today&#x27;s links Defi and Shadow Banking 2.0: Leverage, rigidity and bank runs. This day in history: 2002, 2012, 2017 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Defi and Shadow Banking 2.0 (permalink) 14 year ago, the world&#x27;s financial system came to the brink of collapse. Central banks scrambled to react. Businesses shuttered. People lost their homes. Many governments fell. Faith in our institutions shattered. The Occupy movement was launched. So was Bitcoin. What brought on the Great Financial Crisis? The &quot;shadow banking system&quot; – a system of unregulated financial activities that are just like their regulated cousins, except that they&#x27;re, well, unregulated. The GFC was precipitated by &quot;financial innovation&quot;: new tricks that allowed …</p>
+                </article>
+                <article data-source="Writing - rachelbythebay" data-rtime="2">
+                  <h3><a target="_blank" rel="noopener noreferrer" href=https://rachelbythebay.com/w/2022/03/01/uuid/>Universally unique identifier?  Sometimes...</a></h3>
+                  <ul class="meta">
+                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://rachelbythebay.com/w/>Writing - rachelbythebay</a></li>
+                    <li><span class="label">Date:</span> <time datetime="2022-03-02T03:44:06.000Z">2022-03-02</time></li>
+                    <li><span class="label">Reading time:</span> <time>2 min</time></li>
+                    <li><span class="label">Words</span> <time>529</time></li>
+                  </ul>
+                  <p>This is a short one since it&#x27;s somewhere between a random bit of 
+&quot;grab some popcorn&quot; amusement and a &quot;huh, that might be a problem some 
+day&quot;.  In short, it looks like every Raspberry Pi filesystem installed 
+from any given release image probably ends up with the same
+UUID.
+
+
+For instance, if you downloaded the &quot;lite&quot; version of Raspbian between 
+roughly November 8th and January 28th, you probably got a file called 
+2021-10-30-raspios-bullseye-armhf-lite.zip.  Inside, there&#x27;s an image, 
+and the idea is that you dump that straight to your SD card, cram it in 
+the Pi, and off you go.  The second partition on that image is an ext4 
+filesystem which was created on some build machine somewhere.  The UUID 
+on it never gets &quot;evolved&quot; to something else after the install.
+
+
+You can see it inside the image itself here:
+
+
+Or, if you actually installed a few of these things like I did over the 
+past couple of months, you can just &#x27;tune2fs -l /dev/mmcblk0p2&#x27; and see 
+the same value in there.
+
+
+Don&#x27;t end up with a pile of SD cards on your desk and think &quot;I know, 
+I&#x27;ll use the filesystem UUIDs to track which one goes where&quot;, in other 
+words.
+
+
+If it&#x27;s not breaking anything for you, it&#x27;s probably best to just let it 
+be.  Untangling a boot mess on these weird little boxes is anything but 
+fun.
+
+Note: if you&#x27;re actually on a recent Raspberry Pi, odds are good that 
+your /etc/fstab will be using *partition* UUIDs (PARTUUID&#x3D;...) and not 
+those of the filesystem.  If in doubt, use blkid to see what&#x27;s what.</p>
+                </article>
+                <article data-source="xkcd.com" data-rtime="1">
+                  <h3><a target="_blank" rel="noopener noreferrer" href=https://xkcd.com/2588/>Party Quadrants</a></h3>
+                  <ul class="meta">
+                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://xkcd.com/>xkcd.com</a></li>
+                    <li><span class="label">Date:</span> <time datetime="2022-03-02T00:00:00.000Z">2022-03-02</time></li>
+                    <li><span class="label">Reading time:</span> <time>1 min</time></li>
+                    <li><span class="label">Words</span> <time>197</time></li>
+                  </ul>
+                  <p>No content preview</p>
+                </article>
+          </section>
           <section class="daily-content">
             <h2 class="daily-heading"><time datatime="2022-03-01">2022-03-01</time></h2>
                 <article data-source="The Mozilla Blog" data-rtime="4">
@@ -1794,68 +1862,10 @@ DNS is still scaling well even though it’s almost 40 years old. Th…</p>
                   <p>No content preview</p>
                 </article>
           </section>
-          <section class="daily-content">
-            <h2 class="daily-heading"><time datatime="2022-01-01">2022-01-01</time></h2>
-                <article data-source="Writing - rachelbythebay" data-rtime="1">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://rachelbythebay.com/w/2022/01/01/baddate/>YYMMDDHHMM just overflowed a signed 32 bit int</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://rachelbythebay.com/w/>Writing - rachelbythebay</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2022-01-01T19:36:01.000Z">2022-01-01</time></li>
-                    <li><span class="label">Reading time:</span> <time>1 min</time></li>
-                    <li><span class="label">Words</span> <time>160</time></li>
-                  </ul>
-                  <p>I guess I&#x27;ve turned into a collector of numbers that break things 
-sometimes.  Here&#x27;s another one I just heard about, and it&#x27;s directly 
-related to what just happened with the calendar.
-
-
-The last value for last year is December 31, 2021 at 23:59, and in this 
-format it becomes 2112312359.  That just fits into a signed 32 bit 
-number (which tops out at 2147483647).
-
-
-So, if you&#x27;re using Microsoft Exchange and stopped getting your mail in 
-the past couple of hours, this is why!
-
-Really!  No joke!
-
-Happy 2022, everyone.</p>
-                </article>
-                <article data-source="Josh Comeau&#x27;s blog" data-rtime="8">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://www.joshwcomeau.com/animation/3d-button/>Building a Magical 3D Button</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://www.joshwcomeau.com/>Josh Comeau&#x27;s blog</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2022-01-01T13:00:00.000Z">2022-01-01</time></li>
-                    <li><span class="label">Reading time:</span> <time>8 min</time></li>
-                    <li><span class="label">Words</span> <time>2345</time></li>
-                  </ul>
-                  <p>Every action we take on the web starts with a button click, and yet most buttons are ho-hum and uninspired. In this tutorial, we&#x27;ll build an animated 3D button with HTML and CSS that sparks joy.</p>
-                </article>
-                <article data-source="Josh Comeau&#x27;s blog" data-rtime="8">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://www.joshwcomeau.com/react/rainbow-button/>Magical Rainbow Gradients</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://www.joshwcomeau.com/>Josh Comeau&#x27;s blog</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2022-01-01T13:00:00.000Z">2022-01-01</time></li>
-                    <li><span class="label">Reading time:</span> <time>8 min</time></li>
-                    <li><span class="label">Words</span> <time>2276</time></li>
-                  </ul>
-                  <p>If you&#x27;ve ever tried to animate a gradient, you&#x27;ve been met with a harsh reality—it isn&#x27;t possible. At least, it wasn&#x27;t! In this tutorial, we&#x27;ll leverage bleeding-edge browser features to animate ANY CSS property, including background gradients, using CSS Houdini, CSS variables, and React.</p>
-                </article>
-                <article data-source="Josh Comeau&#x27;s blog" data-rtime="5">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://www.joshwcomeau.com/react/folding-the-dom/>Folding the DOM</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://www.joshwcomeau.com/>Josh Comeau&#x27;s blog</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2022-01-01T13:00:00.000Z">2022-01-01</time></li>
-                    <li><span class="label">Reading time:</span> <time>5 min</time></li>
-                    <li><span class="label">Words</span> <time>1583</time></li>
-                  </ul>
-                  <p>In this post, we&#x27;ll explore a technique we can use to &quot;fold&quot; a DOM node, like folding a letter in real-life. On that journey, we&#x27;ll learn a lot about 3D transforms and CSS animation techniques!</p>
-                </article>
-          </section>
 
         <footer>
           <section class="details">
-            <span class="detail">Built @ 2022-03-02T00:30:43.804Z</span>
+            <span class="detail">Built @ 2022-03-03T00:34:19.856Z</span>
             <span class="divider">|</span>
             <span class="detail">CLI: 1.14.4</span>
             <span class="divider">|</span>

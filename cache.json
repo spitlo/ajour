@@ -189,6 +189,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2588/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/party_quadrants.png\" title=\"Single-elimination might provide more drama, but I think we can all agree that a comprehensive numerical scoring system will let us better judge the party's winner.\" alt=\"Single-elimination might provide more drama, but I think we can all agree that a comprehensive numerical scoring system will let us better judge the party's winner.\" />",
+          "link": "https://xkcd.com/2588/",
+          "publishedOn": "2022-03-02T00:00:00.000Z",
+          "wordCount": 197,
+          "title": "Party Quadrants",
+          "imageUrl": "https://imgs.xkcd.com/comics/party_quadrants_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2587/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/for_the_sake_of_simplicity.png\" title=\"For the sake of simplicity, gardeners are assumed to move through Euclidean space--neglecting the distortion from general relativity--unless they are in the vicinity of a Schwarzschild Orchid.\" alt=\"For the sake of simplicity, gardeners are assumed to move through Euclidean space--neglecting the distortion from general relativity--unless they are in the vicinity of a Schwarzschild Orchid.\" />",
@@ -481,6 +491,16 @@
       "siteUrl": "https://rachelbythebay.com/w/",
       "articles": [
         {
+          "id": "https://rachelbythebay.com/w/2022/03/01/uuid/",
+          "author": null,
+          "description": "This is a short one since it's somewhere between a random bit of \n\"grab some popcorn\" amusement and a \"huh, that might be a problem some \nday\".  In short, it looks like every Raspberry Pi filesystem installed \nfrom any given release image probably ends up with the same\nUUID.\n\n\nFor instance, if you downloaded the \"lite\" version of Raspbian between \nroughly November 8th and January 28th, you probably got a file called \n2021-10-30-raspios-bullseye-armhf-lite.zip.  Inside, there's an image, \nand the idea is that you dump that straight to your SD card, cram it in \nthe Pi, and off you go.  The second partition on that image is an ext4 \nfilesystem which was created on some build machine somewhere.  The UUID \non it never gets \"evolved\" to something else after the install.\n\n\nYou can see it inside the image itself here:\n\n\nOr, if you actually installed a few of these things like I did over the \npast couple of months, you can just 'tune2fs -l /dev/mmcblk0p2' and see \nthe same value in there.\n\n\nDon't end up with a pile of SD cards on your desk and think \"I know, \nI'll use the filesystem UUIDs to track which one goes where\", in other \nwords.\n\n\nIf it's not breaking anything for you, it's probably best to just let it \nbe.  Untangling a boot mess on these weird little boxes is anything but \nfun.\n\nNote: if you're actually on a recent Raspberry Pi, odds are good that \nyour /etc/fstab will be using *partition* UUIDs (PARTUUID=...) and not \nthose of the filesystem.  If in doubt, use blkid to see what's what.",
+          "link": "https://rachelbythebay.com/w/2022/03/01/uuid/",
+          "publishedOn": "2022-03-02T03:44:06.000Z",
+          "wordCount": 529,
+          "title": "Universally unique identifier?  Sometimes...",
+          "imageUrl": null
+        },
+        {
           "id": "https://rachelbythebay.com/w/2022/02/28/copilot/",
           "author": null,
           "description": "A reader wrote in asking what I thought about the whole GitHub \"copilot\" \nthing.  If you haven't heard of it yet, it's apparently this thing that \nwas trained on a whole mess of repositories and their code, and you can \n\"prompt\" it and it'll spit out code that may or may not do what you \nwant.  It doesn't seem to know about licensing (BSD, GPL, MIT, that sort \nof thing), or plagiarism, or any of that other good stuff.\n\n\nThis is actually a story about somewhere I used to work, and someone who \nwas on one of my teams back in the day.  One day, I heard that one of \nthe people in a far-away office had created some kind of tool that would \nlet you look at the status of different machines - that is, Linux boxes. \nI don't remember the finer points of it or why this person even \nbothered, but they…",
@@ -586,15 +606,6 @@
           "publishedOn": "2022-01-28T05:00:38.000Z",
           "wordCount": 846,
           "title": "One machine can go pretty far if you build things properly"
-        },
-        {
-          "id": "https://rachelbythebay.com/w/2022/01/01/baddate/",
-          "author": null,
-          "description": "I guess I've turned into a collector of numbers that break things \nsometimes.  Here's another one I just heard about, and it's directly \nrelated to what just happened with the calendar.\n\n\nThe last value for last year is December 31, 2021 at 23:59, and in this \nformat it becomes 2112312359.  That just fits into a signed 32 bit \nnumber (which tops out at 2147483647).\n\n\nSo, if you're using Microsoft Exchange and stopped getting your mail in \nthe past couple of hours, this is why!\n\nReally!  No joke!\n\nHappy 2022, everyone.",
-          "link": "https://rachelbythebay.com/w/2022/01/01/baddate/",
-          "publishedOn": "2022-01-01T19:36:01.000Z",
-          "wordCount": 160,
-          "title": "YYMMDDHHMM just overflowed a signed 32 bit int"
         }
       ]
     },
@@ -919,33 +930,6 @@
           "publishedOn": "2022-01-11T14:00:00.000Z",
           "wordCount": 1426,
           "title": "Make Beautiful Gradients"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/animation/3d-button/",
-          "author": "Josh W. Comeau",
-          "description": "Every action we take on the web starts with a button click, and yet most buttons are ho-hum and uninspired. In this tutorial, we'll build an animated 3D button with HTML and CSS that sparks joy.",
-          "link": "https://www.joshwcomeau.com/animation/3d-button/",
-          "publishedOn": "2022-01-01T13:00:00.000Z",
-          "wordCount": 2345,
-          "title": "Building a Magical 3D Button"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/react/rainbow-button/",
-          "author": "Josh W. Comeau",
-          "description": "If you've ever tried to animate a gradient, you've been met with a harsh reality—it isn't possible. At least, it wasn't! In this tutorial, we'll leverage bleeding-edge browser features to animate ANY CSS property, including background gradients, using CSS Houdini, CSS variables, and React.",
-          "link": "https://www.joshwcomeau.com/react/rainbow-button/",
-          "publishedOn": "2022-01-01T13:00:00.000Z",
-          "wordCount": 2276,
-          "title": "Magical Rainbow Gradients"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/react/folding-the-dom/",
-          "author": "Josh W. Comeau",
-          "description": "In this post, we'll explore a technique we can use to \"fold\" a DOM node, like folding a letter in real-life. On that journey, we'll learn a lot about 3D transforms and CSS animation techniques!",
-          "link": "https://www.joshwcomeau.com/react/folding-the-dom/",
-          "publishedOn": "2022-01-01T13:00:00.000Z",
-          "wordCount": 1583,
-          "title": "Folding the DOM"
         }
       ]
     },
@@ -960,6 +944,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=3230",
+          "author": "Cory Doctorow",
+          "description": "Today's links Defi and Shadow Banking 2.0: Leverage, rigidity and bank runs. This day in history: 2002, 2012, 2017 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Defi and Shadow Banking 2.0 (permalink) 14 year ago, the world's financial system came to the brink of collapse. Central banks scrambled to react. Businesses shuttered. People lost their homes. Many governments fell. Faith in our institutions shattered. The Occupy movement was launched. So was Bitcoin. What brought on the Great Financial Crisis? The \"shadow banking system\" – a system of unregulated financial activities that are just like their regulated cousins, except that they're, well, unregulated. The GFC was precipitated by \"financial innovation\": new tricks that allowed …",
+          "link": "https://pluralistic.net/2022/03/02/shadow-banking-2-point-oh/",
+          "publishedOn": "2022-03-02T14:53:28.000Z",
+          "wordCount": 2664,
+          "title": "Pluralistic: 02 Mar 2022",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=3220",
           "author": "Cory Doctorow",
