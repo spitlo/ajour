@@ -2,10 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-03-05T10:05:40.026Z</updated>
+    <updated>2022-03-06T00:26:02.172Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Editing stuff in prod]]></title>
+        <id>https://rachelbythebay.com/w/2022/03/05/prod/</id>
+        <link href="https://rachelbythebay.com/w/2022/03/05/prod/"/>
+        <updated>2022-03-05T21:21:55.000Z</updated>
+        <summary type="html"><![CDATA[Here's a concept: "ssh to prod and edit directly on the machine" is 
+generally bad news.
+
+
+I should point out that I didn't know this person and had no idea how 
+they would respond to such feedback - it might have been fine!  They 
+might be a well-adjusted person who can take a request like that and not 
+turn it around into a full-on nuclear attack.  But, I didn't know either 
+way.
+
+
+At some point, I actually had a meeting with this developer for some 
+other reason, and what happened was kind of amazing.  First thing, he 
+brought it up and asked me about it.  I said something like, "well, I 
+didn't want to get into it, but since you asked", and proceeded into 
+something along the lines of "obviously it would be best if you didn't 
+do that - sshing in and twiddling Python files on the actual production 
+AWS instance of the service".
+
+
+"But... I suspect you are doing it for some reason?"
+
+
+My response was... I hope... reasonable: "So as much as I would love to 
+say 'don't do that!!!', I'm not going to stand in the way of you 
+literally doing your job.  So please proceed with care, and keep an eye 
+open for some day when (first dumb thing) and (second dumb thing) aren't 
+problems any more and you need not do this any more."
+
+
+It was either "edit in prod" or endure DAY LONG development cycles: make 
+a change, wait 24 hours, come back tomorrow, and try it again.  That's 
+how broken it was.
+
+
+The best part about this was that we had a totally reasonable 
+conversation about it.  It's the kind of thing which had become a rare 
+commodity in those days at that place.
+
+
+Would I expect someone else to go to that level of insanity every single 
+time they just want to get their job done?  Absolutely not.
+
+Editing files in prod to develop them?  That's bad news.  Deliberately 
+rigging tunnels to spoof a connection from prod?  That's also bad news.  
+Having to do them to get your job done?  You might be in the bad place.]]></summary>
+        <author>
+            <name>Writing - rachelbythebay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: 05 Mar 2022]]></title>
+        <id>https://pluralistic.net/?p=3248</id>
+        <link href="https://pluralistic.net/2022/03/05/this-telegrams-a-rush/"/>
+        <updated>2022-03-05T15:37:17.000Z</updated>
+        <summary type="html"><![CDATA[Today's links How to be safer while using Telegram in Russia and Ukraine: A guide from EFF's Eva Galperin. Hey look at this: Delights to delectate. This day in history: 2007, 2012 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading How to be safer while using Telegram in Russia and Ukraine (permalink) Those of us with roots in Ukraine and Russia have a somewhat different picture of events as they unfold. In addition to viral videos, OSINT, pundits, and even sensible commentary, we're also part of heartbreaking conversations with our families. My own roots are in Russia, Ukraine, Poland, Belarus and Romania. The messages I've received from my cousins aren't for public consumption, but suffice to say they've been haunting and frightening. I'm…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pluralistic: 04 Mar 2022]]></title>
         <id>https://pluralistic.net/?p=3242</id>
@@ -1670,47 +1735,6 @@ The post Mozilla partners with The Markup to launch Rally study into Facebook’
         <summary type="html"><![CDATA[Today's links Hospital beds are a monopoly: The casket to hospital bed monopoly pipeline. This day in history: 2007, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Hospital beds are a monopoly (permalink) The great James Boyle tells an important parable about the coining of the term "ecology." Before the term came into wide use, the "ecology movement" as we know it was just a bunch of fragmented, seemingly disconnected issues. https://thepublicdomain.org/thepublicdomain1.pdf Like, if you're worried about owls and I'm worried about the ozone layer, it's not immediately apparent that we're fighting the same fight. It's not intuitive to link the fate of charismatic nocturnal avians to the gaseous composition of the upper atmosp…]]></summary>
         <author>
             <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why might you run your own DNS server?]]></title>
-        <id>https://jvns.ca/blog/2022/01/05/why-might-you-run-your-own-dns-server-/</id>
-        <link href="https://jvns.ca/blog/2022/01/05/why-might-you-run-your-own-dns-server-/"/>
-        <updated>2022-01-05T06:42:51.000Z</updated>
-        <summary type="html"><![CDATA[One of the things that makes DNS difficult to understand is that it’s
-decentralized. There are thousands (maybe hundreds of thousands? I don’t know!) of authoritative nameservers, and at least
-10 million resolvers.
-And they’re running lots of different software! All these different servers
-running software means that there’s a lot of inconsistency in how DNS works,
-which can cause all kinds of frustrating problems.
-But instead of talking about the problems, I’m interested in figuring out –
-why is it a good thing that DNS is decentralized?
-why is it good that DNS is decentralized?
-One reason is scalability – the decentralized design of DNS makes it
-easier to scale and more resilient to failures. I find it really amazing that
-DNS is still scaling well even though it’s almost 40 years old. Th…]]></summary>
-        <author>
-            <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sunshield]]></title>
-        <id>https://xkcd.com/2564/</id>
-        <link href="https://xkcd.com/2564/"/>
-        <updated>2022-01-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/sunshield.png" title="RIP the surface of Mars" alt="RIP the surface of Mars" />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On GameJolt’s new policy: why stigmatizing “sex” in games is harmful to the medium and never works…]]></title>
-        <id>http://www.nathalielawhead.com/candybox/?p=5236</id>
-        <link href="http://www.nathalielawhead.com/candybox/on-gamejolts-new-policy-why-stigmatizing-sex-in-games-is-harmful-to-the-medium-and-never-works"/>
-        <updated>2022-01-04T22:53:16.000Z</updated>
-        <summary type="html"><![CDATA[Yesterday GameJolt emailed a lot of people saying that their game was removed because the site’s new policy bans any game that “depicts, solicits, promotes, normalizes, or glorifies sexual acts, sexual solicitation, and sexual violence“. I got an email too for F2OGGY (Only one survives!). This seemed like an obvious error to me because this game has 0 depiction of anything sexual. The game Curtain also received this notice… Source: https://twitter.com/ldreamfeel/status/1478065400286007304 Curtain is a brilliant and critically acclaimed work of art that interrogates abuse. It’s far from a porn game. “CURTAIN is an interactive first-person narrative about Kaci & Ally,...]]></summary>
-        <author>
-            <name>alienmelon</name>
         </author>
     </entry>
 </feed>
