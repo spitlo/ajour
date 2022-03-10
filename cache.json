@@ -6,6 +6,16 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=7131",
+          "author": "Chris Heilmann",
+          "description": "Today we released a new GitHub repository for the Developer Tools in Microsoft Edge where you can file issues about problems, bugs and feattures you would like to see. You can also view the list of existing issues and add your comments. There’s an official blog post on the Microsoft Edge blog but here’s why […]",
+          "link": "https://christianheilmann.com/2022/03/09/want-to-improve-developer-tools-in-microsoft-edge-file-an-issue-on-github/",
+          "publishedOn": "2022-03-09T19:31:24.000Z",
+          "wordCount": 338,
+          "title": "Want to improve Developer Tools in Microsoft Edge? File an issue on Github",
+          "imageUrl": null
+        },
+        {
           "id": "https://christianheilmann.com/?p=7124",
           "author": "Chris Heilmann",
           "description": "I just encountered a sneaky thing I had not seen, although it probably worked in 1999 already. A web site was showing a different title on the tab, depending on it being active or not. The whole trick is to use the blur and focus event handlers on the window to change the title. window.onblur […]",
@@ -188,6 +198,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2591/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/qua.png\" title=\"Qua qua qua is the sine qua non of sine qua non qua sine qua non.\" alt=\"Qua qua qua is the sine qua non of sine qua non qua sine qua non.\" />",
+          "link": "https://xkcd.com/2591/",
+          "publishedOn": "2022-03-09T00:00:00.000Z",
+          "wordCount": 195,
+          "title": "Qua",
+          "imageUrl": "https://imgs.xkcd.com/comics/qua_2x.png"
+        },
         {
           "id": "https://xkcd.com/2590/",
           "author": null,
@@ -483,6 +503,26 @@
       "feedUrl": "https://rachelbythebay.com/w/atom.xml",
       "siteUrl": "https://rachelbythebay.com/w/",
       "articles": [
+        {
+          "id": "https://rachelbythebay.com/w/2022/03/08/core/",
+          "author": null,
+          "description": "I already told a\nstory\nabout how you can hose your machine by pointing the Linux kernel at a \ncustom core dump handler and then have that handler fail to function.  \nThis'll clog up the pipe (really), and then everything else will just \nstack up behind it.  Pretty soon, every crashing process will be stuck \njust the same.\n\n\nOnce upon a time, in a big company environment, someone decided that \nthey wanted to provide a service to other things running on the same \nLinux box.  But, instead of either writing Yet Another Service (tm) \nthat would go through release processes and all of that good stuff, they \nwent for a different design entirely.\n\n\nThere are so many problems with this.  You have the issue of a \"server\" \nthat appears out of thin air depending on who or what starts first on \nthe mac…",
+          "link": "https://rachelbythebay.com/w/2022/03/08/core/",
+          "publishedOn": "2022-03-09T04:39:40.000Z",
+          "wordCount": 625,
+          "title": "A parasitic RPC service that broke core dumps",
+          "imageUrl": null
+        },
+        {
+          "id": "https://rachelbythebay.com/w/2022/03/07/get/",
+          "author": null,
+          "description": "If a web site makes an RSS or Atom feed available, it's not a bad idea \nto poll it from time to time.  Actually doing that poll like a good \nnetizen (remember that concept?) takes a little attention to detail.\n\n\nGiven the reality of the situation, does it make sense to poll every 10 \nseconds?  Probably not, right?  Someone set up something like that and \nleft it running for a couple of months until I finally noticed it and \ndealt with it myself.\n\n\nGiven this, you can keep track of the \"Last-Modified\" header when you \nget a copy of the feed.  Then, you can turn around and use that same \nvalue in an \"If-Modified-Since\" header the next time you come to look \nfor an update.  If nothing's changed, the web server will notice it's \nthe same as what it already has, and it'll send you a HTTP 304 co…",
+          "link": "https://rachelbythebay.com/w/2022/03/07/get/",
+          "publishedOn": "2022-03-08T17:49:05.000Z",
+          "wordCount": 820,
+          "title": "A sysadmin's rant about feed readers and crawlers",
+          "imageUrl": null
+        },
         {
           "id": "https://rachelbythebay.com/w/2022/03/05/prod/",
           "author": null,
@@ -857,6 +897,16 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2022/03/08/tiny-programs/",
+          "author": null,
+          "description": "I was talking to a friend last summer about what resources might be helpful for\nfolks learning to program. My friend said they thought some people might\nbenefit from a list of small and fun programming projects – the kind of thing\nyou can do in an evening or weekend.\nSo let’s talk about that! I like to write small programs that have some\nmarginal utility in my life. Kind of like this:\nah! A minor problem in my life!\nI know, I bet I can solve this problem with CODE. YAY.\n4 hours of happy programming ensues\nThis isn’t always the most practical (many of the problems I’ve\nsolved with programming could have been solved in less time in other ways), but\nas long as your goal is actually to have fun programming and your programs\ndon’t hurt anyone else, I think this is a great approach :)\nSo here ar…",
+          "link": "https://jvns.ca/blog/2022/03/08/tiny-programs/",
+          "publishedOn": "2022-03-08T08:35:56.000Z",
+          "wordCount": 1129,
+          "title": "Some tiny personal programs I've written",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2022/02/23/getaddrinfo-is-kind-of-weird/",
           "author": null,
           "description": "Hello! Here are some things you may or may not have noticed about DNS:\nwhen you resolve a DNS name in a Python program, it checks /etc/hosts, but when you use dig, it doesn’t.\nswitching Linux distributions can sometimes change how your DNS works, for example if you use Alpine Linux instead of Ubuntu it can cause problems.\nMac OS has DNS caching, but Linux doesn’t necessarily unless you use systemd-resolved or something\nTo understand all of these, we need to learn about a function called\ngetaddrinfo which is responsible for doing DNS lookups.\nThere are a bunch of surprising-to-me things about getaddrinfo, and once I\nlearned about them, it explained a bunch of the confusing DNS behaviour I’d\nseen in the past.\nwhere does getaddrinfo come from?\ngetaddrinfo is part of a library called libc whic…",
@@ -978,6 +1028,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=3272",
+          "author": "Cory Doctorow",
+          "description": "Today's links The cruelty isn't the point: The point is power. Hey look at this: Delights to delectate. This day in history: 2002, 2012, 2017. Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The cruelty isn't the point (permalink) When confronted with Texas's cruel, vicious trans bill – which allows the state to take children away from their parents if they allow their kids to get life-saving, gender-affirming medical treatments – it's easy to think that \"the cruelty is the point.\" But as Jamie Gardner writes in Jacobin, \"they're just assholes\" doesn't have much explanatory power. Neither assholes nor trans people are modern innovations, so why is it that this law was introduced now? https://jacobinmag.com/2022/03/gop-republicans-texas-…",
+          "link": "https://pluralistic.net/2022/03/09/turkeys-voting-for-christmas/",
+          "publishedOn": "2022-03-09T15:42:27.000Z",
+          "wordCount": 1938,
+          "title": "Pluralistic: 09 Mar 2022",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=3267",
           "author": "Cory Doctorow",

@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-03-09T00:27:18.357Z</updated>
+    <updated>2022-03-10T00:24:38.051Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Want to improve Developer Tools in Microsoft Edge? File an issue on Github]]></title>
+        <id>https://christianheilmann.com/?p=7131</id>
+        <link href="https://christianheilmann.com/2022/03/09/want-to-improve-developer-tools-in-microsoft-edge-file-an-issue-on-github/"/>
+        <updated>2022-03-09T19:31:24.000Z</updated>
+        <summary type="html"><![CDATA[Today we released a new GitHub repository for the Developer Tools in Microsoft Edge where you can file issues about problems, bugs and feattures you would like to see. You can also view the list of existing issues and add your comments. There’s an official blog post on the Microsoft Edge blog but here’s why […]]]></summary>
+        <author>
+            <name>Chris Heilmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: 09 Mar 2022]]></title>
+        <id>https://pluralistic.net/?p=3272</id>
+        <link href="https://pluralistic.net/2022/03/09/turkeys-voting-for-christmas/"/>
+        <updated>2022-03-09T15:42:27.000Z</updated>
+        <summary type="html"><![CDATA[Today's links The cruelty isn't the point: The point is power. Hey look at this: Delights to delectate. This day in history: 2002, 2012, 2017. Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The cruelty isn't the point (permalink) When confronted with Texas's cruel, vicious trans bill – which allows the state to take children away from their parents if they allow their kids to get life-saving, gender-affirming medical treatments – it's easy to think that "the cruelty is the point." But as Jamie Gardner writes in Jacobin, "they're just assholes" doesn't have much explanatory power. Neither assholes nor trans people are modern innovations, so why is it that this law was introduced now? https://jacobinmag.com/2022/03/gop-republicans-texas-…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A parasitic RPC service that broke core dumps]]></title>
+        <id>https://rachelbythebay.com/w/2022/03/08/core/</id>
+        <link href="https://rachelbythebay.com/w/2022/03/08/core/"/>
+        <updated>2022-03-09T04:39:40.000Z</updated>
+        <summary type="html"><![CDATA[I already told a
+story
+about how you can hose your machine by pointing the Linux kernel at a 
+custom core dump handler and then have that handler fail to function.  
+This'll clog up the pipe (really), and then everything else will just 
+stack up behind it.  Pretty soon, every crashing process will be stuck 
+just the same.
+
+
+Once upon a time, in a big company environment, someone decided that 
+they wanted to provide a service to other things running on the same 
+Linux box.  But, instead of either writing Yet Another Service (tm) 
+that would go through release processes and all of that good stuff, they 
+went for a different design entirely.
+
+
+There are so many problems with this.  You have the issue of a "server" 
+that appears out of thin air depending on who or what starts first on 
+the mac…]]></summary>
+        <author>
+            <name>Writing - rachelbythebay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qua]]></title>
+        <id>https://xkcd.com/2591/</id>
+        <link href="https://xkcd.com/2591/"/>
+        <updated>2022-03-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/qua.png" title="Qua qua qua is the sine qua non of sine qua non qua sine qua non." alt="Qua qua qua is the sine qua non of sine qua non qua sine qua non." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Recommended Reading Roundup #2]]></title>
         <id>http://www.nathalielawhead.com/candybox/?p=5299</id>
@@ -27,6 +85,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A sysadmin's rant about feed readers and crawlers]]></title>
+        <id>https://rachelbythebay.com/w/2022/03/07/get/</id>
+        <link href="https://rachelbythebay.com/w/2022/03/07/get/"/>
+        <updated>2022-03-08T17:49:05.000Z</updated>
+        <summary type="html"><![CDATA[If a web site makes an RSS or Atom feed available, it's not a bad idea 
+to poll it from time to time.  Actually doing that poll like a good 
+netizen (remember that concept?) takes a little attention to detail.
+
+
+Given the reality of the situation, does it make sense to poll every 10 
+seconds?  Probably not, right?  Someone set up something like that and 
+left it running for a couple of months until I finally noticed it and 
+dealt with it myself.
+
+
+Given this, you can keep track of the "Last-Modified" header when you 
+get a copy of the feed.  Then, you can turn around and use that same 
+value in an "If-Modified-Since" header the next time you come to look 
+for an update.  If nothing's changed, the web server will notice it's 
+the same as what it already has, and it'll send you a HTTP 304 co…]]></summary>
+        <author>
+            <name>Writing - rachelbythebay</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Disney and Pixar’s “Turning Red” movie Browser Wallpapers only available on Firefox for Android and iOS]]></title>
         <id>https://blog.mozilla.org/?p=68516</id>
         <link href="https://blog.mozilla.org/en/products/disney-and-pixars-turning-red-movie-browser-mobile-wallpapers/"/>
@@ -35,6 +118,29 @@
 The post Disney and Pixar’s “Turning Red” movie Browser Wallpapers only available on Firefox for Android and iOS appeared first on The Mozilla Blog.]]></summary>
         <author>
             <name>Mozilla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some tiny personal programs I've written]]></title>
+        <id>https://jvns.ca/blog/2022/03/08/tiny-programs/</id>
+        <link href="https://jvns.ca/blog/2022/03/08/tiny-programs/"/>
+        <updated>2022-03-08T08:35:56.000Z</updated>
+        <summary type="html"><![CDATA[I was talking to a friend last summer about what resources might be helpful for
+folks learning to program. My friend said they thought some people might
+benefit from a list of small and fun programming projects – the kind of thing
+you can do in an evening or weekend.
+So let’s talk about that! I like to write small programs that have some
+marginal utility in my life. Kind of like this:
+ah! A minor problem in my life!
+I know, I bet I can solve this problem with CODE. YAY.
+4 hours of happy programming ensues
+This isn’t always the most practical (many of the problems I’ve
+solved with programming could have been solved in less time in other ways), but
+as long as your goal is actually to have fun programming and your programs
+don’t hurt anyone else, I think this is a great approach :)
+So here ar…]]></summary>
+        <author>
+            <name>Julia Evans</name>
         </author>
     </entry>
     <entry>
