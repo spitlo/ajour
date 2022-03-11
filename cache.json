@@ -433,15 +433,6 @@
           "publishedOn": "2022-01-12T00:00:00.000Z",
           "wordCount": 192,
           "title": "Language Development"
-        },
-        {
-          "id": "https://xkcd.com/2566/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/decorative_constants.png\" title=\"Arguably, the '1/2' in the drag equation is purely decorative, since drag coefficients are already unitless and could just as easily be half as big. Some derivations give more justification for the extra 1/2 than others, but one textbook just calls it 'a traditional tribute to Euler and Bernoulli.'\" alt=\"Arguably, the '1/2' in the drag equation is purely decorative, since drag coefficients are already unitless and could just as easily be half as big. Some derivations give more justification for the extra 1/2 than others, but one textbook just calls it 'a traditional tribute to Euler and Bernoulli.'\" />",
-          "link": "https://xkcd.com/2566/",
-          "publishedOn": "2022-01-10T00:00:00.000Z",
-          "wordCount": 192,
-          "title": "Decorative Constants"
         }
       ]
     },
@@ -503,6 +494,16 @@
       "feedUrl": "https://rachelbythebay.com/w/atom.xml",
       "siteUrl": "https://rachelbythebay.com/w/",
       "articles": [
+        {
+          "id": "https://rachelbythebay.com/w/2022/03/09/toll/",
+          "author": null,
+          "description": "Here's a little bit of Silicon Valley local flavor for a change.  We \nhave this freeway that runs from San Jose to San Francisco called US \n101, or around here, just \"101\".  (Southern California has it too, but \nthey call it \"the\" 101.  That's how we detect invaders.)  Anyway, this \nthing is usually eight or more lanes up and down the peninsula, and it's \nhad a \"diamond\" or car pool lane on the #1 (innermost/\"fast\") lane for \nmany years.  You had to have a certain number of people in the car (or \nsome other conditions met) during certain hours (AM and PM rush, \nweekdays), or you'd be in for a hefty ticket.\n\n\nHow does the system know what to charge you?  Well, you either have an \nold-style toll transponder that always bills you as a solo driver, or \nyou have a new-style transponder with a 1/2/3+ switch that tells the \nroad how to handle you.\n\n\nThink about what this does to enforcement.  Now, instead of just \"is \nthere a vehicle in the lane\", \"is it the right time during a weekday\", \nand \"how many people are in the car\", now it's also a matter of \"do they \nhave their transponder set properly\".\n\n\nCheck this out.\n\n\n\nCHP\ncould roll up on them and give them a ticket.",
+          "link": "https://rachelbythebay.com/w/2022/03/09/toll/",
+          "publishedOn": "2022-03-10T03:50:54.000Z",
+          "wordCount": 486,
+          "title": "Toll signs on 101 report your transponder setting",
+          "imageUrl": null
+        },
         {
           "id": "https://rachelbythebay.com/w/2022/03/08/core/",
           "author": null,
@@ -712,6 +713,26 @@
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
         {
+          "id": "https://blog.mozilla.org/?p=68590",
+          "author": "Scott DeVaney",
+          "description": "On March 11, 2020 the World Health Organization declared COVID-19 a global pandemic. Within days, practically the entire planet was on lockdown. We went indoors and online.  So how did the sudden mass migration online impact browser extension usage? Pretty dramatically, it turns out. On this two-year mark of the start of the pandemic we […]\nThe post The pandemic changed everything — even the way we use browser extensions appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/uncategorized/the-pandemic-changed-everything-even-the-way-we-use-browser-extensions/",
+          "publishedOn": "2022-03-10T23:05:37.000Z",
+          "wordCount": 1804,
+          "title": "The pandemic changed everything — even the way we use browser extensions",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2021/06/fx_blog_header_extensions_writing-1080x720.png"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=68542",
+          "author": "Mozilla",
+          "description": "Since the public launch of Firefox Relay, thousands of users have signed up for our smart, easy solution that hides your real email address to help protect your identity. Thank you all for your tremendous support for our Firefox Relay product. This signals a demand for people who want to preserve their privacy by limiting […]\nThe post Latest Firefox Relay includes bigger attachment size and filters for promotional emails appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/latest-firefox-relay-includes-bigger-attachment-size-and-filters-for-promotional-emails/",
+          "publishedOn": "2022-03-10T17:00:18.000Z",
+          "wordCount": 1168,
+          "title": "Latest Firefox Relay includes bigger attachment size and filters for promotional emails",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2020/06/fx_blog_header_firefox-relay-1080x720.png"
+        },
+        {
           "id": "https://blog.mozilla.org/?p=68516",
           "author": "Mozilla",
           "description": "Last month we created new Firefox desktop colorways celebrating Disney and Pixar’s “Turning Red” streaming only on Disney+ March 11 (subscription required. 18+ to subscribe). It’s a fun way to show your personality by changing the way your Firefox browser looks, with colors and moods inspired by some of the main characters in the film. […]\nThe post Disney and Pixar’s “Turning Red” movie Browser Wallpapers only available on Firefox for Android and iOS appeared first on The Mozilla Blog.",
@@ -879,15 +900,6 @@
           "publishedOn": "2022-01-10T18:00:53.000Z",
           "wordCount": 2012,
           "title": "Digital Checklist: How to Start 2022 Right"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=68200",
-          "author": "Mozilla",
-          "description": "Browser maker Mozilla today announced a partnership with The Markup, the non-profit newsroom that investigates how technology is reshaping society, on a research project to provide insights into and data about a space that’s opaque to policymakers, researchers and users themselves. By joining Mozilla and The Markup’s “Facebook Pixel Hunt” in Firefox, people can help […]\nThe post Mozilla partners with The Markup to launch Rally study into Facebook’s tracking and data collection practices appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/news/mozilla-themarkup-partner-rally-facebook-tracking-data-collection/",
-          "publishedOn": "2022-01-10T11:00:00.000Z",
-          "wordCount": 1383,
-          "title": "Mozilla partners with The Markup to launch Rally study into Facebook’s tracking and data collection practices"
         }
       ]
     },
@@ -896,6 +908,16 @@
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
+        {
+          "id": "https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/",
+          "author": null,
+          "description": "Hello! A couple of days I wrote about tiny personal programs, and I mentioned that\nit can be fun to use “secret” undocumented APIs where you need to copy your\ncookies out of the browser to get access to them.\nA couple of people asked how to do this, so I wanted to explain how because\nit’s pretty straightforward. We’ll also talk a tiny bit about what can go\nwrong, ethical issues, and how this applies to your undocumented APIs.\nAs an example, let’s use Google Hangouts. I’m picking this not because it’s the\nmost useful example (I think there’s an official API which would be much more\npractical to use), but because many sites where this is actually useful are\nsmaller sites that are more vulnerable to abuse. So we’re just going to use\nGoogle Hangouts because I’m 100% sure that the Google Hangou…",
+          "link": "https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/",
+          "publishedOn": "2022-03-10T09:03:51.000Z",
+          "wordCount": 1671,
+          "title": "How to use undocumented web APIs",
+          "imageUrl": null
+        },
         {
           "id": "https://jvns.ca/blog/2022/03/08/tiny-programs/",
           "author": null,

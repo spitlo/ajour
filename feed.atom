@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-03-10T00:24:38.051Z</updated>
+    <updated>2022-03-11T00:30:19.026Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The pandemic changed everything — even the way we use browser extensions]]></title>
+        <id>https://blog.mozilla.org/?p=68590</id>
+        <link href="https://blog.mozilla.org/en/uncategorized/the-pandemic-changed-everything-even-the-way-we-use-browser-extensions/"/>
+        <updated>2022-03-10T23:05:37.000Z</updated>
+        <summary type="html"><![CDATA[On March 11, 2020 the World Health Organization declared COVID-19 a global pandemic. Within days, practically the entire planet was on lockdown. We went indoors and online.  So how did the sudden mass migration online impact browser extension usage? Pretty dramatically, it turns out. On this two-year mark of the start of the pandemic we […]
+The post The pandemic changed everything — even the way we use browser extensions appeared first on The Mozilla Blog.]]></summary>
+        <author>
+            <name>Scott DeVaney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Latest Firefox Relay includes bigger attachment size and filters for promotional emails]]></title>
+        <id>https://blog.mozilla.org/?p=68542</id>
+        <link href="https://blog.mozilla.org/en/mozilla/latest-firefox-relay-includes-bigger-attachment-size-and-filters-for-promotional-emails/"/>
+        <updated>2022-03-10T17:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Since the public launch of Firefox Relay, thousands of users have signed up for our smart, easy solution that hides your real email address to help protect your identity. Thank you all for your tremendous support for our Firefox Relay product. This signals a demand for people who want to preserve their privacy by limiting […]
+The post Latest Firefox Relay includes bigger attachment size and filters for promotional emails appeared first on The Mozilla Blog.]]></summary>
+        <author>
+            <name>Mozilla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use undocumented web APIs]]></title>
+        <id>https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/</id>
+        <link href="https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/"/>
+        <updated>2022-03-10T09:03:51.000Z</updated>
+        <summary type="html"><![CDATA[Hello! A couple of days I wrote about tiny personal programs, and I mentioned that
+it can be fun to use “secret” undocumented APIs where you need to copy your
+cookies out of the browser to get access to them.
+A couple of people asked how to do this, so I wanted to explain how because
+it’s pretty straightforward. We’ll also talk a tiny bit about what can go
+wrong, ethical issues, and how this applies to your undocumented APIs.
+As an example, let’s use Google Hangouts. I’m picking this not because it’s the
+most useful example (I think there’s an official API which would be much more
+practical to use), but because many sites where this is actually useful are
+smaller sites that are more vulnerable to abuse. So we’re just going to use
+Google Hangouts because I’m 100% sure that the Google Hangou…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Toll signs on 101 report your transponder setting]]></title>
+        <id>https://rachelbythebay.com/w/2022/03/09/toll/</id>
+        <link href="https://rachelbythebay.com/w/2022/03/09/toll/"/>
+        <updated>2022-03-10T03:50:54.000Z</updated>
+        <summary type="html"><![CDATA[Here's a little bit of Silicon Valley local flavor for a change.  We 
+have this freeway that runs from San Jose to San Francisco called US 
+101, or around here, just "101".  (Southern California has it too, but 
+they call it "the" 101.  That's how we detect invaders.)  Anyway, this 
+thing is usually eight or more lanes up and down the peninsula, and it's 
+had a "diamond" or car pool lane on the #1 (innermost/"fast") lane for 
+many years.  You had to have a certain number of people in the car (or 
+some other conditions met) during certain hours (AM and PM rush, 
+weekdays), or you'd be in for a hefty ticket.
+
+
+How does the system know what to charge you?  Well, you either have an 
+old-style toll transponder that always bills you as a solo driver, or 
+you have a new-style transponder with a 1/2/3+ switch that tells the 
+road how to handle you.
+
+
+Think about what this does to enforcement.  Now, instead of just "is 
+there a vehicle in the lane", "is it the right time during a weekday", 
+and "how many people are in the car", now it's also a matter of "do they 
+have their transponder set properly".
+
+
+Check this out.
+
+
+
+CHP
+could roll up on them and give them a ticket.]]></summary>
+        <author>
+            <name>Writing - rachelbythebay</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Want to improve Developer Tools in Microsoft Edge? File an issue on Github]]></title>
         <id>https://christianheilmann.com/?p=7131</id>
@@ -1861,27 +1941,6 @@ The post Digital Checklist: How to Start 2022 Right appeared first on The Mozill
         <summary type="html"><![CDATA[Today's links Personnel are policy: The Dems may do something to materially improve voters' lives. Maybe. Podcasting "Science fiction is a Luddite Literature": My last pre-op podcast. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Personnel are policy (permalink) It's hard not to freak out, watching Biden get punked by Joe Manchin over Build Back Better. Manchin's transparent ruse – splitting the infrastructure bill from BBB – was obviously a prelude to a betrayal. Thanks to Dem leadership's foolish error, the party that holds the House, the Senate and the Oval Office will go into the mid-terms and the next presidential election having failed to deliver on the vast majority of their cam…]]></summary>
         <author>
             <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla partners with The Markup to launch Rally study into Facebook’s tracking and data collection practices]]></title>
-        <id>https://blog.mozilla.org/?p=68200</id>
-        <link href="https://blog.mozilla.org/en/mozilla/news/mozilla-themarkup-partner-rally-facebook-tracking-data-collection/"/>
-        <updated>2022-01-10T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Browser maker Mozilla today announced a partnership with The Markup, the non-profit newsroom that investigates how technology is reshaping society, on a research project to provide insights into and data about a space that’s opaque to policymakers, researchers and users themselves. By joining Mozilla and The Markup’s “Facebook Pixel Hunt” in Firefox, people can help […]
-The post Mozilla partners with The Markup to launch Rally study into Facebook’s tracking and data collection practices appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Mozilla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decorative Constants]]></title>
-        <id>https://xkcd.com/2566/</id>
-        <link href="https://xkcd.com/2566/"/>
-        <updated>2022-01-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/decorative_constants.png" title="Arguably, the '1/2' in the drag equation is purely decorative, since drag coefficients are already unitless and could just as easily be half as big. Some derivations give more justification for the extra 1/2 than others, but one textbook just calls it 'a traditional tribute to Euler and Bernoulli.'" alt="Arguably, the '1/2' in the drag equation is purely decorative, since drag coefficients are already unitless and could just as easily be half as big. Some derivations give more justification for the extra 1/2 than others, but one textbook just calls it 'a traditional tribute to Euler and Bernoulli.'" />]]></summary>
-        <author>
-            <name>xkcd.com</name>
         </author>
     </entry>
 </feed>
