@@ -199,6 +199,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2592/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/false_dichotomy.png\" title=\"There are two types of dichotomy: False dichotomies, true dichotomies, and surprise trichotomies.\" alt=\"There are two types of dichotomy: False dichotomies, true dichotomies, and surprise trichotomies.\" />",
+          "link": "https://xkcd.com/2592/",
+          "publishedOn": "2022-03-11T00:00:00.000Z",
+          "wordCount": 197,
+          "title": "False Dichotomy",
+          "imageUrl": "https://imgs.xkcd.com/comics/false_dichotomy_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2591/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/qua.png\" title=\"Qua qua qua is the sine qua non of sine qua non qua sine qua non.\" alt=\"Qua qua qua is the sine qua non of sine qua non qua sine qua non.\" />",
@@ -891,15 +901,6 @@
           "publishedOn": "2022-01-11T14:16:13.000Z",
           "wordCount": 1287,
           "title": "New Year, New Privacy Protection for Firefox Focus on Android"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=68219",
-          "author": "Lindsey Shepard",
-          "description": "For most, the New Year marks a time to reflect, reset and re-prioritize. While learning a new language, creating a budget or starting up a new hobby have become staples of our New Years’ Resolutions, as our lives increasingly shift online, it’s important we also use this opportunity to reassess our digital habits. Whether you […]\nThe post Digital Checklist: How to Start 2022 Right appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/uncategorized/digital-checklist-how-to-start-2022-right/",
-          "publishedOn": "2022-01-10T18:00:53.000Z",
-          "wordCount": 2012,
-          "title": "Digital Checklist: How to Start 2022 Right"
         }
       ]
     },
@@ -993,15 +994,6 @@
           "publishedOn": "2022-01-15T12:25:37.000Z",
           "wordCount": 1508,
           "title": "Some ways DNS can break"
-        },
-        {
-          "id": "https://jvns.ca/blog/2022/01/11/how-to-find-a-domain-s-authoritative-nameserver/",
-          "author": null,
-          "description": "Here’s a very quick “how to” post on how to find your domain’s authoritative\nnameserver.\nI’m writing this because if you made a DNS update and it didn’t work, there are 2 options:\nYour authoritative nameserver doesn’t have the correct record\nYour authoritative nameserver does have the correct record, but an old record is cached and you need to wait for the cache to expire\nTo be able to tell which one is happening (do you need to make a change, or do\nyou just need to wait?), you need to be able to find your domain’s\nauthoritative nameserver and query it to see what records it has.\nBut when I looked up “how to find a domain’s authoritative nameserver” to see\nwhat advice was out there, I found a lot of different methods being mentioned,\nsome of which can give you the wrong answer.\nSo let’s wa…",
-          "link": "https://jvns.ca/blog/2022/01/11/how-to-find-a-domain-s-authoritative-nameserver/",
-          "publishedOn": "2022-01-11T08:30:16.000Z",
-          "wordCount": 1299,
-          "title": "How to find a domain's authoritative nameservers"
         }
       ]
     },
@@ -1050,6 +1042,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=3282",
+          "author": "Cory Doctorow",
+          "description": "Today's links The SEC must not legitimize fake \"carbon offsets\": Net zero is not zero. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The SEC must not legitimize fake \"carbon offsets\" (permalink) Later this month, the SEC will release its \"climate disclosure rule,\" which could be a turning point for the carbon offset \"market,\" which is a presently a dumpster fire of accounting fraud, lies, and moral hazard: https://news.bloomberglaw.com/esg/green-groups-want-offsets-included-as-part-of-secs-climate-rule It's not clear whether the Commission will actually tackle offsets, and if they do, it's not clear whether they'll do so well. Certainly, the business …",
+          "link": "https://pluralistic.net/2022/03/11/a-market-for-flaming-lemons/",
+          "publishedOn": "2022-03-11T16:58:27.000Z",
+          "wordCount": 1952,
+          "title": "Pluralistic: 11 Mar 2022",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=3272",
           "author": "Cory Doctorow",
@@ -1413,20 +1415,6 @@
           "publishedOn": "2022-01-27T18:02:12.000Z",
           "wordCount": 2709,
           "title": "Pluralistic: 27 Jan 2022"
-        },
-        {
-          "id": "https://pluralistic.net/?p=3007",
-          "author": "Cory Doctorow",
-          "description": "Today's links Personnel are policy: The Dems may do something to materially improve voters' lives. Maybe. Podcasting \"Science fiction is a Luddite Literature\": My last pre-op podcast. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Personnel are policy (permalink) It's hard not to freak out, watching Biden get punked by Joe Manchin over Build Back Better. Manchin's transparent ruse – splitting the infrastructure bill from BBB – was obviously a prelude to a betrayal. Thanks to Dem leadership's foolish error, the party that holds the House, the Senate and the Oval Office will go into the mid-terms and the next presidential election having failed to deliver on the vast majority of their cam…",
-          "link": "https://pluralistic.net/2022/01/10/see-you-in-the-funny-papers/",
-          "publishedOn": "2022-01-10T16:16:36.000Z",
-          "wordCount": 2022,
-          "title": "Pluralistic: 10 Jan 2022",
-          "enclosure": {
-            "url": "https://ia801504.us.archive.org/27/items/Cory_Doctorow_Podcast_411/Cory_Doctorow_Podcast_411_-_Science_Fiction_is_a_Luddite_literature.mp3",
-            "length": "21667840",
-            "type": "audio/mpeg"
-          }
         }
       ]
     },

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-03-11T00:30:19.026Z</updated>
+    <updated>2022-03-12T00:25:23.497Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: 11 Mar 2022]]></title>
+        <id>https://pluralistic.net/?p=3282</id>
+        <link href="https://pluralistic.net/2022/03/11/a-market-for-flaming-lemons/"/>
+        <updated>2022-03-11T16:58:27.000Z</updated>
+        <summary type="html"><![CDATA[Today's links The SEC must not legitimize fake "carbon offsets": Net zero is not zero. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The SEC must not legitimize fake "carbon offsets" (permalink) Later this month, the SEC will release its "climate disclosure rule," which could be a turning point for the carbon offset "market," which is a presently a dumpster fire of accounting fraud, lies, and moral hazard: https://news.bloomberglaw.com/esg/green-groups-want-offsets-included-as-part-of-secs-climate-rule It's not clear whether the Commission will actually tackle offsets, and if they do, it's not clear whether they'll do so well. Certainly, the business …]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[False Dichotomy]]></title>
+        <id>https://xkcd.com/2592/</id>
+        <link href="https://xkcd.com/2592/"/>
+        <updated>2022-03-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/false_dichotomy.png" title="There are two types of dichotomy: False dichotomies, true dichotomies, and surprise trichotomies." alt="There are two types of dichotomy: False dichotomies, true dichotomies, and surprise trichotomies." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The pandemic changed everything — even the way we use browser extensions]]></title>
         <id>https://blog.mozilla.org/?p=68590</id>
@@ -1899,48 +1919,6 @@ The post New Year, New Privacy Protection for Firefox Focus on Android appeared 
         <summary type="html"><![CDATA[Have you ever noticed that gradients tend to look a little gray and washed-out in the middle? This happens because of a mathematical quirk with RGB colors. Fortunately, we can work around this quirk, and create beautiful, lush, saturated gradients.]]></summary>
         <author>
             <name>Josh W. Comeau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to find a domain's authoritative nameservers]]></title>
-        <id>https://jvns.ca/blog/2022/01/11/how-to-find-a-domain-s-authoritative-nameserver/</id>
-        <link href="https://jvns.ca/blog/2022/01/11/how-to-find-a-domain-s-authoritative-nameserver/"/>
-        <updated>2022-01-11T08:30:16.000Z</updated>
-        <summary type="html"><![CDATA[Here’s a very quick “how to” post on how to find your domain’s authoritative
-nameserver.
-I’m writing this because if you made a DNS update and it didn’t work, there are 2 options:
-Your authoritative nameserver doesn’t have the correct record
-Your authoritative nameserver does have the correct record, but an old record is cached and you need to wait for the cache to expire
-To be able to tell which one is happening (do you need to make a change, or do
-you just need to wait?), you need to be able to find your domain’s
-authoritative nameserver and query it to see what records it has.
-But when I looked up “how to find a domain’s authoritative nameserver” to see
-what advice was out there, I found a lot of different methods being mentioned,
-some of which can give you the wrong answer.
-So let’s wa…]]></summary>
-        <author>
-            <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Checklist: How to Start 2022 Right]]></title>
-        <id>https://blog.mozilla.org/?p=68219</id>
-        <link href="https://blog.mozilla.org/en/uncategorized/digital-checklist-how-to-start-2022-right/"/>
-        <updated>2022-01-10T18:00:53.000Z</updated>
-        <summary type="html"><![CDATA[For most, the New Year marks a time to reflect, reset and re-prioritize. While learning a new language, creating a budget or starting up a new hobby have become staples of our New Years’ Resolutions, as our lives increasingly shift online, it’s important we also use this opportunity to reassess our digital habits. Whether you […]
-The post Digital Checklist: How to Start 2022 Right appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Lindsey Shepard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 10 Jan 2022]]></title>
-        <id>https://pluralistic.net/?p=3007</id>
-        <link href="https://pluralistic.net/2022/01/10/see-you-in-the-funny-papers/"/>
-        <updated>2022-01-10T16:16:36.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Personnel are policy: The Dems may do something to materially improve voters' lives. Maybe. Podcasting "Science fiction is a Luddite Literature": My last pre-op podcast. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Personnel are policy (permalink) It's hard not to freak out, watching Biden get punked by Joe Manchin over Build Back Better. Manchin's transparent ruse – splitting the infrastructure bill from BBB – was obviously a prelude to a betrayal. Thanks to Dem leadership's foolish error, the party that holds the House, the Senate and the Oval Office will go into the mid-terms and the next presidential election having failed to deliver on the vast majority of their cam…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
         </author>
     </entry>
 </feed>
