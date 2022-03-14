@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-03-13T00:26:21.378Z</updated>
+    <updated>2022-03-14T00:29:49.912Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Celebrate tiny learning milestones]]></title>
+        <id>https://jvns.ca/blog/2022/03/13/celebrate-tiny-learning-milestones/</id>
+        <link href="https://jvns.ca/blog/2022/03/13/celebrate-tiny-learning-milestones/"/>
+        <updated>2022-03-13T09:27:58.000Z</updated>
+        <summary type="html"><![CDATA[Hello! Today I want to talk about – how do you know you’re getting better at programming?
+One obvious approach is:
+make goals
+periodically check if you achieved those goals
+if you did, celebrate
+I kind of hate goals
+Goals can be useful, but a lot of the time I actually find them stressful and
+not that helpful. For example, here are a few goals I wrote down for myself 9
+years ago:
+write a nontrivial amount of C code that works and is used by actual people
+contribute to an open source project in C
+learn C++
+9 years later, I have done 0 of those things. With the “goal” framing, it’s to
+think of this as a bad thing! Like, I wanted to learn C++ and I didn’t! I still
+can’t write C comfortably! Oh no! I guess I failed!
+I find this framing depressing and unhelpful. In reality, I didn’t have any re…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taking away the berries]]></title>
+        <id>https://rachelbythebay.com/w/2022/03/12/chow/</id>
+        <link href="https://rachelbythebay.com/w/2022/03/12/chow/"/>
+        <updated>2022-03-13T02:14:33.000Z</updated>
+        <summary type="html"><![CDATA[I sometimes write the beginnings of posts but don't post them.  I still 
+save them in case conditions change or other things happen and make me 
+want to follow up on the topic.  In this case, I wrote something about 
+offices before the whole COVID lockdown thing happened and people 
+largely stopped going to offices every day.  With that in mind, let's 
+proceed.
+
+
+However, tech companies decided to go past this at some point and 
+brought about this whole notion of "microkitchens".  This is where 
+they'd put their branding on the coolers (instead of "Coca-Cola" or 
+"Pepsi") and would load it up with every kind of fizzy sugary liquid 
+they could get their hands on.  They'd have racks and racks of shelving 
+packed with all sorts of interesting crunchy, sugary and carb-loaded 
+snacks.  They'd a…]]></summary>
+        <author>
+            <name>Writing - rachelbythebay</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pluralistic: 12 Mar 2022]]></title>
         <id>https://pluralistic.net/?p=3287</id>
@@ -24,6 +73,91 @@
         <summary type="html"><![CDATA[Today's links The SEC must not legitimize fake "carbon offsets": Net zero is not zero. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The SEC must not legitimize fake "carbon offsets" (permalink) Later this month, the SEC will release its "climate disclosure rule," which could be a turning point for the carbon offset "market," which is a presently a dumpster fire of accounting fraud, lies, and moral hazard: https://news.bloomberglaw.com/esg/green-groups-want-offsets-included-as-part-of-secs-climate-rule It's not clear whether the Commission will actually tackle offsets, and if they do, it's not clear whether they'll do so well. Certainly, the business …]]></summary>
         <author>
             <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking at the outlying data points]]></title>
+        <id>https://rachelbythebay.com/w/2021/10/13/temp/</id>
+        <link href="https://rachelbythebay.com/w/2021/10/13/temp/"/>
+        <updated>2022-03-11T07:04:12.000Z</updated>
+        <summary type="html"><![CDATA[One of the fun things I used to do at a prior job was to dig through the 
+raw data points which were collected from the *many* servers we had.  I 
+could just pick an interesting-sounding metric and then would just ask 
+the system to show me the top 10 or bottom 10 out of a population of 
+thousands or more.
+
+
+To get my feet wet with the whole "investigations" thing that we'd do, I 
+started looking into this one day and chose one of the many temp sensors 
+which were being logged by the servers.  I forget exactly which one it 
+was, for there were many.  The CPUs logged it, the chassis logged it, 
+the power supply logged it, and so on.  There were so many choices.
+
+
+I went looking for a reason.  What could possibly explain this?  First 
+off, it didn't line up with any obvious pattern in the host names.  The 
+hosts were named for whichever team owned them, followed by a sequence 
+number that was bumped any time a new one was provisioned.  There was no 
+signal to be found in that.
+
+
+There was more, though.  You could also see a "rack position" in this 
+data, and now it started getting interesting.  It seems that all of the 
+really hot machines had a rack position of something low, like 04 or 05, 
+and never anything higher than that.  In fact, when looking at a whole 
+rack, it was always the lowest number of all of the positions that were 
+being used.  Now this was worth chasing!
+
+
+It's good that I asked, since they told me something surprising: 
+position 04 or 05 or whatever was the *bottom* of the rack.  Yes, 
+somehow, the lowest machine in the rack was the hottest!  They found 
+this interesting, too, and wound up digging into it.  Given that I was 
+far away in a distant office, this was the best way for us to proceed.
+
+
+The problem was that the bottommost server would have nothing below it 
+but just open space until it got to the floor.  That space would not 
+move air efficiently, and it obviously mattered.
+
+
+This rolled out and my hot spots disappeared.  Fantastic!]]></summary>
+        <author>
+            <name>Writing - rachelbythebay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Questions about construction trucks on train tracks]]></title>
+        <id>https://rachelbythebay.com/w/2022/03/10/caltrain/</id>
+        <link href="https://rachelbythebay.com/w/2022/03/10/caltrain/"/>
+        <updated>2022-03-11T01:26:06.000Z</updated>
+        <summary type="html"><![CDATA[Another day, another bit of local flavor, but this time it's something I 
+wish I didn't have to write about.
+
+wrote
+about seeing a maintenance truck rolling down the Caltrain line in 
+Mountain View.  It had a special attachment to let it stay on the rails.  
+At no point did the arms come down for the crossing.  It managed to 
+approach, then the people inside looked around and went through, and the 
+arms never budged.  There were no flashing lights or bells.
+
+
+
+
+caught fire.  A bunch of people were hurt.  More were shaken 
+up.
+
+
+I'm assuming their construction trucks don't trigger the "short the 
+rails together to signal various things" logic, either.  This would 
+mean that crossing arms stay up... and I have to assume it also means 
+the signals along the way stay green instead of going red.
+
+We will presumably hear more about whatever the signals said, and 
+whether the train went past a red signal or not.  I just have a bad 
+feeling that they saw a green and kept on going.]]></summary>
+        <author>
+            <name>Writing - rachelbythebay</name>
         </author>
     </entry>
     <entry>
@@ -1857,26 +1991,6 @@ Your network requests are a little bit slower than expected, and it’s actually
         <summary type="html"><![CDATA[Klara and the Sun]]></summary>
         <author>
             <name>remy sharp's b:log</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turning a GitHub page into a Progressive Web App]]></title>
-        <id>https://christianheilmann.com/?p=7077</id>
-        <link href="https://christianheilmann.com/2022/01/13/turning-a-github-page-into-a-progressive-web-app/"/>
-        <updated>2022-01-13T10:06:14.000Z</updated>
-        <summary type="html"><![CDATA[I just released my dice simulator app and in doing so learned about a few things about turning a GitHub Page into a PWA. To make this easier for subsequent projects, I put together a bare-bones template to turn any GitHub page into a PWA. Nothing in there is sophisticated and all it does is […]]]></summary>
-        <author>
-            <name>Chris Heilmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There oughta be GTA5 for the Game Boy.]]></title>
-        <id>https://there.oughta.be/gta5-for-the-game-boy</id>
-        <link href="https://there.oughta.be/gta5-for-the-game-boy"/>
-        <updated>2022-01-12T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When I presented my WiFi Game Boy cartridge a few weeks ago, I only had very few simple text-based demos. This post and especially the accompanying video now deliver more. In fact, I might have gone a bit too far, as I managed to stream full resolution video and even play games via WiFi. But see for yourself: Click the image to see the video on youtube.com. So, as usual, you have two alternatives to start here: Watch the video or read the article. If you are just curious and want to see what I did, definitely check out the video. If you want to understand exactly how it works and if you want to reproduce it or find tricks for your own projects, go for the article and the linked code. In any case, if you have not seen the previous article and/or video on the cartridge itself, you should start there.]]></summary>
-        <author>
-            <name>there.oughta.be/</name>
         </author>
     </entry>
 </feed>

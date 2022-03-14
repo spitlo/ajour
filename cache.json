@@ -64,15 +64,6 @@
           "publishedOn": "2022-01-18T13:10:39.000Z",
           "wordCount": 646,
           "title": "Podcast recording: Development tools in the expert’s eye with Chris Heilmann"
-        },
-        {
-          "id": "https://christianheilmann.com/?p=7077",
-          "author": "Chris Heilmann",
-          "description": "I just released my dice simulator app and in doing so learned about a few things about turning a GitHub Page into a PWA. To make this easier for subsequent projects, I put together a bare-bones template to turn any GitHub page into a PWA. Nothing in there is sophisticated and all it does is […]",
-          "link": "https://christianheilmann.com/2022/01/13/turning-a-github-page-into-a-progressive-web-app/",
-          "publishedOn": "2022-01-13T10:06:14.000Z",
-          "wordCount": 1019,
-          "title": "Turning a GitHub page into a Progressive Web App"
         }
       ]
     },
@@ -121,15 +112,6 @@
           "publishedOn": "2022-01-27T23:00:00.000Z",
           "wordCount": 101,
           "title": "There oughta be a Live Q&amp;A about the WiFi Game Boy Cartridge."
-        },
-        {
-          "id": "https://there.oughta.be/gta5-for-the-game-boy",
-          "author": null,
-          "description": "When I presented my WiFi Game Boy cartridge a few weeks ago, I only had very few simple text-based demos. This post and especially the accompanying video now deliver more. In fact, I might have gone a bit too far, as I managed to stream full resolution video and even play games via WiFi. But see for yourself: Click the image to see the video on youtube.com. So, as usual, you have two alternatives to start here: Watch the video or read the article. If you are just curious and want to see what I did, definitely check out the video. If you want to understand exactly how it works and if you want to reproduce it or find tricks for your own projects, go for the article and the linked code. In any case, if you have not seen the previous article and/or video on the cartridge itself, you should start there.",
-          "link": "https://there.oughta.be/gta5-for-the-game-boy",
-          "publishedOn": "2022-01-12T23:00:00.000Z",
-          "wordCount": 3347,
-          "title": "There oughta be GTA5 for the Game Boy."
         }
       ]
     },
@@ -486,6 +468,36 @@
       "feedUrl": "https://rachelbythebay.com/w/atom.xml",
       "siteUrl": "https://rachelbythebay.com/w/",
       "articles": [
+        {
+          "id": "https://rachelbythebay.com/w/2022/03/12/chow/",
+          "author": null,
+          "description": "I sometimes write the beginnings of posts but don't post them.  I still \nsave them in case conditions change or other things happen and make me \nwant to follow up on the topic.  In this case, I wrote something about \noffices before the whole COVID lockdown thing happened and people \nlargely stopped going to offices every day.  With that in mind, let's \nproceed.\n\n\nHowever, tech companies decided to go past this at some point and \nbrought about this whole notion of \"microkitchens\".  This is where \nthey'd put their branding on the coolers (instead of \"Coca-Cola\" or \n\"Pepsi\") and would load it up with every kind of fizzy sugary liquid \nthey could get their hands on.  They'd have racks and racks of shelving \npacked with all sorts of interesting crunchy, sugary and carb-loaded \nsnacks.  They'd a…",
+          "link": "https://rachelbythebay.com/w/2022/03/12/chow/",
+          "publishedOn": "2022-03-13T02:14:33.000Z",
+          "wordCount": 932,
+          "title": "Taking away the berries",
+          "imageUrl": null
+        },
+        {
+          "id": "https://rachelbythebay.com/w/2021/10/13/temp/",
+          "author": null,
+          "description": "One of the fun things I used to do at a prior job was to dig through the \nraw data points which were collected from the *many* servers we had.  I \ncould just pick an interesting-sounding metric and then would just ask \nthe system to show me the top 10 or bottom 10 out of a population of \nthousands or more.\n\n\nTo get my feet wet with the whole \"investigations\" thing that we'd do, I \nstarted looking into this one day and chose one of the many temp sensors \nwhich were being logged by the servers.  I forget exactly which one it \nwas, for there were many.  The CPUs logged it, the chassis logged it, \nthe power supply logged it, and so on.  There were so many choices.\n\n\nI went looking for a reason.  What could possibly explain this?  First \noff, it didn't line up with any obvious pattern in the host names.  The \nhosts were named for whichever team owned them, followed by a sequence \nnumber that was bumped any time a new one was provisioned.  There was no \nsignal to be found in that.\n\n\nThere was more, though.  You could also see a \"rack position\" in this \ndata, and now it started getting interesting.  It seems that all of the \nreally hot machines had a rack position of something low, like 04 or 05, \nand never anything higher than that.  In fact, when looking at a whole \nrack, it was always the lowest number of all of the positions that were \nbeing used.  Now this was worth chasing!\n\n\nIt's good that I asked, since they told me something surprising: \nposition 04 or 05 or whatever was the *bottom* of the rack.  Yes, \nsomehow, the lowest machine in the rack was the hottest!  They found \nthis interesting, too, and wound up digging into it.  Given that I was \nfar away in a distant office, this was the best way for us to proceed.\n\n\nThe problem was that the bottommost server would have nothing below it \nbut just open space until it got to the floor.  That space would not \nmove air efficiently, and it obviously mattered.\n\n\nThis rolled out and my hot spots disappeared.  Fantastic!",
+          "link": "https://rachelbythebay.com/w/2021/10/13/temp/",
+          "publishedOn": "2022-03-11T07:04:12.000Z",
+          "wordCount": 839,
+          "title": "Looking at the outlying data points",
+          "imageUrl": null
+        },
+        {
+          "id": "https://rachelbythebay.com/w/2022/03/10/caltrain/",
+          "author": null,
+          "description": "Another day, another bit of local flavor, but this time it's something I \nwish I didn't have to write about.\n\nwrote\nabout seeing a maintenance truck rolling down the Caltrain line in \nMountain View.  It had a special attachment to let it stay on the rails.  \nAt no point did the arms come down for the crossing.  It managed to \napproach, then the people inside looked around and went through, and the \narms never budged.  There were no flashing lights or bells.\n\n\n\n\ncaught fire.  A bunch of people were hurt.  More were shaken \nup.\n\n\nI'm assuming their construction trucks don't trigger the \"short the \nrails together to signal various things\" logic, either.  This would \nmean that crossing arms stay up... and I have to assume it also means \nthe signals along the way stay green instead of going red.\n\nWe will presumably hear more about whatever the signals said, and \nwhether the train went past a red signal or not.  I just have a bad \nfeeling that they saw a green and kept on going.",
+          "link": "https://rachelbythebay.com/w/2022/03/10/caltrain/",
+          "publishedOn": "2022-03-11T01:26:06.000Z",
+          "wordCount": 306,
+          "title": "Questions about construction trucks on train tracks",
+          "imageUrl": null
+        },
         {
           "id": "https://rachelbythebay.com/w/2022/03/09/toll/",
           "author": null,
@@ -873,6 +885,16 @@
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
+        {
+          "id": "https://jvns.ca/blog/2022/03/13/celebrate-tiny-learning-milestones/",
+          "author": null,
+          "description": "Hello! Today I want to talk about – how do you know you’re getting better at programming?\nOne obvious approach is:\nmake goals\nperiodically check if you achieved those goals\nif you did, celebrate\nI kind of hate goals\nGoals can be useful, but a lot of the time I actually find them stressful and\nnot that helpful. For example, here are a few goals I wrote down for myself 9\nyears ago:\nwrite a nontrivial amount of C code that works and is used by actual people\ncontribute to an open source project in C\nlearn C++\n9 years later, I have done 0 of those things. With the “goal” framing, it’s to\nthink of this as a bad thing! Like, I wanted to learn C++ and I didn’t! I still\ncan’t write C comfortably! Oh no! I guess I failed!\nI find this framing depressing and unhelpful. In reality, I didn’t have any re…",
+          "link": "https://jvns.ca/blog/2022/03/13/celebrate-tiny-learning-milestones/",
+          "publishedOn": "2022-03-13T09:27:58.000Z",
+          "wordCount": 829,
+          "title": "Celebrate tiny learning milestones",
+          "imageUrl": null
+        },
         {
           "id": "https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/",
           "author": null,
