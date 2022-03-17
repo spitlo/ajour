@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-03-16T00:26:18.791Z</updated>
+    <updated>2022-03-17T00:26:20.410Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: 16 Mar 2022]]></title>
+        <id>https://pluralistic.net/?p=3312</id>
+        <link href="https://pluralistic.net/2022/03/16/mightier-than-the-sword/"/>
+        <updated>2022-03-16T14:40:12.000Z</updated>
+        <summary type="html"><![CDATA[Today's links The role of prose quality in scholarship: Better-edited papers fare better in peer-reviewed journals. Hey look at this: Delights to delectate. This day in history: 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The role of prose quality in scholarship (permalink) The dominant language of science and scholarship is English, and yet native English speakers do not have a monopoly on scientific and scholarly insights. Some non-native English speakers believe this puts them at a disadvantage when it comes to acceptance in peer-reviewed journals and citations, and pay language editors to improve their prose. But is it worth it? Does improving the quality of prose improve the perceived quality of scholarship, an…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Consensus Time]]></title>
+        <id>https://xkcd.com/2594/</id>
+        <link href="https://xkcd.com/2594/"/>
+        <updated>2022-03-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/consensus_time.png" title="Now, you may argue that the varying hour lengths and feedback effects would cause chaos. To which I say, yeah, and I'm also curious to see how the weekday cycle interacts with it! So, you in?" alt="Now, you may argue that the varying hour lengths and feedback effects would cause chaos. To which I say, yeah, and I'm also curious to see how the weekday cycle interacts with it! So, you in?" />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mid-March Link Assortment]]></title>
         <id>http://emshort.blog/?p=42635</id>
@@ -1997,40 +2017,6 @@ Source: brutalita.com]]></summary>
         <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/hypothesis_generation.png" title="Frazzled scientists are requesting that everyone please stop generating hypotheses for a little bit while they work through the backlog." alt="Frazzled scientists are requesting that everyone please stop generating hypotheses for a little bit while they work through the backlog." />]]></summary>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mid-January Link Assortment]]></title>
-        <id>http://emshort.blog/?p=42577</id>
-        <link href="https://emshort.blog/2022/01/15/mid-january-link-assortment-6/"/>
-        <updated>2022-01-15T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Events Feb 5 is the next meeting of the SF Bay IF Meetup. If you wish to enter Spring Thing this year with a new work of interactive fiction, you have until March 1 to submit your intent to enter, and March 31 to complete your game. Releases chiaroscuro is a short, low-fantasy IF novella … Continue reading "Mid-January Link Assortment"]]></summary>
-        <author>
-            <name>Emily Short</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some ways DNS can break]]></title>
-        <id>https://jvns.ca/blog/2022/01/15/some-ways-dns-can-break/</id>
-        <link href="https://jvns.ca/blog/2022/01/15/some-ways-dns-can-break/"/>
-        <updated>2022-01-15T12:25:37.000Z</updated>
-        <summary type="html"><![CDATA[When I first learned about it, DNS didn’t seem like it should be THAT
-complicated. Like, there are DNS records, they’re stored on a server, what’s
-the big deal?
-But with DNS, reading about how it works in a textbook doesn’t prepare you for
-the sheer volume of different ways DNS can break your system in practice. It’s
-not just caching problems!
-So I asked people on Twitter for
-example of DNS problems they’ve run into, especially DNS problems that didn’t
-initially appear to be DNS problems. (the popular “it’s always DNS” meme)
-I’m not going to discuss how to solve or avoid any of these problems in this
-post, but I’ve linked to webpages discussing the problem where I could find
-them.
-problem: slow network requests
-Your network requests are a little bit slower than expected, and it’s actually
-…]]></summary>
-        <author>
-            <name>Julia Evans</name>
         </author>
     </entry>
 </feed>

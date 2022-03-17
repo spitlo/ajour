@@ -174,15 +174,6 @@
           "publishedOn": "2022-01-31T23:59:00.000Z",
           "wordCount": 1678,
           "title": "End of January Link Assortment"
-        },
-        {
-          "id": "http://emshort.blog/?p=42577",
-          "author": "Emily Short",
-          "description": "Events Feb 5 is the next meeting of the SF Bay IF Meetup. If you wish to enter Spring Thing this year with a new work of interactive fiction, you have until March 1 to submit your intent to enter, and March 31 to complete your game. Releases chiaroscuro is a short, low-fantasy IF novella … Continue reading \"Mid-January Link Assortment\"",
-          "link": "https://emshort.blog/2022/01/15/mid-january-link-assortment-6/",
-          "publishedOn": "2022-01-15T17:30:00.000Z",
-          "wordCount": 1434,
-          "title": "Mid-January Link Assortment"
         }
       ]
     },
@@ -191,6 +182,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2594/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/consensus_time.png\" title=\"Now, you may argue that the varying hour lengths and feedback effects would cause chaos. To which I say, yeah, and I'm also curious to see how the weekday cycle interacts with it! So, you in?\" alt=\"Now, you may argue that the varying hour lengths and feedback effects would cause chaos. To which I say, yeah, and I'm also curious to see how the weekday cycle interacts with it! So, you in?\" />",
+          "link": "https://xkcd.com/2594/",
+          "publishedOn": "2022-03-16T00:00:00.000Z",
+          "wordCount": 197,
+          "title": "Consensus Time",
+          "imageUrl": "https://imgs.xkcd.com/comics/consensus_time_2x.png"
+        },
         {
           "id": "https://xkcd.com/2593/",
           "author": null,
@@ -983,15 +984,6 @@
           "publishedOn": "2022-01-24T07:59:19.000Z",
           "wordCount": 1666,
           "title": "Hosting my static sites with nginx"
-        },
-        {
-          "id": "https://jvns.ca/blog/2022/01/15/some-ways-dns-can-break/",
-          "author": null,
-          "description": "When I first learned about it, DNS didn’t seem like it should be THAT\ncomplicated. Like, there are DNS records, they’re stored on a server, what’s\nthe big deal?\nBut with DNS, reading about how it works in a textbook doesn’t prepare you for\nthe sheer volume of different ways DNS can break your system in practice. It’s\nnot just caching problems!\nSo I asked people on Twitter for\nexample of DNS problems they’ve run into, especially DNS problems that didn’t\ninitially appear to be DNS problems. (the popular “it’s always DNS” meme)\nI’m not going to discuss how to solve or avoid any of these problems in this\npost, but I’ve linked to webpages discussing the problem where I could find\nthem.\nproblem: slow network requests\nYour network requests are a little bit slower than expected, and it’s actually\n…",
-          "link": "https://jvns.ca/blog/2022/01/15/some-ways-dns-can-break/",
-          "publishedOn": "2022-01-15T12:25:37.000Z",
-          "wordCount": 1508,
-          "title": "Some ways DNS can break"
         }
       ]
     },
@@ -1041,6 +1033,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=3312",
+          "author": "Cory Doctorow",
+          "description": "Today's links The role of prose quality in scholarship: Better-edited papers fare better in peer-reviewed journals. Hey look at this: Delights to delectate. This day in history: 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The role of prose quality in scholarship (permalink) The dominant language of science and scholarship is English, and yet native English speakers do not have a monopoly on scientific and scholarly insights. Some non-native English speakers believe this puts them at a disadvantage when it comes to acceptance in peer-reviewed journals and citations, and pay language editors to improve their prose. But is it worth it? Does improving the quality of prose improve the perceived quality of scholarship, an…",
+          "link": "https://pluralistic.net/2022/03/16/mightier-than-the-sword/",
+          "publishedOn": "2022-03-16T14:40:12.000Z",
+          "wordCount": 1526,
+          "title": "Pluralistic: 16 Mar 2022",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=3301",
           "author": "Cory Doctorow",
