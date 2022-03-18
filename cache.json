@@ -6,6 +6,16 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=7164",
+          "author": "Chris Heilmann",
+          "description": "Back in January, I posted about a launch.json file to turn VS code into an end-to-end web debugging environment. One of the features people told me was missing was to start and stop a server with the debugging session. So here is how to do this. We add two more lines to the existing `launch.json`, […]",
+          "link": "https://christianheilmann.com/2022/03/17/automatically-starting-a-server-when-starting-a-debug-session-in-vs-code/",
+          "publishedOn": "2022-03-17T11:06:48.000Z",
+          "wordCount": 852,
+          "title": "Automatically starting a server when starting a debug session in VS Code",
+          "imageUrl": null
+        },
+        {
           "id": "https://christianheilmann.com/?p=7136",
           "author": "Chris Heilmann",
           "description": "I like noise cancelling headphones. Using them, I can sleep better on planes and find much more detail in music I enjoy. In the office, they are a visual clue that I am currently unavailable for feedback as I want to concentrate on a task at hand. We live in times of a constant information […]",
@@ -420,15 +430,6 @@
           "publishedOn": "2022-01-19T00:00:00.000Z",
           "wordCount": 196,
           "title": "Captain Picard Tea Order"
-        },
-        {
-          "id": "https://xkcd.com/2569/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/hypothesis_generation.png\" title=\"Frazzled scientists are requesting that everyone please stop generating hypotheses for a little bit while they work through the backlog.\" alt=\"Frazzled scientists are requesting that everyone please stop generating hypotheses for a little bit while they work through the backlog.\" />",
-          "link": "https://xkcd.com/2569/",
-          "publishedOn": "2022-01-17T00:00:00.000Z",
-          "wordCount": 192,
-          "title": "Hypothesis Generation"
         }
       ]
     },
@@ -481,6 +482,36 @@
       "feedUrl": "https://rachelbythebay.com/w/atom.xml",
       "siteUrl": "https://rachelbythebay.com/w/",
       "articles": [
+        {
+          "id": "https://rachelbythebay.com/w/2022/03/17/macedit/",
+          "author": null,
+          "description": "Cutting to the chase: text editors *and* tabs vs. spaces!  Ooooh!\n\n\nI've had this thing called \"e\" for a while now.  It's a stupid little \nscript which serves to do a couple of things.  It starts my \neditor\nwith a given file, and it kicks it with the right arguments to make it \ndisable line wrapping and to make the [TAB] key actually put in two \nspaces.\n\n\nSo, my dumb script would use \"-w -E -T 2\" most of the time, except when it \nwas running on a Makefile, at which point it would skip those args.  \nSimple enough, right?\n\n\npico is back?  Yes indeed, on Macs, as of 12.3, pico is in fact back.  To \nmake sure I wasn't imagining things, I tracked down a machine that hadn't \nbeen upgraded yet and checked there.  Sure enough, it was in fact nano and \nnot pico.\n\n\nmacOS 12.3 has nano as a symlink... pointing to pico!\n\n\nAt some point, I switched from literal tab characters in my source code to \nblobs of spaces, probably due to using that style at work and not hating \nit.  So, somewhere along the line I actually started depending on nano \nbehavior without realizing it.\n\n\nAs for the lack of a feature in pico itself, it's kind of strange, really.  \nIf you go digging into the source, they have this random.c with a function \ncalled tab which claims to \"simulate tab stop\" using spaces.  That said, I \ncan't find any place where it would be called with the magic values which \nwould make it behave that way.\n\n\nIt wouldn't surprise me if this switch is just more of Apple removing \nGPLed things from their OS - pico seems to use the Apache license.  They \ndumped bash for zsh (MIT license) at some point (Big Sur, I think), and \nnow this?  Okay then.",
+          "link": "https://rachelbythebay.com/w/2022/03/17/macedit/",
+          "publishedOn": "2022-03-17T23:56:56.000Z",
+          "wordCount": 708,
+          "title": "Discussing two \"holy war\" topics at the same time",
+          "imageUrl": null
+        },
+        {
+          "id": "https://rachelbythebay.com/w/2022/03/15/link/",
+          "author": null,
+          "description": "Here's a very old and stupid trick you could do with some filesystems in \nsome situations back in the day... and might still be able to do in a \nfew places today.\n\n\nThe problem is that while version X might eventually have an exploit, \nit'll get removed and it'll be replaced by version Y without that\nparticular hole.  By the time you get your hands on a tool to break into \nX, it'll be gone.\n\n\nWhat you'd do is create a hard link pointing at the file you wanted to \npreserve, storing it in a spot which was writable by your account.  \nThen, say, /usr/bin/sudo (because that never has security \nissues...) gets replaced at some point with a new file and you get to \nkeep the old version.  When you get the tool to pop it, off you go!\n\n\nOf course, these days, it's not quite so easy on the more modern systems \nyou find.  Debian 11 here won't let me do it - it's EPERM city.  Rocky 8 \n(so CentOS 8 and RHEL 8 too) also won't do it.  They both have some gunk\nin /usr/lib/sysctl.d to lock this down.  But, my old Slackware 14.2 \ninstall of my workstation let me do it the last time I tried about \na year ago.  How about that, huh?  I bet it'd still work if I dug out \nthe old drives and booted them up.\n\n\nIncidentally, this is the magic sauce: /proc/sys/fs/protected_hardlinks\nRead the man page for proc(5) to learn more about it.\n\nhere it is,\nthe thread I read a long time ago.  It's interesting to note that as far \nas I can tell, nothing actually changed upstream.  This left paranoid \nadmins like me with no option but to use the (most excellent) Openwall \npatches to lock down this kind of stuff.  I used that on my machines at \nwork which had non-staff users... just in case.\n\n\nThis whole situation is scary.  \nRead more about it.",
+          "link": "https://rachelbythebay.com/w/2022/03/15/link/",
+          "publishedOn": "2022-03-16T01:51:07.000Z",
+          "wordCount": 640,
+          "title": "Dumb things you can sometimes do with hard links",
+          "imageUrl": null
+        },
+        {
+          "id": "https://rachelbythebay.com/w/2022/03/14/modems/",
+          "author": null,
+          "description": "Back in January, you might have seen my\npost\nabout a very large BBS which seemed to solve for the problem of \"how do \nwe host a bunch of users\" by having one physical box per user.  It might \nhave been one physical box per *two* users, maybe, but it's hard to say.\n\n\nNow, keep in mind digital cameras weren't easy to come by, so I have \nvery few actual pictures.  I'll have to do a lot of explaining to make \nup for the lack of detail and alternate angles.  Clearly, I had no \nnotion of ever using these pictures to tell stories 25+ years later.\n\n\nSome friends at a local company had some bandwidth to spare (a T1 to \nAlternet somewhere, as I recall), so they parked a Zoom modem on one of \ntheir boxes and plugged it into a phone line.  We got an identical model \nto avoid cross-brand issues (Zoom m…",
+          "link": "https://rachelbythebay.com/w/2022/03/14/modems/",
+          "publishedOn": "2022-03-14T23:17:57.000Z",
+          "wordCount": 2059,
+          "title": "More stories about stacks of modems",
+          "imageUrl": null
+        },
         {
           "id": "https://rachelbythebay.com/w/2022/03/12/chow/",
           "author": null,
@@ -1033,6 +1064,21 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=3317",
+          "author": "Cory Doctorow",
+          "description": "Today's links Late stage capitalism is weird capitalism: A planned economy run by Blackrock, Vanguard and State Street. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Late stage capitalism is weird capitalism (permalink) We are living in an era of extremely weird capitalism. American capitalism is usually described as a system in which top managers are rewarded with stock options, which incentivizes them to maximize returns to shareholders, who are so dispersed that they struggle to control companies by voting their stock. The potted history of this system goes like this: Gilded Age robber barons were horizontal tyrants, monopolizing single industries.…",
+          "link": "https://pluralistic.net/2022/03/17/shareholder-socialism/",
+          "publishedOn": "2022-03-17T18:12:32.000Z",
+          "wordCount": 2935,
+          "title": "Pluralistic: 17 Mar 2022",
+          "enclosure": {
+            "url": "https://craphound.com/audio/Doctorow%20-%20Down%20and%20Out%20in%20the%20Magic%20Kingdom%20-%20Chapter%206%20-%20SXSW%202002.mp3",
+            "length": "6100438",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=3312",
           "author": "Cory Doctorow",

@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-03-17T00:26:20.410Z</updated>
+    <updated>2022-03-18T00:27:02.930Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Discussing two "holy war" topics at the same time]]></title>
+        <id>https://rachelbythebay.com/w/2022/03/17/macedit/</id>
+        <link href="https://rachelbythebay.com/w/2022/03/17/macedit/"/>
+        <updated>2022-03-17T23:56:56.000Z</updated>
+        <summary type="html"><![CDATA[Cutting to the chase: text editors *and* tabs vs. spaces!  Ooooh!
+
+
+I've had this thing called "e" for a while now.  It's a stupid little 
+script which serves to do a couple of things.  It starts my 
+editor
+with a given file, and it kicks it with the right arguments to make it 
+disable line wrapping and to make the [TAB] key actually put in two 
+spaces.
+
+
+So, my dumb script would use "-w -E -T 2" most of the time, except when it 
+was running on a Makefile, at which point it would skip those args.  
+Simple enough, right?
+
+
+pico is back?  Yes indeed, on Macs, as of 12.3, pico is in fact back.  To 
+make sure I wasn't imagining things, I tracked down a machine that hadn't 
+been upgraded yet and checked there.  Sure enough, it was in fact nano and 
+not pico.
+
+
+macOS 12.3 has nano as a symlink... pointing to pico!
+
+
+At some point, I switched from literal tab characters in my source code to 
+blobs of spaces, probably due to using that style at work and not hating 
+it.  So, somewhere along the line I actually started depending on nano 
+behavior without realizing it.
+
+
+As for the lack of a feature in pico itself, it's kind of strange, really.  
+If you go digging into the source, they have this random.c with a function 
+called tab which claims to "simulate tab stop" using spaces.  That said, I 
+can't find any place where it would be called with the magic values which 
+would make it behave that way.
+
+
+It wouldn't surprise me if this switch is just more of Apple removing 
+GPLed things from their OS - pico seems to use the Apache license.  They 
+dumped bash for zsh (MIT license) at some point (Big Sur, I think), and 
+now this?  Okay then.]]></summary>
+        <author>
+            <name>Writing - rachelbythebay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: 17 Mar 2022]]></title>
+        <id>https://pluralistic.net/?p=3317</id>
+        <link href="https://pluralistic.net/2022/03/17/shareholder-socialism/"/>
+        <updated>2022-03-17T18:12:32.000Z</updated>
+        <summary type="html"><![CDATA[Today's links Late stage capitalism is weird capitalism: A planned economy run by Blackrock, Vanguard and State Street. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Late stage capitalism is weird capitalism (permalink) We are living in an era of extremely weird capitalism. American capitalism is usually described as a system in which top managers are rewarded with stock options, which incentivizes them to maximize returns to shareholders, who are so dispersed that they struggle to control companies by voting their stock. The potted history of this system goes like this: Gilded Age robber barons were horizontal tyrants, monopolizing single industries.…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automatically starting a server when starting a debug session in VS Code]]></title>
+        <id>https://christianheilmann.com/?p=7164</id>
+        <link href="https://christianheilmann.com/2022/03/17/automatically-starting-a-server-when-starting-a-debug-session-in-vs-code/"/>
+        <updated>2022-03-17T11:06:48.000Z</updated>
+        <summary type="html"><![CDATA[Back in January, I posted about a launch.json file to turn VS code into an end-to-end web debugging environment. One of the features people told me was missing was to start and stop a server with the debugging session. So here is how to do this. We add two more lines to the existing `launch.json`, […]]]></summary>
+        <author>
+            <name>Chris Heilmann</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pluralistic: 16 Mar 2022]]></title>
         <id>https://pluralistic.net/?p=3312</id>
@@ -14,6 +85,55 @@
         <summary type="html"><![CDATA[Today's links The role of prose quality in scholarship: Better-edited papers fare better in peer-reviewed journals. Hey look at this: Delights to delectate. This day in history: 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The role of prose quality in scholarship (permalink) The dominant language of science and scholarship is English, and yet native English speakers do not have a monopoly on scientific and scholarly insights. Some non-native English speakers believe this puts them at a disadvantage when it comes to acceptance in peer-reviewed journals and citations, and pay language editors to improve their prose. But is it worth it? Does improving the quality of prose improve the perceived quality of scholarship, an…]]></summary>
         <author>
             <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dumb things you can sometimes do with hard links]]></title>
+        <id>https://rachelbythebay.com/w/2022/03/15/link/</id>
+        <link href="https://rachelbythebay.com/w/2022/03/15/link/"/>
+        <updated>2022-03-16T01:51:07.000Z</updated>
+        <summary type="html"><![CDATA[Here's a very old and stupid trick you could do with some filesystems in 
+some situations back in the day... and might still be able to do in a 
+few places today.
+
+
+The problem is that while version X might eventually have an exploit, 
+it'll get removed and it'll be replaced by version Y without that
+particular hole.  By the time you get your hands on a tool to break into 
+X, it'll be gone.
+
+
+What you'd do is create a hard link pointing at the file you wanted to 
+preserve, storing it in a spot which was writable by your account.  
+Then, say, /usr/bin/sudo (because that never has security 
+issues...) gets replaced at some point with a new file and you get to 
+keep the old version.  When you get the tool to pop it, off you go!
+
+
+Of course, these days, it's not quite so easy on the more modern systems 
+you find.  Debian 11 here won't let me do it - it's EPERM city.  Rocky 8 
+(so CentOS 8 and RHEL 8 too) also won't do it.  They both have some gunk
+in /usr/lib/sysctl.d to lock this down.  But, my old Slackware 14.2 
+install of my workstation let me do it the last time I tried about 
+a year ago.  How about that, huh?  I bet it'd still work if I dug out 
+the old drives and booted them up.
+
+
+Incidentally, this is the magic sauce: /proc/sys/fs/protected_hardlinks
+Read the man page for proc(5) to learn more about it.
+
+here it is,
+the thread I read a long time ago.  It's interesting to note that as far 
+as I can tell, nothing actually changed upstream.  This left paranoid 
+admins like me with no option but to use the (most excellent) Openwall 
+patches to lock down this kind of stuff.  I used that on my machines at 
+work which had non-staff users... just in case.
+
+
+This whole situation is scary.  
+Read more about it.]]></summary>
+        <author>
+            <name>Writing - rachelbythebay</name>
         </author>
     </entry>
     <entry>
@@ -54,6 +174,32 @@
         <summary type="html"><![CDATA[How should we structure components and other files in our React apps? I've iterated my way to a solution I'm really happy with. In this blog post, I'll share how it works, what the tradeoffs are, and how I mitigate them.]]></summary>
         <author>
             <name>Josh W. Comeau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More stories about stacks of modems]]></title>
+        <id>https://rachelbythebay.com/w/2022/03/14/modems/</id>
+        <link href="https://rachelbythebay.com/w/2022/03/14/modems/"/>
+        <updated>2022-03-14T23:17:57.000Z</updated>
+        <summary type="html"><![CDATA[Back in January, you might have seen my
+post
+about a very large BBS which seemed to solve for the problem of "how do 
+we host a bunch of users" by having one physical box per user.  It might 
+have been one physical box per *two* users, maybe, but it's hard to say.
+
+
+Now, keep in mind digital cameras weren't easy to come by, so I have 
+very few actual pictures.  I'll have to do a lot of explaining to make 
+up for the lack of detail and alternate angles.  Clearly, I had no 
+notion of ever using these pictures to tell stories 25+ years later.
+
+
+Some friends at a local company had some bandwidth to spare (a T1 to 
+Alternet somewhere, as I recall), so they parked a Zoom modem on one of 
+their boxes and plugged it into a phone line.  We got an identical model 
+to avoid cross-brand issues (Zoom m…]]></summary>
+        <author>
+            <name>Writing - rachelbythebay</name>
         </author>
     </entry>
     <entry>
@@ -2007,16 +2153,6 @@ only serv…]]></summary>
 Source: brutalita.com]]></summary>
         <author>
             <name>remy sharp's b:log</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hypothesis Generation]]></title>
-        <id>https://xkcd.com/2569/</id>
-        <link href="https://xkcd.com/2569/"/>
-        <updated>2022-01-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/hypothesis_generation.png" title="Frazzled scientists are requesting that everyone please stop generating hypotheses for a little bit while they work through the backlog." alt="Frazzled scientists are requesting that everyone please stop generating hypotheses for a little bit while they work through the backlog." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
         </author>
     </entry>
 </feed>
