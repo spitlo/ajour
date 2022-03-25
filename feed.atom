@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-03-24T00:28:12.677Z</updated>
+    <updated>2022-03-25T00:26:51.622Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Itch.io creators you need to follow & some of their beautiful work]]></title>
+        <id>http://www.nathalielawhead.com/candybox/?p=5310</id>
+        <link href="http://www.nathalielawhead.com/candybox/itch-io-creators-you-need-to-follow-some-of-their-beautiful-work"/>
+        <updated>2022-03-25T00:21:45.000Z</updated>
+        <summary type="html"><![CDATA[Featured image from “space for black hair zine” by starybri A while ago I noticed that my itch following grew quite a bit (now over 5k followers!), but I don’t nearly follow enough people there. I think it goes without saying that itch.io is a wonderful platform. The way they let you follow creators there, and handle notifying you, has been invaluable to me in terms of finding those hidden gems. I have an unsorted growing curation-monstrosity called “the good stuff” that I mention any chance I get. So… I put out a call for people to share their projects...]]></summary>
+        <author>
+            <name>alienmelon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New in 1.4.6: Using the DevTools Console inside Visual Studio Code and offline functionality]]></title>
+        <id>https://christianheilmann.com/?p=7172</id>
+        <link href="https://christianheilmann.com/2022/03/24/new-in-1-4-6-using-the-devtools-console-inside-visual-studio-code-and-offline-functionality/"/>
+        <updated>2022-03-24T15:31:52.000Z</updated>
+        <summary type="html"><![CDATA[We just released version 1.4.6 of the Edge DevTools for VS Code extension and the main change is that the Console tool is now available in the extension. 0:05 Console.log messages in VS Code 0:08 Test out some JavaScript 0:10 window object access 0:12 DOM convenience API support 0:15 Style changes 0:17 Console.table 0:20 Live […]]]></summary>
+        <author>
+            <name>Chris Heilmann</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The web is for everyone: Our vision for the evolution of the web]]></title>
         <id>https://blog.mozilla.org/?p=68612</id>
@@ -2178,40 +2198,6 @@ actual BBS software and related acc…]]></summary>
         <link href="https://xkcd.com/2573/"/>
         <updated>2022-01-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/alien_mission.png" title="Fine, we can go search the Himalayas for the Yeti ONE more time, but keep a safe altitude over the Pacific and PLEASE watch where you're going. We can't afford another Amelia Earhart incident." alt="Fine, we can go search the Himalayas for the Yeti ONE more time, but keep a safe altitude over the Pacific and PLEASE watch where you're going. We can't afford another Amelia Earhart incident." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hosting my static sites with nginx]]></title>
-        <id>https://jvns.ca/blog/2022/01/24/hosting-my-static-sites-with-nginx/</id>
-        <link href="https://jvns.ca/blog/2022/01/24/hosting-my-static-sites-with-nginx/"/>
-        <updated>2022-01-24T07:59:19.000Z</updated>
-        <summary type="html"><![CDATA[Hello! Recently I’ve been thinking about putting my static sites on servers
-that I run myself instead of using managed services like Netlify or GitHub
-Pages.
-Originally I thought that running my own servers would require a lot of
-maintenance and be a huge pain, but I was chatting with Wesley about what kind
-of maintainance their servers require, and
-they convinced me that it might not be that bad.
-So I decided to try out moving all my static sites to a $5/month server to see
-what it was like.
-Everything in here is pretty standard but I wanted to write down what I did
-anyway because there are a surprising number of decisions and I like to see
-what choices other people make.
-the constraint: only static sites
-To keep things simple, I decided that this server would only run nginx and
-only serv…]]></summary>
-        <author>
-            <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alien Observers]]></title>
-        <id>https://xkcd.com/2572/</id>
-        <link href="https://xkcd.com/2572/"/>
-        <updated>2022-01-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/alien_observers.png" title="ALERT: Human 910-25J-1Q38 has created a Youtube channel. Increase erratic jerkiness of flying by 30% until safely out of range." alt="ALERT: Human 910-25J-1Q38 has created a Youtube channel. Increase erratic jerkiness of flying by 30% until safely out of range." />]]></summary>
         <author>
             <name>xkcd.com</name>
         </author>

@@ -6,6 +6,16 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=7172",
+          "author": "Chris Heilmann",
+          "description": "We just released version 1.4.6 of the Edge DevTools for VS Code extension and the main change is that the Console tool is now available in the extension. 0:05 Console.log messages in VS Code 0:08 Test out some JavaScript 0:10 window object access 0:12 DOM convenience API support 0:15 Style changes 0:17 Console.table 0:20 Live […]",
+          "link": "https://christianheilmann.com/2022/03/24/new-in-1-4-6-using-the-devtools-console-inside-visual-studio-code-and-offline-functionality/",
+          "publishedOn": "2022-03-24T15:31:52.000Z",
+          "wordCount": 480,
+          "title": "New in 1.4.6: Using the DevTools Console inside Visual Studio Code and offline functionality",
+          "imageUrl": null
+        },
+        {
           "id": "https://christianheilmann.com/?p=7164",
           "author": "Chris Heilmann",
           "description": "Back in January, I posted about a launch.json file to turn VS code into an end-to-end web debugging environment. One of the features people told me was missing was to start and stop a server with the debugging session. So here is how to do this. We add two more lines to the existing `launch.json`, […]",
@@ -410,15 +420,6 @@
           "publishedOn": "2022-01-26T00:00:00.000Z",
           "wordCount": 192,
           "title": "Alien Mission"
-        },
-        {
-          "id": "https://xkcd.com/2572/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/alien_observers.png\" title=\"ALERT: Human 910-25J-1Q38 has created a Youtube channel. Increase erratic jerkiness of flying by 30% until safely out of range.\" alt=\"ALERT: Human 910-25J-1Q38 has created a Youtube channel. Increase erratic jerkiness of flying by 30% until safely out of range.\" />",
-          "link": "https://xkcd.com/2572/",
-          "publishedOn": "2022-01-24T00:00:00.000Z",
-          "wordCount": 192,
-          "title": "Alien Observers"
         }
       ]
     },
@@ -1007,15 +1008,6 @@
           "publishedOn": "2022-01-29T07:44:38.000Z",
           "wordCount": 1832,
           "title": "Reasons for servers to support IPv6"
-        },
-        {
-          "id": "https://jvns.ca/blog/2022/01/24/hosting-my-static-sites-with-nginx/",
-          "author": null,
-          "description": "Hello! Recently I’ve been thinking about putting my static sites on servers\nthat I run myself instead of using managed services like Netlify or GitHub\nPages.\nOriginally I thought that running my own servers would require a lot of\nmaintenance and be a huge pain, but I was chatting with Wesley about what kind\nof maintainance their servers require, and\nthey convinced me that it might not be that bad.\nSo I decided to try out moving all my static sites to a $5/month server to see\nwhat it was like.\nEverything in here is pretty standard but I wanted to write down what I did\nanyway because there are a surprising number of decisions and I like to see\nwhat choices other people make.\nthe constraint: only static sites\nTo keep things simple, I decided that this server would only run nginx and\nonly serv…",
-          "link": "https://jvns.ca/blog/2022/01/24/hosting-my-static-sites-with-nginx/",
-          "publishedOn": "2022-01-24T07:59:19.000Z",
-          "wordCount": 1666,
-          "title": "Hosting my static sites with nginx"
         }
       ]
     },
@@ -1561,6 +1553,16 @@
       "feedUrl": "http://www.nathalielawhead.com/candybox/feed",
       "siteUrl": "http://www.nathalielawhead.com/candybox",
       "articles": [
+        {
+          "id": "http://www.nathalielawhead.com/candybox/?p=5310",
+          "author": "alienmelon",
+          "description": "Featured image from “space for black hair zine” by starybri A while ago I noticed that my itch following grew quite a bit (now over 5k followers!), but I don’t nearly follow enough people there. I think it goes without saying that itch.io is a wonderful platform. The way they let you follow creators there, and handle notifying you, has been invaluable to me in terms of finding those hidden gems. I have an unsorted growing curation-monstrosity called “the good stuff” that I mention any chance I get. So… I put out a call for people to share their projects...",
+          "link": "http://www.nathalielawhead.com/candybox/itch-io-creators-you-need-to-follow-some-of-their-beautiful-work",
+          "publishedOn": "2022-03-25T00:21:45.000Z",
+          "wordCount": 3160,
+          "title": "Itch.io creators you need to follow & some of their beautiful work",
+          "imageUrl": "http://nathalielawhead.com/noodles/itchcreatorspost/sabrinazine.png"
+        },
         {
           "id": "http://www.nathalielawhead.com/candybox/?p=5299",
           "author": "alienmelon",
