@@ -72,15 +72,6 @@
           "publishedOn": "2022-01-31T23:37:43.000Z",
           "wordCount": 253,
           "title": "Sending email notifications from GitHub organisations to different emails"
-        },
-        {
-          "id": "https://christianheilmann.com/?p=7095",
-          "author": "Chris Heilmann",
-          "description": "When I start a new project these days I create the following launch.json file and put in in a .vscode folder on the the root of my project. This turns Visual Studio Code into an environment that gives me everything I need to build a web product without ever leaving it. If you want to […]",
-          "link": "https://christianheilmann.com/2022/01/26/a-launch-json-setting-for-end-to-end-web-development/",
-          "publishedOn": "2022-01-26T18:10:09.000Z",
-          "wordCount": 851,
-          "title": "A launch.json setting for end-to-end web development"
         }
       ]
     },
@@ -1036,24 +1027,6 @@
           "wordCount": 3049,
           "title": "Delightful React File/Directory Structure",
           "imageUrl": "https://www.joshwcomeau.com/images/og-file-structure.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/css/stacking-contexts/",
-          "author": "Josh W. Comeau",
-          "description": "The z-index property can be a tricky little bugger. Sometimes, no matter how much you crank up the number, the element never rises to the top! In this article, we explore stacking contexts, and see how they can thwart our efforts to use z-index. We'll also learn how to use this mechanism to our advantage.",
-          "link": "https://www.joshwcomeau.com/css/stacking-contexts/",
-          "publishedOn": "2022-01-27T09:49:38.000Z",
-          "wordCount": 2680,
-          "title": "What The Heck, z-index??"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/css/css-variables-for-react-devs/",
-          "author": "Josh W. Comeau",
-          "description": "CSS Variables are *really* cool, and they're incredibly powerful when it comes to React! This tutorial shows how we can use them with React to create dynamic themes. We'll see how to get the most out of CSS-in-JS tools like styled-components, and how our mental frame around media queries has been wrong all along.",
-          "link": "https://www.joshwcomeau.com/css/css-variables-for-react-devs/",
-          "publishedOn": "2022-01-27T09:49:38.000Z",
-          "wordCount": 2537,
-          "title": "CSS Variables for React Devs"
         }
       ]
     },
@@ -1068,6 +1041,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=3372",
+          "author": "Cory Doctorow",
+          "description": "Today's links Amazon's relentless personal data foot-dragging: A system's purpose is what it does. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Amazon's relentless personal data foot-dragging (permalink) Sometimes, the best way to understand a failure is to contrast it with a success. Take Amazon, whose avowed \"relentlessness\" created next-day Prime delivery and AWS, with its power to instantaneously, continuously emit \"buckets\" of data. Amazon boasts endlessly about its efficiency, ease of use and speed – which means that whenever you find Amazon being inefficient, hard to use and slow, it's reasonable to assume that this is a deliberate choic…",
+          "link": "https://pluralistic.net/2022/03/27/beware-of-the-leopard/",
+          "publishedOn": "2022-03-27T16:39:21.000Z",
+          "wordCount": 2214,
+          "title": "Pluralistic: 27 Mar 2022",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=3361",
           "author": "Cory Doctorow",
