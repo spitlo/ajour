@@ -111,17 +111,7 @@
       "title": "there.oughta.be/",
       "feedUrl": "https://there.oughta.be/feed.xml",
       "siteUrl": "https://there.oughta.be/",
-      "articles": [
-        {
-          "id": "https://there.oughta.be/a/live-q-and-a/about-the-wifi-game-boy-cartridge",
-          "author": null,
-          "description": "There will be a Live Q&amp;A session about the Game Boy WiFi cartridge on Friday 9pm (CET). Ask anything! Click the image to see the video on youtube.com. I have never done this before and am quite curious on how it will turn out and how many will attend. See you on Friday!",
-          "link": "https://there.oughta.be/a/live-q-and-a/about-the-wifi-game-boy-cartridge",
-          "publishedOn": "2022-01-27T23:00:00.000Z",
-          "wordCount": 101,
-          "title": "There oughta be a Live Q&amp;A about the WiFi Game Boy Cartridge."
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Grumpy Gamer",
@@ -180,6 +170,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2599/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/spacecraft_debris_odds_ratio.png\" title=\"You say this daily walk will reduce my risk of death from cardiovascular disease by 30%, but also increase my risk of death by bear attack by 300%? That's a 280% increased! I'm not a sucker; I'm staying inside.\" alt=\"You say this daily walk will reduce my risk of death from cardiovascular disease by 30%, but also increase my risk of death by bear attack by 300%? That's a 280% increased! I'm not a sucker; I'm staying inside.\" />",
+          "link": "https://xkcd.com/2599/",
+          "publishedOn": "2022-03-28T00:00:00.000Z",
+          "wordCount": 201,
+          "title": "Spacecraft Debris Odds Ratio",
+          "imageUrl": "https://imgs.xkcd.com/comics/spacecraft_debris_odds_ratio_2x.png"
+        },
         {
           "id": "https://xkcd.com/2598/",
           "author": null,
@@ -413,15 +413,6 @@
           "publishedOn": "2022-01-31T00:00:00.000Z",
           "wordCount": 199,
           "title": "What If? 2"
-        },
-        {
-          "id": "https://xkcd.com/2574/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/autoresponder.png\" title=\"I ADMIRE HOW YOU SET BOUNDARIES AND I HOPE YOUR COLLEAGUES RESPECT THEM! PLEASE SPARE MY LIFE!\" alt=\"I ADMIRE HOW YOU SET BOUNDARIES AND I HOPE YOUR COLLEAGUES RESPECT THEM! PLEASE SPARE MY LIFE!\" />",
-          "link": "https://xkcd.com/2574/",
-          "publishedOn": "2022-01-28T00:00:00.000Z",
-          "wordCount": 189,
-          "title": "Autoresponder"
         }
       ]
     },
@@ -1019,6 +1010,16 @@
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
         {
+          "id": "https://www.joshwcomeau.com/css/understanding-layout-algorithms/",
+          "author": "Josh W. Comeau",
+          "description": "As front-end developers, we often learn CSS by focusing on individual properties. Instead, we should focus on how the language uses those properties to calculate layouts. In this blog post, we'll pop the hood on CSS and see how the language is structured, and how to learn it effectively.",
+          "link": "https://www.joshwcomeau.com/css/understanding-layout-algorithms/",
+          "publishedOn": "2022-03-28T11:00:00.000Z",
+          "wordCount": 2937,
+          "title": "Understanding Layout Algorithms",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-understanding-layout-algorithms.png"
+        },
+        {
           "id": "https://www.joshwcomeau.com/react/file-structure/",
           "author": "Josh W. Comeau",
           "description": "How should we structure components and other files in our React apps? I've iterated my way to a solution I'm really happy with. In this blog post, I'll share how it works, what the tradeoffs are, and how I mitigate them.",
@@ -1041,6 +1042,21 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=3378",
+          "author": "Cory Doctorow",
+          "description": "Today's links Podcasting \"The Byzantine Premium\": The contradiction at the heart of Bitcoin advocacy. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Podcasting \"The Byzantine Premium\" (permalink) This week on my podcast, I read my Medium column, \"The Byzantine Premium,\" which examines the contradiction at the heart of cryptocurrency advocates' stated desire to have cryptos serve as money. https://onezero.medium.com/the-byzantine-premium-8411521db843 The article draws on Alex Pickard's article \"Cryptocurrencies: The Power of Memes,\" for Research Affiliates, which breaks down the valuation of cryptos into four factors: https://www.researchaffiliates.com/…",
+          "link": "https://pluralistic.net/2022/03/28/dumb-money/",
+          "publishedOn": "2022-03-28T16:26:52.000Z",
+          "wordCount": 1900,
+          "title": "Pluralistic: 28 Mar 2022",
+          "enclosure": {
+            "url": "https://archive.org/download/Cory_Doctorow_Podcast_420/Cory_Doctorow_Podcast_420_-_The_Byzantine_Premium.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=3372",
           "author": "Cory Doctorow",
@@ -1530,15 +1546,6 @@
           "publishedOn": "2022-01-28T18:22:58.000Z",
           "wordCount": 2024,
           "title": "Pluralistic: 28 Jan 2022"
-        },
-        {
-          "id": "https://pluralistic.net/?p=3038",
-          "author": "Cory Doctorow",
-          "description": "Today's links As stocks tumble, wealthy speculators bid up house prices: The long-run effect of Obama's choice to bail out lenders, not borrowers. Cops' imaginary fears send addicts to real jail: The deadly myth of the fentanyl contact high. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading As stocks tumble, wealthy speculators bid up house prices (permalink) The Obama administration's most consequential decision was to address the Great Financial Crisis by bailing out the finance sector, rather than borrowers. It was an unforced error, directed by Goldman-Sachs bankers elevated to the ranks of finance regulators, and we are still living with its consequences. The choice to enact quantitat…",
-          "link": "https://pluralistic.net/2022/01/27/extraordinary-popular-delusions/",
-          "publishedOn": "2022-01-27T18:02:12.000Z",
-          "wordCount": 2709,
-          "title": "Pluralistic: 27 Jan 2022"
         }
       ]
     },
@@ -1594,15 +1601,6 @@
           "publishedOn": "2022-02-01T20:30:29.000Z",
           "wordCount": 1263,
           "title": "Exciting news: I’m on Rhizome!! (Artbase and Artist Profile)"
-        },
-        {
-          "id": "http://www.nathalielawhead.com/candybox/?p=5249",
-          "author": "alienmelon",
-          "description": "I have been heavily invested in learning Unreal and Blender. I announced that I wanted to make a 3D game, so this is my trajectory for the foreseeable future. I’ve been keeping a development update thread on Twitter. It’s fun to track it! update: i finished modeling a bunch of trees (enough for variety) and finally got the procedural forest running.it's so cool and spooky!! i was right too. the god rays + trees are intense. the light effect is amazing too. i love this.can't wait to get some good fog into this… https://t.co/E6OeK0h3Wz pic.twitter.com/DjqcVh9vcv — Nathalie Lawhead (@alienmelon) January...",
-          "link": "http://www.nathalielawhead.com/candybox/revisiting-bluesuburbia-in-unreal-an-update-on-what-ive-been-up-to",
-          "publishedOn": "2022-01-28T00:25:12.000Z",
-          "wordCount": 3504,
-          "title": "Revisiting BlueSuburbia in Unreal (an update on what I’ve been up to)"
         }
       ]
     }
