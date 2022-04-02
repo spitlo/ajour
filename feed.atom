@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-04-01T00:32:18.248Z</updated>
+    <updated>2022-04-02T00:28:19.281Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[April Fools' 2022]]></title>
+        <id>https://grumpygamer.com/april_fools_2022</id>
+        <link href="https://grumpygamer.com/april_fools_2022"/>
+        <updated>2022-04-01T13:38:29.000Z</updated>
+        <summary type="html"><![CDATA[For 18 years the Grumpy Gamer blog has been April Fools' day free because it's a stupid tradition.
+So to mix things up a little I'm taking this opportunity to announce I've decided to make another Monkey Island.]]></summary>
+        <author>
+            <name>Grumpy Gamer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Instructions]]></title>
+        <id>https://xkcd.com/2601/</id>
+        <link href="https://xkcd.com/2601/"/>
+        <updated>2022-04-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/instructions.png" title="Happy little turtles" alt="Happy little turtles" />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[End of March Link Assortment]]></title>
         <id>http://emshort.blog/?p=42639</id>
@@ -1987,69 +2008,6 @@ The post Keep your multiple online lives private with Multi-Account Containers A
         <link href="https://pluralistic.net/2022/02/01/collaborators-not-fools/"/>
         <updated>2022-02-01T15:37:52.000Z</updated>
         <summary type="html"><![CDATA[Today's links The Mafia hires good accountants: Honest cheaters enable the mob. This day in history: 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The Mafia hires good accountants (permalink) High-profile leaks like the Pandora Papers and financial collapses like Carillion have shone a spotlight on the role that "the professions" play in enabling international finance crimes, which include both money-laundering and the underlying (ghastly, violent) crimes that produce the money to be laundered. For example, the Sackler family knowingly and deliberately created the opioid epidemic that has killed more than 800,000 Americans so far, and then used the best, most respectable, highest price bankruptcy lawyers in the …]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shaw Joins Firefox’s Trusted Recursive Resolver Program]]></title>
-        <id>https://blog.mozilla.org/?p=68365</id>
-        <link href="https://blog.mozilla.org/en/mozilla/news/shaw-firefox-trusted-recursive-resolver-program-doh/"/>
-        <updated>2022-02-01T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Shaw becomes first Canadian ISP to Commit to Data Retention and Transparency Requirements That Protect Customer Privacy Today, Mozilla, the maker of Firefox, and Shaw Communications Inc. have announced that Shaw is the first Internet Service Provider (ISP) in Canada to provide Firefox users with encrypted Domain Name System (DNS) services through Mozilla’s Trusted Recursive […]
-The post Shaw Joins Firefox’s Trusted Recursive Resolver Program appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Mozilla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A toy DNS resolver]]></title>
-        <id>https://jvns.ca/blog/2022/02/01/a-dns-resolver-in-80-lines-of-go/</id>
-        <link href="https://jvns.ca/blog/2022/02/01/a-dns-resolver-in-80-lines-of-go/"/>
-        <updated>2022-02-01T09:15:14.000Z</updated>
-        <summary type="html"><![CDATA[Hello! I wrote a comic last week called “life of a DNS query” that explains how
-DNS resolvers work.
-In this post, I want to explain how DNS resolvers work in a different way –
-with a short Go program that does the same thing described in the comic.
-The main function (resolve) is actually just 20 lines, including comments.
-I usually find it easier to understand things work when they come in the form
-of programs that I can run and modify and poke at, so hopefully this program
-will be helpful to some of you.
-The program is here: https://github.com/jvns/tiny-resolver/blob/main/resolve.go
-what’s a DNS resolver?
-When your browser needs to make a DNS query, it asks a DNS resolvers. When
-they start, DNS resolvers don’t know any DNS records (except the IP addresses
-of the root nameservers). But the…]]></summary>
-        <author>
-            <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[End of January Link Assortment]]></title>
-        <id>http://emshort.blog/?p=42583</id>
-        <link href="https://emshort.blog/2022/01/31/end-of-january-link-assortment-6/"/>
-        <updated>2022-01-31T23:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Events February 5 is the next meeting of the SF Bay IF Meetup. February 20 is the next meeting of the Seattle IF Meetup, and will be held via Discord, so people are welcome to attend remotely. It will feature a guest appearance from Daniel Ravipinto, one of the authors of the classic parser IF … Continue reading "End of January Link Assortment"]]></summary>
-        <author>
-            <name>Emily Short</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sending email notifications from GitHub organisations to different emails]]></title>
-        <id>https://christianheilmann.com/?p=7114</id>
-        <link href="https://christianheilmann.com/2022/02/01/sending-email-notifications-from-github-organisations-to-different-emails/"/>
-        <updated>2022-01-31T23:37:43.000Z</updated>
-        <summary type="html"><![CDATA[I’m part of a few organisations on GitHub and had one email address for notifications. This annoyed me as I didn’t want company notifications to my personal account as I couldn’t answer these. As it turns out, you can set up several email addresses in your GitHub account. In settings, go to Access > Emails […]]]></summary>
-        <author>
-            <name>Chris Heilmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 31 Jan 2022]]></title>
-        <id>https://pluralistic.net/?p=3061</id>
-        <link href="https://pluralistic.net/2022/01/31/heel-turn/"/>
-        <updated>2022-01-31T19:22:36.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Grappling with Big Wrestling: Vince McMahon has a monopoly on violence. Podcasting about the copyleft trolls who tried to shake me down: Pixsy and the depravity of speculative invoicing. This day in history: 2002, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Grappling with Big Wrestling (permalink) If you're a Very Online person, it's easy to think that tech is a uniquely monopolized industry. How could you not – anyone over the age of 30 has had a front row seat for the transformation of the wild and wooly early web into "a group of five websites, each consisting of screenshots of text from the other four." https://twitter.com/tveastman/status/1069674780826071040 There's a chorus of captured economists…]]></summary>
         <author>
             <name>Cory Doctorow</name>
         </author>

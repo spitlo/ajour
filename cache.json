@@ -63,15 +63,6 @@
           "publishedOn": "2022-02-10T18:49:56.000Z",
           "wordCount": 355,
           "title": "Showing different titles depending if the tab is active or not"
-        },
-        {
-          "id": "https://christianheilmann.com/?p=7114",
-          "author": "Chris Heilmann",
-          "description": "I’m part of a few organisations on GitHub and had one email address for notifications. This annoyed me as I didn’t want company notifications to my personal account as I couldn’t answer these. As it turns out, you can set up several email addresses in your GitHub account. In settings, go to Access > Emails […]",
-          "link": "https://christianheilmann.com/2022/02/01/sending-email-notifications-from-github-organisations-to-different-emails/",
-          "publishedOn": "2022-01-31T23:37:43.000Z",
-          "wordCount": 253,
-          "title": "Sending email notifications from GitHub organisations to different emails"
         }
       ]
     },
@@ -118,7 +109,18 @@
       "title": "Grumpy Gamer",
       "feedUrl": "https://grumpygamer.com/rss",
       "siteUrl": "https://grumpygamer.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://grumpygamer.com/april_fools_2022",
+          "author": null,
+          "description": "For 18 years the Grumpy Gamer blog has been April Fools' day free because it's a stupid tradition.\nSo to mix things up a little I'm taking this opportunity to announce I've decided to make another Monkey Island.",
+          "link": "https://grumpygamer.com/april_fools_2022",
+          "publishedOn": "2022-04-01T13:38:29.000Z",
+          "wordCount": 1234,
+          "title": "April Fools' 2022",
+          "imageUrl": "https://images-grumpygamer.nyc3.digitaloceanspaces.com/gg_cover_image2.png"
+        }
+      ]
     },
     {
       "title": "Emily Short's Interactive Storytelling",
@@ -164,15 +166,6 @@
           "wordCount": 1961,
           "title": "Mid-February Link Assortment",
           "imageUrl": "https://emshort.files.wordpress.com/2022/02/capsule_logo_mask-of-the-rose.png"
-        },
-        {
-          "id": "http://emshort.blog/?p=42583",
-          "author": "Emily Short",
-          "description": "Events February 5 is the next meeting of the SF Bay IF Meetup. February 20 is the next meeting of the Seattle IF Meetup, and will be held via Discord, so people are welcome to attend remotely. It will feature a guest appearance from Daniel Ravipinto, one of the authors of the classic parser IF … Continue reading \"End of January Link Assortment\"",
-          "link": "https://emshort.blog/2022/01/31/end-of-january-link-assortment-6/",
-          "publishedOn": "2022-01-31T23:59:00.000Z",
-          "wordCount": 1678,
-          "title": "End of January Link Assortment"
         }
       ]
     },
@@ -181,6 +174,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2601/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/instructions.png\" title=\"Happy little turtles\" alt=\"Happy little turtles\" />",
+          "link": "https://xkcd.com/2601/",
+          "publishedOn": "2022-04-01T00:00:00.000Z",
+          "wordCount": 194,
+          "title": "Instructions",
+          "imageUrl": null
+        },
         {
           "id": "https://xkcd.com/2600/",
           "author": null,
@@ -882,15 +885,6 @@
           "publishedOn": "2022-02-01T17:00:39.000Z",
           "wordCount": 1463,
           "title": "Keep your multiple online lives private with Multi-Account Containers Add-on on Mozilla VPN"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=68365",
-          "author": "Mozilla",
-          "description": "Shaw becomes first Canadian ISP to Commit to Data Retention and Transparency Requirements That Protect Customer Privacy Today, Mozilla, the maker of Firefox, and Shaw Communications Inc. have announced that Shaw is the first Internet Service Provider (ISP) in Canada to provide Firefox users with encrypted Domain Name System (DNS) services through Mozilla’s Trusted Recursive […]\nThe post Shaw Joins Firefox’s Trusted Recursive Resolver Program appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/news/shaw-firefox-trusted-recursive-resolver-program-doh/",
-          "publishedOn": "2022-02-01T11:00:00.000Z",
-          "wordCount": 1115,
-          "title": "Shaw Joins Firefox’s Trusted Recursive Resolver Program"
         }
       ]
     },
@@ -968,15 +962,6 @@
           "wordCount": 1066,
           "title": "The multiple meanings of \"nameserver\" and \"DNS resolver\"",
           "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2022/02/01/a-dns-resolver-in-80-lines-of-go/",
-          "author": null,
-          "description": "Hello! I wrote a comic last week called “life of a DNS query” that explains how\nDNS resolvers work.\nIn this post, I want to explain how DNS resolvers work in a different way –\nwith a short Go program that does the same thing described in the comic.\nThe main function (resolve) is actually just 20 lines, including comments.\nI usually find it easier to understand things work when they come in the form\nof programs that I can run and modify and poke at, so hopefully this program\nwill be helpful to some of you.\nThe program is here: https://github.com/jvns/tiny-resolver/blob/main/resolve.go\nwhat’s a DNS resolver?\nWhen your browser needs to make a DNS query, it asks a DNS resolvers. When\nthey start, DNS resolvers don’t know any DNS records (except the IP addresses\nof the root nameservers). But the…",
-          "link": "https://jvns.ca/blog/2022/02/01/a-dns-resolver-in-80-lines-of-go/",
-          "publishedOn": "2022-02-01T09:15:14.000Z",
-          "wordCount": 2612,
-          "title": "A toy DNS resolver"
         }
       ]
     },
@@ -1491,20 +1476,6 @@
           "publishedOn": "2022-02-01T15:37:52.000Z",
           "wordCount": 1705,
           "title": "Pluralistic: Feb 01 2022"
-        },
-        {
-          "id": "https://pluralistic.net/?p=3061",
-          "author": "Cory Doctorow",
-          "description": "Today's links Grappling with Big Wrestling: Vince McMahon has a monopoly on violence. Podcasting about the copyleft trolls who tried to shake me down: Pixsy and the depravity of speculative invoicing. This day in history: 2002, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Grappling with Big Wrestling (permalink) If you're a Very Online person, it's easy to think that tech is a uniquely monopolized industry. How could you not – anyone over the age of 30 has had a front row seat for the transformation of the wild and wooly early web into \"a group of five websites, each consisting of screenshots of text from the other four.\" https://twitter.com/tveastman/status/1069674780826071040 There's a chorus of captured economists…",
-          "link": "https://pluralistic.net/2022/01/31/heel-turn/",
-          "publishedOn": "2022-01-31T19:22:36.000Z",
-          "wordCount": 2808,
-          "title": "Pluralistic: 31 Jan 2022",
-          "enclosure": {
-            "url": "https://archive.org/download/Cory_Doctorow_Podcast_412/Cory_Doctorow_Podcast_412_-_A_Bug_in_Early_Creative_Commons_Licenses.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          }
         }
       ]
     },
