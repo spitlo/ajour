@@ -6,6 +6,16 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=7208",
+          "author": "Chris Heilmann",
+          "description": "Webaim.org releases an annual report called the WebAIM Million. This is a deep analysis of the one million most visited web sites how accessible they are. And every year the result is pretty grim. Across the one million home pages, 50,829,406 distinct accessibility errors were detected—an average of 50.8 errors per page. This is 1.1% […]",
+          "link": "https://christianheilmann.com/2022/04/12/one-million-broken-web-sites-and-a-way-to-prevent-that/",
+          "publishedOn": "2022-04-11T23:37:20.000Z",
+          "wordCount": 792,
+          "title": "One million broken web sites – and a way to prevent that",
+          "imageUrl": null
+        },
+        {
           "id": "https://christianheilmann.com/?p=7201",
           "author": "Chris Heilmann",
           "description": "Using the Edge Developer Tools for VS Code extension, you can live edit files in the browser developer tools and all the changes are also happen in your source files. That way you never lose a change you did to your web projects in the developer tools. It makes tweaking a layout much more convenient […]",
@@ -89,15 +99,6 @@
           "wordCount": 338,
           "title": "Want to improve Developer Tools in Microsoft Edge? File an issue on Github",
           "imageUrl": null
-        },
-        {
-          "id": "https://christianheilmann.com/?p=7124",
-          "author": "Chris Heilmann",
-          "description": "I just encountered a sneaky thing I had not seen, although it probably worked in 1999 already. A web site was showing a different title on the tab, depending on it being active or not. The whole trick is to use the blur and focus event handlers on the window to change the title. window.onblur […]",
-          "link": "https://christianheilmann.com/2022/02/10/showing-different-titles-depending-if-the-tab-is-active-or-not/",
-          "publishedOn": "2022-02-10T18:49:56.000Z",
-          "wordCount": 355,
-          "title": "Showing different titles depending if the tab is active or not"
         }
       ]
     },
@@ -229,6 +230,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2605/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/taylor_series.png\" title=\"The Taylor series should have been canceled after the first term.\" alt=\"The Taylor series should have been canceled after the first term.\" />",
+          "link": "https://xkcd.com/2605/",
+          "publishedOn": "2022-04-11T00:00:00.000Z",
+          "wordCount": 197,
+          "title": "Taylor Series",
+          "imageUrl": "https://imgs.xkcd.com/comics/taylor_series_2x.png"
+        },
         {
           "id": "https://xkcd.com/2604/",
           "author": null,
@@ -468,15 +479,6 @@
           "wordCount": 197,
           "title": "Health Stats",
           "imageUrl": "https://imgs.xkcd.com/comics/health_stats_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2580/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/rest_and_fluids.png\" title=\"Remember not to take it easy. Put a hot washcloth on your forehead, remain standing, and breathe dry air while taking lots of histamines. You need to give your body a chance to get sick again.\" alt=\"Remember not to take it easy. Put a hot washcloth on your forehead, remain standing, and breathe dry air while taking lots of histamines. You need to give your body a chance to get sick again.\" />",
-          "link": "https://xkcd.com/2580/",
-          "publishedOn": "2022-02-11T00:00:00.000Z",
-          "wordCount": 199,
-          "title": "Rest and Fluids"
         }
       ]
     },
@@ -1029,6 +1031,21 @@
       "siteUrl": "https://pluralistic.net",
       "articles": [
         {
+          "id": "https://pluralistic.net/?p=3448",
+          "author": "Cory Doctorow",
+          "description": "Today's links Podcasting \"When Automation Becomes Enforcement\": Are disappearing messages part of end-to-end encryption, or are they just DRM? The \"algospeak\" dialect: An emerging vocabulary designed to evade machine censorship. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Podcasting \"When Automation Becomes Enforcement\" (permalink) This week on my podcast, I read my recent Medium column, \"When Automation Becomes Enforcement,\" about the debate of interoperability and end-to-end encryption in the EU's Digital Markets Act, and how that relates to the long-running battle over who's in charge: you, or your computer? https://onezero.medium.com/when-…",
+          "link": "https://pluralistic.net/2022/04/11/coercion-v-cooperation/",
+          "publishedOn": "2022-04-11T16:29:54.000Z",
+          "wordCount": 3177,
+          "title": "Pluralistic: 11 Apr 2022",
+          "enclosure": {
+            "url": "https://archive.org/download/Cory_Doctorow_Podcast_422/Cory_Doctorow_Podcast_422_-_When_Automation_Becomes_Enforcement.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://pluralistic.net/?p=3441",
           "author": "Cory Doctorow",
           "description": "Today's links John M Ford's \"Aspects\": An unfinished masterpiece by a legend of science fiction and fantasy. Hey look at this: Delights to delectate. This day in history: 2002, 2012, 2017 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading John M Ford's \"Aspects\" (permalink) John M Ford's sudden death in 2006 – a heart attack – left his legion of friends and fans bereft and reeling. Ford – \"Mike\" to his friends – was brilliant, witty, and multitalented, an accomplished RPG designer, poet, and half-a-dozen kinds of novelist. He published an eerily prescient cyberpunk novel about \"the Web\" four years before Neuromancer, and eight years before Tim Berners-Lee created the World Wide Web. His expansion to Paranoia is one of the wittiest RPG sour…",
@@ -1481,15 +1498,6 @@
           "publishedOn": "2022-02-11T19:02:50.000Z",
           "wordCount": 3737,
           "title": "Pluralistic: 11 Feb 2022"
-        },
-        {
-          "id": "https://pluralistic.net/?p=3130",
-          "author": "Cory Doctorow",
-          "description": "Today's links Welcome to the Palmerverse: Ada Palmer's Renaissance-informed science fictional futurism. SEC vs private equity ripoffs: Personnel really are policy. Neuromancer today: Eileen Gunn on the enduring significance and wonder of William Gibson. Gators and Amazon tag-team small sellers: Amazon's bad conduct is good for (a certain kind of) business. This day in history: 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Welcome to the Palmerverse (permalink) Today in Wired, Gregory Barber profiles my friend, colleague and collaborator Ada Palmer, an extraordinary writer, librettist, historian, scholar, activist and performer: https://www.wired.com/story/ada-palmer-sci-fi-future-weird-hand-progress/ Palmer has just w…",
-          "link": "https://pluralistic.net/2022/02/10/monopoly-begets-monopoly/",
-          "publishedOn": "2022-02-10T20:53:37.000Z",
-          "wordCount": 3619,
-          "title": "Pluralistic: 10 Feb 2022"
         }
       ]
     },
@@ -1498,6 +1506,16 @@
       "feedUrl": "http://www.nathalielawhead.com/candybox/feed",
       "siteUrl": "http://www.nathalielawhead.com/candybox",
       "articles": [
+        {
+          "id": "http://www.nathalielawhead.com/candybox/?p=5330",
+          "author": "alienmelon",
+          "description": "Tool development, as an umbrella term that is used to describe software that is both utilitarian and a toy, has become deeply important to me. I think there is something interesting to observe from that space, especially when it is centered around making interesting visual experiments functional to artists. It invites abundance and generocity. For example, J.Kirchartz’s Glitchy3bitDither has become invalualbe to me. It’s a browser based glitching tool that lets you import an image, and then choose from a series of glitch effects. Yes, I can make my own. Yes, there are so many of these. No, for me,...",
+          "link": "http://www.nathalielawhead.com/candybox/use-participation-visibility-and-anti-artificial-scarcity-how-small-independent-tools-help-us-construct-a-reality-that-empowers-us-something-of-a-manifesto",
+          "publishedOn": "2022-04-12T00:11:59.000Z",
+          "wordCount": 3691,
+          "title": "Use, participation, visibility, and anti-artificial scarcity… How small independent tools help us construct a reality that empowers us (something of a manifesto)",
+          "imageUrl": "http://nathalielawhead.com/noodles/hottool/687474703a2f2f7465747261676564646f6e2e636f6d2f637572736f72732f64656d6f2e676966.gif"
+        },
         {
           "id": "http://www.nathalielawhead.com/candybox/?p=5321",
           "author": "alienmelon",
