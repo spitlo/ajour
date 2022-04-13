@@ -2,10 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-04-12T00:27:37.760Z</updated>
+    <updated>2022-04-13T00:31:15.003Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A list of new(ish) command line tools]]></title>
+        <id>https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/</id>
+        <link href="https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/"/>
+        <updated>2022-04-12T15:30:07.000Z</updated>
+        <summary type="html"><![CDATA[Hello! Today I asked on twitter about newer
+command line tools, like ripgrep and fd and fzf and exa and bat.
+I got a bunch of replies with tools I hadn’t heard of, so I thought I’d make a
+list here. A lot of people also pointed at the modern-unix list.
+replacements for standard tools
+ripgrep, ag, ack (grep)
+exa, lsd (ls)
+mosh (ssh)
+bat (cat)
+delta (a pager for git)
+fd (find)
+drill, dog (dig)
+duf (df)
+dust, ncdu (du)
+pgcli (psql)
+btm, btop, glances, gtop, zenith (top)
+tldr (man, sort of)
+sd (sed)
+difftastic (diff)
+mtr (traceroute)
+plocate (locate)
+new inventions
+Here are some tools that are not exactly replacements for standard tools:
+z, fasd, autojump, zoxide (tools to make it easier to find files / change directories)
+broot (a file manager)
+direnv (load environment variables depending on the current directory)
+fzf, peco (“fuzzy finder”)
+croc and magic-wormhole (send files from one computer to another)
+hyperfine (benchmarking)
+httpie, curlie, xh (for making HTTP requests)
+entr (run arbitrary commands when files change)
+asdf (version manager for multiple languages)
+tig, lazygit (interactive interfaces for git)
+lazydocker (interactive interface for docker)
+choose (the basics of awk/cut)
+ctop (top for containers)
+fuck (autocorrect command line errors)
+pbcopy/pbpaste (for clipboard <> stdin/stdout) maybe aren’t “new” but were mentioned a lot. You can use xclip to do the same thing on Linux.
+JSON/YAML/CSV things:
+jq (a great JSON-wrangling tool)
+jc (convert various tools’ output into JSON)
+yq  (like jq, but for YAML). there’s also another yq
+fq (like jq, but for binary)
+fx (interactive json tool)
+jless (json pager)
+xsv (a command line tool for csv files, from burntsushi)
+visidata (“an interactive multitool for tabular data”)
+grep things:
+pdfgrep (grep for PDF)
+gron (make JSON greppable)
+ripgrep-all (ripgrep, but also PDF, zip, ebooks, etc)
+some of my favourites
+My favourites of these that I use already are entr, ripgrep, git-delta,
+httpie, plocate, and jq. I’m interested in trying out btm,
+z, xsv, and duf.]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: 12 Apr 2022]]></title>
+        <id>https://pluralistic.net/?p=3454</id>
+        <link href="https://pluralistic.net/2022/04/12/klong-you-are-a-pickle/"/>
+        <updated>2022-04-12T14:13:13.000Z</updated>
+        <summary type="html"><![CDATA[Today's links Daniel Pinkwater's "Crazy in Poughkeepsie": Another Pinkwater masterpiece, in which we sojourn to whale heaven. Hey look at this: Delights to delectate. This day in history: 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Daniel Pinkwater's "Crazy in Poughkeepsie" (permalink) "Crazy in Poughkeepsie" is Daniel Pinkwater's standalone, demi-sequel to 2020's "Adventures of Dwergish Girl," a YA novel about a sort-of Catskills leprechaun girl whose coming of age involves moving to human civilization, learning the art of pizza-making, getting involved with community radio, venturing to New York City to drink papaya juice and learn mystic secrets from a junk-store owner, and, ultimately, resolving an existential t…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Use, participation, visibility, and anti-artificial scarcity… How small independent tools help us construct a reality that empowers us (something of a manifesto)]]></title>
         <id>http://www.nathalielawhead.com/candybox/?p=5330</id>
@@ -1945,16 +2019,6 @@ There are 2 ty…]]></summary>
         <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/health_stats.png" title="You will live on forever in our hearts, pushing a little extra blood toward our left hands now and then to give them a squeeze." alt="You will live on forever in our hearts, pushing a little extra blood toward our left hands now and then to give them a squeeze." />]]></summary>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 11 Feb 2022]]></title>
-        <id>https://pluralistic.net/?p=3134</id>
-        <link href="https://pluralistic.net/2022/02/11/bezzlers-gonna-bezzle/"/>
-        <updated>2022-02-11T19:02:50.000Z</updated>
-        <summary type="html"><![CDATA[Today's links The Big Lie that keeps the Uber bezzle alive: A credulous press continues to report massive losses as profitability. This day in history: 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The Big Lie that keeps the Uber bezzle alive (permalink) Uber is (still) a bezzle ("the magic interval when a confidence trickster knows he has the money he has appropriated but the victim does not yet understand that he has lost it"). And every bezzle – every bezzle – ends. Uber entered the market with an absurd proposition, which they papered over with an idiotic narrative…which the world ate up with a spoon. The absurd proposition: Uber could use apps to reinvent taxis, and turn a low-margin business into a high-margin busines…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
         </author>
     </entry>
     <entry>
