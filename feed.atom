@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-04-23T00:30:39.940Z</updated>
+    <updated>2022-04-24T00:30:15.338Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
@@ -124,6 +124,16 @@ The post How to delete your TikTok account appeared first on The Mozilla Blog.]]
 The post How to delete your Venmo account appeared first on The Mozilla Blog.]]></summary>
         <author>
             <name>Kristina Bravo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Assigning Numbers]]></title>
+        <id>https://xkcd.com/2610/</id>
+        <link href="https://xkcd.com/2610/"/>
+        <updated>2022-04-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/assigning_numbers.png" title="Gödel should do an article on which branches of math have the lowest average theorem number." alt="Gödel should do an article on which branches of math have the lowest average theorem number." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -1854,46 +1864,6 @@ a pointe…]]></summary>
         <link href="https://pluralistic.net/2022/02/24/uber-for-arbitration/"/>
         <updated>2022-02-24T14:21:42.000Z</updated>
         <summary type="html"><![CDATA[Today's links Mass arbitration attack could bring Intuit to its knees: Justice for the millions ripped off by Turbotax's "Free File" fraud. This day in history: 2002, 2007, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Mass arbitration attack could bring Intuit to its knees (permalink) Ever hear of "binding arbitration?" That's a clause in a contract that says that you aren't allowed to sue the company you're doing business with, even if they cheat, maim or kill you. It was invented to let giant companies of equal size and power agree in advance not to spend billions and decades in court to resolve contractual disputes. Then, Federalist Society judges led by Antonin Scalia set about clearing the way for arbitration to be cr…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some things about getaddrinfo that surprised me]]></title>
-        <id>https://jvns.ca/blog/2022/02/23/getaddrinfo-is-kind-of-weird/</id>
-        <link href="https://jvns.ca/blog/2022/02/23/getaddrinfo-is-kind-of-weird/"/>
-        <updated>2022-02-23T08:33:56.000Z</updated>
-        <summary type="html"><![CDATA[Hello! Here are some things you may or may not have noticed about DNS:
-when you resolve a DNS name in a Python program, it checks /etc/hosts, but when you use dig, it doesn’t.
-switching Linux distributions can sometimes change how your DNS works, for example if you use Alpine Linux instead of Ubuntu it can cause problems.
-Mac OS has DNS caching, but Linux doesn’t necessarily unless you use systemd-resolved or something
-To understand all of these, we need to learn about a function called
-getaddrinfo which is responsible for doing DNS lookups.
-There are a bunch of surprising-to-me things about getaddrinfo, and once I
-learned about them, it explained a bunch of the confusing DNS behaviour I’d
-seen in the past.
-where does getaddrinfo come from?
-getaddrinfo is part of a library called libc whic…]]></summary>
-        <author>
-            <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rounding]]></title>
-        <id>https://xkcd.com/2585/</id>
-        <link href="https://xkcd.com/2585/"/>
-        <updated>2022-02-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/rounding.png" title="I've developed a novel propulsion system powered by loss of precision in unit conversion." alt="I've developed a novel propulsion system powered by loss of precision in unit conversion." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 22 Feb 2022]]></title>
-        <id>https://pluralistic.net/?p=3191</id>
-        <link href="https://pluralistic.net/2022/02/22/national-champions/"/>
-        <updated>2022-02-22T16:07:15.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Podcasting Part III of "The Internet Heist": In which the cartel gives itself a veto over your family life. China hamstrings its Big Tech: "National champions" are neither. This day in history: 2007, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Podcasting Part III of "The Internet Heist" (permalink) This week on my podcast, I read the final part of "The Internet Heist," my Medium series on the copyright wars' early days, when the entertainment and tech giants tried to leverage the digital TV transition into a veto over every part of our lives. https://onezero.medium.com/the-internet-heist-part-iii-8561f6d5a4dc In Part I, I described the bizarre Broadcast Flag project, where Hollywood studios and Intel collude…]]></summary>
         <author>
             <name>Cory Doctorow</name>
         </author>

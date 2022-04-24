@@ -231,6 +231,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2610/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/assigning_numbers.png\" title=\"Gödel should do an article on which branches of math have the lowest average theorem number.\" alt=\"Gödel should do an article on which branches of math have the lowest average theorem number.\" />",
+          "link": "https://xkcd.com/2610/",
+          "publishedOn": "2022-04-22T00:00:00.000Z",
+          "wordCount": 197,
+          "title": "Assigning Numbers",
+          "imageUrl": "https://imgs.xkcd.com/comics/assigning_numbers_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2609/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/entwives.png\" title=\"No, we actually do have a woman who's basically part of our fellowship. She lives in Rivendell, you wouldn't know her.\" alt=\"No, we actually do have a woman who's basically part of our fellowship. She lives in Rivendell, you wouldn't know her.\" />",
@@ -469,16 +479,6 @@
           "wordCount": 197,
           "title": "Greek Letters",
           "imageUrl": "https://imgs.xkcd.com/comics/greek_letters_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2585/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/rounding.png\" title=\"I've developed a novel propulsion system powered by loss of precision in unit conversion.\" alt=\"I've developed a novel propulsion system powered by loss of precision in unit conversion.\" />",
-          "link": "https://xkcd.com/2585/",
-          "publishedOn": "2022-02-23T00:00:00.000Z",
-          "wordCount": 195,
-          "title": "Rounding",
-          "imageUrl": "https://imgs.xkcd.com/comics/rounding_2x.png"
         }
       ]
     },
@@ -1059,16 +1059,6 @@
           "wordCount": 1129,
           "title": "Some tiny personal programs I've written",
           "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2022/02/23/getaddrinfo-is-kind-of-weird/",
-          "author": null,
-          "description": "Hello! Here are some things you may or may not have noticed about DNS:\nwhen you resolve a DNS name in a Python program, it checks /etc/hosts, but when you use dig, it doesn’t.\nswitching Linux distributions can sometimes change how your DNS works, for example if you use Alpine Linux instead of Ubuntu it can cause problems.\nMac OS has DNS caching, but Linux doesn’t necessarily unless you use systemd-resolved or something\nTo understand all of these, we need to learn about a function called\ngetaddrinfo which is responsible for doing DNS lookups.\nThere are a bunch of surprising-to-me things about getaddrinfo, and once I\nlearned about them, it explained a bunch of the confusing DNS behaviour I’d\nseen in the past.\nwhere does getaddrinfo come from?\ngetaddrinfo is part of a library called libc whic…",
-          "link": "https://jvns.ca/blog/2022/02/23/getaddrinfo-is-kind-of-weird/",
-          "publishedOn": "2022-02-23T08:33:56.000Z",
-          "wordCount": 1180,
-          "title": "Some things about getaddrinfo that surprised me",
-          "imageUrl": null
         }
       ]
     },
@@ -1553,21 +1543,6 @@
           "publishedOn": "2022-02-24T14:21:42.000Z",
           "wordCount": 2355,
           "title": "Pluralistic: 24 Feb 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=3191",
-          "author": "Cory Doctorow",
-          "description": "Today's links Podcasting Part III of \"The Internet Heist\": In which the cartel gives itself a veto over your family life. China hamstrings its Big Tech: \"National champions\" are neither. This day in history: 2007, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Podcasting Part III of \"The Internet Heist\" (permalink) This week on my podcast, I read the final part of \"The Internet Heist,\" my Medium series on the copyright wars' early days, when the entertainment and tech giants tried to leverage the digital TV transition into a veto over every part of our lives. https://onezero.medium.com/the-internet-heist-part-iii-8561f6d5a4dc In Part I, I described the bizarre Broadcast Flag project, where Hollywood studios and Intel collude…",
-          "link": "https://pluralistic.net/2022/02/22/national-champions/",
-          "publishedOn": "2022-02-22T16:07:15.000Z",
-          "wordCount": 3115,
-          "title": "Pluralistic: 22 Feb 2022",
-          "enclosure": {
-            "url": "https://ia801407.us.archive.org/26/items/Cory_Doctorow_Podcast_413/Cory_Doctorow_Podcast_413_-_The_Internet_Heist_Part_I.mp3",
-            "length": "36581376",
-            "type": "audio/mpeg"
-          },
           "imageUrl": null
         }
       ]
