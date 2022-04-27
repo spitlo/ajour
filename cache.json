@@ -488,6 +488,16 @@
       "siteUrl": "https://remysharp.com",
       "articles": [
         {
+          "id": "ms-update",
+          "author": null,
+          "description": "What seems like only a few months ago, I wrote about being diagnosed with MS, and yet that was over 2 years ago (and the diagnosis was actually December 2019).\nAs it's MS Awareness Week 2022 and MS was on my mind (literally and figuratively!) I thought an update blog post would seem fit.\nMy post in 2020 started stating this, which, as it turns out, wasn't right at all:\n\nI was diagnosed with \"very mild benign relapsing-remitting multiple sclerosis\".",
+          "link": "https://remysharp.com/2022/04/26/ms-update",
+          "publishedOn": "2022-04-26T00:00:00.000Z",
+          "wordCount": 1300,
+          "title": "MS update [blog]",
+          "imageUrl": "https://remysharp.com/images/cards/og/9-8.jpg"
+        },
+        {
           "id": "what-i-learnt-refurbishing-30-gameboys",
           "author": null,
           "description": "I booked myself a week off work in late Feb and leading up to that date I started to get (back) into Gameboys. As a kid I grew up with a ZX Spectrum in the home and as a teen I had a Gameboy. I actually managed to use paper-round money to buy myself a pretty nice collection of games, but then for some reason sold it all off - only to then want to re-buy a Gameboy. I wasn't so business savvy at that point.\nEarly on in the year I found that refurbishing Gameboys and modding them wasn't too tricky for my own skills and as Feb started to come around two lots on Ebay piqued my interest: one with 8 Gameboys and another with 14. Of the 14, none worked (according to the seller) and of the 8, one worked (a Gameboy Advanced).\nAfter much stress of bidding, I managed to secure the lots, plus purchased…",
@@ -1011,6 +1021,16 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2022/04/26/new-zine--how-dns-works-/",
+          "author": null,
+          "description": "Hello! On Thursday we released a new zine about one of my favourite computer systems: DNS!\nYou can get it for $12 here:\nhttps://wizardzines.com/zines/dns, or get\nan 11-pack of all my zines here.\nHere’s the cover and table of contents:\n\n\n\n\nwhy DNS?\nI wanted to write about DNS for three reasons:\nDNS is everywhere! You basically can’t use the internet without using\nDNS — nobody is going to memorize all the IP addresses for every domain they\nuse. You need to look them up with DNS!\nDNS has a really cool decentralized design! I love that it gives you\ncontrol of your own little corner of the internet (it just costs ~$12/year to\nown a domain!), I love that the basic design is relatively straightforward,\nand I love that it’s worked basically the same way for 40 years and scaled\nrelatively well over…",
+          "link": "https://jvns.ca/blog/2022/04/26/new-zine--how-dns-works-/",
+          "publishedOn": "2022-04-26T07:28:10.000Z",
+          "wordCount": 935,
+          "title": "New zine: How DNS Works!",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/",
           "author": null,
           "description": "Hello! Today I asked on twitter about newer\ncommand line tools, like ripgrep and fd and fzf and exa and bat.\nI got a bunch of replies with tools I hadn’t heard of, so I thought I’d make a\nlist here. A lot of people also pointed at the modern-unix list.\nreplacements for standard tools\nripgrep, ag, ack (grep)\nexa, lsd (ls)\nmosh (ssh)\nbat (cat)\ndelta (a pager for git)\nfd (find)\ndrill, dog (dig)\nduf (df)\ndust, ncdu (du)\npgcli (psql)\nbtm, btop, glances, gtop, zenith (top)\ntldr (man, sort of)\nsd (sed)\ndifftastic (diff)\nmtr (traceroute)\nplocate (locate)\nnew inventions\nHere are some tools that are not exactly replacements for standard tools:\nz, fasd, autojump, zoxide (tools to make it easier to find files / change directories)\nbroot (a file manager)\ndirenv (load environment variables depending on the current directory)\nfzf, peco (“fuzzy finder”)\ncroc and magic-wormhole (send files from one computer to another)\nhyperfine (benchmarking)\nhttpie, curlie, xh (for making HTTP requests)\nentr (run arbitrary commands when files change)\nasdf (version manager for multiple languages)\ntig, lazygit (interactive interfaces for git)\nlazydocker (interactive interface for docker)\nchoose (the basics of awk/cut)\nctop (top for containers)\nfuck (autocorrect command line errors)\npbcopy/pbpaste (for clipboard <> stdin/stdout) maybe aren’t “new” but were mentioned a lot. You can use xclip to do the same thing on Linux.\nJSON/YAML/CSV things:\njq (a great JSON-wrangling tool)\njc (convert various tools’ output into JSON)\nyq  (like jq, but for YAML). there’s also another yq\nfq (like jq, but for binary)\nfx (interactive json tool)\njless (json pager)\nxsv (a command line tool for csv files, from burntsushi)\nvisidata (“an interactive multitool for tabular data”)\ngrep things:\npdfgrep (grep for PDF)\ngron (make JSON greppable)\nripgrep-all (ripgrep, but also PDF, zip, ebooks, etc)\nsome of my favourites\nMy favourites of these that I use already are entr, ripgrep, git-delta,\nhttpie, plocate, and jq. I’m interested in trying out btm,\nz, xsv, and duf.",
@@ -1110,6 +1130,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=3516",
+          "author": "Cory Doctorow",
+          "description": "Today's links Bottled water monopolist admits recycling is bullshit: \"Personal responsibility\" and \"caveat emptor.\" This day in history: 2012, 2017 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Bottled water monopolist admits recycling is bullshit (permalink) \"Puffery\" is a funny word! It's the word that lawyers use when their clients are accused of unlawful speech acts, such as fraud or libel. In that context, \"puffery\" (or, even better, \"mere puffery\") is a synonym for bullshit. Recycling is puffery. Which is to say, recyling is bullshit. Plastics recycling has its origins in a \"puffery\" campaign. In 1973, Exxon researchers told the company that there was no feasible way to recycle plastics, and that there likely never would be. htt…",
+          "link": "https://pluralistic.net/2022/04/26/plastic-fatalistic/",
+          "publishedOn": "2022-04-26T14:38:52.000Z",
+          "wordCount": 1933,
+          "title": "Pluralistic: 26 Apr 2022",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=3510",
           "author": "Cory Doctorow",
