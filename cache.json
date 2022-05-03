@@ -108,6 +108,16 @@
       "siteUrl": "https://100r.co",
       "articles": [
         {
+          "id": "log.html#apr2022",
+          "author": "Rekka Bellum",
+          "description": "Hey everyone! This is the list of all the changes we've done to our projects and apps during the month of April. We'll also be reporting in our on position in the world, and on our future plans.\nSummary Of Changes\nBicycle, released an Uxntal playground. See Varvara riding a Sinclair bike.\nUxn, wrote a linux native implementation of Varvara, as well as an HTML5 implementation of the virtual machine.\nTurquoise, released a little line plotting system.\n100r.co, added sewing, Shimoda, Cathedral Grove, and mini dodger.\nNebu, working on a spreadsheet editor in Uxn.\nNews\nThe month of April was a time of boat projects. We built a mini dodger to cover the companionway, and installed a large spindle for floating rope on Pino's stern (marine stores give those spindles away for free, usually). In these waters, it is often necessary to stern tie to shore when anchoring and the spindle will make it easier to uncoil the line.\nWe also took some time off to visit some ancient trees in Cathedral Grove on Vancouver Island.\nDevine found some slide rules and wrote a guide on how to use them.\nIf you want to play Catpot, the little Hypercard game we made for Merveilles Hyperjam 2020, you can play it with this Hypercard Simulator (thank you Dan).\nPino book club\nWe're reading The Stranger by Albert Camus.\nContinue Reading",
+          "link": "https://100r.co/site/log.html#apr2022",
+          "publishedOn": "2022-05-01T00:00:00.000Z",
+          "wordCount": 3430,
+          "title": "Summary of changes for April",
+          "imageUrl": null
+        },
+        {
           "id": "log.html#mar2022",
           "author": "Rekka Bellum",
           "description": "Hey everyone! This is the list of all the changes we've done to our projects and apps during the month of March. We'll also be reporting in our on position in the world, and on our future plans.\nSummary Of Changes\n100r, released a guide to diesel Engine Care.\nWunderland Rabbits, released a new rabbit image.\nToys, finished re-creating the classic bouncing ball for the Amiga for Uxn.\nUxn, released a 23kb implementation of the Varvara emulator in plain X11(without SDL2), started a mailing list & newsletter to document changes, events and exciting projects, released a second devlog, and wrote a little single-file uxntal assembler called Drifblim.\nNoodle, re-worked entire tool, added native TGA import(Mastodon), implemented file size loading specified in the pathname(Mastodon), added the possib…",
@@ -136,6 +146,16 @@
       "feedUrl": "https://grumpygamer.com/rss",
       "siteUrl": "https://grumpygamer.com",
       "articles": [
+        {
+          "id": "https://grumpygamer.com/when_i_made_another_monkeyisland",
+          "author": null,
+          "description": "Nine years ago I wrote a blog post titled \"If I made another Monkey Island\" and it feels like there are some things I need to say.\nI can't remember the exact incident, but the day I wrote that I was feeling down about never being able to make another Monkey Island.  I wrote it in a single afternoon, and it was not much more than a stream of thoughts. In the movie version, tears would have been pouring down my cheeks, but it wasn't the movie version so I was probably sipping coffee and eating a chocolate chip cookie.\nMy point is these were not commandments handed down and etched in stone on a giant tablet. They were just random thoughts about a (then very unlikely) new Monkey Island game. \nNone of these are promises or anything I owe anybody.\nPeople talk a lot about Monkey Island 3a as if i…",
+          "link": "https://grumpygamer.com/when_i_made_another_monkeyisland",
+          "publishedOn": "2022-05-01T07:00:00.000Z",
+          "wordCount": 993,
+          "title": "When I Made Another Monkey Island",
+          "imageUrl": "https://images-grumpygamer.nyc3.digitaloceanspaces.com/\n"
+        },
         {
           "id": "https://grumpygamer.com/return_to_monkey_island",
           "author": null,
@@ -220,6 +240,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2614/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/2.png\" title=\"It's like sigma summation notation, except instead of summing the argument over all values of i, you 2 the argument over all values of 2.\" alt=\"It's like sigma summation notation, except instead of summing the argument over all values of i, you 2 the argument over all values of 2.\" />",
+          "link": "https://xkcd.com/2614/",
+          "publishedOn": "2022-05-02T00:00:00.000Z",
+          "wordCount": 195,
+          "title": "2",
+          "imageUrl": "https://imgs.xkcd.com/comics/2_2x.png"
+        },
         {
           "id": "https://xkcd.com/2613/",
           "author": null,
@@ -459,16 +489,6 @@
           "wordCount": 199,
           "title": "I Shouldn't Complain",
           "imageUrl": "https://imgs.xkcd.com/comics/i_shouldnt_complain_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2589/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/outlet_denier.png\" title=\"There are regularly placed bumps on the underside just the right size to press the rocker switch on the power strip.\" alt=\"There are regularly placed bumps on the underside just the right size to press the rocker switch on the power strip.\" />",
-          "link": "https://xkcd.com/2589/",
-          "publishedOn": "2022-03-04T00:00:00.000Z",
-          "wordCount": 197,
-          "title": "Outlet Denier",
-          "imageUrl": "https://imgs.xkcd.com/comics/outlet_denier_2x.png"
         }
       ]
     },
@@ -962,16 +982,6 @@
           "wordCount": 1145,
           "title": "Disney and Pixar’s “Turning Red” movie Browser Wallpapers only available on Firefox for Android and iOS",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/03/wallpaper-ui_twtr_1280x720-1080x720.jpg"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=68528",
-          "author": "Eric Rescorla",
-          "description": "Principle four of the Mozilla Manifesto states that “Individuals’ security and privacy on the internet are fundamental and must not be treated as optional.” We’ve made real progress on improving security on the Internet, but unfortunately, a draft law under discussion in the EU – the eIDAS Regulation – threatens to reverse that progress. Mozilla […]\nThe post The website security ecosystem protects individuals against fraud and state-sponsored surveillance. Let’s not break it. appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/security/mozilla-eff-cybersecurity-experts-publish-letter-on-dangers-of-article-452-eidas-regulation/",
-          "publishedOn": "2022-03-03T21:44:08.000Z",
-          "wordCount": 1281,
-          "title": "The website security ecosystem protects individuals against fraud and state-sponsored surveillance. Let’s not break it.",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/03/fx_blog_header_editorial_privacy_002_1920x1080-1080x720.jpg"
         }
       ]
     },
@@ -1090,6 +1100,21 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=3563",
+          "author": "Cory Doctorow",
+          "description": "Today's links Podcasting \"Revenge Of the Chickenized Reverse Centaurs\": The relationship between algorithms, interoperability and worker power. Hey look at this: Delights to delectate. This day in history: 2007, 2012, 2017 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Podcasting \"Revenge Of the Chickenized Reverse Centaurs\" (permalink) This week on my podcast, I read my Medium column, \"Revenge Of the Chickenized Reverse Centaurs,\" proposing a theory of the relationship between algorithms, interoperability and worker power (happy May Day!). https://onezero.medium.com/revenge-of-the-chickenized-reverse-centaurs-b2e8d5cda826 Let's break it down. Start with \"chickenization\": this is a labor economics term referring to industries that foll…",
+          "link": "https://pluralistic.net/2022/05/02/reverse-centaurs/",
+          "publishedOn": "2022-05-02T15:59:36.000Z",
+          "wordCount": 2462,
+          "title": "Pluralistic: 02 May 2022",
+          "enclosure": {
+            "url": "https://archive.org/download/Cory_Doctorow_Podcast_424/Cory_Doctorow_Podcast_424_-_Revenge_of_the_Chickenized_Reverse-Centaurs.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=3541",
           "author": "Cory Doctorow",
@@ -1537,6 +1562,16 @@
       "feedUrl": "http://www.nathalielawhead.com/candybox/feed",
       "siteUrl": "http://www.nathalielawhead.com/candybox",
       "articles": [
+        {
+          "id": "http://www.nathalielawhead.com/candybox/?p=5346",
+          "author": "alienmelon",
+          "description": "“Photogrammetry is the science of making measurements from photographs. It infers the geometry of a scene from a set of unordered photographs or videos. Photography is the projection of a 3D scene onto a 2D plane, losing depth information. The goal of photogrammetry is to reverse this process.” – Meshroom github I’ve been doing a lot of 3D modeling lately and, because I’m new to it, I have also been experimenting with finding workflows that I might be comfortable in. For example a friend of mine models a lot in VR. She swears by it. Anyone I have asked has...",
+          "link": "http://www.nathalielawhead.com/candybox/photogammetry-meshroom-and-blender-some-learning-resources-that-helped-me",
+          "publishedOn": "2022-05-02T21:50:36.000Z",
+          "wordCount": 1931,
+          "title": "Photogammetry, Meshroom, and Blender (some learning resources that helped me)",
+          "imageUrl": "http://nathalielawhead.com/noodles/BS01_FACE1.png"
+        },
         {
           "id": "http://www.nathalielawhead.com/candybox/?p=5330",
           "author": "alienmelon",
