@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-05-10T00:35:01.714Z</updated>
+    <updated>2022-05-11T00:33:59.749Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pages that didn't make it into "How DNS Works"]]></title>
+        <id>https://jvns.ca/blog/2022/05/10/pages-that-didn-t-make-it-into--how-dns-works-/</id>
+        <link href="https://jvns.ca/blog/2022/05/10/pages-that-didn-t-make-it-into--how-dns-works-/"/>
+        <updated>2022-05-10T14:44:24.000Z</updated>
+        <summary type="html"><![CDATA[Hello! A couple weeks ago I released a new zine called How DNS Works.
+When I started writing that zine (in, uh, January 2021), I originally had in
+mind a broader zine on “everything you need to know to own a domain”. So it had
+a bunch of pages on domain registration, TLS, and email.
+At the time I thought “I can just explain DNS in like 5 pages, it’s not
+that complicated, there will be lots of space for other topics about domains”.
+I was extremely wrong about that and it turned out I needed all 28 pages to
+explain DNS. So I ended up deciding to just focus the zine on DNS and all those
+other topics didn’t make it into the final zine.
+This morning it occurred to me that instead of letting all of the old draft
+pages languish in purgatory on my hard drive, I could post those extra pages
+here all together on my blog. So here they are!
+disclaimer: not super cohesive
+I will say (as a disclaimer) that these pages aren’t as cohesive as I usually
+like my zines to be and they definitely do not tell you everything you need to
+need to know to own a domain.
+domain registration
+
+
+
+
+
+
+email
+
+
+I should say that these 2 pages don’t really do email justice – email security
+is a HUGE topic that honestly I don’t know a lot about.
+TLS
+
+
+These two pages also don’t remotely cover TLS, it’s possible I’ll write more in
+depth about TLS at some point. Who knows!
+that’s all!
+though I will say: if you liked these, you might be interested in buying How DNS Works :)]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Everything is going to be OK” is in THE collection in MoMA (also Tetrageddon won the Webby)]]></title>
+        <id>http://www.nathalielawhead.com/candybox/?p=5357</id>
+        <link href="http://www.nathalielawhead.com/candybox/everything-is-going-to-be-ok-is-in-the-collection-in-moma-also-tetrageddon-won-the-webby"/>
+        <updated>2022-05-10T02:24:31.000Z</updated>
+        <summary type="html"><![CDATA[I’m finally able to share some incredible news that deserves a blog post all on its own… “Everything is going to be OK” was accepted into the permanent collection in MoMA (New York)!!! I am honored to be able to announce that. It will be part of the Never Alone exhibit this September… Never Alone Video Games and Other Interactive Design Sep 10, 2022–summer 2023 “Everything is going to be OK” is a work that I’m probably most proud of. It has everything from me, poetry, animation, meaning… I’m honored that it has meant so much to so many people,...]]></summary>
+        <author>
+            <name>alienmelon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Someone should build X for the web” – why not you? All you need is a GitHub account]]></title>
         <id>https://christianheilmann.com/?p=7237</id>
@@ -24,6 +78,16 @@
         <summary type="html"><![CDATA[Today's links At the FTC, a quiet, profound shift on antitrust: Listening to "those who have experienced firsthand the effects of mergers and acquisitions beyond antitrust experts." Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading At the FTC, a quiet, profound shift on antitrust (permalink) Sometimes, a tiny change in the political process comes along that makes you realize just how far things have come – a change that's both substantive and symbolic. Something like this terse, six-paragraph memo from the FTC, a deceptively anodyne wrapper for an explosive moment: https://www.ftc.gov/news-events/events/2022/05/ftc-justice-department-listening-forum…]]></summary>
         <author>
             <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maps]]></title>
+        <id>https://xkcd.com/2617/</id>
+        <link href="https://xkcd.com/2617/"/>
+        <updated>2022-05-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/maps.png" title="OpenStreetMap was always pretty good but is also now *really* good? And Apple Maps's new zoomed-in design in certain cities like NYC and London is just gorgeous. It's cool how there are all these good maps now!" alt="OpenStreetMap was always pretty good but is also now *really* good? And Apple Maps's new zoomed-in design in certain cities like NYC and London is just gorgeous. It's cool how there are all these good maps now!" />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -1459,16 +1523,6 @@ snacks.  They'd a…]]></summary>
         <link href="https://pluralistic.net/2022/03/12/move-slow-and-fix-things/"/>
         <updated>2022-03-12T19:06:04.000Z</updated>
         <summary type="html"><![CDATA[Today's links A systemic (not individual) approach to content moderation: All the good stuff happens BEFORE the moderator gets involved. Hey look at this: Delights to delectate. This day in history: 2012 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading A systemic (not individual) approach to content moderation (permalink) As Mike Masnick is fond of saying, "Content moderation at scale is impossible." The evidence for that statement is all around us, in the form of innumerable moderation gaffes, howlers and travesties: Blocking mask-making volunteers to enforce a mask-ad ban; Removing history videos while trying to purge Holocaust denial; Deplatforming antiracist skinheads when trying to block racist skinheads; Removing an image of Captai…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 11 Mar 2022]]></title>
-        <id>https://pluralistic.net/?p=3282</id>
-        <link href="https://pluralistic.net/2022/03/11/a-market-for-flaming-lemons/"/>
-        <updated>2022-03-11T16:58:27.000Z</updated>
-        <summary type="html"><![CDATA[Today's links The SEC must not legitimize fake "carbon offsets": Net zero is not zero. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The SEC must not legitimize fake "carbon offsets" (permalink) Later this month, the SEC will release its "climate disclosure rule," which could be a turning point for the carbon offset "market," which is a presently a dumpster fire of accounting fraud, lies, and moral hazard: https://news.bloomberglaw.com/esg/green-groups-want-offsets-included-as-part-of-secs-climate-rule It's not clear whether the Commission will actually tackle offsets, and if they do, it's not clear whether they'll do so well. Certainly, the business …]]></summary>
         <author>
             <name>Cory Doctorow</name>
         </author>
