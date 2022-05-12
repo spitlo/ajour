@@ -251,6 +251,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2618/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/selection_bias.png\" title=\"We carefully sampled the general population and found that most people are familiar with acquiescence bias.\" alt=\"We carefully sampled the general population and found that most people are familiar with acquiescence bias.\" />",
+          "link": "https://xkcd.com/2618/",
+          "publishedOn": "2022-05-11T00:00:00.000Z",
+          "wordCount": 197,
+          "title": "Selection Bias",
+          "imageUrl": "https://imgs.xkcd.com/comics/selection_bias_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2617/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/maps.png\" title=\"OpenStreetMap was always pretty good but is also now *really* good? And Apple Maps's new zoomed-in design in certain cities like NYC and London is just gorgeous. It's cool how there are all these good maps now!\" alt=\"OpenStreetMap was always pretty good but is also now *really* good? And Apple Maps's new zoomed-in design in certain cities like NYC and London is just gorgeous. It's cool how there are all these good maps now!\" />",
@@ -1028,16 +1038,6 @@
           "wordCount": 2959,
           "title": "Implementing a toy version of TLS 1.3",
           "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2022/03/13/celebrate-tiny-learning-milestones/",
-          "author": null,
-          "description": "Hello! Today I want to talk about – how do you know you’re getting better at programming?\nOne obvious approach is:\nmake goals\nperiodically check if you achieved those goals\nif you did, celebrate\nI kind of hate goals\nGoals can be useful, but a lot of the time I actually find them stressful and\nnot that helpful. For example, here are a few goals I wrote down for myself 9\nyears ago:\nwrite a nontrivial amount of C code that works and is used by actual people\ncontribute to an open source project in C\nlearn C++\n9 years later, I have done 0 of those things. With the “goal” framing, it’s to\nthink of this as a bad thing! Like, I wanted to learn C++ and I didn’t! I still\ncan’t write C comfortably! Oh no! I guess I failed!\nI find this framing depressing and unhelpful. In reality, I didn’t have any re…",
-          "link": "https://jvns.ca/blog/2022/03/13/celebrate-tiny-learning-milestones/",
-          "publishedOn": "2022-03-13T09:27:58.000Z",
-          "wordCount": 829,
-          "title": "Celebrate tiny learning milestones",
-          "imageUrl": null
         }
       ]
     },
@@ -1099,6 +1099,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=3602",
+          "author": "Cory Doctorow",
+          "description": "Today's links The (billionaires') case against billionaires: Turns out, we live in a society. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The (billionaires') case against billionaires (permalink) The downsides of a world with billionaires in it are well-rehearsed: billionaires can convert their vast wealth to power, and use that power to turn their whims and pet theories into policy failures that affect millions – or even billions – of people. Take Bill Gates. Forget all the conspiracy theories about Gates and vaccines – it's bizarre that people bother to make up those fairy-tales when the truth is so much worse. Gates has an absolute ideologi…",
+          "link": "https://pluralistic.net/2022/05/11/a-dent-in-the-universe/",
+          "publishedOn": "2022-05-11T15:14:36.000Z",
+          "wordCount": 2436,
+          "title": "Pluralistic: 11 May 2022",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=3595",
           "author": "Cory Doctorow",
@@ -1517,16 +1527,6 @@
             "length": "0",
             "type": "audio/mpeg"
           },
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=3287",
-          "author": "Cory Doctorow",
-          "description": "Today's links A systemic (not individual) approach to content moderation: All the good stuff happens BEFORE the moderator gets involved. Hey look at this: Delights to delectate. This day in history: 2012 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading A systemic (not individual) approach to content moderation (permalink) As Mike Masnick is fond of saying, \"Content moderation at scale is impossible.\" The evidence for that statement is all around us, in the form of innumerable moderation gaffes, howlers and travesties: Blocking mask-making volunteers to enforce a mask-ad ban; Removing history videos while trying to purge Holocaust denial; Deplatforming antiracist skinheads when trying to block racist skinheads; Removing an image of Captai…",
-          "link": "https://pluralistic.net/2022/03/12/move-slow-and-fix-things/",
-          "publishedOn": "2022-03-12T19:06:04.000Z",
-          "wordCount": 2892,
-          "title": "Pluralistic: 12 Mar 2022",
           "imageUrl": null
         }
       ]
