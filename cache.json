@@ -6,6 +6,16 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=7244",
+          "author": "Chris Heilmann",
+          "description": "Using the Quick edit bookmarklet you can make any web site editable. Drag it to your favourites toolbar, click it and you get into edit mode. You can edit, copy and paste, delete and anything else. Hitting `ESC` will end edit mode. You can use this to quickly edit web sites before taking a screenshot, […]",
+          "link": "https://christianheilmann.com/2022/05/12/a-quick-edit-bookmarklet-to-make-changes-to-any-web-site/",
+          "publishedOn": "2022-05-12T19:29:56.000Z",
+          "wordCount": 217,
+          "title": "A “Quick Edit” bookmarklet to make changes to any web site",
+          "imageUrl": null
+        },
+        {
           "id": "https://christianheilmann.com/?p=7237",
           "author": "Chris Heilmann",
           "description": "Last week, Šime Vidas complained on Twitter that it is hard to paste a block of text on a mobile device. I proposed to use pastebin.com but that needs a lot of taps before you paste. Šime then proceeded to joke that we should create pastebinzero.com and all it needs is a full-screen. So I […]",
@@ -499,16 +509,6 @@
           "wordCount": 197,
           "title": "Consensus Time",
           "imageUrl": "https://imgs.xkcd.com/comics/consensus_time_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2593/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/deviled_eggs.png\" title=\"The foil on the toothpick represents the blue flash.\" alt=\"The foil on the toothpick represents the blue flash.\" />",
-          "link": "https://xkcd.com/2593/",
-          "publishedOn": "2022-03-14T00:00:00.000Z",
-          "wordCount": 197,
-          "title": "Deviled Eggs",
-          "imageUrl": "https://imgs.xkcd.com/comics/deviled_eggs_2x.png"
         }
       ]
     },
@@ -1000,6 +1000,16 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2022/05/12/sqlite-utils--a-nice-way-to-import-data-into-sqlite/",
+          "author": null,
+          "description": "Hello! This is a quick post about a nice tool I found recently called sqlite-utils, from the tools category.\nRecently I wanted to do some basic data analysis using data from my Shopify\nstore. So I figured I’d query the Shopify API and import my data into SQLite,\nand then I could make queries to get the graphs I want.\nBut this seemed like a lot of boring work, like I’d have to write a\nschema and write a Python program. So I hunted around for a solution, and I\nfound sqlite-utils, a tool designed to make it easy to import arbitrary data\ninto SQLite to do data analysis on the data.\nsqlite-utils automatically generates a schema\nThe Shopify data has about a billion fields and I really did not want to type\nout a schema for it. sqlite-utils solves this problem: if I have an array of\nJSON orders, I…",
+          "link": "https://jvns.ca/blog/2022/05/12/sqlite-utils--a-nice-way-to-import-data-into-sqlite/",
+          "publishedOn": "2022-05-12T09:35:06.000Z",
+          "wordCount": 653,
+          "title": "sqlite-utils: a nice way to import data into SQLite for analysis",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2022/05/10/pages-that-didn-t-make-it-into--how-dns-works-/",
           "author": null,
           "description": "Hello! A couple weeks ago I released a new zine called How DNS Works.\nWhen I started writing that zine (in, uh, January 2021), I originally had in\nmind a broader zine on “everything you need to know to own a domain”. So it had\na bunch of pages on domain registration, TLS, and email.\nAt the time I thought “I can just explain DNS in like 5 pages, it’s not\nthat complicated, there will be lots of space for other topics about domains”.\nI was extremely wrong about that and it turned out I needed all 28 pages to\nexplain DNS. So I ended up deciding to just focus the zine on DNS and all those\nother topics didn’t make it into the final zine.\nThis morning it occurred to me that instead of letting all of the old draft\npages languish in purgatory on my hard drive, I could post those extra pages\nhere all together on my blog. So here they are!\ndisclaimer: not super cohesive\nI will say (as a disclaimer) that these pages aren’t as cohesive as I usually\nlike my zines to be and they definitely do not tell you everything you need to\nneed to know to own a domain.\ndomain registration\n\n\n\n\n\n\nemail\n\n\nI should say that these 2 pages don’t really do email justice – email security\nis a HUGE topic that honestly I don’t know a lot about.\nTLS\n\n\nThese two pages also don’t remotely cover TLS, it’s possible I’ll write more in\ndepth about TLS at some point. Who knows!\nthat’s all!\nthough I will say: if you liked these, you might be interested in buying How DNS Works :)",
@@ -1092,13 +1102,34 @@
       "title": "A List Apart: The Full Feed",
       "feedUrl": "https://alistapart.com/main/feed/",
       "siteUrl": "https://alistapart.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://alistapart.com/article/redefine-success-first/",
+          "author": "by",
+          "description": "About two and a half years ago, I introduced the idea of daily ethical design. It was born out of my frustration with the many obstacles to achieving design that’s usable and equitable; protects people’s privacy, agency, and focus; benefits society; and restores nature. I argued that we need to overcome the inconveniences that prevent us from acting ethically and that we need to elevate design ethics to a more practical level by structurally integrating it into our daily work, processes, and tools.\nUnfortunately, we’re still very far from this ideal. \nAt the time, I didn’t know yet how to structurally integrate ethics. Yes, I had found some tools that had worked for me in previous projects, such as using checklists, assumption tracking, and “dark reality” sessions, but I didn’t manage to a…",
+          "link": "https://alistapart.com/article/redefine-success-first/",
+          "publishedOn": "2022-05-12T14:00:00.000Z",
+          "wordCount": 3970,
+          "title": "Designers, (Re)define Success First",
+          "imageUrl": "https://i0.wp.com/alistapart.com/wp-content/uploads/2022/05/redefine-success-illo.jpg?fit=1200%2C627&ssl=1"
+        }
+      ]
     },
     {
       "title": "Pluralistic: Daily links from Cory Doctorow",
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=3607",
+          "author": "Cory Doctorow",
+          "description": "Today's links A useful, critical taxonomy of decentralization, beyond blockchains: Not all who decentralize are bros. Hey look at this: Delights to delectate. This day in history: 2002, 2012, 2017. Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading A useful, critical taxonomy of decentralization, beyond blockchains (permalink) I keep getting sucked into discussions of web3, decentralization and cryptocurrency. It's only natural: much of the rhetoric and stated goals of the people behind these technologies intersect with my longstanding causes, like access to cryptography and decentralized communities (what we used to call P2P). The reason I say I get \"sucked into\" these discussions is that, despite the rhetorical overlap, I've sensed a sig…",
+          "link": "https://pluralistic.net/2022/05/12/crypto-means-cryptography/",
+          "publishedOn": "2022-05-12T17:28:13.000Z",
+          "wordCount": 3471,
+          "title": "Pluralistic: 12 May 2022",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=3602",
           "author": "Cory Doctorow",
