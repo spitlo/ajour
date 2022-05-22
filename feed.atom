@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-05-21T00:32:32.320Z</updated>
+    <updated>2022-05-22T00:34:42.751Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
@@ -1353,56 +1353,6 @@ Noodle, re-worked entire tool, added native TGA import(Mastodon), implemented fi
 The post The web is for everyone: Our vision for the evolution of the web appeared first on The Mozilla Blog.]]></summary>
         <author>
             <name>Bobby Holley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implementing a toy version of TLS 1.3]]></title>
-        <id>https://jvns.ca/blog/2022/03/23/a-toy-version-of-tls/</id>
-        <link href="https://jvns.ca/blog/2022/03/23/a-toy-version-of-tls/"/>
-        <updated>2022-03-23T12:25:30.000Z</updated>
-        <summary type="html"><![CDATA[Hello! Recently I’ve been thinking about how I find it fun to learn computer
-networking by implementing working versions of real network protocols.
-And it made me wonder – I’ve implemented toy versions of
-traceroute, TCP and DNS.
-What about TLS? Could I implement a toy version of that to learn more about how it works?
-I asked on Twitter if this would be hard, got some encouragement and pointers for where to start, so I decided to go for it.
-This was really fun and I learned a little more about how involved real
-cryptography is – thanks to cryptopals, I already 100% believed that I should not invent my own
-crypto implementations, and seeing how the crypto in TLS 1.3 works gave me even more of
-an appreciation for why I shouldn’t :)
-As a warning: I am really not a cryptography person, I will …]]></summary>
-        <author>
-            <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 23 Mar 2022]]></title>
-        <id>https://pluralistic.net/?p=3361</id>
-        <link href="https://pluralistic.net/2022/03/23/false-genocide-negative/"/>
-        <updated>2022-03-23T11:49:43.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Facebook's genocide filters are really, really bad: An AI that can't recognize its own training data is a very, very bad AI. Hey look at this: Delights to delectate. This day in history: 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Facebook's genocide filters are really, really bad (permalink) In the fall of 2020, Facebook went to war against Ad Observatory, a NYU-hosted crowdsourcing project that lets FB users capture the paid political ads they see through a browser plugin that santizes them of personal information and then uploads them to a portal that disinformation researchers can analyze. https://pluralistic.net/2020/10/25/musical-chairs/#son-of-power-ventures Facebook's attacks were truly s…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Salary Negotiation]]></title>
-        <id>https://xkcd.com/2597/</id>
-        <link href="https://xkcd.com/2597/"/>
-        <updated>2022-03-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/salary_negotiation.png" title="&quot;We can do 0.33 or 0.34, but our payroll software doesn't allow us to--&quot; &quot;NO DEAL.&quot;" alt="&quot;We can do 0.33 or 0.34, but our payroll software doesn't allow us to--&quot; &quot;NO DEAL.&quot;" />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 22 Mar 2022]]></title>
-        <id>https://pluralistic.net/?p=3356</id>
-        <link href="https://pluralistic.net/2022/03/22/myob/"/>
-        <updated>2022-03-22T15:12:48.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Ban surveillance advertising: EFF's technological and legal proposal for a surveillance-free internet. Hey look at this: Delights to delectate. This day in history: 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Ban surveillance advertising (permalink) I've been working with EFF for 20 years (!) now, and that association continues to pay dividends. EFF basically invented the idea of promoting tech policy positions that were informed by deep expertise in technology, law and human rights principles. This three-legged stool produces some remarkably sturdy proposals and policies – proposals that are legally sound, technologically achievable, and that advance important human rights causes in the digital …]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
         </author>
     </entry>
     <entry>
