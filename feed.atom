@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-06-07T00:28:40.119Z</updated>
+    <updated>2022-06-08T00:33:47.712Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GitHub Copilot explaining code and translating it from one language to another]]></title>
+        <id>https://christianheilmann.com/?p=7265</id>
+        <link href="https://christianheilmann.com/2022/06/07/github-copilot-explaining-code-and-translating-it-from-one-language-to-another/"/>
+        <updated>2022-06-07T20:57:10.000Z</updated>
+        <summary type="html"><![CDATA[GitHub Copilot is already the dog’s bollocks, but I just installed the GitHub Labs extension and my jaw is still open. Code explanation This one allows you to highlight a piece of code and get explanations of what it does: For example: async function downloadZipFile(downloadUrl) { await fs.remove(‘out/edge’); const file = fs.createWriteStream(‘edge.zip’); https.get(downloadUrl, function(response) { […]]]></summary>
+        <author>
+            <name>Chris Heilmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: 07 Jun 2022]]></title>
+        <id>https://pluralistic.net/?p=3736</id>
+        <link href="https://pluralistic.net/2022/06/07/more-than-human/"/>
+        <updated>2022-06-07T16:26:33.000Z</updated>
+        <summary type="html"><![CDATA[Today's links James Bridle's "Ways of Being": Dispatches from the more than human world. Fake Christian health insurance and other big cons: If you have to trick people into hearing your message, you are in a cult. Hey look at this: Delights to delectate. This day in history: 2002, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading James Bridle's "Ways of Being" (permalink) It's hard to pin down the thesis of James Bridle's Ways of Being, published today in the USA by Farrar, Strauss, Giroux – it's a big, lyrical, strange and inspiring book about the "more than human world" – a world that encompasses the worldview of animals, ecosystems, and software. https://us.macmillan.com/books/9780374601119/waysofbeing Bridle, an Engl…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pluralistic: 06 Jun 2022]]></title>
         <id>https://pluralistic.net/?p=3732</id>
@@ -14,6 +34,16 @@
         <summary type="html"><![CDATA[Today's links Podcasting "Against Cozy Catastrophes": My Medium column about the failure of market-based pensions. MBAs and wage stagnation: Going to business school makes you a dick. This day in history: 2002, 2007, 2012, 2017 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Podcasting "Against Cozy Catastrophes" (permalink) This week on my podcast, I read my recent Medium column, "Against Cozy Catastrophies: Cowering in a luxury bunker is a lousy retirement plan." It's a column about the failure of a market-based, individual based approach to the collective problem of retirement savings. https://doctorow.medium.com/against-cozy-catastrophies-7ac0a62f0922 One of the major contributors to the national wealth of the world's "advanced econ…]]></summary>
         <author>
             <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Or Whatever]]></title>
+        <id>https://xkcd.com/2629/</id>
+        <link href="https://xkcd.com/2629/"/>
+        <updated>2022-06-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/or_whatever.png" title="Oh yeah, I didn't even know they renamed it the Willis Tower in 2009, because I know a normal amount about skyscrapers." alt="Oh yeah, I didn't even know they renamed it the Willis Tower in 2009, because I know a normal amount about skyscrapers." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -1354,16 +1384,6 @@ z, xsv, and duf.]]></summary>
         <summary type="html"><![CDATA[This is a question that comes up very frequently in the narrative design conversations. This post is a tour of some possible answers. Select or Generate Content Content selection systems choose what piece of content to show the player next. They often function on the level of scenes or individual lines or barks in a … Continue reading "What does your narrative system need to do?"]]></summary>
         <author>
             <name>Emily Short</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 08 Apr 2022]]></title>
-        <id>https://pluralistic.net/?p=3437</id>
-        <link href="https://pluralistic.net/2022/04/08/oh-why/"/>
-        <updated>2022-04-08T19:15:30.000Z</updated>
-        <summary type="html"><![CDATA[Today's links The Ed Sheeran problem, or, how the record industry got what it asked for: A dog that caught the bus wheel. Hey look at this: Delights to delectate. This day in history: 2002, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The Ed Sheeran problem, or, how the record industry got what it asked for (permalink) You might have seen Ed Sheeran's triumphant statement about his victory in a copyright lawsuit that alleged he'd copied elements of Sami Switch's "Oh Why" in his song "Shape Of You": https://twitter.com/edsheeran/status/1511631955238047751 Sheeran's statement makes two critical points: first, that there are only so many ways of arranging English words and musical phrases, and 60,000 new songs being rel…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
         </author>
     </entry>
     <entry>
