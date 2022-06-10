@@ -474,16 +474,6 @@
           "wordCount": 201,
           "title": "Weird Unicode Math Symbols",
           "imageUrl": "https://imgs.xkcd.com/comics/weird_unicode_math_symbols_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2605/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/taylor_series.png\" title=\"The Taylor series should have been canceled after the first term.\" alt=\"The Taylor series should have been canceled after the first term.\" />",
-          "link": "https://xkcd.com/2605/",
-          "publishedOn": "2022-04-11T00:00:00.000Z",
-          "wordCount": 197,
-          "title": "Taylor Series",
-          "imageUrl": "https://imgs.xkcd.com/comics/taylor_series_2x.png"
         }
       ]
     },
@@ -1058,6 +1048,16 @@
       "feedUrl": "https://alistapart.com/main/feed/",
       "siteUrl": "https://alistapart.com",
       "articles": [
+        {
+          "id": "https://alistapart.com/article/mobile-first-css-is-it-time-for-a-rethink/",
+          "author": "by",
+          "description": "The mobile-first design methodology is great—it focuses on what really matters to the user, it’s well-practiced, and it’s been a common design pattern for years. So developing your CSS mobile-first should also be great, too…right? \nWell, not necessarily. Classic mobile-first CSS development is based on the principle of overwriting style declarations: you begin your CSS with default style declarations, and overwrite and/or add new styles as you add breakpoints with min-width media queries for larger viewports (for a good overview see “What is Mobile First CSS and Why Does It Rock?”). But all those exceptions create complexity and inefficiency, which in turn can lead to an increased testing effort and a code base that’s harder to maintain. Admit it—how many of us willingly want that?\nOn your…",
+          "link": "https://alistapart.com/article/mobile-first-css-is-it-time-for-a-rethink/",
+          "publishedOn": "2022-06-09T02:13:10.000Z",
+          "wordCount": null,
+          "title": "Mobile-First CSS: Is It Time for a Rethink?",
+          "imageUrl": null
+        },
         {
           "id": "https://alistapart.com/article/redefine-success-first/",
           "author": "by",
