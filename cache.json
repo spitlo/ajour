@@ -216,6 +216,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2631/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/exercise_progression.png\" title=\"They said after I got into a routine, I'd enjoy getting progressively stronger and stop whining so much about how hard exercise was. Well, they were half right!\" alt=\"They said after I got into a routine, I'd enjoy getting progressively stronger and stop whining so much about how hard exercise was. Well, they were half right!\" />",
+          "link": "https://xkcd.com/2631/",
+          "publishedOn": "2022-06-10T00:00:00.000Z",
+          "wordCount": 197,
+          "title": "Exercise Progression",
+          "imageUrl": "https://imgs.xkcd.com/comics/exercise_progression_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2630/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/shuttle_skeleton.png\" title=\"It's believed to be related to the Stellar Sea Cow.\" alt=\"It's believed to be related to the Stellar Sea Cow.\" />",
@@ -454,16 +464,6 @@
           "wordCount": 197,
           "title": "Geiger Counter",
           "imageUrl": "https://imgs.xkcd.com/comics/geiger_counter_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2606/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/weird_unicode_math_symbols.png\" title=\"U+2A0B ⨋ Mathematicians need to calm down\" alt=\"U+2A0B ⨋ Mathematicians need to calm down\" />",
-          "link": "https://xkcd.com/2606/",
-          "publishedOn": "2022-04-13T00:00:00.000Z",
-          "wordCount": 201,
-          "title": "Weird Unicode Math Symbols",
-          "imageUrl": "https://imgs.xkcd.com/comics/weird_unicode_math_symbols_2x.png"
         }
       ]
     },
@@ -1013,16 +1013,6 @@
           "wordCount": 935,
           "title": "New zine: How DNS Works!",
           "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/",
-          "author": null,
-          "description": "Hello! Today I asked on twitter about newer\ncommand line tools, like ripgrep and fd and fzf and exa and bat.\nI got a bunch of replies with tools I hadn’t heard of, so I thought I’d make a\nlist here. A lot of people also pointed at the modern-unix list.\nreplacements for standard tools\nripgrep, ag, ack (grep)\nexa, lsd (ls)\nmosh (ssh)\nbat (cat)\ndelta (a pager for git)\nfd (find)\ndrill, dog (dig)\nduf (df)\ndust, ncdu (du)\npgcli (psql)\nbtm, btop, glances, gtop, zenith (top)\ntldr (man, sort of)\nsd (sed)\ndifftastic (diff)\nmtr (traceroute)\nplocate (locate)\nnew inventions\nHere are some tools that are not exactly replacements for standard tools:\nz, fasd, autojump, zoxide (tools to make it easier to find files / change directories)\nbroot (a file manager)\ndirenv (load environment variables depending on the current directory)\nfzf, peco (“fuzzy finder”)\ncroc and magic-wormhole (send files from one computer to another)\nhyperfine (benchmarking)\nhttpie, curlie, xh (for making HTTP requests)\nentr (run arbitrary commands when files change)\nasdf (version manager for multiple languages)\ntig, lazygit (interactive interfaces for git)\nlazydocker (interactive interface for docker)\nchoose (the basics of awk/cut)\nctop (top for containers)\nfuck (autocorrect command line errors)\npbcopy/pbpaste (for clipboard <> stdin/stdout) maybe aren’t “new” but were mentioned a lot. You can use xclip to do the same thing on Linux.\nJSON/YAML/CSV things:\njq (a great JSON-wrangling tool)\njc (convert various tools’ output into JSON)\nyq  (like jq, but for YAML). there’s also another yq\nfq (like jq, but for binary)\nfx (interactive json tool)\njless (json pager)\nxsv (a command line tool for csv files, from burntsushi)\nvisidata (“an interactive multitool for tabular data”)\ngrep things:\npdfgrep (grep for PDF)\ngron (make JSON greppable)\nripgrep-all (ripgrep, but also PDF, zip, ebooks, etc)\nsome of my favourites\nMy favourites of these that I use already are entr, ripgrep, git-delta,\nhttpie, plocate, and jq. I’m interested in trying out btm,\nz, xsv, and duf.",
-          "link": "https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/",
-          "publishedOn": "2022-04-12T15:30:07.000Z",
-          "wordCount": 409,
-          "title": "A list of new(ish) command line tools",
-          "imageUrl": null
         }
       ]
     },
@@ -1513,16 +1503,6 @@
           "publishedOn": "2022-04-13T16:34:44.000Z",
           "wordCount": 2373,
           "title": "Pluralistic: 13 Apr 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=3454",
-          "author": "Cory Doctorow",
-          "description": "Today's links Daniel Pinkwater's \"Crazy in Poughkeepsie\": Another Pinkwater masterpiece, in which we sojourn to whale heaven. Hey look at this: Delights to delectate. This day in history: 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Daniel Pinkwater's \"Crazy in Poughkeepsie\" (permalink) \"Crazy in Poughkeepsie\" is Daniel Pinkwater's standalone, demi-sequel to 2020's \"Adventures of Dwergish Girl,\" a YA novel about a sort-of Catskills leprechaun girl whose coming of age involves moving to human civilization, learning the art of pizza-making, getting involved with community radio, venturing to New York City to drink papaya juice and learn mystic secrets from a junk-store owner, and, ultimately, resolving an existential t…",
-          "link": "https://pluralistic.net/2022/04/12/klong-you-are-a-pickle/",
-          "publishedOn": "2022-04-12T14:13:13.000Z",
-          "wordCount": 1701,
-          "title": "Pluralistic: 12 Apr 2022",
           "imageUrl": null
         }
       ]

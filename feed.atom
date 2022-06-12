@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-06-11T00:34:30.094Z</updated>
+    <updated>2022-06-12T00:34:33.675Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
@@ -25,6 +25,16 @@
 The post Tony-nominated Arnulfo Maldonado Shares Pride and Joy From His Corner of the Internet appeared first on The Mozilla Blog.]]></summary>
         <author>
             <name>Damiano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exercise Progression]]></title>
+        <id>https://xkcd.com/2631/</id>
+        <link href="https://xkcd.com/2631/"/>
+        <updated>2022-06-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/exercise_progression.png" title="They said after I got into a routine, I'd enjoy getting progressively stronger and stop whining so much about how hard exercise was. Well, they were half right!" alt="They said after I got into a routine, I'd enjoy getting progressively stronger and stop whining so much about how hard exercise was. Well, they were half right!" />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -1313,90 +1323,6 @@ The post Mozilla celebrates groundbreaking creators in new docuseries “Firefox
         <link href="https://pluralistic.net/2022/04/13/taxes-are-for-the-little-people/"/>
         <updated>2022-04-13T16:34:44.000Z</updated>
         <summary type="html"><![CDATA[Today's links America's 400 top earners pay less tax than you: Propublica continues to mine the IRS Files. Hey look at this: Delights to delectate. This day in history: 2002, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading America's 400 top earners pay less tax than you (permalink) Last June, Propublica announced that it was in possession of leaked IRS files detailing the tax affairs of America's richest people, and that the IRS Files showed that taxes are – as Leona Helmsley famously quipped – for the little people: https://pluralistic.net/2021/06/15/guillotines-and-taxes/#carried-interest The initial reporting described how, for example, private equity raiders were able to debt-finance acquisitions of productive busin…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weird Unicode Math Symbols]]></title>
-        <id>https://xkcd.com/2606/</id>
-        <link href="https://xkcd.com/2606/"/>
-        <updated>2022-04-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/weird_unicode_math_symbols.png" title="U+2A0B ⨋ Mathematicians need to calm down" alt="U+2A0B ⨋ Mathematicians need to calm down" />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A list of new(ish) command line tools]]></title>
-        <id>https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/</id>
-        <link href="https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/"/>
-        <updated>2022-04-12T15:30:07.000Z</updated>
-        <summary type="html"><![CDATA[Hello! Today I asked on twitter about newer
-command line tools, like ripgrep and fd and fzf and exa and bat.
-I got a bunch of replies with tools I hadn’t heard of, so I thought I’d make a
-list here. A lot of people also pointed at the modern-unix list.
-replacements for standard tools
-ripgrep, ag, ack (grep)
-exa, lsd (ls)
-mosh (ssh)
-bat (cat)
-delta (a pager for git)
-fd (find)
-drill, dog (dig)
-duf (df)
-dust, ncdu (du)
-pgcli (psql)
-btm, btop, glances, gtop, zenith (top)
-tldr (man, sort of)
-sd (sed)
-difftastic (diff)
-mtr (traceroute)
-plocate (locate)
-new inventions
-Here are some tools that are not exactly replacements for standard tools:
-z, fasd, autojump, zoxide (tools to make it easier to find files / change directories)
-broot (a file manager)
-direnv (load environment variables depending on the current directory)
-fzf, peco (“fuzzy finder”)
-croc and magic-wormhole (send files from one computer to another)
-hyperfine (benchmarking)
-httpie, curlie, xh (for making HTTP requests)
-entr (run arbitrary commands when files change)
-asdf (version manager for multiple languages)
-tig, lazygit (interactive interfaces for git)
-lazydocker (interactive interface for docker)
-choose (the basics of awk/cut)
-ctop (top for containers)
-fuck (autocorrect command line errors)
-pbcopy/pbpaste (for clipboard <> stdin/stdout) maybe aren’t “new” but were mentioned a lot. You can use xclip to do the same thing on Linux.
-JSON/YAML/CSV things:
-jq (a great JSON-wrangling tool)
-jc (convert various tools’ output into JSON)
-yq  (like jq, but for YAML). there’s also another yq
-fq (like jq, but for binary)
-fx (interactive json tool)
-jless (json pager)
-xsv (a command line tool for csv files, from burntsushi)
-visidata (“an interactive multitool for tabular data”)
-grep things:
-pdfgrep (grep for PDF)
-gron (make JSON greppable)
-ripgrep-all (ripgrep, but also PDF, zip, ebooks, etc)
-some of my favourites
-My favourites of these that I use already are entr, ripgrep, git-delta,
-httpie, plocate, and jq. I’m interested in trying out btm,
-z, xsv, and duf.]]></summary>
-        <author>
-            <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 12 Apr 2022]]></title>
-        <id>https://pluralistic.net/?p=3454</id>
-        <link href="https://pluralistic.net/2022/04/12/klong-you-are-a-pickle/"/>
-        <updated>2022-04-12T14:13:13.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Daniel Pinkwater's "Crazy in Poughkeepsie": Another Pinkwater masterpiece, in which we sojourn to whale heaven. Hey look at this: Delights to delectate. This day in history: 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Daniel Pinkwater's "Crazy in Poughkeepsie" (permalink) "Crazy in Poughkeepsie" is Daniel Pinkwater's standalone, demi-sequel to 2020's "Adventures of Dwergish Girl," a YA novel about a sort-of Catskills leprechaun girl whose coming of age involves moving to human civilization, learning the art of pizza-making, getting involved with community radio, venturing to New York City to drink papaya juice and learn mystic secrets from a junk-store owner, and, ultimately, resolving an existential t…]]></summary>
         <author>
             <name>Cory Doctorow</name>
         </author>
