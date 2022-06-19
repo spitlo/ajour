@@ -216,6 +216,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2634/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/red_line_through_https.png\" title=\"Some organization has been paying to keep this up and it hasn't been removed from search results. Seems like two votes of confidence to me.\" alt=\"Some organization has been paying to keep this up and it hasn't been removed from search results. Seems like two votes of confidence to me.\" />",
+          "link": "https://xkcd.com/2634/",
+          "publishedOn": "2022-06-17T00:00:00.000Z",
+          "wordCount": 227,
+          "title": "Red Line Through HTTPS",
+          "imageUrl": "https://imgs.xkcd.com/comics/red_line_through_https_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2633/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/astronomer_hotline.png\" title=\"Employment statistics have to correct for the fact that the Weird Bug Hotline hires on a bunch of extra temporary staff every 17 years.\" alt=\"Employment statistics have to correct for the fact that the Weird Bug Hotline hires on a bunch of extra temporary staff every 17 years.\" />",
@@ -454,16 +464,6 @@
           "wordCount": 197,
           "title": "Assigning Numbers",
           "imageUrl": "https://imgs.xkcd.com/comics/assigning_numbers_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2609/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/entwives.png\" title=\"No, we actually do have a woman who's basically part of our fellowship. She lives in Rivendell, you wouldn't know her.\" alt=\"No, we actually do have a woman who's basically part of our fellowship. She lives in Rivendell, you wouldn't know her.\" />",
-          "link": "https://xkcd.com/2609/",
-          "publishedOn": "2022-04-20T00:00:00.000Z",
-          "wordCount": 195,
-          "title": "Entwives",
-          "imageUrl": "https://imgs.xkcd.com/comics/entwives_2x.png"
         }
       ]
     },
@@ -1635,5 +1635,5 @@
       ]
     }
   ],
-  "cliVersion": "1.14.4"
+  "cliVersion": "1.15.0"
 }
