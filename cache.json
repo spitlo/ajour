@@ -6,6 +6,16 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=7268",
+          "author": "Chris Heilmann",
+          "description": "When you have your OS set up in dark mode seeing bright form elements is grating. By starting your style sheet with a single line of CSS, you can make sure that people using dark mode get dark form elements and backgrounds and those using light mode, light ones. You can see it in this […]",
+          "link": "https://christianheilmann.com/2022/06/20/one-line-of-css-to-add-basic-dark-light-mode/",
+          "publishedOn": "2022-06-20T22:33:20.000Z",
+          "wordCount": 423,
+          "title": "One line of CSS to add basic dark/light mode",
+          "imageUrl": null
+        },
+        {
           "id": "https://christianheilmann.com/?p=7265",
           "author": "Chris Heilmann",
           "description": "GitHub Copilot is already the dog’s bollocks, but I just installed the GitHub Labs extension and my jaw is still open. Code explanation This one allows you to highlight a piece of code and get explanations of what it does: For example: async function downloadZipFile(downloadUrl) { await fs.remove(‘out/edge’); const file = fs.createWriteStream(‘edge.zip’); https.get(downloadUrl, function(response) { […]",
@@ -454,16 +464,6 @@
           "wordCount": 199,
           "title": "Cutest-Sounding Scientific Effects",
           "imageUrl": "https://imgs.xkcd.com/comics/cutest_sounding_scientific_effects_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2610/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/assigning_numbers.png\" title=\"Gödel should do an article on which branches of math have the lowest average theorem number.\" alt=\"Gödel should do an article on which branches of math have the lowest average theorem number.\" />",
-          "link": "https://xkcd.com/2610/",
-          "publishedOn": "2022-04-22T00:00:00.000Z",
-          "wordCount": 197,
-          "title": "Assigning Numbers",
-          "imageUrl": "https://imgs.xkcd.com/comics/assigning_numbers_2x.png"
         }
       ]
     },
