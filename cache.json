@@ -464,16 +464,6 @@
           "wordCount": 195,
           "title": "2",
           "imageUrl": "https://imgs.xkcd.com/comics/2_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2613/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/bad_map_projection_madagascator.png\" title=\"The projection's north pole is in a small lake on the island of Mahé in the Seychelles, which is off the top of the map and larger than the rest of the Earth's land area combined.\" alt=\"The projection's north pole is in a small lake on the island of Mahé in the Seychelles, which is off the top of the map and larger than the rest of the Earth's land area combined.\" />",
-          "link": "https://xkcd.com/2613/",
-          "publishedOn": "2022-04-29T00:00:00.000Z",
-          "wordCount": 201,
-          "title": "Bad Map Projection: Madagascator",
-          "imageUrl": "https://imgs.xkcd.com/comics/bad_map_projection_madagascator_2x.png"
         }
       ]
     },
@@ -768,6 +758,16 @@
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
         {
+          "id": "https://blog.mozilla.org/?p=69351",
+          "author": "Damiano",
+          "description": "Here at Mozilla, we are the first to admit the internet isn’t perfect, but we are also quick to point out that the internet is pretty darn magical. The internet opens up doors and opportunities, allows for people to connect with others, and lets everyone find where they belong — their corners of the internet. […]\nThe post Recording Academy’s VP of D.E.I. Ryan Butler Tells Us What Brings Him Joy Online appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/internet-culture/recording-academys-vp-of-d-e-i-ryan-butler-tells-us-what-brings-him-joy-online/",
+          "publishedOn": "2022-06-27T16:00:00.000Z",
+          "wordCount": 1745,
+          "title": "Recording Academy’s VP of D.E.I. Ryan Butler Tells Us What Brings Him Joy Online",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/06/mcoi_ryanbutler_header_1920x1080-1080x720.jpg"
+        },
+        {
           "id": "https://blog.mozilla.org/?p=69339",
           "author": "Damiano",
           "description": "Here at Mozilla, we are the first to admit the internet isn’t perfect, but we are also quick to point out that the internet is pretty darn magical. The internet opens up doors and opportunities, allows for people to connect with others, and lets everyone find where they belong — their corners of the internet. […]\nThe post Joey Amato, Publisher of Pride Journeys, Shares What Brings Him Joy Online appeared first on The Mozilla Blog.",
@@ -1022,6 +1022,16 @@
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
         {
+          "id": "https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/",
+          "author": "Josh W. Comeau",
+          "description": "If you've ever had the misfortune of being tasked with building a template for HTML emails, you know it's tricky business! In this blog post, I share the approach I took to build responsive, client-friendly emails without a single \n tag.",
+          "link": "https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/",
+          "publishedOn": "2022-06-27T12:00:00.000Z",
+          "wordCount": 7934,
+          "title": "My Wonderful HTML Email Workflow",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-wonderful-emails-with-mjml-and-mdx.png"
+        },
+        {
           "id": "https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/",
           "author": "Josh W. Comeau",
           "description": "“Should I use pixels or rems?”. In this comprehensive blog post, we'll answer this question once and for all. You'll learn about the accessibility implications, and how to determine the best unit to use in any scenario.",
@@ -1075,6 +1085,21 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=3817",
+          "author": "Cory Doctorow",
+          "description": "Today's links Podcasting \"Reasonable Agreement\": \"On the Crapification of Literary Contracts.\" Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Podcasting \"Reasonable Agreement\" (permalink) This week on my podcast, I read my recent @Medium column, \"Reasonable Agreement: On the Crapification of Literary Contracts,\" about the alarming standardization of non-negotiable (and terrible) contracting terms in freelance writing contracts: https://doctorow.medium.com/reasonable-agreement-ea8600a89ed7 I started selling to magazines in the 1980s, a moment when Reagan's antitrust deregulation drove waves of mergers in the market. The major magazines were changi…",
+          "link": "https://pluralistic.net/2022/06/27/reps-and-warranties/",
+          "publishedOn": "2022-06-27T15:36:26.000Z",
+          "wordCount": 3409,
+          "title": "Pluralistic: 27 Jun 2022",
+          "enclosure": {
+            "url": "https://archive.org/download/Cory_Doctorow_Podcast_430/Cory_Doctorow_Podcast_430_-_Reasonable_Agreement.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=3813",
           "author": "Cory Doctorow",
@@ -1483,16 +1508,6 @@
           "publishedOn": "2022-04-29T13:40:54.000Z",
           "wordCount": 1976,
           "title": "Pluralistic: 29 Apr 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=3532",
-          "author": "Cory Doctorow",
-          "description": "Today's links Renegotiate the web \"bargain\" by blocking all ads: The Adafruit ESPHole lets you say \"How about 'Nah?'\" Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Renegotiate the web \"bargain\" by blocking all ads (permalink) Back in 2019, I wrote a case-study on ad- and tracker-blocking as part of EFF's series on adversarial interoperability (AKA \"competitive compatibility\" or comcom). My point was that the ad-tech industry says that it tracks you as part of a bargain: you trade away your privacy and get media in exchange, but that this was a bizarre kind of take-it-or-leave-it form of bargaining. https://www.eff.org/deeplinks/2019/07/adblockin…",
-          "link": "https://pluralistic.net/2022/04/28/shut-yer-pi-hole/",
-          "publishedOn": "2022-04-28T13:29:27.000Z",
-          "wordCount": 1665,
-          "title": "Pluralistic: 28 Apr 2022",
           "imageUrl": null
         }
       ]
