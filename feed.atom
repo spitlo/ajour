@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-06-28T00:37:04.437Z</updated>
+    <updated>2022-06-29T00:34:01.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Taking screenshots of streaming video services using Browser Developer Tools]]></title>
+        <id>https://christianheilmann.com/?p=7272</id>
+        <link href="https://christianheilmann.com/2022/06/28/taking-screenshots-of-streaming-video-services-using-browser-developer-tools/"/>
+        <updated>2022-06-28T19:58:33.000Z</updated>
+        <summary type="html"><![CDATA[One of the more overly strict features of video players in modern operating systems is that you can not use screen recording or screenshot tools to record content from streaming video platforms like Netflix or Disney+. Whilst I understand the need for DRM and preventing recording a streaming program, taking screenshots is a different matter. […]]]></summary>
+        <author>
+            <name>Chris Heilmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: 28 Jun 2022]]></title>
+        <id>https://pluralistic.net/?p=3822</id>
+        <link href="https://pluralistic.net/2022/06/28/bartlebytron-3000/"/>
+        <updated>2022-06-28T17:38:05.000Z</updated>
+        <summary type="html"><![CDATA[Today's links Decrapify cookie consent dialogs with the Consent-O-Matic: Comcom steps in where GDPR enforcement failed. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Decrapify cookie consent dialogs with the Consent-O-Matic (permalink) Remember when they sneered at Geocities pages for being unusable eyesores? It's true, those old sites had some, uh, idiosyncratic design choices, but at least they reflected a real person's exuberant ideas about what looked and worked well. Today's web is an unusable eyesore by design. Start with those fucking "sign up for our newsletter" interruptors. Email is the last federated protocol standing, so everyone who…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notes on running containers with bubblewrap]]></title>
+        <id>https://jvns.ca/blog/2022/06/28/some-notes-on-bubblewrap/</id>
+        <link href="https://jvns.ca/blog/2022/06/28/some-notes-on-bubblewrap/"/>
+        <updated>2022-06-28T12:24:34.000Z</updated>
+        <summary type="html"><![CDATA[Hello! About a year ago I got mad about Docker container startup time. This was
+because I was building an nginx playground
+where I was starting a new “container” on every HTTP request, and so for it to
+feel reasonably snappy, nginx needed to start quickly.
+Also, I was running this project on a pretty small cloud machine (256MB RAM), a
+small CPU, so I really wanted to avoid unnecessary overhead.
+I’ve been looking for a way to run containers faster since then, but I couldn’t
+find one until last week when I discovered
+bubblewrap!! It’s very fast and I
+think it’s super cool, but I also ran into a bunch of fun problems that I
+wanted to write down for my future self.
+some disclaimers
+I’m not sure if the way I’m using bubblewrap in this post is maybe not how it’s intended to be used
+there are a l…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Recording Academy’s VP of D.E.I. Ryan Butler Tells Us What Brings Him Joy Online]]></title>
         <id>https://blog.mozilla.org/?p=69351</id>
@@ -36,6 +79,16 @@ The post Recording Academy’s VP of D.E.I. Ryan Butler Tells Us What Brings Him
  tag.]]></summary>
         <author>
             <name>Josh W. Comeau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extended NFPA Hazard Diamond]]></title>
+        <id>https://xkcd.com/2638/</id>
+        <link href="https://xkcd.com/2638/"/>
+        <updated>2022-06-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/extended_nfpa_hazard_diamond.png" title="With most labs, the hushed horror stories are about something like dimethylmercury or prions, but occasionally you'll get a weird lab where it's about the soda machine or the drop ceiling." alt="With most labs, the hushed horror stories are about something like dimethylmercury or prions, but occasionally you'll get a weird lab where it's about the soda machine or the drop ceiling." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -1304,16 +1357,6 @@ Continue Reading]]></summary>
         <link href="https://pluralistic.net/2022/04/30/disney-still-must-pay/"/>
         <updated>2022-04-30T15:41:02.000Z</updated>
         <summary type="html"><![CDATA[Today's links Disney's writer wage theft, a year on: Still work to do. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Disney's writer wage theft, a year on (permalink) In November 2020, SFWA came forward with a stunning accusation: Disney had told the beloved writer Alan Dean Foster (author of the original, bestselling Star Wars novelization) that they would not ever pay him the royalties he was owed. https://pluralistic.net/2020/11/19/disneymustpay/#disneymustpay Disney argued that Foster's contract – where he was guaranteed wages for his creative labor on the Star Wars book, which was written before the film was complete and formed the basis for many…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 29 Apr 2022]]></title>
-        <id>https://pluralistic.net/?p=3537</id>
-        <link href="https://pluralistic.net/2022/04/29/taken-in-context/"/>
-        <updated>2022-04-29T13:40:54.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Killing online surveillance with contextual ads: For chrissakes, can we stop talking about who the product is? Hey look at this: Delights to delectate. This day in history: 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Killing online surveillance with contextual ads (permalink) The internet has ushered in an era of unprecedented invasive surveillance. Commercial operators large and small spy on us in every way and sell and give away and leak our data to criminals, cops, spies, advertisers and stalkers. This isn't because you're not paying for "the product," which makes you the product. Companies that can abuse you do. John Deere will sell you a $800,000 tractor and then lock you out of getting it f…]]></summary>
         <author>
             <name>Cory Doctorow</name>
         </author>

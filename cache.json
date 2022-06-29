@@ -6,6 +6,16 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=7272",
+          "author": "Chris Heilmann",
+          "description": "One of the more overly strict features of video players in modern operating systems is that you can not use screen recording or screenshot tools to record content from streaming video platforms like Netflix or Disney+. Whilst I understand the need for DRM and preventing recording a streaming program, taking screenshots is a different matter. […]",
+          "link": "https://christianheilmann.com/2022/06/28/taking-screenshots-of-streaming-video-services-using-browser-developer-tools/",
+          "publishedOn": "2022-06-28T19:58:33.000Z",
+          "wordCount": 673,
+          "title": "Taking screenshots of streaming video services using Browser Developer Tools",
+          "imageUrl": null
+        },
+        {
           "id": "https://christianheilmann.com/?p=7268",
           "author": "Chris Heilmann",
           "description": "When you have your OS set up in dark mode seeing bright form elements is grating. By starting your style sheet with a single line of CSS, you can make sure that people using dark mode get dark form elements and backgrounds and those using light mode, light ones. You can see it in this […]",
@@ -225,6 +235,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2638/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/extended_nfpa_hazard_diamond.png\" title=\"With most labs, the hushed horror stories are about something like dimethylmercury or prions, but occasionally you'll get a weird lab where it's about the soda machine or the drop ceiling.\" alt=\"With most labs, the hushed horror stories are about something like dimethylmercury or prions, but occasionally you'll get a weird lab where it's about the soda machine or the drop ceiling.\" />",
+          "link": "https://xkcd.com/2638/",
+          "publishedOn": "2022-06-27T00:00:00.000Z",
+          "wordCount": 227,
+          "title": "Extended NFPA Hazard Diamond",
+          "imageUrl": "https://imgs.xkcd.com/comics/extended_nfpa_hazard_diamond_2x.png"
+        },
         {
           "id": "https://xkcd.com/2637/",
           "author": null,
@@ -995,6 +1015,16 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2022/06/28/some-notes-on-bubblewrap/",
+          "author": null,
+          "description": "Hello! About a year ago I got mad about Docker container startup time. This was\nbecause I was building an nginx playground\nwhere I was starting a new “container” on every HTTP request, and so for it to\nfeel reasonably snappy, nginx needed to start quickly.\nAlso, I was running this project on a pretty small cloud machine (256MB RAM), a\nsmall CPU, so I really wanted to avoid unnecessary overhead.\nI’ve been looking for a way to run containers faster since then, but I couldn’t\nfind one until last week when I discovered\nbubblewrap!! It’s very fast and I\nthink it’s super cool, but I also ran into a bunch of fun problems that I\nwanted to write down for my future self.\nsome disclaimers\nI’m not sure if the way I’m using bubblewrap in this post is maybe not how it’s intended to be used\nthere are a l…",
+          "link": "https://jvns.ca/blog/2022/06/28/some-notes-on-bubblewrap/",
+          "publishedOn": "2022-06-28T12:24:34.000Z",
+          "wordCount": 3065,
+          "title": "Notes on running containers with bubblewrap",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2022/05/12/sqlite-utils--a-nice-way-to-import-data-into-sqlite/",
           "author": null,
           "description": "Hello! This is a quick post about a nice tool I found recently called sqlite-utils, from the tools category.\nRecently I wanted to do some basic data analysis using data from my Shopify\nstore. So I figured I’d query the Shopify API and import my data into SQLite,\nand then I could make queries to get the graphs I want.\nBut this seemed like a lot of boring work, like I’d have to write a\nschema and write a Python program. So I hunted around for a solution, and I\nfound sqlite-utils, a tool designed to make it easy to import arbitrary data\ninto SQLite to do data analysis on the data.\nsqlite-utils automatically generates a schema\nThe Shopify data has about a billion fields and I really did not want to type\nout a schema for it. sqlite-utils solves this problem: if I have an array of\nJSON orders, I…",
@@ -1085,6 +1115,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=3822",
+          "author": "Cory Doctorow",
+          "description": "Today's links Decrapify cookie consent dialogs with the Consent-O-Matic: Comcom steps in where GDPR enforcement failed. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Decrapify cookie consent dialogs with the Consent-O-Matic (permalink) Remember when they sneered at Geocities pages for being unusable eyesores? It's true, those old sites had some, uh, idiosyncratic design choices, but at least they reflected a real person's exuberant ideas about what looked and worked well. Today's web is an unusable eyesore by design. Start with those fucking \"sign up for our newsletter\" interruptors. Email is the last federated protocol standing, so everyone who…",
+          "link": "https://pluralistic.net/2022/06/28/bartlebytron-3000/",
+          "publishedOn": "2022-06-28T17:38:05.000Z",
+          "wordCount": 3306,
+          "title": "Pluralistic: 28 Jun 2022",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=3817",
           "author": "Cory Doctorow",
@@ -1498,16 +1538,6 @@
           "publishedOn": "2022-04-30T15:41:02.000Z",
           "wordCount": 2359,
           "title": "Pluralistic: 30 Apr 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=3537",
-          "author": "Cory Doctorow",
-          "description": "Today's links Killing online surveillance with contextual ads: For chrissakes, can we stop talking about who the product is? Hey look at this: Delights to delectate. This day in history: 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Killing online surveillance with contextual ads (permalink) The internet has ushered in an era of unprecedented invasive surveillance. Commercial operators large and small spy on us in every way and sell and give away and leak our data to criminals, cops, spies, advertisers and stalkers. This isn't because you're not paying for \"the product,\" which makes you the product. Companies that can abuse you do. John Deere will sell you a $800,000 tractor and then lock you out of getting it f…",
-          "link": "https://pluralistic.net/2022/04/29/taken-in-context/",
-          "publishedOn": "2022-04-29T13:40:54.000Z",
-          "wordCount": 1976,
-          "title": "Pluralistic: 29 Apr 2022",
           "imageUrl": null
         }
       ]
