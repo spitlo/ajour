@@ -454,16 +454,6 @@
           "wordCount": 197,
           "title": "Welcome Back",
           "imageUrl": "https://imgs.xkcd.com/comics/welcome_back_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2614/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/2.png\" title=\"It's like sigma summation notation, except instead of summing the argument over all values of i, you 2 the argument over all values of 2.\" alt=\"It's like sigma summation notation, except instead of summing the argument over all values of i, you 2 the argument over all values of 2.\" />",
-          "link": "https://xkcd.com/2614/",
-          "publishedOn": "2022-05-02T00:00:00.000Z",
-          "wordCount": 195,
-          "title": "2",
-          "imageUrl": "https://imgs.xkcd.com/comics/2_2x.png"
         }
       ]
     },
@@ -774,10 +764,30 @@
       "articles": []
     },
     {
-      "title": "The Mozilla Blog",
+      "title": "Latest - The Mozilla Blog",
       "feedUrl": "https://blog.mozilla.org/en/feed/",
-      "siteUrl": "https://blog.mozilla.org/en/",
+      "siteUrl": "https://blog.mozilla.org",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=69374",
+          "author": "Mozilla",
+          "description": "Want to live a more fulfilling life? The internet gives plenty of advice. But finding guidance backed by research can get tricky. That’s where The Science of Happiness podcast comes in. Co-produced by PRX and UC Berkeley’s Greater Good Science Center, the popular podcast explores science-backed strategies to cultivate a happier life. Its new series, […]\nThe post A Pocket collection for your wellness journey, as curated by the team behind ‘The Science of Happiness’ podcast appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/products/pocket/science-of-happiness-podcast-wellness-dacher-keltner/",
+          "publishedOn": "2022-06-30T17:24:44.000Z",
+          "wordCount": 2407,
+          "title": "A Pocket collection for your wellness journey, as curated by the team behind ‘The Science of Happiness’ podcast",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/06/pocket_prxcollection01_blog-1029x686.jpg"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=69351",
+          "author": "Damiano",
+          "description": "Here at Mozilla, we are the first to admit the internet isn’t perfect, but we are also quick to point out that the internet is pretty darn magical. The internet opens up doors and opportunities, allows for people to connect with others, and lets everyone find where they belong — their corners of the internet. […]\nThe post Recording Academy’s VP of D.E.I. Ryan Butler Tells Us What Brings Him Joy Online appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/internet-culture/recording-academys-vp-of-d-e-i-ryan-butler-tells-us-what-brings-him-joy-online/",
+          "publishedOn": "2022-06-27T16:00:00.000Z",
+          "wordCount": 1765,
+          "title": "Recording Academy’s VP of D.E.I. Ryan Butler Tells Us What Brings Him Joy Online",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/06/mcoi_ryanbutler_header_1920x1080-1080x720.jpg"
+        },
         {
           "id": "https://blog.mozilla.org/?p=69351",
           "author": "Damiano",
@@ -792,11 +802,41 @@
           "id": "https://blog.mozilla.org/?p=69339",
           "author": "Damiano",
           "description": "Here at Mozilla, we are the first to admit the internet isn’t perfect, but we are also quick to point out that the internet is pretty darn magical. The internet opens up doors and opportunities, allows for people to connect with others, and lets everyone find where they belong — their corners of the internet. […]\nThe post Joey Amato, Publisher of Pride Journeys, Shares What Brings Him Joy Online appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/internet-culture/joey-amato-publisher-of-pride-journeys-shares-what-brings-him-joy-online/",
+          "publishedOn": "2022-06-21T16:55:01.000Z",
+          "wordCount": 1609,
+          "title": "Joey Amato, Publisher of Pride Journeys, Shares What Brings Him Joy Online",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/06/mcoi_joeyamato_header_1920x1080-1080x720.png"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=69339",
+          "author": "Damiano",
+          "description": "Here at Mozilla, we are the first to admit the internet isn’t perfect, but we are also quick to point out that the internet is pretty darn magical. The internet opens up doors and opportunities, allows for people to connect with others, and lets everyone find where they belong — their corners of the internet. […]\nThe post Joey Amato, Publisher of Pride Journeys, Shares What Brings Him Joy Online appeared first on The Mozilla Blog.",
           "link": "https://blog.mozilla.org/en/internet-culture/joey-amato-publisher-of-pride-journeys-shares-what-brings-him-joy-online/",
           "publishedOn": "2022-06-21T16:55:01.000Z",
           "wordCount": 1602,
           "title": "Joey Amato, Publisher of Pride Journeys, Shares What Brings Him Joy Online",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/06/mcoi_joeyamato_header_1920x1080-1080x720.png"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=69308",
+          "author": "Rebecca Smith",
+          "description": "Ten years ago, a small, yet mighty team launched Pocket because we felt that people deserved a better way to consume content on the internet. We wanted it to be easy — “as simple an action as putting it in your pocket” — and empowering, giving people the means to engage with the web on […]\nThe post Reflecting on 10 years of time well spent with Pocket appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/products/pocket/reflecting-on-10-years-of-time-well-spent-with-pocket/",
+          "publishedOn": "2022-06-21T13:00:00.000Z",
+          "wordCount": 1972,
+          "title": "Reflecting on 10 years of time well spent with Pocket",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/06/pocket10_blogheader_distilled_1200x800.jpg"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=69335",
+          "author": "Martin Thomson",
+          "description": "Private advertising technology proposals could greatly improve privacy for web users. Web advertising has a reputation for poor privacy practices. Firefox, other browsers, and the web community are collaborating on finding ways to support advertising while maintaining strong, technical privacy protections for users. This series of posts aims to contribute to the ongoing conversation regarding […]\nThe post Understanding Apple’s Private Click Measurement appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/mozilla/understanding-apples-private-click-measurement/",
+          "publishedOn": "2022-06-21T13:00:00.000Z",
+          "wordCount": 1473,
+          "title": "Understanding Apple’s Private Click Measurement",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/04/moz_cybersecurity_blog_header_1920x1080-1080x720.png"
         },
         {
           "id": "https://blog.mozilla.org/?p=69308",
@@ -822,11 +862,31 @@
           "id": "https://blog.mozilla.org/?p=69152",
           "author": "Damiano",
           "description": "Here at Mozilla, we are the first to admit the internet isn’t perfect, but we are also quick to point out that the internet is pretty darn magical. The internet opens up doors and opportunities, allows for people to connect with others, and lets everyone find where they belong — their corners of the internet. […]\nThe post Queer Singer/Songwriter Criibaby Finds Pride and Joy at the Intersection of Tech and Music appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/internet-culture/queer-singer-songwriter-criibaby-finds-pride-and-joy-at-the-intersection-of-tech-and-music/",
+          "publishedOn": "2022-06-17T16:00:00.000Z",
+          "wordCount": 2518,
+          "title": "Queer Singer/Songwriter Criibaby Finds Pride and Joy at the Intersection of Tech and Music",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/06/mcoi_criibaby_header_1920x1080-1080x720.png"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=69152",
+          "author": "Damiano",
+          "description": "Here at Mozilla, we are the first to admit the internet isn’t perfect, but we are also quick to point out that the internet is pretty darn magical. The internet opens up doors and opportunities, allows for people to connect with others, and lets everyone find where they belong — their corners of the internet. […]\nThe post Queer Singer/Songwriter Criibaby Finds Pride and Joy at the Intersection of Tech and Music appeared first on The Mozilla Blog.",
           "link": "https://blog.mozilla.org/en/internet-culture/queer-singer-songwriter-criibaby-finds-pride-and-joy-at-the-intersection-of-tech-and-music/",
           "publishedOn": "2022-06-17T16:00:00.000Z",
           "wordCount": 2214,
           "title": "Queer Singer/Songwriter Criibaby Finds Pride and Joy at the Intersection of Tech and Music",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/06/mcoi_criibaby_header_1920x1080-1080x720.png"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=69247",
+          "author": "Kristina Bravo",
+          "description": "Every Monday and Thursday, queer comedy writer and actor Brandon Kyle Goodman asks their 176,000 Instagram followers to tell them something good or messy.  People who tune into the Instagram Stories series, called “Messy Mondays” and “Thot Thursdays,” send in submissions that are indeed good, messy or both. Some share their kinks. Others inquire about […]\nThe post Firefox Presents: Redefining love and identity, one viral video at a time appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/products/firefox/brandon-kyle-goodman-big-mouth-messy-mondays-online-community/",
+          "publishedOn": "2022-06-17T13:15:19.000Z",
+          "wordCount": 2066,
+          "title": "Firefox Presents: Redefining love and identity, one viral video at a time",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/06/Firefox_Presents_Ep3_Brandon_16x9_3-1080x720.jpg"
         },
         {
           "id": "https://blog.mozilla.org/?p=69247",
@@ -842,6 +902,16 @@
           "id": "https://blog.mozilla.org/?p=69106",
           "author": "Kristina Bravo",
           "description": "Technology is easy to blame for the mental health crisis that kids are facing. But according to experts, it’s not that simple.  A rare public advisory from the U.S. surgeon general in December 2021 warned that young people are facing unprecedented challenges that have had a “devastating” effect on their mental health. These difficulties were […]\nThe post Kids are growing up in a very online world. What’s a concerned parent to do? appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/internet-culture/kids-mental-health-screen-time-technology/",
+          "publishedOn": "2022-06-16T18:24:07.000Z",
+          "wordCount": 3091,
+          "title": "Kids are growing up in a very online world. What’s a concerned parent to do?",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/06/moz_kidstechnologymentalhealth_blog_header_1920x1080_2-1080x720.jpg"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=69106",
+          "author": "Kristina Bravo",
+          "description": "Technology is easy to blame for the mental health crisis that kids are facing. But according to experts, it’s not that simple.  A rare public advisory from the U.S. surgeon general in December 2021 warned that young people are facing unprecedented challenges that have had a “devastating” effect on their mental health. These difficulties were […]\nThe post Kids are growing up in a very online world. What’s a concerned parent to do? appeared first on The Mozilla Blog.",
           "link": "https://blog.mozilla.org/en/internet-culture/kids-mental-health-screen-time-technology/",
           "publishedOn": "2022-06-16T18:24:07.000Z",
           "wordCount": 2746,
@@ -852,11 +922,31 @@
           "id": "https://blog.mozilla.org/?p=69205",
           "author": "Kristina Bravo",
           "description": "There’s never been a better time to switch from Chrome to Firefox, if we do say so ourselves.  Some of the internet’s most popular ad blockers, such as uBlock Origin — tools that save our digital sanity from video ads that auto-play, banners that take up half the screen and pop-up windows with infuriatingly tiny […]\nThe post How to easily switch from Chrome to Firefox appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/products/firefox/how-to-switch-from-chrome-to-firefox/",
+          "publishedOn": "2022-06-15T13:47:25.000Z",
+          "wordCount": 1608,
+          "title": "How to easily switch from Chrome to Firefox",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/02/fx_colorcalibration_blogheader_1280x720-1-1080x720.jpg"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=69205",
+          "author": "Kristina Bravo",
+          "description": "There’s never been a better time to switch from Chrome to Firefox, if we do say so ourselves.  Some of the internet’s most popular ad blockers, such as uBlock Origin — tools that save our digital sanity from video ads that auto-play, banners that take up half the screen and pop-up windows with infuriatingly tiny […]\nThe post How to easily switch from Chrome to Firefox appeared first on The Mozilla Blog.",
           "link": "https://blog.mozilla.org/en/products/firefox/how-to-switch-from-chrome-to-firefox/",
           "publishedOn": "2022-06-15T13:47:25.000Z",
           "wordCount": 1283,
           "title": "How to easily switch from Chrome to Firefox",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/02/fx_colorcalibration_blogheader_1280x720-1-1080x720.jpg"
+        },
+        {
+          "id": "http://blog.mozilla.org/foxtail/2020/01/20/how-to-set-firefox-as-your-default-browser-on-windows/",
+          "author": "M.J. Kelly",
+          "description": "During a software update, your settings can sometimes change or revert back to their original state. For example, if your computer has multiple browsers installed, you may end up with a different default browser than Firefox. That’s easy to fix so that Firefox is there for you when you expect it, like when you click […]\nThe post How to set Firefox as your default browser on Windows appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/products/firefox/how-to-set-firefox-as-your-default-browser-on-windows/",
+          "publishedOn": "2022-06-14T16:15:00.000Z",
+          "wordCount": 1350,
+          "title": "How to set Firefox as your default browser on Windows",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2020/01/firefox-browser-logo-1008x672.png"
         },
         {
           "id": "http://blog.mozilla.org/foxtail/2020/01/20/how-to-set-firefox-as-your-default-browser-on-windows/",
@@ -1116,6 +1206,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=3832",
+          "author": "Cory Doctorow",
+          "description": "Today's links McKinsey, consiglieri of the opioid crisis: \"Without admitting any wrongdoing.\" Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading McKinsey, consiglieri of the opioid crisis (permalink) McKinsey is a global \"consulting\" giant, with its tendrils in every unsavory industry from private ICE gulags to (mis)managing violent prisons to publicly funded private charter schools. Internally, McKinsey promotes itself as akin to the Jesuits and the Marines (no, really): \"analytically rigorous, deeply principled seekers of knowledge and truth.\" https://www.propublica.org/article/how-mckinsey-makes-its-own-rules McKinsey has been embroiled in an endl…",
+          "link": "https://pluralistic.net/2022/06/30/mckinsey-mafia/",
+          "publishedOn": "2022-06-30T17:06:04.000Z",
+          "wordCount": 3829,
+          "title": "Pluralistic: 30 Jun 2022",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=3827",
           "author": "Cory Doctorow",
