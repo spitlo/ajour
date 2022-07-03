@@ -133,6 +133,16 @@
       "siteUrl": "https://100r.co",
       "articles": [
         {
+          "id": "log.html#june2022",
+          "author": "Rekka Bellum",
+          "description": "Hey everyone! This is the list of all the changes we've done to our projects and apps during the month of June. We'll also be reporting in our on position in the world, and on our future plans.\nSummary Of Changes\nUxn, improved the Uxntal reference sheet and improved the Uxntal cheatsheet.\nDexe, added menu bar.\nNasu, added menu bar.\nNoodle}, added menu bar.\n100r.co, updated boom tent, and added lpg refit (backdated update).\nNews\nPino is currently in Desolation Sound, enjoying the quiet. We've written a few posts about some of the anchorages we've visited, like {melanie cove}, {grace harbour} and {hathayim marine park}. We're updating our track as we go.\nDevine has been adding a lot of notes to the permacomputing wiki this month. We also started a little arcade game named Inle, something that we could play together on the boat in the style of Gunbound/Tank Wars... but with rabbits (we finished reading Watership Down last month, so we blame that, haha). We don't have a project page yet for it, but we shared some images on the post for grace harbour, where we started working on the game.\nRekka produced a video about image optimization for the Photographer's Gallery (as part of their Green Hacks video series) last month.\nPino book club\nWe're reading The Man who Mistook his Wife for a Hat by Oliver Sacks.\nContinue Reading",
+          "link": "https://100r.co/site/log.html#june2022",
+          "publishedOn": "2022-07-02T00:00:00.000Z",
+          "wordCount": 3868,
+          "title": "Summary of changes for June",
+          "imageUrl": null
+        },
+        {
           "id": "log.html#may2022",
           "author": "Rekka Bellum",
           "description": "Hey everyone! This is the list of all the changes we've done to our projects and apps during the month of May. We'll also be reporting in our on position in the world, and on our future plans.\nSummary Of Changes\nCombinatory Logic, wrote a guide to combinatory logic, using talking birds.\n, released a linter, and optimized uxnasm.\nDexe, released an updated version.\n100r.co, added batteries, and regulator.\nNews\nFrom this month until next October, our updates may be delayed. We are sailing northward, towards Desolation Sound and the Broughtons, where cell towers are few. We will wander in and out of such regions all summer. So far, we sailed up to the Gulf Islands, and over to Nanaimo from Victoria, and then crossed the Strait of Georgia over to the Sunshine Coast(close-reaching in 20-knot winds). This was a good shakedown for Pino, a good way to re-awaken our little vessel. All went well, but we ought to have secured our produce better... some of our potatoes escaped their nest and went out for an afternoon roll around the cabin floor.\nStart of May, we had some issues with our batteries. They've been acting out for some time, we think because of a dead cell. We have been operating at half battery capacity for a month, and realized that yet again we don't need that much power, especially in the summer when the days are long.\nThe combinatory logic guide is the first of many projects we plan to release this summer. We also released an sign language version of Uxntal.\nIn other news, a version of Collapse OS was ported to Uxn.\nPino book club\nWe're reading Watership Down by Richard Adams.\nContinue Reading",
@@ -474,16 +484,6 @@
           "wordCount": 197,
           "title": "Deep End",
           "imageUrl": "https://imgs.xkcd.com/comics/deep_end_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2615/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/welcome_back.png\" title=\"'We're shocked by the Notre Dame fire. Click for our tribute to--' [okay] 'Now that we're all staying at home these past few weeks thanks to this new coronavirus, we--' [okay]\" alt=\"'We're shocked by the Notre Dame fire. Click for our tribute to--' [okay] 'Now that we're all staying at home these past few weeks thanks to this new coronavirus, we--' [okay]\" />",
-          "link": "https://xkcd.com/2615/",
-          "publishedOn": "2022-05-04T00:00:00.000Z",
-          "wordCount": 197,
-          "title": "Welcome Back",
-          "imageUrl": "https://imgs.xkcd.com/comics/welcome_back_2x.png"
         }
       ]
     },
@@ -1107,36 +1107,6 @@
           "wordCount": 2040,
           "title": "Firefox Presents: A YouTube creator blending femininity and engineering",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/05/Firefox_Presents_Ep2_Xyla_16x9_1-1080x720.jpg"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=68934",
-          "author": "admin",
-          "description": "With the rapid growth of e-commerce in the last few years, more people are expecting their browser to help them out when shopping online. Firefox has supported credit card autofill in the United States and Canada since 2018. Starting today Firefox can remember and fill credit card details additionally in the United Kingdom, France and […]\nThe post Credit card autofill now enabled in the United Kingdom, France and Germany appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/products/firefox/firefox-credit-card-autofill-uk-france-germany/",
-          "publishedOn": "2022-05-03T15:24:00.000Z",
-          "wordCount": 846,
-          "title": "Credit card autofill now enabled in the United Kingdom, France and Germany",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2020/05/firefox-76-header-19-1056x704.png"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=68902",
-          "author": "Mozilla",
-          "description": "Whether it’s celebrating the first 100 days of school or turning 100 years old, reaching a 100th milestone is a big deal worthy of confetti, streamers and cake, and of course, reflection. Today, Firefox is releasing its 100th version to our users and we wanted to take a moment to pause and look back on […]\nThe post Celebrating Firefox: How we got to 100 appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/celebrating-firefox-100/",
-          "publishedOn": "2022-05-03T13:00:08.000Z",
-          "wordCount": 1959,
-          "title": "Celebrating Firefox: How we got to 100",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/04/firefox_blog_ffx100_orange-1008x672.png"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=68888",
-          "author": "Sarah Vasquez",
-          "description": "There are so many different ways that Firefox users count on Picture-in-Picture for their best browsing and content viewing experiences: Toddler duty? Don’t sweat it! Stream your child’s favorite movie to watch on your desktop while you hold down your job and the title of “favorite parent!” Can’t miss the big game? Firefox’s Multiple Picture-in-Picture […]\nThe post Firefox’s Picture-in-Picture rolls out subtitles – a Mozilla Connect community requested feature appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/products/firefox/firefox-picture-in-picture-rolls-out-subtitles/",
-          "publishedOn": "2022-05-03T12:43:26.000Z",
-          "wordCount": 1551,
-          "title": "Firefox’s Picture-in-Picture rolls out subtitles – a Mozilla Connect community requested feature",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/05/PiP-Subtitles-Blog-Header-21-1027x684.jpg"
         }
       ]
     },
@@ -1654,16 +1624,6 @@
           "publishedOn": "2022-05-04T14:52:29.000Z",
           "wordCount": 2052,
           "title": "Pluralistic: 04 May 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=3567",
-          "author": "Cory Doctorow",
-          "description": "Today's links The Democrats' self-immolating fetish for means-testing: How to lose an election…and a nation. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The Democrats' self-immolating fetish for means-testing (permalink) Biden campaigned on universal student debt reduction, but now wants to add a means-test; a layer of bureaucratic formalities to identify the \"deserving poor.\" The neoliberal fetish for red-tape is on the march, and the consequences will be the 2022 mid-terms, and maybe the future of the nation. Means-testing is the kind of technocratic make-work beloved of the McKinsey set, thus it was no surprise that Buttigieg campaigned aga…",
-          "link": "https://pluralistic.net/2022/05/03/utopia-of-rules/",
-          "publishedOn": "2022-05-03T16:36:41.000Z",
-          "wordCount": 2224,
-          "title": "Pluralistic: 03 May 2022",
           "imageUrl": null
         }
       ]
