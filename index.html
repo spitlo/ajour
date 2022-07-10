@@ -16,9 +16,9 @@
     <meta name="robots" content="noindex, nofollow">
     <link rel="preload" as="font" type="font/woff2" href="https://spitlo.com/fonts/GangsterGrotesk-Bold.woff2" crossorigin="anonymous">
     <link rel="preload" as="font" type="font/woff2" href="https://spitlo.com/fonts/VictorMono-Thin.woff2" crossorigin="anonymous">
-    <link rel="icon" type="image/svg+xml" href="https://spitlo.com/images/favicon.svg?2022-07-09T00:31:03.875Z">
+    <link rel="icon" type="image/svg+xml" href="https://spitlo.com/images/favicon.svg?2022-07-10T00:41:15.036Z">
     <link rel="alternate" type="application/rss+xml" title="Ajour / Spitlo.com" href="feed.atom">
-    <link href="https://spitlo.com/style.css?2022-07-09T00:31:03.875Z" rel="stylesheet">
+    <link href="https://spitlo.com/style.css?2022-07-10T00:41:15.036Z" rel="stylesheet">
 
     <style>
       body { font-size: 14px; }
@@ -52,6 +52,34 @@
           Visit <a target="_blank" rel="noopener noreferrer" href="https://github.com/osmoscraft/osmosfeed">osmos::feed</a> for more info or to make your own custom feed reader.
         </p>
 
+          <section class="daily-content">
+            <h2 class="daily-heading"><time datatime="2022-07-09">2022-07-09</time></h2>
+                <article data-source="Julia Evans" data-rtime="4">
+                  <h3><a target="_blank" rel="noopener noreferrer" href=https://jvns.ca/blog/2022/07/09/monitoring-small-web-services/>Monitoring tiny web services</a></h3>
+                  <ul class="meta">
+                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=http://jvns.ca/atom.xml>Julia Evans</a></li>
+                    <li><span class="label">Date:</span> <time datetime="2022-07-09T09:25:21.000Z">2022-07-09</time></li>
+                    <li><span class="label">Reading time:</span> <time>4 min</time></li>
+                    <li><span class="label">Words</span> <time>1168</time></li>
+                  </ul>
+                  <p>Hello! I’ve started to run a few more servers recently
+(nginx playground,
+mess with dns,
+dns lookup), so I’ve been
+thinking about monitoring.
+It wasn’t initially totally obvious to me how to monitor these websites, so I
+wanted to quickly write up what how I did it.
+I’m not going to talk about how to monitor Big Serious Mission Critical
+websites at all, only tiny unimportant websites.
+goal: spend approximately 0 time on operations
+I want the sites to mostly work, but I also want to spend approximately 0% of
+my time on the ongoing operations.
+I was initially very wary of running servers at all because at my last job I
+was on a 24⁄7 oncall rotation for some critical services, and in my mind “being
+responsible for servers” meant “get woken up at 2am to fix the servers” and
+“have lots of compli…</p>
+                </article>
+          </section>
           <section class="daily-content">
             <h2 class="daily-heading"><time datatime="2022-07-08">2022-07-08</time></h2>
                 <article data-source="Pluralistic: Daily links from Cory Doctorow" data-rtime="11">
@@ -1580,63 +1608,6 @@ JSON orders, I…</p>
                   </ul>
                   <p>Today&#x27;s links The (billionaires&#x27;) case against billionaires: Turns out, we live in a society. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The (billionaires&#x27;) case against billionaires (permalink) The downsides of a world with billionaires in it are well-rehearsed: billionaires can convert their vast wealth to power, and use that power to turn their whims and pet theories into policy failures that affect millions – or even billions – of people. Take Bill Gates. Forget all the conspiracy theories about Gates and vaccines – it&#x27;s bizarre that people bother to make up those fairy-tales when the truth is so much worse. Gates has an absolute ideologi…</p>
                 </article>
-                <article data-source="xkcd.com" data-rtime="1">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://xkcd.com/2618/>Selection Bias</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://xkcd.com/>xkcd.com</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2022-05-11T00:00:00.000Z">2022-05-11</time></li>
-                    <li><span class="label">Reading time:</span> <time>1 min</time></li>
-                    <li><span class="label">Words</span> <time>197</time></li>
-                  </ul>
-                  <p>No content preview</p>
-                </article>
-          </section>
-          <section class="daily-content">
-            <h2 class="daily-heading"><time datatime="2022-05-10">2022-05-10</time></h2>
-                <article data-source="Julia Evans" data-rtime="1">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://jvns.ca/blog/2022/05/10/pages-that-didn-t-make-it-into--how-dns-works-/>Pages that didn&#x27;t make it into &quot;How DNS Works&quot;</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=http://jvns.ca/atom.xml>Julia Evans</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2022-05-10T14:44:24.000Z">2022-05-10</time></li>
-                    <li><span class="label">Reading time:</span> <time>1 min</time></li>
-                    <li><span class="label">Words</span> <time>361</time></li>
-                  </ul>
-                  <p>Hello! A couple weeks ago I released a new zine called How DNS Works.
-When I started writing that zine (in, uh, January 2021), I originally had in
-mind a broader zine on “everything you need to know to own a domain”. So it had
-a bunch of pages on domain registration, TLS, and email.
-At the time I thought “I can just explain DNS in like 5 pages, it’s not
-that complicated, there will be lots of space for other topics about domains”.
-I was extremely wrong about that and it turned out I needed all 28 pages to
-explain DNS. So I ended up deciding to just focus the zine on DNS and all those
-other topics didn’t make it into the final zine.
-This morning it occurred to me that instead of letting all of the old draft
-pages languish in purgatory on my hard drive, I could post those extra pages
-here all together on my blog. So here they are!
-disclaimer: not super cohesive
-I will say (as a disclaimer) that these pages aren’t as cohesive as I usually
-like my zines to be and they definitely do not tell you everything you need to
-need to know to own a domain.
-domain registration
-
-
-
-
-
-
-email
-
-
-I should say that these 2 pages don’t really do email justice – email security
-is a HUGE topic that honestly I don’t know a lot about.
-TLS
-
-
-These two pages also don’t remotely cover TLS, it’s possible I’ll write more in
-depth about TLS at some point. Who knows!
-that’s all!
-though I will say: if you liked these, you might be interested in buying How DNS Works :)</p>
-                </article>
           </section>
           <section class="daily-content">
             <h2 class="daily-heading"><time datatime="2022-03-18">2022-03-18</time></h2>
@@ -2454,7 +2425,7 @@ actual BBS software and related acc…</p>
 
         <footer>
           <section class="details">
-            <span class="detail">Built @ 2022-07-09T00:31:03.875Z</span>
+            <span class="detail">Built @ 2022-07-10T00:41:15.036Z</span>
             <span class="divider">|</span>
             <span class="detail">CLI: 1.15.1</span>
             <span class="divider">|</span>

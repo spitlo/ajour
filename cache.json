@@ -484,16 +484,6 @@
           "wordCount": 195,
           "title": "Crêpe",
           "imageUrl": "https://imgs.xkcd.com/comics/crepe_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2618/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/selection_bias.png\" title=\"We carefully sampled the general population and found that most people are familiar with acquiescence bias.\" alt=\"We carefully sampled the general population and found that most people are familiar with acquiescence bias.\" />",
-          "link": "https://xkcd.com/2618/",
-          "publishedOn": "2022-05-11T00:00:00.000Z",
-          "wordCount": 197,
-          "title": "Selection Bias",
-          "imageUrl": "https://imgs.xkcd.com/comics/selection_bias_2x.png"
         }
       ]
     },
@@ -1126,6 +1116,16 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2022/07/09/monitoring-small-web-services/",
+          "author": null,
+          "description": "Hello! I’ve started to run a few more servers recently\n(nginx playground,\nmess with dns,\ndns lookup), so I’ve been\nthinking about monitoring.\nIt wasn’t initially totally obvious to me how to monitor these websites, so I\nwanted to quickly write up what how I did it.\nI’m not going to talk about how to monitor Big Serious Mission Critical\nwebsites at all, only tiny unimportant websites.\ngoal: spend approximately 0 time on operations\nI want the sites to mostly work, but I also want to spend approximately 0% of\nmy time on the ongoing operations.\nI was initially very wary of running servers at all because at my last job I\nwas on a 24⁄7 oncall rotation for some critical services, and in my mind “being\nresponsible for servers” meant “get woken up at 2am to fix the servers” and\n“have lots of compli…",
+          "link": "https://jvns.ca/blog/2022/07/09/monitoring-small-web-services/",
+          "publishedOn": "2022-07-09T09:25:21.000Z",
+          "wordCount": 1168,
+          "title": "Monitoring tiny web services",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2022/06/28/some-notes-on-bubblewrap/",
           "author": null,
           "description": "Hello! About a year ago I got mad about Docker container startup time. This was\nbecause I was building an nginx playground\nwhere I was starting a new “container” on every HTTP request, and so for it to\nfeel reasonably snappy, nginx needed to start quickly.\nAlso, I was running this project on a pretty small cloud machine (256MB RAM), a\nsmall CPU, so I really wanted to avoid unnecessary overhead.\nI’ve been looking for a way to run containers faster since then, but I couldn’t\nfind one until last week when I discovered\nbubblewrap!! It’s very fast and I\nthink it’s super cool, but I also ran into a bunch of fun problems that I\nwanted to write down for my future self.\nsome disclaimers\nI’m not sure if the way I’m using bubblewrap in this post is maybe not how it’s intended to be used\nthere are a l…",
@@ -1143,16 +1143,6 @@
           "publishedOn": "2022-05-12T09:35:06.000Z",
           "wordCount": 653,
           "title": "sqlite-utils: a nice way to import data into SQLite for analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2022/05/10/pages-that-didn-t-make-it-into--how-dns-works-/",
-          "author": null,
-          "description": "Hello! A couple weeks ago I released a new zine called How DNS Works.\nWhen I started writing that zine (in, uh, January 2021), I originally had in\nmind a broader zine on “everything you need to know to own a domain”. So it had\na bunch of pages on domain registration, TLS, and email.\nAt the time I thought “I can just explain DNS in like 5 pages, it’s not\nthat complicated, there will be lots of space for other topics about domains”.\nI was extremely wrong about that and it turned out I needed all 28 pages to\nexplain DNS. So I ended up deciding to just focus the zine on DNS and all those\nother topics didn’t make it into the final zine.\nThis morning it occurred to me that instead of letting all of the old draft\npages languish in purgatory on my hard drive, I could post those extra pages\nhere all together on my blog. So here they are!\ndisclaimer: not super cohesive\nI will say (as a disclaimer) that these pages aren’t as cohesive as I usually\nlike my zines to be and they definitely do not tell you everything you need to\nneed to know to own a domain.\ndomain registration\n\n\n\n\n\n\nemail\n\n\nI should say that these 2 pages don’t really do email justice – email security\nis a HUGE topic that honestly I don’t know a lot about.\nTLS\n\n\nThese two pages also don’t remotely cover TLS, it’s possible I’ll write more in\ndepth about TLS at some point. Who knows!\nthat’s all!\nthough I will say: if you liked these, you might be interested in buying How DNS Works :)",
-          "link": "https://jvns.ca/blog/2022/05/10/pages-that-didn-t-make-it-into--how-dns-works-/",
-          "publishedOn": "2022-05-10T14:44:24.000Z",
-          "wordCount": 361,
-          "title": "Pages that didn't make it into \"How DNS Works\"",
           "imageUrl": null
         }
       ]

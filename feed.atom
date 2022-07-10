@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-07-09T00:31:03.904Z</updated>
+    <updated>2022-07-10T00:41:15.065Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Monitoring tiny web services]]></title>
+        <id>https://jvns.ca/blog/2022/07/09/monitoring-small-web-services/</id>
+        <link href="https://jvns.ca/blog/2022/07/09/monitoring-small-web-services/"/>
+        <updated>2022-07-09T09:25:21.000Z</updated>
+        <summary type="html"><![CDATA[Hello! I’ve started to run a few more servers recently
+(nginx playground,
+mess with dns,
+dns lookup), so I’ve been
+thinking about monitoring.
+It wasn’t initially totally obvious to me how to monitor these websites, so I
+wanted to quickly write up what how I did it.
+I’m not going to talk about how to monitor Big Serious Mission Critical
+websites at all, only tiny unimportant websites.
+goal: spend approximately 0 time on operations
+I want the sites to mostly work, but I also want to spend approximately 0% of
+my time on the ongoing operations.
+I was initially very wary of running servers at all because at my last job I
+was on a 24⁄7 oncall rotation for some critical services, and in my mind “being
+responsible for servers” meant “get woken up at 2am to fix the servers” and
+“have lots of compli…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pluralistic: 08 Jul 2022]]></title>
         <id>https://pluralistic.net/?p=3877</id>
@@ -1389,60 +1414,6 @@ JSON orders, I…]]></summary>
         <summary type="html"><![CDATA[Today's links The (billionaires') case against billionaires: Turns out, we live in a society. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The (billionaires') case against billionaires (permalink) The downsides of a world with billionaires in it are well-rehearsed: billionaires can convert their vast wealth to power, and use that power to turn their whims and pet theories into policy failures that affect millions – or even billions – of people. Take Bill Gates. Forget all the conspiracy theories about Gates and vaccines – it's bizarre that people bother to make up those fairy-tales when the truth is so much worse. Gates has an absolute ideologi…]]></summary>
         <author>
             <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Selection Bias]]></title>
-        <id>https://xkcd.com/2618/</id>
-        <link href="https://xkcd.com/2618/"/>
-        <updated>2022-05-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/selection_bias.png" title="We carefully sampled the general population and found that most people are familiar with acquiescence bias." alt="We carefully sampled the general population and found that most people are familiar with acquiescence bias." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pages that didn't make it into "How DNS Works"]]></title>
-        <id>https://jvns.ca/blog/2022/05/10/pages-that-didn-t-make-it-into--how-dns-works-/</id>
-        <link href="https://jvns.ca/blog/2022/05/10/pages-that-didn-t-make-it-into--how-dns-works-/"/>
-        <updated>2022-05-10T14:44:24.000Z</updated>
-        <summary type="html"><![CDATA[Hello! A couple weeks ago I released a new zine called How DNS Works.
-When I started writing that zine (in, uh, January 2021), I originally had in
-mind a broader zine on “everything you need to know to own a domain”. So it had
-a bunch of pages on domain registration, TLS, and email.
-At the time I thought “I can just explain DNS in like 5 pages, it’s not
-that complicated, there will be lots of space for other topics about domains”.
-I was extremely wrong about that and it turned out I needed all 28 pages to
-explain DNS. So I ended up deciding to just focus the zine on DNS and all those
-other topics didn’t make it into the final zine.
-This morning it occurred to me that instead of letting all of the old draft
-pages languish in purgatory on my hard drive, I could post those extra pages
-here all together on my blog. So here they are!
-disclaimer: not super cohesive
-I will say (as a disclaimer) that these pages aren’t as cohesive as I usually
-like my zines to be and they definitely do not tell you everything you need to
-need to know to own a domain.
-domain registration
-
-
-
-
-
-
-email
-
-
-I should say that these 2 pages don’t really do email justice – email security
-is a HUGE topic that honestly I don’t know a lot about.
-TLS
-
-
-These two pages also don’t remotely cover TLS, it’s possible I’ll write more in
-depth about TLS at some point. Who knows!
-that’s all!
-though I will say: if you liked these, you might be interested in buying How DNS Works :)]]></summary>
-        <author>
-            <name>Julia Evans</name>
         </author>
     </entry>
     <entry>
