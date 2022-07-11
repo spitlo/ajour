@@ -1134,16 +1134,6 @@
           "wordCount": 3065,
           "title": "Notes on running containers with bubblewrap",
           "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2022/05/12/sqlite-utils--a-nice-way-to-import-data-into-sqlite/",
-          "author": null,
-          "description": "Hello! This is a quick post about a nice tool I found recently called sqlite-utils, from the tools category.\nRecently I wanted to do some basic data analysis using data from my Shopify\nstore. So I figured I’d query the Shopify API and import my data into SQLite,\nand then I could make queries to get the graphs I want.\nBut this seemed like a lot of boring work, like I’d have to write a\nschema and write a Python program. So I hunted around for a solution, and I\nfound sqlite-utils, a tool designed to make it easy to import arbitrary data\ninto SQLite to do data analysis on the data.\nsqlite-utils automatically generates a schema\nThe Shopify data has about a billion fields and I really did not want to type\nout a schema for it. sqlite-utils solves this problem: if I have an array of\nJSON orders, I…",
-          "link": "https://jvns.ca/blog/2022/05/12/sqlite-utils--a-nice-way-to-import-data-into-sqlite/",
-          "publishedOn": "2022-05-12T09:35:06.000Z",
-          "wordCount": 653,
-          "title": "sqlite-utils: a nice way to import data into SQLite for analysis",
-          "imageUrl": null
         }
       ]
     },
@@ -1609,16 +1599,6 @@
           "publishedOn": "2022-05-12T17:28:13.000Z",
           "wordCount": 3471,
           "title": "Pluralistic: 12 May 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=3602",
-          "author": "Cory Doctorow",
-          "description": "Today's links The (billionaires') case against billionaires: Turns out, we live in a society. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The (billionaires') case against billionaires (permalink) The downsides of a world with billionaires in it are well-rehearsed: billionaires can convert their vast wealth to power, and use that power to turn their whims and pet theories into policy failures that affect millions – or even billions – of people. Take Bill Gates. Forget all the conspiracy theories about Gates and vaccines – it's bizarre that people bother to make up those fairy-tales when the truth is so much worse. Gates has an absolute ideologi…",
-          "link": "https://pluralistic.net/2022/05/11/a-dent-in-the-universe/",
-          "publishedOn": "2022-05-11T15:14:36.000Z",
-          "wordCount": 2436,
-          "title": "Pluralistic: 11 May 2022",
           "imageUrl": null
         }
       ]
