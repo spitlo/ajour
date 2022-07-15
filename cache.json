@@ -6,6 +6,16 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=7285",
+          "author": "Chris Heilmann",
+          "description": "When debugging or analysing JavaScript, you often see people trying to find out how often a certain function is called. The common way to do that is to use a global counter variable to increment and log in the function. var i = 0; function test(){ // other functionality i++; console.log(i); // other functionality } […]",
+          "link": "https://christianheilmann.com/2022/07/14/the-browser-console-has-a-count-method/",
+          "publishedOn": "2022-07-14T21:30:35.000Z",
+          "wordCount": 456,
+          "title": "The browser console has a count method",
+          "imageUrl": null
+        },
+        {
           "id": "https://christianheilmann.com/?p=7278",
           "author": "Chris Heilmann",
           "description": "When you write markdown files, headings automatically also get an ID generated so they become in-page targets to link to. This is also used to create a table of contents in various publishing systems. Today I learned that VS Code also offers these generated IDs as an autocomplete when you type links. If you wrap […]",
@@ -207,16 +217,6 @@
           "wordCount": 1698,
           "title": "End of May Link Assortment",
           "imageUrl": "https://emshort.files.wordpress.com/2022/05/fermentationist.png"
-        },
-        {
-          "id": "http://emshort.blog/?p=42646",
-          "author": "Emily Short",
-          "description": "Events June 4 is the next meeting of the SF Bay IF Meetup.",
-          "link": "https://emshort.blog/2022/05/15/mid-may-link-assortment-5/",
-          "publishedOn": "2022-05-15T17:30:00.000Z",
-          "wordCount": 1418,
-          "title": "Mid-May Link Assortment",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     },
@@ -474,16 +474,6 @@
           "wordCount": 199,
           "title": "Mainly Known For",
           "imageUrl": "https://imgs.xkcd.com/comics/mainly_known_for_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2620/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/health_data.png\" title=\"Donate now to help us find a cure for causality. No one should have to suffer through events because of other events.\" alt=\"Donate now to help us find a cure for causality. No one should have to suffer through events because of other events.\" />",
-          "link": "https://xkcd.com/2620/",
-          "publishedOn": "2022-05-16T00:00:00.000Z",
-          "wordCount": 197,
-          "title": "Health Data",
-          "imageUrl": "https://imgs.xkcd.com/comics/health_data_2x.png"
         }
       ]
     },
@@ -775,6 +765,16 @@
       "feedUrl": "https://feeds.feedburner.com/leaverou",
       "siteUrl": "https://lea.verou.me",
       "articles": [
+        {
+          "id": "https://lea.verou.me/?p=3484",
+          "author": "Lea Verou",
+          "description": "A few days ago I asked Twitter a seemingly simple question (I meant aria-pressed, not aria-selected but Twitter doesn’t allow edits…): For background, I was implementing a web component for an app I’m working on at work and I was getting into some pretty weird rabbit holes with my approach of generating radios and labels. […]",
+          "link": "https://lea.verou.me/2022/07/button-group/",
+          "publishedOn": "2022-07-14T14:47:58.000Z",
+          "wordCount": 1109,
+          "title": "What is the best way to mark up an exclusive button group?",
+          "imageUrl": null
+        },
         {
           "id": "https://lea.verou.me/?p=3478",
           "author": "Lea Verou",

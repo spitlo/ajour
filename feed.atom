@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-07-14T00:40:24.969Z</updated>
+    <updated>2022-07-15T00:42:13.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The browser console has a count method]]></title>
+        <id>https://christianheilmann.com/?p=7285</id>
+        <link href="https://christianheilmann.com/2022/07/14/the-browser-console-has-a-count-method/"/>
+        <updated>2022-07-14T21:30:35.000Z</updated>
+        <summary type="html"><![CDATA[When debugging or analysing JavaScript, you often see people trying to find out how often a certain function is called. The common way to do that is to use a global counter variable to increment and log in the function. var i = 0; function test(){ // other functionality i++; console.log(i); // other functionality } […]]]></summary>
+        <author>
+            <name>Chris Heilmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the best way to mark up an exclusive button group?]]></title>
+        <id>https://lea.verou.me/?p=3484</id>
+        <link href="https://lea.verou.me/2022/07/button-group/"/>
+        <updated>2022-07-14T14:47:58.000Z</updated>
+        <summary type="html"><![CDATA[A few days ago I asked Twitter a seemingly simple question (I meant aria-pressed, not aria-selected but Twitter doesn’t allow edits…): For background, I was implementing a web component for an app I’m working on at work and I was getting into some pretty weird rabbit holes with my approach of generating radios and labels. […]]]></summary>
+        <author>
+            <name>Lea Verou</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Introducing Rety: live coding, without the stress]]></title>
         <id>https://lea.verou.me/?p=3478</id>
@@ -1384,26 +1404,6 @@ The post Firefox Presents: A YouTube creator blending femininity and engineering
         <summary type="html"><![CDATA[Today's links Amy's Kitchen, a case-study in the problems with consumerism: You are not an ambulatory wallet. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Amy's Kitchen, a case-study in the problems with consumerism (permalink) As theories of change go, consumerism has a lot going for it. "Voting with your dollars" cuts out the middleman: rather than voting for a politician and hoping that they do the right thing, you can just reward good companies directly by buying their products (and punish bad companies by not buying their products). But voting with your dollars has some obvious deficits. The first one is that you can't shop your way out of…]]></summary>
         <author>
             <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Health Data]]></title>
-        <id>https://xkcd.com/2620/</id>
-        <link href="https://xkcd.com/2620/"/>
-        <updated>2022-05-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/health_data.png" title="Donate now to help us find a cure for causality. No one should have to suffer through events because of other events." alt="Donate now to help us find a cure for causality. No one should have to suffer through events because of other events." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mid-May Link Assortment]]></title>
-        <id>http://emshort.blog/?p=42646</id>
-        <link href="https://emshort.blog/2022/05/15/mid-may-link-assortment-5/"/>
-        <updated>2022-05-15T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Events June 4 is the next meeting of the SF Bay IF Meetup.]]></summary>
-        <author>
-            <name>Emily Short</name>
         </author>
     </entry>
     <entry>
