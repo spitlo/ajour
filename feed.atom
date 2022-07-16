@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-07-15T00:42:13.877Z</updated>
+    <updated>2022-07-16T00:39:01.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mid-July Link Assortment]]></title>
+        <id>http://emshort.blog/?p=42736</id>
+        <link href="https://emshort.blog/2022/07/15/mid-july-link-assortment-7/"/>
+        <updated>2022-07-15T17:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Events ParserComp games are still available to play and vote on through July 31, and players are reviewing these games over on the intfiction forum. Hops Ahead: The Art of Alternate Histories, Presents, and Futures is an exhibition of interactive narrative works, curated by Clara Fernández-Vara and Nick Montfort, running December 4-7 at UC Santa … Continue reading "Mid-July Link Assortment"]]></summary>
+        <author>
+            <name>Emily Short</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kesimpta [blog]]]></title>
+        <id>kesimpta</id>
+        <link href="https://remysharp.com/2022/07/15/kesimpta"/>
+        <updated>2022-07-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As much as this sounds like a new webapp (and indeed over a decade ago I owned the domain Kajinka - can't remember what it was though), no, this is the start of my multiple sclerosis (MS) drug treatment which, I guess lasts as long as I do.]]></summary>
+        <author>
+            <name>remy sharp's b:log</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The browser console has a count method]]></title>
         <id>https://christianheilmann.com/?p=7285</id>
@@ -14,6 +34,17 @@
         <summary type="html"><![CDATA[When debugging or analysing JavaScript, you often see people trying to find out how often a certain function is called. The common way to do that is to use a global counter variable to increment and log in the function. var i = 0; function test(){ // other functionality i++; console.log(i); // other functionality } […]]]></summary>
         <author>
             <name>Chris Heilmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bridget Todd, the new host of Mozilla’s IRL podcast, on online communities, The X-Files & raising marginalized voices]]></title>
+        <id>https://blog.mozilla.org/?p=69385</id>
+        <link href="https://blog.mozilla.org/en/mozilla/bridget-todd-irl-podcast-host-interview/"/>
+        <updated>2022-07-14T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here at Mozilla, we are the first to admit the internet isn’t perfect, but we are also quick to point out that the internet is pretty darn magical. The internet opens up doors and opportunities, allows for people to connect with others, and lets everyone find where they belong — their corners of the internet. […]
+The post Bridget Todd, the new host of Mozilla’s IRL podcast, on online communities, The X-Files & raising marginalized voices appeared first on The Mozilla Blog.]]></summary>
+        <author>
+            <name>Rebecca Smith</name>
         </author>
     </entry>
     <entry>
@@ -1384,26 +1415,6 @@ The post Firefox Presents: A YouTube creator blending femininity and engineering
         <summary type="html"><![CDATA[The Inspect tool is a great way to get information about different page elements before selecting then. Once it is enabled, it shows an information overlay as you move from element to element. The main problem with the tool is that sometimes it is tough to get the information about the right element, as they […]]]></summary>
         <author>
             <name>Chris Heilmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Surprising Truth About Pixels and Accessibility]]></title>
-        <id>https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/</id>
-        <link href="https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/"/>
-        <updated>2022-05-17T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“Should I use pixels or rems?”. In this comprehensive blog post, we'll answer this question once and for all. You'll learn about the accessibility implications, and how to determine the best unit to use in any scenario.]]></summary>
-        <author>
-            <name>Josh W. Comeau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 16 May 2022]]></title>
-        <id>https://pluralistic.net/?p=3617</id>
-        <link href="https://pluralistic.net/2022/05/16/through-the-meat-grinder/"/>
-        <updated>2022-05-16T16:50:40.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Amy's Kitchen, a case-study in the problems with consumerism: You are not an ambulatory wallet. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Amy's Kitchen, a case-study in the problems with consumerism (permalink) As theories of change go, consumerism has a lot going for it. "Voting with your dollars" cuts out the middleman: rather than voting for a politician and hoping that they do the right thing, you can just reward good companies directly by buying their products (and punish bad companies by not buying their products). But voting with your dollars has some obvious deficits. The first one is that you can't shop your way out of…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
         </author>
     </entry>
     <entry>
