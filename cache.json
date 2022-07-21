@@ -6,6 +6,16 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=7287",
+          "author": "Chris Heilmann",
+          "description": "Device Emulation in developer tools is great, but it doesn’t deliver to all users of it and could be much better. Please help us improve it. When developer tools of browsers came out with Device Emulation and reponsive design tooling , everything changed. As a developer, you didn’t need to resize the browser window any […]",
+          "link": "https://christianheilmann.com/2022/07/20/rethinking-device-emulation-in-browsers/",
+          "publishedOn": "2022-07-20T15:48:38.000Z",
+          "wordCount": 1455,
+          "title": "Rethinking Device Emulation in browsers",
+          "imageUrl": null
+        },
+        {
           "id": "https://christianheilmann.com/?p=7285",
           "author": "Chris Heilmann",
           "description": "When debugging or analysing JavaScript, you often see people trying to find out how often a certain function is called. The common way to do that is to use a global counter variable to increment and log in the function. var i = 0; function test(){ // other functionality i++; console.log(i); // other functionality } […]",
@@ -215,6 +225,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2648/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/chemicals.png\" title=\"It's hard to believe, but lots of kids these days ONLY know how to buy prepackaged molecules.\" alt=\"It's hard to believe, but lots of kids these days ONLY know how to buy prepackaged molecules.\" />",
+          "link": "https://xkcd.com/2648/",
+          "publishedOn": "2022-07-20T00:00:00.000Z",
+          "wordCount": 230,
+          "title": "Chemicals",
+          "imageUrl": "https://imgs.xkcd.com/comics/chemicals_2x.png"
+        },
         {
           "id": "https://xkcd.com/2647/",
           "author": null,
