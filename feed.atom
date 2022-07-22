@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-07-21T00:38:53.482Z</updated>
+    <updated>2022-07-22T00:42:08.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What happens when you press a key in your terminal?]]></title>
+        <id>https://jvns.ca/blog/2022/07/20/pseudoterminals/</id>
+        <link href="https://jvns.ca/blog/2022/07/20/pseudoterminals/"/>
+        <updated>2022-07-20T20:57:15.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been confused about what’s going on with terminals for a long time.
+But this past week I was using xterm.js to display an
+interactive terminal in a browser and I finally thought to ask a pretty basic
+question: when you press a key on your keyboard in a terminal (like Delete, or Escape, or a), which
+bytes get sent?
+As usual we’ll answer that question by doing some experiments and seeing what happens :)
+remote terminals are very old technology
+First, I want to say that displaying a terminal in the browser with xterm.js
+might seem like a New Thing, but it’s really not. In the 70s, computers were
+expensive. So many employees at an institution would share a single computer,
+and each person could have their own “terminal” to that computer.
+For example, here’s a photo of a VT100 terminal fro…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rethinking Device Emulation in browsers]]></title>
         <id>https://christianheilmann.com/?p=7287</id>
@@ -1354,16 +1375,6 @@ Yep, this dev diary didn't last long.]]></summary>
         <summary type="html"><![CDATA[Today's links SPACs were hugely successful (for banks): But you lost your shirt. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading SPACs were hugely successful (for banks) (permalink) Remember SPACs? For a while, you couldn't turn around without hearing about a celeb who was backing a "blank check" IPO. It was confusing, because SPACs don't make any sense: you buy into a company at $10/share. The company has no business, no products, nothing. But it plans on going public, and then buying another company. In theory, you're betting that some celebrity-endorsed randos will take all the $10 share buy-ins and use the money to buy another company – a comp…]]></summary>
         <author>
             <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goofs]]></title>
-        <id>https://xkcd.com/2623/</id>
-        <link href="https://xkcd.com/2623/"/>
-        <updated>2022-05-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/goofs.png" title="The film is set in 2018, but when Commander Bremberly chases the hologram through Times Square, there's a billboard for Avengers: Age of Ultron. Depending on the date, that billboard would have been advertising either Infinity War or this movie." alt="The film is set in 2018, but when Commander Bremberly chases the hologram through Times Square, there's a billboard for Avengers: Age of Ultron. Depending on the date, that billboard would have been advertising either Infinity War or this movie." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
