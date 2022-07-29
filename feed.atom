@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-07-28T00:36:00.672Z</updated>
+    <updated>2022-07-29T00:37:42.954Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: 28 Jul 2022]]></title>
+        <id>https://pluralistic.net/?p=3912</id>
+        <link href="https://pluralistic.net/2022/07/28/descartes-was-an-optimist/"/>
+        <updated>2022-07-28T17:40:49.000Z</updated>
+        <summary type="html"><![CDATA[Today's links Your computer is tormented by a wicked god: Bootkits are why we can't have nice things. Peter Thiel's evil, but he's not an "evil genius": How to criticize self-mythologizing villains. Hey look at this: Delights to delectate. This day in history: 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Your computer is tormented by a wicked god (permalink) Computer security is really, really important. It was important decades ago, when computers were merely how we ran our financial system, aviation, and the power grid. Today, as more and more of us have our bodies inside of computers (cars, houses, etc) and computers in our body (implants), computer security is urgent. Decades ago, security practitioners beg…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla celebrates groundbreaking creators in new docuseries “Firefox Presents”]]></title>
+        <id>https://blog.mozilla.org/?p=68743</id>
+        <link href="https://blog.mozilla.org/en/products/firefox/new-mozilla-docuseries-firefox-presents-launch/"/>
+        <updated>2022-07-28T17:31:46.000Z</updated>
+        <summary type="html"><![CDATA[Different is dope. Firefox has always stood by this. It’s also the mantra of Abby Wren, the woman featured in the pilot episode of our new docuseries, “Firefox Presents.” Launching Friday, April 15, “Firefox Presents” is a documentary series featuring colorful and inspiring creators who each have a unique journey of finding themselves or their […]
+The post Mozilla celebrates groundbreaking creators in new docuseries “Firefox Presents” appeared first on The Mozilla Blog.]]></summary>
+        <author>
+            <name>Rebecca Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Help design the State of CSS Survey 2022!]]></title>
+        <id>https://lea.verou.me/?p=3493</id>
+        <link href="https://lea.verou.me/2022/07/help-design-the-state-of-css-survey-2022/"/>
+        <updated>2022-07-28T10:42:11.000Z</updated>
+        <summary type="html"><![CDATA[Since 2019, the annual State of CSS survey has collected feedback from web developers from across the world to try and take the pulse of the CSS ecosystem, and it’s become a valuable resource not only for CSS developers, but also for browser vendors. This summer, one of my side projects is helping out with survey […]]]></summary>
+        <author>
+            <name>Lea Verou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A toy remote login server]]></title>
+        <id>https://jvns.ca/blog/2022/07/28/toy-remote-login-server/</id>
+        <link href="https://jvns.ca/blog/2022/07/28/toy-remote-login-server/"/>
+        <updated>2022-07-28T08:00:28.000Z</updated>
+        <summary type="html"><![CDATA[Hello! The other day we talked about what happened when you press a key in your terminal.
+As a followup, I thought it might be fun to implement a program that’s like a
+tiny ssh server, but without the security. You can find it on github here, and I’ll explain how it works in this blog post.
+the goal: “ssh” to a remote computer
+Our goal is to be able to login to a remote computer and run commands, like you
+do with SSH or telnet.
+The biggest difference between this program and SSH is that there’s literally
+no security (not even a password) – anyone who can make a TCP connection to
+the server can get a shell and run commands.
+Obviously this is not a useful program in real life, but our goal is to learn a
+little more about how terminals works, not to write a useful program.
+(I will run a versi…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Parents want to keep their kids safe online. But are parental controls the answer?]]></title>
         <id>https://blog.mozilla.org/?p=69498</id>
@@ -25,6 +77,16 @@ The post Parents want to keep their kids safe online. But are parental controls 
         <summary type="html"><![CDATA[Today's links "War Against All Puerto Ricans": Required reading for the eve of a new independence referendum. Dashcam repo: Cruising the streets with a license plate camera to win debt-collector bounties. Hey look at this: Delights to delectate. This day in history: 2017 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading "War Against All Puerto Ricans" (permalink) Puerto Rico is back in the news. Sorta. That Other America breaches the US media consciousness every couple of years. The Bad President put it in the news by his horrific, racist failure to respond to Hurricane Maria: https://www.washingtonpost.com/politics/it-totally-belittled-the-moment-many-look-back-in-anger-at-trumps-tossing-of-paper-towels-in-puerto-rico/2018/09/13/8a3647d2…]]></summary>
         <author>
             <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Air Gap]]></title>
+        <id>https://xkcd.com/2651/</id>
+        <link href="https://xkcd.com/2651/"/>
+        <updated>2022-07-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/air_gap.png" title="You can still do powerline networking, but the bitrate does drop a little depending on the lightbulb warmup and cooldown delay." alt="You can still do powerline networking, but the bitrate does drop a little depending on the lightbulb warmup and cooldown delay." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -1311,16 +1373,6 @@ The post Marketing our privacy products while preserving privacy  appeared firs
         <summary type="html"><![CDATA[Today's links Podcasting "Apple's Cement Overshoes": Thinking different about right to repair. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Podcasting "Apple's Cement Overshoes" (permalink) This week on my podcast, I read my recent Medium column, "Apple's Cement Overshoes," about the incredible, cynical fuckery that Apple engages in to sabotage right to repair and ensure that its devices end up in overseas e-waste landfills rather than being fixed and kept in service. https://doctorow.medium.com/apples-cement-overshoes-329856288d13 For all the debate around Right to Repair, it's amazing how simple the actual issue is. On the anti- side, you have comp…]]></summary>
         <author>
             <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[d65536]]></title>
-        <id>https://xkcd.com/2626/</id>
-        <link href="https://xkcd.com/2626/"/>
-        <updated>2022-05-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/d65536.png" title="They're robust against quantum attacks because it's hard to make a quantum system that large." alt="They're robust against quantum attacks because it's hard to make a quantum system that large." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>

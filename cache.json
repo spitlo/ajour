@@ -195,6 +195,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2651/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/air_gap.png\" title=\"You can still do powerline networking, but the bitrate does drop a little depending on the lightbulb warmup and cooldown delay.\" alt=\"You can still do powerline networking, but the bitrate does drop a little depending on the lightbulb warmup and cooldown delay.\" />",
+          "link": "https://xkcd.com/2651/",
+          "publishedOn": "2022-07-27T00:00:00.000Z",
+          "wordCount": 232,
+          "title": "Air Gap",
+          "imageUrl": "https://imgs.xkcd.com/comics/air_gap_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2650/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/deepfakes.png\" title=\"If so great a deductive mind as Arthur Conan Doyle can be fooled by the Cottingley Deepfakes, what chance do we mortals have? Soon our very reality will be dictated by the whims of Frances (9) and Elsie (16).\" alt=\"If so great a deductive mind as Arthur Conan Doyle can be fooled by the Cottingley Deepfakes, what chance do we mortals have? Soon our very reality will be dictated by the whims of Frances (9) and Elsie (16).\" />",
@@ -433,16 +443,6 @@
           "wordCount": 199,
           "title": "Types of Scopes",
           "imageUrl": "https://imgs.xkcd.com/comics/types_of_scopes_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2626/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/d65536.png\" title=\"They're robust against quantum attacks because it's hard to make a quantum system that large.\" alt=\"They're robust against quantum attacks because it's hard to make a quantum system that large.\" />",
-          "link": "https://xkcd.com/2626/",
-          "publishedOn": "2022-05-30T00:00:00.000Z",
-          "wordCount": 195,
-          "title": "d65536",
-          "imageUrl": "https://imgs.xkcd.com/comics/d65536_2x.png"
         }
       ]
     },
@@ -745,6 +745,16 @@
       "siteUrl": "https://lea.verou.me",
       "articles": [
         {
+          "id": "https://lea.verou.me/?p=3493",
+          "author": "Lea Verou",
+          "description": "Since 2019, the annual State of CSS survey has collected feedback from web developers from across the world to try and take the pulse of the CSS ecosystem, and it’s become a valuable resource not only for CSS developers, but also for browser vendors. This summer, one of my side projects is helping out with survey […]",
+          "link": "https://lea.verou.me/2022/07/help-design-the-state-of-css-survey-2022/",
+          "publishedOn": "2022-07-28T10:42:11.000Z",
+          "wordCount": 876,
+          "title": "Help design the State of CSS Survey 2022!",
+          "imageUrl": null
+        },
+        {
           "id": "https://lea.verou.me/?p=3484",
           "author": "Lea Verou",
           "description": "A few days ago I asked Twitter a seemingly simple question (I meant aria-pressed, not aria-selected but Twitter doesn’t allow edits…): For background, I was implementing a web component for an app I’m working on at work and I was getting into some pretty weird rabbit holes with my approach of generating radios and labels. […]",
@@ -787,6 +797,16 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=68743",
+          "author": "Rebecca Smith",
+          "description": "Different is dope. Firefox has always stood by this. It’s also the mantra of Abby Wren, the woman featured in the pilot episode of our new docuseries, “Firefox Presents.” Launching Friday, April 15, “Firefox Presents” is a documentary series featuring colorful and inspiring creators who each have a unique journey of finding themselves or their […]\nThe post Mozilla celebrates groundbreaking creators in new docuseries “Firefox Presents” appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/products/firefox/new-mozilla-docuseries-firefox-presents-launch/",
+          "publishedOn": "2022-07-28T17:31:46.000Z",
+          "wordCount": 1225,
+          "title": "Mozilla celebrates groundbreaking creators in new docuseries “Firefox Presents”",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/04/Firefox_Presents_Ep1_Abby_Twitter_16x9_2-1080x720.jpg"
+        },
         {
           "id": "https://blog.mozilla.org/?p=69498",
           "author": "Kristina Bravo",
@@ -1155,6 +1175,16 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2022/07/28/toy-remote-login-server/",
+          "author": null,
+          "description": "Hello! The other day we talked about what happened when you press a key in your terminal.\nAs a followup, I thought it might be fun to implement a program that’s like a\ntiny ssh server, but without the security. You can find it on github here, and I’ll explain how it works in this blog post.\nthe goal: “ssh” to a remote computer\nOur goal is to be able to login to a remote computer and run commands, like you\ndo with SSH or telnet.\nThe biggest difference between this program and SSH is that there’s literally\nno security (not even a password) – anyone who can make a TCP connection to\nthe server can get a shell and run commands.\nObviously this is not a useful program in real life, but our goal is to learn a\nlittle more about how terminals works, not to write a useful program.\n(I will run a versi…",
+          "link": "https://jvns.ca/blog/2022/07/28/toy-remote-login-server/",
+          "publishedOn": "2022-07-28T08:00:28.000Z",
+          "wordCount": 2863,
+          "title": "A toy remote login server",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2022/07/20/pseudoterminals/",
           "author": null,
           "description": "I’ve been confused about what’s going on with terminals for a long time.\nBut this past week I was using xterm.js to display an\ninteractive terminal in a browser and I finally thought to ask a pretty basic\nquestion: when you press a key on your keyboard in a terminal (like Delete, or Escape, or a), which\nbytes get sent?\nAs usual we’ll answer that question by doing some experiments and seeing what happens :)\nremote terminals are very old technology\nFirst, I want to say that displaying a terminal in the browser with xterm.js\nmight seem like a New Thing, but it’s really not. In the 70s, computers were\nexpensive. So many employees at an institution would share a single computer,\nand each person could have their own “terminal” to that computer.\nFor example, here’s a photo of a VT100 terminal fro…",
@@ -1235,6 +1265,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=3912",
+          "author": "Cory Doctorow",
+          "description": "Today's links Your computer is tormented by a wicked god: Bootkits are why we can't have nice things. Peter Thiel's evil, but he's not an \"evil genius\": How to criticize self-mythologizing villains. Hey look at this: Delights to delectate. This day in history: 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Your computer is tormented by a wicked god (permalink) Computer security is really, really important. It was important decades ago, when computers were merely how we ran our financial system, aviation, and the power grid. Today, as more and more of us have our bodies inside of computers (cars, houses, etc) and computers in our body (implants), computer security is urgent. Decades ago, security practitioners beg…",
+          "link": "https://pluralistic.net/2022/07/28/descartes-was-an-optimist/",
+          "publishedOn": "2022-07-28T17:40:49.000Z",
+          "wordCount": 3917,
+          "title": "Pluralistic: 28 Jul 2022",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=3908",
           "author": "Cory Doctorow",
