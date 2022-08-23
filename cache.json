@@ -195,6 +195,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2662/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/physics_safety_tip.png\" title=\"In general, avoid exposure to any temperatures, pressures, particle energies, or states of matter that physicists think are neat.\" alt=\"In general, avoid exposure to any temperatures, pressures, particle energies, or states of matter that physicists think are neat.\" />",
+          "link": "https://xkcd.com/2662/",
+          "publishedOn": "2022-08-22T00:00:00.000Z",
+          "wordCount": 234,
+          "title": "Physics Safety Tip",
+          "imageUrl": "https://imgs.xkcd.com/comics/physics_safety_tip_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2661/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/age_milestone_privileges.png\" title=\"If you reach 122, you get complete unrevertible editorial control over Jeanne Calment's Wikipedia article.\" alt=\"If you reach 122, you get complete unrevertible editorial control over Jeanne Calment's Wikipedia article.\" />",
@@ -433,16 +443,6 @@
           "wordCount": 227,
           "title": "Extended NFPA Hazard Diamond",
           "imageUrl": "https://imgs.xkcd.com/comics/extended_nfpa_hazard_diamond_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2637/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/roman_numerals.png\" title=\"100he100k out th1s 1nno5at4e str1ng en100o501ng 15e been 500e5e50op1ng! 1t's 6rtua100y perfe100t! ...hang on, what's a &quot;virtuacy&quot;?\" alt=\"100he100k out th1s 1nno5at4e str1ng en100o501ng 15e been 500e5e50op1ng! 1t's 6rtua100y perfe100t! ...hang on, what's a &quot;virtuacy&quot;?\" />",
-          "link": "https://xkcd.com/2637/",
-          "publishedOn": "2022-06-24T00:00:00.000Z",
-          "wordCount": 223,
-          "title": "Roman Numerals",
-          "imageUrl": "https://imgs.xkcd.com/comics/roman_numerals_2x.png"
         }
       ]
     },
@@ -1035,6 +1035,16 @@
       "siteUrl": "https://pluralistic.net",
       "articles": [
         {
+          "id": "https://pluralistic.net/?p=4040",
+          "author": "Cory Doctorow",
+          "description": "Today's links falsely told the police that a father was a molesting his son: Filternets fail. Hey look at this: Delights to delectate. This day in history: 2002, 2012, 2017 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Google falsely told the police that a father was a molesting his son (permalink) Correction: An earlier draft of this story misstated a technical detail; Mark didn’t email his photo to his doctor; rather, he took the photo with his phone and the image was automatically synched to his Google Photos account, triggering a scan. Mark’s toddler had a painful, swollen penis. His wife contacted their doctor, whose nurse asked Mark to send him a picture of the toddler’s penis, because the pandemic was raging and the doctor wasn…",
+          "link": "https://pluralistic.net/2022/08/22/allopathic-risk/",
+          "publishedOn": "2022-08-22T14:47:31.000Z",
+          "wordCount": 2849,
+          "title": "Pluralistic: 22 Aug 2022 Gmail will call the cops on you based on the content of your emails",
+          "imageUrl": null
+        },
+        {
           "id": "https://pluralistic.net/?p=4036",
           "author": "Cory Doctorow",
           "description": "Today's links Workplace surveillance is coming for you: Empricism-washing as a form of wage-theft. Hey look at this: Delights to delectate. This day in history: 2002, 2012 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Workplace surveillance is coming for you (permalink) If you want to do something terrible with technology, you can't just roll it out on people with money and social capital. They'll complain and your idea will tank. Successful shitty tech rollouts start with people you can abuse with impunity (prisoners, kids, migrants, etc) and then work their way up the privilege gradient. I call it the Shitty Technology Adoption Curve. The point of the Shitty Technology Adoption Curve is to normalize technological oppression, one gro…",
@@ -1338,16 +1348,6 @@
           "wordCount": 3506,
           "title": "Pluralistic: 25 Jun 2022",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=3806",
-          "author": "Cory Doctorow",
-          "description": "Today's links Daycare apps are insecure surveillance dumpster-fires: Apps are like software, only worse. Hey look at this: Delights to delectate. This day in history: 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Daycare apps are insecure surveillance dumpster-fires (permalink) When my EFF colleague Alexis Hancock signed her baby up for daycare, she was told that she had to download a childcare management app – to monitor and specify \"feedings, diaper changes, pictures, activities, and which guardian picked-up/dropped-off the child.\" https://www.eff.org/deeplinks/2022/06/daycare-apps-are-dangerously-insecure This was during the lockdown, and the app was a way to comply with social distancing and contact tracing …",
-          "link": "https://pluralistic.net/2022/06/23/peek-a-boo/",
-          "publishedOn": "2022-06-23T16:08:59.000Z",
-          "wordCount": 2969,
-          "title": "Pluralistic: 23 Jun 2022",
-          "imageUrl": null
         }
       ]
     },
@@ -1365,21 +1365,6 @@
           "wordCount": 4668,
           "title": "When software makes you laugh! (…creativity as a mechanic, how it exists in games, and the ethics of either empowering or exploiting creation)",
           "imageUrl": "http://nathalielawhead.com/noodles/newtoolspost/ss_5ef56c9f646862421187c719d622ac2f7a1fb564.1920x1080.jpg"
-        },
-        {
-          "id": "http://www.nathalielawhead.com/candybox/?p=5424",
-          "author": "alienmelon",
-          "description": "As you probably know from following me on either Mastodon or Twitter, I’ve been working hard on my next “game” (the appropriate label for it is still undecided)… built in UE5. This post is an excuse to share a bunch of screenshots! There have been points where I wasn’t sure if what I was making would even run on any other computer, but I tested it today on my work laptop… omg it runs! Smoothly too! When I started I didn’t completely understand performance, or settings, or all the fancy things Unreal lets you do with optimization… so it was...",
-          "link": "http://www.nathalielawhead.com/candybox/bluesuburbia-progress-update-screenshots-of-what-im-working-on",
-          "publishedOn": "2022-06-23T23:30:25.000Z",
-          "wordCount": 2508,
-          "title": "BlueSuburbia Progress Update (screenshots of what I’m working on)",
-          "enclosure": {
-            "url": "http://nathalielawhead.com/noodles/Screenshots_firstProgressPost/ruins1.mp4",
-            "length": "69781873",
-            "type": "video/mp4"
-          },
-          "imageUrl": "http://nathalielawhead.com/noodles/Screenshots_firstProgressPost/spaceskybox1.PNG"
         }
       ]
     }
