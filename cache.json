@@ -788,6 +788,26 @@
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
         {
+          "id": "https://blog.mozilla.org/?p=69928",
+          "author": "Mozilla",
+          "description": "The news is overwhelming. Attention spans are waning. Combine those with social media feeds that are optimized for endless scrolling, and we get an internet where misinformation thrives.  In many ways, consuming news has become a social act. We get to share what we’re reading and thinking through social media. Other people respond with their […]\nThe post Slow your scroll: 5 ways to fight misinformation on your social feed appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/internet-culture/misinformation-social-media/",
+          "publishedOn": "2022-08-26T15:02:54.000Z",
+          "wordCount": 1822,
+          "title": "Slow your scroll: 5 ways to fight misinformation on your social feed",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/08/fx_blog_socialmediamisinfoguide_header-1080x720.jpg"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=69897",
+          "author": "Kristina Bravo",
+          "description": "If you could use a little hyping up to go outside, look no further than Wade Holland’s social media feeds. A former competitive skier from Montana, Holland encourages people to find their “stoke” – whether that’s by going on a mountain bike ride, rollerblading, or just feeling the sun on your skin. “It can be […]\nThe post Firefox Presents: Feeling alive with the ‘Stoke King’ appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/internet-culture/firefox-presents-stoke-king-wade-holland/",
+          "publishedOn": "2022-08-26T14:49:49.000Z",
+          "wordCount": 1705,
+          "title": "Firefox Presents: Feeling alive with the ‘Stoke King’",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/08/Firefox_Presents_Ep5_Wade_16x9_2-1080x720.jpg"
+        },
+        {
           "id": "https://blog.mozilla.org/?p=69866",
           "author": "Kristina Bravo",
           "description": "As each generation comes of age, they challenge the norms that came before them. If you were to ask most people their go-to way to search, they would mention a search engine. But for Gen Z, TikTok has become one of the most popular ways to find information. Adrienne Sheares, a social media strategist and […]\nThe post A little less misinformation, a little more action appeared first on The Mozilla Blog.",
@@ -936,26 +956,6 @@
           "wordCount": 2407,
           "title": "A Pocket collection for your wellness journey, as curated by the team behind ‘The Science of Happiness’ podcast",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/06/pocket_prxcollection01_blog-1029x686.jpg"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=69351",
-          "author": "Damiano",
-          "description": "Here at Mozilla, we are the first to admit the internet isn’t perfect, but we are also quick to point out that the internet is pretty darn magical. The internet opens up doors and opportunities, allows for people to connect with others, and lets everyone find where they belong — their corners of the internet. […]\nThe post Recording Academy’s VP of D.E.I. Ryan Butler Tells Us What Brings Him Joy Online appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/internet-culture/recording-academys-vp-of-d-e-i-ryan-butler-tells-us-what-brings-him-joy-online/",
-          "publishedOn": "2022-06-27T16:00:00.000Z",
-          "wordCount": 1765,
-          "title": "Recording Academy’s VP of D.E.I. Ryan Butler Tells Us What Brings Him Joy Online",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/06/mcoi_ryanbutler_header_1920x1080-1080x720.jpg"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=69351",
-          "author": "Damiano",
-          "description": "Here at Mozilla, we are the first to admit the internet isn’t perfect, but we are also quick to point out that the internet is pretty darn magical. The internet opens up doors and opportunities, allows for people to connect with others, and lets everyone find where they belong — their corners of the internet. […]\nThe post Recording Academy’s VP of D.E.I. Ryan Butler Tells Us What Brings Him Joy Online appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/internet-culture/recording-academys-vp-of-d-e-i-ryan-butler-tells-us-what-brings-him-joy-online/",
-          "publishedOn": "2022-06-27T16:00:00.000Z",
-          "wordCount": 1745,
-          "title": "Recording Academy’s VP of D.E.I. Ryan Butler Tells Us What Brings Him Joy Online",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/06/mcoi_ryanbutler_header_1920x1080-1080x720.jpg"
         }
       ]
     },
@@ -992,16 +992,6 @@
           "publishedOn": "2022-07-09T09:25:21.000Z",
           "wordCount": 1168,
           "title": "Monitoring tiny web services",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2022/06/28/some-notes-on-bubblewrap/",
-          "author": null,
-          "description": "Hello! About a year ago I got mad about Docker container startup time. This was\nbecause I was building an nginx playground\nwhere I was starting a new “container” on every HTTP request, and so for it to\nfeel reasonably snappy, nginx needed to start quickly.\nAlso, I was running this project on a pretty small cloud machine (256MB RAM), a\nsmall CPU, so I really wanted to avoid unnecessary overhead.\nI’ve been looking for a way to run containers faster since then, but I couldn’t\nfind one until last week when I discovered\nbubblewrap!! It’s very fast and I\nthink it’s super cool, but I also ran into a bunch of fun problems that I\nwanted to write down for my future self.\nsome disclaimers\nI’m not sure if the way I’m using bubblewrap in this post is maybe not how it’s intended to be used\nthere are a l…",
-          "link": "https://jvns.ca/blog/2022/06/28/some-notes-on-bubblewrap/",
-          "publishedOn": "2022-06-28T12:24:34.000Z",
-          "wordCount": 3065,
-          "title": "Notes on running containers with bubblewrap",
           "imageUrl": null
         }
       ]
@@ -1352,21 +1342,6 @@
           "publishedOn": "2022-06-28T17:38:05.000Z",
           "wordCount": 3306,
           "title": "Pluralistic: 28 Jun 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=3817",
-          "author": "Cory Doctorow",
-          "description": "Today's links Podcasting \"Reasonable Agreement\": \"On the Crapification of Literary Contracts.\" Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Podcasting \"Reasonable Agreement\" (permalink) This week on my podcast, I read my recent @Medium column, \"Reasonable Agreement: On the Crapification of Literary Contracts,\" about the alarming standardization of non-negotiable (and terrible) contracting terms in freelance writing contracts: https://doctorow.medium.com/reasonable-agreement-ea8600a89ed7 I started selling to magazines in the 1980s, a moment when Reagan's antitrust deregulation drove waves of mergers in the market. The major magazines were changi…",
-          "link": "https://pluralistic.net/2022/06/27/reps-and-warranties/",
-          "publishedOn": "2022-06-27T15:36:26.000Z",
-          "wordCount": 3409,
-          "title": "Pluralistic: 27 Jun 2022",
-          "enclosure": {
-            "url": "https://archive.org/download/Cory_Doctorow_Podcast_430/Cory_Doctorow_Podcast_430_-_Reasonable_Agreement.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
           "imageUrl": null
         }
       ]

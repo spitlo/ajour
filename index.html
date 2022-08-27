@@ -16,9 +16,9 @@
     <meta name="robots" content="noindex, nofollow">
     <link rel="preload" as="font" type="font/woff2" href="https://spitlo.com/fonts/GangsterGrotesk-Bold.woff2" crossorigin="anonymous">
     <link rel="preload" as="font" type="font/woff2" href="https://spitlo.com/fonts/VictorMono-Thin.woff2" crossorigin="anonymous">
-    <link rel="icon" type="image/svg+xml" href="https://spitlo.com/images/favicon.svg?2022-08-26T00:40:43.487Z">
+    <link rel="icon" type="image/svg+xml" href="https://spitlo.com/images/favicon.svg?2022-08-27T00:34:49.133Z">
     <link rel="alternate" type="application/rss+xml" title="Ajour / Spitlo.com" href="feed.atom">
-    <link href="https://spitlo.com/style.css?2022-08-26T00:40:43.487Z" rel="stylesheet">
+    <link href="https://spitlo.com/style.css?2022-08-27T00:34:49.133Z" rel="stylesheet">
 
     <style>
       body { font-size: 14px; }
@@ -52,6 +52,31 @@
           Visit <a target="_blank" rel="noopener noreferrer" href="https://github.com/osmoscraft/osmosfeed">osmos::feed</a> for more info or to make your own custom feed reader.
         </p>
 
+          <section class="daily-content">
+            <h2 class="daily-heading"><time datatime="2022-08-26">2022-08-26</time></h2>
+                <article data-source="The Mozilla Blog" data-rtime="6">
+                  <h3><a target="_blank" rel="noopener noreferrer" href=https://blog.mozilla.org/en/internet-culture/misinformation-social-media/>Slow your scroll: 5 ways to fight misinformation on your social feed</a></h3>
+                  <ul class="meta">
+                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://blog.mozilla.org/en/>The Mozilla Blog</a></li>
+                    <li><span class="label">Date:</span> <time datetime="2022-08-26T15:02:54.000Z">2022-08-26</time></li>
+                    <li><span class="label">Reading time:</span> <time>6 min</time></li>
+                    <li><span class="label">Words</span> <time>1822</time></li>
+                  </ul>
+                  <p>The news is overwhelming. Attention spans are waning. Combine those with social media feeds that are optimized for endless scrolling, and we get an internet where misinformation thrives.  In many ways, consuming news has become a social act. We get to share what we’re reading and thinking through social media. Other people respond with their […]
+The post Slow your scroll: 5 ways to fight misinformation on your social feed appeared first on The Mozilla Blog.</p>
+                </article>
+                <article data-source="The Mozilla Blog" data-rtime="6">
+                  <h3><a target="_blank" rel="noopener noreferrer" href=https://blog.mozilla.org/en/internet-culture/firefox-presents-stoke-king-wade-holland/>Firefox Presents: Feeling alive with the ‘Stoke King’</a></h3>
+                  <ul class="meta">
+                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://blog.mozilla.org/en/>The Mozilla Blog</a></li>
+                    <li><span class="label">Date:</span> <time datetime="2022-08-26T14:49:49.000Z">2022-08-26</time></li>
+                    <li><span class="label">Reading time:</span> <time>6 min</time></li>
+                    <li><span class="label">Words</span> <time>1705</time></li>
+                  </ul>
+                  <p>If you could use a little hyping up to go outside, look no further than Wade Holland’s social media feeds. A former competitive skier from Montana, Holland encourages people to find their “stoke” – whether that’s by going on a mountain bike ride, rollerblading, or just feeling the sun on your skin. “It can be […]
+The post Firefox Presents: Feeling alive with the ‘Stoke King’ appeared first on The Mozilla Blog.</p>
+                </article>
+          </section>
           <section class="daily-content">
             <h2 class="daily-heading"><time datatime="2022-08-25">2022-08-25</time></h2>
                 <article data-source="The Mozilla Blog" data-rtime="10">
@@ -1238,64 +1263,6 @@ Except, of course, Safari didn&#x27;t work.</p>
                   </ul>
                   <p>Today&#x27;s links Decrapify cookie consent dialogs with the Consent-O-Matic: Comcom steps in where GDPR enforcement failed. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Decrapify cookie consent dialogs with the Consent-O-Matic (permalink) Remember when they sneered at Geocities pages for being unusable eyesores? It&#x27;s true, those old sites had some, uh, idiosyncratic design choices, but at least they reflected a real person&#x27;s exuberant ideas about what looked and worked well. Today&#x27;s web is an unusable eyesore by design. Start with those fucking &quot;sign up for our newsletter&quot; interruptors. Email is the last federated protocol standing, so everyone who…</p>
                 </article>
-                <article data-source="Julia Evans" data-rtime="10">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://jvns.ca/blog/2022/06/28/some-notes-on-bubblewrap/>Notes on running containers with bubblewrap</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=http://jvns.ca/atom.xml>Julia Evans</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2022-06-28T12:24:34.000Z">2022-06-28</time></li>
-                    <li><span class="label">Reading time:</span> <time>10 min</time></li>
-                    <li><span class="label">Words</span> <time>3065</time></li>
-                  </ul>
-                  <p>Hello! About a year ago I got mad about Docker container startup time. This was
-because I was building an nginx playground
-where I was starting a new “container” on every HTTP request, and so for it to
-feel reasonably snappy, nginx needed to start quickly.
-Also, I was running this project on a pretty small cloud machine (256MB RAM), a
-small CPU, so I really wanted to avoid unnecessary overhead.
-I’ve been looking for a way to run containers faster since then, but I couldn’t
-find one until last week when I discovered
-bubblewrap!! It’s very fast and I
-think it’s super cool, but I also ran into a bunch of fun problems that I
-wanted to write down for my future self.
-some disclaimers
-I’m not sure if the way I’m using bubblewrap in this post is maybe not how it’s intended to be used
-there are a l…</p>
-                </article>
-          </section>
-          <section class="daily-content">
-            <h2 class="daily-heading"><time datatime="2022-06-27">2022-06-27</time></h2>
-                <article data-source="The Mozilla Blog" data-rtime="6">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://blog.mozilla.org/internet-culture/recording-academys-vp-of-d-e-i-ryan-butler-tells-us-what-brings-him-joy-online/>Recording Academy’s VP of D.E.I. Ryan Butler Tells Us What Brings Him Joy Online</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://blog.mozilla.org/en/>The Mozilla Blog</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2022-06-27T16:00:00.000Z">2022-06-27</time></li>
-                    <li><span class="label">Reading time:</span> <time>6 min</time></li>
-                    <li><span class="label">Words</span> <time>1765</time></li>
-                  </ul>
-                  <p>Here at Mozilla, we are the first to admit the internet isn’t perfect, but we are also quick to point out that the internet is pretty darn magical. The internet opens up doors and opportunities, allows for people to connect with others, and lets everyone find where they belong — their corners of the internet. […]
-The post Recording Academy’s VP of D.E.I. Ryan Butler Tells Us What Brings Him Joy Online appeared first on The Mozilla Blog.</p>
-                </article>
-                <article data-source="The Mozilla Blog" data-rtime="6">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://blog.mozilla.org/en/internet-culture/recording-academys-vp-of-d-e-i-ryan-butler-tells-us-what-brings-him-joy-online/>Recording Academy’s VP of D.E.I. Ryan Butler Tells Us What Brings Him Joy Online</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://blog.mozilla.org/en/>The Mozilla Blog</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2022-06-27T16:00:00.000Z">2022-06-27</time></li>
-                    <li><span class="label">Reading time:</span> <time>6 min</time></li>
-                    <li><span class="label">Words</span> <time>1745</time></li>
-                  </ul>
-                  <p>Here at Mozilla, we are the first to admit the internet isn’t perfect, but we are also quick to point out that the internet is pretty darn magical. The internet opens up doors and opportunities, allows for people to connect with others, and lets everyone find where they belong — their corners of the internet. […]
-The post Recording Academy’s VP of D.E.I. Ryan Butler Tells Us What Brings Him Joy Online appeared first on The Mozilla Blog.</p>
-                </article>
-                <article data-source="Pluralistic: Daily links from Cory Doctorow" data-rtime="11">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://pluralistic.net/2022/06/27/reps-and-warranties/>Pluralistic: 27 Jun 2022</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://pluralistic.net>Pluralistic: Daily links from Cory Doctorow</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2022-06-27T15:36:26.000Z">2022-06-27</time></li>
-                    <li><span class="label">Reading time:</span> <time>11 min</time></li>
-                    <li><span class="label">Words</span> <time>3409</time></li>
-                  </ul>
-                  <p>Today&#x27;s links Podcasting &quot;Reasonable Agreement&quot;: &quot;On the Crapification of Literary Contracts.&quot; Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Podcasting &quot;Reasonable Agreement&quot; (permalink) This week on my podcast, I read my recent @Medium column, &quot;Reasonable Agreement: On the Crapification of Literary Contracts,&quot; about the alarming standardization of non-negotiable (and terrible) contracting terms in freelance writing contracts: https://doctorow.medium.com/reasonable-agreement-ea8600a89ed7 I started selling to magazines in the 1980s, a moment when Reagan&#x27;s antitrust deregulation drove waves of mergers in the market. The major magazines were changi…</p>
-                </article>
           </section>
           <section class="daily-content">
             <h2 class="daily-heading"><time datatime="2022-03-18">2022-03-18</time></h2>
@@ -2113,7 +2080,7 @@ actual BBS software and related acc…</p>
 
         <footer>
           <section class="details">
-            <span class="detail">Built @ 2022-08-26T00:40:43.487Z</span>
+            <span class="detail">Built @ 2022-08-27T00:34:49.133Z</span>
             <span class="divider">|</span>
             <span class="detail">CLI: 1.15.1</span>
             <span class="divider">|</span>

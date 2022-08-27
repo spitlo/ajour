@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-08-26T00:40:43.525Z</updated>
+    <updated>2022-08-27T00:34:49.171Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Slow your scroll: 5 ways to fight misinformation on your social feed]]></title>
+        <id>https://blog.mozilla.org/?p=69928</id>
+        <link href="https://blog.mozilla.org/en/internet-culture/misinformation-social-media/"/>
+        <updated>2022-08-26T15:02:54.000Z</updated>
+        <summary type="html"><![CDATA[The news is overwhelming. Attention spans are waning. Combine those with social media feeds that are optimized for endless scrolling, and we get an internet where misinformation thrives.  In many ways, consuming news has become a social act. We get to share what we’re reading and thinking through social media. Other people respond with their […]
+The post Slow your scroll: 5 ways to fight misinformation on your social feed appeared first on The Mozilla Blog.]]></summary>
+        <author>
+            <name>Mozilla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox Presents: Feeling alive with the ‘Stoke King’]]></title>
+        <id>https://blog.mozilla.org/?p=69897</id>
+        <link href="https://blog.mozilla.org/en/internet-culture/firefox-presents-stoke-king-wade-holland/"/>
+        <updated>2022-08-26T14:49:49.000Z</updated>
+        <summary type="html"><![CDATA[If you could use a little hyping up to go outside, look no further than Wade Holland’s social media feeds. A former competitive skier from Montana, Holland encourages people to find their “stoke” – whether that’s by going on a mountain bike ride, rollerblading, or just feeling the sun on your skin. “It can be […]
+The post Firefox Presents: Feeling alive with the ‘Stoke King’ appeared first on The Mozilla Blog.]]></summary>
+        <author>
+            <name>Kristina Bravo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A little less misinformation, a little more action]]></title>
         <id>https://blog.mozilla.org/?p=69866</id>
@@ -1051,61 +1073,6 @@ Except, of course, Safari didn't work.]]></summary>
         <link href="https://pluralistic.net/2022/06/28/bartlebytron-3000/"/>
         <updated>2022-06-28T17:38:05.000Z</updated>
         <summary type="html"><![CDATA[Today's links Decrapify cookie consent dialogs with the Consent-O-Matic: Comcom steps in where GDPR enforcement failed. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Decrapify cookie consent dialogs with the Consent-O-Matic (permalink) Remember when they sneered at Geocities pages for being unusable eyesores? It's true, those old sites had some, uh, idiosyncratic design choices, but at least they reflected a real person's exuberant ideas about what looked and worked well. Today's web is an unusable eyesore by design. Start with those fucking "sign up for our newsletter" interruptors. Email is the last federated protocol standing, so everyone who…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notes on running containers with bubblewrap]]></title>
-        <id>https://jvns.ca/blog/2022/06/28/some-notes-on-bubblewrap/</id>
-        <link href="https://jvns.ca/blog/2022/06/28/some-notes-on-bubblewrap/"/>
-        <updated>2022-06-28T12:24:34.000Z</updated>
-        <summary type="html"><![CDATA[Hello! About a year ago I got mad about Docker container startup time. This was
-because I was building an nginx playground
-where I was starting a new “container” on every HTTP request, and so for it to
-feel reasonably snappy, nginx needed to start quickly.
-Also, I was running this project on a pretty small cloud machine (256MB RAM), a
-small CPU, so I really wanted to avoid unnecessary overhead.
-I’ve been looking for a way to run containers faster since then, but I couldn’t
-find one until last week when I discovered
-bubblewrap!! It’s very fast and I
-think it’s super cool, but I also ran into a bunch of fun problems that I
-wanted to write down for my future self.
-some disclaimers
-I’m not sure if the way I’m using bubblewrap in this post is maybe not how it’s intended to be used
-there are a l…]]></summary>
-        <author>
-            <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recording Academy’s VP of D.E.I. Ryan Butler Tells Us What Brings Him Joy Online]]></title>
-        <id>https://blog.mozilla.org/?p=69351</id>
-        <link href="https://blog.mozilla.org/internet-culture/recording-academys-vp-of-d-e-i-ryan-butler-tells-us-what-brings-him-joy-online/"/>
-        <updated>2022-06-27T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here at Mozilla, we are the first to admit the internet isn’t perfect, but we are also quick to point out that the internet is pretty darn magical. The internet opens up doors and opportunities, allows for people to connect with others, and lets everyone find where they belong — their corners of the internet. […]
-The post Recording Academy’s VP of D.E.I. Ryan Butler Tells Us What Brings Him Joy Online appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Damiano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recording Academy’s VP of D.E.I. Ryan Butler Tells Us What Brings Him Joy Online]]></title>
-        <id>https://blog.mozilla.org/?p=69351</id>
-        <link href="https://blog.mozilla.org/en/internet-culture/recording-academys-vp-of-d-e-i-ryan-butler-tells-us-what-brings-him-joy-online/"/>
-        <updated>2022-06-27T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here at Mozilla, we are the first to admit the internet isn’t perfect, but we are also quick to point out that the internet is pretty darn magical. The internet opens up doors and opportunities, allows for people to connect with others, and lets everyone find where they belong — their corners of the internet. […]
-The post Recording Academy’s VP of D.E.I. Ryan Butler Tells Us What Brings Him Joy Online appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Damiano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 27 Jun 2022]]></title>
-        <id>https://pluralistic.net/?p=3817</id>
-        <link href="https://pluralistic.net/2022/06/27/reps-and-warranties/"/>
-        <updated>2022-06-27T15:36:26.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Podcasting "Reasonable Agreement": "On the Crapification of Literary Contracts." Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Podcasting "Reasonable Agreement" (permalink) This week on my podcast, I read my recent @Medium column, "Reasonable Agreement: On the Crapification of Literary Contracts," about the alarming standardization of non-negotiable (and terrible) contracting terms in freelance writing contracts: https://doctorow.medium.com/reasonable-agreement-ea8600a89ed7 I started selling to magazines in the 1980s, a moment when Reagan's antitrust deregulation drove waves of mergers in the market. The major magazines were changi…]]></summary>
         <author>
             <name>Cory Doctorow</name>
         </author>
