@@ -81,7 +81,18 @@
       "title": "Hundred Rabbits",
       "feedUrl": "https://100r.co/links/rss.xml",
       "siteUrl": "https://100r.co",
-      "articles": []
+      "articles": [
+        {
+          "id": "log.html#aug2022",
+          "author": "Rekka Bellum",
+          "description": "Hey everyone! This is the list of all the changes we've done to our projects and apps during the month of August. We'll also be reporting in our on position in the world, and on our future plans.\nSummary Of Changes\nLeft, added a navigation bar to navigate larger codebases.\npotato, implemented file system APIs so new files can be renamed, copied and deleted.\nNoodle, added various optimizations, improved TGA support.\nDrifblim, completed rewrite. The assembler is now used to build all of our projects, with no more dependence on the C toolchain to make roms.\nUxnlin, added a lot of recipes, making it better at finding possible code optimizations.\nNews\nPino is back in the land of faster internet, and our boat's belly has been re-filled with food. We returned to the Gulf Islands, and are busy eat…",
+          "link": "https://100r.co/site/log.html#aug2022",
+          "publishedOn": "2022-08-31T00:00:00.000Z",
+          "wordCount": 4526,
+          "title": "Summary of changes for August",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Sara Soueidan – Blog",
@@ -106,6 +117,16 @@
       "feedUrl": "https://emshort.blog/feed/",
       "siteUrl": "https://emshort.blog",
       "articles": [
+        {
+          "id": "http://emshort.blog/?p=42781",
+          "author": "Emily Short",
+          "description": "Events In early September, inkJam will be running to encourage new games written in Ink. Interactive Fiction Club Jam opened August 26 and is running through September 16. It’s open to IF of any genre, as long as it’s safe for work. Meanwhile, Interactive Fiction Jam #2 is running today through the end of September. … Continue reading \"End of August Link Assortment\"",
+          "link": "https://emshort.blog/2022/08/31/end-of-august-link-assortment-6/",
+          "publishedOn": "2022-08-31T17:30:00.000Z",
+          "wordCount": 4807,
+          "title": "End of August Link Assortment",
+          "imageUrl": "https://emshort.files.wordpress.com/2022/08/noblesseoblige.png"
+        },
         {
           "id": "http://emshort.blog/?p=42774",
           "author": "Emily Short",
@@ -153,6 +174,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2666/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/universe_price_tiers.png\" title=\"In Universe Pro®™ the laws of physics remain unchanged under time reversal, to maintain backward compatibility.\" alt=\"In Universe Pro®™ the laws of physics remain unchanged under time reversal, to maintain backward compatibility.\" />",
+          "link": "https://xkcd.com/2666/",
+          "publishedOn": "2022-08-31T00:00:00.000Z",
+          "wordCount": 234,
+          "title": "Universe Price Tiers",
+          "imageUrl": "https://imgs.xkcd.com/comics/universe_price_tiers_2x.png"
+        },
         {
           "id": "https://xkcd.com/2665/",
           "author": null,
@@ -410,6 +441,56 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "twelve",
+          "author": null,
+          "description": "Tia's 12th … birthday. Not a birthday, but 12 years after she was born, or came into our lives. She died too. Our first. The oldest that we don't have at home.\nI don't know if I have a meaningful blog post in me this year, though I've written words about Tia for a number of years now on, or near this specific date: 31‍-‍August.",
+          "link": "https://remysharp.com/2022/08/31/twelve",
+          "publishedOn": "2022-08-31T00:00:00.000Z",
+          "wordCount": 1008,
+          "title": "Twelve [blog]",
+          "imageUrl": "https://remysharp.com/images/cards/og/9-0.jpg"
+        },
+        {
+          "id": "hope-to-die-di-adam-fawley-6",
+          "author": null,
+          "description": "Hope to Die (DI Adam Fawley #6)",
+          "link": "https://remysharp.com/books/2022/hope-to-die-di-adam-fawley-6",
+          "publishedOn": "2022-08-20T00:00:00.000Z",
+          "wordCount": 490,
+          "title": "Hope to Die (DI Adam Fawley #6) [book]",
+          "imageUrl": null
+        },
+        {
+          "id": "redwall",
+          "author": null,
+          "description": "Redwall",
+          "link": "https://remysharp.com/books/2022/redwall",
+          "publishedOn": "2022-08-15T00:00:00.000Z",
+          "wordCount": 478,
+          "title": "Redwall [book]",
+          "imageUrl": null
+        },
+        {
+          "id": "the-frangipani-tree-mystery-crown-colony-1",
+          "author": null,
+          "description": "The Frangipani Tree Mystery (Crown Colony #1)",
+          "link": "https://remysharp.com/books/2022/the-frangipani-tree-mystery-crown-colony-1",
+          "publishedOn": "2022-08-15T00:00:00.000Z",
+          "wordCount": 490,
+          "title": "The Frangipani Tree Mystery (Crown Colony #1) [book]",
+          "imageUrl": null
+        },
+        {
+          "id": "the-audacity",
+          "author": null,
+          "description": "The Audacity",
+          "link": "https://remysharp.com/books/2022/the-audacity",
+          "publishedOn": "2022-07-20T00:00:00.000Z",
+          "wordCount": 480,
+          "title": "The Audacity [book]",
+          "imageUrl": null
+        },
         {
           "id": "kesimpta",
           "author": null,

@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-08-31T00:47:56.345Z</updated>
+    <updated>2022-09-01T00:35:53.648Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[End of August Link Assortment]]></title>
+        <id>http://emshort.blog/?p=42781</id>
+        <link href="https://emshort.blog/2022/08/31/end-of-august-link-assortment-6/"/>
+        <updated>2022-08-31T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Events In early September, inkJam will be running to encourage new games written in Ink. Interactive Fiction Club Jam opened August 26 and is running through September 16. It’s open to IF of any genre, as long as it’s safe for work. Meanwhile, Interactive Fiction Jam #2 is running today through the end of September. … Continue reading "End of August Link Assortment"]]></summary>
+        <author>
+            <name>Emily Short</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Summary of changes for August]]></title>
+        <id>log.html#aug2022</id>
+        <link href="https://100r.co/site/log.html#aug2022"/>
+        <updated>2022-08-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone! This is the list of all the changes we've done to our projects and apps during the month of August. We'll also be reporting in our on position in the world, and on our future plans.
+Summary Of Changes
+Left, added a navigation bar to navigate larger codebases.
+potato, implemented file system APIs so new files can be renamed, copied and deleted.
+Noodle, added various optimizations, improved TGA support.
+Drifblim, completed rewrite. The assembler is now used to build all of our projects, with no more dependence on the C toolchain to make roms.
+Uxnlin, added a lot of recipes, making it better at finding possible code optimizations.
+News
+Pino is back in the land of faster internet, and our boat's belly has been re-filled with food. We returned to the Gulf Islands, and are busy eat…]]></summary>
+        <author>
+            <name>Rekka Bellum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Universe Price Tiers]]></title>
+        <id>https://xkcd.com/2666/</id>
+        <link href="https://xkcd.com/2666/"/>
+        <updated>2022-08-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/universe_price_tiers.png" title="In Universe Pro®™ the laws of physics remain unchanged under time reversal, to maintain backward compatibility." alt="In Universe Pro®™ the laws of physics remain unchanged under time reversal, to maintain backward compatibility." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twelve [blog]]]></title>
+        <id>twelve</id>
+        <link href="https://remysharp.com/2022/08/31/twelve"/>
+        <updated>2022-08-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tia's 12th … birthday. Not a birthday, but 12 years after she was born, or came into our lives. She died too. Our first. The oldest that we don't have at home.
+I don't know if I have a meaningful blog post in me this year, though I've written words about Tia for a number of years now on, or near this specific date: 31‍-‍August.]]></summary>
+        <author>
+            <name>remy sharp's b:log</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding useMemo and useCallback]]></title>
         <id>https://www.joshwcomeau.com/react/usememo-and-usecallback/</id>
@@ -172,6 +221,16 @@ The post How Firefox’s Total Cookie Protection and container extensions work t
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hope to Die (DI Adam Fawley #6) [book]]]></title>
+        <id>hope-to-die-di-adam-fawley-6</id>
+        <link href="https://remysharp.com/books/2022/hope-to-die-di-adam-fawley-6"/>
+        <updated>2022-08-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hope to Die (DI Adam Fawley #6)]]></summary>
+        <author>
+            <name>remy sharp's b:log</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Pluralistic: 19 Aug 2022 Business Roundtable vs Humanity]]></title>
         <id>https://pluralistic.net/?p=4030</id>
         <link href="https://pluralistic.net/2022/08/19/handmaidens-to-extinction/"/>
@@ -280,6 +339,26 @@ The post Announcing Steve Teixeira, Mozilla’s new Chief Product Officer appear
         <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/unreliable_connection.png" title="NEGATIVE REVIEWS MENTION: Unreliable internet. POSITIVE REVIEWS MENTION: Unreliable internet." alt="NEGATIVE REVIEWS MENTION: Unreliable internet. POSITIVE REVIEWS MENTION: Unreliable internet." />]]></summary>
         <author>
             <name>xkcd.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redwall [book]]]></title>
+        <id>redwall</id>
+        <link href="https://remysharp.com/books/2022/redwall"/>
+        <updated>2022-08-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Redwall]]></summary>
+        <author>
+            <name>remy sharp's b:log</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Frangipani Tree Mystery (Crown Colony #1) [book]]]></title>
+        <id>the-frangipani-tree-mystery-crown-colony-1</id>
+        <link href="https://remysharp.com/books/2022/the-frangipani-tree-mystery-crown-colony-1"/>
+        <updated>2022-08-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Frangipani Tree Mystery (Crown Colony #1)]]></summary>
+        <author>
+            <name>remy sharp's b:log</name>
         </author>
     </entry>
     <entry>
@@ -698,6 +777,16 @@ For example, here’s a photo of a VT100 terminal fro…]]></summary>
         <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/chemicals.png" title="It's hard to believe, but lots of kids these days ONLY know how to buy prepackaged molecules." alt="It's hard to believe, but lots of kids these days ONLY know how to buy prepackaged molecules." />]]></summary>
         <author>
             <name>xkcd.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Audacity [book]]]></title>
+        <id>the-audacity</id>
+        <link href="https://remysharp.com/books/2022/the-audacity"/>
+        <updated>2022-07-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Audacity]]></summary>
+        <author>
+            <name>remy sharp's b:log</name>
         </author>
     </entry>
     <entry>
