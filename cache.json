@@ -108,6 +108,16 @@
       "siteUrl": "https://emshort.blog",
       "articles": [
         {
+          "id": "http://emshort.blog/?p=42821",
+          "author": "Emily Short",
+          "description": "A couple days ago I mentioned the rerelease of my game Bee, and promised a follow-up article about some of the technical aspects. The Project Key things to know about the game: You can also play the new Dendry version here. The Challenge Bee was written for Varytale, but that platform went away a long … Continue reading \"Rebalancing Bee\"",
+          "link": "https://emshort.blog/2022/09/06/rebalancing-bee/",
+          "publishedOn": "2022-09-06T17:30:00.000Z",
+          "wordCount": 6548,
+          "title": "Rebalancing Bee",
+          "imageUrl": "https://emshort.files.wordpress.com/2022/09/letticeoutcomes.png"
+        },
+        {
           "id": "http://emshort.blog/?p=42807",
           "author": "Emily Short",
           "description": "Bee is a choice-based story I wrote some years ago about being a homeschooled student trying (but failing) to win the national spelling bee. Initially released for Varytale in 2012, Bee went off-line for a time when the platform shut down. Varytale’s programmer, Ian Millington, then partially re-created Bee for Dendry, a non-commercial platform with similar technical … Continue reading \"Bee Republished\"",
@@ -788,6 +798,16 @@
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
         {
+          "id": "https://blog.mozilla.org/?p=69933",
+          "author": "Mozilla",
+          "description": "The internet is a great place for families. It gives us new opportunities to discover the world, connect with others and just generally make our lives easier and more colorful. But it also comes with new challenges and complications for the people raising the next generations. Mozilla wants to help families make the best online […]\nThe post The Tech Talk appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/the-tech-talk/",
+          "publishedOn": "2022-09-06T16:18:29.000Z",
+          "wordCount": 1116,
+          "title": "The Tech Talk",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/08/Blog-CTA-Banner-1200x800.jpg"
+        },
+        {
           "id": "https://blog.mozilla.org/?p=69928",
           "author": "Mozilla",
           "description": "The news is overwhelming. Attention spans are waning. Combine those with social media feeds that are optimized for endless scrolling, and we get an internet where misinformation thrives.  In many ways, consuming news has become a social act. We get to share what we’re reading and thinking through social media. Other people respond with their […]\nThe post Slow your scroll: 5 ways to fight misinformation on your social feed appeared first on The Mozilla Blog.",
@@ -906,16 +926,6 @@
           "wordCount": 2425,
           "title": "Bridget Todd, the new host of Mozilla’s IRL podcast, on online communities, The X-Files & raising marginalized voices",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/07/mcoi_bridgettodd_header_1920x1080-1080x720.png"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=69390",
-          "author": "Sarah Vasquez",
-          "description": "With the recent overturn of Roe v. Wade, many of us can’t help but wonder: How did we get here? It didn’t happen overnight — no, it was more of a slow burn. Just in time for the seventh season of Slate’s Slow Burn, host and executive editor Susan Matthews explores the path to Roe […]\nThe post The journey to Roe and after – a Pocket Collection unveils the stories behind Slate’s 7th season of Slow Burn appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/products/pocket/the-journey-to-roe-and-after-a-pocket-collection-unveils-the-stories-behind-slates-7th-season-of-slow-burn/",
-          "publishedOn": "2022-07-08T20:19:04.000Z",
-          "wordCount": 2405,
-          "title": "The journey to Roe and after – a Pocket Collection unveils the stories behind Slate’s 7th season of Slow Burn",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/07/https-__s3.amazonaws.com_pocket-collectionapi-prod-images_6d7eaea7-8910-4d9e-bb57-c6a2c0d3c3ab-648x432.png"
         }
       ]
     },
@@ -924,6 +934,16 @@
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
+        {
+          "id": "https://jvns.ca/blog/2022/09/06/send-network-packets-python-tun-tap/",
+          "author": null,
+          "description": "Hello!\nRecently I’ve been working on a project where I implement a bunch of tiny toy\nworking versions of computer networking protocols in Python without using any\nlibraries, as a way to explain how computer networking works.\nI’m still working on writing up that project, but today I wanted to talk about\nhow to do the very first step: sending network packets in Python.\nIn this post we’re going to send a SYN packet (the first packet in a TCP\nconnection) from a tiny Python program, and get a reply from example.com. All the code from this post is in this gist.\nwhat’s a network packet?\nA network packet is a byte string. For example, here’s the first packet in a TCP connection:\nb'E\\x00\\x00,\\x00\\x01\\x00\\x00@\\x06\\x00\\xc4\\xc0\\x00\\x02\\x02\"\\xc2\\x95Cx\\x0c\\x00P\\xf4p\\x98\\x8b\\x00\\x00\\x00\\x00`\\x02\\xff\\xff\\…",
+          "link": "https://jvns.ca/blog/2022/09/06/send-network-packets-python-tun-tap/",
+          "publishedOn": "2022-09-06T11:43:14.000Z",
+          "wordCount": 1701,
+          "title": "How to send raw network packets in Python with tun/tap",
+          "imageUrl": null
+        },
         {
           "id": "https://jvns.ca/blog/2022/08/30/a-way-to-categorize-debugging-skills/",
           "author": null,
@@ -952,16 +972,6 @@
           "publishedOn": "2022-07-20T20:57:15.000Z",
           "wordCount": 2173,
           "title": "What happens when you press a key in your terminal?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2022/07/09/monitoring-small-web-services/",
-          "author": null,
-          "description": "Hello! I’ve started to run a few more servers recently\n(nginx playground,\nmess with dns,\ndns lookup), so I’ve been\nthinking about monitoring.\nIt wasn’t initially totally obvious to me how to monitor these websites, so I\nwanted to quickly write up what how I did it.\nI’m not going to talk about how to monitor Big Serious Mission Critical\nwebsites at all, only tiny unimportant websites.\ngoal: spend approximately 0 time on operations\nI want the sites to mostly work, but I also want to spend approximately 0% of\nmy time on the ongoing operations.\nI was initially very wary of running servers at all because at my last job I\nwas on a 24⁄7 oncall rotation for some critical services, and in my mind “being\nresponsible for servers” meant “get woken up at 2am to fix the servers” and\n“have lots of compli…",
-          "link": "https://jvns.ca/blog/2022/07/09/monitoring-small-web-services/",
-          "publishedOn": "2022-07-09T09:25:21.000Z",
-          "wordCount": 1168,
-          "title": "Monitoring tiny web services",
           "imageUrl": null
         }
       ]
@@ -1247,16 +1257,6 @@
             "length": "0",
             "type": "audio/mpeg"
           },
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=3877",
-          "author": "Cory Doctorow",
-          "description": "Today's links Finance caused the fall of Rome: A politics of protecting contracts and property is a civilizational suicide pact. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Finance caused the fall of Rome (permalink) It's hard to overstate the impact that David Graeber's 2012 blockbuster Debt: The First Five Thousand Years had on society; it's a truly magisterial history of the way that debt – and debt forgiveness – played in the establishment of advanced civilization and its downfall: https://www.tor.com/2012/04/16/the-best-science-fiction-ideas-in-any-non-fiction-ever-david-graebers-debt-the-first-five-thousand-years/ Graeber – a key Occupy …",
-          "link": "https://pluralistic.net/2022/07/08/jubilant/",
-          "publishedOn": "2022-07-08T17:00:04.000Z",
-          "wordCount": 3430,
-          "title": "Pluralistic: 08 Jul 2022",
           "imageUrl": null
         }
       ]

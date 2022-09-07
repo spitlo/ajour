@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-09-06T00:43:40.740Z</updated>
+    <updated>2022-09-07T00:42:05.276Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rebalancing Bee]]></title>
+        <id>http://emshort.blog/?p=42821</id>
+        <link href="https://emshort.blog/2022/09/06/rebalancing-bee/"/>
+        <updated>2022-09-06T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A couple days ago I mentioned the rerelease of my game Bee, and promised a follow-up article about some of the technical aspects. The Project Key things to know about the game: You can also play the new Dendry version here. The Challenge Bee was written for Varytale, but that platform went away a long … Continue reading "Rebalancing Bee"]]></summary>
+        <author>
+            <name>Emily Short</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Tech Talk]]></title>
+        <id>https://blog.mozilla.org/?p=69933</id>
+        <link href="https://blog.mozilla.org/en/mozilla/the-tech-talk/"/>
+        <updated>2022-09-06T16:18:29.000Z</updated>
+        <summary type="html"><![CDATA[The internet is a great place for families. It gives us new opportunities to discover the world, connect with others and just generally make our lives easier and more colorful. But it also comes with new challenges and complications for the people raising the next generations. Mozilla wants to help families make the best online […]
+The post The Tech Talk appeared first on The Mozilla Blog.]]></summary>
+        <author>
+            <name>Mozilla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to send raw network packets in Python with tun/tap]]></title>
+        <id>https://jvns.ca/blog/2022/09/06/send-network-packets-python-tun-tap/</id>
+        <link href="https://jvns.ca/blog/2022/09/06/send-network-packets-python-tun-tap/"/>
+        <updated>2022-09-06T11:43:14.000Z</updated>
+        <summary type="html"><![CDATA[Hello!
+Recently I’ve been working on a project where I implement a bunch of tiny toy
+working versions of computer networking protocols in Python without using any
+libraries, as a way to explain how computer networking works.
+I’m still working on writing up that project, but today I wanted to talk about
+how to do the very first step: sending network packets in Python.
+In this post we’re going to send a SYN packet (the first packet in a TCP
+connection) from a tiny Python program, and get a reply from example.com. All the code from this post is in this gist.
+what’s a network packet?
+A network packet is a byte string. For example, here’s the first packet in a TCP connection:
+b'E\x00\x00,\x00\x01\x00\x00@\x06\x00\xc4\xc0\x00\x02\x02"\xc2\x95Cx\x0c\x00P\xf4p\x98\x8b\x00\x00\x00\x00`\x02\xff\xff\…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Artemis Quote]]></title>
         <id>https://xkcd.com/2668/</id>
@@ -928,52 +969,6 @@ The post Bridget Todd, the new host of Mozilla’s IRL podcast, on online commun
         <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/fmri_billboard.png" title="[other side] If the first word of an instruction you're given starts with the same letter as your crush's name, for that step imagine the experimenter is your crush." alt="[other side] If the first word of an instruction you're given starts with the same letter as your crush's name, for that step imagine the experimenter is your crush." />]]></summary>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monitoring tiny web services]]></title>
-        <id>https://jvns.ca/blog/2022/07/09/monitoring-small-web-services/</id>
-        <link href="https://jvns.ca/blog/2022/07/09/monitoring-small-web-services/"/>
-        <updated>2022-07-09T09:25:21.000Z</updated>
-        <summary type="html"><![CDATA[Hello! I’ve started to run a few more servers recently
-(nginx playground,
-mess with dns,
-dns lookup), so I’ve been
-thinking about monitoring.
-It wasn’t initially totally obvious to me how to monitor these websites, so I
-wanted to quickly write up what how I did it.
-I’m not going to talk about how to monitor Big Serious Mission Critical
-websites at all, only tiny unimportant websites.
-goal: spend approximately 0 time on operations
-I want the sites to mostly work, but I also want to spend approximately 0% of
-my time on the ongoing operations.
-I was initially very wary of running servers at all because at my last job I
-was on a 24⁄7 oncall rotation for some critical services, and in my mind “being
-responsible for servers” meant “get woken up at 2am to fix the servers” and
-“have lots of compli…]]></summary>
-        <author>
-            <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The journey to Roe and after – a Pocket Collection unveils the stories behind Slate’s 7th season of Slow Burn]]></title>
-        <id>https://blog.mozilla.org/?p=69390</id>
-        <link href="https://blog.mozilla.org/en/products/pocket/the-journey-to-roe-and-after-a-pocket-collection-unveils-the-stories-behind-slates-7th-season-of-slow-burn/"/>
-        <updated>2022-07-08T20:19:04.000Z</updated>
-        <summary type="html"><![CDATA[With the recent overturn of Roe v. Wade, many of us can’t help but wonder: How did we get here? It didn’t happen overnight — no, it was more of a slow burn. Just in time for the seventh season of Slate’s Slow Burn, host and executive editor Susan Matthews explores the path to Roe […]
-The post The journey to Roe and after – a Pocket Collection unveils the stories behind Slate’s 7th season of Slow Burn appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Sarah Vasquez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 08 Jul 2022]]></title>
-        <id>https://pluralistic.net/?p=3877</id>
-        <link href="https://pluralistic.net/2022/07/08/jubilant/"/>
-        <updated>2022-07-08T17:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Finance caused the fall of Rome: A politics of protecting contracts and property is a civilizational suicide pact. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Finance caused the fall of Rome (permalink) It's hard to overstate the impact that David Graeber's 2012 blockbuster Debt: The First Five Thousand Years had on society; it's a truly magisterial history of the way that debt – and debt forgiveness – played in the establishment of advanced civilization and its downfall: https://www.tor.com/2012/04/16/the-best-science-fiction-ideas-in-any-non-fiction-ever-david-graebers-debt-the-first-five-thousand-years/ Graeber – a key Occupy …]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
         </author>
     </entry>
     <entry>
