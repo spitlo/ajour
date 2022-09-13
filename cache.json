@@ -64,16 +64,6 @@
           "wordCount": 1455,
           "title": "Rethinking Device Emulation in browsers",
           "imageUrl": null
-        },
-        {
-          "id": "https://christianheilmann.com/?p=7285",
-          "author": "Chris Heilmann",
-          "description": "When debugging or analysing JavaScript, you often see people trying to find out how often a certain function is called. The common way to do that is to use a global counter variable to increment and log in the function. var i = 0; function test(){ // other functionality i++; console.log(i); // other functionality } […]",
-          "link": "https://christianheilmann.com/2022/07/14/the-browser-console-has-a-count-method/",
-          "publishedOn": "2022-07-14T21:30:35.000Z",
-          "wordCount": 456,
-          "title": "The browser console has a count method",
-          "imageUrl": null
         }
       ]
     },
@@ -184,6 +174,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2671/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/rotation.png\" title=\"It's okay, we can just feed the one-pixel image into an AI upscaler and recover the original image, or at least one that's just as cool.\" alt=\"It's okay, we can just feed the one-pixel image into an AI upscaler and recover the original image, or at least one that's just as cool.\" />",
+          "link": "https://xkcd.com/2671/",
+          "publishedOn": "2022-09-12T00:00:00.000Z",
+          "wordCount": 230,
+          "title": "Rotation",
+          "imageUrl": "https://imgs.xkcd.com/comics/rotation_2x.png"
+        },
         {
           "id": "https://xkcd.com/2670/",
           "author": null,
@@ -423,16 +423,6 @@
           "wordCount": 232,
           "title": "Capri Suns",
           "imageUrl": "https://imgs.xkcd.com/comics/capri_suns_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2646/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/minkowski_space.png\" title=\"My liege, we were able to follow the ship into Minkowski space, but now they've jumped to Hilbert space and they could honestly be anywhere.\" alt=\"My liege, we were able to follow the ship into Minkowski space, but now they've jumped to Hilbert space and they could honestly be anywhere.\" />",
-          "link": "https://xkcd.com/2646/",
-          "publishedOn": "2022-07-15T00:00:00.000Z",
-          "wordCount": 223,
-          "title": "Minkowski Space",
-          "imageUrl": "https://imgs.xkcd.com/comics/minkowski_space_2x.png"
         }
       ]
     },
@@ -490,16 +480,6 @@
           "wordCount": 480,
           "title": "The Audacity [book]",
           "imageUrl": null
-        },
-        {
-          "id": "kesimpta",
-          "author": null,
-          "description": "As much as this sounds like a new webapp (and indeed over a decade ago I owned the domain Kajinka - can't remember what it was though), no, this is the start of my multiple sclerosis (MS) drug treatment which, I guess lasts as long as I do.",
-          "link": "https://remysharp.com/2022/07/15/kesimpta",
-          "publishedOn": "2022-07-15T00:00:00.000Z",
-          "wordCount": 1536,
-          "title": "Kesimpta [blog]",
-          "imageUrl": "https://remysharp.com/images/cards/og/9-7.jpg"
         }
       ]
     },
@@ -773,16 +753,6 @@
           "wordCount": 876,
           "title": "Help design the State of CSS Survey 2022!",
           "imageUrl": null
-        },
-        {
-          "id": "https://lea.verou.me/?p=3484",
-          "author": "Lea Verou",
-          "description": "A few days ago I asked Twitter a seemingly simple question (I meant aria-pressed, not aria-selected but Twitter doesn’t allow edits…): For background, I was implementing a web component for an app I’m working on at work and I was getting into some pretty weird rabbit holes with my approach of generating radios and labels. […]",
-          "link": "https://lea.verou.me/2022/07/button-group/",
-          "publishedOn": "2022-07-14T14:47:58.000Z",
-          "wordCount": 1109,
-          "title": "What is the best way to mark up an exclusive button group?",
-          "imageUrl": null
         }
       ]
     },
@@ -797,6 +767,16 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=69975",
+          "author": "Mitchell Baker",
+          "description": "I am pleased to announce that starting today, September 12, Carlos Torres has joined Mozilla as our Chief Legal Officer. In this role Carlos will be responsible for leading our global legal and public policy teams, developing legal, regulatory and policy strategies that support Mozilla’s mission. He will also manage all regulatory issues and serve […]\nThe post Announcing Carlos Torres, Mozilla’s new Chief Legal Officer appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/leadership/carlos-torres-mozillas-new-clo/",
+          "publishedOn": "2022-09-12T12:59:42.000Z",
+          "wordCount": 1222,
+          "title": "Announcing Carlos Torres, Mozilla’s new Chief Legal Officer",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/09/Carlos-Torres_headshot2-1000x667.png"
+        },
         {
           "id": "https://blog.mozilla.org/?p=69956",
           "author": "Kristina Bravo",
@@ -1026,16 +1006,6 @@
           "wordCount": 1975,
           "title": "Firefox Presents: A nerdcore rap artist defying expectations",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/07/Firefox_Presents_Ep4_LEX_16x9_6-1080x720.jpg"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=69385",
-          "author": "Rebecca Smith",
-          "description": "Here at Mozilla, we are the first to admit the internet isn’t perfect, but we are also quick to point out that the internet is pretty darn magical. The internet opens up doors and opportunities, allows for people to connect with others, and lets everyone find where they belong — their corners of the internet. […]\nThe post Bridget Todd, the new host of Mozilla’s IRL podcast, on online communities, The X-Files & raising marginalized voices appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/bridget-todd-irl-podcast-host-interview/",
-          "publishedOn": "2022-07-14T16:00:00.000Z",
-          "wordCount": 2425,
-          "title": "Bridget Todd, the new host of Mozilla’s IRL podcast, on online communities, The X-Files & raising marginalized voices",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/07/mcoi_bridgettodd_header_1920x1080-1080x720.png"
         }
       ]
     },
@@ -1044,6 +1014,16 @@
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
+        {
+          "id": "https://jvns.ca/blog/2022/09/12/why-do-domain-names-end-with-a-dot-/",
+          "author": null,
+          "description": "Hello! When I was writing the zine How DNS Works\nearlier this year, someone asked me – why do people sometimes put a dot at the\nend of a domain name? For example, if you look up the IP for example.com by\nrunning dig example.com, you’ll see this:\n$ dig example.com\nexample.com.\t\t5678\tIN\tA\t93.184.216.34\n\ndig has put a . to the end of example.com – now it’s example.com.! What’s up with that?\nAlso, some DNS tools require domains to have a \".\" at the end: if you try to pass example.com to miekg/dns, like this, it’ll fail:\n// trying to send this message will return an error\nm := new(dns.Msg)\nm.SetQuestion(\"example.com\", dns.TypeA)\n\nOriginally I thought I knew the answer to this (“uh, the dot at the end means\nthe domain is fully qualified?“). And that’s true – a fully qualified domain\nname is a do…",
+          "link": "https://jvns.ca/blog/2022/09/12/why-do-domain-names-end-with-a-dot-/",
+          "publishedOn": "2022-09-12T08:01:20.000Z",
+          "wordCount": 1957,
+          "title": "Why do domain names sometimes end with a dot?",
+          "imageUrl": null
+        },
         {
           "id": "https://jvns.ca/blog/2022/09/06/send-network-packets-python-tun-tap/",
           "author": null,
@@ -1124,6 +1104,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=4106",
+          "author": "Cory Doctorow",
+          "description": "Today's links Spotify steals from artists, a Spotify exclusive: More Chokepoint Capitalism stunt-publishing. Hey look at this: Delights to delectate. This day in history: 2007, 2012, 2017 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Spotify steals from artists, a Spotify exclusive (permalink) In our next book, Chokepoint Capitalism, Rebecca Giblin and I set out to shatter the false binary that creative workers can only choose between rooting for Big Tech or Big Content, as if one flavor of monopolist will be better for us than the other. No company epitomizes the hopelessness of this approach more than Spotify. You've probably heard about the pathetic sums that creators earn from the Spotify streaming, often blamed on the tech indust…",
+          "link": "https://pluralistic.net/2022/09/12/streaming-doesnt-pay/",
+          "publishedOn": "2022-09-12T13:46:09.000Z",
+          "wordCount": 2594,
+          "title": "Pluralistic: 12 Sep 2022 Spotify is a ripoff, a Spotify exclusive",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=4100",
           "author": "Cory Doctorow",
@@ -1405,7 +1395,18 @@
       "title": "The Candybox Blog",
       "feedUrl": "http://www.nathalielawhead.com/candybox/feed",
       "siteUrl": "http://www.nathalielawhead.com/candybox",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://www.nathalielawhead.com/candybox/?p=5438",
+          "author": "alienmelon",
+          "description": "I just came back from visiting New York City to attend the opening for MoMA’s newest exhibit all about video games, interactive art, and the “@” sign. The exhibit is also accompanied by a book in the MoMA Design Store. In case you haven’t heard, “Everything is going to be OK” was one of the games that the museum acquired! MoMA’s journey into acquiring (and effectively preserving) video games has been an effort they announced back in 2012. This was met with much controversy in the art space, as most notably captured in the Guardian article titled “Sorry MoMA, video...",
+          "link": "http://www.nathalielawhead.com/candybox/momas-never-alone-video-games-and-other-interactive-design-exhibit-the-hopeful-future-of-video-game-preservation",
+          "publishedOn": "2022-09-12T23:36:13.000Z",
+          "wordCount": 3186,
+          "title": "MoMA’s “Never Alone: Video Games and Other Interactive Design” Exhibit & The Hopeful Future of Video Game Preservation",
+          "imageUrl": "http://nathalielawhead.com/noodles/MOMAexhibit/neveralone2.PNG"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"

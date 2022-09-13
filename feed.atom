@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-09-12T00:38:36.788Z</updated>
+    <updated>2022-09-13T00:41:30.418Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MoMA’s “Never Alone: Video Games and Other Interactive Design” Exhibit & The Hopeful Future of Video Game Preservation]]></title>
+        <id>http://www.nathalielawhead.com/candybox/?p=5438</id>
+        <link href="http://www.nathalielawhead.com/candybox/momas-never-alone-video-games-and-other-interactive-design-exhibit-the-hopeful-future-of-video-game-preservation"/>
+        <updated>2022-09-12T23:36:13.000Z</updated>
+        <summary type="html"><![CDATA[I just came back from visiting New York City to attend the opening for MoMA’s newest exhibit all about video games, interactive art, and the “@” sign. The exhibit is also accompanied by a book in the MoMA Design Store. In case you haven’t heard, “Everything is going to be OK” was one of the games that the museum acquired! MoMA’s journey into acquiring (and effectively preserving) video games has been an effort they announced back in 2012. This was met with much controversy in the art space, as most notably captured in the Guardian article titled “Sorry MoMA, video...]]></summary>
+        <author>
+            <name>alienmelon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: 12 Sep 2022 Spotify is a ripoff, a Spotify exclusive]]></title>
+        <id>https://pluralistic.net/?p=4106</id>
+        <link href="https://pluralistic.net/2022/09/12/streaming-doesnt-pay/"/>
+        <updated>2022-09-12T13:46:09.000Z</updated>
+        <summary type="html"><![CDATA[Today's links Spotify steals from artists, a Spotify exclusive: More Chokepoint Capitalism stunt-publishing. Hey look at this: Delights to delectate. This day in history: 2007, 2012, 2017 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Spotify steals from artists, a Spotify exclusive (permalink) In our next book, Chokepoint Capitalism, Rebecca Giblin and I set out to shatter the false binary that creative workers can only choose between rooting for Big Tech or Big Content, as if one flavor of monopolist will be better for us than the other. No company epitomizes the hopelessness of this approach more than Spotify. You've probably heard about the pathetic sums that creators earn from the Spotify streaming, often blamed on the tech indust…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing Carlos Torres, Mozilla’s new Chief Legal Officer]]></title>
+        <id>https://blog.mozilla.org/?p=69975</id>
+        <link href="https://blog.mozilla.org/en/mozilla/leadership/carlos-torres-mozillas-new-clo/"/>
+        <updated>2022-09-12T12:59:42.000Z</updated>
+        <summary type="html"><![CDATA[I am pleased to announce that starting today, September 12, Carlos Torres has joined Mozilla as our Chief Legal Officer. In this role Carlos will be responsible for leading our global legal and public policy teams, developing legal, regulatory and policy strategies that support Mozilla’s mission. He will also manage all regulatory issues and serve […]
+The post Announcing Carlos Torres, Mozilla’s new Chief Legal Officer appeared first on The Mozilla Blog.]]></summary>
+        <author>
+            <name>Mitchell Baker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why do domain names sometimes end with a dot?]]></title>
+        <id>https://jvns.ca/blog/2022/09/12/why-do-domain-names-end-with-a-dot-/</id>
+        <link href="https://jvns.ca/blog/2022/09/12/why-do-domain-names-end-with-a-dot-/"/>
+        <updated>2022-09-12T08:01:20.000Z</updated>
+        <summary type="html"><![CDATA[Hello! When I was writing the zine How DNS Works
+earlier this year, someone asked me – why do people sometimes put a dot at the
+end of a domain name? For example, if you look up the IP for example.com by
+running dig example.com, you’ll see this:
+$ dig example.com
+example.com.		5678	IN	A	93.184.216.34
+
+dig has put a . to the end of example.com – now it’s example.com.! What’s up with that?
+Also, some DNS tools require domains to have a "." at the end: if you try to pass example.com to miekg/dns, like this, it’ll fail:
+// trying to send this message will return an error
+m := new(dns.Msg)
+m.SetQuestion("example.com", dns.TypeA)
+
+Originally I thought I knew the answer to this (“uh, the dot at the end means
+the domain is fully qualified?“). And that’s true – a fully qualified domain
+name is a do…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rotation]]></title>
+        <id>https://xkcd.com/2671/</id>
+        <link href="https://xkcd.com/2671/"/>
+        <updated>2022-09-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/rotation.png" title="It's okay, we can just feed the one-pixel image into an AI upscaler and recover the original image, or at least one that's just as cool." alt="It's okay, we can just feed the one-pixel image into an AI upscaler and recover the original image, or at least one that's just as cool." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pluralistic: 10 Sep 2022 American healthcare did a fuckery, the White House has a plan for Big Tech big-data]]></title>
         <id>https://pluralistic.net/?p=4100</id>
@@ -1069,57 +1135,6 @@ For example, here’s a photo of a VT100 terminal fro…]]></summary>
         <summary type="html"><![CDATA[Events ParserComp games are still available to play and vote on through July 31, and players are reviewing these games over on the intfiction forum. Hops Ahead: The Art of Alternate Histories, Presents, and Futures is an exhibition of interactive narrative works, curated by Clara Fernández-Vara and Nick Montfort, running December 4-7 at UC Santa … Continue reading "Mid-July Link Assortment"]]></summary>
         <author>
             <name>Emily Short</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minkowski Space]]></title>
-        <id>https://xkcd.com/2646/</id>
-        <link href="https://xkcd.com/2646/"/>
-        <updated>2022-07-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/minkowski_space.png" title="My liege, we were able to follow the ship into Minkowski space, but now they've jumped to Hilbert space and they could honestly be anywhere." alt="My liege, we were able to follow the ship into Minkowski space, but now they've jumped to Hilbert space and they could honestly be anywhere." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kesimpta [blog]]]></title>
-        <id>kesimpta</id>
-        <link href="https://remysharp.com/2022/07/15/kesimpta"/>
-        <updated>2022-07-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As much as this sounds like a new webapp (and indeed over a decade ago I owned the domain Kajinka - can't remember what it was though), no, this is the start of my multiple sclerosis (MS) drug treatment which, I guess lasts as long as I do.]]></summary>
-        <author>
-            <name>remy sharp's b:log</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The browser console has a count method]]></title>
-        <id>https://christianheilmann.com/?p=7285</id>
-        <link href="https://christianheilmann.com/2022/07/14/the-browser-console-has-a-count-method/"/>
-        <updated>2022-07-14T21:30:35.000Z</updated>
-        <summary type="html"><![CDATA[When debugging or analysing JavaScript, you often see people trying to find out how often a certain function is called. The common way to do that is to use a global counter variable to increment and log in the function. var i = 0; function test(){ // other functionality i++; console.log(i); // other functionality } […]]]></summary>
-        <author>
-            <name>Chris Heilmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bridget Todd, the new host of Mozilla’s IRL podcast, on online communities, The X-Files & raising marginalized voices]]></title>
-        <id>https://blog.mozilla.org/?p=69385</id>
-        <link href="https://blog.mozilla.org/en/mozilla/bridget-todd-irl-podcast-host-interview/"/>
-        <updated>2022-07-14T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here at Mozilla, we are the first to admit the internet isn’t perfect, but we are also quick to point out that the internet is pretty darn magical. The internet opens up doors and opportunities, allows for people to connect with others, and lets everyone find where they belong — their corners of the internet. […]
-The post Bridget Todd, the new host of Mozilla’s IRL podcast, on online communities, The X-Files & raising marginalized voices appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Rebecca Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the best way to mark up an exclusive button group?]]></title>
-        <id>https://lea.verou.me/?p=3484</id>
-        <link href="https://lea.verou.me/2022/07/button-group/"/>
-        <updated>2022-07-14T14:47:58.000Z</updated>
-        <summary type="html"><![CDATA[A few days ago I asked Twitter a seemingly simple question (I meant aria-pressed, not aria-selected but Twitter doesn’t allow edits…): For background, I was implementing a web component for an app I’m working on at work and I was getting into some pretty weird rabbit holes with my approach of generating radios and labels. […]]]></summary>
-        <author>
-            <name>Lea Verou</name>
         </author>
     </entry>
     <entry>
