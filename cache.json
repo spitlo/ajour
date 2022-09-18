@@ -464,16 +464,6 @@
           "wordCount": 234,
           "title": "Physics Cost-Saving Tips",
           "imageUrl": "https://imgs.xkcd.com/comics/physics_cost_saving_tips_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2648/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/chemicals.png\" title=\"It's hard to believe, but lots of kids these days ONLY know how to buy prepackaged molecules.\" alt=\"It's hard to believe, but lots of kids these days ONLY know how to buy prepackaged molecules.\" />",
-          "link": "https://xkcd.com/2648/",
-          "publishedOn": "2022-07-20T00:00:00.000Z",
-          "wordCount": 230,
-          "title": "Chemicals",
-          "imageUrl": "https://imgs.xkcd.com/comics/chemicals_2x.png"
         }
       ]
     },
@@ -482,6 +472,16 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "vs-code-using-all-of-the-cpus-and-how-to-fix-it",
+          "author": null,
+          "description": "Originally I used TextMate (well, \"originally\" I used GWD, but let's not go back that far). Then, I don't know why, I jumped ship to Sublime Text (which is still excellent), I dabbled with Brackets and Atom but eventually landed on VS Code.\nI've been using VS Code for a lot of years (I tried to work it out), but a problem has been reoccurring over and over: VS Code is eating my CPU. It's a big jump to return to Sublime, and until today, the prospect of finding the issue was…daunting.",
+          "link": "https://remysharp.com/2022/09/17/vs-code-using-all-of-the-cpus-and-how-to-fix-it",
+          "publishedOn": "2022-09-17T00:00:00.000Z",
+          "wordCount": 988,
+          "title": "VS Code using all of the CPUs and how to fix it [blog]",
+          "imageUrl": "https://remysharp.com/images/cards/og/9-8.jpg"
+        },
         {
           "id": "twelve",
           "author": null,
@@ -520,16 +520,6 @@
           "publishedOn": "2022-08-15T00:00:00.000Z",
           "wordCount": 490,
           "title": "The Frangipani Tree Mystery (Crown Colony #1) [book]",
-          "imageUrl": null
-        },
-        {
-          "id": "the-audacity",
-          "author": null,
-          "description": "The Audacity",
-          "link": "https://remysharp.com/books/2022/the-audacity",
-          "publishedOn": "2022-07-20T00:00:00.000Z",
-          "wordCount": 480,
-          "title": "The Audacity [book]",
           "imageUrl": null
         }
       ]
