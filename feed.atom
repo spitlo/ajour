@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-09-18T00:44:04.688Z</updated>
+    <updated>2022-09-19T00:41:25.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
@@ -1185,37 +1185,6 @@ The post Firefox Presents: A nerdcore rap artist defying expectations appeared f
         <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/physics_cost_saving_tips.png" title="I got banned from the county fair for handing out Helium-2 balloons. Apparently the instant massive plasma explosions violated some local ordinance or something." alt="I got banned from the county fair for handing out Helium-2 balloons. Apparently the instant massive plasma explosions violated some local ordinance or something." />]]></summary>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What happens when you press a key in your terminal?]]></title>
-        <id>https://jvns.ca/blog/2022/07/20/pseudoterminals/</id>
-        <link href="https://jvns.ca/blog/2022/07/20/pseudoterminals/"/>
-        <updated>2022-07-20T20:57:15.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been confused about what’s going on with terminals for a long time.
-But this past week I was using xterm.js to display an
-interactive terminal in a browser and I finally thought to ask a pretty basic
-question: when you press a key on your keyboard in a terminal (like Delete, or Escape, or a), which
-bytes get sent?
-As usual we’ll answer that question by doing some experiments and seeing what happens :)
-remote terminals are very old technology
-First, I want to say that displaying a terminal in the browser with xterm.js
-might seem like a New Thing, but it’s really not. In the 70s, computers were
-expensive. So many employees at an institution would share a single computer,
-and each person could have their own “terminal” to that computer.
-For example, here’s a photo of a VT100 terminal fro…]]></summary>
-        <author>
-            <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rethinking Device Emulation in browsers]]></title>
-        <id>https://christianheilmann.com/?p=7287</id>
-        <link href="https://christianheilmann.com/2022/07/20/rethinking-device-emulation-in-browsers/"/>
-        <updated>2022-07-20T15:48:38.000Z</updated>
-        <summary type="html"><![CDATA[Device Emulation in developer tools is great, but it doesn’t deliver to all users of it and could be much better. Please help us improve it. When developer tools of browsers came out with Device Emulation and reponsive design tooling , everything changed. As a developer, you didn’t need to resize the browser window any […]]]></summary>
-        <author>
-            <name>Chris Heilmann</name>
         </author>
     </entry>
     <entry>
