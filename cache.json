@@ -6,6 +6,16 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=7341",
+          "author": "Chris Heilmann",
+          "description": "Using the required and/or pattern attribute on HTML input elements stops users from submitting forms with invalid values, but you can work around that using the Console tool. In HTML5, you can provide a `required` attribute to ensure a certain field has been filled out before a form can be sent off. I have read […]",
+          "link": "https://christianheilmann.com/2022/09/22/quick-reminder-html5-required-and-pattern-are-not-a-security-feature/",
+          "publishedOn": "2022-09-22T20:13:55.000Z",
+          "wordCount": 563,
+          "title": "Quick reminder: HTML5 required and pattern are not a security feature",
+          "imageUrl": null
+        },
+        {
           "id": "https://christianheilmann.com/?p=7332",
           "author": "Chris Heilmann",
           "description": "The Edge DevTools for Visual Studio Code extension has over 1M downloads, time to recap a bit how it came to be When I started my current role in Microsoft one thing that ailed me was that the browser developer tools are great for debugging, but they aren’t changing the original code. It is quickly […]",
@@ -454,16 +464,6 @@
           "wordCount": 232,
           "title": "Air Gap",
           "imageUrl": "https://imgs.xkcd.com/comics/air_gap_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2650/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/deepfakes.png\" title=\"If so great a deductive mind as Arthur Conan Doyle can be fooled by the Cottingley Deepfakes, what chance do we mortals have? Soon our very reality will be dictated by the whims of Frances (9) and Elsie (16).\" alt=\"If so great a deductive mind as Arthur Conan Doyle can be fooled by the Cottingley Deepfakes, what chance do we mortals have? Soon our very reality will be dictated by the whims of Frances (9) and Elsie (16).\" />",
-          "link": "https://xkcd.com/2650/",
-          "publishedOn": "2022-07-25T00:00:00.000Z",
-          "wordCount": 230,
-          "title": "Deepfakes",
-          "imageUrl": "https://imgs.xkcd.com/comics/deepfakes_2x.png"
         }
       ]
     },
@@ -1125,6 +1125,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=4135",
+          "author": "Cory Doctorow",
+          "description": "Today's links Twitch does a chokepoint capitalism: \"Amazon is charging Amazon so much money to run the business via Amazon that it has no choice but to take more money from streamers.\" Hey look at this: Delights to delectate. This day in history: 2007, 2012, 2017, 2021. Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Twitch does a chokepoint capitalism (permalink) When Amazon bought Twitch, the story was that the new conglomerate would be more efficient and that would benefit everyone – streamers and audiences. That's the story we hear about every anticompetitive merger, and it's always a lie. One major efficiency that the Amazon-Twitch merger was supposed to produce? Lower bandwidth costs. That's one of the largest expenses associated …",
+          "link": "https://pluralistic.net/2022/09/22/amazon-vs-amazon/",
+          "publishedOn": "2022-09-22T15:15:00.000Z",
+          "wordCount": 3397,
+          "title": "Pluralistic: 22 Sep 2022 Twitch's Chokepoint Capitalism",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=4129",
           "author": "Cory Doctorow",
