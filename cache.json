@@ -123,6 +123,16 @@
       "siteUrl": "https://100r.co",
       "articles": [
         {
+          "id": "log.html#sep2022",
+          "author": "Rekka Bellum",
+          "description": "Hey everyone! This is the list of all the changes we've done to our projects and apps during the month of September. We'll also be reporting in our on position in the world, and on our future plans.\nSummary Of Changes\nUxn, updated Playdate implementation to the latest core, started emulator for Arduino.\nLeft, added lots of little improvements for various reported drawing bugs.\nBouc, wrote a document reader.\nOrca, added monochromatic mode.\nCCCC, added monochromatic mode.\nCatclock, added monochromatic mode(Reddit).\n100r.co, added lifelines in boat projects.\nNews\nThe days are getting shorter, and so is the time that we can spend on the computer, due to our batteries depleting earlier a bit each day. So, Devine spends evenings proof-reading the wiktopher manuscript, reading and messing around with the Playdate, and Rekka continues ink work on an upcoming project(Mastodon, no project page yet).\nWhile cleaning up the boat, Devine found two small black notebooks. We started paging through them, to see if we should keep them. The notebooks were full of sketches, interspersed with shopping lists, and incomplete logs from earlier sailing trips we'd done. We found logs detailing our very first attempt at sailing offshore, our sail down the US West Coast and Mexico, and our passage from Tonga to New Zealand. We read the logs, and decided to transcribe and publish them online. Read the lost logbook.\nDevine wrote a little timer program for the Adafruit Playground. \nPino book club\nWe're reading Hitchhiker's Guide to the Galaxy by Douglas Adams.\nContinue Reading",
+          "link": "https://100r.co/site/log.html#sep2022",
+          "publishedOn": "2022-09-03T00:00:00.000Z",
+          "wordCount": 4740,
+          "title": "Summary of changes for September",
+          "imageUrl": null
+        },
+        {
           "id": "log.html#aug2022",
           "author": "Rekka Bellum",
           "description": "Hey everyone! This is the list of all the changes we've done to our projects and apps during the month of August. We'll also be reporting in our on position in the world, and on our future plans.\nSummary Of Changes\nLeft, added a navigation bar to navigate larger codebases.\npotato, implemented file system APIs so new files can be renamed, copied and deleted.\nNoodle, added various optimizations, improved TGA support.\nDrifblim, completed rewrite. The assembler is now used to build all of our projects, with no more dependence on the C toolchain to make roms.\nUxnlin, added a lot of recipes, making it better at finding possible code optimizations.\nNews\nPino is back in the land of faster internet, and our boat's belly has been re-filled with food. We returned to the Gulf Islands, and are busy eat…",
@@ -245,6 +255,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2680/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/battery_life.png\" title=\"It's okay, I'm at 10%, so I'm good for another month or two.\" alt=\"It's okay, I'm at 10%, so I'm good for another month or two.\" />",
+          "link": "https://xkcd.com/2680/",
+          "publishedOn": "2022-10-03T00:00:00.000Z",
+          "wordCount": 232,
+          "title": "Battery Life",
+          "imageUrl": "https://imgs.xkcd.com/comics/battery_life_2x.png"
+        },
         {
           "id": "https://xkcd.com/2679/",
           "author": null,
@@ -795,6 +815,16 @@
       "feedUrl": "https://feeds.feedburner.com/leaverou",
       "siteUrl": "https://lea.verou.me",
       "articles": [
+        {
+          "id": "https://lea.verou.me/?p=3511",
+          "author": "Lea Verou",
+          "description": "Take State of CSS 2022 survey A while ago I posted a call for feedback to inform the design of the State of CSS 2022 survey. The response has been overwhelming and it was glorious. We got quite a lot of proposals, feedback, votes. But that also meant we had to make some tough decisions […]",
+          "link": "https://lea.verou.me/2022/10/state-of-css-2022-now-open/",
+          "publishedOn": "2022-10-03T15:34:37.000Z",
+          "wordCount": 1050,
+          "title": "State of CSS 2022 now open!",
+          "imageUrl": null
+        },
         {
           "id": "https://lea.verou.me/?p=3502",
           "author": "Lea Verou",
@@ -1398,16 +1428,6 @@
           "publishedOn": "2022-08-07T16:12:41.000Z",
           "wordCount": 2149,
           "title": "Pluralistic: 07 Aug 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=3949",
-          "author": "Cory Doctorow",
-          "description": "Today's links Uber's still not profitable: An effective wealth transfer of $2.8 billion from labor to capital in just three months. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Uber's still not profitable (permalink) Uber just released its Q2 numbers for 2022 and trumpeted that it had finally achieved cash-flow positivity – and it only took 13 years and $32 billion in losses! So has Uber finally turned a corner? Will the company finally attain profitability and repay those billions? Nope. The best analyst of Uber's financial disclosures – as always – is Hubert Horan, a transport analyst who has made a second career out of debullshitifying Uber's bala…",
-          "link": "https://pluralistic.net/2022/08/05/a-lousy-taxi/",
-          "publishedOn": "2022-08-05T14:09:17.000Z",
-          "wordCount": 3924,
-          "title": "Pluralistic: 05 Aug 2022",
           "imageUrl": null
         }
       ]
