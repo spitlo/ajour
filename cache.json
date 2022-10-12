@@ -256,6 +256,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2683/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/fan_theories.png\" title=\"The universe fandom is great. Such sweet and enthusiastic people.\" alt=\"The universe fandom is great. Such sweet and enthusiastic people.\" />",
+          "link": "https://xkcd.com/2683/",
+          "publishedOn": "2022-10-10T00:00:00.000Z",
+          "wordCount": 232,
+          "title": "Fan Theories",
+          "imageUrl": "https://imgs.xkcd.com/comics/fan_theories_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2682/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/easy_or_hard.png\" title=\"&quot;Friction-driven static electrification is familiar and fundamental in daily life, industry, and technology, but its basics have long been unknown and have continually perplexed scientists from ancient Greece to the high-tech era. [...] To date, no single theory can satisfactorily explain this mysterious but fundamental phenomenon.&quot; --Eui-Cheol Shin et. al. (2022)\" alt=\"&quot;Friction-driven static electrification is familiar and fundamental in daily life, industry, and technology, but its basics have long been unknown and have continually perplexed scientists from ancient Greece to the high-tech era. [...] To date, no single theory can satisfactorily explain this mysterious but fundamental phenomenon.&quot; --Eui-Cheol Shin et. al. (2022)\" />",
@@ -814,16 +824,6 @@
           "wordCount": 1050,
           "title": "State of CSS 2022 now open!",
           "imageUrl": null
-        },
-        {
-          "id": "https://lea.verou.me/?p=3502",
-          "author": "Lea Verou",
-          "description": "I always thought that the semantically appropriate way to represent a rating (e.g. a star rating) is a <meter> element. They essentially convey the same type of information, the star rating is just a different presentation. However, trying to style a <meter> element to look like a star rating is …tricky at best. Not to […]",
-          "link": "https://lea.verou.me/2022/08/on-ratings-and-meters/",
-          "publishedOn": "2022-08-12T22:29:41.000Z",
-          "wordCount": 1134,
-          "title": "On ratings and meters",
-          "imageUrl": null
         }
       ]
     },
@@ -838,6 +838,16 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=70045",
+          "author": "Kristina Bravo",
+          "description": "When you share your personal phone number with anyone outside your circle of family and friends, it essentially gives them permission to call you anytime of the day. This can mean robocallers at lunch and dinner, not to mention spam text messages throughout the day.  Think about it: How many times have you shared your […]\nThe post Protect your privacy and your phone number with Firefox Relay appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/privacy-security/hide-your-phone-number-with-firefox-relay/",
+          "publishedOn": "2022-10-11T16:02:15.000Z",
+          "wordCount": 1576,
+          "title": "Protect your privacy and your phone number with Firefox Relay",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2020/03/fx_blog_header_privacy_002_1920x1080-1080x720.jpg"
+        },
         {
           "id": "https://blog.mozilla.org/?p=69975",
           "author": "Mitchell Baker",
@@ -1043,6 +1053,16 @@
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
         {
+          "id": "https://www.joshwcomeau.com/react/next-level-playground/",
+          "author": "Josh W. Comeau",
+          "description": "No developer blog or technical documentation site is complete without an interactive code playground. The CodeSandbox team recently released a wonderful tool called Sandpack, to help us create these live-updating code editors. In this tutorial, I'll show you how I use it on this blog.",
+          "link": "https://www.joshwcomeau.com/react/next-level-playground/",
+          "publishedOn": "2022-10-11T14:00:00.000Z",
+          "wordCount": 7148,
+          "title": "A World-Class Code Playground with Sandpack",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-next-level-playground.png"
+        },
+        {
           "id": "https://www.joshwcomeau.com/react/usememo-and-usecallback/",
           "author": "Josh W. Comeau",
           "description": "What's the deal with these two hooks?! Lots of devs find them confusing, for a whole host of reasons. In this tutorial, we'll dig deep and understand what they do, why they're useful, and how to get the most out of them.",
@@ -1075,6 +1095,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=4237",
+          "author": "Cory Doctorow",
+          "description": "Today's links Undetectable, undefendable back-doors for machine learning: IMPNet will give your model hallucination and you can't stop it. Shelter in place: Prison for homelessness and lock-ins for home owners. Hey look at this: Delights to delectate. This day in history: None Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Undetectable, undefendable back-doors for machine learning (permalink) Machine learning's promise is decisions at scale: using software to classify inputs (and, often, act on them) at a speed and scale that would be prohibitively expensive or even impossible using flesh-and-blood humans. There aren't enough idle people to train half of them to read all the tweets in the other half's timeline and put them in ranked or…",
+          "link": "https://pluralistic.net/2022/10/11/rene-descartes-was-a-drunken-fart/",
+          "publishedOn": "2022-10-11T18:18:33.000Z",
+          "wordCount": 4544,
+          "title": "Pluralistic: 11 Oct 2022 Trusting (machine learning) trust; The housing market turns (more) toxic",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=4227",
           "author": "Cory Doctorow",
@@ -1378,16 +1408,6 @@
           "publishedOn": "2022-08-15T15:37:35.000Z",
           "wordCount": 3152,
           "title": "Pluralistic: 15 Aug 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=3994",
-          "author": "Cory Doctorow",
-          "description": "Today's links The FTC takes aim at commercial surveillance: Oh, the sheer poetry of \"Commercial Surveillance and Data Security Rulemaking.\" Hey look at this: Delights to delectate. This day in history: 2007, 2012, 2017 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The FTC takes aim at commercial surveillance (permalink) The biggest fallacy in the online privacy is that there is a difference between \"state surveillance\" and \"commercial surveillance.\" Bizarrely, it's a fallacy that is widely held by both government snoops and Big Tech snoops. Many's the time I've spoken to a DC audience about privacy, only to have an audience member say, \"I'm OK with Uncle Sam spying on me – after all, I've already given up every sensitive scrap of info…",
-          "link": "https://pluralistic.net/2022/08/12/regulatory-uncapture/",
-          "publishedOn": "2022-08-12T15:37:30.000Z",
-          "wordCount": 3626,
-          "title": "Pluralistic: 12 Aug 2022",
           "imageUrl": null
         }
       ]
