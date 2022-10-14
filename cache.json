@@ -504,16 +504,6 @@
           "wordCount": 232,
           "title": "Gen Z",
           "imageUrl": "https://imgs.xkcd.com/comics/gen_z_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2659/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/unreliable_connection.png\" title=\"NEGATIVE REVIEWS MENTION: Unreliable internet. POSITIVE REVIEWS MENTION: Unreliable internet.\" alt=\"NEGATIVE REVIEWS MENTION: Unreliable internet. POSITIVE REVIEWS MENTION: Unreliable internet.\" />",
-          "link": "https://xkcd.com/2659/",
-          "publishedOn": "2022-08-15T00:00:00.000Z",
-          "wordCount": 232,
-          "title": "Unreliable Connection",
-          "imageUrl": "https://imgs.xkcd.com/comics/unreliable_connection_2x.png"
         }
       ]
     },
@@ -522,6 +512,16 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "two-javascripts",
+          "author": null,
+          "description": "I've been looking at enhance.dev and their docs and though I've not tried it in anger yet, I think it's a framework to developing that's leaning on something that's been on my mind: there are two JavaScripts.\nOne for the server - where you can go wild.\nOne for the client - that should be thoughtful and careful.",
+          "link": "https://remysharp.com/2022/10/13/two-javascripts",
+          "publishedOn": "2022-10-13T10:00:00.000Z",
+          "wordCount": 1389,
+          "title": "Two JavaScripts [blog]",
+          "imageUrl": "https://remysharp.com/images/cards/og/9-7.jpg"
+        },
         {
           "id": "vs-code-using-all-of-the-cpus-and-how-to-fix-it",
           "author": null,
@@ -550,26 +550,6 @@
           "publishedOn": "2022-08-20T00:00:00.000Z",
           "wordCount": 490,
           "title": "Hope to Die (DI Adam Fawley #6) [book]",
-          "imageUrl": null
-        },
-        {
-          "id": "redwall",
-          "author": null,
-          "description": "Redwall",
-          "link": "https://remysharp.com/books/2022/redwall",
-          "publishedOn": "2022-08-15T00:00:00.000Z",
-          "wordCount": 478,
-          "title": "Redwall [book]",
-          "imageUrl": null
-        },
-        {
-          "id": "the-frangipani-tree-mystery-crown-colony-1",
-          "author": null,
-          "description": "The Frangipani Tree Mystery (Crown Colony #1)",
-          "link": "https://remysharp.com/books/2022/the-frangipani-tree-mystery-crown-colony-1",
-          "publishedOn": "2022-08-15T00:00:00.000Z",
-          "wordCount": 490,
-          "title": "The Frangipani Tree Mystery (Crown Colony #1) [book]",
           "imageUrl": null
         }
       ]
@@ -1115,6 +1095,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=4246",
+          "author": "Cory Doctorow",
+          "description": "Today's links US health insurers get more and more federal funding, deliver less and less care: Medicare Advantage will murder your grandparents – and you're next. Hey look at this: Delights to delectate. This day in history: None Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading US health insurers get more and more federal funding, deliver less and less care (permalink) The American healthcare system is the worst of all possible worlds. Unlike every other wealthy country, the US leaves its health insurance to the private sector, where your health and your life are a distant second to shareholder profits. But it's worse, because the majority of the money those terrible, \"private\" insurance companies \"earn\" comes from public subsidies. In …",
+          "link": "https://pluralistic.net/2022/10/13/sicko/",
+          "publishedOn": "2022-10-13T12:36:51.000Z",
+          "wordCount": 3090,
+          "title": "Pluralistic: 13 Oct 2022 US health insurers get more and more federal funding, deliver less and less care",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=4237",
           "author": "Cory Doctorow",
