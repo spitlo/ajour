@@ -494,16 +494,6 @@
           "wordCount": 232,
           "title": "Tetherball Configurations",
           "imageUrl": "https://imgs.xkcd.com/comics/tetherball_configurations_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2662/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/physics_safety_tip.png\" title=\"In general, avoid exposure to any temperatures, pressures, particle energies, or states of matter that physicists think are neat.\" alt=\"In general, avoid exposure to any temperatures, pressures, particle energies, or states of matter that physicists think are neat.\" />",
-          "link": "https://xkcd.com/2662/",
-          "publishedOn": "2022-08-22T00:00:00.000Z",
-          "wordCount": 234,
-          "title": "Physics Safety Tip",
-          "imageUrl": "https://imgs.xkcd.com/comics/physics_safety_tip_2x.png"
         }
       ]
     },
@@ -819,6 +809,16 @@
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
         {
+          "id": "https://blog.mozilla.org/?p=70214",
+          "author": "Mozilla",
+          "description": "Avoiding misinformation online can be tricky, especially during election season. And while the media cycle may be more low-key than it would be for a U.S. presidential election (coming up soon in 2024), this November’s midterm has not been immune to internet discord. Americans have got some big decisions to make after all, like how […]\nThe post Prep for the U.S. midterm elections with these online tools appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/midterms-2022-election-prep/",
+          "publishedOn": "2022-10-20T10:00:00.000Z",
+          "wordCount": 1473,
+          "title": "Prep for the U.S. midterm elections with these online tools",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/10/blog_NLP_midterms-1080x720.png"
+        },
+        {
           "id": "https://blog.mozilla.org/?p=68641",
           "author": "Kristina Bravo",
           "description": "If you read news about technology, you’re bound to run into some jargon. Here at Mozilla, we believe that information should be as accessible as possible regardless of your level of expertise. We want to help you approach stories about technology with more curiosity and with a little less head-scratching involved. We’ll break down headline-making […]\nThe post A glossary of terms about cyberattacks, from ransomware to DDoS appeared first on The Mozilla Blog.",
@@ -1095,6 +1095,21 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=4279",
+          "author": "Cory Doctorow",
+          "description": "Today's links It was all downhill after the Cuecat: On the origins of \"user manipulation and surveillance.\" Hey look at this: Delights to delectate. This day in history: 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading It was all downhill after the Cuecat (permalink) Sometime in 2001, I walked into a Radio Shack on San Francisco's Market Street and asked for a Cuecat: a handheld barcode scanner that looked a bit like a cat and a bit like a sex toy. The clerk handed one over to me and I left, feeling a little giddy. I didn't have to pay a cent. The Cuecat was a good idea and a terrible idea. The good idea was to widely distribute barcode scanners to computer owners, along with software that could read and decode bar…",
+          "link": "https://pluralistic.net/2022/10/20/benevolent-dictators/",
+          "publishedOn": "2022-10-20T17:11:04.000Z",
+          "wordCount": 5002,
+          "title": "Pluralistic: 20 Oct 2022 It was all downhill after the Cuecat",
+          "enclosure": {
+            "url": "https://web.archive.org/web/20110920201659/http://podcast.cbc.ca/mp3/searchengine_20071018_3639.mp3",
+            "length": "13626401",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=4273",
           "author": "Cory Doctorow",
@@ -1418,16 +1433,6 @@
           "publishedOn": "2022-08-22T14:47:31.000Z",
           "wordCount": 2849,
           "title": "Pluralistic: 22 Aug 2022 Gmail will call the cops on you based on the content of your emails",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=4036",
-          "author": "Cory Doctorow",
-          "description": "Today's links Workplace surveillance is coming for you: Empricism-washing as a form of wage-theft. Hey look at this: Delights to delectate. This day in history: 2002, 2012 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Workplace surveillance is coming for you (permalink) If you want to do something terrible with technology, you can't just roll it out on people with money and social capital. They'll complain and your idea will tank. Successful shitty tech rollouts start with people you can abuse with impunity (prisoners, kids, migrants, etc) and then work their way up the privilege gradient. I call it the Shitty Technology Adoption Curve. The point of the Shitty Technology Adoption Curve is to normalize technological oppression, one gro…",
-          "link": "https://pluralistic.net/2022/08/21/great-taylors-ghost/",
-          "publishedOn": "2022-08-21T18:14:10.000Z",
-          "wordCount": 3774,
-          "title": "Pluralistic: 21 Aug 2022 The Shitty Technology Adoption Curve Reaches Apogee",
           "imageUrl": null
         }
       ]
