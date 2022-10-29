@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-10-28T00:45:10.362Z</updated>
+    <updated>2022-10-29T00:35:18.831Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Firefox Presents: Cosplayer Rachel Maksy gives main character energy]]></title>
+        <id>https://blog.mozilla.org/?p=70323</id>
+        <link href="https://blog.mozilla.org/en/internet-culture/rachel-maksy-youtube/"/>
+        <updated>2022-10-28T16:43:03.000Z</updated>
+        <summary type="html"><![CDATA[Rachel Maksy has been Wonder Woman, Princess Leia, and, for one week, multiple Jane Austen characters. She goes to conventions to meet other cosplayers wearing costumes that she created. But mostly, her handmade outfits are seen and watched by her nearly 1.5 million followers across YouTube and Instagram.  “Just like a kid dressing up on […]
+The post Firefox Presents: Cosplayer Rachel Maksy gives main character energy appeared first on The Mozilla Blog.]]></summary>
+        <author>
+            <name>Kristina Bravo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: 28 Oct 2022 Adobe steals your color]]></title>
+        <id>https://pluralistic.net/?p=4314</id>
+        <link href="https://pluralistic.net/2022/10/28/fade-to-black/"/>
+        <updated>2022-10-28T08:37:31.000Z</updated>
+        <summary type="html"><![CDATA[Today's links Adobe steals your color: A SaaS on the mantel in Act I must go off by Act III. Hey look at this: Delights to delectate. This day in history: 2007, 2012, 2017, 2021. Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Adobe steals your color (permalink) When a company breaks a product you rely on – wrecking decades of work – it's natural to feel fury. Companies know this, so they try to deflect your rage by blaming their suppliers. Sometimes, it's suppliers who are at fault – but other times, there is plenty of blame to go around. For example, when Apple deleted all the working VPNs from its Chinese App Store and backdoored its Chinese cloud servers, it blamed the Chinese government. But the Chinese state knew that Apple had lo…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reminder: JSON.stringify can create Multi-line, formatted and filtered strings from JSON]]></title>
+        <id>https://christianheilmann.com/?p=7394</id>
+        <link href="https://christianheilmann.com/2022/10/28/reminder-json-stringify-can-create-multi-line-formatted-and-filtered-strings-from-json/"/>
+        <updated>2022-10-28T06:11:39.000Z</updated>
+        <summary type="html"><![CDATA[You can use `JSON.stringify()` to turn a JSON object into a string. let obj = {“a”: 1, “b”: 3, “c”: “boo!”}; console.log(JSON.stringify(obj)) This results in a single line string: {]]></summary>
+        <author>
+            <name>Chris Heilmann</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pluralistic: 27 Oct 2022 Substituting economics for politics is a failure]]></title>
         <id>https://pluralistic.net/?p=4307</id>
@@ -1134,27 +1165,6 @@ I don't know if I have a meaningful blog post in me this year, though I've writt
         <summary type="html"><![CDATA[What's the deal with these two hooks?! Lots of devs find them confusing, for a whole host of reasons. In this tutorial, we'll dig deep and understand what they do, why they're useful, and how to get the most out of them.]]></summary>
         <author>
             <name>Josh W. Comeau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some ways to get better at debugging]]></title>
-        <id>https://jvns.ca/blog/2022/08/30/a-way-to-categorize-debugging-skills/</id>
-        <link href="https://jvns.ca/blog/2022/08/30/a-way-to-categorize-debugging-skills/"/>
-        <updated>2022-08-30T09:35:19.000Z</updated>
-        <summary type="html"><![CDATA[Hello! I’ve been working on writing a zine about debugging for a while (here’s an early draft of the table of contents).
-As part of that I thought it might be fun to read some academic papers about
-debugging, and last week Greg Wilson sent me some
-papers about academic research into debugging.
-One of those papers (Towards a framework for teaching debugging
-[paywalled]) had a
-categorization I really liked of the different kinds of knowledge/skills we
-need to debug effectively. It comes from another more general paper on
-troubleshooting: Learning to Troubleshoot: A New Theory-Based Design Architecture.
-I thought the categorization was a very useful structure for thinking about how
-to get better at debugging, so I’ve reframed the five categories in the paper
-into actions you can take to get b…]]></summary>
-        <author>
-            <name>Julia Evans</name>
         </author>
     </entry>
     <entry>
