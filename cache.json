@@ -131,16 +131,6 @@
           "wordCount": 4740,
           "title": "Summary of changes for September",
           "imageUrl": null
-        },
-        {
-          "id": "log.html#aug2022",
-          "author": "Rekka Bellum",
-          "description": "Hey everyone! This is the list of all the changes we've done to our projects and apps during the month of August. We'll also be reporting in our on position in the world, and on our future plans.\nSummary Of Changes\nLeft, added a navigation bar to navigate larger codebases.\npotato, implemented file system APIs so new files can be renamed, copied and deleted.\nNoodle, added various optimizations, improved TGA support.\nDrifblim, completed rewrite. The assembler is now used to build all of our projects, with no more dependence on the C toolchain to make roms.\nUxnlin, added a lot of recipes, making it better at finding possible code optimizations.\nNews\nPino is back in the land of faster internet, and our boat's belly has been re-filled with food. We returned to the Gulf Islands, and are busy eat…",
-          "link": "https://100r.co/site/log.html#aug2022",
-          "publishedOn": "2022-08-31T00:00:00.000Z",
-          "wordCount": 4526,
-          "title": "Summary of changes for August",
-          "imageUrl": null
         }
       ]
     },
@@ -255,6 +245,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2691/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/encryption.png\" title=\"WARNING: PEOPLE NAMED EVE ARE PROHIBITED FROM INSTALLING THIS APP!\" alt=\"WARNING: PEOPLE NAMED EVE ARE PROHIBITED FROM INSTALLING THIS APP!\" />",
+          "link": "https://xkcd.com/2691/",
+          "publishedOn": "2022-10-28T00:00:00.000Z",
+          "wordCount": 230,
+          "title": "Encryption",
+          "imageUrl": "https://imgs.xkcd.com/comics/encryption_2x.png"
+        },
         {
           "id": "https://xkcd.com/2690/",
           "author": null,
@@ -494,16 +494,6 @@
           "wordCount": 234,
           "title": "First Internet Interaction",
           "imageUrl": "https://imgs.xkcd.com/comics/first_internet_interaction_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2666/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/universe_price_tiers.png\" title=\"In Universe Pro®™ the laws of physics remain unchanged under time reversal, to maintain backward compatibility.\" alt=\"In Universe Pro®™ the laws of physics remain unchanged under time reversal, to maintain backward compatibility.\" />",
-          "link": "https://xkcd.com/2666/",
-          "publishedOn": "2022-08-31T00:00:00.000Z",
-          "wordCount": 234,
-          "title": "Universe Price Tiers",
-          "imageUrl": "https://imgs.xkcd.com/comics/universe_price_tiers_2x.png"
         }
       ]
     },
@@ -541,16 +531,6 @@
           "wordCount": 988,
           "title": "VS Code using all of the CPUs and how to fix it [blog]",
           "imageUrl": "https://remysharp.com/images/cards/og/9-8.jpg"
-        },
-        {
-          "id": "twelve",
-          "author": null,
-          "description": "Tia's 12th … birthday. Not a birthday, but 12 years after she was born, or came into our lives. She died too. Our first. The oldest that we don't have at home.\nI don't know if I have a meaningful blog post in me this year, though I've written words about Tia for a number of years now on, or near this specific date: 31‍-‍August.",
-          "link": "https://remysharp.com/2022/08/31/twelve",
-          "publishedOn": "2022-08-31T00:00:00.000Z",
-          "wordCount": 1008,
-          "title": "Twelve [blog]",
-          "imageUrl": "https://remysharp.com/images/cards/og/9-0.jpg"
         }
       ]
     },
@@ -1031,16 +1011,6 @@
           "wordCount": 7148,
           "title": "A World-Class Code Playground with Sandpack",
           "imageUrl": "https://www.joshwcomeau.com/images/og-next-level-playground.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/react/usememo-and-usecallback/",
-          "author": "Josh W. Comeau",
-          "description": "What's the deal with these two hooks?! Lots of devs find them confusing, for a whole host of reasons. In this tutorial, we'll dig deep and understand what they do, why they're useful, and how to get the most out of them.",
-          "link": "https://www.joshwcomeau.com/react/usememo-and-usecallback/",
-          "publishedOn": "2022-08-30T13:00:00.000Z",
-          "wordCount": 10784,
-          "title": "Understanding useMemo and useCallback",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-usememo-and-usecallback.png"
         }
       ]
     },

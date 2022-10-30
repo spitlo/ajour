@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-10-29T00:35:18.831Z</updated>
+    <updated>2022-10-30T00:47:06.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
@@ -35,6 +35,16 @@ The post Firefox Presents: Cosplayer Rachel Maksy gives main character energy ap
         <summary type="html"><![CDATA[You can use `JSON.stringify()` to turn a JSON object into a string. let obj = {“a”: 1, “b”: 3, “c”: “boo!”}; console.log(JSON.stringify(obj)) This results in a single line string: {]]></summary>
         <author>
             <name>Chris Heilmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Encryption]]></title>
+        <id>https://xkcd.com/2691/</id>
+        <link href="https://xkcd.com/2691/"/>
+        <updated>2022-10-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/encryption.png" title="WARNING: PEOPLE NAMED EVE ARE PROHIBITED FROM INSTALLING THIS APP!" alt="WARNING: PEOPLE NAMED EVE ARE PROHIBITED FROM INSTALLING THIS APP!" />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -1116,55 +1126,6 @@ Continue Reading]]></summary>
         <summary type="html"><![CDATA[Events In early September, inkJam will be running to encourage new games written in Ink. Interactive Fiction Club Jam opened August 26 and is running through September 16. It’s open to IF of any genre, as long as it’s safe for work. Meanwhile, Interactive Fiction Jam #2 is running today through the end of September. … Continue reading "End of August Link Assortment"]]></summary>
         <author>
             <name>Emily Short</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summary of changes for August]]></title>
-        <id>log.html#aug2022</id>
-        <link href="https://100r.co/site/log.html#aug2022"/>
-        <updated>2022-08-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hey everyone! This is the list of all the changes we've done to our projects and apps during the month of August. We'll also be reporting in our on position in the world, and on our future plans.
-Summary Of Changes
-Left, added a navigation bar to navigate larger codebases.
-potato, implemented file system APIs so new files can be renamed, copied and deleted.
-Noodle, added various optimizations, improved TGA support.
-Drifblim, completed rewrite. The assembler is now used to build all of our projects, with no more dependence on the C toolchain to make roms.
-Uxnlin, added a lot of recipes, making it better at finding possible code optimizations.
-News
-Pino is back in the land of faster internet, and our boat's belly has been re-filled with food. We returned to the Gulf Islands, and are busy eat…]]></summary>
-        <author>
-            <name>Rekka Bellum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Universe Price Tiers]]></title>
-        <id>https://xkcd.com/2666/</id>
-        <link href="https://xkcd.com/2666/"/>
-        <updated>2022-08-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/universe_price_tiers.png" title="In Universe Pro®™ the laws of physics remain unchanged under time reversal, to maintain backward compatibility." alt="In Universe Pro®™ the laws of physics remain unchanged under time reversal, to maintain backward compatibility." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twelve [blog]]]></title>
-        <id>twelve</id>
-        <link href="https://remysharp.com/2022/08/31/twelve"/>
-        <updated>2022-08-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tia's 12th … birthday. Not a birthday, but 12 years after she was born, or came into our lives. She died too. Our first. The oldest that we don't have at home.
-I don't know if I have a meaningful blog post in me this year, though I've written words about Tia for a number of years now on, or near this specific date: 31‍-‍August.]]></summary>
-        <author>
-            <name>remy sharp's b:log</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding useMemo and useCallback]]></title>
-        <id>https://www.joshwcomeau.com/react/usememo-and-usecallback/</id>
-        <link href="https://www.joshwcomeau.com/react/usememo-and-usecallback/"/>
-        <updated>2022-08-30T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What's the deal with these two hooks?! Lots of devs find them confusing, for a whole host of reasons. In this tutorial, we'll dig deep and understand what they do, why they're useful, and how to get the most out of them.]]></summary>
-        <author>
-            <name>Josh W. Comeau</name>
         </author>
     </entry>
     <entry>
