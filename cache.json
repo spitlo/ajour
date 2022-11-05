@@ -6,6 +6,16 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=7397",
+          "author": "Chris Heilmann",
+          "description": "If you use Microsoft Edge, you get a camera icon when you hover your mouse over any image: This is a great tool for users as it allows them to do a visual search in a sidebar for that image. During local development, the icon appears on images, too, but the results don’t show up. […]",
+          "link": "https://christianheilmann.com/2022/11/04/removing-the-camera-overlay-icon-on-images-in-microsoft-edge/",
+          "publishedOn": "2022-11-04T10:41:49.000Z",
+          "wordCount": 540,
+          "title": "Removing the camera overlay icon on images in Microsoft Edge",
+          "imageUrl": null
+        },
+        {
           "id": "https://christianheilmann.com/?p=7394",
           "author": "Chris Heilmann",
           "description": "You can use `JSON.stringify()` to turn a JSON object into a string. let obj = {“a”: 1, “b”: 3, “c”: “boo!”}; console.log(JSON.stringify(obj)) This results in a single line string: {",
@@ -1003,16 +1013,6 @@
           "publishedOn": "2022-09-12T08:01:20.000Z",
           "wordCount": 1957,
           "title": "Why do domain names sometimes end with a dot?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2022/09/06/send-network-packets-python-tun-tap/",
-          "author": null,
-          "description": "Hello!\nRecently I’ve been working on a project where I implement a bunch of tiny toy\nworking versions of computer networking protocols in Python without using any\nlibraries, as a way to explain how computer networking works.\nI’m still working on writing up that project, but today I wanted to talk about\nhow to do the very first step: sending network packets in Python.\nIn this post we’re going to send a SYN packet (the first packet in a TCP\nconnection) from a tiny Python program, and get a reply from example.com. All the code from this post is in this gist.\nwhat’s a network packet?\nA network packet is a byte string. For example, here’s the first packet in a TCP connection:\nb'E\\x00\\x00,\\x00\\x01\\x00\\x00@\\x06\\x00\\xc4\\xc0\\x00\\x02\\x02\"\\xc2\\x95Cx\\x0c\\x00P\\xf4p\\x98\\x8b\\x00\\x00\\x00\\x00`\\x02\\xff\\xff\\…",
-          "link": "https://jvns.ca/blog/2022/09/06/send-network-packets-python-tun-tap/",
-          "publishedOn": "2022-09-06T11:43:14.000Z",
-          "wordCount": 1701,
-          "title": "How to send raw network packets in Python with tun/tap",
           "imageUrl": null
         }
       ]

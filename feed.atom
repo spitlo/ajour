@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-11-04T00:42:14.558Z</updated>
+    <updated>2022-11-05T00:42:12.018Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Removing the camera overlay icon on images in Microsoft Edge]]></title>
+        <id>https://christianheilmann.com/?p=7397</id>
+        <link href="https://christianheilmann.com/2022/11/04/removing-the-camera-overlay-icon-on-images-in-microsoft-edge/"/>
+        <updated>2022-11-04T10:41:49.000Z</updated>
+        <summary type="html"><![CDATA[If you use Microsoft Edge, you get a camera icon when you hover your mouse over any image: This is a great tool for users as it allows them to do a visual search in a sidebar for that image. During local development, the icon appears on images, too, but the results don’t show up. […]]]></summary>
+        <author>
+            <name>Chris Heilmann</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to talk to kids about video games]]></title>
         <id>https://blog.mozilla.org/?p=70420</id>
@@ -1137,26 +1147,6 @@ The post The Tech Talk appeared first on The Mozilla Blog.]]></summary>
 The post The Tech Talk appeared first on The Mozilla Blog.]]></summary>
         <author>
             <name>Mozilla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to send raw network packets in Python with tun/tap]]></title>
-        <id>https://jvns.ca/blog/2022/09/06/send-network-packets-python-tun-tap/</id>
-        <link href="https://jvns.ca/blog/2022/09/06/send-network-packets-python-tun-tap/"/>
-        <updated>2022-09-06T11:43:14.000Z</updated>
-        <summary type="html"><![CDATA[Hello!
-Recently I’ve been working on a project where I implement a bunch of tiny toy
-working versions of computer networking protocols in Python without using any
-libraries, as a way to explain how computer networking works.
-I’m still working on writing up that project, but today I wanted to talk about
-how to do the very first step: sending network packets in Python.
-In this post we’re going to send a SYN packet (the first packet in a TCP
-connection) from a tiny Python program, and get a reply from example.com. All the code from this post is in this gist.
-what’s a network packet?
-A network packet is a byte string. For example, here’s the first packet in a TCP connection:
-b'E\x00\x00,\x00\x01\x00\x00@\x06\x00\xc4\xc0\x00\x02\x02"\xc2\x95Cx\x0c\x00P\xf4p\x98\x8b\x00\x00\x00\x00`\x02\xff\xff\…]]></summary>
-        <author>
-            <name>Julia Evans</name>
         </author>
     </entry>
     <entry>
