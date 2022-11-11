@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-11-10T00:38:32.933Z</updated>
+    <updated>2022-11-11T00:42:18.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Over a quarter of parents believe their children don’t know how to protect their information online – Firefox can help with that]]></title>
+        <id>https://blog.mozilla.org/?p=70565</id>
+        <link href="https://blog.mozilla.org/en/mozilla/over-a-quarter-of-parents-believe-their-children-dont-know-how-to-protect-their-information-online-firefox-can-help-with-that/"/>
+        <updated>2022-11-10T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Parenting has never been easy. But with a generation growing up with groundbreaking technology, families are facing new challenges along with opportunities as children interact with screens everywhere they go — while learning at school, playing with friends and for on-the-go entertainment.  We are previewing a new Mozilla Firefox survey conducted in partnership with YouGov […]
+The post Over a quarter of parents believe their children don’t know how to protect their information online – Firefox can help with that  appeared first on The Mozilla Blog.]]></summary>
+        <author>
+            <name>Mozilla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: 10 Nov 2022 Amazon and Apple have an illegal price-fixing conspiracy]]></title>
+        <id>https://pluralistic.net/?p=4375</id>
+        <link href="https://pluralistic.net/2022/11/10/you-had-one-job/"/>
+        <updated>2022-11-10T09:07:33.000Z</updated>
+        <summary type="html"><![CDATA[Today's links Amazon and Apple have an illegal price-fixing conspiracy: The creatures outside looked from pig to man, and from man to pig, and from pig to man again; but already it was impossible to say which was which. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Amazon and Apple have an illegal price-fixing conspiracy (permalink) A class action law firm has filed a suit against Apple and Amazon, accusing the companies of price-fixing Ios devices through an agreement that blocks third-party sellers from Amazon unless they're authorized by Apple. The suit should be a slam-dunk – but even more, the conduct it accuses Apple and Amazon of should n…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to talk to kids about social media]]></title>
         <id>https://blog.mozilla.org/?p=70407</id>
@@ -1100,41 +1121,6 @@ I've been using VS Code for a lot of years (I tried to work it out), but a probl
 The post Announcing Carlos Torres, Mozilla’s new Chief Legal Officer appeared first on The Mozilla Blog.]]></summary>
         <author>
             <name>Mitchell Baker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why do domain names sometimes end with a dot?]]></title>
-        <id>https://jvns.ca/blog/2022/09/12/why-do-domain-names-end-with-a-dot-/</id>
-        <link href="https://jvns.ca/blog/2022/09/12/why-do-domain-names-end-with-a-dot-/"/>
-        <updated>2022-09-12T08:01:20.000Z</updated>
-        <summary type="html"><![CDATA[Hello! When I was writing the zine How DNS Works
-earlier this year, someone asked me – why do people sometimes put a dot at the
-end of a domain name? For example, if you look up the IP for example.com by
-running dig example.com, you’ll see this:
-$ dig example.com
-example.com.		5678	IN	A	93.184.216.34
-
-dig has put a . to the end of example.com – now it’s example.com.! What’s up with that?
-Also, some DNS tools require domains to have a "." at the end: if you try to pass example.com to miekg/dns, like this, it’ll fail:
-// trying to send this message will return an error
-m := new(dns.Msg)
-m.SetQuestion("example.com", dns.TypeA)
-
-Originally I thought I knew the answer to this (“uh, the dot at the end means
-the domain is fully qualified?“). And that’s true – a fully qualified domain
-name is a do…]]></summary>
-        <author>
-            <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rotation]]></title>
-        <id>https://xkcd.com/2671/</id>
-        <link href="https://xkcd.com/2671/"/>
-        <updated>2022-09-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/rotation.png" title="It's okay, we can just feed the one-pixel image into an AI upscaler and recover the original image, or at least one that's just as cool." alt="It's okay, we can just feed the one-pixel image into an AI upscaler and recover the original image, or at least one that's just as cool." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>

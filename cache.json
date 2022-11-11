@@ -484,16 +484,6 @@
           "wordCount": 236,
           "title": "What If? 2 Flowchart",
           "imageUrl": "https://imgs.xkcd.com/comics/what_if_2_flowchart_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2671/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/rotation.png\" title=\"It's okay, we can just feed the one-pixel image into an AI upscaler and recover the original image, or at least one that's just as cool.\" alt=\"It's okay, we can just feed the one-pixel image into an AI upscaler and recover the original image, or at least one that's just as cool.\" />",
-          "link": "https://xkcd.com/2671/",
-          "publishedOn": "2022-09-12T00:00:00.000Z",
-          "wordCount": 230,
-          "title": "Rotation",
-          "imageUrl": "https://imgs.xkcd.com/comics/rotation_2x.png"
         }
       ]
     },
@@ -819,6 +809,16 @@
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
         {
+          "id": "https://blog.mozilla.org/?p=70565",
+          "author": "Mozilla",
+          "description": "Parenting has never been easy. But with a generation growing up with groundbreaking technology, families are facing new challenges along with opportunities as children interact with screens everywhere they go — while learning at school, playing with friends and for on-the-go entertainment.  We are previewing a new Mozilla Firefox survey conducted in partnership with YouGov […]\nThe post Over a quarter of parents believe their children don’t know how to protect their information online – Firefox can help with that  appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/over-a-quarter-of-parents-believe-their-children-dont-know-how-to-protect-their-information-online-firefox-can-help-with-that/",
+          "publishedOn": "2022-11-10T14:00:00.000Z",
+          "wordCount": 1742,
+          "title": "Over a quarter of parents believe their children don’t know how to protect their information online – Firefox can help with that",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/11/FX_YouGov_ParentingSurvey-BlogHeader_2-1200x800.jpg"
+        },
+        {
           "id": "https://blog.mozilla.org/?p=70407",
           "author": "Kristina Bravo",
           "description": "Joy Cho is the founder and creative director of the lifestyle brand and design company Oh Joy! For two years in a row, she was named one of Time’s 30 Most Influential People on the Internet and has the most followed account on Pinterest with over 15 million followers. You can also follow her on […]\nThe post How to talk to kids about social media appeared first on The Mozilla Blog.",
@@ -994,16 +994,6 @@
           "wordCount": 2963,
           "title": "Making a DNS query in Ruby from scratch",
           "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2022/09/12/why-do-domain-names-end-with-a-dot-/",
-          "author": null,
-          "description": "Hello! When I was writing the zine How DNS Works\nearlier this year, someone asked me – why do people sometimes put a dot at the\nend of a domain name? For example, if you look up the IP for example.com by\nrunning dig example.com, you’ll see this:\n$ dig example.com\nexample.com.\t\t5678\tIN\tA\t93.184.216.34\n\ndig has put a . to the end of example.com – now it’s example.com.! What’s up with that?\nAlso, some DNS tools require domains to have a \".\" at the end: if you try to pass example.com to miekg/dns, like this, it’ll fail:\n// trying to send this message will return an error\nm := new(dns.Msg)\nm.SetQuestion(\"example.com\", dns.TypeA)\n\nOriginally I thought I knew the answer to this (“uh, the dot at the end means\nthe domain is fully qualified?“). And that’s true – a fully qualified domain\nname is a do…",
-          "link": "https://jvns.ca/blog/2022/09/12/why-do-domain-names-end-with-a-dot-/",
-          "publishedOn": "2022-09-12T08:01:20.000Z",
-          "wordCount": 1957,
-          "title": "Why do domain names sometimes end with a dot?",
-          "imageUrl": null
         }
       ]
     },
@@ -1035,6 +1025,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=4375",
+          "author": "Cory Doctorow",
+          "description": "Today's links Amazon and Apple have an illegal price-fixing conspiracy: The creatures outside looked from pig to man, and from man to pig, and from pig to man again; but already it was impossible to say which was which. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Amazon and Apple have an illegal price-fixing conspiracy (permalink) A class action law firm has filed a suit against Apple and Amazon, accusing the companies of price-fixing Ios devices through an agreement that blocks third-party sellers from Amazon unless they're authorized by Apple. The suit should be a slam-dunk – but even more, the conduct it accuses Apple and Amazon of should n…",
+          "link": "https://pluralistic.net/2022/11/10/you-had-one-job/",
+          "publishedOn": "2022-11-10T09:07:33.000Z",
+          "wordCount": 3249,
+          "title": "Pluralistic: 10 Nov 2022 Amazon and Apple have an illegal price-fixing conspiracy",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=4368",
           "author": "Cory Doctorow",
