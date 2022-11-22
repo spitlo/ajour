@@ -84,16 +84,6 @@
           "wordCount": 1259,
           "title": "Developers as an audience is a hard sell – part one “developers are influencers”",
           "imageUrl": null
-        },
-        {
-          "id": "https://christianheilmann.com/?p=7341",
-          "author": "Chris Heilmann",
-          "description": "Using the required and/or pattern attribute on HTML input elements stops users from submitting forms with invalid values, but you can work around that using the Console tool. In HTML5, you can provide a `required` attribute to ensure a certain field has been filled out before a form can be sent off. I have read […]",
-          "link": "https://christianheilmann.com/2022/09/22/quick-reminder-html5-required-and-pattern-are-not-a-security-feature/",
-          "publishedOn": "2022-09-22T20:13:55.000Z",
-          "wordCount": 563,
-          "title": "Quick reminder: HTML5 required and pattern are not a security feature",
-          "imageUrl": null
         }
       ]
     },
@@ -130,18 +120,7 @@
       "title": "Grumpy Gamer",
       "feedUrl": "https://grumpygamer.com/rss",
       "siteUrl": "https://grumpygamer.com",
-      "articles": [
-        {
-          "id": "https://grumpygamer.com/rtmi_is_out",
-          "author": null,
-          "description": "Click here!",
-          "link": "https://grumpygamer.com/rtmi_is_out",
-          "publishedOn": "2022-09-23T07:00:00.000Z",
-          "wordCount": 66,
-          "title": "Oh yeah... Return To Monkey Island is out",
-          "imageUrl": "https://images-grumpygamer.nyc3.digitaloceanspaces.com/\n"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Emily Short's Interactive Storytelling",
@@ -185,6 +164,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2701/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/change_in_slope.png\" title=\"Squinting at a graph is fine for getting a rough idea of the answer, but if you want to pretend to know it exactly, you need statistics.\" alt=\"Squinting at a graph is fine for getting a rough idea of the answer, but if you want to pretend to know it exactly, you need statistics.\" />",
+          "link": "https://xkcd.com/2701/",
+          "publishedOn": "2022-11-21T00:00:00.000Z",
+          "wordCount": 234,
+          "title": "Change in Slope",
+          "imageUrl": "https://imgs.xkcd.com/comics/change_in_slope_2x.png"
+        },
         {
           "id": "https://xkcd.com/2700/",
           "author": null,
@@ -424,16 +413,6 @@
           "wordCount": 234,
           "title": "Two Key System",
           "imageUrl": "https://imgs.xkcd.com/comics/two_key_system_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2676/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/historical_dates.png\" title=\"Evidence suggests the 1899 transactions occurred as part of a global event centered around a deity associated with the lotus flower.\" alt=\"Evidence suggests the 1899 transactions occurred as part of a global event centered around a deity associated with the lotus flower.\" />",
-          "link": "https://xkcd.com/2676/",
-          "publishedOn": "2022-09-23T00:00:00.000Z",
-          "wordCount": 232,
-          "title": "Historical Dates",
-          "imageUrl": "https://imgs.xkcd.com/comics/historical_dates_2x.png"
         }
       ]
     },
@@ -759,6 +738,16 @@
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
         {
+          "id": "https://blog.mozilla.org/?p=70677",
+          "author": "Mozilla",
+          "description": "The holidays are a wonderful time of the year where we are happily shopping for unique gifts for loved ones online. It also means we’re sharing our personal information online like giving out email addresses or phone numbers to sign up for discount programs or creating new accounts. Whenever we go online, we are asked […]\nThe post The best gift for anyone who wants to feel safer when they go online:  Mozilla privacy products  appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/the-best-gift-for-anyone-who-wants-to-feel-safer-when-they-go-online-mozilla-privacy-products/",
+          "publishedOn": "2022-11-21T14:00:00.000Z",
+          "wordCount": 1760,
+          "title": "The best gift for anyone who wants to feel safer when they go online:  Mozilla privacy products",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/11/FX_SPBundlePRAnnouncement-1280x853.jpg"
+        },
+        {
           "id": "https://blog.mozilla.org/?p=70631",
           "author": "Kristina Bravo",
           "description": "Even people who are very online can use some help navigating the internet – from keeping credit card details safe when online shopping to generating a password when one simply doesn’t have any more passwords in them. Using Firefox as your main browser helps take care of that. Want to level up? With a Firefox […]\nThe post 4 ways a Firefox account comes in handy appeared first on The Mozilla Blog.",
@@ -953,6 +942,36 @@
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
         {
+          "id": "https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/",
+          "author": "Josh W. Comeau",
+          "description": "“Should I use pixels or rems?”. In this comprehensive blog post, we'll answer this question once and for all. You'll learn about the accessibility implications, and how to determine the best unit to use in any scenario.",
+          "link": "https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/",
+          "publishedOn": "2022-11-20T23:31:57.000Z",
+          "wordCount": 10185,
+          "title": "The Surprising Truth About Pixels and Accessibility",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-surprising-truth-about-pixels-and-accessibility.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/css/css-variables-for-react-devs/",
+          "author": "Josh W. Comeau",
+          "description": "CSS Variables are *really* cool, and they're incredibly powerful when it comes to React! This tutorial shows how we can use them with React to create dynamic themes. We'll see how to get the most out of CSS-in-JS tools like styled-components, and how our mental frame around media queries has been wrong all along.",
+          "link": "https://www.joshwcomeau.com/css/css-variables-for-react-devs/",
+          "publishedOn": "2022-11-20T23:30:09.000Z",
+          "wordCount": 6924,
+          "title": "CSS Variables for React Devs",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-css-variables-for-react-devs.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/css/custom-css-reset/",
+          "author": "Josh W. Comeau",
+          "description": "I have a set of baseline CSS styles that come with me from project to project. In the past, I'd use a typical CSS reset, but times have changed, and I believe I have a better set of global styles!",
+          "link": "https://www.joshwcomeau.com/css/custom-css-reset/",
+          "publishedOn": "2022-11-20T23:28:27.000Z",
+          "wordCount": 8626,
+          "title": "My Custom CSS Reset",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-custom-css-reset.png"
+        },
+        {
           "id": "https://www.joshwcomeau.com/css/designing-shadows/",
           "author": "Josh W. Comeau",
           "description": "When I look around the web, most of the shadows I see are fuzzy grey boxes. It doesn't have to be this way, though! CSS gives us the tools to create rich, lush, lifelike shadows. In this tutorial, I'll show you how.",
@@ -995,6 +1014,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=4410",
+          "author": "Cory Doctorow",
+          "description": "Today's links Universities secretly sold their students to online casinos: It's varsity-level corruption. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Universities secretly sold their students to online casinos (permalink) End-stage capitalism's defining characteristic is making money rather than making things. Think of how Jack Welch destroyed GE by transforming it from a manufacturing company to a financial engineering shop: https://the.ink/p/like-capitalism-itself-business-journalism Hospitals are invoice-generating factories with a sideline in medicine. The electronic health record only incidentally records your health. Its primary purpose …",
+          "link": "https://pluralistic.net/2022/11/21/rah-rah/",
+          "publishedOn": "2022-11-21T13:50:17.000Z",
+          "wordCount": 3699,
+          "title": "Pluralistic: 21 Nov 2022 Universities secretly sold their students to online casinos",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=4403",
           "author": "Cory Doctorow",
@@ -1353,16 +1382,6 @@
           "publishedOn": "2022-09-24T13:39:59.000Z",
           "wordCount": 2798,
           "title": "Pluralistic: 24 Sep 2022 Billionare grifters hate her",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=4135",
-          "author": "Cory Doctorow",
-          "description": "Today's links Twitch does a chokepoint capitalism: \"Amazon is charging Amazon so much money to run the business via Amazon that it has no choice but to take more money from streamers.\" Hey look at this: Delights to delectate. This day in history: 2007, 2012, 2017, 2021. Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Twitch does a chokepoint capitalism (permalink) When Amazon bought Twitch, the story was that the new conglomerate would be more efficient and that would benefit everyone – streamers and audiences. That's the story we hear about every anticompetitive merger, and it's always a lie. One major efficiency that the Amazon-Twitch merger was supposed to produce? Lower bandwidth costs. That's one of the largest expenses associated …",
-          "link": "https://pluralistic.net/2022/09/22/amazon-vs-amazon/",
-          "publishedOn": "2022-09-22T15:15:00.000Z",
-          "wordCount": 3397,
-          "title": "Pluralistic: 22 Sep 2022 Twitch's Chokepoint Capitalism",
           "imageUrl": null
         }
       ]
