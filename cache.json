@@ -175,6 +175,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2702/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/what_if_2_gift_guide.png\" title=\"BABIES OR LITERATURE BUT NOT BOTH: Baby shoes\" alt=\"BABIES OR LITERATURE BUT NOT BOTH: Baby shoes\" />",
+          "link": "https://xkcd.com/2702/",
+          "publishedOn": "2022-11-23T00:00:00.000Z",
+          "wordCount": 238,
+          "title": "What If 2 Gift Guide",
+          "imageUrl": "https://imgs.xkcd.com/comics/what_if_2_gift_guide_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2701/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/change_in_slope.png\" title=\"Squinting at a graph is fine for getting a rough idea of the answer, but if you want to pretend to know it exactly, you need statistics.\" alt=\"Squinting at a graph is fine for getting a rough idea of the answer, but if you want to pretend to know it exactly, you need statistics.\" />",
@@ -701,7 +711,28 @@
       "title": "LOW-TECH MAGAZINE",
       "feedUrl": "https://feeds2.feedburner.com/typepad/krisdedecker/lowtechmagazineenglish",
       "siteUrl": "https://www.lowtechmagazine.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.lowtechmagazine.com/2022/11/what-if-we-replace-guns-and-bullets-with-bows-and-arrows.html",
+          "author": null,
+          "description": "The bicycle and the bow are both highly efficient, human-powered technologies that could substitute for two very harmful alternatives: the car and the firearm. Why do we promote one but not the other? Image: University of Chicago students practice archery. Image by Bardon, Emmet. University of Chicago Library, Special Collections Research Center. Why did firearms and bullets replace bows and arrows? To many, this sounds like a stupid question with an obvious answer: the firearm succeeded the bow because it’s a superior weapon. Let’s investigate. Strength and skills Hand-held firearms are usually assessed or compared in terms of performance characteristics such as lethality, range, and rate of fire. However, if we apply the same criteria to bows, two difficulties quickly...",
+          "link": "https://www.lowtechmagazine.com/2022/11/what-if-we-replace-guns-and-bullets-with-bows-and-arrows.html",
+          "publishedOn": "2022-11-23T11:05:28.000Z",
+          "wordCount": 9898,
+          "title": "What if We Replace Guns and Bullets with Bows and Arrows?",
+          "imageUrl": "https://krisdedecker.typepad.com/.a/6a00e0099229e8883302af1c8ff96a200d-600wi"
+        },
+        {
+          "id": "https://www.lowtechmagazine.com/2022/11/when-lethal-weapons-grew-on-trees.html",
+          "author": null,
+          "description": "While manufacturing modern firearms and bullets depends on a global supply chain and fossil fuels, bows and arrows can be made anywhere out of anything, using only human power and simple hand tools. Image: Tanimber islander with very large bow and arrow in leather armor, Dutch Indies. Source unknown. Many bows and arrows ago The bow is one of humanity's most essential and fascinating technologies, perhaps only eclipsed by the controlled use of fire. Despite endless academic speculation on the subject for almost 200 years, we don't know when archery originated. [1] Bows and arrows were made from organic materials, which do not preserve for long. The oldest archaeological finds come from peat bogs, glaciers, and water-logged lake sediments –...",
+          "link": "https://www.lowtechmagazine.com/2022/11/when-lethal-weapons-grew-on-trees.html",
+          "publishedOn": "2022-11-23T10:55:29.000Z",
+          "wordCount": 7823,
+          "title": "When Lethal Weapons Grew on Trees",
+          "imageUrl": "https://krisdedecker.typepad.com/.a/6a00e0099229e8883302af14a67dfe200b-600wi"
+        }
+      ]
     },
     {
       "title": "esoteric.codes",
@@ -747,6 +778,16 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=70711",
+          "author": "Kristina Bravo",
+          "description": "So you’ve unboxed a shiny new phone, peeled the sticker off the screen and transferred your data. If you’re reading this, you’ve made the smart decision to take another important step: Setting up your device for privacy and security.  Here are five steps you can take to help keep your data safe. Your future self […]\nThe post New phone? Give yourself the gift of privacy with these 5 tips appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/privacy-security/set-up-security-settings-new-phone/",
+          "publishedOn": "2022-11-23T17:19:53.000Z",
+          "wordCount": 1518,
+          "title": "New phone? Give yourself the gift of privacy with these 5 tips",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/11/FX_Distilled_SPBundleBlog-1-1280x853.jpg"
+        },
         {
           "id": "https://blog.mozilla.org/?p=70677",
           "author": "Mozilla",
@@ -952,6 +993,26 @@
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
         {
+          "id": "https://www.joshwcomeau.com/css/the-importance-of-learning-css/",
+          "author": "Josh W. Comeau",
+          "description": "I know so many super-talented developers who share the same achilles heel: CSS. Instead of trying to “outrun” CSS, this article explores why leaning in and going deeper can be a tremendous boon for your development life and your career.",
+          "link": "https://www.joshwcomeau.com/css/the-importance-of-learning-css/",
+          "publishedOn": "2022-11-23T18:00:20.000Z",
+          "wordCount": 6209,
+          "title": "The Importance of Learning CSS",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-the-importance-of-learning-css.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/nextjs/refreshing-server-side-props/",
+          "author": "Josh W. Comeau",
+          "description": "Next allows you to do server-side data-fetching, but what happens when that data needs to change on the client? This brief tutorial shows how to re-fetch the props without doing a full server reload.",
+          "link": "https://www.joshwcomeau.com/nextjs/refreshing-server-side-props/",
+          "publishedOn": "2022-11-23T16:47:32.000Z",
+          "wordCount": 4026,
+          "title": "Refreshing Server-Side Props",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-refreshing-server-side-props.png"
+        },
+        {
           "id": "https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/",
           "author": "Josh W. Comeau",
           "description": "When we truly learn the secrets of the Flexbox layout mode, we can build absolutely incredible things. Fluid layouts that stretch and shrink without arbitrary breakpoints. In this action-packed interactive tutorial, we'll pop the hood on the Flexbox algorithm and learn how to do remarkable things with it. ✨",
@@ -1034,6 +1095,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=4422",
+          "author": "Cory Doctorow",
+          "description": "Today's links Citizens United and the FTX meltdown: The Keating Five were amateurs. Hey look at this: Delights to delectate. This day in history: 2012, 2017, 2021. Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Citizens United and the FTX meltdown (permalink) The collapse of the FTX cryptocurrency exchange and its affiliated businesses has left a million creditors holding the bag for a chaotically managed, corrupt enterprise that created vast personal fortunes for the conspirators who ran it, even as it stole the life's savings of retail investors who bought into its lies. Could the unsuspecting public have been shielded from the FTX Ponzi scheme? Hindsight is 20/20, but there's good reason to believe that FTX could have been brought d…",
+          "link": "https://pluralistic.net/2022/11/23/incentives-matter/",
+          "publishedOn": "2022-11-23T14:47:01.000Z",
+          "wordCount": 2878,
+          "title": "Pluralistic: 23 Nov 2022 Citizens United and the FTX meltdown",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=4415",
           "author": "Cory Doctorow",
@@ -1402,16 +1473,6 @@
           "publishedOn": "2022-09-25T18:43:17.000Z",
           "wordCount": 3267,
           "title": "25 Sep 2022 McKinsey and Providence colluded to force poor patients into destitution",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=4145",
-          "author": "Cory Doctorow",
-          "description": "Today's links Billionaire grifters hate her: Cometh the Hour, Cometh the Ida M Tarbell. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Billionaire grifters hate her (permalink) A billionaire's crime spree has come to an end: a federal judge held that Fleetcor was running a fraudulent, predatory business, and found that the company's billionaire owner, Ron Clarke, was personally responsible for the company's offenses. He woulda gotten away with it, but for the reporting of a former nurse turned self-trained muckraker: https://www.bloomberg.com/news/articles/2022-08-11/payments-billionaire-found-to-have-knowingly-deceived-customers The Fleetcor sca…",
-          "link": "https://pluralistic.net/2022/09/24/shithole-billionaires/",
-          "publishedOn": "2022-09-24T13:39:59.000Z",
-          "wordCount": 2798,
-          "title": "Pluralistic: 24 Sep 2022 Billionare grifters hate her",
           "imageUrl": null
         }
       ]
