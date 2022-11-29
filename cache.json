@@ -84,16 +84,6 @@
           "wordCount": 1488,
           "title": "AI Code completion is like cruise control – and that’s great news for bigger teams",
           "imageUrl": null
-        },
-        {
-          "id": "https://christianheilmann.com/?p=7354",
-          "author": "Chris Heilmann",
-          "description": "The browser developer tools Console is so much more than a place to log your messages. It is a way for you to programatically access the currently shown document and window, read out values and change them. On top of that, it has a powerful API of helper methods to make that easier than with […]",
-          "link": "https://christianheilmann.com/2022/09/29/dear-console/",
-          "publishedOn": "2022-09-29T14:52:46.000Z",
-          "wordCount": 522,
-          "title": "Dear Console,…",
-          "imageUrl": null
         }
       ]
     },
@@ -118,7 +108,18 @@
       "title": "Sara Soueidan – Blog",
       "feedUrl": "https://www.sarasoueidan.com/blog/index.xml",
       "siteUrl": "https://sarasoueidan.com/blog-feed.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://sarasoueidan.com/blog/testing-environment-setup/",
+          "author": null,
+          "description": "When you’re designing and developing for accessibility, performing manual testing using a screen reader is important to catch and fix accessibility and usability issues that cannot be caught by automated accessibility checkers. You can catch the majority of issues by performing testing using the screen readers that your users rely on the most.\nIf you haven’t already, you you want to set up a screen reader testing environment on your computer, and invest a little learning time to get acquainted with the most relevant screen reader commands and shortcuts that you will need to perfom basic manual testing with a screen reader on a day-to-day basis.\nIn this chapter, we will walk through setting up a screen reader testing environment on your computer. We will discuss software options you have to…",
+          "link": "https://sarasoueidan.com/blog/testing-environment-setup/",
+          "publishedOn": "2022-11-24T00:00:00.000Z",
+          "wordCount": 2832,
+          "title": "Setting up a screen reader testing environment on your computer",
+          "imageUrl": "/assets/images/logo/sara-illustration.png"
+        }
+      ]
     },
     {
       "title": "there.oughta.be/",
@@ -413,16 +414,6 @@
           "wordCount": 232,
           "title": "Battery Life",
           "imageUrl": "https://imgs.xkcd.com/comics/battery_life_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2679/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/quantified_self.png\" title=\"It's made me way more excited about ferris wheels, subways, car washes, waterslides, and store entrances that have double doors with a divider in the middle.\" alt=\"It's made me way more excited about ferris wheels, subways, car washes, waterslides, and store entrances that have double doors with a divider in the middle.\" />",
-          "link": "https://xkcd.com/2679/",
-          "publishedOn": "2022-09-30T00:00:00.000Z",
-          "wordCount": 232,
-          "title": "Quantified Self",
-          "imageUrl": "https://imgs.xkcd.com/comics/quantified_self_2x.png"
         }
       ]
     },
@@ -431,6 +422,16 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "automatically-uploading-screenshots-using-my-own-tools",
+          "author": null,
+          "description": "Often I'll want to share a screenshot and over the years I've used a number of different tools, but I'm always beholden to when they eventually become unsupported or the company \"pivots\" and the pricing model goes silly. So after all this time, I finally worked out how to roll my own.\nForewarning though, this is MacOS specific, but I'm sure same thinking can be applied to other operating systems.",
+          "link": "https://remysharp.com/2022/11/28/automatically-uploading-screenshots-using-my-own-tools",
+          "publishedOn": "2022-11-28T00:00:00.000Z",
+          "wordCount": 1430,
+          "title": "Automatically uploading screenshots using my own tools [blog]",
+          "imageUrl": "https://remysharp.com/images/cards/og/9-8.jpg"
+        },
         {
           "id": "ffconf-2022-the-return",
           "author": null,
@@ -983,6 +984,16 @@
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
         {
+          "id": "https://www.joshwcomeau.com/css/color-formats/",
+          "author": "Josh W. Comeau",
+          "description": "CSS gives us so many options when it comes to expressing color—we can use hex codes, rgb, hsl, and more. Which option should we choose? This turns out to be a surprisingly important decision! In this article, we'll take a tour of color formats in CSS, and see which option will serve us best.",
+          "link": "https://www.joshwcomeau.com/css/color-formats/",
+          "publishedOn": "2022-11-28T16:05:52.000Z",
+          "wordCount": 9996,
+          "title": "Color Formats in CSS",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-color-formats.png"
+        },
+        {
           "id": "https://www.joshwcomeau.com/css/the-importance-of-learning-css/",
           "author": "Josh W. Comeau",
           "description": "I know so many super-talented developers who share the same achilles heel: CSS. Instead of trying to “outrun” CSS, this article explores why leaning in and going deeper can be a tremendous boon for your development life and your career.",
@@ -1085,6 +1096,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=4434",
+          "author": "Cory Doctorow",
+          "description": "Today's links How monopoly enshittified Amazon: Chokepoint Capitalism ruins everything. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading How monopoly enshittified Amazon (permalink) In Bezos's original plan, the company called \"Amazon\" was called \"Relentless,\" due to its ambition to be \"Earth's most customer-centric company.\" Today, Amazon is an enshittified endless scroll of paid results, where winning depends on ad budgets, not quality. Writing in Jeff Bezos's newspaper The Washington Post, veteran tech reporter Geoffrey Fowler reports on the state of his boss's \"relentless\" commitment to customer service. The state is grim. https://www.washingto…",
+          "link": "https://pluralistic.net/2022/11/28/enshittification/",
+          "publishedOn": "2022-11-28T17:17:13.000Z",
+          "wordCount": 4417,
+          "title": "Pluralistic: How monopoly enshittified Amazon/28 Nov 2022",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=4422",
           "author": "Cory Doctorow",
@@ -1423,16 +1444,6 @@
           "publishedOn": "2022-10-01T17:18:25.000Z",
           "wordCount": 3148,
           "title": "Pluralistic: 01 Oct 2022 How Palantir will steal the NHS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=4172",
-          "author": "Cory Doctorow",
-          "description": "Today's links Porn on Tumblr is a complicated subject: Chokepoints, compliance, weakest links. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Porn on Tumblr is a complicated subject (permalink) In 2018, Tumblr announced a ban on \"adult content.\" That call was made by Verizon, Tumblr's erstwhile owner, and to call the resulting mess \"a shitshow\" is an insult to good, hardworking shitshows all over the world. Verizon enforced this policy with an automated filter, which was charged with analyzing images and categorizing them as \"sexual\" or \"nonsexual.\" This is risible enough, like asking a computer to sort videos into \"virtuous\" or \"sinful\" but that…",
-          "link": "https://pluralistic.net/2022/09/29/go-nuts-show-nuts/",
-          "publishedOn": "2022-09-29T16:48:53.000Z",
-          "wordCount": 3273,
-          "title": "Pluralistic: 29 Sep 2022 Porn on Tumblr is a complicated subject",
           "imageUrl": null
         }
       ]
