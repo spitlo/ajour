@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-12-03T00:30:17.711Z</updated>
+    <updated>2022-12-04T00:32:17.332Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: The urinary tract infection business-model (03 Dec 2022)]]></title>
+        <id>https://pluralistic.net/?p=4482</id>
+        <link href="https://pluralistic.net/2022/12/03/painful-burning-dribble/"/>
+        <updated>2022-12-03T16:40:06.000Z</updated>
+        <summary type="html"><![CDATA[Today's links The urinary tract infection business-model: Welcome to the self-destructing space-ship future. Hey look at this: Delights to delectate. This day in history: 2007 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The urinary tract infection business-model (permalink) There were two competing visions at the dawn of the modern digital era: in one camp, you had people who saw computers as a way to empower people to push back against corporate and state control; in the other camp, there were the people who wanted to use computers to transfer power from the public to corporations or governments. I've always been baffled by the technologists who pursued control over liberation: surely their own formative experiences were of the lib…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A couple of Rust error messages]]></title>
+        <id>https://jvns.ca/blog/2022/12/02/a-couple-of-rust-error-messages/</id>
+        <link href="https://jvns.ca/blog/2022/12/02/a-couple-of-rust-error-messages/"/>
+        <updated>2022-12-02T21:02:15.000Z</updated>
+        <summary type="html"><![CDATA[Hello!
+I’ve been doing Advent of Code in Rust for the
+past couple of days, because I’ve never really gotten comfortable with the
+language and I thought doing some Advent of Code problems might help.
+My solutions aren’t anything special, but because I’m trying to learn, I’ve
+been trying to take a slightly more rigorous approach than usual to compiler
+errors. Instead of just fixing the error and moving on, I’m trying to make sure
+that I actually understand what the error message means and what it’s telling
+me about how the language works.
+My steps to do that are:
+fix the bug
+make a tiny standalone program reproducing the same compiler error
+think about it and try to explain it to myself to make sure I actually understand why that error happened
+ask for help if I still don’t understand
+So her…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pluralistic: How tech changed global labor struggles for better and worse (02 Dec 2022)]]></title>
         <id>https://pluralistic.net/?p=4477</id>
@@ -52,6 +86,16 @@ Tags: best of   lists   movies]]></summary>
 Tags: Covid-19   science   video]]></summary>
         <author>
             <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bendy]]></title>
+        <id>https://xkcd.com/2706/</id>
+        <link href="https://xkcd.com/2706/"/>
+        <updated>2022-12-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/bendy.png" title="Squaring the circle is really easy with some good clamps." alt="Squaring the circle is really easy with some good clamps." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -1757,16 +1801,6 @@ The post Protect your privacy and your phone number with Firefox Relay appeared 
         <summary type="html"><![CDATA[When machine learning assisted code completion came around in the form of GitHub CoPilot and the fast-follow Amazon Codewhisperer it was impressive to see just how fast new ideas follow the Gartner Hype Cycle. The first impression was that this would be the end of development as we know it and that it is yet […]]]></summary>
         <author>
             <name>Chris Heilmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Archimedes Principle]]></title>
-        <id>https://xkcd.com/2681/</id>
-        <link href="https://xkcd.com/2681/"/>
-        <updated>2022-10-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/archimedes_principle.png" title="&quot;I've always wanted to run naked through town, but I don't want to get in trouble with the king or be remembered by history as a weirdo. I wonder how I could ... EUREKA!&quot;" alt="&quot;I've always wanted to run naked through town, but I don't want to get in trouble with the king or be remembered by history as a weirdo. I wonder how I could ... EUREKA!&quot;" />]]></summary>
-        <author>
-            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>

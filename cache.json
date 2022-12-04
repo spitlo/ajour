@@ -213,6 +213,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2706/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/bendy.png\" title=\"Squaring the circle is really easy with some good clamps.\" alt=\"Squaring the circle is really easy with some good clamps.\" />",
+          "link": "https://xkcd.com/2706/",
+          "publishedOn": "2022-12-02T00:00:00.000Z",
+          "wordCount": 230,
+          "title": "Bendy",
+          "imageUrl": "https://imgs.xkcd.com/comics/bendy_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2705/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/spacetime_soccer.png\" title=\"Spacetime Soccer, known outside the United States as '4D Football' is a now-defunct sport. Infamous for referee decisions hinging on inconsistent definitions of simultaneity, it is also known for the disappearance of many top players during... [more]\" alt=\"Spacetime Soccer, known outside the United States as '4D Football' is a now-defunct sport. Infamous for referee decisions hinging on inconsistent definitions of simultaneity, it is also known for the disappearance of many top players during... [more]\" />",
@@ -451,16 +461,6 @@
           "wordCount": 234,
           "title": "Easy or Hard",
           "imageUrl": "https://imgs.xkcd.com/comics/easy_or_hard_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2681/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/archimedes_principle.png\" title=\"&quot;I've always wanted to run naked through town, but I don't want to get in trouble with the king or be remembered by history as a weirdo. I wonder how I could ... EUREKA!&quot;\" alt=\"&quot;I've always wanted to run naked through town, but I don't want to get in trouble with the king or be remembered by history as a weirdo. I wonder how I could ... EUREKA!&quot;\" />",
-          "link": "https://xkcd.com/2681/",
-          "publishedOn": "2022-10-05T00:00:00.000Z",
-          "wordCount": 232,
-          "title": "Archimedes Principle",
-          "imageUrl": "https://imgs.xkcd.com/comics/archimedes_principle_2x.png"
         }
       ]
     },
@@ -1034,6 +1034,16 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2022/12/02/a-couple-of-rust-error-messages/",
+          "author": null,
+          "description": "Hello!\nI’ve been doing Advent of Code in Rust for the\npast couple of days, because I’ve never really gotten comfortable with the\nlanguage and I thought doing some Advent of Code problems might help.\nMy solutions aren’t anything special, but because I’m trying to learn, I’ve\nbeen trying to take a slightly more rigorous approach than usual to compiler\nerrors. Instead of just fixing the error and moving on, I’m trying to make sure\nthat I actually understand what the error message means and what it’s telling\nme about how the language works.\nMy steps to do that are:\nfix the bug\nmake a tiny standalone program reproducing the same compiler error\nthink about it and try to explain it to myself to make sure I actually understand why that error happened\nask for help if I still don’t understand\nSo her…",
+          "link": "https://jvns.ca/blog/2022/12/02/a-couple-of-rust-error-messages/",
+          "publishedOn": "2022-12-02T21:02:15.000Z",
+          "wordCount": 1142,
+          "title": "A couple of Rust error messages",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2022/11/06/making-a-dns-query-in-ruby-from-scratch/",
           "author": null,
           "description": "Hello! A while back I wrote a post about how to write a toy DNS resolver in Go.\nIn that post I left out “how to generate and parse DNS queries” because I\nthought it was boring, but a few people pointed out that they did not know how\nto parse and generate DNS queries and they were interested in how to do it.\nThis made me curious – how much work is it do the DNS parsing? It turns out\nwe can do it in a pretty nice 120-line Ruby program, which is not that bad.\nSo here’s a quick post on how to generate DNS queries and parse DNS responses!\nWe’re going to do it in Ruby because I’m giving a talk at a Ruby conference\nsoon, and this blog post is partly prep for that talk :). I’ve tried to keep it\nreadable for folks who don’t know Ruby though, I’ve only used pretty basic Ruby\ncode.\nAt the end we’re g…",
@@ -1163,6 +1173,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=4482",
+          "author": "Cory Doctorow",
+          "description": "Today's links The urinary tract infection business-model: Welcome to the self-destructing space-ship future. Hey look at this: Delights to delectate. This day in history: 2007 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The urinary tract infection business-model (permalink) There were two competing visions at the dawn of the modern digital era: in one camp, you had people who saw computers as a way to empower people to push back against corporate and state control; in the other camp, there were the people who wanted to use computers to transfer power from the public to corporations or governments. I've always been baffled by the technologists who pursued control over liberation: surely their own formative experiences were of the lib…",
+          "link": "https://pluralistic.net/2022/12/03/painful-burning-dribble/",
+          "publishedOn": "2022-12-03T16:40:06.000Z",
+          "wordCount": 4515,
+          "title": "Pluralistic: The urinary tract infection business-model (03 Dec 2022)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=4477",
           "author": "Cory Doctorow",
