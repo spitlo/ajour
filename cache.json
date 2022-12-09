@@ -441,16 +441,6 @@
           "wordCount": 234,
           "title": "Road Space Comparison",
           "imageUrl": "https://imgs.xkcd.com/comics/road_space_comparison_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2683/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/fan_theories.png\" title=\"The universe fandom is great. Such sweet and enthusiastic people.\" alt=\"The universe fandom is great. Such sweet and enthusiastic people.\" />",
-          "link": "https://xkcd.com/2683/",
-          "publishedOn": "2022-10-10T00:00:00.000Z",
-          "wordCount": 232,
-          "title": "Fan Theories",
-          "imageUrl": "https://imgs.xkcd.com/comics/fan_theories_2x.png"
         }
       ]
     },
@@ -797,6 +787,16 @@
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
         {
+          "id": "https://blog.mozilla.org/?p=70773",
+          "author": "Kristina Bravo",
+          "description": "I joined the Firefox privacy and security team in 2016. For years, the privacy engineers here at Mozilla have known that online trackers use every identifier they can get to track and re-identify people all over the internet. Over the last six years, I’ve been able to contribute to Private Browsing, Tracking Protection, Containers, Monitor, […]\nThe post Over a decade of anti-tracking work at Mozilla appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/privacy-security/mozilla-anti-tracking-milestones-timeline/",
+          "publishedOn": "2022-12-08T18:12:11.000Z",
+          "wordCount": 1953,
+          "title": "Over a decade of anti-tracking work at Mozilla",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/12/intro-image-1080x720.jpg"
+        },
+        {
           "id": "https://blog.mozilla.org/?p=70752",
           "author": "Kristina Bravo",
           "description": "I joined Mozilla in 2017 as an accessibility engineer and soon became the tech lead for accessibility. But for years prior, I was already deeply involved with the company. I co-created NVDA (NonVisual Desktop Access) in 2006, a screen reader for blind and vision impaired people like me. We wanted to make Firefox and NVDA […]\nThe post How we’re making Firefox accessible and delightful for everyone appeared first on The Mozilla Blog.",
@@ -1034,6 +1034,16 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2022/12/08/a-debugging-manifesto/",
+          "author": null,
+          "description": "Hello! I’ve been working on a zine about debugging for the last 6 months with\nmy friend Marie, and one of the problems we ran\ninto was figuring out how to explain the right attitude to take when debugging.\nWe ended up writing a short debugging manifesto to start the zine with, and I’m\npretty happy with how it came out. Here it is as an image, and as text (with\nsome extra explanations)\n\n1. Inspect, don’t squash\nWhen you run into a bug, the natural instinct is to try to fix it as fast as\npossible. And of course, sometimes that’s what you have to do – if the bug is\ncausing a huge production incident, you have to mitigate it quickly before\ndiving into figuring out the root cause.\nBut in my day to day debugging, I find that it’s generally more effective (and\nfaster!) to leave the bug in place, …",
+          "link": "https://jvns.ca/blog/2022/12/08/a-debugging-manifesto/",
+          "publishedOn": "2022-12-08T12:21:01.000Z",
+          "wordCount": 909,
+          "title": "A debugging manifesto",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2022/12/07/tips-for-analyzing-logs/",
           "author": null,
           "description": "Hello! I’ve been working on writing a zine about debugging for a while now\n(we’re getting close to finishing it!!!!), and one of the pages is about\nanalyzing logs. I asked for some tips on Mastodon\nand got WAY more tips than could fit on the page, so I thought I’d write a\nquick blog post.\nI’m going to talk about log analysis in the context of distributed systems\ndebugging (you have a bunch of servers with different log files and you need to\nwork out what happened) since that’s what I’m most familiar with.\nsearch for the request’s ID\nOften log lines will include a request ID. So searching for the request ID\nof a failed reques will show all the log lines for that request.\nThis is a GREAT way to cut things down, and it’s one of the first helpful tips\nI got about distributed systems debugging …",
@@ -1070,6 +1080,16 @@
       "feedUrl": "https://www.joshwcomeau.com/rss.xml",
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
+        {
+          "id": "https://www.joshwcomeau.com/react/why-react-re-renders/",
+          "author": "Josh W. Comeau",
+          "description": "In React, we don't update the DOM directly, we tell React what we want the DOM to look like, and React tackles the rest. But how exactly does it do this? In this tutorial, we'll unpack exactly when and why React re-renders, and how we can use this information to optimize the performance of our React apps.",
+          "link": "https://www.joshwcomeau.com/react/why-react-re-renders/",
+          "publishedOn": "2022-12-08T16:23:32.000Z",
+          "wordCount": 8092,
+          "title": "Why React Re-Renders",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-why-react-re-renders.png"
+        },
         {
           "id": "https://www.joshwcomeau.com/css/color-formats/",
           "author": "Josh W. Comeau",
@@ -1176,13 +1196,34 @@
       "title": "A List Apart: The Full Feed",
       "feedUrl": "https://alistapart.com/main/feed/",
       "siteUrl": "https://alistapart.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://alistapart.com/article/personalization-pyramid/",
+          "author": "by ,",
+          "description": "As a UX professional in today’s data-driven landscape, it’s increasingly likely that you’ve been asked to design a personalized digital experience, whether it’s a public website, user portal, or native application. Yet while there continues to be no shortage of marketing hype around personalization platforms, we still have very few standardized approaches for implementing personalized UX.\nThat’s where we come in. After completing dozens of personalization projects over the past few years, we gave ourselves a goal: could you create a holistic personalization framework specifically for UX practitioners? The Personalization Pyramid is a designer-centric model for standing up human-centered personalization programs, spanning data, segmentation, content delivery, and overall goals. By using thi…",
+          "link": "https://alistapart.com/article/personalization-pyramid/",
+          "publishedOn": "2022-12-08T15:00:00.000Z",
+          "wordCount": 3877,
+          "title": "Personalization Pyramid: A Framework for Designing with User Data",
+          "imageUrl": "https://149572954.v2.pressablecdn.com/wp-content/uploads/2022/12/image7.jpg"
+        }
+      ]
     },
     {
       "title": "Pluralistic: Daily links from Cory Doctorow",
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=4514",
+          "author": "Cory Doctorow",
+          "description": "Today's links One weird trick to make monopolies self-destruct: Remember when corporate raiders broke companies up? Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading One weird trick to make monopolies self-destruct (permalink) Kim Stanley Robinson's 2020 novel Ministry For the Future was a groundbreaking work: it's the tale of a detailed, plausible transition from a world on a collision course with civilization-ending climate catastrophe to one where the challenge is met, with humanity collectively deciding to save itself: https://pluralistic.net/2020/12/03/ministry-for-the-future/#ksr Robinson's book is important: it not only disproves the (variously att…",
+          "link": "https://pluralistic.net/2022/12/08/one-last-job/",
+          "publishedOn": "2022-12-08T12:15:17.000Z",
+          "wordCount": 2756,
+          "title": "Pluralistic: One weird trick to make monopolies self-destruct (08 Dec 2022)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=4508",
           "author": "Cory Doctorow",
@@ -1567,21 +1608,6 @@
           "wordCount": 3455,
           "title": "Pluralistic: 10 Oct 2022 Antitrust is – and always has been – about fairness",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=4222",
-          "author": "Cory Doctorow",
-          "description": "Today's links $100 billion later, autonomous vehicles are still a car-wreck: The self-driving car fraud was great business for Uber and Tesla. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017, 2021. Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading $100 billion later, autonomous vehicles are still a car-wreck (permalink) Autonomous vehicles were always a shell-game. The last time I wrote about them was a year ago, when Uber declared massive losses. Uber's profitability story was always, \"Sure, we're losing money now, but once we create self-driving cars, we can fire our drivers and make a bundle.\" https://pluralistic.net/2020/09/30/death-to-all-monopoly/#pogo-stick-problem But Uber never came close to b…",
-          "link": "https://pluralistic.net/2022/10/09/herbies-revenge/",
-          "publishedOn": "2022-10-09T19:52:35.000Z",
-          "wordCount": 2925,
-          "title": "Pluralistic: 09 Oct 2022 $100 billion later, autonomous vehicles are still a car-wreck",
-          "enclosure": {
-            "url": "https://web.archive.org/web/20121114082442/http://blogfiles.wfmu.org/KG/McLaughlin/Steve_McLaughlin-Run_for_Your_Life.mp3",
-            "length": "88540384",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -1628,6 +1654,46 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/16/10/meet-the-perennials",
+          "author": null,
+          "description": "Gina Pell on the Perennials, the growing group of people who aren’t bound by age in the way most people in society used to be.\nWe are ever-blooming, relevant people of all ages who live in the present time, know what’s happening in the world, stay current with technology, and have friends of all ages. We get involved, stay curious, mentor others, are passionate, compassionate, creative, confident, collaborative, global-minded, risk takers who continue to push up against our growing edge and know how to hustle. We comprise an inclusive, enduring mindset, not a divisive demographic.\n\n\t\nThis is an idea that’s been gathering steam for some time. In 2006, Adam Sternbergh wrote Up With Grups for New York Magazine.\nLet’s start with a question. A few questions, actually: When did it become normal …",
+          "link": "https://kottke.org/16/10/meet-the-perennials",
+          "publishedOn": "2022-12-08T23:02:25.000Z",
+          "wordCount": 887,
+          "title": "Meet the Perennials",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/22/12/a-short-history-of-the-banjo-and-early-black-folk-music",
+          "author": null,
+          "description": "In this video from Vox (produced by none other than Estelle Caswell, who does the excellent Earworm series), scholar and musician Jake Blount runs us through a quick history of early Black folk music, using the banjo as a rough through-line. If you’d like to read more about Black stringband music, Blount has compiled some recommended resources.\nTags: Jake Blount   music   video",
+          "link": "https://kottke.org/22/12/a-short-history-of-the-banjo-and-early-black-folk-music",
+          "publishedOn": "2022-12-08T20:19:18.000Z",
+          "wordCount": 246,
+          "title": "A Short History of the Banjo and Early Black Folk Music",
+          "imageUrl": "https://img.youtube.com/vi/wrRfOzhM2AE/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/22/12/flamingos-from-above",
+          "author": null,
+          "description": "The flamingo’s vibrant color makes it a particularly striking bird to take photographs of, especially from the air — the pink really pops against the dark background of the water. Photographer Raj Mohan showcases this in his beautiful photos of flamingos at Pulicat Lake in India.\nThe annual flamingo festival is held in the month of January, and it is said that about 18 to 20 flamingo groups are distributed across the lake with each group having 700 to 800 birds. This pink flock congregation makes lake Pulicat a pink heaven.\n\n\nYou might remember that flamingos get their pink color from eating halophile dunaliella salina algae and shrimp that feel on algae. (via colossal)\nTags: birds   photography   Raj Mohan",
+          "link": "https://kottke.org/22/12/flamingos-from-above",
+          "publishedOn": "2022-12-08T17:58:06.000Z",
+          "wordCount": 287,
+          "title": "Flamingos From Above",
+          "imageUrl": "https://kottke.org/plus/misc/images/raj-mohan-flamingos-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/22/12/the-top-gun-mach-10-scene-is-like-a-perfect-pop-song",
+          "author": null,
+          "description": "As I said in my recent media diet post, I really enjoyed Top Gun: Maverick. It’s a movie that’s made to be seen on a big screen with a loud sound system — I ended up seeing it in the theater twice. The movie just felt…good. Like a really well-crafted pop tune. In this video, Evan Puschak takes a look at the first scene in the film where (spoilers!) test pilot Maverick needs to achieve Mach 10 in an experimental plane and compares it to the structure of a pop song. His comparison really resonated with me because I listen to music and watch movies (particularly action movies) in a similar way: how movies and music feel and how they make me feel is often more important than plot or dialogue or lyrics.\nTags: Evan Puschak   film school   movies   music   Top Gun   video",
+          "link": "https://kottke.org/22/12/the-top-gun-mach-10-scene-is-like-a-perfect-pop-song",
+          "publishedOn": "2022-12-08T14:26:36.000Z",
+          "wordCount": 326,
+          "title": "The Top Gun “Mach 10” Scene Is Like a Perfect Pop Song",
+          "imageUrl": "https://img.youtube.com/vi/MN-1jdFSDs8/0.jpg"
+        },
         {
           "id": "https://kottke.org/22/12/3d-image-capture-just-got-much-easier",
           "author": null,
