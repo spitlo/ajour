@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2022-12-26T00:32:29.092Z</updated>
+    <updated>2022-12-27T00:31:39.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Game Night Ordering]]></title>
+        <id>https://xkcd.com/2716/</id>
+        <link href="https://xkcd.com/2716/"/>
+        <updated>2022-12-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/game_night_ordering.png" title="One good trick, if you get called on a fake service, is to build a working version of it and mention it again the next week." alt="One good trick, if you get called on a fake service, is to build a working version of it and mention it again the next week." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pluralistic: An end-of-year retrospective (24 Dec 2022)]]></title>
         <id>https://pluralistic.net/?p=4596</id>
@@ -2533,56 +2543,6 @@ Continue Reading]]></summary>
 The post Firefox Presents: Cosplayer Rachel Maksy gives main character energy appeared first on The Mozilla Blog.]]></summary>
         <author>
             <name>Kristina Bravo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 28 Oct 2022 Adobe steals your color]]></title>
-        <id>https://pluralistic.net/?p=4314</id>
-        <link href="https://pluralistic.net/2022/10/28/fade-to-black/"/>
-        <updated>2022-10-28T08:37:31.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Adobe steals your color: A SaaS on the mantel in Act I must go off by Act III. Hey look at this: Delights to delectate. This day in history: 2007, 2012, 2017, 2021. Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Adobe steals your color (permalink) When a company breaks a product you rely on – wrecking decades of work – it's natural to feel fury. Companies know this, so they try to deflect your rage by blaming their suppliers. Sometimes, it's suppliers who are at fault – but other times, there is plenty of blame to go around. For example, when Apple deleted all the working VPNs from its Chinese App Store and backdoored its Chinese cloud servers, it blamed the Chinese government. But the Chinese state knew that Apple had lo…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reminder: JSON.stringify can create Multi-line, formatted and filtered strings from JSON]]></title>
-        <id>https://christianheilmann.com/?p=7394</id>
-        <link href="https://christianheilmann.com/2022/10/28/reminder-json-stringify-can-create-multi-line-formatted-and-filtered-strings-from-json/"/>
-        <updated>2022-10-28T06:11:39.000Z</updated>
-        <summary type="html"><![CDATA[You can use `JSON.stringify()` to turn a JSON object into a string. let obj = {“a”: 1, “b”: 3, “c”: “boo!”}; console.log(JSON.stringify(obj)) This results in a single line string: {]]></summary>
-        <author>
-            <name>Chris Heilmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Encryption]]></title>
-        <id>https://xkcd.com/2691/</id>
-        <link href="https://xkcd.com/2691/"/>
-        <updated>2022-10-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/encryption.png" title="WARNING: PEOPLE NAMED EVE ARE PROHIBITED FROM INSTALLING THIS APP!" alt="WARNING: PEOPLE NAMED EVE ARE PROHIBITED FROM INSTALLING THIS APP!" />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 27 Oct 2022 Substituting economics for politics is a failure]]></title>
-        <id>https://pluralistic.net/?p=4307</id>
-        <link href="https://pluralistic.net/2022/10/27/economism/"/>
-        <updated>2022-10-27T17:09:16.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Substituting economics for politics is a failure: The verdict is in on "economism." Hey look at this: Delights to delectate. This day in history: 2007, 2012, 2017, 2021. Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Substituting economics for politics is a failure (permalink) Most of us believe that we do stuff because we want to be good people, and that other people act the same. But the dominant political philosophy for the last half-century, "economism," views us as slaves to "incentives" and nothing more. Economism is the philosophy of the neoclassical economists, whose ideology has consumed both the Democrats and Republicans. They dismiss all "non-market" solutions (that is, projects of democratically accountable go…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Developer Advocacy Handbook is now available as an eBook on Leanpub and Amazon Kindle]]></title>
-        <id>https://christianheilmann.com/?p=7388</id>
-        <link href="https://christianheilmann.com/2022/10/27/the-developer-advocacy-handbook-is-now-available-as-an-ebook-on-leanpub-and-amazon-kindle/"/>
-        <updated>2022-10-27T13:45:33.000Z</updated>
-        <summary type="html"><![CDATA[People often asked me if I can make the Developer Advocacy Handbook available as an eBook to read on their devices. When Jens Oliver Meiert also asked me I told him there were no immediate plans, so he took on that task and converted the book. You can now purchase the eBook either on Amazon […]]]></summary>
-        <author>
-            <name>Chris Heilmann</name>
         </author>
     </entry>
     <entry>
