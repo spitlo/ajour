@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2023-01-01T00:35:56.155Z</updated>
+    <updated>2023-01-02T00:32:06.233Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Summary of changes for December]]></title>
+        <id>log.html#dec2022</id>
+        <link href="https://100r.co/site/log.html#dec2022"/>
+        <updated>2023-01-01T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone! This is the list of all the changes we've done to our projects and apps during the month of December. We'll also be reporting in our on position in the world, and on our future plans.
+Summary Of Changes
+	
+	
+100r.co, added a new page: electrical refit, fuel sensor, marine wire termination, also added updates to XPS and EPS in winter insulation.
+Orca, released a new build that improves the look and feel, added app icon(Mastodon) to the about modal.
+Busy Doing Nothing, released a new version, in which we fixed extra typing errors (thanks Igor), and added explanations for certain sailing terms like reefing, etc.
+Wiktopher, corrected chapter 6 and 7.
+Beetbug, added break-point and symbols supports.
+Took a detour into computer science to learn about arity testing and stack effect checking, learn more about it here.
+TinyCode2022, spent some time doing demoscene experiments.
+News
+The rabbits are re-wiring Pino. So far this month, we spent entire afternoons removing, and passing new wires into the boat's walls and ceiling. This project has taken up most of our time this month. For updates on the project, see electrical refit. We also released an edited transcript of Devine's talk weathering software winter, for those who prefer to read.
+We forgot to mention it in the last update, but Compudanzas just released a new version of their introduction to uxn programming book! The online tutorial also had some updates.
+
+Happy new year everyone! See more photos of Pino(on the far left) and friends decorated for the occasion. 
+Pino book club
+We're reading Le Péril Bleu by Maurice Renard.
+Continue Reading]]></summary>
+        <author>
+            <name>Rekka Bellum</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My 2022 [blog]]]></title>
         <id>my-2022</id>
@@ -1606,6 +1634,34 @@ The post Celebrating Pocket’s Best of 2022 appeared first on The Mozilla Blog.
     </entry>
     <entry>
         <title type="html"><![CDATA[Summary of changes for November]]></title>
+        <id>2022.html#nov2022</id>
+        <link href="https://100r.co/site/2022.html#nov2022"/>
+        <updated>2022-11-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone! This is the list of all the changes we've done to our projects and apps during the month of November. We'll also be reporting in our on position in the world, and on our future plans.
+Summary Of Changes
+GrimGrains, added a quick grilled cheese recipe.
+Noodle, updated the guide, and added app icon(Mastodon) to the about modal.
+Nasu, added app icon(Mastodon) to the about modal.
+Store, added sheets of Ecosystem Rabbit Stickers(gen2) to the store.
+Uxntal, created a list of Uxntal examples with equivalent C sources, you can find them here.
+Wiktopher, made a progress bar (50% in the correction process) on the project page. We have finished processing chapter 5, and are currently applying corrections to chapter 6 & 7.
+Donsol, updated GBA rom with a few fixes.
+Soroban, made a little desktop graphical abacus(Mastodon).
+Uxn, ported to DuskOS(SourceHut).
+Dexe, redesigned and much faster(SourceHut).
+We put some red lights on Pino, to help combat winter gloom. We also started growing another lion's mane mushroom on board(we grew the same variety last fall), it already has a little tuft!
+Devine's talk Weathering Software Winter for Handmade Seattle was recorded, watch it here(Vimeo). The video is for the entire first day of the conference, so for your convenience Devine's talk starts at 1h25min.
+A little while ago Rostiger drew an amazing series of illustrations explaining Uxn, and how it works. Ben made a zine out of it and gave us a copy. Make your own Uxn zine using this PDF[1.38 MB].
+
+Pino book club
+We're reading Gulliver's Travels by Jonathan Swift, and How to Blow Up a Pipeline by Andreas Malm.
+Continue Reading]]></summary>
+        <author>
+            <name>Rekka Bellum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Summary of changes for November]]></title>
         <id>log.html#nov2022</id>
         <link href="https://100r.co/site/log.html#nov2022"/>
         <updated>2022-11-30T00:00:00.000Z</updated>
@@ -2523,61 +2579,6 @@ Related: true facts that sound made up, timeline twins, and the Great Span.
 time]]></summary>
         <author>
             <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Shovel Falling Sounds Exactly Like Smells Like Teen Spirit]]></title>
-        <id>https://kottke.org/15/07/this-shovel-falling-sounds-exactly-like-smells-like-teen-spirit</id>
-        <link href="https://kottke.org/15/07/this-shovel-falling-sounds-exactly-like-smells-like-teen-spirit"/>
-        <updated>2022-11-02T15:33:26.000Z</updated>
-        <summary type="html"><![CDATA[♬ With the shovel out, the ice’s less dangerous / Drop the shovel, entertain us / I feel stupid and contagious / Drop the shovel, entertain us ♬
-
-Magisterial. I love the internet. This is even better than the door that sounds like Miles Davis. (via @slowernet)
-Update: Oh, and this nightstand door sounds like Chewbacca. (via @steveportigal)
-
-
-
-
- Tags:audio    
-music    
-Nirvana    
-things that sound like other things    
-video]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to talk to kids about video games]]></title>
-        <id>https://blog.mozilla.org/?p=70420</id>
-        <link href="https://blog.mozilla.org/en/internet-culture/how-to-talk-to-kids-about-video-games/"/>
-        <updated>2022-11-02T15:03:24.000Z</updated>
-        <summary type="html"><![CDATA[Dr. Naomi Fisher is a U.K.-based clinical psychologist specializing in trauma and autism. She’s the author of “Changing Our Minds: How Children Can Take Control of Their Own Learning.” Her writing has also appeared in the British Psychological Society’s The Psychologist, among other publications. You can follow her on Twitter. Photo: Justine Diamond I spend a […]
-The post How to talk to kids about video games appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Kristina Bravo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla Ventures: Investing in Responsible Tech]]></title>
-        <id>https://blog.mozilla.org/?p=70406</id>
-        <link href="https://blog.mozilla.org/en/mozilla/mozilla-ventures-investing-in-responsible-tech/"/>
-        <updated>2022-11-02T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Early next year, we will launch Mozilla Ventures, a first of its kind impact venture fund to invest in startups that push the internet — and the tech industry — in a better direction  _____ Many people complain about today’s tech industry. Some say the internet has lost its soul. And some even say it’s […]
-The post Mozilla Ventures: Investing in Responsible Tech appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Mark Surman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla Launches First-of-its-Kind Venture Fund to Fuel Responsible Tech Companies, Products]]></title>
-        <id>https://blog.mozilla.org/?p=70418</id>
-        <link href="https://blog.mozilla.org/en/mozilla/mozilla-launches-first-of-its-kind-venture-fund-to-fuel-responsible-tech-companies-products/"/>
-        <updated>2022-11-02T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Initial $35M will foster an ecosystem of startups that push the internet — and the tech industry — in a better direction   Industry veteran Mohamed Nanabhay will head the venture  _____ November 2, 2022 (LISBON, Portugal) — Today, amid a sea of internet companies and products that routinely put profits ahead of people, Mozilla is […]
-The post Mozilla Launches First-of-its-Kind Venture Fund to Fuel Responsible Tech Companies, Products  appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Kevin Zawacki</name>
         </author>
     </entry>
     <entry>
