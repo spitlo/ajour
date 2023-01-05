@@ -244,6 +244,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2720/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/biology_vs_robotics.png\" title=\"Sorry, I've just always had these random things I don't like--like olives, or robots drilling holes in me without warning.\" alt=\"Sorry, I've just always had these random things I don't like--like olives, or robots drilling holes in me without warning.\" />",
+          "link": "https://xkcd.com/2720/",
+          "publishedOn": "2023-01-04T00:00:00.000Z",
+          "wordCount": 209,
+          "title": "Biology vs Robotics",
+          "imageUrl": "https://imgs.xkcd.com/comics/biology_vs_robotics_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2719/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/hydrogen_isotopes.png\" title=\"Oops, All Neutrons is also known as Neutral Quadrium, Nydnonen, and Goth Tritium.\" alt=\"Oops, All Neutrons is also known as Neutral Quadrium, Nydnonen, and Goth Tritium.\" />",
@@ -500,6 +510,26 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "2023-01-04-93f84aa7",
+          "author": null,
+          "description": "Arduboy walkthrough with larger screen and great looking shell.\nSource: www.hackster.io",
+          "link": "https://remysharp.com/links/2023-01-04-93f84aa7",
+          "publishedOn": "2023-01-04T16:09:43.000Z",
+          "wordCount": 485,
+          "title": "Arduboy DIY with FX [link]",
+          "imageUrl": null
+        },
+        {
+          "id": "how-to-quickly-spot-a-fake-game-boy-cartridge",
+          "author": null,
+          "description": "If you're a causal player or casual buyer of retro stuff, particular the Game Boy, it's easy to end up with a fake, or reproduction cart. This is a really short guide on what to look for if you want to be sure if it's original or not.\nThis is a non-exhaustive guide, intended for the uninitiated :)\n\nBefore we start\nIt's worth saying that in a lot of cases, if you just want to play the game, a reproduction cart might be what you're looking for. For instance, an original copy of Amazing Tater or Shantae (both great fun) might be a little beyond what's considered affordable.\nIn many cases, a cheap reproduction cart from somewhere like AliX are nearly always flashable, which means regardless of what Game Boy ROM has (possibly illegally… depending on the country) been put on the cart, you can fl…",
+          "link": "https://remysharp.com/2023/01/04/how-to-quickly-spot-a-fake-game-boy-cartridge",
+          "publishedOn": "2023-01-04T00:00:00.000Z",
+          "wordCount": 991,
+          "title": "How to quickly spot a fake Game Boy cartridge [blog]",
+          "imageUrl": "https://remysharp.com/images/cards/og/9-4.jpg"
+        },
         {
           "id": "my-2022",
           "author": null,
@@ -1012,16 +1042,6 @@
           "publishedOn": "2022-12-02T21:02:15.000Z",
           "wordCount": 1142,
           "title": "A couple of Rust error messages",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2022/11/06/making-a-dns-query-in-ruby-from-scratch/",
-          "author": null,
-          "description": "Hello! A while back I wrote a post about how to write a toy DNS resolver in Go.\nIn that post I left out “how to generate and parse DNS queries” because I\nthought it was boring, but a few people pointed out that they did not know how\nto parse and generate DNS queries and they were interested in how to do it.\nThis made me curious – how much work is it do the DNS parsing? It turns out\nwe can do it in a pretty nice 120-line Ruby program, which is not that bad.\nSo here’s a quick post on how to generate DNS queries and parse DNS responses!\nWe’re going to do it in Ruby because I’m giving a talk at a Ruby conference\nsoon, and this blog post is partly prep for that talk :). I’ve tried to keep it\nreadable for folks who don’t know Ruby though, I’ve only used pretty basic Ruby\ncode.\nAt the end we’re g…",
-          "link": "https://jvns.ca/blog/2022/11/06/making-a-dns-query-in-ruby-from-scratch/",
-          "publishedOn": "2022-11-06T08:31:53.000Z",
-          "wordCount": 2963,
-          "title": "Making a DNS query in Ruby from scratch",
           "imageUrl": null
         }
       ]
@@ -1550,6 +1570,46 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/01/out-of-sight",
+          "author": null,
+          "description": "After her guide dog runs off after a thief who takes her bag, a girl navigates a world guided by her powerful senses of touch, hearing, and smell. Super charming and inventive. From the YouTube comments:\nFor those who don’t know, blind people will clap their hands and listen for the echo to get a sense of how big a space they are in, if it’s wide open or a tightly enclosed space.\n\n\n(via peterme)\nTags: blind   video",
+          "link": "https://kottke.org/23/01/out-of-sight",
+          "publishedOn": "2023-01-04T23:46:47.000Z",
+          "wordCount": 248,
+          "title": "Out of Sight",
+          "imageUrl": "https://img.youtube.com/vi/4qCbiCxBd2M/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/01/are-golf-carts-the-future-of-urban-transportation",
+          "author": null,
+          "description": "Back in August, David Zipper wrote an interesting piece for Slate arguing that urban areas should embrace smaller personal transportation options, like the golf cart.\nLearnard said that most residents still commute by car, but that the carts have replaced automobiles for many short trips to a restaurant, school, or friend’s house. “Golf carts are a quintessential part of the quality of life here,” she said. “You put the family in a golf cart and go to the park or the splash pad. Or you go out for ice cream, or with your spouse to get a cocktail.” The golf carts have proved popular with teenagers; many use them to get to and from high school. Residents frequently personalize their vehicles with souped-up radios and jerry-rigged storage. “It turns out you can do a lot with a couple milk crat…",
+          "link": "https://kottke.org/23/01/are-golf-carts-the-future-of-urban-transportation",
+          "publishedOn": "2023-01-04T20:40:28.000Z",
+          "wordCount": 546,
+          "title": "Are Golf Carts the Future of Urban Transportation?",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/01/you-suck-at-cooking",
+          "author": null,
+          "description": "This YouTube channel has been going for seven years and 150 episodes now but I just recently ran across it via Open Culture: You Suck at Cooking. The emphasis here is on being dryly funny while cooking but the actual techniques are solid as well. If you follow their advice — well some of it anyway — you will get a tasty loaded baked potato or smashburger:\n\n\nUpdate: I no longer mix things, I wangjangle them together.\nSee also The Katering Show and Hilarious Recipe Videos in the Style of Famous Directors.\nTags: cooking   food   video",
+          "link": "https://kottke.org/23/01/you-suck-at-cooking",
+          "publishedOn": "2023-01-04T18:24:35.000Z",
+          "wordCount": 267,
+          "title": "You Suck at Cooking",
+          "imageUrl": "https://img.youtube.com/vi/nBpxVdpMBZk/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/01/winners-of-the-2022-bigpicture-natural-world-photography-competition",
+          "author": null,
+          "description": "The annual BigPicture Natural World Photography Competition put on by the California Academy of Sciences has announced the winners of the 2022 competition. As usual, I have selected a few of my favorites and included them above; photos by Karine Aigner, Jens Cullmann, Jose Grandio, Sitaram Raul, and Sergio Tapia.\nTags: best of   best of 2022   photography",
+          "link": "https://kottke.org/23/01/winners-of-the-2022-bigpicture-natural-world-photography-competition",
+          "publishedOn": "2023-01-04T16:06:13.000Z",
+          "wordCount": 238,
+          "title": "Winners of the 2022 BigPicture Natural World Photography Competition",
+          "imageUrl": "https://kottke.org/plus/misc/images/big-pic-2022-01.jpg"
+        },
         {
           "id": "https://kottke.org/23/01/some-design-notes",
           "author": null,
