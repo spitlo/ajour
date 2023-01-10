@@ -234,6 +234,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2722/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/etymonline.png\" title=\"NOTE TO FUTURE ETYMONLINGUISTS: Our best guess is that 'blimp' is onomatopoeia. The 'B-Limp' thing is a folk etymology.\" alt=\"NOTE TO FUTURE ETYMONLINGUISTS: Our best guess is that 'blimp' is onomatopoeia. The 'B-Limp' thing is a folk etymology.\" />",
+          "link": "https://xkcd.com/2722/",
+          "publishedOn": "2023-01-09T00:00:00.000Z",
+          "wordCount": 205,
+          "title": "Etymonline",
+          "imageUrl": "https://imgs.xkcd.com/comics/etymonline_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2721/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/euler_diagrams.png\" title=\"Things Leonhard Euler created ( most of math ( overlapping circle diagrams ) a cricket bowling machine ) Things John Venn created\" alt=\"Things Leonhard Euler created ( most of math ( overlapping circle diagrams ) a cricket bowling machine ) Things John Venn created\" />",
@@ -472,16 +482,6 @@
           "wordCount": 232,
           "title": "Bad Date",
           "imageUrl": "https://imgs.xkcd.com/comics/bad_date_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2697/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/y2k_and_2038.png\" title=\"It's taken me 20 years, but I've finally finished rebuilding all my software to use 33-bit signed ints.\" alt=\"It's taken me 20 years, but I've finally finished rebuilding all my software to use 33-bit signed ints.\" />",
-          "link": "https://xkcd.com/2697/",
-          "publishedOn": "2022-11-11T00:00:00.000Z",
-          "wordCount": 234,
-          "title": "Y2K and 2038",
-          "imageUrl": "https://imgs.xkcd.com/comics/y2k_and_2038_2x.png"
         }
       ]
     },
@@ -945,16 +945,6 @@
           "wordCount": 1603,
           "title": "4 ways a Firefox account comes in handy",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/11/moz_blog_distilled_header_fx-account_1920x1080-1080x720.jpg"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=70565",
-          "author": "Mozilla",
-          "description": "Parenting has never been easy. But with a generation growing up with groundbreaking technology, families are facing new challenges along with opportunities as children interact with screens everywhere they go — while learning at school, playing with friends and for on-the-go entertainment.  We are previewing a new Mozilla Firefox survey conducted in partnership with YouGov […]\nThe post Over a quarter of parents believe their children don’t know how to protect their information online – Firefox can help with that  appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/over-a-quarter-of-parents-believe-their-children-dont-know-how-to-protect-their-information-online-firefox-can-help-with-that/",
-          "publishedOn": "2022-11-10T14:00:00.000Z",
-          "wordCount": 1742,
-          "title": "Over a quarter of parents believe their children don’t know how to protect their information online – Firefox can help with that",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/11/FX_YouGov_ParentingSurvey-BlogHeader_2-1200x800.jpg"
         }
       ]
     },
@@ -1010,6 +1000,26 @@
       "feedUrl": "https://www.joshwcomeau.com/rss.xml",
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
+        {
+          "id": "https://www.joshwcomeau.com/react/data-binding/",
+          "author": "Josh W. Comeau",
+          "description": "As developers, we don't like working with forms, but they're a critical part of most web applications! In this tutorial, you'll learn exactly how to wire up all of the different form controls in React. Never forget how to data-bind a checkbox or radio button again!",
+          "link": "https://www.joshwcomeau.com/react/data-binding/",
+          "publishedOn": "2023-01-10T00:11:47.000Z",
+          "wordCount": 10598,
+          "title": "Data Binding in React",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-data-binding.jpg"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/career/clever-code-considered-harmful/",
+          "author": "Josh W. Comeau",
+          "description": "As engineers, it can be really satisfying for us to implement clever, terse solutions to problems, relying on advanced tricks and techniques. As a result, we often write code that is hostile and inaccessible to the junior folks on our team. This article makes the case that we should strive to write simple, accessible code, using the dumb old primitives that everyone knows.",
+          "link": "https://www.joshwcomeau.com/career/clever-code-considered-harmful/",
+          "publishedOn": "2023-01-09T23:59:19.000Z",
+          "wordCount": 4564,
+          "title": "Clever Code Considered Harmful",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-clever-code-considered-harmful.png"
+        },
         {
           "id": "https://www.joshwcomeau.com/react/next-level-playground/",
           "author": "Josh W. Comeau",
@@ -1468,16 +1478,6 @@
           "wordCount": 3641,
           "title": "Pluralistic: 13 Nov 2022 The Framework is the most exciting laptop I've ever broken",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=4379",
-          "author": "Cory Doctorow",
-          "description": "Today's links Apple's business model made Chinese oppression inevitable: A photon torpedo on the bridge in Act I will go off by Act III. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Apple's business model made Chinese oppression inevitable (permalink) A month ago, a wave of rare political protests swept China, centered on Beijing, where Premier Xi Jinping was consolidating his already-substantial power by claiming an unprecedented third term: https://www.cnn.com/2022/10/22/china/china-party-congress-overseas-students-protest-intl-hnk Protest organizers in China struggle with the serious legal and extrajudicial penalties for anti-government activities…",
-          "link": "https://pluralistic.net/2022/11/11/foreseeable-consequences/",
-          "publishedOn": "2022-11-11T09:04:03.000Z",
-          "wordCount": 3517,
-          "title": "Pluralistic: 11 Nov 2022 Apple's business model made Chinese oppression inevitable",
-          "imageUrl": null
         }
       ]
     },
@@ -1529,6 +1529,46 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/01/how-roman-roads-were-made",
+          "author": null,
+          "description": "At the height of the Roman empire, over 250,000 miles of roadway criss-crossed present-day Europe, western Asia, and northern Africa. These roads were built using a variety of techniques, but many of them were built as shown in these two short videos:\n\n\nFirst, a wide area would be deforested in order to clear all vegetation. Then, in the strip where the track had been projected, the topsoil would be removed until a solid base was found. Then on this base, the curbs were placed appropriate to the chosen width for the road. Large stones were placed between the curbs to serve as foundations, and on top of them, smaller stone layers all mixed up with fine aggregates to fill the gaps. Finally, the surface layer: a mixture of gravel, sand, and clay was added.\nTipper carts moved along the already compacted layers to deposit the material for the next layer. After tipping out heaps of material, it had to be spread out with planks, watered from barrels, and, finally, compacted with rollers.\n\n\nIf you’re like me and want to know just a little bit more about Roman roads in general after watching those, you can check this one out:\n\nAnd if you want to know a lot more (and can read Spanish), check out this 245-page PDF.\nSee also How Did Roman Aqueducts Work? and A Subway-Style Map of Roman Roads Circa 125 A.D. (via open culture)\nTags: Roman Empire   video",
+          "link": "https://kottke.org/23/01/how-roman-roads-were-made",
+          "publishedOn": "2023-01-09T22:26:24.000Z",
+          "wordCount": 415,
+          "title": "How Roman Roads Were Made",
+          "imageUrl": "https://img.youtube.com/vi/QMtw1I_ro84/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/01/avatar-and-the-papyrus-typeface",
+          "author": null,
+          "description": "I know I’ve posted this before, but with the new Avatar movie out in theaters, it’s a good time to revisit the SNL sketch where Ryan Gosling is driven mad by the typeface choice for the movie’s logo.\n\nI had forgotten about the title card at the end. Perfection.\nUpdate: From Jake Kring-Schreifels at The Ringer last month: The Intertwining History of the ‘Avatar’ Papyrus Font and the ‘SNL’ Sketch That Spoofed It.\nThere actually is one single person responsible for Avatar’s Papyrus-esque logo: Peter Stougaard. The former senior vice president of creative advertising for 20th Century Fox willingly takes credit for selecting and tweaking the movie’s much-maligned font, but he doesn’t mince words. “I didn’t aimlessly pick Papyrus,” he insists. “I chose it very strategically.”\n\n\nI can’t believe they got it off of the cover of Cameron’s copy of the script. (thx, matt)\nTags: Avatar   design   movies   Ryan Gosling   Saturday Night Live   TV   typography   video",
+          "link": "https://kottke.org/23/01/avatar-and-the-papyrus-typeface",
+          "publishedOn": "2023-01-09T18:43:09.000Z",
+          "wordCount": 324,
+          "title": "Avatar and the Papyrus Typeface",
+          "imageUrl": "https://img.youtube.com/vi/jVhlJNJopOQ/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/01/the-25-best-films-of-2022",
+          "author": null,
+          "description": "It’s here, it’s here! David Erhlich’s annual 25 best films of the year video for 2022 is here. Every year around this time, I get a little down about the movies. There’s nothing to seeeeee… And then I watch Erhlich’s 17-minute love letter to cinema and I want to see ever-ry-thing. The only complaint I have is that Everything Everywhere All at Once is not rated highly enough (a respectable #3 but not #1).\nErhlich has been doing these recaps since 2012 — you can find them all here or almost all of them at kottke.org with my commentary.\nTags: best of   best of 2022   David Ehrlich   lists   movies",
+          "link": "https://kottke.org/23/01/the-25-best-films-of-2022",
+          "publishedOn": "2023-01-09T15:46:05.000Z",
+          "wordCount": 282,
+          "title": "The 25 Best Films of 2022",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/01/the-white-noise-end-credits-grocery-store-dance-scene",
+          "author": null,
+          "description": "I am not entirely sure I liked Noah Baumbach’s adaptation of Don DeLillo’s White Noise (nor am I sure I disliked it), but I’m 100% positive that the grocery store dance scene that plays while the end credits roll was my favorite part of the film. The scene is set to a new LCD Soundsystem track called new body rhumba and Netflix has uploaded the whole thing to YouTube so you can enjoy it whenever you would like. Also, André 3000 with the cookie box!\nTags: dance   Don DeLillo   LCD Soundsystem   movies   music   Noah Baumbach   video   White Noise",
+          "link": "https://kottke.org/23/01/the-white-noise-end-credits-grocery-store-dance-scene",
+          "publishedOn": "2023-01-09T14:38:07.000Z",
+          "wordCount": 272,
+          "title": "The White Noise End-Credits Grocery Store Dance Scene",
+          "imageUrl": "https://img.youtube.com/vi/nJblPY5hVHI/0.jpg"
+        },
         {
           "id": "https://kottke.org/12/05/alan-rickman-drinks-tea-dramatically",
           "author": null,
