@@ -133,6 +133,16 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.stavros.io/posts/making-a-security-key-for-the-framework-laptop/",
+          "author": null,
+          "description": "I'm loving the Framework\nI was searching for a laptop to replace my 5-year-old Dell XPS, and I came across the Framework laptop.\nI had heard good things about it, and I liked the hackability, so I thought I’d give it a shot, and ordered it.\nMy first impression was extremely positive, it came with the RAM sticks in boxes, and I had to use the built-in screwdriver to open the laptop up and install the RAM.\nAll the components inside have QR codes with guides on how to install things, and opening the laptop is a matter of unscrewing five (captive, yay!) screws and popping up the magnetic keyboard, it took twenty seconds to slot the RAM sticks in and be ready to go.\nUnfortunately, I made a grave mistake",
+          "link": "https://www.stavros.io/posts/making-a-security-key-for-the-framework-laptop/",
+          "publishedOn": "2023-01-06T13:13:37.000Z",
+          "wordCount": 1650,
+          "title": "Making a security key for the Framework laptop",
+          "imageUrl": "https://www.stavros.io/static/images/favicons/og-image.jpg?h=3375145f"
+        },
+        {
           "id": "https://www.stavros.io/posts/block-non-cloudflare-ips-with-ufw/",
           "author": null,
           "description": "DDoS and DDon'ts\nNote: To skip the story and immediately go to the script that will fetch Cloudflare IPs and whitelist them using ufw, scroll down.\nAn interesting thing happened today:\nSomeone contacted one of my clients and told them that he found a catastrophic regex backtracking vulnerability in one of their apps.\nThis was interesting, because the app is a simple Next.js site that doesn’t use regex.\nAlso, as far as I could see, Next.js doesn’t have any such vulnerabilities reported against it, so we were curious to figure out what was going on.\nMy client asked him to demonstrate the vulnerability, and he did.\nSure enough, it brought the service down, but it also brought down the entire server, which was a bit odd.\n“Oh well”, I thought, “maybe it took up enough CPU to make the machine unresponsive”.\nThe reporter then asked for a fee of 6 ETH to give my client information about the vulnerability and how to fix it, and gave references from other services.\nHe even asked about possibly being hired by my client in a full-time position, to help with security.\nObserving the vulnerability first-hand\nI wanted to see the request for myself, though, so I could figure out which path it hits, reproduce it, and fix it.\nI asked my client to put the reporter in touch with “their security person” (me), so I could ask for another demonstration, this time being ready with logs to see what was going on.\nThe reporter agreed, and I logged onto the server to look around for",
@@ -837,6 +847,16 @@
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
         {
+          "id": "https://blog.mozilla.org/?p=71205",
+          "author": "Sarah Vasquez",
+          "description": "About one-third of Firefox users have installed an add-on before – whether it’s an extension to add powerful and customizable features or a visual theme to personalize the web browsing experience. But if you’re unfamiliar, add-ons are sort of like apps for your browser. They can add all kinds of features to Firefox to make […]\nThe post Here’s what’s going on in the world of extensions appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/products/firefox/extensions-addons/heres-whats-going-on-in-the-world-of-extensions/",
+          "publishedOn": "2023-01-17T14:05:34.000Z",
+          "wordCount": 1909,
+          "title": "Here’s what’s going on in the world of extensions",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/01/FX_Distilled_WorldofExtensions_blogheader_1920x1080_2-1080x720.jpg"
+        },
+        {
           "id": "https://blog.mozilla.org/?p=71185",
           "author": "Steve Teixeira",
           "description": "In early 2023, Mozilla will stand up and test a publicly accessible instance in the Fediverse at Mozilla.Social. We’re eager to join the community in growing, experimenting, and learning how we can together solve the technical, experience, and trustworthiness challenges inherent in hyper-scale social systems.  Our intention is to contribute to the healthy and sustainable […]\nThe post Mozilla to Explore Healthy Social Media Alternative appeared first on The Mozilla Blog.",
@@ -1164,6 +1184,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=4665",
+          "author": "Cory Doctorow",
+          "description": "Today's links Eleanor Janega's \"Once and Future Sex\": The true, weird, horny history of medieval gender and sex. Hey look at this: Delights to delectate. This day in history: 2013, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Eleanor Janega's \"Once and Future Sex\" (permalink) The Once and Future Sex is Eleanor Janega's new history of gender and sex in the medieval age, describing the weird and horny ways of medieval Europeans, which are far gnarlier and more complicated than the story we get from \"traditionalists\" who want us to believe that their ideas about gender roles reflect a fixed part of human nature, and that modern attitudes are an attempt to rewrite history. https://wwnorton.com/books/9780393867817 If you'd like an es…",
+          "link": "https://pluralistic.net/2023/01/17/ren-faire/",
+          "publishedOn": "2023-01-17T13:34:51.000Z",
+          "wordCount": 2384,
+          "title": "Pluralistic: Eleanor Janega's \"Once and Future Sex\" (17 Jan 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=4657",
           "author": "Cory Doctorow",
@@ -1517,6 +1547,16 @@
       "siteUrl": "http://www.nathalielawhead.com/candybox",
       "articles": [
         {
+          "id": "http://www.nathalielawhead.com/candybox/?p=5481",
+          "author": "alienmelon",
+          "description": "~ tiny literature capturing forgotten moments, queerness, silly illustrations, and random poetic thoughts ~ It has been a good while since I last shared anything to do with the Electric Zine Maker, so I thought I should highlight some of the work people have made in it recently. Making an art tool is a humbling experience. I’m constantly blown away by the beautiful work people make in it and the fact that they would choose the Electric Zine Maker to make something in the first place. Many of the zines use the tools in unique ways that surprise me. I...",
+          "link": "http://www.nathalielawhead.com/candybox/a-curation-of-beautiful-thoughtful-poetic-silly-and-queer-zines-made-with-the-electric-zine-maker",
+          "publishedOn": "2023-01-17T23:56:05.000Z",
+          "wordCount": 3109,
+          "title": "A curation of beautiful thoughtful poetic silly and queer zines made with the Electric Zine Maker",
+          "imageUrl": "http://nathalielawhead.com/noodles/EZM_zinestocheckout/cover.png"
+        },
+        {
           "id": "http://www.nathalielawhead.com/candybox/?p=5471",
           "author": "alienmelon",
           "description": "Recently I wrote about the wonderful open-source no-code world of GDevelop and featured some of the games made in it. It’s a beautiful accessible tool that’s very welcoming to newcomers. GDevelop is running it’s third gamejam, and I’m going to be participating in it too! * The GDevelop Game Jam #3 Is Here! * GDevelop Game Jam itch page I have to say again how encouraged I am that such wonderful tools and communities exist. Recent criticisms levied toward how Adobe is collecting customer’s pictures into machine training sets (see this Mastodon post ), or other discussions about how Microsoft...",
@@ -1559,6 +1599,46 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/01/how-beautiful-japanese-manhole-covers-are-made",
+          "author": null,
+          "description": "From steel scrap to testing the final product with a ton of water pressure, here’s how Japanese manhole covers are made. The video is perhaps a little long in parts, so I would not blame you for skipping ahead to ~12:10 to see how some of the covers are hand-painted in brilliant color.\nSee also Japanese Manhole Covers Are Beautiful.\nTags: art   how to   Japan   video",
+          "link": "https://kottke.org/23/01/how-beautiful-japanese-manhole-covers-are-made",
+          "publishedOn": "2023-01-17T21:17:49.000Z",
+          "wordCount": 242,
+          "title": "How Beautiful Japanese Manhole Covers Are Made",
+          "imageUrl": "https://img.youtube.com/vi/9OYPWgzDBxE/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/01/sgt-peppers-tribute-to-celebs-who-died-in-2022",
+          "author": null,
+          "description": "At the end of each year, art director Chris Barker collects celebrities who have died in the past 12 months into a Sgt. Pepper’s album cover collage — here’s 2022’s edition.\n\nThere doesn’t appear to be a complete listing of everyone pictured, but you can easily pick out Coolio, Gilbert Gottfried, Sidney Poitier, Angela Lansbury, Meatloaf, Nichelle Nichols, Pele, Mikhail Gorbachev, and Twitter.\nFueled by television, advertising, cable TV, and the internet, the post-war era saw an explosion of celebrity in America and the world. The average person today “knows of” so many more people than someone living in 1945 did, probably by a couple orders of magnitude. As Boomers and Gen X continue to age, annual displays like this of well-known people who have died will get larger and larger.\nTags: celebrity   Chris Barker   death   design   remix   The Beatles",
+          "link": "https://kottke.org/23/01/sgt-peppers-tribute-to-celebs-who-died-in-2022",
+          "publishedOn": "2023-01-17T18:42:39.000Z",
+          "wordCount": 318,
+          "title": "Sgt. Pepper’s Tribute to Celebs Who Died in 2022",
+          "imageUrl": "https://kottke.org/plus/misc/images/sgt-peppers-2022.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/01/the-mandalorian-season-three-official-trailer",
+          "author": null,
+          "description": "The length of winter near the northern 45th parallel requires events to look forward to in order to feel like you’re not forever adrift in cold and dark. Big things like vacations and reunions with friends & family as well as small things like getting outside in the afternoon, having something delicious planned for dinner, or just, like, getting to the end of the day having consumed enough water.\nOne of the things I am looking forward to in the early spring is March 1st because a) the sun will set at an almost respectable 5:38pm instead of the current 4:40pm, and b) season three of The Mandalorian starts. This is the way.\nTags: Star Wars   The Mandalorian   trailers   TV   video",
+          "link": "https://kottke.org/23/01/the-mandalorian-season-three-official-trailer",
+          "publishedOn": "2023-01-17T16:24:01.000Z",
+          "wordCount": 294,
+          "title": "The Mandalorian. Season Three. Official Trailer.",
+          "imageUrl": "https://img.youtube.com/vi/Znsa4Deavgg/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/01/drone-dives-the-full-height-of-the-burj-khalifa",
+          "author": null,
+          "description": "Based in Dubai, video artist André Larsen spends a lot of time shooting the Burj Khalifa which, at 2,722 feet and 163 floors, is the world’s tallest building. In this video, a drone piloted by Larsen dives the entire height of the building…and it’s kind of astounding just how much of it there is. Floors whiz past by the dozen and still there’s so far to go.\nTags: Andre Larsen   architecture   Burj Khalifa   drones   video",
+          "link": "https://kottke.org/23/01/drone-dives-the-full-height-of-the-burj-khalifa",
+          "publishedOn": "2023-01-17T14:43:45.000Z",
+          "wordCount": 254,
+          "title": "Drone Dives the Full Height of the Burj Khalifa",
+          "imageUrl": "https://img.youtube.com/vi/ccnWu5Ube00/0.jpg"
+        },
         {
           "id": "https://kottke.org/23/01/detailed-martian-geologic-maps-from-the-usgs",
           "author": null,
@@ -2648,16 +2728,6 @@
           "wordCount": 239,
           "title": "Inside the Making of Dr. Strangelove",
           "imageUrl": "https://img.youtube.com/vi/iJ6BiRtGTAk/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/16/04/racial-equality-and-mister-rogers-neighborhood",
-          "author": null,
-          "description": "Actor and singer François Clemmons, who played Officer Clemmons for 30 years on Mister Rogers’ Neighborhood, talks about how and why Fred Rogers chose a black man to be a police officer on TV.\nTo say that he didn’t know what he was doing, or that he accidentally stumbled into integration or talking about racism or sexism, that’s not Mister Rogers. It was well planned and well thought-out and I think it was very impactful.\n\n\t\nNPR also recently shared Clemmons’ story.\nHe says he’ll never forget the day Rogers wrapped up the program, as he always did, by hanging up his sweater and saying, “You make every day a special day just by being you, and I like you just the way you are.” This time in particular, Rogers had been looking right at Clemmons, and after they wrapped, he walked over.\nClemmons asked him, “Fred, were you talking to me?”\n“Yes, I have been talking to you for years,” Rogers said, as Clemmons recalls. “But you heard me today.”\n“It was like telling me I’m OK as a human being,” Clemmons says. “That was one of the most meaningful experiences I’d ever had.”\n\n\t\nMister Rogers always hits me right in the feels.\n\n\n\n\n Tags:Francois Clemmons    \nFred Rogers    \nracism    \nTV    \nvideo",
-          "link": "https://kottke.org/16/04/racial-equality-and-mister-rogers-neighborhood",
-          "publishedOn": "2022-11-18T17:01:38.000Z",
-          "wordCount": 383,
-          "title": "Racial Equality and Mister Rogers' Neighborhood",
-          "imageUrl": "https://img.youtube.com/vi/ObHNWh3F5fQ/0.jpg"
         }
       ]
     }
