@@ -264,6 +264,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2726/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/methodology_trial.png\" title=\"If you think THAT'S unethical, you should see the stuff we approved via our Placebo IRB.\" alt=\"If you think THAT'S unethical, you should see the stuff we approved via our Placebo IRB.\" />",
+          "link": "https://xkcd.com/2726/",
+          "publishedOn": "2023-01-18T00:00:00.000Z",
+          "wordCount": 207,
+          "title": "Methodology Trial",
+          "imageUrl": "https://imgs.xkcd.com/comics/methodology_trial_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2725/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/sunspot_cycle.png\" title=\"Who can forget the early 2010s memes? 'You know you're a 90s kid if you remember the feeling of warm sunlight on your face.' 'Only 90s kids remember the dawn.'\" alt=\"Who can forget the early 2010s memes? 'You know you're a 90s kid if you remember the feeling of warm sunlight on your face.' 'Only 90s kids remember the dawn.'\" />",
@@ -502,16 +512,6 @@
           "wordCount": 238,
           "title": "What If 2 Gift Guide",
           "imageUrl": "https://imgs.xkcd.com/comics/what_if_2_gift_guide_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2701/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/change_in_slope.png\" title=\"Squinting at a graph is fine for getting a rough idea of the answer, but if you want to pretend to know it exactly, you need statistics.\" alt=\"Squinting at a graph is fine for getting a rough idea of the answer, but if you want to pretend to know it exactly, you need statistics.\" />",
-          "link": "https://xkcd.com/2701/",
-          "publishedOn": "2022-11-21T00:00:00.000Z",
-          "wordCount": 234,
-          "title": "Change in Slope",
-          "imageUrl": "https://imgs.xkcd.com/comics/change_in_slope_2x.png"
         }
       ]
     },
@@ -857,6 +857,16 @@
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
         {
+          "id": "https://blog.mozilla.org/?p=71234",
+          "author": "Mozilla",
+          "description": "No one ever wanted to say “tech-savvy toddler” but here we are. It’s not like you just walked into the kitchen one morning and your kid was sucking on a binky and editing Wikipedia, right? Wait, really? It was pretty close to that? Well, for years there’s been an ongoing conversation on internet usage in families’ […]\nThe post Real talk: Did your 5-year-old just tease you about having too many open tabs? appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/internet-culture/parenting-online-safety-report/",
+          "publishedOn": "2023-01-19T14:00:00.000Z",
+          "wordCount": 1587,
+          "title": "Real talk: Did your 5-year-old just tease you about having too many open tabs?",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/01/Parenting-Survey-1200x800.jpg"
+        },
+        {
           "id": "https://blog.mozilla.org/?p=71205",
           "author": "Sarah Vasquez",
           "description": "About one-third of Firefox users have installed an add-on before – whether it’s an extension to add powerful and customizable features or a visual theme to personalize the web browsing experience. But if you’re unfamiliar, add-ons are sort of like apps for your browser. They can add all kinds of features to Firefox to make […]\nThe post Here’s what’s going on in the world of extensions appeared first on The Mozilla Blog.",
@@ -1129,56 +1139,6 @@
           "wordCount": 12145,
           "title": "An Interactive Guide to Flexbox",
           "imageUrl": "https://www.joshwcomeau.com/images/og-interactive-guide-to-flexbox.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/",
-          "author": "Josh W. Comeau",
-          "description": "“Should I use pixels or rems?”. In this comprehensive blog post, we'll answer this question once and for all. You'll learn about the accessibility implications, and how to determine the best unit to use in any scenario.",
-          "link": "https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/",
-          "publishedOn": "2022-11-20T23:31:57.000Z",
-          "wordCount": 10185,
-          "title": "The Surprising Truth About Pixels and Accessibility",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-surprising-truth-about-pixels-and-accessibility.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/css/css-variables-for-react-devs/",
-          "author": "Josh W. Comeau",
-          "description": "CSS Variables are *really* cool, and they're incredibly powerful when it comes to React! This tutorial shows how we can use them with React to create dynamic themes. We'll see how to get the most out of CSS-in-JS tools like styled-components, and how our mental frame around media queries has been wrong all along.",
-          "link": "https://www.joshwcomeau.com/css/css-variables-for-react-devs/",
-          "publishedOn": "2022-11-20T23:30:09.000Z",
-          "wordCount": 6924,
-          "title": "CSS Variables for React Devs",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-css-variables-for-react-devs.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/css/custom-css-reset/",
-          "author": "Josh W. Comeau",
-          "description": "I have a set of baseline CSS styles that come with me from project to project. In the past, I'd use a typical CSS reset, but times have changed, and I believe I have a better set of global styles!",
-          "link": "https://www.joshwcomeau.com/css/custom-css-reset/",
-          "publishedOn": "2022-11-20T23:28:27.000Z",
-          "wordCount": 8626,
-          "title": "My Custom CSS Reset",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-custom-css-reset.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/css/designing-shadows/",
-          "author": "Josh W. Comeau",
-          "description": "When I look around the web, most of the shadows I see are fuzzy grey boxes. It doesn't have to be this way, though! CSS gives us the tools to create rich, lush, lifelike shadows. In this tutorial, I'll show you how.",
-          "link": "https://www.joshwcomeau.com/css/designing-shadows/",
-          "publishedOn": "2022-11-20T22:28:18.000Z",
-          "wordCount": 9999,
-          "title": "Designing Beautiful Shadows in CSS",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-designing-shadows.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/animation/css-transitions/",
-          "author": "Josh W. Comeau",
-          "description": "This comprehensive guide shows how to use CSS transitions! A back-to-basics look at the fundamental building blocks we need to create microinteractions and other animations.",
-          "link": "https://www.joshwcomeau.com/animation/css-transitions/",
-          "publishedOn": "2022-11-20T22:17:43.000Z",
-          "wordCount": 9445,
-          "title": "An Interactive Guide to CSS Transitions",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-css-transitions.png"
         }
       ]
     },
@@ -1204,6 +1164,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=4675",
+          "author": "Cory Doctorow",
+          "description": "Today's links Why the Fed wants to crush workers: Fall of Rome speedrun. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Why the Fed wants to crush workers (permalink) The US Federal Reserve has two imperatives: keeping employment high and inflation low. But when these come into conflict – when unemployment falls to near-zero – the Fed forgets all about full employment and cranks up interest rates to \"cool the economy\" (that is, \"to destroy jobs and increase unemployment\"). An economy \"cools down\" when workers have less money, which means that the prices offered for goods and services go down, as fewer workers have less money to spend. As with every mac…",
+          "link": "https://pluralistic.net/2023/01/19/creditors-vs-workers/",
+          "publishedOn": "2023-01-19T17:05:12.000Z",
+          "wordCount": 3788,
+          "title": "Pluralistic: Why the Fed wants to crush workers (19 Jan 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=4670",
           "author": "Cory Doctorow",
@@ -1629,6 +1599,46 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/15/02/taylor-swifts-nine-inch-nails",
+          "author": null,
+          "description": "If you take the vocals from The Perfect Drug by Nine Inch Nails and match them to the beats from Taylor Swift’s Shake It Off, you get this little bit of magic:\n\nUpdate: I totally forgot I’d previously featured this awesomeness: NIN’s Head Like a Hole vs. Carly Rae Jepsen’s Call Me Maybe. Also of note: Mark Romanek directed the videos for Shake It Off and The Perfect Drug. (via ★interesting, @sarahmakespics, and mark)\n\n\n\n\n Tags:music    \nNine Inch Nails    \nremix    \nTaylor Swift    \nvideo",
+          "link": "https://kottke.org/15/02/taylor-swifts-nine-inch-nails",
+          "publishedOn": "2023-01-19T22:21:48.000Z",
+          "wordCount": 254,
+          "title": "Taylor Swift's Nine Inch Nails",
+          "imageUrl": "https://img.youtube.com/vi/DhvXST1Rc3g/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/01/tiny-seawater-worlds",
+          "author": null,
+          "description": "Smithsonian Magazine is featuring some incredible photos from Angel Fitor’s SeaDrops project: microphotography of tiny plankton-populated worlds contained in drops of seawater.\nIt took Fitor three years of surgically precise work to get the jewel-like images you see here. First, he would take a boat out on the Mediterranean Sea and dive in to collect water samples, usually 30 to 50 feet below the surface. He’d bring the samples straight back to his home studio in the coastal village of Alicante, south of Valencia on Spain’s eastern coast. Then he’d get straight to work: When copepods die, they quickly lose their color and look like dull brown beetles. Fitor wanted to capture the vivid blues and golds of the living organisms, and he wanted to show them in action just as he does when he photographs any other marine animal.\n\n\nYou can check out more of Fitor’s work on Instagram and his website.\nTags: Angel Fitor   photography",
+          "link": "https://kottke.org/23/01/tiny-seawater-worlds",
+          "publishedOn": "2023-01-19T19:44:59.000Z",
+          "wordCount": 327,
+          "title": "Tiny Seawater Worlds",
+          "imageUrl": "https://kottke.org/plus/misc/images/angel-fitor-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/01/mink",
+          "author": null,
+          "description": "In the course of making his Oscar-winning documentary about basketball star Lusia Harris, director Ben Proudfoot became interested in how Title IX, the federal civil rights law that prohibits sex-based discrimination in any educational program that receives federal funding, was passed. And that led him to former US Representative Patsy Mink, who was the first woman of color elected to Congress and a key advocate in the fight for Title IX.\nAs the first woman of color elected to Congress, Ms. Mink — and her path to office — was influenced by the discrimination she experienced in her personal and professional lives. Many doors were closed to her as a Japanese American woman, and she became an activist and later a politician to change the status quo.\nAs I learned more about the early history of Title IX in the 1970s, I found that lobbyists and legislators mounted a formidable campaign to dilute and erode the law. This effort would culminate in a dramatic moment on the House floor, where Ms. Mink was pulled away during a crucial vote on the future of the law.\n\n\n Tags: Ben Proudfoot   Patsy Mink   politics   sports   video",
+          "link": "https://kottke.org/23/01/mink",
+          "publishedOn": "2023-01-19T17:29:47.000Z",
+          "wordCount": 356,
+          "title": "Mink!",
+          "imageUrl": "https://img.youtube.com/vi/faL6ERtj5oM/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/01/the-embroidered-supermarket",
+          "author": null,
+          "description": "Textile artist Alicja Kozlowska’s Embroidered Ordinaries series recalls the the pop art of Warhol & Lichtenstein and Andreas Gursky’s 99 Cent II Diptychon while also being firmly contemporary. There’s maybe a Duchamp/readymade something something riff in there? I dunno, I’m not an art critic, just a fan. Anyway, I love how detailed these are — remarkably true-to-life for objects that are embroidered. (via colossal)\nTags: Alicja Kozlowska   art",
+          "link": "https://kottke.org/23/01/the-embroidered-supermarket",
+          "publishedOn": "2023-01-19T15:21:33.000Z",
+          "wordCount": 238,
+          "title": "The Embroidered Supermarket",
+          "imageUrl": "https://kottke.org/plus/misc/images/embroidered-ordinaries-01.jpg"
+        },
         {
           "id": "https://kottke.org/23/01/fun-with-magnets",
           "author": null,
