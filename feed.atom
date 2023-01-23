@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2023-01-22T00:36:47.099Z</updated>
+    <updated>2023-01-23T00:31:08.259Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
@@ -478,6 +478,16 @@ So I asked on Mastodon for
 examp…]]></summary>
         <author>
             <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Interactive Guide to Flexbox]]></title>
+        <id>https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/</id>
+        <link href="https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/"/>
+        <updated>2023-01-13T00:15:30.000Z</updated>
+        <summary type="html"><![CDATA[When we truly learn the secrets of the Flexbox layout mode, we can build absolutely incredible things. Fluid layouts that stretch and shrink without arbitrary breakpoints. In this action-packed interactive tutorial, we'll pop the hood on the Flexbox algorithm and learn how to do remarkable things with it. ✨]]></summary>
+        <author>
+            <name>Josh W. Comeau</name>
         </author>
     </entry>
     <entry>
@@ -3066,59 +3076,6 @@ Forewarning though, this is MacOS specific, but I'm sure same thinking can be ap
         <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/paper_title.png" title="CONFLICT OF INTEREST STATEMENT: The authors hope these results are correct because we all want to be cool people who are good at science." alt="CONFLICT OF INTEREST STATEMENT: The authors hope these results are correct because we all want to be cool people who are good at science." />]]></summary>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Setting up a screen reader testing environment on your computer]]></title>
-        <id>https://sarasoueidan.com/blog/testing-environment-setup/</id>
-        <link href="https://sarasoueidan.com/blog/testing-environment-setup/"/>
-        <updated>2022-11-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When you’re designing and developing for accessibility, performing manual testing using a screen reader is important to catch and fix accessibility and usability issues that cannot be caught by automated accessibility checkers. You can catch the majority of issues by performing testing using the screen readers that your users rely on the most.
-If you haven’t already, you you want to set up a screen reader testing environment on your computer, and invest a little learning time to get acquainted with the most relevant screen reader commands and shortcuts that you will need to perfom basic manual testing with a screen reader on a day-to-day basis.
-In this chapter, we will walk through setting up a screen reader testing environment on your computer. We will discuss software options you have to…]]></summary>
-        <author>
-            <name>Sara Soueidan – Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Importance of Learning CSS]]></title>
-        <id>https://www.joshwcomeau.com/css/the-importance-of-learning-css/</id>
-        <link href="https://www.joshwcomeau.com/css/the-importance-of-learning-css/"/>
-        <updated>2022-11-23T18:00:20.000Z</updated>
-        <summary type="html"><![CDATA[I know so many super-talented developers who share the same achilles heel: CSS. Instead of trying to “outrun” CSS, this article explores why leaning in and going deeper can be a tremendous boon for your development life and your career.]]></summary>
-        <author>
-            <name>Josh W. Comeau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New phone? Give yourself the gift of privacy with these 5 tips]]></title>
-        <id>https://blog.mozilla.org/?p=70711</id>
-        <link href="https://blog.mozilla.org/en/privacy-security/set-up-security-settings-new-phone/"/>
-        <updated>2022-11-23T17:19:53.000Z</updated>
-        <summary type="html"><![CDATA[So you’ve unboxed a shiny new phone, peeled the sticker off the screen and transferred your data. If you’re reading this, you’ve made the smart decision to take another important step: Setting up your device for privacy and security.  Here are five steps you can take to help keep your data safe. Your future self […]
-The post New phone? Give yourself the gift of privacy with these 5 tips appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Kristina Bravo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Refreshing Server-Side Props]]></title>
-        <id>https://www.joshwcomeau.com/nextjs/refreshing-server-side-props/</id>
-        <link href="https://www.joshwcomeau.com/nextjs/refreshing-server-side-props/"/>
-        <updated>2022-11-23T16:47:32.000Z</updated>
-        <summary type="html"><![CDATA[Next allows you to do server-side data-fetching, but what happens when that data needs to change on the client? This brief tutorial shows how to re-fetch the props without doing a full server reload.]]></summary>
-        <author>
-            <name>Josh W. Comeau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: 23 Nov 2022 Citizens United and the FTX meltdown]]></title>
-        <id>https://pluralistic.net/?p=4422</id>
-        <link href="https://pluralistic.net/2022/11/23/incentives-matter/"/>
-        <updated>2022-11-23T14:47:01.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Citizens United and the FTX meltdown: The Keating Five were amateurs. Hey look at this: Delights to delectate. This day in history: 2012, 2017, 2021. Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Citizens United and the FTX meltdown (permalink) The collapse of the FTX cryptocurrency exchange and its affiliated businesses has left a million creditors holding the bag for a chaotically managed, corrupt enterprise that created vast personal fortunes for the conspirators who ran it, even as it stole the life's savings of retail investors who bought into its lies. Could the unsuspecting public have been shielded from the FTX Ponzi scheme? Hindsight is 20/20, but there's good reason to believe that FTX could have been brought d…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
         </author>
     </entry>
     <entry>
