@@ -470,16 +470,6 @@
           "wordCount": 230,
           "title": "Faucet",
           "imageUrl": "https://imgs.xkcd.com/comics/faucet_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2703/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/paper_title.png\" title=\"CONFLICT OF INTEREST STATEMENT: The authors hope these results are correct because we all want to be cool people who are good at science.\" alt=\"CONFLICT OF INTEREST STATEMENT: The authors hope these results are correct because we all want to be cool people who are good at science.\" />",
-          "link": "https://xkcd.com/2703/",
-          "publishedOn": "2022-11-25T00:00:00.000Z",
-          "wordCount": 232,
-          "title": "Paper Title",
-          "imageUrl": "https://imgs.xkcd.com/comics/paper_title_2x.png"
         }
       ]
     },
@@ -488,6 +478,16 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "hardware-failures",
+          "author": null,
+          "description": "As I enter the year 2023, I started to collect more and more mini hardware based projects that I wanted to try out.\nSo far, it's been 100% failure, so I figured I'd make a note here - in the hope I wouldn't repeat the failings!",
+          "link": "https://remysharp.com/2023/01/23/hardware-failures",
+          "publishedOn": "2023-01-23T00:00:00.000Z",
+          "wordCount": 1352,
+          "title": "Hard(ware) failures [blog]",
+          "imageUrl": "https://remysharp.com/images/cards/og/9-5.jpg"
+        },
         {
           "id": "2023-01-04-93f84aa7",
           "author": null,
@@ -804,6 +804,16 @@
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
         {
+          "id": "https://blog.mozilla.org/?p=71274",
+          "author": "Jenifer Boscacci",
+          "description": "If you’ve already ditched your new year’s goals, we’re here to help. How about a refreshening of your online life with new habits and routines? Are there newsletters you don’t read anymore? Mobile apps you no longer use? Or social media platforms you’ve left (ahem, Twitter)? We want to help. We’ve put together a month-long […]\nThe post Start this year fresh with Mozilla’s tech challenge  appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/mozilla-tech-challenge/",
+          "publishedOn": "2023-01-23T17:09:37.000Z",
+          "wordCount": 1271,
+          "title": "Start this year fresh with Mozilla’s tech challenge",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/01/blog_Week-1_Tidy-Devices_refresh-visual-1200x800.jpg"
+        },
+        {
           "id": "https://blog.mozilla.org/?p=71234",
           "author": "Mozilla",
           "description": "No one ever wanted to say “tech-savvy toddler” but here we are. It’s not like you just walked into the kitchen one morning and your kid was sucking on a binky and editing Wikipedia, right? Wait, really? It was pretty close to that? Well, for years there’s been an ongoing conversation on internet usage in families’ […]\nThe post Real talk: Did your 5-year-old just tease you about having too many open tabs? appeared first on The Mozilla Blog.",
@@ -988,6 +998,36 @@
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
         {
+          "id": "https://www.joshwcomeau.com/react/usememo-and-usecallback/",
+          "author": "Josh W. Comeau",
+          "description": "What's the deal with these two hooks?! Lots of devs find them confusing, for a whole host of reasons. In this tutorial, we'll dig deep and understand what they do, why they're useful, and how to get the most out of them.",
+          "link": "https://www.joshwcomeau.com/react/usememo-and-usecallback/",
+          "publishedOn": "2023-01-22T23:11:31.000Z",
+          "wordCount": 10971,
+          "title": "Understanding useMemo and useCallback",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-usememo-and-usecallback.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/react/announcing-use-sound-react-hook/",
+          "author": "Josh W. Comeau",
+          "description": "By and large, using the web is a visual experience. This is in terrible contrast to mobile apps, which interact with three of our human senses (sight, sound, and touch, through haptic feedback). I just released a library to make it easy to add sound to your React app, and I make the case that you should consider using it!",
+          "link": "https://www.joshwcomeau.com/react/announcing-use-sound-react-hook/",
+          "publishedOn": "2023-01-22T23:11:31.000Z",
+          "wordCount": 4307,
+          "title": "Announcing “use-sound”, a React Hook for Sound Effects",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-announcing-use-sound-react-hook.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/react/the-perils-of-rehydration/",
+          "author": "Josh W. Comeau",
+          "description": "A surprisingly-common misconception can lead to big rendering issues that are difficult to debug. This deep-dive tutorial examines how React and Gatsby can be used to pre-render content, and how we can work around the constraints to build dynamic, personalized web apps.",
+          "link": "https://www.joshwcomeau.com/react/the-perils-of-rehydration/",
+          "publishedOn": "2023-01-22T23:11:31.000Z",
+          "wordCount": 6455,
+          "title": "The Perils of Rehydration",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-the-perils-of-rehydration.png"
+        },
+        {
           "id": "https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/",
           "author": "Josh W. Comeau",
           "description": "When we truly learn the secrets of the Flexbox layout mode, we can build absolutely incredible things. Fluid layouts that stretch and shrink without arbitrary breakpoints. In this action-packed interactive tutorial, we'll pop the hood on the Flexbox algorithm and learn how to do remarkable things with it. ✨",
@@ -1101,6 +1141,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=4695",
+          "author": "Cory Doctorow",
+          "description": "Today's links Eggflation is just more price-gouging: Cal-Maine Foods owns every egg brand you've ever heard of and its profits are up 65%. Hey look at this: Delights to delectate. This day in history: 2003, 2013, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Eggflation is just more price-gouging (permalink) The very instant that world governments rolled out relief funds so quarantine-shuttered businesses wouldn't fail and covid-furloughed workers wouldn't starve, corporate executives started rubbing their forelegs together and planning to raise prices and blame it on inflation brought on by letting The Poors have too much money. They weren't exactly subtle about it: the CEOs of America's largest companies got on their quarterly i…",
+          "link": "https://pluralistic.net/2023/01/23/cant-make-an-omelet/",
+          "publishedOn": "2023-01-23T20:49:26.000Z",
+          "wordCount": 2670,
+          "title": "Pluralistic: Eggflation is just more price-gouging (23 Jan 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=4681",
           "author": "Cory Doctorow",
@@ -1516,6 +1566,46 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/01/animals-remixed",
+          "author": null,
+          "description": "Photoshop wizard Ingo Lindmeier makes these delightful mashups of animals and objects (fruits, vegetables, technology) which you can find on his Instagram account. Some of them are a little over-the-top, but the conceptually simpler ones are great. (via moss and fog)\nTags: Ingo Lindmeier   remix",
+          "link": "https://kottke.org/23/01/animals-remixed",
+          "publishedOn": "2023-01-23T21:49:56.000Z",
+          "wordCount": 213,
+          "title": "Animals, Remixed",
+          "imageUrl": "https://kottke.org/plus/misc/images/ingo-lindmeier-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/01/why-we-all-need-subtitles-now",
+          "author": null,
+          "description": "Dialogue from movies and TV shows has become more difficult to hear in recent years, prompting many to switch on subtitles for much of what they watch. As this video from Vox details, the reasons for this shift come down to a desire for realism, choices that filmmakers have access to because of technology, and mediocre at-home sound systems on TVs, computers, and devices.\nI dislike watching movies and shows with subtitles on (unless there’s non-English dialogue) because if there are words on the screen, they capture 95% of my attention and I find it extremely difficult to pay attention to all of the other things going on — physical acting, cinematography, pacing, effects, etc. Movies and TV shows are much more than plot-delivery mechanisms and all of that other stuff is important! But with dialogue harder than ever to hear these days (and with my mild misphonia), it does mean more rewinding and not watching anything unless I’m in a quiet room or using noise-cancelling AirPods.\nSee also Why Everyone Is Watching TV with Closed Captioning On These Days, Why Gen Z Loves Closed Captioning, and It’s not you - movies are getting darker.",
+          "link": "https://kottke.org/23/01/why-we-all-need-subtitles-now",
+          "publishedOn": "2023-01-23T19:35:36.000Z",
+          "wordCount": 371,
+          "title": "Why We All Need Subtitles Now",
+          "imageUrl": "https://img.youtube.com/vi/VYJtb2YXae8/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/01/how-do-you-design-the-next-wordle",
+          "author": null,
+          "description": "David Shariatmadari, an editor at The Guardian, was asked by a colleague to “have a go” at inventing a new game, a new viral sensation like Wordle. The game he came up with is called Wordiply (it’s fun!) and he wrote up the whole process of how he went about designing it. The idea behind the game is a simple one and the way in which Shariatmadari arrives at it is a familiar trope in discovery stories:\nThat’s where my older brother, Daniel, comes in. While I’m racking my brains about how to come up with a better version of Boggle, he’s with his partner Nic in a hospital waiting for their baby to be born. On the morning she is due for an induction, they arrive bright and early at 8am. I call at about 11am to see how things are going. “What about if you had a word,” Daniel says, “of three let…",
+          "link": "https://kottke.org/23/01/how-do-you-design-the-next-wordle",
+          "publishedOn": "2023-01-23T17:24:01.000Z",
+          "wordCount": 897,
+          "title": "How Do You Design the Next Wordle?",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/01/lessons-on-how-to-draw-by-hokusai",
+          "author": null,
+          "description": "In 1812, Japanese woodblock print artist Katsushika Hokusai, who would later become famous for his iconic Great Wave off Kanagawa prints, published a three-volume series called Quick Lessons in Simplified Drawing. All three volumes are available online: one, two, three. Even if you’re not in the market for drawing lessons, the pages are wonderful to flip through.\n\n\n\n\n\n\n\n(via open culture)\nTags: art   how to   Katsushika Hokusai",
+          "link": "https://kottke.org/23/01/lessons-on-how-to-draw-by-hokusai",
+          "publishedOn": "2023-01-23T14:39:30.000Z",
+          "wordCount": 243,
+          "title": "Lessons on How to Draw by Hokusai",
+          "imageUrl": "https://kottke.org/plus/misc/images/hokusai-drawing-lessons-01.jpg"
+        },
         {
           "id": "https://kottke.org/23/01/how-to-change-your-life-one-tiny-step-at-a-time",
           "author": null,
