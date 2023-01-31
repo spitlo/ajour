@@ -104,16 +104,6 @@
           "wordCount": 477,
           "title": "Pioneers in Open Source Interview: Browsers, Bootcamps & the Business of Open Source",
           "imageUrl": null
-        },
-        {
-          "id": "https://christianheilmann.com/?p=7430",
-          "author": "Chris Heilmann",
-          "description": "Microsoft Edge has a command palette which allows you to run commands by typing. You can use this to launch Developer Tools for Node. Press `Ctrl+Q` to open the command palette Type `>`, `node` and press Enter Alternatively, you can always use the old way to access Node devtools using `edge://inspect` and clicking the link. […]",
-          "link": "https://christianheilmann.com/2022/12/01/opening-node-developer-tools-just-got-easier/",
-          "publishedOn": "2022-12-01T18:22:02.000Z",
-          "wordCount": 498,
-          "title": "Opening Node developer tools just got easier",
-          "imageUrl": null
         }
       ]
     },
@@ -201,6 +191,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2731/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/k_means_clustering.png\" title=\"According to my especially unsupervised K-means clustering algorithm, there are currently about 8 billion types of people in the world.\" alt=\"According to my especially unsupervised K-means clustering algorithm, there are currently about 8 billion types of people in the world.\" />",
+          "link": "https://xkcd.com/2731/",
+          "publishedOn": "2023-01-30T00:00:00.000Z",
+          "wordCount": 206,
+          "title": "K-Means Clustering",
+          "imageUrl": "https://imgs.xkcd.com/comics/k_means_clustering_2x.png"
+        },
         {
           "id": "https://xkcd.com/2730/",
           "author": null,
@@ -440,16 +440,6 @@
           "wordCount": 232,
           "title": "Astronomy Numbers",
           "imageUrl": "https://imgs.xkcd.com/comics/astronomy_numbers_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2706/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/bendy.png\" title=\"Squaring the circle is really easy with some good clamps.\" alt=\"Squaring the circle is really easy with some good clamps.\" />",
-          "link": "https://xkcd.com/2706/",
-          "publishedOn": "2022-12-02T00:00:00.000Z",
-          "wordCount": 230,
-          "title": "Bendy",
-          "imageUrl": "https://imgs.xkcd.com/comics/bendy_2x.png"
         }
       ]
     },
@@ -458,6 +448,16 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "on-vercel-if-some-of-my-sites-are-down",
+          "author": null,
+          "description": "It's because Vercel has blocked my account under \"fair usage\".\nI had all of 12 hours on a Sunday to prevent people from using the source of the spike - but I suspect they would have blocked my account either way because normal traffic would have tipped me over their limits.\n\nThe trouble is that they've blocked my personal account and personal accounts can't be upgraded to a paid account, you have to create a Team and then put your paid instances into the team, and of course that process is nowhere near as automated as their blocking process.\nTo be clear, a blocking process on a personal account results in landing on any of my projects returning a 422 - payment required and this:\n\nThe whole thing kind of blew up my Monday morning - particularly as I should have been more focused on getting …",
+          "link": "https://remysharp.com/2023/01/30/on-vercel-if-some-of-my-sites-are-down",
+          "publishedOn": "2023-01-30T00:00:00.000Z",
+          "wordCount": 1163,
+          "title": "On Vercel: If some of my sites are down… [blog]",
+          "imageUrl": "https://remysharp.com/images/cards/og/9-3.jpg"
+        },
         {
           "id": "hardware-failures",
           "author": null,
@@ -872,16 +872,6 @@
           "wordCount": 1710,
           "title": "How we’re making Firefox accessible and delightful for everyone",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/11/fx_accessibilityblog-1-1151x767.jpg"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=71007",
-          "author": "Steve Teixeira",
-          "description": "I’m proud to announce that we have acquired Pulse, an incredible team that has developed some truly novel machine learning approaches to help streamline the digital workplace. The products that Raj, Jag, Rolf, and team have built are a great demonstration of their creativity and skill, and we’re incredibly excited to bring their expertise into […]\nThe post Pulse Joins the Mozilla Family to Help Develop a New Approach to Machine Learning appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/pulse-joins-the-mozilla-family/",
-          "publishedOn": "2022-12-01T15:30:00.000Z",
-          "wordCount": 1514,
-          "title": "Pulse Joins the Mozilla Family to Help Develop a New Approach to Machine Learning",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/11/blog_header_mozilla-pulse_aquisition_smaller-1080x720.png"
         }
       ]
     },
@@ -1081,6 +1071,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=4724",
+          "author": "Cory Doctorow",
+          "description": "Today's links The real scandal is overclassification: I'd explain it, but I'd have to kill you. The Australian Chokepoint Capitalism Tour: Brisbane, Melbourne, Sydney and Canberra (twice!). Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The real scandal is overclassification (permalink) The fact that every president and VP has a garage or filing cabinet or shoebox full of classified documents isn't (merely) evidence of political impunity – it's also the latest absurd turn in the long-running true scandal: the American epidemic of overclassification and excessive secrecy. Thousands of American bureaucrats have unilaterally classified tens of milli…",
+          "link": "https://pluralistic.net/2023/01/30/i-come-to-a-land-downunder/",
+          "publishedOn": "2023-01-30T15:03:46.000Z",
+          "wordCount": 3188,
+          "title": "Pluralistic: The real scandal is overclassification; The Australian Chokepoint Capitalism Tour (30 Jan 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=4716",
           "author": "Cory Doctorow",
@@ -1435,16 +1435,6 @@
           "wordCount": 3548,
           "title": "Pluralistic: How tech changed global labor struggles for better and worse (02 Dec 2022)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=4454",
-          "author": "Cory Doctorow",
-          "description": "Today's links All the books I reviewed in 2022: A year in books. Hey look at this: Delights to delectate. This day in history: 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading All the books I reviewed in 2022 (permalink) Every year around this time, I round up all the books I reviewed in the previous 12 months; both as a convenience for readers and to remind myself that I don't need to feel quite so horribly guilty about all the books I didn't review (to those authors: rest assured, I still feel horribly guilty). I should probably mention here that I had a book of my own come out in 2022: Chokepoint Capitalism (co-authored with Rebecca Giblin) A solutions-oriented look at how concentration in the tech and culture i…",
-          "link": "https://pluralistic.net/2022/12/01/bookishness/",
-          "publishedOn": "2022-12-01T16:14:59.000Z",
-          "wordCount": 4898,
-          "title": "Pluralistic: All the books I reviewed in 2022 (01 Dec 2022)",
-          "imageUrl": null
         }
       ]
     },
@@ -1496,6 +1486,46 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/01/the-philosopher-who-was-too-popular",
+          "author": null,
+          "description": "In the early twentieth century, Henri Bergson had a problem. His philosophy lectures were too popular:\nOn average, 700 people would attempt to squeeze into a room designed for 375. It was suggested that his classes be moved to the Grand Amphithéâtre of the Sorbonne or even to the Palais Garnier. Abroad too, Bergson drew huge crowds. The talks he delivered in London in 1911 filled venues to their ‘utmost capacity’, and he was greeted to the sound of ‘loud cheers’. Two years later, a visit to New York caused the first ever traffic jam on Broadway.\nBergsonmania had another problem, too: many of its most devout adherents were women. \nIn France, Bergson’s female followers were given derogatory nicknames such as caillettes, which designated a type of pâté, a kind of small bird, and in this conte…",
+          "link": "https://kottke.org/23/01/the-philosopher-who-was-too-popular",
+          "publishedOn": "2023-01-30T21:00:00.000Z",
+          "wordCount": 753,
+          "title": "The Philosopher Who Was Too Popular",
+          "imageUrl": "https://kottke.org/plus/misc/images/Henri%20Bergson%20Classmates.jpeg"
+        },
+        {
+          "id": "https://kottke.org/23/01/walking-the-basketball-dog",
+          "author": null,
+          "description": "If you’ve watched a high-level basketball game in the last ten or so years (NBA, WNBA, NCAA), you’ve probably seen something a little strange. Instead of throwing the ball inbounds directly to a teammate, the inbounder will slowly roll the ball on the floor in their general direction… and then the ball handler will wait as long as possible before he picks it up and starts dribbling. Sometimes it’s just a few seconds, and sometimes it feels like an eternity. What is this, and why do they do it?\nIt’s called “walking the dog,” and it exploits a rule that’s as old as the shot clock itself. The shot clock (24 seconds long in the NBA) begins counting down as soon as a team takes possession of the ball after an inbounds pass. If you don’t shoot and make contact with the rim within 24 seconds, the…",
+          "link": "https://kottke.org/23/01/walking-the-basketball-dog",
+          "publishedOn": "2023-01-30T20:15:00.000Z",
+          "wordCount": 1132,
+          "title": "Walking the Basketball Dog",
+          "imageUrl": "https://kottke.org/plus/misc/images/Ja-Morant-Walking-the-Dog-3.jpeg"
+        },
+        {
+          "id": "https://kottke.org/23/01/cistercian-numerals",
+          "author": null,
+          "description": "Cistercian numerals were invented by the Cistercian order of monks in the 13th century. Giuseppe Frisella explains how the notation system works:\nA vertical straight line acts as an axis dividing the plane into four quadrants, each one representing one of the four digits: the upper right quadrant for the units, the upper left quadrant for the tens, the lower right quadrant for the hundreds, and the lower left quadrant for the thousands.\n\n\nWhat this does well, indeed better than the roman or Arabic numeral systems it’s related to, is to represent both small and large numbers (1 up to 9999) in a single glyph. What it doesn’t do well, compared to roman or Arabic systems, is allow you to reduce operations on large numbers to operations on smaller ones. There’s no long division, in other words — and even addition and multiplication aren’t very straightforward. \nSo you might think about this as a kind of mathematical compression system, optimizing for storage rather than operations. If you just need to record a number — say, a four-digit year — you can do it quickly and in a minimum amount of space in the Cistercian system. If you need to do bookkeeping, then the Arabic numerals are probably what you want. \nBut if you’ve read this far, you’re probably thinking what I usually think anytime I encounter something a little strange in the world of mathematical notation — what about aliens?  One can imagine an alien species that can easily do simple arithmetic operations on what they would call small numbers  (less than 10,000) in their heads (or has offloaded such tasks to machine), and which would correspondingly value the storage and computational efficiency of a system of numbers like this. Maybe Cistercian numerals, rather than the clumsy digits of our intellectual infancy, will be the best way to make ourselves understood when first contact begins.\n(Via Clive Thompson)\nTags: aliens   arithmetic   mathematics   monks",
+          "link": "https://kottke.org/23/01/cistercian-numerals",
+          "publishedOn": "2023-01-30T19:00:16.000Z",
+          "wordCount": 489,
+          "title": "Cistercian Numerals",
+          "imageUrl": "https://kottke.org/plus/misc/images/Cistercian%20numbers.jpeg"
+        },
+        {
+          "id": "https://kottke.org/23/01/a-table-read-for-the-muppet-show",
+          "author": null,
+          "description": "In film and television, a table read is an early part of the rehearsal process where, as the name suggests, all the performers read their scripts together around a table, out of costume. \nBut what do you do when the performers are also operating puppets? The rehearsal process becomes more iterative; the table read is a kind of sketchboard, and the performance moves quickly from spoken dialogue to early filming in full costume. These two videos (less than six minutes long in total) follow the rehearsals of The Muppet Show (1976-1981) from a table read to filming. \nOne thing that might surprise you (I admit it surprised me) is how much the puppeteers use floor monitors to guide their performances. As Jim Henson says in the second of these two videos, “when we’re working, our entire reality is on the screen. You are performing, and at the same time, you’re seeing your performance the same as the audience does.” On the one hand, this makes perfect sense: on the other, it’s just another point of focus, another degree of difficulty in making an entire performance come together. \n  @muppetmarissa they really put so much into the muppet show #themuppets #themuppetshow #muppets #muppet #muppettok #muppetcore #muppeteer #muppeteers #ReadySetLift #behindthescenes \n  \n\n \n @muppetmarissa they really put so much into the muppet show #themuppets #themuppetshow #muppets #muppet #muppettok #muppetcore #muppeteer #muppeteers #ReadySetLift #behindthescenes \n  \n\n(Thanks to Ethan Marcotte)\nTags: Jim Henson   muppets   TV",
+          "link": "https://kottke.org/23/01/a-table-read-for-the-muppet-show",
+          "publishedOn": "2023-01-30T18:10:58.000Z",
+          "wordCount": 413,
+          "title": "A Table Read for The Muppet Show",
+          "imageUrl": "https://kottke.org/plus/misc/images/the-muppet-show.png"
+        },
         {
           "id": "https://kottke.org/23/01/geometric-primes",
           "author": null,
@@ -2785,56 +2815,6 @@
           "wordCount": 256,
           "title": "Animation of the Lifecycle of the SARS-CoV-2 Virus",
           "imageUrl": "https://img.youtube.com/vi/tDsHUHrEuRM/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/22/12/chinas-van-goghs",
-          "author": null,
-          "description": "I did not mean to watch an entire 75-minute documentary in the middle of my workday, but this sucked me right in and it might do the same to you. Zhao Xiaoyong is one of thousands of painters in Dafen, China who hand-paint replicas of famous paintings by the likes of Matisse, Degas, Renoir, Leonardo, and Kahlo. But a favorite artist amongst many of them, including Zhao, is Vincent van Gogh.\nZhao says, “I’ve been painting his paintings for nearly 20 years. I want to see the originals.” He works from photos of paintings and believes his work will be better if he can see them in person. And so, he and a few others make the trip to Europe — to visit a buyer of their paintings in the Netherlands, to see the originals of their replicas in the Van Gogh Museum, and to visit some of the places he l…",
-          "link": "https://kottke.org/22/12/chinas-van-goghs",
-          "publishedOn": "2022-12-01T21:48:01.000Z",
-          "wordCount": 544,
-          "title": "China’s Van Goghs",
-          "imageUrl": "https://img.youtube.com/vi/_yxyUi4_Wzo/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/22/12/always-interesting-52-things-i-learned-in-2022",
-          "author": null,
-          "description": "Something I look forward to at the end of each year is Tom Whitwell’s list of 52 things I learned in 20221 because I know I’m about to read about a bunch of interesting things. As always, here are a few of my favorite items from the list:\n6. Heavenbanning is a hypothetical way to moderate social networks. Instead of being thrown off the platform, bad actors have all their followers replaced with sycophantic AI models that constantly agree and praise them. Real humans never interact with them. [Asara Near]\n13. Older travellers use airport toilets to hear flight announcements, because acoustics are much clearer. [Christopher DeWolf via Ben Terrett]\n22. Applicants are 1.5% more likely to be granted asylum by a US judge the day after their city’s NFL team won. [Daniel L. Chen]\n32. Before the industrial revolution, silver didn’t need to be polished, because there was less sulfur in the atmosphere (unless you lived near a volcano). [Michael Briggs]\n52. During a French Navy exercise, a frigate was (virtually) destroyed despite radio silence. The (virtual) enemy was able to roughly locate the ship via an (real) active Snapchat account from one of the sailors. [Arthur Laudrain]\nI did my own list of these last year and have been keeping sporadic track of interesting morsels I’ve come across this year, so hopefully I can pull a post together in the next few weeks. (thx, john)\n\nOk, I do not specifically look forward to 2022’s specific list each year, but you know, unless you want to take the awkwardly long way ‘round, sometimes English makes you take the L. AKA, you know what I mean.↩\n\nTags: lists   Tom Whitwell",
-          "link": "https://kottke.org/22/12/always-interesting-52-things-i-learned-in-2022",
-          "publishedOn": "2022-12-01T19:23:22.000Z",
-          "wordCount": 459,
-          "title": "Always Interesting: “52 Things I Learned in 2022”",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/quick-links",
-          "author": null,
-          "description": "Advice from Ted Gioia on effective public speaking. \"By the way, the three best kinds of speakers to study are comedians, preachers, and TV wrestlers. Politicians are surprisingly bad at this kind of stuff.\" [tedgioia.substack.com]\nA Yahoo-style directory of blogs for your reading pleasure. I love that @kottke is in the \"Uncategorizable\" category – will wear that like a badge of honor. [ooh.directory]\nStuck in 10th, NASCAR driver Ross Chastain floored it and rode the wall on the final turn to finish in 5th place and qualify for the championship, \"a simultaneously brilliant, dubious, and controversial moment in sports history.\" [medium.com]\nThat 90's Show. Those crazy bastards really went and did it. [youtube.com]\n---\nNote: Quick Links are pushed to this RSS feed twice a day. For more immediate service, check out the front page of kottke.org, the Quick Links archive, or the @kottke Twitter feed.",
-          "link": "https://kottke.org/quick-links",
-          "publishedOn": "2022-12-01T17:52:02.000Z",
-          "wordCount": 1737,
-          "title": "Four Quick Links for Thursday Noonish",
-          "imageUrl": "https://kottke.org/images/2016/ios/180x180.png"
-        },
-        {
-          "id": "https://kottke.org/22/12/the-case-of-the-missing-scorsese-film",
-          "author": null,
-          "description": "In 1973, Martin Scorsese made a film called Goncharov starring Robert De Niro, Harvey Keitel, Gene Hackman, Al Pacino, and Cybill Shepherd. But no one has actually seen it. Because it doesn’t actually exist…a bunch of scamps on Tumblr made it up.\nSo a few years ago, a Tumblr user posted a photo of some “knockoff boots” they had ordered online that had a very strange tag on the tongue: “The greatest mafia movie ever made. Martin Scorsese presents GONCHAROV. Domenico Proccacci production. A film by Matteo JWHJ0715. About the Naples Mafia.”\nThis mostly went ignored until 2020, when another Tumblr user reblogged a comment made on the original post, reading: “this idiot hasn’t seen goncharov.” Like the good lord himself and the Guardian’s coffee machine, the internet works in mysterious ways; earlier this month, Tumblr user beelzeebub made a fake poster for the film, tens of thousands of people were suddenly sharing it and lo: a new Scorsese film was born.\n\n\nYou can find the poster here. In a text to his daughter Francesca, Scorsese acknowledged, “Yes. I made that film years ago.” The way movies and memes work these days, it’s a solid chance this gets made in the next two years, as a “remake” with Scorsese executive producing.\nTags: Martin Scorsese   movies   remix",
-          "link": "https://kottke.org/22/12/the-case-of-the-missing-scorsese-film",
-          "publishedOn": "2022-12-01T17:27:19.000Z",
-          "wordCount": 392,
-          "title": "The Case of the Missing Scorsese Film",
-          "imageUrl": "https://kottke.org/plus/misc/images/goncharov.jpg"
-        },
-        {
-          "id": "https://kottke.org/22/12/jodorowskys-tron",
-          "author": null,
-          "description": "Cult avant-garde filmmaker Alejandro Jodorowsky famously did not make his ambitious adaptation of Dune but what if he had brought his unique brand of surrealist psychedelia to the screen with a version of Tron in the 70s? Using the AI platform Midjourney, Johnny Darrell imagined what Jodorowsky’s Tron might have looked like. I love these — I would like to see this movie please.\nSee also Jodorowsky’s Frasier.\nTags: Alejandro Jodorowsky   artificial intelligence   design   movies   remix   Tron",
-          "link": "https://kottke.org/22/12/jodorowskys-tron",
-          "publishedOn": "2022-12-01T15:17:51.000Z",
-          "wordCount": 240,
-          "title": "Jodorowsky’s Tron",
-          "imageUrl": "https://kottke.org/plus/misc/images/jodorowsky-tron-01.jpg"
         }
       ]
     }
