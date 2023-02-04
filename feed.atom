@@ -2,10 +2,88 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2023-02-03T00:35:30.521Z</updated>
+    <updated>2023-02-04T00:31:31.650Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Fairy Tales Break All The Rules]]></title>
+        <id>https://kottke.org/23/02/how-fairy-tales-break-all-the-rules</id>
+        <link href="https://kottke.org/23/02/how-fairy-tales-break-all-the-rules"/>
+        <updated>2023-02-03T20:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Fairy tales are fun to read not least because they violate every rule of what makes “good” literary fiction:
+Instead of “show don’t tell,” fairy tales prioritize telling over showing. Instead of demanding “round characters,” fairy tales embrace flat ones. Instead of logical “worldbuilding,” fairy tales operate with a surreal dream logic in abstract settings. Instead of starting “in media res,” they start “once upon a time.” Instead of “telling the story only you can tell,” fairy tales ask you to retell stories that have been told for centuries. So on and so forth.
+In The Writer’s Notebook, Kate Bernheimer identifies four key structural qualities of fairytale storytelling:
+Flatness—specifically flatness of character. Fairy tales don’t delve into the psychology or interiority of characters, …]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Another Rosetta Stone]]></title>
+        <id>https://kottke.org/23/02/another-rosetta-stone</id>
+        <link href="https://kottke.org/23/02/another-rosetta-stone"/>
+        <updated>2023-02-03T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Two ancient clay tablets discovered in Iraq in the 1980s and possibly smuggled illegally to the United States during the Iran-Iraq War (!) bear cuneiform-like writing. But while one of the scripts is in Akkadian, a kind of Babylonian lingua franca that is well-known to scholars of ancient writing, the other is in Amorite, a “lost” Semitic/Canaanite language that is not well-attested elsewhere. Put the two together, and you have another Rosetta Stone for deciphering an ancient script scholars otherwise couldn’t read.
+The account of the Amorite language given in the tablets is surprisingly comprehensive. “The two tablets increase our knowledge of Amorite substantially, since they contain not only new words but also complete sentences, and so exhibit much new vocabulary and grammar,” the researchers said. The writing on the tablets may have been done by an Akkadian-speaking Babylonian scribe or scribal apprentice, as an “impromptu exercise born of intellectual curiosity,” the authors added.
+Yoram Cohen, a professor of Assyriology at Tel Aviv University in Israel who wasn’t involved in the research, told Live Science that the tablets seem to be a sort of “tourist guidebook” for ancient Akkadian speakers who needed to learn Amorite.
+One notable passage is a list of Amorite gods that compares them with corresponding Mesopotamian gods, and another passage details welcoming phrases. 
+“There are phrases about setting up a common meal, about doing a sacrifice, about blessing a king,” Cohen said. “There is even what may be a love song. … It really encompasses the entire sphere of life.”
+
+
+Amorite is a western Semitic language, like ancient Hebrew, but these tablets, estimated to be 4000 years old, are at least 1000 years older than any extant Hebrew writing. (The Amorites were one of the frequent enemies of the ancient Hebrews.)
+Tags: ancient civilization   language   writing]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Layoffs on TikTok]]></title>
+        <id>https://kottke.org/23/02/layoffs-on-tiktok</id>
+        <link href="https://kottke.org/23/02/layoffs-on-tiktok"/>
+        <updated>2023-02-03T19:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Just about everything on the web is on TikTok, and going viral there too, so it shouldn’t be a surprise that people who’ve been laid off are there too, trying to figure out what it all means. 
+Part of me is cynical about this. You mean that as people, we’re so poorly defined without our jobs that our only resource is to grind out some content about it? But on the other side of the coin, making content is what human beings do. Other animals use tools, but do they make content? Apart from some birds, probably not.
+My favorite TikTok layoff video is by Atif Memon, a cloud engineer who offers a clear-eyed appraisal of her situation:
+  @atif_kaloodi So true !! #cloudengineer #sysadmin #layoffs #microsoftlayoffs #googlelayoffs original sound - Atif Memon 
+  
+
+“At the company offsite, we celebrated our company tripling its revenue in a year. A month later, we are so poor! Who robbed us?”
+“Even if ChatGPT can take away our jobs, they’ll have to get in line behind geopolitics and pandemic and shareholders and investors. I lost my job because the investors of the company were not sure will become 400x in the coming year. ‘How will we go to Mars?’ Someone else lost their job because the investors thought ‘Hmm, if this other company can lay off 12k people and still work as usual, shouldn’t we also try?”
+“Artificial intelligence can never overtake human paranoia and human curiosity. AI can only do what human beings have been doing. Only humans can do what no human has done before.”
+A lot to chew on in four minutes.
+Update: Apparently this is not native to TikTok, but was posted to YouTube by a comedian, Aiyyo Shraddha. It really is a perfect TikTok story! The video is a ripoff.
+Tags: artificial intelligence   Google   jobs   Microsoft]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Another Castle Built On Shit]]></title>
+        <id>https://kottke.org/23/02/another-castle-built-on-shit</id>
+        <link href="https://kottke.org/23/02/another-castle-built-on-shit"/>
+        <updated>2023-02-03T15:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitter has announced that it will end free access to its API, likely bringing to an end most of the sites’ popular bot accounts (including @kottke, which powers this site’s QuickLinks feature). At BuzzFeed, Katie Notopoulos and Pranav Dixit interviewed some of the bots’ creators. 
+Daniel, the 23-year-old student in Germany behind @MakeItAQuote, told BuzzFeed News he would have never started it if there were a fee attached. “It’s a step in the wrong direction, as most of the API usage brings a lot of value to the platform,” he said. “And the fact that even myself, operating one of the biggest bots on the platform, has to consider shutting it down is very concerning. There are a lot of awesome, less popular bots. I don’t think any of them can be sustainable.”
+I think @oliviataters creator Rob Dubbin may have said it best:
+“Vichy Twitter had already stopped being a cool place to put bots or art in general, but the fact that until today you could still run your bots if you wanted to was a tether to a better time in its history, when it was more of a social canvas for goofy experimentation and feedback,” Dubbin told BuzzFeed News. “Is charging for API access a good business idea? Who cares! It’s another castle built on shit.”
+You can follow the @kottke bot anywhere on the Fediverse. RSS remains free.
+Tags: API   bots   kottke.org   Twitter]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kafka’s Diaries / The Writer’s Desk as Theater]]></title>
+        <id>https://kottke.org/23/02/kafkas-diaries-the-writers-desk-as-theater</id>
+        <link href="https://kottke.org/23/02/kafkas-diaries-the-writers-desk-as-theater"/>
+        <updated>2023-02-03T14:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Franz Kafka’s Diaries, a combination of a private journal and a sketchbook for stories and essays, have been available in English since 1948, but in a much altered form, prepared by Kafka’s friend and literary executor Max Brod (who famously ignored his friend’s instructions to burn whatever remained). Brod tidied up the diaries for publication, removing multiple aborted drafts and excising anything that he thought might be embarrassing.
+A new German edition published in 1990 restored some of the chaos to Kafka’s diaries, but it’s only in this year that the unexpurgated diaries have been translated into English, by Ross Benjamin. The overall impression is of a Kafka who is less censored, more frank, more Jewish, and funnier, but also remorseless in his self-upbraiding to write more, to wri…]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The True Origins of Lorem Ipsum]]></title>
         <id>https://kottke.org/23/02/the-true-origins-of-lorem-ipsum</id>
@@ -3451,53 +3529,6 @@ Super Rider (another trials rider) also did a behind-the-scenes video with MacAs
 Tags: cycling   Danny MacAskill   San Francisco   sports   video]]></summary>
         <author>
             <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The NOW Clock]]></title>
-        <id>https://kottke.org/22/12/the-now-clock</id>
-        <link href="https://kottke.org/22/12/the-now-clock"/>
-        <updated>2022-12-05T21:19:26.000Z</updated>
-        <summary type="html"><![CDATA[Based on an illustration she did for a tech blog in 2014, Hallie Bateman is selling the NOW clock, a timepiece that reminds you whatever time it happens to be, it’s also always the present moment.
-Tags: Hallie Bateman   time]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love a Good Train Station Mosaic]]></title>
-        <id>https://kottke.org/22/12/love-a-good-train-station-mosaic</id>
-        <link href="https://kottke.org/22/12/love-a-good-train-station-mosaic"/>
-        <updated>2022-12-05T18:49:08.000Z</updated>
-        <summary type="html"><![CDATA[Dang, look at these new mosaics by Kiki Smith and Yayoi Kusama for Grand Central Madison, the MTA’s newest LIRR station.
-
-
-
-As a former (and future?) New Yorker, I know a lot of the city’s dwellers appreciate the MTA’s commitment to public art and to mosaics in particular. Like the Dude’s rug, it really ties the city together.
-Tags: architecture   art   Kiki Smith   NYC   Yayoi Kusama]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20 Iconic Photos of the Climate Crisis]]></title>
-        <id>https://kottke.org/22/12/20-iconic-photos-of-the-climate-crisis</id>
-        <link href="https://kottke.org/22/12/20-iconic-photos-of-the-climate-crisis"/>
-        <updated>2022-12-05T16:26:48.000Z</updated>
-        <summary type="html"><![CDATA[Gabrielle Schwarz at The Guardian has gathered 20 of the most iconic and meaningful photographs of the effects of the climate crisis. Metaphors abound. I think often of Kristi McCluer’s photograph of the golfers casually playing a round in proximity to 2017 Eagle Creek fire in the Pacific Northwest. As David Simon said at the time, “In the pantheon of visual metaphors for America today, this is the money shot.” (Iceberg photo by Magnus Kristensen and sled dog photo by Steffen Olsen.)
-Tags: climate crisis   photography]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: Monopoly's event-horizon (05 Dec 2022)]]></title>
-        <id>https://pluralistic.net/?p=4488</id>
-        <link href="https://pluralistic.net/2022/12/05/eldritch-physics/"/>
-        <updated>2022-12-05T14:19:09.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Monopoly's event-horizon: The true capitalist singularity. Hey look at this: Delights to delectate. This day in history: 2012 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Monopoly's event-horizon (permalink) When a superdense, concentrated mass forms a black hole, the laws of physics around it change, giving rise to an eldritch zone where the normal rules don't apply. When corporations form a concentrated industry, the laws of economics likewise change. Take copyright: when I was a baby writer, there were dozens of comparably sized New York publishers. The writers who mentored me could shop their rights around to lots of houses, which enabled them to subdivide those rights. For example, they could separately sell paperb…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
         </author>
     </entry>
     <entry>
