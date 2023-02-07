@@ -6,6 +6,26 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=7534",
+          "author": "Chris Heilmann",
+          "description": "Copying and pasting from Console is annoying but there is a better way. The Console variable $_ contains the last result. You can use this with the copy() command to copy the data to the clipboard without having to highlight it.",
+          "link": "https://christianheilmann.com/2023/02/06/an-easy-way-to-copy-paste-from-the-browser-console-shorts/",
+          "publishedOn": "2023-02-06T14:31:15.000Z",
+          "wordCount": 462,
+          "title": "An easy way to copy + paste from the browser Console #shorts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://christianheilmann.com/?p=7525",
+          "author": "Chris Heilmann",
+          "description": "Today I learned that MacOS can remove backgrounds from images, much like remove.bg does. All you need to do is right-click an image and select Quick Actions > Remove Background. For example, it turned this image into this one:",
+          "link": "https://christianheilmann.com/2023/02/06/macos-can-remove-image-backgrounds-shorts/",
+          "publishedOn": "2023-02-06T12:55:32.000Z",
+          "wordCount": 448,
+          "title": "MacOS can remove image backgrounds #shorts",
+          "imageUrl": null
+        },
+        {
           "id": "https://christianheilmann.com/?p=7520",
           "author": "Chris Heilmann",
           "description": "One of the things I always loved about the web is its immediacy. You write a piece of code, publish it somewhere and people can access it. No compilation step, no packaging and distribution, no listing on marketplaces or app stores – just a push of the button. This gives people a wrong impression that […]",
@@ -104,16 +124,6 @@
           "wordCount": 909,
           "title": "Code brushes for GitHub Copilot",
           "imageUrl": null
-        },
-        {
-          "id": "https://christianheilmann.com/?p=7436",
-          "author": "Chris Heilmann",
-          "description": "I was interviewed by Jay from Moduscreate to talk about my past, how I got into the market, what open source and browser compatibility means for me and many other bits. Amazing to see that we chatted for 1.5 hours and I hope some of it may be inspiring to you. Watch on YouTube",
-          "link": "https://christianheilmann.com/2022/12/09/pioneers-in-open-source-interview-browsers-bootcamps-the-business-of-open-source/",
-          "publishedOn": "2022-12-09T12:19:41.000Z",
-          "wordCount": 477,
-          "title": "Pioneers in Open Source Interview: Browsers, Bootcamps & the Business of Open Source",
-          "imageUrl": null
         }
       ]
     },
@@ -211,6 +221,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2734/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/electron_color.png\" title=\"There's quark color, but that's not really color--it's just an admission by 20th century physicists that numbers are boring.\" alt=\"There's quark color, but that's not really color--it's just an admission by 20th century physicists that numbers are boring.\" />",
+          "link": "https://xkcd.com/2734/",
+          "publishedOn": "2023-02-06T00:00:00.000Z",
+          "wordCount": 206,
+          "title": "Electron Color",
+          "imageUrl": "https://imgs.xkcd.com/comics/electron_color_2x.png"
+        },
         {
           "id": "https://xkcd.com/2733/",
           "author": null,
@@ -450,16 +470,6 @@
           "wordCount": 207,
           "title": "Hydropower Breakthrough",
           "imageUrl": "https://imgs.xkcd.com/comics/hydropower_breakthrough_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2709/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/solar_system_model.png\" title=\"The Earth is, on average, located in the habitable zone, but at any given time it has a certain probability of being outside it, which is why life exists on Earth but is mortal.\" alt=\"The Earth is, on average, located in the habitable zone, but at any given time it has a certain probability of being outside it, which is why life exists on Earth but is mortal.\" />",
-          "link": "https://xkcd.com/2709/",
-          "publishedOn": "2022-12-09T00:00:00.000Z",
-          "wordCount": 209,
-          "title": "Solar System Model",
-          "imageUrl": "https://imgs.xkcd.com/comics/solar_system_model_2x.png"
         }
       ]
     },
@@ -902,16 +912,6 @@
           "wordCount": 1800,
           "title": "Our Year in Review: How Firefox works for you",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/12/Firefox2022Upgrades_blogheader-1080x720.jpg"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=70773",
-          "author": "Kristina Bravo",
-          "description": "I joined the Firefox privacy and security team in 2016. For years, the privacy engineers here at Mozilla have known that online trackers use every identifier they can get to track and re-identify people all over the internet. Over the last six years, I’ve been able to contribute to Private Browsing, Tracking Protection, Containers, Monitor, […]\nThe post Over a decade of anti-tracking work at Mozilla appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/privacy-security/mozilla-anti-tracking-milestones-timeline/",
-          "publishedOn": "2022-12-08T18:12:11.000Z",
-          "wordCount": 1953,
-          "title": "Over a decade of anti-tracking work at Mozilla",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/12/intro-image-1080x720.jpg"
         }
       ]
     },
@@ -1046,16 +1046,6 @@
           "wordCount": 10045,
           "title": "Color Formats in CSS",
           "imageUrl": "https://www.joshwcomeau.com/images/og-color-formats.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/react/why-react-re-renders/",
-          "author": "Josh W. Comeau",
-          "description": "In React, we don't update the DOM directly, we tell React what we want the DOM to look like, and React tackles the rest. But how exactly does it do this? In this tutorial, we'll unpack exactly when and why React re-renders, and how we can use this information to optimize the performance of our React apps.",
-          "link": "https://www.joshwcomeau.com/react/why-react-re-renders/",
-          "publishedOn": "2022-12-08T16:23:32.000Z",
-          "wordCount": 8092,
-          "title": "Why React Re-Renders",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-why-react-re-renders.png"
         }
       ]
     },
@@ -1063,24 +1053,23 @@
       "title": "A List Apart: The Full Feed",
       "feedUrl": "https://alistapart.com/main/feed/",
       "siteUrl": "https://alistapart.com",
-      "articles": [
-        {
-          "id": "https://alistapart.com/article/personalization-pyramid/",
-          "author": "by ,",
-          "description": "As a UX professional in today’s data-driven landscape, it’s increasingly likely that you’ve been asked to design a personalized digital experience, whether it’s a public website, user portal, or native application. Yet while there continues to be no shortage of marketing hype around personalization platforms, we still have very few standardized approaches for implementing personalized UX.\nThat’s where we come in. After completing dozens of personalization projects over the past few years, we gave ourselves a goal: could you create a holistic personalization framework specifically for UX practitioners? The Personalization Pyramid is a designer-centric model for standing up human-centered personalization programs, spanning data, segmentation, content delivery, and overall goals. By using thi…",
-          "link": "https://alistapart.com/article/personalization-pyramid/",
-          "publishedOn": "2022-12-08T15:00:00.000Z",
-          "wordCount": 3877,
-          "title": "Personalization Pyramid: A Framework for Designing with User Data",
-          "imageUrl": "https://149572954.v2.pressablecdn.com/wp-content/uploads/2022/12/image7.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Pluralistic: Daily links from Cory Doctorow",
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=4782",
+          "author": "Cory Doctorow",
+          "description": "Today's links Bruce Schneier's \"A Hacker's Mind\": Thinking about tactics AND power. This day in history: 2003, 2008, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Bruce Schneier's \"A Hacker's Mind\" (permalink) A Hacker's Mind is security expert Bruce Schneier's latest book, released today. For long-time readers of Schneier, the subject matter will be familiar, but this iteration of Schneier's core security literacy curriculum has an important new gloss: power. https://wwnorton.com/books/9780393866667 If you'd like an essay-formatted version of this post to read or share, here's a link to it on pluralistic.net, my surveillance-free, ad-free, tracker-free blog: https://pluralistic.net/2023/02/07/trickster-makes-the-world/#pow…",
+          "link": "https://pluralistic.net/2023/02/06/trickster-makes-the-world/",
+          "publishedOn": "2023-02-06T08:01:02.000Z",
+          "wordCount": 2769,
+          "title": "Pluralistic: Bruce Schneier's \"A Hacker's Mind\" (06 Feb 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=4778",
           "author": "Cory Doctorow",
@@ -1486,6 +1475,46 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/02/james-webb-telescopes-incredibly-deep-view-of-the-universe",
+          "author": null,
+          "description": "The European Space Agency has released a gobsmacking deep field image of thousands of galaxies taken by the James Webb Space Telescope.\nA crowded field of galaxies throngs this Picture of the Month from the NASA/ESA/CSA James Webb Space Telescope, along with bright stars crowned with Webb’s signature six-pointed diffraction spikes. The large spiral galaxy at the base of this image is accompanied by a profusion of smaller, more distant galaxies which range from fully-fledged spirals to mere bright smudges. Named LEDA 2046648, it is situated a little over a billion light-years from Earth, in the constellation Hercules.\n\n\nI know we’ve seen deep field images from the Hubble, but I don’t know how you can tire of looking at actual images created by human technology that shows thousands of galaxies, billions of years, trillions of stars, quadrillions of planets, untold numbers of potential intelligences & civilizations, and who really knows what else. It boggles the mind, every time.\nYou can download/view a massive high-res copy of this image right here.\nTags: astronomy   ESA   James Webb Space Telescope   photography   space",
+          "link": "https://kottke.org/23/02/james-webb-telescopes-incredibly-deep-view-of-the-universe",
+          "publishedOn": "2023-02-06T20:58:38.000Z",
+          "wordCount": 358,
+          "title": "James Webb Telescope’s Incredibly Deep View of the Universe",
+          "imageUrl": "https://kottke.org/plus/misc/images/james-webb-deep-field-0123.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/02/h5n1-bird-flu-an-even-deadlier-pandemic-could-soon-be-here",
+          "author": null,
+          "description": "Zeynep Tufekci on the H5N1 strain of the avian influenza, which is showing some recent signs of spreading in mammals.\nBird flu — known more formally as avian influenza — has long hovered on the horizons of scientists’ fears. This pathogen, especially the H5N1 strain, hasn’t often infected humans, but when it has, 56 percent of those known to have contracted it have died. Its inability to spread easily, if at all, from one person to another has kept it from causing a pandemic.\nBut things are changing. The virus, which has long caused outbreaks among poultry, is infecting more and more migratory birds, allowing it to spread more widely, even to various mammals, raising the risk that a new variant could spread to and among people.\nAlarmingly, it was recently reported that a mutant H5N1 strain was not only infecting minks at a fur farm in Spain but also most likely spreading among them, unprecedented among mammals. Even worse, the mink’s upper respiratory tract is exceptionally well suited to act as a conduit to humans, Thomas Peacock, a virologist who has studied avian influenza, told me.\n\n\nThe three relevant facts here are: 56% of humans who’ve contracted H5N1 have died, there are signs of spreading among mammals, and that particular mammal is “exceptionally well suited” to pass viral infections along to humans. Tufekci, who attempted to sound the alarm relatively early-on about Covid-19, goes on to urge the world to action about H5N1, before it’s too late. Will we act? (No. The answer is no.)\n*sigh*\nYou know, it’s a little shocking to read about a potential solution to the Fermi paradox on a random February Monday, but here we are.\nTags: H5N1   medicine   science   Zeynep Tufekci",
+          "link": "https://kottke.org/23/02/h5n1-bird-flu-an-even-deadlier-pandemic-could-soon-be-here",
+          "publishedOn": "2023-02-06T16:51:28.000Z",
+          "wordCount": 472,
+          "title": "H5N1 Bird Flu: “An Even Deadlier Pandemic Could Soon Be Here”",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/02/2001-a-space-odyssey-directed-by-george-lucas",
+          "author": null,
+          "description": "From YouTuber poakwoods, a pair of criss-cross mashups of Star Wars and 2001: A Space Odyssey, but with their directors switched. When George Lucas takes the helm of 2001, you get a more crowd-pleasing and freewheeling movie while Stanley Kubrick’s Star Wars becomes more balletic and contemplative. Both are pitch-perfect.\nSee also Wes Anderson’s Star Wars. (via daringfireball)\nTags: 2001   George Lucas   movies   remix   Stanley Kubrick   Star Wars",
+          "link": "https://kottke.org/23/02/2001-a-space-odyssey-directed-by-george-lucas",
+          "publishedOn": "2023-02-06T14:53:25.000Z",
+          "wordCount": 244,
+          "title": "“2001: A Space Odyssey” Directed by George Lucas",
+          "imageUrl": "https://img.youtube.com/vi/v_suy7gARps/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/02/hbos-gritty-prestige-tv-adaptation-of-mario-kart",
+          "author": null,
+          "description": "If you’ve ever wondered what HBO and the producers of The Last of Us might do with some slightly different source material, Pedro Pascal and the cast of Saturday Night Live took a crack at a gritty adaptation of Mario Kart. I mean, I would 100% watch this.\nTags: HBO   Mario Kart   Nintendo   Pedro Pascal   remix   The Last of Us   TV   video",
+          "link": "https://kottke.org/23/02/hbos-gritty-prestige-tv-adaptation-of-mario-kart",
+          "publishedOn": "2023-02-06T04:13:53.000Z",
+          "wordCount": 236,
+          "title": "HBO’s Gritty Prestige TV Adaptation of Mario Kart",
+          "imageUrl": "https://img.youtube.com/vi/UiIRlg4Xr5w/0.jpg"
+        },
         {
           "id": "https://kottke.org/23/02/how-fairy-tales-break-all-the-rules",
           "author": null,
@@ -2925,46 +2954,6 @@
           "wordCount": 235,
           "title": "The New York City Sub-Culinary Map",
           "imageUrl": "https://kottke.org/plus/misc/images/nyc-subway-food-map-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/16/10/meet-the-perennials",
-          "author": null,
-          "description": "Gina Pell on the Perennials, the growing group of people who aren’t bound by age in the way most people in society used to be.\nWe are ever-blooming, relevant people of all ages who live in the present time, know what’s happening in the world, stay current with technology, and have friends of all ages. We get involved, stay curious, mentor others, are passionate, compassionate, creative, confident, collaborative, global-minded, risk takers who continue to push up against our growing edge and know how to hustle. We comprise an inclusive, enduring mindset, not a divisive demographic.\n\n\t\nThis is an idea that’s been gathering steam for some time. In 2006, Adam Sternbergh wrote Up With Grups for New York Magazine.\nLet’s start with a question. A few questions, actually: When did it become normal …",
-          "link": "https://kottke.org/16/10/meet-the-perennials",
-          "publishedOn": "2022-12-08T23:02:25.000Z",
-          "wordCount": 887,
-          "title": "Meet the Perennials",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/22/12/a-short-history-of-the-banjo-and-early-black-folk-music",
-          "author": null,
-          "description": "In this video from Vox (produced by none other than Estelle Caswell, who does the excellent Earworm series), scholar and musician Jake Blount runs us through a quick history of early Black folk music, using the banjo as a rough through-line. If you’d like to read more about Black stringband music, Blount has compiled some recommended resources.\nTags: Jake Blount   music   video",
-          "link": "https://kottke.org/22/12/a-short-history-of-the-banjo-and-early-black-folk-music",
-          "publishedOn": "2022-12-08T20:19:18.000Z",
-          "wordCount": 246,
-          "title": "A Short History of the Banjo and Early Black Folk Music",
-          "imageUrl": "https://img.youtube.com/vi/wrRfOzhM2AE/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/22/12/flamingos-from-above",
-          "author": null,
-          "description": "The flamingo’s vibrant color makes it a particularly striking bird to take photographs of, especially from the air — the pink really pops against the dark background of the water. Photographer Raj Mohan showcases this in his beautiful photos of flamingos at Pulicat Lake in India.\nThe annual flamingo festival is held in the month of January, and it is said that about 18 to 20 flamingo groups are distributed across the lake with each group having 700 to 800 birds. This pink flock congregation makes lake Pulicat a pink heaven.\n\n\nYou might remember that flamingos get their pink color from eating halophile dunaliella salina algae and shrimp that feel on algae. (via colossal)\nTags: birds   photography   Raj Mohan",
-          "link": "https://kottke.org/22/12/flamingos-from-above",
-          "publishedOn": "2022-12-08T17:58:06.000Z",
-          "wordCount": 287,
-          "title": "Flamingos From Above",
-          "imageUrl": "https://kottke.org/plus/misc/images/raj-mohan-flamingos-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/22/12/the-top-gun-mach-10-scene-is-like-a-perfect-pop-song",
-          "author": null,
-          "description": "As I said in my recent media diet post, I really enjoyed Top Gun: Maverick. It’s a movie that’s made to be seen on a big screen with a loud sound system — I ended up seeing it in the theater twice. The movie just felt…good. Like a really well-crafted pop tune. In this video, Evan Puschak takes a look at the first scene in the film where (spoilers!) test pilot Maverick needs to achieve Mach 10 in an experimental plane and compares it to the structure of a pop song. His comparison really resonated with me because I listen to music and watch movies (particularly action movies) in a similar way: how movies and music feel and how they make me feel is often more important than plot or dialogue or lyrics.\nTags: Evan Puschak   film school   movies   music   Top Gun   video",
-          "link": "https://kottke.org/22/12/the-top-gun-mach-10-scene-is-like-a-perfect-pop-song",
-          "publishedOn": "2022-12-08T14:26:36.000Z",
-          "wordCount": 326,
-          "title": "The Top Gun “Mach 10” Scene Is Like a Perfect Pop Song",
-          "imageUrl": "https://img.youtube.com/vi/MN-1jdFSDs8/0.jpg"
         }
       ]
     }
