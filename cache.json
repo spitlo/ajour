@@ -804,6 +804,16 @@
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
         {
+          "id": "https://blog.mozilla.org/?p=71386",
+          "author": "Jenifer Boscacci",
+          "description": "What’s in a name? A lot. It’s the first piece of information that identifies a person — from their first name given at birth to their last name which connects them to their family lineage. Even a fictional name like Clark Kent says a lot. Not surprisingly a lot of people use the name of […]\nThe post Your child’s name makes a horrible password appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/privacy-security/privacy-security-tips/your-childs-name-makes-a-horrible-password/",
+          "publishedOn": "2023-02-07T11:00:00.000Z",
+          "wordCount": 2250,
+          "title": "Your child’s name makes a horrible password",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/02/Baby-Name_Passwords_Popular_1920x1080-1081x720.png"
+        },
+        {
           "id": "https://blog.mozilla.org/?p=70776",
           "author": "Kristina Bravo",
           "description": "Carlos Moreno is an activist, a graphic designer at CAP Tulsa and leads Tulsa’s Code for America volunteer brigade. He has a master’s degree in public policy and is the author of ”The Victory of Greenwood” and \"A Kids Book about the Tulsa Race Massacre.\" You can follow him on Twitter. Photo: Jamie Glisson As […]\nThe post How to talk to kids about the news appeared first on The Mozilla Blog.",
@@ -968,6 +978,16 @@
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
         {
+          "id": "https://www.joshwcomeau.com/react/why-react-re-renders/",
+          "author": "Josh W. Comeau",
+          "description": "In React, we don't update the DOM directly, we tell React what we want the DOM to look like, and React tackles the rest. But how exactly does it do this? In this tutorial, we'll unpack exactly when and why React re-renders, and how we can use this information to optimize the performance of our React apps.",
+          "link": "https://www.joshwcomeau.com/react/why-react-re-renders/",
+          "publishedOn": "2023-01-31T21:31:41.000Z",
+          "wordCount": 8132,
+          "title": "Why React Re-Renders",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-why-react-re-renders.png"
+        },
+        {
           "id": "https://www.joshwcomeau.com/react/usememo-and-usecallback/",
           "author": "Josh W. Comeau",
           "description": "What's the deal with these two hooks?! Lots of devs find them confusing, for a whole host of reasons. In this tutorial, we'll dig deep and understand what they do, why they're useful, and how to get the most out of them.",
@@ -1060,6 +1080,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=4786",
+          "author": "Cory Doctorow",
+          "description": "Today's links The Collective Intelligence Institute: Asking more than 'what technology does' and demanding to know who it does it FOR and who it does it TO. Hey look at this: Delights to delectate. This day in history: 2003, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The Collective Intelligence Institute (permalink) History is written by the winners, which is why Luddite is a slur meaning \"technophobe\" and not a badge of honor meaning, \"Person who goes beyond asking what technology does, to asking who it does it for and who it does it to.\" https://locusmag.com/2022/01/cory-doctorow-science-fiction-is-a-luddite-literature/ If you'd like an essay-formatted version of this post to read or share, here's a link to it on pluralistic…",
+          "link": "https://pluralistic.net/2023/02/07/full-stack-luddites/",
+          "publishedOn": "2023-02-07T22:00:42.000Z",
+          "wordCount": 2900,
+          "title": "Pluralistic: The Collective Intelligence Institute (07 Feb 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=4782",
           "author": "Cory Doctorow",
@@ -1475,6 +1505,36 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/02/cameron-tests-titanic-door-theory",
+          "author": null,
+          "description": "James Cameron is not one for half-measures. When making Titanic, he used every image and description of the ship he could lay his hands on to build accurate sets & models and financed 12 dives to the ship’s actual wreckage on the bottom of the ocean floor to gather footage to use in the film. For the mega-blockbuster’s 25th anniversary, Cameron has returned his attention to Titanic, to scientifically test the fan theory that there was enough room on the door for Jack at the end of Titanic (see the video above).\nIn order to reexamine Jack’s final moments, Cameron enlisted help from a team of scientists and two stunt people to test four different scenarios to examine whether two people could have shared the door.\n“Jack and Rose are able to get on the raft, but now they’re both submerged in dangerous levels of freezing water,” Cameron explains as the stunt people prove it.\nMeanwhile in another example, Cameron details, “Out of the water, violent shaking was helping him and projecting it out, he could’ve made it pretty long, like hours.”\n\n\nIf you can stand the forced-cheer morning show banter, there’s a bit more footage of Cameron and the testing from Good Morning America:\n\nCameron’s ultimate conclusion: “Jack might’ve lived, but there’s a lot of variables.”\nTags: James Cameron   movies   Titanic   video",
+          "link": "https://kottke.org/23/02/cameron-tests-titanic-door-theory",
+          "publishedOn": "2023-02-08T00:09:36.000Z",
+          "wordCount": 419,
+          "title": "James Cameron Scientifically Tests if Jack Could Have Fit on the Door at the End of Titanic",
+          "imageUrl": "https://img.youtube.com/vi/YEJph0aIP-U/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/02/kottke-hypertext-tshirt",
+          "author": null,
+          "description": "For much of the nearly 25-year lifespan of kottke.org, the site’s tagline has been “home of fine hypertext products”. I always liked that it felt olde timey and futuristic at the same time, although hypertext itself has become antiquated — no one talks of hypertextual media anymore even though we’re all soaking in it.\nAnd so but anyway, I thought it would fun to turn that tagline into a t-shirt, so I partnered with the good folks at Cotton Bureau to make a fine “hypertext” product that you can actually buy and wear around and eventually it’ll wear out and then you can use it to wash your car. If you want to support the site and look good doing it, you can order a Kottke.org Hypertext Tee right now.\n\nThe shirts are short-sleeved and available in men’s, women’s, and youth sizes in three colors (black, white, and heather black) and sizes from S to 3XL, which I hope will work for almost everyone. The text is Gotham Light (from Hoefler&Co., designed by Tobias Frere-Jones) and takes the colors of the current kottke.org header background, which I brightened up to look better on the shirt. Prices are $33 for adult sizes and $29 for kids, plus shipping.\nI have several Cotton Bureau shirts in my closet and the samples I ordered of the hypertext shirt look great. If you want my advice, it looks slightly better in solid black, but you can’t go wrong with any of the colors and nothing is stopping you from ordering one of each color.\nThe Kottke.org Hypertext Tee will only be available to order for the next two weeks — after that: poof, gone. So order yours today!\nTags: fashion   kottke.org",
+          "link": "https://kottke.org/23/02/kottke-hypertext-tshirt",
+          "publishedOn": "2023-02-07T18:23:52.000Z",
+          "wordCount": 465,
+          "title": "The Kottke.org T-shirt, a Fine Hypertext Product",
+          "imageUrl": "https://kottke.org/plus/misc/images/kottke-hypertext-tees.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/02/the-snowy-day-stamps",
+          "author": null,
+          "description": "I’d missed that the USPS released a set of stamps commemorating Ezra Jack Keats’ The Snowy Day back in 2017. From the Smithsonian National Postal Museum:\nIt was the first full-color picture book to have an African American protagonist. Keats received the 1963 Caldecott Medal for his illustrations.\n\n\nThis book was solidly in the regular reading rotation when my kids were little and I remember it fondly from my childhood as well.\nTags: books   Ezra Jack Keats   stamps   The Snowy Day   USPS",
+          "link": "https://kottke.org/23/02/the-snowy-day-stamps",
+          "publishedOn": "2023-02-07T14:54:33.000Z",
+          "wordCount": 251,
+          "title": "The Snowy Day Stamps",
+          "imageUrl": "https://kottke.org/plus/misc/images/snowy-day-stamps.jpg"
+        },
         {
           "id": "https://kottke.org/23/02/james-webb-telescopes-incredibly-deep-view-of-the-universe",
           "author": null,
@@ -2924,36 +2984,6 @@
           "wordCount": 236,
           "title": "Genetic Portraits: Split Multi-Generational Portraits of Family Members",
           "imageUrl": "https://kottke.org/plus/misc/images/genetic-portraits-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/22/12/the-best-books-of-2022",
-          "author": null,
-          "description": "Oh man, I read so many books during my time away from the site this summer — but barely made a dent in the towering pile of books I desired to read.1 Even so, I am excited to dig into the various end-of-year book lists to see what everyone else has been reading — and what I might add to my own pile for 2023.\nAs I’ve done for several years now, I went through many of these best-of lists and compiled a list of reads that appeared often or just looked interesting. And since I’m not doing a gift guide this year (sorry!), I will just note that great books make great holiday gifts. So here they are: (some of) the best books of the year.\n\nTomorrow, and Tomorrow, and Tomorrow (ebook) by Gabrielle Zevin.\nSpanning thirty years, from Cambridge, Massachusetts, to Venice Beach, California, and lands in…",
-          "link": "https://kottke.org/22/12/the-best-books-of-2022",
-          "publishedOn": "2022-12-09T19:42:34.000Z",
-          "wordCount": 2364,
-          "title": "The Best Books of 2022",
-          "imageUrl": "https://kottke.org/plus/misc/images/best-books-2022-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/16/02/the-coen-brothers-shot-reverse-shot",
-          "author": null,
-          "description": "In this installment of Every Frame a Painting, Tony Zhou and Taylor Ramos examine how the Coen brothers shoot characters in their films close up with wide lenses to created empathy and comedy.\n\n\n\n\n Tags:Coen brothers    \nfilm school    \nmovies    \nTony Zhou    \nvideo",
-          "link": "https://kottke.org/16/02/the-coen-brothers-shot-reverse-shot",
-          "publishedOn": "2022-12-09T17:57:10.000Z",
-          "wordCount": 214,
-          "title": "The Coen Brothers: Shot, Reverse Shot",
-          "imageUrl": "https://img.youtube.com/vi/5UE3jz_O_EM/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/22/12/the-new-york-city-sub-culinary-map",
-          "author": null,
-          "description": "In the early 2000s, Rick Meyerowitz and Maira Kalman made a version of the NYC subway map where names of all the stations and landmarks were replaced with food. Here’s a detailed view of lower Manhattan and part of Brooklyn:\n\nSee also Simon Patterson’s The Great Bear and the City of Women NYC subway map.\nTags: food   Maira Kalman   maps   NYC   remix   Rick Meyerowitz",
-          "link": "https://kottke.org/22/12/the-new-york-city-sub-culinary-map",
-          "publishedOn": "2022-12-09T15:44:16.000Z",
-          "wordCount": 235,
-          "title": "The New York City Sub-Culinary Map",
-          "imageUrl": "https://kottke.org/plus/misc/images/nyc-subway-food-map-01.jpg"
         }
       ]
     }
