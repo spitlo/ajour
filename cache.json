@@ -222,6 +222,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2735/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/coordinate_plane_closure.png\" title=\"3D graphs that don't contact the plane in the closure area may proceed as scheduled, but be alert for possible collisions with 2D graph lines that reach the hole and unexpectedly enter 3D space.\" alt=\"3D graphs that don't contact the plane in the closure area may proceed as scheduled, but be alert for possible collisions with 2D graph lines that reach the hole and unexpectedly enter 3D space.\" />",
+          "link": "https://xkcd.com/2735/",
+          "publishedOn": "2023-02-08T00:00:00.000Z",
+          "wordCount": 208,
+          "title": "Coordinate Plane Closure",
+          "imageUrl": "https://imgs.xkcd.com/comics/coordinate_plane_closure_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2734/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/electron_color.png\" title=\"There's quark color, but that's not really color--it's just an admission by 20th century physicists that numbers are boring.\" alt=\"There's quark color, but that's not really color--it's just an admission by 20th century physicists that numbers are boring.\" />",
@@ -804,6 +814,16 @@
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
         {
+          "id": "https://blog.mozilla.org/?p=71448",
+          "author": "Mozilla",
+          "description": "Mozilla, Open Web Docs and partner organizations met in London in January to create a joint roadmap for MDN, improve planning and collaboration, and cement a shared vision for the project’s future. A project with the size and complexity of MDN – a collaborative undertaking to document web platform technologies – requires great effort to […]\nThe post A shared and open roadmap for MDN appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/mdn-web-documentation-collaboration/",
+          "publishedOn": "2023-02-08T14:00:00.000Z",
+          "wordCount": 2121,
+          "title": "A shared and open roadmap for MDN",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/03/moz_blog_header_pattern_1920x1080_03-1080x720.jpg"
+        },
+        {
           "id": "https://blog.mozilla.org/?p=71386",
           "author": "Jenifer Boscacci",
           "description": "What’s in a name? A lot. It’s the first piece of information that identifies a person — from their first name given at birth to their last name which connects them to their family lineage. Even a fictional name like Clark Kent says a lot. Not surprisingly a lot of people use the name of […]\nThe post Your child’s name makes a horrible password appeared first on The Mozilla Blog.",
@@ -930,6 +950,16 @@
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
+        {
+          "id": "https://jvns.ca/blog/2023/02/08/why-does-0-1-plus-0-2-equal-0-30000000000000004/",
+          "author": null,
+          "description": "span {\n   padding: 0 !important;\n   }\n \n    \n\nHello! I was trying to write about floating point yesterday,\nand I found myself wondering about this calculation, with 64-bit floats:\n>>> 0.1 + 0.2\n0.30000000000000004\n\nI realized that I didn’t understand exactly how it worked. I mean, I know\nfloating point calculations are inexact, and I know that you can’t exactly\nrepresent 0.1 in binary, but: there’s a floating point number that’s closer to\n0.3 than 0.30000000000000004! So why do we get the answer\n0.30000000000000004?\nIf you don’t feel like reading this whole post with a bunch of calculations, the short answer is that\n0.1000000000000000055511151231257827021181583404541015625 + 0.200000000000000011102230246251565404236316680908203125 lies exactly between\n2 floating point numbers,\n0.2999999999…",
+          "link": "https://jvns.ca/blog/2023/02/08/why-does-0-1-plus-0-2-equal-0-30000000000000004/",
+          "publishedOn": "2023-02-08T08:29:51.000Z",
+          "wordCount": 1921,
+          "title": "Why does 0.1 + 0.2 = 0.30000000000000004?",
+          "imageUrl": null
+        },
         {
           "id": "https://jvns.ca/blog/2023/01/18/examples-of-problems-with-integers/",
           "author": null,
@@ -1444,16 +1474,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=4520",
-          "author": "Cory Doctorow",
-          "description": "Today's links Freedom of reach IS freedom of speech: The end-to-end principle is good, actually. Hey look at this: Delights to delectate. This day in history: 2002, 2007, 2012, 2017, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Freedom of reach IS freedom of speech (permalink) The online debate over free speech suuuuucks, and, amazingly, it's getting worse. This week, it's the false dichotomy between \"freedom of speech\" and \"freedom of reach,\" that is, the debate over whether a platform should override your explicit choices about what you want to see: https://seekingalpha.com/news/3849331-musk-meets-twitter-staff-freedom-of-reach-new-ideas-on-human-verification It's wild that we're still having this fight. It is literally the fi…",
-          "link": "https://pluralistic.net/2022/12/10/e2e/",
-          "publishedOn": "2022-12-10T15:35:20.000Z",
-          "wordCount": 4188,
-          "title": "Pluralistic: Freedom of reach IS freedom of speech (10 Dec 2022)",
-          "imageUrl": null
         }
       ]
     },
@@ -1462,6 +1482,16 @@
       "feedUrl": "http://www.nathalielawhead.com/candybox/feed",
       "siteUrl": "http://www.nathalielawhead.com/candybox",
       "articles": [
+        {
+          "id": "http://www.nathalielawhead.com/candybox/?p=5501",
+          "author": "alienmelon",
+          "description": "There is no greater joy as a game developer (and general fan of video games) to just browse random game jam submissions and get lost in a sea of work. There is so much stuff being released every day, you could isolate all releases for just one month and it would probably take a lifetime to play through everything. From all that, only a small sliver is ever really seen. I don’t think that’s bad. I think that abundance is brave. “Amateur” work is and always was at the heart of video games. I say this because browsing random jam...",
+          "link": "http://www.nathalielawhead.com/candybox/celebrating-some-beautiful-jam-games",
+          "publishedOn": "2023-02-08T01:46:57.000Z",
+          "wordCount": 3285,
+          "title": "Celebrating some beautiful jam games",
+          "imageUrl": "http://nathalielawhead.com/noodles/gdevelopjam3/sepawrated1.gif"
+        },
         {
           "id": "http://www.nathalielawhead.com/candybox/?p=5481",
           "author": "alienmelon",
@@ -1505,6 +1535,36 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/02/hatching-a-teeny-tiny-zebra-finch",
+          "author": null,
+          "description": "Leave it to The Kid Should See This for finding this gem of a video, featuring the hatching and early life of a tiny zebra finch.\nThis is the smallest bird I’ve ever hatched. After a little Finch had lost her partner, I was asked if she could stay in my big Aviary. When I returned home after picking her up, on the way back she had laid an egg in the little transport box! Birds only do this when they have an egg that needs to be laid. I knew there was only a small chance she would accept and hatch this egg in an actual nest herself, but I wanted to try before I set plan B in motion…\n\n\nThe mother bird didn’t accept the egg, it was moved to an incubator, and after a couple of weeks the tiniest bird you’ve ever seen hatches. The birth and first feeding were absolutely riveting — I was on the edge of my chair! What weird little alien creatures baby birds are. (via the kid should see this)\nTags: birds   video",
+          "link": "https://kottke.org/23/02/hatching-a-teeny-tiny-zebra-finch",
+          "publishedOn": "2023-02-08T19:19:38.000Z",
+          "wordCount": 357,
+          "title": "Hatching a Teeny Tiny Zebra Finch",
+          "imageUrl": "https://img.youtube.com/vi/wfvvSrGbAuE/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/02/where-the-elements-came-from",
+          "author": null,
+          "description": "From Wikipedia contributor Cmglee and Astronomy Picture of the Day, a color-coded periodic table that displays which cosmic events — the Big Bang, exploding stars, merging neutron stars, etc. — was responsible for creating each element, according to our present understanding of the universe.\nThe hydrogen in your body, present in every molecule of water, came from the Big Bang. There are no other appreciable sources of hydrogen in the universe. The carbon in your body was made by nuclear fusion in the interior of stars, as was the oxygen. Much of the iron in your body was made during supernovas of stars that occurred long ago and far away. The gold in your jewelry was likely made from neutron stars during collisions that may have been visible as short-duration gamma-ray bursts or gravitational wave events.\n\n\nThe data for the table came from OSU’s Jennifer Johnson, who quotes Carl Sagan:\nThe nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. We are made of starstuff.\n\n\n(thx, caroline)\nTags: astronomy   Carl Sagan   infoviz   Jennifer Johnson   periodic table   physics   science",
+          "link": "https://kottke.org/23/02/where-the-elements-came-from",
+          "publishedOn": "2023-02-08T16:07:27.000Z",
+          "wordCount": 366,
+          "title": "Where the Elements Came From",
+          "imageUrl": "https://kottke.org/plus/misc/images/periodic-table-creation.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/02/lebron-james-breaks-kareems-all-time-nba-scoring-record",
+          "author": null,
+          "description": "Last night, in the third quarter of an eventual loss to the Oklahoma City Thunder (a team name that didn’t even exist when James made his NBA debut), LA Lakers forward LeBron James broke the once-untouchable all-time NBA scoring record, formerly 38,387 points and held by the great Kareem Abdul-Jabbar. Afterward, James had this to say about the moment:\nEverything just stopped. It gave me an opportunity to embrace it and look around and seeing my family, the fans, my friends. It was pretty cool. I probably can count on my hands how many times I have cried in 20 years, either in happiness or in defeat. So that moment was one of them when I kind of teared up a little bit. It was ‘I can’t believe what’s going on’ tears.\n\n\nThe Athletic liveblogged the occasion as it happened and detailed how Jam…",
+          "link": "https://kottke.org/23/02/lebron-james-breaks-kareems-all-time-nba-scoring-record",
+          "publishedOn": "2023-02-08T13:13:47.000Z",
+          "wordCount": 974,
+          "title": "LeBron James Breaks Kareem’s All-Time NBA Scoring Record",
+          "imageUrl": "https://img.youtube.com/vi/MOPjtuzoSyA/0.jpg"
+        },
         {
           "id": "https://kottke.org/23/02/cameron-tests-titanic-door-theory",
           "author": null,
