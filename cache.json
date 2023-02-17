@@ -450,16 +450,6 @@
           "wordCount": 207,
           "title": "Cold Complaints",
           "imageUrl": "https://imgs.xkcd.com/comics/cold_complaints_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2713/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/data_point.png\" title=\"In general you should only include your single best data point in the paper. The rest of the data can go in the supplementary materials.\" alt=\"In general you should only include your single best data point in the paper. The rest of the data can go in the supplementary materials.\" />",
-          "link": "https://xkcd.com/2713/",
-          "publishedOn": "2022-12-19T00:00:00.000Z",
-          "wordCount": 207,
-          "title": "Data Point",
-          "imageUrl": "https://imgs.xkcd.com/comics/data_point_2x.png"
         }
       ]
     },
@@ -468,6 +458,16 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "use-effect-async-swallows",
+          "author": null,
+          "description": "I don't particularly use this pattern, but I ran across it recently and it took me a while to work out what was happening (it does make sense if you think about it, but running through code it's not easy to spot).\nIn the following example you won't see any errors nor any logging.\nuseEffect(() => {\n  const test = async = () => {\n    someFunctionThatThrows();\n    console.log(\"sid\");\n  };\n\n  try {\n    test();\n  } catch (e) {\n    console.log(\"sam\");\n  }\n}, []);\n\nIt needs to either change to to explicitly catches (which I tend to prefer because it feels explicit) or a try catch inside the async:\nuseEffect(() => {\n  const test = async = () => {\n    try {\n      someFunctionThatThrows();\n    } catch (e) {\n      console.error(e);\n    }\n    console.log(\"test has finished\");\n  };\n\n  test();\n}, []);\n\nOr, which covers more cases:\nuseEffect(() => {\n  const test = async = () => {\n    someFunctionThatThrows();\n    console.log(\"test has finished\");\n  };\n\n  test().catch(e => console.error(e));\n}, []);",
+          "link": "https://remysharp.com/til/javascript/use-effect-async-swallows",
+          "publishedOn": "2023-02-16T23:59:59.000Z",
+          "wordCount": 620,
+          "title": "React's useEffect swallows async errors [til/javascript]",
+          "imageUrl": null
+        },
         {
           "id": "on-vercel-if-some-of-my-sites-are-down",
           "author": null,
@@ -794,6 +794,16 @@
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
         {
+          "id": "https://blog.mozilla.org/?p=71545",
+          "author": "Kristina Bravo",
+          "description": "The internet remembers. Just ask iJustine.  Justine Ezarik launched her YouTube channel in 2006, making silly skits so she could tinker with video editing and visual effects. Her first viral moment came after recording herself flipping through a 300-page iPhone bill she received in the mail. (AT&T, dealing with the first generation of the iPhone, […]\nThe post iJustine, self-described ‘oversharer,’ has some privacy advice for you appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/internet-culture/ijustine-privacy-advice/",
+          "publishedOn": "2023-02-16T18:00:27.000Z",
+          "wordCount": 1822,
+          "title": "iJustine, self-described ‘oversharer,’ has some privacy advice for you",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/02/Firefox_Presents_Ep7_iJustine_16x9_1-1080x720.jpg"
+        },
+        {
           "id": "https://blog.mozilla.org/?p=71463",
           "author": "Jenifer Boscacci",
           "description": "We’ve come to rely on our mobile devices for everything, from managing our online calendars to sharing an article we just read with our friends. So, how can we make it easier when we use our mobile devices? Today, we’re adding new extensions to Firefox Android to help. Whether it’s giving an email address to […]\nThe post These 3 new Firefox Android extensions will help simplify your life appeared first on The Mozilla Blog.",
@@ -930,6 +940,16 @@
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
+        {
+          "id": "https://jvns.ca/blog/2023/02/16/writing-javascript-without-a-build-system/",
+          "author": null,
+          "description": "Hello! I’ve been writing some Javascript this week, and as always when I start\na new frontend project, I was faced with the question: should I use a build\nsystem?\nI want to talk about what’s appealing to me about build systems, why I\n(usually) still don’t use them, and why I find it frustrating that some\nfrontend Javascript libraries require that you use a build system.\nI’m writing this because most of the writing I see about JS assumes that\nyou’re using a build system, and it can be hard to navigate for folks like me\nwho write very simple small Javascript projects that don’t require a build\nsystem.\nwhat’s a build system?\nThe idea is that you have a bunch of Javascript or Typescript code, and you\nwant to translate it into different Javascript code before you put it on your\nwebsite.\nBuild s…",
+          "link": "https://jvns.ca/blog/2023/02/16/writing-javascript-without-a-build-system/",
+          "publishedOn": "2023-02-16T12:56:02.000Z",
+          "wordCount": 1475,
+          "title": "Writing Javascript without a build system",
+          "imageUrl": null
+        },
         {
           "id": "https://jvns.ca/blog/2023/02/11/print-copies-of-the-pocket-guide-to-debugging-have-arrived/",
           "author": null,
@@ -1090,6 +1110,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=4835",
+          "author": "Cory Doctorow",
+          "description": "Today's links Google's chatbot panic: On the infinite insecurities of a self-styled creative genius who really just buys other people's ideas. Hey look at this: Delights to delectate. This day in history: 2003, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Google's chatbot panic (permalink) The really remarkable thing isn't just that Microsoft has decided that the future of search isn't links to relevant materials, but instead lengthy, florid paragraphs written by a chatbot who happens to be a habitual liar – even more remarkable is that Google agrees. Microsoft has nothing to lose. It's spent billions on Bing, a search-engine no one voluntarily uses. Might as well try something so stupid it might just work. But why i…",
+          "link": "https://pluralistic.net/2023/02/16/tweedledumber/",
+          "publishedOn": "2023-02-16T20:11:42.000Z",
+          "wordCount": 3366,
+          "title": "Pluralistic: Google's chatbot panic (16 Feb 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=4812",
           "author": "Cory Doctorow",
@@ -1515,6 +1545,56 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/02/leonardo-da-vincis-surprisingly-accurate-experiments-with-gravity",
+          "author": null,
+          "description": "This is super-interesting: in papers written by Leonardo da Vinci collected in the Codex Arundel, he documents experiments that show that gravity is a form of acceleration and also calculated the gravitational constant to within 97% accuracy, hundreds of years before Newton formalized gravity in theory.\nIn an article published in the journal Leonardo, the researchers draw upon a fresh look at one of da Vinci’s notebooks to show that the famed polymath had devised experiments to demonstrate that gravity is a form of acceleration — and that he further modeled the gravitational constant to around 97 percent accuracy.\nDa Vinci, who lived from 1452 to 1519, was well ahead of the curve in exploring these concepts. It wasn’t until 1604 that Galileo Galilei would theorize that the distance covered…",
+          "link": "https://kottke.org/23/02/leonardo-da-vincis-surprisingly-accurate-experiments-with-gravity",
+          "publishedOn": "2023-02-16T21:09:05.000Z",
+          "wordCount": 562,
+          "title": "Leonardo da Vinci’s Surprisingly Accurate Experiments with Gravity",
+          "imageUrl": "https://kottke.org/plus/misc/images/leonardo-gravity.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/02/sky-collages",
+          "author": null,
+          "description": "I love these photographic collages by Alex Hyner centered around images of power lines — the intersections of the lines form geometric shapes that each get their own different shade and texture of sky. Such a simple idea done really well.\nYou can see more of Hyner’s work on Instagram or buy prints of his Skies series on his website.\nTags: Alex Hyner   art",
+          "link": "https://kottke.org/23/02/sky-collages",
+          "publishedOn": "2023-02-16T19:02:46.000Z",
+          "wordCount": 232,
+          "title": "Sky Collages",
+          "imageUrl": "https://kottke.org/plus/misc/images/alex-hyner-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/02/all-the-beauty-in-the-world",
+          "author": null,
+          "description": "After leaving a job at The New Yorker in the wake of his older brother’s death, Patrick Bringley spent 10 years working as a guard at the Metropolitan Museum of Art in NYC. He wrote a book about his experience at the museum, All the Beauty in the World: The Metropolitan Museum of Art and Me (ebook). From a review at NPR:\nIn the wake of his 27-year-old brother Tom’s death from cancer in 2008, Bringley, two years his junior, gave up a prestigious “high-flying desk job” at The New Yorker, where “they told me I was ‘going places,’” for a job in which “I was happy to be going nowhere.” He explains, “I had lost someone. I did not wish to move on from that. In a sense I didn’t wish to move at all.”\nDrawn to “the most straightforward job I could think of in the most beautiful place I knew” — a job…",
+          "link": "https://kottke.org/23/02/all-the-beauty-in-the-world",
+          "publishedOn": "2023-02-16T16:54:09.000Z",
+          "wordCount": 622,
+          "title": "All the Beauty in the World",
+          "imageUrl": "https://kottke.org/plus/misc/images/venus-adonis-titian.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/02/supermassive-black-holes-a-possible-source-of-dark-energy",
+          "author": null,
+          "description": "A group of astronomers say they have evidence that links supermassive black holes at galactic centers with dark energy, the mysterious force that accounts for roughly 68% of the energy in the universe. Here’s the news release and the paper. From the Guardian:\nInstead of dark energy being smeared out across spacetime, as many physicists have assumed, the scientists suggest that it is created and remains inside black holes, which form in the crushing forces of collapsing stars.\n“We propose that black holes are the source for dark energy,” said Duncan Farrah, an astronomer at the University of Hawaii. “This dark energy is produced when normal matter is compressed during the death and collapse of large stars.”\nThe claim was met with raised eyebrows from some independent experts, with one noting that while the idea deserved scrutiny, it was far too early to link black holes and dark energy. “There’s a number of counter-arguments and facts that need to be understood if this claim is going to live more than a few months,” said Vitor Cardoso, a professor of physics at the Niels Bohr Institute in Copenhagen.\n\n\nAnd here’s a short video explainer:\n\nIt’s a radical claim to be sure — it’ll be interesting to see how it shakes out in the weeks and months to come as other scientists interpret the results.\nTags: astronomy   black holes   physics   science   space   video",
+          "link": "https://kottke.org/23/02/supermassive-black-holes-a-possible-source-of-dark-energy",
+          "publishedOn": "2023-02-16T14:48:02.000Z",
+          "wordCount": 409,
+          "title": "Supermassive Black Holes: A Possible Source of Dark Energy",
+          "imageUrl": "https://img.youtube.com/vi/gjwxnoPoEHQ/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/15/12/the-boy-in-the-bubble",
+          "author": null,
+          "description": "Retro Report looks back on the story of the boy in the plastic bubble.\nThe epitaph on David Phillip Vetter’s gravestone observes correctly that “he never touched the world.” How could he have? From a few seconds after his birth until two weeks before his death at age 12, David lived life entirely in one plastic bubble or another. Touching the world would have killed him in fairly short order. Even his two weeks outside a plastic cocoon were spent in a hospital trying, futilely, to stave off the inevitable.\nThere was never a child quite like David Vetter. Americans above the age of, say, 45 may remember him not so much by name as by a phenomenon of the 1970s and early ’80s: “the boy in the bubble.” The Retro Report series of video documentaries, exploring major news developments of the past, returns to that era through interviews with, among others, David’s mother and one of his doctors. More than just a look backward, the report examines medical strides that now give hope to the once-hopeless, coupled with ethical questions long part of the “bubble boy” story.\n\n\t\nI remember very clearly watching the news reports about “the boy in the bubble” when I was a kid. Now, as an adult and a parent, the ethical concerns hit me somewhat harder. (via @DavidGrann)\n\n\n\n\n Tags:David Vetter    \nmedicine    \nvideo",
+          "link": "https://kottke.org/15/12/the-boy-in-the-bubble",
+          "publishedOn": "2023-02-16T00:55:01.000Z",
+          "wordCount": 401,
+          "title": "The Boy in the Bubble",
+          "imageUrl": "https://img.youtube.com/vi/rSGt_duNjGg/0.jpg"
+        },
         {
           "id": "https://kottke.org/23/02/the-winners-of-the-2023-underwater-photographer-of-the-year-competition",
           "author": null,
@@ -3034,16 +3114,6 @@
           "wordCount": 266,
           "title": "How Were the First World Maps Created?",
           "imageUrl": "https://img.youtube.com/vi/AJBBVQrRwqo/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/22/12/the-trailer-for-christopher-nolans-oppenheimer",
-          "author": null,
-          "description": "Based on the Pulitzer Prize-winning book American Prometheus (Kindle), Christopher Nolan’s newest film follows theoretical physicist J. Robert Oppenheimer as he leads the Manhattan Project to build the world’s first atomic weapon during World War II. If this film is just 50% slow-motion IMAX-scale fluid dynamics simulations, I don’t think I’d be that mad.\nI’m curious to see if this film has one of Nolan’s signature time tricks — aside from the Batmen, they almost all do.\nOppenheimer comes out in the US on July 23, 2023.\nP.S. If you want to read an excellent book about the Manhattan Project, you can’t do better than The Making of the Atomic Bomb by Richard Rhodes — one of my all-time favorite books.\nTags: American Prometheus   atomic bomb   books   Christopher Nolan   movies   Oppenheimer   trailers   video",
-          "link": "https://kottke.org/22/12/the-trailer-for-christopher-nolans-oppenheimer",
-          "publishedOn": "2022-12-19T02:51:47.000Z",
-          "wordCount": 302,
-          "title": "The Trailer for Christopher Nolan’s Oppenheimer",
-          "imageUrl": "https://img.youtube.com/vi/bK6ldnjE3Y0/0.jpg"
         }
       ]
     }
