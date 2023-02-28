@@ -171,6 +171,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2743/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/hand_dryers.png\" title=\"I know hand dryers have their problems, but I think for fun we should keep egging Dyson on and see if we can get them to make one where the airflow breaks the speed of sound.\" alt=\"I know hand dryers have their problems, but I think for fun we should keep egging Dyson on and see if we can get them to make one where the airflow breaks the speed of sound.\" />",
+          "link": "https://xkcd.com/2743/",
+          "publishedOn": "2023-02-27T00:00:00.000Z",
+          "wordCount": 180,
+          "title": "Hand Dryers",
+          "imageUrl": "https://imgs.xkcd.com/comics/hand_dryers_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2742/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/island_storage.png\" title=\"I always hate dragging around the larger archipelagos, but I appreciate how the Scandanavian peninsula flexes outward to create a snug pocket for the British Isles.\" alt=\"I always hate dragging around the larger archipelagos, but I appreciate how the Scandanavian peninsula flexes outward to create a snug pocket for the British Isles.\" />",
@@ -409,16 +419,6 @@
           "wordCount": 207,
           "title": "Hydrogen Isotopes",
           "imageUrl": "https://imgs.xkcd.com/comics/hydrogen_isotopes_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2718/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/new_years_eve_party.png\" title=\"[Earlier, at the eye doctor] 'No, for the last time, the numerals on the paper aren't my prescription, it's the shape I want you to make with the laser.'\" alt=\"[Earlier, at the eye doctor] 'No, for the last time, the numerals on the paper aren't my prescription, it's the shape I want you to make with the laser.'\" />",
-          "link": "https://xkcd.com/2718/",
-          "publishedOn": "2022-12-30T00:00:00.000Z",
-          "wordCount": 211,
-          "title": "New Year's Eve Party",
-          "imageUrl": "https://imgs.xkcd.com/comics/new_years_eve_party_2x.png"
         }
       ]
     },
@@ -427,6 +427,16 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "testing-usb-cables-for-data-lines",
+          "author": null,
+          "description": "I've got many, many USB A to USB micro cables and I still have a good number of devices that make use of the micro connection.\nThe USB (2) port generally have four wires - ground, power and then D+ and D- (for data exchange). USB micro has a 5th line, though when it's connected to USB A on the other side that 5th line isn't connected.\nMy problem is that I also have a boat load of power only USB cables - and there's no way to tell using a visual inspection. You can buy tools that tell you if there's a data line, but I can make one fairly simply.\n\nI should caveat this with the fact that I just happened to have the parts laying around.\nIn short\nThe device is an LED power a battery power source and the USB's data wire is used to complete the circuit.\nParts\n\nProtoboard\nUSB A port\nUSB micro port\nLED\n220ohm (ish) resistor\nBattery (I used a game boy cartridge battery - again I had them laying around)\n\nWiring\nIn my version, I've included separate LEDs and checks for both the D+ and the D- but it's not really necessary - if D+ isn't there, neither is D-.\nThe pinout on the USB ports is the important detail, the outside pins (far left and far right) are VCC and ground (which we don't care about). The centre pins are what we're interested in. The centre pins will make up the circuit.\n\nResult\nNow I have a simple tool that can help me weed out those pesky power-only USB cables!",
+          "link": "https://remysharp.com/2023/02/27/testing-usb-cables-for-data-lines",
+          "publishedOn": "2023-02-27T00:00:00.000Z",
+          "wordCount": 774,
+          "title": "Testing USB cables for data lines [blog]",
+          "imageUrl": "https://remysharp.com/images/cards/og/9-4.jpg"
+        },
         {
           "id": "use-effect-async-swallows",
           "author": null,
@@ -1090,6 +1100,21 @@
       "siteUrl": "https://pluralistic.net",
       "articles": [
         {
+          "id": "https://pluralistic.net/?p=4884",
+          "author": "Cory Doctorow",
+          "description": "Today's links Podcasting \"Twiddler\": What makes digital platforms so enshittification prone? Hey look at this: Delights to delectate. This day in history: 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Podcasting \"Twiddler\" (permalink) This week on my podcast, I read \"Twiddler,\" a recent Medium column in which I delve more deeply into enshittification, and how it is a pathology of digital platforms, distinct from the rent-seeking of the analog world that preceded it: https://doctorow.medium.com/twiddler-1b5c9690cce6 Enshittification, you'll recall, is the lifecycle of the online platform: first, the platform allocates surpluses to end-users; then, once users are locked in, those surpluses are taken away and given…",
+          "link": "https://pluralistic.net/2023/02/27/knob-jockeys/",
+          "publishedOn": "2023-02-27T17:06:23.000Z",
+          "wordCount": 3736,
+          "title": "Pluralistic: Podcasting \"Twiddler\" (27 Feb 2023)",
+          "enclosure": {
+            "url": "https://archive.org/download/Cory_Doctorow_Podcast_439/Cory_Doctorow_Podcast_439_-_Twiddler.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://pluralistic.net/?p=4876",
           "author": "Cory Doctorow",
           "description": "Today's links Dow promised to turn sneakers into playground surfaces, then dumped them in Indonesia: Corporate \"recycling\" programs are just obfuscated landfills. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Dow promised to turn sneakers into playground surfaces, then dumped them in Indonesia (permalink) Dow Chemicals plastered Singapore with ads for its sneaker recycling program, promising to turn old shoes into playground tracks. But the shoes it collected in its \"recycling\" bins were illegally dumped in Indonesia. This isn't an aberration: it's how nearly all plastic recycling has always worked. Plastic recycling's origin story starts in 1973, whe…",
@@ -1524,6 +1549,56 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/02/new-ukrainian-postage-stamp-features-banksy-art-and-says-fck-ptn",
+          "author": null,
+          "description": "The Ukrainian postal service has released a stamp featuring artwork by Banksy to mark the first anniversary of the full-scale Russian invasion. The artist painted the image on a wall in the town of Borodianka in November 2022 and has apparently given his permission for use on the stamp. From The Guardian:\nThe image draws inspiration from the Russian president, Vladimir Putin, known to be a black belt in judo, and depicts a young judoka representing Ukraine knocking down a grown man.\nThe phrase “FCK PTN” in Cyrillic has been added to the lower left part of the new stamp.\n\n\nYou can buy your own sheet of these stamps directly from the Ukraine postal service — they ship worldwide, in the midst of a war!\nSee also: you might remember that the postal service ran a contest to design a stamp that illustrated “Ukrainians’ determination to defend their land” shortly after the invasion, which resulted in several eye-catching entries.\nTags: art   Banksy   stamps   Ukraine",
+          "link": "https://kottke.org/23/02/new-ukrainian-postage-stamp-features-banksy-art-and-says-fck-ptn",
+          "publishedOn": "2023-02-27T23:11:39.000Z",
+          "wordCount": 348,
+          "title": "New Ukrainian Postage Stamp Features Banksy Art and Says “FCK PTN”",
+          "imageUrl": "https://kottke.org/plus/misc/images/ukraine-stamp-banksy.jpg"
+        },
+        {
+          "id": "https://kottke.org/12/08/the-little-games-we-play",
+          "author": null,
+          "description": "There are all these simple little games that people play using their surroundings: don’t step on the cracks, balance beam railroad tracks (or curbs), bicycle slalom, etc.\n\nMy game in the car was to use my hand to jump over driveways & telephone poles and swoop down into ditches…just a small flick of the wrist in the wind is all it took. Haven’t done that in years. I still occasionally play don’t step on the cracks and fight the daily urge to jump and touch. (via ★interesting)\n\n\n\n\n Tags:games    \nvideo",
+          "link": "https://kottke.org/12/08/the-little-games-we-play",
+          "publishedOn": "2023-02-27T22:04:02.000Z",
+          "wordCount": 264,
+          "title": "The Little Games We Play",
+          "imageUrl": "https://img.youtube.com/vi/1AJpKt6UP08/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/02/papercraft-models-of-vintage-computers",
+          "author": null,
+          "description": "Rocky Bergen makes papercraft models of vintage computers like the original Macintosh, Commodore 64, the IBM 5150, and TRS-80. The collection also includes a few gaming consoles and a boombox. And here’s the thing — you can download the patterns for each model for free and make your own at home. Neat!\nTags: art   computing   Rocky Bergen",
+          "link": "https://kottke.org/23/02/papercraft-models-of-vintage-computers",
+          "publishedOn": "2023-02-27T20:02:08.000Z",
+          "wordCount": 230,
+          "title": "Papercraft Models of Vintage Computers",
+          "imageUrl": "https://kottke.org/plus/misc/images/papercraft-computers-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/02/american-cars-are-getting-too-big-for-parking-spaces",
+          "author": null,
+          "description": "The American car has gotten bigger in the past few decades but parking spot size has not kept pace.\nRegardless of the cause, the end result is roughly 50 percent of the American car market switched from sedans and wagons to SUVs, especially midsize and large SUVs, chunkifying the average American car. Consider someone who switched from a Honda Civic to a Honda CR-V. This added about three inches in width. A CR-V to a Pilot, a large SUV, would add five more inches in width. This may not sound like much, but repeat for half the cars in a parking lot and it adds up. For example, in a 700-space garage, if each car is four inches wider than its predecessor, that is 233 additional feet in car width-from the goal line to the opponent’s 23 yard line on a football field-that needs to be accommodate…",
+          "link": "https://kottke.org/23/02/american-cars-are-getting-too-big-for-parking-spaces",
+          "publishedOn": "2023-02-27T17:50:17.000Z",
+          "wordCount": 562,
+          "title": "American Cars Are Getting Too Big For Parking Spaces",
+          "imageUrl": "https://kottke.org/plus/misc/images/carsized.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/02/the-last-55-years-of-best-cinematography-oscar-winners",
+          "author": null,
+          "description": "The Oscar voters haven’t always gotten their top picks right, but there’s no denying that this visual showcase of Best Cinematography winners from 1967-2021 contains some fantastic work. Just to call out a few of the films recognized: Bonnie and Clyde; Barry Lyndon; The Killing Fields; Schindler’s List; Titanic; Crouching Tiger, Hidden Dragon; Master and Commander; There Will Be Blood; Inception; Blade Runner 2049; and Dune.\nThere’s an interesting shift in the winners (presaged by Close Encounters of the Third Kind in 1977); they move away from historical realism and towards fantasy, sci-fi, and the future: Crouching Tiger (2000) and Lord of the Rings (2001) and then, more definitively, Avatar (2009) and Inception (2010). But the shift is not by any means total: The Revenant (2015), Roma (2018), 1917 (2019), and Mank (2020) are all firmly in the realist realm.\nTags: best of   movies   video",
+          "link": "https://kottke.org/23/02/the-last-55-years-of-best-cinematography-oscar-winners",
+          "publishedOn": "2023-02-27T15:36:24.000Z",
+          "wordCount": 326,
+          "title": "The Last 55 Years of Best Cinematography Oscar Winners",
+          "imageUrl": "https://img.youtube.com/vi/suuqwu3HIN0/0.jpg"
+        },
         {
           "id": "https://kottke.org/23/02/ask-me-anything",
           "author": null,
@@ -3103,26 +3178,6 @@
           "wordCount": 1268,
           "title": "Some Wonderful Things From 2022",
           "imageUrl": "https://kottke.org/plus/misc/images/wonderful-2022.jpg"
-        },
-        {
-          "id": "https://kottke.org/22/12/2022-a-look-back",
-          "author": null,
-          "description": "In just 7 minutes, Vox takes a visual look back at the biggest events of 2022, including Ukraine, inflation, Musk/Twitter, tech layoffs, Serena retires, TikTok, the World Cup, the pandemic continues, the climate crisis intensifies, mass shootings, no more Roe, Iranian protests, the death of Queen Elizabeth, and more.\nSee also 2022 in Review (AP), 2022 Year in Review (Reuters), 50 Wonderful Things from 2022 (NPR), 2022 Year in Review (United Nations), 2022 in Review (New Yorker), and the Year in Search 2022 (Google).\nTags: video",
-          "link": "https://kottke.org/22/12/2022-a-look-back",
-          "publishedOn": "2022-12-29T20:17:16.000Z",
-          "wordCount": 258,
-          "title": "2022, A Look Back",
-          "imageUrl": "https://img.youtube.com/vi/PLDFgKzWy3o/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/22/12/36-things-i-learned-in-2022",
-          "author": null,
-          "description": "Inspired by Tom Whitwell’s annual list (here is 2022’s), I kept a list of interesting things I learned this year. There are supposed to be 52 things but I took much of the year off so you’ll have to manage with only 36. Enjoy!\nFor the first time in history in 2020, the weight of things produced by humans (concrete, metals, plastic) was greater than the weight of the global living biomass. \n“It is physically impossible to exceed the 70-pound domestic weight limit for a USPS small flat rate box.”\n\n\n\nThere is a species of fish called “boops boops”.\n\n\n\nIn a recent experiment by a Turkish farmer, outfitting his cows with VR goggles that simulate being in a pasture upped milk production by 2 gallons per cow per day. \n\n\n\nIt’s “just deserts”, not “just desserts”.\n\n\n\nThe Sun has only rotated approx…",
-          "link": "https://kottke.org/22/12/36-things-i-learned-in-2022",
-          "publishedOn": "2022-12-29T17:50:10.000Z",
-          "wordCount": 960,
-          "title": "36 Things I Learned in 2022",
-          "imageUrl": ""
         }
       ]
     }
