@@ -2,10 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2023-03-01T00:38:42.370Z</updated>
+    <updated>2023-03-02T00:37:53.373Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Did Everything Get So Expensive?]]></title>
+        <id>https://kottke.org/23/03/why-did-everything-get-so-expensive</id>
+        <link href="https://kottke.org/23/03/why-did-everything-get-so-expensive"/>
+        <updated>2023-03-01T21:50:14.000Z</updated>
+        <summary type="html"><![CDATA[From Vox, an inflation explainer video that sums up the three primary explanations for the current rise in prices worldwide — Too much money, supply shocks, massive markups (aka corporate price gouging) — and what governments can do about it.
+
+Right now, inflation is inescapable. At the grocery store, the gas station, and in almost every country in the world, people are playing more — way more — than they did just a couple of years ago for everything.
+In this video, we explore three explanations for why prices are rising, as well as different policy options for bringing them down.
+
+
+ Tags: economics   video]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 100 Best Lists of All Time]]></title>
+        <id>https://kottke.org/12/12/the-100-best-lists-of-all-time</id>
+        <link href="https://kottke.org/12/12/the-100-best-lists-of-all-time"/>
+        <updated>2023-03-01T20:22:08.000Z</updated>
+        <summary type="html"><![CDATA[The New Yorker, with shots across the bows of The Awl and Buzzfeed, offers up a list of the 100 best lists of all time. A sampling:
+94. Benjamin Franklin’s “Thirteen Virtues”
+90. McDonald’s Big Mac-ingredients commercial
+80. Dr. James Naismith’s original 13 Rules of Basket Ball
+61. Fortune 500
+41. The Dewey Decimal System
+19. The Fibonacci Sequence
+6. Martin Luther’s “95 Theses on the Power and Efficacy of Indulgences”
+1. The Periodic Table of Elements
+
+
+
+
+ Tags:best of    
+lists]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Movie Trailer Editor Deconstructs Iconic Trailers]]></title>
+        <id>https://kottke.org/23/03/a-movie-trailer-editor-deconstructs-iconic-trailers</id>
+        <link href="https://kottke.org/23/03/a-movie-trailer-editor-deconstructs-iconic-trailers"/>
+        <updated>2023-03-01T18:50:14.000Z</updated>
+        <summary type="html"><![CDATA[Bill Neil is a movie trailer editor at Buddha Jones and in this video he guides us through a short history of movie trailers — from Dr. Strangelove in the 60s to Neil’s own Nope trailer — and gently picks them apart to show us how they work. I enjoyed hearing all of the vocabulary for the techniques that they use: rug pull, bumper, diegetic, rise, and signature sound (aka leitmotif).
+Tags: Bill Neil   film school   movies   trailers   video]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[better-mobile-inputs.netlify.app/ [link]]]></title>
+        <id>2023-03-01-3bff24a5</id>
+        <link href="https://remysharp.com/links/2023-03-01-3bff24a5"/>
+        <updated>2023-03-01T11:11:24.000Z</updated>
+        <summary type="html"><![CDATA[A useful web page to show visually what the mobile assistive keyboard looks like given different input types.
+Specifically, and TIL - the inputmode can be different, i.e. using a type=&quot;text&quot; field but inputmode=&quot;url&quot; to help with partials like ".com" (if the input field didn't need URL validation for instance).
+/via Bruce's reading list 300
+Source: better-mobile-inputs.netlify.app]]></summary>
+        <author>
+            <name>remy sharp's b:log</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fanservice]]></title>
+        <id>https://xkcd.com/2744/</id>
+        <link href="https://xkcd.com/2744/"/>
+        <updated>2023-03-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/fanservice.png" title="I was eventually kicked out of my architectural engineering program because I wouldn't stop referring to HVAC as &quot;the fandom.&quot;" alt="I was eventually kicked out of my architectural engineering program because I wouldn't stop referring to HVAC as &quot;the fandom.&quot;" />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Automatically generating tests for JS/TS functions in VS Code with GitHub Copilot]]></title>
         <id>https://christianheilmann.com/?p=7559</id>
@@ -14,6 +88,28 @@
         <summary type="html"><![CDATA[Want to automatically generate tests for your JS/TS functions? GitHub CoPilot now does that. GitHubNext added a TestPilot experiment that can generate tests for a function by analysing it and scanning the docs and comments.]]></summary>
         <author>
             <name>Chris Heilmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some notes on using nix]]></title>
+        <id>https://jvns.ca/blog/2023/02/28/some-notes-on-using-nix/</id>
+        <link href="https://jvns.ca/blog/2023/02/28/some-notes-on-using-nix/"/>
+        <updated>2023-02-28T23:16:17.000Z</updated>
+        <summary type="html"><![CDATA[Recently I started using a Mac for the first time. The biggest downside I’ve
+noticed so far is that the package management is much worse than on Linux.
+At some point I got frustrated with homebrew because I felt like it was
+spending too much time upgrading when I installed new packages, and so I
+thought – maybe I’ll try the nix package manager!
+nix has a reputation for being confusing (it has its whole
+own programming language!), so I’ve been trying to figure out how to use nix in
+a way that’s as simple as possible and does not involve managing any
+configuration files or learning a new programming language. Here’s what I’ve
+figured out so far! We’ll talk about how to:
+install packages with nix
+build a custom nix package for a C++ program called paperjam
+install a 5-year-old version of hugo…]]></summary>
+        <author>
+            <name>Julia Evans</name>
         </author>
     </entry>
     <entry>
@@ -119,6 +215,35 @@ photography]]></summary>
         <summary type="html"><![CDATA[Today's links VW wouldn't help find kidnapped child because his mother wasn't paying for find-my-car subscription: All the harms of surveillance, none of the benefits. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading VW wouldn't help find kidnapped child because his mother wasn't paying for find-my-car subscription (permalink) The masked car-thieves who stole a Volkswagen SUV in Lake County, IL didn't know that there was a two-year-old child in the back seat – but that's no excuse. A violent car-theft has the potential to hurt or kill people, after all. Likewise, the VW execs who decided to nonconsensually track the location of every driver and sell that…]]></summary>
         <author>
             <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Summary of changes for February 2023]]></title>
+        <id>log.html#feb2023</id>
+        <link href="https://100r.co/site/log.html#feb2023"/>
+        <updated>2023-02-28T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone! This is the list of all the changes we've done to our projects and apps during the month of February. We'll also be reporting in our on position in the world, and on our future plans.
+Summary Of Changes
+    
+    
+Wiktopher, added back corrected chapters 1-7 to online.
+Left, made a ton of improvements including a new directory navigation, better navbar labels and performance.
+Orca, fixed an issue where copy/paste/drag would move characters off-screen.
+Catclock, ported to new opcodes and improved monochromatic mode.
+Beetbug, added an interactive mode that interprets uxntal on the fly.
+Hakum, added a comic sequence named Tracking.
+100r.co, added updates to battery connections.
+Grimgrains, added some notes on Temperature for lacto-fermentation.
+News
+On February 14th, we celebrated our 7th year living aboard our beloved Pino. It's also around this time 10 years ago that we were still living in Odaiba(Japan), and beginning our work on what would be our first game collaboration: oquonie.
+The uxn port of Oquonie has advanced in incredible leaps this month. Rek has finished re-doing all of the assets. Devine is now working on the music, and finalizing some of the levels. We are testing the game as we go, and hope to release it sometime next month. Oquonie will be playable on a number of platforms, including the Nintendo DS(Mastodon), as well as the Playdate. See a small preview(Mastodon).
+Early next month we are traveling to Galiano Island in the Salish Sea for BioSonic(by ActivePassive). We'll be part of an event series exploring the intersections of music, art and biodiversity. We'll give a talk on March 10th, and Devine will perform with Orca on the 11th at the Galiano South Hall.
+Watch Devine's set for Lovebyte 2023.
+Pino book club
+We're reading Courrier Sud by Antoine de Saint-Exupéry.
+Continue Reading]]></summary>
+        <author>
+            <name>Rek Bell</name>
         </author>
     </entry>
     <entry>
@@ -3802,59 +3927,6 @@ Tags: dance   Sarah McCreanor   video]]></summary>
         <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/hydrogen_isotopes.png" title="Oops, All Neutrons is also known as Neutral Quadrium, Nydnonen, and Goth Tritium." alt="Oops, All Neutrons is also known as Neutral Quadrium, Nydnonen, and Goth Tritium." />]]></summary>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summary of changes for December]]></title>
-        <id>log.html#dec2022</id>
-        <link href="https://100r.co/site/log.html#dec2022"/>
-        <updated>2023-01-01T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Hey everyone! This is the list of all the changes we've done to our projects and apps during the month of December. We'll also be reporting in our on position in the world, and on our future plans.
-Summary Of Changes
-	
-	
-100r.co, added a new page: electrical refit, fuel sensor, marine wire termination, also added updates to XPS and EPS in winter insulation.
-Orca, released a new build that improves the look and feel, added app icon(Mastodon) to the about modal.
-Busy Doing Nothing, released a new version, in which we fixed extra typing errors (thanks Igor), and added explanations for certain sailing terms like reefing, etc.
-Wiktopher, corrected chapter 6 and 7.
-Beetbug, added break-point and symbols supports.
-Took a detour into computer science to learn about arity testing and stack effect checking, learn more about it here.
-TinyCode2022, spent some time doing demoscene experiments.
-News
-The rabbits are re-wiring Pino. So far this month, we spent entire afternoons removing, and passing new wires into the boat's walls and ceiling. This project has taken up most of our time this month. For updates on the project, see electrical refit. We also released an edited transcript of Devine's talk weathering software winter, for those who prefer to read.
-We forgot to mention it in the last update, but Compudanzas just released a new version of their introduction to uxn programming book! The online tutorial also had some updates.
-
-Happy new year everyone! See more photos of Pino(on the far left) and friends decorated for the occasion. 
-Pino book club
-We're reading Le Péril Bleu by Maurice Renard.
-Continue Reading]]></summary>
-        <author>
-            <name>Rekka Bellum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My 2022 [blog]]]></title>
-        <id>my-2022</id>
-        <link href="https://remysharp.com/2022/12/31/my-2022"/>
-        <updated>2022-12-31T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Finally feeling like society around me has settled into it's stride, even many normal things have happened, but as I write my last blog post of the year (as I've done for over a decade), I'm not entirely happy with how I feel like my blog has been neglected.
-Work
-Since the pandemic hit us back in early 2020, I've been working (mostly) flat out because we really didn't know what would happen to the economy.
-My typical work contract would be, at most, a few months, but instead I've been working very long term with clients. This is really good for our security but not something I'm used to and I can see the impact it's had on my creativity around side projects that I'd normally work towards.
-More obvious (to me) is my lack of blogging and really the motivation to write has gone utterly kaput.…]]></summary>
-        <author>
-            <name>remy sharp's b:log</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safari's date-picker is the cause of 1/3 of our customer support issues [link]]]></title>
-        <id>2022-12-31-57e337af</id>
-        <link href="https://remysharp.com/links/2022-12-31-57e337af"/>
-        <updated>2022-12-31T13:33:19.000Z</updated>
-        <summary type="html"><![CDATA[I'm not even that old and I've been hit with this stupid UX from iOS (thankfully it was a one off for me as I'm primarily an Android user)
-Source: gist.github.com]]></summary>
-        <author>
-            <name>remy sharp's b:log</name>
         </author>
     </entry>
     <entry>

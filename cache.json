@@ -130,6 +130,16 @@
       "siteUrl": "https://100r.co",
       "articles": [
         {
+          "id": "log.html#feb2023",
+          "author": "Rek Bell",
+          "description": "Hey everyone! This is the list of all the changes we've done to our projects and apps during the month of February. We'll also be reporting in our on position in the world, and on our future plans.\nSummary Of Changes\n    \n    \nWiktopher, added back corrected chapters 1-7 to online.\nLeft, made a ton of improvements including a new directory navigation, better navbar labels and performance.\nOrca, fixed an issue where copy/paste/drag would move characters off-screen.\nCatclock, ported to new opcodes and improved monochromatic mode.\nBeetbug, added an interactive mode that interprets uxntal on the fly.\nHakum, added a comic sequence named Tracking.\n100r.co, added updates to battery connections.\nGrimgrains, added some notes on Temperature for lacto-fermentation.\nNews\nOn February 14th, we celebrated our 7th year living aboard our beloved Pino. It's also around this time 10 years ago that we were still living in Odaiba(Japan), and beginning our work on what would be our first game collaboration: oquonie.\nThe uxn port of Oquonie has advanced in incredible leaps this month. Rek has finished re-doing all of the assets. Devine is now working on the music, and finalizing some of the levels. We are testing the game as we go, and hope to release it sometime next month. Oquonie will be playable on a number of platforms, including the Nintendo DS(Mastodon), as well as the Playdate. See a small preview(Mastodon).\nEarly next month we are traveling to Galiano Island in the Salish Sea for BioSonic(by ActivePassive). We'll be part of an event series exploring the intersections of music, art and biodiversity. We'll give a talk on March 10th, and Devine will perform with Orca on the 11th at the Galiano South Hall.\nWatch Devine's set for Lovebyte 2023.\nPino book club\nWe're reading Courrier Sud by Antoine de Saint-Exupéry.\nContinue Reading",
+          "link": "https://100r.co/site/log.html#feb2023",
+          "publishedOn": "2023-02-28T09:30:00.000Z",
+          "wordCount": 562,
+          "title": "Summary of changes for February 2023",
+          "imageUrl": null
+        },
+        {
           "id": "log.html#jan2023",
           "author": "Rekka Bellum",
           "description": "Hey everyone! This is the list of all the changes we've done to our projects and apps during the month of January. We'll also be reporting in our on position in the world, and on our future plans.\nSummary Of Changes\n    \n    \n100r.co, added electrical refit(portal for AC & DC electrical refit), and updated LPG refit.\nWiktopher, corrected chapter 8, and nearly done with lexicon.\nWeathering software winter, video(Vimeo) now has closed-captionning (same goes for YouTube version). Rek spent time cleaning up the auto-generated transcript.\nUxn, Andrew released Uxn32 2.0.\nPotato, added updates, potato can now assemble roms from tal files.\nNews\nThis month, we started porting Oquonie to Uxn. This is a long time coming, but we weren't sure if it was possible to do, and we still had a lot to learn before even thinking of taking it on. Now, we think we are ready. We are re-drawing the sprites(Mastodon), and they look amazing. This is an important test for us, and for Uxn.\nHere is a very adorable little Uxn sprite for Potato that comes up when a rom path was mistyped, see it also on the Uxn page.\nPino book club\nWe're reading The Journey Home: Some Words in Defense of the American West by Edward Abbey.\nContinue Reading",
@@ -137,16 +147,6 @@
           "publishedOn": "2023-01-31T09:30:00.000Z",
           "wordCount": 302,
           "title": "Summary of changes for January 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "log.html#dec2022",
-          "author": "Rekka Bellum",
-          "description": "Hey everyone! This is the list of all the changes we've done to our projects and apps during the month of December. We'll also be reporting in our on position in the world, and on our future plans.\nSummary Of Changes\n\t\n\t\n100r.co, added a new page: electrical refit, fuel sensor, marine wire termination, also added updates to XPS and EPS in winter insulation.\nOrca, released a new build that improves the look and feel, added app icon(Mastodon) to the about modal.\nBusy Doing Nothing, released a new version, in which we fixed extra typing errors (thanks Igor), and added explanations for certain sailing terms like reefing, etc.\nWiktopher, corrected chapter 6 and 7.\nBeetbug, added break-point and symbols supports.\nTook a detour into computer science to learn about arity testing and stack effect checking, learn more about it here.\nTinyCode2022, spent some time doing demoscene experiments.\nNews\nThe rabbits are re-wiring Pino. So far this month, we spent entire afternoons removing, and passing new wires into the boat's walls and ceiling. This project has taken up most of our time this month. For updates on the project, see electrical refit. We also released an edited transcript of Devine's talk weathering software winter, for those who prefer to read.\nWe forgot to mention it in the last update, but Compudanzas just released a new version of their introduction to uxn programming book! The online tutorial also had some updates.\n\nHappy new year everyone! See more photos of Pino(on the far left) and friends decorated for the occasion. \nPino book club\nWe're reading Le Péril Bleu by Maurice Renard.\nContinue Reading",
-          "link": "https://100r.co/site/log.html#dec2022",
-          "publishedOn": "2023-01-01T09:30:00.000Z",
-          "wordCount": 3064,
-          "title": "Summary of changes for December",
           "imageUrl": null
         }
       ]
@@ -180,6 +180,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2744/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/fanservice.png\" title=\"I was eventually kicked out of my architectural engineering program because I wouldn't stop referring to HVAC as &quot;the fandom.&quot;\" alt=\"I was eventually kicked out of my architectural engineering program because I wouldn't stop referring to HVAC as &quot;the fandom.&quot;\" />",
+          "link": "https://xkcd.com/2744/",
+          "publishedOn": "2023-03-01T00:00:00.000Z",
+          "wordCount": 178,
+          "title": "Fanservice",
+          "imageUrl": "https://imgs.xkcd.com/comics/fanservice_2x.png"
+        },
         {
           "id": "https://xkcd.com/2743/",
           "author": null,
@@ -438,6 +448,16 @@
       "siteUrl": "https://remysharp.com",
       "articles": [
         {
+          "id": "2023-03-01-3bff24a5",
+          "author": null,
+          "description": "A useful web page to show visually what the mobile assistive keyboard looks like given different input types.\nSpecifically, and TIL - the inputmode can be different, i.e. using a type=&quot;text&quot; field but inputmode=&quot;url&quot; to help with partials like \".com\" (if the input field didn't need URL validation for instance).\n/via Bruce's reading list 300\nSource: better-mobile-inputs.netlify.app",
+          "link": "https://remysharp.com/links/2023-03-01-3bff24a5",
+          "publishedOn": "2023-03-01T11:11:24.000Z",
+          "wordCount": 532,
+          "title": "better-mobile-inputs.netlify.app/ [link]",
+          "imageUrl": null
+        },
+        {
           "id": "the-flavour-of-my-funk",
           "author": null,
           "description": "It's been a good few weeks that I've been in this head state, a dark funk that clouds my reality. I'm a depressive, have been for as long as I can remember. But the down sometimes, go deep down and it's dark down here.\nI'm writing this for myself, but also partly for those close to me to see a little inside my head. Maybe also to bleed out some of the bad stuff in my head too.",
@@ -506,26 +526,6 @@
           "wordCount": 991,
           "title": "How to quickly spot a fake Game Boy cartridge [blog]",
           "imageUrl": "https://remysharp.com/images/cards/og/9-4.jpg"
-        },
-        {
-          "id": "my-2022",
-          "author": null,
-          "description": "Finally feeling like society around me has settled into it's stride, even many normal things have happened, but as I write my last blog post of the year (as I've done for over a decade), I'm not entirely happy with how I feel like my blog has been neglected.\nWork\nSince the pandemic hit us back in early 2020, I've been working (mostly) flat out because we really didn't know what would happen to the economy.\nMy typical work contract would be, at most, a few months, but instead I've been working very long term with clients. This is really good for our security but not something I'm used to and I can see the impact it's had on my creativity around side projects that I'd normally work towards.\nMore obvious (to me) is my lack of blogging and really the motivation to write has gone utterly kaput.…",
-          "link": "https://remysharp.com/2022/12/31/my-2022",
-          "publishedOn": "2022-12-31T14:00:00.000Z",
-          "wordCount": 1546,
-          "title": "My 2022 [blog]",
-          "imageUrl": "https://remysharp.com/images/cards/og/9-5.jpg"
-        },
-        {
-          "id": "2022-12-31-57e337af",
-          "author": null,
-          "description": "I'm not even that old and I've been hit with this stupid UX from iOS (thankfully it was a one off for me as I'm primarily an Android user)\nSource: gist.github.com",
-          "link": "https://remysharp.com/links/2022-12-31-57e337af",
-          "publishedOn": "2022-12-31T13:33:19.000Z",
-          "wordCount": 524,
-          "title": "Safari's date-picker is the cause of 1/3 of our customer support issues [link]",
-          "imageUrl": null
         }
       ]
     },
@@ -980,6 +980,16 @@
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
+        {
+          "id": "https://jvns.ca/blog/2023/02/28/some-notes-on-using-nix/",
+          "author": null,
+          "description": "Recently I started using a Mac for the first time. The biggest downside I’ve\nnoticed so far is that the package management is much worse than on Linux.\nAt some point I got frustrated with homebrew because I felt like it was\nspending too much time upgrading when I installed new packages, and so I\nthought – maybe I’ll try the nix package manager!\nnix has a reputation for being confusing (it has its whole\nown programming language!), so I’ve been trying to figure out how to use nix in\na way that’s as simple as possible and does not involve managing any\nconfiguration files or learning a new programming language. Here’s what I’ve\nfigured out so far! We’ll talk about how to:\ninstall packages with nix\nbuild a custom nix package for a C++ program called paperjam\ninstall a 5-year-old version of hugo…",
+          "link": "https://jvns.ca/blog/2023/02/28/some-notes-on-using-nix/",
+          "publishedOn": "2023-02-28T23:16:17.000Z",
+          "wordCount": 2459,
+          "title": "Some notes on using nix",
+          "imageUrl": null
+        },
         {
           "id": "https://jvns.ca/blog/2023/02/16/writing-javascript-without-a-build-system/",
           "author": null,
@@ -1610,6 +1620,36 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/03/why-did-everything-get-so-expensive",
+          "author": null,
+          "description": "From Vox, an inflation explainer video that sums up the three primary explanations for the current rise in prices worldwide — Too much money, supply shocks, massive markups (aka corporate price gouging) — and what governments can do about it.\n\nRight now, inflation is inescapable. At the grocery store, the gas station, and in almost every country in the world, people are playing more — way more — than they did just a couple of years ago for everything.\nIn this video, we explore three explanations for why prices are rising, as well as different policy options for bringing them down.\n\n\n Tags: economics   video",
+          "link": "https://kottke.org/23/03/why-did-everything-get-so-expensive",
+          "publishedOn": "2023-03-01T21:50:14.000Z",
+          "wordCount": 280,
+          "title": "Why Did Everything Get So Expensive?",
+          "imageUrl": "https://img.youtube.com/vi/qlKx8uc_ppU/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/12/12/the-100-best-lists-of-all-time",
+          "author": null,
+          "description": "The New Yorker, with shots across the bows of The Awl and Buzzfeed, offers up a list of the 100 best lists of all time. A sampling:\n94. Benjamin Franklin’s “Thirteen Virtues”\n90. McDonald’s Big Mac-ingredients commercial\n80. Dr. James Naismith’s original 13 Rules of Basket Ball\n61. Fortune 500\n41. The Dewey Decimal System\n19. The Fibonacci Sequence\n6. Martin Luther’s “95 Theses on the Power and Efficacy of Indulgences”\n1. The Periodic Table of Elements\n\n\n\n\n Tags:best of    \nlists",
+          "link": "https://kottke.org/12/12/the-100-best-lists-of-all-time",
+          "publishedOn": "2023-03-01T20:22:08.000Z",
+          "wordCount": 259,
+          "title": "The 100 Best Lists of All Time",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/03/a-movie-trailer-editor-deconstructs-iconic-trailers",
+          "author": null,
+          "description": "Bill Neil is a movie trailer editor at Buddha Jones and in this video he guides us through a short history of movie trailers — from Dr. Strangelove in the 60s to Neil’s own Nope trailer — and gently picks them apart to show us how they work. I enjoyed hearing all of the vocabulary for the techniques that they use: rug pull, bumper, diegetic, rise, and signature sound (aka leitmotif).\nTags: Bill Neil   film school   movies   trailers   video",
+          "link": "https://kottke.org/23/03/a-movie-trailer-editor-deconstructs-iconic-trailers",
+          "publishedOn": "2023-03-01T18:50:14.000Z",
+          "wordCount": 254,
+          "title": "A Movie Trailer Editor Deconstructs Iconic Trailers",
+          "imageUrl": "https://img.youtube.com/vi/r01fv4IXZ68/0.jpg"
+        },
         {
           "id": "https://kottke.org/23/02/why-3d-movies-are-not-immersive",
           "author": null,
