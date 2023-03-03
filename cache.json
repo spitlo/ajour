@@ -103,6 +103,16 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.stavros.io/posts/hacking-my-appetite/",
+          "author": null,
+          "description": "This must be how normal people feel\nRecently, my weight shot up again, and I’ve gone over the weight where I start snoring in my sleep.\nSince my BMI is now somewhere in the range where I get my own orbit, I decided to do something about it.\nI recently found out about Semaglutide, and I figured I should give it a shot.\n\nSemaglutide is a new drug for weight loss, or, more accurately, an old drug for diabetes.\nHowever, the diabetics who were taking it reported suppressed appetite, so the pharma company thought “hmmmmmm…”, and we got a nice weight loss drug.\nSince I don’t like snoring or being overweight, I was curious to try it and see what happens, so I talked to a medical professional and got some prescribed, more out of curiosity than out of need.\nI think it’s going to be an interesting experiment, and am eager to see whether (and how) it works.",
+          "link": "https://www.stavros.io/posts/hacking-my-appetite/",
+          "publishedOn": "2023-03-02T23:04:43.000Z",
+          "wordCount": 2553,
+          "title": "Hacking my appetite",
+          "imageUrl": "https://www.stavros.io/static/images/favicons/og-image.jpg?h=3375145f"
+        },
+        {
           "id": "https://www.stavros.io/posts/making-a-security-key-for-the-framework-laptop/",
           "author": null,
           "description": "I'm loving the Framework\nI was searching for a laptop to replace my 5-year-old Dell XPS, and I came across the Framework laptop.\nI had heard good things about it, and I liked the hackability, so I thought I’d give it a shot, and ordered it.\nMy first impression was extremely positive, it came with the RAM sticks in boxes, and I had to use the built-in screwdriver to open the laptop up and install the RAM.\nAll the components inside have QR codes with guides on how to install things, and opening the laptop is a matter of unscrewing five (captive, yay!) screws and popping up the magnetic keyboard, it took twenty seconds to slot the RAM sticks in and be ready to go.\nUnfortunately, I made a grave mistake",
@@ -173,7 +183,18 @@
       "title": "Emily Short's Interactive Storytelling",
       "feedUrl": "https://emshort.blog/feed/",
       "siteUrl": "https://emshort.blog",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://emshort.blog/?p=42934",
+          "author": "Emily Short",
+          "description": "I’ve been unusually quiet lately and not even following my usual link assortment schedule – apologies for that, especially to people who’ve sent me interesting links lately. I do mean to resume in time, but have needed to set even this aside for a little while. The end of last year was rough; I lost … Continue reading \"Status\"",
+          "link": "https://emshort.blog/2023/03/03/status/",
+          "publishedOn": "2023-03-03T00:01:59.000Z",
+          "wordCount": 4481,
+          "title": "Status",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        }
+      ]
     },
     {
       "title": "xkcd.com",
@@ -429,16 +450,6 @@
           "wordCount": 209,
           "title": "Biology vs Robotics",
           "imageUrl": "https://imgs.xkcd.com/comics/biology_vs_robotics_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2719/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/hydrogen_isotopes.png\" title=\"Oops, All Neutrons is also known as Neutral Quadrium, Nydnonen, and Goth Tritium.\" alt=\"Oops, All Neutrons is also known as Neutral Quadrium, Nydnonen, and Goth Tritium.\" />",
-          "link": "https://xkcd.com/2719/",
-          "publishedOn": "2023-01-02T00:00:00.000Z",
-          "wordCount": 207,
-          "title": "Hydrogen Isotopes",
-          "imageUrl": "https://imgs.xkcd.com/comics/hydrogen_isotopes_2x.png"
         }
       ]
     },
@@ -803,6 +814,16 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=71670",
+          "author": "Kristina Bravo",
+          "description": "Charnaie Gordon is the content creator behind Here Wee Read, a blog that advocates for diversity and inclusivity in children’s literature. She’s also the author of several children’s books, including “Lift Every Voice and Change: A Celebration of Black Leaders and the Words that Inspire Generations,” You can follow her on Instagram. I’ve always attributed […]\nThe post How to talk to kids about finding community online appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/internet-culture/how-to-talk-to-kids-about-finding-community-online/",
+          "publishedOn": "2023-03-02T17:31:02.000Z",
+          "wordCount": 2303,
+          "title": "How to talk to kids about finding community online",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/03/How-to-talk-to-kids-about-finding-community-online_5-1080x720.jpg"
+        },
         {
           "id": "https://blog.mozilla.org/?p=71646",
           "author": "Kristina Bravo",
@@ -1620,6 +1641,36 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/03/the-octopus-test-for-large-language-model-ais",
+          "author": null,
+          "description": "In 2020, before the current crop of large language models (LLM) like ChatGPT and Bing, Emily Bender and Alexander Koller wrote a paper on their limitations called Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data. In the paper, Bender and Koller describe an “octopus test” as a way of thinking about what LLMs are capable of and what they aren’t. A recent profile of Bender by Elizabeth Weil for New York magazine (which is worth reading in its entirety) summarizes the octopus test thusly:\nSay that A and B, both fluent speakers of English, are independently stranded on two uninhabited islands. They soon discover that previous visitors to these islands have left behind telegraphs and that they can communicate with each other via an underwater cable. A and B start happ…",
+          "link": "https://kottke.org/23/03/the-octopus-test-for-large-language-model-ais",
+          "publishedOn": "2023-03-02T20:04:46.000Z",
+          "wordCount": 905,
+          "title": "The Octopus Test for Large Language Model AIs",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/03/succession-the-final-season",
+          "author": null,
+          "description": "The official trailer for the now-confirmed final season of Succession (until they do one more, like 12 years from now). Premieres on HBO Max March 26. As I said when the teaser trailer dropped in January, Succession is my current pick for The Best Show on TV Right Now and I’m excited (and sad) for this final season!\nTags: Succession   trailers   TV   video",
+          "link": "https://kottke.org/23/03/succession-the-final-season",
+          "publishedOn": "2023-03-02T17:53:01.000Z",
+          "wordCount": 233,
+          "title": "Succession, The Final Season",
+          "imageUrl": "https://img.youtube.com/vi/t3D3ewle7XY/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/03/travelling-to-the-most-extreme-place-in-the-universe",
+          "author": null,
+          "description": "In a 1959 talk entitled There’s Plenty of Room at the Bottom, physicist Richard Feynman casually invented nanotechnology, inviting the audience and then the world to imagine exploring and making use of the “inner space” of the micro and nano realms. In this video from Kurzgesagt, thye imagine how things would seem if you could somehow shrink yourself down to the size of a grain of sand or a molecule or even smaller, sort of a more educational (but still fun) Ant-Man and the Wasp: Quantumania.\nYou are the size of a grain of sand just 2 mm high, standing on a blade of grass that seems as tall as an eight storey building to you. A square meter of lawn is now a dense metropolitan area, with 100,000 blades, or two Manhattans worth of grass towers. From your new tiny perspective, the park that you could quickly stroll through before, is now the size of France. Crossing it would take at least a week. Human-sized humans loom over you, 4 times taller than the Empire state building, their steps falling from horizon to horizon.\nA bee the size of a helicopter lands near you, making the ground shake, as its hairy carapace vibrates with each wingbeat. You try to escape but are barely able to move because the air is so… gooey. Before you clicked the button air resistance was barely noticeable — but as you’re now a thousand times smaller, it is as if the air has become a thousand times denser. It feels like you are moving through honey.\nFlying insects like bees use this to their advantage. Their wings are not made for gliding but like paddles that row through the air. Scaled up to human size, the bee would outrun a Concorde Jet — except it couldn’t even take off because it would be too heavy for its wings.\n\n\nSee also Meet the Nano Sapiens, Scaling Laws and the Speed of Animals, The Biology of B-Movie Monsters, and Powers of Ten.\nTags: Kurzgesagt   nanotechnology   science   video",
+          "link": "https://kottke.org/23/03/travelling-to-the-most-extreme-place-in-the-universe",
+          "publishedOn": "2023-03-02T17:03:09.000Z",
+          "wordCount": 521,
+          "title": "Travelling to The Most Extreme Place in The Universe",
+          "imageUrl": "https://img.youtube.com/vi/FfWtIaDtfYk/0.jpg"
+        },
         {
           "id": "https://kottke.org/23/03/why-did-everything-get-so-expensive",
           "author": null,
