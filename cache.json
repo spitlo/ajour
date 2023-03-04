@@ -6,6 +6,16 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=7562",
+          "author": "Chris Heilmann",
+          "description": "I am currently affected by the wave of layoffs in the technology industry and this isn’t my first rodeo. The difference is that it feels worse this time as I am not only annoyed by losing my job, but I am starting to feel that the system is incredibly flawed. Instead of building a sustainable […]",
+          "link": "https://christianheilmann.com/2023/03/03/continuous-growth-is-cancer/",
+          "publishedOn": "2023-03-03T11:40:12.000Z",
+          "wordCount": 1409,
+          "title": "Continuous growth is cancer",
+          "imageUrl": null
+        },
+        {
           "id": "https://christianheilmann.com/?p=7559",
           "author": "Chris Heilmann",
           "description": "Want to automatically generate tests for your JS/TS functions? GitHub CoPilot now does that. GitHubNext added a TestPilot experiment that can generate tests for a function by analysing it and scanning the docs and comments.",
@@ -121,16 +131,6 @@
           "wordCount": 1650,
           "title": "Making a security key for the Framework laptop",
           "imageUrl": "https://www.stavros.io/static/images/favicons/og-image.jpg?h=3375145f"
-        },
-        {
-          "id": "https://www.stavros.io/posts/block-non-cloudflare-ips-with-ufw/",
-          "author": null,
-          "description": "DDoS and DDon'ts\nNote: To skip the story and immediately go to the script that will fetch Cloudflare IPs and whitelist them using ufw, scroll down.\nAn interesting thing happened today:\nSomeone contacted one of my clients and told them that he found a catastrophic regex backtracking vulnerability in one of their apps.\nThis was interesting, because the app is a simple Next.js site that doesn’t use regex.\nAlso, as far as I could see, Next.js doesn’t have any such vulnerabilities reported against it, so we were curious to figure out what was going on.\nMy client asked him to demonstrate the vulnerability, and he did.\nSure enough, it brought the service down, but it also brought down the entire server, which was a bit odd.\n“Oh well”, I thought, “maybe it took up enough CPU to make the machine unresponsive”.\nThe reporter then asked for a fee of 6 ETH to give my client information about the vulnerability and how to fix it, and gave references from other services.\nHe even asked about possibly being hired by my client in a full-time position, to help with security.\nObserving the vulnerability first-hand\nI wanted to see the request for myself, though, so I could figure out which path it hits, reproduce it, and fix it.\nI asked my client to put the reporter in touch with “their security person” (me), so I could ask for another demonstration, this time being ready with logs to see what was going on.\nThe reporter agreed, and I logged onto the server to look around for",
-          "link": "https://www.stavros.io/posts/block-non-cloudflare-ips-with-ufw/",
-          "publishedOn": "2023-01-03T00:17:33.000Z",
-          "wordCount": 1351,
-          "title": "Block non-Cloudflare IPs with ufw",
-          "imageUrl": "https://www.stavros.io/static/images/favicons/og-image.jpg?h=3375145f"
         }
       ]
     },
@@ -201,6 +201,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2745/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/obituary_editor.png\" title=\"As the editor has reportedly defeated Death in a series of games of skill, no further obituaries are expected.\" alt=\"As the editor has reportedly defeated Death in a series of games of skill, no further obituaries are expected.\" />",
+          "link": "https://xkcd.com/2745/",
+          "publishedOn": "2023-03-03T00:00:00.000Z",
+          "wordCount": 180,
+          "title": "Obituary Editor",
+          "imageUrl": "https://imgs.xkcd.com/comics/obituary_editor_2x.png"
+        },
         {
           "id": "https://xkcd.com/2744/",
           "author": null,
@@ -1002,6 +1012,16 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/",
+          "author": null,
+          "description": "Hello! For some reason after the last nix post I got nerdsniped by trying to understand how Nix builds\nwork under the hood, so here’s a quick exploration I did today. There are probably some mistakes in here.\nI started by complaining on Mastodon:\nare there any guides to nix that start from the bottom up (for example\nstarting with this bash script\nand then working up the layers of abstraction) instead of from the top down?\nall of the guides I’ve seen start by describing the nix programming language\nor other abstractions, and I’d love to see a guide that starts with concepts I\nalready understand like compiler flags, linker flags, Makefiles, environment\nvariables, and bash scripts\nRoss Light wrote a great blog post in response called Connecting Bash to Nix, that shows how to compile a basic C…",
+          "link": "https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/",
+          "publishedOn": "2023-03-03T11:19:25.000Z",
+          "wordCount": 2686,
+          "title": "How do Nix builds work?",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2023/02/28/some-notes-on-using-nix/",
           "author": null,
           "description": "Recently I started using a Mac for the first time. The biggest downside I’ve\nnoticed so far is that the package management is much worse than on Linux.\nAt some point I got frustrated with homebrew because I felt like it was\nspending too much time upgrading when I installed new packages, and so I\nthought – maybe I’ll try the nix package manager!\nnix has a reputation for being confusing (it has its whole\nown programming language!), so I’ve been trying to figure out how to use nix in\na way that’s as simple as possible and does not involve managing any\nconfiguration files or learning a new programming language. Here’s what I’ve\nfigured out so far! We’ll talk about how to:\ninstall packages with nix\nbuild a custom nix package for a C++ program called paperjam\ninstall a 5-year-old version of hugo…",
@@ -1641,6 +1661,36 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/03/the-wooden-toy-train-video-game",
+          "author": null,
+          "description": "I randomly came across this YouTube video from an engineer (civil, not railroad) who was building virtual railroads using wooden toy tracks, you know from when you were a kid. Anyway, it turns out that he was playing an open-world game called Tracks, which is available on Steam, Nintendo Switch, and Xbox. Looks fun — if I ever get any free time again, I might give this one a shot.\nTags: trains   video   video games",
+          "link": "https://kottke.org/23/03/the-wooden-toy-train-video-game",
+          "publishedOn": "2023-03-03T20:31:48.000Z",
+          "wordCount": 250,
+          "title": "The Wooden Toy Train Video Game",
+          "imageUrl": "https://img.youtube.com/vi/4E3DdJ0GzSo/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/03/grand-canons-a-visual-symphony-of-everyday-objects",
+          "author": null,
+          "description": "Ok, this is one where you’re going to have to trust me and just watch it. Grands Canons is a stop-motion animated video by Alain Biet of thousands of meticulously hand-painted images of everyday items moving and dancing to music.\nA brush makes watercolors appear on a white sheet of paper. An everyday object takes shape, drawn with precision by an artist’s hand. Then two, then three, then four… Superimposed, condensed, multiplied, thousands of documentary drawings in successive series come to life on the screen, composing a veritable visual symphony of everyday objects. The accumulation, both fascinating and dizzying, takes us on a trip through time.\n\n\nIt’s really just wonderful — once you get into it, you won’t be able to stop watching. More of Biet’s work can be found on his website or on Instagram. (via waxy & colossal)\nTags: Alain Biet   art   mesmerizing   stop motion   video",
+          "link": "https://kottke.org/23/03/grand-canons-a-visual-symphony-of-everyday-objects",
+          "publishedOn": "2023-03-03T17:14:27.000Z",
+          "wordCount": 325,
+          "title": "Grand Canons, a Visual Symphony of Everyday Objects",
+          "imageUrl": "https://img.youtube.com/vi/DGSqglrPadw/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/03/football-is-forbidden",
+          "author": null,
+          "description": "A beautiful scene from the 2014 Mauritanian film Timbuktu (which was recently included on Slate’s New Black Film Canon), in which young men under the rule of Islamic extremists quietly and defiantly play a forbidden football match with an imaginary ball. (thx, caroline)\nTags: movies   religion   soccer   sports   Timbuktu",
+          "link": "https://kottke.org/23/03/football-is-forbidden",
+          "publishedOn": "2023-03-03T15:14:30.000Z",
+          "wordCount": 216,
+          "title": "Football Is Forbidden",
+          "imageUrl": "https://img.youtube.com/vi/yZ3ammxF1Pg/0.jpg"
+        },
         {
           "id": "https://kottke.org/23/03/the-octopus-test-for-large-language-model-ais",
           "author": null,
@@ -3320,36 +3370,6 @@
           "wordCount": 413,
           "title": "Meet the Artists Behind the USPS’s Upcoming ‘Art of the Skateboard’ Stamps",
           "imageUrl": "https://kottke.org/plus/misc/images/skateboard-stamps-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/15/06/super-mario-bros-was-designed-on-graph-paper",
-          "author": null,
-          "description": "In talking about an upcoming game (more on that in a bit), Nintendo’s Shigeru Miyamoto and Takashi Tezuka discuss the process they used in designing the levels for the original Super Mario Bros. Much of the design work happened on graph paper.1\n\nBack in the day, we had to create everything by hand. To design courses, we would actually draw them one at a time on to these sheets of graph paper. We’d then hand our drawings to the programmers, who would code them into a build.\n\n\t\nHere’s the full video discussion:\n\nNow, about that game… Super Mario Maker is an upcoming title for Wii U that lets you create your own Super Mario Bros levels with elements from a bunch of different Mario games. So cool…I might actually have to get a Wii U for this.\nThis is pretty much the same process I used when designing levels for Lode Runner back in the day.↩\nTags:Nintendo    \nShigeru Miyamoto    \nSuper Mario Bros    \nTakashi Tezuka    \nvideo    \nvideo games",
-          "link": "https://kottke.org/15/06/super-mario-bros-was-designed-on-graph-paper",
-          "publishedOn": "2023-01-02T19:33:35.000Z",
-          "wordCount": 343,
-          "title": "Super Mario Bros Was Designed on Graph Paper",
-          "imageUrl": "https://kottke.org/plus/misc/images/super-mario-graph.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/01/how-to-revive-barnes-noble-get-a-ceo-who-loves-books",
-          "author": null,
-          "description": "Ted Gioia is one of the best music writers and critics around but has proved an astute cultural (and even business!) critic as well. In a piece for his excellent The Honest Broker newsletter, Gioia writes about the recent turnaround of Barnes & Noble, which he attributes to the company’s new CEO and his love of books. James Daunt, who took the helm of B&N in late 2019, previously saved UK bookshop chain Waterstones, in part by refusing to take promotional money from publishers:\nDaunt refused to play this game. He wanted to put the best books in the window. He wanted to display the most exciting books by the front door. Even more amazing, he let the people working in the stores make these decisions.\nThis is James Daunt’s super power: He loves books.\n“Staff are now in control of their own sh…",
-          "link": "https://kottke.org/23/01/how-to-revive-barnes-noble-get-a-ceo-who-loves-books",
-          "publishedOn": "2023-01-02T17:34:56.000Z",
-          "wordCount": 621,
-          "title": "How to Revive Barnes & Noble: Get a CEO Who Loves Books",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/01/hydraulic-press-interpretive-dances",
-          "author": null,
-          "description": "I woke up this morning and, for some reason, needed Sarah “Smac” McCreanor’s hydraulic press interpretive dances to be the first thing you saw on this site in 2023. I’ve watched these on Instagram many times before (see the whole set here) but I think it’s worth stopping to appreciate just how great these are: the wardrobe, the inventiveness in interpretation, the physicality, the comedic timing, and the precise choreography with the press. It’s something completely ridiculous pulled off with unbelievable skill — more of that energy in 2023 please!\nTags: dance   Sarah McCreanor   video",
-          "link": "https://kottke.org/23/01/hydraulic-press-interpretive-dances",
-          "publishedOn": "2023-01-02T14:53:51.000Z",
-          "wordCount": 265,
-          "title": "Hydraulic Press Interpretive Dances",
-          "imageUrl": "https://img.youtube.com/vi/HWqB6UxERAk/0.jpg"
         }
       ]
     }
