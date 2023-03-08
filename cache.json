@@ -131,16 +131,6 @@
           "wordCount": 2553,
           "title": "Hacking my appetite",
           "imageUrl": "https://www.stavros.io/static/images/favicons/og-image.jpg?h=3375145f"
-        },
-        {
-          "id": "https://www.stavros.io/posts/making-a-security-key-for-the-framework-laptop/",
-          "author": null,
-          "description": "I'm loving the Framework\nI was searching for a laptop to replace my 5-year-old Dell XPS, and I came across the Framework laptop.\nI had heard good things about it, and I liked the hackability, so I thought I’d give it a shot, and ordered it.\nMy first impression was extremely positive, it came with the RAM sticks in boxes, and I had to use the built-in screwdriver to open the laptop up and install the RAM.\nAll the components inside have QR codes with guides on how to install things, and opening the laptop is a matter of unscrewing five (captive, yay!) screws and popping up the magnetic keyboard, it took twenty seconds to slot the RAM sticks in and be ready to go.\nUnfortunately, I made a grave mistake",
-          "link": "https://www.stavros.io/posts/making-a-security-key-for-the-framework-laptop/",
-          "publishedOn": "2023-01-06T13:13:37.000Z",
-          "wordCount": 1650,
-          "title": "Making a security key for the Framework laptop",
-          "imageUrl": "https://www.stavros.io/static/images/favicons/og-image.jpg?h=3375145f"
         }
       ]
     },
@@ -211,6 +201,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2746/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/launch_window.png\" title=\"&quot;Confirmed, we have to scrub.&quot; &quot;Ugh, okay. I'll get the bucket and sponge.&quot;\" alt=\"&quot;Confirmed, we have to scrub.&quot; &quot;Ugh, okay. I'll get the bucket and sponge.&quot;\" />",
+          "link": "https://xkcd.com/2746/",
+          "publishedOn": "2023-03-06T00:00:00.000Z",
+          "wordCount": 180,
+          "title": "Launch Window",
+          "imageUrl": "https://imgs.xkcd.com/comics/launch_window_2x.png"
+        },
         {
           "id": "https://xkcd.com/2745/",
           "author": null,
@@ -992,6 +992,16 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2023/03/06/possible-reasons-8-bit-bytes/",
+          "author": null,
+          "description": "I’ve been working on a zine about how computers represent thing in binary, and\none question I’ve gotten a few times is – why does the x86 architecture use 8-bit bytes? Why not\nsome other size?\nWith any question like this, I think there are two options:\nIt’s a historical accident, another size (like 4 or 6 or 16 bits) would work just as well\n8 bits is objectively the Best Option for some reason, even if history had played out differently we would still use 8-bit bytes\nsome mix of 1 & 2\nI’m not super into computer history (I like to use computers a lot more than I\nlike reading about them), but I am always curious if there’s an essential\nreason for why a computer thing is the way it is today, or whether it’s mostly\na historical accident. So we’re going to talk about some computer history.\nAs …",
+          "link": "https://jvns.ca/blog/2023/03/06/possible-reasons-8-bit-bytes/",
+          "publishedOn": "2023-03-07T06:51:58.000Z",
+          "wordCount": 2815,
+          "title": "Some possible reasons for 8-bit bytes",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/",
           "author": null,
           "description": "Hello! For some reason after the last nix post I got nerdsniped by trying to understand how Nix builds\nwork under the hood, so here’s a quick exploration I did today. There are probably some mistakes in here.\nI started by complaining on Mastodon:\nare there any guides to nix that start from the bottom up (for example\nstarting with this bash script\nand then working up the layers of abstraction) instead of from the top down?\nall of the guides I’ve seen start by describing the nix programming language\nor other abstractions, and I’d love to see a guide that starts with concepts I\nalready understand like compiler flags, linker flags, Makefiles, environment\nvariables, and bash scripts\nRoss Light wrote a great blog post in response called Connecting Bash to Nix, that shows how to compile a basic C…",
@@ -1191,6 +1201,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=4922",
+          "author": "Cory Doctorow",
+          "description": "Today's links End to End: Willing speakers should reach willing listeners. Hey look at this: Delights to delectate. This day in history: 2008, 2013, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading > End to End (permalink) In \"End to End,\" my new column for Locus Magazine, I propose a policy framework for a better internet: the \"End to End\" principle (E2E), a bedrock of the original design for the internet, updated for the modern, monopolized web, as a way of disenshittifying it: https://locusmag.com/2023/03/commentary-cory-doctorow-end-to-end/ The original E2E marked the turning point from telco-based systems where power was gathered at the center, controlled by carriers, to the packet-switched internet, where power moved to the ed…",
+          "link": "https://pluralistic.net/2023/03/07/disenshittification/",
+          "publishedOn": "2023-03-07T12:49:12.000Z",
+          "wordCount": 4006,
+          "title": "Pluralistic: End to End (07 Mar 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=4917",
           "author": "Cory Doctorow",
@@ -1647,16 +1667,6 @@
           "wordCount": 3109,
           "title": "A curation of beautiful thoughtful poetic silly and queer zines made with the Electric Zine Maker",
           "imageUrl": "http://nathalielawhead.com/noodles/EZM_zinestocheckout/cover.png"
-        },
-        {
-          "id": "http://www.nathalielawhead.com/candybox/?p=5471",
-          "author": "alienmelon",
-          "description": "Recently I wrote about the wonderful open-source no-code world of GDevelop and featured some of the games made in it. It’s a beautiful accessible tool that’s very welcoming to newcomers. GDevelop is running it’s third gamejam, and I’m going to be participating in it too! * The GDevelop Game Jam #3 Is Here! * GDevelop Game Jam itch page I have to say again how encouraged I am that such wonderful tools and communities exist. Recent criticisms levied toward how Adobe is collecting customer’s pictures into machine training sets (see this Mastodon post ), or other discussions about how Microsoft...",
-          "link": "http://www.nathalielawhead.com/candybox/the-gdevelop-game-jam-3-is-here-with-prizes-and-im-honored-to-be-a-judge",
-          "publishedOn": "2023-01-07T00:09:35.000Z",
-          "wordCount": 2579,
-          "title": "The GDevelop Game Jam #3 is here (with prizes!) and I’m honored to be a judge…",
-          "imageUrl": "http://nathalielawhead.com/noodles/gdevelop-jam3/banner.png"
         }
       ]
     },
@@ -1671,6 +1681,36 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/03/an-excerpt-from-david-granns-forthcoming-book-the-wager",
+          "author": null,
+          "description": "David Grann’s newest book, The Wager: A Tale of Shipwreck, Mutiny and Murder (ebook), comes out next month. It tells the story of a British shipwreck that happened during the war with Spain in the 1740s. The New Yorker, where Grann is a staff writer, is running an excerpt from the book to whet your appetite.\nEach man in the squadron carried, along with a sea chest, his own burdensome story. Perhaps it was of a scorned love, or a secret prison conviction, or a pregnant wife left onshore weeping. Perhaps it was a hunger for fame and fortune, or a dread of death. David Cheap, the first lieutenant of the Centurion, the squadron’s flagship, was no different. A burly Scotsman in his early forties, with a protracted nose and intense eyes, he was in flight — from squabbles with his brother over th…",
+          "link": "https://kottke.org/23/03/an-excerpt-from-david-granns-forthcoming-book-the-wager",
+          "publishedOn": "2023-03-07T21:54:00.000Z",
+          "wordCount": 634,
+          "title": "An Excerpt From David Grann’s Forthcoming Book, The Wager",
+          "imageUrl": "https://kottke.org/plus/misc/images/hms-wager.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/03/im-blogging",
+          "author": null,
+          "description": "I have no idea what this video is or where it came from (and I don’t want to?) but this is basically me between 9am and 3pm everyday.\n\nHold my calls, I’m busy blogging! (via andy)\nTags: video   weblogs",
+          "link": "https://kottke.org/23/03/im-blogging",
+          "publishedOn": "2023-03-07T18:42:20.000Z",
+          "wordCount": 207,
+          "title": "I’m Blogging",
+          "imageUrl": "https://img.youtube.com/vi/12yD8JyaVvY/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/03/notes-art",
+          "author": null,
+          "description": "Every day, Chris Silverman draws a small artwork using only the Notes app on his iPhone.\n#notesArt is a style formed by the limitations of the medium: I draw with my finger on a screen the size of a 3-by-5 card, using drawing tools that were designed for annotating documents, not making artwork. Similar to an app, each work is minimalist and limited in scope. The simple nature of the tool allows me to focus on the essence of each piece; perhaps a strange thing to be able to do on a device known primarily for providing distraction.\n\n\nLike he says, this is a great example of how contraints can foster creativity. Here’s what I don’t understand though: WTF? How does anyone do drawings this detailed in the Notes app with just their finger?! I just tried to make a smiley face and it looks like a 3-year-old did it. (Ok, a 1-year-old.)\nTags: art   Chris Silverman   telephony",
+          "link": "https://kottke.org/23/03/notes-art",
+          "publishedOn": "2023-03-07T16:43:07.000Z",
+          "wordCount": 325,
+          "title": "Notes Art",
+          "imageUrl": "https://kottke.org/plus/misc/images/notes-art-01.jpg"
+        },
         {
           "id": "https://kottke.org/23/03/the-rules-for-travelling-on-the-autobahn-through-east-germany-to-west-berlin",
           "author": null,
@@ -3270,46 +3310,6 @@
           "wordCount": 272,
           "title": "The White Noise End-Credits Grocery Store Dance Scene",
           "imageUrl": "https://img.youtube.com/vi/nJblPY5hVHI/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/12/05/alan-rickman-drinks-tea-dramatically",
-          "author": null,
-          "description": "Many of you liked the slinky on the treadmill video. This slow-motion video of Alan Rickman drinking tea isn’t quite as compelling, but it’s not bad either. Wait for the drop around 1:22 before judging.\n\nThe original video without the dramatic sound is here. (More info.)\n\n\n\n\n Tags:Alan Rickman    \nslow motion    \nvideo",
-          "link": "https://kottke.org/12/05/alan-rickman-drinks-tea-dramatically",
-          "publishedOn": "2023-01-06T22:13:17.000Z",
-          "wordCount": 225,
-          "title": "Alan Rickman Drinks Tea Dramatically",
-          "imageUrl": "https://img.youtube.com/vi/AwVf8b2Skgs/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/01/the-winners-of-the-2022-close-up-photographer-of-the-year-awards",
-          "author": null,
-          "description": "The results of the 4th annual Close-Up Photographer of the Year competition have been announced and you can take a look at the top 100 images right here. I’ve included a few of my favorites above from photographers Minghui Yuan, Alex Pansier, Andy Sands, and Szűcs Boldizsár. (thx, jodi)\nTags: best of   best of 2022   photography",
-          "link": "https://kottke.org/23/01/the-winners-of-the-2022-close-up-photographer-of-the-year-awards",
-          "publishedOn": "2023-01-06T20:02:24.000Z",
-          "wordCount": 241,
-          "title": "The Winners of the 2022 Close-Up Photographer of the Year Awards",
-          "imageUrl": "https://kottke.org/plus/misc/images/closeup-photo-2022-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/01/legos-the-great-wave-off-kanagawa",
-          "author": null,
-          "description": "As part of the company’s effort to get more adults building with bricks, LEGO has released an 1810-piece set based on Hokusai’s The Great Wave Off Kanagawa. Here’s the only problem: it’s sold out online (and on Amazon as well). Perhaps you can find one at your local toy store?\nIf you were lucky enough to procure a set, Lego has produced an 85-minute audio piece about The Great Wave that you can listen to while you’re putting it together. The piece includes interviews with woodblock printer David Bull, Alfred Haft, curator of Japanese Art at the British Museum, and anime & manga scholar Susan Napier. Very cool.\nTags: art   Katsushika Hokusai   Lego",
-          "link": "https://kottke.org/23/01/legos-the-great-wave-off-kanagawa",
-          "publishedOn": "2023-01-06T17:12:49.000Z",
-          "wordCount": 288,
-          "title": "Lego’s The Great Wave Off Kanagawa",
-          "imageUrl": "https://kottke.org/plus/misc/images/lego-great-wave.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/01/how-spider-verse-is-leading-the-shift-away-from-the-pixar-look",
-          "author": null,
-          "description": "When Spider-Man: Into the Spider-Verse came out in 2018, it had a very different look than most other animated feature-length films. Since the release of Toy Story in the mid-90s, digitally animated films made by the large studios had taken their cues from Pixar. “The Pixar Look” was “extremely high quality, physically based, and in some cases almost photorealistic”. Spider-Verse introduced a different style and since then, digital animation studios have been experimenting with non-photorealism. This video looks at how that shift is happening.\nTags: animation   film school   movies   Pixar   Spider-Man   video",
-          "link": "https://kottke.org/23/01/how-spider-verse-is-leading-the-shift-away-from-the-pixar-look",
-          "publishedOn": "2023-01-06T15:01:13.000Z",
-          "wordCount": 274,
-          "title": "How Spider-Verse Is Leading the Shift Away from “The Pixar Look”",
-          "imageUrl": "https://img.youtube.com/vi/l96IgQmXmhM/0.jpg"
         }
       ]
     }
