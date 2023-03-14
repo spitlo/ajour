@@ -440,16 +440,6 @@
           "wordCount": 207,
           "title": "Sunspot Cycle",
           "imageUrl": "https://imgs.xkcd.com/comics/sunspot_cycle_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2724/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/washing_machine_settings.png\" title=\"I guess the engineers who built my dishwasher MIGHT have some insight into how to load it, but instead of reading the booklet they gave me, it seems easier to experiment for years and then get in arguments so heated that I get banned from Quora.\" alt=\"I guess the engineers who built my dishwasher MIGHT have some insight into how to load it, but instead of reading the booklet they gave me, it seems easier to experiment for years and then get in arguments so heated that I get banned from Quora.\" />",
-          "link": "https://xkcd.com/2724/",
-          "publishedOn": "2023-01-13T00:00:00.000Z",
-          "wordCount": 209,
-          "title": "Washing Machine Settings",
-          "imageUrl": "https://imgs.xkcd.com/comics/washing_machine_settings_2x.png"
         }
       ]
     },
@@ -1090,16 +1080,6 @@
           "wordCount": 2908,
           "title": "Examples of problems with integers",
           "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/",
-          "author": null,
-          "description": "Hello! I’ve been thinking about writing a zine about how things are represented on computers in bytes, so I was thinking about floating point.\nI’ve heard a million times about the dangers of floating point arithmetic, like:\naddition isn’t associative (x + (y + z) is different from (x + y) + z)\nif you add very big values to very small values, you can get inaccurate results (the small numbers get lost!)\nyou can’t represent very large integers as floating numbers\nNaN/infinity values can propagate and cause chaos\nthere are two zeros (+0 and -0), and they’re not represented the same way\ndenormal/subnormal values are weird\nBut I find all of this a little abstract on its own, and I really wanted some\nspecific examples of floating point bugs in real-world programs.\nSo I asked on Mastodon for\nexamp…",
-          "link": "https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/",
-          "publishedOn": "2023-01-13T09:02:06.000Z",
-          "wordCount": 2710,
-          "title": "Examples of floating point problems",
-          "imageUrl": null
         }
       ]
     },
@@ -1197,16 +1177,6 @@
           "wordCount": 4583,
           "title": "Clever Code Considered Harmful",
           "imageUrl": "https://www.joshwcomeau.com/images/og-clever-code-considered-harmful.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/",
-          "author": "Josh W. Comeau",
-          "description": "When we truly learn the secrets of the Flexbox layout mode, we can build absolutely incredible things. Fluid layouts that stretch and shrink without arbitrary breakpoints. In this action-packed interactive tutorial, we'll pop the hood on the Flexbox algorithm and learn how to do remarkable things with it. ✨",
-          "link": "https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/",
-          "publishedOn": "2023-01-13T00:15:30.000Z",
-          "wordCount": 12220,
-          "title": "An Interactive Guide to Flexbox",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-interactive-guide-to-flexbox.png"
         }
       ]
     },
@@ -1615,16 +1585,6 @@
           "wordCount": 2674,
           "title": "Pluralistic: Kate Beaton's \"Ducks\" (14 Jan 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=4649",
-          "author": "Cory Doctorow",
-          "description": "Today's links Booklist on \"Red Team Blues\": \"Another winner from an sf wizard who has always proved himself adept at blending genres for both adults and teens.\" Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Booklist on \"Red Team Blues\" (permalink) I've published more than 20 books, and I still get nervous in the few months leading up to a new book's release. It's one thing for my agent, my editor and my wife to like one of my novels – but what about the rest of the world? Will the book soar, or bomb? I've had books do both, and the latter is No Fun. Scarifying, even. My next novel is Red Team Blues, which Tor Books and Head of Zeus will publish on Apr…",
-          "link": "https://pluralistic.net/2023/01/13/marty-hench/",
-          "publishedOn": "2023-01-13T10:58:44.000Z",
-          "wordCount": 2844,
-          "title": "Pluralistic: Booklist on \"Red Team Blues\" (13 Jan 2023)",
-          "imageUrl": null
         }
       ]
     },
@@ -1701,6 +1661,36 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/03/how-to-draw-fantasy-world-maps",
+          "author": null,
+          "description": "I am not a particular fan of fantasy games, but I do like watching people draw and talk about their process, particularly when it’s accessible to beginners. On his YouTube channel, JP Coovert shows people how to draw maps for fantasy games, books, and other media. Here’s a few examples to whet the appetite.\n\n\n\n\n(via the kid should see this)\nTags: art   how to   JP Coovert   video",
+          "link": "https://kottke.org/23/03/how-to-draw-fantasy-world-maps",
+          "publishedOn": "2023-03-13T20:35:27.000Z",
+          "wordCount": 241,
+          "title": "How to Draw Fantasy World Maps",
+          "imageUrl": "https://img.youtube.com/vi/a2F7WXLcd6s/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/03/kottke-25-its-membership-time",
+          "author": null,
+          "description": "Good morning! Tomorrow marks 25 years of blogging here at kottke.org and it’s been more than three months since I returned from my sabbatical, so I thought it would be a good time to:\na) Once again express my heartfelt thanks to those of you who have supported the site over the years by purchasing a membership. Kottke.org has been my full-time job since 2005, and I’ve said this many times before but: this membership support is essential in keeping the site running so smoothly, with few membership solicitations like this one, very minimal advertising, no popup newsletter sign-up forms, a full-text RSS feed w/ no ads, etc. etc. etc.\nAnd perhaps nearest and dearest to my heart, member support keeps the site free, open, and available to everyone on an internet that is increasingly paywalled. I…",
+          "link": "https://kottke.org/23/03/kottke-25-its-membership-time",
+          "publishedOn": "2023-03-13T15:01:55.000Z",
+          "wordCount": 1014,
+          "title": "Kottke 25: It’s Membership Time!",
+          "imageUrl": "https://kottke.org/plus/misc/images/kottke-member-neon.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/03/everything-everywhere-all-at-once-1",
+          "author": null,
+          "description": "I loved Everything Everywhere All at Once so much when I saw it in the theater last spring. It caught me in a low moment and swept me up in a protective embrace; it was magic. I was afraid this joyously weird movie would get lost in the Very Serious Film shuffle come awards time but I was beyond thrilled when I woke up this morning to the news that EEAAO swept the major categories for which it was nominated at the Oscars. Here are all the film’s wins from last night:\n\nBest Picture - Daniel Kwan, Daniel Scheinert, and Jonathan Wang, producers (acceptance speech).\n\n\nBest Director - Daniel Kwan and Daniel Scheinert (acceptance speech).\n\n\nBest Actress - Michelle Yeoh (acceptance speech).\n\n\nBest Supporting Actor - Ke Huy Quan (acceptance speech).\n\n\nBest Supporting Actress - Jamie Lee Curtis (acceptance speech).\n\n\nBest Original Screenplay - Daniel Kwan and Daniel Scheinert (acceptance speech).\n\n\nBest Film Editing - Paul Rogers (acceptance speech).\n\nSo happy for Michelle Yeoh and Ke Huy Quan in particular! Here are their acceptance speeches:\n\n\nI am disappointed, but only slightly, that Stephanie Hsu didn’t win Best Supporting Actress — her audition for the role of Joy/Jobu Tupaki is amazing if you haven’t seen it. (And she also sang with David Byrne (who wore hot dog fingers) last night?)\nTags: best of   best of 2023   Everything Everywhere All at Once   movies   Oscars   video",
+          "link": "https://kottke.org/23/03/everything-everywhere-all-at-once-1",
+          "publishedOn": "2023-03-13T12:27:05.000Z",
+          "wordCount": 402,
+          "title": "Everything Everywhere All at Once!",
+          "imageUrl": "https://img.youtube.com/vi/eQcQrFkBSuQ/0.jpg"
+        },
         {
           "id": "https://kottke.org/23/03/kottke-25-the-talk-show-with-john-gruber",
           "author": null,
@@ -3330,46 +3320,6 @@
           "wordCount": 260,
           "title": "Gio Swaby’s Colorful Textile Portraits",
           "imageUrl": "https://kottke.org/plus/misc/images/gio-swaby-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/01/a-bonkers-highway-interchange",
-          "author": null,
-          "description": "Well, would you look at this great photo by Rob Antill of the amazing Takaosan Interchange located in Sagamihara, Japan. It’s like Bézier curves meets highway engineering meets Euler’s Seven Bridges of Königsberg meets Mr. Messy.\nSee also Aerial Photos Reveal the Sculptural Beauty of Japanese Highway Interchanges, Crazy Whirlpool Traffic Interchange in Dubai, and The Flipper Bridge.\nTags: Japan   photography   Rob Antill   traffic",
-          "link": "https://kottke.org/23/01/a-bonkers-highway-interchange",
-          "publishedOn": "2023-01-12T22:17:29.000Z",
-          "wordCount": 234,
-          "title": "A Bonkers Highway Interchange",
-          "imageUrl": "https://kottke.org/plus/misc/images/interchange-antill.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/01/the-most-extreme-rogue-wave-on-record",
-          "author": null,
-          "description": "This video is a simulation of a rogue wave 58 feet tall recorded by a buoy off the coast of Vancouver Island in 2020.\nFor centuries, rogue waves were considered nothing but nautical folklore. It wasn’t until 1995 that myth became fact. On the first day of the new year, a nearly 26-meter-high wave (85 feet) suddenly struck an oil-drilling platform roughly 160 kilometers (100 miles) off the coast of Norway.\nAt the time, the so-called Draupner wave defied all previous models scientists had put together.\nSince then, dozens more rogue waves have been recorded (some even in lakes), and while the one that surfaced near Ucluelet, Vancouver Island was not the tallest, its relative size compared to the waves around it was unprecedented.\nScientists define a rogue wave as any wave more than twice the height of the waves surrounding it. The Draupner wave, for instance, was 25.6 meters tall, while its neighbors were only 12 meters tall.\nIn comparison, the Ucluelet wave was nearly three times the size of its peers.\n\n\nWatching the video is surprising…the wave you think is the tall one isn’t and when it comes, you’re like, ok, WOW. (via damn interesting)\nTags: video",
-          "link": "https://kottke.org/23/01/the-most-extreme-rogue-wave-on-record",
-          "publishedOn": "2023-01-12T19:57:54.000Z",
-          "wordCount": 378,
-          "title": "The Most Extreme Rogue Wave on Record",
-          "imageUrl": "https://img.youtube.com/vi/rK9aKFI2fA8/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/01/the-original-legend-of-zelda-as-a-vr-first-person-shooter",
-          "author": null,
-          "description": "This is such a trip to see the familiar original version of Nintendo’s The Legend of Zelda being played as a VR first-person shooter. You only get one screen at a time with the top-down 2D view, but in this version, you get as much of the map as you can see - it looks like it stretches off into the distance for miles.\nI just went to Wikipedia to look at the release date for Zelda and it came out February 21, 1986. I remember getting Zelda for my birthday that year, which means I somehow waited seven whole months to play that game and, boy was it worth it. I have a Switch now and still fire up the original Zelda sometimes, just to make sure the ol’ reflexes still work. (via digg)\nTags: Nintendo   remix   The Legend of Zelda   video   video games",
-          "link": "https://kottke.org/23/01/the-original-legend-of-zelda-as-a-vr-first-person-shooter",
-          "publishedOn": "2023-01-12T17:20:22.000Z",
-          "wordCount": 326,
-          "title": "The Original Legend of Zelda as a VR First-Person Shooter",
-          "imageUrl": "https://img.youtube.com/vi/5vNA8-UE780/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/01/a-soothing-hour-of-the-sun",
-          "author": null,
-          "description": "Sure, the James Webb Space Telescope and ok, the Hubble, but the Solar Dynamics Observatory has to be right up there for producing some of the most jaw-dropping space photography around. This 4K video from NASA’s Goddard Space Flight Center condenses 133 days of the SRO’s observations of the Sun into a soothing hour-long time lapse.\nSee also The Highest Resolution Photo of the Sun Ever Taken, A Decade of Sun, Epic Time Lapse Videos of Mercury’s Transit of the Sun, and Thermonuclear Art.\nTags: astronomy   mesmerizing   NASA   space   Sun   time lapse   video",
-          "link": "https://kottke.org/23/01/a-soothing-hour-of-the-sun",
-          "publishedOn": "2023-01-12T14:20:28.000Z",
-          "wordCount": 264,
-          "title": "A Soothing Hour of the Sun",
-          "imageUrl": "https://img.youtube.com/vi/Sv3eXRN7hLo/0.jpg"
         }
       ]
     }
