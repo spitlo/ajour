@@ -6,6 +6,16 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=7583",
+          "author": "Chris Heilmann",
+          "description": "With Twitter shutting down its APIs my automatic bookmarking of links broke, so I thought I use GitHub and GitHub pages to store links I talked about instead. Enter Linkshare, a GitHub Pages template that makes it simple to copy your links in a shareable format to use on Twitter, Mastodon, LinkedIn, etc… You can […]",
+          "link": "https://christianheilmann.com/2023/03/14/linkshare-a-github-pages-template-to-store-links-and-share-them-on-social-media/",
+          "publishedOn": "2023-03-14T09:18:51.000Z",
+          "wordCount": 553,
+          "title": "Linkshare – a GitHub Pages template to store links and share them on social media",
+          "imageUrl": null
+        },
+        {
           "id": "https://christianheilmann.com/?p=7580",
           "author": "Chris Heilmann",
           "description": "As MediaTemple ceases all grid servers, I had to move this to a new shared server. I hope all is OK and I am still on it.",
@@ -201,6 +211,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2749/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/lymphocytes.png\" title=\"It's very hard to detect, but recent studies have determined that when plasma B cells are producing antibodies, they go 'pew pew pew'\" alt=\"It's very hard to detect, but recent studies have determined that when plasma B cells are producing antibodies, they go 'pew pew pew'\" />",
+          "link": "https://xkcd.com/2749/",
+          "publishedOn": "2023-03-13T00:00:00.000Z",
+          "wordCount": 178,
+          "title": "Lymphocytes",
+          "imageUrl": "https://imgs.xkcd.com/comics/lymphocytes_2x.png"
+        },
         {
           "id": "https://xkcd.com/2748/",
           "author": null,
@@ -795,6 +815,36 @@
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
         {
+          "id": "https://blog.mozilla.org/?p=71717",
+          "author": "Rebecca Smith",
+          "description": "The last few months it has become clear that AI is no longer our future, but our present. Some of the most exciting ideas for the future of both the internet and the world involve AI solutions. This didn’t happen overnight, decades of work have gone into this moment. Mozilla has been working to make […]\nThe post Mozilla Launches Responsible AI Challenge appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/mozilla-launches-responsible-ai-challenge/",
+          "publishedOn": "2023-03-14T19:30:00.000Z",
+          "wordCount": 1295,
+          "title": "Mozilla Launches Responsible AI Challenge",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/03/AIChallenge_Distilled-text-1080x720.png"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=71705",
+          "author": "Jenifer Boscacci",
+          "description": "If you’re already one of the many people who use Firefox Relay to save your real email address from trackers and spammers, then we’ve got a timesaver for you. We are testing a new way for Firefox Relay users to access their email masks directly from Firefox on numerous sites. Since its launch, Firefox Relay […]\nThe post Email protection just got easier in Firefox appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/email-protection-just-got-easier-in-firefox/",
+          "publishedOn": "2023-03-14T13:01:00.000Z",
+          "wordCount": 1473,
+          "title": "Email protection just got easier in Firefox",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2020/06/fx_blog_header_firefox-relay-1080x720.png"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=71704",
+          "author": "Jenifer Boscacci",
+          "description": "In case you haven’t heard, there’s an ongoing conversation happening about your personal data.  Earlier this year, United States President Biden said in his State of the Union address that there needs to be stricter limits on the personal data that companies collect. Additionally, a recent survey found that most people said they’d like to […]\nThe post Firefox Android’s new privacy feature, Total Cookie Protection, stops companies from keeping tabs on your moves appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/firefox-androids-new-privacy-feature-total-cookie-protection-stops-companies-from-keeping-tabs-on-your-moves/",
+          "publishedOn": "2023-03-14T13:00:00.000Z",
+          "wordCount": 1752,
+          "title": "Firefox Android’s new privacy feature, Total Cookie Protection, stops companies from keeping tabs on your moves",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2020/08/Fx_EU_Blog_Firefox_for_Android_1200x660-990x660.jpg"
+        },
+        {
           "id": "https://blog.mozilla.org/?p=71690",
           "author": "Kristina Bravo",
           "description": "Here at Mozilla, we are the first to admit the internet isn’t perfect, but we are also quick to point out that the internet is pretty darn magical. The internet opens up doors and opportunities, allows for people to connect with others, and lets everyone find where they belong — their corners of the internet. […]\nThe post The Depths of Wikipedia creator on finding the goofy corners of the web appeared first on The Mozilla Blog.",
@@ -1107,6 +1157,16 @@
           "wordCount": 6323,
           "title": "The Rules of Margin Collapse",
           "imageUrl": "https://www.joshwcomeau.com/images/og-rules-of-margin-collapse.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/",
+          "author": "Josh W. Comeau",
+          "description": "When we truly learn the secrets of the Flexbox layout mode, we can build absolutely incredible things. Fluid layouts that stretch and shrink without arbitrary breakpoints. In this action-packed interactive tutorial, we'll pop the hood on the Flexbox algorithm and learn how to do remarkable things with it. ✨",
+          "link": "https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/",
+          "publishedOn": "2023-02-20T23:11:13.000Z",
+          "wordCount": 12217,
+          "title": "An Interactive Guide to Flexbox",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-interactive-guide-to-flexbox.png"
         },
         {
           "id": "https://www.joshwcomeau.com/react/data-binding/",
@@ -1575,16 +1635,6 @@
           "wordCount": 3170,
           "title": "Pluralistic: 1,000,000 stranded Southwest passengers deserved better from Pete Buttigieg (16 Jan 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=4653",
-          "author": "Cory Doctorow",
-          "description": "Today's links Kate Beaton's \"Ducks\": A memoir of oil, misogyny and economic precarity. Hey look at this: Delights to delectate. This day in history: None Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Kate Beaton's \"Ducks\" (permalink) It's been more than a decade since I began thrilling to Kate Beaton's spectacular, hilarious snark-history webcomic \"Hark! A Vagrant,\" pioneering work that mixed deceptively simple lines, superb facial expressions, and devastating historical humor: https://memex.craphound.com/2012/03/23/hark-a-vagrant-the-book/ Beaton developed Hark! into a more explicit political allegory, managing the near-impossible trick of being trenchant and topical while still being explosively funny. Her second Hark! collection, S…",
-          "link": "https://pluralistic.net/2023/01/14/hark-an-oilpatch/",
-          "publishedOn": "2023-01-14T11:43:14.000Z",
-          "wordCount": 2674,
-          "title": "Pluralistic: Kate Beaton's \"Ducks\" (14 Jan 2023)",
-          "imageUrl": null
         }
       ]
     },
@@ -1661,6 +1711,36 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/03/great-art-explained-georges-seurats-a-sunday-on-la-grande-jatte",
+          "author": null,
+          "description": "Say what you will about The Algorithms, but YouTube’s reliably informs this art history lover of every new episode of Great Art Explained and for that I am grateful. This latest episode is about the pointillist masterpiece by Georges Seurat, A Sunday on La Grande Jatte. I had a chance to see this painting in person last summer at The Art Institute of Chicago — spent quite a bit of time looking at it from all angles and distances — so this episode was the perfect accompaniment to that visit.\nThe lack of narrative means we really should look to the artist’s obsession with form, technique and theory — which is practically all he wrote about — and not to meaning or subject matter - which he didn’t write about at all. The painting is really his manifesto. His protagonists don’t have faces or body language, neither a history nor individuality. They are reduced to a hat, a corset, or a pet. They are just characters in his frieze. They exist only to give perfect balance to the composition.\nSome paintings are designed for the viewer to “empathise with” but Seurat keeps us at arm’s length. We are not invited to “participate” in the promenade, and their psychological distance is clear. Both with their neighbors, and with us. It was ancient art that Seurat looked to — of Egypt and Greece. He once said that he “wanted to make modern people move about as they do on the Parthenon Frieze”, and placed them on canvases organized by harmonies of colour. It is what makes the painting so intriguing.  \n\n\n\nTags: art   art school   Georges Seurat   James Payne   video",
+          "link": "https://kottke.org/23/03/great-art-explained-georges-seurats-a-sunday-on-la-grande-jatte",
+          "publishedOn": "2023-03-14T23:40:07.000Z",
+          "wordCount": 461,
+          "title": "Great Art Explained: Georges Seurat’s A Sunday on La Grande Jatte",
+          "imageUrl": "https://kottke.org/plus/misc/images/sunday-on-la-grande-jatte.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/03/kottke-25-one-more-chance-for-hypertext-tees",
+          "author": null,
+          "description": "In celebration of the site’s 25th anniversary, I’ve turned ordering back on for Kottke Hypertext Tees for the next day or so. Here’s what I wrote about them last month:\nFor much of the nearly 25-year lifespan of kottke.org, the site’s tagline has been “home of fine hypertext products”. I always liked that it felt olde timey and futuristic at the same time, although hypertext itself has become antiquated — no one talks of hypertextual media anymore even though we’re all soaking in it.\nAnd so but anyway, I thought it would fun to turn that tagline into a t-shirt, so I partnered with the good folks at Cotton Bureau to make a fine “hypertext” product that you can actually buy and wear around and eventually it’ll wear out and then you can use it to wash your car. If you want to support the site and look good doing it, you can order a Kottke.org Hypertext Tee right now.\n\n\nYou can check out my original post for more details. These shirts were super popular (I sold almost 3X as many as I thought I would) so I figured I’d make them available again for folks who hadn’t seen them the first time around.\nTags: fashion   Kottke 25   kottke.org",
+          "link": "https://kottke.org/23/03/kottke-25-one-more-chance-for-hypertext-tees",
+          "publishedOn": "2023-03-14T19:14:19.000Z",
+          "wordCount": 389,
+          "title": "Kottke 25: One More Chance for Hypertext Tees",
+          "imageUrl": "https://kottke.org/plus/misc/images/kottke-hypertext-tees.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/03/kottke-is-25-years-old-today",
+          "author": null,
+          "description": "I realize how it sounds, but I’m going to say it anyway because it’s the truth. When I first clapped eyes on the World Wide Web, I fell in love. Here’s how I described the experience in a 2016 post about Halt and Catch Fire:\nWhen I tell people about the first time I saw the Web, I sheepishly describe it as love at first sight. Logging on that first time, using an early version of NCSA Mosaic with a network login borrowed from my physics advisor, was the only time in my life I have ever seen something so clearly, been sure of anything so completely. It was a like a thunderclap — “the amazing possibility to be able to go anywhere within something that is magnificent and never-ending” — and I just knew this was for me and that it was going to be huge and important. I know how ridiculous this …",
+          "link": "https://kottke.org/23/03/kottke-is-25-years-old-today",
+          "publishedOn": "2023-03-14T14:11:14.000Z",
+          "wordCount": 12065,
+          "title": "Kottke.org Is 25 Years Old Today and I’m Going to Write About It",
+          "imageUrl": "https://kottke.org/plus/misc/images/kottke-1996.jpg"
+        },
         {
           "id": "https://kottke.org/23/03/how-to-draw-fantasy-world-maps",
           "author": null,
@@ -3280,46 +3360,6 @@
           "wordCount": 254,
           "title": "Drone Dives the Full Height of the Burj Khalifa",
           "imageUrl": "https://img.youtube.com/vi/ccnWu5Ube00/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/01/detailed-martian-geologic-maps-from-the-usgs",
-          "author": null,
-          "description": "The USGS Astrogeology Science Center recently released a series of detailed geological maps of Mars that detail features from the red planet’s past like volcanos and flowing water. If you’re thinking, “hey that looks a lot like a river in that second image”, you’re not far off.\nOne particularly interesting feature that hints at Mars’ watery past is the sinuous ridge, which is a winding, narrow ridge that looks like an inverted river channel. These ridges are interpreted to be aqueous (formed by water), making them possible clues about the history of water on Mars.\n\n\nThe scale of the maps is useful for identifying geologic changes over time:\nThe new map of Aeolis Dorsa adds to the hypothesis that Mars was once wet and had abundant active river systems in the past before aqueous activity decreased over time. This change caused the primary depositional methods in the region to shift from rivers (fluvial) to sediment fans with intermittent deposition (alluvial) and eventually to a dry and wind-driven (aeolian) system. This local pattern mimics our current understanding of the global environmental history of Mars.\n\n\nLovely aesthetics as well. (via @geoffmanaugh)\nTags: geology   maps   Mars   space",
-          "link": "https://kottke.org/23/01/detailed-martian-geologic-maps-from-the-usgs",
-          "publishedOn": "2023-01-13T21:52:32.000Z",
-          "wordCount": 370,
-          "title": "Detailed Martian Geologic Maps from the USGS",
-          "imageUrl": "https://kottke.org/plus/misc/images/usgs-mars-maps-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/01/the-best-opening-title-sequences-of-2022",
-          "author": null,
-          "description": "The Art of the Title, Print magazine, Slashfilm, and Salon have each compiled their picks for the best film and TV opening title sequences for 2022. There’s quite a bit of overlap, with the opening titles for Severance (which I added to the Unskippable Intros Hall of Fame earlier this year), The White Lotus, Peacemaker, and Pachinko making multiple lists. I haven’t seen After Yang yet, but I love that title sequence. Always a fan of lots of creativity and expression packed into small times and spaces.\nTags: best of   best of 2022   lists   movies   TV   video",
-          "link": "https://kottke.org/23/01/the-best-opening-title-sequences-of-2022",
-          "publishedOn": "2023-01-13T19:48:32.000Z",
-          "wordCount": 271,
-          "title": "The Best Opening Title Sequences of 2022",
-          "imageUrl": "https://img.youtube.com/vi/q8Ea2tysrrc/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/15/01/24-pieces-of-life-advice-from-werner-herzog",
-          "author": null,
-          "description": "Paul Cronin’s book of conversations with filmmaker Werner Herzog is called Werner Herzog - A Guide for the Perplexed. On the back cover of the book, Herzog offers a list of advice for filmmakers that doubles as general purpose life advice.\n1. Always take the initiative.\nI bet this is some of the stuff you learn at Herzog’s Rogue Film School:\nThe Rogue Film School is not for the faint-hearted; it is for those who have travelled on foot, who have worked as bouncers in sex clubs or as wardens in a lunatic asylum, for those who are willing to learn about lockpicking or forging shooting permits in countries not favoring their projects. In short: for those who have a sense of poetry. For those who are pilgrims. For those who can tell a story to four year old children and hold their attention. For those who have a fire burning within. For those who have a dream.\n\n\n\n\n Tags:books    \nlists    \nmovies    \nWerner Herzog",
-          "link": "https://kottke.org/15/01/24-pieces-of-life-advice-from-werner-herzog",
-          "publishedOn": "2023-01-13T17:43:41.000Z",
-          "wordCount": 553,
-          "title": "24 Pieces of Life Advice from Werner Herzog",
-          "imageUrl": "https://kottke.org/plus/misc/images/herzog-bear.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/01/gio-swabys-colorful-textile-portraits",
-          "author": null,
-          "description": "I am loving these vibrant fabric portraits by Bahamian artist Gio Swaby (Instagram). Here’s a brief statement of work from her website (italics mine):\nGio Swaby is a Bahamian visual artist whose practice is an exploratory celebration of Blackness and womanhood. Her work centres on Black joy as a radical act of resistance. It works through the philosophy of love as liberation and explores pathways of healing and empowerment. It allows space for both the strong and soft to coexist.\n\n\n(via colossal)\nTags: art   Gio Swaby",
-          "link": "https://kottke.org/23/01/gio-swabys-colorful-textile-portraits",
-          "publishedOn": "2023-01-13T15:35:27.000Z",
-          "wordCount": 260,
-          "title": "Gio Swaby’s Colorful Textile Portraits",
-          "imageUrl": "https://kottke.org/plus/misc/images/gio-swaby-01.jpg"
         }
       ]
     }
