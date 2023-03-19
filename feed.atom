@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2023-03-18T00:33:07.076Z</updated>
+    <updated>2023-03-19T00:37:08.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[C64-friendly PETSCII by Skleptoid, 2023.]]></title>
+        <id>https://text-mode.tumblr.com/post/712159080285929472</id>
+        <link href="https://text-mode.tumblr.com/post/712159080285929472"/>
+        <updated>2023-03-18T19:30:24.000Z</updated>
+        <summary type="html"><![CDATA[C64-friendly PETSCII by Skleptoid, 2023.]]></summary>
+        <author>
+            <name>TEXT-MODE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: SVB's investors will get $2b in public bailout money (18 Mar 2023)]]></title>
+        <id>https://pluralistic.net/?p=4980</id>
+        <link href="https://pluralistic.net/2023/03/18/2-billion-here-2-billion-there/"/>
+        <updated>2023-03-18T15:48:22.000Z</updated>
+        <summary type="html"><![CDATA[Today's links SVB's investors will get $2b in public bailout money: Also, Silicon Valley is apparently a neighborhood in Manhattan? Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading SVB's investors will get $2b in public bailout money (permalink) We were told that the Silicon Valley Bank bailout wasn't a bailout: in a bailout, it's the investors who get public money; but with SVB, it was the depositors. But, of course, the owners of SVB were also depositors in their own bank. All in all, SVB's owners are entitled to $2B in public money. When Biden said, "investors in the banks will not be protected. They knowingly took a risk and when the risk didn’…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kottke 25: What a Week!]]></title>
         <id>https://kottke.org/23/03/kottke-25-what-a-week</id>
@@ -4143,118 +4163,6 @@ The neighborhood was different then. During those years, just before a fierce wa
  Tags: Ana Karina Zatarain   Angela Cappetta   NYC   photography]]></summary>
         <author>
             <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Examples of problems with integers]]></title>
-        <id>https://jvns.ca/blog/2023/01/18/examples-of-problems-with-integers/</id>
-        <link href="https://jvns.ca/blog/2023/01/18/examples-of-problems-with-integers/"/>
-        <updated>2023-01-18T11:02:12.000Z</updated>
-        <summary type="html"><![CDATA[Hello! A few days back we talked about problems with floating point numbers.
-This got me thinking – but what about integers? Of course integers have all
-kinds of problems too – anytime you represent a number in a small fixed amount of
-space (like 8/16/32/64 bits), you’re going to run into problems.
-So I asked on Mastodon again for examples of integer problems and got all kinds of great responses again. Here’s a table of contents.
-example 1: the small database primary key
-example 2: integer overflow/underflow
-aside: how do computers represent negative integers?
-example 3: decoding a binary format in Java
-example 4: misinterpreting an IP address or string as an integer
-example 5: security problems because of integer overflow
-example 6: the case of the mystery byte order
-example 7: modulo of …]]></summary>
-        <author>
-            <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Methodology Trial]]></title>
-        <id>https://xkcd.com/2726/</id>
-        <link href="https://xkcd.com/2726/"/>
-        <updated>2023-01-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/methodology_trial.png" title="If you think THAT'S unethical, you should see the stuff we approved via our Placebo IRB." alt="If you think THAT'S unethical, you should see the stuff we approved via our Placebo IRB." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A curation of beautiful thoughtful poetic silly and queer zines made with the Electric Zine Maker]]></title>
-        <id>http://www.nathalielawhead.com/candybox/?p=5481</id>
-        <link href="http://www.nathalielawhead.com/candybox/a-curation-of-beautiful-thoughtful-poetic-silly-and-queer-zines-made-with-the-electric-zine-maker"/>
-        <updated>2023-01-17T23:56:05.000Z</updated>
-        <summary type="html"><![CDATA[~ tiny literature capturing forgotten moments, queerness, silly illustrations, and random poetic thoughts ~ It has been a good while since I last shared anything to do with the Electric Zine Maker, so I thought I should highlight some of the work people have made in it recently. Making an art tool is a humbling experience. I’m constantly blown away by the beautiful work people make in it and the fact that they would choose the Electric Zine Maker to make something in the first place. Many of the zines use the tools in unique ways that surprise me. I...]]></summary>
-        <author>
-            <name>alienmelon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Beautiful Japanese Manhole Covers Are Made]]></title>
-        <id>https://kottke.org/23/01/how-beautiful-japanese-manhole-covers-are-made</id>
-        <link href="https://kottke.org/23/01/how-beautiful-japanese-manhole-covers-are-made"/>
-        <updated>2023-01-17T21:17:49.000Z</updated>
-        <summary type="html"><![CDATA[From steel scrap to testing the final product with a ton of water pressure, here’s how Japanese manhole covers are made. The video is perhaps a little long in parts, so I would not blame you for skipping ahead to ~12:10 to see how some of the covers are hand-painted in brilliant color.
-See also Japanese Manhole Covers Are Beautiful.
-Tags: art   how to   Japan   video]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sgt. Pepper’s Tribute to Celebs Who Died in 2022]]></title>
-        <id>https://kottke.org/23/01/sgt-peppers-tribute-to-celebs-who-died-in-2022</id>
-        <link href="https://kottke.org/23/01/sgt-peppers-tribute-to-celebs-who-died-in-2022"/>
-        <updated>2023-01-17T18:42:39.000Z</updated>
-        <summary type="html"><![CDATA[At the end of each year, art director Chris Barker collects celebrities who have died in the past 12 months into a Sgt. Pepper’s album cover collage — here’s 2022’s edition.
-
-There doesn’t appear to be a complete listing of everyone pictured, but you can easily pick out Coolio, Gilbert Gottfried, Sidney Poitier, Angela Lansbury, Meatloaf, Nichelle Nichols, Pele, Mikhail Gorbachev, and Twitter.
-Fueled by television, advertising, cable TV, and the internet, the post-war era saw an explosion of celebrity in America and the world. The average person today “knows of” so many more people than someone living in 1945 did, probably by a couple orders of magnitude. As Boomers and Gen X continue to age, annual displays like this of well-known people who have died will get larger and larger.
-Tags: celebrity   Chris Barker   death   design   remix   The Beatles]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Mandalorian. Season Three. Official Trailer.]]></title>
-        <id>https://kottke.org/23/01/the-mandalorian-season-three-official-trailer</id>
-        <link href="https://kottke.org/23/01/the-mandalorian-season-three-official-trailer"/>
-        <updated>2023-01-17T16:24:01.000Z</updated>
-        <summary type="html"><![CDATA[The length of winter near the northern 45th parallel requires events to look forward to in order to feel like you’re not forever adrift in cold and dark. Big things like vacations and reunions with friends & family as well as small things like getting outside in the afternoon, having something delicious planned for dinner, or just, like, getting to the end of the day having consumed enough water.
-One of the things I am looking forward to in the early spring is March 1st because a) the sun will set at an almost respectable 5:38pm instead of the current 4:40pm, and b) season three of The Mandalorian starts. This is the way.
-Tags: Star Wars   The Mandalorian   trailers   TV   video]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drone Dives the Full Height of the Burj Khalifa]]></title>
-        <id>https://kottke.org/23/01/drone-dives-the-full-height-of-the-burj-khalifa</id>
-        <link href="https://kottke.org/23/01/drone-dives-the-full-height-of-the-burj-khalifa"/>
-        <updated>2023-01-17T14:43:45.000Z</updated>
-        <summary type="html"><![CDATA[Based in Dubai, video artist André Larsen spends a lot of time shooting the Burj Khalifa which, at 2,722 feet and 163 floors, is the world’s tallest building. In this video, a drone piloted by Larsen dives the entire height of the building…and it’s kind of astounding just how much of it there is. Floors whiz past by the dozen and still there’s so far to go.
-Tags: Andre Larsen   architecture   Burj Khalifa   drones   video]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here’s what’s going on in the world of extensions]]></title>
-        <id>https://blog.mozilla.org/?p=71205</id>
-        <link href="https://blog.mozilla.org/en/products/firefox/extensions-addons/heres-whats-going-on-in-the-world-of-extensions/"/>
-        <updated>2023-01-17T14:05:34.000Z</updated>
-        <summary type="html"><![CDATA[About one-third of Firefox users have installed an add-on before – whether it’s an extension to add powerful and customizable features or a visual theme to personalize the web browsing experience. But if you’re unfamiliar, add-ons are sort of like apps for your browser. They can add all kinds of features to Firefox to make […]
-The post Here’s what’s going on in the world of extensions appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Sarah Vasquez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: Eleanor Janega's "Once and Future Sex" (17 Jan 2023)]]></title>
-        <id>https://pluralistic.net/?p=4665</id>
-        <link href="https://pluralistic.net/2023/01/17/ren-faire/"/>
-        <updated>2023-01-17T13:34:51.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Eleanor Janega's "Once and Future Sex": The true, weird, horny history of medieval gender and sex. Hey look at this: Delights to delectate. This day in history: 2013, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Eleanor Janega's "Once and Future Sex" (permalink) The Once and Future Sex is Eleanor Janega's new history of gender and sex in the medieval age, describing the weird and horny ways of medieval Europeans, which are far gnarlier and more complicated than the story we get from "traditionalists" who want us to believe that their ideas about gender roles reflect a fixed part of human nature, and that modern attitudes are an attempt to rewrite history. https://wwnorton.com/books/9780393867817 If you'd like an es…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
         </author>
     </entry>
     <entry>
