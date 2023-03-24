@@ -257,6 +257,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2753/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/air_handler.png\" title=\"It maintains odor levels in a normal familiar range, so if you open the windows and the air gets too fresh, it filters it through some dirty laundry samples to compensate.\" alt=\"It maintains odor levels in a normal familiar range, so if you open the windows and the air gets too fresh, it filters it through some dirty laundry samples to compensate.\" />",
+          "link": "https://xkcd.com/2753/",
+          "publishedOn": "2023-03-22T00:00:00.000Z",
+          "wordCount": 180,
+          "title": "Air Handler",
+          "imageUrl": "https://imgs.xkcd.com/comics/air_handler_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2752/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/salt_dome.png\" title=\"The US uses hollowed-out salt domes to store the Strategic Petroleum Reserve, and non-hollowed-out ones to store the Strategic Salt Reserve.\" alt=\"The US uses hollowed-out salt domes to store the Strategic Petroleum Reserve, and non-hollowed-out ones to store the Strategic Salt Reserve.\" />",
@@ -495,16 +505,6 @@
           "wordCount": 202,
           "title": "Planet Killer Comet Margarita",
           "imageUrl": "https://imgs.xkcd.com/comics/planet_killer_comet_margarita_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2728/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/lane_change_highway.png\" title=\"I just think lane markers should follow the local magnetic declination.\" alt=\"I just think lane markers should follow the local magnetic declination.\" />",
-          "link": "https://xkcd.com/2728/",
-          "publishedOn": "2023-01-23T00:00:00.000Z",
-          "wordCount": 208,
-          "title": "Lane Change Highway",
-          "imageUrl": "https://imgs.xkcd.com/comics/lane_change_highway_2x.png"
         }
       ]
     },
@@ -572,16 +572,6 @@
           "wordCount": 1163,
           "title": "On Vercel: If some of my sites are down… [blog]",
           "imageUrl": "https://remysharp.com/images/cards/og/9-3.jpg"
-        },
-        {
-          "id": "hardware-failures",
-          "author": null,
-          "description": "As I enter the year 2023, I started to collect more and more mini hardware based projects that I wanted to try out.\nSo far, it's been 100% failure, so I figured I'd make a note here - in the hope I wouldn't repeat the failings!",
-          "link": "https://remysharp.com/2023/01/23/hardware-failures",
-          "publishedOn": "2023-01-23T00:00:00.000Z",
-          "wordCount": 1352,
-          "title": "Hard(ware) failures [blog]",
-          "imageUrl": "https://remysharp.com/images/cards/og/9-5.jpg"
         }
       ]
     },
@@ -853,6 +843,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/712612073771761664",
+          "author": null,
+          "description": "Works by Joe O’Donnell.",
+          "link": "https://text-mode.tumblr.com/post/712612073771761664",
+          "publishedOn": "2023-03-23T19:30:32.000Z",
+          "wordCount": 1006,
+          "title": "Works by Joe O’Donnell.",
+          "imageUrl": "https://64.media.tumblr.com/d92cc31ea07ad928a861441427c8f381/a371ae03ab98ed27-67/s1280x1920/7cde7e0d36c79c550babd33d7d88d39947c088ae.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/712521490591006720",
           "author": null,
@@ -1333,36 +1333,6 @@
           "wordCount": 8132,
           "title": "Why React Re-Renders",
           "imageUrl": "https://www.joshwcomeau.com/images/og-why-react-re-renders.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/react/usememo-and-usecallback/",
-          "author": "Josh W. Comeau",
-          "description": "What's the deal with these two hooks?! Lots of devs find them confusing, for a whole host of reasons. In this tutorial, we'll dig deep and understand what they do, why they're useful, and how to get the most out of them.",
-          "link": "https://www.joshwcomeau.com/react/usememo-and-usecallback/",
-          "publishedOn": "2023-01-22T23:11:31.000Z",
-          "wordCount": 10971,
-          "title": "Understanding useMemo and useCallback",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-usememo-and-usecallback.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/react/announcing-use-sound-react-hook/",
-          "author": "Josh W. Comeau",
-          "description": "By and large, using the web is a visual experience. This is in terrible contrast to mobile apps, which interact with three of our human senses (sight, sound, and touch, through haptic feedback). I just released a library to make it easy to add sound to your React app, and I make the case that you should consider using it!",
-          "link": "https://www.joshwcomeau.com/react/announcing-use-sound-react-hook/",
-          "publishedOn": "2023-01-22T23:11:31.000Z",
-          "wordCount": 4307,
-          "title": "Announcing “use-sound”, a React Hook for Sound Effects",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-announcing-use-sound-react-hook.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/react/the-perils-of-rehydration/",
-          "author": "Josh W. Comeau",
-          "description": "A surprisingly-common misconception can lead to big rendering issues that are difficult to debug. This deep-dive tutorial examines how React and Gatsby can be used to pre-render content, and how we can work around the constraints to build dynamic, personalized web apps.",
-          "link": "https://www.joshwcomeau.com/react/the-perils-of-rehydration/",
-          "publishedOn": "2023-01-22T23:11:31.000Z",
-          "wordCount": 6455,
-          "title": "The Perils of Rehydration",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-the-perils-of-rehydration.png"
         }
       ]
     },
@@ -1377,6 +1347,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=5010",
+          "author": "Cory Doctorow",
+          "description": "Today's links The \"small nonprofit school\" saved in the SVB bailout charges more than Harvard: It's got a private ski-hill! Hey look at this: Delights to delectate. This day in history: 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The \"small nonprofit school\" saved in the SVB bailout charges more than Harvard (permalink) There are no libertarians in a bank run. No sooner had venture capitalists whipped each other into a terrified Twitter frenzy at the imminent collapse of Silicon Valley Bank – a collapse caused by that selfsame frenzy – than the Ayn Rand-poisoned elite of Sand Hill Road started begging for Uncle Sucker to open the sluicegates: https://twitter.com/EricNewcomer/status/1634300928621793283 Now, on the on…",
+          "link": "https://pluralistic.net/2023/03/23/small-nonprofit-school/",
+          "publishedOn": "2023-03-23T11:40:25.000Z",
+          "wordCount": 3118,
+          "title": "Pluralistic: The \"small nonprofit school\" saved in the SVB bailout charges more than Harvard (23 Mar 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=5003",
           "author": "Cory Doctorow",
@@ -1852,6 +1832,46 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/03/the-everlasting-storm-in-the-most-electric-place-on-earth",
+          "author": null,
+          "description": "Almost 300 days out of every year, there are thunderstorms over Venezuela’s Lake Maracaibo. Called Catatumbo lightning — “Catatumbo means ‘House of Thunder’ in the language of the local Barí people” — the phenomenon is caused by the unique confluence of warm air and water from the Caribbean Sea with the cold air flowing down from the Andes, which nearly surround the lake. The result is near-nightly storms with the world’s highest density of lightning and up to 200 flashes in a minute. It sounds, literally, awe-some.\nThe short video above is a profile of photographer Jonas Piontek, who has captured some amazing photos and video of the Catatumbo lightning. The NY Times featured some of his photos in this piece about the lightning.\nLess than half an hour after the first cloud forms, it starts to flash. It does this faster and faster - 200 flashes a minute is not uncommon. After that, the cloud becomes a giant bulb that lights up the night.\n“You can read a newspaper in the middle of the night because it’s so bright,” said Jonas Pointek, a photographer who has documented the storms.\n\n\n(via open culture)\nTags: Jonas Piontek   lightning   photography   Venezuela   video   weather",
+          "link": "https://kottke.org/23/03/the-everlasting-storm-in-the-most-electric-place-on-earth",
+          "publishedOn": "2023-03-23T21:31:24.000Z",
+          "wordCount": 384,
+          "title": "The Everlasting Storm in the “Most Electric Place on Earth”",
+          "imageUrl": "https://img.youtube.com/vi/4DH8LAa-caA/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/03/the-assassins-teapot",
+          "author": null,
+          "description": "The assassin’s teapot is certainly an eye-catching name for pottery, but there’s also an interesting bit of physics going on here.  The teapot in question has two separate chambers for holding liquid, and the flow out of the pot from each chamber can be controlled by covering or uncovering small holes located on the handle. So, as the legend goes, a would-be assassin could pour themselves a perfectly fine drink from one chamber and then pour a poisoned drink to their prey from the other chamber, just by discreetly covering and uncovering the proper holes with their fingers. As the video explains, the mechanism here has to do with surface tension and air pressure.\nYou can get your own assassin’s teapot right here.\nTags: physics   science   video",
+          "link": "https://kottke.org/23/03/the-assassins-teapot",
+          "publishedOn": "2023-03-23T19:38:12.000Z",
+          "wordCount": 299,
+          "title": "The Assassin’s Teapot",
+          "imageUrl": "https://img.youtube.com/vi/jJL0XoNBaac/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/03/plastic-scrimshaw",
+          "author": null,
+          "description": "For an exhibition entitled DEATH TO THE LIVING, Long Live Trash now on view at the Brooklyn Museum, artist Duke Riley takes trash that he’s collected on the beach and turns it into art — think mosaics made from bottle caps, bread bag clips, and tampon applicators. But his plastic scrimshaw creations are absolute genius:\n\n\nScrimshaw art was made by whalers in the 19th century by carving designs into the teeth, bones, and baleen of whales. Riley has cleverly adopted the practice using aesthetically similar white plastics, producing a series he calls the Poly S. Tyrene Maritime Museum. The NY Times:\nAs whalers often depicted the leaders and profiteers of their day, Riley portrays the C.E.O.s of chemical companies, plastic industry lobbyists and others he deems responsible for producing the devastating tonnages of single-use plastics that are engulfing our oceans and threatening our ecosystems. It’s a downer, but if you look closely there’s often a Riley twist of humor, like the seagull shown relieving itself on the head of a water bottle magnate.\n\n\nYou can see a few more of the plastic scrimshaw objects on the Brooklyn Museum’s Tumblr,at Atlas Obscura, and in-person at the Brooklyn Museum until mid-April. (thx caroline)\nTags: art   Brooklyn Museum   Duke Riley   museums   pollution",
+          "link": "https://kottke.org/23/03/plastic-scrimshaw",
+          "publishedOn": "2023-03-23T16:11:44.000Z",
+          "wordCount": 377,
+          "title": "Plastic Scrimshaw",
+          "imageUrl": "https://kottke.org/plus/misc/images/plastic-scrimshaw-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/03/the-sun-in-all-its-glory",
+          "author": null,
+          "description": "Good morning, sunshines! Well, amateur astrophotographer Andrew McCarthy has done it again. Collaborating with Jason Guenzel, he has produced this absolutely gobsmacking image of the Sun.\nThe aptly named “Fusion of Helios” is a fusion from the minds of two astrophotographers, Andrew McCarthy and Jason Guenzel. Using a custom-modified hydrogen alpha solar telescope, the combined data from over 90,000 individual images was jointly processed to reveal the layers of intricate details within the solar chromosphere. A geometrically altered image of the 2017 eclipse as an artistic element in this composition to display an otherwise invisible structure. Great care was taken to align the two atmospheric layers in a scientifically plausible way using NASA’s SOHO data as a reference.\n\n\nI’ve included …",
+          "link": "https://kottke.org/23/03/the-sun-in-all-its-glory",
+          "publishedOn": "2023-03-23T13:49:45.000Z",
+          "wordCount": 635,
+          "title": "The Sun, In All Its Glory",
+          "imageUrl": "https://kottke.org/plus/misc/images/sun-bonkers-01.jpg"
+        },
         {
           "id": "https://kottke.org/23/03/a-flower-a-day-1",
           "author": null,
@@ -3541,16 +3561,6 @@
           "wordCount": 243,
           "title": "Lessons on How to Draw by Hokusai",
           "imageUrl": "https://kottke.org/plus/misc/images/hokusai-drawing-lessons-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/quick-links",
-          "author": null,
-          "description": "Tweetbot has been discontinued as well. Much appreciation to the Tapbots and Iconfactory (Twitterrific) teams for their excellent apps. \"We've invested over 10 years building Tweetbot for Twitter and it was shut down in a blink of an eye.\" [tapbots.com]\nA lovely piece about dancing on stairs, featuring scenes from movies and TV shows and the likes of Bill Robinson, Ginger Rogers, Joaquin Phoenix, and the Nicholas Brothers. [nytimes.com]\n---\nNote: Quick Links are pushed to this RSS feed twice a day. For more immediate service, check out the front page of kottke.org, the Quick Links archive, or the @kottke Twitter feed.",
-          "link": "https://kottke.org/quick-links",
-          "publishedOn": "2023-01-23T03:52:01.000Z",
-          "wordCount": 1592,
-          "title": "Two Quick Links for Sunday Night",
-          "imageUrl": "https://kottke.org/images/2016/ios/180x180.png"
         }
       ]
     }
