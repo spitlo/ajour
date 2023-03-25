@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2023-03-24T00:31:53.241Z</updated>
+    <updated>2023-03-25T00:31:31.447Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[garadinervi:
+
+Jean Pierre Yvaral, from: L'instabilità come...]]></title>
+        <id>https://text-mode.tumblr.com/post/712702686978555904</id>
+        <link href="https://text-mode.tumblr.com/post/712702686978555904"/>
+        <updated>2023-03-24T19:30:47.000Z</updated>
+        <summary type="html"><![CDATA[garadinervi:
+Jean Pierre Yvaral, from: L'instabilità come condizione umana, Edizioni d'Arte Il Segno, Macerata, 1981]]></summary>
+        <author>
+            <name>TEXT-MODE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transcript of Raiders of the Lost Ark Brainstorming Session]]></title>
+        <id>https://kottke.org/13/03/transcript-of-raiders-of-the-lost-ark-brainstorming-session</id>
+        <link href="https://kottke.org/13/03/transcript-of-raiders-of-the-lost-ark-brainstorming-session"/>
+        <updated>2023-03-24T14:29:44.000Z</updated>
+        <summary type="html"><![CDATA[Wow. In 1978, George Lucus gathered together Steven Spielberg and screenwriter Lawrence Kasdan to go over ideas for a film Lucas had wanted to make about a swashbuckling archeologist, i.e. Raiders of the Lost Ark. Their sessions were recorded and there’s a transcript available online.
+Lucas - Now, several aspects that we’ve discussed before: The image of him which is the strongest image is the “Treasure Of Sierra Madre” outfit, which is the khaki pants, he’s got the leather jacket, that sort of felt hat, and the pistol and holster with a World War One sort of flap over it. He’s going into the jungle carrying his gun. The other thing we’ve added to him, which may be fun, is a bull whip. That’s really his trade mark. That’s really what he’s good at. He has a pistol, and he’s probably very go…]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WYSIWYGPT]]></title>
+        <id>https://christianheilmann.com/?p=7624</id>
+        <link href="https://christianheilmann.com/2023/03/24/wysiwygpt/"/>
+        <updated>2023-03-24T14:01:13.000Z</updated>
+        <summary type="html"><![CDATA[When GPT-4 was announced earlier this month, one of the demos made a massive splash: painting a web app on a napkin and getting the “AI” to create the HTML, CSS and JavaScript to make it work. This caused an avalanche of news items and blog posts calling “game over” for web developers and that […]]]></summary>
+        <author>
+            <name>Chris Heilmann</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Everlasting Storm in the “Most Electric Place on Earth”]]></title>
         <id>https://kottke.org/23/03/the-everlasting-storm-in-the-most-electric-place-on-earth</id>
@@ -3462,6 +3496,36 @@ There are a lot of myths about …]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Understanding useMemo and useCallback]]></title>
+        <id>https://www.joshwcomeau.com/react/usememo-and-usecallback/</id>
+        <link href="https://www.joshwcomeau.com/react/usememo-and-usecallback/"/>
+        <updated>2023-01-31T21:31:41.000Z</updated>
+        <summary type="html"><![CDATA[What's the deal with these two hooks?! Lots of devs find them confusing, for a whole host of reasons. In this tutorial, we'll dig deep and understand what they do, why they're useful, and how to get the most out of them.]]></summary>
+        <author>
+            <name>Josh W. Comeau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing “use-sound”, a React Hook for Sound Effects]]></title>
+        <id>https://www.joshwcomeau.com/react/announcing-use-sound-react-hook/</id>
+        <link href="https://www.joshwcomeau.com/react/announcing-use-sound-react-hook/"/>
+        <updated>2023-01-31T21:31:41.000Z</updated>
+        <summary type="html"><![CDATA[By and large, using the web is a visual experience. This is in terrible contrast to mobile apps, which interact with three of our human senses (sight, sound, and touch, through haptic feedback). I just released a library to make it easy to add sound to your React app, and I make the case that you should consider using it!]]></summary>
+        <author>
+            <name>Josh W. Comeau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Perils of Rehydration]]></title>
+        <id>https://www.joshwcomeau.com/react/the-perils-of-rehydration/</id>
+        <link href="https://www.joshwcomeau.com/react/the-perils-of-rehydration/"/>
+        <updated>2023-01-31T21:31:41.000Z</updated>
+        <summary type="html"><![CDATA[A surprisingly-common misconception can lead to big rendering issues that are difficult to debug. This deep-dive tutorial examines how React and Gatsby can be used to pre-render content, and how we can work around the constraints to build dynamic, personalized web apps.]]></summary>
+        <author>
+            <name>Josh W. Comeau</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Data Binding in React]]></title>
         <id>https://www.joshwcomeau.com/react/data-binding/</id>
         <link href="https://www.joshwcomeau.com/react/data-binding/"/>
@@ -4108,121 +4172,6 @@ Tags: books   guns   Osvaldo Gutierrez Gomez   USA]]></summary>
 Early Abortion Looks Nothing Like What You've Been Told. "At this stage of pregnancy, the embryo is not typically visible to the naked eye." [nytimes.com]
 ---
 Note: Quick Links are pushed to this RSS feed twice a day. For more immediate service, check out the front page of kottke.org, the Quick Links archive, or the @kottke Twitter feed.]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Things to do and not to do during a wave of tech layoffs]]></title>
-        <id>https://christianheilmann.com/?p=7513</id>
-        <link href="https://christianheilmann.com/2023/01/24/things-to-do-and-not-to-do-during-a-wave-of-tech-layoffs/"/>
-        <updated>2023-01-24T12:18:45.000Z</updated>
-        <summary type="html"><![CDATA[Currently we are in a huge round of tech layoffs that are reminiscent of the first .com crash in the beginning of the century. Meta, Amazon, Microsoft and now Google announced layoffs in the 10k range and it seems no one is spared. New people as well as people who have been at companies for […]]]></summary>
-        <author>
-            <name>Chris Heilmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Four Quick Links for Monday Afternoon]]></title>
-        <id>https://kottke.org/quick-links</id>
-        <link href="https://kottke.org/quick-links"/>
-        <updated>2023-01-23T22:52:01.000Z</updated>
-        <summary type="html"><![CDATA[This new website has high-res scans of L.M. Montgomery's manuscript copy of Anne of Green Gables, transcribed and annotated with author notes, photography, video, and audio. Fantastic resource for Anne fans. [annemanuscript.ca]
-Casey Johnston Turned Bulking Up Into a Business. "The unlikely weight-lifting coach is making a killing arguing that pumping iron can be for everyone." Love to see this taking off! [thecut.com]
-The release of Indiana Jones and the Temple of Doom is closer to World War II than it is to today. WHAT [botsin.space]
-Is the sun a node in a gigantic alien space internet? "Through a phenomenon known as gravitational lensing, aliens could be transmitting signals using the sun, but a quick scan for such signals has turned up nothing." [livescience.com]
----
-Note: Quick Links are pushed to this RSS feed twice a day. For more immediate service, check out the front page of kottke.org, the Quick Links archive, or the @kottke Twitter feed.]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Animals, Remixed]]></title>
-        <id>https://kottke.org/23/01/animals-remixed</id>
-        <link href="https://kottke.org/23/01/animals-remixed"/>
-        <updated>2023-01-23T21:49:56.000Z</updated>
-        <summary type="html"><![CDATA[Photoshop wizard Ingo Lindmeier makes these delightful mashups of animals and objects (fruits, vegetables, technology) which you can find on his Instagram account. Some of them are a little over-the-top, but the conceptually simpler ones are great. (via moss and fog)
-Tags: Ingo Lindmeier   remix]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: Eggflation is just more price-gouging (23 Jan 2023)]]></title>
-        <id>https://pluralistic.net/?p=4695</id>
-        <link href="https://pluralistic.net/2023/01/23/cant-make-an-omelet/"/>
-        <updated>2023-01-23T20:49:26.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Eggflation is just more price-gouging: Cal-Maine Foods owns every egg brand you've ever heard of and its profits are up 65%. Hey look at this: Delights to delectate. This day in history: 2003, 2013, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Eggflation is just more price-gouging (permalink) The very instant that world governments rolled out relief funds so quarantine-shuttered businesses wouldn't fail and covid-furloughed workers wouldn't starve, corporate executives started rubbing their forelegs together and planning to raise prices and blame it on inflation brought on by letting The Poors have too much money. They weren't exactly subtle about it: the CEOs of America's largest companies got on their quarterly i…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why We All Need Subtitles Now]]></title>
-        <id>https://kottke.org/23/01/why-we-all-need-subtitles-now</id>
-        <link href="https://kottke.org/23/01/why-we-all-need-subtitles-now"/>
-        <updated>2023-01-23T19:35:36.000Z</updated>
-        <summary type="html"><![CDATA[Dialogue from movies and TV shows has become more difficult to hear in recent years, prompting many to switch on subtitles for much of what they watch. As this video from Vox details, the reasons for this shift come down to a desire for realism, choices that filmmakers have access to because of technology, and mediocre at-home sound systems on TVs, computers, and devices.
-I dislike watching movies and shows with subtitles on (unless there’s non-English dialogue) because if there are words on the screen, they capture 95% of my attention and I find it extremely difficult to pay attention to all of the other things going on — physical acting, cinematography, pacing, effects, etc. Movies and TV shows are much more than plot-delivery mechanisms and all of that other stuff is important! But with dialogue harder than ever to hear these days (and with my mild misphonia), it does mean more rewinding and not watching anything unless I’m in a quiet room or using noise-cancelling AirPods.
-See also Why Everyone Is Watching TV with Closed Captioning On These Days, Why Gen Z Loves Closed Captioning, and It’s not you - movies are getting darker.]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Five Quick Links for Monday Noonish]]></title>
-        <id>https://kottke.org/quick-links</id>
-        <link href="https://kottke.org/quick-links"/>
-        <updated>2023-01-23T17:52:03.000Z</updated>
-        <summary type="html"><![CDATA["Teachers in Manatee County, Florida, are being told to make their classroom libraries – and any other "unvetted" book – inaccessible to students, or risk felony prosecution." [popular.info]
-The increased oversight by conservative extremists of what books librarians can order for school libraries (i.e. cracking down on materials about gender, sexuality, race, and racism) is genuine Nazi behavior. [washingtonpost.com]
-Josh On's award-winning They Rule is back online; it's an interactive visualization of the interlocking (or perhaps, cross-contaminated) boards of directors of the 100 largest US companies. [theyrule.net]
-Agree with Virginia Heffernan here: that Bloomberg piece on plant-based meat being a "flop" was bad. (And also, maybe shifting people's eating habits for the better is not something that capitalism is particularly good at?) [journa.host]
-The Many Ingenious Ways People in Prison Use (Forbidden) Cell Phones. A group of 300 incarcerated people are using materials from one of Harvard's online computer science courses to learn programming. [themarshallproject.org]
----
-Note: Quick Links are pushed to this RSS feed twice a day. For more immediate service, check out the front page of kottke.org, the Quick Links archive, or the @kottke Twitter feed.]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Do You Design the Next Wordle?]]></title>
-        <id>https://kottke.org/23/01/how-do-you-design-the-next-wordle</id>
-        <link href="https://kottke.org/23/01/how-do-you-design-the-next-wordle"/>
-        <updated>2023-01-23T17:24:01.000Z</updated>
-        <summary type="html"><![CDATA[David Shariatmadari, an editor at The Guardian, was asked by a colleague to “have a go” at inventing a new game, a new viral sensation like Wordle. The game he came up with is called Wordiply (it’s fun!) and he wrote up the whole process of how he went about designing it. The idea behind the game is a simple one and the way in which Shariatmadari arrives at it is a familiar trope in discovery stories:
-That’s where my older brother, Daniel, comes in. While I’m racking my brains about how to come up with a better version of Boggle, he’s with his partner Nic in a hospital waiting for their baby to be born. On the morning she is due for an induction, they arrive bright and early at 8am. I call at about 11am to see how things are going. “What about if you had a word,” Daniel says, “of three let…]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Start this year fresh with Mozilla’s tech challenge]]></title>
-        <id>https://blog.mozilla.org/?p=71274</id>
-        <link href="https://blog.mozilla.org/en/mozilla/mozilla-tech-challenge/"/>
-        <updated>2023-01-23T17:09:37.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve already ditched your new year’s goals, we’re here to help. How about a refreshening of your online life with new habits and routines? Are there newsletters you don’t read anymore? Mobile apps you no longer use? Or social media platforms you’ve left (ahem, Twitter)? We want to help. We’ve put together a month-long […]
-The post Start this year fresh with Mozilla’s tech challenge  appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Jenifer Boscacci</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lessons on How to Draw by Hokusai]]></title>
-        <id>https://kottke.org/23/01/lessons-on-how-to-draw-by-hokusai</id>
-        <link href="https://kottke.org/23/01/lessons-on-how-to-draw-by-hokusai"/>
-        <updated>2023-01-23T14:39:30.000Z</updated>
-        <summary type="html"><![CDATA[In 1812, Japanese woodblock print artist Katsushika Hokusai, who would later become famous for his iconic Great Wave off Kanagawa prints, published a three-volume series called Quick Lessons in Simplified Drawing. All three volumes are available online: one, two, three. Even if you’re not in the market for drawing lessons, the pages are wonderful to flip through.
-
-
-
-
-
-
-
-(via open culture)
-Tags: art   how to   Katsushika Hokusai]]></summary>
         <author>
             <name>kottke.org</name>
         </author>

@@ -6,6 +6,16 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=7624",
+          "author": "Chris Heilmann",
+          "description": "When GPT-4 was announced earlier this month, one of the demos made a massive splash: painting a web app on a napkin and getting the “AI” to create the HTML, CSS and JavaScript to make it work. This caused an avalanche of news items and blog posts calling “game over” for web developers and that […]",
+          "link": "https://christianheilmann.com/2023/03/24/wysiwygpt/",
+          "publishedOn": "2023-03-24T14:01:13.000Z",
+          "wordCount": 1359,
+          "title": "WYSIWYGPT",
+          "imageUrl": null
+        },
+        {
           "id": "https://christianheilmann.com/?p=7616",
           "author": "Chris Heilmann",
           "description": "End of May will be my last day at Microsoft and I am actively looking for a new role. Thank you in advance for any connections, advice, or opportunities you can offer. What I am looking for: A technical lead role – CTO, Technical Director or Principal Product/Program Manager A team to work with and […]",
@@ -148,16 +158,6 @@
           "publishedOn": "2023-01-31T17:50:18.000Z",
           "wordCount": 1475,
           "title": "Releasing code in large corporations is slow – and there is a good reason for it",
-          "imageUrl": null
-        },
-        {
-          "id": "https://christianheilmann.com/?p=7513",
-          "author": "Chris Heilmann",
-          "description": "Currently we are in a huge round of tech layoffs that are reminiscent of the first .com crash in the beginning of the century. Meta, Amazon, Microsoft and now Google announced layoffs in the 10k range and it seems no one is spared. New people as well as people who have been at companies for […]",
-          "link": "https://christianheilmann.com/2023/01/24/things-to-do-and-not-to-do-during-a-wave-of-tech-layoffs/",
-          "publishedOn": "2023-01-24T12:18:45.000Z",
-          "wordCount": 2069,
-          "title": "Things to do and not to do during a wave of tech layoffs",
           "imageUrl": null
         }
       ]
@@ -844,6 +844,16 @@
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
         {
+          "id": "https://text-mode.tumblr.com/post/712702686978555904",
+          "author": null,
+          "description": "garadinervi:\nJean Pierre Yvaral, from: L'instabilità come condizione umana, Edizioni d'Arte Il Segno, Macerata, 1981",
+          "link": "https://text-mode.tumblr.com/post/712702686978555904",
+          "publishedOn": "2023-03-24T19:30:47.000Z",
+          "wordCount": 993,
+          "title": "garadinervi:\n\nJean Pierre Yvaral, from: L'instabilità come...",
+          "imageUrl": "https://64.media.tumblr.com/170c13e37ab48bbc0ffc2f520fddcd00/tumblr_p60huu8d3H1sizr65o1_1280.jpg"
+        },
+        {
           "id": "https://text-mode.tumblr.com/post/712612073771761664",
           "author": null,
           "description": "Works by Joe O’Donnell.",
@@ -1179,16 +1189,6 @@
           "wordCount": 1503,
           "title": "Latest Pocket Android app makes it easier to discover your saved and new stories",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/01/pocket_blog_header_generic_4-1080x720.jpg"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=71274",
-          "author": "Jenifer Boscacci",
-          "description": "If you’ve already ditched your new year’s goals, we’re here to help. How about a refreshening of your online life with new habits and routines? Are there newsletters you don’t read anymore? Mobile apps you no longer use? Or social media platforms you’ve left (ahem, Twitter)? We want to help. We’ve put together a month-long […]\nThe post Start this year fresh with Mozilla’s tech challenge  appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/mozilla-tech-challenge/",
-          "publishedOn": "2023-01-23T17:09:37.000Z",
-          "wordCount": 1271,
-          "title": "Start this year fresh with Mozilla’s tech challenge",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/01/blog_Week-1_Tidy-Devices_refresh-visual-1200x800.jpg"
         }
       ]
     },
@@ -1303,6 +1303,36 @@
           "wordCount": 12217,
           "title": "An Interactive Guide to Flexbox",
           "imageUrl": "https://www.joshwcomeau.com/images/og-interactive-guide-to-flexbox.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/react/usememo-and-usecallback/",
+          "author": "Josh W. Comeau",
+          "description": "What's the deal with these two hooks?! Lots of devs find them confusing, for a whole host of reasons. In this tutorial, we'll dig deep and understand what they do, why they're useful, and how to get the most out of them.",
+          "link": "https://www.joshwcomeau.com/react/usememo-and-usecallback/",
+          "publishedOn": "2023-01-31T21:31:41.000Z",
+          "wordCount": 10934,
+          "title": "Understanding useMemo and useCallback",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-usememo-and-usecallback.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/react/announcing-use-sound-react-hook/",
+          "author": "Josh W. Comeau",
+          "description": "By and large, using the web is a visual experience. This is in terrible contrast to mobile apps, which interact with three of our human senses (sight, sound, and touch, through haptic feedback). I just released a library to make it easy to add sound to your React app, and I make the case that you should consider using it!",
+          "link": "https://www.joshwcomeau.com/react/announcing-use-sound-react-hook/",
+          "publishedOn": "2023-01-31T21:31:41.000Z",
+          "wordCount": 4270,
+          "title": "Announcing “use-sound”, a React Hook for Sound Effects",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-announcing-use-sound-react-hook.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/react/the-perils-of-rehydration/",
+          "author": "Josh W. Comeau",
+          "description": "A surprisingly-common misconception can lead to big rendering issues that are difficult to debug. This deep-dive tutorial examines how React and Gatsby can be used to pre-render content, and how we can work around the constraints to build dynamic, personalized web apps.",
+          "link": "https://www.joshwcomeau.com/react/the-perils-of-rehydration/",
+          "publishedOn": "2023-01-31T21:31:41.000Z",
+          "wordCount": 6412,
+          "title": "The Perils of Rehydration",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-the-perils-of-rehydration.png"
         },
         {
           "id": "https://www.joshwcomeau.com/react/data-binding/",
@@ -1756,16 +1786,6 @@
           "wordCount": 2359,
           "title": "Pluralistic: David Graeber's \"Pirate Enlightenment\" (24 Jan 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=4695",
-          "author": "Cory Doctorow",
-          "description": "Today's links Eggflation is just more price-gouging: Cal-Maine Foods owns every egg brand you've ever heard of and its profits are up 65%. Hey look at this: Delights to delectate. This day in history: 2003, 2013, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Eggflation is just more price-gouging (permalink) The very instant that world governments rolled out relief funds so quarantine-shuttered businesses wouldn't fail and covid-furloughed workers wouldn't starve, corporate executives started rubbing their forelegs together and planning to raise prices and blame it on inflation brought on by letting The Poors have too much money. They weren't exactly subtle about it: the CEOs of America's largest companies got on their quarterly i…",
-          "link": "https://pluralistic.net/2023/01/23/cant-make-an-omelet/",
-          "publishedOn": "2023-01-23T20:49:26.000Z",
-          "wordCount": 2670,
-          "title": "Pluralistic: Eggflation is just more price-gouging (23 Jan 2023)",
-          "imageUrl": null
         }
       ]
     },
@@ -1832,6 +1852,16 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/13/03/transcript-of-raiders-of-the-lost-ark-brainstorming-session",
+          "author": null,
+          "description": "Wow. In 1978, George Lucus gathered together Steven Spielberg and screenwriter Lawrence Kasdan to go over ideas for a film Lucas had wanted to make about a swashbuckling archeologist, i.e. Raiders of the Lost Ark. Their sessions were recorded and there’s a transcript available online.\nLucas - Now, several aspects that we’ve discussed before: The image of him which is the strongest image is the “Treasure Of Sierra Madre” outfit, which is the khaki pants, he’s got the leather jacket, that sort of felt hat, and the pistol and holster with a World War One sort of flap over it. He’s going into the jungle carrying his gun. The other thing we’ve added to him, which may be fun, is a bull whip. That’s really his trade mark. That’s really what he’s good at. He has a pistol, and he’s probably very go…",
+          "link": "https://kottke.org/13/03/transcript-of-raiders-of-the-lost-ark-brainstorming-session",
+          "publishedOn": "2023-03-24T14:29:44.000Z",
+          "wordCount": 765,
+          "title": "Transcript of Raiders of the Lost Ark Brainstorming Session",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/23/03/the-everlasting-storm-in-the-most-electric-place-on-earth",
           "author": null,
@@ -3501,66 +3531,6 @@
           "wordCount": 1592,
           "title": "Two Quick Links for Tuesday Morning",
           "imageUrl": "https://kottke.org/images/2016/ios/180x180.png"
-        },
-        {
-          "id": "https://kottke.org/quick-links",
-          "author": null,
-          "description": "This new website has high-res scans of L.M. Montgomery's manuscript copy of Anne of Green Gables, transcribed and annotated with author notes, photography, video, and audio. Fantastic resource for Anne fans. [annemanuscript.ca]\nCasey Johnston Turned Bulking Up Into a Business. \"The unlikely weight-lifting coach is making a killing arguing that pumping iron can be for everyone.\" Love to see this taking off! [thecut.com]\nThe release of Indiana Jones and the Temple of Doom is closer to World War II than it is to today. WHAT [botsin.space]\nIs the sun a node in a gigantic alien space internet? \"Through a phenomenon known as gravitational lensing, aliens could be transmitting signals using the sun, but a quick scan for such signals has turned up nothing.\" [livescience.com]\n---\nNote: Quick Links are pushed to this RSS feed twice a day. For more immediate service, check out the front page of kottke.org, the Quick Links archive, or the @kottke Twitter feed.",
-          "link": "https://kottke.org/quick-links",
-          "publishedOn": "2023-01-23T22:52:01.000Z",
-          "wordCount": 1592,
-          "title": "Four Quick Links for Monday Afternoon",
-          "imageUrl": "https://kottke.org/images/2016/ios/180x180.png"
-        },
-        {
-          "id": "https://kottke.org/23/01/animals-remixed",
-          "author": null,
-          "description": "Photoshop wizard Ingo Lindmeier makes these delightful mashups of animals and objects (fruits, vegetables, technology) which you can find on his Instagram account. Some of them are a little over-the-top, but the conceptually simpler ones are great. (via moss and fog)\nTags: Ingo Lindmeier   remix",
-          "link": "https://kottke.org/23/01/animals-remixed",
-          "publishedOn": "2023-01-23T21:49:56.000Z",
-          "wordCount": 213,
-          "title": "Animals, Remixed",
-          "imageUrl": "https://kottke.org/plus/misc/images/ingo-lindmeier-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/01/why-we-all-need-subtitles-now",
-          "author": null,
-          "description": "Dialogue from movies and TV shows has become more difficult to hear in recent years, prompting many to switch on subtitles for much of what they watch. As this video from Vox details, the reasons for this shift come down to a desire for realism, choices that filmmakers have access to because of technology, and mediocre at-home sound systems on TVs, computers, and devices.\nI dislike watching movies and shows with subtitles on (unless there’s non-English dialogue) because if there are words on the screen, they capture 95% of my attention and I find it extremely difficult to pay attention to all of the other things going on — physical acting, cinematography, pacing, effects, etc. Movies and TV shows are much more than plot-delivery mechanisms and all of that other stuff is important! But with dialogue harder than ever to hear these days (and with my mild misphonia), it does mean more rewinding and not watching anything unless I’m in a quiet room or using noise-cancelling AirPods.\nSee also Why Everyone Is Watching TV with Closed Captioning On These Days, Why Gen Z Loves Closed Captioning, and It’s not you - movies are getting darker.",
-          "link": "https://kottke.org/23/01/why-we-all-need-subtitles-now",
-          "publishedOn": "2023-01-23T19:35:36.000Z",
-          "wordCount": 371,
-          "title": "Why We All Need Subtitles Now",
-          "imageUrl": "https://img.youtube.com/vi/VYJtb2YXae8/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/quick-links",
-          "author": null,
-          "description": "\"Teachers in Manatee County, Florida, are being told to make their classroom libraries – and any other \"unvetted\" book – inaccessible to students, or risk felony prosecution.\" [popular.info]\nThe increased oversight by conservative extremists of what books librarians can order for school libraries (i.e. cracking down on materials about gender, sexuality, race, and racism) is genuine Nazi behavior. [washingtonpost.com]\nJosh On's award-winning They Rule is back online; it's an interactive visualization of the interlocking (or perhaps, cross-contaminated) boards of directors of the 100 largest US companies. [theyrule.net]\nAgree with Virginia Heffernan here: that Bloomberg piece on plant-based meat being a \"flop\" was bad. (And also, maybe shifting people's eating habits for the better is not something that capitalism is particularly good at?) [journa.host]\nThe Many Ingenious Ways People in Prison Use (Forbidden) Cell Phones. A group of 300 incarcerated people are using materials from one of Harvard's online computer science courses to learn programming. [themarshallproject.org]\n---\nNote: Quick Links are pushed to this RSS feed twice a day. For more immediate service, check out the front page of kottke.org, the Quick Links archive, or the @kottke Twitter feed.",
-          "link": "https://kottke.org/quick-links",
-          "publishedOn": "2023-01-23T17:52:03.000Z",
-          "wordCount": 1592,
-          "title": "Five Quick Links for Monday Noonish",
-          "imageUrl": "https://kottke.org/images/2016/ios/180x180.png"
-        },
-        {
-          "id": "https://kottke.org/23/01/how-do-you-design-the-next-wordle",
-          "author": null,
-          "description": "David Shariatmadari, an editor at The Guardian, was asked by a colleague to “have a go” at inventing a new game, a new viral sensation like Wordle. The game he came up with is called Wordiply (it’s fun!) and he wrote up the whole process of how he went about designing it. The idea behind the game is a simple one and the way in which Shariatmadari arrives at it is a familiar trope in discovery stories:\nThat’s where my older brother, Daniel, comes in. While I’m racking my brains about how to come up with a better version of Boggle, he’s with his partner Nic in a hospital waiting for their baby to be born. On the morning she is due for an induction, they arrive bright and early at 8am. I call at about 11am to see how things are going. “What about if you had a word,” Daniel says, “of three let…",
-          "link": "https://kottke.org/23/01/how-do-you-design-the-next-wordle",
-          "publishedOn": "2023-01-23T17:24:01.000Z",
-          "wordCount": 897,
-          "title": "How Do You Design the Next Wordle?",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/01/lessons-on-how-to-draw-by-hokusai",
-          "author": null,
-          "description": "In 1812, Japanese woodblock print artist Katsushika Hokusai, who would later become famous for his iconic Great Wave off Kanagawa prints, published a three-volume series called Quick Lessons in Simplified Drawing. All three volumes are available online: one, two, three. Even if you’re not in the market for drawing lessons, the pages are wonderful to flip through.\n\n\n\n\n\n\n\n(via open culture)\nTags: art   how to   Katsushika Hokusai",
-          "link": "https://kottke.org/23/01/lessons-on-how-to-draw-by-hokusai",
-          "publishedOn": "2023-01-23T14:39:30.000Z",
-          "wordCount": 243,
-          "title": "Lessons on How to Draw by Hokusai",
-          "imageUrl": "https://kottke.org/plus/misc/images/hokusai-drawing-lessons-01.jpg"
         }
       ]
     }
