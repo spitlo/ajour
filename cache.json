@@ -6,6 +6,16 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=7651",
+          "author": "Chris Heilmann",
+          "description": "Earlier today I spoke at the Microsoft Reactor meetup in Berlin about frontend development, LLMs, ChatGPT, GitHub Copilot and what it means to our work and careers. In this 32 minute talk and 5 minutes of Q&A, I covered a lot of ground: Introduction Web Development isn’t complex technology GPT can create web products from […]",
+          "link": "https://christianheilmann.com/2023/03/31/modern-web-development-centering-divs-in-new-exciting-wrong-ways-with-ai/",
+          "publishedOn": "2023-03-30T23:48:21.000Z",
+          "wordCount": 727,
+          "title": "Modern Web Development: Centering DIVs in new exciting wrong ways with AI!",
+          "imageUrl": null
+        },
+        {
           "id": "https://christianheilmann.com/?p=7642",
           "author": "Chris Heilmann",
           "description": "I just got access to GitHub Copilot CLI and a few seconds after installing it, I am happy as a clam about it. You can see it in action in this video or let me talk you through it here. GitHub Copilot CLI brings AI code completion to your terminal. After installing it, you get […]",
@@ -525,16 +535,6 @@
           "wordCount": 208,
           "title": "Bursa of Fabricius",
           "imageUrl": "https://imgs.xkcd.com/comics/bursa_of_fabricius_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2731/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/k_means_clustering.png\" title=\"According to my especially unsupervised K-means clustering algorithm, there are currently about 8 billion types of people in the world.\" alt=\"According to my especially unsupervised K-means clustering algorithm, there are currently about 8 billion types of people in the world.\" />",
-          "link": "https://xkcd.com/2731/",
-          "publishedOn": "2023-01-30T00:00:00.000Z",
-          "wordCount": 206,
-          "title": "K-Means Clustering",
-          "imageUrl": "https://imgs.xkcd.com/comics/k_means_clustering_2x.png"
         }
       ]
     },
@@ -544,6 +544,106 @@
       "siteUrl": "https://remysharp.com",
       "articles": [
         {
+          "id": "2023-03-30-75858f69",
+          "author": null,
+          "description": "Like jq but for postgres databases (or sqlserver, csv or even xlsx).\nWhat's neat is that you register a database with the system, then you can query against that particular database.\nVery nice that I can use this on the command line and then pipe into jq for more data manip.\nSource: sq.io",
+          "link": "https://remysharp.com/links/2023-03-30-75858f69",
+          "publishedOn": "2023-03-30T11:10:21.000Z",
+          "wordCount": 532,
+          "title": "sq [link]",
+          "imageUrl": null
+        },
+        {
+          "id": "2023-03-29-joycons",
+          "author": null,
+          "description": "Two joycons for the Switch and though the thumbstick worked fine, none of the buttons worked.\nI had assumed it was a loose connection, but it turns out that the shoulder buttons - L and R - had been crushed (from heavy usage), which looked to have caused a short which knocked out all the buttons.\nIt was simple to test by removing the crushed buttons from the PCB and the rest of the buttons came back to life (during the test).\nThe right joycon is trickier because the shoulder button is directly soldered to the PCB and it being crushed meant that the pads had all been ripped, but I managed to expose the super tiny traces and solder to those. But in future, there's easier contact points to jump to.\nOtherwise, now all the buttons work, and TIL: mash the shoulder buttons can equate to a totalled joycon!",
+          "link": "https://remysharp.com/tif/2023-03-29-joycons",
+          "publishedOn": "2023-03-29T12:00:00.000Z",
+          "wordCount": 626,
+          "title": "Joycon buttons didn't work [tif]",
+          "imageUrl": null
+        },
+        {
+          "id": "2023-03-26-cf62febe",
+          "author": null,
+          "description": "A long read, but a worthwhile one - in my head their voice was definitely just shy of shouty! :)\nBeing a JS developer first and foremost since pre-Node days, it puts me in a funny spot that I absolutely agree with everything said in this article, whilst also considering that I pick JS on the server to suit me.\nWhen it comes to the front-end, I'm pretty sick of the poison that's been sold to us for over a decade.\nThe web's war for JS libraries/etc summarised excellently with:\n\nIt’s a popularity contest. Plain and simple.\n\n\nAnd that popularity contest can change on a dime.\n\n\n10 years ago, it was AngularJS.\n\n\nToday, it’s React.\n\n\nTomorrow, it will be something else because that’s inevitable.\n\nAbsolutely this - I felt exactly the same when I had peers and colleagues trying to shove Angular down my throat.\nBut it's the future, the kids who come to the industry and will continue it. As Jared White writes,\n\nbut all those bright-eyed eager newcomers getting churned out of code schools knowing only React?\n\n\nThose jobs will be gone. 😕\n\nGrim future.\nSource: www.spicyweb.dev",
+          "link": "https://remysharp.com/links/2023-03-26-cf62febe",
+          "publishedOn": "2023-03-26T22:43:38.000Z",
+          "wordCount": 676,
+          "title": "The Great Gaslighting of the JavaScript Era [link]",
+          "imageUrl": null
+        },
+        {
+          "id": "2023-03-26-crystal",
+          "author": null,
+          "description": "I have a little Etsy store for gameboy repair (though it's currently just carts at the moment), and I had a Pokémon Crystal come in. It didn't load at all and I found corrosion around the cart pins.\nCarefully scratching away the solder had it loading up again, but the far right contact (the ground) had solder under the gold finger and I was worried it'll eventually fall away. Originally I wanted to swap all the parts to a new PCB, but that requires actually purchasing another Pokémon Crystal (which sell for around £20-30) - which didn't make sense.\nUltimately I cleaned as much as I could under the pad and then used solder mask to secure the gold finger down and now it's secure and safe for a good many years of usage. Returned to a very happy customer :)",
+          "link": "https://remysharp.com/tif/2023-03-26-crystal",
+          "publishedOn": "2023-03-26T12:00:00.000Z",
+          "wordCount": 613,
+          "title": "Pokémon Crystal [tif]",
+          "imageUrl": null
+        },
+        {
+          "id": "2023-03-15-ps2",
+          "author": null,
+          "description": "Bought faulty - only the thumb sticks and start/select worked. I figured there was a broken trace in there somewhere and something that would be simple to fix.\nOr perhaps a build up of carbon on the silicon pads that \"just\" needed cleaning.\nIt turns out that these controllers, instead of bridging the pad when the buttons are pressed, use a resistor (the dark rectangles) that when pressed, the resistance increases (or decreases…though I'm fairly sure increases) and that is measured.\nThe problem is that over time, as they're pressed more and more, the resistance naturally builds up as the resistor fails under the physical pressure and eventually it can't tell when the button is depressed.\nThe only solution is to buy an entirely new membrane (seen in the photo). But now it works!",
+          "link": "https://remysharp.com/tif/2023-03-15-ps2",
+          "publishedOn": "2023-03-22T20:15:18.000Z",
+          "wordCount": 608,
+          "title": "PlayStation 2 controller [tif]",
+          "imageUrl": null
+        },
+        {
+          "id": "2023-03-16-3ds",
+          "author": null,
+          "description": "As part of a joblot, and because I wanted to play Metroid: Return of Samus, I got hold of this 3DS with multiple faults.\nFirstly, it wouldn't always power up (it would flick on power then go off), and when it did the bottom screen was severely corrupted.\nThe bottom screen required a new display, and the power not working is a common problem with the Nintendo DS range. Specifically if the top display isn't connected properly - or if the ribbon cable is pinched from the hinge (a common fault), then during boot up tests the device will power down.\nLuckily for me, I was simply able to reseat the ribbon connector and then swap out the bottom display and it was right as rain in 30 minutes flat!",
+          "link": "https://remysharp.com/tif/2023-03-16-3ds",
+          "publishedOn": "2023-03-22T20:15:18.000Z",
+          "wordCount": 602,
+          "title": "3DS restored [tif]",
+          "imageUrl": null
+        },
+        {
+          "id": "2023-03-21-mario",
+          "author": null,
+          "description": "I had an old and very, very corroded copy of Super Mario 2: The Golden Rings for the Game Boy. I'd previously restored it but as one commenter suggested, the corrosion will continue to eat away. So the other night, using hot air and a lot of flux, I transferred all the parts to a new PCB and Mario is right as rain again.",
+          "link": "https://remysharp.com/tif/2023-03-21-mario",
+          "publishedOn": "2023-03-22T20:15:18.000Z",
+          "wordCount": 544,
+          "title": "Super Mario 2 for Game Boy [tif]",
+          "imageUrl": null
+        },
+        {
+          "id": "2023-03-09-gba",
+          "author": null,
+          "description": "The usual story, it wouldn't turn on. The first place I start with GBAs, in particular, is the power switch. If it's dirty it can prevent the device from starting or it can affect the \"quality\" of power, i.e. the power LED flashes from green to red.\nAlthough the board itself looked in good condition, once I lifted the whole thing out, it turned out a transformer (better known as T1) had cracked open and the coil of wires were all over the place. I replaced that and power returned.\nThe original GBA had a funny story attached, it was in an original pink shell and the (I assume) kid that owned it wanted something \"cooler\" (again, assume, but indulge me), so they used a black marker pen all over it.\nHowever, this board was destined for the teal(ish) shell and available to buy.",
+          "link": "https://remysharp.com/tif/2023-03-09-gba",
+          "publishedOn": "2023-03-12T23:35:58.000Z",
+          "wordCount": 624,
+          "title": "Game Boy Advanced wouldn't turn on [tif]",
+          "imageUrl": null
+        },
+        {
+          "id": "2023-03-10-joypad",
+          "author": null,
+          "description": "My son has been telling his friends that I can fix things, so I'm starting to see more gaming bits arrive via them! This joypad wasn't registering movement properly in both thumbsticks.\nI thought it might need replacement thumbsticks (actually bought some but they didn't fit) but it was actually a damn good cleaning with IPA that it needed.\nIPA FTW.",
+          "link": "https://remysharp.com/tif/2023-03-10-joypad",
+          "publishedOn": "2023-03-12T23:35:58.000Z",
+          "wordCount": 537,
+          "title": "Joypad with dodgy joysticks [tif]",
+          "imageUrl": null
+        },
+        {
+          "id": "2023-03-12-pebble",
+          "author": null,
+          "description": "I was kindly sent a Pebble Time Steel as a possible replacement for my own Pebble Time watch - and though it was in great condition and it powered on when charging, as soon as the power was disconnected, the watch powered off.\nI hunted down the right replacement lipo battery, the SP551923AE thankfully available on AliExpress. Heated the watch to melt the glue, opened and careful soldered the replacement battery onto the Pebble PCB (because I didn't want to remove the original battery connector and add it the new lipo battery - it seemed like a risky job).\nA tiny job, but a very nice result.",
+          "link": "https://remysharp.com/tif/2023-03-12-pebble",
+          "publishedOn": "2023-03-12T23:35:58.000Z",
+          "wordCount": 581,
+          "title": "Pebble Time Steel [tif]",
+          "imageUrl": null
+        },
+        {
           "id": "i-had-a-good-week",
           "author": null,
           "description": "Though it's only been a few days since my last entry I got to the end of that week and took some stock and realised, aloud, that I had a good week.\nAgain, this is for me and those who know me. The usual tech nonsense will resume (one day!).\n\nI hadn't written anything on my blog for a while, or at least nothing that had flowed naturally so my \"flavour of funk\" post did come easily and it was good.\nThe Monday before that post (the evening before) I attended a (nearly impromptu) meetup run under Beyond Tellerrand from Marc Thiele and Storyblok. I saw friends who I've not seen in, what felt like a long time. I felt physically sick the whole time, in my guts but seeing talks, hearing ideas, seeing my friends faces - it was overall positive.\nThe next day I finally returned to the gym. It was gentle and I wrote the aforementioned blog post on the treadmill. It flowed out of me and the responsive was warm and friendly (thank you).\nThat evening I also had dinner with a long standing friend. So long that we agreed that we'd meet on the same day every month - which makes making sure we see each other much easier. It was nice, and they'd read my post (and are probably reading this post too, so hey ❤️).\nFinally on the Thursday I started individual therapy (or counselling) properly (I'd had an introduction session the week before). I realised, and had to think carefully about it, that I had had a good week.\nIn the week that followed (last week), I've been trying to focus my thoughts on positive things to tell myself. I'm working on quietening down Bob's voice in my head, and when it's quiet, I'd like to begin to fill that emptiness with positive things, nice things, in my head.\nIt's still early days, like those early pages in a book, those first weeks on a diet or at the gym, but it's positive. I'm hopeful.",
@@ -552,6 +652,46 @@
           "wordCount": 845,
           "title": "I had a good week [blog]",
           "imageUrl": "https://remysharp.com/images/cards/og/9-7.jpg"
+        },
+        {
+          "id": "2023-03-02-nes-clone",
+          "author": null,
+          "description": "Random eBay purchase: wouldn't turn on and the power adapter wasn't included. It's old enough that the power supply was a barrel jack with negative centre (these days it's positive centre).\nOnce I opened it, inside was questionable quality soldering and actual hot glue hold it together. Quickly tracing the power supply led me to the MOSFET looking thing - actually the voltage regulator 7805.\nReplaced the voltage regulator and we're all good again. Yay.",
+          "link": "https://remysharp.com/tif/2023-03-02-nes-clone",
+          "publishedOn": "2023-03-04T11:43:47.000Z",
+          "wordCount": 551,
+          "title": "Hamy HM-5 NES clone [tif]",
+          "imageUrl": null
+        },
+        {
+          "id": "2023-03-03-switch",
+          "author": null,
+          "description": "Upon testing this, indeed it didn't turn on. I was ready to pull it apart and start probing the circuit, when my son started \"playing\" with it, and somehow it came on. Turned out it was just the power button that was faulty.\nOn further testing though, there were more faults due to corrosion (which had also eaten the power ribbon cable): the digitiser (the touch screen) was missing a column of input (where there was a big dent in the display) and the USB-C port had corrosion but also broken pins inside.\nI replaced the digitiser, the power ribbon cable and (after many hours struggling with solder in tiny holes) replaced the USB-C port. All good again.",
+          "link": "https://remysharp.com/tif/2023-03-03-switch",
+          "publishedOn": "2023-03-04T11:43:47.000Z",
+          "wordCount": 598,
+          "title": "Nintendo Switch - won't turn on [tif]",
+          "imageUrl": null
+        },
+        {
+          "id": "2023-02-25-gba-power",
+          "author": null,
+          "description": "I'd originally sold this on eBay but after some exchanges with the buyer, it was returned.\nSeeing it first hand, with the new IPS display and flashy images, the power LED would start to flash between red and green even with fresh batteries. This is a sign that the power supply is \"dirty\". Literally. So I removed the switch, completely opened it, cleaned with IPA and it's working again.",
+          "link": "https://remysharp.com/tif/2023-02-25-gba-power",
+          "publishedOn": "2023-03-01T18:12:21.000Z",
+          "wordCount": 545,
+          "title": "Game Boy Advance power [tif]",
+          "imageUrl": null
+        },
+        {
+          "id": "2023-03-01-joycon",
+          "author": null,
+          "description": "I thought this might be dirt, but once I took the joycon apart and lifted out the ribbon cable for the shoulder button and then desoldered the push button, I could see the pads had lifted (and vanished).\nThen the ribbon just split entirely (with no pressure). I think perhaps it was damaged when it was closed up at the factory and just waiting to completely fail.\nI did try to expose the trace on the flex PCB but it was so fragile that the trace itself quickly vanished. So I ordered a replacement (£3.50, I think I overpaid) and installed during lunch.",
+          "link": "https://remysharp.com/tif/2023-03-01-joycon",
+          "publishedOn": "2023-03-01T18:12:21.000Z",
+          "wordCount": 583,
+          "title": "Shoulder button on joycon not working [tif]",
+          "imageUrl": null
         },
         {
           "id": "2023-03-01-3bff24a5",
@@ -594,14 +734,24 @@
           "imageUrl": null
         },
         {
-          "id": "on-vercel-if-some-of-my-sites-are-down",
+          "id": "2023-02-11-space-invaders",
           "author": null,
-          "description": "It's because Vercel has blocked my account under \"fair usage\".\nI had all of 12 hours on a Sunday to prevent people from using the source of the spike - but I suspect they would have blocked my account either way because normal traffic would have tipped me over their limits.\n\nThe trouble is that they've blocked my personal account and personal accounts can't be upgraded to a paid account, you have to create a Team and then put your paid instances into the team, and of course that process is nowhere near as automated as their blocking process.\nTo be clear, a blocking process on a personal account results in landing on any of my projects returning a 422 - payment required and this:\n\nThe whole thing kind of blew up my Monday morning - particularly as I should have been more focused on getting …",
-          "link": "https://remysharp.com/2023/01/30/on-vercel-if-some-of-my-sites-are-down",
-          "publishedOn": "2023-01-30T00:00:00.000Z",
-          "wordCount": 1163,
-          "title": "On Vercel: If some of my sites are down… [blog]",
-          "imageUrl": "https://remysharp.com/images/cards/og/9-3.jpg"
+          "description": "Didn't turn on. Corrosion on the battery terminals and the internal wires had broken away from the board. Warm white vinegar cleaned the corrosion off the terminals and some fresh solder for the wires and it works again!",
+          "link": "https://remysharp.com/tif/2023-02-11-space-invaders",
+          "publishedOn": "2023-02-14T22:40:51.000Z",
+          "wordCount": 510,
+          "title": "Space Invaders [tif]",
+          "imageUrl": null
+        },
+        {
+          "id": "2023-02-14-super-mario",
+          "author": null,
+          "description": "Super Mario Land 2 for Cole, didn't load. Corrosion on the contacts of the cart pins. I carefully scratched it off, cleaned and then replaced the battery (after the first one exploded on me). All better.",
+          "link": "https://remysharp.com/tif/2023-02-14-super-mario",
+          "publishedOn": "2023-02-14T22:40:51.000Z",
+          "wordCount": 512,
+          "title": "Super Mario Land 2 [tif]",
+          "imageUrl": null
         }
       ]
     },
@@ -873,6 +1023,26 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/713254129778278400",
+          "author": null,
+          "description": "A recent post from PETSCIIBOTS, a Twitter account by buzz_click.",
+          "link": "https://text-mode.tumblr.com/post/713254129778278400",
+          "publishedOn": "2023-03-30T21:35:44.000Z",
+          "wordCount": 927,
+          "title": "Untitled",
+          "imageUrl": "https://64.media.tumblr.com/a40aecd87659811fd0ee57646cb6a4c3/9055e063d1bad162-21/s1280x1920/569b818d399397a805c4d9bd9999364f88f50796.png"
+        },
+        {
+          "id": "https://text-mode.tumblr.com/post/713242494788419584",
+          "author": null,
+          "description": "garadinervi:\nPedro Xisto, Particulas, «Coleção Claro» v. 2, Massao Ohno – Ismael Guarnelli/Editores, São Paulo, 1984 [Instituto Paulo Bruscky]",
+          "link": "https://text-mode.tumblr.com/post/713242494788419584",
+          "publishedOn": "2023-03-30T18:30:48.000Z",
+          "wordCount": 1017,
+          "title": "garadinervi:\n\nPedro Xisto, Particulas, «Coleção Claro» v. 2,...",
+          "imageUrl": "https://64.media.tumblr.com/b6caf3b9a87a995d77cba06a93f80645/f0a4aa667d19a86f-b5/s1280x1920/1754670e925bd2f28aa4949e5c4371425e28a8de.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/713151885703593984",
           "author": null,
@@ -1468,6 +1638,16 @@
       "siteUrl": "https://pluralistic.net",
       "articles": [
         {
+          "id": "https://pluralistic.net/?p=5051",
+          "author": "Cory Doctorow",
+          "description": "Today's links We should ban TikTok('s surveillance): And Google's, Apple's, and Facebook's surveillance, too. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading We should ban TikTok('s surveillance) (permalink) With the RESTRICT Act, Congress is proposing to continue Trump's war on Tiktok, enacting a US ban on the Chinese-owned service. How will they do this? Congress isn't clear. In practice, banning stuff on the internet is hard, especially if you don't have a national firewall: https://doctorow.medium.com/theyre-still-trying-to-ban-cryptography-33aa668dc602 My guess is that they're thinking of ordering the mobile duopoly of Google and Apple to nuk…",
+          "link": "https://pluralistic.net/2023/03/30/tik-tok-tow/",
+          "publishedOn": "2023-03-30T13:54:52.000Z",
+          "wordCount": 3449,
+          "title": "Pluralistic: We should ban TikTok('s surveillance) (30 Mar 2023)",
+          "imageUrl": null
+        },
+        {
           "id": "https://pluralistic.net/?p=5046",
           "author": "Cory Doctorow",
           "description": "Today's links Naomi Novik's Scholomance trilogy: When Rousseau comes to Hobbeswarts. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Naomi Novik's Scholomance trilogy (permalink) The Scholomance trilogy is Naomi Novik's take on a \"school for wizardry\": It. Is. Superb. Novik takes a belt-sander to all the crumbling tropes left by lesser writers to reveal fresh wood beneath, fashioning something breathtakingly new: https://www.naominovik.com/category/scholomance/ Here's the premise: the wizards of the world live in constant peril from malificaria – the magic monsters that prey on those born with magic, especially the children. In a state of nature, only o…",
@@ -1957,6 +2137,36 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/03/how-noiseless-props-are-made-for-movies-and-tv-shows",
+          "author": null,
+          "description": "Insider has been doing a whole series of videos on how movie props are made (view the entire thing here) and I found this one on how prop makers rely on noiseless props to be particularly interesting. To cut down on distracting on-set noise (so dialogue can be heard, for instance), they swap racquetball balls for pool balls, silicon chunks for ice cubes, and paper bags made out of coffee filter material for real paper bags. So weird to watch those objects in action without their usual sounds. (thx, caroline)\nTags: audio   film school   how to   movies   video",
+          "link": "https://kottke.org/23/03/how-noiseless-props-are-made-for-movies-and-tv-shows",
+          "publishedOn": "2023-03-30T19:44:56.000Z",
+          "wordCount": 282,
+          "title": "How Noiseless Props Are Made For Movies And TV Shows",
+          "imageUrl": "https://img.youtube.com/vi/x6btmJSRueE/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/03/tapping-the-vast-renewable-energy-of-the-yellowstone-supervolcano",
+          "author": null,
+          "description": "The first few sentences of the abstract for this paper from the scientific journal Renewable Energy contain a twist in the middle that’s worthy of M. Night Shyamalan:\nThe USA is confronted with three epic-size problems: (1) the need for production of energy on a scale that meets the current and future needs of the nation, (2) the need to confront the climate crisis head-on by only producing renewable, green energy, that is 100% emission-free, and (3) the need to forever forestall the eruption of the Yellowstone Supervolcano. This paper offers both a provable practical, novel solution, and a thought experiment, to simultaneously solve all of the above stated problems.\n\n\nIf you don’t know about the supervolcano lurking under Yellowstone National Park, now’s your chance to learn more. Here’s …",
+          "link": "https://kottke.org/23/03/tapping-the-vast-renewable-energy-of-the-yellowstone-supervolcano",
+          "publishedOn": "2023-03-30T16:02:41.000Z",
+          "wordCount": 695,
+          "title": "Tapping the Vast Renewable Energy of the Yellowstone Supervolcano",
+          "imageUrl": "https://kottke.org/plus/misc/images/yellowstone-caldera.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/03/the-impressionish-painter",
+          "author": null,
+          "description": "I have to admit that as much as I love Evan Puschak’s Nerdwriter videos, I did not have high hopes for his latest video on John Singer Sargent, a painter I didn’t know a lot about and assumed, mostly based on his name (ugh, I know), that he was some fusty 19th-century painter who was not as interesting as the Impressionists. What a pleasant surprise to discover, right from Puschak’s expertly concise show-don’t-tell opening, that I am Sargent’s newest fan.\nEverywhere you look in this painting you see his supremely confident looseness, a kind of painting you maybe wouldn’t think to associate with a realistic representation of the world. And yet that’s exactly the final effect — a realism that is somehow more true than finely detailed painting.\n\n\nRealism through impressionism? Sign me up. Stay curious, friends…you never know what interesting new (or old!) thing you’re going to discover next.\nTags: art   art school   Evan Puschak   John Singer Sargent   video",
+          "link": "https://kottke.org/23/03/the-impressionish-painter",
+          "publishedOn": "2023-03-30T13:56:26.000Z",
+          "wordCount": 330,
+          "title": "The Impressionish Painter",
+          "imageUrl": "https://img.youtube.com/vi/tjLk5pNn2Js/0.jpg"
+        },
         {
           "id": "https://kottke.org/23/03/happy-10th-anniversary-to-kurzgesagt",
           "author": null,
@@ -3456,16 +3666,6 @@
           "wordCount": 413,
           "title": "A Table Read for The Muppet Show",
           "imageUrl": "https://kottke.org/plus/misc/images/the-muppet-show.png"
-        },
-        {
-          "id": "https://kottke.org/quick-links",
-          "author": null,
-          "description": "Mac 30th Anniversary Icons. Icons in SVG format of Macs from the original Macintosh 128K to 2013's Mac Pro. [rknightuk.github.io]\nHuh, chess[dot]com's traffic has doubled since the beginning of December for no obvious single reason. Why the explosion in interest in chess? [chess.com]\n---\nNote: Quick Links are pushed to this RSS feed twice a day. For more immediate service, check out the front page of kottke.org, the Quick Links archive, or the @kottke Twitter feed.",
-          "link": "https://kottke.org/quick-links",
-          "publishedOn": "2023-01-29T17:52:01.000Z",
-          "wordCount": 1592,
-          "title": "Two Quick Links for Sunday Noonish",
-          "imageUrl": "https://kottke.org/images/2016/ios/180x180.png"
         }
       ]
     }
