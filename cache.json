@@ -225,6 +225,16 @@
       "siteUrl": "https://100r.co",
       "articles": [
         {
+          "id": "log.html#mar2023",
+          "author": "Rek Bell",
+          "description": "Hey everyone! This is the list of all the changes we've done to our projects and apps during the month of March. We'll also be reporting in our on position in the world, and on our future plans.\nSummary Of Changes\nDonsol, added 100r logo to splash screen on the rom.\n100r.co, added a new page: diy carbonation system. Updated Saving fuel, Engine rebuild and sprouting.\nGrimgrains, added two new recipes: Beet Sauce Pasta, and Mac and Faux Cheese.\nLeft, added all sorts of fun new things like routine definition highlight and graphics support.\nHakum, new comics named Who Did What and Disengaging.\nOrca, added $bpm command to the uxn version.\nUxn, revamped Uxntal documentation based on the feedback from the community (thanks everyone).\nInteraction Nets, spent time in the deep-end of the pool.\nNews\nWe spent the first half of March on Galiano Island in the Salish Sea for BioSonic(by ActivePassive), an event series exploring the intersections of music, art and biodiversity. On March 10th we gave a talk titled What Are Computers For?, see the art from the talk. The next day, Devine and Anju Singh performed together using Orca, with Reylinn on visuals. A video of the perfomance and of the talk will be released soon, in the meantime, see photos of the talk and of the show, taken by photographer Dayna Szyndrowski.\nWe are still working on re-releasing Oquonie. We spent the month of March playing the game, finding bugs, and fixing them. Oquonie will be playable next month.\nThis month we've been experimenting with solar cooking, to try to save on cooking fuel this summer. We are currently making tests, gathering data, and hope to share this with you all end of April. In the meantime, enjoy this amazing music by Xsodect, made using Orca.\nPino book club\nWe're reading  Structure and Interpretation of Computer Programs (SICP) by Harold Abelson, Gerald Jay and Julie Sussman.\nContinue Reading",
+          "link": "https://100r.co/site/log.html#mar2023",
+          "publishedOn": "2023-03-31T09:30:00.000Z",
+          "wordCount": 844,
+          "title": "Summary of changes for March 2023",
+          "imageUrl": null
+        },
+        {
           "id": "log.html#feb2023",
           "author": "Rek Bell",
           "description": "Hey everyone! This is the list of all the changes we've done to our projects and apps during the month of February. We'll also be reporting in our on position in the world, and on our future plans.\nSummary Of Changes\n    \n    \nWiktopher, added back corrected chapters 1-7 to online.\nLeft, made a ton of improvements including a new directory navigation, better navbar labels and performance.\nOrca, fixed an issue where copy/paste/drag would move characters off-screen.\nCatclock, ported to new opcodes and improved monochromatic mode.\nBeetbug, added an interactive mode that interprets uxntal on the fly.\nHakum, added a comic sequence named Tracking.\n100r.co, added updates to battery connections.\nGrimgrains, added some notes on Temperature for lacto-fermentation.\nNews\nOn February 14th, we celebrated our 7th year living aboard our beloved Pino. It's also around this time 10 years ago that we were still living in Odaiba(Japan), and beginning our work on what would be our first game collaboration: oquonie.\nThe uxn port of Oquonie has advanced in incredible leaps this month. Rek has finished re-doing all of the assets. Devine is now working on the music, and finalizing some of the levels. We are testing the game as we go, and hope to release it sometime next month. Oquonie will be playable on a number of platforms, including the Nintendo DS(Mastodon), as well as the Playdate. See a small preview(Mastodon).\nEarly next month we are traveling to Galiano Island in the Salish Sea for BioSonic(by ActivePassive). We'll be part of an event series exploring the intersections of music, art and biodiversity. We'll give a talk on March 10th, and Devine will perform with Orca on the 11th at the Galiano South Hall.\nWatch Devine's set for Lovebyte 2023.\nPino book club\nWe're reading Courrier Sud by Antoine de Saint-Exupéry.\nContinue Reading",
@@ -1469,26 +1479,6 @@
           "wordCount": 2074,
           "title": "How to talk to kids about the news",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/11/fx_howtotalkaboutnews_blogheader_2-1080x720.jpg"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=71359",
-          "author": "Mozilla",
-          "description": "Cathy Pedrayes earned a following as TikTok’s “Mom Friend” for her practical safety tips – from how to break a car window in an emergency to what not to post on social media. She’s a TV host and has been featured on Today Parents, The Miami Herald, BuzzFeed News, The Bump and Good Morning America. […]\nThe post <strong>How to have the tech talk with kids, according to TikTok’s ‘Mom Friend’ </strong> appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/internet-culture/tiktok-mom-friend-cathy-pedrayes/",
-          "publishedOn": "2023-01-31T17:18:02.000Z",
-          "wordCount": 1785,
-          "title": "How to have the tech talk with kids, according to TikTok’s ‘Mom Friend’",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/01/fx_mcoi_-CathyPedrayes_header-1080x720.png"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=71340",
-          "author": "Damiano",
-          "description": "New curated collections focused on “People of Deutschland” book The Pocket editorial and product teams have been busy over the past couple of months to continue delivering the great experience Pocket users have come to expect. Here’s a breakdown of what’s new at Pocket, starting with our newest and returning publisher partnerships, followed by the […]\nThe post Pocket kicks off 2023 with new and expanded publisher partnerships   appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/products/pocket-new-partners-android-updates/",
-          "publishedOn": "2023-01-31T17:01:29.000Z",
-          "wordCount": 2752,
-          "title": "Pocket kicks off 2023 with new and expanded publisher partnerships",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/01/pocket_blog_header_generic_8-1080x720.jpg"
         }
       ]
     },
@@ -2100,16 +2090,6 @@
           "publishedOn": "2023-02-01T12:43:37.000Z",
           "wordCount": 2675,
           "title": "Pluralistic: Johnson and Johnson's bankruptcy gambit fails (01 Feb 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=4731",
-          "author": "Cory Doctorow",
-          "description": "Today's links Canada's privatised shadow civil service: Tories claim governments are incompetent, Liberals prove it. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Canada's privatised shadow civil service (permalink) PJ O'Rourke once quipped that \"The Republicans are the party that says government doesn't work and then they get elected and prove it.\" But conservative parties have unlikely allies in the project to discredit public service: neoliberal \"centrist\" parties, like Canada's Liberal Party. The Liberals have become embroiled in a series of scandals over the explosion of lucrative, secretive private contracts awarded to high-flying consulta…",
-          "link": "https://pluralistic.net/2023/01/31/mckinsey-and-canada/",
-          "publishedOn": "2023-01-31T17:07:30.000Z",
-          "wordCount": 3105,
-          "title": "Pluralistic: Canada's privatised shadow civil service (31 Jan 2023)",
           "imageUrl": null
         }
       ]
