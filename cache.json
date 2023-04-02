@@ -179,16 +179,6 @@
           "wordCount": 448,
           "title": "MacOS can remove image backgrounds #shorts",
           "imageUrl": null
-        },
-        {
-          "id": "https://christianheilmann.com/?p=7520",
-          "author": "Chris Heilmann",
-          "description": "One of the things I always loved about the web is its immediacy. You write a piece of code, publish it somewhere and people can access it. No compilation step, no packaging and distribution, no listing on marketplaces or app stores – just a push of the button. This gives people a wrong impression that […]",
-          "link": "https://christianheilmann.com/2023/01/31/releasing-code-in-large-corporations-is-slow-and-there-is-a-good-reason-for-it/",
-          "publishedOn": "2023-01-31T17:50:18.000Z",
-          "wordCount": 1475,
-          "title": "Releasing code in large corporations is slow – and there is a good reason for it",
-          "imageUrl": null
         }
       ]
     },
@@ -535,16 +525,6 @@
           "wordCount": 206,
           "title": "Size Comparisons",
           "imageUrl": "https://imgs.xkcd.com/comics/size_comparisons_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2732/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/bursa_of_fabricius.png\" title=\"If an anatomical structure is named for a person, it means they were the only person to have it. Pierre Paul Broca had a special area of his brain that created powerful magnetic fields, enabling him to do 19th century fMRI research.\" alt=\"If an anatomical structure is named for a person, it means they were the only person to have it. Pierre Paul Broca had a special area of his brain that created powerful magnetic fields, enabling him to do 19th century fMRI research.\" />",
-          "link": "https://xkcd.com/2732/",
-          "publishedOn": "2023-02-01T00:00:00.000Z",
-          "wordCount": 208,
-          "title": "Bursa of Fabricius",
-          "imageUrl": "https://imgs.xkcd.com/comics/bursa_of_fabricius_2x.png"
         }
       ]
     },
@@ -1033,6 +1013,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/713423673744326656",
+          "author": null,
+          "description": "text-mode:\nJiří Kolář: Kurt Schwitters (strojopis), 1964.",
+          "link": "https://text-mode.tumblr.com/post/713423673744326656",
+          "publishedOn": "2023-04-01T18:30:34.000Z",
+          "wordCount": 955,
+          "title": "text-mode:\n\nJiří Kolář: Kurt Schwitters (strojopis), 1964.",
+          "imageUrl": "https://64.media.tumblr.com/tumblr_m2ryoaXdpd1rpiyaso1_500.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/713348156127051776",
           "author": null,
@@ -1603,66 +1593,6 @@
           "wordCount": 12217,
           "title": "An Interactive Guide to Flexbox",
           "imageUrl": "https://www.joshwcomeau.com/images/og-interactive-guide-to-flexbox.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/react/usememo-and-usecallback/",
-          "author": "Josh W. Comeau",
-          "description": "What's the deal with these two hooks?! Lots of devs find them confusing, for a whole host of reasons. In this tutorial, we'll dig deep and understand what they do, why they're useful, and how to get the most out of them.",
-          "link": "https://www.joshwcomeau.com/react/usememo-and-usecallback/",
-          "publishedOn": "2023-01-31T21:31:41.000Z",
-          "wordCount": 10934,
-          "title": "Understanding useMemo and useCallback",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-usememo-and-usecallback.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/react/announcing-use-sound-react-hook/",
-          "author": "Josh W. Comeau",
-          "description": "By and large, using the web is a visual experience. This is in terrible contrast to mobile apps, which interact with three of our human senses (sight, sound, and touch, through haptic feedback). I just released a library to make it easy to add sound to your React app, and I make the case that you should consider using it!",
-          "link": "https://www.joshwcomeau.com/react/announcing-use-sound-react-hook/",
-          "publishedOn": "2023-01-31T21:31:41.000Z",
-          "wordCount": 4270,
-          "title": "Announcing “use-sound”, a React Hook for Sound Effects",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-announcing-use-sound-react-hook.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/react/the-perils-of-rehydration/",
-          "author": "Josh W. Comeau",
-          "description": "A surprisingly-common misconception can lead to big rendering issues that are difficult to debug. This deep-dive tutorial examines how React and Gatsby can be used to pre-render content, and how we can work around the constraints to build dynamic, personalized web apps.",
-          "link": "https://www.joshwcomeau.com/react/the-perils-of-rehydration/",
-          "publishedOn": "2023-01-31T21:31:41.000Z",
-          "wordCount": 6412,
-          "title": "The Perils of Rehydration",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-the-perils-of-rehydration.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/react/data-binding/",
-          "author": "Josh W. Comeau",
-          "description": "As developers, we don't like working with forms, but they're a critical part of most web applications! In this tutorial, you'll learn exactly how to wire up all of the different form controls in React. Never forget how to data-bind a checkbox or radio button again!",
-          "link": "https://www.joshwcomeau.com/react/data-binding/",
-          "publishedOn": "2023-01-31T21:31:41.000Z",
-          "wordCount": 10619,
-          "title": "Data Binding in React",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-data-binding.jpg"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/react/next-level-playground/",
-          "author": "Josh W. Comeau",
-          "description": "No developer blog or technical documentation site is complete without an interactive code playground. The CodeSandbox team recently released a wonderful tool called Sandpack, to help us create these live-updating code editors. In this tutorial, I'll show you how I use it on this blog.",
-          "link": "https://www.joshwcomeau.com/react/next-level-playground/",
-          "publishedOn": "2023-01-31T21:31:41.000Z",
-          "wordCount": 7226,
-          "title": "A World-Class Code Playground with Sandpack",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-next-level-playground.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/react/why-react-re-renders/",
-          "author": "Josh W. Comeau",
-          "description": "In React, we don't update the DOM directly, we tell React what we want the DOM to look like, and React tackles the rest. But how exactly does it do this? In this tutorial, we'll unpack exactly when and why React re-renders, and how we can use this information to optimize the performance of our React apps.",
-          "link": "https://www.joshwcomeau.com/react/why-react-re-renders/",
-          "publishedOn": "2023-01-31T21:31:41.000Z",
-          "wordCount": 8132,
-          "title": "Why React Re-Renders",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-why-react-re-renders.png"
         }
       ]
     },
@@ -1677,6 +1607,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=5062",
+          "author": "Cory Doctorow",
+          "description": "Today's links Flickr to copyleft trolls: drop dead: Pixsy's predators no longer welcome. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Flickr to copyleft trolls: drop dead (permalink) Today's a big day for users of Creative Commons images: Flickr has declared zero tolerance for copyleft trolls, predators who exploit a bug in out-of-date versions of the CC licenses in order to threaten good-faith users of CC images who make minor errors in the way they credit the images. First things first: Flickr's new community guidelines prohibit copyleft trolling: \"Failure to allow a good faith reuser the opportunity to correct errors is against the intent of the l…",
+          "link": "https://pluralistic.net/2023/04/01/pixsynnussija/",
+          "publishedOn": "2023-04-01T17:07:01.000Z",
+          "wordCount": 4247,
+          "title": "Pluralistic: Flickr to copyleft trolls: drop dead (01 Apr 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=5051",
           "author": "Cory Doctorow",
@@ -3843,16 +3783,6 @@
           "wordCount": 10851,
           "title": "Cecil Null & His “Gun-tar” Of 1968",
           "imageUrl": "https://www.zeroto180.org/wp-content/uploads/2023/02/Gun-Guitar-thumbnail.jpg"
-        },
-        {
-          "id": "https://www.zeroto180.org/?p=80375",
-          "author": "Zeroto180",
-          "description": "In the course of compiling arresting ads from four of the major music industry trade publications — Billboard, Cash Box, Record World, and Beat Instrumental — I came across a number of artists from the mid-to-late 1960s who had announced themselves with great fanfare and youthful optimism, only to vanish from the music scene in […]\nThe post 1960s Musical Artists – We Hardly Knew Ye appeared first on Zero to 180 - Three Minute Magic.",
-          "link": "https://www.zeroto180.org/1960s-musical-artists-we-hardly-knew-ye/",
-          "publishedOn": "2023-01-31T22:08:55.000Z",
-          "wordCount": 16713,
-          "title": "1960s Musical Artists – We Hardly Knew Ye",
-          "imageUrl": "https://www.zeroto180.org/wp-content/uploads/2023/01/We-Hardly-Knew-Ye-thumbnail-1.jpg"
         }
       ]
     }
