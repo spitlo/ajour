@@ -308,6 +308,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2760/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/paleontology_museum.png\" title=\"Nowadays the only ones left that do anything are turtles.\" alt=\"Nowadays the only ones left that do anything are turtles.\" />",
+          "link": "https://xkcd.com/2760/",
+          "publishedOn": "2023-04-07T00:00:00.000Z",
+          "wordCount": 180,
+          "title": "Paleontology Museum",
+          "imageUrl": "https://imgs.xkcd.com/comics/paleontology_museum_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2759/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/easily_confused_acronyms.png\" title=\"'Lever' was originally an acronym for Load Emplification by the Vimulated Emission of Radiation.\" alt=\"'Lever' was originally an acronym for Load Emplification by the Vimulated Emission of Radiation.\" />",
@@ -546,16 +556,6 @@
           "wordCount": 206,
           "title": "Only Serifs",
           "imageUrl": "https://imgs.xkcd.com/comics/only_serifs_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2735/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/coordinate_plane_closure.png\" title=\"3D graphs that don't contact the plane in the closure area may proceed as scheduled, but be alert for possible collisions with 2D graph lines that reach the hole and unexpectedly enter 3D space.\" alt=\"3D graphs that don't contact the plane in the closure area may proceed as scheduled, but be alert for possible collisions with 2D graph lines that reach the hole and unexpectedly enter 3D space.\" />",
-          "link": "https://xkcd.com/2735/",
-          "publishedOn": "2023-02-08T00:00:00.000Z",
-          "wordCount": 208,
-          "title": "Coordinate Plane Closure",
-          "imageUrl": "https://imgs.xkcd.com/comics/coordinate_plane_closure_2x.png"
         }
       ]
     },
@@ -1075,6 +1075,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/714057897247686656",
+          "author": null,
+          "description": "somediyprojects:\n\nVictorian Lady clipped from a cross-stitch magazine.",
+          "link": "https://text-mode.tumblr.com/post/714057897247686656",
+          "publishedOn": "2023-04-08T18:31:16.000Z",
+          "wordCount": 852,
+          "title": "somediyprojects:Victorian Lady clipped from a cross-stitch...",
+          "imageUrl": "https://64.media.tumblr.com/225481fa6b7690c56a9f44ac2e28bf37/e1ae75e47e182019-37/s1280x1920/b48915090341e53aa6fbb4bc4cbcdfa0c96a0488.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/713967260933537792",
           "author": null,
@@ -1668,16 +1678,6 @@
           "wordCount": 724,
           "title": "Print copies of The Pocket Guide to Debugging have arrived",
           "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2023/02/08/why-does-0-1-plus-0-2-equal-0-30000000000000004/",
-          "author": null,
-          "description": "span {\n   padding: 0 !important;\n   }\n \n    \n\nHello! I was trying to write about floating point yesterday,\nand I found myself wondering about this calculation, with 64-bit floats:\n>>> 0.1 + 0.2\n0.30000000000000004\n\nI realized that I didn’t understand exactly how it worked. I mean, I know\nfloating point calculations are inexact, and I know that you can’t exactly\nrepresent 0.1 in binary, but: there’s a floating point number that’s closer to\n0.3 than 0.30000000000000004! So why do we get the answer\n0.30000000000000004?\nIf you don’t feel like reading this whole post with a bunch of calculations, the short answer is that\n0.1000000000000000055511151231257827021181583404541015625 + 0.200000000000000011102230246251565404236316680908203125 lies exactly between\n2 floating point numbers,\n0.2999999999…",
-          "link": "https://jvns.ca/blog/2023/02/08/why-does-0-1-plus-0-2-equal-0-30000000000000004/",
-          "publishedOn": "2023-02-08T08:29:51.000Z",
-          "wordCount": 1921,
-          "title": "Why does 0.1 + 0.2 = 0.30000000000000004?",
-          "imageUrl": null
         }
       ]
     },
@@ -1749,6 +1749,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=5102",
+          "author": "Cory Doctorow",
+          "description": "Today's links Everything advertised on social media is overpriced junk: Ad targeting isn't \"efficient.\" Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Everything advertised on social media is overpriced junk (permalink) In \"Behavioral Advertising and Consumer Welfare: An Empirical Investigation,\" a trio of business researchers from Carnegie Mellon and Pamplin College investigate the difference between the goods purchased through highly targeted online ads and just plain web-searches, and conclude social media ads push overpriced junk: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4398428 Specifically, stuff that's pushed to you via targeted…",
+          "link": "https://pluralistic.net/2023/04/08/late-stage-sea-monkeys/",
+          "publishedOn": "2023-04-08T08:00:26.000Z",
+          "wordCount": 4128,
+          "title": "Pluralistic: Everything advertised on social media is overpriced junk (08 Apr 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=5096",
           "author": "Cory Doctorow",
@@ -2143,16 +2153,6 @@
           "wordCount": 3503,
           "title": "Pluralistic: Copyright won't solve creators' Generative AI problem (09 Feb 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=4786",
-          "author": "Cory Doctorow",
-          "description": "Today's links The Collective Intelligence Institute: Asking more than 'what technology does' and demanding to know who it does it FOR and who it does it TO. Hey look at this: Delights to delectate. This day in history: 2003, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The Collective Intelligence Institute (permalink) History is written by the winners, which is why Luddite is a slur meaning \"technophobe\" and not a badge of honor meaning, \"Person who goes beyond asking what technology does, to asking who it does it for and who it does it to.\" https://locusmag.com/2022/01/cory-doctorow-science-fiction-is-a-luddite-literature/ If you'd like an essay-formatted version of this post to read or share, here's a link to it on pluralistic…",
-          "link": "https://pluralistic.net/2023/02/07/full-stack-luddites/",
-          "publishedOn": "2023-02-07T22:00:42.000Z",
-          "wordCount": 2900,
-          "title": "Pluralistic: The Collective Intelligence Institute (07 Feb 2023)",
-          "imageUrl": null
         }
       ]
     },
@@ -2195,16 +2195,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "http://nathalielawhead.com/noodles/bluesub_devlogdirection/seasidecave.gif"
-        },
-        {
-          "id": "http://www.nathalielawhead.com/candybox/?p=5501",
-          "author": "alienmelon",
-          "description": "There is no greater joy as a game developer (and general fan of video games) to just browse random game jam submissions and get lost in a sea of work. There is so much stuff being released every day, you could isolate all releases for just one month and it would probably take a lifetime to play through everything. From all that, only a small sliver is ever really seen. I don’t think that’s bad. I think that abundance is brave. “Amateur” work is and always was at the heart of video games. I say this because browsing random jam...",
-          "link": "http://www.nathalielawhead.com/candybox/celebrating-some-beautiful-jam-games",
-          "publishedOn": "2023-02-08T01:46:57.000Z",
-          "wordCount": 3285,
-          "title": "Celebrating some beautiful jam games",
-          "imageUrl": "http://nathalielawhead.com/noodles/gdevelopjam3/sepawrated1.gif"
         }
       ]
     },
@@ -3838,36 +3828,6 @@
           "wordCount": 974,
           "title": "LeBron James Breaks Kareem’s All-Time NBA Scoring Record",
           "imageUrl": "https://img.youtube.com/vi/MOPjtuzoSyA/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/02/cameron-tests-titanic-door-theory",
-          "author": null,
-          "description": "James Cameron is not one for half-measures. When making Titanic, he used every image and description of the ship he could lay his hands on to build accurate sets & models and financed 12 dives to the ship’s actual wreckage on the bottom of the ocean floor to gather footage to use in the film. For the mega-blockbuster’s 25th anniversary, Cameron has returned his attention to Titanic, to scientifically test the fan theory that there was enough room on the door for Jack at the end of Titanic (see the video above).\nIn order to reexamine Jack’s final moments, Cameron enlisted help from a team of scientists and two stunt people to test four different scenarios to examine whether two people could have shared the door.\n“Jack and Rose are able to get on the raft, but now they’re both submerged in dangerous levels of freezing water,” Cameron explains as the stunt people prove it.\nMeanwhile in another example, Cameron details, “Out of the water, violent shaking was helping him and projecting it out, he could’ve made it pretty long, like hours.”\n\n\nIf you can stand the forced-cheer morning show banter, there’s a bit more footage of Cameron and the testing from Good Morning America:\n\nCameron’s ultimate conclusion: “Jack might’ve lived, but there’s a lot of variables.”\nTags: James Cameron   movies   Titanic   video",
-          "link": "https://kottke.org/23/02/cameron-tests-titanic-door-theory",
-          "publishedOn": "2023-02-08T00:09:36.000Z",
-          "wordCount": 419,
-          "title": "James Cameron Scientifically Tests if Jack Could Have Fit on the Door at the End of Titanic",
-          "imageUrl": "https://img.youtube.com/vi/YEJph0aIP-U/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/02/kottke-hypertext-tshirt",
-          "author": null,
-          "description": "For much of the nearly 25-year lifespan of kottke.org, the site’s tagline has been “home of fine hypertext products”. I always liked that it felt olde timey and futuristic at the same time, although hypertext itself has become antiquated — no one talks of hypertextual media anymore even though we’re all soaking in it.\nAnd so but anyway, I thought it would fun to turn that tagline into a t-shirt, so I partnered with the good folks at Cotton Bureau to make a fine “hypertext” product that you can actually buy and wear around and eventually it’ll wear out and then you can use it to wash your car. If you want to support the site and look good doing it, you can order a Kottke.org Hypertext Tee right now.\n\nThe shirts are short-sleeved and available in men’s, women’s, and youth sizes in three colors (black, white, and heather black) and sizes from S to 3XL, which I hope will work for almost everyone. The text is Gotham Light (from Hoefler&Co., designed by Tobias Frere-Jones) and takes the colors of the current kottke.org header background, which I brightened up to look better on the shirt. Prices are $33 for adult sizes and $29 for kids, plus shipping.\nI have several Cotton Bureau shirts in my closet and the samples I ordered of the hypertext shirt look great. If you want my advice, it looks slightly better in solid black, but you can’t go wrong with any of the colors and nothing is stopping you from ordering one of each color.\nThe Kottke.org Hypertext Tee will only be available to order for the next two weeks — after that: poof, gone. So order yours today!\nTags: fashion   kottke.org",
-          "link": "https://kottke.org/23/02/kottke-hypertext-tshirt",
-          "publishedOn": "2023-02-07T18:23:52.000Z",
-          "wordCount": 465,
-          "title": "The Kottke.org T-shirt, a Fine Hypertext Product",
-          "imageUrl": "https://kottke.org/plus/misc/images/kottke-hypertext-tees.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/02/the-snowy-day-stamps",
-          "author": null,
-          "description": "I’d missed that the USPS released a set of stamps commemorating Ezra Jack Keats’ The Snowy Day back in 2017. From the Smithsonian National Postal Museum:\nIt was the first full-color picture book to have an African American protagonist. Keats received the 1963 Caldecott Medal for his illustrations.\n\n\nThis book was solidly in the regular reading rotation when my kids were little and I remember it fondly from my childhood as well.\nTags: books   Ezra Jack Keats   stamps   The Snowy Day   USPS",
-          "link": "https://kottke.org/23/02/the-snowy-day-stamps",
-          "publishedOn": "2023-02-07T14:54:33.000Z",
-          "wordCount": 251,
-          "title": "The Snowy Day Stamps",
-          "imageUrl": "https://kottke.org/plus/misc/images/snowy-day-stamps.jpg"
         }
       ]
     },
