@@ -1086,6 +1086,16 @@
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
         {
+          "id": "https://text-mode.tumblr.com/post/715054418992709632",
+          "author": null,
+          "description": "airconditionedcomputingnightmare:\nCGA and MDA, Part 2\nAs I briefly touched upon in my previous writeup on CGA vs. MDA, CGA’s 80x25 text mode is significantly coarser than MDA’s. CGA’s 80 column text mode is rendered at 640x200 with 8x8 characters (stretched vertically to approximately 640x400), while MDA’s 80 column text mode is rendered at 720x350 with larger 9x14 characters. MDA was capable of giving text attributes such as being bolded, italicized or underlined.\n\nSeen here are the two side-to-side on the same display, a Compaq Portable’s screen.",
+          "link": "https://text-mode.tumblr.com/post/715054418992709632",
+          "publishedOn": "2023-04-19T18:30:34.000Z",
+          "wordCount": 1119,
+          "title": "airconditionedcomputingnightmare:\n\nCGA and MDA, Part 2\nAs I...",
+          "imageUrl": "https://64.media.tumblr.com/863927450fdc8bd220610de88f46e653/tumblr_p7pseshXVX1x62xeso1_640.gif"
+        },
+        {
           "id": "https://text-mode.tumblr.com/post/714963824126607360",
           "author": null,
           "description": "sophiegunnol:\nANTONY GORMLEY",
@@ -1730,6 +1740,16 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2023/04/19/new-playground-integer-exposed/",
+          "author": null,
+          "description": "Hello! For the last few months we’ve been working on a zine about how integers\nand floating point numbers work. Whenever I make a zine I like to release a\nplayground to go with it, like mess with dns for the DNS zine or the sql playground.\nFor this one, I made a simple playground called integer.exposed, inspired by\nBartosz Ciechanowski’s float.exposed.\nIt’s a lot less elaborate than Mess With DNS, so I’ll keep this blog post short.\nthe inspiration: float.exposed\nI did a couple of talks about how integers and floating point work last month,\nand in the talk about floating point I found myself CONSTANTLY referring to\nthis site called Float Exposed by Bartosz Ciechanowski to demonstrate various things. (Aside: If you haven’t seen\nCiechanowski’s incredible interactive explainers on bicycles, me…",
+          "link": "https://jvns.ca/blog/2023/04/19/new-playground-integer-exposed/",
+          "publishedOn": "2023-04-19T09:35:29.000Z",
+          "wordCount": 842,
+          "title": "New playground: integer.exposed",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2023/04/17/a-list-of-programming-playgrounds/",
           "author": null,
           "description": "I really like using (and making!) programming playgrounds, and I got thinking\nthe other day about how I didn’t have a great list of playgrounds to refer to. So I\nasked on Mastodon\nfor links to cool playgrounds.\nHere’s what I came up with. I’d love to know what I missed.\nCompilers: godbolt compiler explorer by Matt Godbolt\nShaders: shadertoy by Inigo Quilez and Pol Jeremias\nArduino / IoT: wokwi from CodeMagic\nCSS/HTML/JS: CodePen by Chris Coyier, Alex Vasquez, and team\nCSS/HTML/JS: JSFiddle by Oskar Krawczyk and Piotr Zalewa\nCSS/HTML/JS: flems by Rasmus Porsager (saves all state in the URL)\nregular expressions:\n\n\nfor many languages: regex101 by Firas Dib\nfor Ruby: Rubular by Michael Lovitt\nfor JS/PCRE: regexr by gskinner\nfor Python: Pythex by Gabriel Rodríguez\n\nDNS: Mess With DNS by Julia Evans and Marie Flanagan\nDNS: DNS lookup tool by Julia Evans\nnginx: nginx playground by Julia Evans\nvarnish: fastly fiddle from fastly\nSQLite: sqlime by Anton Zhiyanov (lets you load arbitrary SQLite databases)\nSQL: DB fiddle from Status200\nSQL: sql playground by Julia Evans\nPostgres: postgres playground from Crunchydata (runs postgres in the browser!)\nGit: oh my git by blinry and bleeptrack\n.NET bytecode: SharpLab by Andrey Shchekin\nPython bytecode: dis this by Pamela Fox\ndata formats\nFloating point: Float Exposed by Bartosz Ciechanowski\nUnicode: Unicode analyzer from fontspace\nUnicode: What unicode character is this? from babelstone\nASN.1 certificates: ASN.1 JavaScript debugger by Lapo Luchini\nSVG: sssvg (interactive SVG reference) from fffuel (lots of other cool tools there)\nCBOR: CBOR playground\ncron: crontab guru from cronitor\nprogramming languages\nofficial playgrounds:\n\n\nGo\nRust\nRuby\nTypescript\nHaskell, C#, Elm, Kotlin, Scala, OCaml, Crystal, Svelte\n\nunofficial playgrounds:\n\n\nPHP: 3v4l by Sjon Hortensius\nPython/JS/C/C++/Java: Python Tutor by Philip Guo\nmany languages: replit\nothers: jqplay for jq, tryapl for APL",
@@ -1849,6 +1869,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=5167",
+          "author": "Cory Doctorow",
+          "description": "Today's links Iowa's starvation strategy: Maybe the cruelty IS the point? The Red Team Blues tour: LA, San Diego, Burbank, San Francisco, PDX, Mountain View, Berkeley, Vancouver, Calgary, Gaithersburg, DC, Toronto, Hay, Nottingham, Manchester, Edinburgh, London, Berlin. Red Team Blues Chapter One, part three: Danny does THE THING. Hey look at this: Delights to delectate. This day in history: 2008, 2013, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Iowa's starvation strategy (permalink) I don't really buy that \"the cruelty is the point.\" I'm a materialist. Money talks, bullshit walks. When billionaires fund unimaginably cruel policies, I think the cruelty is a tactic, a way to get the turkeys to vote for Christmas. After all, pol…",
+          "link": "https://pluralistic.net/2023/04/19/whats-wrong-with-iowa/",
+          "publishedOn": "2023-04-19T17:52:42.000Z",
+          "wordCount": 6501,
+          "title": "Pluralistic: Iowa's starvation strategy; The Red Team Blues Tour; Red Team Blues Chapter One, part three (19 Apr 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=5158",
           "author": "Cory Doctorow",
