@@ -6,6 +6,16 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=7700",
+          "author": "Chris Heilmann",
+          "description": "Background: I’ve been asked in a few applications for new roles to do written interviews. I thought it might be worth while to release some of my answers as posts as it was fun to reflect a bit on these things. I’ve been a big supporter of open source from the get-go and worked at […]",
+          "link": "https://christianheilmann.com/2023/04/27/interview-questions-outline-your-thoughts-on-open-source-software-development-why-is-it-something-a-company-should-do/",
+          "publishedOn": "2023-04-27T13:46:06.000Z",
+          "wordCount": 841,
+          "title": "Interview questions: Outline your thoughts on open source software development, why is it something a company should do?",
+          "imageUrl": null
+        },
+        {
           "id": "https://christianheilmann.com/?p=7696",
           "author": "Chris Heilmann",
           "description": "The CSS aspect-ratio property is pretty amazing. You can define a ratio of width to height and it will resize the element accordingly. You can try it out in this pen : See the Pen CSS aspect ratio is awesome! by Christian Heilmann (@codepo8) on CodePen. Where this shines is videos, image content and embeds. […]",
@@ -318,6 +328,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2768/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/definition_of_e.png\" title=\"Yeah, my math teacher back in high school set up the system to try to teach us something or other, but the 100% rate was unbelievably good, so I engineered a hostile takeover of his bank and now use it to make extra cash on the side.\" alt=\"Yeah, my math teacher back in high school set up the system to try to teach us something or other, but the 100% rate was unbelievably good, so I engineered a hostile takeover of his bank and now use it to make extra cash on the side.\" />",
+          "link": "https://xkcd.com/2768/",
+          "publishedOn": "2023-04-26T00:00:00.000Z",
+          "wordCount": 182,
+          "title": "Definition of e",
+          "imageUrl": "https://imgs.xkcd.com/comics/definition_of_e_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2767/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/recipe_relativity.png\" title=\"It says to cut the onions into 1/4&quot; slices, but I'd better correct for length contraction.\" alt=\"It says to cut the onions into 1/4&quot; slices, but I'd better correct for length contraction.\" />",
@@ -556,16 +576,6 @@
           "wordCount": 178,
           "title": "Fanservice",
           "imageUrl": "https://imgs.xkcd.com/comics/fanservice_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2743/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/hand_dryers.png\" title=\"I know hand dryers have their problems, but I think for fun we should keep egging Dyson on and see if we can get them to make one where the airflow breaks the speed of sound.\" alt=\"I know hand dryers have their problems, but I think for fun we should keep egging Dyson on and see if we can get them to make one where the airflow breaks the speed of sound.\" />",
-          "link": "https://xkcd.com/2743/",
-          "publishedOn": "2023-02-27T00:00:00.000Z",
-          "wordCount": 180,
-          "title": "Hand Dryers",
-          "imageUrl": "https://imgs.xkcd.com/comics/hand_dryers_2x.png"
         }
       ]
     },
@@ -813,16 +823,6 @@
           "wordCount": 1652,
           "title": "The flavour of my funk, or: my happy list [blog]",
           "imageUrl": "https://remysharp.com/images/cards/og/9-5.jpg"
-        },
-        {
-          "id": "testing-usb-cables-for-data-lines",
-          "author": null,
-          "description": "I've got many, many USB A to USB micro cables and I still have a good number of devices that make use of the micro connection.\nThe USB (2) port generally have four wires - ground, power and then D+ and D- (for data exchange). USB micro has a 5th line, though when it's connected to USB A on the other side that 5th line isn't connected.\nMy problem is that I also have a boat load of power only USB cables - and there's no way to tell using a visual inspection. You can buy tools that tell you if there's a data line, but I can make one fairly simply.\n\nI should caveat this with the fact that I just happened to have the parts laying around.\nIn short\nThe device is an LED power a battery power source and the USB's data wire is used to complete the circuit.\nParts\n\nProtoboard\nUSB A port\nUSB micro port\nLED\n220ohm (ish) resistor\nBattery (I used a game boy cartridge battery - again I had them laying around)\n\nWiring\nIn my version, I've included separate LEDs and checks for both the D+ and the D- but it's not really necessary - if D+ isn't there, neither is D-.\nThe pinout on the USB ports is the important detail, the outside pins (far left and far right) are VCC and ground (which we don't care about). The centre pins are what we're interested in. The centre pins will make up the circuit.\n\nResult\nNow I have a simple tool that can help me weed out those pesky power-only USB cables!",
-          "link": "https://remysharp.com/2023/02/27/testing-usb-cables-for-data-lines",
-          "publishedOn": "2023-02-27T00:00:00.000Z",
-          "wordCount": 774,
-          "title": "Testing USB cables for data lines [blog]",
-          "imageUrl": "https://remysharp.com/images/cards/og/9-4.jpg"
         }
       ]
     },
@@ -1105,6 +1105,26 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/715779207212515328",
+          "author": null,
+          "description": "Taj Mahal in ASCII by Littlebitspace, 2021.",
+          "link": "https://text-mode.tumblr.com/post/715779207212515328",
+          "publishedOn": "2023-04-27T18:30:46.000Z",
+          "wordCount": 928,
+          "title": "Untitled",
+          "imageUrl": "https://64.media.tumblr.com/f35dcdbeedabc5dc8b5f42ddae1b11b6/9956f21f3c8e34c3-89/s1280x1920/683b4f9dda93a038c678eccc2fb1d7ed6d6fc4c4.png"
+        },
+        {
+          "id": "https://text-mode.tumblr.com/post/715773611261280256",
+          "author": null,
+          "description": "Country music video kings!",
+          "link": "https://text-mode.tumblr.com/post/715773611261280256",
+          "publishedOn": "2023-04-27T17:01:49.000Z",
+          "wordCount": 881,
+          "title": "Country music video kings!",
+          "imageUrl": "https://64.media.tumblr.com/9708acc8fef924e110e5dd5809739ab7/cd5dfe954be23731-64/s640x960/52a6fceda750149e6c1a2643aa56d2bed71e54be.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/715688625962106880",
           "author": null,
@@ -1927,6 +1947,16 @@
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
         {
+          "id": "https://www.joshwcomeau.com/react/the-perils-of-rehydration/",
+          "author": "Josh W. Comeau",
+          "description": "A surprisingly-common misconception can lead to big rendering issues that are difficult to debug. This deep-dive tutorial examines how React and Gatsby can be used to pre-render content, and how we can work around the constraints to build dynamic, personalized web apps.",
+          "link": "https://www.joshwcomeau.com/react/the-perils-of-rehydration/",
+          "publishedOn": "2023-04-27T15:42:58.000Z",
+          "wordCount": 6428,
+          "title": "The Perils of Hydration",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-the-perils-of-rehydration.png"
+        },
+        {
           "id": "https://www.joshwcomeau.com/javascript/the-const-deception/",
           "author": "Josh W. Comeau",
           "description": "The “const” keyword in JavaScript is used to create constants, variables that can't change. Curiously, though, we do seem to be able to edit objects and arrays that are created using “const”. In this tutorial, we're going to dig into the incredibly-important distinction between “assignment” and “mutation” in JavaScript.",
@@ -1965,16 +1995,6 @@
           "wordCount": 8639,
           "title": "Common Beginner Mistakes with React",
           "imageUrl": "https://www.joshwcomeau.com/images/og-common-beginner-mistakes.jpg"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/css/rules-of-margin-collapse/",
-          "author": "Josh W. Comeau",
-          "description": "“Margin collapse” has a dastardly reputation, one of the trickier parts of CSS. Fortunately, it gets a lot easier once you learn a few rules! In this tutorial, we take a deep dive into the governing principles, and learn how to use them to our advantage.",
-          "link": "https://www.joshwcomeau.com/css/rules-of-margin-collapse/",
-          "publishedOn": "2023-02-27T00:30:15.000Z",
-          "wordCount": 6323,
-          "title": "The Rules of Margin Collapse",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-rules-of-margin-collapse.png"
         }
       ]
     },
@@ -1989,6 +2009,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=5206",
+          "author": "Cory Doctorow",
+          "description": "Today's links Convicted monopolist prevented from re-offending: Microsoft won't be allowed to buy Activision. Hey look at this: Delights to delectate. This day in history: 2003, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Convicted monopolist prevented from re-offending (permalink) In blocking Microsoft's acquisition of Activision-Blizzard, the UK Competition and Markets Authority has made history: they have stepped in to prevent a notorious, convicted monopolist from seizing control over a nascent, important market (cloud gaming), ignoring the transparent, self-serving lies Microsoft told about the merger: https://assets.publishing.service.gov.uk/media/644939aa529eda000c3b0525/Microsoft_Activision_Final_Report_.pdf…",
+          "link": "https://pluralistic.net/2023/04/27/convicted-monopolist/",
+          "publishedOn": "2023-04-28T00:04:34.000Z",
+          "wordCount": 3336,
+          "title": "Pluralistic: Convicted monopolist prevented from re-offending (27 Apr 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=5200",
           "author": "Cory Doctorow",
@@ -2398,16 +2428,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=4876",
-          "author": "Cory Doctorow",
-          "description": "Today's links Dow promised to turn sneakers into playground surfaces, then dumped them in Indonesia: Corporate \"recycling\" programs are just obfuscated landfills. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Dow promised to turn sneakers into playground surfaces, then dumped them in Indonesia (permalink) Dow Chemicals plastered Singapore with ads for its sneaker recycling program, promising to turn old shoes into playground tracks. But the shoes it collected in its \"recycling\" bins were illegally dumped in Indonesia. This isn't an aberration: it's how nearly all plastic recycling has always worked. Plastic recycling's origin story starts in 1973, whe…",
-          "link": "https://pluralistic.net/2023/02/26/career-criminals/",
-          "publishedOn": "2023-02-26T18:10:18.000Z",
-          "wordCount": 3902,
-          "title": "Pluralistic: Dow promised to turn sneakers into playground surfaces, then dumped them in Indonesia (26 Feb 2023)",
-          "imageUrl": null
         }
       ]
     },
@@ -2439,6 +2459,46 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/04/five-graphs-that-changed-the-world",
+          "author": null,
+          "description": "In a video from The Royal Society, Adam Rutherford shares five data visualizations that have changed the world, including Florence Nightingale's Crimean War mortality charts, John Snow's map of cholera outbreaks, W.E.B. Du Bois' data portraits of Black Americans, eugenicist Henry Goddard's notorious (and fictional) Kallikak family tree, and Ed Hawkins' climate warming stripes. (via open culture)\nTags: Adam Rutherford · infoviz · video",
+          "link": "https://kottke.org/23/04/five-graphs-that-changed-the-world",
+          "publishedOn": "2023-04-27T21:03:28.000Z",
+          "wordCount": 241,
+          "title": "Five Graphs That Changed the World",
+          "imageUrl": "https://img.youtube.com/vi/8wtmCXgNqG4/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/04/some-cool-ny-times-ads",
+          "author": null,
+          "description": "These two ads for the NY Times are really effective at communicating the breadth of the paper's offerings and also how everything, from sneakers to climate change to gravity, is connected to everything else.\n\n\nHere's more info from It's Nice That.\nTags: advertising · NY Times · video",
+          "link": "https://kottke.org/23/04/some-cool-ny-times-ads",
+          "publishedOn": "2023-04-27T18:30:58.000Z",
+          "wordCount": 223,
+          "title": "Some Cool NY Times Ads",
+          "imageUrl": "https://img.youtube.com/vi/pVJi_taqKd0/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/04/knit-grotesk-a-typeface-for-hand-knitting",
+          "author": null,
+          "description": "Knit Grotesk is a typeface based on Futura that's designed specifically for hand knitting. It comes in three different weights and two styles: dots and stripes. Its designer, Rüdiger Schlömer, is also the author of a book called Typographic Knitting: From Pixel to Pattern:\nLearn to knit a variety of typefaces modeled on digital designs by well-known type foundries including Emigre, Lineto, and Typotheque, and emblazon your hats, scarves, and sweaters with smartly designed monograms, letters, or words. Beginning with knitting basics, tips, and resources, and progressing through more advanced techniques, Typographic Knitting provides a systematic introduction on how to construct a variety of letter designs using different knitting techniques. This book bridges the gap between craft and design in a new way, and will delight typography connoisseurs, avid knitters, and makers looking for a novel medium.\n\n\n(via print)\nTags: design · Rudiger Schlomer · typography",
+          "link": "https://kottke.org/23/04/knit-grotesk-a-typeface-for-hand-knitting",
+          "publishedOn": "2023-04-27T16:24:23.000Z",
+          "wordCount": 325,
+          "title": "Knit Grotesk, a Typeface for Hand Knitting",
+          "imageUrl": "https://kottke.org/plus/misc/images/knit-grotesk-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/04/pepperoni-hug-spot",
+          "author": null,
+          "description": "I'm not going to make a habit of posting AI generated video and photography here (mainly because most of it is not that interesting) but Pepperoni Hug Spot is just too perfect a name for a pizza place to pass up. And it's got Too Many Cooks vibes.\nTags: artificial intelligence · food · pizza · video",
+          "link": "https://kottke.org/23/04/pepperoni-hug-spot",
+          "publishedOn": "2023-04-27T13:56:28.000Z",
+          "wordCount": 226,
+          "title": "Pepperoni Hug Spot",
+          "imageUrl": "https://img.youtube.com/vi/qSewd6Iaj6I/0.jpg"
+        },
         {
           "id": "https://kottke.org/23/04/japanese-company-buildings-shaped-like-the-things-they-sell",
           "author": null,
