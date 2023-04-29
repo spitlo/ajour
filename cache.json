@@ -6,6 +6,16 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=7702",
+          "author": "Chris Heilmann",
+          "description": "I was incredibly excited to see that from Microsoft Edge 111 onwards you can now emulate different viewing modes and vision deficiencies right from the device emulation toolbar. This has been one of my pet projects that I really wanted to see come to live ever since I created the Skillshare Course on Accessibility testing […]",
+          "link": "https://christianheilmann.com/2023/04/28/microsoft-edge-now-allows-you-to-simulate-dark-light-high-contrast-mode-blurred-vision-and-colour-deficiencies-right-from-the-device-emulation-toolbar/",
+          "publishedOn": "2023-04-28T13:04:18.000Z",
+          "wordCount": 642,
+          "title": "Microsoft Edge now allows you to simulate dark, light, high contrast mode, blurred vision and colour deficiencies right from the Device Emulation toolbar",
+          "imageUrl": null
+        },
+        {
           "id": "https://christianheilmann.com/?p=7700",
           "author": "Chris Heilmann",
           "description": "Background: I’ve been asked in a few applications for new roles to do written interviews. I thought it might be worth while to release some of my answers as posts as it was fun to reflect a bit on these things. I’ve been a big supporter of open source from the get-go and worked at […]",
@@ -253,16 +263,6 @@
           "wordCount": 844,
           "title": "Summary of changes for March 2023",
           "imageUrl": null
-        },
-        {
-          "id": "log.html#feb2023",
-          "author": "Rek Bell",
-          "description": "Hey everyone! This is the list of all the changes we've done to our projects and apps during the month of February. We'll also be reporting in our on position in the world, and on our future plans.\nSummary Of Changes\n    \n    \nWiktopher, added back corrected chapters 1-7 to online.\nLeft, made a ton of improvements including a new directory navigation, better navbar labels and performance.\nOrca, fixed an issue where copy/paste/drag would move characters off-screen.\nCatclock, ported to new opcodes and improved monochromatic mode.\nBeetbug, added an interactive mode that interprets uxntal on the fly.\nHakum, added a comic sequence named Tracking.\n100r.co, added updates to battery connections.\nGrimgrains, added some notes on Temperature for lacto-fermentation.\nNews\nOn February 14th, we celebrated our 7th year living aboard our beloved Pino. It's also around this time 10 years ago that we were still living in Odaiba(Japan), and beginning our work on what would be our first game collaboration: oquonie.\nThe uxn port of Oquonie has advanced in incredible leaps this month. Rek has finished re-doing all of the assets. Devine is now working on the music, and finalizing some of the levels. We are testing the game as we go, and hope to release it sometime next month. Oquonie will be playable on a number of platforms, including the Nintendo DS(Mastodon), as well as the Playdate. See a small preview(Mastodon).\nEarly next month we are traveling to Galiano Island in the Salish Sea for BioSonic(by ActivePassive). We'll be part of an event series exploring the intersections of music, art and biodiversity. We'll give a talk on March 10th, and Devine will perform with Orca on the 11th at the Galiano South Hall.\nWatch Devine's set for Lovebyte 2023.\nPino book club\nWe're reading Courrier Sud by Antoine de Saint-Exupéry.\nContinue Reading",
-          "link": "https://100r.co/site/log.html#feb2023",
-          "publishedOn": "2023-02-28T09:30:00.000Z",
-          "wordCount": 562,
-          "title": "Summary of changes for February 2023",
-          "imageUrl": null
         }
       ]
     },
@@ -327,6 +327,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2769/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/overlapping_circles.png\" title=\"&quot;The Venn diagram of the sun and the moon is a circle.&quot; --someone being snarky at totality\" alt=\"&quot;The Venn diagram of the sun and the moon is a circle.&quot; --someone being snarky at totality\" />",
+          "link": "https://xkcd.com/2769/",
+          "publishedOn": "2023-04-28T00:00:00.000Z",
+          "wordCount": 180,
+          "title": "Overlapping Circles",
+          "imageUrl": "https://imgs.xkcd.com/comics/overlapping_circles_2x.png"
+        },
         {
           "id": "https://xkcd.com/2768/",
           "author": null,
@@ -813,16 +823,6 @@
           "wordCount": 532,
           "title": "better-mobile-inputs.netlify.app/ [link]",
           "imageUrl": null
-        },
-        {
-          "id": "the-flavour-of-my-funk",
-          "author": null,
-          "description": "It's been a good few weeks that I've been in this head state, a dark funk that clouds my reality. I'm a depressive, have been for as long as I can remember. But the down sometimes, go deep down and it's dark down here.\nI'm writing this for myself, but also partly for those close to me to see a little inside my head. Maybe also to bleed out some of the bad stuff in my head too.",
-          "link": "https://remysharp.com/2023/02/28/the-flavour-of-my-funk",
-          "publishedOn": "2023-02-28T00:00:00.000Z",
-          "wordCount": 1652,
-          "title": "The flavour of my funk, or: my happy list [blog]",
-          "imageUrl": "https://remysharp.com/images/cards/og/9-5.jpg"
         }
       ]
     },
@@ -1089,6 +1089,16 @@
       "siteUrl": "https://lea.verou.me",
       "articles": [
         {
+          "id": "https://lea.verou.me/?p=3599",
+          "author": "Lea Verou",
+          "description": "Reading Time:  2 minutes Today I am mourning. What am I mourning? Encapsulation. At least in my projects. As a library author, I’ve decided to avoid private class fields from now on and gradually refactor them out of my existing libraries. Why did I make such a drastic decision? It all started a few days ago, when I was […]",
+          "link": "https://lea.verou.me/2023/04/private-fields-considered-harmful/",
+          "publishedOn": "2023-04-28T20:51:41.000Z",
+          "wordCount": 1249,
+          "title": "JS private class fields considered harmful",
+          "imageUrl": null
+        },
+        {
           "id": "https://lea.verou.me/?p=3592",
           "author": "Lea Verou",
           "description": "Reading Time:  2 minutes It has been over a decade when I launched contrast-ratio.com, an app to calculate the WCAG 2.1 contrast ratio between any two CSS colors. At the time, all similar tools suffered from several flaws when being used for CSS editing: Over the years, contrast-ratio.com grew in popularity: it was recommended in several books, talks, and […]",
@@ -1105,6 +1115,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/715869797694554112",
+          "author": null,
+          "description": "text-mode:\nNotemaker Demo II by Poison - one of the true masters of petscii. RIP, Radek (2008).",
+          "link": "https://text-mode.tumblr.com/post/715869797694554112",
+          "publishedOn": "2023-04-28T18:30:39.000Z",
+          "wordCount": 889,
+          "title": "text-mode:\n\nNotemaker Demo II by Poison - one of the true...",
+          "imageUrl": "https://i.ytimg.com/vi/JpTeFCrOlzM/hqdefault.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/715779207212515328",
           "author": null,
@@ -2413,21 +2433,6 @@
           "wordCount": 2526,
           "title": "Pluralistic: VW wouldn't locate kidnapped child because his mother didn't pay for find-my-car subscription (28 Feb 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=4884",
-          "author": "Cory Doctorow",
-          "description": "Today's links Podcasting \"Twiddler\": What makes digital platforms so enshittification prone? Hey look at this: Delights to delectate. This day in history: 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Podcasting \"Twiddler\" (permalink) This week on my podcast, I read \"Twiddler,\" a recent Medium column in which I delve more deeply into enshittification, and how it is a pathology of digital platforms, distinct from the rent-seeking of the analog world that preceded it: https://doctorow.medium.com/twiddler-1b5c9690cce6 Enshittification, you'll recall, is the lifecycle of the online platform: first, the platform allocates surpluses to end-users; then, once users are locked in, those surpluses are taken away and given…",
-          "link": "https://pluralistic.net/2023/02/27/knob-jockeys/",
-          "publishedOn": "2023-02-27T17:06:23.000Z",
-          "wordCount": 3736,
-          "title": "Pluralistic: Podcasting \"Twiddler\" (27 Feb 2023)",
-          "enclosure": {
-            "url": "https://archive.org/download/Cory_Doctorow_Podcast_439/Cory_Doctorow_Podcast_439_-_Twiddler.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -2459,6 +2464,36 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/04/a-mandalorian-banger-this-is-the-way",
+          "author": null,
+          "description": "Leave it to the Auralnauts to take The Mandalorian's solemn catchphrase \"This is the way\", back it with a pulsing beat, and turn it into the banger of the summer. Ok, maybe not. But in the process, they counted 222 uses of the phrase over the three seasons of the show (and also during The Book of Boba Fett, I think).\nRelated: one hour of Zemo dancing from The Falcon and The Winter Soldier. (via neatorama)\nTags: music · remix · Star Wars · The Mandalorian · video",
+          "link": "https://kottke.org/23/04/a-mandalorian-banger-this-is-the-way",
+          "publishedOn": "2023-04-28T19:31:28.000Z",
+          "wordCount": 263,
+          "title": "A Mandalorian Banger: This Is the Way",
+          "imageUrl": "https://img.youtube.com/vi/Mw7zSQ7ja7Y/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/15/05/berlin-in-1945",
+          "author": null,
+          "description": "Seven minutes of color film footage of Berlin in 1945, right after the end of World War II. Lots of bombed out buildings, soldiers, bicycles, rebuilding, and people going about their daily business.\n\nBe sure to watch all the way to the end...there's an incredible aerial shot of the Brandenburg Gate and the Unter den Linden that shows the scale of damage done to the city's buildings. More of that aerial footage here. (via devour)\n\n\n\t\t\n\t\t\n[This was originally posted on May  4, 2015.]\nTags:Berlin    \nearly color photography    \nvideo    \nwar    \nWorld War II",
+          "link": "https://kottke.org/15/05/berlin-in-1945",
+          "publishedOn": "2023-04-28T17:19:20.000Z",
+          "wordCount": 256,
+          "title": "Berlin in 1945",
+          "imageUrl": "https://img.youtube.com/vi/R5i9k7s9X_A/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/04/19th-century-ornamental-granite-tiles",
+          "author": null,
+          "description": "From 1898, an album of ornamental granite tile patterns available from Threlkeld Granite Co. Ltd. The company was located in the Lake District of northwest England and the quarry they operated is now a mining museum — you can read about the history of the company on their website (via present & correct)\nTags: design",
+          "link": "https://kottke.org/23/04/19th-century-ornamental-granite-tiles",
+          "publishedOn": "2023-04-28T14:23:44.000Z",
+          "wordCount": 234,
+          "title": "19th Century Ornamental Granite Tiles",
+          "imageUrl": "https://kottke.org/plus/misc/images/granite-tiles-patterns-01.jpg"
+        },
         {
           "id": "https://kottke.org/23/04/five-graphs-that-changed-the-world",
           "author": null,
@@ -4038,56 +4073,6 @@
           "wordCount": 196,
           "title": "Japanese Manhole Covers Are Beautiful",
           "imageUrl": "https://kottke.org/plus/misc/images/japanese-manholes-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/02/new-ukrainian-postage-stamp-features-banksy-art-and-says-fck-ptn",
-          "author": null,
-          "description": "The Ukrainian postal service has released a stamp featuring artwork by Banksy to mark the first anniversary of the full-scale Russian invasion. The artist painted the image on a wall in the town of Borodianka in November 2022 and has apparently given his permission for use on the stamp. From The Guardian:\nThe image draws inspiration from the Russian president, Vladimir Putin, known to be a black belt in judo, and depicts a young judoka representing Ukraine knocking down a grown man.\nThe phrase “FCK PTN” in Cyrillic has been added to the lower left part of the new stamp.\n\n\nYou can buy your own sheet of these stamps directly from the Ukraine postal service — they ship worldwide, in the midst of a war!\nSee also: you might remember that the postal service ran a contest to design a stamp that illustrated “Ukrainians’ determination to defend their land” shortly after the invasion, which resulted in several eye-catching entries.\nTags: art   Banksy   stamps   Ukraine",
-          "link": "https://kottke.org/23/02/new-ukrainian-postage-stamp-features-banksy-art-and-says-fck-ptn",
-          "publishedOn": "2023-02-27T23:11:39.000Z",
-          "wordCount": 348,
-          "title": "New Ukrainian Postage Stamp Features Banksy Art and Says “FCK PTN”",
-          "imageUrl": "https://kottke.org/plus/misc/images/ukraine-stamp-banksy.jpg"
-        },
-        {
-          "id": "https://kottke.org/12/08/the-little-games-we-play",
-          "author": null,
-          "description": "There are all these simple little games that people play using their surroundings: don’t step on the cracks, balance beam railroad tracks (or curbs), bicycle slalom, etc.\n\nMy game in the car was to use my hand to jump over driveways & telephone poles and swoop down into ditches…just a small flick of the wrist in the wind is all it took. Haven’t done that in years. I still occasionally play don’t step on the cracks and fight the daily urge to jump and touch. (via ★interesting)\n\n\n\n\n Tags:games    \nvideo",
-          "link": "https://kottke.org/12/08/the-little-games-we-play",
-          "publishedOn": "2023-02-27T22:04:02.000Z",
-          "wordCount": 264,
-          "title": "The Little Games We Play",
-          "imageUrl": "https://img.youtube.com/vi/1AJpKt6UP08/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/02/papercraft-models-of-vintage-computers",
-          "author": null,
-          "description": "Rocky Bergen makes papercraft models of vintage computers like the original Macintosh, Commodore 64, the IBM 5150, and TRS-80. The collection also includes a few gaming consoles and a boombox. And here’s the thing — you can download the patterns for each model for free and make your own at home. Neat!\nTags: art   computing   Rocky Bergen",
-          "link": "https://kottke.org/23/02/papercraft-models-of-vintage-computers",
-          "publishedOn": "2023-02-27T20:02:08.000Z",
-          "wordCount": 230,
-          "title": "Papercraft Models of Vintage Computers",
-          "imageUrl": "https://kottke.org/plus/misc/images/papercraft-computers-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/02/american-cars-are-getting-too-big-for-parking-spaces",
-          "author": null,
-          "description": "The American car has gotten bigger in the past few decades but parking spot size has not kept pace.\nRegardless of the cause, the end result is roughly 50 percent of the American car market switched from sedans and wagons to SUVs, especially midsize and large SUVs, chunkifying the average American car. Consider someone who switched from a Honda Civic to a Honda CR-V. This added about three inches in width. A CR-V to a Pilot, a large SUV, would add five more inches in width. This may not sound like much, but repeat for half the cars in a parking lot and it adds up. For example, in a 700-space garage, if each car is four inches wider than its predecessor, that is 233 additional feet in car width-from the goal line to the opponent’s 23 yard line on a football field-that needs to be accommodate…",
-          "link": "https://kottke.org/23/02/american-cars-are-getting-too-big-for-parking-spaces",
-          "publishedOn": "2023-02-27T17:50:17.000Z",
-          "wordCount": 562,
-          "title": "American Cars Are Getting Too Big For Parking Spaces",
-          "imageUrl": "https://kottke.org/plus/misc/images/carsized.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/02/the-last-55-years-of-best-cinematography-oscar-winners",
-          "author": null,
-          "description": "The Oscar voters haven’t always gotten their top picks right, but there’s no denying that this visual showcase of Best Cinematography winners from 1967-2021 contains some fantastic work. Just to call out a few of the films recognized: Bonnie and Clyde; Barry Lyndon; The Killing Fields; Schindler’s List; Titanic; Crouching Tiger, Hidden Dragon; Master and Commander; There Will Be Blood; Inception; Blade Runner 2049; and Dune.\nThere’s an interesting shift in the winners (presaged by Close Encounters of the Third Kind in 1977); they move away from historical realism and towards fantasy, sci-fi, and the future: Crouching Tiger (2000) and Lord of the Rings (2001) and then, more definitively, Avatar (2009) and Inception (2010). But the shift is not by any means total: The Revenant (2015), Roma (2018), 1917 (2019), and Mank (2020) are all firmly in the realist realm.\nTags: best of   movies   video",
-          "link": "https://kottke.org/23/02/the-last-55-years-of-best-cinematography-oscar-winners",
-          "publishedOn": "2023-02-27T15:36:24.000Z",
-          "wordCount": 326,
-          "title": "The Last 55 Years of Best Cinematography Oscar Winners",
-          "imageUrl": "https://img.youtube.com/vi/suuqwu3HIN0/0.jpg"
         }
       ]
     },
