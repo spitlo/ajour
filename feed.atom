@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2023-04-29T00:30:07.151Z</updated>
+    <updated>2023-04-30T00:33:53.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[text-mode:
+
+5alad: “Low Res. Graphics” (2009, Imaginary...]]></title>
+        <id>https://text-mode.tumblr.com/post/715960401778573312</id>
+        <link href="https://text-mode.tumblr.com/post/715960401778573312"/>
+        <updated>2023-04-29T18:30:46.000Z</updated>
+        <summary type="html"><![CDATA[text-mode:
+5alad: “Low Res. Graphics” (2009, Imaginary Nonexistent Records.) 
+Visuals made on a commodore 64 (Basic).]]></summary>
+        <author>
+            <name>TEXT-MODE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: The seductive, science fictional power of spreadsheets (29 Apr 2023)]]></title>
+        <id>https://pluralistic.net/?p=5213</id>
+        <link href="https://pluralistic.net/2023/04/29/gedankenexperimentwahn/"/>
+        <updated>2023-04-29T17:05:18.000Z</updated>
+        <summary type="html"><![CDATA[Today's links The seductive, science fictional power of spreadsheets: Maybe the map IS the territory? Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The seductive, science fictional power of spreadsheets (permalink) This week, John Scalzi was kind enough to let me write a guest-editorial for his Whatever blog about the themes in my new crime technothriller, Red Team Blues; specifically, about the ways that spreadsheets embody the power and the pitfalls of science fiction at its best and worst: https://whatever.scalzi.com/2023/04/26/the-big-idea-cory-doctorow-2/ Yes, spreadsheets. Marty Hench (the protagonist of Red Team Blues) is a 67-year-old fo…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JS private class fields considered harmful]]></title>
         <id>https://lea.verou.me/?p=3599</id>
@@ -4635,177 +4659,6 @@ Then the ribbon just split entirely (with no pressure). I think perhaps it was d
 I did try to expose the trace on the flex PCB but it was so fragile that the trace itself quickly vanished. So I ordered a replacement (£3.50, I think I overpaid) and installed during lunch.]]></summary>
         <author>
             <name>remy sharp's b:log</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[better-mobile-inputs.netlify.app/ [link]]]></title>
-        <id>2023-03-01-3bff24a5</id>
-        <link href="https://remysharp.com/links/2023-03-01-3bff24a5"/>
-        <updated>2023-03-01T11:11:24.000Z</updated>
-        <summary type="html"><![CDATA[A useful web page to show visually what the mobile assistive keyboard looks like given different input types.
-Specifically, and TIL - the inputmode can be different, i.e. using a type=&quot;text&quot; field but inputmode=&quot;url&quot; to help with partials like ".com" (if the input field didn't need URL validation for instance).
-/via Bruce's reading list 300
-Source: better-mobile-inputs.netlify.app]]></summary>
-        <author>
-            <name>remy sharp's b:log</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fanservice]]></title>
-        <id>https://xkcd.com/2744/</id>
-        <link href="https://xkcd.com/2744/"/>
-        <updated>2023-03-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/fanservice.png" title="I was eventually kicked out of my architectural engineering program because I wouldn't stop referring to HVAC as &quot;the fandom.&quot;" alt="I was eventually kicked out of my architectural engineering program because I wouldn't stop referring to HVAC as &quot;the fandom.&quot;" />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automatically generating tests for JS/TS functions in VS Code with GitHub Copilot]]></title>
-        <id>https://christianheilmann.com/?p=7559</id>
-        <link href="https://christianheilmann.com/2023/03/01/automatically-generating-tests-for-js-ts-functions-in-vs-code-with-github-copilot/"/>
-        <updated>2023-02-28T23:28:05.000Z</updated>
-        <summary type="html"><![CDATA[Want to automatically generate tests for your JS/TS functions? GitHub CoPilot now does that. GitHubNext added a TestPilot experiment that can generate tests for a function by analysing it and scanning the docs and comments.]]></summary>
-        <author>
-            <name>Chris Heilmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some notes on using nix]]></title>
-        <id>https://jvns.ca/blog/2023/02/28/some-notes-on-using-nix/</id>
-        <link href="https://jvns.ca/blog/2023/02/28/some-notes-on-using-nix/"/>
-        <updated>2023-02-28T23:16:17.000Z</updated>
-        <summary type="html"><![CDATA[Recently I started using a Mac for the first time. The biggest downside I’ve
-noticed so far is that the package management is much worse than on Linux.
-At some point I got frustrated with homebrew because I felt like it was
-spending too much time upgrading when I installed new packages, and so I
-thought – maybe I’ll try the nix package manager!
-nix has a reputation for being confusing (it has its whole
-own programming language!), so I’ve been trying to figure out how to use nix in
-a way that’s as simple as possible and does not involve managing any
-configuration files or learning a new programming language. Here’s what I’ve
-figured out so far! We’ll talk about how to:
-install packages with nix
-build a custom nix package for a C++ program called paperjam
-install a 5-year-old version of hugo…]]></summary>
-        <author>
-            <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cecil Null & His “Gun-tar” Of 1968]]></title>
-        <id>https://www.zeroto180.org/?p=80693</id>
-        <link href="https://www.zeroto180.org/cecil-null-and-his-gun-tar-of-1968/"/>
-        <updated>2023-02-28T22:36:53.000Z</updated>
-        <summary type="html"><![CDATA[I recently stumbled upon Ray Brack‘s “lost” piece of reporting about Cecil Null‘s handcrafted musical long gun (i.e., gun guitar – or is it guitar gun?) for Billboard ‘s June 22, 1968 edition: Billboard June 22, 1968 * “the guitar strings are attached near the mouth of the rifle barrel – which forms the neck […]
-The post Cecil Null & His “Gun-tar” Of 1968 appeared first on Zero to 180 - Three Minute Magic.]]></summary>
-        <author>
-            <name>Zeroto180</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Axios tech reporter on her favorite corners of the internet]]></title>
-        <id>https://blog.mozilla.org/?p=71646</id>
-        <link href="https://blog.mozilla.org/en/internet-culture/axios-reporter-ashley-gold/"/>
-        <updated>2023-02-28T22:04:33.000Z</updated>
-        <summary type="html"><![CDATA[Here at Mozilla, we are the first to admit the internet isn’t perfect, but we are also quick to point out that the internet is pretty darn magical. The internet opens up doors and opportunities, allows for people to connect with others, and lets everyone find where they belong — their corners of the internet. […]
-The post An Axios tech reporter on her favorite corners of the internet appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Kristina Bravo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why 3D Movies Are Not Immersive]]></title>
-        <id>https://kottke.org/23/02/why-3d-movies-are-not-immersive</id>
-        <link href="https://kottke.org/23/02/why-3d-movies-are-not-immersive"/>
-        <updated>2023-02-28T20:35:38.000Z</updated>
-        <summary type="html"><![CDATA[The promise of 3D movies is that they are supposed to draw the viewer further into the world of the film — the all-important immersive experience. In this video, Evan Puschak argues persuasively that the 3D effect actually has the opposite effect, for four main reasons:
-1. The different focus and convergence points.
-I’ve long disliked 3D movies so Puschak’s explanation makes me feel vindicated about my stance. I’ve only ever seen two of them that were any good: the original Avatar and Tron: Legacy. Tron in particular was one of my peak movie-going experiences: I saw it, nearly alone, in a 3D IMAX theater from the best seat in the house. When the lightcycle match started, the 3D effect brought the playing field right into the theater a few inches from my nose and I just gaped in wonder like a little kid for the rest of what is essentially a 125-minute Daft Punk music video (nothing wrong with that!). If all 3D movies were like that, sign me up! But otherwise, I’m gonna stick to 2D.
-Tags: 3D   Evan Puschak   film school   movies   video]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Common Sense Media’s ultimate guide to parental controls]]></title>
-        <id>https://blog.mozilla.org/?p=71625</id>
-        <link href="https://blog.mozilla.org/en/internet-culture/deep-dives/common-sense-media-guide-to-parental-controls/"/>
-        <updated>2023-02-28T20:19:08.000Z</updated>
-        <summary type="html"><![CDATA[Do you need parental controls? What are the options? Do they really work? Here’s everything you need to know about the wide array of parental control solutions, from OS settings to monitoring apps to network hardware. Even if you’ve talked to your kids about screen-time limits and responsible online behavior, it’s still really tough to […]
-The post Common Sense Media’s ultimate guide to parental controls appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Kristina Bravo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Did South Koreans Get So Much Taller in the Past 100 Years?]]></title>
-        <id>https://kottke.org/23/02/why-did-south-koreans-get-so-much-taller-in-the-past-100-years</id>
-        <link href="https://kottke.org/23/02/why-did-south-koreans-get-so-much-taller-in-the-past-100-years"/>
-        <updated>2023-02-28T18:31:19.000Z</updated>
-        <summary type="html"><![CDATA[Genetics determines most of how tall children will grow as adults, but environmental factors affect it too. As the wealth of many countries around the world has increased over the past 100 years, living conditions and access to nutrition have improved and people have gotten taller.
-A century ago, humans were quite short. For example, the average South Korean woman was about 4-foot-7, or 142 centimeters, while the average American woman was about 5-foot-2, or 159 centimeters. Humans were fairly short by today’s standards, and that was true throughout nearly all of human history.
-But in the past century, human heights have skyrocketed. Globally, humans grew about 3 inches on average, but in South Korea, women grew an astounding 8 inches and men grew 6 inches.
-
-
-South Korea is almost unique in how quickly their population has gotten taller because they went from a relatively low-income country in the 1950s to well on their way to being a rich, industrialized country by the 90s. And the difference is particularly stark when you compare the heights of South Koreans with those of North Koreans, where the living standard is much lower and access to nutrition is restricted. 
-I really like the show-your-work vibe of this video, along with this recent one on the greatest unexpected performances in the NBA. These videos are not only relating something interesting to the audience, they’re showing us how the data analysis works: where the data is from, how it’s analyzed, and what it all means, which builds data and statistical literacy in a society that desperately needs it.
-Tags: economics   infoviz   South Korea   video]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Mauritshuis Museum Is Showing Remixes of Girl With a Pearl Earring in Her Absence]]></title>
-        <id>https://kottke.org/23/02/the-mauritshuis-museum-is-showing-remixes-of-girl-with-a-pearl-earring-in-her-absence</id>
-        <link href="https://kottke.org/23/02/the-mauritshuis-museum-is-showing-remixes-of-girl-with-a-pearl-earring-in-her-absence"/>
-        <updated>2023-02-28T16:39:43.000Z</updated>
-        <summary type="html"><![CDATA[The Mauritshuis museum has loaned out Girl With a Pearl Earring to the Rijksmuseum for its blockbuster, once-in-a-lifetime Johannes Vermeer exhibition. While she’s out of the building, they’re digitally displaying dozens of renditions of the artwork submitted during an open call for entries last year. If you can’t make it to the museum in person (*sigh*), they’re showcasing some of the entries on Instagram and you can see what the in-person display looks like in this video.
-Regular readers might remember that I have something of a thing for Girl/Pearl remixes. Here are just a few from the archives: Corn with a Pearl Earring, Girl with the Grande Iced Latte, Rihanna with a Pearl Earring, Girl with a Schmeared Earring, at the beach with Mona & Vincent, Girl with a Pearl Earring and Point-and-Shoot Camera, and Lego Girl with a Pearl Earring. (via colossal)
-Tags: art   Johannes Vermeer   remix   The Mauritshuis]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can We Make Bicycles Sustainable Again?]]></title>
-        <id>https://www.lowtechmagazine.com/2023/02/can-we-make-bicycles-sustainable-again.html</id>
-        <link href="https://www.lowtechmagazine.com/2023/02/can-we-make-bicycles-sustainable-again.html"/>
-        <updated>2023-02-28T14:20:53.000Z</updated>
-        <summary type="html"><![CDATA[Cycling is the most sustainable form of transportation, but the bicycle is becoming increasingly damaging to the environment. The energy and material used for its production go up while its life expectancy decreases. Illustration: Diego Marmolejo. Cycling is sustainable, but how sustainable is the bicycle? Cycling is one of the most sustainable modes of transportation. Increased ridership reduces fossil fuel consumption and pollution, saves space, and improves public health and safety. However, the bicycle itself has managed to elude environmental critique. [1] [2] Studies that calculate the environmental impact of cycling almost always compare it to driving, with predictable results: the bicycle is more sustainable than the car. Such research may encourage people to cycle more often but doesn't encourage...]]></summary>
-        <author>
-            <name>LOW-TECH MAGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japanese Manhole Covers Are Beautiful]]></title>
-        <id>https://kottke.org/13/09/japanese-manhole-covers-are-beautiful</id>
-        <link href="https://kottke.org/13/09/japanese-manhole-covers-are-beautiful"/>
-        <updated>2023-02-28T14:15:37.000Z</updated>
-        <summary type="html"><![CDATA[This group on Flickr shows just how fantastically designed Japanese manhole covers are. Here are some of my favorites:
-
-
-
-
-
-
-
-
- Tags:design    
-Japan    
-photography]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: VW wouldn't locate kidnapped child because his mother didn't pay for find-my-car subscription (28 Feb 2023)]]></title>
-        <id>https://pluralistic.net/?p=4898</id>
-        <link href="https://pluralistic.net/2023/02/28/kinderwagen/"/>
-        <updated>2023-02-28T13:29:39.000Z</updated>
-        <summary type="html"><![CDATA[Today's links VW wouldn't help find kidnapped child because his mother wasn't paying for find-my-car subscription: All the harms of surveillance, none of the benefits. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading VW wouldn't help find kidnapped child because his mother wasn't paying for find-my-car subscription (permalink) The masked car-thieves who stole a Volkswagen SUV in Lake County, IL didn't know that there was a two-year-old child in the back seat – but that's no excuse. A violent car-theft has the potential to hurt or kill people, after all. Likewise, the VW execs who decided to nonconsensually track the location of every driver and sell that…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
         </author>
     </entry>
     <entry>
