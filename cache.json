@@ -263,6 +263,16 @@
       "siteUrl": "https://grumpygamer.com",
       "articles": [
         {
+          "id": "https://grumpygamer.com/unions",
+          "author": null,
+          "description": "I posted this chain on Mastodon, but am reposting it here...\nGetting AI to write your game dialog is about the same as getting some C- high school student to do it. At least with the later you be giving a high school student a job.\nI really hope the TV writers can get something meaningful from the strike. I'm skeptical only because big companies taking advantage of creatives is burnt into their DNA. I see this all the time. Thimbleweed Park was the first game I ever saw anything from. I am getting something from RtMI but it's small. I've created a lot over the years and only made other people rich.\nI support the game industry unionizing, not only to create reasonable working hours, but also to stop companies from getting rich off our hard creative work. I don't think game writers should be part of the WGA, the businesses are too different, and I've seen the cluster fuck of Hollywood unions trying to get into games.\nUnions can also be their own oppressive mess but it's probably slightly better than what we have now. I do worry about how rigid unions would hamper true indie game work.",
+          "link": "https://grumpygamer.com/unions",
+          "publishedOn": "2023-05-03T07:00:00.000Z",
+          "wordCount": 310,
+          "title": "Unions",
+          "imageUrl": "https://images-grumpygamer.nyc3.digitaloceanspaces.com/\n"
+        },
+        {
           "id": "https://grumpygamer.com/loom",
           "author": null,
           "description": "All the dialogs in Return to Monkey Island were done in a format called yack. These were created for Thimbleweed Park and (very) loosely based on Ink. \nDuring the Secret of Monkey Island and LeChucks Revenge, these were all hand-coded in SCUMM and a pain in the [REDACTED].  \nThe goal is to free the writer from \"programming\" and focus just on the writing and logic of the scene.\nIn lines like GUYBRUSH(38260,\"{fist_pump}Yes!\") the GUYBRUSH is a macro to replaces the text with \"@38260:GUYBRUSH\". This removes the text from the compiled code and forces the engine to look it up in the translation file as well as directing the VO to play the correct audio. Everything is linked to the id 38260 including the actor's scripts.\n{fist_pump} calls an animation on actor saying the line and (mocking) is direction for the actor and ignored by the engine. \nThe writer will write (for example):\nguybrush: \"Aye, Cobb.\"\nAnd then towards the end of production a python script turns it into \nguybrush: GUYBRUSH(38219,\"Aye, Cobb.\")\nAdding the unique line ids.\nEnjoy Cobb...",
@@ -295,6 +305,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2771/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/college_knowledge.png\" title=\"'Your chitin armor is no match for our iron-tipped stingers! Better go hide in your jars!' --common playground taunt\" alt=\"'Your chitin armor is no match for our iron-tipped stingers! Better go hide in your jars!' --common playground taunt\" />",
+          "link": "https://xkcd.com/2771/",
+          "publishedOn": "2023-05-03T00:00:00.000Z",
+          "wordCount": 180,
+          "title": "College Knowledge",
+          "imageUrl": "https://imgs.xkcd.com/comics/college_knowledge_2x.png"
+        },
         {
           "id": "https://xkcd.com/2770/",
           "author": null,
@@ -534,16 +554,6 @@
           "wordCount": 182,
           "title": "Presents for Biologists",
           "imageUrl": "https://imgs.xkcd.com/comics/presents_for_biologists_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2746/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/launch_window.png\" title=\"&quot;Confirmed, we have to scrub.&quot; &quot;Ugh, okay. I'll get the bucket and sponge.&quot;\" alt=\"&quot;Confirmed, we have to scrub.&quot; &quot;Ugh, okay. I'll get the bucket and sponge.&quot;\" />",
-          "link": "https://xkcd.com/2746/",
-          "publishedOn": "2023-03-06T00:00:00.000Z",
-          "wordCount": 180,
-          "title": "Launch Window",
-          "imageUrl": "https://imgs.xkcd.com/comics/launch_window_2x.png"
         }
       ]
     },
@@ -1012,6 +1022,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/716413381850071040",
+          "author": null,
+          "description": "text-mode:\nSteve McCaffery, panel from Carnival (1967-75)",
+          "link": "https://text-mode.tumblr.com/post/716413381850071040",
+          "publishedOn": "2023-05-04T18:30:42.000Z",
+          "wordCount": 1013,
+          "title": "text-mode:\n\nSteve McCaffery, panel from Carnival (1967-75)",
+          "imageUrl": "https://64.media.tumblr.com/tumblr_m1z0kbns5I1rpiyaso1_640.gif"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/716322784509296640",
           "author": null,
@@ -1640,6 +1660,16 @@
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
         {
+          "id": "https://blog.mozilla.org/?p=71953",
+          "author": "Steve Teixeira",
+          "description": "The internet isn’t just about browsers. Browsers are a critical part of the human experience on the internet and will always be core to our work at Mozilla. But the internet is bigger than browsers — it’s every piece of content, app and experience on your device. Our mission will always be to make the […]\nThe post The internet deserves a better answer to social appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/mozilla-social-mastodon-private-beta-announcement/",
+          "publishedOn": "2023-05-04T13:00:00.000Z",
+          "wordCount": 1767,
+          "title": "The internet deserves a better answer to social",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2021/11/moz_hiring_announcement_header_3-1-1080x720.jpg"
+        },
+        {
           "id": "https://blog.mozilla.org/?p=71930",
           "author": "Kristina Bravo",
           "description": "Mastodon has been around since 2016, but not until recently has it emerged as a popular alternative to Twitter. Like Firefox, Mastodon is open-sourced, so it’s built on a foundation of transparency and accessibility to all. It’s also decentralized, which means it’s powered by different communities and doesn’t answer to one entity or a bunch […]\nThe post Ready to try Mastodon? Here’s how to get started appeared first on The Mozilla Blog.",
@@ -1966,6 +1996,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=5251",
+          "author": "Cory Doctorow",
+          "description": "Today's links Ostromizing democracy: To counter antidemocratic libertarians, we need an analytical assessment of group problem-solving. Hey look at this: Delights to delectate. This day in history: 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Ostromizing democracy (permalink) You know how \"realist\" has become a synonym for \"asshole?\" As in, \"I'm not a racist, I'm just a 'race realist?'\" That same \"realism\" is also used to discredit the idea of democracy itself, among a group of self-styled \"libertarian elitists,\" who claim that social science proves that democracy doesn't work – and can't work. You've likely encountered elements of this ideology in the wild. Perhaps you've heard about how our cognitive biases make us…",
+          "link": "https://pluralistic.net/2023/05/04/analytical-democratic-theory/",
+          "publishedOn": "2023-05-04T15:09:42.000Z",
+          "wordCount": 3702,
+          "title": "Pluralistic: Ostromizing democracy (04 May 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=5243",
           "author": "Cory Doctorow",
@@ -2421,6 +2461,46 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/16/10/stutterer",
+          "author": null,
+          "description": "Stutterer by Benjamin Cleary won the 2016 Oscar for Best Live Action Short Film and is now available to view online for free courtesy of the New Yorker.\nIt's a thirteen-minute movie about a young London typographer named Greenwood (Matthew Needham). Greenwood stutters, to the extent that verbal conversation is difficult. When he tries to resolve an issue with a service representative over the phone, he can't get the words out; the operator, gruff and impatient, hangs up. (For surliness, she rivals the operator in the old Yaz song.) When a woman approaches Greenwood on the street, he uses sign language to avoid talking. But in his thoughts, which we hear, he does not stutter.\n\n\t\nGreat little film...my heart broke three separate times watching it.\n\n\n\t\t\n\t\t\n[This was originally posted on October 19, 2016.]\nTags:Benjamin Cleary    \ncrying at work    \nlanguage    \nOscars    \nvideo",
+          "link": "https://kottke.org/16/10/stutterer",
+          "publishedOn": "2023-05-04T21:15:05.000Z",
+          "wordCount": 301,
+          "title": "Stutterer",
+          "imageUrl": "https://img.youtube.com/vi/2m_VTZR5MU0/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/05/eternal-spring-a-timelapse-of-ice-melting",
+          "author": null,
+          "description": "Eternal Spring is a short timelapse film by Christopher Dormoy featuring beautiful shots of melting snow and ice. Watching this, it is difficult not to think of the climate crisis, which is of course the whole point.\nIce is a beautiful element I love to work with in my video projects. I wanted to feature the ice melting aspect in timelapse process to illustrate the phenomenon of global warming. Melting ice is beautiful and symbolizes spring, but it can also symbolize a problematic aspect of our climate.\n\n\nAnd wow, that shot of the Moon at the halfway point... (via colossal)\nTags: Christopher Dormoy · climate crisis · time lapse · video",
+          "link": "https://kottke.org/23/05/eternal-spring-a-timelapse-of-ice-melting",
+          "publishedOn": "2023-05-04T18:41:12.000Z",
+          "wordCount": 288,
+          "title": "Eternal Spring, a Timelapse of Ice Melting",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/05/microsoft-excel-esports",
+          "author": null,
+          "description": "Microsoft Excel is an extremely powerful, complex, and useful software program that millions of people know how to use, at least a little bit. For those who are experts, there are now esports competitions in Microsoft Excel that pit the best spreadsheet jockeys against each other. Here's what that looks like:\n\nIt's....a little confusing to watch if you aren't that good at Excel yourself. From a piece in the Atlantic late last year:\nYes, we are talking about people competing in Microsoft Excel, the famous (and famously boring) spreadsheet software that you may have used in school or at work or to track your finances. In competitive Excel, players square off in test-taking showdowns, earning points each time they answer a question correctly. Players' screens are a whirlwind of columns and keystrokes and formulae; if the terms XLOOKUP, RANDBETWEEN, and dynamic array don't mean anything to you, you are unlikely to understand what's going on. The commentators help, but only to a point. Even so, you can always follow the scoreboard, which tends to change suddenly and drastically. With just over three minutes to play, Ngai nailed a set of questions and jumped out to a 416-390 lead. GolferMike1 began to rethink his earlier assessment: \"Uh oh. We got a game.\"\n\n\nThere's a pretty good explanation of what some of the challenges are like starting at the 6-minute mark in this video:\n\nIf you'd like more information, check out the Microsoft Excel World Championship for 2023 — the finals are in Las Vegas this year, they're gonna show it on one of ESPN's channels, and there's more than $15,000 in prize money at stake.\nTags: Excel · sports · video",
+          "link": "https://kottke.org/23/05/microsoft-excel-esports",
+          "publishedOn": "2023-05-04T16:32:31.000Z",
+          "wordCount": 451,
+          "title": "Microsoft Excel Esports?",
+          "imageUrl": "https://img.youtube.com/vi/tNWPGhzhdMg/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/05/should-we-reflect-sunlight-to-cool-the-planet",
+          "author": null,
+          "description": "In this video in their ongoing series on the climate crisis and how to fix it, Vox looks at the pros and cons of solar geoengineering (aka using artificial means to reflect sunlight in order to cool the Earth).\nThe climate change crisis has become so dire that we're being forced not only to think of ways to curb emissions and mitigate greenhouse gases, but of ways to adapt to our current situation to buy ourselves more time.\nOne of those technologies is called solar geoengineering. It happens in nature when huge volcanic eruptions cover the stratosphere with ash: That ash forms a layer that reflects sunlight and cools the planet underneath. Solar geoengineering takes advantage of that principle, using different scientific methods to make the planet more reflective overall. The problem is, deploying it would require messing with our very complicated climate on a massive scale, and many scientists don't think the risks are worth it.\n\n\n Tags: climate crisis · science · video",
+          "link": "https://kottke.org/23/05/should-we-reflect-sunlight-to-cool-the-planet",
+          "publishedOn": "2023-05-04T14:36:11.000Z",
+          "wordCount": 345,
+          "title": "Should We Reflect Sunlight to Cool the Planet?",
+          "imageUrl": "https://img.youtube.com/vi/EKPFZPyQurA/0.jpg"
+        },
         {
           "id": "https://kottke.org/23/05/a-collection-of-sci-fi-movie-logos",
           "author": null,
