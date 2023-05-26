@@ -271,6 +271,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2780/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/physical_quantities.png\" title=\"The Hubble length is about 1.9 meters lying down; Edwin Hubble was a tall guy.\" alt=\"The Hubble length is about 1.9 meters lying down; Edwin Hubble was a tall guy.\" />",
+          "link": "https://xkcd.com/2780/",
+          "publishedOn": "2023-05-24T00:00:00.000Z",
+          "wordCount": 180,
+          "title": "Physical Quantities",
+          "imageUrl": "https://imgs.xkcd.com/comics/physical_quantities_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2779/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/exoplanet_high_5.png\" title=\"Tau Ceti is farther away, so it took me 36 years to start the war over updog.\" alt=\"Tau Ceti is farther away, so it took me 36 years to start the war over updog.\" />",
@@ -509,16 +519,6 @@
           "wordCount": 178,
           "title": "Qualifications",
           "imageUrl": "https://imgs.xkcd.com/comics/qualifications_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2755/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/effect_size.png\" title=\"Subgroup analysis is ongoing.\" alt=\"Subgroup analysis is ongoing.\" />",
-          "link": "https://xkcd.com/2755/",
-          "publishedOn": "2023-03-27T00:00:00.000Z",
-          "wordCount": 180,
-          "title": "Effect Size",
-          "imageUrl": "https://imgs.xkcd.com/comics/effect_size_2x.png"
         }
       ]
     },
@@ -628,6 +628,16 @@
           "imageUrl": null
         },
         {
+          "id": "2023-03-26-crystal",
+          "author": null,
+          "description": "I have a little Etsy store for gameboy repair (though it's currently just carts at the moment), and I had a Pokémon Crystal come in. It didn't load at all and I found corrosion around the cart pins.\nCarefully scratching away the solder had it loading up again, but the far right contact (the ground) had solder under the gold finger and I was worried it'll eventually fall away. Originally I wanted to swap all the parts to a new PCB, but that requires actually purchasing another Pokémon Crystal (which sell for around £20-30) - which didn't make sense.\nUltimately I cleaned as much as I could under the pad and then used solder mask to secure the gold finger down and now it's secure and safe for a good many years of usage. Returned to a very happy customer :)",
+          "link": "https://remysharp.com/tif/2023-03-26-crystal",
+          "publishedOn": "2023-03-30T11:20:08.000Z",
+          "wordCount": 613,
+          "title": "Pokémon Crystal [tif]",
+          "imageUrl": null
+        },
+        {
           "id": "2023-03-30-75858f69",
           "author": null,
           "description": "Like jq but for postgres databases (or sqlserver, csv or even xlsx).\nWhat's neat is that you register a database with the system, then you can query against that particular database.\nVery nice that I can use this on the command line and then pipe into jq for more data manip.\nSource: sq.io",
@@ -645,16 +655,6 @@
           "publishedOn": "2023-03-29T12:00:00.000Z",
           "wordCount": 626,
           "title": "Joycon buttons didn't work [tif]",
-          "imageUrl": null
-        },
-        {
-          "id": "2023-03-26-cf62febe",
-          "author": null,
-          "description": "A long read, but a worthwhile one - in my head their voice was definitely just shy of shouty! :)\nBeing a JS developer first and foremost since pre-Node days, it puts me in a funny spot that I absolutely agree with everything said in this article, whilst also considering that I pick JS on the server to suit me.\nWhen it comes to the front-end, I'm pretty sick of the poison that's been sold to us for over a decade.\nThe web's war for JS libraries/etc summarised excellently with:\n\nIt’s a popularity contest. Plain and simple.\n\n\nAnd that popularity contest can change on a dime.\n\n\n10 years ago, it was AngularJS.\n\n\nToday, it’s React.\n\n\nTomorrow, it will be something else because that’s inevitable.\n\nAbsolutely this - I felt exactly the same when I had peers and colleagues trying to shove Angular down my throat.\nBut it's the future, the kids who come to the industry and will continue it. As Jared White writes,\n\nbut all those bright-eyed eager newcomers getting churned out of code schools knowing only React?\n\n\nThose jobs will be gone. 😕\n\nGrim future.\nSource: www.spicyweb.dev",
-          "link": "https://remysharp.com/links/2023-03-26-cf62febe",
-          "publishedOn": "2023-03-26T22:43:38.000Z",
-          "wordCount": 676,
-          "title": "The Great Gaslighting of the JavaScript Era [link]",
           "imageUrl": null
         }
       ]
@@ -927,6 +927,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/718315903316590592",
+          "author": null,
+          "description": "text-mode:\nFirst this page appears to be just a text. But if you select the text, it turns into a girl’s face (and further down some χχχ-bits). The second picture shows a Google-translation of the page (ie the code, not the text).\n(via @despens)",
+          "link": "https://text-mode.tumblr.com/post/718315903316590592",
+          "publishedOn": "2023-05-25T18:30:28.000Z",
+          "wordCount": 1059,
+          "title": "text-mode:\n\nFirst this page appears to be just a text. But if...",
+          "imageUrl": "https://64.media.tumblr.com/tumblr_m5wow1g7Nw1rpiyaso1_640.gif"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/718225320250081280",
           "author": null,
@@ -1666,16 +1676,6 @@
           "wordCount": 970,
           "title": "Typewriter works by Rollo 2022-2023.",
           "imageUrl": "https://64.media.tumblr.com/b73005f133eeece1897e4fd6d4c819f9/9b7254e569d0abe7-d8/s500x750/8508f82882af8dd04beb0d209c6605199cbdbce5.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/712883873481162752",
-          "author": null,
-          "description": "PETSCII by Hein, 2022.",
-          "link": "https://text-mode.tumblr.com/post/712883873481162752",
-          "publishedOn": "2023-03-26T19:30:40.000Z",
-          "wordCount": 911,
-          "title": "PETSCII by Hein, 2022.",
-          "imageUrl": "https://64.media.tumblr.com/ab58e3a671e61268c5ebb750fce8697d/6792ceec455d86e1-34/s400x600/36f79866fca189e6603f12b9b275e86de1d0a327.png"
         }
       ]
     },
@@ -1684,6 +1684,16 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=72342",
+          "author": "Mozilla",
+          "description": "More than ever, we need a movement to ensure the internet remains a force for good. This post introduces the Mozilla Internet Ecosystem (MIECO) program, which fuels this movement by supporting people who are looking to advance a more human-centered internet. With MIECO, Mozilla is looking to foster a new era of internet innovation that […]\nThe post Advancing the future of the internet with Adam Bouhenguel appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/mieco-adam-bouhenguel/",
+          "publishedOn": "2023-05-25T17:07:38.000Z",
+          "wordCount": 1908,
+          "title": "Advancing the future of the internet with Adam Bouhenguel",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/05/MIECO_AdamBouhenguel_Profile_BlogHeader-1200x800.jpg"
+        },
         {
           "id": "https://blog.mozilla.org/?p=72308",
           "author": "Jenifer Boscacci",
@@ -1872,6 +1882,16 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2023/05/25/new-playground--memory-spy/",
+          "author": null,
+          "description": "Hello! Today we’re releasing a new playground called “memory spy”. It lets you run C programs\nand see how their variables are represented in memory. It’s designed to be\naccessible to folks who don’t know C – it comes with bunch of extremely simple\nexample C programs that you can poke at. Here’s the link:\nMemory Spy <<\n\n\nThis is a companion to the “how integers and floats work” zine we’ve been\nworking on, so the goal is mostly to look at how number types (integers and\nfloats) are represented.\nwhy spy on memory?\nHow computers actually represent variables can seem kind of abstract, so  I\nwanted to make it easy for folks to see how a real computer actually represents\nvariables in memory.\nwhy is it useful to look at C?\nYou might be wondering – I don’t write C! Why should I care how C programs\nr…",
+          "link": "https://jvns.ca/blog/2023/05/25/new-playground--memory-spy/",
+          "publishedOn": "2023-05-25T08:05:31.000Z",
+          "wordCount": 1070,
+          "title": "New playground: memory spy",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/",
           "author": null,
           "description": "Hello! I’m excited to announce a project I’ve been working on for a long time:\na free guide to implementing your own DNS resolver in a weekend.\nThe whole thing is about 200 lines of Python, including implementing all of the\nbinary DNS parsing from scratch. Here’s the link:\nImplement DNS in a Weekend <<\n\n\nThis project is a fun way to learn:\nHow to parse a binary network protocol like DNS\nHow DNS works behind the scenes (what’s actually happening when you make a DNS query?)\nThe testers have reported that it takes around 2-4 hours to do in Python.\nwhat’s a DNS resolver?\nA DNS resolver is a program that knows how to figure out what the IP address\nfor a domain is. Here’s what the command line interface of the resolver you’ll\nwrite looks like:\n$ python3 resolve.py example.com\n93.184.216.34\n\nimpl…",
@@ -1981,6 +2001,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=5383",
+          "author": "Cory Doctorow",
+          "description": "Today's links To save the news, shatter ad-tech: Structural separation will help the news claim their fair share. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading To save the news, shatter ad-tech (permalink) Big Tech steals from news, but what it steals isn't content. Talking about the news isn't theft, and neither is linking to it, or excerpting it. But stealing money? That's definitely theft. Big Tech steals money from the news media. 51% of every ad-dollar is claimed by a tech intermediary, a middleman that squats on a chokepoint between advertisers and publishers. Two companies – Google and Meta – dominate this sector, and both of these compan…",
+          "link": "https://pluralistic.net/2023/05/25/structural-separation/",
+          "publishedOn": "2023-05-25T08:13:58.000Z",
+          "wordCount": 3256,
+          "title": "Pluralistic: To save the news, shatter ad-tech (25 May 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=5372",
           "author": "Cory Doctorow",
@@ -2426,6 +2456,36 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/05/visualizations-of-american-household-types",
+          "author": null,
+          "description": "Based on data from a 2021 survey, FlowingData made these cool infographics of all of the different types of households in the United States. Here are the ten most common:\n\nSingle homeowners are the most common but look at #9: inmate. Shameful.\nTags: infoviz · prison · USA",
+          "link": "https://kottke.org/23/05/visualizations-of-american-household-types",
+          "publishedOn": "2023-05-25T19:00:12.000Z",
+          "wordCount": 223,
+          "title": "Visualizations of American Household Types",
+          "imageUrl": "https://kottke.org/plus/misc/images/fd-households.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/05/its-just-business",
+          "author": null,
+          "description": "Whenever I hear someone say \"it's just business\" in order to magically justify some decision to ignore the humanity of individual people, I remember that it's adapted from a line in The Godfather spoken by Michael Corleone at the precise moment when he decides to become a murderous sociopath. We should maybe stop running businesses like fictional mafia families.\nTags: business · movies · The Godfather · video",
+          "link": "https://kottke.org/23/05/its-just-business",
+          "publishedOn": "2023-05-25T16:43:55.000Z",
+          "wordCount": 237,
+          "title": "It's Just Business",
+          "imageUrl": "https://img.youtube.com/vi/by5YzWJ9W4U/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/05/hand-talk",
+          "author": null,
+          "description": "Hand Talk sign language has been used by indigenous communities for thousands of years as a lingua franca between groups and tribes that didn't share a common spoken language. Hand Talk is an endangered endangered — the US government tried to eradicate indigenous languages starting the late 1800s — but it's still in use today.\nThis was fascinating. For example, as with all languages, Hand Talk vocabulary reveals how they thought about everyday concepts like time:\nFor example, let's take the simple question: \"How old are you?\" First, there's a single sign for \"question.\" So for a question about someone's age, you'd use the motion for question with the motion for \"winter\". How many winters are you? That's what I ask. In PISL you measure months by moons, days by the sun. And to refer to different times of day, you would show hand placement according to the position of the sun in the sky. So this sign for morning, afternoon, or night.\n\n\nHand Talk was also one of the influences on ASL and the borrowing of vocabulary between the two language groups continues.\nTags: language · Native Americans · video",
+          "link": "https://kottke.org/23/05/hand-talk",
+          "publishedOn": "2023-05-25T14:39:11.000Z",
+          "wordCount": 360,
+          "title": "Hand Talk",
+          "imageUrl": "https://img.youtube.com/vi/s1-StAlw3aE/0.jpg"
+        },
         {
           "id": "https://kottke.org/23/05/ze-frank-on-slime-molds",
           "author": null,
