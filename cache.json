@@ -6,6 +6,16 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=7755",
+          "author": "Chris Heilmann",
+          "description": "You can download the GPT model and interrogate local files using Python without having to send any data to the cloud. PrivateGPT is a python script to interrogate local files using GPT4ALL, an open source large language model. It is pretty straight forward to set up: Clone the repo Download the LLM – about 10GB […]",
+          "link": "https://christianheilmann.com/2023/05/27/privategpt-running-chatgpt-offline-on-local-documents/",
+          "publishedOn": "2023-05-27T15:04:19.000Z",
+          "wordCount": 620,
+          "title": "PrivateGPT – Running “ChatGPT” offline on local documents",
+          "imageUrl": null
+        },
+        {
           "id": "https://christianheilmann.com/?p=7745",
           "author": "Chris Heilmann",
           "description": "As part of one of the job applications I have going I was invited to do a frontend expertise exercise. The role I am applying for is head of frontend for a company. Whilst I found it odd to have to go through this, with my track record being highly visible, I thought, why not? […]",
@@ -164,16 +174,6 @@
           "wordCount": 758,
           "title": "GitHub Copilot for the Command Line is amazing!",
           "imageUrl": null
-        },
-        {
-          "id": "https://christianheilmann.com/?p=7633",
-          "author": "Chris Heilmann",
-          "description": "I was just about to write a blog post on my current experiences in trying to find a new job. I wanted to write about the frustrations and how it feels ridiculous that developers and recruiters aren’t best friends. And then I remembered that Microsoft Edge now comes with a HUGE Bing icon that promised […]",
-          "link": "https://christianheilmann.com/2023/03/28/this-is-the-time-to-be-unpredictable-and-human/",
-          "publishedOn": "2023-03-28T15:42:46.000Z",
-          "wordCount": 1553,
-          "title": "This is the time to be unpredictable and human",
-          "imageUrl": null
         }
       ]
     },
@@ -281,6 +281,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2781/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/the_six_platonic_solids.png\" title=\"Plato made the solids, and five were gifted to the mathematicians. But in secret Plato forged a sixth solid to rule over all the others.\" alt=\"Plato made the solids, and five were gifted to the mathematicians. But in secret Plato forged a sixth solid to rule over all the others.\" />",
+          "link": "https://xkcd.com/2781/",
+          "publishedOn": "2023-05-26T00:00:00.000Z",
+          "wordCount": 184,
+          "title": "The Six Platonic Solids",
+          "imageUrl": "https://imgs.xkcd.com/comics/the_six_platonic_solids_2x.png"
+        },
         {
           "id": "https://xkcd.com/2780/",
           "author": null,
@@ -520,16 +530,6 @@
           "wordCount": 180,
           "title": "Towed Message",
           "imageUrl": "https://imgs.xkcd.com/comics/towed_message_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2756/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/qualifications.png\" title=\"'So how DID you go from working at the employment records office to becoming president of MIT and CEO of IBM?' 'I guess I just have an eye for opportunities.'\" alt=\"'So how DID you go from working at the employment records office to becoming president of MIT and CEO of IBM?' 'I guess I just have an eye for opportunities.'\" />",
-          "link": "https://xkcd.com/2756/",
-          "publishedOn": "2023-03-29T00:00:00.000Z",
-          "wordCount": 178,
-          "title": "Qualifications",
-          "imageUrl": "https://imgs.xkcd.com/comics/qualifications_2x.png"
         }
       ]
     },
@@ -656,16 +656,6 @@
           "publishedOn": "2023-03-30T11:10:21.000Z",
           "wordCount": 532,
           "title": "sq [link]",
-          "imageUrl": null
-        },
-        {
-          "id": "2023-03-29-joycons",
-          "author": null,
-          "description": "Two joycons for the Switch and though the thumbstick worked fine, none of the buttons worked.\nI had assumed it was a loose connection, but it turns out that the shoulder buttons - L and R - had been crushed (from heavy usage), which looked to have caused a short which knocked out all the buttons.\nIt was simple to test by removing the crushed buttons from the PCB and the rest of the buttons came back to life (during the test).\nThe right joycon is trickier because the shoulder button is directly soldered to the PCB and it being crushed meant that the pads had all been ripped, but I managed to expose the super tiny traces and solder to those. But in future, there's easier contact points to jump to.\nOtherwise, now all the buttons work, and TIL: mash the shoulder buttons can equate to a totalled joycon!",
-          "link": "https://remysharp.com/tif/2023-03-29-joycons",
-          "publishedOn": "2023-03-29T12:00:00.000Z",
-          "wordCount": 626,
-          "title": "Joycon buttons didn't work [tif]",
           "imageUrl": null
         }
       ]
@@ -938,6 +928,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/718497115881570304",
+          "author": null,
+          "description": "text-mode:\nFaxed petscii by Raquel Meyers (2011). More here.",
+          "link": "https://text-mode.tumblr.com/post/718497115881570304",
+          "publishedOn": "2023-05-27T18:30:45.000Z",
+          "wordCount": 997,
+          "title": "text-mode:\n\nFaxed petscii by Raquel Meyers (2011). More here.",
+          "imageUrl": "https://64.media.tumblr.com/tumblr_m13anmNsD31rpiyaso1_1280.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/718406519154212864",
           "author": null,
@@ -1677,16 +1677,6 @@
           "wordCount": 1010,
           "title": "text-mode:\n\n“Typewriter Town” by William Jay Smith First...",
           "imageUrl": "https://64.media.tumblr.com/tumblr_m12wdajRMr1rpiyaso1_1280.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/713061326436581376",
-          "author": null,
-          "description": "PETSCII-versions of Deep Rock Galactic characters. Made by christwoballs, 2021. via csdb",
-          "link": "https://text-mode.tumblr.com/post/713061326436581376",
-          "publishedOn": "2023-03-28T18:31:13.000Z",
-          "wordCount": 1016,
-          "title": "PETSCII-versions of Deep Rock Galactic characters. Made by...",
-          "imageUrl": "https://64.media.tumblr.com/1e577536f9ccb06a594760bfd73ac2e3/34a71bfc2eb432bb-02/s400x600/cf4d9c69662abf506f62e8b5b85d81b232f1c26d.png"
         }
       ]
     },
@@ -2012,6 +2002,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=5400",
+          "author": "Cory Doctorow",
+          "description": "Today's links Steven Brust's \"Tsalmoth\": Swords, sorcery and swooning romance, in a series that is tantalyzingly close to completion. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Steven Brust's \"Tsalmoth\" (permalink) They say \"the Golden Age of science fiction is 12\" – that is, the thing that makes \"the good old stuff\" so good is its suitability for preteens, and rereading that stuff as an adult (much less continuing to read it in adulthood) is a childish regression. It's not true. Or at least, it's not always true. Sometimes, the reason a novel sucks us in at 12 is that it is amazing, and, moreover, full of layers that make the book get better…",
+          "link": "https://pluralistic.net/2023/05/27/mannerpunk/",
+          "publishedOn": "2023-05-27T07:04:41.000Z",
+          "wordCount": 3557,
+          "title": "Pluralistic: Steven Brust's \"Tsalmoth\" (27 May 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=5395",
           "author": "Cory Doctorow",
@@ -2425,16 +2425,6 @@
           "publishedOn": "2023-03-29T14:52:10.000Z",
           "wordCount": 3173,
           "title": "Pluralistic: Naomi Novik's Scholomance trilogy (29 Mar 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=5040",
-          "author": "Cory Doctorow",
-          "description": "Today's links What comes after neoliberalism? \"There is no alternative\" is really a demand, namely, \"Stop trying to think of an alternative!\" Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading What comes after neoliberalism? (permalink) In his American Prospect editorial, \"What Comes After Neoliberalism?\", Robert Kuttner declares \"we’ve just about won the battle of ideas. Reality has been a helpful ally…Neoliberalism has been a splendid success for the top 1 percent, and an abject failure for everyone else\": https://prospect.org/economy/2023-03-28-what-comes-after-neoliberalism/ If you'd like an essay-formatted version of this post to read or share, …",
-          "link": "https://pluralistic.net/2023/03/28/imagine-a-horse/",
-          "publishedOn": "2023-03-28T15:46:24.000Z",
-          "wordCount": 3642,
-          "title": "Pluralistic: What comes after neoliberalism? (28 Mar 2023)",
           "imageUrl": null
         }
       ]
@@ -3936,16 +3926,6 @@
           "wordCount": 347,
           "title": "Wes Anderson’s Asteroid City",
           "imageUrl": "https://img.youtube.com/vi/FW88VBvQaiI/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/03/kottke-ask-me-anything",
-          "author": null,
-          "description": "Last month, I put out a call for readers to ask me anything — “questions about the sabbatical, media diets, 25 years of blogging, membership stuff, editorial policies, my fiddle leaf fig, Mastodon, parenting, Fortnite, etc.” I meant to start answering these sooner, but I ended up getting so any questions (over 330 of them!) that I decided to go a little overboard and build a little site to host the questions and answers.\nI’ll be spending the entire day today answering questions over there, so check it out now and then come back later for more. You can favorite posts to help others discover what the collective readership thinks are the best ones. Here’s one of the questions I’ve answered so far:\nQ: What’s the reader profile you have in your mind when you write? Are you thinking about someone or some kind of person specifically? I’m a 37 year old lawyer who can’t even remember how I first came across your blog. I’ve read for 10+ years and have always sort of wondered if you had a sense of the breadth of people who read your blog. I don’t necessarily fit neatly within any of the topics you focus on but always learn something when I dip in. - Garo\nA: The site is best when I try to write posts as if each one is an email to a curious friend who I think would be interested in the thing I’m writing about, irrespective of topic/subject/field/whatever. I know not everyone is interested in every topic (or even most topics!) but I tend to look for things that people might find intriguing even if they don’t normally collect stamps, skateboard, watch ballet, appreciate mathematics, or listen to rap. Anything is interesting if you dig deep enough, observe it from the correct angle, or talk to the right enthusiast.\n\n\nCheck out the full AMA for more.\nTags: Jason Kottke   kottke.org",
-          "link": "https://kottke.org/23/03/kottke-ask-me-anything",
-          "publishedOn": "2023-03-28T13:23:14.000Z",
-          "wordCount": 498,
-          "title": "The Kottke.org Ask Me Anything",
-          "imageUrl": ""
         }
       ]
     },

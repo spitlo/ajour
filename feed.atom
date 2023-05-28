@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2023-05-27T00:33:10.971Z</updated>
+    <updated>2023-05-28T00:34:46.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[text-mode:
+
+Faxed petscii by Raquel Meyers (2011). More here.]]></title>
+        <id>https://text-mode.tumblr.com/post/718497115881570304</id>
+        <link href="https://text-mode.tumblr.com/post/718497115881570304"/>
+        <updated>2023-05-27T18:30:45.000Z</updated>
+        <summary type="html"><![CDATA[text-mode:
+Faxed petscii by Raquel Meyers (2011). More here.]]></summary>
+        <author>
+            <name>TEXT-MODE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PrivateGPT – Running “ChatGPT” offline on local documents]]></title>
+        <id>https://christianheilmann.com/?p=7755</id>
+        <link href="https://christianheilmann.com/2023/05/27/privategpt-running-chatgpt-offline-on-local-documents/"/>
+        <updated>2023-05-27T15:04:19.000Z</updated>
+        <summary type="html"><![CDATA[You can download the GPT model and interrogate local files using Python without having to send any data to the cloud. PrivateGPT is a python script to interrogate local files using GPT4ALL, an open source large language model. It is pretty straight forward to set up: Clone the repo Download the LLM – about 10GB […]]]></summary>
+        <author>
+            <name>Chris Heilmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: Steven Brust's "Tsalmoth" (27 May 2023)]]></title>
+        <id>https://pluralistic.net/?p=5400</id>
+        <link href="https://pluralistic.net/2023/05/27/mannerpunk/"/>
+        <updated>2023-05-27T07:04:41.000Z</updated>
+        <summary type="html"><![CDATA[Today's links Steven Brust's "Tsalmoth": Swords, sorcery and swooning romance, in a series that is tantalyzingly close to completion. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Steven Brust's "Tsalmoth" (permalink) They say "the Golden Age of science fiction is 12" – that is, the thing that makes "the good old stuff" so good is its suitability for preteens, and rereading that stuff as an adult (much less continuing to read it in adulthood) is a childish regression. It's not true. Or at least, it's not always true. Sometimes, the reason a novel sucks us in at 12 is that it is amazing, and, moreover, full of layers that make the book get better…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Watch Tarkovsky's Best Films Online for Free]]></title>
         <id>https://kottke.org/23/05/watch-tarkovskys-best-films-online-for-free</id>
@@ -80,6 +113,16 @@ Tags: cancer · Hank Green · John Green · medicine · video]]></summary>
         <summary type="html"><![CDATA[Today's links How (and why) Biden should overcome the Supreme Court to end the debt showdown: Bonus: it'll also kill Trump's alarmingly good chances for a second term. Hey look at this: Delights to delectate. This day in history: 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading How (and why) Biden should overcome the Supreme Court to end the debt showdown (permalink) Is it legal for Congress to default on the US national debt? It depends on who you ask. There are a ton of good legal arguments for and against, so perhaps it comes down to what the (degraded, corrupt, illegitimate, partisan) Supreme Court says? https://www.nytimes.com/2023/05/04/opinion/biden-administration-debt-republican.html Put in those terms, it …]]></summary>
         <author>
             <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Six Platonic Solids]]></title>
+        <id>https://xkcd.com/2781/</id>
+        <link href="https://xkcd.com/2781/"/>
+        <updated>2023-05-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/the_six_platonic_solids.png" title="Plato made the solids, and five were gifted to the mathematicians. But in secret Plato forged a sixth solid to rule over all the others." alt="Plato made the solids, and five were gifted to the mathematicians. But in secret Plato forged a sixth solid to rule over all the others." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -4659,77 +4702,6 @@ First edition, 1960.
 Nonsense Celebr8!]]></summary>
         <author>
             <name>TEXT-MODE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joycon buttons didn't work [tif]]]></title>
-        <id>2023-03-29-joycons</id>
-        <link href="https://remysharp.com/tif/2023-03-29-joycons"/>
-        <updated>2023-03-29T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Two joycons for the Switch and though the thumbstick worked fine, none of the buttons worked.
-I had assumed it was a loose connection, but it turns out that the shoulder buttons - L and R - had been crushed (from heavy usage), which looked to have caused a short which knocked out all the buttons.
-It was simple to test by removing the crushed buttons from the PCB and the rest of the buttons came back to life (during the test).
-The right joycon is trickier because the shoulder button is directly soldered to the PCB and it being crushed meant that the pads had all been ripped, but I managed to expose the super tiny traces and solder to those. But in future, there's easier contact points to jump to.
-Otherwise, now all the buttons work, and TIL: mash the shoulder buttons can equate to a totalled joycon!]]></summary>
-        <author>
-            <name>remy sharp's b:log</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qualifications]]></title>
-        <id>https://xkcd.com/2756/</id>
-        <link href="https://xkcd.com/2756/"/>
-        <updated>2023-03-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/qualifications.png" title="'So how DID you go from working at the employment records office to becoming president of MIT and CEO of IBM?' 'I guess I just have an eye for opportunities.'" alt="'So how DID you go from working at the employment records office to becoming president of MIT and CEO of IBM?' 'I guess I just have an eye for opportunities.'" />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PETSCII-versions of Deep Rock Galactic characters. Made by...]]></title>
-        <id>https://text-mode.tumblr.com/post/713061326436581376</id>
-        <link href="https://text-mode.tumblr.com/post/713061326436581376"/>
-        <updated>2023-03-28T18:31:13.000Z</updated>
-        <summary type="html"><![CDATA[PETSCII-versions of Deep Rock Galactic characters. Made by christwoballs, 2021. via csdb]]></summary>
-        <author>
-            <name>TEXT-MODE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: What comes after neoliberalism? (28 Mar 2023)]]></title>
-        <id>https://pluralistic.net/?p=5040</id>
-        <link href="https://pluralistic.net/2023/03/28/imagine-a-horse/"/>
-        <updated>2023-03-28T15:46:24.000Z</updated>
-        <summary type="html"><![CDATA[Today's links What comes after neoliberalism? "There is no alternative" is really a demand, namely, "Stop trying to think of an alternative!" Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading What comes after neoliberalism? (permalink) In his American Prospect editorial, "What Comes After Neoliberalism?", Robert Kuttner declares "we’ve just about won the battle of ideas. Reality has been a helpful ally…Neoliberalism has been a splendid success for the top 1 percent, and an abject failure for everyone else": https://prospect.org/economy/2023-03-28-what-comes-after-neoliberalism/ If you'd like an essay-formatted version of this post to read or share, …]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is the time to be unpredictable and human]]></title>
-        <id>https://christianheilmann.com/?p=7633</id>
-        <link href="https://christianheilmann.com/2023/03/28/this-is-the-time-to-be-unpredictable-and-human/"/>
-        <updated>2023-03-28T15:42:46.000Z</updated>
-        <summary type="html"><![CDATA[I was just about to write a blog post on my current experiences in trying to find a new job. I wanted to write about the frustrations and how it feels ridiculous that developers and recruiters aren’t best friends. And then I remembered that Microsoft Edge now comes with a HUGE Bing icon that promised […]]]></summary>
-        <author>
-            <name>Chris Heilmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Kottke.org Ask Me Anything]]></title>
-        <id>https://kottke.org/23/03/kottke-ask-me-anything</id>
-        <link href="https://kottke.org/23/03/kottke-ask-me-anything"/>
-        <updated>2023-03-28T13:23:14.000Z</updated>
-        <summary type="html"><![CDATA[Last month, I put out a call for readers to ask me anything — “questions about the sabbatical, media diets, 25 years of blogging, membership stuff, editorial policies, my fiddle leaf fig, Mastodon, parenting, Fortnite, etc.” I meant to start answering these sooner, but I ended up getting so any questions (over 330 of them!) that I decided to go a little overboard and build a little site to host the questions and answers.
-I’ll be spending the entire day today answering questions over there, so check it out now and then come back later for more. You can favorite posts to help others discover what the collective readership thinks are the best ones. Here’s one of the questions I’ve answered so far:
-Q: What’s the reader profile you have in your mind when you write? Are you thinking about someone or some kind of person specifically? I’m a 37 year old lawyer who can’t even remember how I first came across your blog. I’ve read for 10+ years and have always sort of wondered if you had a sense of the breadth of people who read your blog. I don’t necessarily fit neatly within any of the topics you focus on but always learn something when I dip in. - Garo
-A: The site is best when I try to write posts as if each one is an email to a curious friend who I think would be interested in the thing I’m writing about, irrespective of topic/subject/field/whatever. I know not everyone is interested in every topic (or even most topics!) but I tend to look for things that people might find intriguing even if they don’t normally collect stamps, skateboard, watch ballet, appreciate mathematics, or listen to rap. Anything is interesting if you dig deep enough, observe it from the correct angle, or talk to the right enthusiast.
-
-
-Check out the full AMA for more.
-Tags: Jason Kottke   kottke.org]]></summary>
-        <author>
-            <name>kottke.org</name>
         </author>
     </entry>
     <entry>
