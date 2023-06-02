@@ -144,16 +144,6 @@
           "wordCount": 791,
           "title": "GitHub Copilot for Docs – putting the “fun” into RTFM",
           "imageUrl": null
-        },
-        {
-          "id": "https://christianheilmann.com/?p=7663",
-          "author": "Chris Heilmann",
-          "description": "Yesterday I wrote a blog post about a question I got at a conference and I thought I try one of those fancy “AI” tools that grace my inbox every few hours. Video Tap promises to turn videos into blog posts. You give it a YouTube URL, and it writes a post for you, looking […]",
-          "link": "https://christianheilmann.com/2023/04/03/review-video-tap-automatically-convert-youtube-videos-to-blog-posts/",
-          "publishedOn": "2023-04-03T11:22:26.000Z",
-          "wordCount": 858,
-          "title": "Review: Video Tap – automatically convert YouTube videos to blog posts",
-          "imageUrl": null
         }
       ]
     },
@@ -216,16 +206,6 @@
           "publishedOn": "2023-05-03T07:00:00.000Z",
           "wordCount": 310,
           "title": "Unions",
-          "imageUrl": "https://images-grumpygamer.nyc3.digitaloceanspaces.com/\n"
-        },
-        {
-          "id": "https://grumpygamer.com/loom",
-          "author": null,
-          "description": "All the dialogs in Return to Monkey Island were done in a format called yack. These were created for Thimbleweed Park and (very) loosely based on Ink. \nDuring the Secret of Monkey Island and LeChucks Revenge, these were all hand-coded in SCUMM and a pain in the [REDACTED].  \nThe goal is to free the writer from \"programming\" and focus just on the writing and logic of the scene.\nIn lines like GUYBRUSH(38260,\"{fist_pump}Yes!\") the GUYBRUSH is a macro to replaces the text with \"@38260:GUYBRUSH\". This removes the text from the compiled code and forces the engine to look it up in the translation file as well as directing the VO to play the correct audio. Everything is linked to the id 38260 including the actor's scripts.\n{fist_pump} calls an animation on actor saying the line and (mocking) is direction for the actor and ignored by the engine. \nThe writer will write (for example):\nguybrush: \"Aye, Cobb.\"\nAnd then towards the end of production a python script turns it into \nguybrush: GUYBRUSH(38219,\"Aye, Cobb.\")\nAdding the unique line ids.\nEnjoy Cobb...",
-          "link": "https://grumpygamer.com/loom",
-          "publishedOn": "2023-04-03T07:00:00.000Z",
-          "wordCount": 229,
-          "title": "Loom",
           "imageUrl": "https://images-grumpygamer.nyc3.digitaloceanspaces.com/\n"
         }
       ]
@@ -490,16 +470,6 @@
           "wordCount": 182,
           "title": "Easily Confused Acronyms",
           "imageUrl": "https://imgs.xkcd.com/comics/easily_confused_acronyms_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2758/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/my_favorite_things.png\" title=\"When an Ur guy / sells Nanni things / but the copper's bad, / He simply records his complaint for all time / &quot;I got a bad deal / I'm maaaaad&quot;\" alt=\"When an Ur guy / sells Nanni things / but the copper's bad, / He simply records his complaint for all time / &quot;I got a bad deal / I'm maaaaad&quot;\" />",
-          "link": "https://xkcd.com/2758/",
-          "publishedOn": "2023-04-03T00:00:00.000Z",
-          "wordCount": 182,
-          "title": "My Favorite Things",
-          "imageUrl": "https://imgs.xkcd.com/comics/my_favorite_things_2x.png"
         }
       ]
     },
@@ -888,6 +858,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/718950108031533056",
+          "author": null,
+          "description": "It’s a mouse, Tintin.",
+          "link": "https://text-mode.tumblr.com/post/718950108031533056",
+          "publishedOn": "2023-06-01T18:30:52.000Z",
+          "wordCount": 973,
+          "title": "Untitled",
+          "imageUrl": "https://64.media.tumblr.com/fcd0b62069174655c0fbb61d87873ee8/a48a15c32c6be5e5-06/s540x810/923253b91867433f0a33962e689bb8ea732a9a76.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/718859513195839488",
           "author": null,
@@ -1607,16 +1587,6 @@
           "wordCount": 970,
           "title": "Textmode works by Dwimmer, 2021-2022.",
           "imageUrl": "https://64.media.tumblr.com/f269e2f2ada2496b229f3626915cf926/faf2da945331be76-32/s1280x1920/1ac495575dd6c2f8066cdddc1e0368e0e7c49fc4.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/713514269665263616",
-          "author": null,
-          "description": "Textmode skulls by Littlebitspace.",
-          "link": "https://text-mode.tumblr.com/post/713514269665263616",
-          "publishedOn": "2023-04-02T18:30:33.000Z",
-          "wordCount": 997,
-          "title": "Untitled",
-          "imageUrl": "https://64.media.tumblr.com/8d80a1dfb864c96694ba9b1f86f638e6/604182c1b2564cf1-6c/s640x960/c0d6c254fe4940368c90fce4aea9e5cdcef0f51c.png"
         }
       ]
     },
@@ -1625,6 +1595,36 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=72434",
+          "author": "Kristina Bravo",
+          "description": "More than ever, we need a movement to ensure the internet remains a force for good. The Mozilla Internet Ecosystem (MIECO) program fuels this movement by supporting people who are looking to advance a more human-centered internet. With MIECO, Mozilla is looking to foster a new era of internet innovation that moves away from “fast […]\nThe post Advancing the future of the internet with the ‘Photoshop of software’ appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/mieco-jeff-lindsay/",
+          "publishedOn": "2023-06-02T00:00:00.000Z",
+          "wordCount": 1600,
+          "title": "Advancing the future of the internet with the ‘Photoshop of software’",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/05/MIECO_JeffLindsay_Profile_BlogHeader-1200x800.png"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=72431",
+          "author": "Mozilla",
+          "description": "The investment will help Fiddler scale its AI Observability Platform  (PALO ALTO, CA | JUNE 1, 2023) – Today, Mozilla Ventures is announcing an investment in Fiddler, the Silicon Valley-based company that helps enterprises build trust into AI with monitoring, explainability, analytics, fairness, and safety.  The Fiddler AI Observability Platform gives companies more visibility into […]\nThe post <strong>Mozilla Ventures Invests in Fiddler, Fueling Better AI Trust </strong> appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/uncategorized/mozilla-ventures-invests-in-fiddler-fueling-better-ai-trust/",
+          "publishedOn": "2023-06-01T13:00:00.000Z",
+          "wordCount": 1519,
+          "title": "Mozilla Ventures Invests in Fiddler, Fueling Better AI Trust",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/05/Screen-Shot-2023-05-18-at-9.21.04-AM-886x591.png"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=72376",
+          "author": "Sarah Vasquez",
+          "description": "When we relaunched the Mozilla Builders program last March, we unveiled our Responsible AI Challenge — a one-day, in-person event designed to inspire and encourage a community of builders working on trustworthy AI products and solutions — essentially a call to builders and technologists all over the world to create trustworthy AI solutions. We are […]\nThe post Announcing Mozilla’s ‘Responsible AI Challenge’ top prize winners appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/responsible-ai-challenge-winners/",
+          "publishedOn": "2023-06-01T11:46:33.000Z",
+          "wordCount": 1535,
+          "title": "Announcing Mozilla’s ‘Responsible AI Challenge’ top prize winners",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/05/AIChallenge_TopWinners_Blog-Header_1200x800-1200x800.jpg"
+        },
         {
           "id": "https://blog.mozilla.org/?p=72342",
           "author": "Mozilla",
@@ -2357,6 +2357,46 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/06/my-recent-media-diet-summer-2023-edition",
+          "author": null,
+          "description": "Oh no. It's June? Where what how?!? I did not mean to let this much time elapse since the last installment of my media diet, all the way back on Dec 2 in a completely different calendar year. But there's nothing to be done about it, we're all here now, so tuck your arms inside the carriage and let's do this thing. Here's what I've been watching, reading, listening to, and experiencing over the last six months. Enjoy.\n\nFire of Love. Superb documentary on volcanos and obsession. The footage, mostly shot by the subjects, is unbelievable. (A)\nStar Trek: First Contact. Maybe my favorite Star Trek movie? Ok, maybe not favorite but I like it a lot. (A)\nSplendor. This is one of my favorite engine-building games that I've played — it strips the concept down to the bare bones. That makes it easy to …",
+          "link": "https://kottke.org/23/06/my-recent-media-diet-summer-2023-edition",
+          "publishedOn": "2023-06-01T20:22:57.000Z",
+          "wordCount": 2452,
+          "title": "My Recent Media Diet, Summer 2023 Edition",
+          "imageUrl": "https://kottke.org/plus/misc/images/june-1st.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/06/george-takei-recalls-his-childhood-in-a-wwii-internment-camp",
+          "author": null,
+          "description": "In this short video from the BBC narrated by Helena Bonham Carter, activist and actor George Takei talks about his imprisonment in an American concentration camp during WWII because he was of Japanese descent.\nI began school in Rohwer, a real school, in a black tar paper barrack. There was an American flag hanging at the front of the classroom and on the first morning, the teacher said, \"We're going begin every morning with the pledge of allegiance to the flag. I will teach it to you and you are to memorize that.\" But I could see right outside my schoolhouse window the barbed wire fence and the sentry tower as I recited the words \"with liberty and justice for all\". An innocent kid, too young to understand the stinging irony in those words.\n\n\nTakei has done many talks & interviews over the years about his experience, including for the Archive of American Television, Democracy Now!, and a TED Talk back in 2014:\n\nHe also published a graphic novel about his time in the camps called They Called Us Enemy.\nTags: George Takei · interviews · racism · Star Trek · TV · USA · video · war · World War II",
+          "link": "https://kottke.org/23/06/george-takei-recalls-his-childhood-in-a-wwii-internment-camp",
+          "publishedOn": "2023-06-01T18:13:50.000Z",
+          "wordCount": 375,
+          "title": "George Takei Recalls His Childhood in a WWII Internment Camp",
+          "imageUrl": "https://img.youtube.com/vi/LeBKBFAPwNc/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/06/the-best-photos-of-the-milky-way-for-2023",
+          "author": null,
+          "description": "Capture the Atlas have announced their picks for the 2023 Milky Way Photographer of the Year competition. As usual, I've included a few of my favorites here — from top to bottom: Jakob Sahner's photo from the Canary Islands, Mihail Minkov's composite shot of the Milky Way as it looks in both the summer & winter, and Steffi Lieberman amongst the baobab trees in Madagascar. Here's Minkov explaining his full-galactic view:\nI've always wondered what the night sky would look like if we could see the two Milky Way arches from the winter and summer side by side. This is practically impossible, since they are part of a whole and are visible at different times of the day.\nHowever, this 360-degree time-blended panorama shows us what they would look like. The two arches of the Milky Way represent one object in the starry sky, with part of it visible in winter and part of it in summer. Therefore, they are called the winter and summer arches. The winter arch includes objects that we can observe from October to March, primarily associated with the constellation Orion.\nOn the other hand, the summer arch features the Milky Way core, visible from March to September, which is the most characteristic and luminous part of the night sky, representing the center of our galaxy.\n\n\n Tags: astronomy · best of · best of 2023 · Milky Way · photography",
+          "link": "https://kottke.org/23/06/the-best-photos-of-the-milky-way-for-2023",
+          "publishedOn": "2023-06-01T16:03:30.000Z",
+          "wordCount": 413,
+          "title": "The Best Photos of the Milky Way for 2023",
+          "imageUrl": "https://kottke.org/plus/misc/images/milky-way-2023-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/06/making-a-solar-powered-billion-year-lego-clock",
+          "author": null,
+          "description": "Ok this is kind of incredible: Brick Technology built a solar-powered Lego clock that will keep time for a billion years. It's got various displays in the style of an astronomical clock so you can keep track of seconds, hours, months, centuries, and even galactical years (the amount of time the Sun takes to orbit the center of the galaxy). The clock is powered by solar energy, and the solar cell is connected to the clock so that it tilts throughout the day to keep facing the sun. \nThis is a) an extremely accessible explanation of how clocks work, b) the nerdiest thing ever, and c) I love it so much. Even if you're not a Lego fan, you should watch this. (For more on how clocks work, check out Bartosz Ciechanowski's excellent explainer on mechanical watches.)\nThe obvious thing that sprung to mind watching this was The Clock of the Long Now, a 10,000-year clock being constructed inside a mountain in West Texas. But I also thought of Arthur Ganson's Machine With Concrete, which utilizes extreme gear ratios to turn an input of 200 rpm into a gear that turns only once every 2 trillion years. That's slow enough that the final gear is actually embedded in concrete and it doesn't affect the operation of the machine at all.\n\nSee also Here's What a Googol-to-One Gear Ratio Looks Like, 20 Mechanical Principles Combined in a Useless Lego Machine, and A Lego 5-Speed Manual Transmission.\nTags: Lego · time · video",
+          "link": "https://kottke.org/23/06/making-a-solar-powered-billion-year-lego-clock",
+          "publishedOn": "2023-06-01T13:51:19.000Z",
+          "wordCount": 428,
+          "title": "Making A Solar-Powered Billion-Year Lego Clock",
+          "imageUrl": "https://img.youtube.com/vi/kRzgCylePjk/0.jpg"
+        },
         {
           "id": "https://kottke.org/quick-links",
           "author": null,
