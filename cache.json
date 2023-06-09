@@ -151,7 +151,18 @@
       "title": "Stavros' Stuff Latest Posts",
       "feedUrl": "https://feeds.feedburner.com/stavrosstuff",
       "siteUrl": null,
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.stavros.io/posts/clearing-up-some-passkeys-misconceptions/",
+          "author": null,
+          "description": "I love Passkeys so much\nI am unreasonably excited about Passkeys, I’ve long been looking for a better/more convenient way than passwords to do authentication, and I think Passkeys are finally it.\nHowever, whenever I see Passkeys mentioned (for example on the recent Tailscale post about them), there are always a lot of misconceptions that surface in the debate.\nI’d like to clear some of them here, and hopefully explain a bit better what Passkeys are.\nA bit of backstory\nPasskeys are a user-friendly name for, and an implementation of WebAuthn, which in turn is part of the FIDO2 project.\nAll that is basically a way to say that Passkeys are an open standard, developed by a consortium of companies that want to make authentication more secure and more usable.\nMy personal opinion is that Passkeys are a great solution to that problem, and that’s why I’m so excited about them.\nAt their core, Passkeys are just a way for a website to ask your browser for authentication.\nThat’s it, they aren’t tied to a specific piece of hardware or a way for that hardware to work.\nI’ll expound more on this further on.\nI want to lay out some common misconceptions about Passkeys that I’ve been seeing, and",
+          "link": "https://www.stavros.io/posts/clearing-up-some-passkeys-misconceptions/",
+          "publishedOn": "2023-06-08T14:41:28.000Z",
+          "wordCount": 1464,
+          "title": "Clearing up some misconceptions about Passkeys",
+          "imageUrl": "https://www.stavros.io/static/images/favicons/og-image.jpg?h=3375145f"
+        }
+      ]
     },
     {
       "title": "Hundred Rabbits",
@@ -490,16 +501,6 @@
           "wordCount": 180,
           "title": "Diffraction Spikes",
           "imageUrl": "https://imgs.xkcd.com/comics/diffraction_spikes_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2761/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/1_to_1_scale.png\" title=\"There's a version that shows the planets with no cropping, but it's hard to find a display that supports it.\" alt=\"There's a version that shows the planets with no cropping, but it's hard to find a display that supports it.\" />",
-          "link": "https://xkcd.com/2761/",
-          "publishedOn": "2023-04-10T00:00:00.000Z",
-          "wordCount": 180,
-          "title": "1-to-1 Scale",
-          "imageUrl": "https://imgs.xkcd.com/comics/1_to_1_scale_2x.png"
         }
       ]
     },
@@ -586,16 +587,6 @@
           "publishedOn": "2023-04-11T12:00:00.000Z",
           "wordCount": 605,
           "title": "Pebble Steel [tif]",
-          "imageUrl": null
-        },
-        {
-          "id": "2023-04-10-glasses",
-          "author": null,
-          "description": "My son spotted that a column (albeit a zigzag) of LEDs wasn't lighting up on these funky pair of shades that react to sound.\nAs you might have seen on Christmas lights, if one LED goes out, the entire line goes out - which was the case here.\nThe test process to isolate the right LED was to put the multimeter into diode mode (or continuity mode also works) and put the positive lead to the positive leg and negative to the negative leg - which causes it to light up.\nWorking my way through the row of LEDs I found that one wasn't lighting up, I resoldered it (in the hope that it was just a bd connection rather than a duff LED) and hey-ho-what-do-you-know, it worked again 😎",
-          "link": "https://remysharp.com/tif/2023-04-10-glasses",
-          "publishedOn": "2023-04-10T12:00:00.000Z",
-          "wordCount": 602,
-          "title": "LED Glasses [tif]",
           "imageUrl": null
         }
       ]
@@ -838,7 +829,18 @@
       "title": "LOW-TECH MAGAZINE",
       "feedUrl": "https://feeds2.feedburner.com/typepad/krisdedecker/lowtechmagazineenglish",
       "siteUrl": "https://www.lowtechmagazine.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.lowtechmagazine.com/2023/06/low-tech-magazine-has-moved.html",
+          "author": null,
+          "description": "As of June 8, 2023, we will no longer update this website (www.lowtechmagazine.com). New articles and comments will only appear on the solar-powered website of Low-tech Magazine, if the weather allows it. The old website remains online until we have moved all articles, which we plan for July 2023. Once we have finished the migration, this website disappears, and the web address will point to the solar website. Subscribers do not have to do anything: they will keep receiving newsletters and feed updates.",
+          "link": "https://www.lowtechmagazine.com/2023/06/low-tech-magazine-has-moved.html",
+          "publishedOn": "2023-06-08T14:31:27.000Z",
+          "wordCount": 411,
+          "title": "Low-tech Magazine Has Moved",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "esoteric.codes",
@@ -868,6 +870,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/719584265140092928",
+          "author": null,
+          "description": "text-mode:\nASCII-portraits of Dwight Eisenhower and Adlai Stevenson made with a UNIVAC in 1957. via (Technically not ASCII since it didn’t exist, but perhaps EBCDIC) h/t: Marcin Wichary",
+          "link": "https://text-mode.tumblr.com/post/719584265140092928",
+          "publishedOn": "2023-06-08T18:30:32.000Z",
+          "wordCount": 1040,
+          "title": "text-mode:\n\nASCII-portraits of Dwight Eisenhower and Adlai...",
+          "imageUrl": "https://64.media.tumblr.com/e65afabc27da938e1dd19fd5a1a0857d/f58f5f1f13306683-9c/s1280x1920/a1ee0a7baad78c61399056a95f6f64de75536e88.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/719493669904908288",
           "author": null,
@@ -1637,16 +1649,6 @@
           "wordCount": 957,
           "title": "PETSCII graphics by Electric for the demo Skybox (youtube),...",
           "imageUrl": "https://64.media.tumblr.com/a4c28fcc9bd1602ce5320c70fd5e7b9d/8ec9d3929a1ba70d-ec/s1280x1920/5b33672e636d37b5831d408870dc3ef80bd48dbc.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/714148486233374721",
-          "author": null,
-          "description": "sanderfocus:\n\n‘Unexpected value.’\nMore 👉 \nSanderFocus - Visual artist",
-          "link": "https://text-mode.tumblr.com/post/714148486233374721",
-          "publishedOn": "2023-04-09T18:31:09.000Z",
-          "wordCount": 917,
-          "title": "Untitled",
-          "imageUrl": "https://64.media.tumblr.com/tumblr_rg6zev8n811v3hngt_frame1.jpg"
         }
       ]
     },
