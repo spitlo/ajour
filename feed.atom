@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2023-06-10T00:33:20.953Z</updated>
+    <updated>2023-06-11T00:40:01.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Use your Wii Balance Board as a scale (again)]]></title>
+        <id>https://www.stavros.io/posts/use-your-wii-balance-board-as-a-scale-again/</id>
+        <link href="https://www.stavros.io/posts/use-your-wii-balance-board-as-a-scale-again/"/>
+        <updated>2023-06-10T22:53:36.000Z</updated>
+        <summary type="html"><![CDATA[We did it again, internet
+If you’ll recall, once upon a time I managed to get my Wii Balance Board to connect to my computer and function as a scale.
+At some point throughout the years, Linux changed, and that method broke.
+It would still measure your weight fine, but you could no longer activate the balance board by tapping its front button, you had to flip it over, remove the battery compartment lid and press the red button every time.
+This was too much of a hassle, so I stopped using the board, hoping that a solution to this problem would arrive one day to liberate me from the scourge of adipose tissue.
+This day is today (well, a few months ago, actually, but I couldn’t be arsed writing about it until today, so).
+I received an email from a reader called Jawaad Mahmood, who had read my balance board article and spent a bit of time figuring out how to get the balance board to work, and packaged his work into a library called bbev.
+I was initially sceptical because many people contacted me throughout the years, but nobody managed to get rid of the red button requirement.
+Talking to Jawaad for a bit, though, he confirmed that he could painlessly get the board to pair with his computer with the front button.
+Apparently something had changed in the Linux Bluetooth stack, and made pairing possible again, and he managed to figure out how.
+This was great news!
+However,]]></summary>
+        <author>
+            <name>Stavros' Stuff Latest Posts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[text-mode:
+
+
+
+Typewriter & maybe water colour, by...]]></title>
+        <id>https://text-mode.tumblr.com/post/719765460024999936</id>
+        <link href="https://text-mode.tumblr.com/post/719765460024999936"/>
+        <updated>2023-06-10T18:30:33.000Z</updated>
+        <summary type="html"><![CDATA[text-mode:
+
+
+Typewriter & maybe water colour, by Nisshta12.]]></summary>
+        <author>
+            <name>TEXT-MODE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: Links, dumped (10 June 2023)]]></title>
+        <id>https://pluralistic.net/?p=5490</id>
+        <link href="https://pluralistic.net/2023/06/10/in-the-dumps/"/>
+        <updated>2023-06-10T16:23:48.000Z</updated>
+        <summary type="html"><![CDATA[Today's links Links, dumped: A grab-bag of delicious miscellania. This day in history: 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Links, dumped (permalink) It's Saturday, which means: time for a linkdump post! I'm back from my book-tour across the US, Canada and the UK, finishing up in Berlin – and I'm jetlagged in the backyard hammock, waiting for my laundry to come out of the machine and plowing through a long backlog of interesting links. Let's goooooooo! It's Pride month, and Pat Robertson kicked it off with a bang by…kicking off. What better way to start Pride than with a piece of fanfic by Wil Wheaton about Robertson's arrival in Hell? https://wilwheaton.net/2023/06/the-wait/ Once you've had your fill o…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My Custom CSS Reset]]></title>
         <id>https://www.joshwcomeau.com/css/custom-css-reset/</id>
@@ -4260,6 +4308,18 @@ Source: www.youtube.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Pebble Steel [tif]]]></title>
+        <id>2023-04-11-pebble-steel</id>
+        <link href="https://remysharp.com/tif/2023-04-11-pebble-steel"/>
+        <updated>2023-04-18T09:29:54.000Z</updated>
+        <summary type="html"><![CDATA[I bought a joblot of Pebble watches a while back (only to secure a Pebble Round to gift to my mum), but it also included a Pebble Steel. Though the watched happily charged and turned on, when I unplugged the charging port, the watch immediately died.
+When I got around to opening the watch (using the same screw bit for the classic) the lipo battery inside had … popped, I guess. It was bad.
+Thankfully I found a few replacements on Ebay (as the batteries are particularly small) and with some careful soldering (to some very small solder point) and squeezing of wires to fit into such a tiny space, the Pebble Steel lives again. That's 3 Pebbles I've revived in recent months - I've just got one Pebble Classic left to fix!]]></summary>
+        <author>
+            <name>remy sharp's b:log</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Slivers of Portraits]]></title>
         <id>https://kottke.org/23/04/slivers-of-portraits</id>
         <link href="https://kottke.org/23/04/slivers-of-portraits"/>
@@ -4683,90 +4743,6 @@ They also reveal the best way to boost your immune system to protect yourself ag
 Tags: Kurzgesagt   medicine   science   vaccines   video]]></summary>
         <author>
             <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Diffraction Spikes]]></title>
-        <id>https://xkcd.com/2762/</id>
-        <link href="https://xkcd.com/2762/"/>
-        <updated>2023-04-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/diffraction_spikes.png" title="Even if a planet is lucky enough to have a stable orbit that weaves between the spikes, the seasons get weird whenever it passes close to them." alt="Even if a planet is lucky enough to have a stable orbit that weaves between the spikes, the seasons get weird whenever it passes close to them." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kottke AMA, Round 2]]></title>
-        <id>https://kottke.org/23/04/kottke-ama-round-2</id>
-        <link href="https://kottke.org/23/04/kottke-ama-round-2"/>
-        <updated>2023-04-11T18:44:54.000Z</updated>
-        <summary type="html"><![CDATA[Hey folks, just a short note to say that I’m dropping in to answer some more questions over on the Kottke AMA site this afternoon, so head on over there to check out what’s new or read through some previous questions if you missed it a couple of weeks ago.
-Tags: Jason Kottke   kottke.org]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASCII and typewriter works by ty.p0, 2017-2022.]]></title>
-        <id>https://text-mode.tumblr.com/post/714329655091576832</id>
-        <link href="https://text-mode.tumblr.com/post/714329655091576832"/>
-        <updated>2023-04-11T18:30:45.000Z</updated>
-        <summary type="html"><![CDATA[ASCII and typewriter works by ty.p0, 2017-2022.]]></summary>
-        <author>
-            <name>TEXT-MODE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Smithsonian’s Collection of Online Public Domain Images Swells to 4.5 Million Objects]]></title>
-        <id>https://kottke.org/23/04/the-smithsonians-collection-of-online-public-domain-images-swells-to-45-million-objects</id>
-        <link href="https://kottke.org/23/04/the-smithsonians-collection-of-online-public-domain-images-swells-to-45-million-objects"/>
-        <updated>2023-04-11T16:35:11.000Z</updated>
-        <summary type="html"><![CDATA[Back in 2020, the Smithsonian Institution placed 2.8 million high-resolution images and 3D models of objects in their collection into the public domain via their Open Access initiative. Over the past three years, that collection has grown to 4.5 million images, an absolutely immense trove of objects that people are free to use and remix however they wish.
-
-
-
-
-
-
-That last image is the mailing wrapper from when jeweler Harry Winston sent the Hope Diamond (currently valued at $200-350 million) to the Smithsonian through the regular US Mail.
-Mailed on the morning of November 8 from New York City, the item was sent by registered (first class) mail — considered the safest means of transport for valuables at that time. The total fee was $145.29 (see the meter machine tapes). Postage only amounted to $2.44 for the package which weighed 61 ounces. The remainder of the fee ($142.85) paid for an indemnity of about $1 million.
-
-
-(via my modern met)
-Tags: art   museums   photography   remix]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RuPublicans]]></title>
-        <id>https://kottke.org/23/04/rupublicans</id>
-        <link href="https://kottke.org/23/04/rupublicans"/>
-        <updated>2023-04-11T13:53:11.000Z</updated>
-        <summary type="html"><![CDATA[The folks at RuPublicans are having fun using AI to generate photorealistic imagery of prominent conservatives in drag. Here are Anita Filibust-Her McConnell, Claretta Corrupta, Rhonda Santy, serving looks:
-
-
-
-From their Stories:
-Oh honey, darlings, sugar pies! THANK YOU for following and sharing. Drag artists have brought me joy, laughter, helped heal old wounds, and given me permission to love myself — and I’m not the only one.
-Now let’s get real kittens. Drag isn’t lip-syncing; it’s art, it’s heart, and oh honey, it’s protest. To those in power serving up false narratives like an overcooked wig at a drag brunch, listen up: we’re here, we’re queer, and we ain’t going anywhere.
-
-
-(via @thoughtbrain)
-Tags: politics   remix]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox rolls out Total Cookie Protection by default to more users worldwide]]></title>
-        <id>https://blog.mozilla.org/?p=69120</id>
-        <link href="https://blog.mozilla.org/en/mozilla/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/"/>
-        <updated>2023-04-11T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Take back your privacy Firefox is rolling out Total Cookie Protection by default to more Firefox users worldwide, making Firefox the most private and secure major browser available across Windows, Mac, Linux and Android. Total Cookie Protection is Firefox’s strongest privacy protection to date, confining cookies to the site where they were created, thus preventing […]
-The post Firefox rolls out Total Cookie Protection by default to more users worldwide appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Mozilla</name>
         </author>
     </entry>
     <entry>

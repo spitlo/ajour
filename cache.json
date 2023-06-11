@@ -153,6 +153,16 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.stavros.io/posts/use-your-wii-balance-board-as-a-scale-again/",
+          "author": null,
+          "description": "We did it again, internet\nIf you’ll recall, once upon a time I managed to get my Wii Balance Board to connect to my computer and function as a scale.\nAt some point throughout the years, Linux changed, and that method broke.\nIt would still measure your weight fine, but you could no longer activate the balance board by tapping its front button, you had to flip it over, remove the battery compartment lid and press the red button every time.\nThis was too much of a hassle, so I stopped using the board, hoping that a solution to this problem would arrive one day to liberate me from the scourge of adipose tissue.\nThis day is today (well, a few months ago, actually, but I couldn’t be arsed writing about it until today, so).\nI received an email from a reader called Jawaad Mahmood, who had read my balance board article and spent a bit of time figuring out how to get the balance board to work, and packaged his work into a library called bbev.\nI was initially sceptical because many people contacted me throughout the years, but nobody managed to get rid of the red button requirement.\nTalking to Jawaad for a bit, though, he confirmed that he could painlessly get the board to pair with his computer with the front button.\nApparently something had changed in the Linux Bluetooth stack, and made pairing possible again, and he managed to figure out how.\nThis was great news!\nHowever,",
+          "link": "https://www.stavros.io/posts/use-your-wii-balance-board-as-a-scale-again/",
+          "publishedOn": "2023-06-10T22:53:36.000Z",
+          "wordCount": 833,
+          "title": "Use your Wii Balance Board as a scale (again)",
+          "imageUrl": "https://www.stavros.io/static/images/favicons/og-image.jpg?h=3375145f"
+        },
+        {
           "id": "https://www.stavros.io/posts/clearing-up-some-passkeys-misconceptions/",
           "author": null,
           "description": "I love Passkeys so much\nI am unreasonably excited about Passkeys, I’ve long been looking for a better/more convenient way than passwords to do authentication, and I think Passkeys are finally it.\nHowever, whenever I see Passkeys mentioned (for example on the recent Tailscale post about them), there are always a lot of misconceptions that surface in the debate.\nI’d like to clear some of them here, and hopefully explain a bit better what Passkeys are.\nA bit of backstory\nPasskeys are a user-friendly name for, and an implementation of WebAuthn, which in turn is part of the FIDO2 project.\nAll that is basically a way to say that Passkeys are an open standard, developed by a consortium of companies that want to make authentication more secure and more usable.\nMy personal opinion is that Passkeys are a great solution to that problem, and that’s why I’m so excited about them.\nAt their core, Passkeys are just a way for a website to ask your browser for authentication.\nThat’s it, they aren’t tied to a specific piece of hardware or a way for that hardware to work.\nI’ll expound more on this further on.\nI want to lay out some common misconceptions about Passkeys that I’ve been seeing, and",
@@ -501,16 +511,6 @@
           "wordCount": 180,
           "title": "Linguistics Gossip",
           "imageUrl": "https://imgs.xkcd.com/comics/linguistics_gossip_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2762/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/diffraction_spikes.png\" title=\"Even if a planet is lucky enough to have a stable orbit that weaves between the spikes, the seasons get weird whenever it passes close to them.\" alt=\"Even if a planet is lucky enough to have a stable orbit that weaves between the spikes, the seasons get weird whenever it passes close to them.\" />",
-          "link": "https://xkcd.com/2762/",
-          "publishedOn": "2023-04-12T00:00:00.000Z",
-          "wordCount": 180,
-          "title": "Diffraction Spikes",
-          "imageUrl": "https://imgs.xkcd.com/comics/diffraction_spikes_2x.png"
         }
       ]
     },
@@ -587,6 +587,16 @@
           "publishedOn": "2023-04-18T11:25:38.000Z",
           "wordCount": 622,
           "title": "The A.I. Dilemma [link]",
+          "imageUrl": null
+        },
+        {
+          "id": "2023-04-11-pebble-steel",
+          "author": null,
+          "description": "I bought a joblot of Pebble watches a while back (only to secure a Pebble Round to gift to my mum), but it also included a Pebble Steel. Though the watched happily charged and turned on, when I unplugged the charging port, the watch immediately died.\nWhen I got around to opening the watch (using the same screw bit for the classic) the lipo battery inside had … popped, I guess. It was bad.\nThankfully I found a few replacements on Ebay (as the batteries are particularly small) and with some careful soldering (to some very small solder point) and squeezing of wires to fit into such a tiny space, the Pebble Steel lives again. That's 3 Pebbles I've revived in recent months - I've just got one Pebble Classic left to fix!",
+          "link": "https://remysharp.com/tif/2023-04-11-pebble-steel",
+          "publishedOn": "2023-04-18T09:29:54.000Z",
+          "wordCount": 605,
+          "title": "Pebble Steel [tif]",
           "imageUrl": null
         }
       ]
@@ -870,6 +880,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/719765460024999936",
+          "author": null,
+          "description": "text-mode:\n\n\nTypewriter & maybe water colour, by Nisshta12.",
+          "link": "https://text-mode.tumblr.com/post/719765460024999936",
+          "publishedOn": "2023-06-10T18:30:33.000Z",
+          "wordCount": 1008,
+          "title": "text-mode:\n\n\n\nTypewriter & maybe water colour, by...",
+          "imageUrl": "https://64.media.tumblr.com/92add0b7a3f14c2912c2f0f4b04c2ef8/tumblr_pt9jz2cT0d1rpiyaso1_1280.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/719676770650046464",
           "author": null,
@@ -1649,16 +1669,6 @@
           "wordCount": 960,
           "title": "worldsofzzt:Source“Operation: GAMMA VELORUM, Part 3” by Quantum...",
           "imageUrl": "https://64.media.tumblr.com/278497e151a485379156770fc1047cd4/6a1e199fe2531904-48/s500x750/eaf62baf854535c910609c31db514602c2b75eac.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/714329655091576832",
-          "author": null,
-          "description": "ASCII and typewriter works by ty.p0, 2017-2022.",
-          "link": "https://text-mode.tumblr.com/post/714329655091576832",
-          "publishedOn": "2023-04-11T18:30:45.000Z",
-          "wordCount": 1000,
-          "title": "ASCII and typewriter works by ty.p0, 2017-2022.",
-          "imageUrl": "https://64.media.tumblr.com/28fc7d151731a702a7606870de7230c7/4faf0edab1734dd3-f1/s1280x1920/4339b9ab04deff38bf0e79eb12f1d566e55dde6a.png"
         }
       ]
     },
@@ -1856,16 +1866,6 @@
           "wordCount": 1802,
           "title": "A human rights activist on finding joy on the internet",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/04/MCOI_POCKET_POD_Blog-1080x720.jpg"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=69120",
-          "author": "Mozilla",
-          "description": "Take back your privacy Firefox is rolling out Total Cookie Protection by default to more Firefox users worldwide, making Firefox the most private and secure major browser available across Windows, Mac, Linux and Android. Total Cookie Protection is Firefox’s strongest privacy protection to date, confining cookies to the site where they were created, thus preventing […]\nThe post Firefox rolls out Total Cookie Protection by default to more users worldwide appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/",
-          "publishedOn": "2023-04-11T13:00:00.000Z",
-          "wordCount": 1915,
-          "title": "Firefox rolls out Total Cookie Protection by default to more users worldwide",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2021/05/moz_explains_supercookies_blog_header_1200x800-1200x800.jpg"
         }
       ]
     },
@@ -2024,6 +2024,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=5490",
+          "author": "Cory Doctorow",
+          "description": "Today's links Links, dumped: A grab-bag of delicious miscellania. This day in history: 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Links, dumped (permalink) It's Saturday, which means: time for a linkdump post! I'm back from my book-tour across the US, Canada and the UK, finishing up in Berlin – and I'm jetlagged in the backyard hammock, waiting for my laundry to come out of the machine and plowing through a long backlog of interesting links. Let's goooooooo! It's Pride month, and Pat Robertson kicked it off with a bang by…kicking off. What better way to start Pride than with a piece of fanfic by Wil Wheaton about Robertson's arrival in Hell? https://wilwheaton.net/2023/06/the-wait/ Once you've had your fill o…",
+          "link": "https://pluralistic.net/2023/06/10/in-the-dumps/",
+          "publishedOn": "2023-06-10T16:23:48.000Z",
+          "wordCount": 4642,
+          "title": "Pluralistic: Links, dumped (10 June 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=5486",
           "author": "Cory Doctorow",
@@ -3938,36 +3948,6 @@
           "wordCount": 299,
           "title": "What Happens When You Get Sick?",
           "imageUrl": "https://img.youtube.com/vi/M-K7mxdN62M/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/04/kottke-ama-round-2",
-          "author": null,
-          "description": "Hey folks, just a short note to say that I’m dropping in to answer some more questions over on the Kottke AMA site this afternoon, so head on over there to check out what’s new or read through some previous questions if you missed it a couple of weeks ago.\nTags: Jason Kottke   kottke.org",
-          "link": "https://kottke.org/23/04/kottke-ama-round-2",
-          "publishedOn": "2023-04-11T18:44:54.000Z",
-          "wordCount": 229,
-          "title": "Kottke AMA, Round 2",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/04/the-smithsonians-collection-of-online-public-domain-images-swells-to-45-million-objects",
-          "author": null,
-          "description": "Back in 2020, the Smithsonian Institution placed 2.8 million high-resolution images and 3D models of objects in their collection into the public domain via their Open Access initiative. Over the past three years, that collection has grown to 4.5 million images, an absolutely immense trove of objects that people are free to use and remix however they wish.\n\n\n\n\n\n\nThat last image is the mailing wrapper from when jeweler Harry Winston sent the Hope Diamond (currently valued at $200-350 million) to the Smithsonian through the regular US Mail.\nMailed on the morning of November 8 from New York City, the item was sent by registered (first class) mail — considered the safest means of transport for valuables at that time. The total fee was $145.29 (see the meter machine tapes). Postage only amounted to $2.44 for the package which weighed 61 ounces. The remainder of the fee ($142.85) paid for an indemnity of about $1 million.\n\n\n(via my modern met)\nTags: art   museums   photography   remix",
-          "link": "https://kottke.org/23/04/the-smithsonians-collection-of-online-public-domain-images-swells-to-45-million-objects",
-          "publishedOn": "2023-04-11T16:35:11.000Z",
-          "wordCount": 355,
-          "title": "The Smithsonian’s Collection of Online Public Domain Images Swells to 4.5 Million Objects",
-          "imageUrl": "https://kottke.org/plus/misc/images/smithsonian-open-06.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/04/rupublicans",
-          "author": null,
-          "description": "The folks at RuPublicans are having fun using AI to generate photorealistic imagery of prominent conservatives in drag. Here are Anita Filibust-Her McConnell, Claretta Corrupta, Rhonda Santy, serving looks:\n\n\n\nFrom their Stories:\nOh honey, darlings, sugar pies! THANK YOU for following and sharing. Drag artists have brought me joy, laughter, helped heal old wounds, and given me permission to love myself — and I’m not the only one.\nNow let’s get real kittens. Drag isn’t lip-syncing; it’s art, it’s heart, and oh honey, it’s protest. To those in power serving up false narratives like an overcooked wig at a drag brunch, listen up: we’re here, we’re queer, and we ain’t going anywhere.\n\n\n(via @thoughtbrain)\nTags: politics   remix",
-          "link": "https://kottke.org/23/04/rupublicans",
-          "publishedOn": "2023-04-11T13:53:11.000Z",
-          "wordCount": 286,
-          "title": "RuPublicans",
-          "imageUrl": "https://kottke.org/plus/misc/images/rupublicans-01.jpg"
         }
       ]
     },
