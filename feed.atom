@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2023-06-23T00:38:54.757Z</updated>
+    <updated>2023-06-24T00:40:30.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[text-mode:
+
+
+
+Murals by DXTR 2017-2018.]]></title>
+        <id>https://text-mode.tumblr.com/post/720943235085844480</id>
+        <link href="https://text-mode.tumblr.com/post/720943235085844480"/>
+        <updated>2023-06-23T18:30:46.000Z</updated>
+        <summary type="html"><![CDATA[text-mode:
+
+
+Murals by DXTR 2017-2018.]]></summary>
+        <author>
+            <name>TEXT-MODE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New zine: How Integers and Floats Work]]></title>
+        <id>https://jvns.ca/blog/2023/06/23/new-zine--how-integers-and-floats-work/</id>
+        <link href="https://jvns.ca/blog/2023/06/23/new-zine--how-integers-and-floats-work/"/>
+        <updated>2023-06-23T09:27:16.000Z</updated>
+        <summary type="html"><![CDATA[Hello! On Wednesday, we released a new zine: How Integers and Floats Work!
+You can get it for $12 here:
+https://wizardzines.com/zines/integers-floats, or get
+an 13-pack of all my zines here.
+Here’s the cover:
+
+
+
+the table of contents
+Here’s the table of contents!
+
+  
+Now let’s talk about some of the motivations for writing this zine!
+motivation 1: demystify binary
+I wrote this zine because I used to find binary data really impenetrable. There
+are all these 0s and 1s! What does it mean?
+But if you look at any binary file format, most of it is integers! For example,
+if you look at the DNS parsing in Implement DNS in a Weekend, it’s all about encoding and
+decoding a bunch of integers (plus some ASCII strings, which arguably are also arrays of integers).
+So I think that learning how integers w…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Garden Path Sentence]]></title>
+        <id>https://xkcd.com/2793/</id>
+        <link href="https://xkcd.com/2793/"/>
+        <updated>2023-06-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/garden_path_sentence.png" title="Arboretum Owner Denied Standing in Garden Path Suit on Grounds Grounds Appealing Appealing" alt="Arboretum Owner Denied Standing in Garden Path Suit on Grounds Grounds Appealing Appealing" />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Are Viral Cat Videos Actually Viral?]]></title>
         <id>https://kottke.org/13/07/are-viral-cat-videos-actually-viral</id>
@@ -4611,75 +4667,6 @@ It's all about trapping shadows. Carving is all about having deep cuts here and 
 
 
  Tags: art · Donatello · how to · Simon Smith · video]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://text-mode.tumblr.com/post/715549472281804800</id>
-        <link href="https://text-mode.tumblr.com/post/715549472281804800"/>
-        <updated>2023-04-25T05:39:13.000Z</updated>
-        <summary type="html"><![CDATA[clayismyart:
-
-
-Finally finished this piece, colours remind me of a sunset.  Free abstract design cross stitch]]></summary>
-        <author>
-            <name>TEXT-MODE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[text-mode:
-
-By kYn.]]></title>
-        <id>https://text-mode.tumblr.com/post/715507419192655872</id>
-        <link href="https://text-mode.tumblr.com/post/715507419192655872"/>
-        <updated>2023-04-24T18:30:48.000Z</updated>
-        <summary type="html"><![CDATA[text-mode:
-By kYn.]]></summary>
-        <author>
-            <name>TEXT-MODE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 13 Levels of Complexity of Turntable Scratching]]></title>
-        <id>https://kottke.org/23/04/the-13-levels-of-complexity-of-turntable-scratching</id>
-        <link href="https://kottke.org/23/04/the-13-levels-of-complexity-of-turntable-scratching"/>
-        <updated>2023-04-24T16:21:35.000Z</updated>
-        <summary type="html"><![CDATA[My post last week about The 13 Levels of Complexity of Drumming got me interested in Larnell Lewis, but I also started going back through Wired's Levels series to check out some of the ones I'd missed.
-First up is DJ Shortkut explaining the 15 levels of turntable scratching. DJing is one of those things that I enjoy the output of but don't know much about, so it was fun to have it broken down like that. Beat juggling is incredibly cool and looks super difficult to master. 🤯
-Tags: how to · music · video]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The “const” Deception]]></title>
-        <id>https://www.joshwcomeau.com/javascript/the-const-deception/</id>
-        <link href="https://www.joshwcomeau.com/javascript/the-const-deception/"/>
-        <updated>2023-04-24T15:55:45.000Z</updated>
-        <summary type="html"><![CDATA[The “const” keyword in JavaScript is used to create constants, variables that can't change. Curiously, though, we do seem to be able to edit objects and arrays that are created using “const”. In this tutorial, we're going to dig into the incredibly-important distinction between “assignment” and “mutation” in JavaScript.]]></summary>
-        <author>
-            <name>Josh W. Comeau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: How Goldman Sachs's "tax-loss harvesting" lets the ultra-rich rake in billions tax-free (24 Apr 2023)]]></title>
-        <id>https://pluralistic.net/?p=5187</id>
-        <link href="https://pluralistic.net/2023/04/24/tax-loss-harvesting/"/>
-        <updated>2023-04-24T15:08:42.000Z</updated>
-        <summary type="html"><![CDATA[Today's links How Goldman Sachs's "tax-loss harvesting" lets the ultra-rich rake in billions tax-free: "Generating a tax loss without a substantial change in the investment." Happy Independent Bookstore Day: It lasts a week! Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading How Goldman Sachs's "tax-loss harvesting" lets the ultra-rich rake in billions tax-free (permalink) With the IRS Files, Propublica ripped away the veil of performative complexity disguising the scams that the ultra-rich use to amass billions and billions (and billions and billions) of dollars, paying next to no tax, or even no tax at all. Each scam is its own little shell game, a…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Channel Drift (Or: Why Cable TV Networks Are All the Same Now)]]></title>
-        <id>https://kottke.org/23/04/channel-drift-or-why-cable-tv-networks-are-all-the-same-now</id>
-        <link href="https://kottke.org/23/04/channel-drift-or-why-cable-tv-networks-are-all-the-same-now"/>
-        <updated>2023-04-24T14:14:22.000Z</updated>
-        <summary type="html"><![CDATA[MTV used to show music videos. Bravo was home to opera and jazz programming. The Learning Channel focused on educational programming. The History Channel aired shows about history. Discovery: nature shows. A&E: fine arts and educational content. Now they all air a lot of reality TV programming like Vanderpump Rules, MILF Manor (I had to look this one up to make sure it's an actual show), and Duck Dynasty. This video from Captain Midnight explains how and why "channel drift" happened (hint: follow the money).
-Tags: TV · video]]></summary>
         <author>
             <name>kottke.org</name>
         </author>

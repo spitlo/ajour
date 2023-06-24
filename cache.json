@@ -263,6 +263,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2793/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/garden_path_sentence.png\" title=\"Arboretum Owner Denied Standing in Garden Path Suit on Grounds Grounds Appealing Appealing\" alt=\"Arboretum Owner Denied Standing in Garden Path Suit on Grounds Grounds Appealing Appealing\" />",
+          "link": "https://xkcd.com/2793/",
+          "publishedOn": "2023-06-23T00:00:00.000Z",
+          "wordCount": 182,
+          "title": "Garden Path Sentence",
+          "imageUrl": "https://imgs.xkcd.com/comics/garden_path_sentence_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2792/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/summer_solstice.png\" title=\"Then I'll start work on my lunar engines to line the Moon up with the ecliptic so we can have a solar eclipse every month (with a little wobble so they're not always on the equator.)\" alt=\"Then I'll start work on my lunar engines to line the Moon up with the ecliptic so we can have a solar eclipse every month (with a little wobble so they're not always on the equator.)\" />",
@@ -840,6 +850,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/720943235085844480",
+          "author": null,
+          "description": "text-mode:\n\n\nMurals by DXTR 2017-2018.",
+          "link": "https://text-mode.tumblr.com/post/720943235085844480",
+          "publishedOn": "2023-06-23T18:30:46.000Z",
+          "wordCount": 968,
+          "title": "text-mode:\n\n\n\nMurals by DXTR 2017-2018.",
+          "imageUrl": "https://64.media.tumblr.com/20510bf1778171b2c17a37757f6c5da8/tumblr_plc3pxtyek1rpiyaso1_640.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/720852643454631936",
           "author": null,
@@ -1629,26 +1649,6 @@
           "wordCount": 926,
           "title": "text-mode:\n\nHANDS UP! was an animation series in teletext (!)...",
           "imageUrl": "https://i.ytimg.com/vi/lnOBOebPbaU/hqdefault.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/715549472281804800",
-          "author": null,
-          "description": "clayismyart:\n\n\nFinally finished this piece, colours remind me of a sunset.  Free abstract design cross stitch",
-          "link": "https://text-mode.tumblr.com/post/715549472281804800",
-          "publishedOn": "2023-04-25T05:39:13.000Z",
-          "wordCount": 1041,
-          "title": "Untitled",
-          "imageUrl": "https://64.media.tumblr.com/20608956150f5417266dc96822acf5b7/0312ebd325fc104d-52/s1280x1920/01ad79786cdb437d472e7b2f92991d52187d4ae4.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/715507419192655872",
-          "author": null,
-          "description": "text-mode:\nBy kYn.",
-          "link": "https://text-mode.tumblr.com/post/715507419192655872",
-          "publishedOn": "2023-04-24T18:30:48.000Z",
-          "wordCount": 994,
-          "title": "text-mode:\n\nBy kYn.",
-          "imageUrl": "https://64.media.tumblr.com/tumblr_lzjwn7S0kj1rpiyaso1_250.gif"
         }
       ]
     },
@@ -1825,6 +1825,16 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2023/06/23/new-zine--how-integers-and-floats-work/",
+          "author": null,
+          "description": "Hello! On Wednesday, we released a new zine: How Integers and Floats Work!\nYou can get it for $12 here:\nhttps://wizardzines.com/zines/integers-floats, or get\nan 13-pack of all my zines here.\nHere’s the cover:\n\n\n\nthe table of contents\nHere’s the table of contents!\n\n  \nNow let’s talk about some of the motivations for writing this zine!\nmotivation 1: demystify binary\nI wrote this zine because I used to find binary data really impenetrable. There\nare all these 0s and 1s! What does it mean?\nBut if you look at any binary file format, most of it is integers! For example,\nif you look at the DNS parsing in Implement DNS in a Weekend, it’s all about encoding and\ndecoding a bunch of integers (plus some ASCII strings, which arguably are also arrays of integers).\nSo I think that learning how integers w…",
+          "link": "https://jvns.ca/blog/2023/06/23/new-zine--how-integers-and-floats-work/",
+          "publishedOn": "2023-06-23T09:27:16.000Z",
+          "wordCount": 985,
+          "title": "New zine: How Integers and Floats Work",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2023/06/05/some-blogging-myths/",
           "author": null,
           "description": "A few years ago I gave a short talk (slides)\nabout myths that discourage people from blogging. I was chatting with a friend\nabout blogging the other day and it made me want to write up that talk as a\nblog post.\nhere are the myths:\nmyth: you need to be original\nmyth: you need to be an expert\nmyth: posts need to be 100% correct\nmyth: writing boring posts is bad\nmyth: you need to explain every concept\nmyth: page views matter\nmyth: more material is always better\nmyth: you need to be original\nThis is probably the one I hear the most often – “Someone has written about\nthis before! Who’s going to care about what I have to say?“.\nThe main way I think about this personally is:\nidentify something I personally have found confusing or interesting\nwrite about it\nThe idea is that if I found it confusing…",
@@ -1930,16 +1940,6 @@
           "wordCount": 6428,
           "title": "The Perils of Hydration",
           "imageUrl": "https://www.joshwcomeau.com/images/og-the-perils-of-rehydration.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/javascript/the-const-deception/",
-          "author": "Josh W. Comeau",
-          "description": "The “const” keyword in JavaScript is used to create constants, variables that can't change. Curiously, though, we do seem to be able to edit objects and arrays that are created using “const”. In this tutorial, we're going to dig into the incredibly-important distinction between “assignment” and “mutation” in JavaScript.",
-          "link": "https://www.joshwcomeau.com/javascript/the-const-deception/",
-          "publishedOn": "2023-04-24T15:55:45.000Z",
-          "wordCount": 4559,
-          "title": "The “const” Deception",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-the-const-deception.png"
         }
       ]
     },
@@ -2368,16 +2368,6 @@
           "publishedOn": "2023-04-25T18:34:21.000Z",
           "wordCount": 4301,
           "title": "Pluralistic: How Amazon makes everything you buy more expensive, no matter where you buy it (25 Apr 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=5187",
-          "author": "Cory Doctorow",
-          "description": "Today's links How Goldman Sachs's \"tax-loss harvesting\" lets the ultra-rich rake in billions tax-free: \"Generating a tax loss without a substantial change in the investment.\" Happy Independent Bookstore Day: It lasts a week! Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading How Goldman Sachs's \"tax-loss harvesting\" lets the ultra-rich rake in billions tax-free (permalink) With the IRS Files, Propublica ripped away the veil of performative complexity disguising the scams that the ultra-rich use to amass billions and billions (and billions and billions) of dollars, paying next to no tax, or even no tax at all. Each scam is its own little shell game, a…",
-          "link": "https://pluralistic.net/2023/04/24/tax-loss-harvesting/",
-          "publishedOn": "2023-04-24T15:08:42.000Z",
-          "wordCount": 5233,
-          "title": "Pluralistic: How Goldman Sachs's \"tax-loss harvesting\" lets the ultra-rich rake in billions tax-free (24 Apr 2023)",
           "imageUrl": null
         }
       ]
@@ -3869,26 +3859,6 @@
           "wordCount": 342,
           "title": "How to Carve Marble Like Italian Master Donatello",
           "imageUrl": "https://img.youtube.com/vi/4dn8F06y5mc/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/04/the-13-levels-of-complexity-of-turntable-scratching",
-          "author": null,
-          "description": "My post last week about The 13 Levels of Complexity of Drumming got me interested in Larnell Lewis, but I also started going back through Wired's Levels series to check out some of the ones I'd missed.\nFirst up is DJ Shortkut explaining the 15 levels of turntable scratching. DJing is one of those things that I enjoy the output of but don't know much about, so it was fun to have it broken down like that. Beat juggling is incredibly cool and looks super difficult to master. 🤯\nTags: how to · music · video",
-          "link": "https://kottke.org/23/04/the-13-levels-of-complexity-of-turntable-scratching",
-          "publishedOn": "2023-04-24T16:21:35.000Z",
-          "wordCount": 277,
-          "title": "The 13 Levels of Complexity of Turntable Scratching",
-          "imageUrl": "https://img.youtube.com/vi/LBPpww37_f4/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/04/channel-drift-or-why-cable-tv-networks-are-all-the-same-now",
-          "author": null,
-          "description": "MTV used to show music videos. Bravo was home to opera and jazz programming. The Learning Channel focused on educational programming. The History Channel aired shows about history. Discovery: nature shows. A&E: fine arts and educational content. Now they all air a lot of reality TV programming like Vanderpump Rules, MILF Manor (I had to look this one up to make sure it's an actual show), and Duck Dynasty. This video from Captain Midnight explains how and why \"channel drift\" happened (hint: follow the money).\nTags: TV · video",
-          "link": "https://kottke.org/23/04/channel-drift-or-why-cable-tv-networks-are-all-the-same-now",
-          "publishedOn": "2023-04-24T14:14:22.000Z",
-          "wordCount": 280,
-          "title": "Channel Drift (Or: Why Cable TV Networks Are All the Same Now)",
-          "imageUrl": "https://img.youtube.com/vi/Vd1gqLVHZWo/0.jpg"
         }
       ]
     },
