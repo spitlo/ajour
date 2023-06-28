@@ -2,10 +2,140 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2023-06-27T00:39:32.569Z</updated>
+    <updated>2023-06-28T00:40:07.298Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How NASA Writes Space-Proof Code]]></title>
+        <id>https://kottke.org/23/06/how-nasa-writes-space-proof-code</id>
+        <link href="https://kottke.org/23/06/how-nasa-writes-space-proof-code"/>
+        <updated>2023-06-27T21:13:46.000Z</updated>
+        <summary type="html"><![CDATA[When you write some code and put it on a spacecraft headed into the far reaches of space, you need to it work, no matter what. Mistakes can mean loss of mission or even loss of life. In 2006, Gerard Holzmann of the NASA/JPL Laboratory for Reliable Software wrote a paper called The Power of 10: Rules for Developing Safety-Critical Code. The rules focus on testability, readability, and predictability:
+Avoid complex flow constructs, such as goto and recursion.
+All loops must have fixed bounds. This prevents runaway code.
+Avoid heap memory allocation.
+Restrict functions to a single printed page.
+Use a minimum of two runtime assertions per function.
+Restrict the scope of data to the smallest possible.
+Check the return value of all non-void functions, or cast to void to indicate the return value…]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Wellington Family]]></title>
+        <id>https://kottke.org/23/06/the-wellington-family</id>
+        <link href="https://kottke.org/23/06/the-wellington-family"/>
+        <updated>2023-06-27T19:06:42.000Z</updated>
+        <summary type="html"><![CDATA[Meet the members of the Wellington Family, foods related in spirit and structure to Beef Wellington: pigs in a blanket, Hot Pockets, corn dogs, and Pop Tarts.
+See also The Cube Rule of Food, which suggests that the Wellington Family actually belongs to the larger Calzone Clan but sadly that pigs in a blanket are actually sushi.
+P.S. I found this illustration here but couldn't trace the original source. Happy to give credit is anyone knows where this is from...
+Tags: food · illustration]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[text-mode:
+
+Video by Turtle Fingers for Interactive Art Lab....]]></title>
+        <id>https://text-mode.tumblr.com/post/721305612119605248</id>
+        <link href="https://text-mode.tumblr.com/post/721305612119605248"/>
+        <updated>2023-06-27T18:30:36.000Z</updated>
+        <summary type="html"><![CDATA[text-mode:
+Video by Turtle Fingers for Interactive Art Lab. Full video here.]]></summary>
+        <author>
+            <name>TEXT-MODE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://text-mode.tumblr.com/post/721300446034247680</id>
+        <link href="https://text-mode.tumblr.com/post/721300446034247680"/>
+        <updated>2023-06-27T17:08:29.000Z</updated>
+        <summary type="html"><![CDATA[50 vogels – a project to print 50 birds each with 16×16 LEGO pieces. Made by Roy Scholten and Martijn van der Blom, 2018. Prints are available to buy, and a book is coming in October. More info available here.
+via printmag]]></summary>
+        <author>
+            <name>TEXT-MODE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design Notes on the Alphabet]]></title>
+        <id>https://kottke.org/23/06/design-notes-on-the-alphabet</id>
+        <link href="https://kottke.org/23/06/design-notes-on-the-alphabet"/>
+        <updated>2023-06-27T17:03:01.000Z</updated>
+        <summary type="html"><![CDATA[From XKCD, some notes on the design of the alphabet. I actually hadn't noticed the spacing of the vowels before.
+See also The Evolution of the Alphabet.
+Tags: alphabet · design · Randall Munroe · XKCD]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Interactive Guide to Flexbox]]></title>
+        <id>https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/</id>
+        <link href="https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/"/>
+        <updated>2023-06-27T16:30:48.000Z</updated>
+        <summary type="html"><![CDATA[When we truly learn the secrets of the Flexbox layout mode, we can build absolutely incredible things. Fluid layouts that stretch and shrink without arbitrary breakpoints. In this action-packed interactive tutorial, we'll pop the hood on the Flexbox algorithm and learn how to do remarkable things with it. ✨]]></summary>
+        <author>
+            <name>Josh W. Comeau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://text-mode.tumblr.com/post/721296549839290368</id>
+        <link href="https://text-mode.tumblr.com/post/721296549839290368"/>
+        <updated>2023-06-27T16:06:34.000Z</updated>
+        <summary type="html"><![CDATA[Dino cards – dinosaurs printed with LEGO pieces as letterpress. Made by Roy Scholten and Martijin van der Blom, 2017. via printmag]]></summary>
+        <author>
+            <name>TEXT-MODE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The “const” Deception]]></title>
+        <id>https://www.joshwcomeau.com/javascript/the-const-deception/</id>
+        <link href="https://www.joshwcomeau.com/javascript/the-const-deception/"/>
+        <updated>2023-06-27T16:05:26.000Z</updated>
+        <summary type="html"><![CDATA[The “const” keyword in JavaScript is used to create constants, variables that can't change. Curiously, though, we do seem to be able to edit objects and arrays that are created using “const”. In this tutorial, we're going to dig into the incredibly-important distinction between “assignment” and “mutation” in JavaScript.]]></summary>
+        <author>
+            <name>Josh W. Comeau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Signing in to Pocket just got even more secure]]></title>
+        <id>https://blog.mozilla.org/?p=72365</id>
+        <link href="https://blog.mozilla.org/en/products/pocket/signing-in-to-pocket-just-got-even-more-secure/"/>
+        <updated>2023-06-27T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Pocket app and web experience are trusted by millions of people everyday to stay up to date and informed on the topics they care about most, free from clickbait, fake news and the pressure and anxiety often felt while on social media platforms. Since being acquired in 2017, Pocket is part of the family […]
+The post Signing in to Pocket just got even more secure appeared first on The Mozilla Blog.]]></summary>
+        <author>
+            <name>Damiano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's Time To Subsidize E-Bikes]]></title>
+        <id>https://kottke.org/23/06/its-time-to-subsidize-e-bikes</id>
+        <link href="https://kottke.org/23/06/its-time-to-subsidize-e-bikes"/>
+        <updated>2023-06-27T14:59:28.000Z</updated>
+        <summary type="html"><![CDATA[My pal Clive Thompson, who is in the midst of a two-part bicycle ride across the United States and is writing a book on micromobility, thinks local, state, and federal governments should start offering substantial subsidies for e-bikes in order to help reduce car usage, decrease urban pollution, and to lower the cost of transportation for lower-income families.
+The thing is, we should lean heavily into subsidies for electric bikes — now.
+If Denver's experience is any guide, it'd be a huge boon for town, cities, and even many suburbs. Ebikes can't be used to replace all car travel, of course; but as folks who experiment with them discover, wow, you start leaving your car at home a lot. If towns and cities are smart about how they organize and issue these credits, they can also help lower-in…]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Challenge the default with Firefox]]></title>
+        <id>https://blog.mozilla.org/?p=72533</id>
+        <link href="https://blog.mozilla.org/en/products/firefox/challenge-the-default-with-firefox/"/>
+        <updated>2023-06-27T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In our ever faster and more overwhelming online lives, we’ve learned to settle for the obvious choices — the ones we’re made to believe are practical and right for us. Our phones come with pre-installed apps, our laptops have their own browsers. But in real life, we can choose to go to our local ethical […]
+The post Challenge the default with Firefox appeared first on The Mozilla Blog.]]></summary>
+        <author>
+            <name>Mozilla</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Ambient Machine]]></title>
         <id>https://kottke.org/23/06/the-ambient-machine</id>
@@ -4454,84 +4584,6 @@ Visuals made on a commodore 64 (Basic).]]></summary>
         <summary type="html"><![CDATA[Today's links The seductive, science fictional power of spreadsheets: Maybe the map IS the territory? Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The seductive, science fictional power of spreadsheets (permalink) This week, John Scalzi was kind enough to let me write a guest-editorial for his Whatever blog about the themes in my new crime technothriller, Red Team Blues; specifically, about the ways that spreadsheets embody the power and the pitfalls of science fiction at its best and worst: https://whatever.scalzi.com/2023/04/26/the-big-idea-cory-doctorow-2/ Yes, spreadsheets. Marty Hench (the protagonist of Red Team Blues) is a 67-year-old fo…]]></summary>
         <author>
             <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JS private class fields considered harmful]]></title>
-        <id>https://lea.verou.me/?p=3599</id>
-        <link href="https://lea.verou.me/2023/04/private-fields-considered-harmful/"/>
-        <updated>2023-04-28T20:51:41.000Z</updated>
-        <summary type="html"><![CDATA[Reading Time:  2 minutes Today I am mourning. What am I mourning? Encapsulation. At least in my projects. As a library author, I’ve decided to avoid private class fields from now on and gradually refactor them out of my existing libraries. Why did I make such a drastic decision? It all started a few days ago, when I was […]]]></summary>
-        <author>
-            <name>Lea Verou</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Mandalorian Banger: This Is the Way]]></title>
-        <id>https://kottke.org/23/04/a-mandalorian-banger-this-is-the-way</id>
-        <link href="https://kottke.org/23/04/a-mandalorian-banger-this-is-the-way"/>
-        <updated>2023-04-28T19:31:28.000Z</updated>
-        <summary type="html"><![CDATA[Leave it to the Auralnauts to take The Mandalorian's solemn catchphrase "This is the way", back it with a pulsing beat, and turn it into the banger of the summer. Ok, maybe not. But in the process, they counted 222 uses of the phrase over the three seasons of the show (and also during The Book of Boba Fett, I think).
-Related: one hour of Zemo dancing from The Falcon and The Winter Soldier. (via neatorama)
-Tags: music · remix · Star Wars · The Mandalorian · video]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[text-mode:
-
-Notemaker Demo II by Poison - one of the true...]]></title>
-        <id>https://text-mode.tumblr.com/post/715869797694554112</id>
-        <link href="https://text-mode.tumblr.com/post/715869797694554112"/>
-        <updated>2023-04-28T18:30:39.000Z</updated>
-        <summary type="html"><![CDATA[text-mode:
-Notemaker Demo II by Poison - one of the true masters of petscii. RIP, Radek (2008).]]></summary>
-        <author>
-            <name>TEXT-MODE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Berlin in 1945]]></title>
-        <id>https://kottke.org/15/05/berlin-in-1945</id>
-        <link href="https://kottke.org/15/05/berlin-in-1945"/>
-        <updated>2023-04-28T17:19:20.000Z</updated>
-        <summary type="html"><![CDATA[Seven minutes of color film footage of Berlin in 1945, right after the end of World War II. Lots of bombed out buildings, soldiers, bicycles, rebuilding, and people going about their daily business.
-
-Be sure to watch all the way to the end...there's an incredible aerial shot of the Brandenburg Gate and the Unter den Linden that shows the scale of damage done to the city's buildings. More of that aerial footage here. (via devour)
-
-
-		
-		
-[This was originally posted on May  4, 2015.]
-Tags:Berlin    
-early color photography    
-video    
-war    
-World War II]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[19th Century Ornamental Granite Tiles]]></title>
-        <id>https://kottke.org/23/04/19th-century-ornamental-granite-tiles</id>
-        <link href="https://kottke.org/23/04/19th-century-ornamental-granite-tiles"/>
-        <updated>2023-04-28T14:23:44.000Z</updated>
-        <summary type="html"><![CDATA[From 1898, an album of ornamental granite tile patterns available from Threlkeld Granite Co. Ltd. The company was located in the Lake District of northwest England and the quarry they operated is now a mining museum — you can read about the history of the company on their website (via present & correct)
-Tags: design]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Edge now allows you to simulate dark, light, high contrast mode, blurred vision and colour deficiencies right from the Device Emulation toolbar]]></title>
-        <id>https://christianheilmann.com/?p=7702</id>
-        <link href="https://christianheilmann.com/2023/04/28/microsoft-edge-now-allows-you-to-simulate-dark-light-high-contrast-mode-blurred-vision-and-colour-deficiencies-right-from-the-device-emulation-toolbar/"/>
-        <updated>2023-04-28T13:04:18.000Z</updated>
-        <summary type="html"><![CDATA[I was incredibly excited to see that from Microsoft Edge 111 onwards you can now emulate different viewing modes and vision deficiencies right from the device emulation toolbar. This has been one of my pet projects that I really wanted to see come to live ever since I created the Skillshare Course on Accessibility testing […]]]></summary>
-        <author>
-            <name>Chris Heilmann</name>
         </author>
     </entry>
     <entry>
