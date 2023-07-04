@@ -124,16 +124,6 @@
           "wordCount": 1399,
           "title": "The ongoing defence of frontend as a full-time job",
           "imageUrl": null
-        },
-        {
-          "id": "https://christianheilmann.com/?p=7721",
-          "author": "Chris Heilmann",
-          "description": "And that’s a wrap. I recorded my last video in the German LinkedIn Learning video course on “Browser developer tools for non-developers”. My favourite stumbling block over the course of the last few days was me starting a sentence with “Und hier verwenden Entwickler:innen…” (“…and here is where developers use…”) and making a pig’s ear […]",
-          "link": "https://christianheilmann.com/2023/05/05/here-is-where-developers-perish/",
-          "publishedOn": "2023-05-05T07:15:11.000Z",
-          "wordCount": 750,
-          "title": "Here is where developers perish…",
-          "imageUrl": null
         }
       ]
     },
@@ -232,6 +222,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2797/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/actual_progress.png\" title=\"Slowly progressing from 'how do protons behave in relativistic collisions?' to 'what the heck are protons even doing when they're just sitting there?'\" alt=\"Slowly progressing from 'how do protons behave in relativistic collisions?' to 'what the heck are protons even doing when they're just sitting there?'\" />",
+          "link": "https://xkcd.com/2797/",
+          "publishedOn": "2023-07-03T00:00:00.000Z",
+          "wordCount": 180,
+          "title": "Actual Progress",
+          "imageUrl": "https://imgs.xkcd.com/comics/actual_progress_2x.png"
+        },
         {
           "id": "https://xkcd.com/2796/",
           "author": null,
@@ -471,16 +471,6 @@
           "wordCount": 180,
           "title": "Planetary Scientist",
           "imageUrl": "https://imgs.xkcd.com/comics/planetary_scientist_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2772/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/commemorative_plaque.png\" title=\"[Below] On this site on May 12th, 2023, I finally learned how to use the masonry bit for my drill.\" alt=\"[Below] On this site on May 12th, 2023, I finally learned how to use the masonry bit for my drill.\" />",
-          "link": "https://xkcd.com/2772/",
-          "publishedOn": "2023-05-05T00:00:00.000Z",
-          "wordCount": 180,
-          "title": "Commemorative Plaque",
-          "imageUrl": "https://imgs.xkcd.com/comics/commemorative_plaque_2x.png"
         }
       ]
     },
@@ -489,6 +479,16 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "ip-to-timezone-the-30-second-way",
+          "author": null,
+          "description": "After my wrangle with getting a timezone from an IP address by reducing large databases down from several hundred megabytes down to only a few, then discovering IPv6 didn't work (so I then applied my same logic to get 700MB to 10MB), the ever lovely Phil Hawksworth pointed out that (of course) Netlify has this data available in their edge functions.\nI totally overlooked the feature (maybe I didn't even look!). So let's implement that and then discover the glaring bug in all of the code so far.\n\nNetlify edge function's geo prop\nPhil kindly sent me a direct message on Space Karen's website pointing me to the geo property provided in edge function calls.\nThis (of course 🤦‍♂️) means the code for the function is (for me) stupid simple:\nexport default async (request, context) => {\n  return new …",
+          "link": "https://remysharp.com/2023/07/03/ip-to-timezone-the-30-second-way",
+          "publishedOn": "2023-07-03T00:00:00.000Z",
+          "wordCount": 1102,
+          "title": "IP to timezone, the 30 second way [blog]",
+          "imageUrl": "https://remysharp.com/images/cards/og/9-4.jpg"
+        },
         {
           "id": "ip-to-timezone-the-hard-but-fast-way",
           "author": null,
@@ -809,6 +809,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/721849190042451968",
+          "author": null,
+          "description": "text-mode:\nA2 PETSCII-poster by Tommi Musturi available here. Comes with an SD-card with music by Goto80 and Josh Bailey.",
+          "link": "https://text-mode.tumblr.com/post/721849190042451968",
+          "publishedOn": "2023-07-03T18:30:32.000Z",
+          "wordCount": 995,
+          "title": "text-mode:\n\nA2 PETSCII-poster by Tommi Musturi available here....",
+          "imageUrl": "https://64.media.tumblr.com/4bf58081c0e530f90719a16872e446fb/tumblr_pbx7ejocbt1rpiyaso1_r1_1280.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/721758593454620672",
           "author": null,
@@ -1618,16 +1628,6 @@
           "wordCount": 937,
           "title": "text-mode:\n\nBill Geers teletext animations, straight outta the...",
           "imageUrl": "https://i.ytimg.com/vi/3XJWQCDEzic/hqdefault.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/716413381850071040",
-          "author": null,
-          "description": "text-mode:\nSteve McCaffery, panel from Carnival (1967-75)",
-          "link": "https://text-mode.tumblr.com/post/716413381850071040",
-          "publishedOn": "2023-05-04T18:30:42.000Z",
-          "wordCount": 1013,
-          "title": "text-mode:\n\nSteve McCaffery, panel from Carnival (1967-75)",
-          "imageUrl": "https://64.media.tumblr.com/tumblr_m1z0kbns5I1rpiyaso1_640.gif"
         }
       ]
     },
@@ -1785,16 +1785,6 @@
           "wordCount": 1858,
           "title": "Meet the ‘Responsible AI Challenge’ top 10 finalists",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/05/AIChallenge_Distilled-text-1080x720.png"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=71953",
-          "author": "Steve Teixeira",
-          "description": "The internet isn’t just about browsers. Browsers are a critical part of the human experience on the internet and will always be core to our work at Mozilla. But the internet is bigger than browsers — it’s every piece of content, app and experience on your device. Our mission will always be to make the […]\nThe post The internet deserves a better answer to social appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/mozilla-social-mastodon-private-beta-announcement/",
-          "publishedOn": "2023-05-04T13:00:00.000Z",
-          "wordCount": 1767,
-          "title": "The internet deserves a better answer to social",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2021/11/moz_hiring_announcement_header_3-1-1080x720.jpg"
         }
       ]
     },
@@ -2288,16 +2278,6 @@
           "wordCount": 3672,
           "title": "Pluralistic: Look at all the great stuff we lost because of inflation scare-talk (05 May 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=5251",
-          "author": "Cory Doctorow",
-          "description": "Today's links Ostromizing democracy: To counter antidemocratic libertarians, we need an analytical assessment of group problem-solving. Hey look at this: Delights to delectate. This day in history: 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Ostromizing democracy (permalink) You know how \"realist\" has become a synonym for \"asshole?\" As in, \"I'm not a racist, I'm just a 'race realist?'\" That same \"realism\" is also used to discredit the idea of democracy itself, among a group of self-styled \"libertarian elitists,\" who claim that social science proves that democracy doesn't work – and can't work. You've likely encountered elements of this ideology in the wild. Perhaps you've heard about how our cognitive biases make us…",
-          "link": "https://pluralistic.net/2023/05/04/analytical-democratic-theory/",
-          "publishedOn": "2023-05-04T15:09:42.000Z",
-          "wordCount": 3702,
-          "title": "Pluralistic: Ostromizing democracy (04 May 2023)",
-          "imageUrl": null
         }
       ]
     },
@@ -2329,6 +2309,36 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/07/wes-andersons-imperfect-moments",
+          "author": null,
+          "description": "Precise. Symmetric. Stylized. Controlled (often bright) color palette. Slow-motion. Lateral tracking. These are all hallmarks of Wes Anderson's films. But as this short video from Luís Azevedo shows, there are plenty of imperfect moments in his movies as well. Anderson is a canny filmmaker and it's the contrast between the controlled worlds he constructs and these more frenetic, off-kilter, imperfect moments that gives them their weight and impact.\nTags: Luis Azevedo · movies · video · Wes Anderson",
+          "link": "https://kottke.org/23/07/wes-andersons-imperfect-moments",
+          "publishedOn": "2023-07-03T18:43:33.000Z",
+          "wordCount": 249,
+          "title": "Wes Anderson's Imperfect Moments",
+          "imageUrl": "https://img.youtube.com/vi/vq5NUgG0XeU/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/07/will-ai-change-our-memories",
+          "author": null,
+          "description": "Photographs have always been an imperfect reproduction of real life — see the story of Dorothea Lange's Migrant Mother or Ansel Adams' extensive dark room work — but the seemingly boundless alterations offered by current & future AI editing tools will allow almost anyone to turn their photos (or should I say \"photos\") into whatever they wish. In this video, Evan Puschak briefly explores what AI-altered photos might do to our memories.\nI was surprised he didn't mention the theory that when a past experience is remembered, that memory is altered in the human brain — that is, \"very act of remembering can change our memories\". I think I first heard about this on Radiolab more than 16 years ago. So maybe looking at photos extensively altered by AI could extensively alter those same memories in …",
+          "link": "https://kottke.org/23/07/will-ai-change-our-memories",
+          "publishedOn": "2023-07-03T16:32:25.000Z",
+          "wordCount": 582,
+          "title": "Will AI Change Our Memories?",
+          "imageUrl": "https://img.youtube.com/vi/RP_-8gzd5NY/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/07/street-photographer-captures-perfectly-timed-scenes",
+          "author": null,
+          "description": "Greek photographer Anthimos Ntagkas stalks the streets in search of visual coincidences to capture and put on his Instagram account. My Modern Met talked to Ntagkas about his process:\nNowadays, I don't choose the place, but I make every location work for me. I combine people with elements everywhere I stand. Luckily the themes in this type of photography are endless, and I never lose interest.\n\n\nSee also Eric Kogan's photography, which has a similar vibe.\nTags: Anthimos Ntagkas · photography",
+          "link": "https://kottke.org/23/07/street-photographer-captures-perfectly-timed-scenes",
+          "publishedOn": "2023-07-03T14:25:15.000Z",
+          "wordCount": 260,
+          "title": "Street Photographer Captures Perfectly Timed Scenes",
+          "imageUrl": "https://kottke.org/plus/misc/images/anthimos-ntagkas-01.jpg"
+        },
         {
           "id": "https://kottke.org/23/06/the-missing-bill-murray-scene-from-asteroid-city",
           "author": null,
@@ -3658,56 +3668,6 @@
           "wordCount": 527,
           "title": "Imagining an Alternative to AI-Supercharged Capitalism",
           "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/05/making-people-uncomfortable-can-now-get-you-killed",
-          "author": null,
-          "description": "Roxane Gay, writing in the NY Times about the recent killings and assaults of people who had the bad luck to run into self-appointed executioners (gift link).\nThere is no patience for simple mistakes or room for addressing how bigotry colors even the most innocuous interactions. There is no regard for due process. People who deem themselves judge, jury and executioner walk among us, and we have no real way of knowing when they will turn on us.\nI will be thinking about Jordan Neely in particular for a long time. I will be thinking about who gets to stand his ground, who doesn't, and how, all too often, it's people in the latter group who are buried beneath that ground by those who refuse to cede dominion over it. Every single day there are news stories that are individually devastating and collectively an unequivocal condemnation of what we are becoming: a people without empathy, without any respect for the sanctity of life unless it's our own.\n\n\nThe whole piece is worth reading and sitting with.\nTags: crime · guns · murder · Roxane Gay · USA",
-          "link": "https://kottke.org/23/05/making-people-uncomfortable-can-now-get-you-killed",
-          "publishedOn": "2023-05-05T12:35:49.000Z",
-          "wordCount": 364,
-          "title": "\"Making People Uncomfortable Can Now Get You Killed\"",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/16/10/stutterer",
-          "author": null,
-          "description": "Stutterer by Benjamin Cleary won the 2016 Oscar for Best Live Action Short Film and is now available to view online for free courtesy of the New Yorker.\nIt's a thirteen-minute movie about a young London typographer named Greenwood (Matthew Needham). Greenwood stutters, to the extent that verbal conversation is difficult. When he tries to resolve an issue with a service representative over the phone, he can't get the words out; the operator, gruff and impatient, hangs up. (For surliness, she rivals the operator in the old Yaz song.) When a woman approaches Greenwood on the street, he uses sign language to avoid talking. But in his thoughts, which we hear, he does not stutter.\n\n\t\nGreat little film...my heart broke three separate times watching it.\n\n\n\t\t\n\t\t\n[This was originally posted on October 19, 2016.]\nTags:Benjamin Cleary    \ncrying at work    \nlanguage    \nOscars    \nvideo",
-          "link": "https://kottke.org/16/10/stutterer",
-          "publishedOn": "2023-05-04T21:15:05.000Z",
-          "wordCount": 301,
-          "title": "Stutterer",
-          "imageUrl": "https://img.youtube.com/vi/2m_VTZR5MU0/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/05/eternal-spring-a-timelapse-of-ice-melting",
-          "author": null,
-          "description": "Eternal Spring is a short timelapse film by Christopher Dormoy featuring beautiful shots of melting snow and ice. Watching this, it is difficult not to think of the climate crisis, which is of course the whole point.\nIce is a beautiful element I love to work with in my video projects. I wanted to feature the ice melting aspect in timelapse process to illustrate the phenomenon of global warming. Melting ice is beautiful and symbolizes spring, but it can also symbolize a problematic aspect of our climate.\n\n\nAnd wow, that shot of the Moon at the halfway point... (via colossal)\nTags: Christopher Dormoy · climate crisis · time lapse · video",
-          "link": "https://kottke.org/23/05/eternal-spring-a-timelapse-of-ice-melting",
-          "publishedOn": "2023-05-04T18:41:12.000Z",
-          "wordCount": 288,
-          "title": "Eternal Spring, a Timelapse of Ice Melting",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/05/microsoft-excel-esports",
-          "author": null,
-          "description": "Microsoft Excel is an extremely powerful, complex, and useful software program that millions of people know how to use, at least a little bit. For those who are experts, there are now esports competitions in Microsoft Excel that pit the best spreadsheet jockeys against each other. Here's what that looks like:\n\nIt's....a little confusing to watch if you aren't that good at Excel yourself. From a piece in the Atlantic late last year:\nYes, we are talking about people competing in Microsoft Excel, the famous (and famously boring) spreadsheet software that you may have used in school or at work or to track your finances. In competitive Excel, players square off in test-taking showdowns, earning points each time they answer a question correctly. Players' screens are a whirlwind of columns and keystrokes and formulae; if the terms XLOOKUP, RANDBETWEEN, and dynamic array don't mean anything to you, you are unlikely to understand what's going on. The commentators help, but only to a point. Even so, you can always follow the scoreboard, which tends to change suddenly and drastically. With just over three minutes to play, Ngai nailed a set of questions and jumped out to a 416-390 lead. GolferMike1 began to rethink his earlier assessment: \"Uh oh. We got a game.\"\n\n\nThere's a pretty good explanation of what some of the challenges are like starting at the 6-minute mark in this video:\n\nIf you'd like more information, check out the Microsoft Excel World Championship for 2023 — the finals are in Las Vegas this year, they're gonna show it on one of ESPN's channels, and there's more than $15,000 in prize money at stake.\nTags: Excel · sports · video",
-          "link": "https://kottke.org/23/05/microsoft-excel-esports",
-          "publishedOn": "2023-05-04T16:32:31.000Z",
-          "wordCount": 451,
-          "title": "Microsoft Excel Esports?",
-          "imageUrl": "https://img.youtube.com/vi/tNWPGhzhdMg/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/05/should-we-reflect-sunlight-to-cool-the-planet",
-          "author": null,
-          "description": "In this video in their ongoing series on the climate crisis and how to fix it, Vox looks at the pros and cons of solar geoengineering (aka using artificial means to reflect sunlight in order to cool the Earth).\nThe climate change crisis has become so dire that we're being forced not only to think of ways to curb emissions and mitigate greenhouse gases, but of ways to adapt to our current situation to buy ourselves more time.\nOne of those technologies is called solar geoengineering. It happens in nature when huge volcanic eruptions cover the stratosphere with ash: That ash forms a layer that reflects sunlight and cools the planet underneath. Solar geoengineering takes advantage of that principle, using different scientific methods to make the planet more reflective overall. The problem is, deploying it would require messing with our very complicated climate on a massive scale, and many scientists don't think the risks are worth it.\n\n\n Tags: climate crisis · science · video",
-          "link": "https://kottke.org/23/05/should-we-reflect-sunlight-to-cool-the-planet",
-          "publishedOn": "2023-05-04T14:36:11.000Z",
-          "wordCount": 345,
-          "title": "Should We Reflect Sunlight to Cool the Planet?",
-          "imageUrl": "https://img.youtube.com/vi/EKPFZPyQurA/0.jpg"
         }
       ]
     },

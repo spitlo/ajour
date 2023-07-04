@@ -2,10 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2023-07-03T00:40:00.718Z</updated>
+    <updated>2023-07-04T00:40:28.301Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wes Anderson's Imperfect Moments]]></title>
+        <id>https://kottke.org/23/07/wes-andersons-imperfect-moments</id>
+        <link href="https://kottke.org/23/07/wes-andersons-imperfect-moments"/>
+        <updated>2023-07-03T18:43:33.000Z</updated>
+        <summary type="html"><![CDATA[Precise. Symmetric. Stylized. Controlled (often bright) color palette. Slow-motion. Lateral tracking. These are all hallmarks of Wes Anderson's films. But as this short video from Luís Azevedo shows, there are plenty of imperfect moments in his movies as well. Anderson is a canny filmmaker and it's the contrast between the controlled worlds he constructs and these more frenetic, off-kilter, imperfect moments that gives them their weight and impact.
+Tags: Luis Azevedo · movies · video · Wes Anderson]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[text-mode:
+
+A2 PETSCII-poster by Tommi Musturi available here....]]></title>
+        <id>https://text-mode.tumblr.com/post/721849190042451968</id>
+        <link href="https://text-mode.tumblr.com/post/721849190042451968"/>
+        <updated>2023-07-03T18:30:32.000Z</updated>
+        <summary type="html"><![CDATA[text-mode:
+A2 PETSCII-poster by Tommi Musturi available here. Comes with an SD-card with music by Goto80 and Josh Bailey.]]></summary>
+        <author>
+            <name>TEXT-MODE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will AI Change Our Memories?]]></title>
+        <id>https://kottke.org/23/07/will-ai-change-our-memories</id>
+        <link href="https://kottke.org/23/07/will-ai-change-our-memories"/>
+        <updated>2023-07-03T16:32:25.000Z</updated>
+        <summary type="html"><![CDATA[Photographs have always been an imperfect reproduction of real life — see the story of Dorothea Lange's Migrant Mother or Ansel Adams' extensive dark room work — but the seemingly boundless alterations offered by current & future AI editing tools will allow almost anyone to turn their photos (or should I say "photos") into whatever they wish. In this video, Evan Puschak briefly explores what AI-altered photos might do to our memories.
+I was surprised he didn't mention the theory that when a past experience is remembered, that memory is altered in the human brain — that is, "very act of remembering can change our memories". I think I first heard about this on Radiolab more than 16 years ago. So maybe looking at photos extensively altered by AI could extensively alter those same memories in …]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Street Photographer Captures Perfectly Timed Scenes]]></title>
+        <id>https://kottke.org/23/07/street-photographer-captures-perfectly-timed-scenes</id>
+        <link href="https://kottke.org/23/07/street-photographer-captures-perfectly-timed-scenes"/>
+        <updated>2023-07-03T14:25:15.000Z</updated>
+        <summary type="html"><![CDATA[Greek photographer Anthimos Ntagkas stalks the streets in search of visual coincidences to capture and put on his Instagram account. My Modern Met talked to Ntagkas about his process:
+Nowadays, I don't choose the place, but I make every location work for me. I combine people with elements everywhere I stand. Luckily the themes in this type of photography are endless, and I never lose interest.
+
+
+See also Eric Kogan's photography, which has a similar vibe.
+Tags: Anthimos Ntagkas · photography]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Actual Progress]]></title>
+        <id>https://xkcd.com/2797/</id>
+        <link href="https://xkcd.com/2797/"/>
+        <updated>2023-07-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/actual_progress.png" title="Slowly progressing from 'how do protons behave in relativistic collisions?' to 'what the heck are protons even doing when they're just sitting there?'" alt="Slowly progressing from 'how do protons behave in relativistic collisions?' to 'what the heck are protons even doing when they're just sitting there?'" />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IP to timezone, the 30 second way [blog]]]></title>
+        <id>ip-to-timezone-the-30-second-way</id>
+        <link href="https://remysharp.com/2023/07/03/ip-to-timezone-the-30-second-way"/>
+        <updated>2023-07-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After my wrangle with getting a timezone from an IP address by reducing large databases down from several hundred megabytes down to only a few, then discovering IPv6 didn't work (so I then applied my same logic to get 700MB to 10MB), the ever lovely Phil Hawksworth pointed out that (of course) Netlify has this data available in their edge functions.
+I totally overlooked the feature (maybe I didn't even look!). So let's implement that and then discover the glaring bug in all of the code so far.
+
+Netlify edge function's geo prop
+Phil kindly sent me a direct message on Space Karen's website pointing me to the geo property provided in edge function calls.
+This (of course 🤦‍♂️) means the code for the function is (for me) stupid simple:
+export default async (request, context) => {
+  return new …]]></summary>
+        <author>
+            <name>remy sharp's b:log</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[text-mode:
 
@@ -4373,149 +4450,6 @@ Tags: Keith Loutit · Singapore · time lapse · video]]></summary>
 So, I would like to propose another metaphor for the risks of artificial intelligence. I suggest that we think about A.I. as a management-consulting firm, along the lines of McKinsey & Company. Firms like McKinsey are hired for a wide variety of reasons, and A.I. systems are used for many reasons, too. But the similarities between McKinsey — a consulting firm that works with ninety per cent of the Fortune 100 — and A.I. are also clear. Social-media companies use machine learning to keep users glued to their f…]]></summary>
         <author>
             <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Making People Uncomfortable Can Now Get You Killed"]]></title>
-        <id>https://kottke.org/23/05/making-people-uncomfortable-can-now-get-you-killed</id>
-        <link href="https://kottke.org/23/05/making-people-uncomfortable-can-now-get-you-killed"/>
-        <updated>2023-05-05T12:35:49.000Z</updated>
-        <summary type="html"><![CDATA[Roxane Gay, writing in the NY Times about the recent killings and assaults of people who had the bad luck to run into self-appointed executioners (gift link).
-There is no patience for simple mistakes or room for addressing how bigotry colors even the most innocuous interactions. There is no regard for due process. People who deem themselves judge, jury and executioner walk among us, and we have no real way of knowing when they will turn on us.
-I will be thinking about Jordan Neely in particular for a long time. I will be thinking about who gets to stand his ground, who doesn't, and how, all too often, it's people in the latter group who are buried beneath that ground by those who refuse to cede dominion over it. Every single day there are news stories that are individually devastating and collectively an unequivocal condemnation of what we are becoming: a people without empathy, without any respect for the sanctity of life unless it's our own.
-
-
-The whole piece is worth reading and sitting with.
-Tags: crime · guns · murder · Roxane Gay · USA]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here is where developers perish…]]></title>
-        <id>https://christianheilmann.com/?p=7721</id>
-        <link href="https://christianheilmann.com/2023/05/05/here-is-where-developers-perish/"/>
-        <updated>2023-05-05T07:15:11.000Z</updated>
-        <summary type="html"><![CDATA[And that’s a wrap. I recorded my last video in the German LinkedIn Learning video course on “Browser developer tools for non-developers”. My favourite stumbling block over the course of the last few days was me starting a sentence with “Und hier verwenden Entwickler:innen…” (“…and here is where developers use…”) and making a pig’s ear […]]]></summary>
-        <author>
-            <name>Chris Heilmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Commemorative Plaque]]></title>
-        <id>https://xkcd.com/2772/</id>
-        <link href="https://xkcd.com/2772/"/>
-        <updated>2023-05-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/commemorative_plaque.png" title="[Below] On this site on May 12th, 2023, I finally learned how to use the masonry bit for my drill." alt="[Below] On this site on May 12th, 2023, I finally learned how to use the masonry bit for my drill." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stutterer]]></title>
-        <id>https://kottke.org/16/10/stutterer</id>
-        <link href="https://kottke.org/16/10/stutterer"/>
-        <updated>2023-05-04T21:15:05.000Z</updated>
-        <summary type="html"><![CDATA[Stutterer by Benjamin Cleary won the 2016 Oscar for Best Live Action Short Film and is now available to view online for free courtesy of the New Yorker.
-It's a thirteen-minute movie about a young London typographer named Greenwood (Matthew Needham). Greenwood stutters, to the extent that verbal conversation is difficult. When he tries to resolve an issue with a service representative over the phone, he can't get the words out; the operator, gruff and impatient, hangs up. (For surliness, she rivals the operator in the old Yaz song.) When a woman approaches Greenwood on the street, he uses sign language to avoid talking. But in his thoughts, which we hear, he does not stutter.
-
-	
-Great little film...my heart broke three separate times watching it.
-
-
-		
-		
-[This was originally posted on October 19, 2016.]
-Tags:Benjamin Cleary    
-crying at work    
-language    
-Oscars    
-video]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eternal Spring, a Timelapse of Ice Melting]]></title>
-        <id>https://kottke.org/23/05/eternal-spring-a-timelapse-of-ice-melting</id>
-        <link href="https://kottke.org/23/05/eternal-spring-a-timelapse-of-ice-melting"/>
-        <updated>2023-05-04T18:41:12.000Z</updated>
-        <summary type="html"><![CDATA[Eternal Spring is a short timelapse film by Christopher Dormoy featuring beautiful shots of melting snow and ice. Watching this, it is difficult not to think of the climate crisis, which is of course the whole point.
-Ice is a beautiful element I love to work with in my video projects. I wanted to feature the ice melting aspect in timelapse process to illustrate the phenomenon of global warming. Melting ice is beautiful and symbolizes spring, but it can also symbolize a problematic aspect of our climate.
-
-
-And wow, that shot of the Moon at the halfway point... (via colossal)
-Tags: Christopher Dormoy · climate crisis · time lapse · video]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[text-mode:
-
-Steve McCaffery, panel from Carnival (1967-75)]]></title>
-        <id>https://text-mode.tumblr.com/post/716413381850071040</id>
-        <link href="https://text-mode.tumblr.com/post/716413381850071040"/>
-        <updated>2023-05-04T18:30:42.000Z</updated>
-        <summary type="html"><![CDATA[text-mode:
-Steve McCaffery, panel from Carnival (1967-75)]]></summary>
-        <author>
-            <name>TEXT-MODE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Excel Esports?]]></title>
-        <id>https://kottke.org/23/05/microsoft-excel-esports</id>
-        <link href="https://kottke.org/23/05/microsoft-excel-esports"/>
-        <updated>2023-05-04T16:32:31.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Excel is an extremely powerful, complex, and useful software program that millions of people know how to use, at least a little bit. For those who are experts, there are now esports competitions in Microsoft Excel that pit the best spreadsheet jockeys against each other. Here's what that looks like:
-
-It's....a little confusing to watch if you aren't that good at Excel yourself. From a piece in the Atlantic late last year:
-Yes, we are talking about people competing in Microsoft Excel, the famous (and famously boring) spreadsheet software that you may have used in school or at work or to track your finances. In competitive Excel, players square off in test-taking showdowns, earning points each time they answer a question correctly. Players' screens are a whirlwind of columns and keystrokes and formulae; if the terms XLOOKUP, RANDBETWEEN, and dynamic array don't mean anything to you, you are unlikely to understand what's going on. The commentators help, but only to a point. Even so, you can always follow the scoreboard, which tends to change suddenly and drastically. With just over three minutes to play, Ngai nailed a set of questions and jumped out to a 416-390 lead. GolferMike1 began to rethink his earlier assessment: "Uh oh. We got a game."
-
-
-There's a pretty good explanation of what some of the challenges are like starting at the 6-minute mark in this video:
-
-If you'd like more information, check out the Microsoft Excel World Championship for 2023 — the finals are in Las Vegas this year, they're gonna show it on one of ESPN's channels, and there's more than $15,000 in prize money at stake.
-Tags: Excel · sports · video]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: Ostromizing democracy (04 May 2023)]]></title>
-        <id>https://pluralistic.net/?p=5251</id>
-        <link href="https://pluralistic.net/2023/05/04/analytical-democratic-theory/"/>
-        <updated>2023-05-04T15:09:42.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Ostromizing democracy: To counter antidemocratic libertarians, we need an analytical assessment of group problem-solving. Hey look at this: Delights to delectate. This day in history: 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Ostromizing democracy (permalink) You know how "realist" has become a synonym for "asshole?" As in, "I'm not a racist, I'm just a 'race realist?'" That same "realism" is also used to discredit the idea of democracy itself, among a group of self-styled "libertarian elitists," who claim that social science proves that democracy doesn't work – and can't work. You've likely encountered elements of this ideology in the wild. Perhaps you've heard about how our cognitive biases make us…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should We Reflect Sunlight to Cool the Planet?]]></title>
-        <id>https://kottke.org/23/05/should-we-reflect-sunlight-to-cool-the-planet</id>
-        <link href="https://kottke.org/23/05/should-we-reflect-sunlight-to-cool-the-planet"/>
-        <updated>2023-05-04T14:36:11.000Z</updated>
-        <summary type="html"><![CDATA[In this video in their ongoing series on the climate crisis and how to fix it, Vox looks at the pros and cons of solar geoengineering (aka using artificial means to reflect sunlight in order to cool the Earth).
-The climate change crisis has become so dire that we're being forced not only to think of ways to curb emissions and mitigate greenhouse gases, but of ways to adapt to our current situation to buy ourselves more time.
-One of those technologies is called solar geoengineering. It happens in nature when huge volcanic eruptions cover the stratosphere with ash: That ash forms a layer that reflects sunlight and cools the planet underneath. Solar geoengineering takes advantage of that principle, using different scientific methods to make the planet more reflective overall. The problem is, deploying it would require messing with our very complicated climate on a massive scale, and many scientists don't think the risks are worth it.
-
-
- Tags: climate crisis · science · video]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The internet deserves a better answer to social]]></title>
-        <id>https://blog.mozilla.org/?p=71953</id>
-        <link href="https://blog.mozilla.org/en/mozilla/mozilla-social-mastodon-private-beta-announcement/"/>
-        <updated>2023-05-04T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The internet isn’t just about browsers. Browsers are a critical part of the human experience on the internet and will always be core to our work at Mozilla. But the internet is bigger than browsers — it’s every piece of content, app and experience on your device. Our mission will always be to make the […]
-The post The internet deserves a better answer to social appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Steve Teixeira</name>
         </author>
     </entry>
     <entry>
