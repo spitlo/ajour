@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2023-07-08T00:39:28.665Z</updated>
+    <updated>2023-07-09T00:44:00.722Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[text-mode:
+
+Various blue music software for DOS: Composer 669...]]></title>
+        <id>https://text-mode.tumblr.com/post/722302228407500800</id>
+        <link href="https://text-mode.tumblr.com/post/722302228407500800"/>
+        <updated>2023-07-08T18:31:23.000Z</updated>
+        <summary type="html"><![CDATA[text-mode:
+Various blue music software for DOS: Composer 669 (1992), Multitracker (1993), HSC Tracker (1994), Surprise Adlib Tracker (1995).]]></summary>
+        <author>
+            <name>TEXT-MODE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open sourcing the nginx playground]]></title>
+        <id>https://jvns.ca/blog/2023/07/08/open-sourcing-the-nginx-playground/</id>
+        <link href="https://jvns.ca/blog/2023/07/08/open-sourcing-the-nginx-playground/"/>
+        <updated>2023-07-08T09:52:27.000Z</updated>
+        <summary type="html"><![CDATA[Hello! In 2021 I released a small playground for testing nginx configurations
+called nginx playground. There’s a
+blog post about it here.
+This is an extremely short post to say that at the time I didn’t make it open source,
+but I am making it open source now. It’s not a lot of code but maybe it’ll be
+interesting to someone.
+Here’s the github repo. The
+frontend is in static/ and the backend is in api/. The README is mostly an
+extended apology for the developer experience and note that the project is
+unmaintained. But I did test that the build instructions work!
+why didn’t I open source this before?
+I’m not very good at open source. Some of the problems I have with open sourcing things are:
+I dislike (and am very bad at) maintaining open source projects – I usually
+ignore basically all feature requests and most bug reports and then feel bad about it.
+I handed off maintainership to both of the open source projects that I
+started (rbspy and rust-bcc) to other people who are doing a MUCH better job than I ever did.
+Sometimes the developer experience for the project is pretty bad
+Sometimes there’s configuration in the project (like the fly.toml or the
+analytics I have set up) which don’t really make sense for other people to
+copy
+new approach: don’t pretend I’m going to improve it
+In the past I’ve had some kind of belief that I’m going to improve the problems
+with my code later. But I haven’t touched this project in more than a year and
+I think it’s unlikely I’m going to go back to it unless it breaks in some dramatic way.
+So instead of pretending I’m going to improve things, I decided to just:
+tell people in the README that the project is unmaintained
+write down all the security caveats I know about
+test the build instructions I wrote to make sure that they work (on a fresh machine, even!)
+explain (but do not fix!!) some of the messy parts of the project
+that’s all!
+Maybe I will open source more of my tiny projects in the future, we’ll see!
+Thanks to Sumana Harihareswara for helping me
+think through this.]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[text-mode:
 
@@ -54,6 +109,16 @@ Tags: books · design · politics · Ukraine · USA · war]]></summary>
         <summary type="html"><![CDATA[On Mastodon I was joking that I want to create a social media simulator app that takes you through the exhausting process of setting up an account (avatar, enticing follow-able description of yourself, a unique name, a solid unrememberable password…) and then it gives you a space to say things into the void. Whatever you say rewards you with that unending gratification of juicy feedback we associate with social media. This particular void rewards you generously. You could say the dumbest things and get a ridiculous amount of simulated engagement. Nothing you say is actually posted anywhere. It’s just for...]]></summary>
         <author>
             <name>alienmelon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frankenstein Claim Permutations]]></title>
+        <id>https://xkcd.com/2799/</id>
+        <link href="https://xkcd.com/2799/"/>
+        <updated>2023-07-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/frankenstein_claim_permutations.png" title="When I began trying to form a new claim by stitching together these parts in such an unnatural way, some called me mad." alt="When I began trying to form a new claim by stitching together these parts in such an unnatural way, some called me mad." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -4360,134 +4425,6 @@ by Chiens de Faïence.]]></summary>
         <summary type="html"><![CDATA[Drawing from the materials of The Roddenberry Archive, this video takes us on a virtual tour of the 3D rendered bridges of every iteration of the Starship Enterprise from Star Trek, from the original 1964 sketches to the final scenes of Star Trek: Picard. I've watched a bunch of Star Trek recently and it was neat to see the evolution of the design and presumed technology. Designing for the future is difficult and it's even tougher when, for instance, you need to design something that for the future that looks contemporary to now but also, somehow, predates a design that looked contemporary 30 years ago. (If that makes any sense...)
 You can also head over to The Roddenberry Archive to check out all of the Enterprise designs in more detail, inside and out. (via open culture)
 Tags: design · movies · Star Trek · TV · video]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: Two principles to protect internet users from decaying platforms (10 May 2023)]]></title>
-        <id>https://pluralistic.net/?p=5281</id>
-        <link href="https://pluralistic.net/2023/05/10/soft-landings/"/>
-        <updated>2023-05-10T07:01:37.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Two principles to protect internet users from decaying platforms: Don't just try to make platforms better – make them less important. Hey look at this: Delights to delectate. This day in history: 2008, 2013, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Two principles to protect internet users from decaying platforms (permalink) Internet platforms have reached end-stage enshittification, where they claw back the goodies they once used to lure in end-users and business customers, trying to walk a tightrope in which there's just enough value left to keep you locked in, but no more. It's ugly out there. When the platforms took off – using a mix of predatory pricing, catch-and-kill acquisitions and anti-competitive merg…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taxiing]]></title>
-        <id>https://xkcd.com/2774/</id>
-        <link href="https://xkcd.com/2774/"/>
-        <updated>2023-05-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/taxiing.png" title="I don't understand why anyone would pay full price for a flatbed truck rental when you can buy 'DETOUR' signs online for like $10." alt="I don't understand why anyone would pay full price for a flatbed truck rental when you can buy 'DETOUR' signs online for like $10." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skateboarding in NYC in the 1960s]]></title>
-        <id>https://kottke.org/12/02/skateboarding-in-nyc-in-the-1960s</id>
-        <link href="https://kottke.org/12/02/skateboarding-in-nyc-in-the-1960s"/>
-        <updated>2023-05-09T21:33:50.000Z</updated>
-        <summary type="html"><![CDATA[Bill Eppridge photographed all sorts of people skateboarding in NYC in the '60s.
-
-
-
-		
-		
-[This was originally posted on February 23, 2012.]
-Tags:Bill Eppridge    
-NYC    
-photography    
-skateboarding]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Body Is Never Not Killing Cancer]]></title>
-        <id>https://kottke.org/23/05/your-body-is-never-not-killing-cancer</id>
-        <link href="https://kottke.org/23/05/your-body-is-never-not-killing-cancer"/>
-        <updated>2023-05-09T18:43:24.000Z</updated>
-        <summary type="html"><![CDATA[From Kurzgesagt, this video is a good overview of the arms race going on in all human bodies between cancer cells and the defenses developed by our immune systems over the years.
-Somewhere in your body, your immune system just quietly killed one of your own cells, stopping it from becoming cancer, and saving your life. It does that all the time. The vast majority of cancer cells you develop will be killed without you ever noticing. Which is an incredibly hard job because of what cancer cells are: parts of yourself that start to behave as individuals even if it hurts you. 
-What is cancer and how does your body kill it all the time?
-
-
- Tags: cancer · Kurzgesagt · science · video]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[text-mode:
-
-Studies in Passions and Emotions (1881)]]></title>
-        <id>https://text-mode.tumblr.com/post/716866365875798017</id>
-        <link href="https://text-mode.tumblr.com/post/716866365875798017"/>
-        <updated>2023-05-09T18:30:41.000Z</updated>
-        <summary type="html"><![CDATA[text-mode:
-Studies in Passions and Emotions (1881)]]></summary>
-        <author>
-            <name>TEXT-MODE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox 113 significantly boosts accessibility performance]]></title>
-        <id>https://blog.mozilla.org/?p=72120</id>
-        <link href="https://blog.mozilla.org/en/products/firefox/firefox-news/firefox-accessibility-boost/"/>
-        <updated>2023-05-09T17:11:01.000Z</updated>
-        <summary type="html"><![CDATA[About five years ago Mozilla shipped Firefox Quantum, an upgrade that included significant performance improvements for most Firefox users. Unfortunately, Firefox Quantum didn’t improve performance for people who use screen readers and other assistive technology. In some ways, our screen reader performance actually regressed with the architecture changes that Quantum delivered. The Firefox accessibility engineers […]
-The post Firefox 113 significantly boosts accessibility performance appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Kristina Bravo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An open proposal to OpenAI, Bard, Amazon, et al…: GPTeachers]]></title>
-        <id>https://christianheilmann.com/?p=7738</id>
-        <link href="https://christianheilmann.com/2023/05/09/an-open-proposal-to-openai-bard-amazon-et-al-gpteachers/"/>
-        <updated>2023-05-09T16:13:58.000Z</updated>
-        <summary type="html"><![CDATA[First of all, congratulations. You managed to kick off the next step of computer and human interaction evolution. Of course we’re in the middle of a hype, but there is so much good in AI generated content and conversational interfaces, it’s pretty safe to say all things “computer” will have some part of this included […]]]></summary>
-        <author>
-            <name>Chris Heilmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: KPMG audits the nursing homes it advises on how to beat audits (09 May 2023)]]></title>
-        <id>https://pluralistic.net/?p=5277</id>
-        <link href="https://pluralistic.net/2023/05/09/dingo-babysitter/"/>
-        <updated>2023-05-09T15:39:53.000Z</updated>
-        <summary type="html"><![CDATA[Today's links KPMG audits the nursing homes it advises on how to beat audits: Too big to fail, too big to jail, and an existential risk to civilization. Hey look at this: Delights to delectate. This day in history: 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading KPMG audits the nursing homes it advises on how to beat audits (permalink) Auditors are capitalism's lubricants, who keep the gears of finance capital smoothly a-whirl, allowing investors to move their money in and out of companies without having to go pore over their books and walk through their facilities. Without auditors, the gears of capitalism would grind themselves to dust: https://pluralistic.net/2021/02/18/ink-stained-wretches/#countless Unfortuna…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SineRider: A Game About Love & Graphing]]></title>
-        <id>https://kottke.org/23/05/sinerider-a-game-about-love-graphing</id>
-        <link href="https://kottke.org/23/05/sinerider-a-game-about-love-graphing"/>
-        <updated>2023-05-09T15:05:19.000Z</updated>
-        <summary type="html"><![CDATA[Remember Line Rider? It's a simple video game / physics toy where you draw slopes and curves for a person on a sled to navigate, pulled along by gravity. SineRider, a project started by Chris Walker and finished by a group of teen hackers at Hack Club, is a version of Line Rider where you use math equations to draw curves to maneuver the sledder through a series of points, sometimes in a certain order. Here's a trailer with some gameplay examples:
-
-Let me tell you, I haven't had this much fun mucking around with an online game/toy since I don't know when. My math is super rusty, but SineRider eases you into the action with some simple slopes (no cosines or tangents necessary) and before you know it, it's 20 minutes later and you're googling equations for parabolas.
-Right now, there are two ways to play. You can start on the front page and go through a progression of puzzles that get more challenging as more concepts are introduced (such as the curve changing over time). Or you can do the challenges, which are posted daily to Twitter or Reddit. My son and I spent 10-15 minutes solving these two challenges and we were laughing and cheering when we finally got them. (The educational opportunity here is obvious...)
-SineRider is currently in beta so some of the UI stuff is a little rough around the edges, but I was really charmed by the music, the animations...everything really. The project is open source — the code is available on GitHub and the Hack Club folks are looking for contributors and collaborators:
-There's a reason it's open-source and written in 100% vanilla JavaScript. We need volunteer artists, writers, programmers, and puzzle designers. And, if you're a smart teenager who wants to change education for the better, you should come join Hack Club!
-
-
- Tags: mathematics · SineRider · video · video games]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh, the Places You'll Go (to Read This)]]></title>
-        <id>https://kottke.org/23/05/oh-the-places-youll-go-to-read-this</id>
-        <link href="https://kottke.org/23/05/oh-the-places-youll-go-to-read-this"/>
-        <updated>2023-05-09T13:50:21.000Z</updated>
-        <summary type="html"><![CDATA[Hey, I just wanted to pop in with some reminders and a couple of new things. As I outlined in a post last month, 2023 has been busy around here:
-The site celebrated its 25th anniversary last month. I built and launched a micro-site for the Kottke Ask Me Anything & spent a couple of sessions answering reader questions. I went on The Talk Show to discuss the early days of blogging with John Gruber and put some cool t-shirts out into the world. It's been fun to continue to build up a presence for kottke.org over on Mastodon. I rejiggered the Quick Links infrastructure (which has made it easier/faster for me to post them) and have been working on a couple of behind-the-scenes projects that will hopefully streamline & shore up things around here. Oh, and I also kept up the regular stream of pos…]]></summary>
         <author>
             <name>kottke.org</name>
         </author>
