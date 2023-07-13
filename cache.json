@@ -490,6 +490,16 @@
       "siteUrl": "https://remysharp.com",
       "articles": [
         {
+          "id": "custom-backlight-for-a-wonder-swan",
+          "author": null,
+          "description": "I've been branching out from my usual Game Boy folly and have been tinkering with the Wonder Swan (an interesting little Japanese exclusive handheld). The original Wonder Swan can do eight shades of grey and has no backlight (very much like the original Game Boys for viewing).\nGiven my experience with Game Boys and recent (basic) electronics, I thought I'd try my hand at a backlight mod (where LEDs are used light up behind the display). I'm pretty happy with the final result and this is how I did it.\n\nBuild steps\nFor the backlight, I used a faulty DS Lite display - both bottom or top screen will work as we're only interested in the LED and filters.\n\nFrom the DS Lite display, remove the metal shielding from the back, remove the front polarizer (I'm guessing) and then separate the back (whit…",
+          "link": "https://remysharp.com/2023/07/12/custom-backlight-for-a-wonder-swan",
+          "publishedOn": "2023-07-12T00:00:00.000Z",
+          "wordCount": 1483,
+          "title": "Custom backlight for a Wonder Swan [blog]",
+          "imageUrl": "https://remysharp.com/images/cards/og/9-4.jpg"
+        },
+        {
           "id": "ip-to-timezone-the-30-second-way",
           "author": null,
           "description": "After my wrangle with getting a timezone from an IP address by reducing large databases down from several hundred megabytes down to only a few, then discovering IPv6 didn't work (so I then applied my same logic to get 700MB to 10MB), the ever lovely Phil Hawksworth pointed out that (of course) Netlify has this data available in their edge functions.\nI totally overlooked the feature (maybe I didn't even look!). So let's implement that and then discover the glaring bug in all of the code so far.\n\nNetlify edge function's geo prop\nPhil kindly sent me a direct message on Space Karen's website pointing me to the geo property provided in edge function calls.\nThis (of course 🤦‍♂️) means the code for the function is (for me) stupid simple:\nexport default async (request, context) => {\n  return new …",
@@ -819,6 +829,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/722664605782016000",
+          "author": null,
+          "description": "text-mode:\nShift-JIS version of The Kiss by Gustav Klimt, 1908.",
+          "link": "https://text-mode.tumblr.com/post/722664605782016000",
+          "publishedOn": "2023-07-12T18:31:13.000Z",
+          "wordCount": 1017,
+          "title": "text-mode:\n\nShift-JIS version of The Kiss by Gustav Klimt, 1908.",
+          "imageUrl": "https://64.media.tumblr.com/40664744f8612f23c06482d667810582/tumblr_p54wth1UpU1rpiyaso1_540.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/722573974010232832",
           "author": null,
@@ -1638,16 +1658,6 @@
           "wordCount": 934,
           "title": "text-mode:\n\nA glitched look at a BBS. “Undiscovered corruption...",
           "imageUrl": "https://i.ytimg.com/vi/SpzV7Hy_zVE/hqdefault.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/717228736014106624",
-          "author": null,
-          "description": "text-mode:\nChinese ANSI works by flubber.",
-          "link": "https://text-mode.tumblr.com/post/717228736014106624",
-          "publishedOn": "2023-05-13T18:30:22.000Z",
-          "wordCount": 998,
-          "title": "text-mode:\n\nChinese ANSI works by flubber.",
-          "imageUrl": "https://64.media.tumblr.com/tumblr_m15hua6g0m1rpiyaso4_1280.png"
         }
       ]
     },
@@ -1975,6 +1985,16 @@
       "siteUrl": "https://pluralistic.net",
       "articles": [
         {
+          "id": "https://pluralistic.net/?p=5574",
+          "author": "Cory Doctorow",
+          "description": "Today's links Why are so many Californians homeless?: It's not \"homeless migration.\" Hey look at this: Delights to delectate. This day in history: 2008, 2013 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Why are so many Californians homeless? (permalink) 12% of Americans live in California – but 30% of homeless Americans, and 50% of unsheltered Americans, call California \"home.\" This is the source of endless schadenfreude from \"red state\" partisans, and is often waved as proof of the failure of liberal policies. But the real story is both more complicated – and simpler. UCSF's Benioff Homelessness and Housing Initiative's \"California Statewide Study of People Experiencing Homelessness\" is the largest, best study of homelessness in Cal…",
+          "link": "https://pluralistic.net/2023/07/12/because-its-too-expensive/",
+          "publishedOn": "2023-07-12T13:22:48.000Z",
+          "wordCount": 2791,
+          "title": "Pluralistic: Why are so many Californians homeless? (12 July 2023)",
+          "imageUrl": null
+        },
+        {
           "id": "https://pluralistic.net/?p=5565",
           "author": "Cory Doctorow",
           "description": "Today's links The \"religious liberty\" angle for overturning the overturning of Dobbs: Paging the Satanic Temple to the white courtesy stirrups. Hey look at this: Delights to delectate. This day in history: None Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The \"religious liberty\" angle for overturning the overturning of Dobbs (permalink) Frank Wilhoit's definition of \"conservativism\" remains a classic: There must be in-groups whom the law protects but does not bind, alongside out-groups whom the law binds but does not protect. https://crookedtimber.org/2018/03/21/liberals-against-progressives/#comment-729288 Conservativism is, in other words, the opposite of the rule of law, which is the idea that the law applies equally to all. Many …",
@@ -2248,16 +2268,6 @@
           "wordCount": 3281,
           "title": "Pluralistic: Ireland's privacy regulator is a gamekeeper-turned-poacher (15 May 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=5297",
-          "author": "Cory Doctorow",
-          "description": "Today's links Revenge of the Linkdumps: Something for the weekend, sir? This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Revenge of the Linkdumps (permalink) If you've followed my work for a long time, you've watched me transition from a \"linkblogger\" who posts 5-15 short hits every day to an \"essay-blogger\" who posts 5-7 long articles/week. I'm loving the new mode of working, but returning to linkblogging is also intensely, unexpectedly gratifying: https://pluralistic.net/2023/05/02/wunderkammer/#jubillee My last foray into linkblogging was so great – and my backlog of links is already so large – that I'm doing another one. Link the first: \"Siphon,\" XKCD's delightful, whimsical \"physics-…",
-          "link": "https://pluralistic.net/2023/05/13/four-bar-linkage/",
-          "publishedOn": "2023-05-13T19:59:18.000Z",
-          "wordCount": 6867,
-          "title": "Pluralistic: Revenge of the Linkdumps (13 May 2023)",
-          "imageUrl": null
         }
       ]
     },
@@ -2299,6 +2309,36 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/07/phyllis-diller-crashes-all-male-roast-at-the-friars-club-dressed-as-a-man-1983",
+          "author": null,
+          "description": "The Friar's Club was founded in 1904 and, like other private social clubs of the era, their membership was male-only. Women could visit as guests but only after 4pm and the club didn't admit its first woman as a member until Liza Minnelli in 1987.\nOne of the club's biggest traditions was its closed-door luncheon roasts of celebrities, which over the years included roasts of Humphrey Bogart, Johnny Carson, Milton Berle, Redd Foxx, and Bruce Willis.1 A few women were roasted before 1987 (Lucille Ball, Martha Raye, Barbra Streisand) but they were not allowed as guests. They even sent the waiters out of the room for the roasts.\nIn 1983, after months of planning, Phyllis Diller dressed up as a man (named Phillip Downey) and attended the roast of Sid Caesar (she's on the left in the photo above with her co-conspirator, Howard Rosen). Here are a pair of videos of Diller talking about her infiltration. To be fair, the Friar's Club didn't seem that mad at her because they roasted her just two years later.\n\nIn 2004, the club roasted Donald Trump (roastmaster was Regis Philbin) and the next year Trump served as roastmaster for Don King. What a weird time/place/thing.↩\n\nTags: Phyllis Diller",
+          "link": "https://kottke.org/23/07/phyllis-diller-crashes-all-male-roast-at-the-friars-club-dressed-as-a-man-1983",
+          "publishedOn": "2023-07-12T19:24:57.000Z",
+          "wordCount": 402,
+          "title": "Phyllis Diller Crashes All-Male Roast at the Friar's Club Dressed as a Man (1983)",
+          "imageUrl": "https://kottke.org/plus/misc/images/diller-friars.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/07/we-asked-100-people-to-scream-as-loud-as-they-can",
+          "author": null,
+          "description": "This is great: The Cut asked 100 people to scream as loud as they could in front of a camera. For some, it was cathartic while others found it uncomfortable. Some folks didn't know how to scream which I don't entirely understand?\nThis video reminded me a lot of Ten Meter Tower, one of my all-time favorite short documentaries, in which dozens of people are filmed jumping from a 10-meter diving platform for the first time. Both videos deal with inner vs. outer selves and people's comfort with expressing vulnerability. (via colossal)\nTags: video",
+          "link": "https://kottke.org/23/07/we-asked-100-people-to-scream-as-loud-as-they-can",
+          "publishedOn": "2023-07-12T17:02:23.000Z",
+          "wordCount": 285,
+          "title": "We Asked 100 People to Scream as Loud as They Can",
+          "imageUrl": "https://img.youtube.com/vi/9iR84HE2XEU/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/07/how-to-make-the-potato-chip-omelette-from-the-bear",
+          "author": null,
+          "description": "If you were left hungry by the food in season two of The Bear, Binging With Babish has got you covered. In this video, he recreates the potato chip omelette that Sydney makes in the second-to-last episode of the season. And then, he makes an adjacent dish, José Andrés's tortilla española with potato chips. Just to contrast, here's Andrés making it:\n\nDouble yum. See also How to Make Perfect Soft-Scrambled Eggs, Hey, Let's Watch Jacques Pépin Fry Eggs (and make omelettes), and 59 Ways to Cook Your Eggs.\nTags: Binging With Babish · cooking · food · how to · Jose Andres · The Bear · TV · video",
+          "link": "https://kottke.org/23/07/how-to-make-the-potato-chip-omelette-from-the-bear",
+          "publishedOn": "2023-07-12T14:29:16.000Z",
+          "wordCount": 284,
+          "title": "How to Make the Potato Chip Omelette from The Bear",
+          "imageUrl": "https://img.youtube.com/vi/AHiIznBNdIM/0.jpg"
+        },
         {
           "id": "https://kottke.org/23/07/its-random-midsummer-shopping-day",
           "author": null,
