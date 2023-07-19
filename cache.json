@@ -223,6 +223,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2803/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/geohydrotypography.png\" title=\"The Atlantic is expanding at about 10 ppm (points per month).\" alt=\"The Atlantic is expanding at about 10 ppm (points per month).\" />",
+          "link": "https://xkcd.com/2803/",
+          "publishedOn": "2023-07-17T00:00:00.000Z",
+          "wordCount": 178,
+          "title": "Geohydrotypography",
+          "imageUrl": "https://imgs.xkcd.com/comics/geohydrotypography_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2802/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/fireflies.png\" title=\"I feel bad for Earth 2 and their shadowflies.\" alt=\"I feel bad for Earth 2 and their shadowflies.\" />",
@@ -469,6 +479,16 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "timezone-offsets-from-an-ip-address",
+          "author": null,
+          "description": "Following on from my hard and easy way of getting timezone from an IP address, having the timezone (as text) is one thing, now finding the actual offset is entirely a different problem.\n\nTL:DR; jump to the spoiler if you can't be bothered to read/listen to me ramble!\nThe problem isn't timezones, it's day light saving\nIt's all very well knowing what timezone a particularly location is sitting on. We can show the user the UTC time, but when it doesn't match the wall clock because they're currently observing DST, then it's just…weird.\nSo now we need to know if the location is observing DST, or not. Or if perhaps they never observe DST (like Hawaii).\nThe long hard way\nThere is the IANA timezone dataset which has custom data structures that describe the location and how time is observed in that…",
+          "link": "https://remysharp.com/2023/07/18/timezone-offsets-from-an-ip-address",
+          "publishedOn": "2023-07-18T00:00:00.000Z",
+          "wordCount": 1032,
+          "title": "Timezone offsets from an IP address [blog]",
+          "imageUrl": "https://remysharp.com/images/cards/og/9-1.jpg"
+        },
         {
           "id": "custom-backlight-for-a-wonder-swan",
           "author": null,
@@ -789,6 +809,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/723208144877223936",
+          "author": null,
+          "description": "text-mode:\nNew piece by Xeme.",
+          "link": "https://text-mode.tumblr.com/post/723208144877223936",
+          "publishedOn": "2023-07-18T18:30:33.000Z",
+          "wordCount": 972,
+          "title": "text-mode:\n\nNew piece by Xeme.",
+          "imageUrl": "https://64.media.tumblr.com/3b90f4cd4b326b34de305b35f4d00fa0/tumblr_p6kcc0a0W41rpiyaso1_500.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/723117551162376192",
           "author": null,
@@ -1608,16 +1638,6 @@
           "wordCount": 927,
           "title": "worldsofzzt:Source“5 thoughts of DirrCo” by Mrs. Claus/Sir...",
           "imageUrl": "https://64.media.tumblr.com/639f3ba7c1de5dc48a5a051940219a21/c69b6fda765ae97a-03/s500x750/b11eaa1a1f5375c81ecb928e87b9845dad8d12e0.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/717772334505836544",
-          "author": null,
-          "description": "text-mode:\nLetterpress Spam Business Cards & Postcards by Letterpress77 for JK Keller (2007).",
-          "link": "https://text-mode.tumblr.com/post/717772334505836544",
-          "publishedOn": "2023-05-19T18:30:40.000Z",
-          "wordCount": 958,
-          "title": "text-mode:\n\nLetterpress Spam Business Cards & Postcards by...",
-          "imageUrl": "https://64.media.tumblr.com/tumblr_m525slP7lZ1rpiyaso1_540.jpg"
         }
       ]
     },
@@ -1626,6 +1646,26 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=72706",
+          "author": "Kristina Bravo",
+          "description": "Fakespot is your trusted guide for shopping online.  With Fakespot you love everything you buy and cut down on returns by avoiding fake reviews, unreliable sellers, counterfeits/shoddy products. If you shop online, chances are that you’ve seen – or been swayed – by fake reviews.  About 82% of consumers have come across a fake customer […]\nThe post How to use Fakespot, the AI tool that helps you detect fake reviews appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/products/how-to-use-fakespot/",
+          "publishedOn": "2023-07-18T15:00:00.000Z",
+          "wordCount": 1578,
+          "title": "How to use Fakespot, the AI tool that helps you detect fake reviews",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/07/fakespot_productblog-1080x720.jpg"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=72553",
+          "author": "Mozilla",
+          "description": "The AI wars are heating up. In late 2022, OpenAI’s ChatGPT made headlines for showing us what a new search engine could look like. ChatGPT (which stands for “Generative Pre-trained Transformer”) is a chatbot — one that can process queries and spit out relevant information to answer questions about historical facts, recipes, car dimensions and […]\nThe post Did ChatGPT write this? Here’s how to tell. appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/internet-culture/how-to-tell-if-chatgpt-wrote-text/",
+          "publishedOn": "2023-07-17T23:00:00.000Z",
+          "wordCount": 2106,
+          "title": "Did ChatGPT write this? Here’s how to tell.",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/06/CHAT-GPT.original-1005x669.png"
+        },
         {
           "id": "https://blog.mozilla.org/?p=72566",
           "author": "Kristina Bravo",
@@ -1925,6 +1965,21 @@
       "siteUrl": "https://pluralistic.net",
       "articles": [
         {
+          "id": "https://pluralistic.net/?p=5600",
+          "author": "Cory Doctorow",
+          "description": "Today's links Podcasting \"Let the Platforms Burn\": It's past time to evacuate the fire-zone. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Podcasting \"Let the Platforms Burn\" (permalink) This week on my podcast, I read \"Let the Platforms Burn,\" a recent Medium column making the case that we should focus more on making it easier for people to leave platforms, rather than making the platforms less terrible places to be: https://doctorow.medium.com/let-the-platforms-burn-6fb3e6c0d980 The platforms used to be source of online stability, and many argued that by consolidating the wide and wooly web into a few \"curated\" silos, the platforms were replacing ch…",
+          "link": "https://pluralistic.net/2023/07/18/urban-wildlife-interface/",
+          "publishedOn": "2023-07-18T16:09:00.000Z",
+          "wordCount": 4543,
+          "title": "Pluralistic: Podcasting \"Let the Platforms Burn\" (18 July 2023)",
+          "enclosure": {
+            "url": "https://archive.org/download/Cory_Doctorow_Podcast_446/Cory_Doctorow_Podcast_446_-_Let_the_Platforms_Burn.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://pluralistic.net/?p=5593",
           "author": "Cory Doctorow",
           "description": "Today's links Linkty Dumpty: Things I thought about when I was supposed to be on holidays. This day in history: 2003, 2008, 2013, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Linkty Dumpty (permalink) I was supposed to be on vacation, and while I didn't do any blogging for a month, that didn't mean that I stopped looking at my distraction rectangle and making a list of things I wanted to write about. Consequentially, the link backlog is massive, so it's time to declare bankruptcy with another linkdump: https://pluralistic.net/tag/linkdump/ Let's kick things off with a little graphic whimsy. You've doubtless seen the endless Trolley Problem memes, working from the same crude line drawings? Well, philosopher John Holbo got tired o…",
@@ -2178,26 +2233,6 @@
           "wordCount": 2861,
           "title": "Pluralistic: Justice Warriors (22 May 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=5354",
-          "author": "Cory Doctorow",
-          "description": "Today's links Dumping links like Galileo dumped the orange: Creatively destroying your weekend like Joseph Dumpeter. This day in history: 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Dumping links like Galileo dumped the orange (permalink) Welcome to my Saturday linkdump, the third in an occasional series that may or may not be restricted to Saturdays, but which will ever be a celebration of olde-timey linkblogging of the sort practiced by our blogfathers, blogmothers, and assorted other blogparents: https://pluralistic.net/tag/linkdump/ Any fule kno that Saturday is Caturday, and today's woke felinism comes courtesy of Dr Eleanor Janega, the earthiest of all the Medivelist Bloggers, author of the superb Once a…",
-          "link": "https://pluralistic.net/2023/05/20/the-missing-links/",
-          "publishedOn": "2023-05-20T08:01:52.000Z",
-          "wordCount": 5401,
-          "title": "Pluralistic: Dumping links like Galileo dumped the orange (20 May 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=5343",
-          "author": "Cory Doctorow",
-          "description": "Today's links Venture predation: A pile of shit this big MUST have a pony underneath it! Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Venture predation (permalink) They said it couldn't happen. After decades of antitrust enforcement against Predatory Pricing – selling goods below cost to kill existing competitors and prevent new ones from arising – the Chicago School of neoliberal economists \"proved\" that predatory pricing didn't exist and that the courts could stand down and stop busting companies for it. Predatory pricing – the economists explained – may be illegal, but it was also imaginary. A mirage. No one would do predatory pricing, becau…",
-          "link": "https://pluralistic.net/2023/05/19/fake-it-till-you-make-it/",
-          "publishedOn": "2023-05-19T14:53:56.000Z",
-          "wordCount": 4431,
-          "title": "Pluralistic: Venture predation (19 May 2023)",
-          "imageUrl": null
         }
       ]
     },
@@ -2229,6 +2264,46 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/12/12/timeline-of-the-far-future",
+          "author": null,
+          "description": "The timeline of the far future artice is far from the longest page on Wikipedia, but it might take you several hours to get through because it contains so many enticing detours. What's Pangaea Ultima? Oooh, Roche limit! The Degenerate Era, Poincaré recurrence time, the Big Rip scenario, the cosmic light horizon, the list goes on and on. And the article itself is a trove of fascinating facts and eye-popping phrases. Here are a few of my favorites. (Keep in mind that the universe is only 13.75 billion years old. Unless we're living in a computer simulation.)\n50,000 years: \"Niagara Falls erodes away the remaining 32 km to Lake Erie and ceases to exist.\"\n1 million years: \"Highest estimated time until the red supergiant star Betelgeuse explodes in a supernova. The explosion is expected to be ea…",
+          "link": "https://kottke.org/12/12/timeline-of-the-far-future",
+          "publishedOn": "2023-07-18T20:50:16.000Z",
+          "wordCount": 664,
+          "title": "Timeline of the Far Future",
+          "imageUrl": "https://kottke.org/plus/misc/images/timeline-future.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/07/the-wordy-collages-of-toon-joosen",
+          "author": null,
+          "description": "Among the many creative collages by Dutch art director Toon Joosen is this series of images of people interacting with the pages of books in fun ways. You can check them out on his Instagram or purchase some of them as prints on his Etsy shop.\nTags: art · remix · Toon Joosen",
+          "link": "https://kottke.org/23/07/the-wordy-collages-of-toon-joosen",
+          "publishedOn": "2023-07-18T19:14:18.000Z",
+          "wordCount": 230,
+          "title": "The Wordy Collages of Toon Joosen",
+          "imageUrl": "https://kottke.org/plus/misc/images/toon-joosen-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/07/wes-anderson-talks-up-some-of-his-favorite-movies-in-a-parisian-video-store",
+          "author": null,
+          "description": "When you think of directors that have influenced Wes Anderson, you typically think of Truffaut, Godard, Scorcese, and Ashby. But as you'll see in this video of Anderson pulling out some recommended films from this Paris video store, his taste in movies is broad. There's Drunken Angel (Kurosawa), A Streetcar Named Desire (Kazan), Vagabond (Varda), Birth (Glazer), Bridge of Spies (Spielberg), and Witness (Weir).\nOf Spielberg, Anderson says:\nIf you make movies, if you direct movies, this is somebody who can help you. You looked at his movies for solutions. He usually found a way to do it right. He's one of my favorites.\n\n\n(via open culture)\nTags: movies · video · Wes Anderson",
+          "link": "https://kottke.org/23/07/wes-anderson-talks-up-some-of-his-favorite-movies-in-a-parisian-video-store",
+          "publishedOn": "2023-07-18T17:02:22.000Z",
+          "wordCount": 307,
+          "title": "Wes Anderson Talks Up Some of His Favorite Movies in a Parisian Video Store",
+          "imageUrl": "https://img.youtube.com/vi/ynyFwKXSwB8/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/07/geohydrotypography",
+          "author": null,
+          "description": "This, from XKCD, hits my science and design interests right in the sweet spot.\nIf you covered the surface of the Atlantic Ocean with twelve-point printed text, with the lines wrapping at the coasts, the expansion of the ocean basin due to tectonics would increase your word count by about 100 words per second.\n\n\nThis reminds me of Ben Terrett's calculation of how many helveticas from here to the Moon and my subsequent calculations about the point size of the Earth and the Moon (50.2 billion and 13.7 billion, respectively).\nTags: design · geology · science · typography · XKCD",
+          "link": "https://kottke.org/23/07/geohydrotypography",
+          "publishedOn": "2023-07-18T13:55:26.000Z",
+          "wordCount": 263,
+          "title": "Geohydrotypography",
+          "imageUrl": "https://kottke.org/plus/misc/images/xkcd-geohydrotypography.jpg"
+        },
         {
           "id": "https://kottke.org/12/05/we-cant-send-email-more-than-500-miles",
           "author": null,
@@ -3508,36 +3583,6 @@
           "wordCount": 374,
           "title": "The Four Republican \"Freedoms\"",
           "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/05/ice-merchants",
-          "author": null,
-          "description": "This is just beautiful. This short animated film by João Gonzalez starts off slow but really pays off in the end. Ice Merchants was nominated for a 2023 Academy Award. Here's an interview with Gonzalez at Director's Notes.\nTags: death · Joao Gonzalez · video",
-          "link": "https://kottke.org/23/05/ice-merchants",
-          "publishedOn": "2023-05-19T17:42:19.000Z",
-          "wordCount": 214,
-          "title": "Ice Merchants",
-          "imageUrl": "https://img.youtube.com/vi/mhj74ZjfaQ8/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/quick-links",
-          "author": null,
-          "description": "The Movement to Stop Dollar Stores From Suffocating Black Communities. \"They're like an invasive species. They overpower all the resources and make the businesses in those neighborhoods vulnerable.\"\nWhat can we learn about art from The Simpsons? \"The long-running sitcom has such wise lessons on the art world, it ought to be on art school curricula.\"\nIn the 70s, the Chicago Sun-Times bought a bar and staffed it with journalists to investigate extortion by city employees. \"[Various inspectors] all took envelopes with money in them and they all passed us. And we should never have passed.\"\n---\nNote: Quick Links are pushed to this RSS feed twice a day. For more immediate service, check out the front page of kottke.org, the Quick Links archive, or the @kottke Mastodon feed.",
-          "link": "https://kottke.org/quick-links",
-          "publishedOn": "2023-05-19T16:52:01.000Z",
-          "wordCount": 1660,
-          "title": "Three Quick Links for Friday Noonish",
-          "imageUrl": "https://kottke.org/images/2016/ios/180x180.png"
-        },
-        {
-          "id": "https://kottke.org/23/05/abstract-wood-block-sculptures-of-notable-paintings",
-          "author": null,
-          "description": "Using colorful wooden blocks cut at different angles, Timur Zagirov makes pixel-log 1 representations of famous artworks by Vermeer, van Gogh, and Leonardo. You can check out his work on Instagram or at Stowe Gallery. (via moss & fog)\n\nPixelized + analog + wood = pixel-log! Ok fine that's terrible but I'm leaving it in. 😜↩\n\nTags: art · remix · Timur Zagirov",
-          "link": "https://kottke.org/23/05/abstract-wood-block-sculptures-of-notable-paintings",
-          "publishedOn": "2023-05-19T14:01:32.000Z",
-          "wordCount": 242,
-          "title": "Abstract Wood Block Sculptures of Notable Paintings",
-          "imageUrl": "https://kottke.org/plus/misc/images/timur-zagirov-01.jpg"
         }
       ]
     },
