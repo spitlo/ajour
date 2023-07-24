@@ -809,16 +809,67 @@
       "articles": []
     },
     {
-      "title": "Lea Verou",
+      "title": "Lea Verou’s blog",
       "feedUrl": "https://feeds.feedburner.com/leaverou",
-      "siteUrl": "https://lea.verou.me",
-      "articles": []
+      "siteUrl": "https://lea.verou.me/feed.xml",
+      "articles": [
+        {
+          "id": "https://lea.verou.me/blog/2023/going-lean/",
+          "author": null,
+          "description": "WordPress has been with me since my very first post in 2009.\nThere is a lot to love about it: It’s open source, it has a thriving ecosystem, a beautiful default theme, and a revolutionary block editor that makes my inner UX geek giddy.\nPlus, WP made building a website and publishing content accessible to everyone.\nNo wonder it’s the most popular CMS in the world, by a huge margin.\nHowever, for me, the bad had started to outweigh the good:\nThings I could do in minutes in a static site, in WP required finding a plugin or tweaking PHP code.\nIt was slow and bloated.\nGetting a draft out of it and into another medium was a pain.\nDespite having never been hacked, I was terrified about it, given all the horror stories.\nI was periodically getting “Error establishing a database connection” errors, w…",
+          "link": "https://lea.verou.me/blog/2023/going-lean/",
+          "publishedOn": "2023-07-21T00:00:00.000Z",
+          "wordCount": 2746,
+          "title": "Going Lean",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lea.verou.me/blog/2023/rethinking-categorization/",
+          "author": null,
+          "description": "This is the third spinoff post in the migration saga of this blog from WordPress to 11ty.\nMigrating was a good opportunity to rethink the information architecture of my site,\nespecially around categorization.\nCategories vs Tags\nJust like most WP users, I was using both categories and tags, simply because they came for free.\nHowever the difference between them was a bit fuzzy, as evidenced by how inconsistently they are used, both here and around the Web.\nI was mainly using Categories for the type of article (Articles, Rants, Releases, Tips, Tutorials, News, Thoughts),\nhowever there were also categories that were more like content tags (e.g. CSS WG, Original, Speaking, Benchmarks).\nThis was easily solved by moving the latter to actual tags.\nHowever, tags are no panacea, there are several is…",
+          "link": "https://lea.verou.me/blog/2023/rethinking-categorization/",
+          "publishedOn": "2023-07-20T00:00:00.000Z",
+          "wordCount": 1392,
+          "title": "Rethinking Categorization",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lea.verou.me/blog/2023/11ty-indices/",
+          "author": null,
+          "description": "This is a second spinoff post in the migration saga of this blog from WordPress to 11ty.\nOn good URLs\nIt was important to me to have good, RESTful, usable, hackable URLs.\nWhile a lot of that is easy and comes for free, following this principle with Eleventy proved quite hard:\nURLs that are “hackable” to allow users to move to higher levels of the information architecture by hacking off the end of the URL\nWhat does this mean in practice?\nIt means it’s not enough if tags/foo/ shows all posts tagged “foo”, tags/ should also show all tags.\nSimilarly, it’s not enough if /blog/2023/04/private-fields-considered-harmful/ links to the corresponding blog post,\nbut also:\n/blog/2023/04/ should show all posts from April 2023\n/blog/2023/ should show all posts from 2023\n/blog/ should show all posts\nEleve…",
+          "link": "https://lea.verou.me/blog/2023/11ty-indices/",
+          "publishedOn": "2023-07-19T00:00:00.000Z",
+          "wordCount": 1382,
+          "title": "11ty: Index ALL the things!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lea.verou.me/blog/2023/preserve-disqus/",
+          "author": null,
+          "description": "So I recently ported my 14 year old blog from WordPress to Eleventy.\nI had been using Disqus for comments for years, so I didn’t want to lose them, even if I ended up using a different solution for the future (or no comments at all).\nLooking around for an existing solution did not yield many results.\nThere’s Zach’s eleventy-import-disqus but it’s aimed at importing Disqus comments as static copies,\nbut I wanted to have the option to continue using Disqus.\nLooking at the WP generated HTML source, I noticed that Disqus was using the WP post id (a number that is not displayed in the UI) to link its threads to the posts.\nHowever, the importer I used did not preserve the post ids as metadata (filed issue #95).\nWhat to do?\nGetting the WP post id\nMy first thought was to add the post id to each po…",
+          "link": "https://lea.verou.me/blog/2023/preserve-disqus/",
+          "publishedOn": "2023-07-18T00:00:00.000Z",
+          "wordCount": 1520,
+          "title": "Migrating Disqus from WP to 11ty",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "TEXT-MODE",
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/723661187128197120",
+          "author": null,
+          "description": "text-mode:\nRecord covers in ANSI: B-sides by Blocktronics. Prodigy - Fat of the land (by tcf), Björk - Debut (by Otium), Front 242 - Headhunter (by Otium), Ween - White pepper (by Misfit), Honey for petzi - Heal all monsters (by goo), Undertow - Fat lady insert (by tcf)",
+          "link": "https://text-mode.tumblr.com/post/723661187128197120",
+          "publishedOn": "2023-07-23T18:31:27.000Z",
+          "wordCount": 1089,
+          "title": "text-mode:\n\nRecord covers in ANSI: B-sides by Blocktronics....",
+          "imageUrl": "https://64.media.tumblr.com/2e1d2ac1b2bf0545a0cea033ef4fbaf3/tumblr_p46w28PDjN1rpiyaso5_1280.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/723570537096429568",
           "author": null,
@@ -1608,16 +1659,6 @@
           "wordCount": 1059,
           "title": "text-mode:\n\nFirst this page appears to be just a text. But if...",
           "imageUrl": "https://64.media.tumblr.com/tumblr_m5wow1g7Nw1rpiyaso1_640.gif"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/718225320250081280",
-          "author": null,
-          "description": "text-mode:\nCTRL+C & CTRL+V : 2007-11-15 15:29",
-          "link": "https://text-mode.tumblr.com/post/718225320250081280",
-          "publishedOn": "2023-05-24T18:30:41.000Z",
-          "wordCount": 971,
-          "title": "text-mode:\n\nCTRL+C & CTRL+V : 2007-11-15 15:29",
-          "imageUrl": "https://64.media.tumblr.com/tumblr_m5err07iwq1rpiyaso1_540.png"
         }
       ]
     },
@@ -1832,16 +1873,6 @@
           "wordCount": 2060,
           "title": "Some blogging myths",
           "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2023/05/25/new-playground--memory-spy/",
-          "author": null,
-          "description": "Hello! Today we’re releasing a new playground called “memory spy”. It lets you run C programs\nand see how their variables are represented in memory. It’s designed to be\naccessible to folks who don’t know C – it comes with bunch of extremely simple\nexample C programs that you can poke at. Here’s the link:\nMemory Spy <<\n\n\nThis is a companion to the “how integers and floats work” zine we’ve been\nworking on, so the goal is mostly to look at how number types (integers and\nfloats) are represented.\nwhy spy on memory?\nHow computers actually represent variables can seem kind of abstract, so  I\nwanted to make it easy for folks to see how a real computer actually represents\nvariables in memory.\nwhy is it useful to look at C?\nYou might be wondering – I don’t write C! Why should I care how C programs\nr…",
-          "link": "https://jvns.ca/blog/2023/05/25/new-playground--memory-spy/",
-          "publishedOn": "2023-05-25T08:05:31.000Z",
-          "wordCount": 1070,
-          "title": "New playground: memory spy",
-          "imageUrl": null
         }
       ]
     },
@@ -1954,6 +1985,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=5622",
+          "author": "Cory Doctorow",
+          "description": "Today's links The art of Daniel Danger: The best thing I saw at Comic-Con. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The art of Daniel Danger (permalink) There's this behavioral economics study that completely changed the way i thought about art, teaching, and critique: it's a 1993 study called \"Introspecting about Reasons can Reduce Post-Choice Satisfaction\" by Timothy D Wilson, Douglas J Lisle, Jonathan Schooler, Sara Hodges, Kristen Klaaren and Suzanne LaFleur: https://www.researchgate.net/publication/240281868_Introspecting_about_Reasons_can_Reduce_Post-Choice_Satisfaction The experimenters asked subjects to preference-rank some art posters; h…",
+          "link": "https://pluralistic.net/2023/07/23/but-i-know-what-i-like/",
+          "publishedOn": "2023-07-23T16:13:07.000Z",
+          "wordCount": 3624,
+          "title": "Pluralistic: The art of Daniel Danger (23 July 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=5614",
           "author": "Cory Doctorow",
@@ -2222,16 +2263,6 @@
           "publishedOn": "2023-05-26T07:36:58.000Z",
           "wordCount": 3270,
           "title": "Pluralistic: How (and why) Biden should overcome the Supreme Court to end the debt showdown (26 May 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=5383",
-          "author": "Cory Doctorow",
-          "description": "Today's links To save the news, shatter ad-tech: Structural separation will help the news claim their fair share. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading To save the news, shatter ad-tech (permalink) Big Tech steals from news, but what it steals isn't content. Talking about the news isn't theft, and neither is linking to it, or excerpting it. But stealing money? That's definitely theft. Big Tech steals money from the news media. 51% of every ad-dollar is claimed by a tech intermediary, a middleman that squats on a chokepoint between advertisers and publishers. Two companies – Google and Meta – dominate this sector, and both of these compan…",
-          "link": "https://pluralistic.net/2023/05/25/structural-separation/",
-          "publishedOn": "2023-05-25T08:13:58.000Z",
-          "wordCount": 3256,
-          "title": "Pluralistic: To save the news, shatter ad-tech (25 May 2023)",
           "imageUrl": null
         }
       ]
@@ -3533,46 +3564,6 @@
           "wordCount": 360,
           "title": "Hand Talk",
           "imageUrl": "https://img.youtube.com/vi/s1-StAlw3aE/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/quick-links",
-          "author": null,
-          "description": "Tina Turner has died at the age of 83. \"With her, the world loses a music legend and a role model.\" Simply the best.\nWendy's is testing a scheme to deliver takeout food to people's cars using what sounds like a robotic dumbwaiter or pneumatic tube system. (via polymath.net)\nHow Should We Feel about Barnes and Noble Now? \"They are putting on the costume and language of a pretty neighborhood independent bookstore, but their inner mechanics are still all big-box chain corporation.\"\n---\nNote: Quick Links are pushed to this RSS feed twice a day. For more immediate service, check out the front page of kottke.org, the Quick Links archive, or the @kottke Mastodon feed.",
-          "link": "https://kottke.org/quick-links",
-          "publishedOn": "2023-05-24T21:52:01.000Z",
-          "wordCount": 1660,
-          "title": "Three Quick Links for Wednesday Afternoon",
-          "imageUrl": "https://kottke.org/images/2016/ios/180x180.png"
-        },
-        {
-          "id": "https://kottke.org/23/05/ze-frank-on-slime-molds",
-          "author": null,
-          "description": "As part of his True Facts series about the natural world, Ze Frank explains all about slime molds, which are super interesting! Slime molds can efficiently solve mazes, plan efficient train routes, adapt to changing conditions, and learn from each other.\nSee also many beautiful photos of slime molds.\nTags: science · video · Ze Frank",
-          "link": "https://kottke.org/23/05/ze-frank-on-slime-molds",
-          "publishedOn": "2023-05-24T17:18:16.000Z",
-          "wordCount": 231,
-          "title": "Ze Frank on Slime Molds",
-          "imageUrl": "https://img.youtube.com/vi/k_GTIL7AECQ/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/quick-links",
-          "author": null,
-          "description": "A subway-style map of the routes of European sleeper train routes. Someday... (via @marcprecipice)\nQuantifying the human cost of global warming: because of climate change, over 600 million people currently live outside the \"human climate niche\". That could rise to more than 1/3 of the total global population by the end of the century.\nFrance has banned short-haul flights to destinations where the same journey can be made by train in under 2.5 hours.\nThis has been apparent for months now: Twitter Is a Far-Right Social Network. \"Twitter has evolved into a platform that is indistinguishable from the wastelands of alternative social-media sites such as Truth Social and Parler.\"\nI had no idea this existed: Informed Delivery is a free service from the USPS that lets you see photos of your mail & packages before they arrive. There's even a daily email digest option. (via @ironicsans)\nYou Cannot Hear These 13 Women's Stories and Believe the Anti-Abortion Narrative. \"It's increasingly clear that it's not safe to be pregnant in states with total abortion bans.\"\n---\nNote: Quick Links are pushed to this RSS feed twice a day. For more immediate service, check out the front page of kottke.org, the Quick Links archive, or the @kottke Mastodon feed.",
-          "link": "https://kottke.org/quick-links",
-          "publishedOn": "2023-05-24T16:52:01.000Z",
-          "wordCount": 1660,
-          "title": "Six Quick Links for Wednesday Noonish",
-          "imageUrl": "https://kottke.org/images/2016/ios/180x180.png"
-        },
-        {
-          "id": "https://kottke.org/23/05/the-100-greatest-childrens-books-of-all-time",
-          "author": null,
-          "description": "Relying on the choices of 177 book experts from 56 different countries, BBC Culture recently chose the 100 greatest children's books of all time. The top five are:\n1. Where the Wild Things Are by Maurice Sendak\nAlice's Adventures in Wonderland by Lewis Carroll\nPippi Longstocking by Astrid Lindgren\nThe Little Prince by Antoine de Saint-Exupéry\nThe Hobbit by JRR Tolkien\nIn terms of Sendak, I always preferred In the Night Kitchen to Where the Wild Things Are. Here are a few of my personal favorites from the list:\n14. The Very Hungry Caterpillar by Eric Carle\nGoodnight Moon by Margaret Wise Brown\nThe Snowy Day by Ezra Jack Keats\nThe Lord of the Rings by JRR Tolkien\nDanny the Champion of the World by Roald Dahl\nIs the Lord of the Rings a children's book? Young adult? And I would have liked to have seen Cloudy with a Chance of Meatballs and Cars and Trucks and Things That Go on the list. And perhaps some Frog and Toad?\nTags: best of · books · lists",
-          "link": "https://kottke.org/23/05/the-100-greatest-childrens-books-of-all-time",
-          "publishedOn": "2023-05-24T15:10:55.000Z",
-          "wordCount": 365,
-          "title": "The 100 Greatest Children's Books of All Time",
-          "imageUrl": "https://kottke.org/plus/misc/images/100-kids-books-23.jpg"
         }
       ]
     },
