@@ -124,16 +124,6 @@
           "wordCount": 2869,
           "title": "Nobody thrives on rejection – here are reasons I didn’t take job offers",
           "imageUrl": null
-        },
-        {
-          "id": "https://christianheilmann.com/?p=7755",
-          "author": "Chris Heilmann",
-          "description": "You can download the GPT model and interrogate local files using Python without having to send any data to the cloud. PrivateGPT is a python script to interrogate local files using GPT4ALL, an open source large language model. It is pretty straight forward to set up: Clone the repo Download the LLM – about 10GB […]",
-          "link": "https://christianheilmann.com/2023/05/27/privategpt-running-chatgpt-offline-on-local-documents/",
-          "publishedOn": "2023-05-27T15:04:19.000Z",
-          "wordCount": 620,
-          "title": "PrivateGPT – Running “ChatGPT” offline on local documents",
-          "imageUrl": null
         }
       ]
     },
@@ -231,6 +221,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2807/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/bad_map_projection_abs_longitude.png\" title=\"Positive vibes/longitudes only\" alt=\"Positive vibes/longitudes only\" />",
+          "link": "https://xkcd.com/2807/",
+          "publishedOn": "2023-07-26T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Bad Map Projection: ABS(Longitude)",
+          "imageUrl": null
+        },
         {
           "id": "https://xkcd.com/2806/",
           "author": null,
@@ -849,6 +849,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/723932914698567680",
+          "author": null,
+          "description": "text-mode:\nAds in the Brooklyn Daily Eagle, 1873-1874 found by Paul Soulellis. ASCII advertising was quite popular at the time, and these are almost like concrete poetry advertising?",
+          "link": "https://text-mode.tumblr.com/post/723932914698567680",
+          "publishedOn": "2023-07-26T18:30:27.000Z",
+          "wordCount": 1061,
+          "title": "text-mode:\n\nAds in the Brooklyn Daily Eagle, 1873-1874 found by...",
+          "imageUrl": "https://64.media.tumblr.com/fd8786dbe8b3bfa74c049e3ea1c910a5/tumblr_p4xgl7dBPO1rpiyaso1_1280.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/723842335592595456",
           "author": null,
@@ -1638,16 +1648,6 @@
           "wordCount": 924,
           "title": "text-mode:\n\nDirk Krecker",
           "imageUrl": "https://64.media.tumblr.com/tumblr_m6oyziZfsD1rpiyaso1_400.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/718497115881570304",
-          "author": null,
-          "description": "text-mode:\nFaxed petscii by Raquel Meyers (2011). More here.",
-          "link": "https://text-mode.tumblr.com/post/718497115881570304",
-          "publishedOn": "2023-05-27T18:30:45.000Z",
-          "wordCount": 997,
-          "title": "text-mode:\n\nFaxed petscii by Raquel Meyers (2011). More here.",
-          "imageUrl": "https://64.media.tumblr.com/tumblr_m13anmNsD31rpiyaso1_1280.jpg"
         }
       ]
     },
@@ -1975,6 +1975,16 @@
       "siteUrl": "https://pluralistic.net",
       "articles": [
         {
+          "id": "https://pluralistic.net/?p=5642",
+          "author": "Cory Doctorow",
+          "description": "Today's links The surprising truth about data-driven dictatorships: No autocrat is more powerful than GIGO. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The surprising truth about data-driven dictatorships (permalink) Here's the \"dictator's dilemma\": they want to block their country's frustrated elites from mobilizing against them, so they censor public communications; but they also want to know what their people truly believe, so they can head off simmering resentments before they boil over into regime-toppling revolutions. These two strategies are in tension: the more you censor, the less you know about the true feelings of your citizens and …",
+          "link": "https://pluralistic.net/2023/07/26/dictators-dilemma/",
+          "publishedOn": "2023-07-26T15:41:15.000Z",
+          "wordCount": 4126,
+          "title": "Pluralistic: The surprising truth about data-driven dictatorships (26 July 2023)",
+          "imageUrl": null
+        },
+        {
           "id": "https://pluralistic.net/?p=5628",
           "author": "Cory Doctorow",
           "description": "Today's links Autoenshittification: How the computer killed capitalism. This day in history: 2003, 2008, 2013, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Autoenshittification (permalink) Forget F1: the only car race that matters now is the race to turn your car into a digital extraction machine, a high-speed inkjet printer on wheels, stealing your private data as it picks your pocket. Your car's digital infrastructure is a costly, dangerous nightmare – but for automakers in pursuit of postcapitalist utopia, it's a dream they can't give up on. Your car is stuffed full of microchips, a fact the world came to appreciate after the pandemic struck and auto production ground to a halt due to chip shortages. Of course, that wasn't th…",
@@ -2274,6 +2284,36 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/07/some-of-the-oldest-photos-you-will-ever-see",
+          "author": null,
+          "description": "In 1842, a French artist and scholar named Joseph-Philibert Girault de Prangey set out on a tour of the eastern Mediterranean to document sights and architecture via the brand new medium of photography. He started off in what is now Italy and continued on to Greece, Egypt, Turkey, Syria, and the Levant (which includes modern-day Lebanon, Israel, and Palestine). The daguerreotypes he took are the oldest surviving photos of those locations (aside from Italy). It's incredible to time travel back 180 years to see what these places looked like. (via aeon)\nTags: art · Joseph-Philibert Girault de Prangey · photography · travel · video",
+          "link": "https://kottke.org/23/07/some-of-the-oldest-photos-you-will-ever-see",
+          "publishedOn": "2023-07-26T21:31:33.000Z",
+          "wordCount": 283,
+          "title": "Some of the Oldest Photos You Will Ever See",
+          "imageUrl": "https://img.youtube.com/vi/hH5Mx5acrBk/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/07/how-streaming-caused-the-writers-strike",
+          "author": null,
+          "description": "Vox talked to four television writers about how streaming and prestige TV have changed the financial picture for writers over the past 15 years, contributing to the writers strike that's been going on since early May.\nCompanies like Netflix, Hulu, Apple TV+, and more have given consumers an unprecedented array of films and TV shows and opened the door to new voices that don't have to adhere to mainstream network formats. On the other hand, streaming has also changed how television gets produced, the role writers play, and how they get paid. We interviewed four television writers and showrunners about how streaming has changed how they work, how their incomes have taken a hit, and why it has become harder than ever to build a career.\n\n\n Tags: business · movies · TV · video",
+          "link": "https://kottke.org/23/07/how-streaming-caused-the-writers-strike",
+          "publishedOn": "2023-07-26T16:45:22.000Z",
+          "wordCount": 309,
+          "title": "How Streaming Caused the Writers Strike",
+          "imageUrl": "https://img.youtube.com/vi/ILaU78Oo7XM/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/07/medium-res-pixel-illustrations-of-jun-kumaori",
+          "author": null,
+          "description": "I'm taken with the style of Jun Kumaori's illustrations — they look like drawings of (stay with me here) small JPEGs converted to GIFs and then clumsily enlarged, complete with all of the resultant digital artifacts. This makes me nostalgic for the late 90s web and Photoshop 3.0. (via the fox is black)\nTags: art · illustration · Jun Kumaori · remix",
+          "link": "https://kottke.org/23/07/medium-res-pixel-illustrations-of-jun-kumaori",
+          "publishedOn": "2023-07-26T14:21:54.000Z",
+          "wordCount": 237,
+          "title": "Medium-Res Pixel Illustrations of Jun Kumaori",
+          "imageUrl": "https://kottke.org/plus/misc/images/jun-kumaori-01.jpg"
+        },
         {
           "id": "https://kottke.org/23/07/can-a-lego-car-roll-downhill-forever",
           "author": null,
