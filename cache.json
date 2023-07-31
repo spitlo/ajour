@@ -158,16 +158,6 @@
           "wordCount": 1709,
           "title": "Summary of changes for July 2023",
           "imageUrl": null
-        },
-        {
-          "id": "log.html#jun2023",
-          "author": "Rek Bell",
-          "description": "Hey everyone! This is the list of all the changes we've done to our projects and apps during the month of June. We'll also be reporting in our on position in the world, and on our future plans.\nSummary Of Changes\n100r.co, added propeller maintenance, Maple Bay, Telegraph Cove, Smuggler Cove and Princess Louisa Inlet.\nWiktopher, added back the revised/corrected version of Chapter 10, back online, and Chapter 11 has been corrected but is not yet live.\nUxnFor, created an uxntal code formatter.\nBicycle, added lots of little improvements.\nAdelie, added speaker's notes and a pen mode.\nNews\nPino spent the first few days of the month on land, having its bottom re-painted, and its various bits serviced and checked. We took our propeller apart for the first time.\nWe've added a few write-ups of our travels so far (see above entry with links under 100r.co), but the most significant one is our 46nmi sail up to Princess Louisa Inlet, a long fjord on British Columbia's Sunshine Coast, with an incredible gem at the end. It is an amazing, and unique place. We're glad we finally got to go. As we write this, we are in Roscoe Bay on West Redonda Island, tethering off a phone hoisted up the mast (it works quite well).\nThis summer we are power stable. We had issues last year because of parisitic draws due to old wiring (see DC electrical refit), but now everything is working as it should. We're charging our computers without an inverter, and that too is working out quite well so far (see charging electronics).\nTogether, Hikari and Lynn made chibicc-uxn, a c compiler for Uxn, and with it also released a port of the classic software Neko(xneko, oneko sakura).\nPino book & movie club\nWe are reading Arkady and Boris Strugatsky's Roadside Picnic. We've been re-watching Kaamelott(the series, book 1 though 6) for the hundredth time.\nContinue Reading",
-          "link": "https://100r.co/site/log.html#jun2023",
-          "publishedOn": "2023-06-01T06:30:00.000Z",
-          "wordCount": 1711,
-          "title": "Summary of changes for June 2023",
-          "imageUrl": null
         }
       ]
     },
@@ -773,6 +763,16 @@
       "siteUrl": "https://lea.verou.me/feed.xml",
       "articles": [
         {
+          "id": "https://lea.verou.me/blog/2023/design-state-of-html/",
+          "author": null,
+          "description": "You have likely participated in several Devographics surveys before,\nsuch as State of CSS, or State of JS.\nThese surveys have become the primary source of unbiased data for the practices of front-end developers today\n(there is also the Web Almanac research, but because this studies what is actually used on the web, it takes a lot longer for changes in developer practices to propagate).\nYou may remember that last summer, Google sponsored me to be Survey Design Lead for State of CSS 2022.\nIt went really well: we got 60% higher response rate than the year before, which gave browsers a lot of actionable data to prioritize their work.\nThe feedback from these surveys is a prime input into the Interop project,\nwhere browsers collaborate to implement the most important features for developers inte…",
+          "link": "https://lea.verou.me/blog/2023/design-state-of-html/",
+          "publishedOn": "2023-07-26T00:00:00.000Z",
+          "wordCount": 1235,
+          "title": "Help Design the Inaugural State of HTML Survey!",
+          "imageUrl": null
+        },
+        {
           "id": "https://lea.verou.me/blog/2023/going-lean/",
           "author": null,
           "description": "WordPress has been with me since my very first post in 2009.\nThere is a lot to love about it: It’s open source, it has a thriving ecosystem, a beautiful default theme, and a revolutionary block editor that makes my inner UX geek giddy.\nPlus, WP made building a website and publishing content accessible to everyone.\nNo wonder it’s the most popular CMS in the world, by a huge margin.\nHowever, for me, the bad had started to outweigh the good:\nThings I could do in minutes in a static site, in WP required finding a plugin or tweaking PHP code.\nIt was slow and bloated.\nGetting a draft out of it and into another medium was a pain.\nDespite having never been hacked, I was terrified about it, given all the horror stories.\nI was periodically getting “Error establishing a database connection” errors, w…",
@@ -819,6 +819,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/724295340959907840",
+          "author": null,
+          "description": "text-mode:\nA paper that is both a text and an executable program that plays music. Made by Tom 7 in his custom C compiler. More info here.",
+          "link": "https://text-mode.tumblr.com/post/724295340959907840",
+          "publishedOn": "2023-07-30T18:31:04.000Z",
+          "wordCount": 1006,
+          "title": "text-mode:\n\nA paper that is both a text and an executable...",
+          "imageUrl": "https://64.media.tumblr.com/cfe3b33eb51ce562004db02184242234/tumblr_p400lvvT7H1rpiyaso2_1280.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/724204741165531136",
           "author": null,
@@ -1598,16 +1608,6 @@
           "wordCount": 973,
           "title": "Untitled",
           "imageUrl": "https://64.media.tumblr.com/fcd0b62069174655c0fbb61d87873ee8/a48a15c32c6be5e5-06/s540x810/923253b91867433f0a33962e689bb8ea732a9a76.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/718859513195839488",
-          "author": null,
-          "description": "Works by Channa Horwitz (1932-2013), via Eko33",
-          "link": "https://text-mode.tumblr.com/post/718859513195839488",
-          "publishedOn": "2023-05-31T18:30:54.000Z",
-          "wordCount": 1012,
-          "title": "Untitled",
-          "imageUrl": "https://64.media.tumblr.com/50db046164125d4a03ffe306991b852a/e35d3cd357024edc-3a/s1280x1920/57d7db164a2948b1f08c64f02f9838f4b4505849.png"
         }
       ]
     },
@@ -1765,16 +1765,6 @@
           "wordCount": 1519,
           "title": "Mozilla Ventures Invests in Fiddler, Fueling Better AI Trust",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/05/Screen-Shot-2023-05-18-at-9.21.04-AM-886x591.png"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=72376",
-          "author": "Sarah Vasquez",
-          "description": "When we relaunched the Mozilla Builders program last March, we unveiled our Responsible AI Challenge — a one-day, in-person event designed to inspire and encourage a community of builders working on trustworthy AI products and solutions — essentially a call to builders and technologists all over the world to create trustworthy AI solutions. We are […]\nThe post Announcing Mozilla’s ‘Responsible AI Challenge’ top prize winners appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/responsible-ai-challenge-winners/",
-          "publishedOn": "2023-06-01T11:46:33.000Z",
-          "wordCount": 1535,
-          "title": "Announcing Mozilla’s ‘Responsible AI Challenge’ top prize winners",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/05/AIChallenge_TopWinners_Blog-Header_1200x800-1200x800.jpg"
         }
       ]
     },
@@ -1944,6 +1934,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=5662",
+          "author": "Cory Doctorow",
+          "description": "Today's links When the app turns you into a robo-scab: The implacable, inarguable tactics of disciplinary technology. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading When the app turns you into a robo-scab (permalink) When we talk about the abusive nature of gig work, there's some obvious targets, like algorithmic wage discrimination, where two workers are paid different rates for the same job, in order to trick occasional gig-workers to give up their other sources of income and become entirely dependent on the app: https://pluralistic.net/2023/04/12/algorithmic-wage-discrimination/#fishers-of-men Then there's the opacity – imagine if your boss re…",
+          "link": "https://pluralistic.net/2023/07/30/computer-says-scab/",
+          "publishedOn": "2023-07-30T16:37:12.000Z",
+          "wordCount": 3221,
+          "title": "Pluralistic: When the app tries to make you robo-scab (30 July 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=5650",
           "author": "Cory Doctorow",
@@ -3478,26 +3478,6 @@
           "wordCount": 428,
           "title": "Making A Solar-Powered Billion-Year Lego Clock",
           "imageUrl": "https://img.youtube.com/vi/kRzgCylePjk/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/quick-links",
-          "author": null,
-          "description": "According to this analysis of excess deaths by The Economist, roughly 3 million people globally per year are still dying because of Covid-19. \"At current rates, it would kill more people in the next eight years than in the past three.\"\nFrom journalist & author Melissa Gira Grant, a list of recommended media about American fascism.\nThe Santa Clara Principles outlines standards regarding transparency and accountability in content moderation for social media platforms.\n---\nNote: Quick Links are pushed to this RSS feed twice a day. For more immediate service, check out the front page of kottke.org, the Quick Links archive, or the @kottke Mastodon feed.",
-          "link": "https://kottke.org/quick-links",
-          "publishedOn": "2023-05-31T21:52:02.000Z",
-          "wordCount": 1660,
-          "title": "Three Quick Links for Wednesday Afternoon",
-          "imageUrl": "https://kottke.org/images/2016/ios/180x180.png"
-        },
-        {
-          "id": "https://kottke.org/quick-links",
-          "author": null,
-          "description": "\"A beluga whale long believed to be a Russian spy...\" Excuse me, what?!\nSeeing Beyond the Beauty of a Vermeer. Teju Cole visits the unprecedented Rijksmuseum exhibition and finds the trouble in Vermeer's paintings. What a great read.\nWhat Happened When I Stopped Drinking. \"I put down the bottle and picked up everything else.\"\nHow the U.S. Almost Became a Nation of Hippo Ranchers. \"In 1910, a failed House bill sought to increase the availability of low-cost meat by importing hippopotamuses that would be killed to make 'lake cow bacon.'\"\nYou can buy a 4-inch cube of tungsten online for only $4000. Tungsten is one of the densest metals so this small cube (about the size of a pint of ice cream) weighs a whopping 41.6 pounds.\n---\nNote: Quick Links are pushed to this RSS feed twice a day. For more immediate service, check out the front page of kottke.org, the Quick Links archive, or the @kottke Mastodon feed.",
-          "link": "https://kottke.org/quick-links",
-          "publishedOn": "2023-05-31T16:52:02.000Z",
-          "wordCount": 1660,
-          "title": "Five Quick Links for Wednesday Noonish",
-          "imageUrl": "https://kottke.org/images/2016/ios/180x180.png"
         }
       ]
     },
@@ -3515,16 +3495,6 @@
           "wordCount": 11937,
           "title": "“Hollerin’ And Screamin'” — Little Esther and Stoller & Leiber at Federal Records",
           "imageUrl": "https://www.zeroto180.org/wp-content/uploads/2023/06/Little-Esther-thumbnail.jpg"
-        },
-        {
-          "id": "https://www.zeroto180.org/?p=91105",
-          "author": "Zeroto180",
-          "description": "Billboard‘s special October 19, 1968 issue devoted to ‘The World of Country Music‘ includes a 2-page article by Bill Williams – “Ladies in the Driver’s Seat” – that highlights a number of Nashville’s powerful female executives who worked without fanfare behind the scenes within the country music industry. Williams devotes one paragraph to Juanita Jones: […]\nThe post Juanita Jones — In The Driver’s Seat At ASCAP? appeared first on Zero to 180 - Three Minute Magic.",
-          "link": "https://www.zeroto180.org/juanita-jones-in-the-drivers-seat-at-ascap/",
-          "publishedOn": "2023-05-31T17:26:33.000Z",
-          "wordCount": 10651,
-          "title": "Juanita Jones — In The Driver’s Seat At ASCAP?",
-          "imageUrl": "https://www.zeroto180.org/wp-content/uploads/2023/05/Juanita-Jones-alt-thumbnail-image.jpg"
         }
       ]
     }
