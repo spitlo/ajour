@@ -6,6 +6,16 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=7872",
+          "author": "Chris Heilmann",
+          "description": "As part of the WeAreDevelopers World Congress 2023, we did a quick session on starting out as a public speaker. To this end, I was asked to do a “Five things about public speaking” video. Here is the video and a write-up about the tips. In the world of public speaking, engaging, informing, and delighting […]",
+          "link": "https://christianheilmann.com/2023/07/31/five-things-about-public-speaking/",
+          "publishedOn": "2023-07-31T08:54:49.000Z",
+          "wordCount": 1143,
+          "title": "Five things about public speaking",
+          "imageUrl": null
+        },
+        {
           "id": "https://christianheilmann.com/?p=7861",
           "author": "Chris Heilmann",
           "description": "Ab heute ist mein erster deutscher Kurs auf LinkedIn Learning Browser Entwicklerwerkzeuge für Nicht-Entwickler:innen live! In dem circa eine Stunde langem Kurs erkläre ich, wie man die Entwicklerwerkzeuge in den gängigen Browsern benutzt, um Webinhalte zu analysieren und zu verändern. Der Kurs richtet sich an alle, die sich für Webinhalte interessieren, aber keine Entwickler:innen sind. […]",
@@ -104,16 +114,6 @@
           "wordCount": 637,
           "title": "New array methods in JavaScript bring immutability",
           "imageUrl": null
-        },
-        {
-          "id": "https://christianheilmann.com/?p=7774",
-          "author": "Chris Heilmann",
-          "description": "A question I came across the other day during a JavaScript application test was this: How would you select the n-th character from the word “Example”? The fun thing here is that there are lots of different ways to do that. The one I always forget about is that you can access the index of […]",
-          "link": "https://christianheilmann.com/2023/06/02/the-many-ways-to-select-the-n-th-character-from-a-string/",
-          "publishedOn": "2023-06-02T09:20:57.000Z",
-          "wordCount": 775,
-          "title": "The many ways to select the n-th character from a string.",
-          "imageUrl": null
         }
       ]
     },
@@ -177,18 +177,7 @@
       "title": "Grumpy Gamer",
       "feedUrl": "https://grumpygamer.com/rss",
       "siteUrl": "https://grumpygamer.com",
-      "articles": [
-        {
-          "id": "https://grumpygamer.com/speed_running_mi",
-          "author": null,
-          "description": "I recently did an interview about speed running Monkey Island (I'll post a link when it's available).\nOne of the topics was how speed runners dislike random events and the end of Monkey Island 2 has a lot of randomness around when LeChuck appears. I was asked how this worked and to be honest that was a long time ago and I don't remember every little scape of code. It is also possible that I didn't write it.  But what I do have is the SCUMM source code for Monkey Island 2 and I tracked down the code.\nlechuck-appearance-chance is 4\nlechuck-appearance-interval is 300\ntimes-lechucks-appeared-recently += 1\nfoo = (3 - times-lechucks-appeared-recently)\nfoo = (random foo)\nif (!foo) {     ; after he's popped up a couple times he's likely to disappear for a while\n    times-lechucks-appeared-recently = 0\n    lechuck-appearance-chance is 10 ; that is, 1 in 10\n    lechuck-appearance-interval is 500\n}\nif (magic-doll) {   ; speed him way up after you make the doll\n    if (owner-of needle is selected-actor) {    ; and have the needle\n        lechuck-appearance-chance is 2\n        lechuck-appearance-interval is 120\n    }\n}\nThere are some other random conditions about what item you picked up last, etc, but this is the core of it.\nP.S. If you're wondering my SCUMM uses - in variable names, it's because it started out as a variant of LISP.\nP.P.S. It's also worth noting that this is for the original MI2, The special editions and SCUMMVM might have changed how this works.",
-          "link": "https://grumpygamer.com/speed_running_mi",
-          "publishedOn": "2023-06-02T07:00:00.000Z",
-          "wordCount": 363,
-          "title": "Speed running Monkey Island",
-          "imageUrl": "https://images-grumpygamer.nyc3.digitaloceanspaces.com/\n"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Emily Short's Interactive Storytelling",
@@ -201,6 +190,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2809/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/moon.png\" title=\"I mean, it's pretty, but it doesn't really affect us beyond that. Except that half the nights aren't really dark, and once or twice a day it makes the oceans flood the coasts.\" alt=\"I mean, it's pretty, but it doesn't really affect us beyond that. Except that half the nights aren't really dark, and once or twice a day it makes the oceans flood the coasts.\" />",
+          "link": "https://xkcd.com/2809/",
+          "publishedOn": "2023-07-31T00:00:00.000Z",
+          "wordCount": 178,
+          "title": "Moon",
+          "imageUrl": "https://imgs.xkcd.com/comics/moon_2x.png"
+        },
         {
           "id": "https://xkcd.com/2808/",
           "author": null,
@@ -440,16 +439,6 @@
           "wordCount": 180,
           "title": "Marble Run",
           "imageUrl": "https://imgs.xkcd.com/comics/marble_run_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2784/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/drainage_basins.png\" title=\"After a pail of water was thrown on the Wicked Witch of the West outside Salt Lake City, Utah's Great Salt Lake was measured to be 7 parts per trillion witch by volume.\" alt=\"After a pail of water was thrown on the Wicked Witch of the West outside Salt Lake City, Utah's Great Salt Lake was measured to be 7 parts per trillion witch by volume.\" />",
-          "link": "https://xkcd.com/2784/",
-          "publishedOn": "2023-06-02T00:00:00.000Z",
-          "wordCount": 180,
-          "title": "Drainage Basins",
-          "imageUrl": "https://imgs.xkcd.com/comics/drainage_basins_2x.png"
         }
       ]
     },
@@ -819,6 +808,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/724385915244560384",
+          "author": null,
+          "description": "text-mode:\nHypnotist by an unknown artist.",
+          "link": "https://text-mode.tumblr.com/post/724385915244560384",
+          "publishedOn": "2023-07-31T18:30:42.000Z",
+          "wordCount": 986,
+          "title": "text-mode:\n\nHypnotist by an unknown artist.",
+          "imageUrl": "https://64.media.tumblr.com/60e7fa16d86c90096a0bada9e7aeb34c/tumblr_p3h0kgwibQ1rpiyaso1_1280.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/724295340959907840",
           "author": null,
@@ -1598,16 +1597,6 @@
           "wordCount": 874,
           "title": "Untitled",
           "imageUrl": "https://64.media.tumblr.com/deb0b2a5dd85ac9b670e71374a947edb/32d99c72ff24debf-7e/s1280x1920/2f71db8f22c22a8f0f7116265e493f1fcfcced5b.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/718950108031533056",
-          "author": null,
-          "description": "It’s a mouse, Tintin.",
-          "link": "https://text-mode.tumblr.com/post/718950108031533056",
-          "publishedOn": "2023-06-01T18:30:52.000Z",
-          "wordCount": 973,
-          "title": "Untitled",
-          "imageUrl": "https://64.media.tumblr.com/fcd0b62069174655c0fbb61d87873ee8/a48a15c32c6be5e5-06/s540x810/923253b91867433f0a33962e689bb8ea732a9a76.png"
         }
       ]
     },
@@ -1735,36 +1724,6 @@
           "wordCount": 1588,
           "title": "Advancing the future of the internet by making math more inclusive",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/06/MIECO_BrendanFong_Profile_BlogHeader-1200x800.jpg"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=72434",
-          "author": "Kristina Bravo",
-          "description": "More than ever, we need a movement to ensure the internet remains a force for good. The Mozilla Internet Ecosystem (MIECO) program fuels this movement by supporting people who are looking to advance a more human-centered internet. With MIECO, Mozilla is looking to foster a new era of internet innovation that moves away from “fast […]\nThe post Advancing the future of the internet with the ‘Photoshop of software’ appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/mieco-jeff-lindsay/",
-          "publishedOn": "2023-06-02T00:00:00.000Z",
-          "wordCount": 1600,
-          "title": "Advancing the future of the internet with the ‘Photoshop of software’",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/05/MIECO_JeffLindsay_Profile_BlogHeader-1200x800.png"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=72431",
-          "author": "Mozilla",
-          "description": "The investment will help Fiddler scale its AI Observability Platform  (PALO ALTO, CA | JUNE 1, 2023) – Today, Mozilla Ventures is announcing an investment in Fiddler, the Silicon Valley-based company that helps enterprises build trust into AI with monitoring, explainability, analytics, fairness, and safety.  The Fiddler AI Observability Platform gives companies more visibility into […]\nThe post Mozilla Ventures invests in Fiddler, fueling better AI trust appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/mozilla-ventures-invests-in-fiddler-fueling-better-ai-trust/",
-          "publishedOn": "2023-06-01T13:00:00.000Z",
-          "wordCount": 1505,
-          "title": "Mozilla Ventures invests in Fiddler, fueling better AI trust",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/05/Screen-Shot-2023-05-18-at-9.21.04-AM-886x591.png"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=72431",
-          "author": "Mozilla",
-          "description": "The investment will help Fiddler scale its AI Observability Platform  (PALO ALTO, CA | JUNE 1, 2023) – Today, Mozilla Ventures is announcing an investment in Fiddler, the Silicon Valley-based company that helps enterprises build trust into AI with monitoring, explainability, analytics, fairness, and safety.  The Fiddler AI Observability Platform gives companies more visibility into […]\nThe post <strong>Mozilla Ventures Invests in Fiddler, Fueling Better AI Trust </strong> appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/uncategorized/mozilla-ventures-invests-in-fiddler-fueling-better-ai-trust/",
-          "publishedOn": "2023-06-01T13:00:00.000Z",
-          "wordCount": 1519,
-          "title": "Mozilla Ventures Invests in Fiddler, Fueling Better AI Trust",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/05/Screen-Shot-2023-05-18-at-9.21.04-AM-886x591.png"
         }
       ]
     },
@@ -1934,6 +1893,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=5669",
+          "author": "Cory Doctorow",
+          "description": "Today's links Kickstarting a book to end enshittification, because Amazon will not carry it: \"The Internet Con: How to Seize the Means of Computation\" comes out from Verso on Sept 5. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Kickstarting a book to end enshittification, because Amazon will not carry it (permalink) My next book is The Internet Con: How to Seize the Means of Computation: it's a Big Tech disassembly manual that explains how to disenshittify the web and bring back the old good internet. The hardcover comes from Verso on Sept 5, but the audiobook comes from me – because Amazon refuses to sell my audio: https://www.kickstarter.com/projec…",
+          "link": "https://pluralistic.net/2023/07/31/seize-the-means-of-computation/",
+          "publishedOn": "2023-07-31T16:00:11.000Z",
+          "wordCount": 3816,
+          "title": "Pluralistic: Kickstarting a book to end enshittification, because Amazon will not carry it (31 July 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=5662",
           "author": "Cory Doctorow",
@@ -2240,6 +2209,76 @@
       "siteUrl": "http://kottke.org/",
       "articles": [
         {
+          "id": "https://kottke.org/quick-links",
+          "author": null,
+          "description": "How Many Dinosaurs Remain Undiscovered? On average, one new dinosaur species is discovered every two weeks. \"We're in the golden age of paleontology.\" (via damninteresting.com)\n\"What would the internet of people look like now? Maybe we just ditch the algorithms.\" Reminds me of that business adage: \"the only way to make money is bundling and unbundling\". Maybe that's the way to make culture too.\nPaul Reubens (aka Pee-Wee Herman) has died at the age of 70. Man, fuck cancer. I *loved* Pee-wee's Playhouse when I was a kid...I never missed it.\nIt's been 40 years since her debut album; here's a look at Madonna's 40 greatest hits, ranked.\n---\nNote: Quick Links are pushed to this RSS feed twice a day. For more immediate service, check out the front page of kottke.org, the Quick Links archive, or the @kottke Mastodon feed.",
+          "link": "https://kottke.org/quick-links",
+          "publishedOn": "2023-07-31T21:52:01.000Z",
+          "wordCount": 1668,
+          "title": "Four Quick Links for Monday Afternoon",
+          "imageUrl": "https://kottke.org/images/2016/ios/180x180.png"
+        },
+        {
+          "id": "https://kottke.org/12/03/nine-year-old-ski-jumper-screws-up-courage",
+          "author": null,
+          "description": "This video shows a fourth grader trying a bigger ski jump for the first time. If you're a parent, I defy you to not tear up at least once while viewing. Oh, and the audio is essential.\n\n\n\t\t\n\t\t\n[This was originally posted on March 16, 2012.]\nTags:crying at work    \nskiing    \nsports    \nvideo",
+          "link": "https://kottke.org/12/03/nine-year-old-ski-jumper-screws-up-courage",
+          "publishedOn": "2023-07-31T21:36:25.000Z",
+          "wordCount": 198,
+          "title": "Nine-Year-Old Ski Jumper Screws Up Courage",
+          "imageUrl": "https://img.youtube.com/vi/ebtGRvP3ILg/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/07/why-pac-man-became-a-big-hit",
+          "author": null,
+          "description": "I've gotta say that I was a little skeptical when Phil Edwards started out this video saying that he wasn't going to talk about Pac-Man's gameplay as a vital component of why it was such a huge success when in came out in 1980. He allows that, of course, the gameplay was very compelling but other factors truly pushed the game beyond the competition and into its own category, including the decline of pinball (profit per square foot), its family friendliness, and some legal & financial maneuverings.\nOh, and here's the playable keychain-sized Pac-Man that you can see in the video. Didn't even know that was a thing!\nTags: Pac-Man · Phil Edwards · video · video games",
+          "link": "https://kottke.org/23/07/why-pac-man-became-a-big-hit",
+          "publishedOn": "2023-07-31T18:02:53.000Z",
+          "wordCount": 269,
+          "title": "Why Pac-Man Became a Big Hit",
+          "imageUrl": "https://img.youtube.com/vi/CD7H86TAUgc/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/quick-links",
+          "author": null,
+          "description": "Mastodon is easy and fun except when it isn't. Erin Kissane asked folks why they had disengaged from Mastodon; they described reasons like a hostile response from regulars, poor discoverability, and too serious/boring.\nA bleak account of a Greyhound bus ride across the US. \"Gone are the small, clean, cheap motels in the centre of cities, gone are public spaces where anyone can find a water fountain, a bathroom, a place to nurse a cheap cup of coffee and human company.\"\nI think about Little Bobby Tables once a week, minimum.\nRules for design in the real world: \"If it looks neat, people will want to take a photo with it. If it looks comfortable, people will want to sit on it. If it looks fun, people will play around on it.\"\n---\nNote: Quick Links are pushed to this RSS feed twice a day. For more immediate service, check out the front page of kottke.org, the Quick Links archive, or the @kottke Mastodon feed.",
+          "link": "https://kottke.org/quick-links",
+          "publishedOn": "2023-07-31T16:52:01.000Z",
+          "wordCount": 1668,
+          "title": "Four Quick Links for Monday Noonish",
+          "imageUrl": "https://kottke.org/images/2016/ios/180x180.png"
+        },
+        {
+          "id": "https://kottke.org/23/07/is-this-the-first-rap-song-1946",
+          "author": null,
+          "description": "The roots of hip-hop and rap are various and stretch back in time to the antebellum South and from there to Africa. But by some accounts, a song called Noah by gospel group The Jubalaires was the first instance of recorded music that sounded like rap. Listen for yourself...the relevant bit is right around the 35-second mark:\n\nI'm not a music historian by any stretch, but that sounds 30 years ahead of its time. There are several bad remixes of Noah on YouTube...this one is maybe the best at pairing their singing with a rap beat.\nTags: hip-hop · music · The Jubalaires · video",
+          "link": "https://kottke.org/23/07/is-this-the-first-rap-song-1946",
+          "publishedOn": "2023-07-31T16:27:52.000Z",
+          "wordCount": 258,
+          "title": "Is This the First Rap Song? (1946)",
+          "imageUrl": "https://img.youtube.com/vi/Wx0oU1OnHf8/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/07/new-writing-shed-desire-a-detachable-studio-on-rails",
+          "author": null,
+          "description": "Designed by Olson Kundig Architects, the Maxon House features a studio that's attached to the main house but can be rolled away on railroad tracks to be closer to the trees. From Dezeen:\nThe two-storey structure was based on the design of the \"traditional caboose\". A workspace sits on the first level while the second, accessible via a steel ladder, serves as a cupola for taking in views and functions as a \"calmer zone for creative exploration and restoration\".\nThe control panel that operates the rails was taken from a Burlington Northern locomotive, while the door colour and the wood used were directly informed by colours and materials commonly found on American trains.\nThe railroad ties for the track were repurposed from the Great Northern Railroad line, though the studio noted the steel tracks \"are a much larger gauge than is typically used\".\n\n\nThere's even a Wes Anderson connection (because of course there is):\nInspired by Wes Anderson's love of trains in cinema, Maxon Railway takes some visual cues in the form of on-board artifacts and props from The Darjeeling Limited.\n\n\nYou can read lots more about the house and the railway, including more than you'd probably want to know about the history of rail travel and commerce in the Pacific Northwest.\nTags: architecture · trains · video",
+          "link": "https://kottke.org/23/07/new-writing-shed-desire-a-detachable-studio-on-rails",
+          "publishedOn": "2023-07-31T13:53:59.000Z",
+          "wordCount": 377,
+          "title": "New Writing Shed Desire: A Detachable Studio on Rails",
+          "imageUrl": "https://img.youtube.com/vi/vpxnzPTKJuE/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/quick-links",
+          "author": null,
+          "description": "While visiting relatives in the Chicago area, a video game historian stumbles across a rare Discs of Tron arcade cabinet in amazing condition.\nAs temperatures increase during the summer in the US, public swimming pools are becoming harder to find. \"A legacy of segregation, the privatization of pools, and starved public recreation budgets have led to the decline.\"\n\"The Biden administration on Tuesday announced a proposal meant to force health insurers to cover mental health and addiction care as comprehensively as they cover treatment for physical health conditions.\" Good.\nFrom Rotten Tomatoes, critics pick the best 25 TV shows from the past 25 years. Breaking Bad at #1? Hmm. Newcomer Succession is #5. Also on the list: Atlanta, Fleabag, BoJack Horseman, and The Americans.\nEd Yong has decided to leave The Atlantic. What an amazing body of work he leaves behind there. His Covid reporting was essential. Good luck to him on his future projects!\nFrom Rotten Tomatoes, critics pick the best 25 movies from the past 25 years. Mad Max: Fury Road is a surprise at #1. And The Dark Knight at #4? Also on the list: Pan's Labyrinth, Portrait of a Lady on Fire, and Spirited Away.\n\"Here's a mindbending etymology fact for you: The word 'blackmail' originally had nothing to do with mail as in letters.\" (via nancyfriedman.typepad.com)\n---\nNote: Quick Links are pushed to this RSS feed twice a day. For more immediate service, check out the front page of kottke.org, the Quick Links archive, or the @kottke Mastodon feed.",
+          "link": "https://kottke.org/quick-links",
+          "publishedOn": "2023-07-28T21:52:02.000Z",
+          "wordCount": 1668,
+          "title": "Seven Quick Links for Friday Afternoon",
+          "imageUrl": "https://kottke.org/images/2016/ios/180x180.png"
+        },
+        {
           "id": "https://kottke.org/23/07/a-sunday-on-la-grande-jatte-recreated-in-wisconsin",
           "author": null,
           "description": "In 2006, photographer Mark Preuschl recreated Georges Seurat's famous impressionist painting A Sunday on La Grande Jatte in Beloit, WI with a group of volunteers. Here's the original for reference:\n\nFrom My Modern Met:\nIn conceiving this tableau vivant, the organizers wanted to keep things modern. Thus, all participants are wearing contemporary clothes with umbrellas substituted in for the 19th-century parasols. Though the team was organized, they weren't quite prepared for what mother nature threw their way the day of the shoot. Preuschl recalls winds of 20 to 25 mph coming off the river, as well as clouds that didn't allow for the shadows they were so desperately looking for. Luckily, there was a window of about 25 minutes when the sun came out and cast those shadows.\n\n\nHe really couldn't have scouted that location any better...it matches the original pretty well. Who knew you could find Belle Époque Paris in southern Wisconsin?\nTags: art · Georges Seurat · Mark Preuschl · photography · remix",
@@ -2258,6 +2297,16 @@
           "wordCount": 509,
           "title": "Rebecca Solnit: We Can't Afford to be Climate Doomers",
           "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/quick-links",
+          "author": null,
+          "description": "Designer Kelli Anderson is doing a monthly paper invention subscription. As a sometime recipient of her holiday-themed paper experiments, I can vouch for this!\nSingapore is a lovely place to visit, but they continue to hang people for drug trafficking. \"Singapore seems to positively relish these cases to demonstrate how hard they are on drugs.\"\nPeople in 1920s Berlin Nightclubs Flirted via Pneumatic Tubes. \"Like messaging on a dating app, but with — you know — tubes.\"\nThis recent episode of You're Wrong About on Sinéad O'Connor is worth a listen, particularly if all you know about her is Nothing Compares 2 U and her SNL appearance.\n---\nNote: Quick Links are pushed to this RSS feed twice a day. For more immediate service, check out the front page of kottke.org, the Quick Links archive, or the @kottke Mastodon feed.",
+          "link": "https://kottke.org/quick-links",
+          "publishedOn": "2023-07-28T16:52:01.000Z",
+          "wordCount": 1668,
+          "title": "Four Quick Links for Friday Noonish",
+          "imageUrl": "https://kottke.org/images/2016/ios/180x180.png"
         },
         {
           "id": "https://kottke.org/23/07/new-prints-hokusai-book-of-everything",
@@ -2280,6 +2329,16 @@
           "imageUrl": "https://img.youtube.com/vi/wJQGf5hn7bs/0.jpg"
         },
         {
+          "id": "https://kottke.org/quick-links",
+          "author": null,
+          "description": "Their Day in the Sun: Women of the Manhattan Project. \"Although women participated in all aspects of the Manhattan Project, their contributions are either omitted or only mentioned briefly in most histories of the project.\"\nRotating sandwiches. It is what it says on the tin. See also Scanwiches.\nOn creative grief and how to deal with it. \"When finishing up a project, feelings of loss, despair, sadness or emptiness may rise to the surface.\"\nActivist and singer Sinéad O'Connor has died at the age of 56. \n---\nNote: Quick Links are pushed to this RSS feed twice a day. For more immediate service, check out the front page of kottke.org, the Quick Links archive, or the @kottke Mastodon feed.",
+          "link": "https://kottke.org/quick-links",
+          "publishedOn": "2023-07-26T21:52:02.000Z",
+          "wordCount": 1668,
+          "title": "Four Quick Links for Wednesday Afternoon",
+          "imageUrl": "https://kottke.org/images/2016/ios/180x180.png"
+        },
+        {
           "id": "https://kottke.org/23/07/some-of-the-oldest-photos-you-will-ever-see",
           "author": null,
           "description": "In 1842, a French artist and scholar named Joseph-Philibert Girault de Prangey set out on a tour of the eastern Mediterranean to document sights and architecture via the brand new medium of photography. He started off in what is now Italy and continued on to Greece, Egypt, Turkey, Syria, and the Levant (which includes modern-day Lebanon, Israel, and Palestine). The daguerreotypes he took are the oldest surviving photos of those locations (aside from Italy). It's incredible to time travel back 180 years to see what these places looked like. (via aeon)\nTags: art · Joseph-Philibert Girault de Prangey · photography · travel · video",
@@ -2288,6 +2347,16 @@
           "wordCount": 283,
           "title": "Some of the Oldest Photos You Will Ever See",
           "imageUrl": "https://img.youtube.com/vi/hH5Mx5acrBk/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/quick-links",
+          "author": null,
+          "description": "Colossal Is Taking a Summer Break! Colossal is one of my all-time favorite sites and it's great to see them stepping away for some time off. \nI guess I care a lot about things like Futurama's collab with Fortnite now? *sneaks away from the computer to go get a Bender skin from the item shop...*\nThe Louvre Is Thrilled to Announce It Is Rebranding to \"UVR\". \"Is that an acronym? Maybe. Is it a meaningless assemblage of letters? Perhaps. Is it memorable? Searchable? Do we even own the IP? I'm not telling.\"\nThe NASA Voyager Golden Record master tapes owned by Carl Sagan and Ann Druyan are up for auction at Sotheby's. Est: $400,000-600,000.\n---\nNote: Quick Links are pushed to this RSS feed twice a day. For more immediate service, check out the front page of kottke.org, the Quick Links archive, or the @kottke Mastodon feed.",
+          "link": "https://kottke.org/quick-links",
+          "publishedOn": "2023-07-26T16:52:01.000Z",
+          "wordCount": 1668,
+          "title": "Four Quick Links for Wednesday Noonish",
+          "imageUrl": "https://kottke.org/images/2016/ios/180x180.png"
         },
         {
           "id": "https://kottke.org/23/07/how-streaming-caused-the-writers-strike",
@@ -2320,6 +2389,16 @@
           "imageUrl": "https://img.youtube.com/vi/lLXNc7unIT4/0.jpg"
         },
         {
+          "id": "https://kottke.org/quick-links",
+          "author": null,
+          "description": "Here's what happened after Covid vaccines were made available in the US: \"The excess death rate among Republican voters was 43% higher than the excess death rate among Democratic voters.\" 43% is a *massive* difference in outcome. Literally a death cult.\nFour questions that Ezra Klein uses to determine if he has had a good day: \"Am I sleeping enough? Am I getting enough time to myself? Am I deeply connected with the people I love? Am I making fairly healthy choices in my body?\"\nThree years ago, a NASA mission collected a sample from an asteroid called Bennu, and in September, that sample will finally return to Earth to be analyzed.\nAlison Bechdel on the Bechdel test for movies: \"It was a joke. I didn't ever intend for it to be the real gauge it has become...\"\nAn organization called Loose Ends helps finish craft projects (knitting, sewing, etc.) that people who are ill or have died have left behind. \"We keep your loved ones close by completing the projects they've left behind.\"\n---\nNote: Quick Links are pushed to this RSS feed twice a day. For more immediate service, check out the front page of kottke.org, the Quick Links archive, or the @kottke Mastodon feed.",
+          "link": "https://kottke.org/quick-links",
+          "publishedOn": "2023-07-25T21:52:01.000Z",
+          "wordCount": 1668,
+          "title": "Five Quick Links for Tuesday Afternoon",
+          "imageUrl": "https://kottke.org/images/2016/ios/180x180.png"
+        },
+        {
           "id": "https://kottke.org/13/11/sorting-algorithms-visualized",
           "author": null,
           "description": "This video visualization of 15 different sorting algorithms is mesmerizing. (Don't forget the sound.)\nAn explanation of the process. You can play with several different kinds of sorts here.\n\n\n\t\t\n\t\t\n[This was originally posted on November 13, 2013.]\nTags:infoviz    \nmesmerizing    \nprogramming    \nvideo",
@@ -2340,6 +2419,16 @@
           "imageUrl": "https://img.youtube.com/vi/xC-cyrIq-qI/0.jpg"
         },
         {
+          "id": "https://kottke.org/quick-links",
+          "author": null,
+          "description": "And here's an interesting dual review of Oppenheimer and Barbie from Anne Helen Petersen. \"Barbie doesn't argue that the world should look like Barbie's world so much as dare you to find offense in it.\"\nThoughtful dissenting review of Barbie from Maria Bustillos. \"Barbie Land is revealed as a dysfunctional, corrupt, duplicitous society, and the story ends with its original autocracy in place.\"\nThe small vehicles of Tokyo, \"a slim cataloguing of the rich diversity of small vehicles that help shape street life in the world’s largest city\". (via studiodradiodurans.com)\nThis 211-shot badminton rally lasts almost three and a half minutes.\n---\nNote: Quick Links are pushed to this RSS feed twice a day. For more immediate service, check out the front page of kottke.org, the Quick Links archive, or the @kottke Mastodon feed.",
+          "link": "https://kottke.org/quick-links",
+          "publishedOn": "2023-07-25T16:52:01.000Z",
+          "wordCount": 1668,
+          "title": "Four Quick Links for Tuesday Noonish",
+          "imageUrl": "https://kottke.org/images/2016/ios/180x180.png"
+        },
+        {
           "id": "https://kottke.org/23/07/my-recent-media-diet-barbenheimer-edition",
           "author": null,
           "description": "Hey folks. I'm trying to get into the habit of doing these media diet posts more frequently than every six months so they're actually, you know, somewhat relevant. Here's what I've been watching, reading, listening to, and experiencing over the last two months.\n\nSpider-Man: Across the Spider-Verse. One of the most visually stunning movies I've ever seen. A worthy sequel to the first film. (A)\nOn Being with Krista Tippett: Isabel Wilkerson. I will take any opportunity to listen to Isabel Wilkerson talk about her work. (A)\nDeep Space Archives. Been listening to this album by A.L.I.S.O.N on heavy rotation while working recently. (A-)\nParable of the Sower by Octavia Bulter. Bleak and powerful, science fiction at its finest. (A)\n\nAsteroid City. I liked Wes Anderson's latest effort quite a bit. …",
@@ -2348,6 +2437,16 @@
           "wordCount": 980,
           "title": "My Recent Media Diet, Barbenheimer Edition",
           "imageUrl": "https://img.youtube.com/vi/shW9i6k8cB0/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/quick-links",
+          "author": null,
+          "description": "How to use Apple's AirPods as a hearing aid. I covered some similar ground in a post about the 2nd-gen AirPods Pro in April.\nMessi in Miami Feels Bittersweet. \"The greatest soccer player of all time has entered the farewell-tour phase of his career.\"\nA brief review of the emerging field of spatial biology, which is already driving medical discovery. \"You can think of it as generating the Google Map for the entire healthy adult human body at the single-cell level.\"\n---\nNote: Quick Links are pushed to this RSS feed twice a day. For more immediate service, check out the front page of kottke.org, the Quick Links archive, or the @kottke Mastodon feed.",
+          "link": "https://kottke.org/quick-links",
+          "publishedOn": "2023-07-24T21:52:01.000Z",
+          "wordCount": 1668,
+          "title": "Three Quick Links for Monday Afternoon",
+          "imageUrl": "https://kottke.org/images/2016/ios/180x180.png"
         },
         {
           "id": "https://kottke.org/23/07/stephanie-shihs-ceramic-sculptures-of-familiar-objects",
@@ -2370,6 +2469,16 @@
           "imageUrl": "https://img.youtube.com/vi/VXMgeW7SzA0/0.jpg"
         },
         {
+          "id": "https://kottke.org/quick-links",
+          "author": null,
+          "description": "We Need to See More Parents Having Abortions in Film and Television. \"Parents are the most common abortion patients yet storylines about the medical choice almost always revolve around single teens.\"\nThe Earth is in uncharted climate territory. \"I'm not aware of a similar period when all parts of the climate system were in record-breaking or abnormal territory.\"\n\"What happens when an editor who runs a breaking news team for The Times turns off his phone and takes a weeklong vow of silence at a meditation retreat?\" One of these days, I should figure out a meditation practice.\nTwitter begins the process of rebranding to X. Ha ha ha ha ha ha ha ha ha ha ha ha ha ha. What a colossal dope.\n---\nNote: Quick Links are pushed to this RSS feed twice a day. For more immediate service, check out the front page of kottke.org, the Quick Links archive, or the @kottke Mastodon feed.",
+          "link": "https://kottke.org/quick-links",
+          "publishedOn": "2023-07-24T16:52:01.000Z",
+          "wordCount": 1668,
+          "title": "Four Quick Links for Monday Noonish",
+          "imageUrl": "https://kottke.org/images/2016/ios/180x180.png"
+        },
+        {
           "id": "https://kottke.org/23/07/applying-high-voltage-to-kids-toys",
           "author": null,
           "description": "When you apply power with higher-than-normal voltage to electric kids toys, they tend to move faster. When you apply 30V instead of the usual 2.5V or 5V, they move really fast:\n\nThis reminds me of when I was in grade school. Does anyone remember Stompers? They were battery-operated cars and trucks that were bigger than HotWheels and, while not remote-controlled, were able to move around under their own power. But they weren't that speedy...maybe they could do 1-2 mph.\nAnyway, some kid at school figured out that you could remove the AA battery, connect wires to the battery terminals, and then connect those wires to as many C- and D-cell batteries as you could gang together in a series. So instead of the usual 1.5V, you could pump 4.5V, 6V, 7.5V, or even 9V into those tiny cars. And boy, did they go. We could barely keep up as we raced them against each other down the halls, running behind them holding our battery packs. But the thrills were short-lived — I think the school banned them and all that current burned the tiny Stomper motors out after awhile. Fun while it lasted though! (via waxy)\nTags: electricity · energy · science · video",
@@ -2390,6 +2499,16 @@
           "imageUrl": "https://img.youtube.com/vi/1f2blKai7HA/0.jpg"
         },
         {
+          "id": "https://kottke.org/quick-links",
+          "author": null,
+          "description": "'From home' is a work of conceptual art by Peter Liversidge that consists of a 38-meter-long measuring tape that is uncoiled 3.8cm each year on July 20 to represent how much further we are from the moon. It will be fully unrolled in 2969. (via instagram.com)\nSay what?! Comet 12P/Pons-Brooks will be visible during the 2024 total solar eclipse. Double feature!\nEvery Christopher Nolan movie, ranked by the AV Club. Oppenheimer is a surprise #1. My #1 would be Dunkirk or maybe Inception. But I've always preferred The Dark Knight Rises to The Dark Knight so grain of salt and all that.\n---\nNote: Quick Links are pushed to this RSS feed twice a day. For more immediate service, check out the front page of kottke.org, the Quick Links archive, or the @kottke Mastodon feed.",
+          "link": "https://kottke.org/quick-links",
+          "publishedOn": "2023-07-21T21:52:01.000Z",
+          "wordCount": 1668,
+          "title": "Three Quick Links for Friday Afternoon",
+          "imageUrl": "https://kottke.org/images/2016/ios/180x180.png"
+        },
+        {
           "id": "https://kottke.org/23/07/barbie-girl-in-the-style-of-six-classical-composers",
           "author": null,
           "description": "This is fun: Aqua's pop hit Barbie Girl, redone in the style of six classical composers: Mozart, Beethoven, Schumann, Schubert, Chopin, and Ravel. (via @Erikmitk)\nTags: Aqua · Barbie · music · remix · video",
@@ -2408,6 +2527,16 @@
           "wordCount": 312,
           "title": "Cypress Hill's Tiny Desk Concert",
           "imageUrl": "https://img.youtube.com/vi/tUApO77uUUk/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/quick-links",
+          "author": null,
+          "description": "Dutch crows and magpies are building nests out of anti-bird spikes. \"Even for me as a nest researcher, these are the craziest bird nests I've ever seen.\"\nA collection of surprisingly elaborate antique pencil sharpeners in action. I think the spinning wheel of sandpaper is my favorite. (via austinkleon.com)\nI saw Oppenheimer last night (great!) and the first thing I did when I got home was to order the book on which it's based, the Pulitzer-winning American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer.\n---\nNote: Quick Links are pushed to this RSS feed twice a day. For more immediate service, check out the front page of kottke.org, the Quick Links archive, or the @kottke Mastodon feed.",
+          "link": "https://kottke.org/quick-links",
+          "publishedOn": "2023-07-21T16:52:02.000Z",
+          "wordCount": 1668,
+          "title": "Three Quick Links for Friday Noonish",
+          "imageUrl": "https://kottke.org/images/2016/ios/180x180.png"
         },
         {
           "id": "https://kottke.org/23/07/barack-obamas-2023-summer-reading-list",
@@ -2448,6 +2577,16 @@
           "wordCount": 541,
           "title": "Watch 1969's Apollo 11 Moon Landing \"Live!\"",
           "imageUrl": "https://kottke.org/plus/misc/images/apollo-11-tv-coverage.jpg"
+        },
+        {
+          "id": "https://kottke.org/quick-links",
+          "author": null,
+          "description": "It's Summer Vacation. Does the Media Know Where Clarence Thomas Is? \"As corruption scandals ooze from the muck of the Supreme Court, it's time for the media to up their reporting game.\"\nBig Ben is a collection of 86,400 word search puzzles, one for each second of the day. (via waxy.org)\nLegendary hacker Kevin Mitnick has died at the age of 59.\n---\nNote: Quick Links are pushed to this RSS feed twice a day. For more immediate service, check out the front page of kottke.org, the Quick Links archive, or the @kottke Mastodon feed.",
+          "link": "https://kottke.org/quick-links",
+          "publishedOn": "2023-07-20T16:52:02.000Z",
+          "wordCount": 1668,
+          "title": "Three Quick Links for Thursday Noonish",
+          "imageUrl": "https://kottke.org/images/2016/ios/180x180.png"
         },
         {
           "id": "https://kottke.org/23/07/iridescent-hot-water-colors",
@@ -3438,46 +3577,6 @@
           "wordCount": 335,
           "title": "Thank You For Not Answering",
           "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/06/my-recent-media-diet-summer-2023-edition",
-          "author": null,
-          "description": "Oh no. It's June? Where what how?!? I did not mean to let this much time elapse since the last installment of my media diet, all the way back on Dec 2 in a completely different calendar year. But there's nothing to be done about it, we're all here now, so tuck your arms inside the carriage and let's do this thing. Here's what I've been watching, reading, listening to, and experiencing over the last six months. Enjoy.\n\nFire of Love. Superb documentary on volcanos and obsession. The footage, mostly shot by the subjects, is unbelievable. (A)\nStar Trek: First Contact. Maybe my favorite Star Trek movie? Ok, maybe not favorite but I like it a lot. (A)\nSplendor. This is one of my favorite engine-building games that I've played — it strips the concept down to the bare bones. That makes it easy to …",
-          "link": "https://kottke.org/23/06/my-recent-media-diet-summer-2023-edition",
-          "publishedOn": "2023-06-01T20:22:57.000Z",
-          "wordCount": 2452,
-          "title": "My Recent Media Diet, Summer 2023 Edition",
-          "imageUrl": "https://kottke.org/plus/misc/images/june-1st.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/06/george-takei-recalls-his-childhood-in-a-wwii-internment-camp",
-          "author": null,
-          "description": "In this short video from the BBC narrated by Helena Bonham Carter, activist and actor George Takei talks about his imprisonment in an American concentration camp during WWII because he was of Japanese descent.\nI began school in Rohwer, a real school, in a black tar paper barrack. There was an American flag hanging at the front of the classroom and on the first morning, the teacher said, \"We're going begin every morning with the pledge of allegiance to the flag. I will teach it to you and you are to memorize that.\" But I could see right outside my schoolhouse window the barbed wire fence and the sentry tower as I recited the words \"with liberty and justice for all\". An innocent kid, too young to understand the stinging irony in those words.\n\n\nTakei has done many talks & interviews over the years about his experience, including for the Archive of American Television, Democracy Now!, and a TED Talk back in 2014:\n\nHe also published a graphic novel about his time in the camps called They Called Us Enemy.\nTags: George Takei · interviews · racism · Star Trek · TV · USA · video · war · World War II",
-          "link": "https://kottke.org/23/06/george-takei-recalls-his-childhood-in-a-wwii-internment-camp",
-          "publishedOn": "2023-06-01T18:13:50.000Z",
-          "wordCount": 375,
-          "title": "George Takei Recalls His Childhood in a WWII Internment Camp",
-          "imageUrl": "https://img.youtube.com/vi/LeBKBFAPwNc/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/06/the-best-photos-of-the-milky-way-for-2023",
-          "author": null,
-          "description": "Capture the Atlas have announced their picks for the 2023 Milky Way Photographer of the Year competition. As usual, I've included a few of my favorites here — from top to bottom: Jakob Sahner's photo from the Canary Islands, Mihail Minkov's composite shot of the Milky Way as it looks in both the summer & winter, and Steffi Lieberman amongst the baobab trees in Madagascar. Here's Minkov explaining his full-galactic view:\nI've always wondered what the night sky would look like if we could see the two Milky Way arches from the winter and summer side by side. This is practically impossible, since they are part of a whole and are visible at different times of the day.\nHowever, this 360-degree time-blended panorama shows us what they would look like. The two arches of the Milky Way represent one object in the starry sky, with part of it visible in winter and part of it in summer. Therefore, they are called the winter and summer arches. The winter arch includes objects that we can observe from October to March, primarily associated with the constellation Orion.\nOn the other hand, the summer arch features the Milky Way core, visible from March to September, which is the most characteristic and luminous part of the night sky, representing the center of our galaxy.\n\n\n Tags: astronomy · best of · best of 2023 · Milky Way · photography",
-          "link": "https://kottke.org/23/06/the-best-photos-of-the-milky-way-for-2023",
-          "publishedOn": "2023-06-01T16:03:30.000Z",
-          "wordCount": 413,
-          "title": "The Best Photos of the Milky Way for 2023",
-          "imageUrl": "https://kottke.org/plus/misc/images/milky-way-2023-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/06/making-a-solar-powered-billion-year-lego-clock",
-          "author": null,
-          "description": "Ok this is kind of incredible: Brick Technology built a solar-powered Lego clock that will keep time for a billion years. It's got various displays in the style of an astronomical clock so you can keep track of seconds, hours, months, centuries, and even galactical years (the amount of time the Sun takes to orbit the center of the galaxy). The clock is powered by solar energy, and the solar cell is connected to the clock so that it tilts throughout the day to keep facing the sun. \nThis is a) an extremely accessible explanation of how clocks work, b) the nerdiest thing ever, and c) I love it so much. Even if you're not a Lego fan, you should watch this. (For more on how clocks work, check out Bartosz Ciechanowski's excellent explainer on mechanical watches.)\nThe obvious thing that sprung to mind watching this was The Clock of the Long Now, a 10,000-year clock being constructed inside a mountain in West Texas. But I also thought of Arthur Ganson's Machine With Concrete, which utilizes extreme gear ratios to turn an input of 200 rpm into a gear that turns only once every 2 trillion years. That's slow enough that the final gear is actually embedded in concrete and it doesn't affect the operation of the machine at all.\n\nSee also Here's What a Googol-to-One Gear Ratio Looks Like, 20 Mechanical Principles Combined in a Useless Lego Machine, and A Lego 5-Speed Manual Transmission.\nTags: Lego · time · video",
-          "link": "https://kottke.org/23/06/making-a-solar-powered-billion-year-lego-clock",
-          "publishedOn": "2023-06-01T13:51:19.000Z",
-          "wordCount": 428,
-          "title": "Making A Solar-Powered Billion-Year Lego Clock",
-          "imageUrl": "https://img.youtube.com/vi/kRzgCylePjk/0.jpg"
         }
       ]
     },
@@ -3486,6 +3585,16 @@
       "feedUrl": "https://www.zeroto180.org/feed/",
       "siteUrl": "https://www.zeroto180.org/",
       "articles": [
+        {
+          "id": "https://www.zeroto180.org/?p=91199",
+          "author": "Zeroto180",
+          "description": "In 1963, Buffy Sainte-Marie had the courage to speak out against an undeclared war in which the United States had conscripted 16,000 troops to serve as “advisors,” and consequently, was banned from singing “The Universal Soldier” on US radio and TV until 1965. It is curious to see which countries released Sainte-Marie’s 1965 single — […]\nThe post Buffy Sainte-Marie — 97 Men (Likely More) Don’t Call Her Honey appeared first on Zero to 180 - Three Minute Magic.",
+          "link": "https://www.zeroto180.org/buffy-sainte-marie-97-men-likely-more-dont-call-her-honey/",
+          "publishedOn": "2023-07-31T19:11:34.000Z",
+          "wordCount": 12667,
+          "title": "Buffy Sainte-Marie — 97 Men (Likely More) Don’t Call Her Honey",
+          "imageUrl": "https://www.zeroto180.org/wp-content/uploads/2023/07/Buffy-Sainte-Marie-yet-another-thumbnail-attempt.jpg"
+        },
         {
           "id": "https://www.zeroto180.org/?p=91320",
           "author": "Zeroto180",
