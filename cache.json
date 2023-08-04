@@ -449,16 +449,6 @@
           "wordCount": 180,
           "title": "UFO Evidence",
           "imageUrl": "https://imgs.xkcd.com/comics/ufo_evidence_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2785/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/marble_run.png\" title=\"I have so many plans. It would incorporate a Galton board, a Ranque-Hilsch marble vortex tube, and a compartment lined with pinball bouncers with a camera-and-servo Maxwell's Demon that separated the balls into fast and slow sides.\" alt=\"I have so many plans. It would incorporate a Galton board, a Ranque-Hilsch marble vortex tube, and a compartment lined with pinball bouncers with a camera-and-servo Maxwell's Demon that separated the balls into fast and slow sides.\" />",
-          "link": "https://xkcd.com/2785/",
-          "publishedOn": "2023-06-05T00:00:00.000Z",
-          "wordCount": 180,
-          "title": "Marble Run",
-          "imageUrl": "https://imgs.xkcd.com/comics/marble_run_2x.png"
         }
       ]
     },
@@ -772,6 +762,16 @@
       "siteUrl": "https://lea.verou.me/feed.xml",
       "articles": [
         {
+          "id": "https://lea.verou.me/blog/2023/numbers-vs-brackets/",
+          "author": null,
+          "description": "As you may know, this summer I am leading the design of the inaugural State of HTML survey.\nNaturally, I am also exploring ways to improve both survey UX, as well as all questions.\nShaine Madala, a data scientist working on the survey design team proposed using numerical inputs instead of brackets for the income question.\nWhile I was initially against it,\nI decided to explore this a bit further, which changed my opinion.\nThere are actually four demographics questions in State of X surveys where the answer is essentially a number, yet we ask respondents to select a bracket:\nage, years of experience, company size, and income.\nThe arguments for brackets are:\nThey are more privacy preserving for sensitive questions (e.g. people may feel more comfortable sharing an income bracket than their act…",
+          "link": "https://lea.verou.me/blog/2023/numbers-vs-brackets/",
+          "publishedOn": "2023-08-03T00:00:00.000Z",
+          "wordCount": 1261,
+          "title": "Numbers or Brackets for numeric questions?",
+          "imageUrl": null
+        },
+        {
           "id": "https://lea.verou.me/blog/2023/design-state-of-html/",
           "author": null,
           "description": "You have likely participated in several Devographics surveys before,\nsuch as State of CSS, or State of JS.\nThese surveys have become the primary source of unbiased data for the practices of front-end developers today\n(there is also the Web Almanac research, but because this studies what is actually used on the web, it takes a lot longer for changes in developer practices to propagate).\nYou may remember that last summer, Google sponsored me to be Survey Design Lead for State of CSS 2022.\nIt went really well: we got 60% higher response rate than the year before, which gave browsers a lot of actionable data to prioritize their work.\nThe feedback from these surveys is a prime input into the Interop project,\nwhere browsers collaborate to implement the most important features for developers inte…",
@@ -828,6 +828,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/724657726797611008",
+          "author": null,
+          "description": "text-mode:\nASCII art by Frederick Hammersley, 1969. Made on an IBM-computer (which used EBCDIC and not ASCII encoding), and:\n\nThe alphanumeric characters we could ‘draw’ with were: the alphabet, ten numerals and eleven symbols, such as periods, dashes, slashes, etc….\n\nh/t: Robert Doerfler",
+          "link": "https://text-mode.tumblr.com/post/724657726797611008",
+          "publishedOn": "2023-08-03T18:31:02.000Z",
+          "wordCount": 1073,
+          "title": "text-mode:\n\nASCII art by Frederick Hammersley, 1969. Made on an...",
+          "imageUrl": "https://64.media.tumblr.com/8f83e117812ba664329910a6c3b89060/tumblr_p32qj83iDi1rpiyaso1_640.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/724567110399950848",
           "author": null,
@@ -1587,26 +1597,6 @@
           "wordCount": 1032,
           "title": "uzukurukurukuru:\n\nCan i interest you in some 2ch ascii cats in...",
           "imageUrl": "https://64.media.tumblr.com/8c04530187591d12f290c645b5d91f1f/efdf60e0668b1a89-bc/s500x750/bf945fc2444caa587c6e33bc6fc63bdf8968b2a0.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/719225679689973760",
-          "author": null,
-          "description": "Faun. PETSCII by Electric, 2023.",
-          "link": "https://text-mode.tumblr.com/post/719225679689973760",
-          "publishedOn": "2023-06-04T19:30:58.000Z",
-          "wordCount": 959,
-          "title": "Untitled",
-          "imageUrl": "https://64.media.tumblr.com/798f293716512d0471b84e56452d5143/f5b5c87c2200b47b-78/s400x600/cad0d600be8aa21b608e8e79abc767796260dd30.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/719221879032938496",
-          "author": null,
-          "description": "Amiga ANSI by Goto80, 2023.",
-          "link": "https://text-mode.tumblr.com/post/719221879032938496",
-          "publishedOn": "2023-06-04T18:30:33.000Z",
-          "wordCount": 1010,
-          "title": "Untitled",
-          "imageUrl": "https://64.media.tumblr.com/982226fe8091bf5af131d3b6e626fac9/ed87121ecc3f01a7-5a/s1280x1920/346ff3840e4885d991d51bc95d83e5dc06c2d057.png"
         }
       ]
     },
@@ -1615,6 +1605,16 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=72792",
+          "author": "Kristina Bravo",
+          "description": "Gender-based violence (GBV) is a global pandemic that affects one in three women in their lifetime. Kwanele Bringing Women Justice, one of the winning startups at Mozilla’s Responsible AI Challenge, wants to help survivors of abuse in South Africa by giving women and children an easy-to-use tool to report and successfully prosecute crimes involving gender-based […]\nThe post Making trustworthy chatbots to support women plagued by violence and abuse appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/ai/chatbot-support-for-women/",
+          "publishedOn": "2023-08-03T18:29:42.000Z",
+          "wordCount": 1867,
+          "title": "Making trustworthy chatbots to support women plagued by violence and abuse",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/08/fx_blog_LeonoraTima_header-1080x720.jpg"
+        },
         {
           "id": "https://blog.mozilla.org/?p=72768",
           "author": "Jenifer Boscacci",
@@ -1781,16 +1781,6 @@
           "wordCount": 985,
           "title": "New zine: How Integers and Floats Work",
           "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2023/06/05/some-blogging-myths/",
-          "author": null,
-          "description": "A few years ago I gave a short talk (slides)\nabout myths that discourage people from blogging. I was chatting with a friend\nabout blogging the other day and it made me want to write up that talk as a\nblog post.\nhere are the myths:\nmyth: you need to be original\nmyth: you need to be an expert\nmyth: posts need to be 100% correct\nmyth: writing boring posts is bad\nmyth: you need to explain every concept\nmyth: page views matter\nmyth: more material is always better\nmyth: you need to be original\nThis is probably the one I hear the most often – “Someone has written about\nthis before! Who’s going to care about what I have to say?“.\nThe main way I think about this personally is:\nidentify something I personally have found confusing or interesting\nwrite about it\nThe idea is that if I found it confusing…",
-          "link": "https://jvns.ca/blog/2023/06/05/some-blogging-myths/",
-          "publishedOn": "2023-06-05T07:30:34.000Z",
-          "wordCount": 2060,
-          "title": "Some blogging myths",
-          "imageUrl": null
         }
       ]
     },
@@ -1893,6 +1883,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=5708",
+          "author": "Cory Doctorow",
+          "description": "Today's links Cloudburst: The timely surge of \"local-first computing.\" Hey look at this: Delights to delectate. This day in history: 2003, 2013, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Cloudburst (permalink) Enshittification isn't inevitable: under different conditions and constraints, the old, good internet could have given way to a new, good internet. Enshittification is the result of specific policy choices: encouraging monopolies; enabling high-speed, digital shell games; and blocking interoperability. First we allowed companies to buy up their competitors. Google is the shining example here: having made one good product (search), they then fielded an essentially unbroken string of in-house flops, but it didn't matter, …",
+          "link": "https://pluralistic.net/2023/08/03/there-is-no-cloud/",
+          "publishedOn": "2023-08-03T18:12:11.000Z",
+          "wordCount": 3668,
+          "title": "Pluralistic: Cloudburst (03 August 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=5702",
           "author": "Cory Doctorow",
@@ -2162,16 +2162,6 @@
           "wordCount": 4387,
           "title": "Pluralistic: A business model for bankrupting the oil companies(06 June 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=5461",
-          "author": "Cory Doctorow",
-          "description": "Today's links Wall Street Journal goes to bat for the vultures who want to steal your house: When the editorial page leaks into the news. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Wall Street Journal goes to bat for the vultures who want to steal your house (permalink) The tacit social contract between the Wall Street Journal and its readers is this: the editorial page is for ideology, and the news section is for reality. Money talks and bullshit walks – and reality's well-known anticapitalist bias means that hewing too closely to ideology will make you broke, and thus unable to push your ideology. That's why the editorial page will rail aga…",
-          "link": "https://pluralistic.net/2023/06/05/vulture-capitalism/",
-          "publishedOn": "2023-06-05T09:13:37.000Z",
-          "wordCount": 3962,
-          "title": "Pluralistic: Wall Street Journal goes to bat for the vultures who want to steal your house (04 June 2023)",
-          "imageUrl": null
         }
       ]
     },
@@ -2203,6 +2193,36 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/08/five-crises-republicans-made-up-to-distract-harm-americans",
+          "author": null,
+          "description": "In a June piece for The Guardian and the video above from just a few days ago, Robert Reich outlines five crises — including wokeness, the trans panic, and critical race theory — that Republicans have manufactured in order to deflect from their true agenda. \nVirginia governor Glenn Youngkin's \"day one\" executive order banned the teaching of critical race theory. DeSantis and Greg Abbott, the Texas governor, have also banned it from schools.\nHere again, though, there's no evidence of a public threat. CRT simply teaches America's history of racism, which students need to understand to be informed citizens.\nBanning it is a scare tactic to appeal to a largely white, culturally conservative voter base.\n\n\nHowever, I would argue that Reich needed to go a bit further. While the crises are inventions, their consequences go beyond mere distraction and into the territory of active harm, particularly of queer and trans people, Black people, and people of color. That's why I modified the title from his original.\nTags: LGBTQ · politics · racism · Robert Reich · USA · video",
+          "link": "https://kottke.org/23/08/five-crises-republicans-made-up-to-distract-harm-americans",
+          "publishedOn": "2023-08-03T19:32:27.000Z",
+          "wordCount": 334,
+          "title": "Five Crises Republicans Made Up to Distract & Harm Americans",
+          "imageUrl": "https://img.youtube.com/vi/IZQF3oYt8hs/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/08/the-weirdest-and-most-chaotic-soccer-match-ever",
+          "author": null,
+          "description": "In the 1994 Caribbean Cup qualifying group stage match between Barbados and Grenada, the 90 minutes of normal time ended with an intentional own goal by Barbados and then with Grenada trying to score either a goal or an own goal and Barbados defending both nets. Say what?! How did this happen?\nWell, it was the confluence of a few things:\nThe match would go into overtime in case of a tie.\nThe \"golden goal\" rule was in effect for overtime...the first goal wins and the match is immediately over. Oh, and the goal is worth 2 goals, not just one.\n\n\n\nTo qualify for the next round, Barbados not only needed to win the match, they needed to win it by two goals...a one-goal difference would not be enough.\n\nI found out about the match by reading this SBNation article but Wikipedia does a better job in…",
+          "link": "https://kottke.org/23/08/the-weirdest-and-most-chaotic-soccer-match-ever",
+          "publishedOn": "2023-08-03T17:10:26.000Z",
+          "wordCount": 577,
+          "title": "The Weirdest and Most Chaotic Soccer Match Ever",
+          "imageUrl": "https://img.youtube.com/vi/TbuD-6BbnQw/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/08/why-us-malls-are-dying-and-european-malls-arent",
+          "author": null,
+          "description": "From Adam Kovacs' YouTube channel Adam Something comes this brisk 10-minute video essay on why European malls are doing better than their American progenitors. I thought his third point, about poor urban planning, was particularly interesting: malls tend to fail in America because they are not integrated into the fabric of towns and cities (because very little is integrated into the fabric of cities and towns in many places these days).\nMalls, hell, all commerce has to be an organic part of towns and cities. People should be able to get to them by means other than a car, and conveniently. Such integrated commercial spaces are far more resilient. If your commercial spaces aren't resilient — if you just plop a big box outside the town — don't be surprised when it goes bust in a few years. And then it's bulldozed for the next thing to be put up for it to go bust the same way and then get bulldozed and then the next thing and the next and the next so on and so forth.\n\n\n Tags: Adam Kovacs · cities · economics · Europe · USA · video",
+          "link": "https://kottke.org/23/08/why-us-malls-are-dying-and-european-malls-arent",
+          "publishedOn": "2023-08-03T14:57:10.000Z",
+          "wordCount": 344,
+          "title": "Why US Malls Are Dying (And European Malls Aren't)",
+          "imageUrl": "https://img.youtube.com/vi/586SO9-wWoA/0.jpg"
+        },
         {
           "id": "https://kottke.org/23/08/wonder-is-steven-spielbergs-blockbuster-secret-ingredient",
           "author": null,
