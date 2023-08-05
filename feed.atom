@@ -2,10 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2023-08-04T00:34:32.127Z</updated>
+    <updated>2023-08-05T00:33:48.693Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: Fighting junk fees is "woke" (04 August 2023)]]></title>
+        <id>https://pluralistic.net/?p=5712</id>
+        <link href="https://pluralistic.net/2023/08/04/owning-the-libs/"/>
+        <updated>2023-08-04T18:45:51.000Z</updated>
+        <summary type="html"><![CDATA[Today's links Fighting junk fees is "woke": Visa and Mastercard want you to pay credit card swipe fees to own the libs. Hey look at this: Delights to delectate. This day in history: 2008, 2013, 2018, 2021 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Fighting junk fees is "woke" (permalink) "Populism" isn't intrinsically left or right. The distinction between the two is often obscured by jargon, but there's a simple litmus test (courtesy of Steven Brust): "ask what's more important: human rights, or property rights. If they say 'property rights are human rights,' they're on the right." Which is to say, both the left and the right can be populist, but the populist left seeks to improve peoples' lives, no matter what that takes, while t…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[text-mode:
+
+Native American Hopi baskets. First and second one...]]></title>
+        <id>https://text-mode.tumblr.com/post/724748317533339649</id>
+        <link href="https://text-mode.tumblr.com/post/724748317533339649"/>
+        <updated>2023-08-04T18:30:56.000Z</updated>
+        <summary type="html"><![CDATA[text-mode:
+Native American Hopi baskets. First and second one by Annette Nasafotie, third one by Caroline Fred, fourth one by an unknown artist.]]></summary>
+        <author>
+            <name>TEXT-MODE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Animated Figure Battles Mathematics]]></title>
+        <id>https://kottke.org/23/08/an-animated-figure-battles-mathematics</id>
+        <link href="https://kottke.org/23/08/an-animated-figure-battles-mathematics"/>
+        <updated>2023-08-04T15:10:16.000Z</updated>
+        <summary type="html"><![CDATA[It is astounding to me the number of YouTube channels that I have never heard of with subscriber bases larger than that of many countries. (This goes double and triple for Instagram and TikTok.) Alan Becker has over 23 million subscribers and makes videos pitting animated characters against various other entities. His latest video is Animation vs. Math and it is super nerdy and engaging. You might have to be a bit of a math nerd to enjoy this fully, but even if you only get the gist of what's going on (like I did for at least half of the video), it's still pretty entertaining. You can check the comments for an explanation of the math or this illustrated explainer.
+Tags: animation · mathematics · video]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Behind "Hello World" on Linux]]></title>
+        <id>https://jvns.ca/blog/2023/08/03/behind--hello-world/</id>
+        <link href="https://jvns.ca/blog/2023/08/03/behind--hello-world/"/>
+        <updated>2023-08-04T11:17:25.000Z</updated>
+        <summary type="html"><![CDATA[Today I was thinking about – what happens when you run a simple “Hello World”
+Python program on Linux, like this one?
+print("hello world")
+
+Here’s what it looks like at the command line:
+$ python3 hello.py
+hello world
+
+But behind the scenes, there’s a lot more going on. I’ll
+describe some of what happens, and (much much more importantly!) explain some tools you can use to
+see what’s going on behind the scenes yourself. We’ll use readelf, strace,
+ldd, debugfs, /proc, ltrace, dd, and stat. I won’t talk about the Python-specific parts at all – just what happens when you run any dynamically linked executable.
+Here’s a table of contents:
+parse “python3 hello.py”
+figure out the full path to python3
+stat, under the hood
+time to fork
+the shell calls execve
+get the binary’s contents
+find the interp…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Fallin']]></title>
+        <id>https://xkcd.com/2811/</id>
+        <link href="https://xkcd.com/2811/"/>
+        <updated>2023-08-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/free_fallin.png" title="Their crash investigation team had some particularly harsh words for Dave Matthews." alt="Their crash investigation team had some particularly harsh words for Dave Matthews." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Five Crises Republicans Made Up to Distract & Harm Americans]]></title>
         <id>https://kottke.org/23/08/five-crises-republicans-made-up-to-distract-harm-americans</id>
@@ -4417,78 +4490,6 @@ Tags: best of · best of 2023 · food · photography]]></summary>
         <updated>2023-06-06T13:53:23.000Z</updated>
         <summary type="html"><![CDATA[Yesterday I posted a link to a Twitter thread by Stanley Kubrick scholar Filippo Ulivieri about a previously overlooked (*ahem*) aspect of The Shining: Jack Nicholson breaks the fourth wall by micro-glancing at the camera dozens of times during the film. It turns out that Ulivieri also made a visual essay about this and it's really worth a watch.
 Let's go back to that glance that has been noticed by a few film critics. Some say it's a Brechtian effect to expose the artifice of the mise en scène and have the audience reflect on the film medium. But Kubrick's films are not intellectual, despite what the critics say. "The truth of a thing," Kubrick said, "is in the feel of it, not in the think of it." If this look at the camera means anything, for me it means that we are not safe from Jack's …]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: A business model for bankrupting the oil companies(06 June 2023)]]></title>
-        <id>https://pluralistic.net/?p=5467</id>
-        <link href="https://pluralistic.net/2023/06/06/thats-where-the-money-is/"/>
-        <updated>2023-06-06T08:25:49.000Z</updated>
-        <summary type="html"><![CDATA[Today's links A business model for bankrupting the oil companies: Incentives matter (and that matters). Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading A business model for bankrupting the oil companies (permalink) When a giant company wrecks your life, what are you gonna do? They can afford more and better lawyers than you can, and they have people whose full time job is fighting off lawsuits – are you really gonna beat those people by pursuing your grievance as a side-hustle? Do you really wanna be a full-time, professional litigant? For some people, the answer is yes: some people are angry enough, or sufficiently morally offended, to make suing…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 2023 Father's Day Gift Guide]]></title>
-        <id>https://kottke.org/23/06/2023-fathers-day-gift-guide</id>
-        <link href="https://kottke.org/23/06/2023-fathers-day-gift-guide"/>
-        <updated>2023-06-05T20:08:40.000Z</updated>
-        <summary type="html"><![CDATA[Father's Day here in the US is coming up in about 3 weeks (June 18) and I thought I'd throw together a list of gift ideas for the occasion. I used to do December holiday gift guides and really enjoyed the process, so this is me dipping my toe back into the gift guide water after a three-year absence.
-Note: if you're shopping for a fishing/hunting/golfing dad, this list might not be that useful. Read on if your dad is a tech/design/culture dork like me — this is all stuff I wouldn't mind getting or already own myself.
-The Legend of Zelda: Tears of the Kingdom for Nintendo Switch. This game has gotten such good reviews that the only thing holding me back from getting it is the knowledge that I have other things in my life that I cannot completely neglect for the next three weeks.
-
-Ernest Wri…]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[uzukurukurukuru:
-
-Can i interest you in some 2ch ascii cats in...]]></title>
-        <id>https://text-mode.tumblr.com/post/719312479161843712</id>
-        <link href="https://text-mode.tumblr.com/post/719312479161843712"/>
-        <updated>2023-06-05T18:30:36.000Z</updated>
-        <summary type="html"><![CDATA[uzukurukurukuru:
-Can i interest you in some 2ch ascii cats in these trying times?]]></summary>
-        <author>
-            <name>TEXT-MODE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shows That Are Other Shows]]></title>
-        <id>https://kottke.org/23/06/shows-that-are-other-shows</id>
-        <link href="https://kottke.org/23/06/shows-that-are-other-shows"/>
-        <updated>2023-06-05T16:33:01.000Z</updated>
-        <summary type="html"><![CDATA[If you watch TV for more than a couple of minutes, you start to notice that certain successful plots/ensembles for shows are repeated over and over. Rohita Kadambi recently categorized dozens of shows into a few archetypes; for example:
-Golden Girls = Elderly Sex and the City
-Some of these would make pretty good Midjourney prompts but I will leave that as an exercise to the reader.1
-
-Mostly because I've never had the patience to figure out the Rube Goldbergian process for using Midjourney. Step 1: sign up for an account on a gamers chat app??! No thank you.↩
-
-Tags: lists · remix · Rohita Kadambi · TV]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Illusions of 2023 Contest]]></title>
-        <id>https://kottke.org/23/06/the-best-illusions-of-2023-contest</id>
-        <link href="https://kottke.org/23/06/the-best-illusions-of-2023-contest"/>
-        <updated>2023-06-05T14:25:51.000Z</updated>
-        <summary type="html"><![CDATA[The mind-boggling winners of the Best Illusion of the Year Contest for 2023 have been announced. The entries for each the ten finalists include a video that demonstrates each illusion and then shows how it works. The top prize winner is this working model of Platform 9 3/4 from the Harry Potter books:
-
-One of my favorites is The Poggendorff Triangles, which goes to show you that straight lines aren't always straight:
-
-Here's an audio illusion that sounds as though the tempo is endlessly rising (similar to the Shepard tone):
-
-And then there's this hollow face illusion in which this woman's face looks at you as you move around her:
-
-You can check out the rest of the finalists here.
-Tags: best of · best of 2023 · optical illusions · video]]></summary>
         <author>
             <name>kottke.org</name>
         </author>
