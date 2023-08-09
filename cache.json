@@ -201,6 +201,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2812/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/solar_panel_placement.png\" title=\"Getting the utility people to run transmission lines to Earth is expensive, but it will pay for itself in no time.\" alt=\"Getting the utility people to run transmission lines to Earth is expensive, but it will pay for itself in no time.\" />",
+          "link": "https://xkcd.com/2812/",
+          "publishedOn": "2023-08-07T00:00:00.000Z",
+          "wordCount": 182,
+          "title": "Solar Panel Placement",
+          "imageUrl": "https://imgs.xkcd.com/comics/solar_panel_placement_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2811/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/free_fallin.png\" title=\"Their crash investigation team had some particularly harsh words for Dave Matthews.\" alt=\"Their crash investigation team had some particularly harsh words for Dave Matthews.\" />",
@@ -807,6 +817,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/725110825305751553",
+          "author": null,
+          "description": "text-mode:\nCrop circles in Kansas, 2001. See hi-res image at NASA’s site.",
+          "link": "https://text-mode.tumblr.com/post/725110825305751553",
+          "publishedOn": "2023-08-08T18:32:50.000Z",
+          "wordCount": 1013,
+          "title": "text-mode:\n\nCrop circles in Kansas, 2001. See hi-res image at...",
+          "imageUrl": "https://64.media.tumblr.com/6aff384909b192ac739cc11a33c8d743/tumblr_p26uisrByR1rpiyaso1_1280.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/725020098269741056",
           "author": null,
@@ -1506,26 +1526,6 @@
           "wordCount": 1008,
           "title": "text-mode:\n\n\n\nTypewriter & maybe water colour, by...",
           "imageUrl": "https://64.media.tumblr.com/92add0b7a3f14c2912c2f0f4b04c2ef8/tumblr_pt9jz2cT0d1rpiyaso1_1280.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/719676770650046464",
-          "author": null,
-          "description": "From Danni Storm‘s exhibition W(ord)s & Weavings, which just finished in Copenhagen. Typed on a Brother Deluxe 220 typewriter.",
-          "link": "https://text-mode.tumblr.com/post/719676770650046464",
-          "publishedOn": "2023-06-09T19:00:52.000Z",
-          "wordCount": 927,
-          "title": "Untitled",
-          "imageUrl": "https://64.media.tumblr.com/79372f25d3dcf4df8a6c445c0e92994d/07407aa2fa7114ce-95/s1280x1920/75b0d57a8e2323527acbab55910d3c942573f816.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/719674876464611328",
-          "author": null,
-          "description": "text-mode:\n\n\nWorks by Andre Krayewski (Andrzej Krajewski), 1970s and 1980s. h/t Marcin Przyłęcki.",
-          "link": "https://text-mode.tumblr.com/post/719674876464611328",
-          "publishedOn": "2023-06-09T18:30:45.000Z",
-          "wordCount": 1011,
-          "title": "text-mode:\n\n\n\nWorks by Andre Krayewski (Andrzej Krajewski),...",
-          "imageUrl": "https://64.media.tumblr.com/6b1e01874a16ffa07b8ae68d13115b30/tumblr_pw2r0imnSy1rpiyaso1_1280.png"
         }
       ]
     },
@@ -1662,6 +1662,16 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2023/08/08/what-helps-people-get-comfortable-on-the-command-line-/",
+          "author": null,
+          "description": "Sometimes I talk to friends who need to use the command line, but are\nintimidated by it. I never really feel like I have good advice (I’ve been using\nthe command line for too long), and so I asked some people on Mastodon:\nif you just stopped being scared of the command line in the last year or\nthree — what helped you?\n(no need to reply if you don’t remember, or if you’ve been using the command\nline comfortably for 15 years — this question isn’t for you :) )\nThis list is still a bit shorter than I would like, but I’m posting it in the\nhopes that I can collect some more answers. There obviously isn’t one single\nthing that works for everyone – different people take different paths.\nI think there are two parts to getting comfortable: motivation and resources. I’ll\nstart with a couple of motiva…",
+          "link": "https://jvns.ca/blog/2023/08/08/what-helps-people-get-comfortable-on-the-command-line-/",
+          "publishedOn": "2023-08-08T08:30:40.000Z",
+          "wordCount": 1518,
+          "title": "What helps people get comfortable on the command line?",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2023/08/07/tactics-for-writing-in-public/",
           "author": null,
           "description": "Someone recently asked me – “how do you deal with writing in public? People on\nthe internet are such assholes!”\nI’ve often heard the advice “don’t read the comments”, but actually I’ve\nlearned a huge amount from reading internet comments on my posts from strangers\nover the years, even if sometimes people are jerks. So I want to explain some\ntactics I use to try to make the comments on my posts more informative and\nuseful to me, and to try to minimize the number of annoying comments I get.\ntalk about facts\nOn here I mostly talk about facts – either facts about computers, or stories\nabout my experiences using computers.\nFor example this post about tcpdump contains some basic facts about how to use tcpdump,\nas well as an example of how I’ve used it in the past.\nTalking about facts means I get…",
@@ -1777,16 +1787,6 @@
           "wordCount": 4641,
           "title": "The “const” Deception",
           "imageUrl": "https://www.joshwcomeau.com/images/og-the-const-deception.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/css/custom-css-reset/",
-          "author": "Josh W. Comeau",
-          "description": "I have a set of baseline CSS styles that come with me from project to project. In the past, I'd use a typical CSS reset, but times have changed, and I believe I have a better set of global styles!",
-          "link": "https://www.joshwcomeau.com/css/custom-css-reset/",
-          "publishedOn": "2023-06-09T22:00:46.000Z",
-          "wordCount": 7931,
-          "title": "My Custom CSS Reset",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-custom-css-reset.png"
         }
       ]
     },
@@ -1812,6 +1812,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=5724",
+          "author": "Cory Doctorow",
+          "description": "Today's links Private equity plunderers want to buy Simon & Schuster: From the same parasites that infected your hospital's emergency room and sucked Toys R Us dry. Hey look at this: Delights to delectate. This day in history: 2008, 2013, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Private equity plunderers want to buy Simon & Schuster (permalink) Last November, publishing got some excellent news: the planned merger of Penguin Random House (the largest publisher in the history of human civilization) with its immediate competitor Simon & Schuster would not be permitted, thanks to the DOJ's deftly argued case against the deal: https://pluralistic.net/2022/11/07/random-penguins/#if-you-wanted-to-get-there-i-wouldnt-start-from-here…",
+          "link": "https://pluralistic.net/2023/08/08/vampire-capitalism/",
+          "publishedOn": "2023-08-08T17:51:02.000Z",
+          "wordCount": 3854,
+          "title": "Pluralistic: Private equity plunderers want to buy Simon & Schuster (08 August 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=5717",
           "author": "Cory Doctorow",
@@ -2112,6 +2122,36 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/08/33-spaceships-for-another-planet",
+          "author": null,
+          "description": "Oh wow, I love these spaceship paintings from Karla Knight. They're from a series called 33 Spaceships for Another Planet but she's been doing these diagrammatic/picographic paintings and drawings for some time now. It's fun to back through Knight's older work and see how her ancient yet futuristic style evolved. Here's my best stab at a succinct description of her aesthetic: imagine Hilma af Klint as the production designer for Wes Anderson's Stargate.\nTags: art · Karla Knight",
+          "link": "https://kottke.org/23/08/33-spaceships-for-another-planet",
+          "publishedOn": "2023-08-08T18:22:22.000Z",
+          "wordCount": 231,
+          "title": "33 Spaceships for Another Planet",
+          "imageUrl": "https://kottke.org/plus/misc/images/karla-knight-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/08/chaos-reconsidered-a-spectacular-flyover-of-martian-volcanic-terrain",
+          "author": null,
+          "description": "This short, relaxing, mesmerizing video of an Martian impact crater called Aram Chaos was taken by the HiRISE camera on the Mars Reconnaissance Orbiter. The images were run through an enhanced color red-green-blue filter, which tends to highlight the structure and geology rather than the true color. For example, the blue in the video often represents basalt, an igneous rock of volcanic origin.\nTags: astronomy · Mars · mesmerizing · NASA · science · space · video",
+          "link": "https://kottke.org/23/08/chaos-reconsidered-a-spectacular-flyover-of-martian-volcanic-terrain",
+          "publishedOn": "2023-08-08T16:12:10.000Z",
+          "wordCount": 228,
+          "title": "Chaos, Reconsidered: A Spectacular Flyover of Martian Volcanic Terrain",
+          "imageUrl": "https://img.youtube.com/vi/jN-8b-hngs4/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/08/always-worth-a-look-the-aigas-best-book-covers-of-the-year",
+          "author": null,
+          "description": "You know me; I love a good book cover. The AIGA's annual roundup of the best designed books and covers is usually aces and the results of the 2022 competition (announced at the beginning of July 2023) is no exception. Here are a few I picked out that I didn't feature in The Best Book Covers of 2022 back in December.\n\n\n\n\nUh, I guess I'm really into orange today? Anyway, these covers are from:\nButts: A Backstory by Heather Radke.\nSound Within Sound: Radical Composers of the Twentieth Century by Kate Molleson.\nSabit Fikir by Paul Valéry.\nNo hay nadie en casa by Isabel Díaz Alanís.\nTags: best of · best of 2022 · book covers · books · design · lists",
+          "link": "https://kottke.org/23/08/always-worth-a-look-the-aigas-best-book-covers-of-the-year",
+          "publishedOn": "2023-08-08T13:54:44.000Z",
+          "wordCount": 278,
+          "title": "Always Worth a Look: the AIGA's Best Book Covers of the Year",
+          "imageUrl": "https://kottke.org/plus/misc/images/aiga-book-covers-22-01.jpg"
+        },
         {
           "id": "https://kottke.org/23/08/climate-change-is-death-by-a-thousand-cuts",
           "author": null,
@@ -3490,16 +3530,6 @@
           "publishedOn": "2023-06-12T15:07:18.000Z",
           "wordCount": 723,
           "title": "Forgetting How to Be Yourself",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/06/taking-the-day-or-two",
-          "author": null,
-          "description": "Hey folks. I've been struggling with some things recently and I need to take some time to try to recalibrate instead of sitting in front of a computer. I'll see you back here on Monday.",
-          "link": "https://kottke.org/23/06/taking-the-day-or-two",
-          "publishedOn": "2023-06-09T14:29:37.000Z",
-          "wordCount": 213,
-          "title": "Taking the Day (or Two)",
           "imageUrl": ""
         }
       ]
