@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2023-08-09T00:34:58.582Z</updated>
+    <updated>2023-08-10T00:35:30.912Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Openness and AI: Fostering innovation and accountability in the EU’s AI Act]]></title>
+        <id>https://blog.mozilla.org/?p=72820</id>
+        <link href="https://blog.mozilla.org/en/mozilla/internet-policy/eu-ai-act/"/>
+        <updated>2023-08-09T19:34:45.000Z</updated>
+        <summary type="html"><![CDATA[Open source lies at the heart of Mozilla and our Manifesto. Despite its ubiquity in the current technology landscape, it is easy to forget that open source was once a radical idea which was compared to cancer. In the long journey since, Mozilla has helped create an open source browser, email client, programming language, and […]
+The post Openness and AI: Fostering innovation and accountability in the EU’s AI Act appeared first on The Mozilla Blog.]]></summary>
+        <author>
+            <name>Mark Surman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[text-mode:
+
+Televideo 925 terminal, ca 1982.]]></title>
+        <id>https://text-mode.tumblr.com/post/725201313050361856</id>
+        <link href="https://text-mode.tumblr.com/post/725201313050361856"/>
+        <updated>2023-08-09T18:31:06.000Z</updated>
+        <summary type="html"><![CDATA[text-mode:
+Televideo 925 terminal, ca 1982.]]></summary>
+        <author>
+            <name>TEXT-MODE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Perils of Hydration]]></title>
+        <id>https://www.joshwcomeau.com/react/the-perils-of-rehydration/</id>
+        <link href="https://www.joshwcomeau.com/react/the-perils-of-rehydration/"/>
+        <updated>2023-08-09T15:09:50.000Z</updated>
+        <summary type="html"><![CDATA[A surprisingly-common misconception can lead to big rendering issues that are difficult to debug. This deep-dive tutorial examines how React and Gatsby can be used to pre-render content, and how we can work around the constraints to build dynamic, personalized web apps.]]></summary>
+        <author>
+            <name>Josh W. Comeau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: No, Uber's (still) not profitable (09 August 2023)]]></title>
+        <id>https://pluralistic.net/?p=5733</id>
+        <link href="https://pluralistic.net/2023/08/09/accounting-gimmicks/"/>
+        <updated>2023-08-09T14:48:08.000Z</updated>
+        <summary type="html"><![CDATA[Today's links No, Uber's (still) not profitable: A relentless, world-leading innovator in ever-sweatier balance sheet tricks, accounting gimmicks and hopium. Hey look at this: Delights to delectate. This day in history: 2013, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading No, Uber's (still) not profitable (permalink) Bezzle (n): "the magic interval when a confidence trickster knows he has the money he has appropriated but the victim does not yet understand that he has lost it" (JK Gabraith) Uber Uber was, is, and always will be a bezzle. There are just intrinsic limitations to the profits available to operating a taxi fleet, even if you can misclassify your employees as contractors and steal their wages, even as you force them to …]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What to Do]]></title>
+        <id>https://xkcd.com/2813/</id>
+        <link href="https://xkcd.com/2813/"/>
+        <updated>2023-08-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/what_to_do.png" title="FYI: The 'drop, cover, and hold on' advice only applies to earthquakes. If you encounter a mountain lion, you should absolutely not drop to the ground, crawl under it, and hold on to one of its legs." alt="FYI: The 'drop, cover, and hold on' advice only applies to earthquakes. If you encounter a mountain lion, you should absolutely not drop to the ground, crawl under it, and hold on to one of its legs." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[text-mode:
 
@@ -4370,54 +4424,6 @@ The post An online creative on tackling our ‘mixed feelings’ on the internet
 Henri Chopin, Chemins, 1993 [Richard Saltoun Gallery, London]]]></summary>
         <author>
             <name>TEXT-MODE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use your Wii Balance Board as a scale (again)]]></title>
-        <id>https://www.stavros.io/posts/use-your-wii-balance-board-as-a-scale-again/</id>
-        <link href="https://www.stavros.io/posts/use-your-wii-balance-board-as-a-scale-again/"/>
-        <updated>2023-06-10T22:53:36.000Z</updated>
-        <summary type="html"><![CDATA[We did it again, internet
-If you’ll recall, once upon a time I managed to get my Wii Balance Board to connect to my computer and function as a scale.
-At some point throughout the years, Linux changed, and that method broke.
-It would still measure your weight fine, but you could no longer activate the balance board by tapping its front button, you had to flip it over, remove the battery compartment lid and press the red button every time.
-This was too much of a hassle, so I stopped using the board, hoping that a solution to this problem would arrive one day to liberate me from the scourge of adipose tissue.
-This day is today (well, a few months ago, actually, but I couldn’t be arsed writing about it until today, so).
-I received an email from a reader called Jawaad Mahmood, who had read my balance board article and spent a bit of time figuring out how to get the balance board to work, and packaged his work into a library called bbev.
-I was initially sceptical because many people contacted me throughout the years, but nobody managed to get rid of the red button requirement.
-Talking to Jawaad for a bit, though, he confirmed that he could painlessly get the board to pair with his computer with the front button.
-Apparently something had changed in the Linux Bluetooth stack, and made pairing possible again, and he managed to figure out how.
-This was great news!
-However,]]></summary>
-        <author>
-            <name>Stavros' Stuff Latest Posts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[text-mode:
-
-
-
-Typewriter & maybe water colour, by...]]></title>
-        <id>https://text-mode.tumblr.com/post/719765460024999936</id>
-        <link href="https://text-mode.tumblr.com/post/719765460024999936"/>
-        <updated>2023-06-10T18:30:33.000Z</updated>
-        <summary type="html"><![CDATA[text-mode:
-
-
-Typewriter & maybe water colour, by Nisshta12.]]></summary>
-        <author>
-            <name>TEXT-MODE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: Links, dumped (10 June 2023)]]></title>
-        <id>https://pluralistic.net/?p=5490</id>
-        <link href="https://pluralistic.net/2023/06/10/in-the-dumps/"/>
-        <updated>2023-06-10T16:23:48.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Links, dumped: A grab-bag of delicious miscellania. This day in history: 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Links, dumped (permalink) It's Saturday, which means: time for a linkdump post! I'm back from my book-tour across the US, Canada and the UK, finishing up in Berlin – and I'm jetlagged in the backyard hammock, waiting for my laundry to come out of the machine and plowing through a long backlog of interesting links. Let's goooooooo! It's Pride month, and Pat Robertson kicked it off with a bang by…kicking off. What better way to start Pride than with a piece of fanfic by Wil Wheaton about Robertson's arrival in Hell? https://wilwheaton.net/2023/06/the-wait/ Once you've had your fill o…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
         </author>
     </entry>
     <entry>
