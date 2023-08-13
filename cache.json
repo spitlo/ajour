@@ -454,16 +454,6 @@
           "wordCount": 180,
           "title": "Heat Pump",
           "imageUrl": "https://imgs.xkcd.com/comics/heat_pump_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2789/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/making_plans.png\" title=\"Oh no, I haven't checked in with Yvonne in YEARS.\" alt=\"Oh no, I haven't checked in with Yvonne in YEARS.\" />",
-          "link": "https://xkcd.com/2789/",
-          "publishedOn": "2023-06-14T00:00:00.000Z",
-          "wordCount": 180,
-          "title": "Making Plans",
-          "imageUrl": "https://imgs.xkcd.com/comics/making_plans_2x.png"
         }
       ]
     },
@@ -832,6 +822,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/725473079509368832",
+          "author": null,
+          "description": "text-mode:\nAnimations by Jellica made in James’ not-yet-released editor.",
+          "link": "https://text-mode.tumblr.com/post/725473079509368832",
+          "publishedOn": "2023-08-12T18:30:42.000Z",
+          "wordCount": 1009,
+          "title": "text-mode:\n\nAnimations by Jellica made in James’...",
+          "imageUrl": "https://64.media.tumblr.com/f36b39bc84673d298d8d97f663bca782/tumblr_p08ezrTFaj1rpiyaso2_1280.gif"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/725382499944022016",
           "author": null,
@@ -1521,16 +1521,6 @@
           "wordCount": 1083,
           "title": "text-mode:\n\n\n\nFrank Singleton has been making typewriter art at...",
           "imageUrl": "https://64.media.tumblr.com/694429d1638cb884b8a0e2268d615947/tumblr_pr50go101i1rpiyaso1_1280.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/720037248391921664",
-          "author": null,
-          "description": "text-mode:\n\n\nBy Zaki Dee 163, without tape or stencils. Close-ups available here.",
-          "link": "https://text-mode.tumblr.com/post/720037248391921664",
-          "publishedOn": "2023-06-13T18:30:30.000Z",
-          "wordCount": 1016,
-          "title": "text-mode:\n\n\n\nBy Zaki Dee 163, without tape or stencils....",
-          "imageUrl": "https://64.media.tumblr.com/92317d1837dcac6afaf0d2e75b5f9439/tumblr_psbxas8Ays1rpiyaso1_540.png"
         }
       ]
     },
@@ -1666,6 +1656,16 @@
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
+        {
+          "id": "https://jvns.ca/blog/2023/08/11/some-notes-on-mastodon/",
+          "author": null,
+          "description": "I started using Mastodon back in November, and it’s the Twitter alternative\nwhere I’ve been spending most of my time recently, mostly because the Fediverse\nis where a lot of the Linux nerds seem to be right now.\nI’ve found Mastodon quite a bit more confusing than Twitter because it’s a\ndistributed system, so here are a few technical things I’ve learned about it\nover the last 10 months. I’ll mostly talk about what using a single-person\nserver has been like for me, as well as a couple of notes about the API, DMs\nand ActivityPub.\nI might have made some mistakes, please let me know if I’ve gotten anything\nwrong!\nwhat’s a mastodon instance?\nFirst: Mastodon is a decentralized collection of independently run servers\ninstead of One Big Server. The software is open source.\nIn general, if you have a…",
+          "link": "https://jvns.ca/blog/2023/08/11/some-notes-on-mastodon/",
+          "publishedOn": "2023-08-11T08:13:16.000Z",
+          "wordCount": 3054,
+          "title": "Notes on using a single-person Mastodon server",
+          "imageUrl": null
+        },
         {
           "id": "https://jvns.ca/blog/2023/08/08/what-helps-people-get-comfortable-on-the-command-line-/",
           "author": null,
@@ -1827,6 +1827,21 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=5745",
+          "author": "Cory Doctorow",
+          "description": "Today's links Paying consumer debts is basically optional in the United States: The Fair Debt Collection Practices Act protects the people who need it least. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Paying consumer debts is basically optional in the United States (permalink) The vast majority of America's debt collection targets $500-2,000 credit card debts. It is a filthy business, operated by lawless firms who hire unskilled workers drawn from the same economic background as their targets, who routinely and grotesquely flout the law, but only when it comes to the people with the least ability to pay. America has fairly robust laws to prot…",
+          "link": "https://pluralistic.net/2023/08/12/do-not-pay/",
+          "publishedOn": "2023-08-12T13:07:54.000Z",
+          "wordCount": 3980,
+          "title": "Pluralistic: Paying consumer debts is basically optional in the United States (12 August 2023)",
+          "enclosure": {
+            "url": "https://ia600704.us.archive.org/28/items/Cory_Doctorow_Podcast_255/Cory_Doctorow_Podcast_255_Metadata_A_Wartime_Drama.mp3",
+            "length": "11786912",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=5742",
           "author": "Cory Doctorow",
@@ -2100,16 +2115,6 @@
           "publishedOn": "2023-06-14T19:43:22.000Z",
           "wordCount": 4312,
           "title": "Pluralistic: How Amazon transformed the EU into a planned economy (14 June 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=5505",
-          "author": "Cory Doctorow",
-          "description": "Today's links Saving the news from Big Tech with end-to-end social media: The final installment in my EFF series on saving the news. Hey look at this: Delights to delectate. This day in history: 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Saving the news from Big Tech with end-to-end social media (permalink) Big Tech steals from the news, but it doesn't steal content – it steals money. In \"Saving the News From Big Tech,\" a series for EFF, I've documented how tech monopolies in ad-tech and app stores result in vast cash transfers from the news to tech, starving newsrooms and gutting reporting: https://www.eff.org/deeplinks/2023/04/saving-news-big-tech Now we've published the final part, describing how social media pl…",
-          "link": "https://pluralistic.net/2023/06/13/certified-organic-reach/",
-          "publishedOn": "2023-06-13T16:48:44.000Z",
-          "wordCount": 3245,
-          "title": "Pluralistic: Saving the news from Big Tech with end-to-end social media (13 June 2023)",
           "imageUrl": null
         }
       ]
@@ -3561,46 +3566,6 @@
           "wordCount": 321,
           "title": "The Spider-Verse Lego Scene Was Created By a 14-Year-Old Animator",
           "imageUrl": "https://img.youtube.com/vi/xc4jx4PugHI/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/06/before-she-was-famous-demo-tape-of-madonna-performing-with-her-post-punk-band",
-          "author": null,
-          "description": "In 1979, just a few short years before she hit it big as a pop artist, Madonna was in a post-punk rock band called The Breakfast Club — she sang and played the drums. In the video above, the band rips through four demo songs in just over 8 minutes. From Dangerous Minds, some context:\nHardcore fans will also know Madonna has been known to perform versions of these songs (and other early material) live. Here's the thing — much like the early days of the Go-Go's, Madonna is definitely flexing her affinity for punk rock while mixing it with her own brand of spirited pop which the entire world would soon embrace and others would emulate. Now, if you've never heard this version of Madonna, and dig your punk with a side of pop, you are going to love these raw jams. It's also quite compelling to hear them, knowing what was to come from Madonna in a few short years.\n\n\n(via open culture)\nTags: Madonna · music · video",
-          "link": "https://kottke.org/23/06/before-she-was-famous-demo-tape-of-madonna-performing-with-her-post-punk-band",
-          "publishedOn": "2023-06-13T20:43:17.000Z",
-          "wordCount": 362,
-          "title": "Before She Was Famous: Demo Tape of Madonna Performing With Her Post-Punk Band",
-          "imageUrl": "https://img.youtube.com/vi/c6jBID2G-qM/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/12/05/an-atlas-for-the-blind",
-          "author": null,
-          "description": "The Atlas of the United States Printed for the Use of the Blind, published in 1837 before Braille was widely used, used embossed printing of lines, words, and symbols to be finger-readable.\n\nWithout a drop of ink in the book, the text and maps in this extraordinary atlas were embossed heavy paper with letters, lines, and symbols. To the best of our knowledge, this is the first atlas produced for the blind to read without the assistance of a sighted person. Braille was invented by 1825, but was not widely used until later. It represented letters well, but could not represent shapes and cartographic features.\n\n\t\n(via @ftrain)\n\n\n\t\t\n\t\t\n[This was originally posted on May 22, 2012.]\nTags:blind    \nmaps",
-          "link": "https://kottke.org/12/05/an-atlas-for-the-blind",
-          "publishedOn": "2023-06-13T18:38:52.000Z",
-          "wordCount": 288,
-          "title": "An Atlas for the Blind",
-          "imageUrl": "https://kottke.org/plus/misc/images/atlas-for-the-blind.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/06/swimming-pool-stories",
-          "author": null,
-          "description": "Icelandic filmmaker Jón Karl Helgason has made a film called Sundlaugasögur (Swimming Pool Stories) about the central role of the swimming pool in Icelandic life. The trailer is above. From Fatherly:\nThe swimming pool is first and foremost a communal space. \"The swimming pool is your second home,\" Helgason says. \"You are brought up in the swimming pool.\" There may be only 160, or so, swimming pools in the entire country (which is roughly 305 miles wide by 105 miles long), but every one of them is the essential social hub of a community, large or small.\nThe swimming pool is a public utility — as critical as the grocery store or the bank. \"The British go to the pub, the French go to the cafes — in our culture, you meet in the swimming pool,\" says Helgason. Swimmers come from all walks of life, from farmers to artists to clergymen to celebrities. \"You can have 10, 15, 20, 30 people [in the pool] — they're talking about politics and about their lives.\"\n\n\n Tags: Iceland · movies · Sundlaugasogur · swimming · trailers · video",
-          "link": "https://kottke.org/23/06/swimming-pool-stories",
-          "publishedOn": "2023-06-13T16:21:33.000Z",
-          "wordCount": 350,
-          "title": "Swimming Pool Stories",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/06/a-massive-57-terapixel-mosaic-of-the-surface-of-mars",
-          "author": null,
-          "description": "Using imagery from the Mars Reconnaissance Orbiter, the Bruce Murray Laboratory for Planetary Visualization at Caltech has created a 5.7 terapixel mosaic image that covers 99.5% of the surface of Mars. The whole image is available to navigate with a 3D viewer in your browser.\nTags: astronomy · Mars · science · space",
-          "link": "https://kottke.org/23/06/a-massive-57-terapixel-mosaic-of-the-surface-of-mars",
-          "publishedOn": "2023-06-13T14:07:57.000Z",
-          "wordCount": 236,
-          "title": "A Massive 5.7 Terapixel Mosaic of the Surface of Mars",
-          "imageUrl": "https://kottke.org/plus/misc/images/mars-mosaic-2023.jpg"
         }
       ]
     },
