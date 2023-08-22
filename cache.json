@@ -459,16 +459,6 @@
           "wordCount": 180,
           "title": "Alphabet Notes",
           "imageUrl": "https://imgs.xkcd.com/comics/alphabet_notes_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2793/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/garden_path_sentence.png\" title=\"Arboretum Owner Denied Standing in Garden Path Suit on Grounds Grounds Appealing Appealing\" alt=\"Arboretum Owner Denied Standing in Garden Path Suit on Grounds Grounds Appealing Appealing\" />",
-          "link": "https://xkcd.com/2793/",
-          "publishedOn": "2023-06-23T00:00:00.000Z",
-          "wordCount": 182,
-          "title": "Garden Path Sentence",
-          "imageUrl": "https://imgs.xkcd.com/comics/garden_path_sentence_2x.png"
         }
       ]
     },
@@ -837,6 +827,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/726288441562841088",
+          "author": null,
+          "description": "text-mode:\nWeird Soviet segment display fonts from the 1980′s, via Matt Sarnoff.",
+          "link": "https://text-mode.tumblr.com/post/726288441562841088",
+          "publishedOn": "2023-08-21T18:30:32.000Z",
+          "wordCount": 995,
+          "title": "text-mode:\n\nWeird Soviet segment display fonts from the 1980′s,...",
+          "imageUrl": "https://64.media.tumblr.com/f7b1691de27ec76b9caee50996e3fae5/tumblr_p05hc2tAuX1rpiyaso1_1280.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/726197858722856960",
           "author": null,
@@ -1496,16 +1496,6 @@
           "wordCount": 968,
           "title": "text-mode:\n\n\n\nMurals by DXTR 2017-2018.",
           "imageUrl": "https://64.media.tumblr.com/20510bf1778171b2c17a37757f6c5da8/tumblr_plc3pxtyek1rpiyaso1_640.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/720852643454631936",
-          "author": null,
-          "description": "text-mode:\n\n\nPETSCII-works by Adrien Tison.",
-          "link": "https://text-mode.tumblr.com/post/720852643454631936",
-          "publishedOn": "2023-06-22T18:30:51.000Z",
-          "wordCount": 976,
-          "title": "text-mode:\n\n\n\nPETSCII-works by Adrien Tison.",
-          "imageUrl": "https://64.media.tumblr.com/e753b4fc671bc301665a809df09aeba1/tumblr_pm8u4i3QbJ1rpiyaso1_640.png"
         }
       ]
     },
@@ -1720,16 +1710,6 @@
           "wordCount": 575,
           "title": "Open sourcing the nginx playground",
           "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2023/06/23/new-zine--how-integers-and-floats-work/",
-          "author": null,
-          "description": "Hello! On Wednesday, we released a new zine: How Integers and Floats Work!\nYou can get it for $12 here:\nhttps://wizardzines.com/zines/integers-floats, or get\nan 13-pack of all my zines here.\nHere’s the cover:\n\n\n\nthe table of contents\nHere’s the table of contents!\n\n  \nNow let’s talk about some of the motivations for writing this zine!\nmotivation 1: demystify binary\nI wrote this zine because I used to find binary data really impenetrable. There\nare all these 0s and 1s! What does it mean?\nBut if you look at any binary file format, most of it is integers! For example,\nif you look at the DNS parsing in Implement DNS in a Weekend, it’s all about encoding and\ndecoding a bunch of integers (plus some ASCII strings, which arguably are also arrays of integers).\nSo I think that learning how integers w…",
-          "link": "https://jvns.ca/blog/2023/06/23/new-zine--how-integers-and-floats-work/",
-          "publishedOn": "2023-06-23T09:27:16.000Z",
-          "wordCount": 985,
-          "title": "New zine: How Integers and Floats Work",
-          "imageUrl": null
         }
       ]
     },
@@ -1804,18 +1784,7 @@
       "title": "A List Apart: The Full Feed",
       "feedUrl": "https://alistapart.com/main/feed/",
       "siteUrl": "https://alistapart.com",
-      "articles": [
-        {
-          "id": "https://alistapart.com/article/humility-an-essential-value/",
-          "author": "by",
-          "description": "Humility, a designer’s essential value—that has a nice ring to it. What about humility, an office manager’s essential value? Or a dentist’s? Or a librarian’s? They all sound great. When humility is our guiding light, the path is always open for fulfillment, evolution, connection, and engagement. In this chapter, we’re going to talk about why.\nThat said, this is a book for designers, and to that end, I’d like to start with a story—well, a journey, really. It’s a personal one, and I’m going to make myself a bit vulnerable along the way. I call it:\nThe Tale of Justin’s Preposterous Pate\nWhen I was coming out of art school, a long-haired, goateed neophyte, print was a known quantity to me; design on the web, however, was rife with complexities to navigate and discover, a problem to be solved. …",
-          "link": "https://alistapart.com/article/humility-an-essential-value/",
-          "publishedOn": "2023-06-22T13:00:00.000Z",
-          "wordCount": 3968,
-          "title": "Humility: An Essential Value",
-          "imageUrl": "https://i0.wp.com/alistapart.com/wp-content/uploads/2018/12/excerptillustration_300.png?fit=1200%2C586&ssl=1"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Pluralistic: Daily links from Cory Doctorow",
@@ -3531,36 +3500,6 @@
           "wordCount": 233,
           "title": "Chris Ware Does Candide",
           "imageUrl": "https://kottke.org/plus/misc/images/candide-ware.jpg"
-        },
-        {
-          "id": "https://kottke.org/13/07/are-viral-cat-videos-actually-viral",
-          "author": null,
-          "description": "Or rather, protozoan? Toxoplasma gondii is a protozoan parasite which is transmitted from rodents to cats through a crafty mechanism...it makes mice attracted to the smell of cat urine. Mouse goes near cat, cat eats mouse, T. gondii has a new host. From cats, the parasite can jump into humans, where it may be responsible for all sorts of nastiness:\nWell, the behavioral influence plays out in a number of strange ways. Toxoplasma infection in humans has been associated with everything from slowed reaction times to a fondness toward cat urine — to more extreme behaviors such as depression and even schizophrenia. And here's the kicker: Two different research groups have independently shown that Toxo-infected individuals are three to four times as likely of being killed in car accidents due to reckless driving.\n\n\t\nAnd maybe makes us want to invent networking technology and share cool links? In this five-minute talk, Kevin Slavin cleverly connects viral media with T. gondii:\n\nThat video was so good, I watched the whole thing twice.\n\n\n\t\t\n\t\t\n[This was originally posted on July 11, 2013.]\nTags:brain    \nKevin Slavin    \nmedicine    \nneuroscience    \nscience    \nvideo",
-          "link": "https://kottke.org/13/07/are-viral-cat-videos-actually-viral",
-          "publishedOn": "2023-06-22T21:50:59.000Z",
-          "wordCount": 354,
-          "title": "Are Viral Cat Videos Actually Viral?",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/06/lego-stop-motion-recreation-of-iconic-scenes-from-the-shining",
-          "author": null,
-          "description": "The creepy twins. Jack feverish at the typewriter. Danny riding his Big Wheel through carpeted hallways. The elevators of blood. These familiar scenes from Stanley Kubrick's horror classic The Shining (and several more) have been recreated in this Lego stop-motion animation. The video took 50-60 hours over a three-week period to make and was an exercise in constraints:\n\"Mostly, it came down to choosing the right pieces,\" he says. \"I made this movie only with pieces I already had in my collection, so I had to do with just what I had laying around. For instance, the famous carpet pattern in the hallway could have been more realistic, but with the pieces I had, it became a little more abstract. I went with clay for the bloody elevator scene also because I do not have thousands of red translucent pieces.\"\n\n\n(via boing boing)\nTags: Lego · movies · remix · Stanley Kubrick · stop motion · The Shining · video",
-          "link": "https://kottke.org/23/06/lego-stop-motion-recreation-of-iconic-scenes-from-the-shining",
-          "publishedOn": "2023-06-22T17:10:01.000Z",
-          "wordCount": 335,
-          "title": "Lego Stop-Motion Recreation of Iconic Scenes From The Shining",
-          "imageUrl": "https://img.youtube.com/vi/65aPkcQBm6g/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/06/the-trailer-for-3-body-problem",
-          "author": null,
-          "description": "I loved Liu Cixin's The Three-Body Problem trilogy (read it twice!) and was excited/apprehensive when Netflix announced they'd partnered with Game of Thrones showrunners D.B. Weiss and David Benioff to adapt the books into a TV series. Well, the first trailer is here and has tipped my scales more towards excited. Really looking forward to when this premieres in January 2024 — if they get it right, this could be something really special.\nTags: books · Liu Cixin · The Three-Body Problem · trailers · TV · video",
-          "link": "https://kottke.org/23/06/the-trailer-for-3-body-problem",
-          "publishedOn": "2023-06-22T14:01:03.000Z",
-          "wordCount": 259,
-          "title": "The Trailer for 3 Body Problem",
-          "imageUrl": "https://img.youtube.com/vi/5lj99Uz1d50/0.jpg"
         }
       ]
     },
