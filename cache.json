@@ -6,6 +6,16 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=7923",
+          "author": "Chris Heilmann",
+          "description": "GitHub is where code lives. You make your updates there, and in the case of frontend work, you can even host it in GitHub pages. When I publish something, I write a blog post and often I put some of the code in the post. When feedback comes in about new features I update the […]",
+          "link": "https://christianheilmann.com/2023/08/22/adding-github-repository-info-pages-links-and-latest-commits-to-any-page-using-github-include/",
+          "publishedOn": "2023-08-22T11:17:08.000Z",
+          "wordCount": 824,
+          "title": "Adding GitHub repository info, pages links  and latest commits to any page using github-include",
+          "imageUrl": null
+        },
+        {
           "id": "https://christianheilmann.com/?p=7914",
           "author": "Chris Heilmann",
           "description": "I just added a “share to mastodon” link to this bloh. Ages ago I added a “share to Twitter” link, as there is a URL you can send Tweet content to that works: http://twitter.com/share?url={URL}&text={TEXT}?&via={TWITTER_HANDLE} With Mastodon, it wasn’t as easy as it is a federated service and there is not one URL. So I had […]",
@@ -220,6 +230,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2818/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/circuit_symbols.png\" title=\"A circle with an A in it means that the circuit has committed a sin and has been marked as punishment.\" alt=\"A circle with an A in it means that the circuit has committed a sin and has been marked as punishment.\" />",
+          "link": "https://xkcd.com/2818/",
+          "publishedOn": "2023-08-21T00:00:00.000Z",
+          "wordCount": 180,
+          "title": "Circuit Symbols",
+          "imageUrl": "https://imgs.xkcd.com/comics/circuit_symbols_2x.png"
+        },
         {
           "id": "https://xkcd.com/2817/",
           "author": null,
@@ -827,6 +847,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/726379065743917056",
+          "author": null,
+          "description": "text-mode:\nTypewritten works by Petra Schulze-Wollgast.",
+          "link": "https://text-mode.tumblr.com/post/726379065743917056",
+          "publishedOn": "2023-08-22T18:30:58.000Z",
+          "wordCount": 999,
+          "title": "text-mode:\n\nTypewritten works by Petra Schulze-Wollgast.",
+          "imageUrl": "https://64.media.tumblr.com/5f2cd476138eb9a47eea7828d8bcc2a9/tumblr_p05gejpXI21rpiyaso2_1280.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/726288441562841088",
           "author": null,
@@ -1486,16 +1516,6 @@
           "wordCount": 1089,
           "title": "text-mode:\n\nTypewriter map of Africa by the cartographer Daniel...",
           "imageUrl": "https://64.media.tumblr.com/8430325835676199c9789e6a949a4718/tumblr_pkrbzs75BJ1rpiyaso4_1280.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/720943235085844480",
-          "author": null,
-          "description": "text-mode:\n\n\nMurals by DXTR 2017-2018.",
-          "link": "https://text-mode.tumblr.com/post/720943235085844480",
-          "publishedOn": "2023-06-23T18:30:46.000Z",
-          "wordCount": 968,
-          "title": "text-mode:\n\n\n\nMurals by DXTR 2017-2018.",
-          "imageUrl": "https://64.media.tumblr.com/20510bf1778171b2c17a37757f6c5da8/tumblr_plc3pxtyek1rpiyaso1_640.png"
         }
       ]
     },
@@ -1791,6 +1811,21 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=5800",
+          "author": "Cory Doctorow",
+          "description": "Today's links Podcasting \"Enshitternet\": The old, good internet deserves a new, good internet. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Podcasting \"Enshitternet\" (permalink) This week on my podcast, I read \"Enshitternet: The old, good internet deserves a new, good internet,\" my recent Medium column about building a better internet: https://doctorow.medium.com/enshitternet-c1d4252e5c6b As John Hodgman is fond of reminding us, \"nostalgia is a toxic impulse.\" It is easy for an old net.hand like me to fall into the trap of shaking his fist at the cloud. Having been on the other side of that dynamic, I can tell you it's no fun. When I got on BBS…",
+          "link": "https://pluralistic.net/2023/08/22/the-new-good-internet/",
+          "publishedOn": "2023-08-22T16:19:30.000Z",
+          "wordCount": 3606,
+          "title": "Pluralistic: Podcasting \"Enshitternet\" (22 August 2023)",
+          "enclosure": {
+            "url": "https://archive.org/download/Cory_Doctorow_Podcast_448/Cory_Doctorow_Podcast_448_-_Enshitternet.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=5790",
           "author": "Cory Doctorow",
@@ -2141,6 +2176,16 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/08/elon-musks-shadow-rule",
+          "author": null,
+          "description": "Great, long piece from Ronan Farrow for the New Yorker on Elon Musk's considerable influence over the US government. This doesn't seem good:\nThere is little precedent for a civilian's becoming the arbiter of a war between nations in such a granular way, or for the degree of dependency that the U.S. now has on Musk in a variety of fields, from the future of energy and transportation to the exploration of space. SpaceX is currently the sole means by which nasa transports crew from U.S. soil into space, a situation that will persist for at least another year. The government's plan to move the auto industry toward electric cars requires increasing access to charging stations along America's highways. But this rests on the actions of another Musk enterprise, Tesla. The automaker has seeded so m…",
+          "link": "https://kottke.org/23/08/elon-musks-shadow-rule",
+          "publishedOn": "2023-08-22T15:45:22.000Z",
+          "wordCount": 486,
+          "title": "\"Elon Musk's Shadow Rule\"",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/23/08/very-minimalist-movie-posters",
           "author": null,
