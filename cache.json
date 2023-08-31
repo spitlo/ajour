@@ -203,7 +203,18 @@
       "title": "Hundred Rabbits",
       "feedUrl": "https://100r.co/links/rss.xml",
       "siteUrl": "https://100r.co",
-      "articles": []
+      "articles": [
+        {
+          "id": "log.html#jul2023",
+          "author": "Rek Bell",
+          "description": "Hey everyone! This is the list of all the changes we've done to our projects and apps during the month of July. We'll also be reporting in our on position in the world, and on our future plans.\nSummary Of Changes\nSlide Rule, released a little slide rule toy(Mastodon).\n100r.co, added roscoe bay, updated LPG refit.\nwiktopher, we finished doing the entire first pass of corrections.\nLeft, made a couple of interface improvements, it's not only prettier now, but faster.\nDrifblim, added support for lambdas in Uxntal, now also supported in uxnasm.\nNews\nWe spent many quiet days in Roscoe Bay, and then wandered over to melanie cove for a few days before moving to our favorite anchorage in Desolation Sound, Hathayim Marine Park. This inlet is quiet, and not overly busy, it is ideal for focusing on projects. We walk the 3 km trail to Squirrel Cove everyday.\nWe have been hard at work reviewing Wiktopher, and we're happy to announce that we've finished the first pass of corrections! We'll be doing many more passes, but this was a very big step. Rek has been drawing(Mastodon) a lot, and Devine has been working on their presentation for Strange Loop 2023.\nCheck out this amazing Uxn cheat sheet by Nettie!\nPino book & movie club\nWe are reading Lewis Carrol's Bruno and Sylvie. We re-watched Vampire Hunter D for the hundredth time.\nContinue Reading",
+          "link": "https://100r.co/site/log.html#jul2023",
+          "publishedOn": "2023-08-01T06:30:00.000Z",
+          "wordCount": 2102,
+          "title": "Summary of changes for July 2023",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Sara Soueidan – Blog",
@@ -863,6 +874,16 @@
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
         {
+          "id": "https://text-mode.tumblr.com/post/727103830377086976",
+          "author": null,
+          "description": "text-mode:\nWashington Post, May 1922. Via Yesterday’s Print.",
+          "link": "https://text-mode.tumblr.com/post/727103830377086976",
+          "publishedOn": "2023-08-30T18:30:48.000Z",
+          "wordCount": 1003,
+          "title": "text-mode:\n\nWashington Post, May 1922. Via Yesterday’s Print.",
+          "imageUrl": "https://64.media.tumblr.com/a81ad6228ccc3ae8a28f228a55b3bb54/tumblr_oricu1wRyo1rpiyaso2_640.png"
+        },
+        {
           "id": "https://text-mode.tumblr.com/post/727013241813860353",
           "author": null,
           "description": "text-mode:\nText-mode graphics by Tim Koch\n with custom animated characters.\n\n The last one is a remix of a picture by Jellica.",
@@ -1471,16 +1492,6 @@
           "wordCount": 1007,
           "title": "text-mode:\n\n\n\nASCII skull tattoo by Chris Sanford.",
           "imageUrl": "https://64.media.tumblr.com/129fd6dc53d761981946c9c2801f13cc/tumblr_pc41ces6cs1rpiyaso1_640.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/721667997617487872",
-          "author": null,
-          "description": "text-mode:\n\n\nColourized ASCII art at NASA using an IBM System/370 in 1981, via. Or… EBCDIC art?",
-          "link": "https://text-mode.tumblr.com/post/721667997617487872",
-          "publishedOn": "2023-07-01T18:30:34.000Z",
-          "wordCount": 1023,
-          "title": "text-mode:\n\n\n\nColourized ASCII art at NASA using an IBM...",
-          "imageUrl": "https://64.media.tumblr.com/72f8bb1398318a714b2af93a1beca597/tumblr_pd8rkrfEly1rpiyaso1_640.png"
         }
       ]
     },
@@ -2121,6 +2132,36 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/15/02/the-infinite-hotel-paradox",
+          "author": null,
+          "description": "In a lecture given in 1924, German mathematician David Hilbert introduced the idea of the paradox of the Grand Hotel, which might help you wrap your head around the concept of infinity. (Spoiler alert: it probably won't help...that's the paradox.) In his book One Two Three... Infinity, George Gamow describes Hilbert's paradox:\nLet us imagine a hotel with a finite number of rooms, and assume that all the rooms are occupied. A new guest arrives and asks for a room. \"Sorry,\" says the proprietor, \"but all the rooms are occupied.\" Now let us imagine a hotel with an infinite number of rooms, and all the rooms are occupied. To this hotel, too, comes a new guest and asks for a room.\n\"But of course!\" exclaims the proprietor, and he moves the person previously occupying room N1 into room N2, the person from room N2 into room N3, the person from room N3 into room N4, and so on.... And the new customer receives room N1, which became free as the result of these transpositions.\nLet us imagine now a hotel with an infinite number of rooms, all taken up, and an infinite number of new guests who come in and ask for rooms.\n\"Certainly, gentlemen,\" says the proprietor, \"just wait a minute.\"\nHe moves the occupant of N1 into N2, the occupant of N2 into N4, and occupant of N3 into N6, and so on, and so on...\nNow all odd-numbered rooms became free and the infinite of new guests can easily be accommodated in them.\n\n\t\nThis TED video created by Jeff Dekofsky explains that there are similar strategies for finding space in such a hotel for infinite numbers of infinite groups of people and even infinite amounts of infinite numbers of infinite groups of people (and so on, and so on...) and is very much worth watching:\n\n(via brain pickings)\n\n\n\t\t\n\t\t\n[This was originally posted on February 19, 2015.]\nTags:David Hilbert    \nGeorge Gamow    \ninfinity    \nJeff Dekofsky    \nmathematics    \nvideo",
+          "link": "https://kottke.org/15/02/the-infinite-hotel-paradox",
+          "publishedOn": "2023-08-30T21:15:17.000Z",
+          "wordCount": 469,
+          "title": "The Infinite Hotel Paradox",
+          "imageUrl": "https://img.youtube.com/vi/Uj3_KqkI9Zo/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/08/doing-essential-things-makes-time-for-everything-else",
+          "author": null,
+          "description": "I found myself nodding at this short essay by Mandy Brown on the tradeoffs between work, life, time, energy, responsibility, and art, particularly this bit about what happens if you can make the leap from not having enough time for the essential things in life to having more time in your life because you're doing the essential things.\nThen one day they say fuck it all. They eat leftover pasta over the sink, drop mom off at her mahjongg game, and go sit in the park to draw. They draw for hours, until the sun goes down and they're squinting under the street lights. And, lo and behold, the next day they plow through all those lingering to-dos. They see clearly that half of them were unnecessary when before they all seemed critical. They recognize a few others as things better handed off to th…",
+          "link": "https://kottke.org/23/08/doing-essential-things-makes-time-for-everything-else",
+          "publishedOn": "2023-08-30T16:50:05.000Z",
+          "wordCount": 896,
+          "title": "Doing Essential Things Makes Time For Everything Else",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/08/the-tombstone-of-democracy",
+          "author": null,
+          "description": "Yesterday, there was yet another school shooting on a college campus, this time at the University of North Carolina at Chapel Hill. A UNC graduate student walked into a classroom building and murdered a science professor with a gun. The campus was on lockdown for hours. The front page of The Daily Tar Heel today consists of text messages sent to and from students during the lockdown:\n\nAn incredible and powerful design — on Mastodon, Steve Silberman called it \"the tombstone of democracy, courtesy of the NRA\". As a nation, we've spent more than 20 years and trillions of dollars fighting the \"War on Terror\" but won't do a damn thing about the self-imposed terrorism of gun violence. The people sending and receiving those texts — they are TERRIFIED. And this happens regularly in the US, in pre-schools and on college campuses alike. We are a sick nation.\nTags: crime · design · guns · journalism · murder · Steve Silberman",
+          "link": "https://kottke.org/23/08/the-tombstone-of-democracy",
+          "publishedOn": "2023-08-30T13:42:38.000Z",
+          "wordCount": 304,
+          "title": "\"The Tombstone of Democracy\"",
+          "imageUrl": "https://kottke.org/plus/misc/images/daily-tarheel-front page.jpg"
+        },
         {
           "id": "https://kottke.org/14/10/the-quarrymans-symphony",
           "author": null,

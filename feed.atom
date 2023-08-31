@@ -2,10 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2023-08-30T00:27:42.778Z</updated>
+    <updated>2023-08-31T00:27:45.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Infinite Hotel Paradox]]></title>
+        <id>https://kottke.org/15/02/the-infinite-hotel-paradox</id>
+        <link href="https://kottke.org/15/02/the-infinite-hotel-paradox"/>
+        <updated>2023-08-30T21:15:17.000Z</updated>
+        <summary type="html"><![CDATA[In a lecture given in 1924, German mathematician David Hilbert introduced the idea of the paradox of the Grand Hotel, which might help you wrap your head around the concept of infinity. (Spoiler alert: it probably won't help...that's the paradox.) In his book One Two Three... Infinity, George Gamow describes Hilbert's paradox:
+Let us imagine a hotel with a finite number of rooms, and assume that all the rooms are occupied. A new guest arrives and asks for a room. "Sorry," says the proprietor, "but all the rooms are occupied." Now let us imagine a hotel with an infinite number of rooms, and all the rooms are occupied. To this hotel, too, comes a new guest and asks for a room.
+"But of course!" exclaims the proprietor, and he moves the person previously occupying room N1 into room N2, the person from room N2 into room N3, the person from room N3 into room N4, and so on.... And the new customer receives room N1, which became free as the result of these transpositions.
+Let us imagine now a hotel with an infinite number of rooms, all taken up, and an infinite number of new guests who come in and ask for rooms.
+"Certainly, gentlemen," says the proprietor, "just wait a minute."
+He moves the occupant of N1 into N2, the occupant of N2 into N4, and occupant of N3 into N6, and so on, and so on...
+Now all odd-numbered rooms became free and the infinite of new guests can easily be accommodated in them.
+
+	
+This TED video created by Jeff Dekofsky explains that there are similar strategies for finding space in such a hotel for infinite numbers of infinite groups of people and even infinite amounts of infinite numbers of infinite groups of people (and so on, and so on...) and is very much worth watching:
+
+(via brain pickings)
+
+
+		
+		
+[This was originally posted on February 19, 2015.]
+Tags:David Hilbert    
+George Gamow    
+infinity    
+Jeff Dekofsky    
+mathematics    
+video]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[text-mode:
+
+Washington Post, May 1922. Via Yesterday’s Print.]]></title>
+        <id>https://text-mode.tumblr.com/post/727103830377086976</id>
+        <link href="https://text-mode.tumblr.com/post/727103830377086976"/>
+        <updated>2023-08-30T18:30:48.000Z</updated>
+        <summary type="html"><![CDATA[text-mode:
+Washington Post, May 1922. Via Yesterday’s Print.]]></summary>
+        <author>
+            <name>TEXT-MODE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doing Essential Things Makes Time For Everything Else]]></title>
+        <id>https://kottke.org/23/08/doing-essential-things-makes-time-for-everything-else</id>
+        <link href="https://kottke.org/23/08/doing-essential-things-makes-time-for-everything-else"/>
+        <updated>2023-08-30T16:50:05.000Z</updated>
+        <summary type="html"><![CDATA[I found myself nodding at this short essay by Mandy Brown on the tradeoffs between work, life, time, energy, responsibility, and art, particularly this bit about what happens if you can make the leap from not having enough time for the essential things in life to having more time in your life because you're doing the essential things.
+Then one day they say fuck it all. They eat leftover pasta over the sink, drop mom off at her mahjongg game, and go sit in the park to draw. They draw for hours, until the sun goes down and they're squinting under the street lights. And, lo and behold, the next day they plow through all those lingering to-dos. They see clearly that half of them were unnecessary when before they all seemed critical. They recognize a few others as things better handed off to th…]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["The Tombstone of Democracy"]]></title>
+        <id>https://kottke.org/23/08/the-tombstone-of-democracy</id>
+        <link href="https://kottke.org/23/08/the-tombstone-of-democracy"/>
+        <updated>2023-08-30T13:42:38.000Z</updated>
+        <summary type="html"><![CDATA[Yesterday, there was yet another school shooting on a college campus, this time at the University of North Carolina at Chapel Hill. A UNC graduate student walked into a classroom building and murdered a science professor with a gun. The campus was on lockdown for hours. The front page of The Daily Tar Heel today consists of text messages sent to and from students during the lockdown:
+
+An incredible and powerful design — on Mastodon, Steve Silberman called it "the tombstone of democracy, courtesy of the NRA". As a nation, we've spent more than 20 years and trillions of dollars fighting the "War on Terror" but won't do a damn thing about the self-imposed terrorism of gun violence. The people sending and receiving those texts — they are TERRIFIED. And this happens regularly in the US, in pre-schools and on college campuses alike. We are a sick nation.
+Tags: crime · design · guns · journalism · murder · Steve Silberman]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Quarryman's Symphony]]></title>
         <id>https://kottke.org/14/10/the-quarrymans-symphony</id>
@@ -1844,6 +1913,29 @@ See also How Pencils Are Made, A Visit to an American Factory That's Been Produc
 Tags: how to · pencils · video]]></summary>
         <author>
             <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Summary of changes for July 2023]]></title>
+        <id>log.html#jul2023</id>
+        <link href="https://100r.co/site/log.html#jul2023"/>
+        <updated>2023-08-01T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone! This is the list of all the changes we've done to our projects and apps during the month of July. We'll also be reporting in our on position in the world, and on our future plans.
+Summary Of Changes
+Slide Rule, released a little slide rule toy(Mastodon).
+100r.co, added roscoe bay, updated LPG refit.
+wiktopher, we finished doing the entire first pass of corrections.
+Left, made a couple of interface improvements, it's not only prettier now, but faster.
+Drifblim, added support for lambdas in Uxntal, now also supported in uxnasm.
+News
+We spent many quiet days in Roscoe Bay, and then wandered over to melanie cove for a few days before moving to our favorite anchorage in Desolation Sound, Hathayim Marine Park. This inlet is quiet, and not overly busy, it is ideal for focusing on projects. We walk the 3 km trail to Squirrel Cove everyday.
+We have been hard at work reviewing Wiktopher, and we're happy to announce that we've finished the first pass of corrections! We'll be doing many more passes, but this was a very big step. Rek has been drawing(Mastodon) a lot, and Devine has been working on their presentation for Strange Loop 2023.
+Check out this amazing Uxn cheat sheet by Nettie!
+Pino book & movie club
+We are reading Lewis Carrol's Bruno and Sylvie. We re-watched Vampire Hunter D for the hundredth time.
+Continue Reading]]></summary>
+        <author>
+            <name>Rek Bell</name>
         </author>
     </entry>
     <entry>
@@ -4180,23 +4272,6 @@ ASCII skull tattoo by Chris Sanford.]]></title>
 
 
 ASCII skull tattoo by Chris Sanford.]]></summary>
-        <author>
-            <name>TEXT-MODE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[text-mode:
-
-
-
-Colourized ASCII art at NASA using an IBM...]]></title>
-        <id>https://text-mode.tumblr.com/post/721667997617487872</id>
-        <link href="https://text-mode.tumblr.com/post/721667997617487872"/>
-        <updated>2023-07-01T18:30:34.000Z</updated>
-        <summary type="html"><![CDATA[text-mode:
-
-
-Colourized ASCII art at NASA using an IBM System/370 in 1981, via. Or… EBCDIC art?]]></summary>
         <author>
             <name>TEXT-MODE</name>
         </author>
