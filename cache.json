@@ -6,6 +6,16 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=7951",
+          "author": "Chris Heilmann",
+          "description": "In order to fix a broken video where the camera stopped recording, I wanted to replace the part with a video with a sound wave overlay. There are many services for that, and it is also a feature of video editing software. But I am stingy and a geek, so I wanted to use FFMPEG […]",
+          "link": "https://christianheilmann.com/2023/08/31/adding-sound-wave-overlays-to-videos-and-pictures-using-ffmpeg/",
+          "publishedOn": "2023-08-31T11:09:43.000Z",
+          "wordCount": 1218,
+          "title": "Adding sound wave overlays to videos and pictures using FFMPEG",
+          "imageUrl": null
+        },
+        {
           "id": "https://christianheilmann.com/?p=7944",
           "author": "Chris Heilmann",
           "description": "VideoTap keeps getting better and better. The latest version now has a new feature called Clips which allows you to create short excerpt videos from larger ones by selecting a part of the text in the transcript. When you upload a video, VideoTap automatically creates a transcript, which is used to create the AI powered […]",
@@ -249,13 +259,34 @@
       "title": "Emily Short's Interactive Storytelling",
       "feedUrl": "https://emshort.blog/feed/",
       "siteUrl": "https://emshort.blog",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://emshort.blog/?p=42940",
+          "author": "Emily Short",
+          "description": "Events September 1. The yearly IF Comp is now accepting submissions for this fall. If you intend to enter, you should indicate that by September 1 (so tomorrow — though I imagine most people who are planning to enter will already have sent in their intent). Sept 2, the San Francisco Bay Area IF Meetup gets … Continue reading \"End of August Links\"",
+          "link": "https://emshort.blog/2023/08/31/end-of-august-links/",
+          "publishedOn": "2023-08-31T14:57:41.000Z",
+          "wordCount": 5943,
+          "title": "End of August Links",
+          "imageUrl": "https://emshort.files.wordpress.com/2023/08/rosebush_logo.jpeg"
+        }
+      ]
     },
     {
       "title": "xkcd.com",
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2822/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/gmail_com.png\" title=\"Hi all, just replying to loop in *@outlook.com and *@yahoo.com.\" alt=\"Hi all, just replying to loop in *@outlook.com and *@yahoo.com.\" />",
+          "link": "https://xkcd.com/2822/",
+          "publishedOn": "2023-08-30T00:00:00.000Z",
+          "wordCount": 189,
+          "title": "*@gmail.com",
+          "imageUrl": "https://imgs.xkcd.com/comics/gmail_com_2x.png"
+        },
         {
           "id": "https://xkcd.com/2821/",
           "author": null,
@@ -495,16 +526,6 @@
           "wordCount": 180,
           "title": "Room Temperature",
           "imageUrl": "https://imgs.xkcd.com/comics/room_temperature_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2797/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/actual_progress.png\" title=\"Slowly progressing from 'how do protons behave in relativistic collisions?' to 'what the heck are protons even doing when they're just sitting there?'\" alt=\"Slowly progressing from 'how do protons behave in relativistic collisions?' to 'what the heck are protons even doing when they're just sitting there?'\" />",
-          "link": "https://xkcd.com/2797/",
-          "publishedOn": "2023-07-03T00:00:00.000Z",
-          "wordCount": 180,
-          "title": "Actual Progress",
-          "imageUrl": "https://imgs.xkcd.com/comics/actual_progress_2x.png"
         }
       ]
     },
@@ -541,16 +562,6 @@
           "publishedOn": "2023-07-12T00:00:00.000Z",
           "wordCount": 1483,
           "title": "Custom backlight for a Wonder Swan [blog]",
-          "imageUrl": "https://remysharp.com/images/cards/og/9-4.jpg"
-        },
-        {
-          "id": "ip-to-timezone-the-30-second-way",
-          "author": null,
-          "description": "After my wrangle with getting a timezone from an IP address by reducing large databases down from several hundred megabytes down to only a few, then discovering IPv6 didn't work (so I then applied my same logic to get 700MB to 10MB), the ever lovely Phil Hawksworth pointed out that (of course) Netlify has this data available in their edge functions.\nI totally overlooked the feature (maybe I didn't even look!). So let's implement that and then discover the glaring bug in all of the code so far.\n\nNetlify edge function's geo prop\nPhil kindly sent me a direct message on Space Karen's website pointing me to the geo property provided in edge function calls.\nThis (of course 🤦‍♂️) means the code for the function is (for me) stupid simple:\nexport default async (request, context) => {\n  return new …",
-          "link": "https://remysharp.com/2023/07/03/ip-to-timezone-the-30-second-way",
-          "publishedOn": "2023-07-03T00:00:00.000Z",
-          "wordCount": 1102,
-          "title": "IP to timezone, the 30 second way [blog]",
           "imageUrl": "https://remysharp.com/images/cards/og/9-4.jpg"
         }
       ]
@@ -873,6 +884,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/727194426874773504",
+          "author": null,
+          "description": "text-mode:\nEmoticons from 1893, published in the German Kreisblatt für den Kreis Malmedy. h/t Gleb Albert.",
+          "link": "https://text-mode.tumblr.com/post/727194426874773504",
+          "publishedOn": "2023-08-31T18:30:47.000Z",
+          "wordCount": 1011,
+          "title": "text-mode:\n\nEmoticons from 1893, published in the German...",
+          "imageUrl": "https://64.media.tumblr.com/3838c404a6a8e6ef49971cc5bc3f69d8/tumblr_or67u0H7uo1rpiyaso1_1280.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/727103830377086976",
           "author": null,
@@ -1482,16 +1503,6 @@
           "wordCount": 995,
           "title": "text-mode:\n\nA2 PETSCII-poster by Tommi Musturi available here....",
           "imageUrl": "https://64.media.tumblr.com/4bf58081c0e530f90719a16872e446fb/tumblr_pbx7ejocbt1rpiyaso1_r1_1280.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/721758593454620672",
-          "author": null,
-          "description": "text-mode:\n\n\nASCII skull tattoo by Chris Sanford.",
-          "link": "https://text-mode.tumblr.com/post/721758593454620672",
-          "publishedOn": "2023-07-02T18:30:33.000Z",
-          "wordCount": 1007,
-          "title": "text-mode:\n\n\n\nASCII skull tattoo by Chris Sanford.",
-          "imageUrl": "https://64.media.tumblr.com/129fd6dc53d761981946c9c2801f13cc/tumblr_pc41ces6cs1rpiyaso1_640.png"
         }
       ]
     },
@@ -2132,6 +2143,16 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/13/07/in-america-the-cheese-is-dead",
+          "author": null,
+          "description": "Market researcher Clotaire Rapaille was interviewed for an episode of Frontline on advertising and marketing back in 2003. I like what he had to say about the differences in how the French and Americans think about cheese.\nFor example, if I know that in America the cheese is dead, which means is pasteurized, which means legally dead and scientifically dead, and we don't want any cheese that is alive, then I have to put that up front. I have to say this cheese is safe, is pasteurized, is wrapped up in plastic. I know that plastic is a body bag. You can put it in the fridge. I know the fridge is the morgue; that's where you put the dead bodies. And so once you know that, this is the way you market cheese in America.\nI started working with a French company in America, and they were trying to sell French cheese to the Americans. And they didn't understand, because in France the cheese is alive, which means that you can buy it young, mature or old, and that's why you have to read the age of the cheese when you go to buy the cheese. So you smell, you touch, you poke. If you need cheese for today, you want to buy a mature cheese. If you want cheese for next week, you buy a young cheese. And when you buy young cheese for next week, you go home, [but] you never put the cheese in the refrigerator, because you don't put your cat in the refrigerator. It's the same; it's alive. We are very afraid of getting sick with cheese. By the way, more French people die eating cheese than Americans die. But the priority is different; the logic of emotion is different. The French like the taste before safety. Americans want safety before the taste.\n\n\t\n(via @pieratt)\n\n\n\t\t\n\t\t\n[This was originally posted on July 29, 2013.]\nTags:cheese    \nClotaire Rapaille    \nfood",
+          "link": "https://kottke.org/13/07/in-america-the-cheese-is-dead",
+          "publishedOn": "2023-08-31T23:15:29.000Z",
+          "wordCount": 471,
+          "title": "In America, the Cheese Is Dead",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/15/02/the-infinite-hotel-paradox",
           "author": null,
@@ -3489,6 +3510,16 @@
       "feedUrl": "https://www.zeroto180.org/feed/",
       "siteUrl": "https://www.zeroto180.org/",
       "articles": [
+        {
+          "id": "https://www.zeroto180.org/?p=91500",
+          "author": "Zeroto180",
+          "description": "Browsing Nina Simone‘s early single releases on Bethlehem Records — Gus Wildi‘s jazz label whose control and eventual ownership would ultimately be given over to Syd Nathan of King Records — my eyes are immediately drawn to the instrumental B-side, “African Mailman,” a fairly radical and oblique song title for the conformist 1950s. “African Mailman“ […]\nThe post Nina Simone (vs. Syd Nathan) at Bethlehem Records appeared first on Zero to 180 - Three Minute Magic.",
+          "link": "https://www.zeroto180.org/nina-simone-vs-syd-nathan-at-bethlehem-records/",
+          "publishedOn": "2023-08-31T14:25:03.000Z",
+          "wordCount": 11359,
+          "title": "Nina Simone (vs. Syd Nathan) at Bethlehem Records",
+          "imageUrl": "https://www.zeroto180.org/wp-content/uploads/2023/08/Nina-Simone-thumbnail-test.jpg"
+        },
         {
           "id": "https://www.zeroto180.org/?p=91199",
           "author": "Zeroto180",
