@@ -258,6 +258,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2827/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/brassica.png\" title=\"Sequoia Brussels sprouts are delicious but it's pretty hard to finish one.\" alt=\"Sequoia Brussels sprouts are delicious but it's pretty hard to finish one.\" />",
+          "link": "https://xkcd.com/2827/",
+          "publishedOn": "2023-09-11T00:00:00.000Z",
+          "wordCount": 189,
+          "title": "Brassica",
+          "imageUrl": "https://imgs.xkcd.com/comics/brassica_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2826/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/gold.png\" title=\"It can be expensive to hire a professional spectroscopist for your wedding, but the quality of the spectra you get is worth it.\" alt=\"It can be expensive to hire a professional spectroscopist for your wedding, but the quality of the spectra you get is worth it.\" />",
@@ -496,16 +506,6 @@
           "wordCount": 178,
           "title": "Geohydrotypography",
           "imageUrl": "https://imgs.xkcd.com/comics/geohydrotypography_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2802/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/fireflies.png\" title=\"I feel bad for Earth 2 and their shadowflies.\" alt=\"I feel bad for Earth 2 and their shadowflies.\" />",
-          "link": "https://xkcd.com/2802/",
-          "publishedOn": "2023-07-14T00:00:00.000Z",
-          "wordCount": 178,
-          "title": "Fireflies",
-          "imageUrl": "https://imgs.xkcd.com/comics/fireflies_2x.png"
         }
       ]
     },
@@ -514,6 +514,16 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "getting-daily-notifications-my-parent-is-okay",
+          "author": null,
+          "description": "About a year ago I came across the Kettle Companion which is a lovely idea: you share a device with a loved one, and when they boil their kettle, you get a little notification on a device (a toy kettle) either letting you know they're okay or maybe you want to give them a call for a coffee and a chat.\nHowever, I have my reservations: firstly, I don't need a toy kettle in my own home, more importantly, the service has a hosted server monitoring for some kind of event, is that service going to stay online for perhaps 20 years?\nAnything that I rely on for actual long term living I'm am extremely wary of relying on a 3rd party company for. So, although I think Kettle Companion is a neat service, I'd rather have control.\nSo this is how I've solved it myself.",
+          "link": "https://remysharp.com/2023/09/11/getting-daily-notifications-my-parent-is-okay",
+          "publishedOn": "2023-09-11T00:00:00.000Z",
+          "wordCount": 1743,
+          "title": "Getting daily notifications my parent is okay [blog]",
+          "imageUrl": "https://remysharp.com/images/kettle-missed.jpg"
+        },
         {
           "id": "thirteen-what-flowers-mean-to-me",
           "author": null,
@@ -854,6 +864,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/728190974257397760",
+          "author": null,
+          "description": "text-mode:\nThe OpenBSD blowfish says: So long, and thanks for all the passwords",
+          "link": "https://text-mode.tumblr.com/post/728190974257397760",
+          "publishedOn": "2023-09-11T18:30:29.000Z",
+          "wordCount": 1014,
+          "title": "text-mode:\n\nThe OpenBSD blowfish says: So long, and thanks for...",
+          "imageUrl": "https://64.media.tumblr.com/e9d2726abb7d1a91ffef25d0bfef350a/tumblr_o6jpbvek3u1rpiyaso1_640.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/728100377199788032",
           "author": null,
@@ -1463,16 +1483,6 @@
           "wordCount": 1027,
           "title": "text-mode:\n\nSharp MZ-700 character sets (Japanese first,...",
           "imageUrl": "https://64.media.tumblr.com/ff35940c7243e5aab76932dfa78529b2/tumblr_p4ic9hDil01rpiyaso3_400.gif"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/722755162968670208",
-          "author": null,
-          "description": "text-mode:\nDatafall by Ray Manta, made with his custom charset in Retrospecs.",
-          "link": "https://text-mode.tumblr.com/post/722755162968670208",
-          "publishedOn": "2023-07-13T18:30:35.000Z",
-          "wordCount": 1009,
-          "title": "text-mode:\n\nDatafall by Ray Manta, made with his custom charset...",
-          "imageUrl": "https://64.media.tumblr.com/491af361950040fe2853cd2df4c6d17d/tumblr_p50jvzRyWR1rpiyaso1_1280.jpg"
         }
       ]
     },
@@ -1600,16 +1610,6 @@
           "wordCount": 2106,
           "title": "Did ChatGPT write this? Here’s how to tell.",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/06/CHAT-GPT.original-1005x669.png"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=72566",
-          "author": "Kristina Bravo",
-          "description": "From chat engines and generative apps to self-driving cars, technologies that use artificial intelligence continue to transform our lives in new ways. But how do we create AI that serves society without disempowering some of us? How can we make sure these innovations are fair and trustworthy? Those are the questions we asked last May […]\nThe post 4 things we learned from Mozilla’s Responsible AI challenge appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/mozilla-responsible-ai-challenge-takeaways/",
-          "publishedOn": "2023-07-13T20:29:31.000Z",
-          "wordCount": 1975,
-          "title": "4 things we learned from Mozilla’s Responsible AI challenge",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/05/AIChallenge_Distilled-text-1080x720.png"
         }
       ]
     },
@@ -1718,6 +1718,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=5861",
+          "author": "Cory Doctorow",
+          "description": "Today's links The Tamakis' \"Roaming\": Ah, to be young and Canadian in New York City. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The Tamakis' \"Roaming\" (permalink) Cousins Mariko Tamaki and Jillian Tamaki are a graphic storytelling powerhouse, and their latest title, Roaming (from Drawn and Quarterly) is a stunner: https://drawnandquarterly.com/books/roaming/ Roaming is the story of three young Canadian women meeting up for a getaway to New York City. Zoe and Dani are high-school best friends who haven't seen each other since they graduated and decamped for universities in different cities. Fiona is Dani's art-school classmate, a glamorous and…",
+          "link": "https://pluralistic.net/2023/09/11/as-canadian-as/",
+          "publishedOn": "2023-09-11T11:10:27.000Z",
+          "wordCount": 2826,
+          "title": "Pluralistic: The Tamakis' \"Roaming\" (11 Sep 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=5856",
           "author": "Cory Doctorow",
@@ -2061,16 +2071,6 @@
           "publishedOn": "2023-07-14T16:02:50.000Z",
           "wordCount": 4862,
           "title": "Pluralistic: Why they're smearing Lina Khan (14 July 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=5582",
-          "author": "Cory Doctorow",
-          "description": "Today's links A \"secure\" system can be the most dangerous of all: Who we secure FOR – and AGAINST – reveals our true priorities and values. Hey look at this: Delights to delectate. This day in history: 2013 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading A \"secure\" system can be the most dangerous of all (permalink) Two decades ago, my life changed forever: hearing Bruce Schneier explain that \"security\" doesn't exist in the abstract. You can only be secure from some threat. A fire alarm won't protect you from burglaries. A condom won't protect you from mass shootings. It seems obvious, but how often do we hear about \"security\" without any mention of who is being made secure, and from which threat? Take the US welfare system. It is very …",
-          "link": "https://pluralistic.net/2023/07/13/whose-security/",
-          "publishedOn": "2023-07-13T17:56:02.000Z",
-          "wordCount": 3250,
-          "title": "Pluralistic: A \"secure\" system can be the most dangerous of all (13 July 2023)",
           "imageUrl": null
         }
       ]
@@ -3382,26 +3382,6 @@
           "wordCount": 281,
           "title": "Instruction Manuals for 6000+ Lego Sets, Courtesy of the Internet Archive",
           "imageUrl": "https://kottke.org/plus/misc/images/lego-instructions-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/07/why-do-american-diners-look-that-way",
-          "author": null,
-          "description": "In this video from Architectural Digest, architect Michael Wyetzner runs us through why American diners look the way they do. Early diners took their cues from trains:\nSo let's take a look at a typical American diner. So the outside has a shape that's reminiscent of a train. In fact, that's how diners got their name. They're named after the dining car on a train.\nMany of the design elements in a diner are based on the necessities of dining on a train in a railroad car, like booth seating and counter seating, and an open kitchen.\nSo I like these two photos because they show all the elements that go into the classic American diner. On the exterior, you have that stainless steel smooth curvature, you've got that Art Deco typography. And then on the interior you have the checkered floor, you have the booths, you have the globes, and you have the jukebox.\nIn the early part of the 20th century, trains were the dominant form of travel. If you look at some of the earliest diners, they were in fact, actual train cars that were placed permanently on the ground.\n\n\nLater, cars and space travel provided inspiration in the diner's evolution.\nTags: architecture · food · Michael Wyetzner · video",
-          "link": "https://kottke.org/23/07/why-do-american-diners-look-that-way",
-          "publishedOn": "2023-07-13T18:45:17.000Z",
-          "wordCount": 390,
-          "title": "Why Do American Diners Look That Way?",
-          "imageUrl": "https://img.youtube.com/vi/fYSfG_6Sv5g/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/07/barbenheimer",
-          "author": null,
-          "description": "Barbenheimer poster by Sean Longmore. Perfect, 10/10, no notes.\nTags: Barbie · design · movies · Oppenheimer · remix · Sean Longmore",
-          "link": "https://kottke.org/23/07/barbenheimer",
-          "publishedOn": "2023-07-13T14:18:19.000Z",
-          "wordCount": 183,
-          "title": "Barbenheimer",
-          "imageUrl": "https://kottke.org/plus/misc/images/barbenheimer.jpg"
         }
       ]
     },
