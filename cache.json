@@ -6,6 +6,16 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=7955",
+          "author": "Chris Heilmann",
+          "description": "Logrocket recorded a podcast with me talking about the need for good UX of AI solutions . It is amazing how much opportunities we miss out on by simply trying to copy ChatGPT, not understanding that a faux human chat interaction often only is a flash in the pan success. I will also cover the […]",
+          "link": "https://christianheilmann.com/2023/09/13/podcast-ai-solutions-need-good-ux-with-chris-heilmann/",
+          "publishedOn": "2023-09-13T18:33:41.000Z",
+          "wordCount": 639,
+          "title": "Podcast: AI solutions need good UX with Chris Heilmann",
+          "imageUrl": null
+        },
+        {
           "id": "https://christianheilmann.com/?p=7951",
           "author": "Chris Heilmann",
           "description": "In order to fix a broken video where the camera stopped recording, I wanted to replace the part with a video with a sound wave overlay. There are many services for that, and it is also a feature of video editing software. But I am stingy and a geek, so I wanted to use FFMPEG […]",
@@ -257,6 +267,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2828/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/exoplanet_observation.png\" title=\"NASA prefers to say that their rovers are 'looking for signs of past life on Mars' and not 'ghost hunting.'\" alt=\"NASA prefers to say that their rovers are 'looking for signs of past life on Mars' and not 'ghost hunting.'\" />",
+          "link": "https://xkcd.com/2828/",
+          "publishedOn": "2023-09-13T00:00:00.000Z",
+          "wordCount": 191,
+          "title": "Exoplanet Observation",
+          "imageUrl": "https://imgs.xkcd.com/comics/exoplanet_observation_2x.png"
+        },
         {
           "id": "https://xkcd.com/2827/",
           "author": null,
@@ -875,6 +895,16 @@
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
         {
+          "id": "https://text-mode.tumblr.com/post/728372180636811264",
+          "author": null,
+          "description": "text-mode:\nTypewriter poems by Erik Blagsvedt, 2016.",
+          "link": "https://text-mode.tumblr.com/post/728372180636811264",
+          "publishedOn": "2023-09-13T18:30:41.000Z",
+          "wordCount": 1006,
+          "title": "text-mode:\n\nTypewriter poems by Erik Blagsvedt, 2016.",
+          "imageUrl": "https://64.media.tumblr.com/ddeca660c9df348b290e2869b2dc62a0/tumblr_ohdxutjqJ61rpiyaso1_1280.jpg"
+        },
+        {
           "id": "https://text-mode.tumblr.com/post/728281575217938432",
           "author": null,
           "description": "text-mode:\nBeltel was South Africa’s videotex system. It was launched in 1986 and seems to have been quite active even in 1999.",
@@ -1483,16 +1513,6 @@
           "wordCount": 1023,
           "title": "text-mode:\n\nInterface made by Phi Dinh (@phi6) for a forthcoming...",
           "imageUrl": "https://64.media.tumblr.com/97374baf49a8c1c3409f08fae06867ac/tumblr_p6nka9ju0p1rpiyaso2_540.gif"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/722936354462400512",
-          "author": null,
-          "description": "text-mode:\nAnti-fascist llamas in Grmmxi’s 2018 ASCII calendar.",
-          "link": "https://text-mode.tumblr.com/post/722936354462400512",
-          "publishedOn": "2023-07-15T18:30:33.000Z",
-          "wordCount": 1001,
-          "title": "text-mode:\n\nAnti-fascist llamas in Grmmxi’s 2018 ASCII calendar.",
-          "imageUrl": "https://64.media.tumblr.com/7dc63f0bd4dbd768462ffffa263fbb60/tumblr_p62f65WDqB1rpiyaso1_1280.png"
         }
       ]
     },
@@ -1706,6 +1726,96 @@
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
         {
+          "id": "https://www.joshwcomeau.com/react/common-beginner-mistakes/",
+          "author": "Josh W. Comeau",
+          "description": "I used to teach React at a local coding bootcamp, and I noticed that students kept getting tripped up by the same handful of things. In this article, we're going to go through 9 of the most dastardly gotchas. I'll show you how to solve these common problems, so you can avoid a lot of potential frustration!",
+          "link": "https://www.joshwcomeau.com/react/common-beginner-mistakes/",
+          "publishedOn": "2023-09-12T22:33:56.000Z",
+          "wordCount": 8735,
+          "title": "Common Beginner Mistakes with React",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-common-beginner-mistakes.jpg"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/react/data-binding/",
+          "author": "Josh W. Comeau",
+          "description": "As developers, we don't like working with forms, but they're a critical part of most web applications! In this tutorial, you'll learn exactly how to wire up all of the different form controls in React. Never forget how to data-bind a checkbox or radio button again!",
+          "link": "https://www.joshwcomeau.com/react/data-binding/",
+          "publishedOn": "2023-09-12T22:17:48.000Z",
+          "wordCount": 10742,
+          "title": "Data Binding in React",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-data-binding.jpg"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/react/next-level-playground/",
+          "author": "Josh W. Comeau",
+          "description": "No developer blog or technical documentation site is complete without an interactive code playground. The CodeSandbox team recently released a wonderful tool called Sandpack, to help us create these live-updating code editors. In this tutorial, I'll show you how I use it on this blog.",
+          "link": "https://www.joshwcomeau.com/react/next-level-playground/",
+          "publishedOn": "2023-09-12T22:17:48.000Z",
+          "wordCount": 7405,
+          "title": "A World-Class Code Playground with Sandpack",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-next-level-playground.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/react/usememo-and-usecallback/",
+          "author": "Josh W. Comeau",
+          "description": "What's the deal with these two hooks?! Lots of devs find them confusing, for a whole host of reasons. In this tutorial, we'll dig deep and understand what they do, why they're useful, and how to get the most out of them.",
+          "link": "https://www.joshwcomeau.com/react/usememo-and-usecallback/",
+          "publishedOn": "2023-09-12T22:17:48.000Z",
+          "wordCount": 11106,
+          "title": "Understanding useMemo and useCallback",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-usememo-and-usecallback.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/react/why-react-re-renders/",
+          "author": "Josh W. Comeau",
+          "description": "In React, we don't update the DOM directly, we tell React what we want the DOM to look like, and React tackles the rest. But how exactly does it do this? In this tutorial, we'll unpack exactly when and why React re-renders, and how we can use this information to optimize the performance of our React apps.",
+          "link": "https://www.joshwcomeau.com/react/why-react-re-renders/",
+          "publishedOn": "2023-09-12T22:17:48.000Z",
+          "wordCount": 8306,
+          "title": "Why React Re-Renders",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-why-react-re-renders.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/javascript/statements-vs-expressions/",
+          "author": "Josh W. Comeau",
+          "description": "One of the most foundational things to understand about JavaScript is that programs are made up of statements, and statements have slots for expressions. In this blog post, we'll dig into how these two structures work, and see how building an intuition about this can help us solve practical problems.",
+          "link": "https://www.joshwcomeau.com/javascript/statements-vs-expressions/",
+          "publishedOn": "2023-09-12T22:17:48.000Z",
+          "wordCount": 4111,
+          "title": "Statements Vs. Expressions",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-statements-vs-expressions.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/react/file-structure/",
+          "author": "Josh W. Comeau",
+          "description": "How should we structure components and other files in our React apps? I've iterated my way to a solution I'm really happy with. In this blog post, I'll share how it works, what the tradeoffs are, and how I mitigate them.",
+          "link": "https://www.joshwcomeau.com/react/file-structure/",
+          "publishedOn": "2023-09-12T22:17:48.000Z",
+          "wordCount": 7384,
+          "title": "Delightful React File/Directory Structure",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-file-structure.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/react/demystifying-styled-components/",
+          "author": "Josh W. Comeau",
+          "description": "For so many React devs, styled-components seems kinda magical. It isn't at all clear how it uses traditional CSS features under-the-hood, and that lack of clarity can cause real problems when things go awry. In this post, we'll learn exactly how styled-components works by building our own mini-version.",
+          "link": "https://www.joshwcomeau.com/react/demystifying-styled-components/",
+          "publishedOn": "2023-09-12T22:17:48.000Z",
+          "wordCount": 8122,
+          "title": "Demystifying styled-components",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-demystifying-styled-components.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/react/announcing-use-sound-react-hook/",
+          "author": "Josh W. Comeau",
+          "description": "By and large, using the web is a visual experience. This is in terrible contrast to mobile apps, which interact with three of our human senses (sight, sound, and touch, through haptic feedback). I just released a library to make it easy to add sound to your React app, and I make the case that you should consider using it!",
+          "link": "https://www.joshwcomeau.com/react/announcing-use-sound-react-hook/",
+          "publishedOn": "2023-09-12T22:17:48.000Z",
+          "wordCount": 4346,
+          "title": "Announcing “use-sound”, a React Hook for Sound Effects",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-announcing-use-sound-react-hook.png"
+        },
+        {
           "id": "https://www.joshwcomeau.com/react/server-components/",
           "author": "Josh W. Comeau",
           "description": "This year, the React team unveiled something they've been quietly researching for years: an official way to run React components exclusively on the server. This is a significant paradigm shift, and it's caused a whole lot of confusion in the React community. In this tutorial, we'll explore this new world, and build an intuition for how it works, and how we can take advantage of it.",
@@ -1748,6 +1858,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=5876",
+          "author": "Cory Doctorow",
+          "description": "Today's links Portraits of Queen West: Kevin Steele's \"sequential art\" book of the glory days of Queen Street West. Hey look at this: Delights to delectate. This day in history: 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Portraits of Queen West (permalink) Portraits of Queen West is Kevin Steele's extraordinary photo-book, a work of \"sequential art\" featuring time- and space-series of a single – rather glorious – stretch of Toronto's Queen Street West: https://crowdfundr.com/queenwest Steele himself is as extraordinary as his book. I first ran into him through Mackerel Multimedia, the pioneering Canadian multimedia shop that he co-founded in the early 1990s – one of those art-school kids who discovered the Ma…",
+          "link": "https://pluralistic.net/2023/09/13/spadina-to-bathurst/",
+          "publishedOn": "2023-09-13T12:09:22.000Z",
+          "wordCount": 3392,
+          "title": "Pluralistic: Portraits of Queen West (13 Sept 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=5861",
           "author": "Cory Doctorow",
@@ -2082,16 +2202,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=5593",
-          "author": "Cory Doctorow",
-          "description": "Today's links Linkty Dumpty: Things I thought about when I was supposed to be on holidays. This day in history: 2003, 2008, 2013, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Linkty Dumpty (permalink) I was supposed to be on vacation, and while I didn't do any blogging for a month, that didn't mean that I stopped looking at my distraction rectangle and making a list of things I wanted to write about. Consequentially, the link backlog is massive, so it's time to declare bankruptcy with another linkdump: https://pluralistic.net/tag/linkdump/ Let's kick things off with a little graphic whimsy. You've doubtless seen the endless Trolley Problem memes, working from the same crude line drawings? Well, philosopher John Holbo got tired o…",
-          "link": "https://pluralistic.net/2023/07/15/in-the-dumps/",
-          "publishedOn": "2023-07-15T15:26:57.000Z",
-          "wordCount": 5347,
-          "title": "Pluralistic: Linkty Dumpty (15 July 2023)",
-          "imageUrl": null
         }
       ]
     },
@@ -2123,6 +2233,46 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/09/the-science-of-the-perfect-second",
+          "author": null,
+          "description": "I really enjoyed this piece by Tom Vanderbilt on how time is kept, coordinated, calculated, and forecast. It's full of interested tidbits throughout, like:\nCare to gawk at one of the world's last surviving original radium standards, a glass ampoule filled with 20.28 milligrams of radium chloride prepared by Marie Curie in 1913? NIST has it in the basement, encased in a steel bathtub, buried under lead bricks.\n\n\nAnd:\nFor GPS to work, it needs ultra-exact timing: accuracy within fifteen meters requires precision on the order of fifty nanoseconds. The 5G networks powering our mobile phones demand ever more precise levels of cell-tower synchronization or calls get dropped.\n\n\nAnd:\nAnd as Mumford could have predicted, nowhere has time become so fetishized as in the financial sector, with the emergence over the past decade of algorithmic high-frequency trading. Donald MacKenzie, the author of Trading at the Speed of Light, estimated in 2019 that a trading program could receive market data and trigger an order in eighty-four nanoseconds, or eighty-four billionths of a second.\n\n\nAnd:\nAll this makes F1 staggeringly accurate: it will gain or shed only one second every 100,000,000 years. Since the days when time was defined astronomically, the accuracy of the second is estimated to have increased by a magnitude of eight.\n\n\nAnd:\n\"A clock accurate to a second over the age of the cosmos,\" Patrick Gill, a physicist at the U.K.'s National Physical Laboratory, is quoted as saying in New Scientist, \"would allow tests of whether physical laws and constants have varied over the universe's history.\"\n\n\nAnd:\n\"If you were to lift this clock up a centimeter of elevation,\" Hume told me, \"you would be able to discern a difference in the ticking rate.\" The reason is Einstein's theory of relativity: Time differs depending on where you are experiencing it.\n\n\nAnd I could go on and on. If any or all of those tidbits is interesting to you, you should go ahead and read the whole thing.\nTags: physics · science · time · Tom Vanderbilt",
+          "link": "https://kottke.org/23/09/the-science-of-the-perfect-second",
+          "publishedOn": "2023-09-13T21:31:27.000Z",
+          "wordCount": 489,
+          "title": "The Science of the Perfect Second",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/09/new-super-human-super-mario-bros-speedrun-record-set",
+          "author": null,
+          "description": "I love reading about speedrunning, specifically Super Mario Bros speedrunning, so this piece in Ars Technica about a new world record by Niftski is right up my alley. Here's the run if you want to watch it:\n\nFour particular things caught my eye about this run:\nNiftski's new record is 4m 54.631s, which is now faster than what was believed to be the theoretical limit for a human-played game.\nIt's also extremely close to the fastest SMB game ever played done using tool-assisted speedrunning (where you basically play in super slow motion, so you can make all the very precise movements easily, a la The Flash). \"In the battle of man versus machine, Niftski is now just 0.35 seconds away from standing up, John Henry-style, against the standard of machine-made automation.\"\n\n\n\nI always marvel at the level of dedication and ingenuity of the players working together (though competition) to lower the possible times through the tiniest of adjustments.\n\n\n\nHis heart rate tops out at 188bpm by the end of the game. I know he's sitting at a desk, but that's got to be of some cardiovascular advantage, right?\n\n👏👏👏\nTags: Super Mario Bros · video · video games",
+          "link": "https://kottke.org/23/09/new-super-human-super-mario-bros-speedrun-record-set",
+          "publishedOn": "2023-09-13T19:17:02.000Z",
+          "wordCount": 355,
+          "title": "New Super-Human Super Mario Bros Speedrun Record Set",
+          "imageUrl": "https://img.youtube.com/vi/Khu9BB2g4Ks/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/09/the-2023-fall-foliage-prediction-map",
+          "author": null,
+          "description": "Well, it is that time of year again when the leaves in the northern hemisphere change colors. As usual, SmokyMountains.com has published their best guess as to when the leaves will be changing in various parts of the country. At the end of September and beginning of October here in Vermont, it'll start looking like this.\nTags: infoviz · maps · USA",
+          "link": "https://kottke.org/23/09/the-2023-fall-foliage-prediction-map",
+          "publishedOn": "2023-09-13T15:45:43.000Z",
+          "wordCount": 215,
+          "title": "The 2023 Fall Foliage Prediction Map",
+          "imageUrl": "https://kottke.org/plus/misc/images/2023-foliage-map.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/09/ev-goes-0-62-mph-in-record-0956-seconds",
+          "author": null,
+          "description": "A group of students from ETH Zurich and Lucerne University of Applied Sciences and Arts recently set a record for the fastest 0-62mph time with their hand-built electric car: 0.956 seconds. The 309-lb car got up to 62mph in just 40.3 feet, which is ~10 feet shorter than the width of a basketball court. The old record was 1.46 seconds, which this car just absolutely obliterated. For reference, the Tesla Plaid's 0-60 time is 1.99 seconds.\nThe video of their run is kind of amazing...the car is just so ludicrously quick that I started giggling when it leapt off the line.\nTags: cars · EVs · video",
+          "link": "https://kottke.org/23/09/ev-goes-0-62-mph-in-record-0956-seconds",
+          "publishedOn": "2023-09-13T13:27:21.000Z",
+          "wordCount": 268,
+          "title": "Student-Built EV Car Goes 0-62 mph in Record 0.956 Seconds",
+          "imageUrl": "https://img.youtube.com/vi/mvoFemftA34/0.jpg"
+        },
         {
           "id": "https://kottke.org/23/09/repurposed-retro-tech-portraits-by-nick-gentry",
           "author": null,
