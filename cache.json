@@ -278,6 +278,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2829/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/iceberg_efficiency.png\" title=\"Our experimental aerogel iceberg with helium pockets manages true 100% efficiency, barely touching the water, and it can even lift off of the surface and fly to more efficiently pursue fleeing hubristic liners.\" alt=\"Our experimental aerogel iceberg with helium pockets manages true 100% efficiency, barely touching the water, and it can even lift off of the surface and fly to more efficiently pursue fleeing hubristic liners.\" />",
+          "link": "https://xkcd.com/2829/",
+          "publishedOn": "2023-09-15T00:00:00.000Z",
+          "wordCount": 191,
+          "title": "Iceberg Efficiency",
+          "imageUrl": "https://imgs.xkcd.com/comics/iceberg_efficiency_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2828/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/exoplanet_observation.png\" title=\"NASA prefers to say that their rovers are 'looking for signs of past life on Mars' and not 'ghost hunting.'\" alt=\"NASA prefers to say that their rovers are 'looking for signs of past life on Mars' and not 'ghost hunting.'\" />",
@@ -573,16 +583,6 @@
           "wordCount": 955,
           "title": "Thirteen / what flowers mean to me [blog]",
           "imageUrl": "https://remysharp.com/images/cards/og/9-4.jpg"
-        },
-        {
-          "id": "timezone-offsets-from-an-ip-address",
-          "author": null,
-          "description": "Following on from my hard and easy way of getting timezone from an IP address, having the timezone (as text) is one thing, now finding the actual offset is entirely a different problem.\n\nTL:DR; jump to the spoiler if you can't be bothered to read/listen to me ramble!\nThe problem isn't timezones, it's day light saving\nIt's all very well knowing what timezone a particularly location is sitting on. We can show the user the UTC time, but when it doesn't match the wall clock because they're currently observing DST, then it's just…weird.\nSo now we need to know if the location is observing DST, or not. Or if perhaps they never observe DST (like Hawaii).\nThe long hard way\nThere is the IANA timezone dataset which has custom data structures that describe the location and how time is observed in that…",
-          "link": "https://remysharp.com/2023/07/18/timezone-offsets-from-an-ip-address",
-          "publishedOn": "2023-07-18T00:00:00.000Z",
-          "wordCount": 1032,
-          "title": "Timezone offsets from an IP address [blog]",
-          "imageUrl": "https://remysharp.com/images/cards/og/9-1.jpg"
         }
       ]
     },
@@ -886,16 +886,6 @@
           "wordCount": 1382,
           "title": "11ty: Index ALL the things!",
           "imageUrl": null
-        },
-        {
-          "id": "https://lea.verou.me/blog/2023/preserve-disqus/",
-          "author": null,
-          "description": "So I recently ported my 14 year old blog from WordPress to Eleventy.\nI had been using Disqus for comments for years, so I didn’t want to lose them, even if I ended up using a different solution for the future (or no comments at all).\nLooking around for an existing solution did not yield many results.\nThere’s Zach’s eleventy-import-disqus but it’s aimed at importing Disqus comments as static copies,\nbut I wanted to have the option to continue using Disqus.\nLooking at the WP generated HTML source, I noticed that Disqus was using the WP post id (a number that is not displayed in the UI) to link its threads to the posts.\nHowever, the importer I used did not preserve the post ids as metadata (filed issue #95).\nWhat to do?\nGetting the WP post id\nMy first thought was to add the post id to each po…",
-          "link": "https://lea.verou.me/blog/2023/preserve-disqus/",
-          "publishedOn": "2023-07-18T00:00:00.000Z",
-          "wordCount": 1520,
-          "title": "Migrating Disqus from WP to 11ty",
-          "imageUrl": null
         }
       ]
     },
@@ -904,6 +894,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/728553375673827328",
+          "author": null,
+          "description": "Hot Tea’s yarn-on-fence works. More here.",
+          "link": "https://text-mode.tumblr.com/post/728553375673827328",
+          "publishedOn": "2023-09-15T18:30:42.000Z",
+          "wordCount": 907,
+          "title": "Hot Tea&rsquo;s yarn-on-fence works. More here.",
+          "imageUrl": "https://64.media.tumblr.com/66033edc9ad86398296c1d2ef8502aa4/420becd4d9318c44-c4/s640x960/31dc30029d16b149b75d9a3cf6771ce694a38a50.gif"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/728462772229357568",
           "author": null,
@@ -1513,16 +1513,6 @@
           "wordCount": 972,
           "title": "text-mode:\n\nNew piece by Xeme.",
           "imageUrl": "https://64.media.tumblr.com/3b90f4cd4b326b34de305b35f4d00fa0/tumblr_p6kcc0a0W41rpiyaso1_500.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/723117551162376192",
-          "author": null,
-          "description": "text-mode:\nAnimations by Ray Manta with the Tatung Einstein font, which is making its way into the Retrospecs app.",
-          "link": "https://text-mode.tumblr.com/post/723117551162376192",
-          "publishedOn": "2023-07-17T18:30:36.000Z",
-          "wordCount": 1029,
-          "title": "text-mode:\n\nAnimations by Ray Manta with the Tatung Einstein...",
-          "imageUrl": "https://64.media.tumblr.com/6a852d151714ff60244cfa3799622109/tumblr_p6lmtgmWTf1rpiyaso1_250.gif"
         }
       ]
     },
@@ -1720,16 +1710,6 @@
           "wordCount": 1578,
           "title": "How to use Fakespot, the AI tool that helps you detect fake reviews",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/07/fakespot_productblog-1080x720.jpg"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=72553",
-          "author": "Mozilla",
-          "description": "The AI wars are heating up. In late 2022, OpenAI’s ChatGPT made headlines for showing us what a new search engine could look like. ChatGPT (which stands for “Generative Pre-trained Transformer”) is a chatbot — one that can process queries and spit out relevant information to answer questions about historical facts, recipes, car dimensions and […]\nThe post Did ChatGPT write this? Here’s how to tell. appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/internet-culture/how-to-tell-if-chatgpt-wrote-text/",
-          "publishedOn": "2023-07-17T23:00:00.000Z",
-          "wordCount": 2106,
-          "title": "Did ChatGPT write this? Here’s how to tell.",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/06/CHAT-GPT.original-1005x669.png"
         }
       ]
     },
@@ -1938,6 +1918,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=5887",
+          "author": "Cory Doctorow",
+          "description": "Today's links Bill Willingham puts his graphic novel series \"Fables\" into the public domain: A magnificent table flip (but the devil is in the details). Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Bill Willingham puts his graphic novel series \"Fables\" into the public domain (permalink) It's been 21 years since Bill Willingham launched Fables, his 110-issue, wide-ranging, delightful and brilliantly crafted author-owned comic series that imagines that the folkloric figures of the world's fairytales are real people, who live in a secret society whose internal struggles and intersections with the mundane world are the source of endless drama. Fabl…",
+          "link": "https://pluralistic.net/2023/09/15/fairy-use-tales/",
+          "publishedOn": "2023-09-15T17:52:20.000Z",
+          "wordCount": 5521,
+          "title": "Pluralistic: Bill Willingham puts his graphic novel series \"Fables\" into the public domain (15 Sept 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=5880",
           "author": "Cory Doctorow",
@@ -2333,6 +2323,36 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/09/movies-that-began-as-short-films",
+          "author": null,
+          "description": "Deadline's Robert Lang compiled a bunch of short films (that you can watch for free online) that were later developed into feature-length films like Reservoir Dogs, Marcel the Shell with Shoes On, Boogie Nights, Bottle Rocket, Napoleon Dynamite, and District 9. \nFor instance, here's Quentin Tarantino's original Reservoir Dogs:\n\nWes Anderson's original Bottle Rocket:\n\nThe original short version of Marcel the Shell with Shoes On:\n\nPeluca, upon which Napoleon Dynamite was based:\n\nThe Dirk Diggler Story, the short film by PT Anderson on which Boogie Nights was based:\n\nTags: Boogie Nights · Bottle Rocket · lists · Marcel The Shell With Shoes On · movies · Napoleon Dynamite · Reservoir Dogs · video",
+          "link": "https://kottke.org/23/09/movies-that-began-as-short-films",
+          "publishedOn": "2023-09-15T19:46:13.000Z",
+          "wordCount": 256,
+          "title": "Movies That Began As Short Films",
+          "imageUrl": "https://img.youtube.com/vi/77rbAzLZUiw/0.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/09/the-brassicas-will-continue-until-morale-improves",
+          "author": null,
+          "description": "For a recent XKCD, Randall Munroe celebrates the the magical brassica oleracea plant.\nBrassica oleracea is a species of plant that, like the apple, has a number of different cultivars. But these cultivars differ widely from each other: cabbage, kale, broccoli, brussels sprouts, kohlrabi, collard greens, and cauliflower.\n\n\nWelcome, redwood, to the family, er, species.\nTags: food · science · XKCD",
+          "link": "https://kottke.org/23/09/the-brassicas-will-continue-until-morale-improves",
+          "publishedOn": "2023-09-15T17:58:54.000Z",
+          "wordCount": 216,
+          "title": "The Brassicas Will Continue Until Morale Improves",
+          "imageUrl": "https://kottke.org/plus/misc/images/xkcd-brassica.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/09/ai-assisted-language-translation-of-speaking-including-mouth-movements",
+          "author": null,
+          "description": "Ok, this is a little bit bonkers: HeyGen's Video Translate tool will convert videos of people speaking into videos of them speaking one of several different languages (incl. English, Spanish, Hindi, and French) with matching mouth movements. Check out their brief demo of Marques Brownlee speaking Spanish & Tim Cook speaking Hindi or this video of a YouTuber trying it out:\n\nThe results are definitely in the category of \"indistinguishable from magic\".\nTags: artificial intelligence · HeyGen · language · video",
+          "link": "https://kottke.org/23/09/ai-assisted-language-translation-of-speaking-including-mouth-movements",
+          "publishedOn": "2023-09-15T14:38:35.000Z",
+          "wordCount": 236,
+          "title": "AI-Assisted Language Translation of Speaking, Including Mouth Movements",
+          "imageUrl": "https://img.youtube.com/vi/AACmqiiJJS4/0.jpg"
+        },
         {
           "id": "https://kottke.org/23/09/the-iphone-alarm-as-a-piano-ballad",
           "author": null,
@@ -3672,46 +3692,6 @@
           "wordCount": 263,
           "title": "Geohydrotypography",
           "imageUrl": "https://kottke.org/plus/misc/images/xkcd-geohydrotypography.jpg"
-        },
-        {
-          "id": "https://kottke.org/12/05/we-cant-send-email-more-than-500-miles",
-          "author": null,
-          "description": "Still one of my favorite internet things: The case of the 500-mile email.\nI was working in a job running the campus email system some years ago when I got a call from the chairman of the statistics department.\n\"We're having a problem sending email out of the department.\"\n\"What's the problem?\" I asked.\n\"We can't send mail more than 500 miles,\" the chairman explained.\nI choked on my latte.  \"Come again?\"\n\"We can't send mail farther than 500 miles from here,\" he repeated.  \"A little bit more, actually.  Call it 520 miles.  But no farther.\"\n\"Um... Email really doesn't work that way, generally,\" I said, trying to keep panic out of my voice.  One doesn't display panic when speaking to a department chairman, even of a relatively impoverished department like statistics.  \"What makes you think you can't send mail more than 500 miles?\"\n\"It's not what I *think*,\" the chairman replied testily.  \"You see, when we first noticed this happening, a few days ago—\"\n\"You waited a few DAYS?\" I interrupted, a tremor tinging my voice.  \"And you couldn't send email this whole time?\"\n\"We could send email.  Just not more than—\"\n\"—500 miles, yes,\" I finished for him, \"I got that.  But why didn't you call earlier?\"\n\"Well, we hadn't collected enough data to be sure of what was going on until just now.\"  Right.  This is the chairman of *statistics*. \"Anyway, I asked one of the geostatisticians to look into it—\"\n\"Geostatisticians...\"\n\"—yes, and she's produced a map showing the radius within which we can send email to be slightly more than 500 miles.  There are a number of destinations within that radius that we can't reach, either, or reach sporadically, but we can never email farther than this radius.\"\n\n\t\nHere's a FAQ that addresses some of the questions the more technically inclined among you may have about this story.\n\n\n\t\t\n\t\t\n[This was originally posted on May  4, 2012.]\nTags:email",
-          "link": "https://kottke.org/12/05/we-cant-send-email-more-than-500-miles",
-          "publishedOn": "2023-07-17T22:55:13.000Z",
-          "wordCount": 500,
-          "title": "\"We can't send email more than 500 miles\"",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/07/the-final-plunge-of-the-titanic-in-movies-tv",
-          "author": null,
-          "description": "This is a supercut of the final moments of the Titanic as represented in various films and TV shows, from 1912's La Hantise to a 2012 British TV series written by Downton Abbey's Julian Fellowes. It also doubles as a demonstration of the increasing capabilities and aspirations of filmmakers and their special effects teams throughout the years, although in terms of budget and effort, James Cameron's effort in 1997 marks the high point.\nTags: movies · Titanic · TV · video",
-          "link": "https://kottke.org/23/07/the-final-plunge-of-the-titanic-in-movies-tv",
-          "publishedOn": "2023-07-17T19:42:18.000Z",
-          "wordCount": 264,
-          "title": "The Final Plunge of the Titanic in Movies & TV",
-          "imageUrl": "https://img.youtube.com/vi/clVxGhZdIgU/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/07/graphic-design-internet-archive",
-          "author": null,
-          "description": "archives.design is a labor of love site run by Valery Marier where she collects graphic design related materials that are available to freely borrow, stream, or download from the Internet Archive. I've only scratched the surface in poking around, but so far I've found Olivetti brochures, a collection of theater programs from the 19th and early 20th centuries, several Apple things, The Vignelli Canon, a specimen book of wood type from the 1880s, and many issues of Emigre. What a resource!\nTags: design · Internet Archive · Valery Marier",
-          "link": "https://kottke.org/23/07/graphic-design-internet-archive",
-          "publishedOn": "2023-07-17T16:13:38.000Z",
-          "wordCount": 272,
-          "title": "Explore the Graphic Design Treasures of the Internet Archive",
-          "imageUrl": "https://kottke.org/plus/misc/images/archive-design-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/07/greta-gerwigs-barbie-influences",
-          "author": null,
-          "description": "Greta Gerwig takes us on a whirlwind tour through 33 films that influenced the Barbie movie, visually, thematically, and in terms of plot/content. The influences include The Wizard of Oz, Rear Window, Pee-wee's Big Adventure, Singin' in the Rain, The Godfather, Oklahoma!, 2001, and Saturday Night Fever.\nThen, Saturday Night Fever, I always had a sense of wanting this to be a movie with an amazing soundtrack. Saturday Night Fever obviously has this incredible soundtrack by the Bee Gees. There's a documentary about the Bee Gees, and I'd seen it and was so touched by the Bee Gees, and I thought Barbie seemed so disco to me in her heart, because Barbie's sort of — and I will say this as a lover of Barbie and disco — a little bit dorky in the best way. Saturday Night Fever was a movie that was driven by music, but not a musical. I guess we're half of a musical.\n\n\n Tags: Barbie · Greta Gerwig · movies · video",
-          "link": "https://kottke.org/23/07/greta-gerwigs-barbie-influences",
-          "publishedOn": "2023-07-17T13:55:22.000Z",
-          "wordCount": 338,
-          "title": "Greta Gerwig's Barbie Influences",
-          "imageUrl": "https://img.youtube.com/vi/s2rNnOGfmv0/0.jpg"
         }
       ]
     },
