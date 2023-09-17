@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2023-09-16T00:26:57.988Z</updated>
+    <updated>2023-09-17T00:30:29.408Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://text-mode.tumblr.com/post/728643969387511808</id>
+        <link href="https://text-mode.tumblr.com/post/728643969387511808"/>
+        <updated>2023-09-16T18:30:39.000Z</updated>
+        <summary type="html"><![CDATA[By Mavenmob, 2019-2023.]]></summary>
+        <author>
+            <name>TEXT-MODE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: Greenwashing set Canada on fire (16 Sept 2023)]]></title>
+        <id>https://pluralistic.net/?p=5902</id>
+        <link href="https://pluralistic.net/2023/09/16/murder-offsets/"/>
+        <updated>2023-09-16T17:20:59.000Z</updated>
+        <summary type="html"><![CDATA[Today's links Greenwashing set Canada on fire: A generation of idealistic Canadian kids broke their backs every summer "planting thousands of blowtorches a day." Hey look at this: Delights to delectate. This day in history: 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Greenwashing set Canada on fire (permalink) As a teenager growing up in Ontario, I always envied the kids who spent their summers tree planting; they'd come back from the bush in September, insect-chewed and leathery, with new muscle, incredible stories, thousands of dollars, and a glow imparted by the knowledge that they'd made a new forest with their own blistered hands. I was too unathletic to follow them into the bush, but I spent my summers d…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Movies That Began As Short Films]]></title>
         <id>https://kottke.org/23/09/movies-that-began-as-short-films</id>
@@ -4398,146 +4418,6 @@ Tags: art · Justin Bateman]]></summary>
         <updated>2023-07-19T13:30:09.000Z</updated>
         <summary type="html"><![CDATA[This advertisement from Orange, the French telecom company, about the French national football team is one of the best commercials I've seen recently. I don't want to tell you too much about it because the impact of it comes from watching it, so just watch it and you'll see. And afterwards, you can read more about the ad here.
 Tags: 2023 World Cup · advertising · France · soccer · video]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Browser-Entwicklerwerkzeuge für Nicht-Entwickler:innen – neuer Kurs auf LinkedIn Learning]]></title>
-        <id>https://christianheilmann.com/?p=7861</id>
-        <link href="https://christianheilmann.com/2023/07/19/browser-entwicklerwerkzeuge-fur-nicht-entwicklerinnen-neuer-kurs-auf-linkedin-learning/"/>
-        <updated>2023-07-19T11:49:30.000Z</updated>
-        <summary type="html"><![CDATA[Ab heute ist mein erster deutscher Kurs auf LinkedIn Learning Browser Entwicklerwerkzeuge für Nicht-Entwickler:innen live! In dem circa eine Stunde langem Kurs erkläre ich, wie man die Entwicklerwerkzeuge in den gängigen Browsern benutzt, um Webinhalte zu analysieren und zu verändern. Der Kurs richtet sich an alle, die sich für Webinhalte interessieren, aber keine Entwickler:innen sind. […]]]></summary>
-        <author>
-            <name>Chris Heilmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What if the Nazis had the internet and social media?]]></title>
-        <id>https://christianheilmann.com/?p=7849</id>
-        <link href="https://christianheilmann.com/2023/07/19/what-if-the-nazis-had-the-internet-and-social-media/"/>
-        <updated>2023-07-19T08:36:53.000Z</updated>
-        <summary type="html"><![CDATA[Going through the bargain bin at a local store I came across the novel NSA by Andreas Eschbach. It is based on the intriguing idea what would have happened if the Nazis had access to the internet, social media, mobile devices and card payment systems. The NSA is a state-owned department of the government before […]]]></summary>
-        <author>
-            <name>Chris Heilmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marshmallow]]></title>
-        <id>https://xkcd.com/2804/</id>
-        <link href="https://xkcd.com/2804/"/>
-        <updated>2023-07-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/marshmallow.png" title="The increasing number of graham crackers and chocolate bars in orbit has created a growing risk of Kessler s'mores." alt="The increasing number of graham crackers and chocolate bars in orbit has created a growing risk of Kessler s'mores." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11ty: Index ALL the things!]]></title>
-        <id>https://lea.verou.me/blog/2023/11ty-indices/</id>
-        <link href="https://lea.verou.me/blog/2023/11ty-indices/"/>
-        <updated>2023-07-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is a second spinoff post in the migration saga of this blog from WordPress to 11ty.
-On good URLs
-It was important to me to have good, RESTful, usable, hackable URLs.
-While a lot of that is easy and comes for free, following this principle with Eleventy proved quite hard:
-URLs that are “hackable” to allow users to move to higher levels of the information architecture by hacking off the end of the URL
-What does this mean in practice?
-It means it’s not enough if tags/foo/ shows all posts tagged “foo”, tags/ should also show all tags.
-Similarly, it’s not enough if /blog/2023/04/private-fields-considered-harmful/ links to the corresponding blog post,
-but also:
-/blog/2023/04/ should show all posts from April 2023
-/blog/2023/ should show all posts from 2023
-/blog/ should show all posts
-Eleve…]]></summary>
-        <author>
-            <name>Lea Verou’s blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Timeline of the Far Future]]></title>
-        <id>https://kottke.org/12/12/timeline-of-the-far-future</id>
-        <link href="https://kottke.org/12/12/timeline-of-the-far-future"/>
-        <updated>2023-07-18T20:50:16.000Z</updated>
-        <summary type="html"><![CDATA[The timeline of the far future artice is far from the longest page on Wikipedia, but it might take you several hours to get through because it contains so many enticing detours. What's Pangaea Ultima? Oooh, Roche limit! The Degenerate Era, Poincaré recurrence time, the Big Rip scenario, the cosmic light horizon, the list goes on and on. And the article itself is a trove of fascinating facts and eye-popping phrases. Here are a few of my favorites. (Keep in mind that the universe is only 13.75 billion years old. Unless we're living in a computer simulation.)
-50,000 years: "Niagara Falls erodes away the remaining 32 km to Lake Erie and ceases to exist."
-1 million years: "Highest estimated time until the red supergiant star Betelgeuse explodes in a supernova. The explosion is expected to be ea…]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Wordy Collages of Toon Joosen]]></title>
-        <id>https://kottke.org/23/07/the-wordy-collages-of-toon-joosen</id>
-        <link href="https://kottke.org/23/07/the-wordy-collages-of-toon-joosen"/>
-        <updated>2023-07-18T19:14:18.000Z</updated>
-        <summary type="html"><![CDATA[Among the many creative collages by Dutch art director Toon Joosen is this series of images of people interacting with the pages of books in fun ways. You can check them out on his Instagram or purchase some of them as prints on his Etsy shop.
-Tags: art · remix · Toon Joosen]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[text-mode:
-
-New piece by Xeme.]]></title>
-        <id>https://text-mode.tumblr.com/post/723208144877223936</id>
-        <link href="https://text-mode.tumblr.com/post/723208144877223936"/>
-        <updated>2023-07-18T18:30:33.000Z</updated>
-        <summary type="html"><![CDATA[text-mode:
-New piece by Xeme.]]></summary>
-        <author>
-            <name>TEXT-MODE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wes Anderson Talks Up Some of His Favorite Movies in a Parisian Video Store]]></title>
-        <id>https://kottke.org/23/07/wes-anderson-talks-up-some-of-his-favorite-movies-in-a-parisian-video-store</id>
-        <link href="https://kottke.org/23/07/wes-anderson-talks-up-some-of-his-favorite-movies-in-a-parisian-video-store"/>
-        <updated>2023-07-18T17:02:22.000Z</updated>
-        <summary type="html"><![CDATA[When you think of directors that have influenced Wes Anderson, you typically think of Truffaut, Godard, Scorcese, and Ashby. But as you'll see in this video of Anderson pulling out some recommended films from this Paris video store, his taste in movies is broad. There's Drunken Angel (Kurosawa), A Streetcar Named Desire (Kazan), Vagabond (Varda), Birth (Glazer), Bridge of Spies (Spielberg), and Witness (Weir).
-Of Spielberg, Anderson says:
-If you make movies, if you direct movies, this is somebody who can help you. You looked at his movies for solutions. He usually found a way to do it right. He's one of my favorites.
-
-
-(via open culture)
-Tags: movies · video · Wes Anderson]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: Podcasting "Let the Platforms Burn" (18 July 2023)]]></title>
-        <id>https://pluralistic.net/?p=5600</id>
-        <link href="https://pluralistic.net/2023/07/18/urban-wildlife-interface/"/>
-        <updated>2023-07-18T16:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Podcasting "Let the Platforms Burn": It's past time to evacuate the fire-zone. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Podcasting "Let the Platforms Burn" (permalink) This week on my podcast, I read "Let the Platforms Burn," a recent Medium column making the case that we should focus more on making it easier for people to leave platforms, rather than making the platforms less terrible places to be: https://doctorow.medium.com/let-the-platforms-burn-6fb3e6c0d980 The platforms used to be source of online stability, and many argued that by consolidating the wide and wooly web into a few "curated" silos, the platforms were replacing ch…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to use Fakespot, the AI tool that helps you detect fake reviews]]></title>
-        <id>https://blog.mozilla.org/?p=72706</id>
-        <link href="https://blog.mozilla.org/en/products/how-to-use-fakespot/"/>
-        <updated>2023-07-18T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Fakespot is your trusted guide for shopping online.  With Fakespot you love everything you buy and cut down on returns by avoiding fake reviews, unreliable sellers, counterfeits/shoddy products. If you shop online, chances are that you’ve seen – or been swayed – by fake reviews.  About 82% of consumers have come across a fake customer […]
-The post How to use Fakespot, the AI tool that helps you detect fake reviews appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Kristina Bravo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geohydrotypography]]></title>
-        <id>https://kottke.org/23/07/geohydrotypography</id>
-        <link href="https://kottke.org/23/07/geohydrotypography"/>
-        <updated>2023-07-18T13:55:26.000Z</updated>
-        <summary type="html"><![CDATA[This, from XKCD, hits my science and design interests right in the sweet spot.
-If you covered the surface of the Atlantic Ocean with twelve-point printed text, with the lines wrapping at the coasts, the expansion of the ocean basin due to tectonics would increase your word count by about 100 words per second.
-
-
-This reminds me of Ben Terrett's calculation of how many helveticas from here to the Moon and my subsequent calculations about the point size of the Earth and the Moon (50.2 billion and 13.7 billion, respectively).
-Tags: design · geology · science · typography · XKCD]]></summary>
         <author>
             <name>kottke.org</name>
         </author>
