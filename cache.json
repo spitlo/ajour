@@ -258,6 +258,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2831/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/xkcd_phone_flip.png\" title=\"Theranos partnership: Sorry, we know, but we signed the contract back before all the stuff and the lawyers say we can't back out, so just try to keep your finger away from the bottom of the phone.\" alt=\"Theranos partnership: Sorry, we know, but we signed the contract back before all the stuff and the lawyers say we can't back out, so just try to keep your finger away from the bottom of the phone.\" />",
+          "link": "https://xkcd.com/2831/",
+          "publishedOn": "2023-09-20T00:00:00.000Z",
+          "wordCount": 193,
+          "title": "xkcd Phone Flip",
+          "imageUrl": "https://imgs.xkcd.com/comics/xkcd_phone_flip_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2830/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/haunted_house.png\" title=\"You can leave at any time through the door over there. It's a Louisville door, so you'll need to find a compatible knob. No, don't be silly, that one is a Lexington knob! Of course it won't fit.\" alt=\"You can leave at any time through the door over there. It's a Louisville door, so you'll need to find a compatible knob. No, don't be silly, that one is a Lexington knob! Of course it won't fit.\" />",
@@ -514,6 +524,16 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "2023-09-17-pokemon-sapphire",
+          "author": null,
+          "description": "On the Console Repair Discord I'd offered to fix a Pokémon Sapphire cart that was initially not working, but then went to a repair shop and came back with a leg on one of the chips missing.\nThe work would require grinding down the silicone of the chip to expose the internals of the missing leg and jump it to the solder pad. The cart was also missing a resistor and capacitor.\nI decided to start by completely removing the chips from the board, and I'm glad I did because underneath I found a lot of corrosion and junk from either time or previous attempts. The solder joints also looked dull which suggested to me that it would benefit from a reflow.\nOnce this was done, the board was cleaned (thankfully there was no trace repair required), I replaced the chips and went about grinding the ROM chip to expose the broken leg.\n\nOnce exposed, I created a jumper using solder to the pad, installed a few missing components (a capacitor and resistor had been lost previously) and it was all back to life.",
+          "link": "https://remysharp.com/tif/2023-09-17-pokemon-sapphire",
+          "publishedOn": "2023-09-20T23:59:48.000Z",
+          "wordCount": 656,
+          "title": "Pokémon Sapphire [tif]",
+          "imageUrl": null
+        },
         {
           "id": "why-sponsor-ffconf",
           "author": null,
@@ -834,6 +854,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/729006376832155648",
+          "author": null,
+          "description": "By Seo Hyojung, 2023. Gifs made from videos on his Instagram.",
+          "link": "https://text-mode.tumblr.com/post/729006376832155648",
+          "publishedOn": "2023-09-20T18:30:58.000Z",
+          "wordCount": 1012,
+          "title": "By Seo Hyojung, 2023. Gifs made from videos on&nbsp;his Instagram.",
+          "imageUrl": "https://64.media.tumblr.com/cd335706f14ee6ffaa4af4565217ae0d/ef183ab8bff5e2e1-cb/s1280x1920/f6036627709c46375449af46640e13fc05ab9950.gif"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/728915774072324096",
           "author": null,
@@ -1453,16 +1483,6 @@
           "wordCount": 1089,
           "title": "text-mode:\n\nRecord covers in ANSI: B-sides by Blocktronics....",
           "imageUrl": "https://64.media.tumblr.com/2e1d2ac1b2bf0545a0cea033ef4fbaf3/tumblr_p46w28PDjN1rpiyaso5_1280.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/723570537096429568",
-          "author": null,
-          "description": "text-mode:\nThe font of the portable TRS-80 Model 100 (1983).",
-          "link": "https://text-mode.tumblr.com/post/723570537096429568",
-          "publishedOn": "2023-07-22T18:30:37.000Z",
-          "wordCount": 1002,
-          "title": "text-mode:\n\nThe font of the portable TRS-80 Model 100 (1983).",
-          "imageUrl": "https://64.media.tumblr.com/90aaa1e450497d8457f13f915f53ad09/tumblr_p4v5j9BrSm1rpiyaso1_640.gif"
         }
       ]
     },
@@ -1824,16 +1844,6 @@
           "wordCount": 6428,
           "title": "The Perils of Hydration",
           "imageUrl": "https://www.joshwcomeau.com/images/og-the-perils-of-rehydration.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/blog/why-my-blog-is-closed-source/",
-          "author": "Josh W. Comeau",
-          "description": "In our community, it's so common for developer projects to be open-source. I'm breaking with this trend for my blog, but I have good reasons! In this article, I'll share my reasoning, as well as a workaround in case you _really_ want to see the source. If you're considering whether a project should be open-source or not, I hope you'll find it valuable.",
-          "link": "https://www.joshwcomeau.com/blog/why-my-blog-is-closed-source/",
-          "publishedOn": "2023-07-22T16:00:31.000Z",
-          "wordCount": 4312,
-          "title": "Why My Blog is Closed-Source",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-why-my-blog-is-closed-source.png"
         }
       ]
     },
@@ -1848,6 +1858,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=5938",
+          "author": "Cory Doctorow",
+          "description": "Today's links Kashmir Hill's \"Your Face Belongs to Us\": A candid, whistleblower-informed history of Clearview AI. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Kashmir Hill's \"Your Face Belongs to Us\" (permalink) Your Face Belongs To Us is Kashmir Hill's new tell-all history of Clearview AI, the creepy facial recognition company whose origins are mired in far-right politics, off-the-books police misconduct, sales to authoritarian states and sleazy one-percenter one-upmanship: https://www.penguinrandomhouse.com/books/691288/your-face-belongs-to-us-by-kashmir-hill/ Hill is a fitting chronicler here. Clearview first rose to prominence – or, rather,…",
+          "link": "https://pluralistic.net/2023/09/20/steal-your-face/",
+          "publishedOn": "2023-09-20T13:08:12.000Z",
+          "wordCount": 2846,
+          "title": "Pluralistic: Kashmir Hill's \"Your Face Belongs to Us\" (20 Sept 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=5928",
           "author": "Cory Doctorow",
@@ -2253,6 +2273,36 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/09/antique-book-patterns",
+          "author": null,
+          "description": "From the Bergen Public Library Norway, a collection of antique book patterns from front or end papers. The books in question are from 1890-1930. Lovely.\nOf course, this reminds of one of my favorite videos I've posted: a 1970 short film on how to make marbled paper.\nTags: books · design",
+          "link": "https://kottke.org/23/09/antique-book-patterns",
+          "publishedOn": "2023-09-20T18:40:00.000Z",
+          "wordCount": 200,
+          "title": "Antique Book Patterns",
+          "imageUrl": "https://kottke.org/plus/misc/images/book-patterns-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/14/11/fantastic-1970s-letter-from-lego-to-parents",
+          "author": null,
+          "description": "At some point in the 1970s, Lego included the following letter to parents in its sets:\n\nThe text reads:\nThe urge to create is equally strong in all children. Boys and girls.\nIt's imagination that counts. Not skill. You build whatever comes into your head, the way you want it. A bed or a truck. A dolls house or a spaceship.\nA lot of boys like dolls houses. They're more human than spaceships. A lot of girls prefer spaceships. They're more exciting than dolls houses.\nThe most important thing is to the put the right material in the their hands and let them create whatever appeals to them.\n\n\t\nThe letter seems like the sort of thing that might be fake, but Robbie Gonzalez of io9 presents the case for its authenticity.\nIn our home, Lego currently rules the roost...the kids (a boy and a girl) spend more time building with Lego than doing anything else. This weekend, they worked together to build a beach scene, with a house, pool, lifeguard station, car, pond (for skimboarding), and surfers. Dollhouse stuff basically. Then they raced around the house with Lego spaceships and race cars. Nailed it, 1970s Lego.\nUpdate: QZ confirms, the letter is genuine.\n\n\n\t\t\n\t\t\n[This was originally posted on November 24, 2014.]\nTags:Lego    \nparenting",
+          "link": "https://kottke.org/14/11/fantastic-1970s-letter-from-lego-to-parents",
+          "publishedOn": "2023-09-20T16:02:07.000Z",
+          "wordCount": 364,
+          "title": "Fantastic 1970s Letter From Lego to Parents",
+          "imageUrl": "https://kottke.org/plus/misc/images/lego-letter.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/09/tychos-burning-man-sunrise-set-for-2023",
+          "author": null,
+          "description": "Every year at Burning Man (pandemic years aside), Tycho does a ~2hr DJ set around sunrise and then releases it on Soundcloud — here's the 2023 version.\n\nI've been listening to this for the past week and while I don't like it quite as much as the sets from previous years, it's definitely something to add to the rotation of chill work music.\nSee Tycho's BM sets from 2022, 2019, 2018, 2017, 2016, 2015, and 2014. Pretty much the only reason I'd ever want to go to Burning Man (esp after this year) is to catch this set in person sometime.\nTags: music · Tycho",
+          "link": "https://kottke.org/23/09/tychos-burning-man-sunrise-set-for-2023",
+          "publishedOn": "2023-09-20T14:13:05.000Z",
+          "wordCount": 262,
+          "title": "Tycho's Burning Man Sunrise Set for 2023",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/23/09/jet-line-voicemails-from-the-flight-path",
           "author": null,
