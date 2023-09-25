@@ -525,6 +525,16 @@
       "siteUrl": "https://remysharp.com",
       "articles": [
         {
+          "id": "2023-09-24-744822aa",
+          "author": null,
+          "description": "All of Brian's approach to dependencies and concerns about long-term support, we're talking 10 years here, are absolutely excellent spot on and he goes on to talk about enhance.dev which is really a nation of first approach to building software.\nSource: www.infoq.com",
+          "link": "https://remysharp.com/links/2023-09-24-744822aa",
+          "publishedOn": "2023-09-24T10:47:14.000Z",
+          "wordCount": 519,
+          "title": "Brian LeRoux on enhance.dev [link]",
+          "imageUrl": null
+        },
+        {
           "id": "2023-09-17-pokemon-sapphire",
           "author": null,
           "description": "On the Console Repair Discord I'd offered to fix a Pokémon Sapphire cart that was initially not working, but then went to a repair shop and came back with a leg on one of the chips missing.\nThe work would require grinding down the silicone of the chip to expose the internals of the missing leg and jump it to the solder pad. The cart was also missing a resistor and capacitor.\nI decided to start by completely removing the chips from the board, and I'm glad I did because underneath I found a lot of corrosion and junk from either time or previous attempts. The solder joints also looked dull which suggested to me that it would benefit from a reflow.\nOnce this was done, the board was cleaned (thankfully there was no trace repair required), I replaced the chips and went about grinding the ROM chip to expose the broken leg.\n\nOnce exposed, I created a jumper using solder to the pad, installed a few missing components (a capacitor and resistor had been lost previously) and it was all back to life.",
@@ -854,6 +864,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/729368752265871360",
+          "author": null,
+          "description": "Examples from clankill3r’s P5 Terminal Graphics, which uses the terminal to show things programmed in Processing.",
+          "link": "https://text-mode.tumblr.com/post/729368752265871360",
+          "publishedOn": "2023-09-24T18:30:46.000Z",
+          "wordCount": 837,
+          "title": "Examples from clankill3r&rsquo;s&nbsp;P5 Terminal Graphics, which uses the terminal to show things programmed&hellip;",
+          "imageUrl": "https://64.media.tumblr.com/984cd95fc1eaba97a91b6b581b84f3de/117a186a4d1cf236-2b/s1280x1920/4023ed969ecce7922858ff55be82d068463159a3.gif"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/729278153240051712",
           "author": null,
@@ -1473,16 +1493,6 @@
           "wordCount": 1023,
           "title": "text-mode:\n\nTerminal Rain, a textmode game with a custom font,...",
           "imageUrl": "https://64.media.tumblr.com/b5bf762bafcc9a9a11a9a313d75b8c5e/tumblr_p4018bDe0Q1rpiyaso4_540.gif"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/723932914698567680",
-          "author": null,
-          "description": "text-mode:\nAds in the Brooklyn Daily Eagle, 1873-1874 found by Paul Soulellis. ASCII advertising was quite popular at the time, and these are almost like concrete poetry advertising?",
-          "link": "https://text-mode.tumblr.com/post/723932914698567680",
-          "publishedOn": "2023-07-26T18:30:27.000Z",
-          "wordCount": 1061,
-          "title": "text-mode:\n\nAds in the Brooklyn Daily Eagle, 1873-1874 found by...",
-          "imageUrl": "https://64.media.tumblr.com/fd8786dbe8b3bfa74c049e3ea1c910a5/tumblr_p4xgl7dBPO1rpiyaso1_1280.jpg"
         }
       ]
     },
@@ -2231,16 +2241,6 @@
             "length": "27076736",
             "type": "audio/mpeg"
           },
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=5642",
-          "author": "Cory Doctorow",
-          "description": "Today's links The surprising truth about data-driven dictatorships: No autocrat is more powerful than GIGO. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The surprising truth about data-driven dictatorships (permalink) Here's the \"dictator's dilemma\": they want to block their country's frustrated elites from mobilizing against them, so they censor public communications; but they also want to know what their people truly believe, so they can head off simmering resentments before they boil over into regime-toppling revolutions. These two strategies are in tension: the more you censor, the less you know about the true feelings of your citizens and …",
-          "link": "https://pluralistic.net/2023/07/26/dictators-dilemma/",
-          "publishedOn": "2023-07-26T15:41:15.000Z",
-          "wordCount": 4126,
-          "title": "Pluralistic: The surprising truth about data-driven dictatorships (26 July 2023)",
           "imageUrl": null
         }
       ]
@@ -3452,56 +3452,6 @@
           "wordCount": 346,
           "title": "Amateurs Reached America's Highest Peak First. Nobody Believed Them.",
           "imageUrl": "https://img.youtube.com/vi/wJQGf5hn7bs/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/quick-links",
-          "author": null,
-          "description": "Their Day in the Sun: Women of the Manhattan Project. \"Although women participated in all aspects of the Manhattan Project, their contributions are either omitted or only mentioned briefly in most histories of the project.\"\nRotating sandwiches. It is what it says on the tin. See also Scanwiches.\nOn creative grief and how to deal with it. \"When finishing up a project, feelings of loss, despair, sadness or emptiness may rise to the surface.\"\nActivist and singer Sinéad O'Connor has died at the age of 56. \n---\nNote: Quick Links are pushed to this RSS feed twice a day. For more immediate service, check out the front page of kottke.org, the Quick Links archive, or the @kottke Mastodon feed.",
-          "link": "https://kottke.org/quick-links",
-          "publishedOn": "2023-07-26T21:52:02.000Z",
-          "wordCount": 1668,
-          "title": "Four Quick Links for Wednesday Afternoon",
-          "imageUrl": "https://kottke.org/images/2016/ios/180x180.png"
-        },
-        {
-          "id": "https://kottke.org/23/07/some-of-the-oldest-photos-you-will-ever-see",
-          "author": null,
-          "description": "In 1842, a French artist and scholar named Joseph-Philibert Girault de Prangey set out on a tour of the eastern Mediterranean to document sights and architecture via the brand new medium of photography. He started off in what is now Italy and continued on to Greece, Egypt, Turkey, Syria, and the Levant (which includes modern-day Lebanon, Israel, and Palestine). The daguerreotypes he took are the oldest surviving photos of those locations (aside from Italy). It's incredible to time travel back 180 years to see what these places looked like. (via aeon)\nTags: art · Joseph-Philibert Girault de Prangey · photography · travel · video",
-          "link": "https://kottke.org/23/07/some-of-the-oldest-photos-you-will-ever-see",
-          "publishedOn": "2023-07-26T21:31:33.000Z",
-          "wordCount": 283,
-          "title": "Some of the Oldest Photos You Will Ever See",
-          "imageUrl": "https://img.youtube.com/vi/hH5Mx5acrBk/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/quick-links",
-          "author": null,
-          "description": "Colossal Is Taking a Summer Break! Colossal is one of my all-time favorite sites and it's great to see them stepping away for some time off. \nI guess I care a lot about things like Futurama's collab with Fortnite now? *sneaks away from the computer to go get a Bender skin from the item shop...*\nThe Louvre Is Thrilled to Announce It Is Rebranding to \"UVR\". \"Is that an acronym? Maybe. Is it a meaningless assemblage of letters? Perhaps. Is it memorable? Searchable? Do we even own the IP? I'm not telling.\"\nThe NASA Voyager Golden Record master tapes owned by Carl Sagan and Ann Druyan are up for auction at Sotheby's. Est: $400,000-600,000.\n---\nNote: Quick Links are pushed to this RSS feed twice a day. For more immediate service, check out the front page of kottke.org, the Quick Links archive, or the @kottke Mastodon feed.",
-          "link": "https://kottke.org/quick-links",
-          "publishedOn": "2023-07-26T16:52:01.000Z",
-          "wordCount": 1668,
-          "title": "Four Quick Links for Wednesday Noonish",
-          "imageUrl": "https://kottke.org/images/2016/ios/180x180.png"
-        },
-        {
-          "id": "https://kottke.org/23/07/how-streaming-caused-the-writers-strike",
-          "author": null,
-          "description": "Vox talked to four television writers about how streaming and prestige TV have changed the financial picture for writers over the past 15 years, contributing to the writers strike that's been going on since early May.\nCompanies like Netflix, Hulu, Apple TV+, and more have given consumers an unprecedented array of films and TV shows and opened the door to new voices that don't have to adhere to mainstream network formats. On the other hand, streaming has also changed how television gets produced, the role writers play, and how they get paid. We interviewed four television writers and showrunners about how streaming has changed how they work, how their incomes have taken a hit, and why it has become harder than ever to build a career.\n\n\n Tags: business · movies · TV · video",
-          "link": "https://kottke.org/23/07/how-streaming-caused-the-writers-strike",
-          "publishedOn": "2023-07-26T16:45:22.000Z",
-          "wordCount": 309,
-          "title": "How Streaming Caused the Writers Strike",
-          "imageUrl": "https://img.youtube.com/vi/ILaU78Oo7XM/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/07/medium-res-pixel-illustrations-of-jun-kumaori",
-          "author": null,
-          "description": "I'm taken with the style of Jun Kumaori's illustrations — they look like drawings of (stay with me here) small JPEGs converted to GIFs and then clumsily enlarged, complete with all of the resultant digital artifacts. This makes me nostalgic for the late 90s web and Photoshop 3.0. (via the fox is black)\nTags: art · illustration · Jun Kumaori · remix",
-          "link": "https://kottke.org/23/07/medium-res-pixel-illustrations-of-jun-kumaori",
-          "publishedOn": "2023-07-26T14:21:54.000Z",
-          "wordCount": 237,
-          "title": "Medium-Res Pixel Illustrations of Jun Kumaori",
-          "imageUrl": "https://kottke.org/plus/misc/images/jun-kumaori-01.jpg"
         }
       ]
     },
