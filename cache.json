@@ -506,16 +506,6 @@
           "wordCount": 178,
           "title": "Moon",
           "imageUrl": "https://imgs.xkcd.com/comics/moon_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2808/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/daytime_firefly.png\" title=\"Mr. Jones, watch out for Ms. Lenhart! She's from genus Photuris!\" alt=\"Mr. Jones, watch out for Ms. Lenhart! She's from genus Photuris!\" />",
-          "link": "https://xkcd.com/2808/",
-          "publishedOn": "2023-07-28T00:00:00.000Z",
-          "wordCount": 180,
-          "title": "Daytime Firefly",
-          "imageUrl": "https://imgs.xkcd.com/comics/daytime_firefly_2x.png"
         }
       ]
     },
@@ -524,6 +514,16 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "2023-09-25-341a1491",
+          "author": null,
+          "description": "Accessible colour combinations - and upon hitting reload, there's actually some really stylish (to me) combinations whilst being either AA or AAA compliant. Nice.\nSource: randoma11y.com",
+          "link": "https://remysharp.com/links/2023-09-25-341a1491",
+          "publishedOn": "2023-09-25T12:35:12.000Z",
+          "wordCount": 503,
+          "title": "Randoma11y [link]",
+          "imageUrl": null
+        },
         {
           "id": "2023-09-24-744822aa",
           "author": null,
@@ -864,6 +864,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/729459377513332736",
+          "author": null,
+          "description": "text-mode:\n理世Ｘ智乃 by 迴旋踢. Original ANSI + Google-translated.",
+          "link": "https://text-mode.tumblr.com/post/729459377513332736",
+          "publishedOn": "2023-09-25T18:31:13.000Z",
+          "wordCount": 1002,
+          "title": "text-mode:\n\n理世Ｘ智乃 by 迴旋踢. Original ANSI + Google-translated.",
+          "imageUrl": "https://64.media.tumblr.com/78d89dc4a7c406a8007f7da8cd76d036/tumblr_olfo8w07KY1rpiyaso1_1280.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/729368752265871360",
           "author": null,
@@ -1483,16 +1493,6 @@
           "wordCount": 1070,
           "title": "text-mode:\n\nA floppy disk with a font that only contained the...",
           "imageUrl": "https://64.media.tumblr.com/50f9ef2ee4fb25e70d734052535a6741/tumblr_p3wrfbg4CI1rpiyaso2_640.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/724023552787038208",
-          "author": null,
-          "description": "text-mode:\nTerminal Rain, a textmode game with a custom font, developed by Jackson Lango.",
-          "link": "https://text-mode.tumblr.com/post/724023552787038208",
-          "publishedOn": "2023-07-27T18:31:06.000Z",
-          "wordCount": 1023,
-          "title": "text-mode:\n\nTerminal Rain, a textmode game with a custom font,...",
-          "imageUrl": "https://64.media.tumblr.com/b5bf762bafcc9a9a11a9a313d75b8c5e/tumblr_p4018bDe0Q1rpiyaso4_540.gif"
         }
       ]
     },
@@ -1501,6 +1501,26 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=73195",
+          "author": "Kristina Bravo",
+          "description": "Been thinking about making the switch to Firefox, but worried about how well Google Workspace products will work? Well, we’ve got some good news for you. Google services have always worked great on Firefox, thanks to our collaboration with the G Workspace team, who want to make sure their products work on all major browsers. […]\nThe post Google Meet and the rest of G Workspace are working better than ever on Firefox appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/products/firefox/google-meet-firefox/",
+          "publishedOn": "2023-09-25T18:21:10.000Z",
+          "wordCount": 1523,
+          "title": "Google Meet and the rest of G Workspace are working better than ever on Firefox",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2019/12/google-docs-firefox_header-1056x703.jpg"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=73183",
+          "author": "Mozilla",
+          "description": "Remember when the internet felt personal? Like a cool space for ourselves to discover really amazing things? The web allowed us to tell our stories in new ways, learn from others across the world and solve problems together. This extraordinary power is what sparked Mozilla’s commitment to a healthy internet, through activism and open source […]\nThe post Reclaim the internet with Mozilla appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/reclaim-the-internet/",
+          "publishedOn": "2023-09-25T16:00:00.000Z",
+          "wordCount": 1620,
+          "title": "Reclaim the internet with Mozilla",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/09/moz_blog_header_rise25_reclaim_on-blk-1080x720.png"
+        },
         {
           "id": "https://blog.mozilla.org/?p=73159",
           "author": "Mozilla",
@@ -1717,16 +1737,6 @@
           "wordCount": 3875,
           "title": "Behind \"Hello World\" on Linux",
           "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/",
-          "author": null,
-          "description": "I write a lot about technologies that I found hard to learn about. A\nwhile back my friend Sumana asked me an interesting question – why are these\nthings so hard to learn about? Why do they seem so mysterious?\nFor example, take DNS. We’ve been using DNS since the 80s (for more than 35 years!). It’s\nused in every website on the internet. And it’s pretty stable – in a lot of\nways, it works the exact same way it did 30 years ago.\nBut it took me YEARS to figure out how to confidently debug DNS issues, and\nI’ve seen a lot of other programmers struggle with debugging DNS problems as\nwell. So what’s going on?\nHere are a couple of thoughts about why learning to troubleshoot DNS problems\nis hard.\n(I’m not going to explain DNS very much in this post, see Implement DNS in a Weekend or my DNS blog post…",
-          "link": "https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/",
-          "publishedOn": "2023-07-28T09:40:04.000Z",
-          "wordCount": 1804,
-          "title": "Why is DNS still hard to learn?",
-          "imageUrl": null
         }
       ]
     },
@@ -1868,6 +1878,21 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=6746",
+          "author": "Cory Doctorow",
+          "description": "Today's links Podcasting \"How To Think About Scraping\": How to preserve the benefits of web-scraping while targeting the real harms. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Podcasting \"How To Think About Scraping\" (permalink) This week on my podcast, I read my recent Medium column, \"How To Think About Scraping: In privacy and labor fights, copyright is a clumsy tool at best,\" which proposes ways to retain the benefits of scraping without the privacy and labor harms that sometimes accompany it: https://doctorow.medium.com/how-to-think-about-scraping-2db6f69a7e3d?sk=4a1d687171de1a3f3751433bffbb5a96 What are those benefits from scraping? Well…",
+          "link": "https://pluralistic.net/2023/09/25/deep-scrape/",
+          "publishedOn": "2023-09-25T18:08:07.000Z",
+          "wordCount": 4771,
+          "title": "Pluralistic: Podcasting \"How To Think About Scraping\" (25 Sept 2023)",
+          "enclosure": {
+            "url": "https://archive.org/download/Cory_Doctorow_Podcast_450/Cory_Doctorow_Podcast_450_-_How_To_Think_About_Scraping.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=6732",
           "author": "Cory Doctorow",
@@ -2283,6 +2308,36 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/09/the-blood-collages-of-john-bingley-garland-ca-185060",
+          "author": null,
+          "description": "I don't know about you, but the title \"The Blood Collages of John Bingley Garland (ca. 1850–60)\" made me click pretty damn fast to see what sort of Victorian age shenanigans this dude was up to. From the Public Domain Review:\nThe Blood Book is handmade, folio-sized, with a handsome marbled endpaper and forty-three pages of exquisitely crafted decoupage. John Bingley Garland, the manuscript's creator, used collage techniques, excising illustrations from other books to assemble elegant, balanced compositions. Most of the source material is Romantic engravings by William Blake and his ilk, but there are also brilliantly colored flowers and fruits. Snakes are a favorite motif, butterflies another. A small bird is centered on every page. The space between the images is filled with tiny hand-written script that reads like a staccato sermon. \"One! yet has larger bounties! to bestow! Joys! Powers! untasted! In a World like this, Powers!\" etc.\nThe book's reputation, however, rests on a decorative detail that overwhelms: To each page, Garland added languid, crimson drops in red India ink, hanging from the cut-out images like pendalogues from a chandelier. Blood drips from platters of grapes and tree boughs, statuaries and skeletons. Crosses seep, a cheetah drools, angels dangle bloody sashes. A bouquet of white chrysanthemums is spritzed.\nTo be clear, Garland's blood is not that of surgery or crime or menses, but of religious iconography. He obviously intended the blood to represent Christ's own.\n\n\nThe Blood Book are strikingly modern; as PDR states, Garland uses \"techniques usually dated to Cubism in the early twentieth century\" to make his collages. I love running across seemingly out-of-time objects like this.\nTags: art · John Bingley Garland · religion",
+          "link": "https://kottke.org/23/09/the-blood-collages-of-john-bingley-garland-ca-185060",
+          "publishedOn": "2023-09-25T19:02:50.000Z",
+          "wordCount": 439,
+          "title": "\"The Blood Collages of John Bingley Garland (ca. 1850–60)\"",
+          "imageUrl": "https://kottke.org/plus/misc/images/blood-collages-garland-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/09/typical-urban-planning-opinion-progression",
+          "author": null,
+          "description": "From XKCD, the progression of people's opinions about cars & urban planning, from \"I wish there wasn't so much traffic to get into the city. They should put in more lanes.\" to \"Anything that makes a city a worse place to drive makes it a better place to live.\" As The War on Cars said on Bluesky, \"Randall Munroe, welcome to The War on Cars.\"\nP.S. Re: putting in more lanes, read up on induced demand and road dieting for why that's often not a great idea.\nTags: cars · cities · comics · XKCD",
+          "link": "https://kottke.org/23/09/typical-urban-planning-opinion-progression",
+          "publishedOn": "2023-09-25T16:23:17.000Z",
+          "wordCount": 244,
+          "title": "Typical Urban Planning Opinion Progression",
+          "imageUrl": "https://kottke.org/plus/misc/images/xkcd-urban-planning.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/09/how-to-apologize",
+          "author": null,
+          "description": "Elizabeth Spiers for the NY Times on how to apologize (given the recent spate of celebrity non-apologies): I Have a Question for the Famous People Who Have Tried to Apologize.\nThe first step in a good apology is acknowledging harm. The second is expressing genuine regret, and where possible, acknowledging our shortcoming. Our intentions are not always good. Sometimes we're selfish. Sometimes we don't know what we're doing, and sometimes we fail to consider the consequences. If we can admit these things, it helps repair trust.\nThen we vow, in good faith, to not perpetuate the same harm again.\nThe last step is repair. This means directly addressing the harm done — not via self-flagellation on YouTube nor with any expectation of forgiveness.\n\n\nI posted about how to apologize a few years ago after reading Katie Heaney's piece on, wait for it, celebrity non-apologies:\nHere are the six components of an apology from Beth Polin:\n1. An expression of regret — this, usually, is the actual \"I'm sorry.\"\n\n\nI think about these components whenever giving or receiving apologies — it's a great framework to keep in mind.\nTags: Beth Polin · celebrity · Elizabeth Spiers · how to · Katie Heaney",
+          "link": "https://kottke.org/23/09/how-to-apologize",
+          "publishedOn": "2023-09-25T14:00:41.000Z",
+          "wordCount": 372,
+          "title": "How to Apologize",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/15/08/nasas-logo-the-worm-vs-the-meatball",
           "author": null,
