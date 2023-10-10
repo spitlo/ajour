@@ -222,6 +222,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2839/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/language_acquisition.png\" title=\"My first words were 'These were my first words; what were yours?'\" alt=\"My first words were 'These were my first words; what were yours?'\" />",
+          "link": "https://xkcd.com/2839/",
+          "publishedOn": "2023-10-09T00:00:00.000Z",
+          "wordCount": 191,
+          "title": "Language Acquisition",
+          "imageUrl": "https://imgs.xkcd.com/comics/language_acquisition_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2838/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/dubious_islands.png\" title=\"Running for office in Minnesota on the single-issue platform 'dig a permanent channel through the Traverse Gap because it will make this map more satisfying.'\" alt=\"Running for office in Minnesota on the single-issue platform 'dig a permanent channel through the Traverse Gap because it will make this map more satisfying.'\" />",
@@ -460,16 +470,6 @@
           "wordCount": 180,
           "title": "Car Wash",
           "imageUrl": "https://imgs.xkcd.com/comics/car_wash_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2814/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/perseids_pronunciation.png\" title=\"When speaking out loud, you can can call it the 'Perseids meatier shower' and no one will ever know. (If you do get caught somehow, just tell them to Google the 'Kentucky meat shower' and that will distract them while you escape.)\" alt=\"When speaking out loud, you can can call it the 'Perseids meatier shower' and no one will ever know. (If you do get caught somehow, just tell them to Google the 'Kentucky meat shower' and that will distract them while you escape.)\" />",
-          "link": "https://xkcd.com/2814/",
-          "publishedOn": "2023-08-11T00:00:00.000Z",
-          "wordCount": 180,
-          "title": "Perseids Pronunciation",
-          "imageUrl": "https://imgs.xkcd.com/comics/perseids_pronunciation_2x.png"
         }
       ]
     },
@@ -478,6 +478,16 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "why-i-stopped-loving-slashes-in-self-closing-tags",
+          "author": null,
+          "description": "Specifically the [space] [slash] combo before the closing bracket:  /.\nI've had history with these particular two characters, but until recently that history of going back and forth was entirely based on aesthetic.\nThen React came along (or rather I climbed aboard) and I found myself always adding the trailing slash to elements, regardless of whether I was writing React or plain old HTML.\nThen today, I got bit in the arse by a self closing tag and it reminds me of Jake's very recent post on the exact same thing.",
+          "link": "https://remysharp.com/2023/10/09/why-i-stopped-loving-slashes-in-self-closing-tags",
+          "publishedOn": "2023-10-09T10:00:00.000Z",
+          "wordCount": 1480,
+          "title": "Why I stopped loving slashes in self closing tags [blog]",
+          "imageUrl": "https://remysharp.com/images/cards/og/9-3.jpg"
+        },
         {
           "id": "2023-10-04-60cdc285",
           "author": null,
@@ -889,6 +899,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/730727703182999552",
+          "author": null,
+          "description": "text-mode:\nTerminal graphics has a new technique to convert pixel images to text. It combines ANSI shading, Unicode blocks and true color and the results can be displayed in a terminal (given the right font and terminal software). More details here.\nMade by Tim C. Schröder, 2016.",
+          "link": "https://text-mode.tumblr.com/post/730727703182999552",
+          "publishedOn": "2023-10-09T18:30:42.000Z",
+          "wordCount": 1069,
+          "title": "text-mode:\n\nTerminal graphics has a new technique to convert...",
+          "imageUrl": "https://64.media.tumblr.com/7b1cbf61cea563a72478269159842d81/tumblr_o7q5anpsy31rpiyaso3_400.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/730637127054999552",
           "author": null,
@@ -1508,16 +1528,6 @@
           "wordCount": 990,
           "title": "text-mode:\n\nASCII eating by Mario Duran (betathing).",
           "imageUrl": "https://64.media.tumblr.com/2499e1a342698d3954d0b92ec8a6ecb4/tumblr_p10klnCNks1rpiyaso1_400.gif"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/725291895347150848",
-          "author": null,
-          "description": "text-mode:\nASCII skull by weinventyou.",
-          "link": "https://text-mode.tumblr.com/post/725291895347150848",
-          "publishedOn": "2023-08-10T18:30:52.000Z",
-          "wordCount": 1000,
-          "title": "text-mode:\n\nASCII skull by weinventyou.",
-          "imageUrl": "https://64.media.tumblr.com/9f3ae654be46468464a4e4bd0bcfe6f4/tumblr_p10ms7Rp0Q1rpiyaso1_500.gif"
         }
       ]
     },
@@ -1742,16 +1752,6 @@
           "wordCount": 2070,
           "title": "In a git repository, where do your files live?",
           "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2023/08/11/some-notes-on-mastodon/",
-          "author": null,
-          "description": "I started using Mastodon back in November, and it’s the Twitter alternative\nwhere I’ve been spending most of my time recently, mostly because the Fediverse\nis where a lot of the Linux nerds seem to be right now.\nI’ve found Mastodon quite a bit more confusing than Twitter because it’s a\ndistributed system, so here are a few technical things I’ve learned about it\nover the last 10 months. I’ll mostly talk about what using a single-person\nserver has been like for me, as well as a couple of notes about the API, DMs\nand ActivityPub.\nI might have made some mistakes, please let me know if I’ve gotten anything\nwrong!\nwhat’s a mastodon instance?\nFirst: Mastodon is a decentralized collection of independently run servers\ninstead of One Big Server. The software is open source.\nIn general, if you have a…",
-          "link": "https://jvns.ca/blog/2023/08/11/some-notes-on-mastodon/",
-          "publishedOn": "2023-08-11T08:13:16.000Z",
-          "wordCount": 3054,
-          "title": "Notes on using a single-person Mastodon server",
-          "imageUrl": null
         }
       ]
     },
@@ -1760,6 +1760,16 @@
       "feedUrl": "https://www.joshwcomeau.com/rss.xml",
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
+        {
+          "id": "https://www.joshwcomeau.com/react/the-perils-of-rehydration/",
+          "author": "Josh W. Comeau",
+          "description": "A surprisingly-common misconception can lead to big rendering issues that are difficult to debug. This deep-dive tutorial examines how React and Gatsby can be used to pre-render content, and how we can work around the constraints to build dynamic, personalized web apps.",
+          "link": "https://www.joshwcomeau.com/react/the-perils-of-rehydration/",
+          "publishedOn": "2023-09-19T23:19:14.000Z",
+          "wordCount": 6441,
+          "title": "The Perils of Hydration",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-the-perils-of-rehydration.png"
+        },
         {
           "id": "https://www.joshwcomeau.com/javascript/modulo-operator/",
           "author": "Josh W. Comeau",
@@ -1883,6 +1893,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=6880",
+          "author": "Cory Doctorow",
+          "description": "Today's links How Google's trial secrecy lets it control the coverage: You got it wrong, but we won't tell you how. The Lost Cause prologue, part III: Going viral in the free world. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading How Google's trial secrecy lets it control the coverage (permalink) \"Corporate crime\" is practically an oxymoron in America. While it's true that the single most consequential and profligate theft in America is wage theft, its mechanisms are so obscure and, well, dull that it's easy to sell us on the false impression that the real problem is shoplifting: https://newrepublic.com/post/175343/wage-theft-versus-shoplifting-cr…",
+          "link": "https://pluralistic.net/2023/10/09/working-the-refs/",
+          "publishedOn": "2023-10-09T08:59:54.000Z",
+          "wordCount": 4385,
+          "title": "Pluralistic: How Google's trial secrecy lets it control the coverage; The Lost Cause prologue, part III (09 Oct 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=6874",
           "author": "Cory Doctorow",
@@ -2281,16 +2301,6 @@
           "publishedOn": "2023-08-11T15:53:09.000Z",
           "wordCount": 3855,
           "title": "Pluralistic: The Sacklers woulda gotten away with it if it wasn't for those darned meddling feds (11 August 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=5739",
-          "author": "Cory Doctorow",
-          "description": "Today's links The long bezzle: Verizon can remain irrational longer than you can remain solvent. Hey look at this: Delights to delectate. This day in history: None Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The long bezzle (permalink) When it comes to the modern world of enshittified, terrible businesses, no addition to your vocabulary is more essential than \"bezzle,\" JK Galbraith's term for \"the magic interval when a confidence trickster knows he has the money he has appropriated but the victim does not yet understand that he has lost it\" https://pluralistic.net/2023/08/09/accounting-gimmicks/#unter The bezzle is contained by two forces. First, Stein's Law: \"Anything that can't go on forever will eventually stop.\" Second, Keynes's…",
-          "link": "https://pluralistic.net/2023/08/10/smartest-guys-in-the-room/",
-          "publishedOn": "2023-08-10T18:37:10.000Z",
-          "wordCount": 2902,
-          "title": "Pluralistic: The long bezzle (10 August 2023)",
           "imageUrl": null
         }
       ]
@@ -3632,46 +3642,6 @@
           "wordCount": 279,
           "title": "Striking Vintage Calculators",
           "imageUrl": "https://kottke.org/plus/misc/images/cool-calculators-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/08/woman-turns-her-apartment-into-a-medical-clinic-for-hummingbirds",
-          "author": null,
-          "description": "Catia Lattouf and an assistant run a medical clinic and rehab center for hummingbirds in her Mexico City apartment.\nWith dozens of the tiny birds buzzing overhead, along walls and the window of her bedroom, Lattouf explained that she began caring for them a year after surviving colon cancer in 2011. It started with one hummingbird that had an eye injured by another bird.\nA veterinarian friend encouraged her to try to help it. She named it Gucci after the brand of the glasses case she kept it in. The bird became her inseparable companion, perching on her computer screen while she worked.\n\"It wrote me a new life,\" she said of the nine months the bird lived with her.\n\n\nI'm not entirely sure I'd like 60 hummingbirds constantly flitting around my house, but I'm not entirely sure I wouldn't like that either.\nTags: birds · Catia Lattouf · video",
-          "link": "https://kottke.org/23/08/woman-turns-her-apartment-into-a-medical-clinic-for-hummingbirds",
-          "publishedOn": "2023-08-10T23:05:51.000Z",
-          "wordCount": 311,
-          "title": "Woman Turns Her Apartment Into a Medical Clinic for Hummingbirds",
-          "imageUrl": "https://img.youtube.com/vi/Jr4mW3ULMng/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/16/05/how-do-you-know-when-to-cut",
-          "author": null,
-          "description": "I think this might be my favorite Every Frame a Painting yet: Taylor Ramos and Tony Zhou explore how a film editor does what she does. Or as Zhou puts it, \"how does an editor think and feel?\" The point about emotions taking time is especially interesting, as is the accompanying comparison between similar scenes from The Empire Strikes Back and Ant Man.\nEmotions take time. When we watch people onscreen, we feel a connection to them. And that's because we have time to watch their faces before they speak and time to watch them afterwards. Editors have to decide, \"how much time do I give this emotion?\"\n\n\n\t\t\n\t\t\n[This was originally posted on May 12, 2016.]\nTags:film school    \nmovies    \nTony Zhou    \nvideo",
-          "link": "https://kottke.org/16/05/how-do-you-know-when-to-cut",
-          "publishedOn": "2023-08-10T18:42:54.000Z",
-          "wordCount": 271,
-          "title": "\"How Do You Know When to Cut?\"",
-          "imageUrl": "https://img.youtube.com/vi/3Q3eITC01Fg/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/08/madeline-miller-long-covid-has-derailed-my-life",
-          "author": null,
-          "description": "Madeline Miller (Circe, Song of Achilles) got sick in February 2020 with what turned out to be Covid, which then turned into Long Covid. It has profoundly affected her life (gift link).\nI reached out to doctors. One told me I was \"deconditioned\" and needed to exercise more. But my usual jog left me doubled over, and when I tried to lift weights, I ended up in the ER with chest pains and tachycardia. My tests were normal, which alarmed me further. How could they be normal? Every morning, I woke breathless, leaden, utterly depleted.\nWorst of all, I couldn't concentrate enough to compose sentences. Writing had been my haven since I was 6. Now, it was my family's livelihood. I kept looking through my pre-covid novel drafts, desperately trying to prod my sticky, limp brain forward. But I was to…",
-          "link": "https://kottke.org/23/08/madeline-miller-long-covid-has-derailed-my-life",
-          "publishedOn": "2023-08-10T17:22:58.000Z",
-          "wordCount": 613,
-          "title": "Madeline Miller: \"Long Covid Has Derailed My Life\"",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/08/how-to-enter-the-flow-state-a-unique-mental-state-of-effortless-engagement",
-          "author": null,
-          "description": "A short TED-Ed video on the flow state of creativity and how you might enter it more easily.\nFlow is more than just concentrating or paying attention; it's a unique mental state of effortless engagement. And those who more frequently experience flow report higher levels of positive emotions, creativity, and feelings of accomplishment. But what exactly is flow? And how can we find it in our daily lives? Explore steps you can take to increase your chances of finding flow.\n\n\nWhile I am not feeling particularly in the groove today, over the past several weeks I've been in the flow state a lot, working on a couple of projects for the site. It's been a long time since I've had that feeling for more than a couple of hours every few months and booooooy does it feel good. There is almost nothing that fills me with as much joy as the \"effortless engagement\" of being in the flow state. I'm very glad it's back in my life — I'd been afraid it was gone forever. (via open culture)\nTags: how to · video",
-          "link": "https://kottke.org/23/08/how-to-enter-the-flow-state-a-unique-mental-state-of-effortless-engagement",
-          "publishedOn": "2023-08-10T15:15:39.000Z",
-          "wordCount": 352,
-          "title": "How to Enter the Flow State, \"a Unique Mental State of Effortless Engagement\"",
-          "imageUrl": "https://img.youtube.com/vi/0rIjFCNay2Q/0.jpg"
         }
       ]
     },
