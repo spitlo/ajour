@@ -2,10 +2,103 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2023-10-20T00:28:34.027Z</updated>
+    <updated>2023-10-21T00:28:16.211Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[text-mode:
+
+Girotel, a videotex banking service for old white...]]></title>
+        <id>https://text-mode.tumblr.com/post/731724262414729216</id>
+        <link href="https://text-mode.tumblr.com/post/731724262414729216"/>
+        <updated>2023-10-20T18:30:35.000Z</updated>
+        <summary type="html"><![CDATA[text-mode:
+Girotel, a videotex banking service for old white men, running on the Dutch Viditel network from 1986. Most images from here.]]></summary>
+        <author>
+            <name>TEXT-MODE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who Are the People in the Neighborhood?]]></title>
+        <id>https://kottke.org/23/10/who-are-the-people-in-the-neighborhood</id>
+        <link href="https://kottke.org/23/10/who-are-the-people-in-the-neighborhood"/>
+        <updated>2023-10-20T15:42:23.000Z</updated>
+        <summary type="html"><![CDATA[One of the things I was thinking about doing with the comments is having posts on Fridays that are specifically participatory. So let's try it out today. Currently, there's no profile information available for commenters...you can't click on a name to visit their Instagram acct or whatever. That feature is on my to-do list but it might be awhile before I get to it. But I know folks are curious about who reads the site...
+So, in the meantime, if you feel comfortable sharing, you can use this thread to introduce yourself: maybe where you live, what you're into, your social accounts. I think many of us smartly err on the side of not sharing too many specific details about ourselves online (myself included, but it's obviously complicated 🙃) due to safety issues, but I think it's possible to get to know each other a little bit without spilling too many beans. (thx to Russell for the idea)
+💬 Join the discussion on kottke.org →]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How's Everyone Liking the Comments?]]></title>
+        <id>https://kottke.org/23/10/hows-everyone-liking-the-comments</id>
+        <link href="https://kottke.org/23/10/hows-everyone-liking-the-comments"/>
+        <updated>2023-10-20T14:45:30.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone. I rolled out a new comments system (in beta!) on Monday and it seems to have been well-received so far. I've fixed some of the most egregious bugs and rolled out some tweaks and it seems to be holding up pretty well. 🤞 (Is there a knock-on-wood emoji?)
+It's early days and I'm rolling things out slowly (only ~10 posts were open for comments this week out of about 50), but commenting activity waned as the week went on. Discovery is still poor (there's no list of open comment threads) and there aren't any notifications — even as an admin user, I have to go to the front page of the site and click into individual threads to see if there's anything new. That's an obvious hinderance to participation and I'm gonna make a first pass at fixing it next week.
+I also recognize that it's …]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some miscellaneous git facts]]></title>
+        <id>https://jvns.ca/blog/2023/10/20/some-miscellaneous-git-facts/</id>
+        <link href="https://jvns.ca/blog/2023/10/20/some-miscellaneous-git-facts/"/>
+        <updated>2023-10-20T14:39:23.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been very slowly working on writing about how Git works. I thought I
+already knew Git pretty well, but as usual when I try to explain something I’ve
+been learning some new things.
+None of these things feel super surprising in retrospect, but I hadn’t thought
+about them clearly before.
+The facts are:
+the “index”, “staging area” and “–cached” are all the same thing
+the stash is a bunch of commits
+not all references are branches or tags
+merge commits aren’t empty
+Let’s talk about them!
+the “index”, “staging area” and “–cached” are all the same thing
+When you run git add file.txt, and then git status, you’ll see something like this:
+$ git add content/post/2023-10-20-some-miscellaneous-git-facts.markdown
+$ git status
+Changes to be committed:
+  (use "git restore --staged <file>..." to unsta…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Estonia's capital made mass transit free...]]></title>
+        <id>https://kottke.org/23/10/0043271-estonias-capital-made-mas#043271</id>
+        <link href="https://kottke.org/23/10/0043271-estonias-capital-made-mas#043271"/>
+        <updated>2023-10-20T13:18:44.000Z</updated>
+        <summary type="html"><![CDATA[Estonia's capital made mass transit free a decade ago. Transit traffic went up but car traffic increased faster. "Any extra money should be put toward transit service, and not zero fares."]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My company is hiring: who wants to work with me in Developer Relations?]]></title>
+        <id>https://christianheilmann.com/?p=7992</id>
+        <link href="https://christianheilmann.com/2023/10/20/my-company-is-hiring-who-wants-to-work-with-me-in-developer-relations/"/>
+        <updated>2023-10-20T10:13:46.000Z</updated>
+        <summary type="html"><![CDATA[I have a spot on my team for a Developer Advocate and you can apply here: Developer Advocate all genders – Remote, Europe, UK Please, don’t send me CVs or tell me to “take a look” as all applicants need to be in the system so we can follow the needed legal procedure. What you’ll […]]]></summary>
+        <author>
+            <name>Chris Heilmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: Amazon's bestselling "bitter lemon" energy drink was bottled delivery driver piss (20 Oct 2023)]]></title>
+        <id>https://pluralistic.net/?p=7118</id>
+        <link href="https://pluralistic.net/2023/10/20/release-energy/"/>
+        <updated>2023-10-20T10:01:31.000Z</updated>
+        <summary type="html"><![CDATA[Today's links Amazon's bestselling "bitter lemon" energy drink was bottled delivery driver piss: Amazon immediately spotted an undercover reporter but missed that the bestselling 'Release Energy' was its drivers' urine. Hey look at this: Delights to delectate. This day in history: 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Amazon's bestselling "bitter lemon" energy drink was bottled delivery driver piss (permalink) For a brief time this year, the bestselling "bitter lemon drink" on Amazon was "Release Energy," which consisted of the harvested urine of Amazon delivery drivers, rebottled for sale by Catfish UK prankster Oobah Butler in a stunt for a new Channel 4 doc, "The Great Amazon Heist": https://www.channel4.co…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tape Measure Spider-Man. So dumb and yet...]]></title>
         <id>https://kottke.org/23/10/0043275-tape-measure-spider-man-s#043275</id>
@@ -14,6 +107,16 @@
         <summary type="html"><![CDATA[Tape Measure Spider-Man. So dumb and yet perfect.]]></summary>
         <author>
             <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black Holes vs Regular Holes]]></title>
+        <id>https://xkcd.com/2844/</id>
+        <link href="https://xkcd.com/2844/"/>
+        <updated>2023-10-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/black_holes_vs_regular_holes.png" title="Created by the collapse of: [massive stars] [Florida limestone bedrock]" alt="Created by the collapse of: [massive stars] [Florida limestone bedrock]" />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -5408,29 +5511,6 @@ Typewritten works by Petra Schulze-Wollgast.]]></summary>
 There is little precedent for a civilian's becoming the arbiter of a war between nations in such a granular way, or for the degree of dependency that the U.S. now has on Musk in a variety of fields, from the future of energy and transportation to the exploration of space. SpaceX is currently the sole means by which nasa transports crew from U.S. soil into space, a situation that will persist for at least another year. The government's plan to move the auto industry toward electric cars requires increasing access to charging stations along America's highways. But this rests on the actions of another Musk enterprise, Tesla. The automaker has seeded so m…]]></summary>
         <author>
             <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding GitHub repository info, pages links  and latest commits to any page using github-include]]></title>
-        <id>https://christianheilmann.com/?p=7923</id>
-        <link href="https://christianheilmann.com/2023/08/22/adding-github-repository-info-pages-links-and-latest-commits-to-any-page-using-github-include/"/>
-        <updated>2023-08-22T11:17:08.000Z</updated>
-        <summary type="html"><![CDATA[GitHub is where code lives. You make your updates there, and in the case of frontend work, you can even host it in GitHub pages. When I publish something, I write a blog post and often I put some of the code in the post. When feedback comes in about new features I update the […]]]></summary>
-        <author>
-            <name>Chris Heilmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[text-mode:
-
-Weird Soviet segment display fonts from the 1980′s,...]]></title>
-        <id>https://text-mode.tumblr.com/post/726288441562841088</id>
-        <link href="https://text-mode.tumblr.com/post/726288441562841088"/>
-        <updated>2023-08-21T18:30:32.000Z</updated>
-        <summary type="html"><![CDATA[text-mode:
-Weird Soviet segment display fonts from the 1980′s, via Matt Sarnoff.]]></summary>
-        <author>
-            <name>TEXT-MODE</name>
         </author>
     </entry>
     <entry>

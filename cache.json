@@ -6,6 +6,16 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=7992",
+          "author": "Chris Heilmann",
+          "description": "I have a spot on my team for a Developer Advocate and you can apply here: Developer Advocate all genders – Remote, Europe, UK Please, don’t send me CVs or tell me to “take a look” as all applicants need to be in the system so we can follow the needed legal procedure. What you’ll […]",
+          "link": "https://christianheilmann.com/2023/10/20/my-company-is-hiring-who-wants-to-work-with-me-in-developer-relations/",
+          "publishedOn": "2023-10-20T10:13:46.000Z",
+          "wordCount": null,
+          "title": "My company is hiring: who wants to work with me in Developer Relations?",
+          "imageUrl": null
+        },
+        {
           "id": "https://christianheilmann.com/?p=7969",
           "author": "Chris Heilmann",
           "description": "These are the notes for my talk at the TechKnowFest in Amsterdam. We always see big technology companies as the best place to work and as those who make the world go around. I’ve been pretty disillusioned in this regard lately. The main reason why technology isn’t really making the world go around is that […]",
@@ -98,16 +108,6 @@
           "publishedOn": "2023-08-24T14:15:52.000Z",
           "wordCount": 744,
           "title": "Quick tip: Getting all links from any web site into a spreadsheet using browser developer tools",
-          "imageUrl": null
-        },
-        {
-          "id": "https://christianheilmann.com/?p=7923",
-          "author": "Chris Heilmann",
-          "description": "GitHub is where code lives. You make your updates there, and in the case of frontend work, you can even host it in GitHub pages. When I publish something, I write a blog post and often I put some of the code in the post. When feedback comes in about new features I update the […]",
-          "link": "https://christianheilmann.com/2023/08/22/adding-github-repository-info-pages-links-and-latest-commits-to-any-page-using-github-include/",
-          "publishedOn": "2023-08-22T11:17:08.000Z",
-          "wordCount": 824,
-          "title": "Adding GitHub repository info, pages links  and latest commits to any page using github-include",
           "imageUrl": null
         }
       ]
@@ -207,6 +207,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2844/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/black_holes_vs_regular_holes.png\" title=\"Created by the collapse of: [massive stars] [Florida limestone bedrock]\" alt=\"Created by the collapse of: [massive stars] [Florida limestone bedrock]\" />",
+          "link": "https://xkcd.com/2844/",
+          "publishedOn": "2023-10-20T00:00:00.000Z",
+          "wordCount": 197,
+          "title": "Black Holes vs Regular Holes",
+          "imageUrl": "https://imgs.xkcd.com/comics/black_holes_vs_regular_holes_2x.png"
+        },
         {
           "id": "https://xkcd.com/2843/",
           "author": null,
@@ -921,6 +931,16 @@
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
         {
+          "id": "https://text-mode.tumblr.com/post/731724262414729216",
+          "author": null,
+          "description": "text-mode:\nGirotel, a videotex banking service for old white men, running on the Dutch Viditel network from 1986. Most images from here.",
+          "link": "https://text-mode.tumblr.com/post/731724262414729216",
+          "publishedOn": "2023-10-20T18:30:35.000Z",
+          "wordCount": 1003,
+          "title": "text-mode:\n\nGirotel, a videotex banking service for old white...",
+          "imageUrl": "https://64.media.tumblr.com/04bbdccd774a5d7364c14586a30259b0/tumblr_o5xowlrZAH1rpiyaso1_400.jpg"
+        },
+        {
           "id": "https://text-mode.tumblr.com/post/731633672817606656",
           "author": null,
           "description": "text-mode:\nFrom Granny’s Garden, a C64-game from 1987.",
@@ -1539,16 +1559,6 @@
           "wordCount": 999,
           "title": "text-mode:\n\nTypewritten works by Petra Schulze-Wollgast.",
           "imageUrl": "https://64.media.tumblr.com/5f2cd476138eb9a47eea7828d8bcc2a9/tumblr_p05gejpXI21rpiyaso2_1280.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/726288441562841088",
-          "author": null,
-          "description": "text-mode:\nWeird Soviet segment display fonts from the 1980′s, via Matt Sarnoff.",
-          "link": "https://text-mode.tumblr.com/post/726288441562841088",
-          "publishedOn": "2023-08-21T18:30:32.000Z",
-          "wordCount": 995,
-          "title": "text-mode:\n\nWeird Soviet segment display fonts from the 1980′s,...",
-          "imageUrl": "https://64.media.tumblr.com/f7b1691de27ec76b9caee50996e3fae5/tumblr_p05hc2tAuX1rpiyaso1_1280.jpg"
         }
       ]
     },
@@ -1775,6 +1785,16 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2023/10/20/some-miscellaneous-git-facts/",
+          "author": null,
+          "description": "I’ve been very slowly working on writing about how Git works. I thought I\nalready knew Git pretty well, but as usual when I try to explain something I’ve\nbeen learning some new things.\nNone of these things feel super surprising in retrospect, but I hadn’t thought\nabout them clearly before.\nThe facts are:\nthe “index”, “staging area” and “–cached” are all the same thing\nthe stash is a bunch of commits\nnot all references are branches or tags\nmerge commits aren’t empty\nLet’s talk about them!\nthe “index”, “staging area” and “–cached” are all the same thing\nWhen you run git add file.txt, and then git status, you’ll see something like this:\n$ git add content/post/2023-10-20-some-miscellaneous-git-facts.markdown\n$ git status\nChanges to be committed:\n  (use \"git restore --staged <file>...\" to unsta…",
+          "link": "https://jvns.ca/blog/2023/10/20/some-miscellaneous-git-facts/",
+          "publishedOn": "2023-10-20T14:39:23.000Z",
+          "wordCount": 1135,
+          "title": "Some miscellaneous git facts",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/",
           "author": null,
           "description": "A few weeks ago I gave a keynote at Strange Loop\ncalled Making Hard Things Easy. It’s about why I think some things are hard\nto learn and ideas for how we can make them easier.\nHere’s the video, as well as the slides and a transcript of (roughly) what I\nsaid in the talk.\nthe video\n\n\nthe transcript\n\n\n\n\n\nHello, Strange Loop! Strange Loop is one of the first places I\nspoke almost 10 years ago and I'm so honored to be back here today for the\nlast one. Can we have one more round of applause for the organizers?\n\n\n\n\n\n\n\n\n\n\n\n\nI often give talks about things that I'm excited about,\nor that I think are really fun.\n\n\n\nBut today, I want to talk about something that I'm a little bit mad about,\nwhich is that sometimes things that seem like they should be basic take me 10\nyears or 20 years to learn, way l…",
@@ -1934,6 +1954,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=7118",
+          "author": "Cory Doctorow",
+          "description": "Today's links Amazon's bestselling \"bitter lemon\" energy drink was bottled delivery driver piss: Amazon immediately spotted an undercover reporter but missed that the bestselling 'Release Energy' was its drivers' urine. Hey look at this: Delights to delectate. This day in history: 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Amazon's bestselling \"bitter lemon\" energy drink was bottled delivery driver piss (permalink) For a brief time this year, the bestselling \"bitter lemon drink\" on Amazon was \"Release Energy,\" which consisted of the harvested urine of Amazon delivery drivers, rebottled for sale by Catfish UK prankster Oobah Butler in a stunt for a new Channel 4 doc, \"The Great Amazon Heist\": https://www.channel4.co…",
+          "link": "https://pluralistic.net/2023/10/20/release-energy/",
+          "publishedOn": "2023-10-20T10:01:31.000Z",
+          "wordCount": 3008,
+          "title": "Pluralistic: Amazon's bestselling \"bitter lemon\" energy drink was bottled delivery driver piss (20 Oct 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=7111",
           "author": "Cory Doctorow",
@@ -2389,6 +2419,36 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/10/who-are-the-people-in-the-neighborhood",
+          "author": null,
+          "description": "One of the things I was thinking about doing with the comments is having posts on Fridays that are specifically participatory. So let's try it out today. Currently, there's no profile information available for commenters...you can't click on a name to visit their Instagram acct or whatever. That feature is on my to-do list but it might be awhile before I get to it. But I know folks are curious about who reads the site...\nSo, in the meantime, if you feel comfortable sharing, you can use this thread to introduce yourself: maybe where you live, what you're into, your social accounts. I think many of us smartly err on the side of not sharing too many specific details about ourselves online (myself included, but it's obviously complicated 🙃) due to safety issues, but I think it's possible to get to know each other a little bit without spilling too many beans. (thx to Russell for the idea)\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/23/10/who-are-the-people-in-the-neighborhood",
+          "publishedOn": "2023-10-20T15:42:23.000Z",
+          "wordCount": 15124,
+          "title": "Who Are the People in the Neighborhood?",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/10/hows-everyone-liking-the-comments",
+          "author": null,
+          "description": "Hey everyone. I rolled out a new comments system (in beta!) on Monday and it seems to have been well-received so far. I've fixed some of the most egregious bugs and rolled out some tweaks and it seems to be holding up pretty well. 🤞 (Is there a knock-on-wood emoji?)\nIt's early days and I'm rolling things out slowly (only ~10 posts were open for comments this week out of about 50), but commenting activity waned as the week went on. Discovery is still poor (there's no list of open comment threads) and there aren't any notifications — even as an admin user, I have to go to the front page of the site and click into individual threads to see if there's anything new. That's an obvious hinderance to participation and I'm gonna make a first pass at fixing it next week.\nI also recognize that it's …",
+          "link": "https://kottke.org/23/10/hows-everyone-liking-the-comments",
+          "publishedOn": "2023-10-20T14:45:30.000Z",
+          "wordCount": 2635,
+          "title": "How's Everyone Liking the Comments?",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/10/0043271-estonias-capital-made-mas#043271",
+          "author": null,
+          "description": "Estonia's capital made mass transit free a decade ago. Transit traffic went up but car traffic increased faster. \"Any extra money should be put toward transit service, and not zero fares.\"",
+          "link": "https://kottke.org/23/10/0043271-estonias-capital-made-mas#043271",
+          "publishedOn": "2023-10-20T13:18:44.000Z",
+          "wordCount": 556,
+          "title": "Estonia's capital made mass transit free...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/23/10/0043275-tape-measure-spider-man-s#043275",
           "author": null,
