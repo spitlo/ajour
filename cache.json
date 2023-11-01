@@ -98,18 +98,7 @@
       "title": "Hundred Rabbits",
       "feedUrl": "https://100r.co/links/rss.xml",
       "siteUrl": "https://100r.co",
-      "articles": [
-        {
-          "id": "log.html#sep2023",
-          "author": "Rek Bell",
-          "description": "Hey everyone! This is the list of all the changes we've done to our projects and apps during the month of September. We'll also be reporting in our on position in the world, and on our future plans.\nSummary Of Changes\nWiktopher, adapted Solresol, edited other conlangs.\nNiju, fixed a drawing bug.\nOquonie, working on the Playdate version.\nNews\nPino returned to the Victoria docks a little early this year so Devine could go to Strange Loop 2023. We had a lovely sail that day, with clear skies, and 10 kts on the beam. Despite being a little food and sleep deprived, Devine's presentation went well, we will share the recording here once it is released.\nRek has been busy editing Wiktopher, finessing the conlangs featured in the story. One of the featured languages is Ilken, a whistled language, designed for long-distance communication, and playable with instruments. A few years ago Devine designed a language for it, but we decided to instead use a modern variation of Solresol, a musical language by Jean-François Sudre. Rek drew a fanart of the mascot of Solresol, and Devine a communication lantern.\nCurrently, Devine is working at translating Thousand Rooms(Famimi Remisolla) in Solresol as practice. We're also editing a Brazilian Portuguese version, to be released next month.\nWe've been toying with the idea of making an audiobook for the story, and asked Paul B. to use their voice synthesis tool Gesture to try and hear what a poem in Ilken(Solresol) sounds like. The result was so lovely that it made Rek cry of joy.\nRek's sketch thread(Mastodon) is still going. Devine will be producing a lot more art next month for Drawtober!\nPino book club\nWe are reading J.D. Salinger's Catcher in the Rye, and B. F. Skinner's Walden Two.\nContinue Reading",
-          "link": "https://100r.co/site/log.html#sep2023",
-          "publishedOn": "2023-09-02T06:30:00.000Z",
-          "wordCount": 2393,
-          "title": "Summary of changes for September 2023",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Sara Soueidan – Blog",
@@ -140,6 +129,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2848/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/breaker_box.png\" title=\"Any electrician will warn you to first locate and flip the house's CAUSALITY circuit breaker before touching the CIRCUIT BREAKERS one.\" alt=\"Any electrician will warn you to first locate and flip the house's CAUSALITY circuit breaker before touching the CIRCUIT BREAKERS one.\" />",
+          "link": "https://xkcd.com/2848/",
+          "publishedOn": "2023-10-30T00:00:00.000Z",
+          "wordCount": 191,
+          "title": "Breaker Box",
+          "imageUrl": "https://imgs.xkcd.com/comics/breaker_box_2x.png"
+        },
         {
           "id": "https://xkcd.com/2847/",
           "author": null,
@@ -387,6 +386,26 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "blocking-ips-in-production",
+          "author": null,
+          "description": "This is probably a hacky way to go about things, but if I don't write it down, I know I'll have forgotten it by the time maintenance comes around in 2033…\nTL;DR: use ufw but ensure you can access ssh.",
+          "link": "https://remysharp.com/2023/10/31/blocking-ips-in-production",
+          "publishedOn": "2023-10-31T00:00:00.000Z",
+          "wordCount": 806,
+          "title": "Blocking IPs in production [blog]",
+          "imageUrl": "https://remysharp.com/images/cards/og/9-7.jpg"
+        },
+        {
+          "id": "shades-of-grey-shades-of-grey-1",
+          "author": null,
+          "description": "Shades of Grey (Shades of Grey, #1)",
+          "link": "https://remysharp.com/books/2023/shades-of-grey-shades-of-grey-1",
+          "publishedOn": "2023-10-28T00:00:00.000Z",
+          "wordCount": 496,
+          "title": "Shades of Grey (Shades of Grey, #1) [book]",
+          "imageUrl": null
+        },
         {
           "id": "2023-10-27-kindle",
           "author": null,
@@ -818,6 +837,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/732724632603459584",
+          "author": null,
+          "description": "text-mode:\nAmiga ASCII by Lord Nikon.",
+          "link": "https://text-mode.tumblr.com/post/732724632603459584",
+          "publishedOn": "2023-10-31T19:31:03.000Z",
+          "wordCount": 1011,
+          "title": "text-mode:\n\nAmiga ASCII by Lord Nikon.",
+          "imageUrl": "https://64.media.tumblr.com/50df5e7864d57616288b49359a5efc9b/tumblr_nz1cj56CXr1u12njso1_1280.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/732634025485811712",
           "author": null,
@@ -1447,16 +1476,6 @@
           "wordCount": 984,
           "title": "Photo",
           "imageUrl": "https://64.media.tumblr.com/f41112a9ab3210d2c3ec093260c954a9/tumblr_olyjvlegly1qbjwp2o1_540.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/727285044518977536",
-          "author": null,
-          "description": "text-mode:\nCrimson King in teletext, by Steve Horsley.",
-          "link": "https://text-mode.tumblr.com/post/727285044518977536",
-          "publishedOn": "2023-09-01T18:31:07.000Z",
-          "wordCount": 1019,
-          "title": "text-mode:\n\nCrimson King in teletext, by Steve Horsley.",
-          "imageUrl": "https://64.media.tumblr.com/dcf29f7d4e7f53284219e55904fe9ad5/tumblr_omth8ciTuJ1rpiyaso1_1280.jpg"
         }
       ]
     },
@@ -1465,6 +1484,16 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=73563",
+          "author": "Jenifer Boscacci",
+          "description": "Web browsing is a pervasive part of modern life, and the quality of the experience directly affects the quality of your day. When your tasks are disrupted by slow or unresponsive pages, it is frustrating and distracting. As such, performance is a key component of Mozilla’s vision for the web. To deliver against our vision […]\nThe post Quick as a Fox: Firefox keeps getting faster appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/products/quick-as-a-fox-firefox-keeps-getting-faster/",
+          "publishedOn": "2023-10-31T16:58:22.000Z",
+          "wordCount": 1473,
+          "title": "Quick as a Fox: Firefox keeps getting faster",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2021/06/fx_website_meta-image_tips-tricks_alt-04-1200x800.png"
+        },
         {
           "id": "https://blog.mozilla.org/?p=73517",
           "author": "Mozilla",
@@ -1852,6 +1881,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=7267",
+          "author": "Cory Doctorow",
+          "description": "Today's links The impoverished imagination of neoliberal climate \"solutions\": \"All of the above\" is a highly selective proposition. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The impoverished imagination of neoliberal climate \"solutions\" (permalink) There is only one planet in the known universe capable of sustaining human life, and it is rapidly becoming uninhabitable by humans. Clearly, this warrants bold action – but which bold action should we take? After half a century of denial and disinformation, the business lobby has seemingly found climate religion and has joined the choir, but they have their own unique hymn: this crisis is so dire, they…",
+          "link": "https://pluralistic.net/2023/10/31/carbon-upsets/",
+          "publishedOn": "2023-10-31T15:32:31.000Z",
+          "wordCount": 3524,
+          "title": "Pluralistic: The impoverished imagination of neoliberal climate \"solutions\" (31 Oct 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=7251",
           "author": "Cory Doctorow",
@@ -2377,6 +2416,106 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/10/0043349-phil-plait-what-happens-t",
+          "author": null,
+          "description": "Phil Plait: What Happens to a Werewolf on the Moon? “The transformation wouldn’t last a mere terrestrial night but an entire lunar day, which is two weeks in duration. The carnage would be literally unearthly.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/23/10/0043349-phil-plait-what-happens-t",
+          "publishedOn": "2023-10-31T21:16:33.000Z",
+          "wordCount": 556,
+          "title": "Phil Plait: What Happens to a Werewolf on the Moon? &#8220;The transformation...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/10/0043350-stop-before-you-close-thi",
+          "author": null,
+          "description": "Stop, Before You Close This Tab (or Any Others)… “Think of your browser like an ongoing autobiography. Why would you ever delete it?”\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/23/10/0043350-stop-before-you-close-thi",
+          "publishedOn": "2023-10-31T20:38:20.000Z",
+          "wordCount": 861,
+          "title": "Stop, Before You Close This Tab (or Any Others)&#8230; &#8220;Think of your...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/10/the-history-of-the-electric-guitar-solo",
+          "author": null,
+          "description": "YouTube channel Polyphonic (whose videos I’ve featured before) has taken on an ambitious project: tracing the history of the electric guitar solo from its origins in blues and country music in the American South all the way up to the present day. The series is called Axe To Grind and the first three episodes are available on YouTube (the first two are embedded above). People are sharing their favorite early electric guitar players in the comments of the first video.\nThe series is also available on the subscription-only Nebula — episodes appear there first and the music excerpts are longer because Nebula doesn’t trample all over creators’ fair use rights like YT does. (via open culture)\nTags: music · videos\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/23/10/the-history-of-the-electric-guitar-solo",
+          "publishedOn": "2023-10-31T19:55:32.000Z",
+          "wordCount": 642,
+          "title": "The History of the Electric Guitar Solo",
+          "imageUrl": "https://i.ytimg.com/vi/Ic68ruvwecM/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/10/0043342-look-im-tired-of-all",
+          "author": null,
+          "description": "Look, I’m tired of all things Trump too, but for some reason, but this improv of Lord of the Rings’ Sauron as Trump by Brennan Mulligan had me rolling on the floor. The cadence is perfect.",
+          "link": "https://kottke.org/23/10/0043342-look-im-tired-of-all",
+          "publishedOn": "2023-10-31T19:04:19.000Z",
+          "wordCount": 185,
+          "title": "Look, I&#8217;m tired of all things Trump too, but for some reason,...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/10/fungi-web-of-life",
+          "author": null,
+          "description": "Fungi: Web of Life is an upcoming IMAX documentary on mushrooms & their fungi brethren narrated by Björk and presented by Merlin Sheldrake.\nJoin acclaimed British biologist, Dr. Merlin Sheldrake, on a quest to find an incredibly precious blue mushroom, against the backdrop of Tasmania’s ancient Tarkine rainforest. Merlin will show us some the grandest and strangest organisms ever discovered, showcased through jaw-dropping time-lapse cinematography, in a landscape largely unchanged from the time of the dinosaurs. Fungi have important lessons to teach humanity about survival through cooperation. Indeed, these incredible lifeforms may hold the key to solving some of humanity’s most urgent problems. With millions more species to discover, our journey into the secret world of fungi has only just begun.\n\n\nSheldrake is the author of Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures.\nTags: fungi · Fungi: Web of Life · movies · trailers · video",
+          "link": "https://kottke.org/23/10/fungi-web-of-life",
+          "publishedOn": "2023-10-31T17:35:13.000Z",
+          "wordCount": 291,
+          "title": "Fungi: Web of Life",
+          "imageUrl": "https://i.ytimg.com/vi/YCf7YywIBZ8/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/10/0043334-in-1952-a-group-of",
+          "author": null,
+          "description": "In 1952, a group of three ‘stars’ vanished — astronomers still can’t find them. A photographic plate taken at 8:52 pm shows a cluster of three bright stars. In a plate at 9:45 pm, they’re gone.",
+          "link": "https://kottke.org/23/10/0043334-in-1952-a-group-of",
+          "publishedOn": "2023-10-31T16:52:56.000Z",
+          "wordCount": 184,
+          "title": "In 1952, a group of three &#8216;stars&#8217; vanished — astronomers still can&#8217;t...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/10/0043341-the-main-problem-with-ped",
+          "author": null,
+          "description": "The Main Problem With Pedestrian Deaths Isn’t the Pedestrians. “Our transportation infrastructure exists to tell drivers that they have pride of place on our roads and streets and that their convenience is more important than any other consideration.”",
+          "link": "https://kottke.org/23/10/0043341-the-main-problem-with-ped",
+          "publishedOn": "2023-10-31T15:41:39.000Z",
+          "wordCount": 184,
+          "title": "The Main Problem With Pedestrian Deaths Isn&#8217;t the Pedestrians. &#8220;Our transportation infrastructure...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/10/trailer-for-stamped-from-the-beginning",
+          "author": null,
+          "description": "Based on the bestselling book Stamped from the Beginning: The Definitive History of Racist Ideas in America by Ibram X. Kendi (also available as a graphic novel), this documentary explores the mythology of American racism and how it still shapes the world today. The director is Oscar-winner Roger Ross Williams and in preparing for the film, he decided that only Black women would appear in it:\n“When we started looking at historians and scholars, we came up with a long list. I noticed the pattern that most of the people doing the work around racism in America were Black women,” Williams told Netflix. “I asked them in pre-interviews, ‘Why do you do this work?’ And many of them said the same thing — that they had no choice. This was their experience and their life. And if they’re going to dedicate their life to something, it’s going to be about changing and understanding racism in America because they can’t escape racism in America. I said to everyone, ‘We’re going to have only Black women in this film.’ It was an important statement to make.\n\n\nStamped From the Beginning comes out on Netflix on November 20.\nTags: books · Ibram X. Kendi · movies · Stamped From the Beginning · trailers · video",
+          "link": "https://kottke.org/23/10/trailer-for-stamped-from-the-beginning",
+          "publishedOn": "2023-10-31T14:52:22.000Z",
+          "wordCount": 352,
+          "title": "Trailer for Stamped From the Beginning",
+          "imageUrl": "https://i.ytimg.com/vi/HMYLFQbyIu4/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/10/0043233-artisans-cooperative-is-a",
+          "author": null,
+          "description": "Artisans Cooperative is a member-owned marketplace for handmade goods. Looks like they are trying to be what Etsy was back in the day.",
+          "link": "https://kottke.org/23/10/0043233-artisans-cooperative-is-a",
+          "publishedOn": "2023-10-31T14:03:12.000Z",
+          "wordCount": 168,
+          "title": "Artisans Cooperative is a member-owned marketplace for handmade goods. Looks like they...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/10/0043339-lionel-messi-has-won-his",
+          "author": null,
+          "description": "Lionel Messi has won his eighth Ballon d’Or award, given annually to the best football player in the world. Hard to imagine anyone beating that record.",
+          "link": "https://kottke.org/23/10/0043339-lionel-messi-has-won-his",
+          "publishedOn": "2023-10-31T13:34:05.000Z",
+          "wordCount": 174,
+          "title": "Lionel Messi has won his eighth Ballon d&#8217;Or award, given annually to...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/23/10/0043330-the-worlds-most-popular-p",
           "author": null,
@@ -5326,36 +5465,6 @@
           "wordCount": 501,
           "title": "Once Upon a Time in Northern Ireland",
           "imageUrl": "https://img.youtube.com/vi/v68PoFI78Kc/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/09/an-amazing-19th-century-autograph-quilt",
-          "author": null,
-          "description": "In 1856, a 17-year-old girl named Adeline Harris started making a unique quilt. Over the next two decades, she sent pieces of silk to famous people from around the world and they signed them and sent them back to her. She assembled them into a quilt with a tumbling blocks pattern (aka, the Q*bert pattern).\nThe signatures that Harris was able to acquire are astounding: Harriet Beecher Stowe, Charles Dickens, Oliver Wendell Holmes, Samuel Morse, Alexandre Dumas, Ralph Waldo Emerson, Henry Wadsworth Longfellow, Alexander von Humboldt, Washington Irving, and Nathaniel Hawthorne. Oh, and eight US Presidents: Martin Van Buren, John Tyler, Millard Fillmore, Franklin Pierce, James Buchanan, Abraham Lincoln, Andrew Johnson, and Ulysses S. Grant.\nThe aesthetics of this thing are just marvelous, with all the different colors and patterns arranged into a strict grid.\nOh and I couldn't resist checking The Great Span of the quilt. The earliest-born signatory I could find is Alexander von Humboldt, who was born in 1769, and the last person to die was Mary Virginia Hawes Terhune, who died in 1922. That's a span of 154 years, all in one incredible quilt.\nI found this via the Public Domain Review, who is offering prints of the quilt.\nTags: Adeline Harris · art",
-          "link": "https://kottke.org/23/09/an-amazing-19th-century-autograph-quilt",
-          "publishedOn": "2023-09-01T18:51:15.000Z",
-          "wordCount": 361,
-          "title": "An Amazing 19th-Century Autograph Quilt",
-          "imageUrl": "https://kottke.org/plus/misc/images/adeline-harris-quilt.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/09/how-the-race-was-won",
-          "author": null,
-          "description": "What an amazing, info-dense composite photograph taken by Casey Sims of the semi-finals of the men's 110-meter hurdles at the 2023 World Athletics Championships in Budapest from last month. You can see and analyze the entire race, just from this one image. Eventual finals winner Grant Holloway is in lane 5 and led from start to finish.\nTags: Casey Sims · Grant Holloway · photography · sports · track and field",
-          "link": "https://kottke.org/23/09/how-the-race-was-won",
-          "publishedOn": "2023-09-01T16:36:30.000Z",
-          "wordCount": 218,
-          "title": "How the Race Was Won",
-          "imageUrl": "https://kottke.org/plus/misc/images/how-the-race-was-won.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/09/trailer-for-errol-morriss-the-pigeon-tunnel",
-          "author": null,
-          "description": "Oh yay, I had been wondering just the other day what Errol Morris has been up to and it turns out to be a project with Apple TV+ called The Pigeon Tunnel, which is billed as the final interview with espionage novelist John le Carré (born David Cornwell).\nIt's terribly difficult to recruit for a secret service. You're looking for somebody who's a bit bad, but at the same time, loyal. There's a type. And I fit it perfectly.\n\n\nThe movie has the same title and covers some of the same ground as le Carré's 2016 memoir, probably with more of an emphasis on Morris's general obsession with what constitutes truth. More info on the film from the Toronto International Film Festival, where the movie is premiering on Sept 11:\nCornwell once worked for the British spy agencies MI5 and MI6. He sparingly gave interviews, but accepted Morris' invitation because he saw it \"as something definitive.\" He had already begun a process of opening up in his memoir The Pigeon Tunnel: Stories from My Life.\nCrucial to the narrative is the author's relationship to his father Ronnie, an inveterate gambler and con artist. Cornwell's mother disappeared when he was five, so his main frame of reference was the world of his father, who was endlessly on the run from the mob or the police. The title The Pigeon Tunnel comes from Cornwell's experience as a child going to Monte Carlo with Ronnie. Imprinted on his memory was a shooting range on the top of a cliff. Beneath the grass was a tunnel from which trapped pigeons were ejected over the sea as targets.\n\n\nThe Pigeon Tunnel will be out on Apple TV+ on Oct 20, 2023.\nTags: books · Errol Morris · espionage · John le Carre · movies · The Pigeon Tunnel · trailers · video",
-          "link": "https://kottke.org/23/09/trailer-for-errol-morriss-the-pigeon-tunnel",
-          "publishedOn": "2023-09-01T14:31:33.000Z",
-          "wordCount": 452,
-          "title": "Trailer for Errol Morris's The Pigeon Tunnel",
-          "imageUrl": "https://img.youtube.com/vi/9gWnuhjwNrw/0.jpg"
         }
       ]
     },
@@ -5364,6 +5473,16 @@
       "feedUrl": "https://www.zeroto180.org/feed/",
       "siteUrl": "https://www.zeroto180.org/",
       "articles": [
+        {
+          "id": "https://www.zeroto180.org/?p=95370",
+          "author": "Zeroto180",
+          "description": "Sixteen-year-old Janis Ian, for her third single for Verve Forecast, bravely tackled the subject of suicide — currently the second leading cause of death for people ages 10-14 as well as 20-34, according to the Centers for Disease Control and Prevention. The DJ/promo version of this November 1967 single includes two versions of “Insanity Comes […]\nThe post “Insanity Comes Quietly To The Structured Mind” — Mental Health in Popular Song appeared first on Zero to 180 - Three Minute Magic.",
+          "link": "https://www.zeroto180.org/insanity-comes-quietly-to-the-structured-mind-mental-health-in-popular-song/",
+          "publishedOn": "2023-10-31T16:31:55.000Z",
+          "wordCount": 11707,
+          "title": "“Insanity Comes Quietly To The Structured Mind” — Mental Health in Popular Song",
+          "imageUrl": "https://www.zeroto180.org/wp-content/uploads/2023/10/Janis-Ian-one-final-thumbnail.jpg"
+        },
         {
           "id": "https://www.zeroto180.org/?p=95531",
           "author": "Zeroto180",
