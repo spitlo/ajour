@@ -2,10 +2,246 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2023-11-06T00:30:11.626Z</updated>
+    <updated>2023-11-07T00:30:00.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Default layouts in 11ty [til/misc]]]></title>
+        <id>default-layouts-in-11ty</id>
+        <link href="https://remysharp.com/til/misc/default-layouts-in-11ty"/>
+        <updated>2023-11-06T23:59:39.000Z</updated>
+        <summary type="html"><![CDATA[I found this really hard to determine in the 11ty documentation, so I've added it here for future reference.
+If you want a default layout for all pages there's a few ways you can do this (which is why I found it hard to determine from the docs), but since I almost always have an .eleventy.js configuration file, putting it there is (what I think) the cleanest solution:
+// assumes that `base.njk` lives inside _includes/
+eleventyConfig.addGlobalData('layout', 'base.njk');]]></summary>
+        <author>
+            <name>remy sharp's b:log</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Just a short post of appreciation for The Kid Should See This....]]></title>
+        <id>https://kottke.org/23/11/0043383-just-a-short-post-of</id>
+        <link href="https://kottke.org/23/11/0043383-just-a-short-post-of"/>
+        <updated>2023-11-06T23:20:59.000Z</updated>
+        <summary type="html"><![CDATA[Just a short post of appreciation for The Kid Should See This. I was just looking at their top nav and it reminded me of the old school bounty of the original Yahoo! directory. 6000+ videos for curious learners of all ages. 👏
+
+
+
+ 
+💬 Join the discussion on kottke.org →]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Speech Absolutists Explain Why People They Disagree With Should Be Fired....]]></title>
+        <id>https://kottke.org/23/11/0043388-free-speech-absolutists-e</id>
+        <link href="https://kottke.org/23/11/0043388-free-speech-absolutists-e"/>
+        <updated>2023-11-06T22:03:56.000Z</updated>
+        <summary type="html"><![CDATA[Free Speech Absolutists Explain Why People They Disagree With Should Be Fired. “If our livelihoods aren’t tethered to conformity and obedience, then what the hell’s the point of America?”]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A falcon lost his ability to fly. Now the bird is an...]]></title>
+        <id>https://kottke.org/23/11/0043389-a-falcon-lost-his-ability</id>
+        <link href="https://kottke.org/23/11/0043389-a-falcon-lost-his-ability"/>
+        <updated>2023-11-06T21:19:58.000Z</updated>
+        <summary type="html"><![CDATA[A falcon lost his ability to fly. Now the bird is an artist in Vermont. “He’s a little bird who think he’s a human.”
+
+
+
+ 
+💬 Join the discussion on kottke.org →]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The End of Front-End Development]]></title>
+        <id>https://www.joshwcomeau.com/blog/the-end-of-frontend-development/</id>
+        <link href="https://www.joshwcomeau.com/blog/the-end-of-frontend-development/"/>
+        <updated>2023-11-06T21:13:22.000Z</updated>
+        <summary type="html"><![CDATA[Large language models like GPT-4 are becoming increasingly capable, at an alarming rate. Within a couple of years, we won't need developers any more! …Or at least, that's the narrative going viral on Twitter. I'm much more optimistic about what these AI advancements mean for the future of software development.]]></summary>
+        <author>
+            <name>Josh W. Comeau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I don&#8217;t really know exactly what to say about this today, but...]]></title>
+        <id>https://kottke.org/23/11/0043397-i-dont-really-know-exactl</id>
+        <link href="https://kottke.org/23/11/0043397-i-dont-really-know-exactl"/>
+        <updated>2023-11-06T20:22:46.000Z</updated>
+        <summary type="html"><![CDATA[I don’t really know exactly what to say about this today, but Craig Mod’s thoughts on aloneness, solitude, therapy, and self-renewal really resonated with me.
+
+
+
+ 
+💬 Join the discussion on kottke.org →]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Human Deterioration. &#8220;I see people watching the horrible tragedy that is...]]></title>
+        <id>https://kottke.org/23/11/0043394-a-human-deterioration-i-s</id>
+        <link href="https://kottke.org/23/11/0043394-a-human-deterioration-i-s"/>
+        <updated>2023-11-06T19:38:01.000Z</updated>
+        <summary type="html"><![CDATA[A Human Deterioration. “I see people watching the horrible tragedy that is happening here as if it were a Super Bowl of victimhood, in which you support one team and really don’t care about the other, empathy becomes very, very selective.”]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[text-mode:
+
+Text mode business.]]></title>
+        <id>https://text-mode.tumblr.com/post/733268192339886080</id>
+        <link href="https://text-mode.tumblr.com/post/733268192339886080"/>
+        <updated>2023-11-06T19:30:42.000Z</updated>
+        <summary type="html"><![CDATA[text-mode:
+Text mode business.]]></summary>
+        <author>
+            <name>TEXT-MODE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Nature Conservancy&#8217;s Photo Contest Winners for 2023]]></title>
+        <id>https://kottke.org/23/11/the-nature-conservancys-photo-contest-winners-for-2023</id>
+        <link href="https://kottke.org/23/11/the-nature-conservancys-photo-contest-winners-for-2023"/>
+        <updated>2023-11-06T18:58:22.000Z</updated>
+        <summary type="html"><![CDATA[The Nature Conservancy has announced this year’s winners of their annual photo contest. Collectively, the winning photographs “gave voice to nature and showed us the power and peril of the natural world”. As usual, I selected a few of my favorites and included them above. From top to bottom:
+Jaime Daniel Fajardo Torres: “This is a species of spider known as ogre spiders, of the genus Deinopis. The photograph was taken at night in the middle of a mature forest in northern Ecuador in the tropical rainforest of the Ecuadorian Chocó, a place considered a hotspot. The spider photographed was generating its egg sac with its own web.”
+HJ Yang: An orca attacks two seals in the morning on the beach.
+
+
+
+Jeanny Tang: “The holes dug by fish for spawning can be seen after the pond has dried up.”
+
+(via in focus)
+Tags: best of · best of 2023 · photography]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Decolonization Narrative Is Dangerous and False. &#8220;It does not accurately describe...]]></title>
+        <id>https://kottke.org/23/11/0043393-the-decolonization-narrat</id>
+        <link href="https://kottke.org/23/11/0043393-the-decolonization-narrat"/>
+        <updated>2023-11-06T18:10:07.000Z</updated>
+        <summary type="html"><![CDATA[The Decolonization Narrative Is Dangerous and False. “It does not accurately describe either the foundation of Israel or the tragedy of the Palestinians.”]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HBO&#8217;s The Jinx – Part Two will cover the course of the...]]></title>
+        <id>https://kottke.org/23/11/0043387-hbos-the-jinx-part</id>
+        <link href="https://kottke.org/23/11/0043387-hbos-the-jinx-part"/>
+        <updated>2023-11-06T17:39:25.000Z</updated>
+        <summary type="html"><![CDATA[HBO’s The Jinx – Part Two will cover the course of the investigation of the crimes of Robert Durst since the first award-winning installment.]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Are Starlings: Inside the Mesmerizing Magic of a Murmuration. &#8220;A stunning...]]></title>
+        <id>https://kottke.org/23/11/0043333-we-are-starlings-inside-t</id>
+        <link href="https://kottke.org/23/11/0043333-we-are-starlings-inside-t"/>
+        <updated>2023-11-06T16:59:55.000Z</updated>
+        <summary type="html"><![CDATA[We Are Starlings: Inside the Mesmerizing Magic of a Murmuration. “A stunning picture book for young nature lovers about starlings and the fascinating phenomenon of murmurations.”]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Making of the Last Beatles Song: Now And Then]]></title>
+        <id>https://kottke.org/23/11/the-making-of-the-last-beatles-song-now-and-then</id>
+        <link href="https://kottke.org/23/11/the-making-of-the-last-beatles-song-now-and-then"/>
+        <updated>2023-11-06T16:22:48.000Z</updated>
+        <summary type="html"><![CDATA[The four members of the Beatles, assisted by machine learning technology, come together one last time to record a song together, working off of a demo tape recorded by John Lennon in the 70s.
+The long mythologised John Lennon demo was first worked on in February 1995 by Paul, George and Ringo as part of The Beatles Anthology project but it remained unfinished, partly because of the impossible technological challenges involved in working with the vocal John had recorded on tape in the 1970s. For years it looked like the song could never be completed.
+But in 2022 there was a stroke of serendipity. A software system developed by Peter Jackson and his team, used throughout the production of the documentary series Get Back, finally opened the way for the uncoupling of John’s vocal from his piano part. As a result, the original recording could be brought to life and worked on anew with contributions from all four Beatles.
+
+
+Here’s the result, a song called Now and Then:
+
+I enjoyed Ben Lindbergh’s take on the new song and its recording.
+Tags: artificial intelligence · Ben Lindbergh · music · Peter Jackson · The Beatles · video]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: Amazon is a ripoff (06 Nov 2023)]]></title>
+        <id>https://pluralistic.net/?p=7309</id>
+        <link href="https://pluralistic.net/2023/11/06/attention-rents/"/>
+        <updated>2023-11-06T16:02:40.000Z</updated>
+        <summary type="html"><![CDATA[Today's links Amazon is a ripoff: New Amazon paradox just dropped. Hey look at this: Delights to delectate. This day in history: 2003, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Amazon is a ripoff (permalink) There's a cheat-code in US antitrust law, one that's been increasingly used since the Reagan administration, when the "consumer welfare" theory ("monopolies are fine, so long as the lower prices") shoved aside the long-established idea that antitrust law existed to prevent monopolies from forming at all. The idea that a company can do anything to create or perpetuate a monopoly so long as its prices go down and/or its quality goes up is directly to blame for the rise of Big Tech. These companies burned through…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A thought-provoking piece about how therapists are handling the climate crisis. &#8220;Human...]]></title>
+        <id>https://kottke.org/23/11/0043390-a-thought-provoking-piece</id>
+        <link href="https://kottke.org/23/11/0043390-a-thought-provoking-piece"/>
+        <updated>2023-11-06T14:48:54.000Z</updated>
+        <summary type="html"><![CDATA[A thought-provoking piece about how therapists are handling the climate crisis. “Human well-being has historically been linked to participation in a healthy ecocultural context. Living within a context that is obviously unhealthful is painful.”
+
+
+
+ 
+💬 Join the discussion on kottke.org →]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pangram validator in one line]]></title>
+        <id>https://christianheilmann.com/?p=8008</id>
+        <link href="https://christianheilmann.com/2023/11/06/pangram-validator-in-one-line/"/>
+        <updated>2023-11-06T13:36:00.000Z</updated>
+        <summary type="html"><![CDATA[For a quiz, I am playing with Pangrams, sentences that have all 26 letters of the alphabet in them. Using Set and some RegEx it is a one-liner in JavaScript to validate them (split into two lines for readability…). const isPangram = s => new Set( s.toLowerCase().replace(/[^a-z]/g, ‘’).split(‘’) ).size === 26; I’ve also put together […]]]></summary>
+        <author>
+            <name>Chris Heilmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[git rebase: what can go wrong?]]></title>
+        <id>https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/</id>
+        <link href="https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/"/>
+        <updated>2023-11-06T07:45:21.000Z</updated>
+        <summary type="html"><![CDATA[Hello! While talking with folks about Git, I’ve been seeing a comment over and
+over to the effect of “I hate rebase”. People seemed to feel pretty strongly
+about this, and I was really surprised because I don’t run into a lot of
+problems with rebase and I use it all the time.
+I’ve found that if many people have a very strong opinion that’s different from
+mine, usually it’s because they have different experiences around that thing
+from me.
+So I asked on Mastodon:
+today I’m thinking about the tradeoffs of using git rebase a bit. I think
+the goal of rebase is to have a nice linear commit history, which is something
+I like.
+but what are the costs of using rebase? what problems has it caused for you
+in practice? I’m really only interested in specific bad experiences you’ve had
+here – not opinio…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Messier Objects]]></title>
+        <id>https://xkcd.com/2851/</id>
+        <link href="https://xkcd.com/2851/"/>
+        <updated>2023-11-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/messier_objects.png" title="The debate over the correct Messier number for the Ship of Theseus is ongoing." alt="The debate over the correct Messier number for the Ship of Theseus is ongoing." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jazmine Hughes, an award-winning NY Times writer, agreed to resign after signing...]]></title>
         <id>https://kottke.org/23/11/0043386-jazmine-hughes-an-award-w</id>
@@ -5747,6 +5983,16 @@ Tags: music · Tycho]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Making Sense of React Server Components]]></title>
+        <id>https://www.joshwcomeau.com/react/server-components/</id>
+        <link href="https://www.joshwcomeau.com/react/server-components/"/>
+        <updated>2023-09-19T23:19:14.000Z</updated>
+        <summary type="html"><![CDATA[This year, the React team unveiled something they've been quietly researching for years: an official way to run React components exclusively on the server. This is a significant paradigm shift, and it's caused a whole lot of confusion in the React community. In this tutorial, we'll explore this new world, and build an intuition for how it works, and how we can take advantage of it.]]></summary>
+        <author>
+            <name>Josh W. Comeau</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Perils of Hydration]]></title>
         <id>https://www.joshwcomeau.com/react/the-perils-of-rehydration/</id>
         <link href="https://www.joshwcomeau.com/react/the-perils-of-rehydration/"/>
@@ -6706,89 +6952,6 @@ Here's a video of Hitchcock laying out the policy for moviegoers (via open cultu
 
 Psycho didn't singlehandedly stop the practice, but Hitchcock's stand was an important part in shifting moviegoing practices to the set start times we have today.
 Tags: Alfred Hitchcock · movies · Psycho · video]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gold]]></title>
-        <id>https://xkcd.com/2826/</id>
-        <link href="https://xkcd.com/2826/"/>
-        <updated>2023-09-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/gold.png" title="It can be expensive to hire a professional spectroscopist for your wedding, but the quality of the spectra you get is worth it." alt="It can be expensive to hire a professional spectroscopist for your wedding, but the quality of the spectra you get is worth it." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Evolution of Hummingbirds]]></title>
-        <id>https://kottke.org/23/09/the-evolution-of-hummingbirds</id>
-        <link href="https://kottke.org/23/09/the-evolution-of-hummingbirds"/>
-        <updated>2023-09-07T20:47:04.000Z</updated>
-        <summary type="html"><![CDATA[Really interesting video from Moth Light Media about how hummingbirds evolved into the unusual little creatures they are today.
-The story of hummingbird evolution is how they have reaped the advantages of drinking a natural energy drink and then have had to evolve alien features to quell the disadvantages that have now gone on to define them.
-
-
-Other popular videos from Moth Light Media include Evolution of Spider Webs, What Happens to Whale Bodies When They Die?, When Fungus Grew to the Size of Trees, and How Plants Became Meat Eaters.
-Tags: birds · video]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[text-mode:
-
-Clip from Rheingold - Computer Beat, 1984. YouTube....]]></title>
-        <id>https://text-mode.tumblr.com/post/727828592677060608</id>
-        <link href="https://text-mode.tumblr.com/post/727828592677060608"/>
-        <updated>2023-09-07T18:30:35.000Z</updated>
-        <summary type="html"><![CDATA[text-mode:
-Clip from Rheingold - Computer Beat, 1984. YouTube. h/t: despens]]></summary>
-        <author>
-            <name>TEXT-MODE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: How plausible sentence generators are changing the bullshit wars (07 Sept 2023)]]></title>
-        <id>https://pluralistic.net/?p=5845</id>
-        <link href="https://pluralistic.net/2023/09/07/govern-yourself-accordingly/"/>
-        <updated>2023-09-07T17:39:50.000Z</updated>
-        <summary type="html"><![CDATA[Today's links How plausible sentence generators are changing the bullshit wars: My September column in Locus Magazine. Hey look at this: Delights to delectate. This day in history: 2008, 2013, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading How plausible sentence generators are changing the bullshit wars (permalink) In my latest Locus Magazine column, "Plausible Sentence Generators," I describe how I unwittingly came to use – and even be impressed by – an AI chatbot – and what this means for a specialized, highly salient form of writing, namely, "bullshit": https://locusmag.com/2023/09/commentary-by-cory-doctorow-plausible-sentence-generators/ Here's what happened: I got stranded at JFK due to heavy weather and an air-traffic contr…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Life Cycle Of Superhero Storytelling]]></title>
-        <id>https://kottke.org/23/09/the-life-cycle-of-superhero-storytelling</id>
-        <link href="https://kottke.org/23/09/the-life-cycle-of-superhero-storytelling"/>
-        <updated>2023-09-07T16:44:45.000Z</updated>
-        <summary type="html"><![CDATA[In this short video essay, Evan Puschak explores the typical life cycle of superhero storytelling, where things move from standalone stories to crossovers and interconnections, the stakes continually rise, and things get so complicated that entertainment becomes homework. Marvel in particular is in the later stages of this cycle,1 where casual fans are dropping off because they haven't watched increasingly mediocre movies and full seasons of shows to keep up to date on what's to come.
-
-Star Wars is getting there too, and Star Trek seems like they're trying their hardest to catch up.↩
-
-Tags: Evan Puschak · movies · video]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Trailer for The Boy and the Heron, Hayao Miyazaki's Final Film]]></title>
-        <id>https://kottke.org/23/09/the-boy-and-the-heron-hayao-miyazaki</id>
-        <link href="https://kottke.org/23/09/the-boy-and-the-heron-hayao-miyazaki"/>
-        <updated>2023-09-07T14:46:26.000Z</updated>
-        <summary type="html"><![CDATA[It is with the appropriate feelings of melancholy and excitement that I share with you the teaser trailer for The Boy and the Heron, the legendary Hayao Miyazaki's final animated feature film for Studio Ghibli.
-A young boy named Mahito, yearning for his mother, ventures into a world shared by the living and the dead.
-There, death comes to an end, and life finds a new beginning.
-A semi-autobiographical fantasy about life, death, and creation, in tribute to friendship, from the mind of Hayao Miyazaki.
-
-
-Miyazaki had previously retired after 2013's The Wind Rises but according to Studio Ghibli co-founder Toshio Suzuki, he had good reason to come back for one more film:
-Miyazaki is making the new film for his grandson. It's his way of saying, 'Grandpa is moving on to the next world, but he's leaving behind this film.'
-
-
-The Boy and the Heron opens on December 8 in the US. (via waxy)
-Tags: animation · death · Hayao Miyazaki · movies · Studio Ghibli · The Boy and the Heron · trailers · video]]></summary>
         <author>
             <name>kottke.org</name>
         </author>

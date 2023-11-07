@@ -6,6 +6,16 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=8008",
+          "author": "Chris Heilmann",
+          "description": "For a quiz, I am playing with Pangrams, sentences that have all 26 letters of the alphabet in them. Using Set and some RegEx it is a one-liner in JavaScript to validate them (split into two lines for readability…). const isPangram = s => new Set( s.toLowerCase().replace(/[^a-z]/g, ‘’).split(‘’) ).size === 26; I’ve also put together […]",
+          "link": "https://christianheilmann.com/2023/11/06/pangram-validator-in-one-line/",
+          "publishedOn": "2023-11-06T13:36:00.000Z",
+          "wordCount": null,
+          "title": "Pangram validator in one line",
+          "imageUrl": null
+        },
+        {
           "id": "https://christianheilmann.com/?p=7998",
           "author": "Chris Heilmann",
           "description": "Mein zweiter Kurs auf LinkedIn Learning Grundlagen der Programmierung – Barrierefreie Software ist live! Der Kurs richtet sich an Einsteiger und Fortgeschrittene und ist eine Stunde und 28 Minuten lang. Hier ist die Beschreibung von LinkedIn und die detailierten Videotitel: Christian Heilmann beweist in seinem LinkedIn Learning-Kurs, dass einfache barrierefreie Nutzbarkeit von Software heutzutage schon […]",
@@ -171,6 +181,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2851/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/messier_objects.png\" title=\"The debate over the correct Messier number for the Ship of Theseus is ongoing.\" alt=\"The debate over the correct Messier number for the Ship of Theseus is ongoing.\" />",
+          "link": "https://xkcd.com/2851/",
+          "publishedOn": "2023-11-06T00:00:00.000Z",
+          "wordCount": 191,
+          "title": "Messier Objects",
+          "imageUrl": "https://imgs.xkcd.com/comics/messier_objects_2x.png"
+        },
         {
           "id": "https://xkcd.com/2850/",
           "author": null,
@@ -410,16 +430,6 @@
           "wordCount": 189,
           "title": "Brassica",
           "imageUrl": "https://imgs.xkcd.com/comics/brassica_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2826/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/gold.png\" title=\"It can be expensive to hire a professional spectroscopist for your wedding, but the quality of the spectra you get is worth it.\" alt=\"It can be expensive to hire a professional spectroscopist for your wedding, but the quality of the spectra you get is worth it.\" />",
-          "link": "https://xkcd.com/2826/",
-          "publishedOn": "2023-09-08T00:00:00.000Z",
-          "wordCount": 189,
-          "title": "Gold",
-          "imageUrl": "https://imgs.xkcd.com/comics/gold_2x.png"
         }
       ]
     },
@@ -428,6 +438,16 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "default-layouts-in-11ty",
+          "author": null,
+          "description": "I found this really hard to determine in the 11ty documentation, so I've added it here for future reference.\nIf you want a default layout for all pages there's a few ways you can do this (which is why I found it hard to determine from the docs), but since I almost always have an .eleventy.js configuration file, putting it there is (what I think) the cleanest solution:\n// assumes that `base.njk` lives inside _includes/\neleventyConfig.addGlobalData('layout', 'base.njk');",
+          "link": "https://remysharp.com/til/misc/default-layouts-in-11ty",
+          "publishedOn": "2023-11-06T23:59:39.000Z",
+          "wordCount": 542,
+          "title": "Default layouts in 11ty [til/misc]",
+          "imageUrl": null
+        },
         {
           "id": "blocking-ips-in-production",
           "author": null,
@@ -889,6 +909,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/733268192339886080",
+          "author": null,
+          "description": "text-mode:\nText mode business.",
+          "link": "https://text-mode.tumblr.com/post/733268192339886080",
+          "publishedOn": "2023-11-06T19:30:42.000Z",
+          "wordCount": 983,
+          "title": "text-mode:\n\nText mode business.",
+          "imageUrl": "https://64.media.tumblr.com/498952cbb742136868db43b2f8be1e58/tumblr_nwvxcsJwS21tdhimpo1_640.gif"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/733177580581224448",
           "author": null,
@@ -1498,16 +1528,6 @@
           "wordCount": 1019,
           "title": "Works by&nbsp;Mavenmob, 2023. Published in the artpack&nbsp;MIST0823&nbsp;from Mistigris.",
           "imageUrl": "https://64.media.tumblr.com/e923060b821399d190af0a40b37a8d36/1b658aec195f5f5f-9b/s640x960/7c59c05082504eeb485e55d41f74ba721525230d.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/727828592677060608",
-          "author": null,
-          "description": "text-mode:\nClip from Rheingold - Computer Beat, 1984. YouTube. h/t: despens",
-          "link": "https://text-mode.tumblr.com/post/727828592677060608",
-          "publishedOn": "2023-09-07T18:30:35.000Z",
-          "wordCount": 1011,
-          "title": "text-mode:\n\nClip from Rheingold - Computer Beat, 1984. YouTube....",
-          "imageUrl": "https://64.media.tumblr.com/44eefe37c9f09fc14025d249f904aeee/tumblr_nrsrb292SF1rpiyaso1_540.gif"
         }
       ]
     },
@@ -1744,6 +1764,16 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/",
+          "author": null,
+          "description": "Hello! While talking with folks about Git, I’ve been seeing a comment over and\nover to the effect of “I hate rebase”. People seemed to feel pretty strongly\nabout this, and I was really surprised because I don’t run into a lot of\nproblems with rebase and I use it all the time.\nI’ve found that if many people have a very strong opinion that’s different from\nmine, usually it’s because they have different experiences around that thing\nfrom me.\nSo I asked on Mastodon:\ntoday I’m thinking about the tradeoffs of using git rebase a bit. I think\nthe goal of rebase is to have a nice linear commit history, which is something\nI like.\nbut what are the costs of using rebase? what problems has it caused for you\nin practice? I’m really only interested in specific bad experiences you’ve had\nhere – not opinio…",
+          "link": "https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/",
+          "publishedOn": "2023-11-06T07:45:21.000Z",
+          "wordCount": 3203,
+          "title": "git rebase: what can go wrong?",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2023/11/01/confusing-git-terminology/",
           "author": null,
           "description": "Hello! I’m slowly working on explaining git. One of my biggest problems is that\nafter almost 15 years of using git, I’ve become very used to git’s\nidiosyncracies and it’s easy for me to forget what’s confusing about it.\nSo I asked people on Mastodon:\nwhat git jargon do you find confusing? thinking of writing a blog post that explains some of git’s weirder terminology: “detached HEAD state”, “fast-forward”, “index/staging area/staged”, “ahead of ‘origin/main’ by 1 commit”, etc\nI got a lot of GREAT answers and I’ll try to summarize some of them here.  Here’s a list of the terms:\nHEAD and “heads”\n“detached HEAD state”\n“ours” and “theirs” while merging or rebasing\n“Your branch is up to date with ‘origin/main’”\nHEAD^, HEAD~ HEAD^^, HEAD~~, HEAD^2, HEAD~2\n.. and …\n“can be fast-forwarded”\n“refere…",
@@ -1790,6 +1820,26 @@
       "feedUrl": "https://www.joshwcomeau.com/rss.xml",
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
+        {
+          "id": "https://www.joshwcomeau.com/blog/the-end-of-frontend-development/",
+          "author": "Josh W. Comeau",
+          "description": "Large language models like GPT-4 are becoming increasingly capable, at an alarming rate. Within a couple of years, we won't need developers any more! …Or at least, that's the narrative going viral on Twitter. I'm much more optimistic about what these AI advancements mean for the future of software development.",
+          "link": "https://www.joshwcomeau.com/blog/the-end-of-frontend-development/",
+          "publishedOn": "2023-11-06T21:13:22.000Z",
+          "wordCount": 6891,
+          "title": "The End of Front-End Development",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-the-end-of-frontend-development.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/react/server-components/",
+          "author": "Josh W. Comeau",
+          "description": "This year, the React team unveiled something they've been quietly researching for years: an official way to run React components exclusively on the server. This is a significant paradigm shift, and it's caused a whole lot of confusion in the React community. In this tutorial, we'll explore this new world, and build an intuition for how it works, and how we can take advantage of it.",
+          "link": "https://www.joshwcomeau.com/react/server-components/",
+          "publishedOn": "2023-09-19T23:19:14.000Z",
+          "wordCount": 12774,
+          "title": "Making Sense of React Server Components",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-server-components.jpg"
+        },
         {
           "id": "https://www.joshwcomeau.com/react/the-perils-of-rehydration/",
           "author": "Josh W. Comeau",
@@ -1913,6 +1963,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=7309",
+          "author": "Cory Doctorow",
+          "description": "Today's links Amazon is a ripoff: New Amazon paradox just dropped. Hey look at this: Delights to delectate. This day in history: 2003, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Amazon is a ripoff (permalink) There's a cheat-code in US antitrust law, one that's been increasingly used since the Reagan administration, when the \"consumer welfare\" theory (\"monopolies are fine, so long as the lower prices\") shoved aside the long-established idea that antitrust law existed to prevent monopolies from forming at all. The idea that a company can do anything to create or perpetuate a monopoly so long as its prices go down and/or its quality goes up is directly to blame for the rise of Big Tech. These companies burned through…",
+          "link": "https://pluralistic.net/2023/11/06/attention-rents/",
+          "publishedOn": "2023-11-06T16:02:40.000Z",
+          "wordCount": 4205,
+          "title": "Pluralistic: Amazon is a ripoff (06 Nov 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=7298",
           "author": "Cory Doctorow",
@@ -2397,16 +2457,6 @@
           "wordCount": 7644,
           "title": "Pluralistic: Saturday linkdump, part the sixth (09 Sept 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=5845",
-          "author": "Cory Doctorow",
-          "description": "Today's links How plausible sentence generators are changing the bullshit wars: My September column in Locus Magazine. Hey look at this: Delights to delectate. This day in history: 2008, 2013, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading How plausible sentence generators are changing the bullshit wars (permalink) In my latest Locus Magazine column, \"Plausible Sentence Generators,\" I describe how I unwittingly came to use – and even be impressed by – an AI chatbot – and what this means for a specialized, highly salient form of writing, namely, \"bullshit\": https://locusmag.com/2023/09/commentary-by-cory-doctorow-plausible-sentence-generators/ Here's what happened: I got stranded at JFK due to heavy weather and an air-traffic contr…",
-          "link": "https://pluralistic.net/2023/09/07/govern-yourself-accordingly/",
-          "publishedOn": "2023-09-07T17:39:50.000Z",
-          "wordCount": 3329,
-          "title": "Pluralistic: How plausible sentence generators are changing the bullshit wars (07 Sept 2023)",
-          "imageUrl": null
         }
       ]
     },
@@ -2458,6 +2508,116 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/11/0043383-just-a-short-post-of",
+          "author": null,
+          "description": "Just a short post of appreciation for The Kid Should See This. I was just looking at their top nav and it reminded me of the old school bounty of the original Yahoo! directory. 6000+ videos for curious learners of all ages. 👏\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/23/11/0043383-just-a-short-post-of",
+          "publishedOn": "2023-11-06T23:20:59.000Z",
+          "wordCount": 564,
+          "title": "Just a short post of appreciation for The Kid Should See This....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/11/0043388-free-speech-absolutists-e",
+          "author": null,
+          "description": "Free Speech Absolutists Explain Why People They Disagree With Should Be Fired. “If our livelihoods aren’t tethered to conformity and obedience, then what the hell’s the point of America?”",
+          "link": "https://kottke.org/23/11/0043388-free-speech-absolutists-e",
+          "publishedOn": "2023-11-06T22:03:56.000Z",
+          "wordCount": 175,
+          "title": "Free Speech Absolutists Explain Why People They Disagree With Should Be Fired....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/11/0043389-a-falcon-lost-his-ability",
+          "author": null,
+          "description": "A falcon lost his ability to fly. Now the bird is an artist in Vermont. “He’s a little bird who think he’s a human.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/23/11/0043389-a-falcon-lost-his-ability",
+          "publishedOn": "2023-11-06T21:19:58.000Z",
+          "wordCount": 546,
+          "title": "A falcon lost his ability to fly. Now the bird is an...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/11/0043397-i-dont-really-know-exactl",
+          "author": null,
+          "description": "I don’t really know exactly what to say about this today, but Craig Mod’s thoughts on aloneness, solitude, therapy, and self-renewal really resonated with me.\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/23/11/0043397-i-dont-really-know-exactl",
+          "publishedOn": "2023-11-06T20:22:46.000Z",
+          "wordCount": 685,
+          "title": "I don&#8217;t really know exactly what to say about this today, but...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/11/0043394-a-human-deterioration-i-s",
+          "author": null,
+          "description": "A Human Deterioration. “I see people watching the horrible tragedy that is happening here as if it were a Super Bowl of victimhood, in which you support one team and really don’t care about the other, empathy becomes very, very selective.”",
+          "link": "https://kottke.org/23/11/0043394-a-human-deterioration-i-s",
+          "publishedOn": "2023-11-06T19:38:01.000Z",
+          "wordCount": 188,
+          "title": "A Human Deterioration. &#8220;I see people watching the horrible tragedy that is...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/11/the-nature-conservancys-photo-contest-winners-for-2023",
+          "author": null,
+          "description": "The Nature Conservancy has announced this year’s winners of their annual photo contest. Collectively, the winning photographs “gave voice to nature and showed us the power and peril of the natural world”. As usual, I selected a few of my favorites and included them above. From top to bottom:\nJaime Daniel Fajardo Torres: “This is a species of spider known as ogre spiders, of the genus Deinopis. The photograph was taken at night in the middle of a mature forest in northern Ecuador in the tropical rainforest of the Ecuadorian Chocó, a place considered a hotspot. The spider photographed was generating its egg sac with its own web.”\nHJ Yang: An orca attacks two seals in the morning on the beach.\n\n\n\nJeanny Tang: “The holes dug by fish for spawning can be seen after the pond has dried up.”\n\n(via in focus)\nTags: best of · best of 2023 · photography",
+          "link": "https://kottke.org/23/11/the-nature-conservancys-photo-contest-winners-for-2023",
+          "publishedOn": "2023-11-06T18:58:22.000Z",
+          "wordCount": 301,
+          "title": "The Nature Conservancy&#8217;s Photo Contest Winners for 2023",
+          "imageUrl": "https://kottke.org/plus/misc/images/nature-conv-2023-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/11/0043393-the-decolonization-narrat",
+          "author": null,
+          "description": "The Decolonization Narrative Is Dangerous and False. “It does not accurately describe either the foundation of Israel or the tragedy of the Palestinians.”",
+          "link": "https://kottke.org/23/11/0043393-the-decolonization-narrat",
+          "publishedOn": "2023-11-06T18:10:07.000Z",
+          "wordCount": 169,
+          "title": "The Decolonization Narrative Is Dangerous and False. &#8220;It does not accurately describe...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/11/0043387-hbos-the-jinx-part",
+          "author": null,
+          "description": "HBO’s The Jinx – Part Two will cover the course of the investigation of the crimes of Robert Durst since the first award-winning installment.",
+          "link": "https://kottke.org/23/11/0043387-hbos-the-jinx-part",
+          "publishedOn": "2023-11-06T17:39:25.000Z",
+          "wordCount": 174,
+          "title": "HBO&#8217;s The Jinx – Part Two will cover the course of the...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/11/0043333-we-are-starlings-inside-t",
+          "author": null,
+          "description": "We Are Starlings: Inside the Mesmerizing Magic of a Murmuration. “A stunning picture book for young nature lovers about starlings and the fascinating phenomenon of murmurations.”",
+          "link": "https://kottke.org/23/11/0043333-we-are-starlings-inside-t",
+          "publishedOn": "2023-11-06T16:59:55.000Z",
+          "wordCount": 175,
+          "title": "We Are Starlings: Inside the Mesmerizing Magic of a Murmuration. &#8220;A stunning...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/11/the-making-of-the-last-beatles-song-now-and-then",
+          "author": null,
+          "description": "The four members of the Beatles, assisted by machine learning technology, come together one last time to record a song together, working off of a demo tape recorded by John Lennon in the 70s.\nThe long mythologised John Lennon demo was first worked on in February 1995 by Paul, George and Ringo as part of The Beatles Anthology project but it remained unfinished, partly because of the impossible technological challenges involved in working with the vocal John had recorded on tape in the 1970s. For years it looked like the song could never be completed.\nBut in 2022 there was a stroke of serendipity. A software system developed by Peter Jackson and his team, used throughout the production of the documentary series Get Back, finally opened the way for the uncoupling of John’s vocal from his piano part. As a result, the original recording could be brought to life and worked on anew with contributions from all four Beatles.\n\n\nHere’s the result, a song called Now and Then:\n\nI enjoyed Ben Lindbergh’s take on the new song and its recording.\nTags: artificial intelligence · Ben Lindbergh · music · Peter Jackson · The Beatles · video",
+          "link": "https://kottke.org/23/11/the-making-of-the-last-beatles-song-now-and-then",
+          "publishedOn": "2023-11-06T16:22:48.000Z",
+          "wordCount": 344,
+          "title": "The Making of the Last Beatles Song: Now And Then",
+          "imageUrl": "https://i.ytimg.com/vi/APJAQoSCwuA/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/11/0043390-a-thought-provoking-piece",
+          "author": null,
+          "description": "A thought-provoking piece about how therapists are handling the climate crisis. “Human well-being has historically been linked to participation in a healthy ecocultural context. Living within a context that is obviously unhealthful is painful.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/23/11/0043390-a-thought-provoking-piece",
+          "publishedOn": "2023-11-06T14:48:54.000Z",
+          "wordCount": 551,
+          "title": "A thought-provoking piece about how therapists are handling the climate crisis. &#8220;Human...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/23/11/0043386-jazmine-hughes-an-award-w",
           "author": null,
@@ -5777,36 +5937,6 @@
           "wordCount": 494,
           "title": "Psycho and the End of the Continuously Showing Movie",
           "imageUrl": "https://kottke.org/plus/misc/images/psycho-no-late.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/09/the-evolution-of-hummingbirds",
-          "author": null,
-          "description": "Really interesting video from Moth Light Media about how hummingbirds evolved into the unusual little creatures they are today.\nThe story of hummingbird evolution is how they have reaped the advantages of drinking a natural energy drink and then have had to evolve alien features to quell the disadvantages that have now gone on to define them.\n\n\nOther popular videos from Moth Light Media include Evolution of Spider Webs, What Happens to Whale Bodies When They Die?, When Fungus Grew to the Size of Trees, and How Plants Became Meat Eaters.\nTags: birds · video",
-          "link": "https://kottke.org/23/09/the-evolution-of-hummingbirds",
-          "publishedOn": "2023-09-07T20:47:04.000Z",
-          "wordCount": 246,
-          "title": "The Evolution of Hummingbirds",
-          "imageUrl": "https://img.youtube.com/vi/cUIRhGIbszw/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/09/the-life-cycle-of-superhero-storytelling",
-          "author": null,
-          "description": "In this short video essay, Evan Puschak explores the typical life cycle of superhero storytelling, where things move from standalone stories to crossovers and interconnections, the stakes continually rise, and things get so complicated that entertainment becomes homework. Marvel in particular is in the later stages of this cycle,1 where casual fans are dropping off because they haven't watched increasingly mediocre movies and full seasons of shows to keep up to date on what's to come.\n\nStar Wars is getting there too, and Star Trek seems like they're trying their hardest to catch up.↩\n\nTags: Evan Puschak · movies · video",
-          "link": "https://kottke.org/23/09/the-life-cycle-of-superhero-storytelling",
-          "publishedOn": "2023-09-07T16:44:45.000Z",
-          "wordCount": 254,
-          "title": "The Life Cycle Of Superhero Storytelling",
-          "imageUrl": "https://img.youtube.com/vi/0_4JkQSI28c/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/09/the-boy-and-the-heron-hayao-miyazaki",
-          "author": null,
-          "description": "It is with the appropriate feelings of melancholy and excitement that I share with you the teaser trailer for The Boy and the Heron, the legendary Hayao Miyazaki's final animated feature film for Studio Ghibli.\nA young boy named Mahito, yearning for his mother, ventures into a world shared by the living and the dead.\nThere, death comes to an end, and life finds a new beginning.\nA semi-autobiographical fantasy about life, death, and creation, in tribute to friendship, from the mind of Hayao Miyazaki.\n\n\nMiyazaki had previously retired after 2013's The Wind Rises but according to Studio Ghibli co-founder Toshio Suzuki, he had good reason to come back for one more film:\nMiyazaki is making the new film for his grandson. It's his way of saying, 'Grandpa is moving on to the next world, but he's leaving behind this film.'\n\n\nThe Boy and the Heron opens on December 8 in the US. (via waxy)\nTags: animation · death · Hayao Miyazaki · movies · Studio Ghibli · The Boy and the Heron · trailers · video",
-          "link": "https://kottke.org/23/09/the-boy-and-the-heron-hayao-miyazaki",
-          "publishedOn": "2023-09-07T14:46:26.000Z",
-          "wordCount": 332,
-          "title": "The Trailer for The Boy and the Heron, Hayao Miyazaki's Final Film",
-          "imageUrl": "https://img.youtube.com/vi/f7EDFdA10pg/0.jpg"
         }
       ]
     },
