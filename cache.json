@@ -182,6 +182,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2853/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/redshift.png\" title=\"So do you have any plans for z=-0.000000000000045?\" alt=\"So do you have any plans for z=-0.000000000000045?\" />",
+          "link": "https://xkcd.com/2853/",
+          "publishedOn": "2023-11-10T00:00:00.000Z",
+          "wordCount": 189,
+          "title": "Redshift",
+          "imageUrl": "https://imgs.xkcd.com/comics/redshift_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2852/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/parameterball.png\" title=\"The ball's density also varies, but players don't learn the value until after choosing their raquets. The infamous 'bowling ball table tennis' region of the parameter space often leads to equipment damage.\" alt=\"The ball's density also varies, but players don't learn the value until after choosing their raquets. The infamous 'bowling ball table tennis' region of the parameter space often leads to equipment damage.\" />",
@@ -557,16 +567,6 @@
           "wordCount": 1142,
           "title": "Why sponsor small events (like ffconf)? [blog]",
           "imageUrl": "https://remysharp.com/images/cards/og/9-5.jpg"
-        },
-        {
-          "id": "2023-09-12-e8796c4e",
-          "author": null,
-          "description": "Useful tool to check the meta tags used and preview how they'll appear in various social media sites, particular as Twitter declines, the need for Twitter specific meta tags becomes less and I realise I should support the opengraph tags (og:*) more carefully.\nSource: www.opengraph.xyz",
-          "link": "https://remysharp.com/links/2023-09-12-e8796c4e",
-          "publishedOn": "2023-09-12T08:42:42.000Z",
-          "wordCount": 530,
-          "title": "Preview Social Media Share and Generate Metatags [link]",
-          "imageUrl": null
         }
       ]
     },
@@ -889,6 +889,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/733630570989568000",
+          "author": null,
+          "description": "text-mode:\nFingers of Doom - a small risograph-printed PETSCII booklet by Raquel Meyers. Available here.",
+          "link": "https://text-mode.tumblr.com/post/733630570989568000",
+          "publishedOn": "2023-11-10T19:30:33.000Z",
+          "wordCount": 1021,
+          "title": "text-mode:\n\nFingers of Doom - a small risograph-printed PETSCII...",
+          "imageUrl": "https://64.media.tumblr.com/5959ebc6367c1598f80951d779a9c26d/tumblr_nvmuk2A0oT1rpiyaso2_1280.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/733539996129280000",
           "author": null,
@@ -1498,16 +1508,6 @@
           "wordCount": 1037,
           "title": "text-mode:\n\nBeltel was South Africa’s videotex system. It was...",
           "imageUrl": "https://64.media.tumblr.com/e5a962964fd7bdd04f218526b8e6dc6e/tumblr_oelm71gRFW1rpiyaso1_640.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/728190974257397760",
-          "author": null,
-          "description": "text-mode:\nThe OpenBSD blowfish says: So long, and thanks for all the passwords",
-          "link": "https://text-mode.tumblr.com/post/728190974257397760",
-          "publishedOn": "2023-09-11T18:30:29.000Z",
-          "wordCount": 1014,
-          "title": "text-mode:\n\nThe OpenBSD blowfish says: So long, and thanks for...",
-          "imageUrl": "https://64.media.tumblr.com/e9d2726abb7d1a91ffef25d0bfef350a/tumblr_o6jpbvek3u1rpiyaso1_640.png"
         }
       ]
     },
@@ -1764,6 +1764,16 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2023/11/10/how-cherry-pick-and-revert-work/",
+          "author": null,
+          "description": "Hello! I was trying to explain to someone how git cherry-pick works the other\nday, and I found myself getting confused.\nWhat went wrong was: I thought that git cherry-pick was basically applying a\npatch, but when I tried to actually do it that way, it didn’t work!\nLet’s talk about what I thought cherry-pick did (applying a patch), why\nthat’s not quite true, and what it actually does instead (a “3-way merge”).\nThis post is extremely in the weeds and you definitely don’t need to understand\nthis stuff to use git effectively. But if you (like me) are curious about git’s\ninternals, let’s talk about it!\ncherry-pick isn’t applying a patch\nThe way I previously understood git cherry-pick COMMIT_ID is:\ncalculate the diff for COMMIT_ID, like git show COMMIT_ID --patch > out.patch\nApply the patch to t…",
+          "link": "https://jvns.ca/blog/2023/11/10/how-cherry-pick-and-revert-work/",
+          "publishedOn": "2023-11-10T12:00:48.000Z",
+          "wordCount": 2117,
+          "title": "How git cherry-pick and revert use 3-way merge",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/",
           "author": null,
           "description": "Hello! While talking with folks about Git, I’ve been seeing a comment over and\nover to the effect of “I hate rebase”. People seemed to feel pretty strongly\nabout this, and I was really surprised because I don’t run into a lot of\nproblems with rebase and I use it all the time.\nI’ve found that if many people have a very strong opinion that’s different from\nmine, usually it’s because they have different experiences around that thing\nfrom me.\nSo I asked on Mastodon:\ntoday I’m thinking about the tradeoffs of using git rebase a bit. I think\nthe goal of rebase is to have a nice linear commit history, which is something\nI like.\nbut what are the costs of using rebase? what problems has it caused for you\nin practice? I’m really only interested in specific bad experiences you’ve had\nhere – not opinio…",
@@ -1963,6 +1973,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=7343",
+          "author": "Cory Doctorow",
+          "description": "Today's links Big Telco's fury over FCC plan to infuse telecoms policy with facts: Dickey Amendments for everything. Hey look at this: Delights to delectate. This day in history: 2003, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Big Telco's fury over FCC plan to infuse telecoms policy with facts (permalink) Reality has a distinct anti-conservative bias, but conservatives have an answer: when the facts don't support your policies, just get different facts. Who needs evidence-based policy when you can have policy-based evidence? Take gun violence. Conservatives tell us that \"an armed society is a polite society,\" which means that the more guns you have, the less gun violence you'll experience. To prevent reality from …",
+          "link": "https://pluralistic.net/2023/11/10/digital-redlining/",
+          "publishedOn": "2023-11-10T16:37:20.000Z",
+          "wordCount": 3145,
+          "title": "Pluralistic: Big Telco's fury over FCC plan to infuse telecoms policy with facts (10 Nov 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=7335",
           "author": "Cory Doctorow",
@@ -2518,6 +2538,86 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/11/coyote-vs-acme-movie-shelved",
+          "author": null,
+          "description": "I just found out today that they made a movie version of Ian Frazier’s classic 1990 New Yorker piece Coyote V. Acme, in which Wile E. Coyote files a product liability lawsuit against the Acme Company.\nMr. Coyote states that on December 13th he received of Defendant via parcel post one Acme Rocket Sled. The intention of Mr. Coyote was to use the Rocket Sled to aid him in pursuit of his prey. Upon receipt of the Rocket Sled Mr. Coyote removed it from its wooden shipping crate and, sighting his prey in the distance, activated the ignition. As Mr. Coyote gripped the handlebars, the Rocket Sled accelerated with such sudden and precipitate force as to stretch Mr. Coyote’s forelimbs to a length of fifty feet. Subsequently, the rest of Mr. Coyote’s body shot forward with a violent jolt, causing se…",
+          "link": "https://kottke.org/23/11/coyote-vs-acme-movie-shelved",
+          "publishedOn": "2023-11-10T22:39:08.000Z",
+          "wordCount": 557,
+          "title": "Coyote Vs. Acme Movie! Shelved?!",
+          "imageUrl": "https://kottke.org/plus/misc/images/thats-all-folks.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/11/0043420-i-built-a-trading-bot",
+          "author": null,
+          "description": "“I built a trading bot that buys stocks that are being bought by politicians. It is up 20% since it launched in May 2022. The market has been flat during the same time period.” More here.",
+          "link": "https://kottke.org/23/11/0043420-i-built-a-trading-bot",
+          "publishedOn": "2023-11-10T21:52:27.000Z",
+          "wordCount": 187,
+          "title": "&#8220;I built a trading bot that buys stocks that are being bought...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/11/choosing-a-leader-wisely",
+          "author": null,
+          "description": "From Octavia Bulter’s Parable of the Talents:\nChoose your leaders with wisdom and forethought.\n\n\nContext and more from The Marginalian. (via @rowanwhite & kelsey)\nTags: books · Octavia Butler · Parable of the Talents",
+          "link": "https://kottke.org/23/11/choosing-a-leader-wisely",
+          "publishedOn": "2023-11-10T21:13:28.000Z",
+          "wordCount": 255,
+          "title": "Choosing a Leader Wisely",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/11/0043419-sponge-cities-are-reimagi",
+          "author": null,
+          "description": "“Sponge cities are reimagined urban areas that imitate the natural water cycle. They prioritize water management through green infrastructure like parks, wetlands, rain gardens, bioswales, and green roofs.”",
+          "link": "https://kottke.org/23/11/0043419-sponge-cities-are-reimagi",
+          "publishedOn": "2023-11-10T19:55:00.000Z",
+          "wordCount": 175,
+          "title": "&#8220;Sponge cities are reimagined urban areas that imitate the natural water cycle....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/11/the-art-of-dried-flowers-and-large-scale-embroidery",
+          "author": null,
+          "description": "Many thanks to Colossal for introducing me to artist Olga Prinku, who forages for flowers, branches, and other natural elements and incorporates them into large-scale embroidery works. Quite lovely. Check out more of her art on her website and on Instagram.\nTags: art · embroidery · Olga Prinku",
+          "link": "https://kottke.org/23/11/the-art-of-dried-flowers-and-large-scale-embroidery",
+          "publishedOn": "2023-11-10T19:03:21.000Z",
+          "wordCount": 198,
+          "title": "The Art of Dried Flowers and Large-Scale Embroidery",
+          "imageUrl": "https://kottke.org/plus/misc/images/olga-prinku-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/11/0043415-congrats-to-david-werthei",
+          "author": null,
+          "description": "Congrats to David Wertheimer on 25 years of blogging. “My blog is still here, still publishing new content, at the same URL as when it was launched, and with almost all of the archives intact and readable.”",
+          "link": "https://kottke.org/23/11/0043415-congrats-to-david-werthei",
+          "publishedOn": "2023-11-10T17:55:50.000Z",
+          "wordCount": 185,
+          "title": "Congrats to David Wertheimer on 25 years of blogging. &#8220;My blog is...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/11/deaf-people-show-us-how-to-swear-in-sign-language",
+          "author": null,
+          "description": "From a series The Cut did called Deaf People Tell, a group of deaf people teach us how to swear and say bad words in sign language. I really liked the one for “bullshit”. Probably NSFW.\nTags: American Sign Language · deafness · language · NSFW · swearing · video",
+          "link": "https://kottke.org/23/11/deaf-people-show-us-how-to-swear-in-sign-language",
+          "publishedOn": "2023-11-10T15:28:55.000Z",
+          "wordCount": 198,
+          "title": "Deaf People Show Us How to Swear in Sign Language",
+          "imageUrl": "https://i.ytimg.com/vi/pdOU3czs-NY/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/11/0043413-dan-cederholm-teamed-up-w",
+          "author": null,
+          "description": "Dan Cederholm teamed up with Wilco to make a typeface based on a vintage sign in the band’s studio. “Hey, does Wilco need a font?”",
+          "link": "https://kottke.org/23/11/0043413-dan-cederholm-teamed-up-w",
+          "publishedOn": "2023-11-10T14:50:25.000Z",
+          "wordCount": 173,
+          "title": "Dan Cederholm teamed up with Wilco to make a typeface based on...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/23/11/0043412-tom-hanks-and-steven-spie",
           "author": null,
