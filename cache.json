@@ -6,6 +6,16 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=8016",
+          "author": "Chris Heilmann",
+          "description": "The other day I got an email from somebody who took one of my developer tools courses and he said he found a website that cannot be debugged. So I looked, found a nasty script and show you how to work around that one. You can watch the video on YouTube or read on… I […]",
+          "link": "https://christianheilmann.com/2023/11/14/cracking-a-developer-tools-killer-script/",
+          "publishedOn": "2023-11-14T07:23:02.000Z",
+          "wordCount": null,
+          "title": "Cracking a “Developer Tools Killer” script…",
+          "imageUrl": null
+        },
+        {
           "id": "https://christianheilmann.com/?p=8008",
           "author": "Chris Heilmann",
           "description": "For a quiz, I am playing with Pangrams, sentences that have all 26 letters of the alphabet in them. Using Set and some RegEx it is a one-liner in JavaScript to validate them (split into two lines for readability…). const isPangram = s => new Set( s.toLowerCase().replace(/[^a-z]/g, ‘’).split(‘’) ).size === 26; I’ve also put together […]",
@@ -850,6 +860,26 @@
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
         {
+          "id": "https://text-mode.tumblr.com/post/733993024702562304",
+          "author": null,
+          "description": "vhs-80:\nOn https://instagram.com/vhs80s",
+          "link": "https://text-mode.tumblr.com/post/733993024702562304",
+          "publishedOn": "2023-11-14T19:31:36.000Z",
+          "wordCount": 997,
+          "title": "vhs-80:\n\nOn https://instagram.com/vhs80s",
+          "imageUrl": "https://64.media.tumblr.com/a5dc64cce888abfc03070cafacdff04f/tumblr_nmgp2l0VFc1scd4jmo1_640.jpg"
+        },
+        {
+          "id": "https://text-mode.tumblr.com/post/733979639076339712",
+          "author": null,
+          "description": "sanderfocus:\n\n\n\n\nPETSCII portrait for Hein! A small gift for his 50th birthday.",
+          "link": "https://text-mode.tumblr.com/post/733979639076339712",
+          "publishedOn": "2023-11-14T15:58:50.000Z",
+          "wordCount": 979,
+          "title": "PETSCII portrait for Hein! A small gift for his 50th birthday.",
+          "imageUrl": "https://64.media.tumblr.com/tumblr_s43tznNoHs1v3hngt_frame1.jpg"
+        },
+        {
           "id": "https://text-mode.tumblr.com/post/733902380750503936",
           "author": null,
           "description": "ffffffound:\nTania Mouraud How Can You Sleep? -  this isn’t happiness™",
@@ -1458,16 +1488,6 @@
           "wordCount": 965,
           "title": "Untitled",
           "imageUrl": "https://64.media.tumblr.com/71293c158793f520afa8f9918bbef520/d42405abc0a5867b-dc/s1280x1920/ad6c4bb84e71243bf4adad9b54d0fd60647e464a.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/728553375673827328",
-          "author": null,
-          "description": "Hot Tea’s yarn-on-fence works. More here.",
-          "link": "https://text-mode.tumblr.com/post/728553375673827328",
-          "publishedOn": "2023-09-15T18:30:42.000Z",
-          "wordCount": 907,
-          "title": "Hot Tea&rsquo;s yarn-on-fence works. More here.",
-          "imageUrl": "https://64.media.tumblr.com/66033edc9ad86398296c1d2ef8502aa4/420becd4d9318c44-c4/s640x960/31dc30029d16b149b75d9a3cf6771ce694a38a50.gif"
         }
       ]
     },
@@ -1643,6 +1663,16 @@
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
+        {
+          "id": "https://jvns.ca/blog/2023/11/11/notes-on-nix-flakes/",
+          "author": null,
+          "description": "I’ve been using nix for about 9 months now.\nFor all of that time I’ve been steadfastly ignoring flakes, but everyone keeps\nsaying that flakes are great and the best way to use nix, so I decided to try\nto figure out what the deal is with them.\nI found it very hard to find simple examples of flake files and I ran into a\nfew problems that were very confusing to me, so I wanted to write down some very\nbasic examples and some of the problems I ran into in case it’s helpful to\nsomeone else who’s getting started with flakes.\nFirst, let’s talk about what a flake is a little.\nflakes are self-contained\nEvery explanation I’ve found of flakes explains them in terms of other nix\nconcepts (“flakes simplify nix usability”, “flakes are processors of Nix\ncode”). Personally I really needed a way to think ab…",
+          "link": "https://jvns.ca/blog/2023/11/11/notes-on-nix-flakes/",
+          "publishedOn": "2023-11-14T09:06:07.000Z",
+          "wordCount": 3127,
+          "title": "Some notes on nix flakes",
+          "imageUrl": null
+        },
         {
           "id": "https://jvns.ca/blog/2023/11/10/how-cherry-pick-and-revert-work/",
           "author": null,
@@ -1833,6 +1863,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=7372",
+          "author": "Cory Doctorow",
+          "description": "Today's links The conservative movement is cracking up: It's not just Trumpism – antitrust is an emerging fracture line. Hey look at this: Delights to delectate. This day in history: 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The conservative movement is cracking up (permalink) Politics always requires coalitions. In parliamentary democracies, the coalitions are visible, when they come together to form the government. In a dictatorship, the coalitions are hidden to everyone except infighting princelings and courtiers (until a general or minister is executed, exiled or thrown in prison.) In a two-party system, the coalitions are inside the parties – not quite as explicit as the coalition governments in a multi…",
+          "link": "https://pluralistic.net/2023/11/14/when-youve-lost-the-fedsoc/",
+          "publishedOn": "2023-11-14T19:22:40.000Z",
+          "wordCount": 3991,
+          "title": "Pluralistic: The conservative movement is cracking up (14 Nov 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=7364",
           "author": "Cory Doctorow",
@@ -2337,16 +2377,6 @@
           "wordCount": 4302,
           "title": "Pluralistic: Greenwashing set Canada on fire (16 Sept 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=5887",
-          "author": "Cory Doctorow",
-          "description": "Today's links Bill Willingham puts his graphic novel series \"Fables\" into the public domain: A magnificent table flip (but the devil is in the details). Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Bill Willingham puts his graphic novel series \"Fables\" into the public domain (permalink) It's been 21 years since Bill Willingham launched Fables, his 110-issue, wide-ranging, delightful and brilliantly crafted author-owned comic series that imagines that the folkloric figures of the world's fairytales are real people, who live in a secret society whose internal struggles and intersections with the mundane world are the source of endless drama. Fabl…",
-          "link": "https://pluralistic.net/2023/09/15/fairy-use-tales/",
-          "publishedOn": "2023-09-15T17:52:20.000Z",
-          "wordCount": 5521,
-          "title": "Pluralistic: Bill Willingham puts his graphic novel series \"Fables\" into the public domain (15 Sept 2023)",
-          "imageUrl": null
         }
       ]
     },
@@ -2388,6 +2418,106 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/11/something-weird-happens-when-you-keep-squeezing",
+          "author": null,
+          "description": "This fascinating and well-produced video from Vox introduces us to what happens to materials that are put under vast amounts of pressure — I’m talking center of the Sun pressures upwards of 100 billion atmospheres. Scientists are just beginning their explorations of the strange things that happen “when you keep squeezing”.\nTens of thousands of kilometers below Jupiter’s surface, physicists think hydrogen will go through another change becoming a shiny conductor of electricity. It’s thought that a lot of Jupiter is made up of this metallic hydrogen.\nWe think of high energy density materials as completely inverting the periodic table. So your metals become transparent and your transparent materials become metals. And all these gases become solids…\n\n\nWater transforms into ice that conducts electricity: Black, Hot Ice May Be Nature’s Most Common Form of Water. Hydrogen can be compressed into a metal: Metallic hydrogen finally made in lab at mind-boggling pressure. Sodium can turn clear: Metal Discovered To Become Transparent Under High Pressure. So weird and interesting!\nTags: science · video",
+          "link": "https://kottke.org/23/11/something-weird-happens-when-you-keep-squeezing",
+          "publishedOn": "2023-11-14T23:30:45.000Z",
+          "wordCount": 321,
+          "title": "&#8220;Something Weird Happens When You Keep Squeezing&#8221;",
+          "imageUrl": "https://i.ytimg.com/vi/NqabT21d8VM/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/11/0043441-jamelle-bouie-donald-trum",
+          "author": null,
+          "description": "Jamelle Bouie: “Donald Trump is telling us, loud and clear, that he wants to end American democracy as we know it.”",
+          "link": "https://kottke.org/23/11/0043441-jamelle-bouie-donald-trum",
+          "publishedOn": "2023-11-14T22:29:08.000Z",
+          "wordCount": 168,
+          "title": "Jamelle Bouie: &#8220;Donald Trump is telling us, loud and clear, that he...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/11/0043440-michael-bierut-not-everyt",
+          "author": null,
+          "description": "Michael Bierut: “Not everything is design. But design is about everything. So do yourself a favor: be ready for anything.” Also true of writing, photography, etc. Reminds me of this Dale Carnegie quote: “To be interesting, be interested.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/23/11/0043440-michael-bierut-not-everyt",
+          "publishedOn": "2023-11-14T21:50:18.000Z",
+          "wordCount": 616,
+          "title": "Michael Bierut: &#8220;Not everything is design. But design is about everything. So...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/11/some-alien-shit-going-down-at-stonehenge",
+          "author": null,
+          "description": "I love this otherworldly shot of Stonehenge from Reuben Wu. It’s a variant of his cover image for the August 2022 issue of National Geographic. The monument is lit from above and behind with drones, which created some logistical issues:\n[We] had to call the Royal Air Force each time we launched the drone, and spent months getting permits and approval to do this. Even then we still couldn’t fly it above the stone circle (for fear of damaging the stones).\n\n\nThey had to call the RAF because the monument is in military airspace. This short behind-the-scenes video has more:\nWhile we were making these images, something that was always very present was the sound of the traffic on the nearby A303 highway, and I was certain that passing motorists would have been alarmed to see what looked like an alien spacecraft flitting around above the 5,000 year old megalith.\n\n\n \nTags: drones · photography · Reuben Wu · Stonehenge\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/23/11/some-alien-shit-going-down-at-stonehenge",
+          "publishedOn": "2023-11-14T21:16:45.000Z",
+          "wordCount": 677,
+          "title": "Some Alien Shit Going Down at Stonehenge",
+          "imageUrl": "https://kottke.org/plus/misc/images/stonehenge-wu.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/11/0043429-9-viral-phrases-that-expl",
+          "author": null,
+          "description": "9 viral phrases that explain China’s work culture, including “let it rot”, “involution”, “lying flat”, and the philosophy of “run”.\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/23/11/0043429-9-viral-phrases-that-expl",
+          "publishedOn": "2023-11-14T20:20:28.000Z",
+          "wordCount": 669,
+          "title": "9 viral phrases that explain China&#8217;s work culture, including &#8220;let it rot&#8221;,...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/11/0043422-oh-wow-james-burke-is",
+          "author": null,
+          "description": "Oh wow, James Burke is back with a new season of his pioneering series Connections. “Connections was the science documentary series for compulsively curious people who weren’t necessarily drawn to more traditional science and nature documentaries.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/23/11/0043422-oh-wow-james-burke-is",
+          "publishedOn": "2023-11-14T18:07:17.000Z",
+          "wordCount": 584,
+          "title": "Oh wow, James Burke is back with a new season of his...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/11/0043438-twelve-things-your-colleg",
+          "author": null,
+          "description": "Twelve Things Your College Freshman Son Will Never Say During His Weekly Call Home. The first one on the list is so quietly devastating: “How are you?”\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/23/11/0043438-twelve-things-your-colleg",
+          "publishedOn": "2023-11-14T17:10:27.000Z",
+          "wordCount": 546,
+          "title": "Twelve Things Your College Freshman Son Will Never Say During His Weekly...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/11/0043437-americans-trust-in-scient",
+          "author": null,
+          "description": "Americans’ Trust in Scientists, Positive Views of Science Continue to Decline. “Among both Democrats and Republicans, trust in scientists is lower than before the pandemic.”",
+          "link": "https://kottke.org/23/11/0043437-americans-trust-in-scient",
+          "publishedOn": "2023-11-14T16:35:07.000Z",
+          "wordCount": 173,
+          "title": "Americans&#8217; Trust in Scientists, Positive Views of Science Continue to Decline. &#8220;Among...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/11/why-star-wars-was-dubbed-into-the-navajo-language",
+          "author": null,
+          "description": "About ten years ago, after a long campaign by Navajo Nation member Manny Wheeler, Disney/Lucasfilm released the first Star Wars movie dubbed into the Navajo language. In this clip from the PBS series Native America, the Navajo version of Star Wars is shown at a drive-in in Arizona, with some of the voice actors who contributed to the dub in attendance. Some Navajo feel a strong connection to some of the themes in the movie:\nThe Force and the universe is all interconnected. When you put that in the Navajo language, especially for an elder to hear that, they’re going to just be thinking, like, yeah, of course. It’s not just a movie. That’s stuff we really believe.\n\n\nYou can watch the Navajo version of Star Wars on Disney+ (Finding Nemo too!) and catch the second season of Native America on PBS. Oh, and here’s a movie poster for the film:\n\nTags: language · movies · Native Americans · PBS · Star Wars · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/23/11/why-star-wars-was-dubbed-into-the-navajo-language",
+          "publishedOn": "2023-11-14T15:56:36.000Z",
+          "wordCount": 683,
+          "title": "Why Star Wars Was Dubbed Into the Navajo Language",
+          "imageUrl": "https://kottke.org/plus/misc/images/navajo-star-wars.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/11/0043432-i-enjoyed-reading-david-m",
+          "author": null,
+          "description": "I enjoyed reading David Marchese’s interview with literary agent Andrew Wylie and found it worthwhile but Wylie himself is not my cup of tea.\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/23/11/0043432-i-enjoyed-reading-david-m",
+          "publishedOn": "2023-11-14T15:16:16.000Z",
+          "wordCount": 542,
+          "title": "I enjoyed reading David Marchese&#8217;s interview with literary agent Andrew Wylie and...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/23/11/a-45-billion-year-video-timeline-of-earth-in-60-minutes",
           "author": null,
@@ -6017,36 +6147,6 @@
           "wordCount": 209,
           "title": "Well Wishes My Love, Your Love",
           "imageUrl": "https://img.youtube.com/vi/Ggylz9Axtn0/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/09/movies-that-began-as-short-films",
-          "author": null,
-          "description": "Deadline's Robert Lang compiled a bunch of short films (that you can watch for free online) that were later developed into feature-length films like Reservoir Dogs, Marcel the Shell with Shoes On, Boogie Nights, Bottle Rocket, Napoleon Dynamite, and District 9. \nFor instance, here's Quentin Tarantino's original Reservoir Dogs:\n\nWes Anderson's original Bottle Rocket:\n\nThe original short version of Marcel the Shell with Shoes On:\n\nPeluca, upon which Napoleon Dynamite was based:\n\nThe Dirk Diggler Story, the short film by PT Anderson on which Boogie Nights was based:\n\nTags: Boogie Nights · Bottle Rocket · lists · Marcel The Shell With Shoes On · movies · Napoleon Dynamite · Reservoir Dogs · video",
-          "link": "https://kottke.org/23/09/movies-that-began-as-short-films",
-          "publishedOn": "2023-09-15T19:46:13.000Z",
-          "wordCount": 256,
-          "title": "Movies That Began As Short Films",
-          "imageUrl": "https://img.youtube.com/vi/77rbAzLZUiw/0.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/09/the-brassicas-will-continue-until-morale-improves",
-          "author": null,
-          "description": "For a recent XKCD, Randall Munroe celebrates the the magical brassica oleracea plant.\nBrassica oleracea is a species of plant that, like the apple, has a number of different cultivars. But these cultivars differ widely from each other: cabbage, kale, broccoli, brussels sprouts, kohlrabi, collard greens, and cauliflower.\n\n\nWelcome, redwood, to the family, er, species.\nTags: food · science · XKCD",
-          "link": "https://kottke.org/23/09/the-brassicas-will-continue-until-morale-improves",
-          "publishedOn": "2023-09-15T17:58:54.000Z",
-          "wordCount": 216,
-          "title": "The Brassicas Will Continue Until Morale Improves",
-          "imageUrl": "https://kottke.org/plus/misc/images/xkcd-brassica.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/09/ai-assisted-language-translation-of-speaking-including-mouth-movements",
-          "author": null,
-          "description": "Ok, this is a little bit bonkers: HeyGen's Video Translate tool will convert videos of people speaking into videos of them speaking one of several different languages (incl. English, Spanish, Hindi, and French) with matching mouth movements. Check out their brief demo of Marques Brownlee speaking Spanish & Tim Cook speaking Hindi or this video of a YouTuber trying it out:\n\nThe results are definitely in the category of \"indistinguishable from magic\".\nTags: artificial intelligence · HeyGen · language · video",
-          "link": "https://kottke.org/23/09/ai-assisted-language-translation-of-speaking-including-mouth-movements",
-          "publishedOn": "2023-09-15T14:38:35.000Z",
-          "wordCount": 236,
-          "title": "AI-Assisted Language Translation of Speaking, Including Mouth Movements",
-          "imageUrl": "https://img.youtube.com/vi/AACmqiiJJS4/0.jpg"
         }
       ]
     },
