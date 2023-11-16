@@ -429,6 +429,16 @@
       "siteUrl": "https://remysharp.com",
       "articles": [
         {
+          "id": "my-experience-of-ffconf-2023",
+          "author": null,
+          "description": "The event ran last Friday and (thankfully) as usual, going by all the people I spoke to, it was a huge success.\nIn previous years I've been asked \"what's the theme this year\", and as far as I can remember, I've never had a theme. Though this year (as I've seen in others) a theme did emerge by itself: the theme of connecting people.",
+          "link": "https://remysharp.com/2023/11/15/my-experience-of-ffconf-2023",
+          "publishedOn": "2023-11-15T00:00:00.000Z",
+          "wordCount": 1225,
+          "title": "My experience of ffconf 2023 [blog]",
+          "imageUrl": "https://remysharp.com/images/ffconf2023.jpg"
+        },
+        {
           "id": "default-layouts-in-11ty",
           "author": null,
           "description": "I found this really hard to determine in the 11ty documentation, so I've added it here for future reference.\nIf you want a default layout for all pages there's a few ways you can do this (which is why I found it hard to determine from the docs), but since I almost always have an .eleventy.js configuration file, putting it there is (what I think) the cleanest solution:\n// assumes that `base.njk` lives inside _includes/\neleventyConfig.addGlobalData('layout', 'base.njk');",
@@ -859,6 +869,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/734083589155815424",
+          "author": null,
+          "description": "lordnkon:\nthe eternal knot as Amiga ASCII",
+          "link": "https://text-mode.tumblr.com/post/734083589155815424",
+          "publishedOn": "2023-11-15T19:31:05.000Z",
+          "wordCount": 1006,
+          "title": "lordnkon:\n\nthe eternal knot as Amiga ASCII",
+          "imageUrl": "https://64.media.tumblr.com/3e1eaccc4b95e1b051cae28b81c28fe8/tumblr_nrqmb3l6tQ1u12njso1_1280.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/733993024702562304",
           "author": null,
@@ -1478,16 +1498,6 @@
           "wordCount": 1000,
           "title": "text-mode:\n\nGoogle-translated Taiwaneese ANSI art.Sources: 1, 2,...",
           "imageUrl": "https://64.media.tumblr.com/47a2f9b471c6a853982e5649f879cc87/tumblr_olfoqhDTCg1rpiyaso1_1280.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/728643969387511808",
-          "author": null,
-          "description": "By Mavenmob, 2019-2023.",
-          "link": "https://text-mode.tumblr.com/post/728643969387511808",
-          "publishedOn": "2023-09-16T18:30:39.000Z",
-          "wordCount": 965,
-          "title": "Untitled",
-          "imageUrl": "https://64.media.tumblr.com/71293c158793f520afa8f9918bbef520/d42405abc0a5867b-dc/s1280x1920/ad6c4bb84e71243bf4adad9b54d0fd60647e464a.jpg"
         }
       ]
     },
@@ -1863,6 +1873,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=7383",
+          "author": "Cory Doctorow",
+          "description": "Today's links Big Train managers earn bonuses for greenlighting unsafe cars: The blood-curdling near-misses we don't hear about. Hey look at this: Delights to delectate. This day in history: 2003, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Big Train managers earn bonuses for greenlighting unsafe cars (permalink) Almost no one knows this, but last June, a 90-car train got away from its crew in Hernando, MO, rolling three miles through two public crossings, a ghost train that included 47 potentially explosive propane cars. The \"bomb train\" neither crashed nor derailed, which meant that Grenada Railroad/Gulf & Atantic didn't have to report it. This is just one of many terrifying near-misses that are increasingly commo…",
+          "link": "https://pluralistic.net/2023/11/15/safety-third/",
+          "publishedOn": "2023-11-15T22:04:39.000Z",
+          "wordCount": 3214,
+          "title": "Pluralistic: Big Train managers earn bonuses for greenlighting unsafe cars (15 Nov 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=7372",
           "author": "Cory Doctorow",
@@ -2367,16 +2387,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=5902",
-          "author": "Cory Doctorow",
-          "description": "Today's links Greenwashing set Canada on fire: A generation of idealistic Canadian kids broke their backs every summer \"planting thousands of blowtorches a day.\" Hey look at this: Delights to delectate. This day in history: 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Greenwashing set Canada on fire (permalink) As a teenager growing up in Ontario, I always envied the kids who spent their summers tree planting; they'd come back from the bush in September, insect-chewed and leathery, with new muscle, incredible stories, thousands of dollars, and a glow imparted by the knowledge that they'd made a new forest with their own blistered hands. I was too unathletic to follow them into the bush, but I spent my summers d…",
-          "link": "https://pluralistic.net/2023/09/16/murder-offsets/",
-          "publishedOn": "2023-09-16T17:20:59.000Z",
-          "wordCount": 4302,
-          "title": "Pluralistic: Greenwashing set Canada on fire (16 Sept 2023)",
-          "imageUrl": null
         }
       ]
     },
@@ -2418,6 +2428,96 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/11/philip-glass-solo",
+          "author": null,
+          "description": "Philip Glass is coming out with a new album early next year called Philip Glass Solo. It was recorded during the early days of the pandemic at Glass’s home on his piano.\nThis is my piano, the instrument on which most of the music was written. It’s also the same room where I have worked for decades in the middle of the energy which New York City itself has brought to me. The listener may hear the quiet hum of New York in the background or feel the influence of time and memory that this space affords. To the degree possible, I made this record to invite the listener in.\n\n\nThe video above is a lovely clip of him, in his home, playing one of the songs off the album.\nTags: music · Philip Glass · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/23/11/philip-glass-solo",
+          "publishedOn": "2023-11-15T23:43:40.000Z",
+          "wordCount": 649,
+          "title": "Philip Glass Solo",
+          "imageUrl": "https://i.ytimg.com/vi/JthWP-eeDXM/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/11/0043451-cant-think-cant-remember-",
+          "author": null,
+          "description": "Can’t Think, Can’t Remember: More Americans Say They’re in a Cognitive Fog. “Adults in their 20s, 30s and 40s are driving the trend. Researchers point to long Covid as a major cause.”",
+          "link": "https://kottke.org/23/11/0043451-cant-think-cant-remember-",
+          "publishedOn": "2023-11-15T22:35:20.000Z",
+          "wordCount": 179,
+          "title": "Can&#8217;t Think, Can&#8217;t Remember: More Americans Say They&#8217;re in a Cognitive Fog....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/11/0043449-a-jazzy-reimagining-of-sn",
+          "author": null,
+          "description": "A jazzy reimagining of Snoop Dogg & Pharrell’s Drop It Like It’s Hot by Kassa Overall.\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/23/11/0043449-a-jazzy-reimagining-of-sn",
+          "publishedOn": "2023-11-15T21:45:48.000Z",
+          "wordCount": 538,
+          "title": "A jazzy reimagining of Snoop Dogg & Pharrell&#8217;s Drop It Like It&#8217;s...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/11/the-talk",
+          "author": null,
+          "description": "Darrin Bell, who won the 2019 Pulitzer Prize for Editorial Cartooning, wrote a graphic novel called The Talk about the conversation that parents have to have with their Black children in America about police, racism, and safety.\nDarrin Bell was six years old when his mother told him he couldn’t have a realistic water gun. She said she feared for his safety, that police tend to think of little Black boys as older and less innocent than they really are. Through evocative illustrations and sharp humor, Bell examines how The Talk shaped intimate and public moments from childhood to adulthood.\n\n\nDeirdre Sugiuchi talked with Bell about the book for Electric Lit. I think this question & answer was particularly interesting:\nDS: In this book, you’re delving into this dichotomy between how your Blac…",
+          "link": "https://kottke.org/23/11/the-talk",
+          "publishedOn": "2023-11-15T20:59:50.000Z",
+          "wordCount": 589,
+          "title": "The Talk",
+          "imageUrl": "https://kottke.org/plus/misc/images/the-talk-book.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/11/a-stranger-quest-david-rumseys-marvelous-map-collection",
+          "author": null,
+          "description": "The David Rumsey Map Collection is one of the true gems of the web: a massive trove of maps & related images from over 40 years of collecting.\nRumsey began building a collection of North and South American historical maps and related cartographic materials in 1980. Eventually the collection expanded to include historical maps of the entire world, from the 16th to the 21st centuries. His collection, with more than 200,000 maps, is one of the largest private map collections in the United States.\n\n\nItalian filmmaker Andrea Gatopoulos has made a documentary film called A Stranger Quest about Rumsey’s passion for maps. Here’s the trailer:\n\nAnd because I can’t resist, a few maps from the collection:\n\n\n\n\nThat last one is a screenshot of the results for “lighthouse” from their new Text-On-Maps search capability.\nTags: A Stranger Quest · Andrea Gatopoulos · David Rumsey · maps · movies · trailers · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/23/11/a-stranger-quest-david-rumseys-marvelous-map-collection",
+          "publishedOn": "2023-11-15T18:48:29.000Z",
+          "wordCount": 665,
+          "title": "A Stranger Quest: David Rumsey&#8217;s Marvelous Map Collection",
+          "imageUrl": "https://kottke.org/plus/misc/images/rumsey-maps-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/11/0043446-the-protagonist-is-never-",
+          "author": null,
+          "description": "The Protagonist Is Never in Control. “I hate him. It’s a plea at first, and then simply a statement, calcifying into the primary fact of your life. The bad man will define the rest of your childhood.”",
+          "link": "https://kottke.org/23/11/0043446-the-protagonist-is-never-",
+          "publishedOn": "2023-11-15T18:03:57.000Z",
+          "wordCount": 188,
+          "title": "The Protagonist Is Never in Control. &#8220;I hate him. It&#8217;s a plea...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/11/0043445-from-far-out-magazine-the",
+          "author": null,
+          "description": "From Far Out magazine, the 100 best movies of the 1970s. Jaws, Barry Lyndon, and Taxi Driver all make the top 10 but The Godfather, Network, and The Conversation do not. So much on here I haven’t seen though!\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/23/11/0043445-from-far-out-magazine-the",
+          "publishedOn": "2023-11-15T17:35:41.000Z",
+          "wordCount": 578,
+          "title": "From Far Out magazine, the 100 best movies of the 1970s. Jaws,...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/11/0043444-data-on-police-domestic-v",
+          "author": null,
+          "description": "“Data on police domestic violence…suggests that police officers in the United States perpetrate acts of domestic violence at roughly 15 times the rate of the general population.”",
+          "link": "https://kottke.org/23/11/0043444-data-on-police-domestic-v",
+          "publishedOn": "2023-11-15T17:05:44.000Z",
+          "wordCount": 172,
+          "title": "&#8220;Data on police domestic violence&#8230;suggests that police officers in the United States...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/11/do-you-say-tennis-shoes-gym-shoes-or-sneakers",
+          "author": null,
+          "description": "This is a map of how people in different geographic regions of the US refer to athletic footwear, courtesy of Josh Katz, author of Speaking American: How Y’all, Youse, and You Guys Talk and co-creator of that NY Times dialect quiz that went viral 10 years ago.\n\nGrowing up in northern Wisconsin, we said “tennis shoes” or “tennies” most of the time (even though very little actual tennis was being played) and “gym shoes” less often. I hadn’t really heard of “sneakers” as a kid and never used it. (Shoes for sneaking? Huh?) My kids were born in NYC and they give me shit every time I tell them to put their tennies on. 🤷‍♂️\nWhat do you call athletic shoes? Tennies? Sneakers? Kicks? Trainers? Gym shoes? Some other weird thing? (via @dens)\nTags: books · geography · Josh Katz · language · maps · Speaking American · USA\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/23/11/do-you-say-tennis-shoes-gym-shoes-or-sneakers",
+          "publishedOn": "2023-11-15T16:21:13.000Z",
+          "wordCount": 1803,
+          "title": "Do You Say &#8220;Tennis Shoes&#8221;, &#8220;Gym Shoes&#8221;, or &#8220;Sneakers&#8221;?",
+          "imageUrl": "https://kottke.org/plus/misc/images/sneakers-tennis-gym-shoes.jpg"
+        },
         {
           "id": "https://kottke.org/23/11/something-weird-happens-when-you-keep-squeezing",
           "author": null,
