@@ -172,6 +172,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2856/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/materials_scientists.png\" title=\"If a materials scientist gives you a present, always ask whether regifting will incur any requirements for Federal paperwork.\" alt=\"If a materials scientist gives you a present, always ask whether regifting will incur any requirements for Federal paperwork.\" />",
+          "link": "https://xkcd.com/2856/",
+          "publishedOn": "2023-11-17T00:00:00.000Z",
+          "wordCount": 191,
+          "title": "Materials Scientists",
+          "imageUrl": "https://imgs.xkcd.com/comics/materials_scientists_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2855/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/empiricism.png\" title=\"The problems started with my resolution next year to reject temporal causality.\" alt=\"The problems started with my resolution next year to reject temporal causality.\" />",
@@ -410,16 +420,6 @@
           "wordCount": 195,
           "title": "Urban Planning Opinion Progression",
           "imageUrl": "https://imgs.xkcd.com/comics/urban_planning_opinion_progression_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2831/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/xkcd_phone_flip.png\" title=\"Theranos partnership: Sorry, we know, but we signed the contract back before all the stuff and the lawyers say we can't back out, so just try to keep your finger away from the bottom of the phone.\" alt=\"Theranos partnership: Sorry, we know, but we signed the contract back before all the stuff and the lawyers say we can't back out, so just try to keep your finger away from the bottom of the phone.\" />",
-          "link": "https://xkcd.com/2831/",
-          "publishedOn": "2023-09-20T00:00:00.000Z",
-          "wordCount": 193,
-          "title": "xkcd Phone Flip",
-          "imageUrl": "https://imgs.xkcd.com/comics/xkcd_phone_flip_2x.png"
         }
       ]
     },
@@ -884,6 +884,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/734355355331690496",
+          "author": null,
+          "description": "text-mode:\nThe Monotype (1890) that seems to have been used for text graphics.",
+          "link": "https://text-mode.tumblr.com/post/734355355331690496",
+          "publishedOn": "2023-11-18T19:30:41.000Z",
+          "wordCount": 1008,
+          "title": "text-mode:\n\nThe Monotype (1890) that seems to have been used for...",
+          "imageUrl": "https://64.media.tumblr.com/f45eb487cf9f8ca9d4e5a4ab80d50b3b/tumblr_ntp1mlYFt81rpiyaso1_1280.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/734264766392041472",
           "author": null,
@@ -1493,26 +1503,6 @@
           "wordCount": 1012,
           "title": "By Seo Hyojung, 2023. Gifs made from videos on&nbsp;his Instagram.",
           "imageUrl": "https://64.media.tumblr.com/cd335706f14ee6ffaa4af4565217ae0d/ef183ab8bff5e2e1-cb/s1280x1920/f6036627709c46375449af46640e13fc05ab9950.gif"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/728915774072324096",
-          "author": null,
-          "description": "Made by Leo, 2021-2023.",
-          "link": "https://text-mode.tumblr.com/post/728915774072324096",
-          "publishedOn": "2023-09-19T18:30:52.000Z",
-          "wordCount": 1012,
-          "title": "Made by&nbsp;Leo, 2021-2023.",
-          "imageUrl": "https://64.media.tumblr.com/f4c7bc8608abd968829146f6e4a2dd30/95e29e592aa64aa8-89/s1280x1920/e6ff5a50b2d81917b9edd53cf0850ba94cb82242.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/728898248553676800",
-          "author": null,
-          "description": "sasj:\n\n\nGeometric Animations / 230918",
-          "link": "https://text-mode.tumblr.com/post/728898248553676800",
-          "publishedOn": "2023-09-19T13:52:18.000Z",
-          "wordCount": 997,
-          "title": "Geometric Animations / 230918",
-          "imageUrl": "https://64.media.tumblr.com/b032c294235a934143c6ecee1a2efa5d/8ea6fe17e4b6948d-6b/s1280x1920/03b1ad825e666bc91adc81cd5a49f1c014763eb5.gif"
         }
       ]
     },
@@ -1784,106 +1774,6 @@
           "wordCount": 8168,
           "title": "Understanding Layout Algorithms",
           "imageUrl": "https://www.joshwcomeau.com/images/og-understanding-layout-algorithms.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/react/common-beginner-mistakes/",
-          "author": "Josh W. Comeau",
-          "description": "I used to teach React at a local coding bootcamp, and I noticed that students kept getting tripped up by the same handful of things. In this article, we're going to go through 9 of the most dastardly gotchas. I'll show you how to solve these common problems, so you can avoid a lot of potential frustration!",
-          "link": "https://www.joshwcomeau.com/react/common-beginner-mistakes/",
-          "publishedOn": "2023-09-19T23:19:14.000Z",
-          "wordCount": 8695,
-          "title": "Common Beginner Mistakes with React",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-common-beginner-mistakes.jpg"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/react/data-binding/",
-          "author": "Josh W. Comeau",
-          "description": "As developers, we don't like working with forms, but they're a critical part of most web applications! In this tutorial, you'll learn exactly how to wire up all of the different form controls in React. Never forget how to data-bind a checkbox or radio button again!",
-          "link": "https://www.joshwcomeau.com/react/data-binding/",
-          "publishedOn": "2023-09-19T23:19:14.000Z",
-          "wordCount": 10701,
-          "title": "Data Binding in React",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-data-binding.jpg"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/react/next-level-playground/",
-          "author": "Josh W. Comeau",
-          "description": "No developer blog or technical documentation site is complete without an interactive code playground. The CodeSandbox team recently released a wonderful tool called Sandpack, to help us create these live-updating code editors. In this tutorial, I'll show you how I use it on this blog.",
-          "link": "https://www.joshwcomeau.com/react/next-level-playground/",
-          "publishedOn": "2023-09-19T23:19:14.000Z",
-          "wordCount": 7363,
-          "title": "A World-Class Code Playground with Sandpack",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-next-level-playground.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/react/usememo-and-usecallback/",
-          "author": "Josh W. Comeau",
-          "description": "What's the deal with these two hooks?! Lots of devs find them confusing, for a whole host of reasons. In this tutorial, we'll dig deep and understand what they do, why they're useful, and how to get the most out of them.",
-          "link": "https://www.joshwcomeau.com/react/usememo-and-usecallback/",
-          "publishedOn": "2023-09-19T23:19:14.000Z",
-          "wordCount": 11066,
-          "title": "Understanding useMemo and useCallback",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-usememo-and-usecallback.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/react/why-react-re-renders/",
-          "author": "Josh W. Comeau",
-          "description": "In React, we don't update the DOM directly, we tell React what we want the DOM to look like, and React tackles the rest. But how exactly does it do this? In this tutorial, we'll unpack exactly when and why React re-renders, and how we can use this information to optimize the performance of our React apps.",
-          "link": "https://www.joshwcomeau.com/react/why-react-re-renders/",
-          "publishedOn": "2023-09-19T23:19:14.000Z",
-          "wordCount": 8266,
-          "title": "Why React Re-Renders",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-why-react-re-renders.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/javascript/statements-vs-expressions/",
-          "author": "Josh W. Comeau",
-          "description": "One of the most foundational things to understand about JavaScript is that programs are made up of statements, and statements have slots for expressions. In this blog post, we'll dig into how these two structures work, and see how building an intuition about this can help us solve practical problems.",
-          "link": "https://www.joshwcomeau.com/javascript/statements-vs-expressions/",
-          "publishedOn": "2023-09-19T23:19:14.000Z",
-          "wordCount": 4121,
-          "title": "Statements Vs. Expressions",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-statements-vs-expressions.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/react/file-structure/",
-          "author": "Josh W. Comeau",
-          "description": "How should we structure components and other files in our React apps? I've iterated my way to a solution I'm really happy with. In this blog post, I'll share how it works, what the tradeoffs are, and how I mitigate them.",
-          "link": "https://www.joshwcomeau.com/react/file-structure/",
-          "publishedOn": "2023-09-19T23:19:14.000Z",
-          "wordCount": 7344,
-          "title": "Delightful React File/Directory Structure",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-file-structure.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/react/announcing-use-sound-react-hook/",
-          "author": "Josh W. Comeau",
-          "description": "By and large, using the web is a visual experience. This is in terrible contrast to mobile apps, which interact with three of our human senses (sight, sound, and touch, through haptic feedback). I just released a library to make it easy to add sound to your React app, and I make the case that you should consider using it!",
-          "link": "https://www.joshwcomeau.com/react/announcing-use-sound-react-hook/",
-          "publishedOn": "2023-09-19T23:19:14.000Z",
-          "wordCount": 4306,
-          "title": "Announcing “use-sound”, a React Hook for Sound Effects",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-announcing-use-sound-react-hook.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/react/server-components/",
-          "author": "Josh W. Comeau",
-          "description": "This year, the React team unveiled something they've been quietly researching for years: an official way to run React components exclusively on the server. This is a significant paradigm shift, and it's caused a whole lot of confusion in the React community. In this tutorial, we'll explore this new world, and build an intuition for how it works, and how we can take advantage of it.",
-          "link": "https://www.joshwcomeau.com/react/server-components/",
-          "publishedOn": "2023-09-19T23:19:14.000Z",
-          "wordCount": 12774,
-          "title": "Making Sense of React Server Components",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-server-components.jpg"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/react/the-perils-of-rehydration/",
-          "author": "Josh W. Comeau",
-          "description": "A surprisingly-common misconception can lead to big rendering issues that are difficult to debug. This deep-dive tutorial examines how React and Gatsby can be used to pre-render content, and how we can work around the constraints to build dynamic, personalized web apps.",
-          "link": "https://www.joshwcomeau.com/react/the-perils-of-rehydration/",
-          "publishedOn": "2023-09-19T23:19:14.000Z",
-          "wordCount": 6441,
-          "title": "The Perils of Hydration",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-the-perils-of-rehydration.png"
         }
       ]
     },
@@ -1898,6 +1788,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=7426",
+          "author": "Cory Doctorow",
+          "description": "Today's links Pinkdrunk Linkdump: Your semi-regular weekend declaration of link bankruptcy. This day in history: 2003, 2008, 2013, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Pinkdrunk Linkdump (permalink) Happy Saturday! As is so often the case, I have finished the week with more stray links that I can fit into my blog, so it's time for a linkdump post, in which an assorted assortment is assembled. This is my tenth such linkdump – here are the previous installments: https://pluralistic.net/2023/11/05/variegated/#nein While nostalgia is a toxic impulse (h/t John Hodgman), there's no denying that there once existed an old, good web, and that it has given way to the enshitternet. I don't want to bring the old, good web back, but …",
+          "link": "https://pluralistic.net/2023/11/18/collectanea/",
+          "publishedOn": "2023-11-18T15:41:19.000Z",
+          "wordCount": 5345,
+          "title": "Pluralistic: Pinkdrunk Linkdump (18 Nov 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=7418",
           "author": "Cory Doctorow",
@@ -6387,26 +6287,6 @@
           "wordCount": 262,
           "title": "Tycho's Burning Man Sunrise Set for 2023",
           "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/09/jet-line-voicemails-from-the-flight-path",
-          "author": null,
-          "description": "Talk to anyone who lives near the flight path of Burlington, Vermont's airport and it won't be too long until they are complaining to you about the F-35 jets that routinely disrupt their lives. The loud, expensive weaponry arrived in the state in 2019 and have upset and angered residents ever since.\nA sudden roar announced that the military jets were taking to the sky again.\nJulia Parise's son had developed a routine for whenever this happened: He would look to his mother and assess whether it was \"one of them\" — the F-35 fighter jets that had become such a constant presence in his young life — before asking her to cover his ears. He might do it himself, recalling aloud her reassurances as he did: \"They won't hurt me. They won't hurt me.\"\n\n\nTo capture the community unrest created by what o…",
-          "link": "https://kottke.org/23/09/jet-line-voicemails-from-the-flight-path",
-          "publishedOn": "2023-09-19T20:35:00.000Z",
-          "wordCount": 594,
-          "title": "Jet Line: Voicemails from the Flight Path",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/09/the-process-tee",
-          "author": null,
-          "description": "When you start something new, how do you know where you're going to end up? Most of the time, you don't — you stumble around for awhile, exploring uncertainly until, slowly, things start to make sense. That messy journey is all part of the process. Designer Damien Newman and I have teamed up with Cotton Bureau to make some t-shirts featuring his Design Squiggle that illustrate this untidy pattern of creativity. The Process Tee is available in two varieties — light design on dark fabric and dark design on light fabric — and 50% of the profits will be donated to a charitable organization (more on that below).\nNewman originally came up with the Design Squiggle (aka The Process of Design Squiggle) more than 20 years ago to explain how design worked to some of his clients. Here's his descriptio…",
-          "link": "https://kottke.org/23/09/the-process-tee",
-          "publishedOn": "2023-09-19T16:07:33.000Z",
-          "wordCount": 576,
-          "title": "The Process Tee",
-          "imageUrl": "https://kottke.org/plus/misc/images/squiggle-tshirts.jpg"
         }
       ]
     },
