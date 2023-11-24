@@ -421,16 +421,6 @@
           "wordCount": 191,
           "title": "Book Podcasts",
           "imageUrl": "https://imgs.xkcd.com/comics/book_podcasts_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2833/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/lying.png\" title=\"I was, at least at the start of this disastrous game night, your friend.\" alt=\"I was, at least at the start of this disastrous game night, your friend.\" />",
-          "link": "https://xkcd.com/2833/",
-          "publishedOn": "2023-09-25T00:00:00.000Z",
-          "wordCount": 189,
-          "title": "Lying",
-          "imageUrl": "https://imgs.xkcd.com/comics/lying_2x.png"
         }
       ]
     },
@@ -885,6 +875,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/734808357209341952",
+          "author": null,
+          "description": "text-mode:\nPaintings, prints, etc by Andrew Kalkov, Ukraine.",
+          "link": "https://text-mode.tumblr.com/post/734808357209341952",
+          "publishedOn": "2023-11-23T19:30:57.000Z",
+          "wordCount": 999,
+          "title": "text-mode:\n\nPaintings, prints, etc by Andrew Kalkov, Ukraine.",
+          "imageUrl": "https://64.media.tumblr.com/4ece070ade316a3d9130aa7b2732717d/tumblr_nt1cvfAkjN1rpiyaso1_640.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/734717810241142784",
           "author": null,
@@ -1494,16 +1494,6 @@
           "wordCount": 1002,
           "title": "text-mode:\n\n理世Ｘ智乃 by 迴旋踢. Original ANSI + Google-translated.",
           "imageUrl": "https://64.media.tumblr.com/78d89dc4a7c406a8007f7da8cd76d036/tumblr_olfo8w07KY1rpiyaso1_1280.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/729368752265871360",
-          "author": null,
-          "description": "Examples from clankill3r’s P5 Terminal Graphics, which uses the terminal to show things programmed in Processing.",
-          "link": "https://text-mode.tumblr.com/post/729368752265871360",
-          "publishedOn": "2023-09-24T18:30:46.000Z",
-          "wordCount": 837,
-          "title": "Examples from clankill3r&rsquo;s&nbsp;P5 Terminal Graphics, which uses the terminal to show things programmed&hellip;",
-          "imageUrl": "https://64.media.tumblr.com/984cd95fc1eaba97a91b6b581b84f3de/117a186a4d1cf236-2b/s1280x1920/4023ed969ecce7922858ff55be82d068463159a3.gif"
         }
       ]
     },
@@ -1690,6 +1680,16 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2023/11/23/branches-intuition-reality/",
+          "author": null,
+          "description": "Hello! I’ve been working on writing a zine about git so I’ve been thinking\nabout git branches a lot. I keep hearing from people that they find the way git\nbranches work to be counterintuitive. It got me thinking:  what might an\n“intuitive” notion of a branch be, and how is it different from how git\nactually works?\nSo in this post I want to briefly talk about\nan intuitive mental model I think many people have\nhow git actually represents branches internally (“branches are a pointer to a commit” etc)\nhow the “intuitive model” and the real way it works are actually pretty closely related\nsome limits of the intuitive model and why it might cause problems\nNothing in this post is remotely groundbreaking so I’m going to try to keep it pretty short.\nan intuitive model of a branch\nOf course, people …",
+          "link": "https://jvns.ca/blog/2023/11/23/branches-intuition-reality/",
+          "publishedOn": "2023-11-23T09:51:27.000Z",
+          "wordCount": 2102,
+          "title": "git branches: intuition & reality",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2023/11/11/notes-on-nix-flakes/",
           "author": null,
           "description": "I’ve been using nix for about 9 months now.\nFor all of that time I’ve been steadfastly ignoring flakes, but everyone keeps\nsaying that flakes are great and the best way to use nix, so I decided to try\nto figure out what the deal is with them.\nI found it very hard to find simple examples of flake files and I ran into a\nfew problems that were very confusing to me, so I wanted to write down some very\nbasic examples and some of the problems I ran into in case it’s helpful to\nsomeone else who’s getting started with flakes.\nFirst, let’s talk about what a flake is a little.\nflakes are self-contained\nEvery explanation I’ve found of flakes explains them in terms of other nix\nconcepts (“flakes simplify nix usability”, “flakes are processors of Nix\ncode”). Personally I really needed a way to think ab…",
@@ -1819,6 +1819,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=7473",
+          "author": "Cory Doctorow",
+          "description": "Today's links The FTC has Big Pharma's number: The sleazy game of Orange Book evergreening. Hey look at this: Delights to delectate. This day in history: 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The FTC has Big Pharma's number (permalink) The most consistent bright spot in the dark swirl of US politics is the competence of the Biden Administration's progressive enforcers: people like Rohit Chopra, Jonathan Kanter and Lina Khan, who keep demonstrating just how far a good administrator can go. Anyone can have a vision, but knowing how to execute is the difference between hot air and real change: https://pluralistic.net/2023/10/23/getting-stuff-done/#praxis Take a minute to contrast Biden's administrators with Trump…",
+          "link": "https://pluralistic.net/2023/11/23/everorangeing/",
+          "publishedOn": "2023-11-23T15:43:09.000Z",
+          "wordCount": 3427,
+          "title": "Pluralistic: The FTC has Big Pharma's number (23 Nov 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=7448",
           "author": "Cory Doctorow",
@@ -2359,6 +2369,16 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/11/0043510-whoa-the-2nd-gen-apple-ai",
+          "author": null,
+          "description": "Whoa, the 2nd-gen Apple AirPods Pro are on sale at Amazon for $190…that’s $60 off and $10 cheaper than I’ve ever seen them for sale. These are the new USB-C ones too.",
+          "link": "https://kottke.org/23/11/0043510-whoa-the-2nd-gen-apple-ai",
+          "publishedOn": "2023-11-23T15:45:48.000Z",
+          "wordCount": 181,
+          "title": "Whoa, the 2nd-gen Apple AirPods Pro are on sale at Amazon for...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/23/11/ministry-of-sounds-the-annual---millennium-edition",
           "author": null,
