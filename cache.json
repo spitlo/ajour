@@ -174,6 +174,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2865/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/the_wrong_stuff.png\" title=\"The phantom found Edward Everett Hale a century too early; by the time we invented satellites, the specifics of his 'brick moon' proposal were dismissed as science fiction.\" alt=\"The phantom found Edward Everett Hale a century too early; by the time we invented satellites, the specifics of his 'brick moon' proposal were dismissed as science fiction.\" />",
+          "link": "https://xkcd.com/2865/",
+          "publishedOn": "2023-12-08T00:00:00.000Z",
+          "wordCount": 221,
+          "title": "the Wrong Stuff",
+          "imageUrl": "https://imgs.xkcd.com/comics/the_wrong_stuff_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2864/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/compact_graphs.png\" title=\"People may complain about readability, but even with jpeg compression, extracting the data points is usually computationally feasible if there aren't too many of them.\" alt=\"People may complain about readability, but even with jpeg compression, extracting the data points is usually computationally feasible if there aren't too many of them.\" />",
@@ -812,6 +822,26 @@
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
         {
+          "id": "https://text-mode.tumblr.com/post/736167302400196608",
+          "author": null,
+          "description": "text-mode:\nConversion of this made in Playscii by drumcan.",
+          "link": "https://text-mode.tumblr.com/post/736167302400196608",
+          "publishedOn": "2023-12-08T19:30:48.000Z",
+          "wordCount": 963,
+          "title": "text-mode:\n\nConversion of this made in Playscii by drumcan.",
+          "imageUrl": "https://64.media.tumblr.com/7848760a3cf2f200948a234e930657a5/tumblr_no5kxe3Rwj1rpiyaso1_640.png"
+        },
+        {
+          "id": "https://text-mode.tumblr.com/post/736143120462462976",
+          "author": null,
+          "description": "text-mode:\nFrom Veronica Karlsson’s 1999 ASCII Advent Calendar.",
+          "link": "https://text-mode.tumblr.com/post/736143120462462976",
+          "publishedOn": "2023-12-08T13:06:27.000Z",
+          "wordCount": 992,
+          "title": "text-mode:\n\nFrom Veronica Karlsson’s 1999 ASCII Advent Calendar.",
+          "imageUrl": "https://64.media.tumblr.com/a24a3dfd004ca6b43acaf3c697a0af4d/tumblr_o6jo8lue101rpiyaso1_500.png"
+        },
+        {
           "id": "https://text-mode.tumblr.com/post/736076740542218240",
           "author": null,
           "description": "text-mode:\nTurning tags into tag clouds. Mathieu Tremblin, 2010-2015. More examples here.",
@@ -1420,16 +1450,6 @@
           "wordCount": 974,
           "title": "text-mode:\n\nAn Atari 2080ST in ASCII by Valkyrie in the...",
           "imageUrl": "https://64.media.tumblr.com/bfa3ba3339b10b8994c091c1c5e1de2e/tumblr_o7d72t4ZwG1rpiyaso1_1280.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/730727703182999552",
-          "author": null,
-          "description": "text-mode:\nTerminal graphics has a new technique to convert pixel images to text. It combines ANSI shading, Unicode blocks and true color and the results can be displayed in a terminal (given the right font and terminal software). More details here.\nMade by Tim C. Schröder, 2016.",
-          "link": "https://text-mode.tumblr.com/post/730727703182999552",
-          "publishedOn": "2023-10-09T18:30:42.000Z",
-          "wordCount": 1069,
-          "title": "text-mode:\n\nTerminal graphics has a new technique to convert...",
-          "imageUrl": "https://64.media.tumblr.com/7b1cbf61cea563a72478269159842d81/tumblr_o7q5anpsy31rpiyaso3_400.png"
         }
       ]
     },
@@ -1735,6 +1755,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=7581",
+          "author": "Cory Doctorow",
+          "description": "Today's links \"If buying isn't owning, piracy isn't stealing\": When Big Content makes the paid version *worse* than the free one. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2018, 2022. Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading \"If buying isn't owning, piracy isn't stealing\" (permalink) 20 years ago, I got in a (friendly) public spat with Chris Anderson, who was then the editor in chief of Wired. I'd publicly noted my disappointment with glowing Wired reviews of DRM-encumbered digital devices, prompting Anderson to call me unrealistic for expecting the magazine to condemn gadgets for their DRM: https://longtail.typepad.com/the_long_tail/2004/12/is_drm_evil.html I replied in public, telling him that he…",
+          "link": "https://pluralistic.net/2023/12/08/playstationed/",
+          "publishedOn": "2023-12-08T14:17:37.000Z",
+          "wordCount": 3337,
+          "title": "Pluralistic: \"If buying isn't owning, piracy isn't stealing\" (08 Dec 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=7576",
           "author": "Cory Doctorow",
@@ -2260,6 +2290,96 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/23/12/ez-ama",
+          "author": null,
+          "description": "Thanks for all the Qs in response to my post yesterday! Here are my answers. Also, here’s Jason’s great AMA if anyone missed it.\nHow long have you been knitting? How did you learn? Also do you have a favorite project/technique? I’ve fallen in love with cables.\n\nI taught myself in 2015 using YouTube, which is great because you can replay the videos endlessly. \nAside from the Pengweeno cardigan and Sawtooth mittens I’ve already mentioned, I make a ton of these Classic Ribbed Hats from Purl Soho (above), which is probably a boring answer, but they’re great to give as gifts. \nWhat is the most active conversation in your group texts right now?\n\nIn my friends’ Discord, we’re praising Lucy’s Christmas playlist. \nHow do you not run out of things to write? How does any one-person creative unit not …",
+          "link": "https://kottke.org/23/12/ez-ama",
+          "publishedOn": "2023-12-08T21:00:50.000Z",
+          "wordCount": 1587,
+          "title": "Ask Me Anything: Edith Z.",
+          "imageUrl": "https://kottke.org/plus/misc/images/hats-ez2.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/12/0043588-since-im-here-i-might",
+          "author": null,
+          "description": "Since I’m here I might as well beat the drum about an opinion I had five years ago and maintain to this day: “Why Would Any Man Not Want to Be Bald?”\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/23/12/0043588-since-im-here-i-might",
+          "publishedOn": "2023-12-08T20:30:16.000Z",
+          "wordCount": 705,
+          "title": "Since I&#8217;m here I might as well beat the drum about an...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/12/0043595-using-tweezers-carefully-",
+          "author": null,
+          "description": "“Using tweezers, carefully remove the lines and now your cake is revealed.” Here are instructions for making a snowy tennis-court cake circled with rosemary-sprig pine trees.\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/23/12/0043595-using-tweezers-carefully-",
+          "publishedOn": "2023-12-08T19:10:44.000Z",
+          "wordCount": 547,
+          "title": "&#8220;Using tweezers, carefully remove the lines and now your cake is revealed.&#8221;...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/12/0043594-court-data-revealed-that-",
+          "author": null,
+          "description": "“…court data revealed that the percentage of divorces leading to equal joint custody — in which time with each parent is split 50–50 — rose from just 2 percent in 1980 to 35 percent in 2010.” Wow, as a child from a joint custody situation in the late ’80s, I didn’t realize it was so rare. That’s from a new Atlantic story: “America Isn’t Ready for the Two-Household Child.”\n(But also: “To be fair, constructing surveys that capture the complexities of joint custody is difficult. Anecdotally, we know that such arrangements tend to be highly fluid, shifting throughout the year during summer breaks and holidays, and over time as kids age.”)\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/23/12/0043594-court-data-revealed-that-",
+          "publishedOn": "2023-12-08T19:00:49.000Z",
+          "wordCount": 631,
+          "title": "&#8220;&#8230;court data revealed that the percentage of divorces leading to equal joint...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/12/graham-smith-appreciation-post",
+          "author": null,
+          "description": "One of the weirder holiday songs I like is “Maybe This Christmas,” by musician Graham Smith, a.k.a. Kleenex Girl Wonder. It has some profanities at the beginning, but by the end it does really get me into the spirit. \nSkate Zone by Kleenex Girl Wonder\nAt first I didn’t like Smith’s music, which my husband plays in the car constantly, but then something clicked. I also like the video he and his band made for their 2016 song “Plight.” (It’s a shot-by-shot remake of Rihanna’s “Stay” and is probably NSFW but not intensely.)\nKleenex Girl Wonder has tons more music on Bandcamp. It’s kind of confusing, honestly. But my husband recommends their 2015 “Getting Started” album as a good entry point, if you’re feeling the holiday song. \nTags: graham smith · kleenex girl wonder · music · music videos\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/23/12/graham-smith-appreciation-post",
+          "publishedOn": "2023-12-08T17:00:29.000Z",
+          "wordCount": 674,
+          "title": "Cool Old Songs: Graham Smith, a.k.a. Kleenex Girl Wonder",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/12/jogging-stroller-comic",
+          "author": null,
+          "description": "From 2022.\n\n\n \nTags: comics\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/23/12/jogging-stroller-comic",
+          "publishedOn": "2023-12-08T16:20:53.000Z",
+          "wordCount": 598,
+          "title": "Jogging Stroller (Comic)",
+          "imageUrl": "https://kottke.org/plus/misc/images/jogging-stroller-1.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/12/asmr-recommendations-moonlight-cottage-ecuador-live",
+          "author": null,
+          "description": "Ecuador Live (above left) and Moonlight Cottage (above right). Doña Esperanza from Ecuador Live has maybe the most peaceful voice in the world, and Diane from Moonlight Cottage is on another level with her sets and art direction. But mostly it’s just her voice, too. (I thought this one might be too weird, but it was not.) If there’s an ASMR Review newsletter out there, I’d love to know about it. \nFor what it’s worth, I’m not sure I get the signature ASMR “tingles,” but these videos do put me to sleep.  \nTags: asmr · youtube\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/23/12/asmr-recommendations-moonlight-cottage-ecuador-live",
+          "publishedOn": "2023-12-08T15:15:29.000Z",
+          "wordCount": 705,
+          "title": "ASMR Recommendations: Ecuador Live & Moonlight Cottage",
+          "imageUrl": "https://kottke.org/plus/misc/images/asmr1.jpg"
+        },
+        {
+          "id": "https://kottke.org/23/12/0043590-i-saw-a-ton-of",
+          "author": null,
+          "description": "In the summer, I saw a ton of people linking to this Outside essay about attending a grueling destination wedding deep in the Guatemalan jungle, but at the time I skipped it. I’m glad I finally read it, this morning, compelled by its appearance on Longreads’ “Best Personal Essays of 2023” list. Lives up to the hype! \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/23/12/0043590-i-saw-a-ton-of",
+          "publishedOn": "2023-12-08T14:40:19.000Z",
+          "wordCount": 581,
+          "title": "In the summer, I saw a ton of people linking to this...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/23/12/0043589-here-is-a-very-pleasing",
+          "author": null,
+          "description": "Here is a very pleasing drawing of a piece of bread. And the story behind it, but mostly the bread. [via wordloaf] Prints here. \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/23/12/0043589-here-is-a-very-pleasing",
+          "publishedOn": "2023-12-08T14:06:14.000Z",
+          "wordCount": 548,
+          "title": "Here is a very pleasing drawing of a piece of bread. And...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/23/12/diary-comics-nov-9",
           "author": null,
