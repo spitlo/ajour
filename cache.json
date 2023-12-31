@@ -92,6 +92,16 @@
       "siteUrl": "https://there.oughta.be/",
       "articles": [
         {
+          "id": "https://there.oughta.be/a/37c3-talk",
+          "author": null,
+          "description": "Just a quick update on two things that happened recently without being a new projekt: I gave a talk at the 37th Chaos Communication Congress about how the GB Interceptor can reconstruct the Game Boy’s screen content by listening in on the memory bus. The recording is available at media.ccc.de. Click the image to see the video on media.ccc.de. Because some asked for the music from my recent video about the wooden Game Boy (some as in a handful, I am not under the delusion that the world was waiting for my video soundtrack) I have uploaded it as a pure mp3 as well as making it available on common streaming services. You can find more details on there.oughta.be/music.",
+          "link": "https://there.oughta.be/a/37c3-talk",
+          "publishedOn": "2023-12-29T23:00:00.000Z",
+          "wordCount": 285,
+          "title": "There oughta be a 37c3 talk and music",
+          "imageUrl": "https://there.oughta.be/assets/images/2023-12-30/thumb.jpg"
+        },
+        {
           "id": "https://there.oughta.be/a/wooden-game-boy",
           "author": null,
           "description": "You made me create a wooden Game Boy shell. Yes, you made me do it. After I got myself a CNC machine a while back I just made a wooden Game Boy cartridge to get to know the machine, but social media wanted more. So, I made a Game Boy out of walnut wood. Click the image to see the video on youtube.com. You can see the process in the video without much explanation. If you want to learn about the toolpaths, my reasoning behind a few things, lessons learned and what you should avoid if you try this yourself, read this blog post instead and check out my design files on GitHub.",
@@ -391,16 +401,6 @@
           "wordCount": 191,
           "title": "Doctor's Office",
           "imageUrl": "https://imgs.xkcd.com/comics/doctors_office_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2849/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/under_the_stars.png\" title=\"If you live in Los Angeles (around 33°52'N, roughly the latitude of Hermosa Beach) the black hole in V404 Cygni passes over you each day. On Christmas Day it will be directly overhead around 2pm.\" alt=\"If you live in Los Angeles (around 33°52'N, roughly the latitude of Hermosa Beach) the black hole in V404 Cygni passes over you each day. On Christmas Day it will be directly overhead around 2pm.\" />",
-          "link": "https://xkcd.com/2849/",
-          "publishedOn": "2023-11-01T00:00:00.000Z",
-          "wordCount": 193,
-          "title": "Under the Stars",
-          "imageUrl": "https://imgs.xkcd.com/comics/under_the_stars_2x.png"
         }
       ]
     },
@@ -810,6 +810,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/738160435942080512",
+          "author": null,
+          "description": "text-mode:\nPhotos of buildings. Automonuments by Niz Rozenberg.",
+          "link": "https://text-mode.tumblr.com/post/738160435942080512",
+          "publishedOn": "2023-12-30T19:30:49.000Z",
+          "wordCount": 997,
+          "title": "text-mode:\n\nPhotos of buildings. Automonuments by Niz Rozenberg.",
+          "imageUrl": "https://64.media.tumblr.com/2aaff67ab2bb44fa2c229f40f1cb765d/tumblr_nig7bepHfQ1rpiyaso1_500.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/738069822517198848",
           "author": null,
@@ -1539,16 +1549,6 @@
           "wordCount": 1027,
           "title": "text-mode:\n\nMusic ads for Grace Jones and The Pogues on Oracle...",
           "imageUrl": "https://64.media.tumblr.com/510b849a3208b5e02c59d07fa4ead888/tumblr_o0r0f3K1qx1rpiyaso1_540.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/732724632603459584",
-          "author": null,
-          "description": "text-mode:\nAmiga ASCII by Lord Nikon.",
-          "link": "https://text-mode.tumblr.com/post/732724632603459584",
-          "publishedOn": "2023-10-31T19:31:03.000Z",
-          "wordCount": 1011,
-          "title": "text-mode:\n\nAmiga ASCII by Lord Nikon.",
-          "imageUrl": "https://64.media.tumblr.com/50df5e7864d57616288b49359a5efc9b/tumblr_nz1cj56CXr1u12njso1_1280.png"
         }
       ]
     },
@@ -1706,16 +1706,6 @@
           "wordCount": 1613,
           "title": "Why we’re renaming ‘Firefox accounts’ to ‘Mozilla accounts’",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/11/image_2_-1080x720.png"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=73563",
-          "author": "Jenifer Boscacci",
-          "description": "Web browsing is a pervasive part of modern life, and the quality of the experience directly affects the quality of your day. When your tasks are disrupted by slow or unresponsive pages, it is frustrating and distracting. As such, performance is a key component of Mozilla’s vision for the web. To deliver against our vision […]\nThe post Quick as a Fox: Firefox keeps getting faster appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/products/quick-as-a-fox-firefox-keeps-getting-faster/",
-          "publishedOn": "2023-10-31T16:58:22.000Z",
-          "wordCount": 1473,
-          "title": "Quick as a Fox: Firefox keeps getting faster",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2021/06/fx_website_meta-image_tips-tricks_alt-04-1200x800.png"
         }
       ]
     },
@@ -1772,16 +1762,6 @@
           "publishedOn": "2023-11-06T07:45:21.000Z",
           "wordCount": 3203,
           "title": "git rebase: what can go wrong?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2023/11/01/confusing-git-terminology/",
-          "author": null,
-          "description": "Hello! I’m slowly working on explaining git. One of my biggest problems is that\nafter almost 15 years of using git, I’ve become very used to git’s\nidiosyncracies and it’s easy for me to forget what’s confusing about it.\nSo I asked people on Mastodon:\nwhat git jargon do you find confusing? thinking of writing a blog post that explains some of git’s weirder terminology: “detached HEAD state”, “fast-forward”, “index/staging area/staged”, “ahead of ‘origin/main’ by 1 commit”, etc\nI got a lot of GREAT answers and I’ll try to summarize some of them here.  Here’s a list of the terms:\nHEAD and “heads”\n“detached HEAD state”\n“ours” and “theirs” while merging or rebasing\n“Your branch is up to date with ‘origin/main’”\nHEAD^, HEAD~ HEAD^^, HEAD~~, HEAD^2, HEAD~2\n.. and …\n“can be fast-forwarded”\n“refere…",
-          "link": "https://jvns.ca/blog/2023/11/01/confusing-git-terminology/",
-          "publishedOn": "2023-11-01T08:45:26.000Z",
-          "wordCount": 3861,
-          "title": "Confusing git terminology",
           "imageUrl": null
         }
       ]
@@ -2297,16 +2277,6 @@
           "publishedOn": "2023-11-01T16:11:51.000Z",
           "wordCount": 3883,
           "title": "Pluralistic: Social Security is class war, not intergenerational conflict (01 Nov 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=7267",
-          "author": "Cory Doctorow",
-          "description": "Today's links The impoverished imagination of neoliberal climate \"solutions\": \"All of the above\" is a highly selective proposition. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The impoverished imagination of neoliberal climate \"solutions\" (permalink) There is only one planet in the known universe capable of sustaining human life, and it is rapidly becoming uninhabitable by humans. Clearly, this warrants bold action – but which bold action should we take? After half a century of denial and disinformation, the business lobby has seemingly found climate religion and has joined the choir, but they have their own unique hymn: this crisis is so dire, they…",
-          "link": "https://pluralistic.net/2023/10/31/carbon-upsets/",
-          "publishedOn": "2023-10-31T15:32:31.000Z",
-          "wordCount": 3524,
-          "title": "Pluralistic: The impoverished imagination of neoliberal climate \"solutions\" (31 Oct 2023)",
           "imageUrl": null
         }
       ]
@@ -5758,106 +5728,6 @@
           "wordCount": 182,
           "title": "This map shows the 50 countries in the world where you can...",
           "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/10/0043349-phil-plait-what-happens-t",
-          "author": null,
-          "description": "Phil Plait: What Happens to a Werewolf on the Moon? “The transformation wouldn’t last a mere terrestrial night but an entire lunar day, which is two weeks in duration. The carnage would be literally unearthly.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/10/0043349-phil-plait-what-happens-t",
-          "publishedOn": "2023-10-31T21:16:33.000Z",
-          "wordCount": 556,
-          "title": "Phil Plait: What Happens to a Werewolf on the Moon? &#8220;The transformation...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/10/0043350-stop-before-you-close-thi",
-          "author": null,
-          "description": "Stop, Before You Close This Tab (or Any Others)… “Think of your browser like an ongoing autobiography. Why would you ever delete it?”\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/10/0043350-stop-before-you-close-thi",
-          "publishedOn": "2023-10-31T20:38:20.000Z",
-          "wordCount": 861,
-          "title": "Stop, Before You Close This Tab (or Any Others)&#8230; &#8220;Think of your...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/10/the-history-of-the-electric-guitar-solo",
-          "author": null,
-          "description": "YouTube channel Polyphonic (whose videos I’ve featured before) has taken on an ambitious project: tracing the history of the electric guitar solo from its origins in blues and country music in the American South all the way up to the present day. The series is called Axe To Grind and the first three episodes are available on YouTube (the first two are embedded above). People are sharing their favorite early electric guitar players in the comments of the first video.\nThe series is also available on the subscription-only Nebula — episodes appear there first and the music excerpts are longer because Nebula doesn’t trample all over creators’ fair use rights like YT does. (via open culture)\nTags: music · videos\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/10/the-history-of-the-electric-guitar-solo",
-          "publishedOn": "2023-10-31T19:55:32.000Z",
-          "wordCount": 642,
-          "title": "The History of the Electric Guitar Solo",
-          "imageUrl": "https://i.ytimg.com/vi/Ic68ruvwecM/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/10/0043342-look-im-tired-of-all",
-          "author": null,
-          "description": "Look, I’m tired of all things Trump too, but for some reason, but this improv of Lord of the Rings’ Sauron as Trump by Brennan Mulligan had me rolling on the floor. The cadence is perfect.",
-          "link": "https://kottke.org/23/10/0043342-look-im-tired-of-all",
-          "publishedOn": "2023-10-31T19:04:19.000Z",
-          "wordCount": 185,
-          "title": "Look, I&#8217;m tired of all things Trump too, but for some reason,...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/10/fungi-web-of-life",
-          "author": null,
-          "description": "Fungi: Web of Life is an upcoming IMAX documentary on mushrooms & their fungi brethren narrated by Björk and presented by Merlin Sheldrake.\nJoin acclaimed British biologist, Dr. Merlin Sheldrake, on a quest to find an incredibly precious blue mushroom, against the backdrop of Tasmania’s ancient Tarkine rainforest. Merlin will show us some the grandest and strangest organisms ever discovered, showcased through jaw-dropping time-lapse cinematography, in a landscape largely unchanged from the time of the dinosaurs. Fungi have important lessons to teach humanity about survival through cooperation. Indeed, these incredible lifeforms may hold the key to solving some of humanity’s most urgent problems. With millions more species to discover, our journey into the secret world of fungi has only just begun.\n\n\nSheldrake is the author of Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures.\nTags: fungi · Fungi: Web of Life · movies · trailers · video",
-          "link": "https://kottke.org/23/10/fungi-web-of-life",
-          "publishedOn": "2023-10-31T17:35:13.000Z",
-          "wordCount": 291,
-          "title": "Fungi: Web of Life",
-          "imageUrl": "https://i.ytimg.com/vi/YCf7YywIBZ8/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/10/0043334-in-1952-a-group-of",
-          "author": null,
-          "description": "In 1952, a group of three ‘stars’ vanished — astronomers still can’t find them. A photographic plate taken at 8:52 pm shows a cluster of three bright stars. In a plate at 9:45 pm, they’re gone.",
-          "link": "https://kottke.org/23/10/0043334-in-1952-a-group-of",
-          "publishedOn": "2023-10-31T16:52:56.000Z",
-          "wordCount": 184,
-          "title": "In 1952, a group of three &#8216;stars&#8217; vanished — astronomers still can&#8217;t...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/10/0043341-the-main-problem-with-ped",
-          "author": null,
-          "description": "The Main Problem With Pedestrian Deaths Isn’t the Pedestrians. “Our transportation infrastructure exists to tell drivers that they have pride of place on our roads and streets and that their convenience is more important than any other consideration.”",
-          "link": "https://kottke.org/23/10/0043341-the-main-problem-with-ped",
-          "publishedOn": "2023-10-31T15:41:39.000Z",
-          "wordCount": 184,
-          "title": "The Main Problem With Pedestrian Deaths Isn&#8217;t the Pedestrians. &#8220;Our transportation infrastructure...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/10/trailer-for-stamped-from-the-beginning",
-          "author": null,
-          "description": "Based on the bestselling book Stamped from the Beginning: The Definitive History of Racist Ideas in America by Ibram X. Kendi (also available as a graphic novel), this documentary explores the mythology of American racism and how it still shapes the world today. The director is Oscar-winner Roger Ross Williams and in preparing for the film, he decided that only Black women would appear in it:\n“When we started looking at historians and scholars, we came up with a long list. I noticed the pattern that most of the people doing the work around racism in America were Black women,” Williams told Netflix. “I asked them in pre-interviews, ‘Why do you do this work?’ And many of them said the same thing — that they had no choice. This was their experience and their life. And if they’re going to dedicate their life to something, it’s going to be about changing and understanding racism in America because they can’t escape racism in America. I said to everyone, ‘We’re going to have only Black women in this film.’ It was an important statement to make.\n\n\nStamped From the Beginning comes out on Netflix on November 20.\nTags: books · Ibram X. Kendi · movies · Stamped From the Beginning · trailers · video",
-          "link": "https://kottke.org/23/10/trailer-for-stamped-from-the-beginning",
-          "publishedOn": "2023-10-31T14:52:22.000Z",
-          "wordCount": 352,
-          "title": "Trailer for Stamped From the Beginning",
-          "imageUrl": "https://i.ytimg.com/vi/HMYLFQbyIu4/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/10/0043233-artisans-cooperative-is-a",
-          "author": null,
-          "description": "Artisans Cooperative is a member-owned marketplace for handmade goods. Looks like they are trying to be what Etsy was back in the day.",
-          "link": "https://kottke.org/23/10/0043233-artisans-cooperative-is-a",
-          "publishedOn": "2023-10-31T14:03:12.000Z",
-          "wordCount": 168,
-          "title": "Artisans Cooperative is a member-owned marketplace for handmade goods. Looks like they...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/10/0043339-lionel-messi-has-won-his",
-          "author": null,
-          "description": "Lionel Messi has won his eighth Ballon d’Or award, given annually to the best football player in the world. Hard to imagine anyone beating that record.",
-          "link": "https://kottke.org/23/10/0043339-lionel-messi-has-won-his",
-          "publishedOn": "2023-10-31T13:34:05.000Z",
-          "wordCount": 174,
-          "title": "Lionel Messi has won his eighth Ballon d&#8217;Or award, given annually to...",
-          "imageUrl": ""
         }
       ]
     },
@@ -5875,16 +5745,6 @@
           "wordCount": 10931,
           "title": "What If They Gave A War And No One Came? Jonna Gault And Her Symphonopop Scene",
           "imageUrl": "https://www.zeroto180.org/wp-content/uploads/2023/11/Jonna-Gault-test-thumbnail.jpg"
-        },
-        {
-          "id": "https://www.zeroto180.org/?p=95370",
-          "author": "Zeroto180",
-          "description": "Sixteen-year-old Janis Ian, for her third single for Verve Forecast, bravely tackled the subject of suicide — currently the second leading cause of death for people ages 10-14 as well as 20-34, according to the Centers for Disease Control and Prevention. The DJ/promo version of this November 1967 single includes two versions of “Insanity Comes […]\nThe post “Insanity Comes Quietly To The Structured Mind” — Mental Health in Popular Song appeared first on Zero to 180 - Three Minute Magic.",
-          "link": "https://www.zeroto180.org/insanity-comes-quietly-to-the-structured-mind-mental-health-in-popular-song/",
-          "publishedOn": "2023-10-31T16:31:55.000Z",
-          "wordCount": 11707,
-          "title": "“Insanity Comes Quietly To The Structured Mind” — Mental Health in Popular Song",
-          "imageUrl": "https://www.zeroto180.org/wp-content/uploads/2023/10/Janis-Ian-one-final-thumbnail.jpg"
         }
       ]
     }
