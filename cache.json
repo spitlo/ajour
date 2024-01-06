@@ -34,16 +34,6 @@
           "wordCount": null,
           "title": "Cracking a “Developer Tools Killer” script…",
           "imageUrl": null
-        },
-        {
-          "id": "https://christianheilmann.com/?p=8008",
-          "author": "Chris Heilmann",
-          "description": "For a quiz, I am playing with Pangrams, sentences that have all 26 letters of the alphabet in them. Using Set and some RegEx it is a one-liner in JavaScript to validate them (split into two lines for readability…). const isPangram = s => new Set( s.toLowerCase().replace(/[^a-z]/g, ‘’).split(‘’) ).size === 26; I’ve also put together […]",
-          "link": "https://christianheilmann.com/2023/11/06/pangram-validator-in-one-line/",
-          "publishedOn": "2023-11-06T13:36:00.000Z",
-          "wordCount": null,
-          "title": "Pangram validator in one line",
-          "imageUrl": null
         }
       ]
     },
@@ -142,6 +132,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2877/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/fever.png\" title=\"Hypothermia of below 98.6 K should be treated by leaving the giant molecular cloud and moving to the vicinity of a star.\" alt=\"Hypothermia of below 98.6 K should be treated by leaving the giant molecular cloud and moving to the vicinity of a star.\" />",
+          "link": "https://xkcd.com/2877/",
+          "publishedOn": "2024-01-05T00:00:00.000Z",
+          "wordCount": 217,
+          "title": "Fever",
+          "imageUrl": "https://imgs.xkcd.com/comics/fever_2x.png"
+        },
         {
           "id": "https://xkcd.com/2876/",
           "author": null,
@@ -458,16 +458,6 @@
           "wordCount": 1225,
           "title": "My experience of ffconf 2023 [blog]",
           "imageUrl": "https://remysharp.com/images/ffconf2023.jpg"
-        },
-        {
-          "id": "default-layouts-in-11ty",
-          "author": null,
-          "description": "I found this really hard to determine in the 11ty documentation, so I've added it here for future reference.\nIf you want a default layout for all pages there's a few ways you can do this (which is why I found it hard to determine from the docs), but since I almost always have an .eleventy.js configuration file, putting it there is (what I think) the cleanest solution:\n// assumes that `base.njk` lives inside _includes/\neleventyConfig.addGlobalData('layout', 'base.njk');",
-          "link": "https://remysharp.com/til/misc/default-layouts-in-11ty",
-          "publishedOn": "2023-11-06T23:59:39.000Z",
-          "wordCount": 542,
-          "title": "Default layouts in 11ty [til/misc]",
-          "imageUrl": null
         }
       ]
     },
@@ -800,6 +790,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/738704011586306048",
+          "author": null,
+          "description": "text-mode:\nAds from the British teletext magazine Digitiser, 1993-2003.\nsource, h/t: iLKke. More Digitiser-screens here.",
+          "link": "https://text-mode.tumblr.com/post/738704011586306048",
+          "publishedOn": "2024-01-05T19:30:43.000Z",
+          "wordCount": 1023,
+          "title": "text-mode:\n\nAds from the British teletext magazine Digitiser,...",
+          "imageUrl": "https://64.media.tumblr.com/d532e6136589aca7e2b3d208504f4116/tumblr_ng327miVAT1rpiyaso1_540.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/738613410897526784",
           "author": null,
@@ -1549,16 +1549,6 @@
           "wordCount": 1019,
           "title": "text-mode:\n\nAbre los ojos - an audiovisual treat by oobc running...",
           "imageUrl": "https://64.media.tumblr.com/39f01707c01c2e83c002bc6421d7a1ae/tumblr_nxkbsbFzT31rpiyaso1_540.gif"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/733268192339886080",
-          "author": null,
-          "description": "text-mode:\nText mode business.",
-          "link": "https://text-mode.tumblr.com/post/733268192339886080",
-          "publishedOn": "2023-11-06T19:30:42.000Z",
-          "wordCount": 983,
-          "title": "text-mode:\n\nText mode business.",
-          "imageUrl": "https://64.media.tumblr.com/498952cbb742136868db43b2f8be1e58/tumblr_nwvxcsJwS21tdhimpo1_640.gif"
         }
       ]
     },
@@ -1715,6 +1705,16 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/",
+          "author": null,
+          "description": "Hello! I’ve been extremely slowly trying to figure how to explain every core\nconcept in Git (commits! branches! remotes! the staging area!) and commits have\nbeen surprisingly tricky.\nUnderstanding how git commits are implemented feels pretty straightforward to\nme (those are facts! I can look it up!), but it’s been much harder to figure\nout how other people think about commits. So like I’ve been doing a lot\nrecently, I went on Mastodon and started asking some questions.\nhow do people think about Git commits?\nI did a highly unscientific poll on Mastodon about how people think about Git\ncommits: is it a snapshot? is it a diff? is it a list of every previous commit?\n(Of course it’s legitimate to think about it as all three, but I was curious\nabout the primary way people think about Git commits…",
+          "link": "https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/",
+          "publishedOn": "2024-01-05T14:00:51.000Z",
+          "wordCount": 2092,
+          "title": "Do we think of git commits as diffs, snapshots, and/or histories?",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2024/01/01/some-notes-on-nixos/",
           "author": null,
           "description": "Hello! Over the holidays I decided it might be fun to run NixOS on one of my\nservers, as part of my continuing experiments with Nix.\nMy motivation for this was that previously I was using Ansible to\nprovision the server, but then I’d ad hoc installed a bunch of stuff on the\nserver in a chaotic way separately from Ansible, so in the end I had no real\nidea of what was on that server and it felt like it would be a huge pain to\nrecreate it if I needed to.\nThis server just runs a few small personal Go services, so it seemed like a\ngood candidate for experimentation.\nI had trouble finding explanations of how to set up NixOS and I needed to\ncobble together instructions from a bunch of different places, so here’s a\nvery short summary of what worked for me.\nwhy NixOS instead of Ansible?\nI think the…",
@@ -1830,16 +1830,6 @@
           "wordCount": 6625,
           "title": "Hands-Free Coding",
           "imageUrl": "https://www.joshwcomeau.com/images/og-hands-free-coding.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/blog/the-end-of-frontend-development/",
-          "author": "Josh W. Comeau",
-          "description": "Large language models like GPT-4 are becoming increasingly capable, at an alarming rate. Within a couple of years, we won't need developers any more! …Or at least, that's the narrative going viral on Twitter. I'm much more optimistic about what these AI advancements mean for the future of software development.",
-          "link": "https://www.joshwcomeau.com/blog/the-end-of-frontend-development/",
-          "publishedOn": "2023-11-06T21:13:22.000Z",
-          "wordCount": 6891,
-          "title": "The End of Front-End Development",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-the-end-of-frontend-development.png"
         }
       ]
     },
@@ -2248,16 +2238,6 @@
           "wordCount": 2722,
           "title": "Pluralistic: Naomi Alderman's 'The Future' (07 November 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=7309",
-          "author": "Cory Doctorow",
-          "description": "Today's links Amazon is a ripoff: New Amazon paradox just dropped. Hey look at this: Delights to delectate. This day in history: 2003, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Amazon is a ripoff (permalink) There's a cheat-code in US antitrust law, one that's been increasingly used since the Reagan administration, when the \"consumer welfare\" theory (\"monopolies are fine, so long as the lower prices\") shoved aside the long-established idea that antitrust law existed to prevent monopolies from forming at all. The idea that a company can do anything to create or perpetuate a monopoly so long as its prices go down and/or its quality goes up is directly to blame for the rise of Big Tech. These companies burned through…",
-          "link": "https://pluralistic.net/2023/11/06/attention-rents/",
-          "publishedOn": "2023-11-06T16:02:40.000Z",
-          "wordCount": 4205,
-          "title": "Pluralistic: Amazon is a ripoff (06 Nov 2023)",
-          "imageUrl": null
         }
       ]
     },
@@ -2289,6 +2269,96 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/01/0043737-the-perils-and-pleasures-",
+          "author": null,
+          "description": "The Perils and Pleasures of Bartending in Antarctica. “The freezer was a hole in the wall to the frigid snow and ice outside.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/0043737-the-perils-and-pleasures-",
+          "publishedOn": "2024-01-05T22:46:36.000Z",
+          "wordCount": 542,
+          "title": "The Perils and Pleasures of Bartending in Antarctica. &#8220;The freezer was a...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/01/0043733-mapping-middle-earth-the-",
+          "author": null,
+          "description": "Mapping Middle-earth: The lopsided demographics of Tolkien’s universe. “82% of Tolkien’s characters are male. Hobbits come closest to parity, with 30% women, followed by Men…where the imbalance is 87% versus 13%.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/0043733-mapping-middle-earth-the-",
+          "publishedOn": "2024-01-05T21:53:53.000Z",
+          "wordCount": 547,
+          "title": "Mapping Middle-earth: The lopsided demographics of Tolkien&#8217;s universe. &#8220;82% of Tolkien&#8217;s characters...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/01/from-the-smallest-to-the-largest-thing-in-the-universe",
+          "author": null,
+          "description": "I’ve posted more than a few size comparison videos here over the years — Powers of Ten is the obvious one — but this one from Kurzgesagt is one of the best, showing how big everything in the universe is compared to humans, who seemingly find themselves smack in the middle. This video does an excellent job illustrating the similarity of structures and interdependency across different scales — how blood vessels are like city streets for instance or how very tiny proteins can affect the entire Earth.\nTags: Kurzgesagt · science · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/from-the-smallest-to-the-largest-thing-in-the-universe",
+          "publishedOn": "2024-01-05T21:18:45.000Z",
+          "wordCount": 619,
+          "title": "From The Smallest to the Largest Thing in The Universe",
+          "imageUrl": "https://i.ytimg.com/vi/Z_1Q0XB4X0Y/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/01/0043735-from-ritesh-babu-a-review",
+          "author": null,
+          "description": "From Ritesh Babu, a review of the comics he loved in 2023. I am not generally a comics/graphic novel reader by habit, but Babu makes everything on this list sound so compelling.\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/0043735-from-ritesh-babu-a-review",
+          "publishedOn": "2024-01-05T20:25:02.000Z",
+          "wordCount": 554,
+          "title": "From Ritesh Babu, a review of the comics he loved in 2023....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/01/whats-your-go-to-comfort-media",
+          "author": null,
+          "description": "I reckon most of us have certain books, movies, TV shows, music, podcasts, and other media that we turn to when we need some comfort. These are things we’ve seen, read, or heard before — often many times — and know exactly what we’re going to get from them.\nWhat we reach for depends on our needs. When I just want something familiar on in the background while I’m doing something else, to provide a vibe and the barest hint of a plot to follow, I often turn on Star Trek: TNG or old episodes of Doctor Who on Pluto TV. A few years ago during a really tough period, I read several of Tom Clancy’s novels (The Hunt for Red October, Patriot Games, and Red Storm Rising) to keep my brain reliably engaged but also unfettered by challenging prose or the deep emotional lives of the characters. I rewatch Star Wars and Avengers movies for their reliable entertainment, characters I’m invested in, and predictable-but-satisfying outcomes — these are often good plane movies.\nWhen I’m feeling a lot of relational feelings and need a bit of salt to make them feel even more intense (and punishing), I’ll watch season two of Fleabag or Midnight in Paris or even 50 First Dates (which is as close as I get to rom-coms). Radiohead is a great all-arounder for many situations — I’ve leaned on Everything In Its Right Place, True Love Waits, Videotape, and even Burn the Witch at various times in my life. The Great British Bake Off is reliably low stakes, entertaining, and nothing but good vibes.\nSo how about it? What’s your go-to comfort media?\nTags: books · movies · music · TV\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/whats-your-go-to-comfort-media",
+          "publishedOn": "2024-01-05T18:50:42.000Z",
+          "wordCount": 3525,
+          "title": "What&#8217;s Your Go-to Comfort Media?",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/01/0043732-for-the-people-out-there",
+          "author": null,
+          "description": "For the people out there who really miss their Blackberrys, Clicks is an iPhone case with a keyboard built in.\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/0043732-for-the-people-out-there",
+          "publishedOn": "2024-01-05T18:16:38.000Z",
+          "wordCount": 664,
+          "title": "For the people out there who really miss their Blackberrys, Clicks is...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/01/0043734-from-the-ny-times-melissa",
+          "author": null,
+          "description": "From the NY Times’ Melissa Clark, a primer on salt and when to use which kind of salt. “Are fine sea salt and table salt interchangeable? Can you finish a dish that calls for flaky Maldon with coarse sea salt from a grinder instead?”\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/0043734-from-the-ny-times-melissa",
+          "publishedOn": "2024-01-05T17:40:46.000Z",
+          "wordCount": 565,
+          "title": "From the NY Times&#8217; Melissa Clark, a primer on salt and when...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/01/an-octopus-vs-an-underwater-maze",
+          "author": null,
+          "description": "Mark Rober puts an octopus he bought from a pet store through an underwater maze to see if it can solve a bunch of puzzles to reach a motherlode of tasty shrimp at the end. This video paired well with a book I recently read, Ray Nayler’s Mountain in the Sea: “Humankind discovers intelligent life in an octopus species with its own language and culture, and sets off a high-stakes global competition to dominate the future.”\nAs for the name Rober gives the octopus… Sashimi? Really? Bros gotta bro, I guess. 🙄\nTags: Mark Rober · science · video",
+          "link": "https://kottke.org/24/01/an-octopus-vs-an-underwater-maze",
+          "publishedOn": "2024-01-05T17:00:18.000Z",
+          "wordCount": 245,
+          "title": "An Octopus vs an Underwater Maze",
+          "imageUrl": "https://i.ytimg.com/vi/7__r4FVj-EI/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/01/0043723-a-1-dimensional-version-o",
+          "author": null,
+          "description": "A 1-dimensional version of Pac-Man.\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/0043723-a-1-dimensional-version-o",
+          "publishedOn": "2024-01-05T16:02:50.000Z",
+          "wordCount": 532,
+          "title": "A 1-dimensional version of Pac-Man....",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/24/01/0043731-two-years-400-journalists",
           "author": null,
@@ -5497,116 +5567,6 @@
           "publishedOn": "2023-11-08T16:00:09.000Z",
           "wordCount": 517,
           "title": "The 10 Rules of Being Human",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/0043383-just-a-short-post-of",
-          "author": null,
-          "description": "Just a short post of appreciation for The Kid Should See This. I was just looking at their top nav and it reminded me of the old school bounty of the original Yahoo! directory. 6000+ videos for curious learners of all ages. 👏\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/0043383-just-a-short-post-of",
-          "publishedOn": "2023-11-06T23:20:59.000Z",
-          "wordCount": 564,
-          "title": "Just a short post of appreciation for The Kid Should See This....",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/0043388-free-speech-absolutists-e",
-          "author": null,
-          "description": "Free Speech Absolutists Explain Why People They Disagree With Should Be Fired. “If our livelihoods aren’t tethered to conformity and obedience, then what the hell’s the point of America?”",
-          "link": "https://kottke.org/23/11/0043388-free-speech-absolutists-e",
-          "publishedOn": "2023-11-06T22:03:56.000Z",
-          "wordCount": 175,
-          "title": "Free Speech Absolutists Explain Why People They Disagree With Should Be Fired....",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/0043389-a-falcon-lost-his-ability",
-          "author": null,
-          "description": "A falcon lost his ability to fly. Now the bird is an artist in Vermont. “He’s a little bird who think he’s a human.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/0043389-a-falcon-lost-his-ability",
-          "publishedOn": "2023-11-06T21:19:58.000Z",
-          "wordCount": 546,
-          "title": "A falcon lost his ability to fly. Now the bird is an...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/0043397-i-dont-really-know-exactl",
-          "author": null,
-          "description": "I don’t really know exactly what to say about this today, but Craig Mod’s thoughts on aloneness, solitude, therapy, and self-renewal really resonated with me.\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/0043397-i-dont-really-know-exactl",
-          "publishedOn": "2023-11-06T20:22:46.000Z",
-          "wordCount": 685,
-          "title": "I don&#8217;t really know exactly what to say about this today, but...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/0043394-a-human-deterioration-i-s",
-          "author": null,
-          "description": "A Human Deterioration. “I see people watching the horrible tragedy that is happening here as if it were a Super Bowl of victimhood, in which you support one team and really don’t care about the other, empathy becomes very, very selective.”",
-          "link": "https://kottke.org/23/11/0043394-a-human-deterioration-i-s",
-          "publishedOn": "2023-11-06T19:38:01.000Z",
-          "wordCount": 188,
-          "title": "A Human Deterioration. &#8220;I see people watching the horrible tragedy that is...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/the-nature-conservancys-photo-contest-winners-for-2023",
-          "author": null,
-          "description": "The Nature Conservancy has announced this year’s winners of their annual photo contest. Collectively, the winning photographs “gave voice to nature and showed us the power and peril of the natural world”. As usual, I selected a few of my favorites and included them above. From top to bottom:\nJaime Daniel Fajardo Torres: “This is a species of spider known as ogre spiders, of the genus Deinopis. The photograph was taken at night in the middle of a mature forest in northern Ecuador in the tropical rainforest of the Ecuadorian Chocó, a place considered a hotspot. The spider photographed was generating its egg sac with its own web.”\nHJ Yang: An orca attacks two seals in the morning on the beach.\n\n\n\nJeanny Tang: “The holes dug by fish for spawning can be seen after the pond has dried up.”\n\n(via in focus)\nTags: best of · best of 2023 · photography",
-          "link": "https://kottke.org/23/11/the-nature-conservancys-photo-contest-winners-for-2023",
-          "publishedOn": "2023-11-06T18:58:22.000Z",
-          "wordCount": 301,
-          "title": "The Nature Conservancy&#8217;s Photo Contest Winners for 2023",
-          "imageUrl": "https://kottke.org/plus/misc/images/nature-conv-2023-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/11/0043393-the-decolonization-narrat",
-          "author": null,
-          "description": "The Decolonization Narrative Is Dangerous and False. “It does not accurately describe either the foundation of Israel or the tragedy of the Palestinians.”",
-          "link": "https://kottke.org/23/11/0043393-the-decolonization-narrat",
-          "publishedOn": "2023-11-06T18:10:07.000Z",
-          "wordCount": 169,
-          "title": "The Decolonization Narrative Is Dangerous and False. &#8220;It does not accurately describe...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/0043387-hbos-the-jinx-part",
-          "author": null,
-          "description": "HBO’s The Jinx – Part Two will cover the course of the investigation of the crimes of Robert Durst since the first award-winning installment.",
-          "link": "https://kottke.org/23/11/0043387-hbos-the-jinx-part",
-          "publishedOn": "2023-11-06T17:39:25.000Z",
-          "wordCount": 174,
-          "title": "HBO&#8217;s The Jinx – Part Two will cover the course of the...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/0043333-we-are-starlings-inside-t",
-          "author": null,
-          "description": "We Are Starlings: Inside the Mesmerizing Magic of a Murmuration. “A stunning picture book for young nature lovers about starlings and the fascinating phenomenon of murmurations.”",
-          "link": "https://kottke.org/23/11/0043333-we-are-starlings-inside-t",
-          "publishedOn": "2023-11-06T16:59:55.000Z",
-          "wordCount": 175,
-          "title": "We Are Starlings: Inside the Mesmerizing Magic of a Murmuration. &#8220;A stunning...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/the-making-of-the-last-beatles-song-now-and-then",
-          "author": null,
-          "description": "The four members of the Beatles, assisted by machine learning technology, come together one last time to record a song together, working off of a demo tape recorded by John Lennon in the 70s.\nThe long mythologised John Lennon demo was first worked on in February 1995 by Paul, George and Ringo as part of The Beatles Anthology project but it remained unfinished, partly because of the impossible technological challenges involved in working with the vocal John had recorded on tape in the 1970s. For years it looked like the song could never be completed.\nBut in 2022 there was a stroke of serendipity. A software system developed by Peter Jackson and his team, used throughout the production of the documentary series Get Back, finally opened the way for the uncoupling of John’s vocal from his piano part. As a result, the original recording could be brought to life and worked on anew with contributions from all four Beatles.\n\n\nHere’s the result, a song called Now and Then:\n\nI enjoyed Ben Lindbergh’s take on the new song and its recording.\nTags: artificial intelligence · Ben Lindbergh · music · Peter Jackson · The Beatles · video",
-          "link": "https://kottke.org/23/11/the-making-of-the-last-beatles-song-now-and-then",
-          "publishedOn": "2023-11-06T16:22:48.000Z",
-          "wordCount": 344,
-          "title": "The Making of the Last Beatles Song: Now And Then",
-          "imageUrl": "https://i.ytimg.com/vi/APJAQoSCwuA/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/11/0043390-a-thought-provoking-piece",
-          "author": null,
-          "description": "A thought-provoking piece about how therapists are handling the climate crisis. “Human well-being has historically been linked to participation in a healthy ecocultural context. Living within a context that is obviously unhealthful is painful.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/0043390-a-thought-provoking-piece",
-          "publishedOn": "2023-11-06T14:48:54.000Z",
-          "wordCount": 551,
-          "title": "A thought-provoking piece about how therapists are handling the climate crisis. &#8220;Human...",
           "imageUrl": ""
         }
       ]
