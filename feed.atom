@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2024-01-06T00:31:04.625Z</updated>
+    <updated>2024-01-07T00:34:43.728Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[text-mode:
+
+German teletexxxt with photos supplied by Lord...]]></title>
+        <id>https://text-mode.tumblr.com/post/738794622580555776</id>
+        <link href="https://text-mode.tumblr.com/post/738794622580555776"/>
+        <updated>2024-01-06T19:30:56.000Z</updated>
+        <summary type="html"><![CDATA[text-mode:
+German teletexxxt with photos supplied by Lord Nikon. More here.]]></summary>
+        <author>
+            <name>TEXT-MODE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christmas lights [tif]]]></title>
+        <id>2024-01-06-lights</id>
+        <link href="https://remysharp.com/tif/2024-01-06-lights"/>
+        <updated>2024-01-06T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Although I've been tinkering with bits, this was another home fix exploit. The lights didn't work at all (outdoor LEDs).
+At first I thought it was corrosion on the battery contacts (which is a good first port of call), but when I injected bench supply power I could see it was drawing amps - which meant that either the board was not putting power to the LEDs or the LEDs were bad.
+I checked the contacts for the LEDs with a multimeter, and it showed a voltage (bouncing - which would make sense if the lights pulsate).
+At it happened, the string of LEDs were a simple positive and negative wire running all the way through (other systems, which allow for individual failures, will have a third wire - I forget exactly how it works, but it means a bulb or LED can go out, btu the line continues to work).
+In this case, I kept cutting the wire in half until I found the LEDs working - which happened only when I had a single LED (bad luck me), but then I started splicing large runs of the LEDs back together.
+I'm not 100% sure I'd put them outside again (since I used shrink wrap rubber tubing to protect the wires, I doubt if it's fully waterproof), but they do work again, so it's one more thing saved from landfill.]]></summary>
+        <author>
+            <name>remy sharp's b:log</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Perils and Pleasures of Bartending in Antarctica. &#8220;The freezer was a...]]></title>
         <id>https://kottke.org/24/01/0043737-the-perils-and-pleasures-</id>
@@ -709,6 +737,18 @@ I think the…]]></summary>
         <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/2024.png" title="It wasn't originally constitutionally required, but presidents who served two terms have traditionally followed George Washington's example and gotten false teeth." alt="It wasn't originally constitutionally required, but presidents who served two terms have traditionally followed George Washington's example and gotten false teeth." />]]></summary>
         <author>
             <name>xkcd.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Born to be Mild: Adventures for the Anxious [book]]]></title>
+        <id>born-to-be-mild-adventures-for-the-anxious</id>
+        <link href="https://remysharp.com/books/2024/born-to-be-mild-adventures-for-the-anxious"/>
+        <updated>2024-01-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Some laughs but ultimately turned into a journal.
+The first series of chapters were really fun and throughout the book there's genuine chuckles from the writing, but the actual content is what left me feeling the book could have either been 150 or so pages, or at least dig a little deeper under the skin of anxiety.
+This is supposed to be a memoir of the author's life over a year following some unknown years of possibly being house bound with anxiety and/or alcoholism. As you can see, it's not clear. He also alludes to a marriage break up, and at first I expected he was going to explain the backstory to how he arrived to this year where he's trying to find his (I guess) purpose in life, but unfortunately not. It's more like it's a reference his friends (many of which are casually mentioned …]]></summary>
+        <author>
+            <name>remy sharp's b:log</name>
         </author>
     </entry>
     <entry>
@@ -7132,61 +7172,6 @@ Tags: Cherie Carter-Scott · Chris Glass · lists]]></summary>
         <summary type="html"><![CDATA[Today's links Biden wants to ban ripoff "financial advisors": Big gubmint wants to take away your freedom to starve to death in old age. Announcing The Lost Cause Tour: LA, Stratford, Concord, Simsbury, Toronto, New York and Chapel Hill! Hey look at this: Delights to delectate. This day in history: 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Biden wants to ban ripoff "financial advisors" (permalink) Once, American workers had "defined benefits pensions," where their employers promised to pay them a certain amount every year from their retirement to their death. Jimmy Carter swapped that out for 401(k)s, "market" pensions where you have to guess which stocks will be valuable or starve in your old age: https://plurali…]]></summary>
         <author>
             <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parameterball]]></title>
-        <id>https://xkcd.com/2852/</id>
-        <link href="https://xkcd.com/2852/"/>
-        <updated>2023-11-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/parameterball.png" title="The ball's density also varies, but players don't learn the value until after choosing their raquets. The infamous 'bowling ball table tennis' region of the parameter space often leads to equipment damage." alt="The ball's density also varies, but players don't learn the value until after choosing their raquets. The infamous 'bowling ball table tennis' region of the parameter space often leads to equipment damage." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[text-mode:
-
-Abre los ojos - an audiovisual treat by oobc running...]]></title>
-        <id>https://text-mode.tumblr.com/post/733358787429269505</id>
-        <link href="https://text-mode.tumblr.com/post/733358787429269505"/>
-        <updated>2023-11-07T19:30:40.000Z</updated>
-        <summary type="html"><![CDATA[text-mode:
-Abre los ojos - an audiovisual treat by oobc running in PETSCII textmode on a Commodore PET model from 1980. Video here.]]></summary>
-        <author>
-            <name>TEXT-MODE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Third Way on AI]]></title>
-        <id>https://blog.mozilla.org/?p=73645</id>
-        <link href="https://blog.mozilla.org/en/mozilla/a-third-way-on-ai/"/>
-        <updated>2023-11-07T16:06:54.000Z</updated>
-        <summary type="html"><![CDATA[Last week was an important moment in the debate about AI, with President Biden issuing an executive order and the UK’s AI Safety Summit convening world leaders. Much of the buzz around these events made it sound like AI presents us with a binary choice: unbridled optimism, or existential fear. But there was also a […]
-The post A Third Way on AI appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Mark Surman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: Naomi Alderman's 'The Future' (07 November 2023)]]></title>
-        <id>https://pluralistic.net/?p=7315</id>
-        <link href="https://pluralistic.net/2023/11/07/preppers-of-the-red-death/"/>
-        <updated>2023-11-07T14:40:21.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Naomi Alderman's 'The Future': Billionaire preppers vs the end of the human race. Hey look at this: Delights to delectate. This day in history: 2003, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Naomi Alderman's 'The Future' (permalink) Naomi Alderman burst onto the scene in 2016 with The Power, an explosive and brilliant feminist apocalyptic parable. Now, seven years later, she's back with a chunky, propulsive second novel about a very different sort of apocalypse: The Future: https://www.simonandschuster.com/books/The-Future/Naomi-Alderman/9781668025680 The Power was a thriller about a mysterious force that gives women the power to administer violent electric shocks – even lethal ones – from the palms…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Future of Shopping]]></title>
-        <id>https://blog.mozilla.org/?p=73602</id>
-        <link href="https://blog.mozilla.org/en/mozilla/the-future-of-shopping/"/>
-        <updated>2023-11-07T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s clear that online shopping has given consumers more choices than ever, offering remarkable convenience with a few clicks of a button. But there’s a catch. With Fakespot by Mozilla, which uses AI to detect fake reviews and scams, we’ve seen it all when it comes to e-commerce. Counterfeits, fake reviews, review flooding, and nowadays, […]
-The post The Future of Shopping appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Jenifer Boscacci</name>
         </author>
     </entry>
     <entry>

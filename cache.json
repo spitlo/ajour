@@ -381,16 +381,6 @@
           "wordCount": 189,
           "title": "Redshift",
           "imageUrl": "https://imgs.xkcd.com/comics/redshift_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2852/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/parameterball.png\" title=\"The ball's density also varies, but players don't learn the value until after choosing their raquets. The infamous 'bowling ball table tennis' region of the parameter space often leads to equipment damage.\" alt=\"The ball's density also varies, but players don't learn the value until after choosing their raquets. The infamous 'bowling ball table tennis' region of the parameter space often leads to equipment damage.\" />",
-          "link": "https://xkcd.com/2852/",
-          "publishedOn": "2023-11-08T00:00:00.000Z",
-          "wordCount": 189,
-          "title": "Parameterball",
-          "imageUrl": "https://imgs.xkcd.com/comics/parameterball_2x.png"
         }
       ]
     },
@@ -399,6 +389,26 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "2024-01-06-lights",
+          "author": null,
+          "description": "Although I've been tinkering with bits, this was another home fix exploit. The lights didn't work at all (outdoor LEDs).\nAt first I thought it was corrosion on the battery contacts (which is a good first port of call), but when I injected bench supply power I could see it was drawing amps - which meant that either the board was not putting power to the LEDs or the LEDs were bad.\nI checked the contacts for the LEDs with a multimeter, and it showed a voltage (bouncing - which would make sense if the lights pulsate).\nAt it happened, the string of LEDs were a simple positive and negative wire running all the way through (other systems, which allow for individual failures, will have a third wire - I forget exactly how it works, but it means a bulb or LED can go out, btu the line continues to work).\nIn this case, I kept cutting the wire in half until I found the LEDs working - which happened only when I had a single LED (bad luck me), but then I started splicing large runs of the LEDs back together.\nI'm not 100% sure I'd put them outside again (since I used shrink wrap rubber tubing to protect the wires, I doubt if it's fully waterproof), but they do work again, so it's one more thing saved from landfill.",
+          "link": "https://remysharp.com/tif/2024-01-06-lights",
+          "publishedOn": "2024-01-06T12:00:00.000Z",
+          "wordCount": 704,
+          "title": "Christmas lights [tif]",
+          "imageUrl": null
+        },
+        {
+          "id": "born-to-be-mild-adventures-for-the-anxious",
+          "author": null,
+          "description": "Some laughs but ultimately turned into a journal.\nThe first series of chapters were really fun and throughout the book there's genuine chuckles from the writing, but the actual content is what left me feeling the book could have either been 150 or so pages, or at least dig a little deeper under the skin of anxiety.\nThis is supposed to be a memoir of the author's life over a year following some unknown years of possibly being house bound with anxiety and/or alcoholism. As you can see, it's not clear. He also alludes to a marriage break up, and at first I expected he was going to explain the backstory to how he arrived to this year where he's trying to find his (I guess) purpose in life, but unfortunately not. It's more like it's a reference his friends (many of which are casually mentioned …",
+          "link": "https://remysharp.com/books/2024/born-to-be-mild-adventures-for-the-anxious",
+          "publishedOn": "2024-01-01T00:00:00.000Z",
+          "wordCount": 924,
+          "title": "Born to be Mild: Adventures for the Anxious [book]",
+          "imageUrl": null
+        },
         {
           "id": "my-2023",
           "author": null,
@@ -790,6 +800,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/738794622580555776",
+          "author": null,
+          "description": "text-mode:\nGerman teletexxxt with photos supplied by Lord Nikon. More here.",
+          "link": "https://text-mode.tumblr.com/post/738794622580555776",
+          "publishedOn": "2024-01-06T19:30:56.000Z",
+          "wordCount": 1009,
+          "title": "text-mode:\n\nGerman teletexxxt with photos supplied by Lord...",
+          "imageUrl": "https://64.media.tumblr.com/75d1f40e9602e7f13d06ebd6c25dd461/tumblr_ng2y6wniSX1rpiyaso2_540.gif"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/738704011586306048",
           "author": null,
@@ -1539,16 +1559,6 @@
           "wordCount": 1028,
           "title": "text-mode:\n\nLetraTime, a German magazine from 1975. This cover...",
           "imageUrl": "https://64.media.tumblr.com/18553ea1d9c5505c866046c99b44b304/tumblr_nwhn7jtcQW1rpiyaso1_1280.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/733358787429269505",
-          "author": null,
-          "description": "text-mode:\nAbre los ojos - an audiovisual treat by oobc running in PETSCII textmode on a Commodore PET model from 1980. Video here.",
-          "link": "https://text-mode.tumblr.com/post/733358787429269505",
-          "publishedOn": "2023-11-07T19:30:40.000Z",
-          "wordCount": 1019,
-          "title": "text-mode:\n\nAbre los ojos - an audiovisual treat by oobc running...",
-          "imageUrl": "https://64.media.tumblr.com/39f01707c01c2e83c002bc6421d7a1ae/tumblr_nxkbsbFzT31rpiyaso1_540.gif"
         }
       ]
     },
@@ -1676,26 +1686,6 @@
           "wordCount": 1820,
           "title": "Mozilla Joins Latest AI Insight Forum",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/11/moz_header_ai_mozilla1-1080x720.jpg"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=73645",
-          "author": "Mark Surman",
-          "description": "Last week was an important moment in the debate about AI, with President Biden issuing an executive order and the UK’s AI Safety Summit convening world leaders. Much of the buzz around these events made it sound like AI presents us with a binary choice: unbridled optimism, or existential fear. But there was also a […]\nThe post A Third Way on AI appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/a-third-way-on-ai/",
-          "publishedOn": "2023-11-07T16:06:54.000Z",
-          "wordCount": 2358,
-          "title": "A Third Way on AI",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/11/moz_hiring_announcement_header_3-1-1080x720.jpg"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=73602",
-          "author": "Jenifer Boscacci",
-          "description": "It’s clear that online shopping has given consumers more choices than ever, offering remarkable convenience with a few clicks of a button. But there’s a catch. With Fakespot by Mozilla, which uses AI to detect fake reviews and scams, we’ve seen it all when it comes to e-commerce. Counterfeits, fake reviews, review flooding, and nowadays, […]\nThe post The Future of Shopping appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/the-future-of-shopping/",
-          "publishedOn": "2023-11-07T14:00:00.000Z",
-          "wordCount": 2111,
-          "title": "The Future of Shopping",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/11/25-1080x720.png"
         }
       ]
     },
@@ -2227,16 +2217,6 @@
           "publishedOn": "2023-11-08T15:26:29.000Z",
           "wordCount": 3295,
           "title": "Pluralistic: Biden wants to ban ripoff \"financial advisors\" (08 Nov 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=7315",
-          "author": "Cory Doctorow",
-          "description": "Today's links Naomi Alderman's 'The Future': Billionaire preppers vs the end of the human race. Hey look at this: Delights to delectate. This day in history: 2003, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Naomi Alderman's 'The Future' (permalink) Naomi Alderman burst onto the scene in 2016 with The Power, an explosive and brilliant feminist apocalyptic parable. Now, seven years later, she's back with a chunky, propulsive second novel about a very different sort of apocalypse: The Future: https://www.simonandschuster.com/books/The-Future/Naomi-Alderman/9781668025680 The Power was a thriller about a mysterious force that gives women the power to administer violent electric shocks – even lethal ones – from the palms…",
-          "link": "https://pluralistic.net/2023/11/07/preppers-of-the-red-death/",
-          "publishedOn": "2023-11-07T14:40:21.000Z",
-          "wordCount": 2722,
-          "title": "Pluralistic: Naomi Alderman's 'The Future' (07 November 2023)",
           "imageUrl": null
         }
       ]
