@@ -133,6 +133,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2878/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/supernova.png\" title=\"They're a little cagey about exactly where the crossover point lies relative to the likelihood of devastating effects on the planet.\" alt=\"They're a little cagey about exactly where the crossover point lies relative to the likelihood of devastating effects on the planet.\" />",
+          "link": "https://xkcd.com/2878/",
+          "publishedOn": "2024-01-08T00:00:00.000Z",
+          "wordCount": 217,
+          "title": "Supernova",
+          "imageUrl": "https://imgs.xkcd.com/comics/supernova_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2877/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/fever.png\" title=\"Hypothermia of below 98.6 K should be treated by leaving the giant molecular cloud and moving to the vicinity of a star.\" alt=\"Hypothermia of below 98.6 K should be treated by leaving the giant molecular cloud and moving to the vicinity of a star.\" />",
@@ -371,16 +381,6 @@
           "wordCount": 191,
           "title": "Date Line",
           "imageUrl": "https://imgs.xkcd.com/comics/date_line_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2853/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/redshift.png\" title=\"So do you have any plans for z=-0.000000000000045?\" alt=\"So do you have any plans for z=-0.000000000000045?\" />",
-          "link": "https://xkcd.com/2853/",
-          "publishedOn": "2023-11-10T00:00:00.000Z",
-          "wordCount": 189,
-          "title": "Redshift",
-          "imageUrl": "https://imgs.xkcd.com/comics/redshift_2x.png"
         }
       ]
     },
@@ -800,6 +800,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/738975797025587200",
+          "author": null,
+          "description": "text-mode:\nThe rectangles in “Punch Card Park” in Ohio were made to resemble the square holes in IBM cards. Created in 2004 as part of the celebration of the bicentennial of the founding of Ohio University",
+          "link": "https://text-mode.tumblr.com/post/738975797025587200",
+          "publishedOn": "2024-01-08T19:30:38.000Z",
+          "wordCount": 1086,
+          "title": "text-mode:\n\nThe rectangles in “Punch Card Park” in Ohio were...",
+          "imageUrl": "https://64.media.tumblr.com/276496ebeb3abee94c28040bebe7b249/tumblr_niuqs7DZMd1rpiyaso1_1280.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/738885189269389312",
           "author": null,
@@ -1549,16 +1559,6 @@
           "wordCount": 1021,
           "title": "text-mode:\n\nFingers of Doom - a small risograph-printed PETSCII...",
           "imageUrl": "https://64.media.tumblr.com/5959ebc6367c1598f80951d779a9c26d/tumblr_nvmuk2A0oT1rpiyaso2_1280.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/733539996129280000",
-          "author": null,
-          "description": "writing-system:\nBaybayin Script\nAncient pre-colonial \nPhilippine writing system\n13th–19th Century\nSource",
-          "link": "https://text-mode.tumblr.com/post/733539996129280000",
-          "publishedOn": "2023-11-09T19:30:54.000Z",
-          "wordCount": 1003,
-          "title": "writing-system:\n\nBaybayin ScriptAncient pre-colonial Philippine...",
-          "imageUrl": "https://64.media.tumblr.com/86f1105f764d0da83fb276eab0d6eb7a/tumblr_n4jxeoyNWY1rpkes7o1_r1_640.gif"
         }
       ]
     },
@@ -1743,16 +1743,6 @@
           "wordCount": 3127,
           "title": "Some notes on nix flakes",
           "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2023/11/10/how-cherry-pick-and-revert-work/",
-          "author": null,
-          "description": "Hello! I was trying to explain to someone how git cherry-pick works the other\nday, and I found myself getting confused.\nWhat went wrong was: I thought that git cherry-pick was basically applying a\npatch, but when I tried to actually do it that way, it didn’t work!\nLet’s talk about what I thought cherry-pick did (applying a patch), why\nthat’s not quite true, and what it actually does instead (a “3-way merge”).\nThis post is extremely in the weeds and you definitely don’t need to understand\nthis stuff to use git effectively. But if you (like me) are curious about git’s\ninternals, let’s talk about it!\ncherry-pick isn’t applying a patch\nThe way I previously understood git cherry-pick COMMIT_ID is:\ncalculate the diff for COMMIT_ID, like git show COMMIT_ID --patch > out.patch\nApply the patch to t…",
-          "link": "https://jvns.ca/blog/2023/11/10/how-cherry-pick-and-revert-work/",
-          "publishedOn": "2023-11-10T12:00:48.000Z",
-          "wordCount": 2117,
-          "title": "How git cherry-pick and revert use 3-way merge",
-          "imageUrl": null
         }
       ]
     },
@@ -1800,16 +1790,6 @@
           "wordCount": 5190,
           "title": "Full-Bleed Layout Using CSS Grid",
           "imageUrl": "https://www.joshwcomeau.com/images/og-full-bleed.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/blog/hands-free-coding/",
-          "author": "Josh W. Comeau",
-          "description": "Earlier this year, I lost the ability to use a keyboard and mouse for extended periods. Fortunately, this wasn't as catastrophic as it sounds! This article chronicles my experience using adaptive tools like dictation and eye-tracking as my primary mechanisms for writing code.",
-          "link": "https://www.joshwcomeau.com/blog/hands-free-coding/",
-          "publishedOn": "2023-11-09T16:35:31.000Z",
-          "wordCount": 6625,
-          "title": "Hands-Free Coding",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-hands-free-coding.png"
         }
       ]
     },
@@ -2188,16 +2168,6 @@
           "wordCount": 3145,
           "title": "Pluralistic: Big Telco's fury over FCC plan to infuse telecoms policy with facts (10 Nov 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=7335",
-          "author": "Cory Doctorow",
-          "description": "Today's links The enshittification of garage-door openers reveals a vast and deadly rot: Firms undisciplined by competition, regulation, or self-help measures. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The enshittification of garage-door openers reveals a vast and deadly rot (permalink) How could this happen? Owners of Chamberlain MyQ automatic garage door openers just woke up to discover that the company had confiscated valuable features overnight, and that there was nothing they could do about it. Oh, we know what happened, technically speaking. Chamberlain shut off the API for its garage-door openers, which breaks their integration with h…",
-          "link": "https://pluralistic.net/2023/11/09/lead-me-not-into-temptation/",
-          "publishedOn": "2023-11-09T19:22:14.000Z",
-          "wordCount": 5227,
-          "title": "Pluralistic: The enshittification of garage-door openers reveals a vast and deadly rot (09 Nov 2023)",
-          "imageUrl": null
         }
       ]
     },
@@ -2229,6 +2199,86 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/01/footsteps-in-the-snow",
+          "author": null,
+          "description": "Absolutely stunning embroidery piece by Narumi Takada of boot prints and animal tracks1 in freshly fallen snow. Just lovely.\n\nI thought these were dog tracks at first because of the shape but you can’t see the claws so maybe they are cat tracks?↩\n\nTags: art · embroidery · Narumi Takada\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/footsteps-in-the-snow",
+          "publishedOn": "2024-01-09T00:04:45.000Z",
+          "wordCount": 564,
+          "title": "Footsteps in the Snow",
+          "imageUrl": "https://kottke.org/plus/misc/images/snow-steps-embroidery-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/01/the-25-best-films-of-2023-a-video-countdown",
+          "author": null,
+          "description": "I always look forward to David Ehrlich’s annual love letter to cinema and his favorite films of the year. So put this thing on the biggest screen you can find, slap on some headphones, and get ready to put a bunch of excellent films on your must-watch list. This year in conjunction with the video, Ehrlich is raising money for the Palestine Children’s Relief Fund.\nYou can also watch this video on YouTube and past countdowns on his website.\nTags: best of · best of 2023 · David Ehrlich · movies · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/the-25-best-films-of-2023-a-video-countdown",
+          "publishedOn": "2024-01-08T22:39:39.000Z",
+          "wordCount": 613,
+          "title": "The 25 Best Films of 2023: A Video Countdown",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/01/0043744-180-songs-that-turn-40",
+          "author": null,
+          "description": "180 Songs That Turn 40 Years Old in 2024. Total nostalgia bomb — I was 10-11 years old in 1984 and listened to pop music (& watched MTV) constantly. (Also, 40 years ago in 1984 was 1944… 😳)\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/0043744-180-songs-that-turn-40",
+          "publishedOn": "2024-01-08T21:49:30.000Z",
+          "wordCount": 561,
+          "title": "180 Songs That Turn 40 Years Old in 2024. Total nostalgia bomb...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/01/0043743-the-american-dialect-soci",
+          "author": null,
+          "description": "The American Dialect Society picks their word of the year for 2023: enshittification. “The term…became popular in 2023 after it was used in a blog post by author Cory Doctorow, who used it to describe how digital platforms can become worse and worse.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/0043743-the-american-dialect-soci",
+          "publishedOn": "2024-01-08T21:05:57.000Z",
+          "wordCount": 636,
+          "title": "The American Dialect Society picks their word of the year for 2023:...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/01/0043742-wild-world-is-a-hand-draw",
+          "author": null,
+          "description": "Wild World is a hand-drawn world map of nature - “here are 1,642 animals roaming its jungles and deserts, swimming its oceans”. The map took three years from start to finish.\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/0043742-wild-world-is-a-hand-draw",
+          "publishedOn": "2024-01-08T19:59:10.000Z",
+          "wordCount": 555,
+          "title": "Wild World is a hand-drawn world map of nature - &#8220;here are...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/01/0043741-the-verge-looks-at-the",
+          "author": null,
+          "description": "The Verge looks at the symbiotic relationship between Google and the SEO industry, which has resulted in an internet full of sites “optimized for Google first and readers last”.\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/0043741-the-verge-looks-at-the",
+          "publishedOn": "2024-01-08T19:13:04.000Z",
+          "wordCount": 547,
+          "title": "The Verge looks at the symbiotic relationship between Google and the SEO...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/01/electronic-music-of-the-future-from-jean-jacques-perrey-in-1966",
+          "author": null,
+          "description": "In 1966, electronic music pioneer Jean-Jacques Perrey was on the game show I’ve Got a Secret and (spoiler!) his secret was he could play a single musical instrument that sounded like a number of other instruments. Perrey’s instrument was called the Ondioline, which was first developed in 1939 and was a forerunner of the modern electronic synthesizer. Perrey was a leading practitioner of the Ondioline:\nThanks to the Ondioline, I could imitate instruments from around the world, such as bagpipes from Scotland, American banjo, Gypsy violin, soprano voice, Indian sitar, and so on. I made a world tour in music and finished it with a gag of whistling a tune. At the end, the whistling was still going on (thanks to the Ondioline), but I was drinking a glass of water. We all laughed.\n\n\nIn the video from the game show, Perrey imitates a bunch of instruments and then plays an original composition with his collaborator Gershon Kingsley, which sounds at once wildly futuristic and laughably dated.\nP.S. I first heard of Jean-Jacques Perrey courtesy of his 1970 song E.V.A., which sounds just as modern today as it did when I heard it back in the late 90s remixed by Fatboy Slim.\nTags: Jean-Jacques Perrey · music · TV\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/electronic-music-of-the-future-from-jean-jacques-perrey-in-1966",
+          "publishedOn": "2024-01-08T18:32:08.000Z",
+          "wordCount": 735,
+          "title": "Electronic Music of the Future from Jean-Jacques Perrey in 1966",
+          "imageUrl": "https://i.ytimg.com/vi/7pOqkn9JgO8/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/01/0043739-apple-announced-a-release",
+          "author": null,
+          "description": "Apple announced a release date (Feb 2, preorder on Jan 19) and price ($3500 for 256GB) for the Apple Vision Pro. I am extremely curious about this…I’ve heard nothing but good stuff from those who have tried them.\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/0043739-apple-announced-a-release",
+          "publishedOn": "2024-01-08T17:08:59.000Z",
+          "wordCount": 1001,
+          "title": "Apple announced a release date (Feb 2, preorder on Jan 19) and...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/24/01/0043737-the-perils-and-pleasures-",
           "author": null,
@@ -5357,96 +5407,6 @@
           "publishedOn": "2023-11-10T14:50:25.000Z",
           "wordCount": 173,
           "title": "Dan Cederholm teamed up with Wilco to make a typeface based on...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/0043412-tom-hanks-and-steven-spie",
-          "author": null,
-          "description": "Tom Hanks and Steven Spielberg have previously produced Band of Brothers and The Pacific. Now comes the trailer for a third series about WWII: Masters of the Air. Coming to Apple TV+ in January.",
-          "link": "https://kottke.org/23/11/0043412-tom-hanks-and-steven-spie",
-          "publishedOn": "2023-11-09T23:15:38.000Z",
-          "wordCount": 180,
-          "title": "Tom Hanks and Steven Spielberg have previously produced Band of Brothers and...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/0043411-the-teaser-trailer-for-in",
-          "author": null,
-          "description": "The teaser trailer for Inside Out 2 — looks like there’s a new emotion in town (anxiety). I didn’t even know Pixar was doing a sequel…interesting.",
-          "link": "https://kottke.org/23/11/0043411-the-teaser-trailer-for-in",
-          "publishedOn": "2023-11-09T22:26:41.000Z",
-          "wordCount": 176,
-          "title": "The teaser trailer for Inside Out 2 — looks like there&#8217;s a...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/searching-for-humanity-in-fortnites-battle-royale",
-          "author": null,
-          "description": "Nearly everything about Fortnite’s popular Battle Royale mode is geared towards creating conflict between its players. In this episode of Pop Culture Detective, Jonathan McIntosh explores whether you can be a pacifist in a virtual world filled with war and, beyond that, whether you can make friends with your fiercest enemy. As a Fortnite player who has qualms about even the cartoony violence in the game, I loved this video. It reminded me of Robin Sloan’s piece in the Atlantic from 2018: I Played Fortnite and Figured Out the Universe.\nWhen they’re successful, these negotiations are honestly more nervy and exciting than the game’s most intense shoot-outs. I’m not the only one who thinks so. In forums dedicated to Fortnite Battle Royale, some players share clips of chance alliances, and others reply glumly: “Super rare to find someone [who] won’t shoot you when you emote.” I dream of a Political Fortnite in which victory goes not to the twitchiest sniper but the most charismatic organizer, with factions forming and dissolving… I imagine the fear and thrill of seeing not one but a dozen tiny silhouettes on the far ridge-a war band sweeping fast down the hillside. I’m outnumbered; can I convince them to let me join them?\n\n\n(thx, andy)\nTags: Fortnite · Jonathan McIntosh · video · video games\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/searching-for-humanity-in-fortnites-battle-royale",
-          "publishedOn": "2023-11-09T20:21:36.000Z",
-          "wordCount": 737,
-          "title": "Searching for Humanity in Fortnite&#8217;s Battle Royale",
-          "imageUrl": "https://i.ytimg.com/vi/SArtgoMMDNg/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/11/0043408-maybe-you-knew-this-but",
-          "author": null,
-          "description": "Maybe you knew this but I didn’t: the Great British Bake Off puts the complete recipes for many of their challenges online, including what looks like all the technicals and 100s of bakes by contestants.\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/0043408-maybe-you-knew-this-but",
-          "publishedOn": "2023-11-09T19:15:39.000Z",
-          "wordCount": 700,
-          "title": "Maybe you knew this but I didn&#8217;t: the Great British Bake Off...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/the-finalists-in-the-2023-comedy-wildlife-photography-awards",
-          "author": null,
-          "description": "The Comedy Wildlife Photography Awards are always a good time…and here are the finalists for the 2023 competition.\nTags: best of · best of 2023 · photography",
-          "link": "https://kottke.org/23/11/the-finalists-in-the-2023-comedy-wildlife-photography-awards",
-          "publishedOn": "2023-11-09T18:07:42.000Z",
-          "wordCount": 179,
-          "title": "The Finalists in the 2023 Comedy Wildlife Photography Awards",
-          "imageUrl": "https://kottke.org/plus/misc/images/comedy-wildlife-23-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/11/0043409-jezebel-the-pioneering-si",
-          "author": null,
-          "description": "Jezebel, the pioneering site geared towards women, is being shut down by its parent company, effective immediately.",
-          "link": "https://kottke.org/23/11/0043409-jezebel-the-pioneering-si",
-          "publishedOn": "2023-11-09T16:55:28.000Z",
-          "wordCount": 163,
-          "title": "Jezebel, the pioneering site geared towards women, is being shut down by...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/10-rules-for-drawing-from-christoph-niemann",
-          "author": null,
-          "description": "Illustrator Christoph Niemann shares 10 Things I Remind Myself Before I Draw. I’m a strong advocate of his 10th rule:\nSitting at my desk is always right. I’ve spent a lot of time thinking about how to make good work. There are millions of tips and tricks and manifestos out there. But at the end there’s only one single truth for me: sit down and start drawing.\n\n\n(thx, matt)\nTags: art · Christoph Niemann · lists",
-          "link": "https://kottke.org/23/11/10-rules-for-drawing-from-christoph-niemann",
-          "publishedOn": "2023-11-09T16:31:43.000Z",
-          "wordCount": 224,
-          "title": "10 Rules for Drawing From Christoph Niemann",
-          "imageUrl": "https://kottke.org/plus/misc/images/niemann-rules-drawing.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/11/0043319-lessons-from-star-wars-an",
-          "author": null,
-          "description": "Lessons from Star Wars and Barbie about revolutions. “‘Barbie’ and ‘Andor’ are useful for those who want to understand why revolutions happen and what it takes for them to happen.”",
-          "link": "https://kottke.org/23/11/0043319-lessons-from-star-wars-an",
-          "publishedOn": "2023-11-09T15:43:34.000Z",
-          "wordCount": 176,
-          "title": "Lessons from Star Wars and Barbie about revolutions. &#8220;&#8216;Barbie&#8217; and &#8216;Andor&#8217; are...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/0043406-looks-like-automattic-is-",
-          "author": null,
-          "description": "Looks like Automattic is de-staffing Tumblr (moving folks to other projects) and basically putting the site on life support.",
-          "link": "https://kottke.org/23/11/0043406-looks-like-automattic-is-",
-          "publishedOn": "2023-11-09T14:19:58.000Z",
-          "wordCount": 484,
-          "title": "Looks like Automattic is de-staffing Tumblr (moving folks to other projects) and...",
           "imageUrl": ""
         }
       ]
