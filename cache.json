@@ -64,7 +64,18 @@
       "title": "Sara Soueidan – Blog",
       "feedUrl": "https://www.sarasoueidan.com/blog/index.xml",
       "siteUrl": "https://sarasoueidan.com/blog-feed.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://sarasoueidan.com/blog/accessible-notifications-with-aria-live-regions-part-1/",
+          "author": null,
+          "description": "In this chapter, we’re going to learn about ARIA live regions — the accessible notifications system that enables us to make dynamic web content more accessible to screen reader users.\nWithout live regions, some rich web applications would be more challenging to use for screen reader users. So if you’re building web applications such as Single Page Applications (SPAs), you need to understand live regions so that you can utilize them where appropriate.\nThis chapter is split into two parts. In this first part, we’re going to learn about why ARIA live regions are important, and the different ARIA attributes and roles that you can use to create them. We’re going to get an overview of these attributes, as well as learn about their current support landscape and limitations.\nIn the second part, we…",
+          "link": "https://sarasoueidan.com/blog/accessible-notifications-with-aria-live-regions-part-1/",
+          "publishedOn": "2024-01-15T00:00:00.000Z",
+          "wordCount": 6682,
+          "title": "Accessible notifications with ARIA Live Regions (Part 1)",
+          "imageUrl": "/assets/images/logo/sara-illustration.png"
+        }
+      ]
     },
     {
       "title": "there.oughta.be/",
@@ -361,16 +372,6 @@
           "wordCount": 189,
           "title": "Rebuttals",
           "imageUrl": "https://imgs.xkcd.com/comics/rebuttals_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2856/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/materials_scientists.png\" title=\"If a materials scientist gives you a present, always ask whether regifting will incur any requirements for Federal paperwork.\" alt=\"If a materials scientist gives you a present, always ask whether regifting will incur any requirements for Federal paperwork.\" />",
-          "link": "https://xkcd.com/2856/",
-          "publishedOn": "2023-11-17T00:00:00.000Z",
-          "wordCount": 191,
-          "title": "Materials Scientists",
-          "imageUrl": "https://imgs.xkcd.com/comics/materials_scientists_2x.png"
         }
       ]
     },
@@ -775,6 +776,46 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/739610004236173312",
+          "author": null,
+          "description": "text-mode:\nDillmont, Th. de, ed. \nD.M.C. Point de Marque [5] 5me Serié, Mulhouse, Dollfus Mieg & Cie (first pub c.1920), via.",
+          "link": "https://text-mode.tumblr.com/post/739610004236173312",
+          "publishedOn": "2024-01-15T19:31:05.000Z",
+          "wordCount": 1032,
+          "title": "text-mode:\n\nDillmont, Th. de, ed. D.M.C. Point de Marque [5] 5me...",
+          "imageUrl": "https://64.media.tumblr.com/84a9ff7b9d5246327aff8f5918286b40/tumblr_nfdzgrewhP1rpiyaso1_1280.png"
+        },
+        {
+          "id": "https://text-mode.tumblr.com/post/739606066189434880",
+          "author": null,
+          "description": "Raucher by D. Tschöpe, 1985. Made for a PETSCII-competition in the German magazine 64’er. More",
+          "link": "https://text-mode.tumblr.com/post/739606066189434880",
+          "publishedOn": "2024-01-15T18:28:29.000Z",
+          "wordCount": 1024,
+          "title": "Raucher by D. Tsch&ouml;pe, 1985. Made for a PETSCII-competition in the German magazine 64&rsquo;er. More",
+          "imageUrl": "https://64.media.tumblr.com/1c3dcf8da067fd24ad6b9495665f2b82/37bc804ee586af8d-db/s400x600/fee6103daa3e07d22665fb5814f5f3f7a199241d.png"
+        },
+        {
+          "id": "https://text-mode.tumblr.com/post/739599463160709120",
+          "author": null,
+          "description": "Weavings by Elsa Pärs-Berglund, made 1974-1984. More here.",
+          "link": "https://text-mode.tumblr.com/post/739599463160709120",
+          "publishedOn": "2024-01-15T16:43:32.000Z",
+          "wordCount": 1016,
+          "title": "Weavings by&nbsp;Elsa P&auml;rs-Berglund, made 1974-1984. More here.",
+          "imageUrl": "https://64.media.tumblr.com/41448ad14d754aba5dbb60f4e323cd3d/0d6a67091d9ac170-d5/s1280x1920/ad3bb87a767fe827d474c13acf2d608012e89676.png"
+        },
+        {
+          "id": "https://text-mode.tumblr.com/post/739591024456990720",
+          "author": null,
+          "description": "By Josefin Gäfvert. More.",
+          "link": "https://text-mode.tumblr.com/post/739591024456990720",
+          "publishedOn": "2024-01-15T14:29:24.000Z",
+          "wordCount": 942,
+          "title": "By Josefin G&auml;fvert. More.",
+          "imageUrl": "https://64.media.tumblr.com/66c0f45c6b20126bf41764f6847fb1bf/756a2cf109ea57be-54/s640x960/6fe26c6883c1e131c8fd9617d0d567fe00c526c0.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/739519394982625280",
           "author": null,
@@ -1514,16 +1555,6 @@
           "wordCount": 986,
           "title": "text-mode:\n\nThe Crolux Complex in Barlad, Romania. Designed by...",
           "imageUrl": "https://64.media.tumblr.com/7768f130f93581077b96c4796e2fd01b/tumblr_ntp207mKU11rpiyaso1_640.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/734174198669377536",
-          "author": null,
-          "description": "teletextart:\n#teletextartoftheday #pixelart Selfie SNEAK PEEK! Glitched Desert Cruises, Dan Farrimond, 2015\n‘Selfie’ is coming soon: http://store.steampowered.com/app/287140/\nSource: http://danfarrimond.co.uk",
-          "link": "https://text-mode.tumblr.com/post/734174198669377536",
-          "publishedOn": "2023-11-16T19:31:16.000Z",
-          "wordCount": 933,
-          "title": "teletextart:\n\n#teletextartoftheday #pixelart Selfie SNEAK PEEK!...",
-          "imageUrl": "https://64.media.tumblr.com/373a47255483b9339279823b042bc7fe/tumblr_nnblz01sa71rdyyyuo1_1280.png"
         }
       ]
     },
@@ -1769,6 +1800,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=7778",
+          "author": "Cory Doctorow",
+          "description": "Today's links Sympathy for the spammer: The desperate and credulous are superspreaders in the botshit pandemic. Hey look at this: Delights to delectate. This day in history: 2009, 2014, 2019, 2023 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Sympathy for the spammer (permalink) In any scam, any con, any hustle, the big winners are the people who supply the scammers – not the scammers themselves. The kids selling dope on the corner are making less than minimum wage, while the respectable crime-bosses who own the labs clean up. Desperate \"retail investors\" who buy shitcoins from Superbowl ads get skinned, while the MBA bros who issue the coins make millions (in real dollars, not crypto). It's ever been thus. The California gold rush wa…",
+          "link": "https://pluralistic.net/2024/01/15/passive-income-brainworms/",
+          "publishedOn": "2024-01-15T16:27:00.000Z",
+          "wordCount": 3801,
+          "title": "Pluralistic: Sympathy for the spammer (15 Jan 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=7772",
           "author": "Cory Doctorow",
@@ -5242,86 +5283,6 @@
           "publishedOn": "2023-11-17T15:01:43.000Z",
           "wordCount": 545,
           "title": "Astronauts accidentally dropped a tool bag on a spacewalk, and you can...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/id-knit-that-kendall-ross",
-          "author": null,
-          "description": "I love these busy, wordy, and brightly colored sweaters from Kendall Ross. From her about page:\nKendall Ross, aka “I’d Knit That”, is an Oklahoma City based fiber artist. She is best known for hand-knitting colorful, wearable art pieces. She uses intricate hand-knitting colorwork methods like intarsia and fair isle to illustrate images and incorporate her original texts into the fabric of her work. Each stitch on every sweater, vest, mural, and textile is painstakingly planned and knit over countless hours using two needles and wool.\n\n\nYou can check out more of Ross’s work on Instagram.\nTags: art · fashion · Kendall Ross\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/id-knit-that-kendall-ross",
-          "publishedOn": "2023-11-16T23:34:41.000Z",
-          "wordCount": 625,
-          "title": "I&#8217;d Knit That: Kendall Ross&#8217;s Knitted Wearable Artworks",
-          "imageUrl": "https://kottke.org/plus/misc/images/kendall-ross-knits-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/11/0043459-this-dutch-webapp-uses-ai",
-          "author": null,
-          "description": "This Dutch webapp uses AI to reimagine what any street on Google Street View would look like as a bike- and pedestrian-friendly street.\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/0043459-this-dutch-webapp-uses-ai",
-          "publishedOn": "2023-11-16T22:45:40.000Z",
-          "wordCount": 546,
-          "title": "This Dutch webapp uses AI to reimagine what any street on Google...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/the-telegraph-and-the-invention-of-weather-forecasting",
-          "author": null,
-          "description": "In the early days of the telegraph, station operators began sharing the local weather with each other. As the practice became more widespread, people started to realize that what happened in one location translated to later events in another location. Modern weather forecasting and the concept of weather systems were born.\nThe operators had discovered something both interesting and paradoxical, the writer Andrew Blum observes in his book The Weather Machine. The telegraph had collapsed time but, in doing so, it had somehow simultaneously created more of it. Now people could see what the future held before it happened; they could know that a storm was on its way hours before the rain started falling or the clouds appeared in the sky. This new, real-time information also did something else, Blum points out. It allowed weather to be visualized as a system, transforming static, localized pieces of data into one large and ever-shifting whole.\n\n\n \nTags: meteorology · science · telegraph · weather\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/the-telegraph-and-the-invention-of-weather-forecasting",
-          "publishedOn": "2023-11-16T20:47:40.000Z",
-          "wordCount": 707,
-          "title": "The Telegraph and the Invention of Weather Forecasting",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/bobby-fingers-makes-a-jeff-bezos-rowboat",
-          "author": null,
-          "description": "This is probably the weirdest thing you’ll see all week: Bobby Fingers (who you might remember from his diorama of Michael Jackson on fire) made a rowboat shaped like the head of Jeff Bezos. The head is super-realistic and the head/boat is big enough to hold at least one person. What a delightfully odd mixture of exacting craftsmanship, performance art, comedy, and just plain WTF. Slightly NSFW (hairy butt cheeks). (via waxy)\nTags: Bobby Fingers · Jeff Bezos · video",
-          "link": "https://kottke.org/23/11/bobby-fingers-makes-a-jeff-bezos-rowboat",
-          "publishedOn": "2023-11-16T18:39:40.000Z",
-          "wordCount": 228,
-          "title": "Bobby Fingers Makes a Jeff Bezos Rowboat",
-          "imageUrl": "https://i.ytimg.com/vi/VGhcSupkNs8/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/11/0043456-from-a-recent-pew-researc",
-          "author": null,
-          "description": "From a recent Pew Research report: “A majority of Americans say they would tip 15% or less for an average meal at a sit-down restaurant.” 2% say they tip nothing. Quality of service is a major factor in most Americans’ tipping practices.\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/0043456-from-a-recent-pew-researc",
-          "publishedOn": "2023-11-16T17:08:33.000Z",
-          "wordCount": 643,
-          "title": "From a recent Pew Research report: &#8220;A majority of Americans say they...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/how-would-interstellar-weaponry-work",
-          "author": null,
-          "description": "In their latest video, Kurzgesagt takes a break from their more serious topics to consider a scenario from the realm of science fiction: interstellar combat. Using technology that is theoretically available to us here on Earth, could a more advanced civilization some 42 light years away destroy our planet without any warning? They outline three potential weapons: the Star Laser, the Relativistic Missile, and the Ultra-Relativistic Electron Beam.\nHere’s what I don’t understand though: how would the targeting work? In order for an alien civilization to hit the Earth with a laser from 42 light years away, it has to not only predict, within a margin of error of the Earth’s diameter, precisely where the Earth is going to be, but also have a system capable of aiming across 42 light years of distance with that precision. Is this even possible? How precisely do we know where the Earth is going to be in 42 years? And if you’re aiming at something 42 light years away, if you move the sights a nanometer, how much angular distance does that shift the the destination by? And how much does the gravity of matter along the way shift the trajectory and is it possible to accurately compensate for that? Maybe this should be their next video…\nTags: Kurzgesagt · physics · science · video · war\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/how-would-interstellar-weaponry-work",
-          "publishedOn": "2023-11-16T16:37:36.000Z",
-          "wordCount": 925,
-          "title": "How Would Interstellar Weaponry Work?",
-          "imageUrl": "https://i.ytimg.com/vi/tybKnGZRwcU/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/11/0043452-what-i-read-to-my",
-          "author": null,
-          "description": "What I Read to My Son When the World Is on Fire. “Children’s books, which present subtle truths in simple terms, offer a valuable tool in retaining our moral bearings, especially amid a maelstrom of grief and rage.”",
-          "link": "https://kottke.org/23/11/0043452-what-i-read-to-my",
-          "publishedOn": "2023-11-16T16:09:37.000Z",
-          "wordCount": 188,
-          "title": "What I Read to My Son When the World Is on Fire....",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/0043453-a-coder-considers-the-wan",
-          "author": null,
-          "description": "A Coder Considers the Waning Days of the Craft. “I suspect that non-programmers who are skeptical by nature, and who have seen ChatGPT turn out wooden prose or bogus facts, are still underestimating what’s happening.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/0043453-a-coder-considers-the-wan",
-          "publishedOn": "2023-11-16T15:16:45.000Z",
-          "wordCount": 556,
-          "title": "A Coder Considers the Waning Days of the Craft. &#8220;I suspect that...",
           "imageUrl": ""
         }
       ]
