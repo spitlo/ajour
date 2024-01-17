@@ -66,6 +66,16 @@
       "siteUrl": "https://sarasoueidan.com/blog-feed.xml",
       "articles": [
         {
+          "id": "https://sarasoueidan.com/blog/accessible-notifications-with-aria-live-regions-part-2/",
+          "author": null,
+          "description": "In the first part of this chapter we discussed what we might need live regions for, and how to create them using HTML and ARIA.\nIn this part, we’re going to discuss what live regions are not suitable for and why, and we’re going to discuss more robust ways to implement some common UI patterns that you might otherwise consider using live regions for. After that, we’re going to go over some best practices for implementing live regions for when you do need to use them to represent things like status messages in your web applications.\nLive regions are easy to misuse and to overuse. Aside from inconsistent browser and screen reader support, live regions’ inherent capabilities are limited by design, which makes them unsuitable for certain types of content updates.\nLive regions don’t handle rich …",
+          "link": "https://sarasoueidan.com/blog/accessible-notifications-with-aria-live-regions-part-2/",
+          "publishedOn": "2024-01-15T00:00:00.000Z",
+          "wordCount": 5577,
+          "title": "Accessible notifications with ARIA Live Regions (Part 2)",
+          "imageUrl": "/assets/images/logo/sara-illustration.png"
+        },
+        {
           "id": "https://sarasoueidan.com/blog/accessible-notifications-with-aria-live-regions-part-1/",
           "author": null,
           "description": "In this chapter, we’re going to learn about ARIA live regions — the accessible notifications system that enables us to make dynamic web content more accessible to screen reader users.\nWithout live regions, some rich web applications would be more challenging to use for screen reader users. So if you’re building web applications such as Single Page Applications (SPAs), you need to understand live regions so that you can utilize them where appropriate.\nThis chapter is split into two parts. In this first part, we’re going to learn about why ARIA live regions are important, and the different ARIA attributes and roles that you can use to create them. We’re going to get an overview of these attributes, as well as learn about their current support landscape and limitations.\nIn the second part, we…",
@@ -133,6 +143,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2881/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/bug_thread.png\" title=\"After some account issues, we've added 6 new people from the beach house rental website support forum.\" alt=\"After some account issues, we've added 6 new people from the beach house rental website support forum.\" />",
+          "link": "https://xkcd.com/2881/",
+          "publishedOn": "2024-01-15T00:00:00.000Z",
+          "wordCount": 219,
+          "title": "Bug Thread",
+          "imageUrl": "https://imgs.xkcd.com/comics/bug_thread_2x.png"
+        },
         {
           "id": "https://xkcd.com/2880/",
           "author": null,
@@ -449,16 +469,6 @@
           "wordCount": 1152,
           "title": "Scraping Goodreads [blog]",
           "imageUrl": "https://remysharp.com/images/cards/og/9-1.jpg"
-        },
-        {
-          "id": "the-murder-of-roger-ackroyd-hercule-poirot-4",
-          "author": null,
-          "description": "Surprisingly modern for a book written nearly 100 years ago. A solid murder mystery.\nApparently one of Christie's most (or more?) controversial books which I can believe given it was written in 1926. There's talk of drugs and cocaine and even a dictaphone (which I didn't even know had been invented back then).\nI did somehow guess the murderer, but I suspect it's because so many stories have come since, and it was a technique that has been employed many times since.\nStill, enjoyable, and holds up well even in 2023.",
-          "link": "https://remysharp.com/books/2023/the-murder-of-roger-ackroyd-hercule-poirot-4",
-          "publishedOn": "2023-11-18T00:00:00.000Z",
-          "wordCount": 603,
-          "title": "The Murder of Roger Ackroyd (Hercule Poirot, #4) [book]",
-          "imageUrl": null
         }
       ]
     },
@@ -776,6 +786,26 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/739705355480842240",
+          "author": null,
+          "description": "Don’t do it, Giger! PETSCII by rexbeng, 2021.",
+          "link": "https://text-mode.tumblr.com/post/739705355480842240",
+          "publishedOn": "2024-01-16T20:46:39.000Z",
+          "wordCount": 886,
+          "title": "Don&rsquo;t do it, Giger!&nbsp;PETSCII by rexbeng, 2021.",
+          "imageUrl": "https://64.media.tumblr.com/328e6fbbe68d16bb8196e28daa5ab372/5bce078e8831986d-02/s400x600/c475b712b8a64da7fa7d5c5fc008bf9ba6b6510a.png"
+        },
+        {
+          "id": "https://text-mode.tumblr.com/post/739700571201765377",
+          "author": null,
+          "description": "text-mode:\n‘Code Poems’ by Hannah Weiner (1982)",
+          "link": "https://text-mode.tumblr.com/post/739700571201765377",
+          "publishedOn": "2024-01-16T19:30:36.000Z",
+          "wordCount": 992,
+          "title": "text-mode:\n\n‘Code Poems’ by Hannah Weiner (1982)",
+          "imageUrl": "https://64.media.tumblr.com/8d0305047d4605ffdf7d4991c216c3d9/tumblr_nis9x3TqyI1rpiyaso1_1280.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/739610004236173312",
           "author": null,
@@ -1545,16 +1575,6 @@
           "wordCount": 1008,
           "title": "text-mode:\n\nThe Monotype (1890) that seems to have been used for...",
           "imageUrl": "https://64.media.tumblr.com/f45eb487cf9f8ca9d4e5a4ab80d50b3b/tumblr_ntp1mlYFt81rpiyaso1_1280.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/734264766392041472",
-          "author": null,
-          "description": "text-mode:\nThe Crolux Complex in Barlad, Romania. Designed by B.A.C.U in the 1970s? source",
-          "link": "https://text-mode.tumblr.com/post/734264766392041472",
-          "publishedOn": "2023-11-17T19:30:49.000Z",
-          "wordCount": 986,
-          "title": "text-mode:\n\nThe Crolux Complex in Barlad, Romania. Designed by...",
-          "imageUrl": "https://64.media.tumblr.com/7768f130f93581077b96c4796e2fd01b/tumblr_ntp207mKU11rpiyaso1_640.png"
         }
       ]
     },
@@ -1800,6 +1820,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=7795",
+          "author": "Cory Doctorow",
+          "description": "Today's links American education has all the downsides of standardization, none of the upsides: A common core, but no commons. Hey look at this: Delights to delectate. This day in history: 2004, 2009, 2014, 2019, 2023 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading American education has all the downsides of standardization, none of the upsides (permalink) We moved to America in 2015, in time for my kid to start third grade. Now she's a year away from graduating high school (!) and I've had a front-row seat for the US K-12 system in a district rated as one of the best in the country. There were ups and downs, but high school has been a monster. We're a decade and a half into the \"common core\" experiment in educational standardization. T…",
+          "link": "https://pluralistic.net/2024/01/16/flexibility-in-the-margins/",
+          "publishedOn": "2024-01-16T18:34:16.000Z",
+          "wordCount": 3740,
+          "title": "Pluralistic: American education has all the downsides of standardization, none of the upsides (16 Jan 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=7778",
           "author": "Cory Doctorow",
@@ -2174,16 +2204,6 @@
           "wordCount": 5345,
           "title": "Pluralistic: Pinkdrunk Linkdump (18 Nov 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=7418",
-          "author": "Cory Doctorow",
-          "description": "Today's links Red-teaming the SCOTUS code of conduct: Let's take a look at what it *actually* prohibits. Hey look at this: Delights to delectate. This day in history: 2003, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Red-teaming the SCOTUS code of conduct (permalink) Last April, Propublica's Joshua Kaplan, Justin Elliott and Alex Mierjeski dropped a bombshell: Supreme Court Justice Clarence Thomas had been showered in high-ticket \"gifts\" by billionaire ideologue Harlan Crow, who subsequently benefited from Thomas's rulings in the court: https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow This was just the beginning: in the coming days and weeks, more and more of Thomas's co…",
-          "link": "https://pluralistic.net/2023/11/17/red-team-black-robes/",
-          "publishedOn": "2023-11-17T18:30:19.000Z",
-          "wordCount": 3366,
-          "title": "Pluralistic: Red-teaming the SCOTUS code of conduct (17 Nov 2023)",
-          "imageUrl": null
         }
       ]
     },
@@ -2215,6 +2235,106 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/01/what-if-the-bear-but-a-commercial-for-coke",
+          "author": null,
+          "description": "If the vibe of this commercial for the Coca-Cola Company seems familiar, perhaps it’s because Christopher Storer directed it — Storer is the creator of The Bear and wrote & directed Fishes, the intense season two Christmas episode. No homemade Sprite in this video though…they got to use the real stuff! (via matt)\nTags: advertising · Christopher Storer · Coca-Cola · food · The Bear · TV · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/what-if-the-bear-but-a-commercial-for-coke",
+          "publishedOn": "2024-01-16T22:54:00.000Z",
+          "wordCount": 585,
+          "title": "What If The Bear, But a Commercial for Coke?",
+          "imageUrl": "https://i.ytimg.com/vi/bIiXHrP67Rs/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/01/0043787-carl-zimmer-why-are-some",
+          "author": null,
+          "description": "Carl Zimmer: Why are some mushrooms “magic”? “I like to imagine them sprouting in dark, dying forests littered with the corpses of tyrannosaurs.”\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/0043787-carl-zimmer-why-are-some",
+          "publishedOn": "2024-01-16T21:46:19.000Z",
+          "wordCount": 543,
+          "title": "Carl Zimmer: Why are some mushrooms &#8220;magic&#8221;? &#8220;I like to imagine them...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/01/when-we-return-you-wont-recognise-us",
+          "author": null,
+          "description": "I do not remember how I stumbled upon this painting by British artist Glenn Brown but I like it quite a lot. You can check out more of his work on his website.\nTags: art · Glenn Brown\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/when-we-return-you-wont-recognise-us",
+          "publishedOn": "2024-01-16T20:53:36.000Z",
+          "wordCount": 592,
+          "title": "&#8220;When We Return You Won&#8217;t Recognise Us&#8221;",
+          "imageUrl": "https://kottke.org/plus/misc/images/glenn-brown-art-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/01/0043789-cat-and-girl-on-being",
+          "author": null,
+          "description": "Cat and Girl comic: “On being listed on the court document of artists whose work was used to train Midjourney with 4,000 of my closest friends and Willem de Kooning”.\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/0043789-cat-and-girl-on-being",
+          "publishedOn": "2024-01-16T20:04:48.000Z",
+          "wordCount": 551,
+          "title": "Cat and Girl comic: &#8220;On being listed on the court document of...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/01/0043790-photo-series-from-in-focu",
+          "author": null,
+          "description": "Photo series from In Focus: Lava Flows Into an Icelandic Town. There are some real “the fires of Mt. Doom” vibes in that first photo.\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/0043790-photo-series-from-in-focu",
+          "publishedOn": "2024-01-16T19:18:58.000Z",
+          "wordCount": 545,
+          "title": "Photo series from In Focus: Lava Flows Into an Icelandic Town. There...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/01/the-trailer-for-adam-sandlers-spaceman",
+          "author": null,
+          "description": "Adam Sandler in a movie about space… I honestly didn’t know what to expect when I clicked play on the trailer for Spaceman this morning. Was I going to get Waterboy / Billy Madison Adam Sandler or Uncut Gems / Punch-Drunk Love Adam Sandler? Thankfully, it appears to be the latter. Spaceman is directed by Johan Renck (who directed the excellent Chernobyl) and is based on Jaroslav Kalfař’s 2017 novel Spaceman of Bohemia.\nSix months into a solitary research mission to the edge of the solar system, an astronaut, Jakub (Adam Sandler), realizes that the marriage he left behind might not be waiting for him when he returns to Earth. Desperate to fix things with his wife, Lenka (Carey Mulligan), he is helped by a mysterious creature from the beginning of time he finds hiding in the bowels of his ship. Hanus (voiced by Paul Dano) works with Jakub to make sense of what went wrong before it is too late.\n\n\nSpaceman is out on March 1 on Netflix.\nTags: Adam Sandler · books · Jaroslav Kalfar · movies · Spaceman · Spaceman of Bohemia · trailers · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/the-trailer-for-adam-sandlers-spaceman",
+          "publishedOn": "2024-01-16T18:31:56.000Z",
+          "wordCount": 697,
+          "title": "The Trailer for Adam Sandler&#8217;s Spaceman",
+          "imageUrl": "https://i.ytimg.com/vi/rNZ0xKaCdus/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/01/0043784-watch-the-synchronized-da",
+          "author": null,
+          "description": "Watch the Synchronized Dance of a 6-Planet System. A star has been discovered whose planets orbit rhythmically around it — the inner planets at a 3/2 resonance and the outer ones at 4/3 resonance. (Watch the video — the orbiting planets play music.)\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/0043784-watch-the-synchronized-da",
+          "publishedOn": "2024-01-16T17:58:42.000Z",
+          "wordCount": 563,
+          "title": "Watch the Synchronized Dance of a 6-Planet System. A star has been...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/01/0043783-ai-can-do-your-homework",
+          "author": null,
+          "description": "AI can do your homework. Now what? “This presents a major challenge to educators, who now need to rethink their curriculum to either incorporate chatbot use or to attempt to deter it.”\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/0043783-ai-can-do-your-homework",
+          "publishedOn": "2024-01-16T17:08:42.000Z",
+          "wordCount": 825,
+          "title": "AI can do your homework. Now what? &#8220;This presents a major challenge...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/01/0043782-emma-stone-applies-to-be",
+          "author": null,
+          "description": "Emma Stone applies to be on Jeopardy! every year — and not that “Celebrity” horsecrap. “‘I really want to earn my stripes,’ noted the Poor Things star, who says she watches every episode of the syndicated game show.”\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/0043782-emma-stone-applies-to-be",
+          "publishedOn": "2024-01-16T16:16:47.000Z",
+          "wordCount": 560,
+          "title": "Emma Stone applies to be on Jeopardy! every year — and not...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/01/100-layer-lasagna",
+          "author": null,
+          "description": "This is completely impractical for the home cook but I kinda want to try it anyway? The final step of frying the lasagna core sample in butter and serving it topped with a bunch of pecorino is some next-level deliciousness.\nTags: food · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/100-layer-lasagna",
+          "publishedOn": "2024-01-16T15:33:58.000Z",
+          "wordCount": 558,
+          "title": "100 Layer Lasagna",
+          "imageUrl": "https://i.ytimg.com/vi/5CEDp_2b3IA/sddefault.jpg"
+        },
         {
           "id": "https://kottke.org/24/01/perfect-friday-thing-emoji-kitchen",
           "author": null,
@@ -5173,116 +5293,6 @@
           "publishedOn": "2023-11-19T21:52:54.000Z",
           "wordCount": 181,
           "title": "Former First Lady Rosalynn Carter Passes Away at Age 96. President Carter:...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/replace-carswith-bats",
-          "author": null,
-          "description": "Well, it has been a loooong week and this made me laugh a stupid amount, so now you’re seeing it. ✌️\nTags: cars",
-          "link": "https://kottke.org/23/11/replace-carswith-bats",
-          "publishedOn": "2023-11-17T21:30:13.000Z",
-          "wordCount": 167,
-          "title": "Replace Cars&#8230;.With Bats?",
-          "imageUrl": "https://kottke.org/plus/misc/images/replace-cars-bats.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/11/0043472-sam-altman-is-out-as",
-          "author": null,
-          "description": "Sam Altman is out as CEO and a member of the board of directors at OpenAI. “A deliberative review process by the board […] concluded that he was not consistently candid in his communications with the board…”",
-          "link": "https://kottke.org/23/11/0043472-sam-altman-is-out-as",
-          "publishedOn": "2023-11-17T20:42:02.000Z",
-          "wordCount": 190,
-          "title": "Sam Altman is out as CEO and a member of the board...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/a-master-printer-makes-his-final-print",
-          "author": null,
-          "description": "This video from MoMA follows master printer Jacob Samuel as he makes his final print before he retires.\nAs he inks, hand wipes, and rolls his final print through the press, he reflects on his philosophy. “My goal is to leave no fingerprints,” he says. All you see is the artist’s work. I’m just another pencil. I’m just another brush. But I want the pencil to be sharpened really well. I want the brush to be sable. And to do that and be completely spontaneous, I trust the materials.”\n\n\n \nTags: art · Jacob Samuel · MoMA · video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/a-master-printer-makes-his-final-print",
-          "publishedOn": "2023-11-17T20:26:12.000Z",
-          "wordCount": 616,
-          "title": "A Master Printer Makes His Final Print",
-          "imageUrl": "https://i.ytimg.com/vi/ByrsQzXNi_w/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/11/0043463-is-my-toddler-a-stochasti",
-          "author": null,
-          "description": "Is My Toddler a Stochastic Parrot? “The world is racing to develop ever more sophisticated large language models while a small language model unfurls itself in my home. It’s funny to observe the similarities between the two models.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/0043463-is-my-toddler-a-stochasti",
-          "publishedOn": "2023-11-17T19:38:38.000Z",
-          "wordCount": 559,
-          "title": "Is My Toddler a Stochastic Parrot? &#8220;The world is racing to develop...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/0043468-jonathan-hoefler-thoughtf",
-          "author": null,
-          "description": "Jonathan Hoefler thoughtfully considers how generative AI might change how type designers work. “In this context, AI is no less threatening than the Bézier curve, the photocopier, or the ruler.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/0043468-jonathan-hoefler-thoughtf",
-          "publishedOn": "2023-11-17T18:54:20.000Z",
-          "wordCount": 547,
-          "title": "Jonathan Hoefler thoughtfully considers how generative AI might change how type designers...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/0043465-a-developer-combined-an-a",
-          "author": null,
-          "description": "A developer combined an AI vision system with a voice cloning AI to produce a program that narrates his behavior with David Attenborough’s voice. “Here we have a remarkable specimen of Homo sapiens distinguished by his silver circular spectacle…”\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/0043465-a-developer-combined-an-a",
-          "publishedOn": "2023-11-17T18:22:08.000Z",
-          "wordCount": 559,
-          "title": "A developer combined an AI vision system with a voice cloning AI...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/winners-of-the-2023-natural-landscape-photography-awards",
-          "author": null,
-          "description": "The winners have been announced in the Natural Landscape Photography Awards for 2023. The competition rules are worth a look — they are pretty hardcore on the types of editing and retouching allowed. I posted some favorites above; from top to bottom by Jeroen Van Nieuwenhove, Xavier Lequarre, Blake Randall, and Jay Tayag. (via in focus)\nTags: best of · best of 2023 · photography",
-          "link": "https://kottke.org/23/11/winners-of-the-2023-natural-landscape-photography-awards",
-          "publishedOn": "2023-11-17T17:47:24.000Z",
-          "wordCount": 215,
-          "title": "Winners of the 2023 Natural Landscape Photography Awards",
-          "imageUrl": "https://kottke.org/plus/misc/images/nat-landscape-photos-23-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/11/0043464-the-siena-galaxy-atlas-20",
-          "author": null,
-          "description": "The Siena Galaxy Atlas 2020 is a massive online database of 383,620 nearby galaxies. The web still excels at the purpose for which it was created: sharing scientific information.\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/0043464-the-siena-galaxy-atlas-20",
-          "publishedOn": "2023-11-17T17:06:44.000Z",
-          "wordCount": 551,
-          "title": "The Siena Galaxy Atlas 2020 is a massive online database of 383,620...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/0043462-the-washington-post-has-p",
-          "author": null,
-          "description": "The Washington Post has published crime scene photos from 11 mass shootings from 2012 to 2023 that show just how destructive the AR-15 is. Note: This is *very* disturbing and upsetting. Good god, no more guns. Please.",
-          "link": "https://kottke.org/23/11/0043462-the-washington-post-has-p",
-          "publishedOn": "2023-11-17T16:23:51.000Z",
-          "wordCount": 184,
-          "title": "The Washington Post has published crime scene photos from 11 mass shootings...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/0043461-remember-batkid-10-years-",
-          "author": null,
-          "description": "Remember Batkid? 10 years ago, the Make-A-Wish Foundation transformed San Francisco into Gotham City so cancer patient Miles Scott could suit up as Batkid and save the city. Today, Scott is a cancer-free high school student.\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/0043461-remember-batkid-10-years-",
-          "publishedOn": "2023-11-17T15:43:30.000Z",
-          "wordCount": 554,
-          "title": "Remember Batkid? 10 years ago, the Make-A-Wish Foundation transformed San Francisco into...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/0043460-astronauts-accidentally-d",
-          "author": null,
-          "description": "Astronauts accidentally dropped a tool bag on a spacewalk, and you can see it with binoculars. “This isn’t even the first tool bag to reach orbit.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/0043460-astronauts-accidentally-d",
-          "publishedOn": "2023-11-17T15:01:43.000Z",
-          "wordCount": 545,
-          "title": "Astronauts accidentally dropped a tool bag on a spacewalk, and you can...",
           "imageUrl": ""
         }
       ]
