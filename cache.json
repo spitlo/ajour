@@ -135,18 +135,7 @@
       "title": "Emily Short's Interactive Storytelling",
       "feedUrl": "https://emshort.blog/feed/",
       "siteUrl": "https://emshort.blog",
-      "articles": [
-        {
-          "id": "http://emshort.blog/?p=42983",
-          "author": "Emily Short",
-          "description": "Mask of the Rose is a dating-and-murder-mystery virtual novel set in Failbetter’s Fallen London universe. In line with that genre, it typically gives the player between two and four dialogue choices for conversation – occasionally more or fewer than that, but usually keeping things in that range. The trick was, though, that we wanted to actually … Continue reading \"Dialogue Expressiveness in Mask of the Rose\"",
-          "link": "https://emshort.blog/2023/11/22/dialogue-expressiveness-in-mask-of-the-rose/",
-          "publishedOn": "2023-11-22T17:51:48.000Z",
-          "wordCount": 6000,
-          "title": "Dialogue Expressiveness in Mask of the Rose",
-          "imageUrl": "https://emshort.files.wordpress.com/2023/11/image-5.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "xkcd.com",
@@ -786,6 +775,26 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/740155780419010560",
+          "author": null,
+          "description": "Serpenti (100 colors no.50) by Emmanuelle Moureaux, 2023.",
+          "link": "https://text-mode.tumblr.com/post/740155780419010560",
+          "publishedOn": "2024-01-21T20:05:57.000Z",
+          "wordCount": 956,
+          "title": "Serpenti (100 colors no.50)&nbsp;by Emmanuelle Moureaux, 2023.",
+          "imageUrl": "https://64.media.tumblr.com/5e43d165a1ef8a1355a4d4a719b7fdd6/489509ee2a9410aa-24/s1280x1920/2eded5a978201efa3783b9e23128ca38501cdd0f.jpg"
+        },
+        {
+          "id": "https://text-mode.tumblr.com/post/740153555935248384",
+          "author": null,
+          "description": "text-mode:\nOriginally tumbled by Steph Davidson. Horse by oldschool newsgroup ASCII artist -hrr-.",
+          "link": "https://text-mode.tumblr.com/post/740153555935248384",
+          "publishedOn": "2024-01-21T19:30:36.000Z",
+          "wordCount": 1019,
+          "title": "text-mode:\n\nOriginally tumbled by Steph Davidson. Horse by...",
+          "imageUrl": "https://64.media.tumblr.com/2768d918eb098adb013bc7780647f5ce/tumblr_n4lnttmCV71qzoj6fo1_1280.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/740064891020378112",
           "author": null,
@@ -1595,16 +1604,6 @@
           "wordCount": 999,
           "title": "text-mode:\n\nPaintings, prints, etc by Andrew Kalkov, Ukraine.",
           "imageUrl": "https://64.media.tumblr.com/4ece070ade316a3d9130aa7b2732717d/tumblr_nt1cvfAkjN1rpiyaso1_640.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/734717810241142784",
-          "author": null,
-          "description": "text-mode:\n/-works by Casey Reas. ///////////////// \n\\\\\\",
-          "link": "https://text-mode.tumblr.com/post/734717810241142784",
-          "publishedOn": "2023-11-22T19:31:45.000Z",
-          "wordCount": 976,
-          "title": "text-mode:\n\n/-works by Casey Reas. ///////////////// \\\\\\",
-          "imageUrl": "https://64.media.tumblr.com/74a3cb825cac8e1c79a12f06d2f656dc/tumblr_nt1dheXdUW1rpiyaso3_640.jpg"
         }
       ]
     },
@@ -1702,16 +1701,6 @@
           "wordCount": 2016,
           "title": "Mozilla Foundation Welcomes Four New Board Members",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/03/moz_blog_header_pattern_1920x1080_03-1080x720.jpg"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=73712",
-          "author": "Rebecca Smith",
-          "description": "Remember when the holidays meant waking up early and going down and opening up presents? When the only gift list you had to worry about was the gifts you were asking for. Last year, it was estimated that adults bought an average of nine presents and spent about $1500 on holiday gifts. Buying gifts doesn’t […]\nThe post Seven tips to make holiday shopping easier. Really. appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/online-holiday-shopping-tips/",
-          "publishedOn": "2023-11-22T17:07:00.000Z",
-          "wordCount": 2423,
-          "title": "Seven tips to make holiday shopping easier. Really.",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/11/moz_header_holiday_firefox-phone-gifts_blue-03.png-1081x720.png"
         }
       ]
     },
@@ -1758,16 +1747,6 @@
           "publishedOn": "2023-12-04T09:28:03.000Z",
           "wordCount": 2122,
           "title": "Mounting git commits as folders with NFS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2023/11/23/branches-intuition-reality/",
-          "author": null,
-          "description": "Hello! I’ve been working on writing a zine about git so I’ve been thinking\nabout git branches a lot. I keep hearing from people that they find the way git\nbranches work to be counterintuitive. It got me thinking:  what might an\n“intuitive” notion of a branch be, and how is it different from how git\nactually works?\nSo in this post I want to briefly talk about\nan intuitive mental model I think many people have\nhow git actually represents branches internally (“branches are a pointer to a commit” etc)\nhow the “intuitive model” and the real way it works are actually pretty closely related\nsome limits of the intuitive model and why it might cause problems\nNothing in this post is remotely groundbreaking so I’m going to try to keep it pretty short.\nan intuitive model of a branch\nOf course, people …",
-          "link": "https://jvns.ca/blog/2023/11/23/branches-intuition-reality/",
-          "publishedOn": "2023-11-23T09:51:27.000Z",
-          "wordCount": 2102,
-          "title": "git branches: intuition & reality",
           "imageUrl": null
         }
       ]
@@ -2225,6 +2204,16 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/01/0043823-air-jordan-is-finally-def",
+          "author": null,
+          "description": "Air Jordan Is Finally Deflating by Ross Andersen. “Perhaps footwear just doesn’t pop like a jersey on the illuminated wall of a plutocrat’s man cave.”\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/0043823-air-jordan-is-finally-def",
+          "publishedOn": "2024-01-21T16:07:23.000Z",
+          "wordCount": 544,
+          "title": "Air Jordan Is Finally Deflating by Ross Andersen. &#8220;Perhaps footwear just doesn&#8217;t...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/24/01/0043808-free-download-a-knitting-",
           "author": null,
@@ -5243,106 +5232,6 @@
           "publishedOn": "2023-11-23T15:45:48.000Z",
           "wordCount": 181,
           "title": "Whoa, the 2nd-gen Apple AirPods Pro are on sale at Amazon for...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/ministry-of-sounds-the-annual---millennium-edition",
-          "author": null,
-          "description": "I listened to Ministry of Sound’s The Annual - Millennium Edition on heavy repeat in my mid 20s. What a treat it is to rediscover it on Soundcloud:\n\n\nIt’s an unofficial upload so who knows how long it will last. The three song mix by Judge Jules at the beginning of the first disc is still one of my all-time favorite mixes — I’m dancing in my chair to it right now.\nTags: Judge Jules · Ministry of Sound · music · remix\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/ministry-of-sounds-the-annual---millennium-edition",
-          "publishedOn": "2023-11-22T20:44:18.000Z",
-          "wordCount": 603,
-          "title": "Ministry of Sound&#8217;s The Annual - Millennium Edition",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/0043509-craig-mods-new-book-is",
-          "author": null,
-          "description": "Craig Mod’s new book is out: Things Become Other Things. Great title, perfect cover.\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/0043509-craig-mods-new-book-is",
-          "publishedOn": "2023-11-22T20:05:13.000Z",
-          "wordCount": 534,
-          "title": "Craig Mod&#8217;s new book is out: Things Become Other Things. Great title,...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/0043505-ai-thanksgiving-includes-",
-          "author": null,
-          "description": "AI Thanksgiving includes such traditional dishes as GRASTED POTINOS, PUCAPIN, TURFING, FUFER, GREENRRY PANS, and PUPLIN ROLLS.\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/0043505-ai-thanksgiving-includes-",
-          "publishedOn": "2023-11-22T19:26:49.000Z",
-          "wordCount": 534,
-          "title": "AI Thanksgiving includes such traditional dishes as GRASTED POTINOS, PUCAPIN, TURFING, FUFER,...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/0043504-rebecca-solnit-billionair",
-          "author": null,
-          "description": "Rebecca Solnit: Billionaires are out of touch and much too powerful. “The 1% aren’t just the biggest climate wreckers, they also greatly influence how the world responds to the crisis.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/0043504-rebecca-solnit-billionair",
-          "publishedOn": "2023-11-22T18:45:56.000Z",
-          "wordCount": 589,
-          "title": "Rebecca Solnit: Billionaires are out of touch and much too powerful. &#8220;The...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/0043508-the-current-state-of-the-",
-          "author": null,
-          "description": "The current state-of-the-art in AI video generation reminds me so much of the early days of film — short, experimental, silent, uncanny resemblance to real life, mostly just moving still lifes.\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/0043508-the-current-state-of-the-",
-          "publishedOn": "2023-11-22T18:01:14.000Z",
-          "wordCount": 548,
-          "title": "The current state-of-the-art in AI video generation reminds me so much of...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/bach-toccata-insomnia-by-faithless",
-          "author": null,
-          "description": "The Ministry of Sound did a show back in September at the Royal Albert Hall where they re-imagined classic 90s dance music (Fatboy Slim, Chemical Brothers, etc.) backed by a 50-piece orchestra and vocalists. I found out about this via organist Anna Lapwood’s Instagram, where she posted a clip of her participation in the show: playing Bach’s Toccata and Fugue in D minor as a lead-in to Insomnia by Faithless. I enjoyed the captions but the sound on her video is not great; I found this video on YouTube with much better sound (relevant part starts at the 4:15 mark):\n\nI would love to have seen this live…I’d have lost my mind at this part. Sometimes I think I love remixes, mashups, and covers more than the original versions.\nTags: Anna Lapwood · Faithless · Ministry of Sound · music · remix\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/bach-toccata-insomnia-by-faithless",
-          "publishedOn": "2023-11-22T17:33:12.000Z",
-          "wordCount": 666,
-          "title": "Bach&#8217;s Toccata and Fugue in D Minor × Insomnia by Faithless",
-          "imageUrl": "https://i.ytimg.com/vi/H9xAnWFamko/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/11/0043485-a-trailer-for-a-documenta",
-          "author": null,
-          "description": "A trailer for a documentary called A Disturbance in the Force: How the Star Wars Holiday Special Happened.\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/0043485-a-trailer-for-a-documenta",
-          "publishedOn": "2023-11-22T16:55:46.000Z",
-          "wordCount": 538,
-          "title": "A trailer for a documentary called A Disturbance in the Force: How...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/0043495-a-new-version-of-rasmus",
-          "author": null,
-          "description": "A new version of Rasmus Andersson’s Inter typeface has been released. “Inter is a free and open source font family. You are free to use this font in almost any way imaginable.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/0043495-a-new-version-of-rasmus",
-          "publishedOn": "2023-11-22T16:13:33.000Z",
-          "wordCount": 551,
-          "title": "A new version of Rasmus Andersson&#8217;s Inter typeface has been released. &#8220;Inter...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/patricia-lockwood-meets-the-pope",
-          "author": null,
-          "description": "This entire article is a delight from start to finish, full of laugh-out-loud moments. I couldn’t decide which part to quote for you, so here are more than a few particularly delightful paragraphs.\nThe flight to Rome is sentient; it knows exactly where I’m going and what to provide. At my gate, I find myself sitting next to a guy eating a massive perfect panini. He smells like ten men, perhaps because of the additional paninis he is smuggling on his person. On the phone to his mother, he utters the immortal words: ‘And my sanweeches’.\n\n\n\nHope and I have, we have calculated, exactly 72 hours to be tourists. But the elements are against us — it’s 35°C, it’ll be 38°C tomorrow, and I forgot to bring deodorant to meet the pope. So we head to the farmacia, first things first, and buy me an Itali…",
-          "link": "https://kottke.org/23/11/patricia-lockwood-meets-the-pope",
-          "publishedOn": "2023-11-22T14:51:00.000Z",
-          "wordCount": 936,
-          "title": "Patricia Lockwood Meets the Pope",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/0043499-sam-altman-to-return-as",
-          "author": null,
-          "description": "Sam Altman to return as CEO of OpenAI. All but one of the old board members are gone (including both women). New board members are Bret Taylor (Facebook/Salesforce) and Larry Summers (economist). The money won, full steam ahead.\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/0043499-sam-altman-to-return-as",
-          "publishedOn": "2023-11-22T14:13:08.000Z",
-          "wordCount": 1252,
-          "title": "Sam Altman to return as CEO of OpenAI. All but one of...",
           "imageUrl": ""
         }
       ]
