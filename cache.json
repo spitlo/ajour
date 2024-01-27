@@ -775,6 +775,26 @@
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
         {
+          "id": "https://text-mode.tumblr.com/post/740608794288160768",
+          "author": null,
+          "description": "By Jurriaan Schrofer, perhaps in the 1960s? Via Maurice Meilleur.",
+          "link": "https://text-mode.tumblr.com/post/740608794288160768",
+          "publishedOn": "2024-01-26T20:06:25.000Z",
+          "wordCount": 982,
+          "title": "By Jurriaan Schrofer, perhaps in the 1960s?&nbsp;Via Maurice Meilleur.",
+          "imageUrl": "https://64.media.tumblr.com/0e18975c67fd9d2a7cea4a9b73e170f9/69657b676cedf2ea-99/s2048x3072/af3fcf2530aaa1e8573eeb7f405188c191649571.jpg"
+        },
+        {
+          "id": "https://text-mode.tumblr.com/post/740606557979607040",
+          "author": null,
+          "description": "text-mode:\nSquare kufic works by Fatima Graham, via. Longstitch, embroidery and needlepoint.",
+          "link": "https://text-mode.tumblr.com/post/740606557979607040",
+          "publishedOn": "2024-01-26T19:30:52.000Z",
+          "wordCount": 1010,
+          "title": "text-mode:\n\nSquare kufic works by Fatima Graham, via....",
+          "imageUrl": "https://64.media.tumblr.com/c7487d1e90622ae7c5c328a58be95332/tumblr_nemrilARj81rpiyaso1_500.jpg"
+        },
+        {
           "id": "https://text-mode.tumblr.com/post/740518099068108800",
           "author": null,
           "description": "Jurriaan Schrofer’s stamps for the Netherlands, 1969. The text celebrates 50 years of International Labor Organization (IAO). More images and info in Maurice Meilleur’s excellent research.",
@@ -1623,16 +1643,6 @@
           "wordCount": 1109,
           "title": "text-mode:\n\nKermit was a computer communication project at...",
           "imageUrl": "https://64.media.tumblr.com/1d1e8b5131bc8a74249e93a1bd5f9508/tumblr_npiv8cMRV41rpiyaso1_1280.gif"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/735170739463962624",
-          "author": null,
-          "description": "text-mode:\nRichard Paul Lohse ‘15 systematische Farbreihen mit’ (1955-69)",
-          "link": "https://text-mode.tumblr.com/post/735170739463962624",
-          "publishedOn": "2023-11-27T19:30:52.000Z",
-          "wordCount": 1027,
-          "title": "text-mode:\n\nRichard Paul Lohse ‘15 systematische Farbreihen mit’...",
-          "imageUrl": "https://64.media.tumblr.com/cc49164f330268c148d8f56f79596a00/tumblr_nq5o7tWbIR1rpiyaso1_1280.jpg"
         }
       ]
     },
@@ -1759,6 +1769,16 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2024/01/26/inside-git/",
+          "author": null,
+          "description": "Hello! I posted a comic on Mastodon this week about what’s in the .git\ndirectory and someone requested a text version, so here it is. I added some\nextra notes too. First, here’s the image. It’s a ~15 word explanation of each\npart of your .git directory.\n\nYou can git clone https://github.com/jvns/inside-git if you want to run all\nthese examples yourself.\nHere’s a table of contents:\nHEAD: .git/head\nbranch: .git/refs/heads/main\ncommit: .git/objects/10/93da429…\ntree: .git/objects/9f/83ee7550…\nblobs: .git/objects/5a/475762c…\nreflog: .git/logs/refs/heads/main\nremote-tracking branches: .git/refs/remotes/origin/main\ntags: .git/refs/tags/v1.0\nthe stash: .git/refs/stash\n.git/config\nhooks: .git/hooks/pre-commit\nthe staging area: .git/index\nthis isn’t exhaustive\nthis isn’t meant to completely explain …",
+          "link": "https://jvns.ca/blog/2024/01/26/inside-git/",
+          "publishedOn": "2024-01-26T09:42:42.000Z",
+          "wordCount": 1249,
+          "title": "Inside .git",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/",
           "author": null,
           "description": "Hello! I’ve been extremely slowly trying to figure how to explain every core\nconcept in Git (commits! branches! remotes! the staging area!) and commits have\nbeen surprisingly tricky.\nUnderstanding how git commits are implemented feels pretty straightforward to\nme (those are facts! I can look it up!), but it’s been much harder to figure\nout how other people think about commits. So like I’ve been doing a lot\nrecently, I went on Mastodon and started asking some questions.\nhow do people think about Git commits?\nI did a highly unscientific poll on Mastodon about how people think about Git\ncommits: is it a snapshot? is it a diff? is it a list of every previous commit?\n(Of course it’s legitimate to think about it as all three, but I was curious\nabout the primary way people think about Git commits…",
@@ -1838,6 +1858,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=7870",
+          "author": "Cory Doctorow",
+          "description": "Today's links The long sleep of capitalism's watchdogs: \"Self-regulation is to regulation as self-importance is to importance.\" Hey look at this: Delights to delectate. This day in history: 2004, 2009, 2014, 2019, 2023 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The long sleep of capitalism's watchdogs (permalink) One of the weirdest aspect of end-stage capitalism is the collapse of auditing, the lynchpin of investing. Auditors – independent professionals who sign off on a company's finances – are the only way that investors can be sure they're not handing their money over to failing businesses run by crooks. It's just not feasible for investors to talk to supply-chain partners and retailers and verify that a company's orders and co…",
+          "link": "https://pluralistic.net/2024/01/26/noclar-war/",
+          "publishedOn": "2024-01-26T18:05:23.000Z",
+          "wordCount": 3582,
+          "title": "Pluralistic: The long sleep of capitalism's watchdogs (26 Jan 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=7859",
           "author": "Cory Doctorow",
@@ -2212,26 +2242,6 @@
           "wordCount": 2811,
           "title": "Pluralistic: Sponsored listings are a ripoff…for sellers (29 Nov 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=7499",
-          "author": "Cory Doctorow",
-          "description": "Today's links Insurance companies are making climate risk worse: How to break the climate insurance doom-loop. Hey look at this: Delights to delectate. This day in history: 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Insurance companies are making climate risk worse (permalink) Conservatives may deride the \"reality-based community\" as a drag on progress and commercial expansion, but even the most noxious pump-and-dump capitalism is supposed to remain tethered to reality by two unbreakable fetters: auditing and insurance: https://en.wikipedia.org/wiki/Reality-based_community No matter how much you value profit over ethics or human thriving, you still need honest books – even if you never show those books to the…",
-          "link": "https://pluralistic.net/2023/11/28/re-re-reinsurance/",
-          "publishedOn": "2023-11-28T12:20:12.000Z",
-          "wordCount": 3499,
-          "title": "Pluralistic: Insurance companies are making climate risk worse (28 Nov 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=7489",
-          "author": "Cory Doctorow",
-          "description": "Today's links The real AI fight: Effective Accelerationists and Effective Altruists are both in vigorous agreement about something genuinely stupid. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading The real AI fight (permalink) Last week's spectacular OpenAI soap-opera hijacked the attention of millions of normal, productive people and nonsensually crammed them full of the fine details of the debate between \"Effective Altruism\" (doomers) and \"Effective Accelerationism\" (AKA e/acc), a genuinely absurd debate that was allegedly at the center of the drama. Very broadly speaking: the Effective Altruists are doomers, who believe that Large Language Mode…",
-          "link": "https://pluralistic.net/2023/11/27/10-types-of-people/",
-          "publishedOn": "2023-11-27T13:16:23.000Z",
-          "wordCount": 3501,
-          "title": "Pluralistic: The real AI fight (27 Nov 2023)",
-          "imageUrl": null
         }
       ]
     },
@@ -2263,6 +2273,106 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/01/0043865-nearly-30-of-gen-z",
+          "author": null,
+          "description": "Nearly 30% of Gen Z adults identify as LGBTQ, national survey finds. “Gen Z is the queerest adult generation to date.”\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/0043865-nearly-30-of-gen-z",
+          "publishedOn": "2024-01-26T22:53:01.000Z",
+          "wordCount": 541,
+          "title": "Nearly 30% of Gen Z adults identify as LGBTQ, national survey finds....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/01/our-grey-swan-climate-crisis-nonlinear",
+          "author": null,
+          "description": "Zoë Schlanger writing for the Atlantic: Prepare for a ‘Gray Swan’ Climate.\nThe way to think about climate change now is through two interlinked concepts. The first is nonlinearity, the idea that change will happen by factors of multiplication, rather than addition. The second is the idea of “gray swan” events, which are both predictable and unprecedented. Together, these two ideas explain how we will face a rush of extremes, all scientifically imaginable but utterly new to human experience.\n\n\nIt’s the nonlinearity that’s always worried me about the climate crisis — and is the main source of my skepticism that it’s “fixable” at this point. Think about another nonlinear grey swan event: the Covid-19 pandemic. When was it possible to stop the whole thing in its tracks? When 10 people were inf…",
+          "link": "https://kottke.org/24/01/our-grey-swan-climate-crisis-nonlinear",
+          "publishedOn": "2024-01-26T22:26:54.000Z",
+          "wordCount": 997,
+          "title": "Our &#8216;Grey Swan&#8217; Climate Crisis: Nonlinear, Predictable, and Unprecedented",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/01/0043862-this-chart-showing-the-ne",
+          "author": null,
+          "description": "This chart showing the near-impossibility of legal immigration to the US is worth a look. “Legal immigration is less like waiting in line and more like winning the lottery: it happens, but it is so rare that it is irrational to expect it in any individual case.”\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/0043862-this-chart-showing-the-ne",
+          "publishedOn": "2024-01-26T21:33:05.000Z",
+          "wordCount": 564,
+          "title": "This chart showing the near-impossibility of legal immigration to the US is...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/01/0043863-ai-spam-is-eating-the",
+          "author": null,
+          "description": "“AI Spam Is Eating the Internet, Stealing Our Work, and Destroying Discoverability.” Thoughtful 404 Media piece on why they are requiring an email address to read most of their journalism.\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/0043863-ai-spam-is-eating-the",
+          "publishedOn": "2024-01-26T20:39:24.000Z",
+          "wordCount": 550,
+          "title": "&#8220;AI Spam Is Eating the Internet, Stealing Our Work, and Destroying Discoverability.&#8221;...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/01/vintage-space-age-playing-cards-1964",
+          "author": null,
+          "description": "The General Dynamics Astronautics Space Cards were printed up in 1964 to celebrate the American space program. This Flickr account has scans of every card in the deck, including both jokers. Each suit corresponds to a different aspect of the program:\nThese space cards tell a story — the story of America’s man-in-space programs. The hearts deal with the human element, the clubs portray the sciences, the spades show products, and the diamonds depict modern aerospace management without which the other three elements could not be successful…\n\n\nIf you’d like your own factory-sealed deck, you can buy one on eBay for $249. (thx, mark)\nTags: art · design · games · space\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/vintage-space-age-playing-cards-1964",
+          "publishedOn": "2024-01-26T20:03:25.000Z",
+          "wordCount": 662,
+          "title": "Vintage Space Age Playing Cards (1964)",
+          "imageUrl": "https://kottke.org/plus/misc/images/gd-space-cards-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/01/0043860-the-coolest-thing-in-clim",
+          "author": null,
+          "description": "The Coolest Thing in Climate Tech is a Super Hot Rock. “Electricity from renewable energy is converted into heat and then stored in thermally conductive rocks or bricks. That heat is then delivered directly as hot air or steam…”\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/0043860-the-coolest-thing-in-clim",
+          "publishedOn": "2024-01-26T18:51:01.000Z",
+          "wordCount": 560,
+          "title": "The Coolest Thing in Climate Tech is a Super Hot Rock. &#8220;Electricity...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/01/a-blind-teacher-using-echolocation-to-navigate-the-world",
+          "author": null,
+          "description": "Echo is a fascinating and poignant short film about Daniel Kish, a blind man who uses echolocation to move about in the world and teaches others how to do the same. Using clicks, he and his students can go on hikes, ride bikes, and skateboard down the sidewalk.\nIf I click at a surface, it answers back. It’s like asking a question: what are you and where are you? I can get through echolocation a really rich, palpable, satisfying, 3-dimensional, fuzzy geometry.\n\n\nThe filmmakers worked with Kish to record the sound as a person would hear it in real life and make visualizations to help us see what Kish is hearing.\nDuring the early production stages of the filmmakers Ben Wolin and Michael Minahan’s short documentary, “Echo,” they wanted their audience to understand what this skill truly meant. They worked closely with Daniel, a self-described audiophile, to record sound for the documentary through a special microphone that works similarly to a pair of human ears — a tool that Daniel also uses for teaching. “You record the audio like you would hear it,” Minahan told me. Because of this process, the sound design and auditory experience has a vivid, spatial quality that’s rare with a film of this scale. The gears on Daniel’s bike creak and whine with a closeness that makes it feel like we’re riding right next to him, while dogs bark, wind blows, and cars pass in the background. It’s through these rich sounds that we’re immersed in and transported to Daniel’s world.\n\n\nMake some time for this short film…it’s really great.\nSee also The Blind Skateboarder.\nTags: blind · Daniel Kish · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/a-blind-teacher-using-echolocation-to-navigate-the-world",
+          "publishedOn": "2024-01-26T17:51:56.000Z",
+          "wordCount": 848,
+          "title": "A Blind Teacher Using Echolocation to Navigate the World",
+          "imageUrl": "https://i.ytimg.com/vi/60jYofFXDxw/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/01/0043859-what-are-we-supposed-to",
+          "author": null,
+          "description": "What are we supposed to do with this accursed piece of knowledge? “The first release of Internet Explorer (1995) is closer in time to the Apollo 11 moon landing (1969) than now.”\n\n         (via @danblondell) \n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/0043859-what-are-we-supposed-to",
+          "publishedOn": "2024-01-26T17:25:08.000Z",
+          "wordCount": 555,
+          "title": "What are we supposed to do with this accursed piece of knowledge?...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/01/nasa-ingenuity-helicopters-mission-ends",
+          "author": null,
+          "description": "NASA has announced that the mission of the Ingenuity helicopter has come to an end on the surface of Mars.\nWhile the helicopter remains upright and in communication with ground controllers, imagery of its Jan. 18 flight sent to Earth this week indicates one or more of its rotor blades sustained damage during landing and it is no longer capable of flight.\nOriginally designed as a technology demonstration to perform up to five experimental test flights over 30 days, the first aircraft on another world operated from the Martian surface for almost three years, performed 72 flights, and flew more than 14 times farther than planned while logging more than two hours of total flight time.\n\n\nNice job, little flying rover! Rest well.\nTags: astronomy · Ingenuity · Mars · NASA · science · space\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/nasa-ingenuity-helicopters-mission-ends",
+          "publishedOn": "2024-01-26T15:52:27.000Z",
+          "wordCount": 679,
+          "title": "NASA: The Ingenuity Helicopter&#8217;s Mission Comes to an End",
+          "imageUrl": "https://kottke.org/plus/misc/images/ingenuity-copter-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/01/0043856-wow-jurgen-klopp-announce",
+          "author": null,
+          "description": "Wow, Jurgen Klopp announces that he’s leaving Liverpool at the end of the season. I don’t follow a particular PL team, but I do really like watching Klopp’s side play.\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/01/0043856-wow-jurgen-klopp-announce",
+          "publishedOn": "2024-01-26T15:23:47.000Z",
+          "wordCount": 549,
+          "title": "Wow, Jurgen Klopp announces that he&#8217;s leaving Liverpool at the end of...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/24/01/0043849-i-had-no-idea-you",
           "author": null,
@@ -5511,116 +5621,6 @@
           "publishedOn": "2023-11-28T14:24:31.000Z",
           "wordCount": 1091,
           "title": "Please Welcome Edith Zimmerman to the Site",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/0043523-brickception-a-breakout-s",
-          "author": null,
-          "description": "Brickception: a Breakout-style game for desktop browsers in which a popup window acts as the paddle for the main window…but there’s also a mini Breakout game in the popup. So awesome.\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/0043523-brickception-a-breakout-s",
-          "publishedOn": "2023-11-28T02:01:02.000Z",
-          "wordCount": 550,
-          "title": "Brickception: a Breakout-style game for desktop browsers in which a popup window...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/the-2023-kottke-holiday-gift-guide",
-          "author": null,
-          "description": "Itttt’s baaack… After not happening for the past three years, the Kottke Holiday Gift Guide has returned. I’ve scoured the internet and dozens of other gift guides for the best (and sometimes weirdest) stuff out there — it’s a curated meta-guide for your holiday giving. This list is US-centric, link-heavy, and you might see some tried-and-true items that have been featured in previous years. Ok, let’s get to it.\nCharitable Giving\nFirst thing’s first: charitable giving should be top-of-mind every holiday season if you can afford it. Giving locally is key. I support our area food shelf year-round, with an extra gift for Thanksgiving and the December holiday; giving money instead of food is best. The kids and I also support Toys for Tots by heading to the local toy store to get some things — …",
-          "link": "https://kottke.org/23/11/the-2023-kottke-holiday-gift-guide",
-          "publishedOn": "2023-11-27T19:55:57.000Z",
-          "wordCount": 2797,
-          "title": "The 2023 Kottke Holiday Gift Guide",
-          "imageUrl": "https://kottke.org/plus/misc/images/gift-guide-2023-header.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/11/0043518-relax-electric-vehicles-r",
-          "author": null,
-          "description": "Relax, Electric Vehicles Really Are the Best Choice for the Climate. “Electric vehicles are like digital cameras in their early iterations. They are already better than the alternative for almost everyone, and improving at a breathtakingly fast clip.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/0043518-relax-electric-vehicles-r",
-          "publishedOn": "2023-11-27T19:21:49.000Z",
-          "wordCount": 557,
-          "title": "Relax, Electric Vehicles Really Are the Best Choice for the Climate. &#8220;Electric...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/0043520-after-openais-blowup-it-s",
-          "author": null,
-          "description": "After OpenAI’s Blowup, It Seems Pretty Clear That ‘AI Safety’ Isn’t a Real Thing. “The long-term fallout from this gripping incident is bound to be a lot less enjoyable than the initial spectacle of it.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/0043520-after-openais-blowup-it-s",
-          "publishedOn": "2023-11-27T18:54:54.000Z",
-          "wordCount": 956,
-          "title": "After OpenAI&#8217;s Blowup, It Seems Pretty Clear That &#8216;AI Safety&#8217; Isn&#8217;t a...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/0043525-the-recipe-for-the-cookie",
-          "author": null,
-          "description": "The recipe for the cookies that Sesame Street’s Cookie Monster eats. “They’re edible, but barely.” And they have to be “thin enough to explode in a shower of crumbs”.\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/0043525-the-recipe-for-the-cookie",
-          "publishedOn": "2023-11-27T18:34:44.000Z",
-          "wordCount": 548,
-          "title": "The recipe for the cookies that Sesame Street&#8217;s Cookie Monster eats. &#8220;They&#8217;re...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/0043522-children-left-behind-by-s",
-          "author": null,
-          "description": "Children, left behind by suburbia, need better community design. “Walkable, mixed-use planning is the key to getting young people outside again and enabling their independence.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/0043522-children-left-behind-by-s",
-          "publishedOn": "2023-11-27T18:18:18.000Z",
-          "wordCount": 543,
-          "title": "Children, left behind by suburbia, need better community design. &#8220;Walkable, mixed-use planning...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/0043503-this-is-me-every-single",
-          "author": null,
-          "description": "This is me every single damn morning: “To hurkle-durkle is to lounge around in bed long after you should have got up.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/0043503-this-is-me-every-single",
-          "publishedOn": "2023-11-27T17:52:39.000Z",
-          "wordCount": 542,
-          "title": "This is me every single damn morning: &#8220;To hurkle-durkle is to lounge...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/0043521-phil-plait-on-how-to",
-          "author": null,
-          "description": "Phil Plait on How to Buy Your First Telescope. “If you just want to see the moon, the bright planets and the occasional astronomical event such as a bright comet, then you don’t need anything big and fancy.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/0043521-phil-plait-on-how-to",
-          "publishedOn": "2023-11-27T17:30:31.000Z",
-          "wordCount": 559,
-          "title": "Phil Plait on How to Buy Your First Telescope. &#8220;If you just...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/0043519-wow-taylor-swifts-website",
-          "author": null,
-          "description": "Wow, Taylor Swift’s website from 2002. Includes “dialup” and “broadband” download links to her music.\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/0043519-wow-taylor-swifts-website",
-          "publishedOn": "2023-11-27T16:53:48.000Z",
-          "wordCount": 533,
-          "title": "Wow, Taylor Swift&#8217;s website from 2002. Includes &#8220;dialup&#8221; and &#8220;broadband&#8221; download links...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/0043507-the-opposite-of-the-straw",
-          "author": null,
-          "description": "The opposite of the straw man argument: the steel man technique. “Put simply, it’s building the best form of the other side’s argument and then engaging with it.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/11/0043507-the-opposite-of-the-straw",
-          "publishedOn": "2023-11-27T16:00:28.000Z",
-          "wordCount": 578,
-          "title": "The opposite of the straw man argument: the steel man technique. &#8220;Put...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/11/0043517-three-palestinian-student",
-          "author": null,
-          "description": "Three Palestinian students were shot in Burlington, VT on Saturday evening. The alleged shooter was a middle-aged white male — it’s being investigated as a possible hate crime. This is fucking horrifying.",
-          "link": "https://kottke.org/23/11/0043517-three-palestinian-student",
-          "publishedOn": "2023-11-27T15:41:25.000Z",
-          "wordCount": 179,
-          "title": "Three Palestinian students were shot in Burlington, VT on Saturday evening. The...",
           "imageUrl": ""
         }
       ]
