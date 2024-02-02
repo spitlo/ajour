@@ -59,6 +59,16 @@
       "siteUrl": "https://100r.co",
       "articles": [
         {
+          "id": "log.html#jan2024",
+          "author": "Rek Bell",
+          "description": "Hey everyone!\nThis is the list of all the changes we've done to our projects during the month of January.\nSummary Of Changes\n100r.co, added galley refit, updated lifelines, seamed box cushions, and moisture prevention underliner.\nPermacomputing, revamped the page.\nFlappy Bird, released an {Uxn} version of the Flappy Bird game.\nGrimgrains, released a new basic recipe: Whole Wheat Pancakes.\nAliceffekt, Devine wrote some new music. \nOn January 10th the forge that we use to host our projects was taken down by DDoS attacks and was struggling to come back online(it's back now, read the post-mortem), the event reminded us that we ought to host mirrors and release versions of these source files ourselves. We have begun to host copies across our various websites. The builds are still accessible thr…",
+          "link": "https://100r.co/site/log.html#jan2024",
+          "publishedOn": "2024-02-01T07:00:00.000Z",
+          "wordCount": 545,
+          "title": "Summary of changes for January 2024",
+          "imageUrl": null
+        },
+        {
           "id": "log.html#dec2023",
           "author": "Rek Bell",
           "description": "Hey everyone!\nThis is the list of all the changes we've done to our projects during the month of December.\nSummary Of Changes\n100r.co, added solar cooking experiment, making seamed box cushions, making saloon cushions, moisture prevention underliner, and board games. Updated charging electronics, and upholstery.\nWiktopher, released the book on paperback.\nWunderland Rabbits, added a new photo.\nGrimGrains, added millet dumplings, and vegetable curry.\nDecember Adventure, Devine wrote a daily devlog for the month, documenting various projects like Porporo(an OS).\nLispkit, wrote a PureLisp compiler and emulator for the SECD stack-machine.\nGrail, made a little shorthand calligraphy and interpreter.\nNews\nWiktopher was released on paperback! Our small collection of self-published books is growing.…",
@@ -380,16 +390,6 @@
           "wordCount": 219,
           "title": "Compact Graphs",
           "imageUrl": "https://imgs.xkcd.com/comics/compact_graphs_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2863/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/space_typography.png\" title=\"And over heeee[...]eeeere (i)s Saturn.\" alt=\"And over heeee[...]eeeere (i)s Saturn.\" />",
-          "link": "https://xkcd.com/2863/",
-          "publishedOn": "2023-12-04T00:00:00.000Z",
-          "wordCount": 219,
-          "title": "Space Typography",
-          "imageUrl": "https://imgs.xkcd.com/comics/space_typography_2x.png"
         }
       ]
     },
@@ -447,16 +447,6 @@
           "wordCount": 755,
           "title": "System Collapse (The Murderbot Diaries, #7) [book]",
           "imageUrl": null
-        },
-        {
-          "id": "unrot-that-link",
-          "author": null,
-          "description": "I present to you, a gift, a gift of a service that will \"unrot\" your links, cleverly named… unrot.link.\nThe service promises to prevent and undo link rot on long lived web sites, via a service based implementation of my No More 404 method, free for all.",
-          "link": "https://remysharp.com/2023/12/04/unrot-that-link",
-          "publishedOn": "2023-12-04T00:00:00.000Z",
-          "wordCount": 790,
-          "title": "Unrot (that) link [blog]",
-          "imageUrl": "https://remysharp.com/images/cards/og/9-5.jpg"
         }
       ]
     },
@@ -759,6 +749,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/741150138234503168",
+          "author": null,
+          "description": "text-mode:\nANSI by flubber.",
+          "link": "https://text-mode.tumblr.com/post/741150138234503168",
+          "publishedOn": "2024-02-01T19:30:51.000Z",
+          "wordCount": 977,
+          "title": "text-mode:\n\nANSI by flubber.",
+          "imageUrl": "https://64.media.tumblr.com/3f490d889b68dfdbc8b930c2bd332a7c/tumblr_nb6xltypHd1rpiyaso2_1280.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/741059516597141504",
           "author": null,
@@ -1638,16 +1638,6 @@
           "wordCount": 1001,
           "title": "text-mode:\n\nDUBSᵀᶠᴾ",
           "imageUrl": "https://64.media.tumblr.com/de73e2a5e90f35c68767a8eaa4bb4da9/tumblr_nod5zwZ5uV1rpiyaso1_1280.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/735714337038221312",
-          "author": null,
-          "description": "text-mode:\nHamnet was an IRC-theater, first performed in 1993 by 18 people. Read the script here. More at Wikipedia.",
-          "link": "https://text-mode.tumblr.com/post/735714337038221312",
-          "publishedOn": "2023-12-03T19:31:07.000Z",
-          "wordCount": 1041,
-          "title": "text-mode:\n\nHamnet was an IRC-theater, first performed in 1993...",
-          "imageUrl": "https://64.media.tumblr.com/6a2ae96d1beaa5eff28d7b8d2a08df67/tumblr_np2mteZg4Z1rpiyaso1_1280.png"
         }
       ]
     },
@@ -1784,6 +1774,16 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2024/02/01/dealing-with-diverged-git-branches/",
+          "author": null,
+          "description": "Hello! One of the most common problems I see folks struggling with in Git is\nwhen a local branch (like main) and a remote branch (maybe also called\nmain) have diverged.\nThere are two things that make this situation hard:\nIf you’re not used to interpreting git’s error messages, it’s nontrivial to\neven realize that your main has diverged from the remote main (git\nwill often just give you an intimidating but generic error message like\n! [rejected] main -> main (non-fast-forward) error: failed to push some refs to 'github.com:jvns/int-exposed')\nOnce you realize that your branch has diverged from the remote main, there\nno single clear way to handle it (what you need to do depends on the\nsituation and your git workflow)\nSo let’s talk about a) how to recognize when you’re in a situation where a l…",
+          "link": "https://jvns.ca/blog/2024/02/01/dealing-with-diverged-git-branches/",
+          "publishedOn": "2024-02-01T08:47:00.000Z",
+          "wordCount": 1943,
+          "title": "Dealing with diverged git branches",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2024/01/26/inside-git/",
           "author": null,
           "description": "Hello! I posted a comic on Mastodon this week about what’s in the .git\ndirectory and someone requested a text version, so here it is. I added some\nextra notes too. First, here’s the image. It’s a ~15 word explanation of each\npart of your .git directory.\n\nYou can git clone https://github.com/jvns/inside-git if you want to run all\nthese examples yourself.\nHere’s a table of contents:\nHEAD: .git/head\nbranch: .git/refs/heads/main\ncommit: .git/objects/10/93da429…\ntree: .git/objects/9f/83ee7550…\nblobs: .git/objects/5a/475762c…\nreflog: .git/logs/refs/heads/main\nremote-tracking branches: .git/refs/remotes/origin/main\ntags: .git/refs/tags/v1.0\nthe stash: .git/refs/stash\n.git/config\nhooks: .git/hooks/pre-commit\nthe staging area: .git/index\nthis isn’t exhaustive\nthis isn’t meant to completely explain …",
@@ -1821,16 +1821,6 @@
           "publishedOn": "2023-12-31T08:54:42.000Z",
           "wordCount": 1639,
           "title": "2023: Year in review",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/",
-          "author": null,
-          "description": "Hello! The other day, I started wondering – has anyone ever made a FUSE\nfilesystem for a git repository where all every commit is a folder? It turns\nout the answer is yes! There’s giblefs,\nGitMounter, and git9 for Plan 9.\nBut FUSE is pretty annoying to use on Mac – you need to install a kernel\nextension, and Mac OS seems to be making it harder and harder to install kernel\nextensions for security reasons. Also I had a few ideas for how to organize the\nfilesystem differently than those projects.\nSo I thought it would be fun to experiment with ways to mount filesystems on\nMac OS other than FUSE, so I built a project that does that called\ngit-commit-folders. It works (at least on my computer) with both FUSE and NFS, and there’s a broken WebDav\nimplementation too.\nIt’s pretty experimental (I’m …",
-          "link": "https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/",
-          "publishedOn": "2023-12-04T09:28:03.000Z",
-          "wordCount": 2122,
-          "title": "Mounting git commits as folders with NFS",
           "imageUrl": null
         }
       ]
@@ -2304,6 +2294,96 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/02/0043912-the-majority-of-oregons-r",
+          "author": null,
+          "description": "“The majority of Oregon’s Republican state senators are prohibited from running for re-election as a result of their repeated boycotts of legislative sessions last year.” Good. Legislators are elected to legislate, not obstruct.\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/02/0043912-the-majority-of-oregons-r",
+          "publishedOn": "2024-02-01T22:33:45.000Z",
+          "wordCount": 622,
+          "title": "&#8220;The majority of Oregon&#8217;s Republican state senators are prohibited from running for...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/02/doom-runs-on-e-coli-bacteria-now",
+          "author": null,
+          "description": "Yeah, you heard me: the 1993 video game Doom, which has been ported to every platform imaginable (an Apple Pippin, a jailbroken John Deere tractor, a Peloton), can now run on a display made of phosphorescent E. coli bacteria.\nRamlan’s paper doesn’t go to the enormous trouble of actually encoding all of Doom to run in bacterial DNA, which the author describes as “a behemoth feat that I cannot even imagine approaching.” Instead, the game runs on a standard computer, with isolated E. coli cells in a standard 32x48 microwell grid serving as a crude low-res display.\nAfter shrinking each game frame down to a 32x48 black-and-white bitmap, Ramlan describes a system whereby a display controller uses a well-known chemical repressor-operator pair to induce each individual cell in the grid to either express a fluorescent protein or not. The resulting grid of glowing bacteria (which is only simulated in Ramlan’s project) can technically be considered a display of Doom gameplay, though the lack of even grayscale shading makes the resulting image pretty indecipherable, to be honest.\n\n\nTechnicalities aside, that’s still pretty cool.\nTags: Doom · remix · video · video games\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/02/doom-runs-on-e-coli-bacteria-now",
+          "publishedOn": "2024-02-01T21:39:59.000Z",
+          "wordCount": 737,
+          "title": "Doom Runs on E. Coli Bacteria Now",
+          "imageUrl": "https://i.ytimg.com/vi/8DnoOOgYxck/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/02/0043905-i-turned-this-blog-commen",
+          "author": null,
+          "description": "I turned this blog comments thread into a job board and it’s full of people looking for work (and a few companies that are hiring). If your company is hiring, get in there and make some life-altering connections!",
+          "link": "https://kottke.org/24/02/0043905-i-turned-this-blog-commen",
+          "publishedOn": "2024-02-01T20:38:02.000Z",
+          "wordCount": 187,
+          "title": "I turned this blog comments thread into a job board and it&#8217;s...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/02/0043900-infinite-craft-another-fu",
+          "author": null,
+          "description": "Infinite Craft, another fun, whimsical web game from creative coder Neal Agarwal. I made a unicorn!\n\n         (via waxy.org) \n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/02/0043900-infinite-craft-another-fu",
+          "publishedOn": "2024-02-01T19:31:48.000Z",
+          "wordCount": 668,
+          "title": "Infinite Craft, another fun, whimsical web game from creative coder Neal Agarwal....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/02/what-would-a-car-optimized-hellscape-look-like-in-the-uk",
+          "author": null,
+          "description": "Kyle Branchesi has created some fanciful “urban oddities” that imagine different locales in the UK being fully optimized for cars. For instance, here are Buckingham Palace and Westminster:\n\n\nWrites Branchesi:\nAmidst a political landscape where the ‘war on motorists’ is wielded as a populist tool, this series captures a future where this rhetoric has prevailed. The transformation of UK landmarks like Stonehenge into vast vehicular realms underscores the absurdity and danger of prioritizing short-term political gains over sustainable urban planning. These images mirror the contentious debates in the UK, challenging the narrative that prioritizes car ownership at the expense of public health and environmental sustainability.\n\n\nOf course, in an America engineered by Robert Moses and his acolytes, many of those images don’t even look that far-fetched.\nTags: cars · cities · Kyle Branchesi · remix · UK\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/02/what-would-a-car-optimized-hellscape-look-like-in-the-uk",
+          "publishedOn": "2024-02-01T18:51:15.000Z",
+          "wordCount": 659,
+          "title": "What Would a Car-Optimized Hellscape Look Like in the UK?",
+          "imageUrl": "https://kottke.org/plus/misc/images/uk-car-optimized-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/02/0043899-man-who-leaked-trumps-tax",
+          "author": null,
+          "description": "Man who leaked Trump’s tax returns sentenced to 5 years in prison. “Littlejohn had applied to work at the contactor to get Trump’s tax returns and carefully figured out how to search and extract tax data to avoid triggering suspicions…” O captain, my captain!\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/02/0043899-man-who-leaked-trumps-tax",
+          "publishedOn": "2024-02-01T18:37:01.000Z",
+          "wordCount": 565,
+          "title": "Man who leaked Trump&#8217;s tax returns sentenced to 5 years in prison....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/02/0043898-john-gruber-on-the-apple",
+          "author": null,
+          "description": "John Gruber on the Apple Vision Pro: “The virtual movie screens look immense, as though you’re really in a movie theater, all by yourself, looking at a 100-foot screen.” This is exactly why I would buy this: IMAX experience at home.\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/02/0043898-john-gruber-on-the-apple",
+          "publishedOn": "2024-02-01T18:00:17.000Z",
+          "wordCount": 966,
+          "title": "John Gruber on the Apple Vision Pro: &#8220;The virtual movie screens look...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/02/groundhog-day-but-with-potato-chips",
+          "author": null,
+          "description": "I don’t know exactly what this is, but it appears to be an ad for Lay’s potato chips made by Jimmy Kimmel Live? But whatever, it’s great: a Groundhog Day-inspired clip starring Ned Ryerson (Stephen Tobolowsky) himself that’s perfect for hawking a bajillion different flavors of potato chips. (via @ironicsans)\nTags: advertising · food · Groundhog Day · movies · Stephen Tobolowsky · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/02/groundhog-day-but-with-potato-chips",
+          "publishedOn": "2024-02-01T17:33:43.000Z",
+          "wordCount": 576,
+          "title": "Groundhog Day, But With Potato Chips",
+          "imageUrl": "https://i.ytimg.com/vi/MgIDA_zO0QA/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/02/0043881-if-you-are-a-webdev",
+          "author": null,
+          "description": "“If you are a webdev type person and lately the web has felt kinda dry and not fun anymore […] sit down in front of a code editor and hand code some HTML, CSS, and JS on your own.” I’ve been doing this recently and it has been fun!\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/02/0043881-if-you-are-a-webdev",
+          "publishedOn": "2024-02-01T16:09:24.000Z",
+          "wordCount": 725,
+          "title": "&#8220;If you are a webdev type person and lately the web has...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/24/01/how-frances-film-industry-works",
           "author": null,
