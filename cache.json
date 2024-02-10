@@ -152,6 +152,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2892/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/banana_prices.png\" title=\"It's a linear extrapolation, Michael. How big could the error be? 10%?\" alt=\"It's a linear extrapolation, Michael. How big could the error be? 10%?\" />",
+          "link": "https://xkcd.com/2892/",
+          "publishedOn": "2024-02-09T00:00:00.000Z",
+          "wordCount": 219,
+          "title": "Banana Prices",
+          "imageUrl": "https://imgs.xkcd.com/comics/banana_prices_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2891/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/log_cabin.png\" title=\"I'm sure the building inspectors will approve my design once they finally manage to escape.\" alt=\"I'm sure the building inspectors will approve my design once they finally manage to escape.\" />",
@@ -408,6 +418,16 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "2024-02-09-395b2ad3",
+          "author": null,
+          "description": "I mean… the writing was on the wall, wasn't it? Didn't we, the tech nation desperate to actualise the ten-ecks developer, make our own bed?\nI know it's the cynic in me that doesn't trust copilot assisted work to produce long term \"good code\" (aka: code of a reliable quality that can survive time), but at the same time I'm one of those grumpy old hacks that hand codes.\nOne of the real reasons I don't (personally) like copilot is that I tend to code faster than copilot can suggest recommendations, and it's distracting to get a nearly right autocomplete flash up, whilst my fingers continue to fly across the keyboard. The distraction is whether I should backtrack and undo my change to trigger the autocomplete again, which would only to visually validate the code changing the cadence of my coding/typing...\nThe pull quote from the article is the take away, and the bit that, if we (devs) really are going to saddle up to AI assisted coding are absolutely going to have to solve, is this:\n\nWe find disconcerting trends for maintainability. Code churn -- the percentage of lines that are reverted or updated less than two weeks after being authored -- is projected to double in 2024 compared to its 2021, pre-AI baseline. We further find that the percentage of 'added code' and 'copy/pasted code' is increasing in proportion to 'updated,' 'deleted,' and 'moved 'code. In this regard, AI-generated code resembles an itinerant contributor, prone to violate the DRY-ness [don't repeat yourself] of the repos visited.\n\nSure, AI can be treated as the unpaid intern, but do we really want the unpaid intern to be committing the majority of our code to production? (Also, pay your interns…yikes).\nSource: visualstudiomagazine.com",
+          "link": "https://remysharp.com/links/2024-02-09-395b2ad3",
+          "publishedOn": "2024-02-09T18:25:30.000Z",
+          "wordCount": 789,
+          "title": "New GitHub Copilot Research Finds 'Downward Pressure on Code Quality' [link]",
+          "imageUrl": null
+        },
         {
           "id": "removing-episodes-audiobooks-and-more-from-spotify",
           "author": null,
@@ -744,6 +764,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/741874894029127680",
+          "author": null,
+          "description": "text-mode:\nMax Capacity PETSCII skull.",
+          "link": "https://text-mode.tumblr.com/post/741874894029127680",
+          "publishedOn": "2024-02-09T19:30:32.000Z",
+          "wordCount": 963,
+          "title": "text-mode:\n\nMax Capacity PETSCII skull.",
+          "imageUrl": "https://64.media.tumblr.com/e3b191709d6697206fd0f73696ec7497/tumblr_n6kc28YKnC1qzpy7ko1_500.gif"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/741784374418325504",
           "author": null,
@@ -1613,16 +1643,6 @@
           "wordCount": 1043,
           "title": "text-mode:\n\nRaspberry Porter, a homebrew FOSB (Free Open Source...",
           "imageUrl": "https://64.media.tumblr.com/1ea653bed63027faf0055f7e0c6daa38/tumblr_nnxukySVXy1rpiyaso1_1280.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/736439108249026560",
-          "author": null,
-          "description": "text-mode:\nJapanese ASCII from utf8art.",
-          "link": "https://text-mode.tumblr.com/post/736439108249026560",
-          "publishedOn": "2023-12-11T19:31:03.000Z",
-          "wordCount": 994,
-          "title": "text-mode:\n\nJapanese ASCII from utf8art.",
-          "imageUrl": "https://64.media.tumblr.com/fa2acecc51bd266bbb45c2c6285fc198/tumblr_nnxvk3ro0l1rpiyaso1_400.png"
         }
       ]
     },
@@ -2243,21 +2263,6 @@
           "wordCount": 2772,
           "title": "Pluralistic: An Epic antitrust loss for Google (12 Dec 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=7605",
-          "author": "Cory Doctorow",
-          "description": "Today's links Daddy-Daughter Podcast 2023: From age 4 to age 15. Hey look at this: Delights to delectate. This day in history: 2003, 2008, 2013, 2018, 2022 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Daddy-Daughter Podcast 2023 (permalink) 11 years ago, my kid's daycare surprised us by announcing that they were closing for Christmas break a day before everyone else, so I ended up with our then-four-year-old daughter, Poesy, at my office for the day. After she got bored with coloring and playing with my office toys, I sat her down on my lap in front of my podcast mic and we recorded the greatest, all-singing episode of my podcast ever: https://craphound.com/news/2012/12/21/happy-hols/ Thus began an annual tradition. Every year since …",
-          "link": "https://pluralistic.net/2023/12/11/daddy-daughter-2023/",
-          "publishedOn": "2023-12-11T15:44:48.000Z",
-          "wordCount": 2971,
-          "title": "Pluralistic: Daddy-Daughter Podcast 2023 (11 Dec 2023)",
-          "enclosure": {
-            "url": "https://archive.org/download/Cory_Doctorow_Podcast_457/Cory_Doctorow_Podcast_457_-_Daddy_Daughter_Podcast_2023_Edition.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -2299,6 +2304,56 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/02/stinge-watching",
+          "author": null,
+          "description": "Last weekend, my daughter and I watched all 8 episodes of Percy Jackson and the Olympians on Disney+. We binged it. That’s how people watch TV shows now: streaming services have entire shows available at the click of the “next episode” button. Many shows are uploaded a whole season at a time for maximum bingeability — no need to wait more than the time it takes to skip the credits to continue the story. It’s an all-you-can-eat media buffet. The mechanics and economics of streaming media have changed how we watch TV and movies — the binge watch reigns supreme.\nBut recently, I’ve found myself watching some shows in a much different way. When I find a new show I really like or I’m digging into the newest season of a favorite series, instead of getting hooked and then blasting through all the …",
+          "link": "https://kottke.org/24/02/stinge-watching",
+          "publishedOn": "2024-02-09T18:21:19.000Z",
+          "wordCount": 3706,
+          "title": "Stinge Watching Is the Opposite of Binge Watching",
+          "imageUrl": "https://kottke.org/plus/misc/images/stinge-watching.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/02/0043952-heres-why-chicken-over-ri",
+          "author": null,
+          "description": "Here’s why chicken over rice from a lower Manhattan cart costs $10 now. “Mr. Mousa’s red sauce of choice, a spicy sambal, costs $23 a gallon, up from $11.”\n\n         (via @990000) \n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/02/0043952-heres-why-chicken-over-ri",
+          "publishedOn": "2024-02-09T17:13:33.000Z",
+          "wordCount": 551,
+          "title": "Here&#8217;s why chicken over rice from a lower Manhattan cart costs $10...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/02/incredible-satellite-images-of-the-latest-volcanic-eruption-in-iceland",
+          "author": null,
+          "description": "Archaeologist and satellite expert Marco Langbroek posted a satellite image of the latest volcanic eruption on Iceland’s Reykjanes Peninsula, near the city of Grindavik.\n\nWow. It’s worth clicking through to see it larger (mirrored here). You can see the Keflavik airport to the northwest of the fissure and Reykjavík is the darker area in the upper part of the image, just right of center. This image really underscores the extent to which volcanoes are fiery, slashing cuts to the Earth’s skin. It’s bleeding! Bleeding lava!\nThis image was taken by the European Union’s Copernicus Sentinel 2A satellite and processed by Langbroek. The Copernicus project posted their own view of the volcano today as well:\n\nAgain, worth seeing larger. And here’s a closeup view of the fissure.\n\nThe famed Blue Lagoon spa, circled in blue, is very close (less than a mile) to the lava flow and is currently closed.\nIf you want to check out the satellite imagery for yourself, you can find it on Copernicus Browser. I tried for a few minutes to duplicate Langbroek’s view (“combined natural colour + SWIR”) but couldn’t quite manage it.\nTags: Iceland · Marco Langbroek · satellite imagery · volcanoes\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/02/incredible-satellite-images-of-the-latest-volcanic-eruption-in-iceland",
+          "publishedOn": "2024-02-09T16:22:53.000Z",
+          "wordCount": 851,
+          "title": "Incredible Satellite Images of the Latest Volcanic Eruption in Iceland",
+          "imageUrl": "https://kottke.org/plus/misc/images/grindavik-volcano-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/02/0043947-the-lightsound-device-was",
+          "author": null,
+          "description": "“The LightSound device was designed and developed in 2017 as a tool for the Blind and Low Vision (BLV) community to experience a solar eclipse with sound.”\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/02/0043947-the-lightsound-device-was",
+          "publishedOn": "2024-02-09T16:09:58.000Z",
+          "wordCount": 546,
+          "title": "&#8220;The LightSound device was designed and developed in 2017 as a tool...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/02/0043949-til-that-slack-is-an",
+          "author": null,
+          "description": "TIL that Slack is an acronym: “Searchable Log of All Communication and Knowledge”.\n\n         (via wired.com) \n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/02/0043949-til-that-slack-is-an",
+          "publishedOn": "2024-02-09T14:28:52.000Z",
+          "wordCount": 597,
+          "title": "TIL that Slack is an acronym: &#8220;Searchable Log of All Communication and...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/24/02/our-missed-headstart-on-the-climate-crisis",
           "author": null,
@@ -5727,106 +5782,6 @@
           "publishedOn": "2023-12-12T14:00:36.000Z",
           "wordCount": 652,
           "title": "This is perhaps a little specific, but since I&#8217;m expecting Baby No....",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/12/more-christmas-music-recs",
-          "author": null,
-          "description": "“Good King Wenceslas” is my favorite carol, and I love this version by the Choir of St. John’s College, Cambridge, from their 1974 album. (However, I also love every version I’ve ever heard.)\nThe Academy of St. Martin in the Fields, led by Neville Marriner, has a wonderful album that I return to whenever I can’t think of what to listen to: 1994’s Christmas With the Academy [spotify].\nAnd I grew up going to the yearly Christmas Revels concert/play in Cambridge, MA, and while nothing beats the live shows, I also love their albums, especially this spirited 1978 one: The Christmas Revels: In Celebration of the Winter Solstice [spotify]. The Revels also feature the “Abbots Bromley Horn Dance” in every show, and seeing it live usually sends chills up my spine:\n \nTags: christmas · christmas carols · music\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/12/more-christmas-music-recs",
-          "publishedOn": "2023-12-11T21:00:10.000Z",
-          "wordCount": 865,
-          "title": "More Christmas Music Recs",
-          "imageUrl": "https://i.ytimg.com/vi/vD_QzS_B1D0/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/12/running-gear",
-          "author": null,
-          "description": "Best Running Gear of 2023” post — likewise their “Cold-Weather Running” recs. \nFor what it’s worth, the best running items I own are Asics shoes, Lululemon bras, inexpensive Saucony socks, a light Champion vest, cheap Amazon shorts that apparently no longer exist (Baleaf), a nice Ciele running hat (in a color combo that’s no longer available, but this one comes close), and nice Tracksmith pullovers. Also a FlipBelt, for phone-carrying; the Strava app; and The Half Marathoner (newsletter), for personal stories and cool running-related links. \nThe items that give me the most pleasure are silly mermaid-print leggings, bright Janji artist-collaboration shorts, and colorful Tracksmith shorts (on sale in a color combo that’s no longer available — marigold orange with flame-red fluting). \nI was also tempted by Oiselle’s bridal line, but it was not to be, and I see that they are no longer offering it. \nTags: running\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/12/running-gear",
-          "publishedOn": "2023-12-11T20:00:35.000Z",
-          "wordCount": 810,
-          "title": "Edith&#8217;s Best Running Gear of 2020-2023",
-          "imageUrl": "https://kottke.org/plus/misc/images/shoes-ez.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/12/0043606-artist-gabrielle-bells-dr",
-          "author": null,
-          "description": "“I’ll finish this, then call him and confess everything.” Artist Gabrielle Bell’s overheard/overseen “Drawings in Cafes.” More here. (“Confess” here.)\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/12/0043606-artist-gabrielle-bells-dr",
-          "publishedOn": "2023-12-11T19:45:32.000Z",
-          "wordCount": 541,
-          "title": "&#8220;I&#8217;ll finish this, then call him and confess everything.&#8221; Artist Gabrielle Bell&#8217;s...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/12/baby-drawings",
-          "author": null,
-          "description": "Some sketches of my daughter Georgia from her first few months. Forgive me! Made between Nov. 2021 and Jan. 2022. \n\n\n\n\n \nTags: babies · comics · drawings\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/12/baby-drawings",
-          "publishedOn": "2023-12-11T18:00:48.000Z",
-          "wordCount": 604,
-          "title": "Baby Drawings",
-          "imageUrl": "https://kottke.org/plus/misc/images/georgia-drawings-1.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/12/0043600-pleasantly-surprised-to-f",
-          "author": null,
-          "description": "Pleasantly surprised to find that Arts & Letters Daily — a great site for articles, reviews, and opinions — has a newsletter.\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/12/0043600-pleasantly-surprised-to-f",
-          "publishedOn": "2023-12-11T17:30:14.000Z",
-          "wordCount": 544,
-          "title": "Pleasantly surprised to find that Arts & Letters Daily &#8212; a great...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/12/0043605--some-of-the-most",
-          "author": null,
-          "description": "“… some of the most defining memes of 2023, from nepo babies to babygirl.” For Rolling Stone, Julia Reinstein chronicles the year in 21 memes. I’d heard of nine of them. \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/12/0043605--some-of-the-most",
-          "publishedOn": "2023-12-11T16:00:44.000Z",
-          "wordCount": 554,
-          "title": "“… some of the most defining memes of 2023, from nepo babies...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/12/0043601-fifty-years-ago-eight-ame",
-          "author": null,
-          "description": "“Fifty years ago, eight Americans set off for South America to climb Aconcagua, one of the world’s mightiest mountains. Things quickly went wrong.” So begins “Ghosts on the Glacier,” a new multimedia story from the New York Times.\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/12/0043601-fifty-years-ago-eight-ame",
-          "publishedOn": "2023-12-11T15:30:14.000Z",
-          "wordCount": 559,
-          "title": "&#8220;Fifty years ago, eight Americans set off for South America to climb...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/12/diary-comic-nov-10-12",
-          "author": null,
-          "description": "Tags: comics\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/12/diary-comic-nov-10-12",
-          "publishedOn": "2023-12-11T15:00:01.000Z",
-          "wordCount": 520,
-          "title": "Diary Comics, Nov. 10-12",
-          "imageUrl": "https://kottke.org/plus/misc/images/nov10-11-ez.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/12/single-item-gift-guide",
-          "author": null,
-          "description": "Hale Groves, in Florida, but I imagine many vendors are offering excellent grapefruit this time of year.\nTIL: Grapefruit are called grapefruit because they grow in bunches like grapes.  \nTags: fruit · gifts · grapefruit\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/12/single-item-gift-guide",
-          "publishedOn": "2023-12-11T14:30:56.000Z",
-          "wordCount": 600,
-          "title": "Single-Item Gift Guide",
-          "imageUrl": "https://kottke.org/plus/misc/images/grapefruit1.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/12/0043597-better-to-ask-directly-an",
-          "author": null,
-          "description": "“Better to ask directly and be refused than to wish endlessly for help.” Dang, Philip Galanes! Filing away for personal use…\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/12/0043597-better-to-ask-directly-an",
-          "publishedOn": "2023-12-11T14:00:48.000Z",
-          "wordCount": 543,
-          "title": "&#8220;Better to ask directly and be refused than to wish endlessly for...",
           "imageUrl": ""
         }
       ]
