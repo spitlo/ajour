@@ -399,6 +399,16 @@
       "siteUrl": "https://remysharp.com",
       "articles": [
         {
+          "id": "why-my-code-isnt-in-typescript",
+          "author": null,
+          "description": "I came across a reasonably interesting question on Reddit today, ask \"If you don't use TypeScript, tell me why (5 year follow up)\".\nFrustratingly it was mostly replies as to why the dev was using TypeScript, or replies to those who didn't saying that they're probably using TypeScript wrong. I guess that's the state of the developer bro/you're wrong culture we've managed to create.\nAnyway, it made me want to consider why my code doesn't use TypeScript and what I personally (still) struggle with when it's a requirement of the client work.",
+          "link": "https://remysharp.com/2024/02/23/why-my-code-isnt-in-typescript",
+          "publishedOn": "2024-02-23T00:00:00.000Z",
+          "wordCount": 1450,
+          "title": "Why my code isn't in TypeScript [blog]",
+          "imageUrl": "https://remysharp.com/images/ts-trace.png"
+        },
+        {
           "id": "2024-02-09-395b2ad3",
           "author": null,
           "description": "I mean… the writing was on the wall, wasn't it? Didn't we, the tech nation desperate to actualise the ten-ecks developer, make our own bed?\nI know it's the cynic in me that doesn't trust copilot assisted work to produce long term \"good code\" (aka: code of a reliable quality that can survive time), but at the same time I'm one of those grumpy old hacks that hand codes.\nOne of the real reasons I don't (personally) like copilot is that I tend to code faster than copilot can suggest recommendations, and it's distracting to get a nearly right autocomplete flash up, whilst my fingers continue to fly across the keyboard. The distraction is whether I should backtrack and undo my change to trigger the autocomplete again, which would only to visually validate the code changing the cadence of my coding/typing...\nThe pull quote from the article is the take away, and the bit that, if we (devs) really are going to saddle up to AI assisted coding are absolutely going to have to solve, is this:\n\nWe find disconcerting trends for maintainability. Code churn -- the percentage of lines that are reverted or updated less than two weeks after being authored -- is projected to double in 2024 compared to its 2021, pre-AI baseline. We further find that the percentage of 'added code' and 'copy/pasted code' is increasing in proportion to 'updated,' 'deleted,' and 'moved 'code. In this regard, AI-generated code resembles an itinerant contributor, prone to violate the DRY-ness [don't repeat yourself] of the repos visited.\n\nSure, AI can be treated as the unpaid intern, but do we really want the unpaid intern to be committing the majority of our code to production? (Also, pay your interns…yikes).\nSource: visualstudiomagazine.com",
@@ -406,6 +416,16 @@
           "publishedOn": "2024-02-09T18:25:30.000Z",
           "wordCount": 789,
           "title": "New GitHub Copilot Research Finds 'Downward Pressure on Code Quality' [link]",
+          "imageUrl": null
+        },
+        {
+          "id": "yellowface",
+          "author": null,
+          "description": "Brilliantly written, almost car-crash like reading.\nThe story is very much set in the publishing world, which isn't something I know very well or is directly relatable, but I was still brilliantly drawn in by Kuang's characters.\nIt took me a while to fully realise that the protagonist, Juniper Song, is white (even if it says it right there in the blurb!), which, when it was written down in text made a lot of story even more cringe.\nIt's an interesting view into an individual being cancelled, then un-cancelled, then…somehow digging a deeper hole. I really couldn't find myself feeling any sympathy with the Juniper character and found myself often saying (albeit in my head): just walk away, start a-new, the damage is done.\nAlong side the cancel story, Kuang lets me, as a white reader, look in on a world where I don't really have any experience: Asian American culture in literature (and work), and how race is always in play for better or worse.\nA great, intelligent read. Even if it keep making me think of the Batman slap meme...",
+          "link": "https://remysharp.com/books/2024/yellowface",
+          "publishedOn": "2024-02-08T00:00:00.000Z",
+          "wordCount": 667,
+          "title": "Yellowface [book]",
           "imageUrl": null
         },
         {
@@ -417,6 +437,16 @@
           "wordCount": 1066,
           "title": "Removing episodes, audiobooks and more from Spotify [blog]",
           "imageUrl": "https://remysharp.com/images/blocking-spotify.jpg"
+        },
+        {
+          "id": "anxious-people",
+          "author": null,
+          "description": "A heartwarming story where not everything needs to be okay.\nI really enjoyed this book. It's more of a 4.5 for me, as I'm not sure I'd need to read it again, but it left me with some warm and fuzzies inside, and that's nice to have every once in a while.\nI cared about each of the characters and the Backman gives enough (albeit) little layers to each of them that makes the characters all special.\nIt was an easy read. I wanted to find out more at the end of each chapter. And it left me with a warm feeling in the end.",
+          "link": "https://remysharp.com/books/2024/anxious-people",
+          "publishedOn": "2024-01-24T00:00:00.000Z",
+          "wordCount": 592,
+          "title": "Anxious People [book]",
+          "imageUrl": null
         },
         {
           "id": "the-doggie-loggie",
@@ -733,6 +763,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/743143290129547264",
+          "author": null,
+          "description": "text-mode:\nCloneWorld BBS, 1988. \nThis is the welcome screen for the late Mike Cohen’s Cloneworld BBS in Matawan NJ. It was heavily animated, upon logging into the BBS it was completely drawn from the bottom up using ANSI animation starting with a black screen. The text (Welcome to Cloneworld etc) was drawn last, swooping in from the lower right and swirling around the screen until it landed as seen here. Our BBSes were local phone calls to each other, and Mike and I became good friends and spent a lot of time on the phone discussing BBSing, computers, and cars. \nsource",
+          "link": "https://text-mode.tumblr.com/post/743143290129547264",
+          "publishedOn": "2024-02-23T19:31:09.000Z",
+          "wordCount": 1101,
+          "title": "text-mode:\n\nCloneWorld BBS, 1988. \n\nThis is the welcome screen...",
+          "imageUrl": "https://64.media.tumblr.com/8469109fcc588a71d333340e7db0f335/tumblr_nd3itrE4Lp1rpiyaso1_1280.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/743052655833808896",
           "author": null,
@@ -1482,46 +1522,6 @@
           "wordCount": 1031,
           "title": "text-mode:\n\nPETSCII comic from 1983, made on a Vic-20. “The...",
           "imageUrl": "https://64.media.tumblr.com/04fb2c4ab8b8937a685eb0f4051d59a2/tumblr_nm1cqvbZRq1rpiyaso1_500.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/737707454999281664",
-          "author": null,
-          "description": "text-mode:\n‘So, what are you telling me?’ ‪#‎PETSCII‬ released at ‪#‎Gubbdata‬ 2015 by AcidT* / http://csdb.dk/release/index.php?id=137371",
-          "link": "https://text-mode.tumblr.com/post/737707454999281664",
-          "publishedOn": "2023-12-25T19:30:52.000Z",
-          "wordCount": 1020,
-          "title": "text-mode:\n\n‘So, what are you telling me?’ ‪#‎PETSCII‬ released...",
-          "imageUrl": "https://64.media.tumblr.com/81dfd74ca33c0de526b77d777c18b9e1/tumblr_nm6cdmZkG31rpiyaso1_1280.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/737706921591799808",
-          "author": null,
-          "description": "text-mode:\nFrom Description Design 5.0 by Skin & Amblin (1993)",
-          "link": "https://text-mode.tumblr.com/post/737706921591799808",
-          "publishedOn": "2023-12-25T19:22:24.000Z",
-          "wordCount": 1001,
-          "title": "text-mode:\n\nFrom Description Design 5.0 by Skin & Amblin...",
-          "imageUrl": "https://64.media.tumblr.com/9b298ac044329fd30d43f12cd7ddd67f/tumblr_n1v2d6xhAA1rpiyaso1_1280.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/737703037441900544",
-          "author": null,
-          "description": "text-mode:\nSanta arrives via Model 19 Radio Teletype (1940s). By Museum of Communications, Seattle on christmas eve 2013.\nFull video + More Radio Teletype art.",
-          "link": "https://text-mode.tumblr.com/post/737703037441900544",
-          "publishedOn": "2023-12-25T18:20:39.000Z",
-          "wordCount": 1041,
-          "title": "text-mode:\n\nSanta arrives via Model 19 Radio Teletype (1940s)....",
-          "imageUrl": "https://64.media.tumblr.com/5fd38ce10202c5e102d795a240e88deb/tumblr_nep1cvREFV1rpiyaso1_1280.gif"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/737697508795596800",
-          "author": null,
-          "description": "text-mode:\nBy utf8art (2011)",
-          "link": "https://text-mode.tumblr.com/post/737697508795596800",
-          "publishedOn": "2023-12-25T16:52:47.000Z",
-          "wordCount": 1005,
-          "title": "text-mode:\n\nBy utf8art (2011)",
-          "imageUrl": "https://64.media.tumblr.com/e5beed6e629805cf9e24acd49325f4e8/tumblr_mx4izdHkHM1rpiyaso1_540.gif"
         }
       ]
     },
@@ -1685,6 +1685,26 @@
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
         {
+          "id": "https://www.joshwcomeau.com/react/next-level-playground/",
+          "author": "Josh W. Comeau",
+          "description": "No developer blog or technical documentation site is complete without an interactive code playground. The CodeSandbox team recently released a wonderful tool called Sandpack, to help us create these live-updating code editors. In this tutorial, I'll show you how I use it on this blog.",
+          "link": "https://www.joshwcomeau.com/react/next-level-playground/",
+          "publishedOn": "2024-02-23T16:49:22.000Z",
+          "wordCount": 7443,
+          "title": "A World-Class Code Playground with Sandpack",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-next-level-playground.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/react/file-structure/",
+          "author": "Josh W. Comeau",
+          "description": "How should we structure components and other files in our React apps? I've iterated my way to a solution I'm really happy with. In this blog post, I'll share how it works, what the tradeoffs are, and how I mitigate them.",
+          "link": "https://www.joshwcomeau.com/react/file-structure/",
+          "publishedOn": "2024-02-23T16:47:28.000Z",
+          "wordCount": 7421,
+          "title": "Delightful React File/Directory Structure",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-file-structure.png"
+        },
+        {
           "id": "https://www.joshwcomeau.com/css/css-variables-for-react-devs/",
           "author": "Josh W. Comeau",
           "description": "CSS Variables are *really* cool, and they're incredibly powerful when it comes to React! This tutorial shows how we can use them with React to create dynamic themes. We'll see how to get the most out of CSS-in-JS tools like styled-components, and how our mental frame around media queries has been wrong all along.",
@@ -1768,6 +1788,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=8083",
+          "author": "Cory Doctorow",
+          "description": "Today's links Dinkclump Linkdump: A rare, out-of-cycle linkdump. The Bezzle excerpt (Part VI): The thrilling conclusion! This day in history: 2009, 2014, 2019 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Dinkclump Linkdump (permalink) Some Saturday mornings, I look at the week's blogging and realize I have a lot more links saved up than I managed to write about this week, and then I do a linkdump. There've been 14 of these, and this is number 15: https://pluralistic.net/tag/linkdump/ Attentive readers will note that this isn't Saturday. You're right. But I'm on a book tour and every day is shatterday, because damn, it's grueling and I'm not the spry manchild who took Little Brother on the road in 2008 – I'm a 52 year old with two art…",
+          "link": "https://pluralistic.net/2024/02/23/gazeteer/",
+          "publishedOn": "2024-02-23T15:03:54.000Z",
+          "wordCount": 4037,
+          "title": "Pluralistic: Dinkclump Linkdump; The Bezzle excerpt (Part VI) (23 Feb 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=8068",
           "author": "Cory Doctorow",
@@ -2163,6 +2193,86 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/02/knitting-anything",
+          "author": null,
+          "description": "I know there are some knitters around here, and I’m curious what people are making, if anyone cares to share. I’ve been knitting a Nine Note Seed Stitch Wrap for the past couple months. Next I’d like to finally try making a Junko Okamoto sweater, or maybe a James Watts sweater. And I’d really love to make this sweet guernsey kids’ sweater by Susie Haumann, but so far the pattern is only in Danish. And if I’m being honest I’ll probably just make something mindless (but no less pleasing).\nTags: knitting\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/02/knitting-anything",
+          "publishedOn": "2024-02-23T20:38:24.000Z",
+          "wordCount": 981,
+          "title": "Knitting Anything?",
+          "imageUrl": "https://kottke.org/plus/misc/images/knittinghands1.jpeg"
+        },
+        {
+          "id": "https://kottke.org/24/02/0044047-now-that-i-have-kids",
+          "author": null,
+          "description": "Now that I have kids, I can more fully appreciate The Kid Should See This, a repository of “smart videos for curious minds” (and Kottke favorite). “Drawing Sharks With Pancake Batter” blew my mind. \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/02/0044047-now-that-i-have-kids",
+          "publishedOn": "2024-02-23T18:52:52.000Z",
+          "wordCount": 556,
+          "title": "Now that I have kids, I can more fully appreciate The Kid...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/02/0044045-wesley-moore-awards-best-",
+          "author": null,
+          "description": "Wesley Morris awards “Best Theft of a Movie” to Ryan Gosling in his “Awards for Acting Categories That Don’t Exist at the Oscars.” Worth it for the GIFs alone.\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/02/0044045-wesley-moore-awards-best-",
+          "publishedOn": "2024-02-23T18:06:37.000Z",
+          "wordCount": 567,
+          "title": "Wesley Morris awards &#8220;Best Theft of a Movie&#8221; to Ryan Gosling in...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/02/visible-mending-on-love-death-and-knitting",
+          "author": null,
+          "description": "Beautiful stop-frame animated documentary about why people knit and mend. “When your life is sort of falling apart, you need to create a purpose in it for yourself, and if that purpose is quite small, it doesn’t matter.” Directed by Samantha Moore. \nI’ve also been enjoying Arounna Khounnoraj’s visible mending and other handmade projects, on Instagram at bookhou. \nTags: animation · documentaries · knitting · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/02/visible-mending-on-love-death-and-knitting",
+          "publishedOn": "2024-02-23T17:25:18.000Z",
+          "wordCount": 606,
+          "title": "&#8216;Visible Mending,&#8217; on Love, Death, and Knitting",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/02/0044043-ive-been-thinking-a-lot",
+          "author": null,
+          "description": "I’ve been thinking a lot about alternate families/relationships/friendships lately and this Modern Love piece — about a man with a wife who doesn’t remember him (Alzheimer’s) and a girlfriend who is now part of the family — was unexpectedly moving.\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/02/0044043-ive-been-thinking-a-lot",
+          "publishedOn": "2024-02-23T16:49:50.000Z",
+          "wordCount": 557,
+          "title": "I&#8217;ve been thinking a lot about alternate families/relationships/friendships lately and this Modern...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/02/0044041-a-huge-study-of-more",
+          "author": null,
+          "description": "A huge study of more than 99 million people confirms the safety of Covid vaccines and that their benefits “vastly outweigh the risks”.\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/02/0044041-a-huge-study-of-more",
+          "publishedOn": "2024-02-23T16:21:21.000Z",
+          "wordCount": 544,
+          "title": "A huge study of more than 99 million people confirms the safety...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/02/0044040-new-law-requires-snap-rec",
+          "author": null,
+          "description": "New Law Requires SNAP Recipients To Balance Food On Nose Until Receiving Command To Eat It. “‘There’s no reason why working-age, able-bodied food stamp recipients can’t show us that they’re very good boys,’ said House Speaker Mike Johnson.” Pitch perfect.\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/02/0044040-new-law-requires-snap-rec",
+          "publishedOn": "2024-02-23T15:01:31.000Z",
+          "wordCount": 560,
+          "title": "New Law Requires SNAP Recipients To Balance Food On Nose Until Receiving...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/02/0044035-the-new-apple-sports-app",
+          "author": null,
+          "description": "The new Apple Sports app for iPhone is pretty good but isn’t great for keeping up with football — MLS & the European leagues are there, but no Champions/Europa Leagues, national teams, etc. Hopefully that’ll change.\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/02/0044035-the-new-apple-sports-app",
+          "publishedOn": "2024-02-23T14:27:08.000Z",
+          "wordCount": 833,
+          "title": "The new Apple Sports app for iPhone is pretty good but isn&#8217;t...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/24/02/siblings-step-dancing-and-roller-skating",
           "author": null,
@@ -5831,36 +5941,6 @@
           "publishedOn": "2023-12-26T14:02:13.000Z",
           "wordCount": 608,
           "title": "The 10 Best TV Episodes of 2023, including Forks from The Bear,...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/23/12/an-artist-creates-the-family-xmas-card-from-age-3-to-36",
-          "author": null,
-          "description": "Since he was a toddler, artist C.W. Moss has made the artwork for his family’s Christmas card. Here are some early installments from when he was three & seven:\n\nSome from when Moss was 17 and 29:\n\nAnd the most recent one from age 36 (you can watch how he draws it):\n\nIt’s fascinating to see his artistic sense grow and shift over the years, not only increasing in artistic skill as he gets older but also moving from simple depictions of holiday scenes to more conceptual creations.\nTags: art · C.W. Moss · Christmas · holidays · illustration\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/12/an-artist-creates-the-family-xmas-card-from-age-3-to-36",
-          "publishedOn": "2023-12-25T22:44:36.000Z",
-          "wordCount": 625,
-          "title": "An Artist Creates the Family Xmas Card, From Age 3 to 36",
-          "imageUrl": "https://kottke.org/plus/misc/images/cwmoss-xmas-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/12/watch-the-newly-remastered-pee-wees-playhouse-christmas-special-1988-on-youtube",
-          "author": null,
-          "description": "The entire episode of Pee-wee’s Playhouse Christmas Special (1988) is on YouTube, fully remastered in 1080p HD. Special guests include Annette Funicello, Zsa Zsa Gabor, Whoopi Goldberg, Magic Johnson, Grace Jones, Little Richard, and Joan Rivers. From a Vulture piece on the special:\nChristmas at Pee-wee’s Playhouse, the 1988 primetime CBS special from comedian and actor Paul Reubens, is one of the strangest, most glorious, most improbable, most confident pieces of entertainment to appear on television. Thirty-five years after it aired, and in a period of reconsideration after Paul Reubens’s death, the Pee-wee Herman Christmas special still looks like one of the major pinnacles of Reubens as an artist, full of silly delight and winking subversion, all framed inside the relative safety of a big sparkly Christmas extravaganza.\n\n\nAnd after declaring “This special is one of the gayest things I’ve ever seen”:\nWhat’s so brilliant about it as a piece of queer art is that it is presented so earnestly, and the iconography they’re playing with is Americana. It plays as camp to our modern view of over-the-top earnestness. But it’s a mix of camp aesthetic and an alternative comedy aesthetic of laughing at bad jokes, like the series of fruitcake jokes, which were at the time a cliché, that fruitcake was bad. Why are we going to make this joke about fruitcake over and over again? Because it’s stupid!\n\n\n(via austin kleon)\nTags: Christmas · holidays · Pee-wee Herman · TV · video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/12/watch-the-newly-remastered-pee-wees-playhouse-christmas-special-1988-on-youtube",
-          "publishedOn": "2023-12-25T17:25:25.000Z",
-          "wordCount": 768,
-          "title": "Watch the Newly Remastered Pee-wee&#8217;s Playhouse Christmas Special (1988) on YouTube",
-          "imageUrl": "https://i.ytimg.com/vi/NRvtOGLzpvE/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/23/12/0043669-hey-everyone-just-a-quick",
-          "author": null,
-          "description": "Hey everyone. Just a quick holiday note to let you know that recent guest editor Edith Zimmerman had her baby! Edith wanted me to let you know that mom, dad, and baby are doing well!\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/23/12/0043669-hey-everyone-just-a-quick",
-          "publishedOn": "2023-12-25T16:02:59.000Z",
-          "wordCount": 610,
-          "title": "Hey everyone. Just a quick holiday note to let you know that...",
           "imageUrl": ""
         }
       ]
