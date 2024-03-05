@@ -141,6 +141,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2902/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/ice_core.png\" title=\"If you find an ash deposition layer from a year in which an eruption destroyed an island that had Camellia sinensis growing on it, you can make a Gone Island Ice_τ.\" alt=\"If you find an ash deposition layer from a year in which an eruption destroyed an island that had Camellia sinensis growing on it, you can make a Gone Island Ice_τ.\" />",
+          "link": "https://xkcd.com/2902/",
+          "publishedOn": "2024-03-04T00:00:00.000Z",
+          "wordCount": 219,
+          "title": "Ice Core",
+          "imageUrl": "https://imgs.xkcd.com/comics/ice_core_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2901/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/geographic_qualifiers.png\" title=\"'Thank you for the loveliest evening I've ever had...' [normal] '...east of the Mississippi.' [instant intrigue!]\" alt=\"'Thank you for the loveliest evening I've ever had...' [normal] '...east of the Mississippi.' [instant intrigue!]\" />",
@@ -379,16 +389,6 @@
           "wordCount": 217,
           "title": "Supernova",
           "imageUrl": "https://imgs.xkcd.com/comics/supernova_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2877/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/fever.png\" title=\"Hypothermia of below 98.6 K should be treated by leaving the giant molecular cloud and moving to the vicinity of a star.\" alt=\"Hypothermia of below 98.6 K should be treated by leaving the giant molecular cloud and moving to the vicinity of a star.\" />",
-          "link": "https://xkcd.com/2877/",
-          "publishedOn": "2024-01-05T00:00:00.000Z",
-          "wordCount": 217,
-          "title": "Fever",
-          "imageUrl": "https://imgs.xkcd.com/comics/fever_2x.png"
         }
       ]
     },
@@ -736,6 +736,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/744049317851119616",
+          "author": null,
+          "description": "text-mode:\nFinished today, this is a program that does the captions for Hackers (1995). Watch the full source as HTML, and get more ascii/code art from Lord Nikon here.",
+          "link": "https://text-mode.tumblr.com/post/744049317851119616",
+          "publishedOn": "2024-03-04T19:32:04.000Z",
+          "wordCount": 1045,
+          "title": "text-mode:\n\nFinished today, this is a program that does the...",
+          "imageUrl": "https://64.media.tumblr.com/a5fdc9474e1d0a23829efe557288061a/tumblr_nd37q7uziQ1rpiyaso4_1280.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/743958627041378304",
           "author": null,
@@ -1465,16 +1475,6 @@
           "wordCount": 1023,
           "title": "text-mode:\n\nAds from the British teletext magazine Digitiser,...",
           "imageUrl": "https://64.media.tumblr.com/d532e6136589aca7e2b3d208504f4116/tumblr_ng327miVAT1rpiyaso1_540.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/738613410897526784",
-          "author": null,
-          "description": "text-mode:\n‘Il libro più corto del mondo’ by Paul Cox (2002)",
-          "link": "https://text-mode.tumblr.com/post/738613410897526784",
-          "publishedOn": "2024-01-04T19:30:39.000Z",
-          "wordCount": 1010,
-          "title": "text-mode:\n\n‘Il libro più corto del mondo’ by Paul Cox (2002)",
-          "imageUrl": "https://64.media.tumblr.com/e24be1633ab2648ead28b52af38bde72/tumblr_ngew89bnm91rpiyaso4_1280.jpg"
         }
       ]
     },
@@ -1741,6 +1741,21 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=8216",
+          "author": "Cory Doctorow",
+          "description": "Today's links The real problem with anonymity: The banal anonymity of evil. Hey look at this: Delights to delectate. This day in history: 2004, 2009, 2014, 2019, 2023 Upcoming appearances: Where to find me. Recent appearances: Podcasts, events and more. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The real problem with anonymity (permalink) According to \"the greater internet fuckwad theory,\" the ills of the internet can be traced to anonymity: Normal Person + Anonymity + Audience = Total Fuckwad https://knowyourmeme.com/memes/greater-internet-fuckwad-theory This isn't merely wrong, it's dangerously wrong. The idea that forcing people to identify themselves online will improve discourse is demonstrably …",
+          "link": "https://pluralistic.net/2024/03/04/greater-corporate-fuckward-theory/",
+          "publishedOn": "2024-03-04T13:45:11.000Z",
+          "wordCount": 2847,
+          "title": "Pluralistic: The real problem with anonymity (04 Mar 2024)",
+          "enclosure": {
+            "url": "https://web.archive.org/web/20050910045938/http://sims.berkeley.edu/~dmb/orkut/orkutworld.mp3",
+            "length": "1403217",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=8210",
           "author": "Cory Doctorow",
@@ -2226,6 +2241,126 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/03/the-paradox-of-an-infinite-universe",
+          "author": null,
+          "description": "Is the universe finite or infinite? If finite, what shape is it and how does that shape influence its overall size and properties? If it’s infinite, what meaning of “expanding” can be applied to it? I don’t know if this video provides any satisfying answers, but even being able to ponder these questions is thrilling.\nInfinity gets much weirder though. As you travel with your spaceship in a straight line, you find new galaxies, stars and planets, new wonders, new weird stuff, probably new aliens and new lifeforms stranger than you could ever imagine. But after a long time, you might find the most special thing in the universe: Yourself. An exact copy of you watching this video right now.\nHow can that be? Well, everything in existence is made of a finite amount of different particles. And a finite number of different particles can only be combined in a finite number of ways. That number may be so large that it feels like infinity to our brains — but it is not really. If you have finite options to build things, but infinite space that is full of things in all directions forever, then it makes sense that by pure chance, there will likely be repetition. \n\n\n \nTags: Kurzgesagt · physics · science · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/the-paradox-of-an-infinite-universe",
+          "publishedOn": "2024-03-04T22:49:46.000Z",
+          "wordCount": 805,
+          "title": "The Paradox of an Infinite Universe",
+          "imageUrl": "https://i.ytimg.com/vi/isdLel273rQ/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/03/how-the-dutch-solved-street-design",
+          "author": null,
+          "description": "Adam Yates travelled to Amsterdam to see how the Dutch have transformed the city and made it safer for people to get where they’re going more quickly. The phrase that grabbed me is:\nPedestrians, cyclists, and vehicles can all coexist without conflict, but only if they’re all going the same slow speed. This advances the principles of shared streets.\n\n\nThis is related to the Downs-Thomson paradox:\nIn simple terms, the Downs-Thomson paradox claims that traffic will increase without limit until the option of public transport (or any other form of transport) becomes faster than the equivalent trip by car. It draws the conclusion that people do not care whether they drive, walk, bike, or take the bus to any location — they just want to get from A to B in the fastest and most convenient way possible.\n\n\n(via @marcprecipice)\nTags: Adam Yates · cities · traffic · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/how-the-dutch-solved-street-design",
+          "publishedOn": "2024-03-04T21:39:28.000Z",
+          "wordCount": 900,
+          "title": "How the Dutch Solved Street Design",
+          "imageUrl": "https://i.ytimg.com/vi/L7_O1GSPIWo/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/03/0044115-a-mastodon-client-for-the",
+          "author": null,
+          "description": "A Mastodon client for the Apple II. Yes, you read that right. It supports 2-factor auth!\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/0044115-a-mastodon-client-for-the",
+          "publishedOn": "2024-03-04T20:55:46.000Z",
+          "wordCount": 634,
+          "title": "A Mastodon client for the Apple II. Yes, you read that right....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/03/0044113-france-on-monday-enshrine",
+          "author": null,
+          "description": "“France on Monday enshrined the right to abortion in its constitution, a world first welcomed by women’s rights groups as historic.” The vote was 780 votes for and 72 against.\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/0044113-france-on-monday-enshrine",
+          "publishedOn": "2024-03-04T20:02:57.000Z",
+          "wordCount": 842,
+          "title": "&#8220;France on Monday enshrined the right to abortion in its constitution, a...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/03/on-the-reverse",
+          "author": null,
+          "description": "Madrid’s Museo Nacional del Prado recently put on an exhibition called On the Reverse that featured the backs of notable works of art.\nThis exhibition goes beyond the simple action of turning paintings around. Rather, the Museo del Prado is undertaking a complete reassessment of the backs of works in its collections while also identifying relevant examples in other major museums which reveal how appreciation of works of art is enhanced when we do more than just look at the front. The exhibition addresses issues that have never previously been brought together and in which there is also space for imaginative interpretations: the emergence of the reverse as a pictorial motif in two sub-genres: the self-portrait of the artist behind the canvas and the depiction of the picture back in trompe l’oeil; the poetic reading of the stretcher as a cross; two-sided paintings; the back as a field for experimentation and subjective expression; aesthetic appreciation of the material nature of the works, and the issue of the viewer seen from behind, which makes us aware of the particular spatial relationships that are generated by human interaction with art.\n\n\nI once went with an artist friend to an art museum where they hung some of the paintings so you could see both sides of them at once, and she was often more interested in seeing the backs, where you could maybe see who owned the painting previously, etc.\nSadly, the show ended on March 3, but Hyperallergic has a good writeup.\nTags: art · Museo Nacional del Prado\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/on-the-reverse",
+          "publishedOn": "2024-03-04T19:23:27.000Z",
+          "wordCount": 845,
+          "title": "On the Reverse",
+          "imageUrl": "https://kottke.org/plus/misc/images/prado-on-the-reverse-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/03/0044108-new-puzzle-game-from-the",
+          "author": null,
+          "description": "New puzzle game from the NY Times: Strands. It’s a theme-based word search. I like the wrinkle that finding non-theme words earns you hints.\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/0044108-new-puzzle-game-from-the",
+          "publishedOn": "2024-03-04T18:33:02.000Z",
+          "wordCount": 766,
+          "title": "New puzzle game from the NY Times: Strands. It&#8217;s a theme-based word...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/03/0044107-an-amazing-analysis-of-ti",
+          "author": null,
+          "description": "An amazing analysis of “title drops” (when a movie character says the name of a movie in the movie.) “There’s an average of 10.3 title drops per movie that title drops. If they do it, they really go for it.” (See: Barbie.)\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/0044107-an-amazing-analysis-of-ti",
+          "publishedOn": "2024-03-04T17:49:42.000Z",
+          "wordCount": 706,
+          "title": "An amazing analysis of &#8220;title drops&#8221; (when a movie character says the...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/03/0044102-this-essay-on-arranged-ma",
+          "author": null,
+          "description": "This essay on arranged marriage makes me wonder who my parents might have chosen for me & how that might’ve worked out.\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/0044102-this-essay-on-arranged-ma",
+          "publishedOn": "2024-03-04T17:04:19.000Z",
+          "wordCount": 660,
+          "title": "This essay on arranged marriage makes me wonder who my parents might...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/03/how-jane-austen-changed-fiction-forever",
+          "author": null,
+          "description": "Right from the start of her first book, Sense and Sensibility, Austen used an innovative narration technique called free indirect speech:\nTo understand why Austen’s narration is so distinct, the method and style of narration in which she wrote must be understood. Austen wrote in a little-known and not-often-used method of third-person narration called free indirect speech. Free Indirect Speech (FIS) is a distinct kind of third-person narration which seamlessly slips in and out of a character’s consciousness while still being presented by the third-person narrator.\n\n\nIn the video above, Evan Puschak explains, with examples, what free indirect speech is and why it was so revolutionary & influential when wielded by Austen.\nAlso, I didn’t know that Twain was such an Austen hater:\nShe also sparked dislike in such an extreme that Mark Twain once famously wrote that, when reading Pride & Prejudice, he wanted to dig up Austen and beat her with her own shin bone.\n\n\nTeam Austen over here.\nTags: books · Evan Puschak · Jane Austen · Mark Twain · writing\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/how-jane-austen-changed-fiction-forever",
+          "publishedOn": "2024-03-04T16:17:04.000Z",
+          "wordCount": 762,
+          "title": "How Jane Austen Changed Fiction Forever",
+          "imageUrl": "https://i.ytimg.com/vi/nvaZwwhmX6Y/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/03/0044101-a-remembrance-of-legendar",
+          "author": null,
+          "description": "A remembrance of legendary film scholar David Bordwell, who died recently at the age of 76. “Bordwell proved that the best way to be a cinephile is to be open to everything.” His blog (co-authored w/ his wife Kristin Thompson) was excellent.\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/0044101-a-remembrance-of-legendar",
+          "publishedOn": "2024-03-04T15:39:58.000Z",
+          "wordCount": 670,
+          "title": "A remembrance of legendary film scholar David Bordwell, who died recently at...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/03/0044098-denisovan-humans-were-fir",
+          "author": null,
+          "description": "Denisovan humans were first discovered in 2010 but DNA gathered since then “offers a picture of remarkable humans”, showing that “from a behavioral perspective, they were much more like modern humans”.\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/0044098-denisovan-humans-were-fir",
+          "publishedOn": "2024-03-04T14:56:11.000Z",
+          "wordCount": 658,
+          "title": "Denisovan humans were first discovered in 2010 but DNA gathered since then...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/03/0044100-the-supreme-court-must-be",
+          "author": null,
+          "description": "The Supreme Court Must Be Stopped. “I think of the Supreme Court the way Batman thinks of Superman: an extremely powerful being who is untethered from the laws of physics and therefore must always be considered a threat to free society.”",
+          "link": "https://kottke.org/24/03/0044100-the-supreme-court-must-be",
+          "publishedOn": "2024-03-04T14:03:38.000Z",
+          "wordCount": 299,
+          "title": "The Supreme Court Must Be Stopped. &#8220;I think of the Supreme Court...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/24/03/0044097-vogue-fashion-icon-iris-a",
           "author": null,
@@ -5824,106 +5959,6 @@
           "publishedOn": "2024-01-05T16:02:50.000Z",
           "wordCount": 532,
           "title": "A 1-dimensional version of Pac-Man....",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/01/0043731-two-years-400-journalists",
-          "author": null,
-          "description": "Two years, 400 journalists and 50 climate experts: Here’s what we learnt about how to report on climate change. “To make climate change less abstract, ‘Find your mango.’” (Aka the thing that your audience cares about that’s impacted by climate.)\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/01/0043731-two-years-400-journalists",
-          "publishedOn": "2024-01-04T22:34:50.000Z",
-          "wordCount": 561,
-          "title": "Two years, 400 journalists and 50 climate experts: Here&#8217;s what we learnt...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/01/0043730-when-she-was-19-henn",
-          "author": null,
-          "description": "When she was 19, Henn Kim stopped speaking for two years. “Growing up, I felt trapped because I couldn’t express my emotions. Now, without words, I felt inspired.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/01/0043730-when-she-was-19-henn",
-          "publishedOn": "2024-01-04T21:40:16.000Z",
-          "wordCount": 549,
-          "title": "When she was 19, Henn Kim stopped speaking for two years. &#8220;Growing...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/01/0043729-paul-ford-to-own-the",
-          "author": null,
-          "description": "Paul Ford: To Own the Future, Read Shakespeare. “The interdisciplinarian is essentially an exile. Someone who respects no borders enjoys no citizenship.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/01/0043729-paul-ford-to-own-the",
-          "publishedOn": "2024-01-04T20:56:39.000Z",
-          "wordCount": 541,
-          "title": "Paul Ford: To Own the Future, Read Shakespeare. &#8220;The interdisciplinarian is essentially...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/01/what-can-i-do-about-the-climate-emergency",
-          "author": null,
-          "description": "Not Too Late: Changing the Climate Story from Despair to Possibility is a climate anthology published last year and edited by Rebecca Solnit and Thelma Young Lutunatabua. They’ve just added a chapter to the book that’s available for free download that contains practical advice on how to involved in combatting the climate crisis: What Can I Do About the Climate Emergency?\nThe climate movement needs you. In this pamphlet, we outline some of the ways you can join it, and we share examples of how ordinary people have found their role, their power, their impactful projects, and their climate community. There’s a place for you in the crucial work of speeding the transition away from destruction and toward thriving. Figuring out where your skills are useful and what you can stick with is important. Identifying whom to work with and what to work on is crucial. Some of us are good at staying with a legislative issue for a season or a year or a decade. Some of us are good campaigners. Some like protests and are ready to blockade and risk arrest. Some of us are homebound but can make calls and write letters. It all matters.\nOne of the best and most challenging things about the climate crisis is that there is no one solution. That is, the solution is a mosaic of many changes. The way we get to a world that doesn’t run on fossil fuel and instead centers justice, sustainability, and community is happening in hundreds of thousands of ways — this coal plant shutdown, that methane-gas ban, these electric schoolbuses and bike lanes, that solar rooftop, these offshore turbines, that grasslands protection. These need to be sped up and amplified. National legislation and international treaties matter, but so do the countless small pieces that add up. It’s not just about what we need to stop but also about the rejuvenating work of building the world we want.\n\n\n \nTags: books · climate crisis · Not Too Late · Rebecca Solnit · Thelma Young Lutunatabu\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/01/what-can-i-do-about-the-climate-emergency",
-          "publishedOn": "2024-01-04T20:02:36.000Z",
-          "wordCount": 1005,
-          "title": "What Can I Do About the Climate Emergency?",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/01/0043728-there-should-be-lots-of",
-          "author": null,
-          "description": "“There should be lots of different, human-scale alternative experiences on the internet that offer up home-cooked, locally-grown, ethically-sourced, code-to-table alternatives to the factory-farmed junk food of the internet. And they should be weird.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/01/0043728-there-should-be-lots-of",
-          "publishedOn": "2024-01-04T19:17:54.000Z",
-          "wordCount": 550,
-          "title": "&#8220;There should be lots of different, human-scale alternative experiences on the internet...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/01/0043719-the-man-who-invented-fift",
-          "author": null,
-          "description": "The Man Who Invented Fifteen Hundred Necktie Knots. “He established or articulated dozens of basic techniques: twisting, swirling, spiralling, tunnelling, snaking, flaring.” Learn how to tie some of them on YouTube.\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/01/0043719-the-man-who-invented-fift",
-          "publishedOn": "2024-01-04T18:27:48.000Z",
-          "wordCount": 550,
-          "title": "The Man Who Invented Fifteen Hundred Necktie Knots. &#8220;He established or articulated...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/01/learn-how-to-dance-like-david-byrne-from-byrne-himself",
-          "author": null,
-          "description": "This is an absolute delight: a pair of videos of David Byrne teaching us how to do a few dance moves. The first video shows more moves; the second one was recorded for “a social distance dance club” during the pandemic:\nThe dance club was open for 2 weeks in April 2021 and allowed for people to come together to dance however they wanted while masked and a safe distance from each other. It played a variety of music (including a couple of David Byrne and Talking Heads songs), and people who signed up to attend were encouraged to use this video to learn this routine in advance so that everybody could dance in sync for the final song of each hour session.\n\n\nAyun Halliday wrote a great post for Open Culture about Byrne’s dancing.\nTags: dance · David Byrne · how to · video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/01/learn-how-to-dance-like-david-byrne-from-byrne-himself",
-          "publishedOn": "2024-01-04T17:39:27.000Z",
-          "wordCount": 669,
-          "title": "Learn How to Dance Like David Byrne (From Byrne Himself)",
-          "imageUrl": "https://i.ytimg.com/vi/QaBLaILAT6M/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/01/0043725-rolling-stone-picks-the-1",
-          "author": null,
-          "description": "Rolling Stone picks The 150 Greatest Science Fiction Movies of All Time. So much to argue with re: the rankings (like why Jurassic Park is rated so low), but also so much to put on the watchlist.\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/01/0043725-rolling-stone-picks-the-1",
-          "publishedOn": "2024-01-04T16:49:41.000Z",
-          "wordCount": 649,
-          "title": "Rolling Stone picks The 150 Greatest Science Fiction Movies of All Time....",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/01/paul-hollywood-prue-leith-judge-the-best-american-snacks",
-          "author": null,
-          "description": "In a video for Bon Appétit, the judges from the Great British Bake Off weigh in on a host of American snacks, from the Snickers bar to Thin Mints to Ruffles potato chips to Combos. I’ll excuse them for eliminating my favorite Reese’s Peanut Butter Cups in the first round (even though their holiday-themed eggs, trees, and pumpkins are better) because their finalists were correct. Some of their reactions:\nCheez-Its: “Tastes like old socks.”\nPop-Tarts: “If I was starving, I’d eat that.”\nCombos: “I don’t think my dog would eat that.”\n\n\n \nTags: food · Paul Hollywood · Prue Leith · video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/01/paul-hollywood-prue-leith-judge-the-best-american-snacks",
-          "publishedOn": "2024-01-04T16:01:33.000Z",
-          "wordCount": 793,
-          "title": "Paul Hollywood & Prue Leith Judge the Best American Snacks",
-          "imageUrl": "https://i.ytimg.com/vi/_R6n5ch-CV0/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/01/0043720-how-s-group-a-cooperative",
-          "author": null,
-          "description": "How S Group, a cooperative company, became Finland’s dominant retailer. “For one thing, since a co-op has no shareholders, and hence no strict need for profit maximization, it can compete quite ruthlessly on price.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/01/0043720-how-s-group-a-cooperative",
-          "publishedOn": "2024-01-04T15:14:26.000Z",
-          "wordCount": 581,
-          "title": "How S Group, a cooperative company, became Finland&#8217;s dominant retailer. &#8220;For one...",
           "imageUrl": ""
         }
       ]
