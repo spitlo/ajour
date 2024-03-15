@@ -104,28 +104,7 @@
       "title": "Sara Soueidan – Blog",
       "feedUrl": "https://www.sarasoueidan.com/blog/index.xml",
       "siteUrl": "https://sarasoueidan.com/blog-feed.xml",
-      "articles": [
-        {
-          "id": "https://sarasoueidan.com/blog/accessible-notifications-with-aria-live-regions-part-2/",
-          "author": null,
-          "description": "In the first part of this chapter we discussed what we might need live regions for, and how to create them using HTML and ARIA.\nIn this part, we’re going to discuss what live regions are not suitable for and why, and we’re going to discuss more robust ways to implement some common UI patterns that you might otherwise consider using live regions for. After that, we’re going to go over some best practices for implementing live regions for when you do need to use them to represent things like status messages in your web applications.\nLive regions are easy to misuse and to overuse. Aside from inconsistent browser and screen reader support, live regions’ inherent capabilities are limited by design, which makes them unsuitable for certain types of content updates.\nLive regions don’t handle rich …",
-          "link": "https://sarasoueidan.com/blog/accessible-notifications-with-aria-live-regions-part-2/",
-          "publishedOn": "2024-01-15T00:00:00.000Z",
-          "wordCount": 5577,
-          "title": "Accessible notifications with ARIA Live Regions (Part 2)",
-          "imageUrl": "/assets/images/logo/sara-illustration.png"
-        },
-        {
-          "id": "https://sarasoueidan.com/blog/accessible-notifications-with-aria-live-regions-part-1/",
-          "author": null,
-          "description": "In this chapter, we’re going to learn about ARIA live regions — the accessible notifications system that enables us to make dynamic web content more accessible to screen reader users.\nWithout live regions, some rich web applications would be more challenging to use for screen reader users. So if you’re building web applications such as Single Page Applications (SPAs), you need to understand live regions so that you can utilize them where appropriate.\nThis chapter is split into two parts. In this first part, we’re going to learn about why ARIA live regions are important, and the different ARIA attributes and roles that you can use to create them. We’re going to get an overview of these attributes, as well as learn about their current support landscape and limitations.\nIn the second part, we…",
-          "link": "https://sarasoueidan.com/blog/accessible-notifications-with-aria-live-regions-part-1/",
-          "publishedOn": "2024-01-15T00:00:00.000Z",
-          "wordCount": 6682,
-          "title": "Accessible notifications with ARIA Live Regions (Part 1)",
-          "imageUrl": "/assets/images/logo/sara-illustration.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "there.oughta.be/",
@@ -150,6 +129,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2906/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/earth.png\" title=\"Just think of all the countless petty squabbles and misunderstandings, of all the fervent hatreds, over so insignificant a thing as the direction and duration of a rocket engine firing.\" alt=\"Just think of all the countless petty squabbles and misunderstandings, of all the fervent hatreds, over so insignificant a thing as the direction and duration of a rocket engine firing.\" />",
+          "link": "https://xkcd.com/2906/",
+          "publishedOn": "2024-03-13T00:00:00.000Z",
+          "wordCount": 215,
+          "title": "Earth",
+          "imageUrl": "https://imgs.xkcd.com/comics/earth_2x.png"
+        },
         {
           "id": "https://xkcd.com/2905/",
           "author": null,
@@ -389,16 +378,6 @@
           "wordCount": 219,
           "title": "Net Rotations",
           "imageUrl": "https://imgs.xkcd.com/comics/net_rotations_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2881/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/bug_thread.png\" title=\"After some account issues, we've added 6 new people from the beach house rental website support forum.\" alt=\"After some account issues, we've added 6 new people from the beach house rental website support forum.\" />",
-          "link": "https://xkcd.com/2881/",
-          "publishedOn": "2024-01-15T00:00:00.000Z",
-          "wordCount": 219,
-          "title": "Bug Thread",
-          "imageUrl": "https://imgs.xkcd.com/comics/bug_thread_2x.png"
         }
       ]
     },
@@ -726,6 +705,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/744955239230242816",
+          "author": null,
+          "description": "text-mode:\nAmiga ASCII by Ne7. Not finished. Nicked from his Instagram.",
+          "link": "https://text-mode.tumblr.com/post/744955239230242816",
+          "publishedOn": "2024-03-14T19:31:18.000Z",
+          "wordCount": null,
+          "title": "text-mode:\n\nAmiga ASCII by Ne7. Not finished. Nicked from his...",
+          "imageUrl": null
+        },
         {
           "id": "https://text-mode.tumblr.com/post/744868842626482176",
           "author": null,
@@ -1465,16 +1454,6 @@
           "wordCount": 942,
           "title": "By Josefin G&auml;fvert. More.",
           "imageUrl": "https://64.media.tumblr.com/66c0f45c6b20126bf41764f6847fb1bf/756a2cf109ea57be-54/s640x960/6fe26c6883c1e131c8fd9617d0d567fe00c526c0.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/739519394982625280",
-          "author": null,
-          "description": "text-mode:\nZX 81 Image Maker by Refresh Creations LTD (2006)",
-          "link": "https://text-mode.tumblr.com/post/739519394982625280",
-          "publishedOn": "2024-01-14T19:30:53.000Z",
-          "wordCount": 997,
-          "title": "text-mode:\n\nZX 81 Image Maker by Refresh Creations LTD (2006)",
-          "imageUrl": "https://64.media.tumblr.com/33f6e8ec984ecbd2827d4f0bc07fa1e0/tumblr_nfe0qc5PWa1rpiyaso1_1280.png"
         }
       ]
     },
@@ -1771,6 +1750,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=8304",
+          "author": "Cory Doctorow",
+          "description": "Today's links The Coprophagic AI crisis: Even the mystical account of AI's glorious future fails on its own terms. Hey look at this: Delights to delectate. This day in history: 2004, 2009, 2014, 2019, 2023 Upcoming appearances: Where to find me. Recent appearances: Podcasts, events and more. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The Coprophagic AI crisis (permalink) A key requirement for being a science fiction writer without losing your mind is the ability to distinguish between science fiction (futuristic thought experiments) and predictions. SF writers who lack this trait come to fancy themselves fortune-tellers who SEE! THE! FUTURE! The thing is, sf writers cheat. We palm cards in order to s…",
+          "link": "https://pluralistic.net/2024/03/14/inhuman-centipede/",
+          "publishedOn": "2024-03-14T15:26:30.000Z",
+          "wordCount": 2875,
+          "title": "Pluralistic: The Coprophagic AI crisis (14 Mar 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=8297",
           "author": "Cory Doctorow",
@@ -2281,6 +2270,76 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/03/0044193-short-interview-with-a-se",
+          "author": null,
+          "description": "Short interview with a seismologist who has debunked a Harvard astrophysicist’s claim that an alien artifact was found on Earth. “One, if you want to do seismic analysis, it’s ideal if you check with a seismologist first. The other is, it’s not aliens.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/0044193-short-interview-with-a-se",
+          "publishedOn": "2024-03-14T22:49:33.000Z",
+          "wordCount": 700,
+          "title": "Short interview with a seismologist who has debunked a Harvard astrophysicist&#8217;s claim...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/03/0044192-its-really-become-a-thing",
+          "author": null,
+          "description": "It’s really become a thing for bands to go on tour to play their classic albums from start to finish (e.g. Death Cab, Postal Service). When did this start? I found this 10-year-old Reddit thread which mentioned Weezer, Green Day, and The Pixies. Anyone?\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/0044192-its-really-become-a-thing",
+          "publishedOn": "2024-03-14T21:24:10.000Z",
+          "wordCount": 1234,
+          "title": "It&#8217;s really become a thing for bands to go on tour to...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/03/0044190-sometimes-its-desperate-b",
+          "author": null,
+          "description": "“Sometimes it’s desperate because I can’t touch someone, my hands don’t move, and no one touches me except in rare occasions, which I cherish.” Extraordinary obituary for lawyer and author Paul Alexander. \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/0044190-sometimes-its-desperate-b",
+          "publishedOn": "2024-03-14T19:17:53.000Z",
+          "wordCount": 736,
+          "title": "“Sometimes it’s desperate because I can’t touch someone, my hands don’t move,...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/03/26-years-ago",
+          "author": null,
+          "description": "On this day in 1998, 26 freaking years ago, I started writing this blog. I’ve talked at you a lot about the site recently, so I’ll be brief. Last year on this anniversary, I wrote:\nMy love for the web has ebbed and flowed in the years since, but mainly it’s persisted — so much so that as of today, I’ve been writing kottke.org for 25 years. A little context for just how long that is: kottke.org is older than Google. 25 years is more than half of my life, spanning four decades (the 90s, 00s, 10s, and 20s) and around 40,000 posts — almost cartoonishly long for a medium optimized for impermanence.\n\n\nAnd still having fun. Perhaps more fun than ever. Thanks to all of you for being a part of it.\nP.S. I hope you’ll forgive me taking advantage of any 26-years!-I-love-this-place! feelings you might have today to ask that if you find value in what I do here, I’d appreciate if you’d support the site by purchasing a membership. And to everyone who has supported the site over the years, thank you so much!\nTags: kottke.org\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/26-years-ago",
+          "publishedOn": "2024-03-14T15:55:05.000Z",
+          "wordCount": 1242,
+          "title": "26 Years Ago&#8230;",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/03/0044176-the-deepest-points-in-eac",
+          "author": null,
+          "description": "The deepest points in each of the Earth’s oceans are called The Five Deeps. I didn’t know the deepest spot in the Atlantic Ocean is a trench off the coast of Puerto Rico.\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/0044176-the-deepest-points-in-eac",
+          "publishedOn": "2024-03-14T15:22:20.000Z",
+          "wordCount": 672,
+          "title": "The deepest points in each of the Earth&#8217;s oceans are called The...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/03/on-tv-free-to-be-you-and-me",
+          "author": null,
+          "description": "I didn’t know (or had somehow forgotten) that Marlo Thomas’s seminal children’s album Free to Be… You and Me (Spotify, Apple Music) was turned into a TV special that aired in 1974.\nThe basic concept was to encourage post-1960s gender neutrality, saluting values such as individuality, tolerance, and comfort with one’s identity. A major thematic message is that anyone — whether a boy or a girl — can achieve anything.\n\n\nThe TV show starred Thomas, Mel Brooks, Harry Belefonte, Dionne Warwick, Carol Channing, Michael Jackson, Dustin Hoffman, and many others. You can watch the whole thing (commercials included) on YouTube:\n\nTimes TV critic James Poniewozik wrote about the show for its 50th anniversary.\nThe opening sketch features Thomas and Mel Brooks as cue-ball-headed puppet babies in a hospit…",
+          "link": "https://kottke.org/24/03/on-tv-free-to-be-you-and-me",
+          "publishedOn": "2024-03-14T14:45:00.000Z",
+          "wordCount": 1173,
+          "title": "On TV: &#8216;Free to Be&#8230; You and Me&#8217;",
+          "imageUrl": "https://i.ytimg.com/vi/7PS3nOcLbHI/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/03/0044153-dew-point-i-is-a",
+          "author": null,
+          "description": "Dew Point I is a mesmerizing water sculpture piece by Lily Clark — water droplets seem to appear from nowhere and bead up on a surface made of superhydrophobic ceramic.\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/0044153-dew-point-i-is-a",
+          "publishedOn": "2024-03-14T14:10:11.000Z",
+          "wordCount": 713,
+          "title": "Dew Point I is a mesmerizing water sculpture piece by Lily Clark...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/24/03/the-most-populous-cities-in-the-world-from-3000-bce-to-today",
           "author": null,
