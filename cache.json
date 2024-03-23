@@ -140,6 +140,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2910/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/the_wreck_of_the_edmund_fitzgerald.png\" title=\"You know that asteroid that almost destroyed Earth in the 90s? Turns out the whole thing was secretly created by Michael Bay, who then PAID Bruce Willis and Ben Affleck to look heroic while blowing it up!\" alt=\"You know that asteroid that almost destroyed Earth in the 90s? Turns out the whole thing was secretly created by Michael Bay, who then PAID Bruce Willis and Ben Affleck to look heroic while blowing it up!\" />",
+          "link": "https://xkcd.com/2910/",
+          "publishedOn": "2024-03-22T00:00:00.000Z",
+          "wordCount": 214,
+          "title": "The Wreck of the Edmund Fitzgerald",
+          "imageUrl": "https://imgs.xkcd.com/comics/the_wreck_of_the_edmund_fitzgerald_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2909/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/moon_landing_mission_profiles.png\" title=\"If you pick a low enough orbit, it gives you a lot of freedom to use a lightweight launch vehicle such as a stepladder.\" alt=\"If you pick a low enough orbit, it gives you a lot of freedom to use a lightweight launch vehicle such as a stepladder.\" />",
@@ -731,6 +741,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/745680042751885312",
+          "author": null,
+          "description": "text-mode:\nχχχ Gradient text-tv / swedish #teletext from TV4 and Kanal 5",
+          "link": "https://text-mode.tumblr.com/post/745680042751885312",
+          "publishedOn": "2024-03-22T19:31:45.000Z",
+          "wordCount": 1009,
+          "title": "text-mode:\n\nχχχ Gradient text-tv / swedish #teletext from TV4...",
+          "imageUrl": "https://64.media.tumblr.com/27bf10db41a57bf1a61ef02475c0c3b4/tumblr_nbs88yLQQf1rpiyaso1_1280.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/745589376435814400",
           "author": null,
@@ -1390,16 +1410,6 @@
           "wordCount": 1010,
           "title": "text-mode:\n\nJourney man nº3 ZX81 print out by Lee Osborne via...",
           "imageUrl": "https://64.media.tumblr.com/tumblr_m75weg64pg1r743eko1_640.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/740244157233233920",
-          "author": null,
-          "description": "text-mode:\nTwo museums in Seattle link up two Teletype 37s (1969) for four hours so people could chat and, you know, send ASCII Homers.\nFull video + More teletype art.",
-          "link": "https://text-mode.tumblr.com/post/740244157233233920",
-          "publishedOn": "2024-01-22T19:30:40.000Z",
-          "wordCount": 1039,
-          "title": "text-mode:\n\nTwo museums in Seattle link up two Teletype 37s...",
-          "imageUrl": "https://64.media.tumblr.com/4fbb51ea4319870915a8eeb5fb1c72d5/tumblr_nep0qdvluq1rpiyaso2_1280.gif"
         }
       ]
     },
@@ -1576,6 +1586,16 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2024/03/22/the-current-branch-in-git/",
+          "author": null,
+          "description": "Hello! I know I just wrote a blog post about HEAD in git, but I’ve been\nthinking more about what the term “current branch” means in git and it’s a\nlittle weirder than I thought.\nfour possible definitions for “current branch”\nIt’s what’s in the file .git/HEAD. This is how the git glossary defines it.\nIt’s what git status says on the first line\nIt’s what you most recently checked out with git checkout or git switch\nIt’s what’s in your shell’s git prompt. I use fish_git_prompt so that’s what I’ll be talking about.\nI originally thought that these 4 definitions were all more or less the\nsame, but after chatting with some people on Mastodon, I realized that they’re\nmore different from each other than I thought.\nSo let’s talk about a few git scenarios and how each of these definitions plays\nout i…",
+          "link": "https://jvns.ca/blog/2024/03/22/the-current-branch-in-git/",
+          "publishedOn": "2024-03-22T08:15:02.000Z",
+          "wordCount": 1838,
+          "title": "The \"current branch\" in git",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2024/03/08/how-head-works-in-git/",
           "author": null,
           "description": "Hello! The other day I ran a Mastodon poll asking people how confident they\nwere that they understood how HEAD works in Git. The results (out of 1700\nvotes) were a little surprising to me:\n10% “100%”\n36% “pretty confident”\n39% “somewhat confident?”\n15% “literally no idea”\nI was surprised that people were so unconfident about their understanding –\nI’d been thinking of HEAD as a pretty straightforward topic.\nUsually when people say that a topic is confusing when I think it’s not, the\nreason is that there’s actually some hidden complexity that I wasn’t\nconsidering. And after some follow up conversations, it turned out that HEAD\nactually was a bit more complicated than I’d appreciated!\nHere’s a quick table of contents:\nHEAD is actually a few different things\nthe file .git/HEAD\nHEAD as in git s…",
@@ -1746,6 +1766,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=8346",
+          "author": "Cory Doctorow",
+          "description": "Today's links The antitrust case against Apple: End of the line for Apple exceptionalism. Hey look at this: Delights to delectate. This day in history: 2009, 2014, 2023 Upcoming appearances: Where to find me. Recent appearances: Podcasts, events and more. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The antitrust case against Apple (permalink) The foundational tenet of \"the Cult of Mac\" is that buying products from a $3t company makes you a member of an oppressed ethnic minority and therefore every criticism of that corporation is an ethnic slur: https://pluralistic.net/2024/01/12/youre-holding-it-wrong/#if-dishwashers-were-iphones Call it \"Apple exceptionalism\" – the idea that Apple, alone among the B…",
+          "link": "https://pluralistic.net/2024/03/22/reality-distortion-field/",
+          "publishedOn": "2024-03-22T14:37:21.000Z",
+          "wordCount": 4253,
+          "title": "Pluralistic: The antitrust case against Apple (22 Mar 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=8336",
           "author": "Cory Doctorow",
@@ -2200,16 +2230,6 @@
           "wordCount": 2660,
           "title": "Pluralistic: Dave Maass and Patrick Lay's \"Death Strikes: The Emperor of Atlantis\" (23 January 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=7831",
-          "author": "Cory Doctorow",
-          "description": "Today's links Boeing, Spirit and Jetblue, a monopoly horror-story: 43 years later, Reagan's other shoe drops. Hey look at this: Delights to delectate. This day in history: 2004, 2009, 2014, 2019, 2023 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Boeing, Spirit and Jetblue, a monopoly horror-story (permalink) Last week, William Young, an 82 year old federal judge appointed by Ronald Reagan, blocked the merger of Spirit Airlines and Jetblue. It was a seismic event: https://storage.courtlistener.com/recap/gov.uscourts.mad.254267/gov.uscourts.mad.254267.461.0_6.pdf Seismic because the judge's opinion is full of rhetoric associated with the surging antitrust revival, sneeringly dismissed by corporate apologists as \"hipster antitrust.\" You…",
-          "link": "https://pluralistic.net/2024/01/22/anything-that-cant-go-on-forever/",
-          "publishedOn": "2024-01-22T12:32:16.000Z",
-          "wordCount": 3731,
-          "title": "Pluralistic: Boeing, Spirit and Jetblue, a monopoly horror-story (21 Jan 2024)",
-          "imageUrl": null
         }
       ]
     },
@@ -2241,6 +2261,116 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/03/hands-and-feet-full-of-color",
+          "author": null,
+          "description": "I’m happy to run across the illustrations of Lui Ferreyra again, particularly his drawings of hands and feet.\n\n\n(via colossal)\nTags: art · Lui Ferreyra\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/hands-and-feet-full-of-color",
+          "publishedOn": "2024-03-22T21:39:57.000Z",
+          "wordCount": 651,
+          "title": "Hands and Feet, Full of Color",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/lui-ferreyra-hands-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/03/0044251-impressively-realistic-bu",
+          "author": null,
+          "description": "Impressively realistic build of a full-size 3D printed Macintosh 128K. It boots from a floppy and everything.\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/0044251-impressively-realistic-bu",
+          "publishedOn": "2024-03-22T20:29:57.000Z",
+          "wordCount": 705,
+          "title": "Impressively realistic build of a full-size 3D printed Macintosh 128K. It boots...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/03/chappell-roan",
+          "author": null,
+          "description": "Chappell Roan, a 26-year-old singer-songwriter from Missouri, so I watched her NPR Tiny Desk Concert and loved it. \n(Bizarrely, I first heard of her while chasing down info about Sinéad O’Connor: I saw mention that there was a Sinéad-themed Bratz Doll, but it turned out there was just a rendering of Sinéad as a Bratz Doll — no actual physical doll — as part of their Women’s History Month programming. Sinéad was the second female icon to be Bratz-ified; Chappell Roan was the first.)\nIn an article from earlier this week, Rolling Stone called Roan “the future of pop.” Her musicians are fabulous, too.\nTags: Chappell Roan · music · Tiny Desk Concerts\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/chappell-roan",
+          "publishedOn": "2024-03-22T19:52:30.000Z",
+          "wordCount": 777,
+          "title": "Chappell Roan&#8217;s Tiny Desk Concert",
+          "imageUrl": "https://i.ytimg.com/vi/w4WiXKGCJhg/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/03/0044249-a-good-read-master-tailor",
+          "author": null,
+          "description": "A good read: master tailor Martin Greenfield’s obituary. “Two ripped Nazi shirts helped this Jew build America’s most famous and successful custom-suit company.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/0044249-a-good-read-master-tailor",
+          "publishedOn": "2024-03-22T19:19:53.000Z",
+          "wordCount": 695,
+          "title": "A good read: master tailor Martin Greenfield&#8217;s obituary. &#8220;Two ripped Nazi shirts...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/03/0044248-i-am-the-new-york",
+          "author": null,
+          "description": "I Am the New York Times’ Paywall, and If I Let Any Non-Subscribers in, They’ll Kill My Family. “That’s right, just type the password in the box. Nice and easy.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/0044248-i-am-the-new-york",
+          "publishedOn": "2024-03-22T18:37:21.000Z",
+          "wordCount": 706,
+          "title": "I Am the New York Times&#8217; Paywall, and If I Let Any...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/03/0044242-1000-agreement-from-me-on",
+          "author": null,
+          "description": "1000% agreement from me on this: Don’t Miss This Eclipse. “So, if you can, go see it. The spectacle will be worth it.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/0044242-1000-agreement-from-me-on",
+          "publishedOn": "2024-03-22T18:05:29.000Z",
+          "wordCount": 668,
+          "title": "1000% agreement from me on this: Don&#8217;t Miss This Eclipse. &#8220;So, if...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/03/0044243-from-bassist-colin-greenw",
+          "author": null,
+          "description": "From bassist Colin Greenwood, How to Disappear — a Portrait of Radiohead (Amazon). “Including 97 behind the scenes photographs of Radiohead, most of which are previously unseen, and a 10,000-word intimate essay by Colin Greenwood on life in Radiohead.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/0044243-from-bassist-colin-greenw",
+          "publishedOn": "2024-03-22T17:28:23.000Z",
+          "wordCount": 723,
+          "title": "From bassist Colin Greenwood, How to Disappear — a Portrait of Radiohead...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/03/ghanaian-fantasy-coffin-maker-paa-joe",
+          "author": null,
+          "description": "Ghanaian sculptor Paa Joe makes coffins (both human-sized and mini sculptures) modeled after real-life objects that were important to the deceased. He just opened his first NYC solo show at Superhouse; from their description of his work:\nPaa Joe is a second-generation fantasy coffin maker, contributing to an artistic tradition of great importance around Ghana’s capital, Accra. Known as abeduu adeka, or proverb boxes, these end-of-life vessels illustrate Ghanaian beliefs concerning life and death. Since the 1960s, the artist has meticulously carved and painted figurative coffins, representing various living and inanimate objects symbolizing the deceased (an onion for a farmer, an eagle for a community leader, a sardine for a fisherman, etc.).\n\n\nYou read more about Paa Joe’s work and see more of his pieces at The Guardian:\n“People celebrate death in Ghana. At a funeral, we have a passion for the person leaving us - there are a lot of people, and a lot of noise,” says Jacob, 28, who has worked with his father for eight years.\nFar from seeing their work as morbid, Jacob says the coffins are celebratory and reflect west African attitudes to death. “It reminds people that life continues after death, that when someone dies they will go on in the afterlife, so it is important that they go in style.”\n\n\nAnd at The Future Perfect, Fad, Hypebeast, and on Instagram. (via @presentandcorrect)\nTags: art · death · Ghana · Paa Joe\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/ghanaian-fantasy-coffin-maker-paa-joe",
+          "publishedOn": "2024-03-22T16:22:35.000Z",
+          "wordCount": 860,
+          "title": "Ghanaian Fantasy Coffin Maker Paa Joe",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/paa-joe-coffins-04.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/03/0044241-in-a-study-comparing-the",
+          "author": null,
+          "description": "In a study comparing the perceived scents of infants, toddlers, and adolescents: Toddlers Smell Like Flowers, Teens Smell ‘Goatlike’.\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/0044241-in-a-study-comparing-the",
+          "publishedOn": "2024-03-22T15:00:18.000Z",
+          "wordCount": 722,
+          "title": "In a study comparing the perceived scents of infants, toddlers, and adolescents:...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/03/0044240-john-green-on-how-tubercu",
+          "author": null,
+          "description": "John Green on how tuberculosis, the world’s deadliest disease, is completely curable and the roadblock to helping rid the world of it is money. “The tests are great. If only we could afford them.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/0044240-john-green-on-how-tubercu",
+          "publishedOn": "2024-03-22T14:22:56.000Z",
+          "wordCount": 698,
+          "title": "John Green on how tuberculosis, the world&#8217;s deadliest disease, is completely curable...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/03/0044239-the-teaser-trailer-for-be",
+          "author": null,
+          "description": "The teaser trailer for Beetlejuice Beetlejuice. Tim Burton, Michael Keaton, Winona Ryder, and Catherine O’Hara all return.\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/0044239-the-teaser-trailer-for-be",
+          "publishedOn": "2024-03-22T13:59:08.000Z",
+          "wordCount": 731,
+          "title": "The teaser trailer for Beetlejuice Beetlejuice. Tim Burton, Michael Keaton, Winona Ryder,...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/24/03/0044237-in-case-anyone-is-ever",
           "author": null,
@@ -6179,106 +6309,6 @@
           "publishedOn": "2024-01-23T14:26:28.000Z",
           "wordCount": 583,
           "title": "The colorful mating dance of the Tragopan pheasant. Having seen quite a...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/01/tiny-flying-rainbows",
-          "author": null,
-          "description": "photograph them backlit by the sun, their wings turn into tiny rainbows. These great photos are by Christian Spencer, who used them in his book Birds: Poetry in the Sky. (via present & correct)\nTags: birds · Christian Spencer · photography\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/01/tiny-flying-rainbows",
-          "publishedOn": "2024-01-22T23:04:56.000Z",
-          "wordCount": 568,
-          "title": "Tiny Flying Rainbows",
-          "imageUrl": "https://kottke.org/plus/misc/images/hbird-rainbow-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/01/0043834-the-worlds-largest-cruise",
-          "author": null,
-          "description": "The World’s Largest Cruise Ship Is a Climate Liability. “Taking a cruise generates ‘about double the amount of total greenhouse gas emissions’ as flying.”\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/01/0043834-the-worlds-largest-cruise",
-          "publishedOn": "2024-01-22T21:51:53.000Z",
-          "wordCount": 543,
-          "title": "The World&#8217;s Largest Cruise Ship Is a Climate Liability. &#8220;Taking a cruise...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/01/0043833-wikipedias-list-of-crypti",
-          "author": null,
-          "description": "Wikipedia’s list of cryptids. Includes Bigfoot, the Loch Ness Monster, and chupacabras.\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/01/0043833-wikipedias-list-of-crypti",
-          "publishedOn": "2024-01-22T21:11:05.000Z",
-          "wordCount": 595,
-          "title": "Wikipedia&#8217;s list of cryptids. Includes Bigfoot, the Loch Ness Monster, and chupacabras....",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/01/the-strange-energy-of-50th-birthdays",
-          "author": null,
-          "description": "In writing about model Kate Moss turning 50, Zoe Williams explores the weird cultural energy around people’s 50th birthdays. I loved this short anecdote + observation:\nA friend of mine manages an event place in Scotland, and they’ve banned 50ths. Hen nights, stag dos, 40ths, no problem: but some combination of the manic nihilism that sweeps over people and the middle-aged mal-coordination that crept up on them leads to a wild amount of breakage.\n\n\nLol. I turned 50 back in September and I had a lovely and quiet dinner with friends — I may have had two cocktails and a nightcap (!!!) but there was no breakage or manic nihilism. I know a lot of folks who read the site are around my age — have you noticed any 50th birthday craziness in your lives?\nTags: Kate Moss · Zoe Williams\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/01/the-strange-energy-of-50th-birthdays",
-          "publishedOn": "2024-01-22T20:26:24.000Z",
-          "wordCount": 1448,
-          "title": "The Strange Energy of 50th Birthdays",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/01/0043831-thing-that-actually-exist",
-          "author": null,
-          "description": "Thing that actually exists: a Doritos nacho cheese-flavored vodka. “The bouquet is brimming with the unmistakable tang of cheese dust. But in the sip, it’s all about cornier elements.”\n\n         (via icecreamgracies.com) \n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/01/0043831-thing-that-actually-exist",
-          "publishedOn": "2024-01-22T19:51:41.000Z",
-          "wordCount": 548,
-          "title": "Thing that actually exists: a Doritos nacho cheese-flavored vodka. &#8220;The bouquet is...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/01/0043825-im-edgar-allan-poes-landl",
-          "author": null,
-          "description": "I’m Edgar Allan Poe’s Landlord, and He Will Not Be Getting His Security Deposit Back. “Within the past three months alone, the violations of your lease and our community standards have included: Prying up the floorboards in your unit.”\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/01/0043825-im-edgar-allan-poes-landl",
-          "publishedOn": "2024-01-22T19:01:54.000Z",
-          "wordCount": 560,
-          "title": "I&#8217;m Edgar Allan Poe&#8217;s Landlord, and He Will Not Be Getting His...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/01/the-stanley-water-bottle-craze-explained",
-          "author": null,
-          "description": "Amanda Mull, writing for the Atlantic about the internet’s fad du jour, the Stanley cup (the water bottle, not the hockey trophy):\nHow did Stanley, which has seen its annual revenue increase from $73 million in 2019 to a projected $750 million in 2023, become so popular, so quickly? Lots of very smart people have tried to reverse engineer an explanation to the Stanley mystery — why this cup, right now, out of all the zillions of insulated drinking vessels available to American shoppers? But the actual story here is more about the nature of trends themselves than about a cup. There is no real reason any of this happened, or at least no reason that will feel satisfying to you. Sometimes a cup is just a cup in the right place at the right time.\n\n\nBut actually, I think this video from Phil Edw…",
-          "link": "https://kottke.org/24/01/the-stanley-water-bottle-craze-explained",
-          "publishedOn": "2024-01-22T18:16:33.000Z",
-          "wordCount": 1293,
-          "title": "The Stanley Water Bottle Craze, Explained",
-          "imageUrl": "https://i.ytimg.com/vi/vrUWQ56GeyU/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/01/0043829-looking-forward-to-this-o",
-          "author": null,
-          "description": "Looking forward to this one: my pal Nicola Twilley’s book is coming out in late June — Frostbite: How Refrigeration Changed Our Food, Our Planet, and Ourselves. Science + infrastructure? Yes, please.\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/01/0043829-looking-forward-to-this-o",
-          "publishedOn": "2024-01-22T17:34:23.000Z",
-          "wordCount": 687,
-          "title": "Looking forward to this one: my pal Nicola Twilley&#8217;s book is coming...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/01/raising-artificial-intelligences-like-children",
-          "author": null,
-          "description": "Over the weekend, I listened to this podcast conversation between the psychologist & philosopher Alison Gopnik and writer Ted Chiang about using children’s learning as a model for developing AI systems. Around the 23-minute mark, Gopnik observes that care relationships (child care, elder care, etc.) are extremely important to people but is nearly invisible in economics. And then Chiang replies:\nOne of the ways that conventional economics sort of ignores care is that for every employee that you hire, there was an incredible amount of labor that went into that employee. That’s a person! And how do you make a person? Well, for one thing, you need several hundred thousand hours of effort to make a person. And every employee that any company hires is the product of hundreds of thousands of hours of effort. Which, companies… they don’t have to pay for that!\nThey are reaping the benefits of an incredible amount of labor. And if you imagine, in some weird kind of theoretical sense, if you had to actually pay for the raising of everyone that you would eventually employ, what would that look like?\n\n\nIt’s an interesting conversation throughout — recommended!\nChiang has written some of my favorite things on AI in recent months/years, including this line that’s become one of my guiding principles in thinking about AI: “I tend to think that most fears about A.I. are best understood as fears about capitalism.”\nTags: Alison Gopnik · artificial intelligence · parenting · Ted Chiang\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/01/raising-artificial-intelligences-like-children",
-          "publishedOn": "2024-01-22T16:10:45.000Z",
-          "wordCount": 1016,
-          "title": "Raising Artificial Intelligences Like Children",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/01/0043807-recharge-2023-2024-instal",
-          "author": null,
-          "description": "Recharge, 2023-2024. “Installation featuring a chair where you can relax and charge your phone. However, your phone will only charge when your eyes are closed.”\n\n         (via buttondown.email) \n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/01/0043807-recharge-2023-2024-instal",
-          "publishedOn": "2024-01-22T15:26:02.000Z",
-          "wordCount": 544,
-          "title": "Recharge, 2023-2024. &#8220;Installation featuring a chair where you can relax and charge...",
           "imageUrl": ""
         }
       ]
