@@ -388,16 +388,6 @@
           "wordCount": 221,
           "title": "US Survey Foot",
           "imageUrl": "https://imgs.xkcd.com/comics/us_survey_foot_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2887/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/minnesota.png\" title=\"In addition to 'squishy', after reviewing my submitted intraplate ground motion data, the National Geodetic Survey has politely asked me to stop using the word 'supple' so often when describing Midwestern states.\" alt=\"In addition to 'squishy', after reviewing my submitted intraplate ground motion data, the National Geodetic Survey has politely asked me to stop using the word 'supple' so often when describing Midwestern states.\" />",
-          "link": "https://xkcd.com/2887/",
-          "publishedOn": "2024-01-29T00:00:00.000Z",
-          "wordCount": 217,
-          "title": "Minnesota",
-          "imageUrl": "https://imgs.xkcd.com/comics/minnesota_2x.png"
         }
       ]
     },
@@ -751,6 +741,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/746223553196785664",
+          "author": null,
+          "description": "ludonaut:\nprocedural spaceships for my still untitled petscii shmup.",
+          "link": "https://text-mode.tumblr.com/post/746223553196785664",
+          "publishedOn": "2024-03-28T19:30:36.000Z",
+          "wordCount": 1015,
+          "title": "ludonaut:\n\nprocedural spaceships for my still untitled petscii...",
+          "imageUrl": "https://64.media.tumblr.com/95d5dd44fc11d719f09cbd8ef1d94cd1/tumblr_n8nj5mGIPo1qa54eao1_1280.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/746133000962588672",
           "author": null,
@@ -1350,26 +1350,6 @@
           "wordCount": 1004,
           "title": "text-mode:\n\nFriendships, by krue for Pixeljam 2014...",
           "imageUrl": "https://64.media.tumblr.com/5f4a9b062b29e3d3cbe6e04d5328b862/tumblr_n3yz11FGTw1rec3jxo1_640.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/740793151641550848",
-          "author": null,
-          "description": "By Tameem Sankari. More here.",
-          "link": "https://text-mode.tumblr.com/post/740793151641550848",
-          "publishedOn": "2024-01-28T20:56:42.000Z",
-          "wordCount": 1003,
-          "title": "Untitled",
-          "imageUrl": "https://64.media.tumblr.com/tumblr_s7bb2uALAs1rpiyas_frame1.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/740787745242382336",
-          "author": null,
-          "description": "text-mode:\nFacebook text art by mammifero. More here.",
-          "link": "https://text-mode.tumblr.com/post/740787745242382336",
-          "publishedOn": "2024-01-28T19:30:46.000Z",
-          "wordCount": 1005,
-          "title": "text-mode:\n\nFacebook text art by mammifero. More here.",
-          "imageUrl": "https://64.media.tumblr.com/9b4a9b865b00fe3ceba41e64965a5111/tumblr_n60tqxWAWt1su5n0bo1_400.jpg"
         }
       ]
     },
@@ -1546,6 +1526,16 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2024/03/28/git-poll-results/",
+          "author": null,
+          "description": "A new thing I’ve been trying while writing this Git zine is doing a bunch of polls on Mastodon to learn about:\nwhich git commands/workflows people use (like “do you use merge or rebase more?” or “do you put your current git branch in your shell prompt?”)\nwhat kinds of problems people run into with git (like “have you lost work because of a git problem in the last year or two?”)\nwhich terminology people find confusing (like “how confident do you feel that you know what HEAD means in git?”)\nhow people think about various git concepts (“how do you think about git branches?”)\nin what ways my usage of git is “normal” and in what ways it’s “weird”. Where am I pretty similar to the majority of people, and where am I different?\nIt’s been a lot of fun and some of the results have been surprising to…",
+          "link": "https://jvns.ca/blog/2024/03/28/git-poll-results/",
+          "publishedOn": "2024-03-28T08:35:56.000Z",
+          "wordCount": 1983,
+          "title": "Some Git poll results",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2024/03/22/the-current-branch-in-git/",
           "author": null,
           "description": "Hello! I know I just wrote a blog post about HEAD in git, but I’ve been\nthinking more about what the term “current branch” means in git and it’s a\nlittle weirder than I thought.\nfour possible definitions for “current branch”\nIt’s what’s in the file .git/HEAD. This is how the git glossary defines it.\nIt’s what git status says on the first line\nIt’s what you most recently checked out with git checkout or git switch\nIt’s what’s in your shell’s git prompt. I use fish_git_prompt so that’s what I’ll be talking about.\nI originally thought that these 4 definitions were all more or less the\nsame, but after chatting with some people on Mastodon, I realized that they’re\nmore different from each other than I thought.\nSo let’s talk about a few git scenarios and how each of these definitions plays\nout i…",
@@ -1716,6 +1706,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=8394",
+          "author": "Cory Doctorow",
+          "description": "Today's links The credit card fee victory is a defeat: Small cartels beat large industries every time. Hey look at this: Delights to delectate. This day in history: 2004, 2009, 2014, 2019, 2023 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The credit card fee victory is a defeat (permalink) The headline was pure David and Goliath: America's small businesses had finally triumphed in their 20-year litigation campaign against Visa and Mastercard over price-gouging on fees, and V/MC were going to cough up $30B as reparations: https://edition.cnn.com/2024/03/26/economy/visa-mastercard-swipe-fee-settlement/index.html But if you actua…",
+          "link": "https://pluralistic.net/2024/03/28/concentrated-benefits/",
+          "publishedOn": "2024-03-28T15:16:36.000Z",
+          "wordCount": 4141,
+          "title": "Pluralistic: The credit card fee victory is a defeat (28 Mar 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=8386",
           "author": "Cory Doctorow",
@@ -2160,16 +2160,6 @@
           "wordCount": 8317,
           "title": "Pluralistic: My McLuhan lecture on enshittification (30 Jan 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=7885",
-          "author": "Cory Doctorow",
-          "description": "Today's links I assure you, an AI didn't write a terrible \"George Carlin\" routine: The Mechanical Turk would like to have a word with all of us. Hey look at this: Delights to delectate. This day in history: 2004, 2009, 2014, 2019, 2023 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading I assure you, an AI didn't write a terrible \"George Carlin\" routine (permalink) On Hallowe'en 1974, Ronald Clark O'Bryan murdered his son with poisoned candy. He needed the insurance money, and he knew that Halloween poisonings were rampant, so he figured he'd get away with it. He was wrong: https://en.wikipedia.org/wiki/Ronald_Clark_O%27Bryan The stories of Hallowe'en poisonings were just that – stories. No one was poisoning kids on Hallowe'en – except this…",
-          "link": "https://pluralistic.net/2024/01/29/pay-no-attention/",
-          "publishedOn": "2024-01-29T09:01:02.000Z",
-          "wordCount": 3763,
-          "title": "Pluralistic: I assure you, an AI didn't write a terrible \"George Carlin\" routine (29 Jan 2024)",
-          "imageUrl": null
         }
       ]
     },
@@ -2201,6 +2191,96 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/03/how-do-you-rhyme-in-sign-language",
+          "author": null,
+          "description": "A conversation at dinner with the kids left me wanting to know how to rhyme in sign language and when I found out, it feels like it should have been obvious. \nIn phonology (the study of the smallest units of language), the parts of a signed word are: handshape, location, palm orientation, movement, and non-manual signal. They are called parameters. Each parameter has a number of primes. In sign language specifically ASL, the same parameter in two or more words (signs) are repeated. The parts may be the same handshape, movement, and/or location, or combined, but the handshape rhyme is the most commonly used.\n\n\n\n\nAnd here’s an example of ASL poetry where you can clearly see the rhymes and music of the words in her poem. The poet, Christine Marshall, didn’t caption the poem and suggested viewers suggest a translation in the comments. The pinned translation is below. \n\n“Deaf Heart by Christine Marshall\nSee also, Jason’s post about ASL ‘Lose Yourself’, ASL Hamilton, and translating music.\nTags: American Sign Language · poetry\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/how-do-you-rhyme-in-sign-language",
+          "publishedOn": "2024-03-29T00:23:50.000Z",
+          "wordCount": 975,
+          "title": "How Do You Rhyme in Sign Language?",
+          "imageUrl": "https://i.ytimg.com/vi/rIoFpxAo93U/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/03/0044283-according-to-mr-peryer-it",
+          "author": null,
+          "description": "“According to Mr Peryer, it is not uncommon for geese to be bisexual, though he adds that the duo were the only pair in the Waikanae Estuary…It is also not unheard of for geese to mate with swans, with the offspring…known as a swoose.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/0044283-according-to-mr-peryer-it",
+          "publishedOn": "2024-03-28T22:35:26.000Z",
+          "wordCount": 733,
+          "title": "&#8220;According to Mr Peryer, it is not uncommon for geese to be...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/03/i-will-always-love-you-at-50",
+          "author": null,
+          "description": "Dolly Parton’s ‘I Will Always Love You’ was released 50 years ago a couple weeks ago and it’s a very good song. We all know Parton famously wrote IWALY and Jolene on the same day, which, like, one time I made 4 batches of ice cream and packed them all into pints and cleaned the machine all in an hour and forty five minutes and that’s kind of the same thing if you squint. She wrote the song to let Porter Wagoner know she was leaving his show and striking out on her own and that makes me mad because imagine working with someone so annoying you have to write one of the best songs ever written to get out of it. \nThe year after it was released, Elvis was going to record it, but Tom Parker, his manager, insisted on half the publishing rights and Dolly said no, like a G. The whole germ for this post, my entire reason for being at this moment, was seeing that fact about Elvis and knowing Dolly teases IWALY not once, not twice, but, well, OK, only twice, on her duets album. It’s on Wrecking Ball, and she teases it AND sings about the whole episode on I Dreamed About Elvis. Priscilla Presley told Dolly Elvis loved the song so much and sang it to her on the day of their divorce. I do wish we could hear an Elvis recording of IWALY.\nDolly rerecorded the song for Best Little Whorehouse in Texas, but when Whitney covered IWALY, Dolly called it “One of the biggest thrills and one of the most overwhelming feelings I’ve ever had about anything in my life,” but that almost didn’t happen, too, twice, because they were going to do ‘What Becomes of the Broken Hearted’ before that song got featured in Steel Magnolias (starring Dolly, wtf) and then Whitney was set to cover the Linda Ronstadt version which leaves off a verse at the end, but Dolly interceded at the last moment to set them straight.\nFinally, my bar in Cambridge has a Dolly Parton-themed bathroom which has 5 stars on google maps and was written up in the New York Times.\nTags: Dolly Parton · elvis presley · music · Whitney houston\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/i-will-always-love-you-at-50",
+          "publishedOn": "2024-03-28T21:32:06.000Z",
+          "wordCount": 1137,
+          "title": "&#8216;I Will Always Love You&#8217; at 50",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/03/phil-and-phyllis-punxsutawney-had-babies",
+          "author": null,
+          "description": "Punxsutawney Phil and his mate Phyllis have had babies and both of the articles I read about this deeply weirded me out. Listen, I get it, you don’t get to be President of The Punxsutawney Groundhog Club Inner Circle by being normal about groundhogs, but it feels a little culty to me.\nTo wit:\n“He added that Phil’s children will not inherit his seer of seers or prognosticator abilities because, simply, there’s only one Phil.” Bro, what? Why wouldn’t the children inherit the mirth?\n“[Phil] receives a special elixir to extend his life.” (Dunkel is at least better than the previous president who said in 2020 Phil was 134 years old, able to live forever because of the elixir, while Dunkel smartly refused to age the groundhog. (wood)Chuck Everlasting imo.)\nThe article says groundhogs don’t mate …",
+          "link": "https://kottke.org/24/03/phil-and-phyllis-punxsutawney-had-babies",
+          "publishedOn": "2024-03-28T18:23:29.000Z",
+          "wordCount": 1032,
+          "title": "Phil and Phyllis Punxsutawney Had Babies",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/03/when-whales-could-walk-excuse-me",
+          "author": null,
+          "description": "At the beginning of this documentary, the narrator says something about “how did whales end up in the ocean,” and to be honest that fucked me up because whales make sense to me if I think of them as something that’s always been in the ocean, and if I have to reorient my mind around the fact that maybe they used to not be in the ocean, I’ve got to re-think a lot of things. On the other hand, the documentary is called When Whales Could Walk, so that’s on me. I should have seen that coming. I did that to myself. And now I’m doing it to you.\nThis fossil graveyard, millions of years old, is known as the “Valley of the Whales.” Now, paleontologists have unearthed a whole new species of ancient whale dating to 43 million years ago, and this predator wasn’t just able to swim – it also had four legs and could walk. \n\n\n\n(via @propcazhpm.bsky.social)\nTags: pbs · whales\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/when-whales-could-walk-excuse-me",
+          "publishedOn": "2024-03-28T15:40:41.000Z",
+          "wordCount": 851,
+          "title": "When Whales Could Walk&#8230; Excuse Me?",
+          "imageUrl": "https://i.ytimg.com/vi/J5rxaBv9_IU/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/03/0044270-goat-farmers-traveling-fr",
+          "author": null,
+          "description": "Goat farmers traveling from MN to CA got stuck in traffic in UT and goats must be milked every 12 hours, so when traffic cleared they stopped at Tractor Supply where the community learned to milk goats and sent the farmers home with freshly milked goats.\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/0044270-goat-farmers-traveling-fr",
+          "publishedOn": "2024-03-28T14:05:34.000Z",
+          "wordCount": 716,
+          "title": "Goat farmers traveling from MN to CA got stuck in traffic in...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/03/0044273-ms-sharr-proposed-that-ol",
+          "author": null,
+          "description": "“Ms. Sharr proposed that Olga move into their Cambridge home temporarily so the system could get to know her better. They would support her, they said… She was floored by their generosity. “There really are people who are angels,” she said.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/0044273-ms-sharr-proposed-that-ol",
+          "publishedOn": "2024-03-28T12:50:45.000Z",
+          "wordCount": 703,
+          "title": "&#8220;Ms. Sharr proposed that Olga move into their Cambridge home temporarily so...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/03/gou-miyagi-skates-very-mellow",
+          "author": null,
+          "description": "I like the skate videos where the skaters show how high or fast or far they can go and the control they have over their bodies while flying through the air, but I also like the videos where the skaters put their feet on the ground sometimes and use the board as more than something to ride on, as a prop. Gou Miyagi does a lot of tricks like that, riding up to a set of steps, running up the rail, sliding down on his butt, and landing on the board, and skating off, things of that nature. It all looks very nice.\n\n\nTags: gou miyagi · skateboarding · skating\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/gou-miyagi-skates-very-mellow",
+          "publishedOn": "2024-03-28T03:17:35.000Z",
+          "wordCount": 756,
+          "title": "Gou Miyagi Skates Very Mellow",
+          "imageUrl": "https://i.ytimg.com/vi/pk8dy4NIzBU/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/03/road-snacks-1",
+          "author": null,
+          "description": "Because I don’t hardly blog anymore, I turned the email newsletter for my ice cream shop into kind of a blog where sure I talk about ice cream a good amount, but I also tell stories about when I was a tour manager for a band, document how terribly hostile Intuit is towards their business customer base, and share internet ephemera my customers might not have seen. It’s been feeling a little stale lately, because after three years I think I finally told all my tour stories so I wanted to do something new. \nThe new thing is Road Snacks, a semi-regular feature where an ice cream shop interviews a touring musician asking questions about the food situation on tour. I think it’s changed a lot and probably not too much since I was doing it. The first interview ran today featuring Cary Ann Hearst f…",
+          "link": "https://kottke.org/24/03/road-snacks-1",
+          "publishedOn": "2024-03-28T01:44:40.000Z",
+          "wordCount": 1309,
+          "title": "Road Snacks #1",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/24/03/what-did-you-learn-how-to-do-this-year",
           "author": null,
