@@ -398,16 +398,6 @@
           "wordCount": 219,
           "title": "Greenhouse Effect",
           "imageUrl": "https://imgs.xkcd.com/comics/greenhouse_effect_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2888/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/us_survey_foot.png\" title=\"Subway refuses to answer my questions about whether it's an International Footlong or a US Survey Footlong. A milligram of sandwich is at stake!\" alt=\"Subway refuses to answer my questions about whether it's an International Footlong or a US Survey Footlong. A milligram of sandwich is at stake!\" />",
-          "link": "https://xkcd.com/2888/",
-          "publishedOn": "2024-01-31T00:00:00.000Z",
-          "wordCount": 221,
-          "title": "US Survey Foot",
-          "imageUrl": "https://imgs.xkcd.com/comics/us_survey_foot_2x.png"
         }
       ]
     },
@@ -761,6 +751,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/746404752701669376",
+          "author": null,
+          "description": "text-mode:\nText pandas! more here",
+          "link": "https://text-mode.tumblr.com/post/746404752701669376",
+          "publishedOn": "2024-03-30T19:30:42.000Z",
+          "wordCount": 990,
+          "title": "text-mode:\n\nText pandas! more here",
+          "imageUrl": "https://64.media.tumblr.com/87232be09be375b69f0f77828f881b89/tumblr_nbe1fwpcuB1rpiyaso4_400.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/746314160949919744",
           "author": null,
@@ -1360,16 +1360,6 @@
           "wordCount": 1013,
           "title": "text-mode:\n\nThe Twitter-account ⋆✵tiny star fields✵⋆, run by...",
           "imageUrl": "https://64.media.tumblr.com/83f0eb808fc13ecdd9b1f3d721c0159c/tumblr_ngqzrvHxCQ1rpiyaso1_1280.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/740968965390614528",
-          "author": null,
-          "description": "text-mode:\nWii-advertising in Chinese ANSI.\nsource",
-          "link": "https://text-mode.tumblr.com/post/740968965390614528",
-          "publishedOn": "2024-01-30T19:31:11.000Z",
-          "wordCount": 1003,
-          "title": "text-mode:\n\nWii-advertising in Chinese ANSI.\nsource",
-          "imageUrl": "https://64.media.tumblr.com/eb8e079757ae098697560a436829a8a1/tumblr_nb6xrpkj9T1rpiyaso1_1280.gif"
         }
       ]
     },
@@ -1603,6 +1593,26 @@
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
         {
+          "id": "https://www.joshwcomeau.com/react/server-components/",
+          "author": "Josh W. Comeau",
+          "description": "This year, the React team unveiled something they've been quietly researching for years: an official way to run React components exclusively on the server. This is a significant paradigm shift, and it's caused a whole lot of confusion in the React community. In this tutorial, we'll explore this new world, and build an intuition for how it works, and how we can take advantage of it.",
+          "link": "https://www.joshwcomeau.com/react/server-components/",
+          "publishedOn": "2024-03-30T21:29:45.000Z",
+          "wordCount": 13081,
+          "title": "Making Sense of React Server Components",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-server-components.jpg"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/react/demystifying-styled-components/",
+          "author": "Josh W. Comeau",
+          "description": "For so many React devs, styled-components seems kinda magical. It isn't at all clear how it uses traditional CSS features under-the-hood, and that lack of clarity can cause real problems when things go awry. In this post, we'll learn exactly how styled-components works by building our own mini-version.",
+          "link": "https://www.joshwcomeau.com/react/demystifying-styled-components/",
+          "publishedOn": "2024-03-30T21:29:45.000Z",
+          "wordCount": 8216,
+          "title": "Demystifying styled-components",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-demystifying-styled-components.png"
+        },
+        {
           "id": "https://www.joshwcomeau.com/blog/how-i-built-my-blog/",
           "author": "Josh W. Comeau",
           "description": "An in-depth look at the technical stack behind this very blog! We'll see how I use Next's API routes to implement my hit and like counters, how I use MDX to add interaction and customization, and how I organize my codebase, among others.",
@@ -1716,6 +1726,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=8407",
+          "author": "Cory Doctorow",
+          "description": "Today's links Async mugwump linkdump: A weekend assortment. This day in history: 2004, 2009, 2014, 2019, 2023 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Async mugwump linkdump (permalink) For 20+ years, I've processed all the information that came over my transom by blogging – mulling on why something I saw in the world caught my attention and trying to summarize it for strangers. This turns out to be a very powerful way to do a lot of different kinds of mental work: https://pluralistic.net/2021/05/09/the-memex-method/ With Pluralistic, the solo blog I founded 4 years ago, I've moved into longer, more synthetic essays that t…",
+          "link": "https://pluralistic.net/2024/03/30/dewey-502/",
+          "publishedOn": "2024-03-30T17:09:08.000Z",
+          "wordCount": 5047,
+          "title": "Pluralistic: Async mugwump linkdump (30 Mar 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=8400",
           "author": "Cory Doctorow",
@@ -2160,16 +2180,6 @@
           "wordCount": 3699,
           "title": "Pluralistic: Worker misclassification is a competition issue (02 Feb 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=7904",
-          "author": "Cory Doctorow",
-          "description": "Today's links Three AI insights for hard-charging, future-oriented smartypantses: A little bit of nonsensewatching for a Wednesday. Hey look at this: Delights to delectate. This day in history: 2004, 2009, 2014, 2019, 2023 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading Three AI insights for hard-charging, future-oriented smartypantses (permalink) Living in the age of AI hype makes demands on all of us to come up with smartypants prognostications about how AI is about to change everything forever, and wow, it's pretty amazing, huh? AI pitchmen don't make it easy. They like to pile on the cognitive dissonance and demand that we all somehow resolve it. This is a thing cult leaders do, too – tell blatant and obvious lies to their followers…",
-          "link": "https://pluralistic.net/2024/01/31/neural-interface-beta-tester/",
-          "publishedOn": "2024-01-31T09:06:22.000Z",
-          "wordCount": 3030,
-          "title": "Pluralistic: Three AI insights for hard-charging, future-oriented smartypantses (31 Jan 2024)",
-          "imageUrl": null
         }
       ]
     },
@@ -2201,6 +2211,16 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/03/ryan-williams-mindbreaking-bmx-free-willy",
+          "author": null,
+          "description": "Ryan Williams is an Australian scooter and BMX rider who does wild tricks that make me nervous. In 2013 he perfected a back flip with a nothing front scooter flip, which means he does a backflip while his scooter does a front flip, and then he spent about 10 years trying to get it done on a bike. Travis Pastrana dubbed it the Free Willy. Below is an example of a slightly different trick where he does a front flip instead of a backflip, except this one is easy because he can kind of see where the bike is. Easy. This one’s the easy one.\n\nHere’s a behind the scenes of what it took him to figure out the Free Willy. At 1:40 you can see the first time he does it successfully on a scooter, and about 6:35 is when he gets it on the bike. Incredible stuff.\n\nWilliams won a gold with this trick at the 2023 X Games, obviously.  \nTags: bicycles · biking · BMX · Ryan Williams\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/03/ryan-williams-mindbreaking-bmx-free-willy",
+          "publishedOn": "2024-03-30T03:37:14.000Z",
+          "wordCount": 793,
+          "title": "Ryan Williams Mindbreaking BMX Free Willy",
+          "imageUrl": "https://i.ytimg.com/vi/Vk6LYme6YI8/sddefault.jpg"
+        },
         {
           "id": "https://kottke.org/24/03/yall-like-books",
           "author": null,
@@ -6159,106 +6179,6 @@
           "publishedOn": "2024-01-31T16:11:02.000Z",
           "wordCount": 572,
           "title": "Excited to see where Iconfactory&#8217;s Project Tapestry goes. &#8220;Weaving your favorite blogs,...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/01/0043884-how-did-you-know-it",
-          "author": null,
-          "description": "How did you know it was time [to quit]? “The game tells you when you’re done. I love the game so much and I respect it and it told me when I was done.”\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/01/0043884-how-did-you-know-it",
-          "publishedOn": "2024-01-30T21:41:58.000Z",
-          "wordCount": 605,
-          "title": "How did you know it was time [to quit]? &#8220;The game tells...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/01/0043883-jamelle-bouie-provides-so",
-          "author": null,
-          "description": "Jamelle Bouie provides some historical context re: the 14th Amendment. “Both the Constitution and the historical record are clear. Donald Trump is an insurrectionist and Donald Trump has no rightful place among the leadership of the American Republic.”\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/01/0043883-jamelle-bouie-provides-so",
-          "publishedOn": "2024-01-30T20:58:50.000Z",
-          "wordCount": 556,
-          "title": "Jamelle Bouie provides some historical context re: the 14th Amendment. &#8220;Both the...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/01/0043885-ascii-theater-stream-movi",
-          "author": null,
-          "description": "ASCII Theater: stream movies in ASCII in your terminal. Now showing: Barbie. No sound but there’s subtitles.\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/01/0043885-ascii-theater-stream-movi",
-          "publishedOn": "2024-01-30T20:25:06.000Z",
-          "wordCount": 536,
-          "title": "ASCII Theater: stream movies in ASCII in your terminal. Now showing: Barbie....",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/01/did-the-future-already-happen",
-          "author": null,
-          "description": "Kurzgesagt’s latest video on the paradox of time is a bit more of a brain-bender than their usual videos. From the accompanying sources document:\nThis video summarizes in a narrative format two well-known theories about time: the so-called “block universe” and the “growing block”.\nThe block universe is an old theory of time which appears to be an unavoidable consequence of Einstein’s theory of special relativity. In philosophical contexts, basically the same idea is known as “eternalism”. Simplified, this theory posits that, although not apparent to our human perception, both the past and the future exist in the same way as the present does, and are therefore as real as the present is: The past still exists and the future exists already. As a consequence, time doesn’t “flow” (even if it looks so to us) and things in the universe don’t “happen” - the universe just “is”, hence the name “block universe”.\n\n\nBut then: “Quantum stuff is ruining everything again.” And so we have the growing block theory:\nThe Evolving/Growing Block: A relatively new alternative to the classical block universe theory, which asserts that the past may still exist but the present doesn’t yet, and all that in a way that is still compatible with Einstein’s relativity.\n\n\nAnd there are still other theories about how time works:\nSome scientists think that the idea of “now” only makes sense near you, but not in the universe as a whole. Others think that time itself doesn’t even exist — that the whole concept is an illusion of our human  mind. And others think that time does exist, but that it’s not a fundamental feature of the universe. Rather, time may be something that emerges from a deeper level of reality, just like heat emerges from the motion of individual molecules or life emerges from the interactions of lifeless proteins.\n\n\nLike I said, a brain-bender.\nTags: Kurzgesagt · physics · science · time · time travel · video",
-          "link": "https://kottke.org/24/01/did-the-future-already-happen",
-          "publishedOn": "2024-01-30T18:34:55.000Z",
-          "wordCount": 463,
-          "title": "Did The Future Already Happen?",
-          "imageUrl": "https://i.ytimg.com/vi/wwSzpaTHyS8/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/01/0043873-redesigning-cormac-mccart",
-          "author": null,
-          "description": "Redesigning Cormac McCarthy’s Brutal ‘Blood Meridian’. To keep his design skills sharp, Bobby Solomon takes a crack at designing a cover for Blood Meridian. I love what he came up with.\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/01/0043873-redesigning-cormac-mccart",
-          "publishedOn": "2024-01-30T17:50:24.000Z",
-          "wordCount": 744,
-          "title": "Redesigning Cormac McCarthy&#8217;s Brutal &#8216;Blood Meridian&#8217;. To keep his design skills sharp,...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/01/0043874-susannah-breslin-19-ways-",
-          "author": null,
-          "description": "Susannah Breslin: 19 Ways to Make Money as a Writer. “My consulting work as The Fixer is my highest-paid work. Typically my client is a CEO / founder / venture capitalist. They have a problem, and they hire me to fix it.”\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/01/0043874-susannah-breslin-19-ways-",
-          "publishedOn": "2024-01-30T17:11:08.000Z",
-          "wordCount": 582,
-          "title": "Susannah Breslin: 19 Ways to Make Money as a Writer. &#8220;My consulting...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/01/0043879-interviews-with-five-peop",
-          "author": null,
-          "description": "Interviews with five people who have hosted their own living funerals. “I spent 45 minutes hugging people and then I needed space. I’d had the most important people in my life tell me how meaningful I was to them.”\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/01/0043879-interviews-with-five-peop",
-          "publishedOn": "2024-01-30T16:31:12.000Z",
-          "wordCount": 638,
-          "title": "Interviews with five people who have hosted their own living funerals. &#8220;I...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/01/letraset-fill-patterns",
-          "author": null,
-          "description": "I never did any print design — I went straight to digital via a copy of Aldus PhotoStyler that I got who knows where — but these Letraset fill patterns make me feel some kinda way. Especially the dotted patterns. 😍\nSee also How to Apply Letraset Dry Rub-Down Transfers and Retroset. (via present & correct)\nTags: design\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/01/letraset-fill-patterns",
-          "publishedOn": "2024-01-30T15:45:44.000Z",
-          "wordCount": 823,
-          "title": "Letraset Fill Patterns",
-          "imageUrl": "https://kottke.org/plus/misc/images/letraset-patterns-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/01/0043878-oh-dear-japans-smart-land",
-          "author": null,
-          "description": "Oh dear, Japan’s Smart Lander touched down precisely where it meant to, but it’s upside-down. The photo of the flipped lander (taken by a probe released before landing) is sadly hilarious.\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/01/0043878-oh-dear-japans-smart-land",
-          "publishedOn": "2024-01-30T15:10:06.000Z",
-          "wordCount": 550,
-          "title": "Oh dear, Japan&#8217;s Smart Lander touched down precisely where it meant to,...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/01/0043877-matt-webbs-ai-powered-clo",
-          "author": null,
-          "description": "Matt Webb’s AI-powered clock is now on Kickstarter! “It tells the time with a brand new poem every minute, composed by ChatGPT. It’s sometimes profound, and sometimes weird, and occasionally it fibs about what the actual time is to make a rhyme work.”\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/01/0043877-matt-webbs-ai-powered-clo",
-          "publishedOn": "2024-01-30T13:55:08.000Z",
-          "wordCount": 562,
-          "title": "Matt Webb&#8217;s AI-powered clock is now on Kickstarter! &#8220;It tells the time...",
           "imageUrl": ""
         }
       ]
