@@ -161,6 +161,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2915/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/eclipse_clouds.png\" title=\"The rare compound solar-lunar-nephelogical eclipse\" alt=\"The rare compound solar-lunar-nephelogical eclipse\" />",
+          "link": "https://xkcd.com/2915/",
+          "publishedOn": "2024-04-03T00:00:00.000Z",
+          "wordCount": 206,
+          "title": "Eclipse Clouds",
+          "imageUrl": "https://imgs.xkcd.com/comics/eclipse_clouds_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2914/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/eclipse_coolness.png\" title=\"A partial eclipse is like a cool sunset. A total eclipse is like someone broke the sky.\" alt=\"A partial eclipse is like a cool sunset. A total eclipse is like someone broke the sky.\" />",
@@ -752,6 +762,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/746763401225797632",
+          "author": null,
+          "description": "text-mode:\nRapid T. Rabbit and Friends Show, with PlayNET - an American online system for Commodore 64. PlayNET was the first service of its kind and later spawned both Quantum Link and AOL. \nOriginal video\nh/t: Tim Koch",
+          "link": "https://text-mode.tumblr.com/post/746763401225797632",
+          "publishedOn": "2024-04-03T18:31:16.000Z",
+          "wordCount": 1069,
+          "title": "text-mode:\n\nRapid T. Rabbit and Friends Show, with PlayNET - an...",
+          "imageUrl": "https://64.media.tumblr.com/0077d5e7835a895abd2e1d24f0ea5d0c/tumblr_nb16kcOzdP1rpiyaso2_640.gif"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/746672769621688320",
           "author": null,
@@ -1351,16 +1371,6 @@
           "wordCount": 1031,
           "title": "text-mode:\n\n\nThe difference between what you see on keyboard and...",
           "imageUrl": "https://64.media.tumblr.com/952de14656ca044feb02b5af621c700e/tumblr_ndyndui88U1rpiyaso1_1280.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/741331330143518720",
-          "author": null,
-          "description": "text-mode:\nChinese ANSI by Yahoo.",
-          "link": "https://text-mode.tumblr.com/post/741331330143518720",
-          "publishedOn": "2024-02-03T19:30:49.000Z",
-          "wordCount": 978,
-          "title": "text-mode:\n\nChinese ANSI by Yahoo.",
-          "imageUrl": "https://64.media.tumblr.com/f2b5eaf16c4b087a5c6c9e71f3611531/tumblr_nb6wzztxMq1rpiyaso1_1280.png"
         }
       ]
     },
@@ -1369,6 +1379,26 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=74596",
+          "author": "Mozilla",
+          "description": "(To read the complete Mozilla.ai publication on LLM evaluation, please visit the Mozilla.ai blog) In a year marked by extraordinary advancements in artificial intelligence, largely driven by the evolution of large language models (LLMs), one factor stands out as a universal accelerator: the exponential growth in computational power. Over the last few years, researchers have […]\nThe post The cost of cutting-edge: Scaling compute and limiting access appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/ai/ai-advancements-scaling-computational-power/",
+          "publishedOn": "2024-04-03T16:45:00.000Z",
+          "wordCount": 1891,
+          "title": "The cost of cutting-edge: Scaling compute and limiting access",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/11/moz_header_ai_mozilla1-1080x720.jpg"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=74583",
+          "author": "Martin Thomson",
+          "description": "The announcement that Google would remove the ability to track people using cookies in its Chrome browser was met with some consternation from advertisers. After all, when your business relies so heavily on tracking, as is common in the advertising industry, removing the key means of performing that tracking is a bit of a big […]\nThe post Google’s Protected Audience Protects Advertisers (and Google) More Than It Protects You appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/privacy-security/googles-protected-audience-protects-advertisers/",
+          "publishedOn": "2024-04-03T14:01:49.000Z",
+          "wordCount": 2319,
+          "title": "Google’s Protected Audience Protects Advertisers (and Google) More Than It Protects You",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/04/ai-1080x720.png"
+        },
         {
           "id": "https://blog.mozilla.org/?p=74532",
           "author": "Sarah Vasquez",
@@ -1583,6 +1613,16 @@
       "feedUrl": "https://www.joshwcomeau.com/rss.xml",
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
+        {
+          "id": "https://www.joshwcomeau.com/css/custom-css-reset/",
+          "author": "Josh W. Comeau",
+          "description": "I have a set of baseline CSS styles that come with me from project to project. In the past, I'd use a typical CSS reset, but times have changed, and I believe I have a better set of global styles!",
+          "link": "https://www.joshwcomeau.com/css/custom-css-reset/",
+          "publishedOn": "2024-04-03T23:59:12.000Z",
+          "wordCount": 8090,
+          "title": "A Modern CSS Reset",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-custom-css-reset.png"
+        },
         {
           "id": "https://www.joshwcomeau.com/react/server-components/",
           "author": "Josh W. Comeau",
@@ -2206,6 +2246,96 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/04/farm-animal-family-photos",
+          "author": null,
+          "description": "Rob MacInnis takes these great family photos of farm animals. I mean, gold medal to anyone who can actually get a chicken, dog, goat, sheep, cow, and horse to pose together like that. I also like his photo of this charming sheep.\nYou can check out more of his work on Instagram and his website. (via present & correct)\nTags: photography · Rob MacInnis\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/farm-animal-family-photos",
+          "publishedOn": "2024-04-03T20:20:49.000Z",
+          "wordCount": 741,
+          "title": "Farm Animal Family Photos",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/farm-family-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/04/0044327-crows-are-on-the-short",
+          "author": null,
+          "description": "Crows are on the short list of animals that have domesticated humans. “We were the crow vending machine, I realized, and the birds had mastered the art of manipulating us for rewards.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/0044327-crows-are-on-the-short",
+          "publishedOn": "2024-04-03T19:28:04.000Z",
+          "wordCount": 834,
+          "title": "Crows are on the short list of animals that have domesticated humans....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/04/a-600-year-old-blueprint-for-weathering-climate-change",
+          "author": null,
+          "description": "This is a fascinating article by Kathleen DuVal about how climate change (including the Little Ice Age) affected social and political structures in North America in the 13th and 14th centuries.\nBut then the climate reversed itself. In response, Native North American societies developed a deep distrust of the centralization, hierarchy, and inequality of the previous era, which they blamed for the famines and disruptions that had hit cities hard. They turned away from omnipotent leaders and the cities they ruled, and built new, smaller-scale ways of living, probably based in part on how their distant ancestors lived.\n\n\nWhile Europeans reacted to the Little Ice Age by centralizing and militarizing under hereditary absolute monarchs, Native Americans went in a decidedly different direction:\nTh…",
+          "link": "https://kottke.org/24/04/a-600-year-old-blueprint-for-weathering-climate-change",
+          "publishedOn": "2024-04-03T18:17:56.000Z",
+          "wordCount": 1228,
+          "title": "&#8220;A 600-Year-Old Blueprint for Weathering Climate Change&#8221;",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/04/0044318-the-discarded-by-colin-ha",
+          "author": null,
+          "description": "The Discarded by Colin Hamilton sounds interesting…an imagined librarian pulls imagined books from the discard room at the library. “In an age of decreasing literacy, disposable content, and banned books, what do we preserve and what do we discard?”\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/0044318-the-discarded-by-colin-ha",
+          "publishedOn": "2024-04-03T17:26:22.000Z",
+          "wordCount": 761,
+          "title": "The Discarded by Colin Hamilton sounds interesting&#8230;an imagined librarian pulls imagined books...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/04/0044322-moira-donegan-if-the-post",
+          "author": null,
+          "description": "Moira Donegan: “If the post-Dobbs era has shown us anything, it is that abortion is controversial only in theory. When faced with the material consequences of banning it, Americans find themselves unequivocally on freedom’s side.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/0044322-moira-donegan-if-the-post",
+          "publishedOn": "2024-04-03T16:29:21.000Z",
+          "wordCount": 703,
+          "title": "Moira Donegan: &#8220;If the post-Dobbs era has shown us anything, it is...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/04/0044321-eating-like-a-salmon-is",
+          "author": null,
+          "description": "Eating Like a Salmon Is Better Than Eating Actual Salmon, Study Finds. “Eating lower on the food chain…can help humans get these critical vitamins, minerals, and fatty acids directly from the source.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/0044321-eating-like-a-salmon-is",
+          "publishedOn": "2024-04-03T15:48:25.000Z",
+          "wordCount": 811,
+          "title": "Eating Like a Salmon Is Better Than Eating Actual Salmon, Study Finds....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/04/paul-simon-on-the-late-show-with-stephen-colbert",
+          "author": null,
+          "description": "I missed this when it came out two weeks ago, but I’m glad to have found it this morning: Paul Simon unaccompanied, singing “Your Forgiveness” from his new album, Seven Psalms. (The 33-minute album is meant to be listened to all in one go.) \nThe docuseries Colbert mentions at the end — In Restless Dreams: The Music of Paul Simon, by Alex Gibney — came out on March 17 (trailer here). I haven’t seen it yet but very much want to.\nTags: music · Paul Simon · Stephen Colbert · The Late Show\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/paul-simon-on-the-late-show-with-stephen-colbert",
+          "publishedOn": "2024-04-03T15:08:37.000Z",
+          "wordCount": 773,
+          "title": "Paul Simon on The Late Show With Stephen Colbert",
+          "imageUrl": "https://i.ytimg.com/vi/kj9gCGl53xs/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/04/0044310-cutting-and-polishing-a-m",
+          "author": null,
+          "description": "Cutting and polishing a morganite stone into a 294 caret gem. It looks *amazing* when he’s done — skip to the 33:35 mark to see it sparkle in the outdoor light.\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/0044310-cutting-and-polishing-a-m",
+          "publishedOn": "2024-04-03T14:27:15.000Z",
+          "wordCount": 717,
+          "title": "Cutting and polishing a morganite stone into a 294 caret gem. It...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/04/0044303-blogging-for-this-site-ha",
+          "author": null,
+          "description": "Blogging for this site has taught me that I’m more of a romantic than I realized: I loved these stories of people who found one another through missed connection posts. (With a nice undercurrent of creepiness.)\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/0044303-blogging-for-this-site-ha",
+          "publishedOn": "2024-04-03T13:48:14.000Z",
+          "wordCount": 749,
+          "title": "Blogging for this site has taught me that I&#8217;m more of a...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/24/04/0044309-upcoming-new-book-from-st",
           "author": null,
