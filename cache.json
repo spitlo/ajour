@@ -151,6 +151,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2917/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/types_of_eclipse_photo.png\" title=\"The most rare, top-tier eclipse photo would be the Solar Earth Eclipse, but the Apollo 12 crew's attempt to capture it was marred by camera shake. They said it looked spectacular, though.\" alt=\"The most rare, top-tier eclipse photo would be the Solar Earth Eclipse, but the Apollo 12 crew's attempt to capture it was marred by camera shake. They said it looked spectacular, though.\" />",
+          "link": "https://xkcd.com/2917/",
+          "publishedOn": "2024-04-08T00:00:00.000Z",
+          "wordCount": 210,
+          "title": "Types of Eclipse Photo",
+          "imageUrl": "https://imgs.xkcd.com/comics/types_of_eclipse_photo_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2916/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/machine.png\" title=\"The Credible Machine\" alt=\"The Credible Machine\" />",
@@ -436,16 +446,6 @@
           "wordCount": 1450,
           "title": "Why my code isn't in TypeScript [blog]",
           "imageUrl": "https://remysharp.com/images/ts-trace.png"
-        },
-        {
-          "id": "2024-02-09-395b2ad3",
-          "author": null,
-          "description": "I mean… the writing was on the wall, wasn't it? Didn't we, the tech nation desperate to actualise the ten-ecks developer, make our own bed?\nI know it's the cynic in me that doesn't trust copilot assisted work to produce long term \"good code\" (aka: code of a reliable quality that can survive time), but at the same time I'm one of those grumpy old hacks that hand codes.\nOne of the real reasons I don't (personally) like copilot is that I tend to code faster than copilot can suggest recommendations, and it's distracting to get a nearly right autocomplete flash up, whilst my fingers continue to fly across the keyboard. The distraction is whether I should backtrack and undo my change to trigger the autocomplete again, which would only to visually validate the code changing the cadence of my coding/typing...\nThe pull quote from the article is the take away, and the bit that, if we (devs) really are going to saddle up to AI assisted coding are absolutely going to have to solve, is this:\n\nWe find disconcerting trends for maintainability. Code churn -- the percentage of lines that are reverted or updated less than two weeks after being authored -- is projected to double in 2024 compared to its 2021, pre-AI baseline. We further find that the percentage of 'added code' and 'copy/pasted code' is increasing in proportion to 'updated,' 'deleted,' and 'moved 'code. In this regard, AI-generated code resembles an itinerant contributor, prone to violate the DRY-ness [don't repeat yourself] of the repos visited.\n\nSure, AI can be treated as the unpaid intern, but do we really want the unpaid intern to be committing the majority of our code to production? (Also, pay your interns…yikes).\nSource: visualstudiomagazine.com",
-          "link": "https://remysharp.com/links/2024-02-09-395b2ad3",
-          "publishedOn": "2024-02-09T18:25:30.000Z",
-          "wordCount": 789,
-          "title": "New GitHub Copilot Research Finds 'Downward Pressure on Code Quality' [link]",
-          "imageUrl": null
         }
       ]
     },
@@ -722,6 +722,26 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/747313939024625664",
+          "author": null,
+          "description": "mistfunk:\n\nALT\nMistigram: this Spring has already been a pretty magical season, what with the appearance of the Easter eggs, Christ’s resurrection and that business with the eclipse, and capping it all off, today is National #Unicorn Day! This #ANSIart screen celebrating the occasion was drawn by AdeptApril for Storm BBS.",
+          "link": "https://text-mode.tumblr.com/post/747313939024625664",
+          "publishedOn": "2024-04-09T20:21:49.000Z",
+          "wordCount": 945,
+          "title": "Mistigram: this Spring has already been a pretty magical season, what with the appearance of the&hellip;",
+          "imageUrl": "https://64.media.tumblr.com/c87012865023bb1ac9b4920e74f285f8/c973b266148eedba-1d/s640x960/cae927a44844f7cd60f7fe49396932fbf21b93da.png"
+        },
+        {
+          "id": "https://text-mode.tumblr.com/post/747307007328043008",
+          "author": null,
+          "description": "text-mode:\n黙れ小僧",
+          "link": "https://text-mode.tumblr.com/post/747307007328043008",
+          "publishedOn": "2024-04-09T18:31:39.000Z",
+          "wordCount": 994,
+          "title": "text-mode:\n\n黙れ小僧",
+          "imageUrl": "https://64.media.tumblr.com/9b8ac761634ba5501fda5f783a2ba64e/tumblr_n8ck5zu01n1rpiyaso1_640.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/747216431766241280",
           "author": null,
@@ -1321,16 +1341,6 @@
           "wordCount": 1039,
           "title": "text-mode:\n\n\nMy grandpa worked for IBM in the ‘60s. This was...",
           "imageUrl": "https://64.media.tumblr.com/12f4f4a0272e9eab0f336c9c2dcb1248/tumblr_nfi974AANX1rpiyaso1_1280.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/741874894029127680",
-          "author": null,
-          "description": "text-mode:\nMax Capacity PETSCII skull.",
-          "link": "https://text-mode.tumblr.com/post/741874894029127680",
-          "publishedOn": "2024-02-09T19:30:32.000Z",
-          "wordCount": 963,
-          "title": "text-mode:\n\nMax Capacity PETSCII skull.",
-          "imageUrl": "https://64.media.tumblr.com/e3b191709d6697206fd0f73696ec7497/tumblr_n6kc28YKnC1qzpy7ko1_500.gif"
         }
       ]
     },
@@ -1554,6 +1564,16 @@
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
         {
+          "id": "https://www.joshwcomeau.com/css/styled-components/",
+          "author": "Josh W. Comeau",
+          "description": "styled-components is a wonderfully powerful styling library for React, and over the years I've learned a lot about how to use it effectively. This article shares my personal “best practices”.",
+          "link": "https://www.joshwcomeau.com/css/styled-components/",
+          "publishedOn": "2024-04-09T15:13:55.000Z",
+          "wordCount": 7890,
+          "title": "The styled-components Happy Path",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-styled-components.png"
+        },
+        {
           "id": "https://www.joshwcomeau.com/css/custom-css-reset/",
           "author": "Josh W. Comeau",
           "description": "I have a set of baseline CSS styles that come with me from project to project. In the past, I'd use a typical CSS reset, but times have changed, and I believe I have a better set of global styles!",
@@ -1677,6 +1697,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=8475",
+          "author": "Cory Doctorow",
+          "description": "Today's links Steven Brust's \"Lyorn\": A master at the peak of his abilities, having the time of his life. Hey look at this: Delights to delectate. This day in history: 2004, 2009, 2014, 2019, 2023 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Steven Brust's \"Lyorn\" (permalink) Today marks the publication of Lyorn, the seventeenth book in Steven Brust's long-running Vlad Taltos series. While this is definitely not where you should start reading this series, I hope I can convince you that this book is so delicious that you should go read the other sixteen books right now: https://us.macmillan.com/books/9780765382863/lyorn I have …",
+          "link": "https://pluralistic.net/2024/04/09/so-meta/",
+          "publishedOn": "2024-04-09T14:20:11.000Z",
+          "wordCount": 3289,
+          "title": "Pluralistic: Steven Brust's \"Lyorn\" (09 Apr 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=8465",
           "author": "Cory Doctorow",
@@ -2156,6 +2186,96 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/04/0044357-sherwood-has-a-really-int",
+          "author": null,
+          "description": "Sherwood has a really interesting & bloggy front page for a news site. Punchy & heavy on images like social media. I feel like this sort of thing rhymes with what I’m trying to do with the ol’ dot org.\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/0044357-sherwood-has-a-really-int",
+          "publishedOn": "2024-04-10T00:24:57.000Z",
+          "wordCount": 686,
+          "title": "Sherwood has a really interesting & bloggy front page for a news...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/04/0044354-the-design-of-books-an",
+          "author": null,
+          "description": "The Design of Books: An Explainer for Authors, Editors, Agents, and Other Curious Readers. That’s me! I am curious about the design of books! (Seriously tho, this looks great.)\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/0044354-the-design-of-books-an",
+          "publishedOn": "2024-04-09T22:04:57.000Z",
+          "wordCount": 682,
+          "title": "The Design of Books: An Explainer for Authors, Editors, Agents, and Other...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/04/david-lynch-depression-kills-creativity",
+          "author": null,
+          "description": "David Lynch is not having any of that “you need to struggle or be tortured in order to be creative” stuff. In this video compilation, the director talks about how poor mental health inhibits art & creativity.\n\nIt stands to reason: the more you suffer, the less you want to create. If you’re truly depressed, they say you can’t even get out of bed, let alone create. It occupies the whole brain, poisons the artist, poisons the environment; little room for creativity.\n\n\nOpen Culture has more on how Lynch uses transcendental meditation to improve his mental health…and a great anecdote about the one time Lynch tried therapy:\nIn one Charlie Rose interview, a clip from which appears in the video, he even tells of the time he went to therapy. The beginning of this story makes it in, but not the end: Lynch asked his new therapist “straight out, right up front, ‘Could this process that we’re going to go through affect creativity?’ And he said, ‘David, I have to be honest with you, it could” — whereupon Lynch shook the man’s hand and walked right back out the door.\n\n\n \nTags: David Lynch · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/david-lynch-depression-kills-creativity",
+          "publishedOn": "2024-04-09T21:18:10.000Z",
+          "wordCount": 824,
+          "title": "David Lynch: Depression Kills Creativity",
+          "imageUrl": "https://i.ytimg.com/vi/4ur3l2GKWzk/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/04/0044355-finally-an-answer-to-aaro",
+          "author": null,
+          "description": "Finally: an answer to Aaron’s question about the confusing freezer knob: do you turn it clockwise or counterclockwise for colder? “The knob’s designer should feel bad!”\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/0044355-finally-an-answer-to-aaro",
+          "publishedOn": "2024-04-09T19:41:11.000Z",
+          "wordCount": 719,
+          "title": "Finally: an answer to Aaron&#8217;s question about the confusing freezer knob: do...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/04/0044353-john-green-lost-his-hair",
+          "author": null,
+          "description": "Hank Green lost his hair during chemotherapy and it grew back curly. Turns out this is a thing that happens to many people: chemo curls!\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/0044353-john-green-lost-his-hair",
+          "publishedOn": "2024-04-09T19:01:18.000Z",
+          "wordCount": 928,
+          "title": "Hank Green lost his hair during chemotherapy and it grew back curly....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/04/amanda-there-is-no-audience",
+          "author": null,
+          "description": "The writer Amanda Fortini tweeted something a couple weeks ago that I haven’t stopped thinking about: \nYears ago, when I was in my 20s, a bold and artistically daring older friend who has since passed on gave me what I often think was the best advice I have ever gotten. I was worrying what ‘people would think’ of a decision I had made, and she said, “Amanda, There is no audience.”\n\n\nThe tweet went viral, so this probably isn’t news to a lot of readers. But I’ve been saying it to myself ever since: Amanda, there is no audience. Somehow, for a few seconds at a time, it makes sense to me on a very deep level. The “Amanda” part seems essential, too, for whatever reason. \nTags: Amanda Fortini · amanda there is no audience · creative processes\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/amanda-there-is-no-audience",
+          "publishedOn": "2024-04-09T18:23:40.000Z",
+          "wordCount": 801,
+          "title": "Amanda, There Is No Audience",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/amandathereisnoaudience.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/04/0044350-buying-a-soccer-club-is",
+          "author": null,
+          "description": "“Buying a soccer club is probably one of the worst investments you can make.” A group of 140 Americans bought a third-tier Danish football club called Akademisk Boldklub. Niels Bohr was the club’s keeper back in the day!\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/0044350-buying-a-soccer-club-is",
+          "publishedOn": "2024-04-09T17:43:51.000Z",
+          "wordCount": 707,
+          "title": "&#8220;Buying a soccer club is probably one of the worst investments you...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/04/0044349-as-food-service-in-us",
+          "author": null,
+          "description": "As food service in US prisons gets outsourced, quantity and quality is sacrificed in the name of profit. “It’s not uncommon for a day’s worth of food to be a one bologna sandwich, one cheese sandwich and a few crackers.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/0044349-as-food-service-in-us",
+          "publishedOn": "2024-04-09T17:12:50.000Z",
+          "wordCount": 742,
+          "title": "As food service in US prisons gets outsourced, quantity and quality is...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/04/the-best-photos-and-videos-of-the-2024-solar-eclipse",
+          "author": null,
+          "description": "Well, the total solar eclipse was once again completely awesome. I didn’t have to go chasing all over tarnation this time, the telescope worked out amazingly well, and I got to share it with a bunch of first-timers, both in-person and via text. I’m going to share some thoughts, photos, and videos from others around the internet in an even bloggier fashion than usual. Here we go.\nMy pal Noah Kalina got one of my favorite shots of the day (see also):\n\nGobsmacking shot from Rami Ammoun…it’s a blend of multiple exposures so you can see the sun and moon at the same time. Love this shot.\n\nAnd another stunner from Andrew McCarthy:\n\nRyan Cox got some great shots of the solar prominences during totality.\n\nQuick solar prominence explainer interlude: if you had a clear look at totality, you may have …",
+          "link": "https://kottke.org/24/04/the-best-photos-and-videos-of-the-2024-solar-eclipse",
+          "publishedOn": "2024-04-09T14:42:58.000Z",
+          "wordCount": 2022,
+          "title": "The Best Photos and Videos of the 2024 Solar Eclipse",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/solar-eclipse-2024-01.jpg"
+        },
         {
           "id": "https://kottke.org/24/04/its-eclipse-day",
           "author": null,
@@ -5935,56 +6055,6 @@
           "wordCount": 710,
           "title": "The Superb Owl Trailers",
           "imageUrl": "https://i.ytimg.com/vi/xW-zNOT4P1A/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/02/stinge-watching",
-          "author": null,
-          "description": "Last weekend, my daughter and I watched all 8 episodes of Percy Jackson and the Olympians on Disney+. We binged it. That’s how people watch TV shows now: streaming services have entire shows available at the click of the “next episode” button. Many shows are uploaded a whole season at a time for maximum bingeability — no need to wait more than the time it takes to skip the credits to continue the story. It’s an all-you-can-eat media buffet. The mechanics and economics of streaming media have changed how we watch TV and movies — the binge watch reigns supreme.\nBut recently, I’ve found myself watching some shows in a much different way. When I find a new show I really like or I’m digging into the newest season of a favorite series, instead of getting hooked and then blasting through all the …",
-          "link": "https://kottke.org/24/02/stinge-watching",
-          "publishedOn": "2024-02-09T18:21:19.000Z",
-          "wordCount": 3706,
-          "title": "Stinge Watching Is the Opposite of Binge Watching",
-          "imageUrl": "https://kottke.org/plus/misc/images/stinge-watching.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/02/0043952-heres-why-chicken-over-ri",
-          "author": null,
-          "description": "Here’s why chicken over rice from a lower Manhattan cart costs $10 now. “Mr. Mousa’s red sauce of choice, a spicy sambal, costs $23 a gallon, up from $11.”\n\n         (via @990000) \n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/02/0043952-heres-why-chicken-over-ri",
-          "publishedOn": "2024-02-09T17:13:33.000Z",
-          "wordCount": 551,
-          "title": "Here&#8217;s why chicken over rice from a lower Manhattan cart costs $10...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/02/incredible-satellite-images-of-the-latest-volcanic-eruption-in-iceland",
-          "author": null,
-          "description": "Archaeologist and satellite expert Marco Langbroek posted a satellite image of the latest volcanic eruption on Iceland’s Reykjanes Peninsula, near the city of Grindavik.\n\nWow. It’s worth clicking through to see it larger (mirrored here). You can see the Keflavik airport to the northwest of the fissure and Reykjavík is the darker area in the upper part of the image, just right of center. This image really underscores the extent to which volcanoes are fiery, slashing cuts to the Earth’s skin. It’s bleeding! Bleeding lava!\nThis image was taken by the European Union’s Copernicus Sentinel 2A satellite and processed by Langbroek. The Copernicus project posted their own view of the volcano today as well:\n\nAgain, worth seeing larger. And here’s a closeup view of the fissure.\n\nThe famed Blue Lagoon spa, circled in blue, is very close (less than a mile) to the lava flow and is currently closed.\nIf you want to check out the satellite imagery for yourself, you can find it on Copernicus Browser. I tried for a few minutes to duplicate Langbroek’s view (“combined natural colour + SWIR”) but couldn’t quite manage it.\nTags: Iceland · Marco Langbroek · satellite imagery · volcanoes\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/02/incredible-satellite-images-of-the-latest-volcanic-eruption-in-iceland",
-          "publishedOn": "2024-02-09T16:22:53.000Z",
-          "wordCount": 851,
-          "title": "Incredible Satellite Images of the Latest Volcanic Eruption in Iceland",
-          "imageUrl": "https://kottke.org/plus/misc/images/grindavik-volcano-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/02/0043947-the-lightsound-device-was",
-          "author": null,
-          "description": "“The LightSound device was designed and developed in 2017 as a tool for the Blind and Low Vision (BLV) community to experience a solar eclipse with sound.”\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/02/0043947-the-lightsound-device-was",
-          "publishedOn": "2024-02-09T16:09:58.000Z",
-          "wordCount": 546,
-          "title": "&#8220;The LightSound device was designed and developed in 2017 as a tool...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/02/0043949-til-that-slack-is-an",
-          "author": null,
-          "description": "TIL that Slack is an acronym: “Searchable Log of All Communication and Knowledge”.\n\n         (via wired.com) \n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/02/0043949-til-that-slack-is-an",
-          "publishedOn": "2024-02-09T14:28:52.000Z",
-          "wordCount": 597,
-          "title": "TIL that Slack is an acronym: &#8220;Searchable Log of All Communication and...",
-          "imageUrl": ""
         }
       ]
     },
