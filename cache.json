@@ -408,6 +408,16 @@
       "siteUrl": "https://remysharp.com",
       "articles": [
         {
+          "id": "groupby-and-other-ways-that-im-an-old-dog",
+          "author": null,
+          "description": "More of a TIL but my blog is rather bare lately, so this will do.\nI was browsing the excellent MDN to check something and came across both Map.groupBy and Object.groupBy. A handy static method for keying an array by some property (I'll show working example in a moment).\nPretty useful, but I quickly realised that I'm very much stuck in the camp of the old dog not quite learning the new tricks.",
+          "link": "https://remysharp.com/2024/04/12/groupby-and-other-ways-that-im-an-old-dog",
+          "publishedOn": "2024-04-12T00:00:00.000Z",
+          "wordCount": 1133,
+          "title": "groupBy and other ways that I'm an old dog [blog]",
+          "imageUrl": "https://remysharp.com/images/cards/og/9-4.jpg"
+        },
+        {
           "id": "2024-03-27-cricut",
           "author": null,
           "description": "I've been eyeballing Cricut machines for a few years now, but it was mostly for stickers for my own use and the cost just couldn't be justified.\nHowever, last Sunday I found a faulty Cricut on eBay, put an offer out and it arrived on Wednesday for a total of £35 (including postage).\nWhen plugging the power lead in, the power button briefly shows red and the cutter lights up, but then it all immediately dies. I figured I'd need to get to the power connect to check the state of the connect and the PCB - perhaps there was a short.\nAfter a lot of screws and jiggling to release plastic covers, I eventually made it to the motherboard, which, on first inspection looked entirely clean.\nLooking closer though, the DC barrel connector had a small crack. When I prodded the connector, I could see it was moving, and in fact the positive leg was broken and no longer connected to the motherboard.\nMy guess is that it was plugged in, someone snagged the power cable but the lead didn't remove, instead breaking the DC barrel connector and tearing it out of the motherboard.\nSome careful soldering and lot of replacement of screws and I now have a working Cricut. Tidy.",
@@ -722,6 +732,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/747578788171366400",
+          "author": null,
+          "description": "text-mode:\nThe Yeti Sound Machine, the BOOK! by Raquel Meyers (2014) \n8.5\" x 8.5\" Paperback, 35 Pages and full color #PETSCII! \nGet your copy at lulu! \nThe Yeti Sound Machine was performed at La Gaîté lyrique (Paris,2014). The show presents a magical world, that is made with animated text characters (PETSCII) by Raquel Meyers & 8-bit music by Goto80.",
+          "link": "https://text-mode.tumblr.com/post/747578788171366400",
+          "publishedOn": "2024-04-12T18:31:29.000Z",
+          "wordCount": 1071,
+          "title": "text-mode:\n\nThe Yeti Sound Machine, the BOOK! by Raquel Meyers...",
+          "imageUrl": "https://64.media.tumblr.com/fe9b009e7dec582fea791dba439c997b/tumblr_n9dt66mUO41rpiyaso3_1280.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/747488165019910144",
           "author": null,
@@ -1331,16 +1351,6 @@
           "wordCount": 1016,
           "title": "text-mode:\n\nThe South Asian copper plates of Kollam, from year...",
           "imageUrl": "https://64.media.tumblr.com/f3e10403d908ee63f8c9b12a0cc81893/tumblr_nduxq1Hcr21rpiyaso1_1280.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/742146701329055744",
-          "author": null,
-          "description": "text-mode:\nPETSCII kaleidoscope from Kilobaud Microcomputing Magazine July 1979. h/t: Tim Koch. Reminds me of In A Loop by Ate Bit.",
-          "link": "https://text-mode.tumblr.com/post/742146701329055744",
-          "publishedOn": "2024-02-12T19:30:48.000Z",
-          "wordCount": 975,
-          "title": "text-mode:\n\nPETSCII kaleidoscope from Kilobaud Microcomputing...",
-          "imageUrl": "https://64.media.tumblr.com/5c35a84de1e34a38b65a97765fc90af4/tumblr_nehlkkrBUi1rpiyaso2_640.jpg"
         }
       ]
     },
@@ -1727,6 +1737,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=8492",
+          "author": "Cory Doctorow",
+          "description": "Today's links No, \"convenience\" isn't the problem: Enshittification isn't caused by \"lazy consumers.\" Hey look at this: Delights to delectate. This day in history: 2004, 2009, 2014, 2019, 2023 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. No, \"convenience\" isn't the problem (permalink) Using Amazon, or Twitter, or Facebook, or Google, or Doordash, or Uber doesn't make you lazy. Platform capitalism isn't enshittifying because you made the wrong shopping choices. Remember, the reason these corporations were able to capture such substantial market-share is that the capital markets saw them as a bet that they could lose money for y…",
+          "link": "https://pluralistic.net/2024/04/12/give-me-convenience/",
+          "publishedOn": "2024-04-12T12:12:35.000Z",
+          "wordCount": 3724,
+          "title": "Pluralistic: No, \"convenience\" isn't the problem (12 Apr 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=8479",
           "author": "Cory Doctorow",
@@ -2237,6 +2257,226 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/04/proudly-second-best",
+          "author": null,
+          "description": "A clever ad campaign by an Ikea franchisee highlights how their products for kids can’t quite replace the support and comfort offered by their caregivers. (via @gray)\nTags: advertising · Ikea · parenting\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/proudly-second-best",
+          "publishedOn": "2024-04-12T20:21:00.000Z",
+          "wordCount": 666,
+          "title": "Proudly Second Best!",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/ikea-second-best-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/04/0044389-starting-in-1978-a-high",
+          "author": null,
+          "description": "Starting in 1978, a high school science teacher told his students that he was throwing a viewing party for the 2024 solar eclipse. More than 100 of them showed up.\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/0044389-starting-in-1978-a-high",
+          "publishedOn": "2024-04-12T19:07:55.000Z",
+          "wordCount": 726,
+          "title": "Starting in 1978, a high school science teacher told his students that...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/04/0044385-liam-neeson-is-starring-i",
+          "author": null,
+          "description": "Liam Neeson is starring in a Naked Gun reboot? Why? Is it because his name sounds like Leslie Nielsen’s? (Nielsen? Neeson. Neeson? Nielsen.)\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/0044385-liam-neeson-is-starring-i",
+          "publishedOn": "2024-04-12T18:02:19.000Z",
+          "wordCount": 676,
+          "title": "Liam Neeson is starring in a Naked Gun reboot? Why? Is it...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/04/mount-etna-volcano-blowing-perfect-smoke-rings",
+          "author": null,
+          "description": "My current natural obsession is Mount Etna, a volcano in Sicily that blows perfect smoke rings like it’s frickin’ Gandalf with a pipe-full of Old Toby or something.\nIt is a relatively rare phenomenon caused by a constant release of vapours and gases. The gaseous mass ascends rapidly through the central part of the conduit, promoting the formation of rings by wrapping the gas upon itself in a vortex motion.\n\n\nPuff on, Etna, puff on.\nTags: Mount Etna · video · volcanoes\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/mount-etna-volcano-blowing-perfect-smoke-rings",
+          "publishedOn": "2024-04-12T17:21:14.000Z",
+          "wordCount": 757,
+          "title": "Mount Etna Volcano Blowing Perfect Smoke Rings",
+          "imageUrl": "https://i.ytimg.com/vi/Q2cUGICVEhI/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/04/0044381-why-dont-we-have-solar",
+          "author": null,
+          "description": "Why don’t we have solar eclipses every month? Because we don’t deserve them! (Ok no, it’s that the orbital planes of the Earth and moon are skewed slightly relative to each other.)\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/0044381-why-dont-we-have-solar",
+          "publishedOn": "2024-04-12T16:39:14.000Z",
+          "wordCount": 722,
+          "title": "Why don&#8217;t we have solar eclipses every month? Because we don&#8217;t deserve...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/04/0044384-jamelle-bouie-on-the-inap",
+          "author": null,
+          "description": "Jamelle Bouie on the inappropriate use of the presumed intent of the long-dead framers of the Constitution to determine how we live today. “They cannot justify the choices we make while we navigate our world.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/0044384-jamelle-bouie-on-the-inap",
+          "publishedOn": "2024-04-12T15:50:05.000Z",
+          "wordCount": 704,
+          "title": "Jamelle Bouie on the inappropriate use of the presumed intent of the...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/04/20-minutes-of-charles-schulz-drawing-peanuts-comics",
+          "author": null,
+          "description": "This is wonderful: a collection of video clips of Charles Schulz drawing his iconic Peanuts comic strip — “everything I could find of Charles Schulz drawing his Peanuts characters” in the words of the compiler.\nUnfortunately, I’m not highly educated. I’m merely a high school graduate. I studied art in a correspondence course because I was afraid to go to art school. I couldn’t see myself sitting in a room where everyone else in the room could draw much better than I and this way I was protected by drawing at home and simply mailing my drawings in and having them criticized.\nI wish I had a better education but I think that my entire background made me well-suited for what I do. If I could write better than I can, perhaps I would have tried to become a novelist and I might have become a failure. If I could draw better than I can, I might have tried to become an illustrator or an artist and would have failed there. But my entire being seems to be just right for being a cartoonist.\n\n\nCharles Schulz: Unbothered. Moisturized. Happy. In his lane. Focused. Flourishing.\nSee also a 90-minute compilation of cartoonists working (from the same YT channel) and Chuck Jones demonstrating how to draw Bugs Bunny and other characters. (via open culture)\nTags: art · Charles Schulz · comics · illustration · Peanuts · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/20-minutes-of-charles-schulz-drawing-peanuts-comics",
+          "publishedOn": "2024-04-12T14:39:34.000Z",
+          "wordCount": 883,
+          "title": "20 Minutes of Charles Schulz Drawing Peanuts Comics",
+          "imageUrl": "https://i.ytimg.com/vi/JTjBHRgpaEQ/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/04/0044382-moira-donegan-oj-simpson-",
+          "author": null,
+          "description": "Moira Donegan: “OJ Simpson died the comfortable death in old age that Nicole Brown should have had.” He abused, stalked, terrorized, and then killed Nicole Brown & Ronald Goldman. Finally, a truthful obit of OJ.\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/0044382-moira-donegan-oj-simpson-",
+          "publishedOn": "2024-04-12T13:48:35.000Z",
+          "wordCount": 1099,
+          "title": "Moira Donegan: &#8220;OJ Simpson died the comfortable death in old age that...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/04/0044379-this-overexposed-photo-of",
+          "author": null,
+          "description": "This “overexposed” photo of the total eclipse by Randy Olson is just all kinds of wonderful. “I didn’t realize the overexposed frames had this much detail.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/0044379-this-overexposed-photo-of",
+          "publishedOn": "2024-04-12T13:19:54.000Z",
+          "wordCount": 666,
+          "title": "This &#8220;overexposed&#8221; photo of the total eclipse by Randy Olson is just...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/04/0044378-the-uns-climate-chief-say",
+          "author": null,
+          "description": "The UN’s climate chief says governments, business leaders and development banks have two years to take decisive action on climate change. “Yet last year, the world’s energy-related CO2 emissions increased to a record high.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/0044378-the-uns-climate-chief-say",
+          "publishedOn": "2024-04-12T12:34:39.000Z",
+          "wordCount": 709,
+          "title": "The UN&#8217;s climate chief says governments, business leaders and development banks have...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/04/viral-videos-i-missed-is-this-available-attorney-general",
+          "author": null,
+          "description": "15,000-pound horse one is also great. Even … catchy? Creator Lubalin is a “regular” musician, too. (Thanks, Lucy!)\n(To make sure Jason hadn’t already blogged about this, I searched the site for “attorney general,” lol. There were posts. But not about this.)\nTags: Lubalin · viral videos\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/viral-videos-i-missed-is-this-available-attorney-general",
+          "publishedOn": "2024-04-11T21:00:14.000Z",
+          "wordCount": 788,
+          "title": "Viral Videos I Missed: Is This Available? (Attorney General)",
+          "imageUrl": "https://i.ytimg.com/vi/OLmun1JEIw0/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/04/take-a-letter-maria-live-audience-music-video",
+          "author": null,
+          "description": "Jolene” — both are odd, wonderful songs sung to an initially unromantic female character. Maybe? Anyway, I was pleased to discover this live-audience version on YouTube. Also, is “Maria” due for a cover, or an update? Take a letter, Alexa…\nTags: music · music videos · R.B. Greaves\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/take-a-letter-maria-live-audience-music-video",
+          "publishedOn": "2024-04-11T20:00:32.000Z",
+          "wordCount": 710,
+          "title": "Take a Letter Maria, the Live Audience Music Video",
+          "imageUrl": "https://i.ytimg.com/vi/Z9Y0x1jLkLg/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/04/whats-happening-now-that-might-only-make-sense-in-1200-years",
+          "author": null,
+          "description": "record the same solar eclipse?! — and how mind-blowing it is to even contemplate. We then talked about how crazy it must have been to live back then (in 790 AD) and see the sun just casually disappear, etc.\nAnd then I was wondering: What’s happening now that people living in the year 3200 will pity us for not understanding? “Wow, can you imagine living back then and not knowing exactly how [viruses appear/cancer strikes/the Voynich Manuscript came into existence]? Or precisely what happened at Dyatlov Pass, or on board the Mary Celeste?” (Okay now I’m just googling “mysteries.”) Anyway, I’m not high, I swear. But please chime in if anything comes to mind. “It must have been so weird to not know what dogs were saying.”\nTags: calendars · Maya · mysteries · the future · Voynich Manuscript\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/whats-happening-now-that-might-only-make-sense-in-1200-years",
+          "publishedOn": "2024-04-11T19:00:09.000Z",
+          "wordCount": 1538,
+          "title": "What&#8217;s Happening Now That Might Only Make Sense in 1,200 Years?",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/possibleeclipseglyph.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/04/0044377-april-is-national-letter-",
+          "author": null,
+          "description": "It’s National Card & Letter Writing Month (🎉), and Metafilter just drew my attention to the American Library Association’s letter-themed games list, from which I learned of the upcoming Curios: Albrecht Manor: “an epistolary horror mystery experience”!\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/0044377-april-is-national-letter-",
+          "publishedOn": "2024-04-11T18:15:08.000Z",
+          "wordCount": 705,
+          "title": "It&#8217;s National Card & Letter Writing Month (🎉), and Metafilter just drew...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/04/diary-comics-dec-6-8",
+          "author": null,
+          "description": "It’s another Thursday Afternoon With Edith, and here are a few more journal comics from back in December, when I was guest-editing this site and gearing up to have a baby!\n\n\n\n\n\n \nTags: comics\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/diary-comics-dec-6-8",
+          "publishedOn": "2024-04-11T17:30:49.000Z",
+          "wordCount": 740,
+          "title": "Diary Comics, Dec. 6-8",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/dec6intro.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/04/what-are-the-odds",
+          "author": null,
+          "description": "Ok, one last post about the total solar eclipse and then I’m done talking about it. (Maybe.)\nThere are so many mind-blowing things about eclipses but the one I can’t stop thinking about is the nearly impossible coincidence that the sun and the moon are the same relative size in the sky. If the moon were a little bit smaller or farther away, we wouldn’t have total eclipses where you can look directly at the sun, see the corona, the sky goes dark, you see a sunset effect all around the horizon, etc. That is some spooky magical shit. Ted Underwood put it this way:\nRandom accident that the moon and sun are the same apparent size here. If we had interstellar tourism, this is the One Thing that everyone would know about the Earth, and when they visited they wouldn’t want to see anything else. “W…",
+          "link": "https://kottke.org/24/04/what-are-the-odds",
+          "publishedOn": "2024-04-11T16:30:00.000Z",
+          "wordCount": 1642,
+          "title": "What Are the Odds?",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/mouser-eclipse-2024.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/04/0044376-it-works-three-men-strand",
+          "author": null,
+          "description": "It works! Three men stranded on a tiny Pacific island for more than a week were rescued after the Coast Guard spotted “HELP” written out on the beach in palm leaves. (A similar rescue from the same island happened in 2020 — “SOS” that time.)\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/0044376-it-works-three-men-strand",
+          "publishedOn": "2024-04-11T15:55:45.000Z",
+          "wordCount": 718,
+          "title": "It works! Three men stranded on a tiny Pacific island for more...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/04/0044368-how-to-be-a-climate",
+          "author": null,
+          "description": "How to Be a Climate Activist Even Though You’re Too Shy to Interrupt Anything. “You want to add your voice to the movement, make ‘good trouble,’ and stand for something for once in your goddamn life, but, unfortunately, you’re an introvert.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/0044368-how-to-be-a-climate",
+          "publishedOn": "2024-04-11T15:20:31.000Z",
+          "wordCount": 1292,
+          "title": "How to Be a Climate Activist Even Though You&#8217;re Too Shy to...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/04/0044369-im-the-draft-list-at",
+          "author": null,
+          "description": "I’m the Draft List at This Brewery and No, You Can’t Have a Light Beer. “Sure, we made a ‘normal’ IPA once. But then we were like, why make a beer that’s enjoyable to drink when we could make a beer that’s not?”\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/0044369-im-the-draft-list-at",
+          "publishedOn": "2024-04-11T14:50:38.000Z",
+          "wordCount": 774,
+          "title": "I&#8217;m the Draft List at This Brewery and No, You Can&#8217;t Have...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/04/the-pyramids-of-giza-shrouded-in-mist",
+          "author": null,
+          "description": "Wonderful shots of the pyramids of Giza by Egyptian photographer Karim Amr. From a caption on one of his photos three years ago:\nI’m a 21 years old photographer you can see a lot of photos I share at the pyramids cause I just live near the pyramids so it’s easy for me to go and shoot there. I started doing photography to share my thoughts with others it’s how I express my feelings it’s also my escape from life. Life is tough and not easy for some of us and you got to find your place in this world.\n\n\nPrints of his photos are available and you can follow his work on Instagram.\nTags: Egypt · Karim Amr · photography\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/the-pyramids-of-giza-shrouded-in-mist",
+          "publishedOn": "2024-04-11T14:25:57.000Z",
+          "wordCount": 792,
+          "title": "The Pyramids of Giza, Shrouded in Mist",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/karim-amr-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/04/0044373-capricious-social-media-a",
+          "author": null,
+          "description": "Capricious social media algorithms are modern-day Greek gods: “Oh my crops failed and my daughter died so that means Athena is angry — maybe??! … Just let us see posts from people we follow instead of telling us we’re praying to the wrong god.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/0044373-capricious-social-media-a",
+          "publishedOn": "2024-04-11T13:58:57.000Z",
+          "wordCount": 713,
+          "title": "Capricious social media algorithms are modern-day Greek gods: &#8220;Oh my crops failed...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/04/0044370-men-who-say-they-are",
+          "author": null,
+          "description": "“Men who say they are pro-life and want to reduce or eliminate abortion are lying. They don’t care about abortion at all, they simply want to control women.” (BTW, I got a vasectomy, it’s great, would recommend, A+.)\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/0044370-men-who-say-they-are",
+          "publishedOn": "2024-04-11T13:15:39.000Z",
+          "wordCount": 927,
+          "title": "&#8220;Men who say they are pro-life and want to reduce or eliminate...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/24/04/the-function-of-colour-in-factories-schools-hospitals-1930",
           "author": null,
@@ -6146,66 +6386,6 @@
           "wordCount": 622,
           "title": "Brilliant Labs is selling a pair of fully open-source AI glasses called...",
           "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/02/0043961-superb-owl-sunday-viii-a",
-          "author": null,
-          "description": "Superb Owl Sunday VIII. A day late perhaps, but it’s always a good day to look at cool photos of owls.\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/02/0043961-superb-owl-sunday-viii-a",
-          "publishedOn": "2024-02-12T22:34:13.000Z",
-          "wordCount": 541,
-          "title": "Superb Owl Sunday VIII. A day late perhaps, but it&#8217;s always a...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/02/0043957-the-super-mario-bros-them",
-          "author": null,
-          "description": "The Super Mario Bros. theme song played on a bunch of different instruments, including xylophone, glockenspiel, stylophone, and something called the slapophone.\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/02/0043957-the-super-mario-bros-them",
-          "publishedOn": "2024-02-12T17:20:49.000Z",
-          "wordCount": 543,
-          "title": "The Super Mario Bros. theme song played on a bunch of different...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/02/0043953-2024-begins-with-more-rec",
-          "author": null,
-          "description": "2024 Begins With More Record Heat Worldwide. The daily sea temperatures graph is breaking my brain a little bit.\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/02/0043953-2024-begins-with-more-rec",
-          "publishedOn": "2024-02-12T16:11:17.000Z",
-          "wordCount": 539,
-          "title": "2024 Begins With More Record Heat Worldwide. The daily sea temperatures graph...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/02/0043960-beyonce-is-releasing-a-ne",
-          "author": null,
-          "description": "Beyonce is releasing a new album on March 29 called Act II. From the sound of the first two tracks, it sounds like a country album.\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/02/0043960-beyonce-is-releasing-a-ne",
-          "publishedOn": "2024-02-12T04:32:00.000Z",
-          "wordCount": 600,
-          "title": "Beyonce is releasing a new album on March 29 called Act II....",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/02/0043958-kelvin-kiptum-the-maratho",
-          "author": null,
-          "description": "Kelvin Kiptum, the marathon world record holder, has died at the age of 24.\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/02/0043958-kelvin-kiptum-the-maratho",
-          "publishedOn": "2024-02-12T04:06:41.000Z",
-          "wordCount": 637,
-          "title": "Kelvin Kiptum, the marathon world record holder, has died at the age...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/02/the-superb-owl-trailers",
-          "author": null,
-          "description": "Here are all the cool new movie trailers that they played during The Big Game™. Or, the ones that I give a shit about anyway. First up, Deadpool and Wolverine:\n\nDid I even see the second Deadpool movie? Does it matter? I’ll see this one. Next: Kingdom of the Planet of the Apes.\n\nApes in charge, running down the humans? I’m in. There’s also Despicable Me 4 (a franchise I like more than I care to admit), The Fall Guy (based on the 80s TV show I very much didn’t watch; starring, somehow, Ryan Gosling & Emily Blunt — I hope this is a pleasant surprise), and Twisters (the Twister sequel no one asked for).\nTags: Deadpool · movies · Planet of the Apes · trailers · video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/02/the-superb-owl-trailers",
-          "publishedOn": "2024-02-12T02:13:18.000Z",
-          "wordCount": 710,
-          "title": "The Superb Owl Trailers",
-          "imageUrl": "https://i.ytimg.com/vi/xW-zNOT4P1A/sddefault.jpg"
         }
       ]
     },
