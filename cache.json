@@ -389,16 +389,6 @@
           "wordCount": 219,
           "title": "Crossword Constructors",
           "imageUrl": "https://imgs.xkcd.com/comics/crossword_constructors_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2895/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/treasure_chests.png\" title=\"[earlier] &quot;Your vintage-style handmade chest business is struggling. But I have a plan.&quot;\" alt=\"[earlier] &quot;Your vintage-style handmade chest business is struggling. But I have a plan.&quot;\" />",
-          "link": "https://xkcd.com/2895/",
-          "publishedOn": "2024-02-16T00:00:00.000Z",
-          "wordCount": 219,
-          "title": "Treasure Chests",
-          "imageUrl": "https://imgs.xkcd.com/comics/treasure_chests_2x.png"
         }
       ]
     },
@@ -732,6 +722,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/747850551725899776",
+          "author": null,
+          "description": "text-mode:\nnan orazu",
+          "link": "https://text-mode.tumblr.com/post/747850551725899776",
+          "publishedOn": "2024-04-15T18:31:03.000Z",
+          "wordCount": 982,
+          "title": "text-mode:\n\nnan orazu",
+          "imageUrl": "https://64.media.tumblr.com/48d110e696d229f177cd33567f347edf/tumblr_n3nk0hzqJp1rpiyaso1_540.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/747759938266447872",
           "author": null,
@@ -1341,16 +1341,6 @@
           "wordCount": 976,
           "title": "text-mode:\n\nTeletex pages from Channel 4 and ITV (1995), via.",
           "imageUrl": "https://64.media.tumblr.com/126555fde8315548623762b0b431b523/tumblr_n8y9u0djmR1rpiyaso5_400.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/742418497381007360",
-          "author": null,
-          "description": "text-mode:\nA programming language that is based on Arabic instead of ASCII.\n قلب is a programming language exploring the role of human culture in coding. Code is written entirely in Arabic, highlighting cultural biases of computer science and challenging the assumptions we make about programming.\nMore at قلب - Ramsey Nasser and check the video.",
-          "link": "https://text-mode.tumblr.com/post/742418497381007360",
-          "publishedOn": "2024-02-15T19:30:52.000Z",
-          "wordCount": 1090,
-          "title": "text-mode:\n\nA programming language that is based on Arabic...",
-          "imageUrl": "https://64.media.tumblr.com/a65f254e31212e97bb0ac8be20351c99/tumblr_n4llbckpOd1tt4lpio1_640.png"
         }
       ]
     },
@@ -1359,6 +1349,16 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=74558",
+          "author": "Aron Yohannes",
+          "description": "At Mozilla, we know we can’t create a better future alone, that is why each year we will be highlighting the work of 25 digital leaders using technology to amplify voices, effect change, and build new technologies globally through our Rise 25 Awards. These storytellers, innovators, activists, advocates, builders and artists are helping make the internet more diverse, […]\nThe post Marek Tuszynski reflects on curating thought-provoking experiences at the intersection of technology and activism appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/internet-culture/marek-tuszynski-rise25-tactical-tech-mozilla/",
+          "publishedOn": "2024-04-15T14:05:00.000Z",
+          "wordCount": 3764,
+          "title": "Marek Tuszynski reflects on curating thought-provoking experiences at the intersection of technology and activism",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2024/04/moz_Rise25Winners_1200x800_Marek-Tuszynski.png"
+        },
         {
           "id": "https://blog.mozilla.org/?p=74443",
           "author": "Aron Yohannes",
@@ -1508,16 +1508,6 @@
           "wordCount": 1756,
           "title": "Next steps for Mozilla and Trustworthy AI",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/03/moz_blog_header_pattern_1920x1080_03-1080x720.jpg"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=74251",
-          "author": "Aron Yohannes",
-          "description": "At Mozilla, we know  we can’t create a better future alone, that is why each year we will be highlighting the work of 25 digital leaders using technology to amplify voices, effect change, and build new technologies globally through our Rise 25 Awards. These storytellers, innovators, activists, advocates. builders and artists are helping make the internet more […]\nThe post Activist Chris Smalls reflects on taking on Amazon, forming worker unions and digital activism in 2024 appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/internet-culture/chris-smalls-rise25-amazon-labor-union-activism/",
-          "publishedOn": "2024-02-15T17:44:34.000Z",
-          "wordCount": 3031,
-          "title": "Activist Chris Smalls reflects on taking on Amazon, forming worker unions and digital activism in 2024",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2024/02/Mozilla_rise25_Chris-Smalls_1-1280x853.jpg"
         }
       ]
     },
@@ -1575,16 +1565,6 @@
           "wordCount": 1566,
           "title": "How HEAD works in git",
           "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2024/02/16/popular-git-config-options/",
-          "author": null,
-          "description": "Hello! I always wish that command line tools came with data about how popular their various options are, like:\n“basically nobody uses this one”\n“80% of people use this, probably take a look”\n“this one has 6 possible values but people only really use these 2 in practice”\nSo I asked about people’s favourite git config options on Mastodon:\nwhat are your favourite git config options to set? Right now I only really\nhave git config push.autosetupremote true and git config\ninit.defaultBranch main set in my ~/.gitconfig, curious about what other\npeople set\nAs usual I got a TON of great answers and learned about a bunch of very popular\ngit config options that I’d never heard of.\nI’m going to list the options, starting with (very roughly) the most popular\nones. Here’s a table of contents:\npull.ff on…",
-          "link": "https://jvns.ca/blog/2024/02/16/popular-git-config-options/",
-          "publishedOn": "2024-02-16T10:42:27.000Z",
-          "wordCount": 2365,
-          "title": "Popular git config options",
-          "imageUrl": null
         }
       ]
     },
@@ -1593,6 +1573,16 @@
       "feedUrl": "https://www.joshwcomeau.com/rss.xml",
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
+        {
+          "id": "https://www.joshwcomeau.com/react/css-in-rsc/",
+          "author": "Josh W. Comeau",
+          "description": "You can’t make an omelette without cracking a few eggs, and when the core React team unveiled their vision for the future of React, some of my favourite libraries got scrambled 😅. In this blog post, we’re going to explore the compatibility issues between React Server Components and CSS-in-JS libraries like styled-components. You’ll understand what the issue is, what the options are, and what’s on the horizon.",
+          "link": "https://www.joshwcomeau.com/react/css-in-rsc/",
+          "publishedOn": "2024-04-15T11:00:00.000Z",
+          "wordCount": 11078,
+          "title": "CSS in React Server Components",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-css-in-rsc.png"
+        },
         {
           "id": "https://www.joshwcomeau.com/blog/the-end-of-frontend-development/",
           "author": "Josh W. Comeau",
@@ -1727,6 +1717,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=8513",
+          "author": "Cory Doctorow",
+          "description": "Today's links How to screw up a whistleblower law: We want kingpins, not powerless underlings. Hey look at this: Delights to delectate. This day in history: 2004, 2009, 2014, 2019, 2023 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. How to screw up a whistleblower law (permalink) Corporate crime is notoriously underpoliced and underprosecuted. Mostly, that's because we just choose not to do anything about it. American corporations commit crimes at 20X the rate of real humans, and their crimes are far worse than any crime committed by a human, but they are almost never prosecuted: https://pluralistic.net/2021/10/12/no-criminals-n…",
+          "link": "https://pluralistic.net/2024/04/15/whistleblown/",
+          "publishedOn": "2024-04-15T13:18:44.000Z",
+          "wordCount": 2853,
+          "title": "Pluralistic: How to screw up a whistleblower law (15 Apr 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=8500",
           "author": "Cory Doctorow",
@@ -2191,21 +2191,6 @@
           "wordCount": 4379,
           "title": "Pluralistic: Come see me on tour; How America's oligarchs lull us with the be-your-own-boss fairy tale (16 Feb 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=7996",
-          "author": "Cory Doctorow",
-          "description": "Today's links How a billionaire's mediocre pump-and-dump \"book\" became a \"bestseller\": A convincer to prolong the bezzle. Hey look at this: Delights to delectate. This day in history: 2009, 2014, 2019, 2023 Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading How a billionaire's mediocre pump-and-dump \"book\" became a \"bestseller\" (permalink) I was on a book tour the day my editor called me and told me, \"From now on, your middle name is 'Cory.'\" \"That's weird. Why?\" \"Because from now on, your first name is 'New York Times Bestselling Author.'\" That was how I found out I'd hit the NYT list for the first time. It was a huge moment – just as it has been each subsequent time it's happened. First, because of how it warmed my little ego, but second…",
-          "link": "https://pluralistic.net/2024/02/15/your-new-first-name/",
-          "publishedOn": "2024-02-15T21:07:57.000Z",
-          "wordCount": 4329,
-          "title": "Pluralistic: How a billionaire's mediocre pump-and-dump \"book\" became a \"bestseller\" (15 Feb 2024)",
-          "enclosure": {
-            "url": "https://archive.org/download/Cory_Doctorow_Podcast_459/Cory_Doctorow_Podcast_459_-_The_Bezzle_Read_By_Wil_Wheaton.mp3",
-            "length": "0",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -2237,6 +2222,136 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "http://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/04/0044398-lessons-from-a-first-time",
+          "author": null,
+          "description": "Lessons from a First Time EV Owner. This jibes with my experience. Home charging is key, cold weather is tough to deal with, and long-range trips can be challenging. But you get used to it and I don’t ever want to own an ICE car again.\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/0044398-lessons-from-a-first-time",
+          "publishedOn": "2024-04-15T22:12:20.000Z",
+          "wordCount": 691,
+          "title": "Lessons from a First Time EV Owner. This jibes with my experience....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/04/90-women-photographers-celebrate-jane-goodalls-90th-birthday",
+          "author": null,
+          "description": "In honor of Jane Goodall’s 90th birthday, Vital Impacts organized a fundraiser selling 90 prints from 90 women photographers. The collection includes some of Goodall’s own work and 60% of the proceeds to the Jane Goodall Institute.\nI’ve selected a few of my favorites above — photos by (from top to bottom) Hannah Le Leu, Jane Goodall, Tiina Itkonen, and Luisa Dörr (see also Female Bolivian Skateboarders Shred in Traditional Dress). (via colossal)\nTags: Jane Goodall · photography\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/90-women-photographers-celebrate-jane-goodalls-90th-birthday",
+          "publishedOn": "2024-04-15T21:05:27.000Z",
+          "wordCount": 708,
+          "title": "90 Women Photographers Celebrate Jane Goodall&#8217;s 90th Birthday",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/jgood-90-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/04/0044404-new-favorite-vocabulary-w",
+          "author": null,
+          "description": "New favorite vocabulary word: wankpanzer (basically, “tank for jerks”). “A pointlessly large and overpowered 4x4 vehicle, usually purchased as a boost to driver’s ego who is likely to have some kind of inferiority complex.” Like the Cybertruck.\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/0044404-new-favorite-vocabulary-w",
+          "publishedOn": "2024-04-15T20:11:12.000Z",
+          "wordCount": 683,
+          "title": "New favorite vocabulary word: wankpanzer (basically, &#8220;tank for jerks&#8221;). &#8220;A pointlessly large...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/04/0044408-may-thy-knife-chop-and",
+          "author": null,
+          "description": "“May thy knife chop and shatter.” A quick update on Choppke’s (my chopped sandwich restaurant chain): a new ad that features one of our snazzy looking hoodies.\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/0044408-may-thy-knife-chop-and",
+          "publishedOn": "2024-04-15T19:11:32.000Z",
+          "wordCount": 716,
+          "title": "&#8220;May thy knife chop and shatter.&#8221; A quick update on Choppke&#8217;s (my...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/04/high-diving-penguin-chicks",
+          "author": null,
+          "description": "When emperor penguin chicks go for their first swim, they usually jump a few feet into the sea. The group of chicks in the video National Geographic video above decided to leap off of a 50-foot ice cliff for their first trip out.\nIt’s not unusual for emperor penguin chicks to march toward the ocean at a young age, even when they’re just 6 months old. They jump just 2 feet off the ice to take their first swim, according to National Geographic. \nOthers have jumped from a much a higher altitude, heading to “sheer ice cliffs” knowingly to make the first jump. Satellites have recorded the death-defying jumps since 2009, but what happens next has remained a mystery until now.\n\n\nHaving watched the video, “leap” and “jump” are charitable descriptions of what the penguins are doing here. “Flop”, “plop”, and “fall” might be better…penguins are all kinds of cool, but no one has ever accused them of being graceful out of the water.\nTags: Antarctica · penguins · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/high-diving-penguin-chicks",
+          "publishedOn": "2024-04-15T18:32:46.000Z",
+          "wordCount": 788,
+          "title": "High-Diving Penguin Chicks",
+          "imageUrl": "https://i.ytimg.com/vi/4PwDFddpo4c/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/04/0044399-love-this-letterboxd-movi",
+          "author": null,
+          "description": "Love this Letterboxd movie list title: “Definitely there was love, oh but the circumstances”. Films include Portrait of a Lady on Fire, Past Lives, Normal People, Brokeback Mountain, Titanic, and Lost in Translation.\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/0044399-love-this-letterboxd-movi",
+          "publishedOn": "2024-04-15T17:41:35.000Z",
+          "wordCount": 685,
+          "title": "Love this Letterboxd movie list title: &#8220;Definitely there was love, oh but...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/04/0044402-us-courts-legislatures-ar",
+          "author": null,
+          "description": "US courts & legislatures are giving women the curse of time travel into the past. “Can you hear ragtime music? Can you see the stars without satellite interference? / No, everything is the same, except, for some reason, the laws governing my body.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/0044402-us-courts-legislatures-ar",
+          "publishedOn": "2024-04-15T16:53:17.000Z",
+          "wordCount": 691,
+          "title": "US courts & legislatures are giving women the curse of time travel...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/04/end-stage-poverty-is-killing-people-in-safety-net-free-america",
+          "author": null,
+          "description": "Many Patients Don’t Survive End-Stage Poverty by Dr. Lindsay Ryan is a great/upsetting piece about how the poverty many Americans are subjected to in America is killing them. Many people die here in the world’s richest country not because they are sick but because they are poor and our systems of government, justice, business, and health care don’t do enough to help them (or, more cynically and perhaps truthfully, actively work against helping them).\nThis is one of those pieces where I want to quote every single paragraph, but I’ll start with this one (bold mine):\nSafety-net hospitals and clinics care for a population heavily skewed toward the poor, recent immigrants and people of color. The budgets of these places are forever tight. And anyone who works in them could tell you that illness…",
+          "link": "https://kottke.org/24/04/end-stage-poverty-is-killing-people-in-safety-net-free-america",
+          "publishedOn": "2024-04-15T16:13:42.000Z",
+          "wordCount": 1128,
+          "title": "End-Stage Poverty Is Killing People in Safety Net-Free America",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/04/0044393-always-a-good-day-to",
+          "author": null,
+          "description": "Always a good day to read Daniel Radcliffe’s open letter to J.K. Rowling on her anti-trans nonsense. “It’s clear that we need to do more to support transgender and nonbinary people, not invalidate their identities, and not cause further harm.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/0044393-always-a-good-day-to",
+          "publishedOn": "2024-04-15T15:39:07.000Z",
+          "wordCount": 722,
+          "title": "Always a good day to read Daniel Radcliffe&#8217;s open letter to J.K....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/04/0044394-a-pareto-analysis-of-the",
+          "author": null,
+          "description": "A Pareto analysis of the best driver/kart build you can drive in Mario Kart 8. “The Pareto efficiency is an objective criteria to filter out suboptimal choices, but you still need to make up your final decision.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/0044394-a-pareto-analysis-of-the",
+          "publishedOn": "2024-04-15T15:02:01.000Z",
+          "wordCount": 814,
+          "title": "A Pareto analysis of the best driver/kart build you can drive in...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/04/0044380-as-optical-illusions-go-t",
+          "author": null,
+          "description": "As optical illusions go, this is pretty good.\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/0044380-as-optical-illusions-go-t",
+          "publishedOn": "2024-04-15T14:33:45.000Z",
+          "wordCount": 638,
+          "title": "As optical illusions go, this is pretty good....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/04/papyrus-2-a-bold-new-look-for-avatar",
+          "author": null,
+          "description": "Ryan Gosling was on Saturday Night Live this weekend and they did a sequel to one of my favorite SNL sketches (which is completely dorky in a design nerd sort of way) ever: Papyrus. Behold, Papyrus 2:\n\nAvatar spawned worlds, right? Every little leaf of every little flower, every little eyelash of every little creature: thoroughly thought out. But the logo: it’s Papyrus, in bold. Nobody cares. Does James Cameron care? I don’t think so.\n\n\n \nTags: Avatar · design · movies · Ryan Gosling · Saturday Night Live · TV · typography · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/papyrus-2-a-bold-new-look-for-avatar",
+          "publishedOn": "2024-04-15T13:59:38.000Z",
+          "wordCount": 830,
+          "title": "Papyrus 2: A Bold New Look for Avatar",
+          "imageUrl": "https://i.ytimg.com/vi/Q8PdffUfoF0/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/04/0044390-so-kottkedotorg-had-some-",
+          "author": null,
+          "description": "So kottke[dot]org had some significant downtime this weekend but it seems to be humming along nicely now. In celebration, we’re not planning on having any significant downtime today! 🤞\n\n\n\n \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/04/0044390-so-kottkedotorg-had-some-",
+          "publishedOn": "2024-04-15T13:08:10.000Z",
+          "wordCount": 662,
+          "title": "So kottke[dot]org had some significant downtime this weekend but it seems to...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/24/04/proudly-second-best",
           "author": null,
@@ -6076,96 +6191,6 @@
           "wordCount": 962,
           "title": "The Age of Realistic AI-Generated Video Is Here",
           "imageUrl": "https://i.ytimg.com/vi/ZhDg0aHlhYQ/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/02/crowdsourced-time-lapses-that-help-monitor-the-environment",
-          "author": null,
-          "description": "This is a cool thing I had not seen before: Chronolog. Since 2017, they’ve been helping organizations document environments over time by compiling photos taken by visitors, who then get sent information about the area they’ve visited. Here’s how it works:\n\nChanges in our environment are difficult to see and understand because they happen gradually, but long term monitoring projects are expensive and complex. Chronolog solves this problem by connecting communities with land stewards to create crowd-sourced time lapses of important natural areas.\nChronolog’s mission is twofold: First, to engage people with nature in an interactive new way. Second, to keep a record of phenological change for scientific use. By making environmental conservation a collaborative activity, people become interested in participating and compelled by the findings.\n\n\n        \n\n \nTags: environment · time lapse · video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/02/crowdsourced-time-lapses-that-help-monitor-the-environment",
-          "publishedOn": "2024-02-15T21:48:51.000Z",
-          "wordCount": 655,
-          "title": "Crowdsourced Time Lapses That Help Monitor the Environment",
-          "imageUrl": "https://i.ytimg.com/vi/Uolbdwa_Pq4/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/02/0043986-rebecca-solnit-writes-for",
-          "author": null,
-          "description": "Rebecca Solnit writes for the London Review of Books about what’s happened to San Francisco since it’s been “fully annexed” by Silicon Valley.\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/02/0043986-rebecca-solnit-writes-for",
-          "publishedOn": "2024-02-15T20:35:58.000Z",
-          "wordCount": 543,
-          "title": "Rebecca Solnit writes for the London Review of Books about what&#8217;s happened...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/02/0043985-for-the-first-few-decades",
-          "author": null,
-          "description": "For the first few decades of the web, the tacit agreement was that web crawlers could take data from sites in exchange for traffic back. But now, are AI crawlers (incl. Google) taking too much and offering too little in return?\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/02/0043985-for-the-first-few-decades",
-          "publishedOn": "2024-02-15T19:46:37.000Z",
-          "wordCount": 562,
-          "title": "For the first few decades of the web, the tacit agreement was...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/02/0043987-anyone-who-sends-a-sase",
-          "author": null,
-          "description": "Anyone who sends a SASE to a particular Colorado address can get a teaspoon of sourdough starter that has been kept going continuously since 1847. Bonus: a website design that hasn’t changed since 1996.\n\n         (via buttondown.email) \n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/02/0043987-anyone-who-sends-a-sase",
-          "publishedOn": "2024-02-15T19:00:48.000Z",
-          "wordCount": 617,
-          "title": "Anyone who sends a SASE to a particular Colorado address can get...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/02/chasing-impossible-dreams",
-          "author": null,
-          "description": "YouTuber Casey Neistat has achieved a lot in life, including several “impossible goals” he set for himself. But one of his longest-running goals seemed to be slipping out of his reach and, well, I don’t want to spoil what happens.\nI will say however that I think it’s good and healthy to let go of your goals and dreams if they do not serve the person you have become since setting them. I’ve never been much of a goal person, but I’ve definitely had thoughts about directions I’ve wanted to head or things I’d like to have had happen that just aren’t relevant for what’s important to me right now. If it’s not working for you, chalk it up to sunk cost and let it go.\nI got this link via Andy, who said, “I allow myself one link to a Casey Neistat video every ten years, and this is that video.” Lol.\nTags: Casey Neistat · running · sports · video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/02/chasing-impossible-dreams",
-          "publishedOn": "2024-02-15T18:20:27.000Z",
-          "wordCount": 1076,
-          "title": "Chasing Impossible Dreams",
-          "imageUrl": "https://i.ytimg.com/vi/9IiTdSnmS7E/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/02/0043983-parisian-police-were-goin",
-          "author": null,
-          "description": "Parisian police were going to close the bouquinistes (booksellers) along the Seine for the Olympics but Macron nixed that plan. In their defense, the booksellers quoted Camus: “Everything that degrades culture shortens the paths that lead to servitude.”\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/02/0043983-parisian-police-were-goin",
-          "publishedOn": "2024-02-15T17:35:01.000Z",
-          "wordCount": 570,
-          "title": "Parisian police were going to close the bouquinistes (booksellers) along the Seine...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/02/0043981-the-13-worst-bike-lanes",
-          "author": null,
-          "description": "The 13 Worst Bike Lanes in the World. Includes examples of “paint as bike lane” and “car charging cables stretching across bike lane” and my fave: “trees in the middle of the bike lane”.\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/02/0043981-the-13-worst-bike-lanes",
-          "publishedOn": "2024-02-15T16:46:20.000Z",
-          "wordCount": 555,
-          "title": "The 13 Worst Bike Lanes in the World. Includes examples of &#8220;paint...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/02/0043979-i-am-a-relative-nyt",
-          "author": null,
-          "description": "I am a relative NYT crossword n00b, so I just found out about XWord Info and the wealth of statistics available there — it’s like sabermetrics for crosswords. Word nerds, I’m sure there are other CW resources like this out there…share your faves?\n\n        \n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/02/0043979-i-am-a-relative-nyt",
-          "publishedOn": "2024-02-15T15:59:10.000Z",
-          "wordCount": 951,
-          "title": "I am a relative NYT crossword n00b, so I just found out...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/02/love-stamps-love-stamps",
-          "author": null,
-          "description": "A day late, but there’s room for love every day here at kottke.org: from the Portland Stamp Company, a history of LOVE stamps issued by the US Postal Service from 1973 to the present.\nThere are some heavy hitters amongst the designers of these stamps, including Robert Indiana, Sister Corita Kent, Jessica Hische, and Louise Fili. In looking at the designs over the years, it seems like things got noticeably pinker and redder over the past 10-12 years…I wonder what that’s about?\nAlso, “Chief Perforation Officer”. 😂\nTags: design · stamps · USPS\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/02/love-stamps-love-stamps",
-          "publishedOn": "2024-02-15T15:24:06.000Z",
-          "wordCount": 677,
-          "title": "Love Stamps? Love Stamps!",
-          "imageUrl": "https://kottke.org/plus/misc/images/love-stamps.jpg"
         }
       ]
     },
