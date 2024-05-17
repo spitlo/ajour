@@ -54,26 +54,6 @@
           "wordCount": null,
           "title": "Dev Digest 108 – Git off my cloud!",
           "imageUrl": null
-        },
-        {
-          "id": "https://christianheilmann.com/?p=8079",
-          "author": "Chris Heilmann",
-          "description": "VS Code now has port forwarding. If you want to share what you are working on with the world, open folder in terminal, run your server and forward the port. Set it to public and Bob’s your uncle! This is great for some testing and showing people what you do, but of course should not […]",
-          "link": "https://christianheilmann.com/2024/03/18/giving-your-app-a-temporary-public-url-with-vs-code-port-forwarding/",
-          "publishedOn": "2024-03-18T09:47:03.000Z",
-          "wordCount": null,
-          "title": "Giving your app a temporary public URL with VS Code port forwarding",
-          "imageUrl": null
-        },
-        {
-          "id": "https://christianheilmann.com/?p=8090",
-          "author": "Chris Heilmann",
-          "description": "Last Friday, I released the 107th edition of WeAreDevelopers DevDigest. It celebrated the 35th birthday of the World Wide Web, we had a video of me interviewing the founders of Daytona about going open source, we covered the news around Devin, the first AI software engineer and went to space in a Yugo. All strapped […]",
-          "link": "https://christianheilmann.com/2024/03/18/dev-digest-107-and-the-osscar-goes-to/",
-          "publishedOn": "2024-03-18T09:16:27.000Z",
-          "wordCount": null,
-          "title": "Dev Digest 107 – and the OSScar goes to…",
-          "imageUrl": null
         }
       ]
     },
@@ -399,16 +379,6 @@
           "wordCount": 210,
           "title": "Moon Landing Mission Profiles",
           "imageUrl": "https://imgs.xkcd.com/comics/moon_landing_mission_profiles_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2908/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/moon_armor_index.png\" title=\"Astronomers are a little unsure of the applicability of this index, but NASA's Planetary Protection Officer is all in favor.\" alt=\"Astronomers are a little unsure of the applicability of this index, but NASA's Planetary Protection Officer is all in favor.\" />",
-          "link": "https://xkcd.com/2908/",
-          "publishedOn": "2024-03-18T00:00:00.000Z",
-          "wordCount": 219,
-          "title": "Moon Armor Index",
-          "imageUrl": "https://imgs.xkcd.com/comics/moon_armor_index_2x.png"
         }
       ]
     },
@@ -707,23 +677,7 @@
       "title": "LOW←TECH MAGAZINE English",
       "feedUrl": "https://feeds2.feedburner.com/typepad/krisdedecker/lowtechmagazineenglish",
       "siteUrl": "https://solar.lowtechmagazine.com/posts/",
-      "articles": [
-        {
-          "id": "https://solar.lowtechmagazine.com/2024/03/how-to-escape-from-the-iron-age/",
-          "author": null,
-          "description": "Image: Steel rebar construction for the concrete foundation of a wind turbine in Gilliam County, US. Image by Goose Chap, Wikimedia Commons (CC BY-SA 4.0) \n\n\n\nTrapped in the Iron Age\nIn 1836, Danish antiquarian and curator Christian Jürgensen Thomsen distinguished three prehistorical eras based on the dominant materials used for weapons and cutting implements: the Stone Age, the Bronze Age, and the Iron Age.1 Thomsen’s classification refers to the past, but according to his criteria, we have never evolved beyond the Iron Age. Even in the 21st century, iron remains the dominant material, not just for weapons and cutting implements but for about every modern technology.\nWe now use most iron in the form of steel. However, according to Thomsen’s criteria, we cannot speak of a “Steel Age.” Firs…",
-          "link": "https://solar.lowtechmagazine.com/2024/03/how-to-escape-from-the-iron-age/",
-          "publishedOn": "2024-03-18T00:00:00.000Z",
-          "wordCount": 5873,
-          "title": "How to Escape From the Iron Age?",
-          "enclosure": {
-            "url": "https://solar.lowtechmagazine.com/2024/03/how-to-escape-from-the-iron-age/images/dithers/rebar-foundation-wind-turbine_dithered.png",
-            "type": "image/png",
-            "length": "80981"
-          },
-          "imageUrl": "https://solar.lowtechmagazine.com/2024/03/how-to-escape-from-the-iron-age/images/dithers/rebar-foundation-wind-turbine_dithered.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "esoteric.codes",
@@ -735,13 +689,34 @@
       "title": "Lea Verou’s blog",
       "feedUrl": "https://feeds.feedburner.com/leaverou",
       "siteUrl": "https://lea.verou.me/feed.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://lea.verou.me/blog/2024/contrast-color/",
+          "author": null,
+          "description": "Can we emulate the upcoming CSS contrast-color() function via CSS features that have already widely shipped?\nAnd if so, what are the tradeoffs involved and how to best balance them?\nRelative Colors\nOut of all the CSS features I have designed,\nRelative Colors aka Relative Color Syntax (RCS) is definitely among the ones I’m most proud of.\nIn a nutshell, they allow CSS authors to derive a new color from an existing color value by doing arbitrary math on color components\nin any supported color space:\n--color-lighter: hsl(from var(--color) h s calc(l * 1.2));\n--color-lighterer: oklch(from var(--color) calc(l + 0.2) c h);\n--color-alpha-50: oklab(from var(--color) l a b / 50%);\n\nThe elevator pitch was that by allowing lower level operations they provide authors flexibility on how to derive color …",
+          "link": "https://lea.verou.me/blog/2024/contrast-color/",
+          "publishedOn": "2024-05-16T17:48:20.000Z",
+          "wordCount": 3410,
+          "title": "On compliance vs readability: Generating text colors with CSS",
+          "imageUrl": "https://lea.verou.me/blog/2024/contrast-color/images/demo.png"
+        }
+      ]
     },
     {
       "title": "TEXT-MODE",
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/750659035146108928",
+          "author": null,
+          "description": "text-mode:\nIllustration from teleprinter novel Informed Sources by Willard S. Bain (1967)",
+          "link": "https://text-mode.tumblr.com/post/750659035146108928",
+          "publishedOn": "2024-05-16T18:30:42.000Z",
+          "wordCount": 1012,
+          "title": "text-mode:\n\nIllustration from teleprinter novel Informed Sources...",
+          "imageUrl": "https://64.media.tumblr.com/7c64b040617d366d677dbdf8c511b231/tumblr_n4fhr2nuQH1rpiyaso1_1280.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/750568453130403840",
           "author": null,
@@ -1341,16 +1316,6 @@
           "wordCount": 961,
           "title": "text-mode:\n\nPlayNET - a mid-1980’s online service for the...",
           "imageUrl": "https://64.media.tumblr.com/fad5a9fed3fb11a9059edd4a996e2d39/tumblr_nb188ltk1y1rpiyaso3_1280.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/745227022994948096",
-          "author": null,
-          "description": "text-mode:\nIBM building, Honolulu. By Vladimir Ossipoff, 1962",
-          "link": "https://text-mode.tumblr.com/post/745227022994948096",
-          "publishedOn": "2024-03-17T19:31:11.000Z",
-          "wordCount": 983,
-          "title": "text-mode:\n\nIBM building, Honolulu. By Vladimir Ossipoff, 1962",
-          "imageUrl": "https://64.media.tumblr.com/509ed62d1ef059051fa83a48e0a50a57/tumblr_n8rq9lWP8D1rpiyaso1_1280.jpg"
         }
       ]
     },
@@ -1747,6 +1712,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=8729",
+          "author": "Cory Doctorow",
+          "description": "Today's links Utah's getting some of America's best broadband: Public goods for the win. Hey look at this: Delights to delectate. This day in history: 2009, 2014, 2019, 2023 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Utah's getting some of America's best broadband (permalink) Residents of 21 cities in Utah have access to some of the fastest, most competitively priced broadband in the country, at speeds up to 10gb/s and prices as low as $75/month. It's uncapped, and the connections are symmetrical: perfect for uploading and downloading. And it's all thanks to the government. This broadband service is, of course, delivered via…",
+          "link": "https://pluralistic.net/2024/05/16/symmetrical-10gb-for-119/",
+          "publishedOn": "2024-05-16T14:18:24.000Z",
+          "wordCount": 3963,
+          "title": "Pluralistic: Utah's getting some of America's best broadband (16 May 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=8716",
           "author": "Cory Doctorow",
@@ -2236,8 +2211,108 @@
     {
       "title": "kottke.org",
       "feedUrl": "https://feeds.kottke.org/main",
-      "siteUrl": "http://kottke.org/",
+      "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/05/0044620-in-case-anyone-else-is",
+          "author": null,
+          "description": "In case anyone else is on a bedside lamp acquisition journey, I got some ideas out of this Strategist post, as well as from this Architectural Digest roundup.\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/05/0044620-in-case-anyone-else-is",
+          "publishedOn": "2024-05-16T21:00:34.000Z",
+          "wordCount": 941,
+          "title": "In case anyone else is on a bedside lamp acquisition journey, I...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/05/strange-side-effect-of-parenting",
+          "author": null,
+          "description": "The other day while singing to my daughter, I realized that I can, in fact, sing better than I used to. I think the sheer amount of “Wheels on the Bus” and “Row, Row, Row Your Boat” did the trick: I enjoy it more now and feel like I’m hitting more of the right notes. I’m still not “good,” but I’m not bad, and I’m less embarrassed to be caught singing in front of other people. It reminds me of the Terry Gross detail that she took voice lessons not to become a better singer but simply so she could sing along more pleasurably to music she loved. \nHas anyone else been singing anything fun lately? For their kids, or in any other situation? I’ve been singing a lot of Carrie Anne, by The Hollies.\n\nTags: parenting · singing\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/05/strange-side-effect-of-parenting",
+          "publishedOn": "2024-05-16T20:00:27.000Z",
+          "wordCount": 1969,
+          "title": "One Strange Side Effect of Parenting",
+          "imageUrl": "https://i.ytimg.com/vi/sgA4-bLcoN8/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/05/addicted-to-exercise",
+          "author": null,
+          "description": "I Was (Am?) Addicted to Exercise for the newsletter Platonic Love: \nI never deviated from or relaxed my exercise routine; it was sacred. As long as I exercised, my body wouldn’t slip back into its old state. I’d be safe.\n\n\nAnd last week, Rod Gilchrist wrote I Was a Running Addict for The Guardian: \nThe trouble is, once you’ve got the running bug, it’s hard to scale back, even when your body demands it.\n \n\nAnd a few days after that, The Guardian also ran I Thought Fitness Was My Superpower. Then I Realized It Was a Ball and Chain, by Sam Pyrah: \nI tried to push through it – until, suddenly, neither my body nor my brain could find a reason to carry on. I slowed to a walk. I stopped my watch. I sat down and had a little cry, the sweat drying on my back. Then I walked home.\n\n\nThe essays remind me of a concept called Positive Addiction (and a 1985 book of the same name) — the idea that it’s possible to be truly addicted to things that are good for you. I’m an almost-daily runner, and I do understand how it could be described as addiction, although for now I just love it. Maybe a key is that I don’t run especially long distances. And it’s a relatively new habit. But I guess there’s (hopefully) still plenty of time for it to sour. \nTags: exercise · health · personal essays · running\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/05/addicted-to-exercise",
+          "publishedOn": "2024-05-16T19:00:00.000Z",
+          "wordCount": 1063,
+          "title": "Addicted to Exercise?",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/legsrunning2.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/05/0044619-theres-nothing-in-human-d",
+          "author": null,
+          "description": "The 40-hour workweek isn’t “a biological necessity,” per a recent episode of History Unplugged. “In fact, for much of human history, 15 hours … was the standard.” I haven’t listened yet, but 15 hours sounds pleasant.\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/05/0044619-theres-nothing-in-human-d",
+          "publishedOn": "2024-05-16T18:00:49.000Z",
+          "wordCount": 705,
+          "title": "The 40-hour workweek isn&#8217;t &#8220;a biological necessity,&#8221; per a recent episode of...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/05/diary-comics-dec-26-28",
+          "author": null,
+          "description": "It’s another Thursday Afternoon With Edith! In these comics from last winter, our baby was just born. (Previously.)\n\n\n\n\n\n        \n\n         \nTags: diary comics\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/05/diary-comics-dec-26-28",
+          "publishedOn": "2024-05-16T17:15:23.000Z",
+          "wordCount": 804,
+          "title": "Diary Comics, Dec. 26-28",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/dec26intro.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/05/cicadas-and-prime-numbers",
+          "author": null,
+          "description": "You may have heard that this year, for the first time since 1803, two different broods of cicadas will emerge at the same time.\nThis year, though, will be a rare event. Two groups, or “broods,” are waking up during the same season. There will likely be billions, if not trillions, of the insects.\nThere’s the 17-year-group called Brood XIII, which is concentrated in northern Illinois (brown on the map below), and the 13-year clutch, Brood XIX, which will emerge in southern Illinois, Missouri, Arkansas, and throughout the Southeast.\n\n\nYou may have noticed the lengths of both periodicities (13, 17) are prime numbers — and that does not appear to be a coincidence. Scientists haven’t nailed down an exact cause, but one hypothesis has to do with predator cycles:\nAccording to the paleontologist St…",
+          "link": "https://kottke.org/24/05/cicadas-and-prime-numbers",
+          "publishedOn": "2024-05-16T16:30:48.000Z",
+          "wordCount": 965,
+          "title": "Cicadas and Prime Numbers",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/05/0044614-the-movies-that-influence",
+          "author": null,
+          "description": "The movies that influenced Star Wars, from Flash Gordon & Buck Rogers to The Hidden Fortress by Akira Kurosawa to The Searchers & Metropolis.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/05/0044614-the-movies-that-influence",
+          "publishedOn": "2024-05-16T15:32:02.000Z",
+          "wordCount": 725,
+          "title": "The movies that influenced Star Wars, from Flash Gordon & Buck Rogers...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/05/trailer-for-season-two-of-the-rings-of-power",
+          "author": null,
+          "description": "I am apparently one of the few people who really liked the first season of the Lord of the Rings prequel series, The Rings of Power. I mean, it had its rough spots and maybe there was a little too much table-setting, but in general it left me wanting to see what was going to happen next. The trailer for season two just dropped and it looks pretty action-packed and stocked with characters & events that would be familiar to those who have read the main book series. Here’s the synopsis:\nSauron has returned. Cast out by Galadriel, without army or ally, the rising Dark Lord must now rely on his own cunning to rebuild his strength and oversee the creation of the Rings of Power, which will allow him to bind all the peoples of Middle-earth to his sinister will. Building on Season One’s epic scope and ambition, the new season plunges even its most beloved and vulnerable characters into a rising tide of darkness, challenging each to find their place in a world that is increasingly on the brink of calamity. Elves and dwarves, orcs and men, wizards and Harfoots… as friendships are strained and kingdoms begin to fracture, the forces of good will struggle ever more valiantly to hold on to what matters to them most of all… each other.\n\n\nAnd they also released a behind-the-scenes look at the production of season two:\n\nThe second season of The Rings of Power premieres on August 29 on Amazon Prime.\nTags: The Lord of the Rings · The Rings of Power · trailers · TV · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/05/trailer-for-season-two-of-the-rings-of-power",
+          "publishedOn": "2024-05-16T14:55:34.000Z",
+          "wordCount": 1383,
+          "title": "Trailer for Season Two of The Rings of Power",
+          "imageUrl": "https://i.ytimg.com/vi/TCwmXY_f-e0/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/05/0044637-i-was-shot-in-vermont",
+          "author": null,
+          "description": "I Was Shot in Vermont. What if It Had Been in the West Bank? “Why did reporters…interview our mothers and take our portraits when young men my age have been shot at by snipers, detained indefinitely without trial and treated as a statistic?”",
+          "link": "https://kottke.org/24/05/0044637-i-was-shot-in-vermont",
+          "publishedOn": "2024-05-16T14:15:08.000Z",
+          "wordCount": 618,
+          "title": "I Was Shot in Vermont. What if It Had Been in the...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/05/0044633-scope-of-work-is-holding",
+          "author": null,
+          "description": "Scope of Work is holding a contest around the idea of “umarelling”, the act of pausing to observe construction work in progress.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/05/0044633-scope-of-work-is-holding",
+          "publishedOn": "2024-05-16T13:45:10.000Z",
+          "wordCount": 1348,
+          "title": "Scope of Work is holding a contest around the idea of &#8220;umarelling&#8221;,...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/24/05/0044635-pulitzer-prize-in-fiction",
           "author": null,
@@ -6396,16 +6471,6 @@
           "publishedOn": "2024-03-18T14:33:14.000Z",
           "wordCount": 709,
           "title": "Charlie Jane Anders on why she stopped loving Captain Kirk. &#8220;Kirk is...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/03/0044202-nikole-hannah-jones-wrote",
-          "author": null,
-          "description": "Nikole Hannah-Jones wrote a long piece about how conservative groups have “co-opted both the rhetoric of colorblindness and the legal legacy of Black activism not to advance racial progress, but to stall it. Or worse, reverse it.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/03/0044202-nikole-hannah-jones-wrote",
-          "publishedOn": "2024-03-17T17:37:38.000Z",
-          "wordCount": 664,
-          "title": "Nikole Hannah-Jones wrote a long piece about how conservative groups have &#8220;co-opted...",
           "imageUrl": ""
         }
       ]
