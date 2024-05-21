@@ -131,6 +131,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2935/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/ocean_loop.png\" title=\"I can't believe they wouldn't even let me hold a vote among the passengers about whether to try the loop.\" alt=\"I can't believe they wouldn't even let me hold a vote among the passengers about whether to try the loop.\" />",
+          "link": "https://xkcd.com/2935/",
+          "publishedOn": "2024-05-20T00:00:00.000Z",
+          "wordCount": 207,
+          "title": "Ocean Loop",
+          "imageUrl": "https://imgs.xkcd.com/comics/ocean_loop_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2934/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/bloom_filter.png\" title=\"Sometimes, you can tell Bloom filters are the wrong tool for the job, but when they're the right one you can never be sure.\" alt=\"Sometimes, you can tell Bloom filters are the wrong tool for the job, but when they're the right one you can never be sure.\" />",
@@ -369,16 +379,6 @@
           "wordCount": 206,
           "title": "Greenland Size",
           "imageUrl": "https://imgs.xkcd.com/comics/greenland_size_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2910/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/the_wreck_of_the_edmund_fitzgerald.png\" title=\"You know that asteroid that almost destroyed Earth in the 90s? Turns out the whole thing was secretly created by Michael Bay, who then PAID Bruce Willis and Ben Affleck to look heroic while blowing it up!\" alt=\"You know that asteroid that almost destroyed Earth in the 90s? Turns out the whole thing was secretly created by Michael Bay, who then PAID Bruce Willis and Ben Affleck to look heroic while blowing it up!\" />",
-          "link": "https://xkcd.com/2910/",
-          "publishedOn": "2024-03-22T00:00:00.000Z",
-          "wordCount": 214,
-          "title": "The Wreck of the Edmund Fitzgerald",
-          "imageUrl": "https://imgs.xkcd.com/comics/the_wreck_of_the_edmund_fitzgerald_2x.png"
         }
       ]
     },
@@ -707,6 +707,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/751027223904026624",
+          "author": null,
+          "description": "text-mode:\nRain Dance, a demo for Commodore PET made by Bob Carr, 1980. Good stuff!",
+          "link": "https://text-mode.tumblr.com/post/751027223904026624",
+          "publishedOn": "2024-05-20T20:02:54.000Z",
+          "wordCount": 976,
+          "title": "text-mode:\n\nRain Dance, a demo for Commodore PET made by Bob...",
+          "imageUrl": "https://i.ytimg.com/vi/Xc1uDSSUOTw/hqdefault.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/750930878950260736",
           "author": null,
@@ -1306,16 +1316,6 @@
           "wordCount": 1009,
           "title": "text-mode:\n\nχχχ Gradient text-tv / swedish #teletext from TV4...",
           "imageUrl": "https://64.media.tumblr.com/27bf10db41a57bf1a61ef02475c0c3b4/tumblr_nbs88yLQQf1rpiyaso1_1280.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/745589376435814400",
-          "author": null,
-          "description": "text-mode:\n[吉卜力] 1994 歡喜碰碰狸 by NiceCafe @ NewSMTH",
-          "link": "https://text-mode.tumblr.com/post/745589376435814400",
-          "publishedOn": "2024-03-21T19:30:38.000Z",
-          "wordCount": 981,
-          "title": "text-mode:\n\n[吉卜力] 1994 歡喜碰碰狸 by NiceCafe @ NewSMTH",
-          "imageUrl": "https://64.media.tumblr.com/7146eb06e853ad601c913e240e4026b0/tumblr_nb6xziLBVi1rpiyaso1_1280.png"
         }
       ]
     },
@@ -1324,6 +1324,16 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=74917",
+          "author": "Aron Yohannes",
+          "description": "At Mozilla, we know we can’t create a better future alone, that is why each year we will be highlighting the work of 25 digital leaders using technology to amplify voices, effect change, and build new technologies globally through our Rise 25 Awards. These storytellers, innovators, activists, advocates, builders and artists are helping make the internet more diverse, […]\nThe post Sneha Revanur on empowering youth voices in AI, fighting for legislation and combating deepfakes and disinformation appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/internet-culture/sneha-revanur-rise-25-mozilla-tech-policy/",
+          "publishedOn": "2024-05-20T20:51:49.000Z",
+          "wordCount": 4429,
+          "title": "Sneha Revanur on empowering youth voices in AI, fighting for legislation and combating deepfakes and disinformation",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2024/05/moz_Rise25Winners_1200x800-_Sneha-Ravanur.png"
+        },
         {
           "id": "https://blog.mozilla.org/?p=74773",
           "author": "Nabiha Syed",
@@ -1570,16 +1580,6 @@
           "wordCount": 1983,
           "title": "Some Git poll results",
           "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2024/03/22/the-current-branch-in-git/",
-          "author": null,
-          "description": "Hello! I know I just wrote a blog post about HEAD in git, but I’ve been\nthinking more about what the term “current branch” means in git and it’s a\nlittle weirder than I thought.\nfour possible definitions for “current branch”\nIt’s what’s in the file .git/HEAD. This is how the git glossary defines it.\nIt’s what git status says on the first line\nIt’s what you most recently checked out with git checkout or git switch\nIt’s what’s in your shell’s git prompt. I use fish_git_prompt so that’s what I’ll be talking about.\nI originally thought that these 4 definitions were all more or less the\nsame, but after chatting with some people on Mastodon, I realized that they’re\nmore different from each other than I thought.\nSo let’s talk about a few git scenarios and how each of these definitions plays\nout i…",
-          "link": "https://jvns.ca/blog/2024/03/22/the-current-branch-in-git/",
-          "publishedOn": "2024-03-22T08:15:02.000Z",
-          "wordCount": 1838,
-          "title": "The \"current branch\" in git",
-          "imageUrl": null
         }
       ]
     },
@@ -1682,6 +1682,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=8761",
+          "author": "Cory Doctorow",
+          "description": "Today's links The new globalism is global labor: The Battle of Seattle's other shoe drops. Hey look at this: Delights to delectate. This day in history: None Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The new globalism is global labor (permalink) Depending on how you look at it, I either grew up in the periphery of the labor movement, or atop it, or surrounded by it. For a kid, labor issues don't really hold a lot of urgency – in places with mature labor movements, kids don't really have jobs, and the part-time jobs I had as a kid (paper route, cleaning a dance studio) were pretty benign. Ironically, one of the reasons that …",
+          "link": "https://pluralistic.net/2024/05/20/a-common-foe/",
+          "publishedOn": "2024-05-20T17:22:00.000Z",
+          "wordCount": 4401,
+          "title": "Pluralistic: The new globalism is global labor (20 May 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=8749",
           "author": "Cory Doctorow",
@@ -2126,21 +2136,6 @@
           "wordCount": 4253,
           "title": "Pluralistic: The antitrust case against Apple (22 Mar 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=8336",
-          "author": "Cory Doctorow",
-          "description": "Today's links Why Millennials aren't leaving Tiktok: It's the same reason that Boomers can't leave Facebook. Hey look at this: Delights to delectate. This day in history: 2009, 2014, 2019 Upcoming appearances: Where to find me. Recent appearances: Podcasts, events and more. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Why Millennials aren't leaving Tiktok (permalink) The news that Gen Z users have abandoned Tiktok in such numbers that the median Tiktoker is a Millennial (or someone even older) prompted commentators to dunk on Tiktok as uncool by dint of having lost its youthful sheen: https://www.garbageday.email/p/tiktok-millennials-turns But \"why are Gen Z kids leaving Tiktok?\" is the wrong question.…",
-          "link": "https://pluralistic.net/2024/03/21/involuntary-die-hards/",
-          "publishedOn": "2024-03-21T17:21:54.000Z",
-          "wordCount": 4500,
-          "title": "Pluralistic: Why Millenials aren't leaving Tiktok (21 Mar 2024)",
-          "enclosure": {
-            "url": "https://ia801300.us.archive.org/2/items/WilCameoExplanationFMx1/Will_s_Cameo_Explanation_FMx1.mp3",
-            "length": "2804423",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -2149,6 +2144,16 @@
       "feedUrl": "http://www.nathalielawhead.com/candybox/feed",
       "siteUrl": "http://www.nathalielawhead.com/candybox",
       "articles": [
+        {
+          "id": "https://www.nathalielawhead.com/candybox/?p=5667",
+          "author": "alienmelon",
+          "description": "It was an incredible surprise when I got the news that BlueSuburbia was nominated for A MAZE. When I started the project it was a secret dream to have it in A MAZE so I could finally go as a nominee. Attending in person, after so many years of being nominated, then juding, giving a virtual talk… just actually trying to go, lol… was an incredible experience. BlueSuburbia was shown on this big projector on the wall. It was tremendous to see it. After so much hard work and self-doubt, people were actually playing it in this context. Even the...",
+          "link": "http://www.nathalielawhead.com/candybox/the-story-of-my-first-a-maze-and-why-i-wish-we-had-an-event-dedicated-to-solo-devs",
+          "publishedOn": "2024-05-20T12:36:51.000Z",
+          "wordCount": 4555,
+          "title": "The story of my first A MAZE (and why I wish we had an event dedicated to solo-devs)",
+          "imageUrl": "http://nathalielawhead.com/noodles/amazewolodev/IMG_7526.jpeg"
+        },
         {
           "id": "https://www.nathalielawhead.com/candybox/?p=5654",
           "author": "alienmelon",
@@ -2193,6 +2198,96 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/05/the-evolution-of-hokusais-great-wave",
+          "author": null,
+          "description": "The Great Wave off Kanagawa by Katsushika Hokusai is one of the world’s most iconic pieces of art. Hokusai created the woodblock print in 1831 at the age of 71 as part of his series Thirty-six Views of Mount Fuji. But in some sense, he’d been working on it all of his life.\nIn 1797, at the age of 37, Hokusai made what could be interpreted as his first wave print, Spring at Enoshima (Enoshima shunbô):\n\nHokusai made his next attempt in 1803 (age 43) with View of Honmoku off Kanagawa (Kanagawa-oki Honmoku no zu):\n\nTwo years later in 1805 (age 45) came Express Delivery Boats Rowing through Waves (Oshiokuri hatô tsûsen no zu) and it’s starting to look familiar:\n\nA few waves show up in Hokusai’s three-volume Quick Lessons in Simplified Drawing (1812).\nIn 1831 at the age of 71, Hokusai returned to…",
+          "link": "https://kottke.org/24/05/the-evolution-of-hokusais-great-wave",
+          "publishedOn": "2024-05-20T21:01:30.000Z",
+          "wordCount": 1456,
+          "title": "The Evolution of Hokusai&#8217;s Great Wave",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/hokusai-wave-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/05/la-maison-du-pastel",
+          "author": null,
+          "description": "From Business Insider’s series Still Standing, a look at La Maison du Pastel, a 300-year-old French company that makes pastels for artists by hand. Back in its golden age, the company supplied the likes of Monet & Degas but fell into neglect near the end of the 20th century. The newest generation of ownership has restored the company and they now offer over 1,900 different pastel colors.\nSeriously, take a look at their online shop…there’s all sorts of amazing stuff in there. Like this antique watercolors set — get a load of these color names: Violet Lake, Burnt Lake, Carmine, Venice Red, Vermilion, Orange Chrome, Gamboge, Zinc White, Yellow Ochre, Burnt Umber, Van Dyck Brown, Lamp Black, Payne’s Gray, Indigo, Celestial Blue, Blue Ash, Prussian. You can even order a full set of their pastels for only €29,450.00 (the set comes with a custom-made chest of drawers).\nI am not at all an artist but these colors all look so amazing that I’m eyeing one of the smaller sets for myself… (thx, caroline)\nTags: art · color · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/05/la-maison-du-pastel",
+          "publishedOn": "2024-05-20T19:35:23.000Z",
+          "wordCount": 1125,
+          "title": "La Maison du Pastel",
+          "imageUrl": "https://i.ytimg.com/vi/Eu6po8_sPco/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/05/0044649-can-shame-help-us-become",
+          "author": null,
+          "description": "Can shame help us become better people? “In Confucianism, shame is a crucial tool that leads you toward your best self, and you have more power over it than you know.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/05/0044649-can-shame-help-us-become",
+          "publishedOn": "2024-05-20T17:38:45.000Z",
+          "wordCount": 698,
+          "title": "Can shame help us become better people? &#8220;In Confucianism, shame is a...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/05/queendom",
+          "author": null,
+          "description": "Queendom is a documentary film by Agniia Galdanova about queer Russian activist and performance artist Jenna Marvin and her unusual form of protest against the war in Ukraine and Russia’s treatment of LGBTQ+ people. From a short review in the Guardian:\nWhen Russia invaded Ukraine in February last year, some brave souls took to the streets of Moscow to voice their horror at the war, and were met with batons and police brutality. Radical queer performance artist Gena Marvin took a different approach. Wearing platform boots, body paint and wrapped in barbed wire, she walked the streets of Moscow in a stark, silent statement against the war. To call Gena a drag artist fails to capture just how subversive and courageous are her public “performances”. Her otherworldly costumes, created from junk and tape, show the influence of Leigh Bowery; her fearlessness evokes the punk provocation of Pussy Riot.\n\n\nMarvin’s performances can be intense — check out this video from Pars in 2022. France had just advanced into the semifinals of the World Cup and she went out on the streets dressed in an all-black costume straight out of Alien or Pan’s Labyrinth:\n\nQueendom opens in theaters and will available on streaming on June 14.\nTags: Agniia Galdanova · art · Jenna Marvin · LGBTQ · movies · Queendom · Russia · trailers · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/05/queendom",
+          "publishedOn": "2024-05-20T16:56:13.000Z",
+          "wordCount": 836,
+          "title": "Queendom",
+          "imageUrl": "https://i.ytimg.com/vi/BiMTbx_l7NQ/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/05/0044645-ahead-of-the-paris-olympi",
+          "author": null,
+          "description": "Ahead of the Paris Olympics, France has released a scratch-and Sniff baguette stamps. “The baguette, the bread of our daily lives, the symbol of our gastronomy, the jewel of our culture.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/05/0044645-ahead-of-the-paris-olympi",
+          "publishedOn": "2024-05-20T16:08:07.000Z",
+          "wordCount": 753,
+          "title": "Ahead of the Paris Olympics, France has released a scratch-and Sniff baguette...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/05/0044647-interesting-hypothesis-th",
+          "author": null,
+          "description": "Interesting hypothesis: the aesthetic of Incan stone work was inspired by corn. “The layout of Machu Picchu mirrors the shape of a corn cob, with its terraces resembling the kernels of corn.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/05/0044647-interesting-hypothesis-th",
+          "publishedOn": "2024-05-20T15:20:19.000Z",
+          "wordCount": 851,
+          "title": "Interesting hypothesis: the aesthetic of Incan stone work was inspired by corn....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/05/future-2024-bestsellers",
+          "author": null,
+          "description": "Kirkus’s list of 20 Books That Should Be Bestsellers reminds me that Taffy Brodesser-Akner’s new book, Long Island Compromise, is due out this summer, so yay to that. Yay also to pal Nicola Twilley for making the list with her book Frostbite. And there’s a new-to-me title on there that I’m intrigued by: Hip-Hop Is History by Questlove (with Ben Greenman).\nTags: books · lists\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/05/future-2024-bestsellers",
+          "publishedOn": "2024-05-20T14:35:37.000Z",
+          "wordCount": 695,
+          "title": "Future 2024 Bestsellers",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/20-summer-bestsellers.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/05/0044648-a-recent-study-estimates-",
+          "author": null,
+          "description": "A recent study estimates that a human pregnancy demands 50,000 calories, “significantly more than the researchers expected.” The fetus only needs 4% of the energy — “the other 96% is extra fuel required by a woman’s own body.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/05/0044648-a-recent-study-estimates-",
+          "publishedOn": "2024-05-20T13:50:08.000Z",
+          "wordCount": 1533,
+          "title": "A recent study estimates that a human pregnancy demands 50,000 calories, &#8220;significantly...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/05/0044646-how-to-get-google-search",
+          "author": null,
+          "description": "How to get Google search results without the AI garbage. “It’s essentially Google, minus the crap. No parsing of the information in the results. No surfacing metadata like address or link info. No knowledge panels, but also, no ads.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/05/0044646-how-to-get-google-search",
+          "publishedOn": "2024-05-20T12:43:01.000Z",
+          "wordCount": 1758,
+          "title": "How to get Google search results without the AI garbage. &#8220;It&#8217;s essentially...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/24/05/the-history-of-tetris-world-records",
           "author": null,
@@ -6131,126 +6226,6 @@
           "publishedOn": "2024-03-22T13:59:08.000Z",
           "wordCount": 731,
           "title": "The teaser trailer for Beetlejuice Beetlejuice. Tim Burton, Michael Keaton, Winona Ryder,...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/03/0044237-in-case-anyone-is-ever",
-          "author": null,
-          "description": "In case anyone is ever in the market for strange and cheerful custom rugs, I enthusiastically recommend Opal Rugs, handmade by the New Mexico-based Alyse Ronayne. (And here’s her website.) We have two, and they are gorgeous!\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/03/0044237-in-case-anyone-is-ever",
-          "publishedOn": "2024-03-21T21:20:21.000Z",
-          "wordCount": 654,
-          "title": "In case anyone is ever in the market for strange and cheerful...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/03/0044238-things-that-dont-work-for",
-          "author": null,
-          "description": "Things That Don’t Work. For instance: “Fixing relationship problems by having a baby.” Also: “multivitamins” and “wanting to be liked.”\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/03/0044238-things-that-dont-work-for",
-          "publishedOn": "2024-03-21T20:40:04.000Z",
-          "wordCount": 693,
-          "title": "Things That Don’t Work. For instance: “Fixing relationship problems by having a...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/03/on-returning-to-childhood-hobbies",
-          "author": null,
-          "description": "I really enjoyed this Cup of Jo essay about the pleasure of coming back to childhood hobbies as an adult:\nThe student in the session before mine is a hedge-fund guy in his 50s, and we giggle at each other in the doorway between our two lessons, as if we’re seeing through the graying hair and trench coats and wedding rings to greet our promising, 16-year-old selves.\n\n\nI know I’ve mentioned this here before, but my own life transformed when I got back into what I loved as a kid (drawing!). I picked it up when I stopped drinking, and it’s since become one of the cornerstones of my day. \nAnd then on the other end of the spectrum are the hobbies we discover in mid-life, when there’s less expectation of doing “well” or of turning anything into a career, and those rule, too. It’s never too late!\nTags: hobbies\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/03/on-returning-to-childhood-hobbies",
-          "publishedOn": "2024-03-21T20:00:19.000Z",
-          "wordCount": 780,
-          "title": "On Returning to Childhood Hobbies",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/03/the-majesty-of-cold-mountain",
-          "author": null,
-          "description": "the tweet is a photograph of the following letter to the editor of the New York Times Book Review section (not online):\nTO THE EDITOR:\n\nWay back in 1997, when Charles Frazier’s “Cold Mountain” was released, I was given a copy as a present. When I flipped it over, I was struck by a blurb that seemed excessive, bordering on parody. One Rick Bass said of the novel that it “is so magnificent — in every conceivable aspect, and others perviously unimagined — that it has occurred to me that the shadow of this book, and the joy I received in reading it, will fall over every other book I ever read.” It felt so hyperbolic that it put me off trusting blurbs on dust jackets forever. \nSo imagine my surprise when I opened the Feb. 4 By the Book feature to see Rick Bass answer the question “What books are on your night stand?” And he replied, “‘Cold Mountain (‘re-re-re-read).”” He has restored my faith in the humble, oft-dismissed blurb in one fell swoop. It was that important to him! Lesson learned. \nChristopher Vyce\n\n\nAs Ruth put it: “Pure and total delight! A perfect letter!” Here’s Bass’s By the Book interview, by the way. I haven’t read Cold Mountain, but I’m not sure if this makes me want to or not. I’d almost rather leave it as this legendary.\nTags: books · Charles Frazier · Cold Mountain · Rick Bass · Ruth Graham\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/03/the-majesty-of-cold-mountain",
-          "publishedOn": "2024-03-21T19:00:38.000Z",
-          "wordCount": 863,
-          "title": "The Majesty of Cold Mountain",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/coldmountain.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/03/0044233-sitting-here-in-an-old",
-          "author": null,
-          "description": "Sitting here in an old Patagonia fleece, I couldn’t feel aesthetically further from these astonishing emeralds, but they sure are fun to look at. \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/03/0044233-sitting-here-in-an-old",
-          "publishedOn": "2024-03-21T18:00:28.000Z",
-          "wordCount": 661,
-          "title": "Sitting here in an old Patagonia fleece, I couldn&#8217;t feel aesthetically further...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/03/diary-comics-nov-30-dec2",
-          "author": null,
-          "description": "It’s another Thursday Afternoon With Edith, this time with a ton of journal comics because I feel emboldened by the new “show full post” option (thanks, Jason!), so I can hide things and not clutter up the homepage. These comics pick up from when I was guest-editing this site back in the fall. \n\n\n\n\nTags: comics\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/03/diary-comics-nov-30-dec2",
-          "publishedOn": "2024-03-21T17:10:05.000Z",
-          "wordCount": 894,
-          "title": "Diary Comics, Nov. 30-Dec.2",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/nov30.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/03/making-connections",
-          "author": null,
-          "description": "My teen daughter doesn’t care for crosswords or the Spelling Bee, but she does try to play Connections every day. We were working on this one together a few days ago and when I suggested SNAIL GALAXY CYCLONE SUNFLOWER as a group, she said “I was thinking spirals but sunflowers are round”. Which prompted a discussion about the Fibonacci sequence and the golden ratio (which she’d covered in math class) and a search for videos that explained how the sequence pops up in nature and, specifically, sunflowers.\n\n\nAs beautiful as the sunflower is, isn’t it even lovelier knowing there is a deep mathematical order to it?\n\n\nThat quote reminds me of Richard Feynman’s thoughts on the beauty of nature:\nI have a friend who’s an artist and has sometimes taken a view which I don’t agree with very well. He’l…",
-          "link": "https://kottke.org/24/03/making-connections",
-          "publishedOn": "2024-03-21T16:30:03.000Z",
-          "wordCount": 1158,
-          "title": "Making Connections",
-          "imageUrl": "https://i.ytimg.com/vi/z9d1mxgZ0ag/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/03/0044230-a-nice-remembrance-of-lis",
-          "author": null,
-          "description": "A nice remembrance of Lisa Lane, perhaps an inspiration for The Queen’s Gambit and the first chess player to be featured on the cover of Sports Illustrated. “Lisa Lane was an icon and a woman far ahead of her time.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/03/0044230-a-nice-remembrance-of-lis",
-          "publishedOn": "2024-03-21T15:51:13.000Z",
-          "wordCount": 672,
-          "title": "A nice remembrance of Lisa Lane, perhaps an inspiration for The Queen&#8217;s...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/03/0044231-the-sights-and-sounds-of",
-          "author": null,
-          "description": "The sights and sounds of various video game systems being switched on, from the Atari 2600 up to the newest systems. The nostalgia! I hadn’t heard the NES power button sound in 20 years but it was instantly recognizable.\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/03/0044231-the-sights-and-sounds-of",
-          "publishedOn": "2024-03-21T15:22:39.000Z",
-          "wordCount": 665,
-          "title": "The sights and sounds of various video game systems being switched on,...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/03/1600-person-pub-choir-sings-radioheads-creep",
-          "author": null,
-          "description": "Pub Choir is an Australia-based organization that gets large crowds singing popular tunes, in three-part harmony no less.\nEverybody can sing. Like, not well, but literally. Why should being average at something stop you from doing it!? It hasn’t yet… Singing is good for you, it’s EASY, and Pub Choir is here to show you how.\nWith a show that is equal parts music, comedy, and beer, Pub Choir is a euphoric sensation that transforms a crowd of tipsy strangers into a legendary choir.\nBy the end of the show the YOU will be belting out a popular song in three-part harmony.\n\n\nIn the video above, they get a crowd of 1600 people signing Creep by Radiohead. Beautiful.\nYou can find more of their performances on their YouTube channel, including Tina Turner’s The Best, Africa by Toto, and Free Fallin’ by Tom Petty.\nSee also Choir! Choir! Choir! and their performances of Sinéad O’Connor’s Nothing Compares 2 U and David Byrne singing David Bowie’s Heroes. (thx, matthew)\nTags: music · Pub Choir · Radiohead · remix · video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/03/1600-person-pub-choir-sings-radioheads-creep",
-          "publishedOn": "2024-03-21T14:58:04.000Z",
-          "wordCount": 851,
-          "title": "1600-Person Pub Choir Sings Radiohead&#8217;s Creep",
-          "imageUrl": "https://i.ytimg.com/vi/qfbLichUDIE/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/03/0044229-it-seems-like-theres-goin",
-          "author": null,
-          "description": "It seems like there’s going to be a third Downton Abbey movie. The relatively low-budget movies made good money at the box office, so why not?\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/03/0044229-it-seems-like-theres-goin",
-          "publishedOn": "2024-03-21T14:19:03.000Z",
-          "wordCount": 648,
-          "title": "It seems like there&#8217;s going to be a third Downton Abbey movie....",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/03/0044227-a-team-at-nasa-is",
-          "author": null,
-          "description": "A team at NASA is trying to reestablish communication with Voyager 1 after a malfunction left the probe broadcasting jibberish. The problem: debugging the issue from almost 1 light-day away is challenging!\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/03/0044227-a-team-at-nasa-is",
-          "publishedOn": "2024-03-21T13:54:02.000Z",
-          "wordCount": 702,
-          "title": "A team at NASA is trying to reestablish communication with Voyager 1...",
           "imageUrl": ""
         }
       ]
