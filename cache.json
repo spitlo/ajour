@@ -379,16 +379,6 @@
           "wordCount": 206,
           "title": "Cursive Letters",
           "imageUrl": "https://imgs.xkcd.com/comics/cursive_letters_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2911/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/greenland_size.png\" title=\"The Mercator projection drastically distorts the size of almost every area of land except a small ring around the North and South Poles.\" alt=\"The Mercator projection drastically distorts the size of almost every area of land except a small ring around the North and South Poles.\" />",
-          "link": "https://xkcd.com/2911/",
-          "publishedOn": "2024-03-25T00:00:00.000Z",
-          "wordCount": 206,
-          "title": "Greenland Size",
-          "imageUrl": "https://imgs.xkcd.com/comics/greenland_size_2x.png"
         }
       ]
     },
@@ -733,6 +723,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/751293228884590592",
+          "author": null,
+          "description": "text-mode:\nMinitel character set. Photo by Kevin Driscoll.",
+          "link": "https://text-mode.tumblr.com/post/751293228884590592",
+          "publishedOn": "2024-05-23T18:30:56.000Z",
+          "wordCount": 1006,
+          "title": "text-mode:\n\nMinitel character set. Photo by Kevin Driscoll.",
+          "imageUrl": "https://64.media.tumblr.com/a9a97bd35ba88bb168438f7f862d936f/tumblr_n3nv2piUrf1rpiyaso1_1280.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/751202611767787520",
           "author": null,
@@ -1332,16 +1332,6 @@
           "wordCount": 964,
           "title": "text-mode:\n\nVarious Commodore 64/128 BBS-software from the 80s...",
           "imageUrl": "https://64.media.tumblr.com/c36b2422080dc69a771af216ac37e3fe/tumblr_n7zs3uBQat1rpiyaso3_1280.gif"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/745861187614490624",
-          "author": null,
-          "description": "text-mode:\nSexting in a Swedish mainstream music video from 2001. Patrik Isaksson - Ruta 1.\nh/t: Moa Lundqvist",
-          "link": "https://text-mode.tumblr.com/post/745861187614490624",
-          "publishedOn": "2024-03-24T19:30:58.000Z",
-          "wordCount": 1017,
-          "title": "text-mode:\n\nSexting in a Swedish mainstream music video from...",
-          "imageUrl": "https://64.media.tumblr.com/ce18eb7e1fd2e7688659ac5f7d785fd1/tumblr_nakqcjSgGL1rpiyaso2_1280.gif"
         }
       ]
     },
@@ -1718,6 +1708,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=8778",
+          "author": "Cory Doctorow",
+          "description": "Today's links Red Lobster was killed by private equity, not Endless Shrimp: Using class warfare as cover for looting. Hey look at this: Delights to delectate. This day in history: 2009, 2014, 2019, 2023 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Red Lobster was killed by private equity, not Endless Shrimp (permalink) A decade ago, a hedge fund had an improbable viral comedy hit: a 294-page slide deck explaining why Olive Garden was going out of business, blaming the failure on too many breadsticks and insufficiently salted pasta-water: https://www.sec.gov/Archives/edgar/data/940944/000092189514002031/ex991dfan14a06297125_091…",
+          "link": "https://pluralistic.net/2024/05/23/spineless/",
+          "publishedOn": "2024-05-23T12:43:34.000Z",
+          "wordCount": 3409,
+          "title": "Pluralistic: Red Lobster was killed by private equity, not Endless Shrimp (23 May 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=8773",
           "author": "Cory Doctorow",
@@ -2239,6 +2239,106 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/05/data-visualization-of-the-most-common-pin-numbers",
+          "author": null,
+          "description": "Based on an analysis of leaked PIN numbers by Nick Berry, Information is Beautiful made this visualization of the most common PINs.\n\nAccording to the analysis, just 20 4-digit numbers account for 27% of all PINs: 1234, 0000, 7777, 2000, 2222, 9999, 5555, 1122, 8888, 2001, 1111, 1212, 1004, 4444, 6969 (nice), 3333, 6666, 1313, 4321, 1010. The diagonal line is people using repeated pairs of digits (e.g. 2727 or 8888) while the horizontal line near the bottom is people who are presumably using their (19xx) birth year as a PIN. (You can see the beginning of a 20xx line on the left side.)\nThe best causally unguessable PINs would seem to be unrepeated pairs of numbers greater than 50 — so 8957, 7064, 9653, etc. Choose wisely.\nTags: design · infoviz · mathematics · Nick Berry · security\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/05/data-visualization-of-the-most-common-pin-numbers",
+          "publishedOn": "2024-05-23T20:43:17.000Z",
+          "wordCount": 825,
+          "title": "Data Visualization of the Most Common PIN Numbers",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/popular-pins.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/05/0044679-two-diary-workers-have-ca",
+          "author": null,
+          "description": "Two diary workers have caught the H5N1 virus from cows, “the first known instance globally of a person catching this version of bird flu from a mammal”. We are just playing with fire with this stuff, aren’t we? 🫣\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/05/0044679-two-diary-workers-have-ca",
+          "publishedOn": "2024-05-23T19:50:12.000Z",
+          "wordCount": 755,
+          "title": "Two diary workers have caught the H5N1 virus from cows, &#8220;the first...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/05/slow-publishing-with-arion-press",
+          "author": null,
+          "description": "San Francisco’s Arion Press still uses decades-old machines to make beautiful books by hand. They’re one of the few remaining presses in the world that do everything from start to finish — they even cast their own type. \nArion dwells in an almost extinct corner of the book world: Call it Slow Publishing. It produces only three books a year, each a unique art object reproduced in editions of less than 300. Art is so important, in fact, that the illustrators-art-world luminaries-drive the title selection process.\n“We learned that the projects went a lot more smoothly when we said to the artist, ‘What do you want to do?’” Blythe said.\n\n\nAnthony Bourdain visited Arion in 2015 for a online series called Raw Craft — it’s a great look at how and why they produce books this way:\n\nBusiness Insider’s Still Standing series recently profiled Arion as well:\n\n(thx, stephen)\nTags: Anthony Bourdain · Arion Press · books · design · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/05/slow-publishing-with-arion-press",
+          "publishedOn": "2024-05-23T19:03:19.000Z",
+          "wordCount": 794,
+          "title": "Slow Publishing With Arion Press",
+          "imageUrl": "https://i.ytimg.com/vi/i-5NhxYRqUI/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/05/0044680-if-i-were-in-nyc",
+          "author": null,
+          "description": "If I were in NYC this July, I’d go see this Uptown Shakespeare in the Park production of A Midsummer Night’s Dream (by way of the Harlem Renaissance).\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/05/0044680-if-i-were-in-nyc",
+          "publishedOn": "2024-05-23T18:16:10.000Z",
+          "wordCount": 701,
+          "title": "If I were in NYC this July, I&#8217;d go see this Uptown...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/05/0044675-the-editors-of-scientific",
+          "author": null,
+          "description": "The editors of Scientific American: There Is Too Much Trash in Space. “It’s time for nations — and the billionaires commoditizing space — to clean up Earth’s near orbit.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/05/0044675-the-editors-of-scientific",
+          "publishedOn": "2024-05-23T17:33:11.000Z",
+          "wordCount": 695,
+          "title": "The editors of Scientific American: There Is Too Much Trash in Space....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/05/the-budapest-childrens-railway",
+          "author": null,
+          "description": "The Gyermekvasút (Children’s Railway) is a 7-mile-long rail line in Budapest that’s operated by children aged 10-14 (aside from the train’s driver).\nChildren’s Railway, Budapest is one of Budapest’s most unique attractions. Like any other railway, it has ticket offices, diesel locomotives, signals, switches and a timetable. Unlike other railways though, this one is run by children. The line stretches among the Buda hills from Széchenyihegy to Hűvösvölgy, crossing the Cogwheel Railway and serving Normafa as well as the highest point of Budapest: Jánoshegy.\n\n\nThe project, then called the Pioneer’s Railway, was started in 1947 as a part of a three-year Communist plan. This video shows how the railway operates and includes interviews with current workers as well as former workers from the Communist era:\n\nSeems like all the kids are big train nerds…adorable.\nTags: Hungary · trains · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/05/the-budapest-childrens-railway",
+          "publishedOn": "2024-05-23T16:44:07.000Z",
+          "wordCount": 770,
+          "title": "The Budapest Children&#8217;s Railway",
+          "imageUrl": "https://i.ytimg.com/vi/BYW4jiXXlFY/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/05/0044673-an-open-letter-to-wyna",
+          "author": null,
+          "description": "An Open Letter to Wyna Liu, the New York Times’ Connections Editor. “But on those days when I don’t solve it… well, let’s just say those are dark days. I don’t sleep properly anymore. I can’t eat.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/05/0044673-an-open-letter-to-wyna",
+          "publishedOn": "2024-05-23T15:52:04.000Z",
+          "wordCount": 1310,
+          "title": "An Open Letter to Wyna Liu, the New York Times&#8217; Connections Editor....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/05/infinite-black-hole-universes",
+          "author": null,
+          "description": "Kurzgesagt is back with another video about black holes; it has the innocuous-seeming title of The Easiest Way To Build a Black Hole. But the main topic of the video is the speculation that universes (like ours!) might exist within black holes.\nBlack holes might create infinite universes while destroying time and space. Everything in existence could be black holes, all the way down. We might live inside a black hole that is inside a black hole, that is inside a black hole. But let’s start at the beginning and build a black hole out of air.\n\n\nThis one is a bit of a brain-bender. From the show notes:\nThe first part of the script is based on the empirical fact that, somewhat intriguingly, the observable universe seems to have the exact size and mass that would be required to make a black hole as big as the observable universe itself.\nThe second, completely independent proposal we explore is the idea that our Universe could be born from the singularity of a black hole, and that in turn the universe that contains that black hole could be born from a black hole itself. If so, universes in later generations of this process could be better fitted to produce an abundance of black holes, in a sort of “natural selection” towards efficient black hole production.\n\n\n        \n\n         \nTags: black holes · Kurzgesagt · physics · science · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/05/infinite-black-hole-universes",
+          "publishedOn": "2024-05-23T15:05:39.000Z",
+          "wordCount": 1028,
+          "title": "Do We Live in an Infinite Nesting Doll of Black Hole Universes?",
+          "imageUrl": "https://i.ytimg.com/vi/71eUes30gwc/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/05/0044674-joss-fong-and-adam-cole",
+          "author": null,
+          "description": "Joss Fong and Adam Cole introduce their new YouTube channel Howtown, where they will “dig into the evidence behind commonly held facts and claims in the news”. I am excited for this one!\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/05/0044674-joss-fong-and-adam-cole",
+          "publishedOn": "2024-05-23T14:16:32.000Z",
+          "wordCount": 712,
+          "title": "Joss Fong and Adam Cole introduce their new YouTube channel Howtown, where...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/05/0044672-from-becca-rothfelds-all-",
+          "author": null,
+          "description": "From Becca Rothfeld’s All Things Are Too Small, an amazing quote on consumer brands’ solution to mass production: “The ideal product was therefore something that a person would go on wanting even when she had it.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/05/0044672-from-becca-rothfelds-all-",
+          "publishedOn": "2024-05-23T13:40:15.000Z",
+          "wordCount": 689,
+          "title": "From Becca Rothfeld&#8217;s All Things Are Too Small, an amazing quote on...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/24/05/how-not-to-get-screwed-buying-a-used-car-1",
           "author": null,
@@ -6318,26 +6418,6 @@
           "wordCount": 714,
           "title": "Jalapeños are less spicy now because big pepper product producers procure alternate...",
           "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/03/hello-everyone-lets-have-a-week",
-          "author": null,
-          "description": "I am excited to be back editing Kottke.org this week for the first time in one thousand years, and I am also scared because what if I don’t remember how to write on the internet? Everything has changed from how it used to be and also has it really? As long as they still make skateboarding videos, we’ll be OK I’m sure.\nAs Jason mentioned, I own an ice cream shop called Gracie’s and an ice cream shop that is also a bar called Earnest Drinks, and you should come to them. A few years ago, I put out a kids’ book called Salty Avocado with Chris, I’m hoping to put out another kids’ book this year, and like Jason said, I’m almost done with a novel I hope you get to read sometime. \nThis week we’re gonna have some videos of people doing stuff and also other internet about food and animals, we’re gonna say mean things about Intuit, we’re gonna quote Eli Cash, and maybe we’ll do something about ice cream if y’all want to because it’s something about which I know a good amount. If you see any typos, no you didn’t. The last time I edited for a week, there were lots of websites still, and now it feels like there are hardly any, so if you see any good links, please send them over on Blue Sky. \nTags: Aaron Cohen\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/03/hello-everyone-lets-have-a-week",
-          "publishedOn": "2024-03-25T00:15:51.000Z",
-          "wordCount": 868,
-          "title": "Hello, Everyone, Let&#8217;s Have A Week",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/03/welcome-aaron-cohen-back-to-the-site",
-          "author": null,
-          "description": "Hey, Jason here. I’m off this week (Mar 25-29) to spend some time with family (and Edith is working on Drawing Media), so my friend and ice cream impresario Aaron Cohen will be taking over the site again (he previously guest edited a couple of times in the ’10s). He owns and operates Gracie’s Ice Cream & Earnest Drinks and I hear he’s working on a novel.\nAs an ice cream man, Aaron keeps things fun — he takes Hard Style photos with patrons (he’s the one in hat above), makes ice cream tribute flavors for Carly Rae Jepsen (Call Me PB and Carlymel Rae Jepsen), writes a linky newsletter for the shops, and has cool merch.\nWelcome back, Aaron!\nTags: Aaron Cohen · kottke.org\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/03/welcome-aaron-cohen-back-to-the-site",
-          "publishedOn": "2024-03-24T20:38:55.000Z",
-          "wordCount": 758,
-          "title": "Welcome Aaron Cohen Back to the Site",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/gracies-hard-style.jpg"
         }
       ]
     },
