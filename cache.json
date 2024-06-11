@@ -120,6 +120,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2944/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/magnet_fishing.png\" title=\"The ten-way tie was judged a ten-way tie, so no one won the grand prize, a rare fishing monopole.\" alt=\"The ten-way tie was judged a ten-way tie, so no one won the grand prize, a rare fishing monopole.\" />",
+          "link": "https://xkcd.com/2944/",
+          "publishedOn": "2024-06-10T00:00:00.000Z",
+          "wordCount": 207,
+          "title": "Magnet Fishing",
+          "imageUrl": "https://imgs.xkcd.com/comics/magnet_fishing_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2943/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/unsolved_chemistry_problems.png\" title=\"I'm an H⁺ denier, in that I refuse to consider loose protons to be real hydrogen, so I personally believe it stands for 'pretend'.\" alt=\"I'm an H⁺ denier, in that I refuse to consider loose protons to be real hydrogen, so I personally believe it stands for 'pretend'.\" />",
@@ -358,16 +368,6 @@
           "wordCount": 206,
           "title": "Survey Marker",
           "imageUrl": "https://imgs.xkcd.com/comics/survey_marker_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2919/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/sitting_in_a_tree.png\" title=\"First comes blood / Then we perish / Then comes Death in his Eternity Carriage.\" alt=\"First comes blood / Then we perish / Then comes Death in his Eternity Carriage.\" />",
-          "link": "https://xkcd.com/2919/",
-          "publishedOn": "2024-04-12T00:00:00.000Z",
-          "wordCount": 210,
-          "title": "Sitting in a Tree",
-          "imageUrl": "https://imgs.xkcd.com/comics/sitting_in_a_tree_2x.png"
         }
       ]
     },
@@ -455,16 +455,6 @@
           "wordCount": 951,
           "title": "CSS text fragment selector (please) [blog]",
           "imageUrl": "https://remysharp.com/images/cards/og/9-0.jpg"
-        },
-        {
-          "id": "groupby-and-other-ways-that-im-an-old-dog",
-          "author": null,
-          "description": "More of a TIL but my blog is rather bare lately, so this will do.\nI was browsing the excellent MDN to check something and came across both Map.groupBy and Object.groupBy. A handy static method for keying an array by some property (I'll show working example in a moment).\nPretty useful, but I quickly realised that I'm very much stuck in the camp of the old dog not quite learning the new tricks.",
-          "link": "https://remysharp.com/2024/04/12/groupby-and-other-ways-that-im-an-old-dog",
-          "publishedOn": "2024-04-12T00:00:00.000Z",
-          "wordCount": 1133,
-          "title": "groupBy and other ways that I'm an old dog [blog]",
-          "imageUrl": "https://remysharp.com/images/cards/og/9-4.jpg"
         }
       ]
     },
@@ -752,6 +742,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/752923961139019776",
+          "author": null,
+          "description": "text-mode:\n The Accident [2014] by AcidT*",
+          "link": "https://text-mode.tumblr.com/post/752923961139019776",
+          "publishedOn": "2024-06-10T18:30:43.000Z",
+          "wordCount": 968,
+          "title": "text-mode:\n\n The Accident [2014] by AcidT*",
+          "imageUrl": "https://64.media.tumblr.com/8f55360bf0f83d3b0c4c7ba7f4e25c1b/tumblr_n1phathZV81rpiyaso1_400.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/752833364099284992",
           "author": null,
@@ -1341,16 +1341,6 @@
           "wordCount": 1071,
           "title": "text-mode:\n\nThe Yeti Sound Machine, the BOOK! by Raquel Meyers...",
           "imageUrl": "https://64.media.tumblr.com/fe9b009e7dec582fea791dba439c997b/tumblr_n9dt66mUO41rpiyaso3_1280.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/747488165019910144",
-          "author": null,
-          "description": "text-mode:\nUntitled by Bengt Emil Johnson (1963)",
-          "link": "https://text-mode.tumblr.com/post/747488165019910144",
-          "publishedOn": "2024-04-11T18:31:04.000Z",
-          "wordCount": 1004,
-          "title": "text-mode:\n\nUntitled by Bengt Emil Johnson (1963)",
-          "imageUrl": "https://64.media.tumblr.com/bbf7db2d21be38db87e09483713ae612/tumblr_n4fgkkCuLs1rpiyaso1_1280.jpg"
         }
       ]
     },
@@ -1359,6 +1349,16 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=75140",
+          "author": "Stefan French",
+          "description": "(To read the complete analysis as well as the results of each language model, visit the mozilla.ai blog here.) Over the past few months, Mozilla.ai has engaged with several organizations to learn how they are using language models in practice. We spoke with 35 organizations across various sectors, including finance, government, startups, and large enterprises. […]\nThe post Uncovering GenAI trends: Using local language models to explore 35 organizations  appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/ai/genai-trends/",
+          "publishedOn": "2024-06-10T13:00:00.000Z",
+          "wordCount": 1820,
+          "title": "Uncovering GenAI trends: Using local language models to explore 35 organizations",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/12/moz_AI-recap_2023_blog_1920x1080-1080x720.png"
+        },
         {
           "id": "https://blog.mozilla.org/?p=75107",
           "author": "Elise Blanchard",
@@ -1578,16 +1578,6 @@
           "wordCount": 3764,
           "title": "Marek Tuszynski reflects on curating thought-provoking experiences at the intersection of technology and activism",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2024/04/moz_Rise25Winners_1200x800_Marek-Tuszynski.png"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=74443",
-          "author": "Aron Yohannes",
-          "description": "At Mozilla, we know we can’t create a better future alone, that is why each year we will be highlighting the work of 25 digital leaders using technology to amplify voices, effect change, and build new technologies globally through our Rise 25 Awards. These storytellers, innovators, activists, advocates, builders and artists are helping make the internet more diverse, […]\nThe post Rachel Hislop reflects on working for Beyoncé, creating community for Black women and the power of storytelling appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/internet-culture/rachel-hislop-rise25-mozilla-media-beyonce/",
-          "publishedOn": "2024-04-11T18:42:37.000Z",
-          "wordCount": 3576,
-          "title": "Rachel Hislop reflects on working for Beyoncé, creating community for Black women and the power of storytelling",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2021/02/moz_blog_header_som_002_1200x600.jpg"
         }
       ]
     },
@@ -1687,6 +1677,21 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=8907",
+          "author": "Cory Doctorow",
+          "description": "Today's links The CFPB is genuinely making America better, and they're going HARD: Fighting corporate crime with both fists and 7-2 SCOTUS backing. Hey look at this: Delights to delectate. This day in history: 2009, 2014, 2019, 2023 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The CFPB is genuinely making America better, and they're going HARD (permalink) Let's take a sec here and notice something genuinely great happening in the US government: the Consumer Finance Protection Bureau's stunning, unbroken streak of major, muscular victories over the forces of corporate corruption, with the backing of the Supreme Court (yes, that…",
+          "link": "https://pluralistic.net/2024/06/10/getting-things-done/",
+          "publishedOn": "2024-06-10T13:27:05.000Z",
+          "wordCount": 2825,
+          "title": "Pluralistic: The CFPB is genuinely making America better, and they're going HARD (10 Jun 2024)",
+          "enclosure": {
+            "url": "https://archive.org/download/Cory_Doctorow_Podcast_469/Cory_Doctorow_Podcast_469_-_Against_Lore.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=8899",
           "author": "Cory Doctorow",
@@ -2161,16 +2166,6 @@
           "wordCount": 4992,
           "title": "Pluralistic: Twinkfrump Linkdump (13 Apr 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=8492",
-          "author": "Cory Doctorow",
-          "description": "Today's links No, \"convenience\" isn't the problem: Enshittification isn't caused by \"lazy consumers.\" Hey look at this: Delights to delectate. This day in history: 2004, 2009, 2014, 2019, 2023 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. No, \"convenience\" isn't the problem (permalink) Using Amazon, or Twitter, or Facebook, or Google, or Doordash, or Uber doesn't make you lazy. Platform capitalism isn't enshittifying because you made the wrong shopping choices. Remember, the reason these corporations were able to capture such substantial market-share is that the capital markets saw them as a bet that they could lose money for y…",
-          "link": "https://pluralistic.net/2024/04/12/give-me-convenience/",
-          "publishedOn": "2024-04-12T12:12:35.000Z",
-          "wordCount": 3724,
-          "title": "Pluralistic: No, \"convenience\" isn't the problem (12 Apr 2024)",
-          "imageUrl": null
         }
       ]
     },
@@ -2208,16 +2203,6 @@
           "wordCount": 5146,
           "title": "Solo-Devs and Risk-Takers (An Artistic Exploration of Experimental Tools)",
           "imageUrl": "http://nathalielawhead.com/noodles/risktakers-tools/header.png"
-        },
-        {
-          "id": "https://www.nathalielawhead.com/candybox/?p=5642",
-          "author": "alienmelon",
-          "description": "I’m writing this from an Airbnb on my new laptop in the new country that I moved to. I’m a European gamedev now. I finally put America behind me! I have a lot of thoughts and feelings that I wanted to encapsulate at some point, about having lived there for seventeen or so years. How I feel about it. Will I miss it? Can I miss it? I’m not sure if I will, or if I have the energy, to talk about all that… at least to the extent that I would like. Bouncing around Airbnb’s, while renovations are being...",
-          "link": "http://www.nathalielawhead.com/candybox/goodbye-america",
-          "publishedOn": "2024-04-11T16:53:24.000Z",
-          "wordCount": 4464,
-          "title": "Goodbye, America",
-          "imageUrl": "http://nathalielawhead.com/candybox/new_theme_images/IMG_BACKGROUND.png"
         }
       ]
     },
@@ -2243,6 +2228,126 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/06/0044780-a-scientific-investigatio",
+          "author": null,
+          "description": "A scientific investigation into bears, the cuddly apex predator: If Not Friend, Why Friend-Shaped? “Some of bears’ features-especially their chubby, rounded face-might also remind us of our own babies.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/06/0044780-a-scientific-investigatio",
+          "publishedOn": "2024-06-10T21:30:41.000Z",
+          "wordCount": 687,
+          "title": "A scientific investigation into bears, the cuddly apex predator: If Not Friend,...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/06/0044775-cotino-is-a-storyliving-b",
+          "author": null,
+          "description": "Cotino is a “Storyliving by Disney™ community” in the greater Palm Springs area. “Parks, pathways and a promenade will reflect the imagination of Disney Imagineering.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/06/0044775-cotino-is-a-storyliving-b",
+          "publishedOn": "2024-06-10T20:49:11.000Z",
+          "wordCount": 1171,
+          "title": "Cotino is a &#8220;Storyliving by Disney™ community&#8221; in the greater Palm Springs...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/06/ai-can-ruin-movies-now-too",
+          "author": null,
+          "description": "YouTuber Nerrel takes James Cameron to task for releasing 4K remasters of Aliens and True Lies that have been, well, ruined by using AI to clean them up.\nThe best 4k releases tend to follow a pretty simple template: clean and scan the negative, repair any obvious signs of damage, and restore the colors to match the original grading, with as little meddling beyond that as possible. The process should not be about modernizing the style or forcing film to look like digital video. 35mm film was capable of incredible picture quality, and 4k is the first home format capable of delivering most of that detail — that should be enough. A well done 4k is like having a pristine copy of the original negative to watch in your own home, with the full data from that celluloid — grain and detail alike — digitally preserved forever. And that’s the problem with deep learning algorithms — they can’t preserve details. They make their best guess about what an object is supposed to be, then pull new details out of their digital assholes and smear them across the screen.\n\n\nIf Hollywood and one of its best directors don’t care enough about their movies to do them right, how are they supposed to convince us to care about their movies?\nTags: artificial intelligence · film school · Hollywood · James Cameron · movies · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/06/ai-can-ruin-movies-now-too",
+          "publishedOn": "2024-06-10T20:14:39.000Z",
+          "wordCount": 887,
+          "title": "AI Can Ruin Movies Now, Too",
+          "imageUrl": "https://i.ytimg.com/vi/BxOqWYytypg/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/06/0044784-the-verge-the-13-biggest",
+          "author": null,
+          "description": "The Verge: the 13 biggest announcements from Apple’s developer conference, including their AI plans and new OS features.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/06/0044784-the-verge-the-13-biggest",
+          "publishedOn": "2024-06-10T19:51:55.000Z",
+          "wordCount": 1142,
+          "title": "The Verge: the 13 biggest announcements from Apple&#8217;s developer conference, including their...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/06/0044777-there-have-been-more-gun",
+          "author": null,
+          "description": "“There have been more gun suicides than gun homicides in the United States every year for the past 25 years. Yet the harm inflicted on communities by suicides rarely registers in the national debate over guns.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/06/0044777-there-have-been-more-gun",
+          "publishedOn": "2024-06-10T19:25:37.000Z",
+          "wordCount": 766,
+          "title": "&#8220;There have been more gun suicides than gun homicides in the United...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/06/0044778-elephants-call-each-other",
+          "author": null,
+          "description": "“Elephants call each other by name and respond when they hear others call their name, according to new research.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/06/0044778-elephants-call-each-other",
+          "publishedOn": "2024-06-10T18:46:57.000Z",
+          "wordCount": 686,
+          "title": "&#8220;Elephants call each other by name and respond when they hear others...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/06/1982-dc-comics-style-guide",
+          "author": null,
+          "description": "Standards Manual is gearing up for a new release: a reproduction of the DC Comics Style Guide from 1982.\nReproduced from a rare original copy, the book features over 165 highly-detailed scans of the legendary art by José Luis García-López, with an introduction by Paul Levitz, former president of DC Comics.\nFirst issued in 1982, the Style Guide aimed to assist licensees in delivering a consistent look for DC’s Super Heroes. The reissue is based on the original copy held by Standards Manual, containing an amalgam of pages added by the owners of the original from ‘82 to ‘85.\n\n\nComics nerds, get in there.\nTags: books · comics · DC Comics · design\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/06/1982-dc-comics-style-guide",
+          "publishedOn": "2024-06-10T18:06:45.000Z",
+          "wordCount": 743,
+          "title": "1982 DC Comics Style Guide",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/dc-style-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/06/0044772-tapping-the-sign-the-impo",
+          "author": null,
+          "description": "Tapping the sign: the important differences between patriotism & nationalism. “Patriotism: pride in who you are. Nationalism: pride in who you aren’t.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/06/0044772-tapping-the-sign-the-impo",
+          "publishedOn": "2024-06-10T17:25:08.000Z",
+          "wordCount": 1390,
+          "title": "Tapping the sign: the important differences between patriotism & nationalism. &#8220;Patriotism: pride...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/06/0044771-guy-who-sucks-at-being",
+          "author": null,
+          "description": "Guy Who Sucks At Being A Person Sees Huge Potential In AI. “Deep down [he] has absolutely zero understanding of what makes things good, enjoyable, or rewarding.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/06/0044771-guy-who-sucks-at-being",
+          "publishedOn": "2024-06-10T16:55:47.000Z",
+          "wordCount": 738,
+          "title": "Guy Who Sucks At Being A Person Sees Huge Potential In AI....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/06/0044768-maris-kreizman-argues-for",
+          "author": null,
+          "description": "Maris Kreizman argues for adding full credit pages to books acknowledging everyone who worked on them. “How lovely it is to be seen and appreciated.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/06/0044768-maris-kreizman-argues-for",
+          "publishedOn": "2024-06-10T16:21:05.000Z",
+          "wordCount": 873,
+          "title": "Maris Kreizman argues for adding full credit pages to books acknowledging everyone...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/06/0044770-wake-up-dead-man-will",
+          "author": null,
+          "description": "Wake Up Dead Man will be the third film in the Knives Out series, starring Daniel Craig as Benoit “CSI: KFC” Blanc.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/06/0044770-wake-up-dead-man-will",
+          "publishedOn": "2024-06-10T15:50:28.000Z",
+          "wordCount": 698,
+          "title": "Wake Up Dead Man will be the third film in the Knives...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/06/surprise-these-cardboard-scotch-tape-vases-are-actually-ceramic-pots",
+          "author": null,
+          "description": "French potter Jacques Monneraud makes ceramic pots that look like teapots, vases, and pitchers made from cardboard and scotch tape. He offers these pots for sale, but they’re unsurprisingly sold out right now. More about Monneraud & his work on his website and Instagram. (via @presentandcorrect)\nTags: art · Jacques Monneraud\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/06/surprise-these-cardboard-scotch-tape-vases-are-actually-ceramic-pots",
+          "publishedOn": "2024-06-10T15:13:32.000Z",
+          "wordCount": 697,
+          "title": "Surprise! These Cardboard & Scotch Tape Vases Are Actually Ceramic Pots.",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/jacques-monneraud-01.jpg"
+        },
         {
           "id": "https://kottke.org/24/06/every-kind-of-bridge-explained-in-15-minutes",
           "author": null,
@@ -6041,126 +6146,6 @@
           "publishedOn": "2024-04-12T12:34:39.000Z",
           "wordCount": 709,
           "title": "The UN&#8217;s climate chief says governments, business leaders and development banks have...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/04/viral-videos-i-missed-is-this-available-attorney-general",
-          "author": null,
-          "description": "15,000-pound horse one is also great. Even … catchy? Creator Lubalin is a “regular” musician, too. (Thanks, Lucy!)\n(To make sure Jason hadn’t already blogged about this, I searched the site for “attorney general,” lol. There were posts. But not about this.)\nTags: Lubalin · viral videos\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/04/viral-videos-i-missed-is-this-available-attorney-general",
-          "publishedOn": "2024-04-11T21:00:14.000Z",
-          "wordCount": 788,
-          "title": "Viral Videos I Missed: Is This Available? (Attorney General)",
-          "imageUrl": "https://i.ytimg.com/vi/OLmun1JEIw0/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/04/take-a-letter-maria-live-audience-music-video",
-          "author": null,
-          "description": "Jolene” — both are odd, wonderful songs sung to an initially unromantic female character. Maybe? Anyway, I was pleased to discover this live-audience version on YouTube. Also, is “Maria” due for a cover, or an update? Take a letter, Alexa…\nTags: music · music videos · R.B. Greaves\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/04/take-a-letter-maria-live-audience-music-video",
-          "publishedOn": "2024-04-11T20:00:32.000Z",
-          "wordCount": 710,
-          "title": "Take a Letter Maria, the Live Audience Music Video",
-          "imageUrl": "https://i.ytimg.com/vi/Z9Y0x1jLkLg/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/04/whats-happening-now-that-might-only-make-sense-in-1200-years",
-          "author": null,
-          "description": "record the same solar eclipse?! — and how mind-blowing it is to even contemplate. We then talked about how crazy it must have been to live back then (in 790 AD) and see the sun just casually disappear, etc.\nAnd then I was wondering: What’s happening now that people living in the year 3200 will pity us for not understanding? “Wow, can you imagine living back then and not knowing exactly how [viruses appear/cancer strikes/the Voynich Manuscript came into existence]? Or precisely what happened at Dyatlov Pass, or on board the Mary Celeste?” (Okay now I’m just googling “mysteries.”) Anyway, I’m not high, I swear. But please chime in if anything comes to mind. “It must have been so weird to not know what dogs were saying.”\nTags: calendars · Maya · mysteries · the future · Voynich Manuscript\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/04/whats-happening-now-that-might-only-make-sense-in-1200-years",
-          "publishedOn": "2024-04-11T19:00:09.000Z",
-          "wordCount": 1538,
-          "title": "What&#8217;s Happening Now That Might Only Make Sense in 1,200 Years?",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/possibleeclipseglyph.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/04/0044377-april-is-national-letter-",
-          "author": null,
-          "description": "It’s National Card & Letter Writing Month (🎉), and Metafilter just drew my attention to the American Library Association’s letter-themed games list, from which I learned of the upcoming Curios: Albrecht Manor: “an epistolary horror mystery experience”!\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/04/0044377-april-is-national-letter-",
-          "publishedOn": "2024-04-11T18:15:08.000Z",
-          "wordCount": 705,
-          "title": "It&#8217;s National Card & Letter Writing Month (🎉), and Metafilter just drew...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/04/diary-comics-dec-6-8",
-          "author": null,
-          "description": "It’s another Thursday Afternoon With Edith, and here are a few more journal comics from back in December, when I was guest-editing this site and gearing up to have a baby!\n\n\n\n\n\n \nTags: comics\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/04/diary-comics-dec-6-8",
-          "publishedOn": "2024-04-11T17:30:49.000Z",
-          "wordCount": 740,
-          "title": "Diary Comics, Dec. 6-8",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/dec6intro.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/04/what-are-the-odds",
-          "author": null,
-          "description": "Ok, one last post about the total solar eclipse and then I’m done talking about it. (Maybe.)\nThere are so many mind-blowing things about eclipses but the one I can’t stop thinking about is the nearly impossible coincidence that the sun and the moon are the same relative size in the sky. If the moon were a little bit smaller or farther away, we wouldn’t have total eclipses where you can look directly at the sun, see the corona, the sky goes dark, you see a sunset effect all around the horizon, etc. That is some spooky magical shit. Ted Underwood put it this way:\nRandom accident that the moon and sun are the same apparent size here. If we had interstellar tourism, this is the One Thing that everyone would know about the Earth, and when they visited they wouldn’t want to see anything else. “W…",
-          "link": "https://kottke.org/24/04/what-are-the-odds",
-          "publishedOn": "2024-04-11T16:30:00.000Z",
-          "wordCount": 1642,
-          "title": "What Are the Odds?",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/mouser-eclipse-2024.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/04/0044376-it-works-three-men-strand",
-          "author": null,
-          "description": "It works! Three men stranded on a tiny Pacific island for more than a week were rescued after the Coast Guard spotted “HELP” written out on the beach in palm leaves. (A similar rescue from the same island happened in 2020 — “SOS” that time.)\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/04/0044376-it-works-three-men-strand",
-          "publishedOn": "2024-04-11T15:55:45.000Z",
-          "wordCount": 718,
-          "title": "It works! Three men stranded on a tiny Pacific island for more...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/04/0044368-how-to-be-a-climate",
-          "author": null,
-          "description": "How to Be a Climate Activist Even Though You’re Too Shy to Interrupt Anything. “You want to add your voice to the movement, make ‘good trouble,’ and stand for something for once in your goddamn life, but, unfortunately, you’re an introvert.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/04/0044368-how-to-be-a-climate",
-          "publishedOn": "2024-04-11T15:20:31.000Z",
-          "wordCount": 1292,
-          "title": "How to Be a Climate Activist Even Though You&#8217;re Too Shy to...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/04/0044369-im-the-draft-list-at",
-          "author": null,
-          "description": "I’m the Draft List at This Brewery and No, You Can’t Have a Light Beer. “Sure, we made a ‘normal’ IPA once. But then we were like, why make a beer that’s enjoyable to drink when we could make a beer that’s not?”\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/04/0044369-im-the-draft-list-at",
-          "publishedOn": "2024-04-11T14:50:38.000Z",
-          "wordCount": 774,
-          "title": "I&#8217;m the Draft List at This Brewery and No, You Can&#8217;t Have...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/04/the-pyramids-of-giza-shrouded-in-mist",
-          "author": null,
-          "description": "Wonderful shots of the pyramids of Giza by Egyptian photographer Karim Amr. From a caption on one of his photos three years ago:\nI’m a 21 years old photographer you can see a lot of photos I share at the pyramids cause I just live near the pyramids so it’s easy for me to go and shoot there. I started doing photography to share my thoughts with others it’s how I express my feelings it’s also my escape from life. Life is tough and not easy for some of us and you got to find your place in this world.\n\n\nPrints of his photos are available and you can follow his work on Instagram.\nTags: Egypt · Karim Amr · photography\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/04/the-pyramids-of-giza-shrouded-in-mist",
-          "publishedOn": "2024-04-11T14:25:57.000Z",
-          "wordCount": 792,
-          "title": "The Pyramids of Giza, Shrouded in Mist",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/karim-amr-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/04/0044373-capricious-social-media-a",
-          "author": null,
-          "description": "Capricious social media algorithms are modern-day Greek gods: “Oh my crops failed and my daughter died so that means Athena is angry — maybe??! … Just let us see posts from people we follow instead of telling us we’re praying to the wrong god.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/04/0044373-capricious-social-media-a",
-          "publishedOn": "2024-04-11T13:58:57.000Z",
-          "wordCount": 713,
-          "title": "Capricious social media algorithms are modern-day Greek gods: &#8220;Oh my crops failed...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/04/0044370-men-who-say-they-are",
-          "author": null,
-          "description": "“Men who say they are pro-life and want to reduce or eliminate abortion are lying. They don’t care about abortion at all, they simply want to control women.” (BTW, I got a vasectomy, it’s great, would recommend, A+.)\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/04/0044370-men-who-say-they-are",
-          "publishedOn": "2024-04-11T13:15:39.000Z",
-          "wordCount": 927,
-          "title": "&#8220;Men who say they are pro-life and want to reduce or eliminate...",
           "imageUrl": ""
         }
       ]
