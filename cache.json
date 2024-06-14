@@ -120,6 +120,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2945/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/broken_model.png\" title=\"In addition to eating foxes, rabbits can eat grass. The grass also eats foxes. Our equations chart the contours of Fox Hell.\" alt=\"In addition to eating foxes, rabbits can eat grass. The grass also eats foxes. Our equations chart the contours of Fox Hell.\" />",
+          "link": "https://xkcd.com/2945/",
+          "publishedOn": "2024-06-12T00:00:00.000Z",
+          "wordCount": 207,
+          "title": "Broken Model",
+          "imageUrl": "https://imgs.xkcd.com/comics/broken_model_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2944/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/magnet_fishing.png\" title=\"The ten-way tie was judged a ten-way tie, so no one won the grand prize, a rare fishing monopole.\" alt=\"The ten-way tie was judged a ten-way tie, so no one won the grand prize, a rare fishing monopole.\" />",
@@ -358,16 +368,6 @@
           "wordCount": 208,
           "title": "Eclipse Path Maps",
           "imageUrl": "https://imgs.xkcd.com/comics/eclipse_path_maps_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2920/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/survey_marker.png\" title=\"Fun fact: The standard North American NAD83 coordinate system is misaligned from the actual Earth, off-center by about 7 feet. Someone knows where I am, and I'm in the wrong place.\" alt=\"Fun fact: The standard North American NAD83 coordinate system is misaligned from the actual Earth, off-center by about 7 feet. Someone knows where I am, and I'm in the wrong place.\" />",
-          "link": "https://xkcd.com/2920/",
-          "publishedOn": "2024-04-15T00:00:00.000Z",
-          "wordCount": 206,
-          "title": "Survey Marker",
-          "imageUrl": "https://imgs.xkcd.com/comics/survey_marker_2x.png"
         }
       ]
     },
@@ -742,6 +742,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/753195771131772928",
+          "author": null,
+          "description": "text-mode:\nascii volcano by jjs, via.",
+          "link": "https://text-mode.tumblr.com/post/753195771131772928",
+          "publishedOn": "2024-06-13T18:31:02.000Z",
+          "wordCount": 979,
+          "title": "text-mode:\n\nascii volcano by jjs, via.",
+          "imageUrl": "https://64.media.tumblr.com/9863ef122f1820a3279b1aebaa9af41b/tumblr_n1v811kyek1rpiyaso1_1280.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/753105160765620224",
           "author": null,
@@ -1331,16 +1341,6 @@
           "wordCount": 982,
           "title": "text-mode:\n\nnan orazu",
           "imageUrl": "https://64.media.tumblr.com/48d110e696d229f177cd33567f347edf/tumblr_n3nk0hzqJp1rpiyaso1_540.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/747759938266447872",
-          "author": null,
-          "description": "text-mode:\nJulio Le Parc, acrylic on canvas, 1959. via",
-          "link": "https://text-mode.tumblr.com/post/747759938266447872",
-          "publishedOn": "2024-04-14T18:30:47.000Z",
-          "wordCount": 1013,
-          "title": "text-mode:\n\nJulio Le Parc, acrylic on canvas, 1959. via",
-          "imageUrl": "https://64.media.tumblr.com/cc84a2f749e5fffecd49505fdefbbd6a/tumblr_n3nkvjbew61rpiyaso1_500.jpg"
         }
       ]
     },
@@ -1349,6 +1349,16 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=75143",
+          "author": "Steve Flavin",
+          "description": "On my way to the airport last week, my driver asked what I do for a living. “I’m a content creator,” I replied. “I’m the video lead at Mozilla.” “Wow, that sounds fun,” he said. It can be! But, like lots of other creative professions: It’s not as glamorous as it sounds. Between the emails, […]\nThe post Firefox tips and tricks for creatives appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/products/firefox/firefox-tips/creatives/",
+          "publishedOn": "2024-06-13T19:00:45.000Z",
+          "wordCount": 1685,
+          "title": "Firefox tips and tricks for creatives",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2024/06/Firefox-tips-and-tricks-for-creatives_@1x-1200x800.png"
+        },
         {
           "id": "https://blog.mozilla.org/?p=75140",
           "author": "Stefan French",
@@ -1632,16 +1642,6 @@
           "wordCount": 13118,
           "title": "Making Sense of React Server Components",
           "imageUrl": "https://www.joshwcomeau.com/images/og-server-components.jpg"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/react/css-in-rsc/",
-          "author": "Josh W. Comeau",
-          "description": "You can’t make an omelette without cracking a few eggs, and when the core React team unveiled their vision for the future of React, some of my favourite libraries got scrambled 😅. In this blog post, we’re going to explore the compatibility issues between React Server Components and CSS-in-JS libraries like styled-components. You’ll understand what the issue is, what the options are, and what’s on the horizon.",
-          "link": "https://www.joshwcomeau.com/react/css-in-rsc/",
-          "publishedOn": "2024-04-15T11:00:00.000Z",
-          "wordCount": 11078,
-          "title": "CSS in React Server Components",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-css-in-rsc.png"
         }
       ]
     },
@@ -1677,6 +1677,21 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=8933",
+          "author": "Cory Doctorow",
+          "description": "Today's links The health industry's invisible hand is a fist: We've tried everything except for the thing that works everywhere else in the world. Hey look at this: Delights to delectate. This day in history: 2009, 2014, 2019, 2023 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The health industry's invisible hand is a fist (permalink) The US has the rich world's most expensive health care system, and that system delivers the worst health outcomes of any country in the rich world. Also, the US is unique in relying on market forces as the primary regulator of its health care system. All of these facts are related! Capitalism's mo…",
+          "link": "https://pluralistic.net/2024/06/13/a-punch-in-the-guts/",
+          "publishedOn": "2024-06-13T20:27:28.000Z",
+          "wordCount": 3882,
+          "title": "Pluralistic: The health industry's invisible hand is a fist (13 Jun 2024)",
+          "enclosure": {
+            "url": "https://archive.org/download/Cory_Doctorow_Podcast_469/Cory_Doctorow_Podcast_469_-_Against_Lore.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=8920",
           "author": "Cory Doctorow",
@@ -2248,6 +2263,116 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/06/gone-swimming-with-tara-booth",
+          "author": null,
+          "description": "“who else is ready to get beat tf up by the ocean?” asks artist Tara Booth on Instagram. (If you click through, it’s a whole mini-story.) \nMore of Booth’s awesome work can also be found on her website. Is this the day I buy her art on a tote bag? Or a hoodie? Or a pillowcase? \nTags: art · swimming · Tara Booth\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/06/gone-swimming-with-tara-booth",
+          "publishedOn": "2024-06-13T23:00:40.000Z",
+          "wordCount": 695,
+          "title": "Gone Swimming, With Tara Booth",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/beat-tf-ocean.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/06/0044783-paul-theroux-in-the-short",
+          "author": null,
+          "description": "Paul Theroux: “In the short run, criticism seems to have merit; in the end, criticism is useless—a good book has a long life in spite of anything said about it.” I’m not sure I agree, but I did find this idea somewhat thrilling. \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/06/0044783-paul-theroux-in-the-short",
+          "publishedOn": "2024-06-13T22:00:04.000Z",
+          "wordCount": 704,
+          "title": "Paul Theroux: &#8220;In the short run, criticism seems to have merit; in...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/06/0044782-is-everyone-really-taking",
+          "author": null,
+          "description": "Is everyone really taking steroids? Rosecrans Baldwin says yes: “Someone in your life is using performance-enhancing drugs. I feel comfortable making that bet because I recently discovered how many people in my life are using performance-enhancing drugs.”\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/06/0044782-is-everyone-really-taking",
+          "publishedOn": "2024-06-13T21:00:25.000Z",
+          "wordCount": 721,
+          "title": "Is everyone really taking steroids? Rosecrans Baldwin says yes: &#8220;Someone in your...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/06/what-does-havering-mean",
+          "author": null,
+          "description": "It’s only the 9,000th time I’ve heard this perfect song, but for whatever reason today was the day I looked it up. (Apologies to everyone who already knows.) Per Wikipedia:\nIn Scottish English, haver (from the Scots havers (oats)) means “to maunder; to talk foolishly; to chatter,” as heard in the song “I’m Gonna Be (500 Miles)” by The Proclaimers\n\n\nThis song rules so much. It came on the other day while my daughter and I were goofing around — sorry, while we were havering (?) — and it was such a joy to watch her get into it.\nTags: havering · music · music videos · Scotland · The Proclaimers\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/06/what-does-havering-mean",
+          "publishedOn": "2024-06-13T20:00:19.000Z",
+          "wordCount": 1105,
+          "title": "What Does &#8216;Havering&#8217; Mean?",
+          "imageUrl": "https://i.ytimg.com/vi/tbNlMtqrYS0/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/06/0044807-pretty-dark-but-also-fasc",
+          "author": null,
+          "description": "Pretty dark but also fascinating: “ancient DNA extracted from 64 of the children is offering new insights into the religious rituals of the ancient Maya and their ties to modern descendants.”\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/06/0044807-pretty-dark-but-also-fasc",
+          "publishedOn": "2024-06-13T19:00:34.000Z",
+          "wordCount": 694,
+          "title": "Pretty dark but also fascinating: &#8220;ancient DNA extracted from 64 of the...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/06/diary-comics-jan-2-11",
+          "author": null,
+          "description": "Hello, and welcome to another Thursday Afternoon With Edith! I was off for a while in part because everyone in my family got Hand Foot and Mouth Disease, which was horrible. I’m also going through some crises of purpose and trying to figure out what to do with my life. 🤔 Solution forthcoming. But here are a couple comics from earlier this year; I’m skipping around a bit because the journal itself became pretty disjointed. (Previously.)\n\n\n\nTags: diary comics\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/06/diary-comics-jan-2-11",
+          "publishedOn": "2024-06-13T18:00:38.000Z",
+          "wordCount": 809,
+          "title": "Diary Comics, Jan. 2 & 11",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/jan2introC.png"
+        },
+        {
+          "id": "https://kottke.org/24/06/0044769-an-analysis-of-the-easies",
+          "author": null,
+          "description": "An analysis of the easiest & hardest puzzles from the NY Times’ Spelling Bee. (The highest-possible Spelling Bee score is 2061 with 26 pangrams! WAT?!)\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/06/0044769-an-analysis-of-the-easies",
+          "publishedOn": "2024-06-13T17:00:54.000Z",
+          "wordCount": 872,
+          "title": "An analysis of the easiest & hardest puzzles from the NY Times&#8217;...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/06/how-the-fridge-changed-flavor",
+          "author": null,
+          "description": "In an adaptation from her forthcoming book, Frostbite: How Refrigeration Changed Our Food, Our Planet, and Ourselves, Nicola Twilley shares how refrigeration changed the food we eat and even how it tastes (you tomato and strawberry lovers know what I’m talking about):\nThe opportunity to consume frosty drinks and desserts opened up an entirely new vocabulary of sensation. Some found the cold shocking at first. “Lord! How I have seen the people splutter when they’ve tasted them for the first time,” a London ice-cream vender recalled in 1851. One customer — “a young Irish fellow” — took a spoonful, stood statue still, and then “roared out, ‘Jasus! I am kilt. The coald shivers is on to me.’” The earliest recorded description of brain freeze seems to have been published by Patrick Brydone, a Sc…",
+          "link": "https://kottke.org/24/06/how-the-fridge-changed-flavor",
+          "publishedOn": "2024-06-13T16:17:50.000Z",
+          "wordCount": 1086,
+          "title": "&#8220;How the Fridge Changed Flavor&#8221;",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/06/0044795-a-short-oral-history-of-1",
+          "author": null,
+          "description": "A short oral history of pioneering Chicago house anthem Move Your Body. “It was cooked up in just 30 minutes by four postal workers after a tough shift on the letter-sorting machine.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/06/0044795-a-short-oral-history-of-1",
+          "publishedOn": "2024-06-13T15:31:14.000Z",
+          "wordCount": 712,
+          "title": "A short oral history of pioneering Chicago house anthem Move Your Body....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/06/how-tennis-balls-became-yellow-feat-david-attenborough",
+          "author": null,
+          "description": "Somehow, I didn’t know that until quite recently, tennis balls were white instead of yellow (Wimbledon used white balls until 1985). Here’s a British Pathé film from 1961 that shows how tennis balls were made, along with Wimbledon ball boy training:\n\nI also didn’t know that many people think tennis balls are green when they are actually a color called “optic yellow”. Oh and that David Attenborough had a hand in the switch from white to yellow.\nThe change in color happened due to the demands of television transmissions. In 1972 television was already in color all over the world (although in Spain it was not generalized until five or six years later). At the end of the 1960s, the person in charge of the BBC broadcasts (which, of course, was in charge of Wimbledon) was the renowned documentary filmmaker David Attenborough. And he noticed that the visibility of the traditional white ball was not perfect, especially if it approached the lines of the rectangle of play.\nIn that year of 1972, tennis was in full growth: the professional and amateur circuits had unified and women’s professional tennis was also growing. Tennis was becoming a great world spectacle and in this context television was fundamental. The International Tennis Federation, in charge of the rules, commissioned a study which showed that the yellow ball was more visible and therefore easier for viewers to follow. The courts, moreover, began to be multicolored once the use of synthetic materials in official tournaments was approved.\n\n\n        \n\n         \nTags: color · David Attenborough · how to · sports · tennis · TV · video · Wimbledon\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/06/how-tennis-balls-became-yellow-feat-david-attenborough",
+          "publishedOn": "2024-06-13T14:47:38.000Z",
+          "wordCount": 1009,
+          "title": "How Tennis Balls Became Yellow, Feat. David Attenborough",
+          "imageUrl": "https://i.ytimg.com/vi/jYCIkIyAYk4/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/06/0044804-the-day-after-tomorrow-tu",
+          "author": null,
+          "description": "The Day After Tomorrow turns 20. “Twenty years after its release, it remains a unique specimen: a climate disaster blockbuster that adheres to all the tenets of the genre, while also explicitly attributing its carnage to the greenhouse effect.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/06/0044804-the-day-after-tomorrow-tu",
+          "publishedOn": "2024-06-13T14:05:20.000Z",
+          "wordCount": 765,
+          "title": "The Day After Tomorrow turns 20. &#8220;Twenty years after its release, it...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/24/06/the-birth-of-breaking-news-1",
           "author": null,
