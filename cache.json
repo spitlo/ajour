@@ -110,6 +110,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2947/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/pascals_wager_triangle.png\" title=\"In contrast to Pascal's Wager Triangle, Pascal's Triangle Wager argues that maybe God wants you to draw a triangle of numbers where each one is the sum of the two numbers above it, so you probably should, just in case.\" alt=\"In contrast to Pascal's Wager Triangle, Pascal's Triangle Wager argues that maybe God wants you to draw a triangle of numbers where each one is the sum of the two numbers above it, so you probably should, just in case.\" />",
+          "link": "https://xkcd.com/2947/",
+          "publishedOn": "2024-06-17T00:00:00.000Z",
+          "wordCount": 209,
+          "title": "Pascal's Wager Triangle",
+          "imageUrl": "https://imgs.xkcd.com/comics/pascals_wager_triangle_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2946/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/1_2_kilofives.png\" title=\"'Oh yeah? Give me 50 milliscore reasons why I should stop.'\" alt=\"'Oh yeah? Give me 50 milliscore reasons why I should stop.'\" />",
@@ -696,6 +706,16 @@
       "siteUrl": "https://lea.verou.me/feed.xml",
       "articles": [
         {
+          "id": "https://lea.verou.me/blog/2024/css-conditionals/",
+          "author": null,
+          "description": "Last week, the CSS WG resolved to add an inline if() to CSS.\nBut what does that mean, and why is it exciting?\nLast week, we had a CSS WG face-to-face meeting in A Coruña, Spain.\nThere is one resolution from that meeting that I’m particularly excited about:\nthe consensus to add an inline if() to CSS.\nWhile I was not the first to propose an inline conditional syntax,\nI did try and scope down the various nonterminating discussions into an MVP that can actually be implemented quickly,\ndiscussed ideas with implemenators,\nand eventually published a concrete proposal and pushed for group resolution.\nQuite poetically, the relevant discussion occurred on my birthday, so in a way, I got if() as the most unique birthday present ever. 😀\nThis also comes to show that proposals being rejected is not the…",
+          "link": "https://lea.verou.me/blog/2024/css-conditionals/",
+          "publishedOn": "2024-06-18T00:00:00.000Z",
+          "wordCount": 1917,
+          "title": "Inline conditionals in CSS?",
+          "imageUrl": null
+        },
+        {
           "id": "https://lea.verou.me/blog/2024/contrast-color/",
           "author": null,
           "description": "Can we emulate the upcoming CSS contrast-color() function via CSS features that have already widely shipped?\nAnd if so, what are the tradeoffs involved and how to best balance them?\nRelative Colors\nOut of all the CSS features I have designed,\nRelative Colors aka Relative Color Syntax (RCS) is definitely among the ones I’m most proud of.\nIn a nutshell, they allow CSS authors to derive a new color from an existing color value by doing arbitrary math on color components\nin any supported color space:\n--color-lighter: hsl(from var(--color) h s calc(l * 1.2));\n--color-lighterer: oklch(from var(--color) calc(l + 0.2) c h);\n--color-alpha-50: oklab(from var(--color) l a b / 50%);\n\nThe elevator pitch was that by allowing lower level operations they provide authors flexibility on how to derive color …",
@@ -712,6 +732,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/753648750608678912",
+          "author": null,
+          "description": "text-mode:\nBenita Koch-Otte, 1920s textiles.",
+          "link": "https://text-mode.tumblr.com/post/753648750608678912",
+          "publishedOn": "2024-06-18T18:30:57.000Z",
+          "wordCount": 992,
+          "title": "text-mode:\n\nBenita Koch-Otte, 1920s textiles.",
+          "imageUrl": "https://64.media.tumblr.com/06ab72fdeaa62a34eb9415e54fbea19f/tumblr_n29kgzf0xM1rpiyaso1_1280.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/753558137498468352",
           "author": null,
@@ -1301,16 +1331,6 @@
           "wordCount": 1005,
           "title": "text-mode:\n\nElephant Building (Thailand, 1997).",
           "imageUrl": "https://64.media.tumblr.com/c7f6e555ddb8c1e555fab26a5cb55185/tumblr_n8poaoni0X1rpiyaso1_500.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/748212906809868288",
-          "author": null,
-          "description": "text-mode:\nFingal’s Cave in Scotland. Good example of how nature’s hexagonal bias can produce blocky shapes.",
-          "link": "https://text-mode.tumblr.com/post/748212906809868288",
-          "publishedOn": "2024-04-19T18:30:32.000Z",
-          "wordCount": 1019,
-          "title": "text-mode:\n\nFingal’s Cave in Scotland. Good example of how...",
-          "imageUrl": "https://64.media.tumblr.com/96b80ade23d12435d1947d2d3d97e644/tumblr_n53no9riHd1rpiyaso2_1280.jpg"
         }
       ]
     },
@@ -1607,6 +1627,21 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=8972",
+          "author": "Cory Doctorow",
+          "description": "Today's links It's been twenty years since my Microsoft DRM talk: It looks like you're trying to avert the DRM apocalypse… Hey look at this: Delights to delectate. This day in history: 2004, 2009, 2014, 2019 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. It's been twenty years since my Microsoft DRM talk (permalink) This week on my podcast, I read my June 17, 2004 Microsoft Research speech about DRM, a talk that went viral two decades ago, and reassess its legacy: https://craphound.com/msftdrm.txt It's been 20 years (and one day) since I gave that talk. It wasn't my first talk like that, but at the time, it was the most successf…",
+          "link": "https://pluralistic.net/2024/06/18/greetings-fellow-pirates/",
+          "publishedOn": "2024-06-18T16:38:38.000Z",
+          "wordCount": 3939,
+          "title": "Pluralistic: It's been twenty years since my Microsoft DRM talk (18 Jun 2024)",
+          "enclosure": {
+            "url": "https://archive.org/download/Cory_Doctorow_Podcast_470/Cory_Doctorow_Podcast_470_-_My_2004_Microsoft_DRM_Talk.mp3",
+            "length": "0",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=8954",
           "author": "Cory Doctorow",
@@ -2106,16 +2141,6 @@
           "wordCount": 4091,
           "title": "Pluralistic: Paying for it doesn't make it a market (22 Apr 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=8555",
-          "author": "Cory Doctorow",
-          "description": "Today's links Greedflation, but for prisoners: The first-ever survey of national prison commissary prices is a fucking nightmare. Hey look at this: Delights to delectate. This day in history: 2009, 2019, 2023 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Greedflation, but for prisoners (permalink) Today in \"Capitalists Hate Capitalism\" news: The Appeal has published the first-ever survey of national prison commissary prices, revealing just how badly the prison profiteer system gouges American's all-time, world-record-beating prison population: https://theappeal.org/locked-in-priced-out-how-much-prison-commissary-prices/ Like ev…",
-          "link": "https://pluralistic.net/2024/04/20/captive-market/",
-          "publishedOn": "2024-04-20T07:04:02.000Z",
-          "wordCount": 2781,
-          "title": "Pluralistic: Greedflation, but for prisoners Greedflation, but for prisoners (20 Apr 2024)",
-          "imageUrl": null
         }
       ]
     },
@@ -2168,6 +2193,66 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/06/0044828-nasas-voyager-1-probe-is",
+          "author": null,
+          "description": "NASA’s Voyager 1 probe is fully online again after months of spouting gibberish. “The spacecraft has resumed gathering information about interstellar space.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/06/0044828-nasas-voyager-1-probe-is",
+          "publishedOn": "2024-06-18T21:48:47.000Z",
+          "wordCount": 718,
+          "title": "NASA&#8217;s Voyager 1 probe is fully online again after months of spouting...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/06/0044827-an-apple-watch-reimagined",
+          "author": null,
+          "description": "An Apple Watch reimagined in the style of a Newton. Love the app icons for Bluesky, BBEdit, and Marathon.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/06/0044827-an-apple-watch-reimagined",
+          "publishedOn": "2024-06-18T20:55:15.000Z",
+          "wordCount": 667,
+          "title": "An Apple Watch reimagined in the style of a Newton. Love the...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/06/0044826-57-sandwiches-that-define",
+          "author": null,
+          "description": "57 Sandwiches That Define New York City. Never mind if you don’t live in or near NYC…this list is chock full of sandwich inspiration. My mouth was legit watering as I scrolled.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/06/0044826-57-sandwiches-that-define",
+          "publishedOn": "2024-06-18T20:10:42.000Z",
+          "wordCount": 771,
+          "title": "57 Sandwiches That Define New York City. Never mind if you don&#8217;t...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/06/0044825-i-have-zero-interest-in",
+          "author": null,
+          "description": "I have zero interest in invite-only restaurants, but I love this sentence: “What made Frog Club great is what made it awful is what made it irresistibly fascinating: its exclusivity, its gleeful snobbishness, its ostentatious secrecy.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/06/0044825-i-have-zero-interest-in",
+          "publishedOn": "2024-06-18T19:22:46.000Z",
+          "wordCount": 906,
+          "title": "I have zero interest in invite-only restaurants, but I love this sentence:...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/06/0044824-report-every-place-on-ear",
+          "author": null,
+          "description": "Report: Every Place On Earth Has Wrong Amount Of Water. “In every case, there is either too much or too little water, with zero exceptions.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/06/0044824-report-every-place-on-ear",
+          "publishedOn": "2024-06-18T18:38:26.000Z",
+          "wordCount": 757,
+          "title": "Report: Every Place On Earth Has Wrong Amount Of Water. &#8220;In every...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/06/0044823-yes-everyone-really-is-si",
+          "author": null,
+          "description": "Yes, everyone really is sick a lot more often after COVID. “At least 13 communicable diseases, from the common cold to measles and tuberculosis, are surging past their pre-pandemic levels in many regions, and often by significant margins.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/06/0044823-yes-everyone-really-is-si",
+          "publishedOn": "2024-06-18T17:59:06.000Z",
+          "wordCount": 706,
+          "title": "Yes, everyone really is sick a lot more often after COVID. &#8220;At...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/24/06/abstract-swirls",
           "author": null,
@@ -5876,106 +5961,6 @@
           "publishedOn": "2024-04-20T17:21:07.000Z",
           "wordCount": 1816,
           "title": "Quick site notes: 1. you can now edit comments for 10 min...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/04/0044437-greens-dictionary-of-slan",
-          "author": null,
-          "description": "Green’s Dictionary of Slang is “is the largest historical dictionary of English slang” that contains “nearly 100,000 entries supported by over 400,000 citations from c. ad 1000 to the present day”.\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/04/0044437-greens-dictionary-of-slan",
-          "publishedOn": "2024-04-19T21:01:12.000Z",
-          "wordCount": 695,
-          "title": "Green&#8217;s Dictionary of Slang is &#8220;is the largest historical dictionary of English...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/04/writ-small-a-newsletter-recommending-kids-media",
-          "author": null,
-          "description": "My daughter is home sick from daycare, and I’m letting her watch my phone unlimitedly. She’s absorbed in it but made an exception to look up and point at the above picture, from an entry in Chadwick Matlin’s newsletter Writ Small, about the book Today, by Julie Morstad. The newsletter highlights kids’ media — “think Bluey, but stuff that isn’t Bluey” — and so far the worst part is that I want to buy everything it recommends.\nI also learned a lot from this installment on a song from the 2021 My Little Pony movie. (thx, Gillian!)\nTags: books · Chadwick Matlin · kids · kids books · Writ Small\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/04/writ-small-a-newsletter-recommending-kids-media",
-          "publishedOn": "2024-04-19T20:05:12.000Z",
-          "wordCount": 732,
-          "title": "Writ Small: A Newsletter Recommending Kids&#8217; Media",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/todayjulie1.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/04/0044444-from-kevin-kelly-on-the",
-          "author": null,
-          "description": "From Kevin Kelly on the occasion of his 73rd birthday, 101 bits of additional life advice. “Most arguments are not really about the argument, so most arguments can’t be won by arguing.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/04/0044444-from-kevin-kelly-on-the",
-          "publishedOn": "2024-04-19T19:00:00.000Z",
-          "wordCount": 710,
-          "title": "From Kevin Kelly on the occasion of his 73rd birthday, 101 bits...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/04/0044434-my-therapist-just-told-me",
-          "author": null,
-          "description": "“my therapist just told me that the NYT word games app is becoming a problem for many of her patients, including me … she asked me how long i spent every day doing them and i LIED”\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/04/0044434-my-therapist-just-told-me",
-          "publishedOn": "2024-04-19T18:24:59.000Z",
-          "wordCount": 808,
-          "title": "&#8220;my therapist just told me that the NYT word games app is...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/04/0044443-the-re-release-of-interst",
-          "author": null,
-          "description": "The re-release of Interstellar in 70mm IMAX on my birthday? Don’t mind if I do! “Interstellar will fly back into theaters on Sept. 27, 2024. It will be shown in 70mm Imax prints (Nolan’s preferred format), as well as on digital screens.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/04/0044443-the-re-release-of-interst",
-          "publishedOn": "2024-04-19T17:39:04.000Z",
-          "wordCount": 704,
-          "title": "The re-release of Interstellar in 70mm IMAX on my birthday? Don&#8217;t mind...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/04/0044436-boy-room-a-new-video",
-          "author": null,
-          "description": "“R men ok?????” Boy Room is a new video series that features tours of the “squalid” bedrooms of young men.\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/04/0044436-boy-room-a-new-video",
-          "publishedOn": "2024-04-19T16:50:26.000Z",
-          "wordCount": 680,
-          "title": "&#8220;R men ok?????&#8221; Boy Room is a new video series that features...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/04/0044442-black-twitter-a-peoples-h",
-          "author": null,
-          "description": "Black Twitter: A People’s History is a three-part Hulu documentary series directed by Pentice Penny (Insecure) premiering in May. It’s based on Jason Parham’s Wired article of the same name.\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/04/0044442-black-twitter-a-peoples-h",
-          "publishedOn": "2024-04-19T16:10:02.000Z",
-          "wordCount": 749,
-          "title": "Black Twitter: A People&#8217;s History is a three-part Hulu documentary series directed...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/04/feathers-are-one-of-evolutions-best-inventions",
-          "author": null,
-          "description": "Really fascinating piece by Michael Habib in Scientific American about how amazing feathers are: they come in so many different shapes and sizes and do so many things (insulate, keep dry, flying, noise dampening, etc. etc. etc.) And I loved the opening anecdote:\nIn October 2022 a bird with the code name B6 set a new world record that few people outside the field of ornithology noticed. Over the course of 11 days, B6, a young Bar-tailed Godwit, flew from its hatching ground in Alaska to its wintering ground in Tasmania, covering 8,425 miles without taking a single break. For comparison, there is only one commercial aircraft that can fly that far nonstop, a Boeing 777 with a 213-foot wingspan and one of the most powerful jet engines in the world. During its journey, B6-an animal that could perch comfortably on your shoulder-did not land, did not eat, did not drink and did not stop flapping, sustaining an average ground speed of 30 miles per hour 24 hours a day as it winged its way to the other end of the world.\nMany factors contributed to this astonishing feat of athleticism-muscle power, a high metabolic rate and a physiological tolerance for elevated cortisol levels, among other things. B6’s odyssey is also a triumph of the remarkable mechanical properties of some of the most easily recognized yet enigmatic structures in the biological world: feathers. Feathers kept B6 warm overnight while it flew above the Pacific Ocean. Feathers repelled rain along the way. Feathers formed the flight surfaces of the wings that kept B6 aloft and drove the bird forward for nearly 250 hours without failing.\n\n\n \nTags: birds · flying · Michael Habib · science\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/04/feathers-are-one-of-evolutions-best-inventions",
-          "publishedOn": "2024-04-19T15:26:21.000Z",
-          "wordCount": 921,
-          "title": "Feathers Are One of Evolution&#8217;s Best Inventions",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/04/0044426-a-bar-chart-race-visualiz",
-          "author": null,
-          "description": "A bar chart race visualization of the most popular desktop operating systems from 1985 to the present. Just overwhelming dominance by Microsoft — but an impressive comeback from Apple in the 2010s.\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/04/0044426-a-bar-chart-race-visualiz",
-          "publishedOn": "2024-04-19T14:22:54.000Z",
-          "wordCount": 719,
-          "title": "A bar chart race visualization of the most popular desktop operating systems...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/04/0044352-the-hidden-potential-of-b",
-          "author": null,
-          "description": "The hidden potential of bicycles. “Bicycles have been used for so long as children’s toys and exercise equipment that we forget what useful technology they represent. They multiply our bodies’ speed and efficiency many times over.”\n\n\n\n \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/04/0044352-the-hidden-potential-of-b",
-          "publishedOn": "2024-04-19T13:35:15.000Z",
-          "wordCount": 963,
-          "title": "The hidden potential of bicycles. &#8220;Bicycles have been used for so long...",
           "imageUrl": ""
         }
       ]
