@@ -358,16 +358,6 @@
           "wordCount": 206,
           "title": "Pendulum Types",
           "imageUrl": "https://imgs.xkcd.com/comics/pendulum_types_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2923/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/scary_triangles.png\" title=\"Concealed mostly beneath the surface, sharks are the icebergs of the sea.\" alt=\"Concealed mostly beneath the surface, sharks are the icebergs of the sea.\" />",
-          "link": "https://xkcd.com/2923/",
-          "publishedOn": "2024-04-22T00:00:00.000Z",
-          "wordCount": 206,
-          "title": "Scary Triangles",
-          "imageUrl": "https://imgs.xkcd.com/comics/scary_triangles_2x.png"
         }
       ]
     },
@@ -716,6 +706,16 @@
       "siteUrl": "https://lea.verou.me/feed.xml",
       "articles": [
         {
+          "id": "https://lea.verou.me/blog/2024/css-conditionals-now/",
+          "author": null,
+          "description": "The CSS WG resolved to add if() to CSS, but that won’t be in browsers for a while.\nWhat are our options in the meantime?\nA couple days ago, I posted about the recent CSS WG resolution to add an if() function to CSS.\nGreat as it may be, this is still a long way off, two years if everything goes super smoothly, more if not.\nSo what can you do when you need conditionals right now?\nYou may be pleased to find that you’re not completely out of luck.\nThere is a series of brilliant, horrible hacks that enable you to expose the kinds of higher level custom properties that conditionals typically enable.\nUsing hacks in production?!\nThe instinctive reaction many developers have when seeing hacks like these is “Nice hack, but can’t possibly ever use this in production”.\nThis sounds reasonable on the su…",
+          "link": "https://lea.verou.me/blog/2024/css-conditionals-now/",
+          "publishedOn": "2024-06-20T22:17:16.000Z",
+          "wordCount": 4469,
+          "title": "Inline conditionals in CSS, now?",
+          "imageUrl": "https://lea.verou.me/blog/2024/css-conditionals-now/images/callouts.png"
+        },
+        {
           "id": "https://lea.verou.me/blog/2024/css-conditionals/",
           "author": null,
           "description": "Last week, the CSS WG resolved to add an inline if() to CSS.\nBut what does that mean, and why is it exciting?\nLast week, we had a CSS WG face-to-face meeting in A Coruña, Spain.\nThere is one resolution from that meeting that I’m particularly excited about:\nthe consensus to add an inline if() to CSS.\nWhile I was not the first to propose an inline conditional syntax,\nI did try and scope down the various nonterminating discussions into an MVP that can actually be implemented quickly,\ndiscussed ideas with implemenators,\nand eventually published a concrete proposal and pushed for group resolution.\nQuite poetically, the relevant discussion occurred on my birthday, so in a way, I got if() as the most unique birthday present ever. 😀\nThis also comes to show that proposals being rejected is not the…",
@@ -742,6 +742,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/753829920164265984",
+          "author": null,
+          "description": "notationnotes:\nInfinity cannot be depicted.\nInfinity, by definition, is bigger than anything we can imagine.\nIf you can see something, it is finite.\nRafaël Rozendaal",
+          "link": "https://text-mode.tumblr.com/post/753829920164265984",
+          "publishedOn": "2024-06-20T18:30:33.000Z",
+          "wordCount": 1016,
+          "title": "notationnotes:\n\nInfinity cannot be depicted.Infinity, by...",
+          "imageUrl": "https://64.media.tumblr.com/68211abb76ee573fba2d8b90807e38b0/tumblr_my97a8K00Q1qc5xeco1_1280.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/753739373876559872",
           "author": null,
@@ -1331,16 +1341,6 @@
           "wordCount": 1018,
           "title": "text-mode:\n\nExample uses of the VGT228 Plus Colour Video Title...",
           "imageUrl": "https://64.media.tumblr.com/541be39a6de02558df4deaf336541260/tumblr_n59ww2bi8k1rpiyaso1_1280.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/748394123658199040",
-          "author": null,
-          "description": "text-mode:\nCat (Animal)",
-          "link": "https://text-mode.tumblr.com/post/748394123658199040",
-          "publishedOn": "2024-04-21T18:30:54.000Z",
-          "wordCount": 1003,
-          "title": "text-mode:\n\nCat (Animal)",
-          "imageUrl": "https://64.media.tumblr.com/5e7d1f41ba699604eefc464d7f71324e/tumblr_n4wv3uDjUn1rpiyaso1_540.png"
         }
       ]
     },
@@ -1349,6 +1349,26 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=75064",
+          "author": "Aron Yohannes",
+          "description": "At Mozilla, we know we can’t create a better future alone, that is why each year we will be highlighting the work of 25 digital leaders using technology to amplify voices, effect change, and build new technologies globally through our Rise 25 Awards. These storytellers, innovators, activists, advocates, builders and artists are helping make the internet more diverse, […]\nThe post Natalia Domagala on fighting for transparent AI, the power of algorithms, climate change and more appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/internet-culture/natalia-domagala-ai-mozilla-algorithms-rise-25/",
+          "publishedOn": "2024-06-20T21:07:24.000Z",
+          "wordCount": 3626,
+          "title": "Natalia Domagala on fighting for transparent AI, the power of algorithms, climate change and more",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2024/06/moz_Rise25Winners_1200x800_Natalia-Domagala.png"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=75242",
+          "author": "Hannah Bullion",
+          "description": "My relationship with online shopping is ever evolving. It’s either a little too convenient, extremely gratifying or entirely too much fun. I’m an eBay hawk, a casual Amazon browser and a Sephora VIB member. I recently joined the team at Fakespot though, which changed the game for my online shopping habits. Suddenly, browsing these retailers […]\nThe post Firefox tips and tricks for online shopping appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/products/firefox/firefox-tips/online-shopping-tips/",
+          "publishedOn": "2024-06-20T19:03:53.000Z",
+          "wordCount": 1756,
+          "title": "Firefox tips and tricks for online shopping",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2024/06/moz_blogpostseries_shoppers_1x-1200x800.png"
+        },
         {
           "id": "https://blog.mozilla.org/?p=75198",
           "author": "Laura Chambers",
@@ -1637,6 +1657,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=8979",
+          "author": "Cory Doctorow",
+          "description": "Today's links How to design a tech regulation: A modest proposal for a transatlantic self-equilibriating system. Hey look at this: Delights to delectate. This day in history: 2004, 2014, 2019 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. How to design a tech regulation (permalink) It's not your imagination: tech really is underregulated. There are plenty of avoidable harms that tech visits upon the world, and while some of these harms are mere negligence, others are self-serving, creating shareholder value and widespread public destruction. Making good tech policy is hard, but not because \"tech moves too fast for regulation to …",
+          "link": "https://pluralistic.net/2024/06/20/scalesplaining/",
+          "publishedOn": "2024-06-20T21:29:31.000Z",
+          "wordCount": 4439,
+          "title": "Pluralistic: How to design a tech regulation (20 Jun 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=8972",
           "author": "Cory Doctorow",
@@ -2141,16 +2171,6 @@
           "wordCount": 4144,
           "title": "Pluralistic: \"Humans in the loop\" must detect the hardest-to-spot errors, at superhuman speed (23 Apr 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=8560",
-          "author": "Cory Doctorow",
-          "description": "Today's links Paying for it doesn't make it a market: But competition does. Hey look at this: Delights to delectate. This day in history: 2009, 2014, 2019, 2023 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Paying for it doesn't make it a market (permalink) Anyone who says \"If you're not paying for the product, you're the product\" has been suckered in by Big Tech, whose cargo-cult version of markets and the discipline they impose on companies. Here's the way that story goes: companies that fear losing your business will treat you better, because treating you worse will cost them money. Since ad-supported media gets paid by adve…",
-          "link": "https://pluralistic.net/2024/04/22/kargo-kult-kaptialism/",
-          "publishedOn": "2024-04-22T07:29:28.000Z",
-          "wordCount": 4091,
-          "title": "Pluralistic: Paying for it doesn't make it a market (22 Apr 2024)",
-          "imageUrl": null
         }
       ]
     },
@@ -2203,6 +2223,56 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/06/80-iconic-piano-intros-played-back-to-back-from-memory",
+          "author": null,
+          "description": "In this video, pianist David Bennett plays 80 of the best piano intros from the past 120 years, back-to-back and all from memory. This was lovely to listen to while I was eating my lunch.\nSome of the intros I particularly enjoyed were Scott Joplin’s The Entertainer, Nina Simone’s My Baby Just Cares For Me, Let It Be by The Beatles, Don’t Stop Believin’ by Journey, Children by Robert Miles, Clocks by Coldplay, A Thousand Miles by Vanessa Carlton, and Breathe Me by Sia. a song I still cannot listen to without tearing up because of the series finale of Six Feet Under.\nTags: best of · David Bennett · music · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/06/80-iconic-piano-intros-played-back-to-back-from-memory",
+          "publishedOn": "2024-06-20T20:37:37.000Z",
+          "wordCount": 870,
+          "title": "80 Iconic Piano Intros, Played Back-to-Back From Memory",
+          "imageUrl": "https://i.ytimg.com/vi/YT_RT6-QXUI/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/06/0044846-a-photographer-entered-a-",
+          "author": null,
+          "description": "A photographer entered a real photo of a flamingo in an AI image contest and was disqualified after winning the People’s Vote Award. “I wanted to show that nature can still beat the machine.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/06/0044846-a-photographer-entered-a-",
+          "publishedOn": "2024-06-20T16:15:22.000Z",
+          "wordCount": 691,
+          "title": "A photographer entered a real photo of a flamingo in an AI...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/06/a-few-lessons-from-roger-federers-dartmouth-commencement-speech",
+          "author": null,
+          "description": "Two weeks ago, Roger Federer gave the commencement speech at Dartmouth. After asserting that he’d graduated (and not retired) from professional tennis, Federer shared what he learned from his years on the pro circuit. Some excerpts from the transcript:\n“Effortless”… is a myth.\nI mean it.\nI say that as someone who has heard that word a lot. “Effortless.”\nPeople would say my play was effortless. Most of the time, they meant it as a compliment… But it used to frustrate me when they would say, “He barely broke a sweat!”\nOr “Is he even trying?”\nThe truth is, I had to work very hard… to make it look easy.\nI spent years whining… swearing… throwing my racket… before I learned to keep my cool.\nThe wakeup call came early in my career, when an opponent at the Italian Open publicly questioned my menta…",
+          "link": "https://kottke.org/24/06/a-few-lessons-from-roger-federers-dartmouth-commencement-speech",
+          "publishedOn": "2024-06-20T15:34:08.000Z",
+          "wordCount": 1502,
+          "title": "A Few Lessons from Roger Federer&#8217;s Dartmouth Commencement Speech",
+          "imageUrl": "https://i.ytimg.com/vi/pqWUuYTcG-o/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/06/0044837-the-coming-birth-control-",
+          "author": null,
+          "description": "The Coming Birth-Control Revolution. “Researchers have taken massive steps toward developing simple, convenient, and effective contraceptive options for men with virtually zero side effects.” And it could “transform women’s contraception too”.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/06/0044837-the-coming-birth-control-",
+          "publishedOn": "2024-06-20T14:55:49.000Z",
+          "wordCount": 1271,
+          "title": "The Coming Birth-Control Revolution. &#8220;Researchers have taken massive steps toward developing simple,...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/06/0044843-trolley-problem-variation",
+          "author": null,
+          "description": "Trolley Problem Variations for Dads. “As he begins to think it over, he keeps saying, ‘This is exactly like the Kobayashi Maru!’ He then spends so much time explaining how Captain Kirk cheated to win the scenario that he never pulls the lever.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/06/0044843-trolley-problem-variation",
+          "publishedOn": "2024-06-20T14:00:00.000Z",
+          "wordCount": 715,
+          "title": "Trolley Problem Variations for Dads. &#8220;As he begins to think it over,...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/24/06/0044845-photographer-sue-kwon-cap",
           "author": null,
