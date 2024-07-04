@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2024-07-03T00:33:31.387Z</updated>
+    <updated>2024-07-04T00:33:21.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[text-mode:
+
+BBS-animation by Le Geek, 1989. C64 PETSCII.]]></title>
+        <id>https://text-mode.tumblr.com/post/755007689565814784</id>
+        <link href="https://text-mode.tumblr.com/post/755007689565814784"/>
+        <updated>2024-07-03T18:30:42.000Z</updated>
+        <summary type="html"><![CDATA[text-mode:
+BBS-animation by Le Geek, 1989. C64 PETSCII.]]></summary>
+        <author>
+            <name>TEXT-MODE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reasons to use your shell's job control]]></title>
+        <id>https://jvns.ca/blog/2024/07/03/reasons-to-use-job-control/</id>
+        <link href="https://jvns.ca/blog/2024/07/03/reasons-to-use-job-control/"/>
+        <updated>2024-07-03T08:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Hello! Today someone on Mastodon asked about job control (fg, bg, Ctrl+z,
+wait, etc). It made me think about how I don’t use my shell’s job
+control interactively very often: usually I prefer to just open a new terminal
+tab if I want to run multiple terminal programs, or use tmux if it’s over ssh.
+But I was curious about whether other people used job control more often than me.
+So I asked on Mastodon for
+reasons people use job control. There were a lot of great responses, and it
+even made me want to consider using job control a little more!
+In this post I’m only going to talk about using job control interactively (not
+in scripts) – the post is already long enough just talking about interactive
+use.
+what’s job control?
+First: what’s job control? Well – in a terminal, your processes can be in…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forget “show, don’t tell”. Engage, don’t show!]]></title>
+        <id>https://lea.verou.me/blog/2024/engage-dont-show/</id>
+        <link href="https://lea.verou.me/blog/2024/engage-dont-show/"/>
+        <updated>2024-07-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A few days ago, I gave a very well received talk about API design at dotJS titled “API Design is UI Design” [1].
+One of the points I made was that good UIs (and thus, good APIs) have a smooth UI complexity to Use case complexity curve.
+This means that incremental user effort results in incremental value;
+at no point going just a little bit further requires a disproportionately big chunk of upfront work [2].
+
+Observing my daughter’s second ever piano lesson today made me realize how this principle extends to education and most other kinds of knowledge transfer (writing, presentations, etc.).
+Her (generally wonderful) teacher spent 40 minutes teaching her notation, longer and shorter notes, practicing drawing clefs, etc.
+Despite his playful demeanor and her general interest in the subject, s…]]></summary>
+        <author>
+            <name>Lea Verou’s blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wells Fargo analysts ordered 75 identical burrito bowls from 8 different Chipotles...]]></title>
         <id>https://kottke.org/24/07/0044894-wells-fargo-analysts-orde</id>
@@ -8015,20 +8067,6 @@ Devils Postpile, USA. Nature’s own hexagonal...]]></title>
         <updated>2024-05-05T18:30:45.000Z</updated>
         <summary type="html"><![CDATA[text-mode:
 Devils Postpile, USA. Nature’s own hexagonal tessellations, square blocks and straight pillars.]]></summary>
-        <author>
-            <name>TEXT-MODE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[text-mode:
-
-Beethoven today, Bob Cobbing (1970).From the book...]]></title>
-        <id>https://text-mode.tumblr.com/post/749571938406563840</id>
-        <link href="https://text-mode.tumblr.com/post/749571938406563840"/>
-        <updated>2024-05-04T18:31:45.000Z</updated>
-        <summary type="html"><![CDATA[text-mode:
-Beethoven today, Bob Cobbing (1970).
-From the book “Typewriter Art” (1975), edited by Alan Riddell.]]></summary>
         <author>
             <name>TEXT-MODE</name>
         </author>

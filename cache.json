@@ -706,6 +706,16 @@
       "siteUrl": "https://lea.verou.me/feed.xml",
       "articles": [
         {
+          "id": "https://lea.verou.me/blog/2024/engage-dont-show/",
+          "author": null,
+          "description": "A few days ago, I gave a very well received talk about API design at dotJS titled “API Design is UI Design” [1].\nOne of the points I made was that good UIs (and thus, good APIs) have a smooth UI complexity to Use case complexity curve.\nThis means that incremental user effort results in incremental value;\nat no point going just a little bit further requires a disproportionately big chunk of upfront work [2].\n\nObserving my daughter’s second ever piano lesson today made me realize how this principle extends to education and most other kinds of knowledge transfer (writing, presentations, etc.).\nHer (generally wonderful) teacher spent 40 minutes teaching her notation, longer and shorter notes, practicing drawing clefs, etc.\nDespite his playful demeanor and her general interest in the subject, s…",
+          "link": "https://lea.verou.me/blog/2024/engage-dont-show/",
+          "publishedOn": "2024-07-03T00:00:00.000Z",
+          "wordCount": 1259,
+          "title": "Forget “show, don’t tell”. Engage, don’t show!",
+          "imageUrl": "https://lea.verou.me/blog/2024/engage-dont-show/images/smooth-curve.png"
+        },
+        {
           "id": "https://lea.verou.me/blog/2024/css-conditionals-now/",
           "author": null,
           "description": "The CSS WG resolved to add if() to CSS, but that won’t be in browsers for a while.\nWhat are our options in the meantime?\nA couple days ago, I posted about the recent CSS WG resolution to add an if() function to CSS.\nGreat as it may be, this is still a long way off, two years if everything goes super smoothly, more if not.\nSo what can you do when you need conditionals right now?\nYou may be pleased to find that you’re not completely out of luck.\nThere is a series of brilliant, horrible hacks that enable you to expose the kinds of higher level custom properties that conditionals typically enable.\nUsing hacks in production?!\nThe instinctive reaction many developers have when seeing hacks like these is “Nice hack, but can’t possibly ever use this in production”.\nThis sounds reasonable on the su…",
@@ -742,6 +752,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/755007689565814784",
+          "author": null,
+          "description": "text-mode:\nBBS-animation by Le Geek, 1989. C64 PETSCII.",
+          "link": "https://text-mode.tumblr.com/post/755007689565814784",
+          "publishedOn": "2024-07-03T18:30:42.000Z",
+          "wordCount": 917,
+          "title": "text-mode:\n\nBBS-animation by Le Geek, 1989. C64 PETSCII.",
+          "imageUrl": "https://i.ytimg.com/vi/tH0xMsUSKjo/hqdefault.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/754917128846589952",
           "author": null,
@@ -1331,16 +1351,6 @@
           "wordCount": 1019,
           "title": "text-mode:\n\nDevils Postpile, USA. Nature’s own hexagonal...",
           "imageUrl": "https://64.media.tumblr.com/b39346583d26d2440cf809902903ae41/tumblr_n53o6yM0rI1rpiyaso1_1280.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/749571938406563840",
-          "author": null,
-          "description": "text-mode:\nBeethoven today, Bob Cobbing (1970).\nFrom the book “Typewriter Art” (1975), edited by Alan Riddell.",
-          "link": "https://text-mode.tumblr.com/post/749571938406563840",
-          "publishedOn": "2024-05-04T18:31:45.000Z",
-          "wordCount": 1011,
-          "title": "text-mode:\n\nBeethoven today, Bob Cobbing (1970).From the book...",
-          "imageUrl": "https://64.media.tumblr.com/887616da4e4259f48eb0e086d953fc9b/tumblr_n4fgi6FEGg1rpiyaso1_1280.jpg"
         }
       ]
     },
@@ -1646,6 +1656,16 @@
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
+        {
+          "id": "https://jvns.ca/blog/2024/07/03/reasons-to-use-job-control/",
+          "author": null,
+          "description": "Hello! Today someone on Mastodon asked about job control (fg, bg, Ctrl+z,\nwait, etc). It made me think about how I don’t use my shell’s job\ncontrol interactively very often: usually I prefer to just open a new terminal\ntab if I want to run multiple terminal programs, or use tmux if it’s over ssh.\nBut I was curious about whether other people used job control more often than me.\nSo I asked on Mastodon for\nreasons people use job control. There were a lot of great responses, and it\neven made me want to consider using job control a little more!\nIn this post I’m only going to talk about using job control interactively (not\nin scripts) – the post is already long enough just talking about interactive\nuse.\nwhat’s job control?\nFirst: what’s job control? Well – in a terminal, your processes can be in…",
+          "link": "https://jvns.ca/blog/2024/07/03/reasons-to-use-job-control/",
+          "publishedOn": "2024-07-03T08:00:20.000Z",
+          "wordCount": 1926,
+          "title": "Reasons to use your shell's job control",
+          "imageUrl": null
+        },
         {
           "id": "https://jvns.ca/blog/2024/04/25/new-zine--how-git-works-/",
           "author": null,
