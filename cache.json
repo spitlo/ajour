@@ -140,6 +140,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2956/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/number_line_branch.png\" title=\"Attention all passengers: This is an express sequence to infinity. If your stop is not a power of two, please disembark now.\" alt=\"Attention all passengers: This is an express sequence to infinity. If your stop is not a power of two, please disembark now.\" />",
+          "link": "https://xkcd.com/2956/",
+          "publishedOn": "2024-07-08T00:00:00.000Z",
+          "wordCount": 209,
+          "title": "Number Line Branch",
+          "imageUrl": "https://imgs.xkcd.com/comics/number_line_branch_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2955/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/pole_vault.png\" title=\"Ugh, and we JUST went through this yesterday with javelin.\" alt=\"Ugh, and we JUST went through this yesterday with javelin.\" />",
@@ -378,16 +388,6 @@
           "wordCount": 206,
           "title": "Driving PSA",
           "imageUrl": "https://imgs.xkcd.com/comics/driving_psa_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2931/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/chasing.png\" title=\"Certain hybrid events can only happen in certain locations where all the conditions are present; chasers flock to the area in and around Kansas known as tumbleweed-colliding-with-possum alley.\" alt=\"Certain hybrid events can only happen in certain locations where all the conditions are present; chasers flock to the area in and around Kansas known as tumbleweed-colliding-with-possum alley.\" />",
-          "link": "https://xkcd.com/2931/",
-          "publishedOn": "2024-05-10T00:00:00.000Z",
-          "wordCount": 204,
-          "title": "Chasing",
-          "imageUrl": "https://imgs.xkcd.com/comics/chasing_2x.png"
         }
       ]
     },
@@ -762,6 +762,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/755460678902595584",
+          "author": null,
+          "description": "text-mode:\nAndrew Topel",
+          "link": "https://text-mode.tumblr.com/post/755460678902595584",
+          "publishedOn": "2024-07-08T18:30:46.000Z",
+          "wordCount": 978,
+          "title": "text-mode:\n\nAndrew Topel",
+          "imageUrl": "https://64.media.tumblr.com/tumblr_m2rzfd2KW11rpiyaso1_1280.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/755370072789434368",
           "author": null,
@@ -1351,16 +1361,6 @@
           "wordCount": 982,
           "title": "text-mode:\n\nsource",
           "imageUrl": "https://64.media.tumblr.com/7175fe45a937aa3a8b1a7c23bee566af/tumblr_n4reezdaHh1rpiyaso1_540.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/750024878754791424",
-          "author": null,
-          "description": "text-mode:\nMade with the Camlink Vision 500 titler.\nvia rhizomedotorg",
-          "link": "https://text-mode.tumblr.com/post/750024878754791424",
-          "publishedOn": "2024-05-09T18:31:03.000Z",
-          "wordCount": 993,
-          "title": "text-mode:\n\nMade with the Camlink Vision 500...",
-          "imageUrl": "https://64.media.tumblr.com/90af2af02d26969f12e8d60de0e08a8f/tumblr_n57khdEkex1qm3kxlo1_1280.jpg"
         }
       ]
     },
@@ -1656,6 +1656,16 @@
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
+        {
+          "id": "https://jvns.ca/blog/2024/07/08/readline/",
+          "author": null,
+          "description": "The other day I asked what folks on Mastodon find confusing about working in\nthe terminal, and one thing that stood out to me was “editing a command you\nalready typed in”.\nThis really resonated with me: even though entering some text and editing it is\na very “basic” task, it took me maybe 15 years of using the terminal every\nsingle day to get used to using Ctrl+A to go to the beginning of the line (or\nCtrl+E for the end).\nSo let’s talk about why entering text might be hard! I’ll also share a few tips\nthat I wish I’d learned earlier.\nit’s very inconsistent between programs\nA big part of what makes entering text in the terminal hard is the\ninconsistency between how different programs handle entering text. For example:\nsome programs (the dash shell, cat, nc, git commit --interactive, etc) don…",
+          "link": "https://jvns.ca/blog/2024/07/08/readline/",
+          "publishedOn": "2024-07-08T13:00:15.000Z",
+          "wordCount": 2120,
+          "title": "Entering text in the terminal is complicated",
+          "imageUrl": null
+        },
         {
           "id": "https://jvns.ca/blog/2024/07/03/reasons-to-use-job-control/",
           "author": null,
@@ -2263,6 +2273,116 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/07/0044922-the-onion-highlights-some",
+          "author": null,
+          "description": "The Onion highlights some of the lesser-known Project 2025 plans. “Immigration through Ticketmaster: By privatizing immigration, it ensures all immigrants pay the service fee, order processing fee, and the occasional surge pricing fees.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/07/0044922-the-onion-highlights-some",
+          "publishedOn": "2024-07-08T22:55:29.000Z",
+          "wordCount": 753,
+          "title": "The Onion highlights some of the lesser-known Project 2025 plans. &#8220;Immigration through...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/07/0044917-project-2025-would-be-a",
+          "author": null,
+          "description": "Project 2025 would be a disaster for the environment. “It would be game over for climate progress in the US, turning the reins of our government over to the polluters.”",
+          "link": "https://kottke.org/24/07/0044917-project-2025-would-be-a",
+          "publishedOn": "2024-07-08T22:19:35.000Z",
+          "wordCount": 576,
+          "title": "Project 2025 would be a disaster for the environment. &#8220;It would be...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/07/the-terrifying-project-2025",
+          "author": null,
+          "description": "Former Secretary of Labor Robert Reich on Project 2025, the extremist conservative plan for America if Trump wins the 2024 election — a wish-list to continue their fascist takeover of America.\nOne key goal of Project 2025 is to purge all government agencies of anyone more loyal to the constitution than to Trump — a process Trump himself started in October 2020 when he thought he would remain in office.\nTrump has promised to give rightwing evangelical Christians what they want. Accordingly, Project 2025 calls for withdrawing the abortion pill mifepristone from the market, expelling trans service members from the military, banning life-saving gender affirming care for young people, ending all diversity programs, and using “school choice” to gut public education.\nProject 2025 also calls for e…",
+          "link": "https://kottke.org/24/07/the-terrifying-project-2025",
+          "publishedOn": "2024-07-08T21:32:00.000Z",
+          "wordCount": 1414,
+          "title": "The Terrifying Project 2025",
+          "imageUrl": "https://i.ytimg.com/vi/gYwqpx6lp_s/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/07/how-to-stop-fascism-five-lessons-of-the-nazi-takeover",
+          "author": null,
+          "description": "From Timothy Snyder again, this time on what lessons we can draw on to prevent America’s collapse into fascism.\n4. Big business should support democracy. In the Germany of the 1930s, business leaders were not necessarily enthusiastic about Hitler as a person. But they associated democracy with labor unions and wanted to break them. Seeing Hitler as an instrument of their own profit, business leaders enabled the Nazi regime. This was, in the end, very bad for business. Although the circumstances today are different, the general lesson is the same: whether they like it or not, business leaders bear responsibility for whether a republic endures or is destroyed.\n\n\nI loved his succinct conclusion:\nIt’s simple: recalling history, we act in the present, for a future that can and will be much better.\n\n\n        \n\n         \nTags: history · lists · Nazis · politics · Timothy Snyder · USA",
+          "link": "https://kottke.org/24/07/how-to-stop-fascism-five-lessons-of-the-nazi-takeover",
+          "publishedOn": "2024-07-08T19:45:55.000Z",
+          "wordCount": 689,
+          "title": "How to Stop Fascism: Five Lessons of the Nazi Takeover",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/07/fascism-and-fear-and-the-media",
+          "author": null,
+          "description": "Historian and scholar Timothy Snyder, who wrote On Tyranny and this amazing piece about the fascism of Trump and the conservative movement, wrote about a crucial difference in how the media are covering Biden versus how they cover Trump.\nIt should seem odd that media calls to step down were not first directed to Trump. If we are calling for Biden to step aside because someone must stop Trump from bringing down the republic, then surely it would have made more sense to first call for Trump to step aside? (The Philadelphia Inquirer did). I know the counter-arguments: his people wouldn’t have cared, and he wouldn’t have listened. The first misses an important point. There are quite a few Americans who have not made up their minds. The second amounts to obeying in advance. If you accept that a fascist is beyond your reach, you have normalized your submission.\n\n\n“Do not obey in advance” is Snyder’s very first lesson from his 20 Lessons from the 20th Century about fighting authoritarianism:\n1. Do not obey in advance. Much of the power of authoritarianism is freely given. In times like these, individuals think ahead about what a more repressive government will want, and then start to do it without being asked. You’ve already done this, haven’t you? Stop. Anticipatory obedience teaches authorities what is possible and accelerates unfreedom.\n\n\nNote: Illustration by the awesome Chris Piascik.\nTags: Donald Trump · Joe Biden · politics · Timothy Snyder · USA",
+          "link": "https://kottke.org/24/07/fascism-and-fear-and-the-media",
+          "publishedOn": "2024-07-08T18:08:34.000Z",
+          "wordCount": 784,
+          "title": "Fascism and Fear and the Media",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/do-not-obey.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/07/0044916-the-forgotten-black-explo",
+          "author": null,
+          "description": "The Forgotten Black Explorers Who Transformed Americans’ Understanding of the Wilderness. Esteban, York and James Beckwourth charted the American frontier between the 16th and 19th centuries.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/07/0044916-the-forgotten-black-explo",
+          "publishedOn": "2024-07-08T17:30:04.000Z",
+          "wordCount": 689,
+          "title": "The Forgotten Black Explorers Who Transformed Americans&#8217; Understanding of the Wilderness. Esteban,...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/07/we-talking-about-practice",
+          "author": null,
+          "description": "From Heather Cox Richardson, writing on the night of the debate, a reminder of just how bad Trump’s performance was, a shambolic spectacle that was met with shrugs because that’s what we expect of him:\nIn contrast, Trump came out strong but faded and became less coherent over time. His entire performance was either lies or rambling non-sequiturs. He lied so incessantly throughout the evening that it took CNN fact-checker Daniel Dale almost three minutes, speaking quickly, to get through the list.\nTrump said that some Democratic states allow people to execute babies after they’re born and that every legal scholar wanted Roe v. Wade overturned — both fantastical lies. He said that the deficit is at its highest level ever and that the U.S. trade deficit is at its highest ever: both of those t…",
+          "link": "https://kottke.org/24/07/we-talking-about-practice",
+          "publishedOn": "2024-07-08T16:07:26.000Z",
+          "wordCount": 969,
+          "title": "We Talking About Practice",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/07/0044910-an-interesting-teaser-tra",
+          "author": null,
+          "description": "An interesting teaser trailer for F1, the racing drama starring Brad Pitt — it’s like a 90-second music video. Joseph Kosinski is directing…he did Top Gun: Maverick, which makes me optimistic about this one.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/07/0044910-an-interesting-teaser-tra",
+          "publishedOn": "2024-07-08T15:27:08.000Z",
+          "wordCount": 757,
+          "title": "An interesting teaser trailer for F1, the racing drama starring Brad Pitt...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/07/appalling-vs-a-whole-other-level-of-appalling",
+          "author": null,
+          "description": "Rebecca Solnit: Why is the pundit class so desperate to push Biden out of the race?\nI am not usually one to offer diagnoses of people I’ve never met, but it does seem like the pundit class of the American media is suffering from severe memory loss. Because they’re doing exactly what they did in the 2016 presidential race — providing wildly asymmetrical and inflammatory coverage of the one candidate running against Donald J Trump.\nThey have become a stampeding herd producing an avalanche of stories suggesting Biden is unfit, will lose and should go away, at a point in the campaign in which replacing him would likely be somewhere between extremely difficult and utterly catastrophic. They do this while ignoring something every scholar and critic of journalism knows well and every journalist s…",
+          "link": "https://kottke.org/24/07/appalling-vs-a-whole-other-level-of-appalling",
+          "publishedOn": "2024-07-08T14:26:18.000Z",
+          "wordCount": 925,
+          "title": "Appalling vs. a Whole Other Level of Appalling",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/07/0044907-there-i-ruined-it-kermit",
+          "author": null,
+          "description": "There I Ruined It: Kermit the Frog sings Snoop Dogg’s Gin and Juice to the tune of Rainbow Connection.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/07/0044907-there-i-ruined-it-kermit",
+          "publishedOn": "2024-07-08T13:51:53.000Z",
+          "wordCount": 664,
+          "title": "There I Ruined It: Kermit the Frog sings Snoop Dogg&#8217;s Gin and...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/07/0044906-whoever-the-democratic-ca",
+          "author": null,
+          "description": "Whoever the Democratic Candidate Is, Americans Have Already Lost. “If you take your eye off the ball of democracy for any length of time, no amount of history will save you. Americans have taken our eyes off the ball.”",
+          "link": "https://kottke.org/24/07/0044906-whoever-the-democratic-ca",
+          "publishedOn": "2024-07-08T13:15:12.000Z",
+          "wordCount": 600,
+          "title": "Whoever the Democratic Candidate Is, Americans Have Already Lost. &#8220;If you take...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/24/07/0044904-heres-what-the-web-looked",
           "author": null,
@@ -5381,66 +5501,6 @@
           "publishedOn": "2024-05-10T13:22:25.000Z",
           "wordCount": 719,
           "title": "I missed this from last year: the original &#8220;on the internet, nobody...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/05/spring-and-summer-skies-amy-jean-porter",
-          "author": null,
-          "description": "Just some lovely painted skies to end the day. (Above, below.)\n\nTags: Amy Jean Porter · art · skies\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/05/spring-and-summer-skies-amy-jean-porter",
-          "publishedOn": "2024-05-09T21:00:09.000Z",
-          "wordCount": 657,
-          "title": "Spring and Summer Skies by Amy Jean Porter",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/ajp4.png"
-        },
-        {
-          "id": "https://kottke.org/24/05/romanian-singer-maria-coman",
-          "author": null,
-          "description": "choral music playlist the other day, with the preceding lines as an intro, and the idea of a “last instrument” was pleasingly creepy to me. It also reminded me of the above video, of artist Maria Coman singing the “Love is patient, love is kind” lines from the First Epistle to the Corinthians, from the Bible. (1 Corinthians 13: 1-8.) More of Coman’s music can be found on her website. And what is that church she’s in? \nTags: Maria Coman · music · Tyler Cowen\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/05/romanian-singer-maria-coman",
-          "publishedOn": "2024-05-09T20:00:56.000Z",
-          "wordCount": 860,
-          "title": "Romanian Singer Maria Coman",
-          "imageUrl": "https://i.ytimg.com/vi/Wjeburhcvww/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/05/take-two-trips",
-          "author": null,
-          "description": "The Greatest Life Hacks in the World (For Now).” It was mostly a tribute to Kevin Kelly’s famous life advice posts, but Brooks added one of his own, and  I’ve thought of at least once a week since: \n…over the last few years I have embraced, almost as a religious mantra, the idea that if you’re not sure you can carry it all, take two trips.\n\n\nTake two trips. Nothing serious, but of all the “life advice” posts I’ve read, this is the one that’s changed my own life the most. Anyone else have something from an advice list that really made it into their brains/lives?\nThe closest thing to a life advice aphorism I’ve ever come up with is maybe too gross to write down. And it’s running-themed, so it could be too specific. But maybe if I share it here, I will exorcise it from my brain: Sometimes you’re so worried about pooping your pants that you don’t realize you’ve already pooped your pants. \nTags: advice · David Brooks · Kevin Kelly · take two trips\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/05/take-two-trips",
-          "publishedOn": "2024-05-09T19:00:02.000Z",
-          "wordCount": 1239,
-          "title": "Take Two Trips",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/twotrips.jpeg"
-        },
-        {
-          "id": "https://kottke.org/24/05/0044588-this-is-the-first-im",
-          "author": null,
-          "description": "This is the first I’m learning of the spookily named Decline at 9 phenomenon, in which kids apparently lose interest in reading around age nine. (Per the article, 57% of 8-year-olds claim to read for fun daily, vs. only 35% of 9-year-olds.) ¯\\_(ツ)_/¯\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/05/0044588-this-is-the-first-im",
-          "publishedOn": "2024-05-09T18:00:49.000Z",
-          "wordCount": 710,
-          "title": "This is the first I&#8217;m learning of the spookily named Decline at...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/05/diary-comics-dec-21-25",
-          "author": null,
-          "description": "It’s another Thursday Afternoon With Edith, and here are a bunch more comics from my journal! I’m publishing everything through my new baby’s birth, because it seemed silly to draw it out any longer than I have! She’s now four months old. 👶 (Previously.)\n\n\n\n\n\n\n\n\n        \n\n         \nTags: diary comics\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/05/diary-comics-dec-21-25",
-          "publishedOn": "2024-05-09T17:00:55.000Z",
-          "wordCount": 887,
-          "title": "Diary Comics, Dec. 21-25",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/dec21intro.png"
-        },
-        {
-          "id": "https://kottke.org/24/05/0044554-i-maintain-that-the-trash",
-          "author": null,
-          "description": "“I maintain that the trash compactor onboard the Death Star in Star Wars is implausible, unworkable, and, moreover, inefficient.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/05/0044554-i-maintain-that-the-trash",
-          "publishedOn": "2024-05-09T15:27:23.000Z",
-          "wordCount": 1070,
-          "title": "&#8220;I maintain that the trash compactor onboard the Death Star in Star...",
           "imageUrl": ""
         }
       ]
