@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2024-08-30T00:36:47.312Z</updated>
+    <updated>2024-08-31T00:36:33.508Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[text-mode:
+
+Flyer for a night in London 2003 w/ Lektrogirl, Paul...]]></title>
+        <id>https://text-mode.tumblr.com/post/760262330701545472</id>
+        <link href="https://text-mode.tumblr.com/post/760262330701545472"/>
+        <updated>2024-08-30T18:30:58.000Z</updated>
+        <summary type="html"><![CDATA[text-mode:
+Flyer for a night in London 2003 w/ Lektrogirl, Paul B Davis, DJ Manbag, John Power.
+source]]></summary>
+        <author>
+            <name>TEXT-MODE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Secret Message Contained in One Million Checkboxes]]></title>
+        <id>https://kottke.org/24/08/secret-message-in-one-million-checkboxes</id>
+        <link href="https://kottke.org/24/08/secret-message-in-one-million-checkboxes"/>
+        <updated>2024-08-30T13:16:57.000Z</updated>
+        <summary type="html"><![CDATA[In my XOXO post on Monday, I said that Nolen Royalty, the creator of One Million Checkboxes, had told “one of the wackiest internet nerd stories I’ve ever heard”. Well, Royalty has now put that story online, both in the form of a blog post and a YouTube video:
+
+I panicked. There were URLs in my database! There were URLs pointing to catgirls.win in my database!! Something was very very wrong.
+I assumed I’d been hacked. I poured over my logs, looking for evidence of an intrusion. I read and re-read my code, searching for how somebody could be stuffing strings into a database that should have just contained 0s and 1s.
+I couldn’t find anything. My access logs looked fine. My (very simple) code was ok. My heart rate increased. My girlfriend patiently waited for me to join her for dinner. And then — wait.
+Wait!
+I saw it.
+
+
+It’s a great story — read/watch the whole thing. It reminds me of the palimpsest (layered communication) that the aliens use to communicate with Earth in Carl Sagan’s Contact (and the 1997 movie). Not only because of the in-game message left for Royalty but for the way that there turned out to be many ways to “play” or “beat” OMCB.
+Tags: Nolen Royalty · video
+💬 Join the discussion on kottke.org →]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RIP to journalist, author, and huge Deadhead Steve Silberman. His wish when...]]></title>
         <id>https://kottke.org/24/08/0045192-rip-to-journalist-author-</id>
@@ -21,6 +56,25 @@
 💬 Join the discussion on kottke.org →]]></summary>
         <author>
             <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The moment before: 30th Aug [blog]]]></title>
+        <id>the-moment-before-30th-aug</id>
+        <link href="https://remysharp.com/2024/08/30/the-moment-before-30th-aug"/>
+        <updated>2024-08-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I don't like waking up on this particular day. I almost want to just skip the day and not face it.
+I don't like it because I know there's a version of me that's waking up to this particular morning in 2010 still innocent and full of hope and excitement that our first child is on their way.
+That version of me doesn't know that this would be the last day. That in the hours that lead into the night, that Tia, our first, would die during those long hours of labour.
+This day, the 30th, is the moment before.
+Her tiny heart would stop and that version of me, of us, Julie and I, our entire lives will be derailed forever.
+It's not a version of me, but actually me. When our planet was pretty much in the same place as it is today, just 14 small years ago.
+Instead of wrapping presents for a teenage girl, Julie and I steal a single day to be on our own and think about that single day, on the 31st that we got to spend with Tia.
+It's not fair. It's never fair when a child goes before its parents. It's not the order of things and no amount of good karma can balance it or make good things happen or change the past.
+So instead Julie and I schedule our grief for this day, the 30th, and tomorrow will spend the day with our living and loving children, and together we'll visit Tia's resting place, set flowers, read cards and wrap ourselves in love. And even though we have a grave for Tia, we're always told our kids, and ourselves, that she isn't there, at that grave, but with us, she's with us when we're home. She's around us.
+I just want this day to be over, but I have to face it, and it'll forever be the last day her heart still beat.]]></summary>
+        <author>
+            <name>remy sharp's b:log</name>
         </author>
     </entry>
     <entry>
@@ -6670,118 +6724,6 @@ It decided that the president of the United States, possibly the most powerful p
 This is a profound change to our fundamental law — an amendment to the Constitution, as historian David Blight noted. Writing for the majority, Chief Justice John R…]]></summary>
         <author>
             <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dev Digest 122 – Cracks in the polyfill]]></title>
-        <id>https://christianheilmann.com/?p=8167</id>
-        <link href="https://christianheilmann.com/2024/07/02/dev-digest-122-cracks-in-the-polyfill/"/>
-        <updated>2024-07-02T05:25:06.000Z</updated>
-        <summary type="html"><![CDATA[Hello and join me to learn about removing malicious code, what the web is up to and why there are some cool new careers in AI. News and articles First things first: if you use Polyfill.io delete it immediately from your server! The – by now pretty unnecessary library – has been acquired and is […]]]></summary>
-        <author>
-            <name>Chris Heilmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Burnout, Mental Health, And Not Being Okay]]></title>
-        <id>https://ludic.mataroa.blog/blog/on-burnout-mental-health-and-not-being-okay/</id>
-        <link href="https://ludic.mataroa.blog/blog/on-burnout-mental-health-and-not-being-okay/"/>
-        <updated>2024-07-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This blog did so many hits last week that the host platform experienced timeouts. I've been invited onto podcasts, and offered both small technical projects and journalism work, of all things. It was a crazy time. But the internet moves on, as it always does, and I am left, as we all always are, to figure out what to write about next.
-The thread that runs through the emails I get is, surprisingly, one about mental health, though I didn't recognize it as such at first. Consider:
-I found your blog today and, Jesus Christ, reading it made me feel sane.
-The first few times I received emails like this, I thought of them purely as commentary on how out of place people feel when they're surrounded by the strange dysfunction that descends upon most organizations. But then other people write in to …]]></summary>
-        <author>
-            <name>Ludicity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[text-mode:
-
-By Dominique Pétrin, via]]></title>
-        <id>https://text-mode.tumblr.com/post/754826502293585920</id>
-        <link href="https://text-mode.tumblr.com/post/754826502293585920"/>
-        <updated>2024-07-01T18:30:48.000Z</updated>
-        <summary type="html"><![CDATA[text-mode:
-By Dominique Pétrin, via]]></summary>
-        <author>
-            <name>TEXT-MODE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supreme Court Rules That Presidents Have Absolute Immunity for &#8220;Core Constitutional Powers&#8221;]]></title>
-        <id>https://kottke.org/24/07/supreme-court-rules-that-presidents-have-absolute-immunity-for-core-constitutional-powers</id>
-        <link href="https://kottke.org/24/07/supreme-court-rules-that-presidents-have-absolute-immunity-for-core-constitutional-powers"/>
-        <updated>2024-07-01T15:14:10.000Z</updated>
-        <summary type="html"><![CDATA[I don’t even know what to say about this. From Justice Sotomayor’s dissent (starting on page 68):
-The President of the United States is the most powerful person in the country, and possibly the world. When he uses his official powers in any way, under the majority’s reasoning, he now will be insulated from criminal prosecution. Orders the Navy’s Seal Team 6 to assassinate a political rival? Immune. Organizes a military coup to hold onto power? Immune. Takes a bribe in exchange for a pardon? Immune. Immune, immune, immune.
-Let the President violate the law, let him exploit the trappings of his office for personal gain, let him use his official power for evil ends. Because if he knew that he may one day face liability for breaking the law, he might not be as bold and fearless as we would like him to be. That is the majority’s message today.
-Even if these nightmare scenarios never play out, and I pray they never do, the damage has been done. The relationship between the President and the people he serves has shifted irrevocably. In every use of official power, the President is now a king above the law.
-
-
-And her closing:
-Never in the history of our Republic has a President had reason to believe that he would be immune from criminal prosecution if he used the trappings of his office to violate the criminal law. Moving forward, however, all former Presidents will be cloaked in such immunity. If the occupant of that office misuses official power for personal gain, the criminal law that the rest of us must abide will not provide a backstop.
-With fear for our democracy, I dissent.
-
-
-Jesus. With fear for our democracy, I dissent. I wish I knew what else to say or think about this, but Jesus.
-Tags: politics · Sonia Sotomayor · USA]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tantalizing speculation: the &#8220;Untitled WB/Legendary/Denis Villeneuve Event Film in IMAX&#8221; now scheduled...]]></title>
-        <id>https://kottke.org/24/07/0044892-tantalizing-speculation-t</id>
-        <link href="https://kottke.org/24/07/0044892-tantalizing-speculation-t"/>
-        <updated>2024-07-01T14:47:12.000Z</updated>
-        <summary type="html"><![CDATA[Tantalizing speculation: the “Untitled WB/Legendary/Denis Villeneuve Event Film in IMAX” now scheduled for release in Dec 2026 is Dune: Part Three.
-
-        
-
-        
-
-         
-💬 Join the discussion on kottke.org →]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kay Lopez on empowering Latinas through the use of social media, navigating online mental exhaustion and more]]></title>
-        <id>https://blog.mozilla.org/?p=75389</id>
-        <link href="https://blog.mozilla.org/en/internet-culture/kay-lopez-latinas-poderosas-mozilla-rise-25-social-media/"/>
-        <updated>2024-07-01T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[At Mozilla, we know we can’t create a better future alone, that is why each year we will be highlighting the work of 25 digital leaders using technology to amplify voices, effect change, and build new technologies globally through our Rise 25 Awards. These storytellers, innovators, activists, advocates. builders and artists are helping make the internet more diverse, […]
-The post Kay Lopez on empowering Latinas through the use of social media, navigating online mental exhaustion and more appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Aron Yohannes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Excerpt of Sally Rooney&#8217;s Intermezzo]]></title>
-        <id>https://kottke.org/24/07/an-excerpt-of-sally-rooneys-intermezzo</id>
-        <link href="https://kottke.org/24/07/an-excerpt-of-sally-rooneys-intermezzo"/>
-        <updated>2024-07-01T13:40:29.000Z</updated>
-        <summary type="html"><![CDATA[For their fiction issue, the New Yorker has an exclusive excerpt from Sally Rooney’s forthcoming book, Intermezzo.
-Ivan is standing on his own in the corner while the men from the chess club move the chairs and tables around. The men are saying things to one another like: Back a bit there, Tom. Mind yourself now. Alone, Ivan is standing, wanting to sit down but uncertain which of the chairs need to be rearranged still and which are in their correct places already. This uncertainty arises because the way in which the men are moving the furniture corresponds to no specific method Ivan has been able to discern. A familiar arrangement is slowly beginning to emerge — a central U shape composed of ten tables, with ten chairs along the outer rim of the shape, and a general seating area around the outside — but the process by which the men are reaching this arrangement seems haphazard. Standing on his own in the corner, Ivan thinks with no especially intense focus about the most efficient method of arranging, say, a random distribution of a given number of tables and chairs into the aforementioned shape. It’s something he has thought about before, while standing in other corners, watching other people move similar furniture around similar indoor spaces: the different approaches you could use, if you happened to be writing a computer program to maximize process efficiency. The accuracy of these particular men would be, Ivan thinks, pretty low, like actually very low.
-
-
-You can also listen to Rooney reading the excerpt. You can preorder Intermezzo at Amazon or Bookshop.
-Tags: books · Intermezzo · Sally Rooney
-💬 Join the discussion on kottke.org →]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: Austin Grossman's 'Fight Me' (01 Jul 2024)]]></title>
-        <id>https://pluralistic.net/?p=9045</id>
-        <link href="https://pluralistic.net/2024/07/01/the-big-genx-chill/"/>
-        <updated>2024-07-01T12:41:40.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Austin Grossman's 'Fight Me': Gen-X superheroes, aging badly. Hey look at this: Delights to delectate. This day in history: 2004, 2009, 2014 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Austin Grossman's 'Fight Me' (permalink) In Fight Me, the novelist and game developer Austin Grossman uses aging ex-teen superheroes to weigh the legacy of Generation X, in a work that enrobes its savage critique with sweet melancholia, all under a coating of delicious snark: http://www.austingrossman.com/fight-me It is, in other words, a very Gen X kinda novel. Prodigy (AKA Alex Beekman) is a washed-up superhero. As a nerdy high-…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
         </author>
     </entry>
     <entry>
