@@ -6,6 +6,26 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=8247",
+          "author": "Chris Heilmann",
+          "description": "I just created a massive dataset of all the AI generated metadata of the videos of the WeAreDeveloper World Congress and I wanted to extract only the tags. The dataset is a huge array with each item containing a description, generated title, an array of tags, the original and their title, like this: { “description”: […]",
+          "link": "https://christianheilmann.com/2024/09/06/quick-tip-using-flatmap-to-extract-data-from-a-huge-set-without-any-loop/",
+          "publishedOn": "2024-09-06T11:47:39.000Z",
+          "wordCount": null,
+          "title": "Quick tip: using flatMap() to extract data from a huge set without any loop",
+          "imageUrl": null
+        },
+        {
+          "id": "https://christianheilmann.com/?p=8239",
+          "author": "Chris Heilmann",
+          "description": "I am currently working on creating the new Call for Papers for the next WeAreDevelopers World Congress and one of the feedback items we got was that levels like “Expert, Intermediate and Beginner” don’t make much sense. First of all, speakers do not choose the right level as they are worried that a beginner or […]",
+          "link": "https://christianheilmann.com/2024/09/06/no-more-expert-intermediate-beginner-classifying-talks-in-call-for-papers-conference-agendas/",
+          "publishedOn": "2024-09-06T05:50:06.000Z",
+          "wordCount": null,
+          "title": "No more “Expert, Intermediate, Beginner”: Classifying talks in Call for Papers/Conference agendas",
+          "imageUrl": null
+        },
+        {
           "id": "https://christianheilmann.com/?p=8231",
           "author": "Chris Heilmann",
           "description": "Hier sind die Resourcen meines Artikels im AI Magazin zum selbst nachlesen: The road to one Billion developers keynote by Thomas Dohmke and Demetris Cheatham of GitHub at WeAreDevelopers World Congress Amazon Cloud CEO Predicts a Future Where Most Software Engineers Don’t Code — and AI Does It Instead In a leaked recording, Amazon cloud […]",
@@ -763,6 +783,16 @@
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
         {
+          "id": "https://text-mode.tumblr.com/post/760896487777533952",
+          "author": null,
+          "description": "text-mode:\nBy Hello from ramen-ita@2ch (2008)",
+          "link": "https://text-mode.tumblr.com/post/760896487777533952",
+          "publishedOn": "2024-09-06T18:30:37.000Z",
+          "wordCount": 987,
+          "title": "text-mode:\n\nBy Hello from ramen-ita@2ch (2008)",
+          "imageUrl": "https://64.media.tumblr.com/325c89452649136bf877ddf008387501/tumblr_mx2vcxmY8P1rpiyaso1_640.png"
+        },
+        {
           "id": "https://text-mode.tumblr.com/post/760805903718023168",
           "author": null,
           "description": "mabelsofmadness:\nMABEL No. 46\nASCII Mabel.",
@@ -1351,16 +1381,6 @@
           "wordCount": 933,
           "title": "text-mode:\n\n-=[ Easter design ]=-  3/01 by joan stark",
           "imageUrl": "https://64.media.tumblr.com/tumblr_m5mbv78h421rpiyaso1_640.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/755460678902595584",
-          "author": null,
-          "description": "text-mode:\nAndrew Topel",
-          "link": "https://text-mode.tumblr.com/post/755460678902595584",
-          "publishedOn": "2024-07-08T18:30:46.000Z",
-          "wordCount": 978,
-          "title": "text-mode:\n\nAndrew Topel",
-          "imageUrl": "https://64.media.tumblr.com/tumblr_m2rzfd2KW11rpiyaso1_1280.jpg"
         }
       ]
     },
@@ -1554,16 +1574,6 @@
           "publishedOn": "2024-08-06T08:38:35.000Z",
           "wordCount": 1444,
           "title": "Go structs are copied on assignment (and other things about Go I'd missed)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2024/07/08/readline/",
-          "author": null,
-          "description": "The other day I asked what folks on Mastodon find confusing about working in\nthe terminal, and one thing that stood out to me was “editing a command you\nalready typed in”.\nThis really resonated with me: even though entering some text and editing it is\na very “basic” task, it took me maybe 15 years of using the terminal every\nsingle day to get used to using Ctrl+A to go to the beginning of the line (or\nCtrl+E for the end).\nSo let’s talk about why entering text might be hard! I’ll also share a few tips\nthat I wish I’d learned earlier.\nit’s very inconsistent between programs\nA big part of what makes entering text in the terminal hard is the\ninconsistency between how different programs handle entering text. For example:\nsome programs (the dash shell, cat, nc, git commit --interactive, etc) don…",
-          "link": "https://jvns.ca/blog/2024/07/08/readline/",
-          "publishedOn": "2024-07-08T13:00:15.000Z",
-          "wordCount": 2120,
-          "title": "Entering text in the terminal is complicated",
           "imageUrl": null
         }
       ]
@@ -1939,6 +1949,16 @@
       "siteUrl": "http://www.nathalielawhead.com/candybox",
       "articles": [
         {
+          "id": "https://www.nathalielawhead.com/candybox/?p=5723",
+          "author": "alienmelon",
+          "description": "This is really just an extension of this post: http://www.nathalielawhead.com/candybox/abusing-you-was-by-the-book-documenting-two-years-of-abuse-from-game-journalism-after-sharing-my-metoo-the-whole-painful-story-all-in-one-place If you are not aware of the situation, read that instead. I’m posting this because I need to scream. It’s better than silence. “Abusing you was by the book” (documenting two years of abuse from Game Journalism, after sharing my #metoo… the whole painful story all in one place) Today I had another grieving outburst about game journalist and the game crit space. It’s been years of dealing with the fallout that they had on my life. The way your perception changes when you keep getting dogpiled on by people...",
+          "link": "http://www.nathalielawhead.com/candybox/when-there-is-nothing-more-left-for-them-to-take",
+          "publishedOn": "2024-09-06T15:58:50.000Z",
+          "wordCount": 3681,
+          "title": "When there is nothing more left for them to take",
+          "imageUrl": "http://nathalielawhead.com/candybox/new_theme_images/IMG_BACKGROUND.png"
+        },
+        {
           "id": "https://www.nathalielawhead.com/candybox/?p=5717",
           "author": "alienmelon",
           "description": "individualism in the dead-internet age: an anti-big tech asset flip shovelware r?a?n?t? manifesto * https://alienmelon.itch.io/shovelware “This is an interactive-essay-meets-walking-sim about technocapitalism and the things we lost along the way. Follow coins under the electric mist of a clouded starry sky. Discover hyper-links. Listen to the words both inside and outside your head. Seal your fate before the productivity machine.” I just published this interactive essay. This was meant to be preformed in a live setting but it’s not a good fit, so it transformed into an interactive essay format. Please enjoy the narration and ambient vibe. :) My previous “From...",
@@ -1981,6 +2001,106 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/09/0045239-tom-gauld-and-richard-sca",
+          "author": null,
+          "description": "Tom Gauld (and Richard Scarry) on cars of the future.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/09/0045239-tom-gauld-and-richard-sca",
+          "publishedOn": "2024-09-06T21:43:36.000Z",
+          "wordCount": 698,
+          "title": "Tom Gauld (and Richard Scarry) on cars of the future....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/09/hokusais-the-great-wave-now-on-display-at-the-art-institute-of-chicago",
+          "author": null,
+          "description": "The Art Institute of Chicago has three copies of Katsushika Hokusai’s iconic work The Great Wave Off Kanagawa in its collection and one of them has been removed from storage and is back on display in the museum until Jan 6, 2025.\nThe Great Wave has not been on view in the Art Institute galleries for five years because, like all prints, it is susceptible to light damage and must rest a minimum of five years between showings to preserve its colors and vibrance.\n\n\nHere’s a video of the print being removed from storage as well as a brief comparison of their three prints:\n\nFor other places you can see The Great Wave on display, check out Great Wave Today.\nTags: art · Art Institute of Chicago · Katsushika Hokusai · museums · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/09/hokusais-the-great-wave-now-on-display-at-the-art-institute-of-chicago",
+          "publishedOn": "2024-09-06T19:33:13.000Z",
+          "wordCount": 778,
+          "title": "Hokusai&#8217;s The Great Wave Now on Display at the Art Institute of Chicago",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/chi-great-wave.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/09/0045232-the-open-book-in-wigtown",
+          "author": null,
+          "description": "The Open Book in Wigtown, Scotland is a rental place (available on Airbnb) where you can stay and help run the bookstore downstairs. “There’s no better feeling than somebody buying a book that you put on display.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/09/0045232-the-open-book-in-wigtown",
+          "publishedOn": "2024-09-06T18:56:52.000Z",
+          "wordCount": 705,
+          "title": "The Open Book in Wigtown, Scotland is a rental place (available on...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/09/0045235-harris-and-walz-intention",
+          "author": null,
+          "description": "“Harris and Walz, intentionally or not, are projecting something different: a sitcom vibe. And not just any sitcom — the multi-camera family shows of the 1980s.” Blended families, cool woman/dorky guy, and woman in charge were all 80s sitcom staples.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/09/0045235-harris-and-walz-intention",
+          "publishedOn": "2024-09-06T18:17:52.000Z",
+          "wordCount": 699,
+          "title": "&#8220;Harris and Walz, intentionally or not, are projecting something different: a sitcom...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/09/0045238-i-know-some-of-you",
+          "author": null,
+          "description": "I know some of you are K-12 educators — the excellent The Kid Should See This is holding a free virtual workshop on how to integrate their library of 7000+ engaging and educational videos into your lesson plans.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/09/0045238-i-know-some-of-you",
+          "publishedOn": "2024-09-06T17:35:09.000Z",
+          "wordCount": 698,
+          "title": "I know some of you are K-12 educators — the excellent The...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/09/big-hockey-players-itty-bitty-rink",
+          "author": null,
+          "description": "For his 2012-13 piece The Obstruction of Action by the Existence of Form, artist R. Eric McMaster built a hockey rink less than 1/10th the size of a regulation rink and had two full hockey teams play what has to be the most frustrating game of hockey ever. This is definitely a metaphor for something but I don’t quite know what.\nTags: art · hockey · R. Eric McMaster · sports · this is a metaphor for something · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/09/big-hockey-players-itty-bitty-rink",
+          "publishedOn": "2024-09-06T16:47:09.000Z",
+          "wordCount": 928,
+          "title": "Big Hockey Players, Itty-Bitty Rink",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/09/0045206-dark-energy-which-most-ph",
+          "author": null,
+          "description": "“Dark energy, which most physicists have long held to be unchanging, may in fact be weakening.” And now cosmologists are trying to figure out what this means for our conceptions of the universe.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/09/0045206-dark-energy-which-most-ph",
+          "publishedOn": "2024-09-06T15:56:53.000Z",
+          "wordCount": 804,
+          "title": "&#8220;Dark energy, which most physicists have long held to be unchanging, may...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/09/0045209-elite-athletes-are-using-",
+          "author": null,
+          "description": "Elite athletes are using a new baking soda formulation to boost athletic performance. A recent study showed “a 1.4% boost for cyclists in a 40-km time trial, which works out to a gain of roughly a minute over the course of an event lasting an hour”.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/09/0045209-elite-athletes-are-using-",
+          "publishedOn": "2024-09-06T15:22:19.000Z",
+          "wordCount": 720,
+          "title": "Elite athletes are using a new baking soda formulation to boost athletic...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/09/0045236-the-harris-campaign-poste",
+          "author": null,
+          "description": "The Harris campaign posted a TikTok of Donald Trump talking about his stance on abortion in a split-screen next to a gameplay clip of Subway Surfer for low-attention-span viewers. This is genius. “Top-tier information conveyance.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/09/0045236-the-harris-campaign-poste",
+          "publishedOn": "2024-09-06T14:53:13.000Z",
+          "wordCount": 939,
+          "title": "The Harris campaign posted a TikTok of Donald Trump talking about his...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/09/detailed-miniature-sculptures-of-urban-decay",
+          "author": null,
+          "description": "Australian artist Joshua Smith makes extremely detailed and realistic miniatures of grimy, graffitied buildings — he calls them “sculptures of Urban Decay”.\nSee also Gritty Miniatures of Classic NYC Street Objects.\nTags: art · Joshua Smith\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/09/detailed-miniature-sculptures-of-urban-decay",
+          "publishedOn": "2024-09-06T14:15:03.000Z",
+          "wordCount": 672,
+          "title": "Detailed Miniature &#8220;Sculptures of Urban Decay&#8221;",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/j-smith-mini-01.jpg"
+        },
         {
           "id": "https://kottke.org/24/09/0045234-an-introduction-to-the-la",
           "author": null,
@@ -5020,116 +5140,6 @@
           "wordCount": 930,
           "title": "The Avengers Assemble for Lakota Dub",
           "imageUrl": "https://i.ytimg.com/vi/r_pPfp7lnIM/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/07/0044922-the-onion-highlights-some",
-          "author": null,
-          "description": "The Onion highlights some of the lesser-known Project 2025 plans. “Immigration through Ticketmaster: By privatizing immigration, it ensures all immigrants pay the service fee, order processing fee, and the occasional surge pricing fees.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/07/0044922-the-onion-highlights-some",
-          "publishedOn": "2024-07-08T22:55:29.000Z",
-          "wordCount": 753,
-          "title": "The Onion highlights some of the lesser-known Project 2025 plans. &#8220;Immigration through...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/07/0044917-project-2025-would-be-a",
-          "author": null,
-          "description": "Project 2025 would be a disaster for the environment. “It would be game over for climate progress in the US, turning the reins of our government over to the polluters.”",
-          "link": "https://kottke.org/24/07/0044917-project-2025-would-be-a",
-          "publishedOn": "2024-07-08T22:19:35.000Z",
-          "wordCount": 576,
-          "title": "Project 2025 would be a disaster for the environment. &#8220;It would be...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/07/the-terrifying-project-2025",
-          "author": null,
-          "description": "Former Secretary of Labor Robert Reich on Project 2025, the extremist conservative plan for America if Trump wins the 2024 election — a wish-list to continue their fascist takeover of America.\nOne key goal of Project 2025 is to purge all government agencies of anyone more loyal to the constitution than to Trump — a process Trump himself started in October 2020 when he thought he would remain in office.\nTrump has promised to give rightwing evangelical Christians what they want. Accordingly, Project 2025 calls for withdrawing the abortion pill mifepristone from the market, expelling trans service members from the military, banning life-saving gender affirming care for young people, ending all diversity programs, and using “school choice” to gut public education.\nProject 2025 also calls for e…",
-          "link": "https://kottke.org/24/07/the-terrifying-project-2025",
-          "publishedOn": "2024-07-08T21:32:00.000Z",
-          "wordCount": 1414,
-          "title": "The Terrifying Project 2025",
-          "imageUrl": "https://i.ytimg.com/vi/gYwqpx6lp_s/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/07/how-to-stop-fascism-five-lessons-of-the-nazi-takeover",
-          "author": null,
-          "description": "From Timothy Snyder again, this time on what lessons we can draw on to prevent America’s collapse into fascism.\n4. Big business should support democracy. In the Germany of the 1930s, business leaders were not necessarily enthusiastic about Hitler as a person. But they associated democracy with labor unions and wanted to break them. Seeing Hitler as an instrument of their own profit, business leaders enabled the Nazi regime. This was, in the end, very bad for business. Although the circumstances today are different, the general lesson is the same: whether they like it or not, business leaders bear responsibility for whether a republic endures or is destroyed.\n\n\nI loved his succinct conclusion:\nIt’s simple: recalling history, we act in the present, for a future that can and will be much better.\n\n\n        \n\n         \nTags: history · lists · Nazis · politics · Timothy Snyder · USA",
-          "link": "https://kottke.org/24/07/how-to-stop-fascism-five-lessons-of-the-nazi-takeover",
-          "publishedOn": "2024-07-08T19:45:55.000Z",
-          "wordCount": 689,
-          "title": "How to Stop Fascism: Five Lessons of the Nazi Takeover",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/07/fascism-and-fear-and-the-media",
-          "author": null,
-          "description": "Historian and scholar Timothy Snyder, who wrote On Tyranny and this amazing piece about the fascism of Trump and the conservative movement, wrote about a crucial difference in how the media are covering Biden versus how they cover Trump.\nIt should seem odd that media calls to step down were not first directed to Trump. If we are calling for Biden to step aside because someone must stop Trump from bringing down the republic, then surely it would have made more sense to first call for Trump to step aside? (The Philadelphia Inquirer did). I know the counter-arguments: his people wouldn’t have cared, and he wouldn’t have listened. The first misses an important point. There are quite a few Americans who have not made up their minds. The second amounts to obeying in advance. If you accept that a fascist is beyond your reach, you have normalized your submission.\n\n\n“Do not obey in advance” is Snyder’s very first lesson from his 20 Lessons from the 20th Century about fighting authoritarianism:\n1. Do not obey in advance. Much of the power of authoritarianism is freely given. In times like these, individuals think ahead about what a more repressive government will want, and then start to do it without being asked. You’ve already done this, haven’t you? Stop. Anticipatory obedience teaches authorities what is possible and accelerates unfreedom.\n\n\nNote: Illustration by the awesome Chris Piascik.\nTags: Donald Trump · Joe Biden · politics · Timothy Snyder · USA",
-          "link": "https://kottke.org/24/07/fascism-and-fear-and-the-media",
-          "publishedOn": "2024-07-08T18:08:34.000Z",
-          "wordCount": 784,
-          "title": "Fascism and Fear and the Media",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/do-not-obey.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/07/0044916-the-forgotten-black-explo",
-          "author": null,
-          "description": "The Forgotten Black Explorers Who Transformed Americans’ Understanding of the Wilderness. Esteban, York and James Beckwourth charted the American frontier between the 16th and 19th centuries.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/07/0044916-the-forgotten-black-explo",
-          "publishedOn": "2024-07-08T17:30:04.000Z",
-          "wordCount": 689,
-          "title": "The Forgotten Black Explorers Who Transformed Americans&#8217; Understanding of the Wilderness. Esteban,...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/07/we-talking-about-practice",
-          "author": null,
-          "description": "From Heather Cox Richardson, writing on the night of the debate, a reminder of just how bad Trump’s performance was, a shambolic spectacle that was met with shrugs because that’s what we expect of him:\nIn contrast, Trump came out strong but faded and became less coherent over time. His entire performance was either lies or rambling non-sequiturs. He lied so incessantly throughout the evening that it took CNN fact-checker Daniel Dale almost three minutes, speaking quickly, to get through the list.\nTrump said that some Democratic states allow people to execute babies after they’re born and that every legal scholar wanted Roe v. Wade overturned — both fantastical lies. He said that the deficit is at its highest level ever and that the U.S. trade deficit is at its highest ever: both of those t…",
-          "link": "https://kottke.org/24/07/we-talking-about-practice",
-          "publishedOn": "2024-07-08T16:07:26.000Z",
-          "wordCount": 969,
-          "title": "We Talking About Practice",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/07/0044910-an-interesting-teaser-tra",
-          "author": null,
-          "description": "An interesting teaser trailer for F1, the racing drama starring Brad Pitt — it’s like a 90-second music video. Joseph Kosinski is directing…he did Top Gun: Maverick, which makes me optimistic about this one.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/07/0044910-an-interesting-teaser-tra",
-          "publishedOn": "2024-07-08T15:27:08.000Z",
-          "wordCount": 757,
-          "title": "An interesting teaser trailer for F1, the racing drama starring Brad Pitt...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/07/appalling-vs-a-whole-other-level-of-appalling",
-          "author": null,
-          "description": "Rebecca Solnit: Why is the pundit class so desperate to push Biden out of the race?\nI am not usually one to offer diagnoses of people I’ve never met, but it does seem like the pundit class of the American media is suffering from severe memory loss. Because they’re doing exactly what they did in the 2016 presidential race — providing wildly asymmetrical and inflammatory coverage of the one candidate running against Donald J Trump.\nThey have become a stampeding herd producing an avalanche of stories suggesting Biden is unfit, will lose and should go away, at a point in the campaign in which replacing him would likely be somewhere between extremely difficult and utterly catastrophic. They do this while ignoring something every scholar and critic of journalism knows well and every journalist s…",
-          "link": "https://kottke.org/24/07/appalling-vs-a-whole-other-level-of-appalling",
-          "publishedOn": "2024-07-08T14:26:18.000Z",
-          "wordCount": 925,
-          "title": "Appalling vs. a Whole Other Level of Appalling",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/07/0044907-there-i-ruined-it-kermit",
-          "author": null,
-          "description": "There I Ruined It: Kermit the Frog sings Snoop Dogg’s Gin and Juice to the tune of Rainbow Connection.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/07/0044907-there-i-ruined-it-kermit",
-          "publishedOn": "2024-07-08T13:51:53.000Z",
-          "wordCount": 664,
-          "title": "There I Ruined It: Kermit the Frog sings Snoop Dogg&#8217;s Gin and...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/07/0044906-whoever-the-democratic-ca",
-          "author": null,
-          "description": "Whoever the Democratic Candidate Is, Americans Have Already Lost. “If you take your eye off the ball of democracy for any length of time, no amount of history will save you. Americans have taken our eyes off the ball.”",
-          "link": "https://kottke.org/24/07/0044906-whoever-the-democratic-ca",
-          "publishedOn": "2024-07-08T13:15:12.000Z",
-          "wordCount": 600,
-          "title": "Whoever the Democratic Candidate Is, Americans Have Already Lost. &#8220;If you take...",
-          "imageUrl": ""
         }
       ]
     },
