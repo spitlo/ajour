@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2024-09-08T00:41:03.876Z</updated>
+    <updated>2024-09-09T00:39:20.460Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Making Sense of React Server Components]]></title>
+        <id>https://www.joshwcomeau.com/react/server-components/</id>
+        <link href="https://www.joshwcomeau.com/react/server-components/"/>
+        <updated>2024-09-08T21:41:17.000Z</updated>
+        <summary type="html"><![CDATA[This year, the React team unveiled something they've been quietly researching for years: an official way to run React components exclusively on the server. This is a significant paradigm shift, and it's caused a whole lot of confusion in the React community. In this tutorial, we'll explore this new world, and build an intuition for how it works, and how we can take advantage of it.]]></summary>
+        <author>
+            <name>Josh W. Comeau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Interactive Guide to CSS Transitions]]></title>
+        <id>https://www.joshwcomeau.com/animation/css-transitions/</id>
+        <link href="https://www.joshwcomeau.com/animation/css-transitions/"/>
+        <updated>2024-09-08T21:41:17.000Z</updated>
+        <summary type="html"><![CDATA[This comprehensive guide shows how to use CSS transitions! A back-to-basics look at the fundamental building blocks we need to create microinteractions and other animations.]]></summary>
+        <author>
+            <name>Josh W. Comeau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[text-mode:
+
+By Henry Segerman, 1999-2001. More here.]]></title>
+        <id>https://text-mode.tumblr.com/post/761077713441341440</id>
+        <link href="https://text-mode.tumblr.com/post/761077713441341440"/>
+        <updated>2024-09-08T18:31:08.000Z</updated>
+        <summary type="html"><![CDATA[text-mode:
+By Henry Segerman, 1999-2001. More here.]]></summary>
+        <author>
+            <name>TEXT-MODE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[text-mode:
 
@@ -172,6 +205,16 @@ Tags: art · hockey · R. Eric McMaster · sports · this is a metaphor for some
 💬 Join the discussion on kottke.org →]]></summary>
         <author>
             <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boop!]]></title>
+        <id>https://www.joshwcomeau.com/react/boop/</id>
+        <link href="https://www.joshwcomeau.com/react/boop/"/>
+        <updated>2024-09-06T15:05:45.000Z</updated>
+        <summary type="html"><![CDATA[An in-depth tutorial that teaches how to create one of the most adorable interactions I've ever created. We'll learn how to use React components and hooks to abstract behaviours, and see how to design the perfect API. Even if you're not into animations, I think you'll find it interesting!]]></summary>
+        <author>
+            <name>Josh W. Comeau</name>
         </author>
     </entry>
     <entry>
@@ -438,6 +481,16 @@ Tags: Lane 8 · music
 💬 Join the discussion on kottke.org →]]></summary>
         <author>
             <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magical Rainbow Gradients]]></title>
+        <id>https://www.joshwcomeau.com/react/rainbow-button/</id>
+        <link href="https://www.joshwcomeau.com/react/rainbow-button/"/>
+        <updated>2024-09-05T13:01:25.000Z</updated>
+        <summary type="html"><![CDATA[If you've ever tried to animate a gradient, you've been met with a harsh reality—it isn't possible. At least, it wasn't! In this tutorial, we'll leverage bleeding-edge browser features to animate ANY CSS property, including background gradients, using CSS Houdini, CSS variables, and React.]]></summary>
+        <author>
+            <name>Josh W. Comeau</name>
         </author>
     </entry>
     <entry>
@@ -1333,6 +1386,16 @@ b'ger]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Data Binding in React]]></title>
+        <id>https://www.joshwcomeau.com/react/data-binding/</id>
+        <link href="https://www.joshwcomeau.com/react/data-binding/"/>
+        <updated>2024-08-24T20:23:34.000Z</updated>
+        <summary type="html"><![CDATA[As developers, we don't like working with forms, but they're a critical part of most web applications! In this tutorial, you'll learn exactly how to wire up all of the different form controls in React. Never forget how to data-bind a checkbox or radio button again!]]></summary>
+        <author>
+            <name>Josh W. Comeau</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[text-mode:
 
 
@@ -1347,6 +1410,16 @@ b'ger]]></summary>
 January 1, 2014]]></summary>
         <author>
             <name>TEXT-MODE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Interactive Guide to Flexbox]]></title>
+        <id>https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/</id>
+        <link href="https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/"/>
+        <updated>2024-08-24T16:26:12.000Z</updated>
+        <summary type="html"><![CDATA[When we truly learn the secrets of the Flexbox layout mode, we can build absolutely incredible things. Fluid layouts that stretch and shrink without arbitrary breakpoints. In this action-packed interactive tutorial, we'll pop the hood on the Flexbox algorithm and learn how to do remarkable things with it. ✨]]></summary>
+        <author>
+            <name>Josh W. Comeau</name>
         </author>
     </entry>
     <entry>
@@ -2098,6 +2171,16 @@ Tags: celebrity · James Mollison · music · photography
 💬 Join the discussion on kottke.org →]]></summary>
         <author>
             <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What The Heck, z-index??]]></title>
+        <id>https://www.joshwcomeau.com/css/stacking-contexts/</id>
+        <link href="https://www.joshwcomeau.com/css/stacking-contexts/"/>
+        <updated>2024-08-19T15:06:24.000Z</updated>
+        <summary type="html"><![CDATA[The z-index property can be a tricky little bugger. Sometimes, no matter how much you crank up the number, the element never rises to the top! In this article, we explore stacking contexts, and see how they can thwart our efforts to use z-index. We'll also learn how to use this mechanism to our advantage.]]></summary>
+        <author>
+            <name>Josh W. Comeau</name>
         </author>
     </entry>
     <entry>
@@ -3618,6 +3701,16 @@ Tags: architecture · art · cities · Myles Zhang · time lapse · video
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The End of Front-End Development]]></title>
+        <id>https://www.joshwcomeau.com/blog/the-end-of-frontend-development/</id>
+        <link href="https://www.joshwcomeau.com/blog/the-end-of-frontend-development/"/>
+        <updated>2024-08-06T16:50:25.000Z</updated>
+        <summary type="html"><![CDATA[Large language models like GPT-4 are becoming increasingly capable, at an alarming rate. Within a couple of years, we won't need developers any more! …Or at least, that's the narrative going viral on Twitter. I'm much more optimistic about what these AI advancements mean for the future of software development.]]></summary>
+        <author>
+            <name>Josh W. Comeau</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A deep dive into Null Island. &#8220;Null Island is a long-running inside...]]></title>
         <id>https://kottke.org/24/08/0045069-a-deep-dive-into-null</id>
         <link href="https://kottke.org/24/08/0045069-a-deep-dive-into-null"/>
@@ -5059,6 +5152,16 @@ I think a lot about this 2018 Rolling Stone interview with Pete Buttigieg (when 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Accessible Animations in React]]></title>
+        <id>https://www.joshwcomeau.com/react/prefers-reduced-motion/</id>
+        <link href="https://www.joshwcomeau.com/react/prefers-reduced-motion/"/>
+        <updated>2024-07-25T05:42:21.000Z</updated>
+        <summary type="html"><![CDATA[I really love animation, but not everybody does. In fact, it can make some people literally sick! In this tutorial, we'll see how to ensure that we respect user preferences, and create animations that can be disabled.]]></summary>
+        <author>
+            <name>Josh W. Comeau</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Simple Advice for Personal Finance]]></title>
         <id>https://kottke.org/24/07/simple-advice-for-personal-finance-1</id>
         <link href="https://kottke.org/24/07/simple-advice-for-personal-finance-1"/>
@@ -5122,6 +5225,16 @@ But there’s a powerful truth here, which is that people dispensing financial a
 💬 Join the discussion on kottke.org →]]></summary>
         <author>
             <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Folding the DOM]]></title>
+        <id>https://www.joshwcomeau.com/react/folding-the-dom/</id>
+        <link href="https://www.joshwcomeau.com/react/folding-the-dom/"/>
+        <updated>2024-07-24T19:36:11.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we'll explore a technique we can use to "fold" a DOM node, like folding a letter in real-life. On that journey, we'll learn a lot about 3D transforms and CSS animation techniques!]]></summary>
+        <author>
+            <name>Josh W. Comeau</name>
         </author>
     </entry>
     <entry>
@@ -5316,6 +5429,16 @@ Tags: biking · Terry Bolinger · video
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Demystifying styled-components]]></title>
+        <id>https://www.joshwcomeau.com/react/demystifying-styled-components/</id>
+        <link href="https://www.joshwcomeau.com/react/demystifying-styled-components/"/>
+        <updated>2024-07-23T21:29:45.000Z</updated>
+        <summary type="html"><![CDATA[For so many React devs, styled-components seems kinda magical. It isn't at all clear how it uses traditional CSS features under-the-hood, and that lack of clarity can cause real problems when things go awry. In this post, we'll learn exactly how styled-components works by building our own mini-version.]]></summary>
+        <author>
+            <name>Josh W. Comeau</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Flint, MI is giving pregnant residents a &#8220;cash prescription&#8221; of $1500 during...]]></title>
         <id>https://kottke.org/24/07/0045000-flint-mi-is-giving-pregna</id>
         <link href="https://kottke.org/24/07/0045000-flint-mi-is-giving-pregna"/>
@@ -5411,6 +5534,16 @@ Tags: Andrea Pitzer · crime · Donald Trump · politics · racism · science ·
 💬 Join the discussion on kottke.org →]]></summary>
         <author>
             <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delightful React File/Directory Structure]]></title>
+        <id>https://www.joshwcomeau.com/react/file-structure/</id>
+        <link href="https://www.joshwcomeau.com/react/file-structure/"/>
+        <updated>2024-07-23T16:47:28.000Z</updated>
+        <summary type="html"><![CDATA[How should we structure components and other files in our React apps? I've iterated my way to a solution I'm really happy with. In this blog post, I'll share how it works, what the tradeoffs are, and how I mitigate them.]]></summary>
+        <author>
+            <name>Josh W. Comeau</name>
         </author>
     </entry>
     <entry>
@@ -5545,6 +5678,16 @@ Heating people not spaces, Kris De Decker, 2024. Ebook edition
 The Low-tech Magazine archives are also available as a chronological series consisting of four volumes.]]></summary>
         <author>
             <name>LOW←TECH MAGAZINE English</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Common Beginner Mistakes with React]]></title>
+        <id>https://www.joshwcomeau.com/react/common-beginner-mistakes/</id>
+        <link href="https://www.joshwcomeau.com/react/common-beginner-mistakes/"/>
+        <updated>2024-07-22T23:19:14.000Z</updated>
+        <summary type="html"><![CDATA[I used to teach React at a local coding bootcamp, and I noticed that students kept getting tripped up by the same handful of things. In this article, we're going to go through 9 of the most dastardly gotchas. I'll show you how to solve these common problems, so you can avoid a lot of potential frustration!]]></summary>
+        <author>
+            <name>Josh W. Comeau</name>
         </author>
     </entry>
     <entry>
@@ -6783,157 +6926,13 @@ Tags: Ayo Edebiri · movies · video
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My Glorious Ascension To Thought Leadership]]></title>
-        <id>https://ludic.mataroa.blog/blog/my-glorious-ascension-to-thought-leadership/</id>
-        <link href="https://ludic.mataroa.blog/blog/my-glorious-ascension-to-thought-leadership/"/>
-        <updated>2024-07-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I. This Escalated Quickly
-I mentioned one post ago that this blog has done approximately 2M+ lifetime views, with over a million of them being in the past two weeks in response to the now-infamous rant about AI, then I went out of my way to not write the most maximally viral thing possible for personal don't-be-a-clickbaiting-grifter1 reasons. But to say that the blog has done a lot of traffic is actually a huge understatement.
-I have been understating the madness of the last few weeks because it took me a while to even figure out if it was a flash in the pan or something that is just my life now. I don't have any experience with how blog posts should do, so I genuinely didn't know if a million hits was "pretty good" or "Jesus Christ". On the previous occasions that my writing has done wel…]]></summary>
+        <title type="html"><![CDATA[Promises From The Ground Up]]></title>
+        <id>https://www.joshwcomeau.com/javascript/promises/</id>
+        <link href="https://www.joshwcomeau.com/javascript/promises/"/>
+        <updated>2024-07-11T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The “Promises” API is a surprisingly tricky part of modern JavaScript. Without the right context, it doesn’t make much sense at all! In this tutorial, you’ll build an intuition for how Promises work by getting a deeper understanding of JavaScript and its limitations.]]></summary>
         <author>
-            <name>Ludicity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There&#8217;s a Devil Wears Prada sequel coming&#8230; &#8220;Gird your loins.&#8221;...]]></title>
-        <id>https://kottke.org/24/07/0044937-theres-a-devil-wears-prad</id>
-        <link href="https://kottke.org/24/07/0044937-theres-a-devil-wears-prad"/>
-        <updated>2024-07-10T23:49:54.000Z</updated>
-        <summary type="html"><![CDATA[There’s a Devil Wears Prada sequel coming… “Gird your loins.”
-
-        
-
-        
-
-         
-💬 Join the discussion on kottke.org →]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XKCD: A Crossword Puzzle]]></title>
-        <id>https://kottke.org/24/07/xkcd-a-crossword-puzzle</id>
-        <link href="https://kottke.org/24/07/xkcd-a-crossword-puzzle"/>
-        <updated>2024-07-10T23:00:59.000Z</updated>
-        <summary type="html"><![CDATA[Although I am slightly disappointed this isn’t a “real” crossword puzzle, I do admire Randall Munroe’s commitment to the bit. And then there’s the gray letters…
-Tags: crossword puzzles · games · Randall Munroe · XKCD
-💬 Join the discussion on kottke.org →]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I&#8217;ve linked to these before, but the Do Not Reply images (which...]]></title>
-        <id>https://kottke.org/24/07/0044921-ive-linked-to-these-befor</id>
-        <link href="https://kottke.org/24/07/0044921-ive-linked-to-these-befor"/>
-        <updated>2024-07-10T22:12:59.000Z</updated>
-        <summary type="html"><![CDATA[I’ve linked to these before, but the Do Not Reply images (which gently dunk on social media reply guys) are now available on their own site — and you can order IRL stickers too.
-
-        
-
-        
-
-         
-💬 Join the discussion on kottke.org →]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Teasingest Teaser Trailer for Severance Season Two]]></title>
-        <id>https://kottke.org/24/07/the-teasingest-teaser-trailer-for-severance-season-two</id>
-        <link href="https://kottke.org/24/07/the-teasingest-teaser-trailer-for-severance-season-two"/>
-        <updated>2024-07-10T21:33:02.000Z</updated>
-        <summary type="html"><![CDATA[Well, the teaser trailer answers almost no questions about the second season of Severance, so job well done with the teasing there lads. Here’s one thing though: the season starts on January 17, 2025 on Apple TV+. Oh, and this:
-In season two, Mark and his friends learn the dire consequences of trifling with the severance barrier, leading them further down a path of woe.
-Season 2 reunites its ensemble cast of stars including Emmy Award nominee Adam Scott, Britt Lower, Tramell Tillman, Zach Cherry, Jen Tullock, Michael Chernus, Dichen Lachman, Emmy Award winner John Turturro, Academy Award winner Christopher Walken and Academy and Emmy Award winner Patricia Arquette, and welcomes new series regular Sarah Bock.
-
-
-✅ Teased
-Tags: Severance · trailers · TV · video
-💬 Join the discussion on kottke.org →]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[text-mode:
-
-All 128 states of a seven-segment display. Or should...]]></title>
-        <id>https://text-mode.tumblr.com/post/755641850835156992</id>
-        <link href="https://text-mode.tumblr.com/post/755641850835156992"/>
-        <updated>2024-07-10T18:30:25.000Z</updated>
-        <summary type="html"><![CDATA[text-mode:
-All 128 states of a seven-segment display. Or should we call it a font?
-via Wikipedia]]></summary>
-        <author>
-            <name>TEXT-MODE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did you know you can renew your US passport online now? The...]]></title>
-        <id>https://kottke.org/24/07/0044929-did-you-know-you-can</id>
-        <link href="https://kottke.org/24/07/0044929-did-you-know-you-can"/>
-        <updated>2024-07-10T18:08:12.000Z</updated>
-        <summary type="html"><![CDATA[Did you know you can renew your US passport online now? The State Department is beta testing the new online renewal system for the next several months.
-
-        
-
-        
-
-         
-💬 Join the discussion on kottke.org →]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New book out this fall: Comic Sans: The Biography of a Typeface....]]></title>
-        <id>https://kottke.org/24/07/0044928-new-book-out-this-fall</id>
-        <link href="https://kottke.org/24/07/0044928-new-book-out-this-fall"/>
-        <updated>2024-07-10T17:17:44.000Z</updated>
-        <summary type="html"><![CDATA[New book out this fall: Comic Sans: The Biography of a Typeface. “Author Simon Garfield tells the story of how Comic Sans emerged from speech bubbles on educational software to become one of the most recognized — and reviled — typefaces on Earth.”
-
-        
-
-        
-
-         
-💬 Join the discussion on kottke.org →]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Science Behind the Emotions in Inside Out 2]]></title>
-        <id>https://kottke.org/24/07/the-science-behind-the-emotions-in-inside-out-2</id>
-        <link href="https://kottke.org/24/07/the-science-behind-the-emotions-in-inside-out-2"/>
-        <updated>2024-07-10T15:03:37.000Z</updated>
-        <summary type="html"><![CDATA[For National Geographic, Tony Hale (who played Fear in Inside Out 2) talks to psychologist and author Dr. Lisa Damour about Pixar’s new film, her role as a consultant for the filmmakers, and what science says about the emotions in the movie. From The Kid Should See This:
-By blending Pixar’s storytelling with scientific expertise, the Inside Out films and this discussion help make the complex topic of emotional development approachable and more familiar. They offer viewers of all ages vocabulary to better understand and express their feelings, while normalizing the intricate emotional experiences we encounter throughout life.
-
-
-I have heard a lot of good things about Damour’s books from other parents, particularly Untangled: Guiding Teenage Girls Through the Seven Transitions into Adulthood…]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The International Astronomical Union is currently running an open competition to name...]]></title>
-        <id>https://kottke.org/24/07/0044931-the-international-astrono</id>
-        <link href="https://kottke.org/24/07/0044931-the-international-astrono"/>
-        <updated>2024-07-10T14:19:06.000Z</updated>
-        <summary type="html"><![CDATA[The International Astronomical Union is currently running an open competition to name one of Earth’s quasi-moons. They’re doing this in association with Radiolab — remember their Zoozve episode?
-
-        
-
-        
-
-         
-💬 Join the discussion on kottke.org →]]></summary>
-        <author>
-            <name>kottke.org</name>
+            <name>Josh W. Comeau</name>
         </author>
     </entry>
     <entry>
