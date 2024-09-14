@@ -146,6 +146,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2985/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/craters.png\" title=\"It's annoying that the Nastapoka Arc isn't a meteor impact crater, but I truly believe that--with enough time, effort, and determination--we could make it one.\" alt=\"It's annoying that the Nastapoka Arc isn't a meteor impact crater, but I truly believe that--with enough time, effort, and determination--we could make it one.\" />",
+          "link": "https://xkcd.com/2985/",
+          "publishedOn": "2024-09-13T00:00:00.000Z",
+          "wordCount": 205,
+          "title": "Craters",
+          "imageUrl": "https://imgs.xkcd.com/comics/craters_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2984/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/asteroid_news.png\" title=\"Their calculations show it will 'pass within the distance of the moon' but that it 'will not hit the moon, so what's the point?'\" alt=\"Their calculations show it will 'pass within the distance of the moon' but that it 'will not hit the moon, so what's the point?'\" />",
@@ -763,6 +773,16 @@
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
         {
+          "id": "https://text-mode.tumblr.com/post/761530669519224832",
+          "author": null,
+          "description": "text-mode:\nAncient baskets, mostly from Peru. via",
+          "link": "https://text-mode.tumblr.com/post/761530669519224832",
+          "publishedOn": "2024-09-13T18:30:40.000Z",
+          "wordCount": 979,
+          "title": "text-mode:\n\nAncient baskets, mostly from Peru. via",
+          "imageUrl": "https://64.media.tumblr.com/49bc4280b5a8c29adb6e2e9d4af78bc1/tumblr_mnrj2kLKIn1rpiyaso1_1280.png"
+        },
+        {
           "id": "https://text-mode.tumblr.com/post/761440120829263872",
           "author": null,
           "description": "text-mode:\nSquare kufic, meaning:\nبِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ \nالْحَمْدُ للّهِ رَبِّ الْعَالَمِينَ \nالرَّحْمنِ الرَّحِيمِ \nمَالِكِ يَوْمِ الدِّينِ \nإِيَّاكَ نَعْبُدُ و إِيَّاكَ نَسْتَعِينُ \nاهدِنَا الصِّرَاطَ المُستَقِيمَ \nصِرَاطَ الَّذِينَ أَنعَمتَ عَلَيهِمْ غَيرِ المَغضُوبِ عَلَيهِمْ وَ لاَ الضَّالِّينَ\nIt’s the complete Surah 1, al-Fatihah; in the shape of Allah. From the Mir Chaqmaq Mosque in Iran, built in the 1400s.",
@@ -1351,16 +1371,6 @@
           "wordCount": 1082,
           "title": "text-mode:\n\nHere’s something different than all those...",
           "imageUrl": "https://64.media.tumblr.com/ce099e6534145ea30e59adc1306a8f99/tumblr_n0r4zgVrC11rpiyaso1_1280.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/756094870047834112",
-          "author": null,
-          "description": "text-mode:\nWhile this “first ASCII art piece” by Knowlton & Harmon from 1966 can be considered as font-based, it doesn’t seem to use any ASCII-characters at all. Aiit? Besides, Digital Mona Lisa is from 1964.\nSome hi-res scans here, thx to chicasyordinadores 4 the link.",
-          "link": "https://text-mode.tumblr.com/post/756094870047834112",
-          "publishedOn": "2024-07-15T18:30:58.000Z",
-          "wordCount": 1033,
-          "title": "text-mode:\n\nWhile this “first ASCII art piece” by Knowlton &...",
-          "imageUrl": "https://64.media.tumblr.com/be1b69b3c760ee35bd53ee8e38550ad6/tumblr_n0dk7zruMj1rpiyaso2_640.jpg"
         }
       ]
     },
@@ -1468,16 +1478,6 @@
           "wordCount": 1980,
           "title": "Top 5 Firefox features for tab maximalists",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2024/07/Firefox-tips-and-tricks-for-maximalists_2X-1280x853.png"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=75025",
-          "author": "Mozilla",
-          "description": "We recently shared a number of updates with our community of users, and now we want to share them here: At Mozilla, we work hard to make Firefox the best browser for you. That’s why we’re always focused on building a browser that empowers you to choose your own path, that gives you the freedom […]\nThe post Here’s what we’re working on in Firefox appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/heres-what-were-working-on-in-firefox/",
-          "publishedOn": "2024-07-15T18:16:38.000Z",
-          "wordCount": 1902,
-          "title": "Here’s what we’re working on in Firefox",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2024/05/fx_website_meta-image_tips-tricks_alt-04-1-1200x800.webp"
         }
       ]
     },
@@ -1523,6 +1523,126 @@
       "feedUrl": "https://www.joshwcomeau.com/rss.xml",
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
+        {
+          "id": "https://www.joshwcomeau.com/css/interactive-guide-to-grid/",
+          "author": "Josh W. Comeau",
+          "description": "CSS Grid is an incredibly powerful tool for building layouts on the web, but like all powerful tools, there's a significant learning curve. In this tutorial, we'll build a mental model for how CSS Grid works and how we can use it effectively. I'll share the biggest 💡 lightbulb moments I've had in my own learning journey.",
+          "link": "https://www.joshwcomeau.com/css/interactive-guide-to-grid/",
+          "publishedOn": "2024-09-13T14:12:29.000Z",
+          "wordCount": 10401,
+          "title": "An Interactive Guide to CSS Grid",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-interactive-guide-to-grid.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/animation/pride-flags/",
+          "author": "Josh W. Comeau",
+          "description": "Happy Pride month! In this tutorial, I'll share a handful of my favourite animation tricks. You'll learn how to build an animated wavy pride flag using CSS keyframes and linear gradients. We'll also see how to make it dynamic using React. 🏳️‍🌈",
+          "link": "https://www.joshwcomeau.com/animation/pride-flags/",
+          "publishedOn": "2024-09-13T14:12:29.000Z",
+          "wordCount": 8558,
+          "title": "Animated Pride Flags",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-pride-flags.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/",
+          "author": "Josh W. Comeau",
+          "description": "“Should I use pixels or rems?”. In this comprehensive blog post, we'll answer this question once and for all. You'll learn about the accessibility implications, and how to determine the best unit to use in any scenario.",
+          "link": "https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/",
+          "publishedOn": "2024-09-13T14:12:29.000Z",
+          "wordCount": 10233,
+          "title": "The Surprising Truth About Pixels and Accessibility",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-surprising-truth-about-pixels-and-accessibility.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/css/understanding-layout-algorithms/",
+          "author": "Josh W. Comeau",
+          "description": "As front-end developers, we often learn CSS by focusing on individual properties. Instead, we should focus on how the language uses those properties to calculate layouts. In this blog post, we'll pop the hood on CSS and see how the language is structured, and how to learn it effectively.",
+          "link": "https://www.joshwcomeau.com/css/understanding-layout-algorithms/",
+          "publishedOn": "2024-09-13T14:12:29.000Z",
+          "wordCount": 8954,
+          "title": "Understanding Layout Algorithms",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-understanding-layout-algorithms.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/css/custom-css-reset/",
+          "author": "Josh W. Comeau",
+          "description": "I have a set of baseline CSS styles that come with me from project to project. In the past, I'd use a typical CSS reset, but times have changed, and I believe I have a better set of global styles!",
+          "link": "https://www.joshwcomeau.com/css/custom-css-reset/",
+          "publishedOn": "2024-09-13T14:12:29.000Z",
+          "wordCount": 8786,
+          "title": "A Modern CSS Reset",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-custom-css-reset.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/",
+          "author": "Josh W. Comeau",
+          "description": "As software developers, we're always learning new things; it's practically the whole gig! If we can learn to quickly pick up new languages/frameworks/tools, we'll become so much more effective at our job. It's sort of a superpower.",
+          "link": "https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/",
+          "publishedOn": "2024-09-13T14:12:29.000Z",
+          "wordCount": 7728,
+          "title": "How To Learn Stuff Quickly",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-how-to-learn-stuff-quickly.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/animation/3d-button/",
+          "author": "Josh W. Comeau",
+          "description": "Every action we take on the web starts with a button click, and yet most buttons are ho-hum and uninspired. In this tutorial, we'll build an animated 3D button with HTML and CSS that sparks joy.",
+          "link": "https://www.joshwcomeau.com/animation/3d-button/",
+          "publishedOn": "2024-09-13T14:12:29.000Z",
+          "wordCount": 8133,
+          "title": "Building a Magical 3D Button",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-3d-button.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/nextjs/refreshing-server-side-props/",
+          "author": "Josh W. Comeau",
+          "description": "Next allows you to do server-side data-fetching, but what happens when that data needs to change on the client? This brief tutorial shows how to re-fetch the props without doing a full server reload.",
+          "link": "https://www.joshwcomeau.com/nextjs/refreshing-server-side-props/",
+          "publishedOn": "2024-09-13T14:12:29.000Z",
+          "wordCount": 5097,
+          "title": "Refreshing Server-Side Props",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-refreshing-server-side-props.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/css/rules-of-margin-collapse/",
+          "author": "Josh W. Comeau",
+          "description": "“Margin collapse” has a dastardly reputation, one of the trickier parts of CSS. Fortunately, it gets a lot easier once you learn a few rules! In this tutorial, we take a deep dive into the governing principles, and learn how to use them to our advantage.",
+          "link": "https://www.joshwcomeau.com/css/rules-of-margin-collapse/",
+          "publishedOn": "2024-09-13T14:12:29.000Z",
+          "wordCount": 6692,
+          "title": "The Rules of Margin Collapse",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-rules-of-margin-collapse.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/css/full-bleed/",
+          "author": "Josh W. Comeau",
+          "description": "Certain layouts are surprisingly dastardly. On the modern web, one of the most common layouts is also one of the trickiest. In this tutorial, I break down how to build the \"full-bleed\" layout using CSS Grid.",
+          "link": "https://www.joshwcomeau.com/css/full-bleed/",
+          "publishedOn": "2024-09-13T14:12:29.000Z",
+          "wordCount": 6145,
+          "title": "Full-Bleed Layout Using CSS Grid",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-full-bleed.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/blog/why-my-blog-is-closed-source/",
+          "author": "Josh W. Comeau",
+          "description": "In our community, it's so common for developer projects to be open-source. I'm breaking with this trend for my blog, but I have good reasons! In this article, I'll share my reasoning, as well as a workaround in case you _really_ want to see the source. If you're considering whether a project should be open-source or not, I hope you'll find it valuable.",
+          "link": "https://www.joshwcomeau.com/blog/why-my-blog-is-closed-source/",
+          "publishedOn": "2024-09-13T14:12:29.000Z",
+          "wordCount": 4997,
+          "title": "Why My Blog is Closed-Source",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-why-my-blog-is-closed-source.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/css/css-variables-for-react-devs/",
+          "author": "Josh W. Comeau",
+          "description": "CSS variables are *really* cool, and they're incredibly powerful when it comes to React! This tutorial shows how we can use them with React to create dynamic themes. We'll see how to get the most out of CSS-in-JS tools like styled-components, and how our mental frame around media queries has been wrong all along.",
+          "link": "https://www.joshwcomeau.com/css/css-variables-for-react-devs/",
+          "publishedOn": "2024-09-13T14:12:29.000Z",
+          "wordCount": 8435,
+          "title": "CSS Variables for React Devs",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-css-variables-for-react-devs.png"
+        },
         {
           "id": "https://www.joshwcomeau.com/css/has/",
           "author": "Josh W. Comeau",
@@ -2005,31 +2125,6 @@
           "wordCount": 4006,
           "title": "Pluralistic: Richard R John's \"Network Nation\" (18 Jul 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=9082",
-          "author": "Cory Doctorow",
-          "description": "Today's links Bowen McCurdy and Jordan Morris's \"Youth Group\": A fabulous graphic novel of applied demonology and Sunday school. Hey look at this: Delights to delectate. This day in history: 2009, 2014, 2019 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Bowen McCurdy and Jordan Morris's \"Youth Group\" (permalink) Youth Group is Bowen McCurdy and Jordan Morris's new and delightful graphic novel from Firstsecond. It's a charming tale of 1990s ennui, cringe Sunday School – and demon hunting. https://us.macmillan.com/books/9781250789235/youthgroup Kay is a bitter, cynical teenager who's doing her best to help her mother cope with an…",
-          "link": "https://pluralistic.net/2024/07/16/satanic-panic/",
-          "publishedOn": "2024-07-16T10:34:04.000Z",
-          "wordCount": 2660,
-          "title": "Pluralistic: Bowen McCurdy and Jordan Morris's \"Youth Group\" (16 Jul 2024)",
-          "enclosure": {
-            "url": "https://ia903008.us.archive.org/30/items/Cory_Doctorow_Podcast_303/Cory_Doctorow_Podcast_303_-_Occupy_Gotham.mp3",
-            "length": "15077376",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=9077",
-          "author": "Cory Doctorow",
-          "description": "Today's links Foxx Nolte's \"Hidden History of Walt Disney World\": The rough edges are more interesting than the polished surfaces. Hey look at this: Delights to delectate. This day in history: 2004, 2009, 2014, 2019, 2024 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Foxx Nolte's \"Hidden History of Walt Disney World\" (permalink) No one writes about Disney theme parks like Foxx Nolte; no one rises above the trivia and goes beyond the mere sleuthing of historical facts, no one nails the essence of what makes these parks work – and fail. I first encountered Nolte through her blog, Passport to Dreams Old and New, where her writing …",
-          "link": "https://pluralistic.net/2024/07/15/disnefried/",
-          "publishedOn": "2024-07-15T12:50:42.000Z",
-          "wordCount": 3057,
-          "title": "Pluralistic: Foxx Nolte's \"Hidden History of Walt Disney World\" (15 Jul 2024)",
-          "imageUrl": null
         }
       ]
     },
@@ -2091,6 +2186,56 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/09/0045277-disco-in-the-80s-but",
+          "author": null,
+          "description": "Disco in the 80s but everyone is Lionel Messi. (This is incredible.)\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/09/0045277-disco-in-the-80s-but",
+          "publishedOn": "2024-09-13T19:27:38.000Z",
+          "wordCount": 771,
+          "title": "Disco in the 80s but everyone is Lionel Messi. (This is incredible.)...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/09/the-worlds-loudest-sound-1",
+          "author": null,
+          "description": "The sound made by the Krakatoa volcanic eruption in 1883 was so loud it ruptured eardrums of people 40 miles away, travelled around the world four times, and was clearly heard 3,000 miles away.\nThink, for a moment, just how crazy this is. If you’re in Boston and someone tells you that they heard a sound coming from New York City, you’re probably going to give them a funny look. But Boston is a mere 200 miles from New York. What we’re talking about here is like being in Boston and clearly hearing a noise coming from Dublin, Ireland. Travelling at the speed of sound (766 miles or 1,233 kilometers per hour), it takes a noise about 4 hours to cover that distance. This is the most distant sound that has ever been heard in recorded history.\n\n\nA much much smaller eruption occurred recently in Pap…",
+          "link": "https://kottke.org/24/09/the-worlds-loudest-sound-1",
+          "publishedOn": "2024-09-13T18:18:30.000Z",
+          "wordCount": 1119,
+          "title": "The World&#8217;s Loudest Sound",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/krakatoa-sound-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/09/0045274-how-to-monetize-a-blog",
+          "author": null,
+          "description": "How to Monetize a Blog. I am taking very careful notes, so expect some big changes around here. Mind the vortex (vortext?) tho.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/09/0045274-how-to-monetize-a-blog",
+          "publishedOn": "2024-09-13T16:45:26.000Z",
+          "wordCount": 714,
+          "title": "How to Monetize a Blog. I am taking very careful notes, so...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/09/0045275-man-replies-stop-to-polit",
+          "author": null,
+          "description": "Man Replies ‘STOP’ To Political Fundraiser Text Like Powerful Wizard Casting Spell To Ward Off Mythical Beast. It me, 10 times a day.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/09/0045275-man-replies-stop-to-polit",
+          "publishedOn": "2024-09-13T15:27:56.000Z",
+          "wordCount": 1074,
+          "title": "Man Replies &#8216;STOP&#8217; To Political Fundraiser Text Like Powerful Wizard Casting Spell...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/09/0045276-at-long-last-robert-caros",
+          "author": null,
+          "description": "At long last, Robert Caro’s The Power Broker is available as a Kindle ebook. It will be released on Sept 16 — you can preorder it here.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/09/0045276-at-long-last-robert-caros",
+          "publishedOn": "2024-09-13T12:47:11.000Z",
+          "wordCount": 729,
+          "title": "At long last, Robert Caro&#8217;s The Power Broker is available as a...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/24/09/0045237-the-365-most-famous-quote",
           "author": null,
