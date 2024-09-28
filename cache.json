@@ -156,6 +156,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2991/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/beamsplitters.png\" title=\"Under quantum tax law, photons sent through a beamsplitter don't actually choose which path they took, or incur a tax burden, until their wavefunction collapses when the power is sold.\" alt=\"Under quantum tax law, photons sent through a beamsplitter don't actually choose which path they took, or incur a tax burden, until their wavefunction collapses when the power is sold.\" />",
+          "link": "https://xkcd.com/2991/",
+          "publishedOn": "2024-09-27T00:00:00.000Z",
+          "wordCount": 205,
+          "title": "Beamsplitters",
+          "imageUrl": "https://imgs.xkcd.com/comics/beamsplitters_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2990/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/late_cenozoic.png\" title=\"Our nucleic acid recovery techinques found a great deal of homo sapiens DNA incorporated into the fossils, particularly the ones containing high levels of resin, leading to the theory that these dinosaurs preyed on the once-dominant primates.\" alt=\"Our nucleic acid recovery techinques found a great deal of homo sapiens DNA incorporated into the fossils, particularly the ones containing high levels of resin, leading to the theory that these dinosaurs preyed on the once-dominant primates.\" />",
@@ -749,6 +759,16 @@
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
         {
+          "id": "https://text-mode.tumblr.com/post/762799032019173376",
+          "author": null,
+          "description": "text-mode:\n【落ち葉焚】Ochiba taki by = 。= (2007)",
+          "link": "https://text-mode.tumblr.com/post/762799032019173376",
+          "publishedOn": "2024-09-27T18:30:45.000Z",
+          "wordCount": 998,
+          "title": "text-mode:\n\n【落ち葉焚】Ochiba taki by = 。= (2007)",
+          "imageUrl": "https://64.media.tumblr.com/12f1cfe4b7339260a0692b166ca49ed2/tumblr_mx2u7iBFUF1rpiyaso1_1280.png"
+        },
+        {
           "id": "https://text-mode.tumblr.com/post/762708467703283712",
           "author": null,
           "description": "text-mode:\nFukuzawa Yukichi. source",
@@ -1337,16 +1357,6 @@
           "wordCount": 977,
           "title": "visual-poetry:\n\n“frida kahlo” typoportrait by kevin mcpherson...",
           "imageUrl": "https://64.media.tumblr.com/tumblr_lq4l0duRNT1qaruxco1_1280.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/757363218697142272",
-          "author": null,
-          "description": "text-mode:\nVideo of the game ASCII Portal.",
-          "link": "https://text-mode.tumblr.com/post/757363218697142272",
-          "publishedOn": "2024-07-29T18:30:49.000Z",
-          "wordCount": 933,
-          "title": "text-mode:\n\nVideo of the game ASCII Portal.",
-          "imageUrl": "https://i.ytimg.com/vi/7ww2dGmjE2Q/hqdefault.jpg"
         }
       ]
     },
@@ -1452,6 +1462,16 @@
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
+        {
+          "id": "https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/",
+          "author": null,
+          "description": "I spent a lot of time in the past couple of weeks working on a website in Go\nthat may or may not ever see the light of day, but I learned a couple of things\nalong the way I wanted to write down. Here they are:\ngo 1.22 now has better routing\nI’ve never felt motivated to learn any of the Go routing libraries\n(gorilla/mux, chi, etc), so I’ve been doing all my routing by hand, like this.\n\t// DELETE /records:\n\tcase r.Method == \"DELETE\" && n == 1 && p[0] == \"records\":\n\t\tif !requireLogin(username, r.URL.Path, r, w) {\n\t\t\treturn\n\t\t}\n\t\tdeleteAllRecords(ctx, username, rs, w, r)\n\t// POST /records/<ID>\n\tcase r.Method == \"POST\" && n == 2 && p[0] == \"records\" && len(p[1]) > 0:\n\t\tif !requireLogin(username, r.URL.Path, r, w) {\n\t\t\treturn\n\t\t}\n\t\tupdateRecord(ctx, username, p[1], rs, w, r)\n\n\nBut apparently as …",
+          "link": "https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/",
+          "publishedOn": "2024-09-27T11:16:00.000Z",
+          "wordCount": 1392,
+          "title": "Some Go web dev notes",
+          "imageUrl": null
+        },
         {
           "id": "https://jvns.ca/blog/2024/09/12/reasons-i--still--love-fish/",
           "author": null,
@@ -1763,6 +1783,16 @@
       "siteUrl": "https://pluralistic.net",
       "articles": [
         {
+          "id": "https://pluralistic.net/?p=9470",
+          "author": "Cory Doctorow",
+          "description": "Today's links Return to office and dying on the job: Denise Prudhomme was dead at her Wells Fargo desk, unnoticed for four days. Hey look at this: Delights to delectate. This day in history: 2004, 2009, 2014, 2019, 2023 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Return to office and dying on the job (permalink) Denise Prudhomme's bosses at Wells Fargo insisted that the in-person camaraderie of their offices warranted a mandatory return-to-office policy, but when she died at her desk in her Tempe, AZ office, no one noticed for four days. That was in August. Now, Wells Fargo United has published a statement on her death, one t…",
+          "link": "https://pluralistic.net/2024/09/27/sharpen-your-blades-boys/",
+          "publishedOn": "2024-09-27T13:16:09.000Z",
+          "wordCount": 3041,
+          "title": "Pluralistic: Return to work and dying on the job (27 Sep 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://pluralistic.net/?p=9460",
           "author": "Cory Doctorow",
           "description": "Today's links When prophecy fails, election polling edition: Again? Bullwinkle, that trick NEVER works. Hey look at this: Delights to delectate. This day in history: 2009, 2014, 2019, 2023 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. When prophecy fails, election polling edition (permalink) In Canto 20 of Inferno, Dante confronts a pit where the sinners have had their heads twisted around backwards; they trudge, naked and weeping, through puddles of cooling tears. Virgil informs him that these are the fortunetellers, who tried to look forwards in life and now must look backwards forever. In a completely unrelated subject, how …",
@@ -2071,16 +2101,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=9155",
-          "author": "Cory Doctorow",
-          "description": "Today's links A profoundly stupid case about video game cheating could transform adblocking into a copyright infringement: Actual property rights are less important than the metaphorical property rights of \"IP.\" Hey look at this: Delights to delectate. This day in history: 2004, 2009, 2019, 2023 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. A profoundly stupid case about video game cheating could transform adblocking into a copyright infringement (permalink) Here's a weird consequence of our societal shift from capitalism (where riches come from profits) to feudalism (where riches come from rents): increasingly, your rights to …",
-          "link": "https://pluralistic.net/2024/07/29/faithful-user-agents/",
-          "publishedOn": "2024-07-29T18:28:15.000Z",
-          "wordCount": 4387,
-          "title": "Pluralistic: A profoundly stupid case about video game cheating could transform adblocking into a copyright infringement (29 Jul 2024)",
-          "imageUrl": null
         }
       ]
     },
@@ -2142,6 +2162,16 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/09/0045353-as-of-late-september-2024",
+          "author": null,
+          "description": "“As of late September 2024, residential households in the U.S. are eligible for another order of 4 free at-home [Covid] tests from USPS.” Order here!\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/09/0045353-as-of-late-september-2024",
+          "publishedOn": "2024-09-27T00:40:41.000Z",
+          "wordCount": 890,
+          "title": "&#8220;As of late September 2024, residential households in the U.S. are eligible...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/24/09/0045313-old-photos-of-basketball-",
           "author": null,
@@ -5340,106 +5370,6 @@
           "publishedOn": "2024-07-30T15:00:47.000Z",
           "wordCount": 840,
           "title": "Germans are installing &#8220;plug-and-play&#8221; solar panels to decrease their electric bills. &#8220;You...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/07/drum-beat-typography",
-          "author": null,
-          "description": "Graphic artist Anthony Burrill has applied his unique typographic style to design posters and t-shirts of iconic drumming patterns for the Teenage Cancer Trust.\nThe designer, known for his powerful and positive messaging, has created exclusive artworks in partnership with drumming legends, including Paul McCartney’s drummer Abe Laboriel Jnr, Arctic Monkeys’ Matt Helders, Simple Minds’ Cherisse Osei, Slayer’s Dave Lombardo, and Porcupine Tree’s Gavin Harrison.\n\n\nIt would be fun to see a working visualizer that used Burrill’s style to visualize any song’s drum beats. (via daniel benneworth–gray)\nTags: Anthony Burrill · design · infoviz · music · typography\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/07/drum-beat-typography",
-          "publishedOn": "2024-07-29T23:00:59.000Z",
-          "wordCount": 722,
-          "title": "Drum Beat Typography",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/burrill-drum-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/07/0045030-ran-across-this-hilarious",
-          "author": null,
-          "description": "Ran across this hilariously nonsensical gymnastics commentary by Joe Tracini this morning and it definitely filled up the ol’ joy meter. “Winding up for a spooky bassoon…”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/07/0045030-ran-across-this-hilarious",
-          "publishedOn": "2024-07-29T22:16:57.000Z",
-          "wordCount": 774,
-          "title": "Ran across this hilariously nonsensical gymnastics commentary by Joe Tracini this morning...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/07/parker-or-driver",
-          "author": null,
-          "description": "I am reading All Fours by Miranda July right now and it hooked me right out of the gate. Granta published a excerpt of the book back in April – you can use it as a barometer for whether you’d like to try the whole thing.\nI came into the house my usual way, like a thief. I turned the lock slowly and shut the door with the handle all the way to the left to avoid the click of the lock. Took off my shoes. Rolled my feet from heel to toe, which is how ninjas walk so silently. I was often two or three hours late because I had trouble admitting that I was planning to talk to Jordi for five hours. But how could it be any shorter, given that it was my one chance a week to be myself? My heart was pounding as I tiptoed through the living room. I know the quietest way to wash up, too: picking up and putting down the cup and face wash with this technique where you pretend each thing is heavier than it is. Imagine the cup is made of brick, so that as you put it down you’re also lifting it up, resisting its weight — the opposite of this would be just dropping it, letting gravity put it down. When I walk past Harris’s bedroom I think glide, glide, glide.\n\n\nSee also Edith’s diary comics: Reading Miranda July’s All Fours.\nTags: All Fours · books · Miranda July\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/07/parker-or-driver",
-          "publishedOn": "2024-07-29T20:03:05.000Z",
-          "wordCount": 880,
-          "title": "Parker or Driver?",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/07/how-democracy-happens-first-gradually-and-then-suddenly",
-          "author": null,
-          "description": "Today’s piece by Heather Cox Richardson takes the form of a hopeful history lesson on how sometimes democracy happens in fits and starts.\nAt this country’s most important revolutionary moments, it has seemed as if the country turned on a dime. \nIn 1763, just after the end of the French and Indian War, American colonists loved that they were part of the British empire. And yet, by 1776, just a little more than a decade later, they had declared independence from that empire and set down the principles that everyone has a right to be treated equally before the law and to have a say in their government.\nThe change was just as quick in the 1850s. In 1853 it sure looked as if the elite southern enslavers had taken over the country. They controlled the Senate, the White House, and the Supreme Court. They explicitly rejected the Declaration of Independence and declared that they had the right to rule over the country’s majority. They planned to take over the United States and then to take over the world, creating a global economy based on human enslavement. \nAnd yet, just seven years later, voters put Abraham Lincoln in the White House with a promise to stand against the Slave Power and to protect a government “of the people, by the people, and for the people.” He ushered in “a new birth of freedom” in what historians call the second American revolution.\n\n\n        \n\n         \nTags: Heather Cox Richardson · politics · USA",
-          "link": "https://kottke.org/24/07/how-democracy-happens-first-gradually-and-then-suddenly",
-          "publishedOn": "2024-07-29T18:17:15.000Z",
-          "wordCount": 795,
-          "title": "How Democracy Happens: First Gradually and Then Suddenly",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/07/0045026-lithub-the-republicans-pr",
-          "author": null,
-          "description": "Lithub: The Republicans’ Project 2025 is disastrous for books. “Project 2025 is the single most expansive, extreme attack on our freedom to read that we’ve seen with ambition for federal government implementation.”",
-          "link": "https://kottke.org/24/07/0045026-lithub-the-republicans-pr",
-          "publishedOn": "2024-07-29T17:13:45.000Z",
-          "wordCount": 616,
-          "title": "Lithub: The Republicans&#8217; Project 2025 is disastrous for books. &#8220;Project 2025 is...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/07/0045001-10-settings-to-tweak-to",
-          "author": null,
-          "description": "10 settings to tweak to increase iPhone battery life, including turning off the always-on display and reducing your screen refresh rate. Also, stop quitting your apps…it doesn’t help!\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/07/0045001-10-settings-to-tweak-to",
-          "publishedOn": "2024-07-29T16:34:53.000Z",
-          "wordCount": 1566,
-          "title": "10 settings to tweak to increase iPhone battery life, including turning off...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/07/www-the-way-we-were-1",
-          "author": null,
-          "description": "Note: There are some *major* unavoidable spoilers about the finale of season three of Halt and Catch Fire in this post. If you’ve been watching (and you definitely should be), you might want to catch the finale first and then come back.\nThe final two episodes of Halt and Catch Fire aired last night. The previous eight episodes of the season took place in the mid-1980s with Joe running something like Norton or McAfee in San Francisco, and Cameron, Donna, and Gordon running a dial-up service like Compuserve for playing online video games, chatting, and selling stuff on a nascent Etsy. In the 8th episode, a lot of that changed and the characters headed their separate ways.\nFor the final two episodes, the show jumps forward to 1990, and in the last episode, Donna brings the four main character…",
-          "link": "https://kottke.org/24/07/www-the-way-we-were-1",
-          "publishedOn": "2024-07-29T15:30:50.000Z",
-          "wordCount": 1865,
-          "title": "WWW: The Way We Were",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/07/0045024-margaret-sullivan-i-urge-",
-          "author": null,
-          "description": "Margaret Sullivan: “I urge news decision-makers to take Trump’s authoritarian desires very seriously.” Like when he tell evangelicals: “You won’t have to [vote] anymore, four years, it will be fixed. It will be fine. You don’t have to vote anymore.”",
-          "link": "https://kottke.org/24/07/0045024-margaret-sullivan-i-urge-",
-          "publishedOn": "2024-07-29T14:46:53.000Z",
-          "wordCount": 612,
-          "title": "Margaret Sullivan: &#8220;I urge news decision-makers to take Trump&#8217;s authoritarian desires very...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/07/0045023-none-of-us-knows-if",
-          "author": null,
-          "description": "“None of us knows if we can do this. And we are about to do it anyway.” Rebecca Traister writes about “the thrill of taking a huge risk on Kamala Harris”. (I’m not quite there yet…being thrilled instead of anxious.)",
-          "link": "https://kottke.org/24/07/0045023-none-of-us-knows-if",
-          "publishedOn": "2024-07-29T14:10:08.000Z",
-          "wordCount": 612,
-          "title": "&#8220;None of us knows if we can do this. And we are...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/07/0045002-behind-the-scenes-shots-o",
-          "author": null,
-          "description": "Behind the scenes shots of iconic album covers, including those from Björk, Lady Gaga, The Beatles, Nirvana, Childish Gambino, and Taylor Swift.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/07/0045002-behind-the-scenes-shots-o",
-          "publishedOn": "2024-07-29T13:25:13.000Z",
-          "wordCount": 758,
-          "title": "Behind the scenes shots of iconic album covers, including those from Björk,...",
           "imageUrl": ""
         }
       ]
