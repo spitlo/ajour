@@ -123,16 +123,6 @@
           "wordCount": 2441,
           "title": "Summary of changes for August 2024",
           "imageUrl": null
-        },
-        {
-          "id": "log.html#jul2024",
-          "author": "Rek Bell",
-          "description": "Hey everyone!\nThis is the list of all the changes we've done to our projects during the month of July.\nSummary Of Changes\n100r.co, added Sitka, and completed route in {us se alaska}.\nLeft, can now paste binary directly from programs like Nasu.\nHakum, added two drawings to the Characters section, and a new very short comic called Shoes.\nWiktopher, fixed some typos.\nMarkl, we don't have much of anything to show for it yet, but who knows, maybe this time it will work out!\nSolrela, expanded Solresol dictionary.\nMalleable Systems, wrote a little thing about extending compiled software with devtools.\nPino and crew have moved a lot in the past month. On the first of July, we were in Sitka, Southeast Alaska, and then on the last day of the month we were back in Millbrook Cove, very near to the top…",
-          "link": "https://100r.co/site/log.html#jul2024",
-          "publishedOn": "2024-08-04T07:00:00.000Z",
-          "wordCount": 2171,
-          "title": "Summary of changes for July 2024",
-          "imageUrl": null
         }
       ]
     },
@@ -769,6 +759,16 @@
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
         {
+          "id": "https://text-mode.tumblr.com/post/763252017072422912",
+          "author": null,
+          "description": "text-mode:\nNaked asexual bodies ftw. Uploaded by asciiart here.",
+          "link": "https://text-mode.tumblr.com/post/763252017072422912",
+          "publishedOn": "2024-10-02T18:30:45.000Z",
+          "wordCount": 986,
+          "title": "text-mode:\n\nNaked asexual bodies ftw. Uploaded by asciiart here.",
+          "imageUrl": "https://64.media.tumblr.com/e6af5b3d8b5d8bd69391161ddec6d26b/tumblr_mrsfajNjwt1rpiyaso1_1280.png"
+        },
+        {
           "id": "https://text-mode.tumblr.com/post/763161415828783105",
           "author": null,
           "description": "text-mode:\nJapanese ASCII by unknown author, source",
@@ -1357,16 +1357,6 @@
           "wordCount": 1012,
           "title": "text-mode:\n\nBy Rich Oglesby for the GIF-exhibition Clusterfuck...",
           "imageUrl": "https://64.media.tumblr.com/ae1116c03898276ec0c023bdc2f71d57/tumblr_mxc319KU5k1rpiyaso2_1280.gif"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/757816190171316224",
-          "author": null,
-          "description": "text-mode:\nMZ-700 S-BASIC demo 紹介, from here",
-          "link": "https://text-mode.tumblr.com/post/757816190171316224",
-          "publishedOn": "2024-08-03T18:30:37.000Z",
-          "wordCount": 963,
-          "title": "text-mode:\n\nMZ-700 S-BASIC demo 紹介, from here",
-          "imageUrl": "https://64.media.tumblr.com/522c3c9c012dbf9feee68ed597f56530/tumblr_n09z8u3gfm1rpiyaso5_400.gif"
         }
       ]
     },
@@ -1375,6 +1365,16 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=75923",
+          "author": "Juwan J. Holmes",
+          "description": "How do Twitch streamers connect with so many people on the internet while keeping their personal lives private?  For those unfamiliar, Twitch streamers are content creators who broadcast live to audiences in real-time, covering everything from gaming to productivity. Viewer interaction is a huge part of the experience, but it also opens up streamers to […]\nThe post How to protect your privacy online like a Twitch streamer appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/internet-culture/how-twitch-streamers-protect-privacy/",
+          "publishedOn": "2024-10-02T18:20:16.000Z",
+          "wordCount": 2040,
+          "title": "How to protect your privacy online like a Twitch streamer",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2022/11/fx_blogheader_talkwithkids_videogames-1-1080x720.jpg"
+        },
         {
           "id": "https://blog.mozilla.org/?p=75841",
           "author": "Nik Marda, Jasmine Sun and Mark Surman",
@@ -1463,6 +1463,16 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2024/10/01/terminal-colours/",
+          "author": null,
+          "description": "Yesterday I was thinking about how long it took me to get a colorscheme in my\nterminal that I was mostly happy with (SO MANY YEARS), and it made me wonder\nwhat about terminal colours made it so hard.\nSo I asked people on Mastodon what problems\nthey’ve run into with colours in the terminal, and I got a ton of interesting\nresponses! Let’s talk about some of the problems and a few possible ways to fix\nthem.\nproblem 1: blue on black\nOne of the top complaints was “blue on black is hard to read”. Here’s an\nexample of that: if I open Terminal.app, set the background to black, and run\nls, the directories are displayed in a blue that isn’t that easy to read:\n\nTo understand why we’re seeing this blue, let’s talk about ANSI colours!\nthe 16 ANSI colours\nYour terminal has 16 numbered colours – black, r…",
+          "link": "https://jvns.ca/blog/2024/10/01/terminal-colours/",
+          "publishedOn": "2024-10-01T10:01:44.000Z",
+          "wordCount": 2583,
+          "title": "Terminal colours are tricky",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/",
           "author": null,
           "description": "I spent a lot of time in the past couple of weeks working on a website in Go\nthat may or may not ever see the light of day, but I learned a couple of things\nalong the way I wanted to write down. Here they are:\ngo 1.22 now has better routing\nI’ve never felt motivated to learn any of the Go routing libraries\n(gorilla/mux, chi, etc), so I’ve been doing all my routing by hand, like this.\n\t// DELETE /records:\n\tcase r.Method == \"DELETE\" && n == 1 && p[0] == \"records\":\n\t\tif !requireLogin(username, r.URL.Path, r, w) {\n\t\t\treturn\n\t\t}\n\t\tdeleteAllRecords(ctx, username, rs, w, r)\n\t// POST /records/<ID>\n\tcase r.Method == \"POST\" && n == 2 && p[0] == \"records\" && len(p[1]) > 0:\n\t\tif !requireLogin(username, r.URL.Path, r, w) {\n\t\t\treturn\n\t\t}\n\t\tupdateRecord(ctx, username, p[1], rs, w, r)\n\n\nBut apparently as …",
@@ -1509,6 +1519,16 @@
       "feedUrl": "https://www.joshwcomeau.com/rss.xml",
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
+        {
+          "id": "https://www.joshwcomeau.com/react/file-structure/",
+          "author": "Josh W. Comeau",
+          "description": "How should we structure components and other files in our React apps? I've iterated my way to a solution I'm really happy with. In this blog post, I'll share how it works, what the tradeoffs are, and how I mitigate them.",
+          "link": "https://www.joshwcomeau.com/react/file-structure/",
+          "publishedOn": "2024-10-02T17:18:53.000Z",
+          "wordCount": 10448,
+          "title": "Delightful React File/Directory Structure",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-file-structure.png"
+        },
         {
           "id": "https://www.joshwcomeau.com/css/styled-components/",
           "author": "Josh W. Comeau",
@@ -1782,6 +1802,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=9501",
+          "author": "Cory Doctorow",
+          "description": "Today's links Epic Systems, a lethal health record monopolist: Clinical needs sacrificed to profit maximization. Hey look at this: Delights to delectate. This day in history: 2004, 2009, 2014, 2019 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Epic Systems, a lethal health record monopolist (permalink) Epic Systems makes the dominant electronic health record (EHR) system in America; if you're a doctor, chances are you are required to use it, and for every hour a doctor spends with a patient, they have to spend two hours doing clinically useless bureaucratic data-entry on an Epic EHR. How could a product so manifestly unfit for …",
+          "link": "https://pluralistic.net/2024/10/02/upcoded-to-death/",
+          "publishedOn": "2024-10-02T12:14:12.000Z",
+          "wordCount": 3749,
+          "title": "Pluralistic: Epic Systems, a lethal health record monopolist (02 Oct 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=9494",
           "author": "Cory Doctorow",
@@ -2076,16 +2106,6 @@
           "wordCount": 3753,
           "title": "Pluralistic: Leveraged buyouts are not like mortgages (05 Aug 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=9200",
-          "author": "Cory Doctorow",
-          "description": "Today's links Rsync corrump linkdump: A roundup of stray but worthy links. This day in history: 2004, 2009, 2019, 2023 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Rsync corrump linkdump (permalink) As per the uje, I've arrived upon a Saturday with a backlog of links that I have not managed to squeeze into the week's newsletters/blogs, so it's time for another linkdump, 22nd in an erratic series. Here's the previous 21: https://pluralistic.net/tag/linkdump/ Let's start with some seasonal material, and by \"seasonal,\" I of course mean Hallowe'en. Yes, August is the official start of Spooky Season, and yes, I am a monster for ins…",
-          "link": "https://pluralistic.net/2024/08/03/smorgasbord/",
-          "publishedOn": "2024-08-03T15:56:35.000Z",
-          "wordCount": 3519,
-          "title": "Pluralistic: Rsync corrump linkdump (03 Aug 2024)",
-          "imageUrl": null
         }
       ]
     },
@@ -2157,6 +2177,96 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/10/0045370-opinion-we-need-more-cons",
+          "author": null,
+          "description": "Opinion: We Need More Consequences for Reckless Driving. “‘Punishment’ and ‘consequences’ aren’t synonyms — and when we confuse the two, we lose lives on our roads.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/10/0045370-opinion-we-need-more-cons",
+          "publishedOn": "2024-10-02T21:00:21.000Z",
+          "wordCount": 702,
+          "title": "Opinion: We Need More Consequences for Reckless Driving. &#8220;&#8216;Punishment&#8217; and &#8216;consequences&#8217; aren&#8217;t...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/10/shiny-and-chrome",
+          "author": null,
+          "description": "A site called Chromeography collects chrome logos and typography from vintage cars & electric appliances. As I was looking through these, I wondered: “What the hell is chrome anyway?” So I looked it up:\nChrome plating (less commonly chromium plating) is a technique of electroplating a thin layer of chromium onto a metal object. A chrome plated part is called chrome, or is said to have been chromed. The chromium layer can be decorative, provide corrosion resistance, facilitate cleaning, and increase surface hardness. Sometimes, a less expensive substitute for chrome, such as nickel may be used for aesthetic purposes.\n\n\n(via @presentandcorrect)\nTags: cars · design · logos · typography\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/10/shiny-and-chrome",
+          "publishedOn": "2024-10-02T20:25:03.000Z",
+          "wordCount": 735,
+          "title": "Shiny and Chrome",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/chrome-logos-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/10/0045371-when-i-tell-folks-like",
+          "author": null,
+          "description": "When I tell folks (like during my XOXO talk) that I’m leaving a lot of money on the table by not paywalling my stuff on Substack, this is what I’m talking about: “You probably can’t make more than $1 million a year on Substack. But Matthew Yglesias does.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/10/0045371-when-i-tell-folks-like",
+          "publishedOn": "2024-10-02T20:19:39.000Z",
+          "wordCount": 768,
+          "title": "When I tell folks (like during my XOXO talk) that I&#8217;m leaving...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/10/0045373-two-college-students-pair",
+          "author": null,
+          "description": "Two college students paired Meta’s Ray Ban smart glasses with facial recognition tech and were able to pull up info on strangers (name, home address, phone number, and family members) in seconds just by looking at them.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/10/0045373-two-college-students-pair",
+          "publishedOn": "2024-10-02T17:49:17.000Z",
+          "wordCount": 959,
+          "title": "Two college students paired Meta&#8217;s Ray Ban smart glasses with facial recognition...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/10/whats-the-labor-share-of-national-income",
+          "author": null,
+          "description": "While listening to an episode of Scene on Radio’s excellent series on Capitalism, I learned about an economic measure called the labor share of national income. From The Guardian:\nThis week, the Bureau of Labor Statistics released its latest estimate for the share labor receives of national income for the first quarter of 2024. The statistics shows the income workers receive compared with the productivity their labor generates.\nAccording to BLS, this income share has declined for non-farm workers from about two-thirds, 64.1% in the first quarter of 2001, to 55.8% in the first quarter of 2024.\n\n\nRoughly speaking, in the first quarter of 2024, workers received ~56% of the income generated by their labor and 44% went to capital (ownership & shareholders).\nHere’s a graph that shows the labor s…",
+          "link": "https://kottke.org/24/10/whats-the-labor-share-of-national-income",
+          "publishedOn": "2024-10-02T17:02:46.000Z",
+          "wordCount": 1294,
+          "title": "What&#8217;s the Labor Share of National Income?",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/labor-share-graph.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/10/0045369-the-podcasts-generated-by",
+          "author": null,
+          "description": "The podcasts generated by Google’s NotebookLM service are “surprisingly effective”. (Whether this says more about the current state of podcasts or AI is an open question…)\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/10/0045369-the-podcasts-generated-by",
+          "publishedOn": "2024-10-02T16:19:27.000Z",
+          "wordCount": 707,
+          "title": "The podcasts generated by Google&#8217;s NotebookLM service are &#8220;surprisingly effective&#8221;. (Whether this...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/10/0045367-lighthouse-parents-have-m",
+          "author": null,
+          "description": "Lighthouse Parents Have More Confident Kids. “Sometimes, the best thing a parent can do is nothing at all.” This has largely been my parenting strategy, although it’s sometimes been challenging to stick to.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/10/0045367-lighthouse-parents-have-m",
+          "publishedOn": "2024-10-02T15:39:05.000Z",
+          "wordCount": 963,
+          "title": "Lighthouse Parents Have More Confident Kids. &#8220;Sometimes, the best thing a parent...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/10/great-art-explained-van-goghs-last-painting",
+          "author": null,
+          "description": "It’s been awhile since I’d checked in on one of my favorite YouTube channels, Great Art Explained. In the past year, curator James Payne has done videos on Duchamp, Manet, Magritte, and that one painting by Caspar David Friedrich (you know the one). But this one, on Vincent van Gogh’s final painting, particularly caught my attention: \n\nThe mystery of what [his final painting] was and where it was painted would take over a century to solve, and that was only thanks to a worldwide epidemic. What it means is that we now have a deeper insight into what van Gogh’s final last hours were like — before his tragic death.\n\n\n        \n\n         \nTags: art · art history · death · James Payne · video · Vincent van Gogh\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/10/great-art-explained-van-goghs-last-painting",
+          "publishedOn": "2024-10-02T15:01:22.000Z",
+          "wordCount": 756,
+          "title": "Great Art Explained: Van Gogh&#8217;s Last Painting",
+          "imageUrl": "https://i.ytimg.com/vi/lAjVuUB9AkI/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/10/0045355-over-33000-sounds-are-ava",
+          "author": null,
+          "description": "Over 33,000 sounds are available for free download from the BBC’s sound effects library. “Among the plethora of sounds covered are reindeer grunts, common frog calls and crowds at the 1989 FA Cup Final.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/10/0045355-over-33000-sounds-are-ava",
+          "publishedOn": "2024-10-02T14:03:45.000Z",
+          "wordCount": 828,
+          "title": "Over 33,000 sounds are available for free download from the BBC&#8217;s sound...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/24/10/a-murmuration-of-starlings-1",
           "author": null,
