@@ -426,16 +426,6 @@
           "wordCount": 607,
           "title": "I Will Luddite AI by Robert Kingett [link]",
           "imageUrl": null
-        },
-        {
-          "id": "making-a-dumb-doorbell-smart",
-          "author": null,
-          "description": "And no, I didn't just pop a bow tie on my doorbell! I recently installed Home Assistant on a spare Raspberry Pi I had laying around, and though our house isn't very smart-enabled, I thought it wouldn't be too hard to improve our cheap doorbell to notify through our Google home speakers (or even phone).",
-          "link": "https://remysharp.com/2024/08/06/making-a-dumb-doorbell-smart",
-          "publishedOn": "2024-08-06T00:00:00.000Z",
-          "wordCount": 1716,
-          "title": "Making a dumb doorbell smart [blog]",
-          "imageUrl": "https://remysharp.com/images/doorbell_inside.jpg"
         }
       ]
     },
@@ -733,6 +723,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/763433224091336704",
+          "author": null,
+          "description": "text-mode:\nKumamon (Yuru-chara)",
+          "link": "https://text-mode.tumblr.com/post/763433224091336704",
+          "publishedOn": "2024-10-04T18:30:58.000Z",
+          "wordCount": 917,
+          "title": "text-mode:\n\nKumamon (Yuru-chara)",
+          "imageUrl": "https://64.media.tumblr.com/5c81f4a27fd7835923db48f8ed10bb34/tumblr_mx2qmobx821rpiyaso1_640.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/763342620942548992",
           "author": null,
@@ -1322,16 +1322,6 @@
           "wordCount": 1007,
           "title": "text-mode:\n\nNathan Sawaya, brick art with Lego.",
           "imageUrl": "https://64.media.tumblr.com/a930ed96a19e8bd8cd406791b9b2a8ee/tumblr_mzq349xLtp1rpiyaso1_640.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/757997384470069248",
-          "author": null,
-          "description": "text-mode:\nJim Lambie likes tape.\nvia",
-          "link": "https://text-mode.tumblr.com/post/757997384470069248",
-          "publishedOn": "2024-08-05T18:30:37.000Z",
-          "wordCount": 1008,
-          "title": "text-mode:\n\nJim Lambie likes tape.\nvia",
-          "imageUrl": "https://64.media.tumblr.com/ada3e5095f3ada413036bb46f3b2804f/tumblr_mzq4c71Z2l1rpiyaso1_500.jpg"
         }
       ]
     },
@@ -1340,6 +1330,26 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=75968",
+          "author": "Kristina Bravo",
+          "description": "Here at Mozilla, we are the first to admit the internet isn’t perfect, but we know the internet is pretty darn magical. The internet opens up doors and opportunities, allows for human connection, and lets everyone find where they belong — their corners of the internet. We all have an internet story worth sharing. In […]\nThe post A journalist-turned-product leader on reshaping the internet through community and creative coding appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/internet-culture/tawanda-kanhema/",
+          "publishedOn": "2024-10-04T16:00:00.000Z",
+          "wordCount": 2181,
+          "title": "A journalist-turned-product leader on reshaping the internet through community and creative coding",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2024/10/tawanda-1278x852.jpg"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=75989",
+          "author": "Brad Smallwood and Graham Mudd",
+          "description": "BRAD SMALLWOOD, SVP AND ANONYM CO-FOUNDERGRAHAM MUDD, SVP OF PRODUCT AND ANONYM CO-FOUNDER It’s been four months since Anonym joined Mozilla. Anonym was founded with the belief that new technologies can keep digital ads effective  and measurable while respecting privacy. Mozilla has long been a leader in digital privacy, so Anonym is happy to report […]\nThe post Privacy-preserving digital ads infrastructure: An overview of Anonym’s technology appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/products/anonym-technology-overview/",
+          "publishedOn": "2024-10-04T16:00:00.000Z",
+          "wordCount": 2105,
+          "title": "Privacy-preserving digital ads infrastructure: An overview of Anonym’s technology",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2024/06/blog_1200x800_v2-1200x800.png"
+        },
         {
           "id": "https://blog.mozilla.org/?p=75947",
           "author": "Mark Surman",
@@ -1505,16 +1515,6 @@
           "publishedOn": "2024-08-19T08:15:28.000Z",
           "wordCount": 2285,
           "title": "Migrating Mess With DNS to use PowerDNS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/",
-          "author": null,
-          "description": "I’ve been writing Go pretty casually for years – the backends for all of my\nplaygrounds (nginx, dns, memory, more DNS) are written in Go, but many of those projects are just a few hundred lines and I don’t come back to those codebases much.\nI thought I more or less understood the basics of the language, but this week\nI’ve been writing a lot more Go than usual while working on some upgrades to\nMess with DNS, and ran into a bug that revealed I\nwas missing a very basic concept!\nThen I posted about this on Mastodon and someone linked me to this very cool\nsite (and book) called 100 Go Mistakes and How To Avoid Them by Teiva Harsanyi. It just came out in 2022 so it’s relatively new.\nI decided to read through the site to see what else I was missing, and found\na couple of other misconceptions I ha…",
-          "link": "https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/",
-          "publishedOn": "2024-08-06T08:38:35.000Z",
-          "wordCount": 1444,
-          "title": "Go structs are copied on assignment (and other things about Go I'd missed)",
           "imageUrl": null
         }
       ]
@@ -2111,16 +2111,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=9207",
-          "author": "Cory Doctorow",
-          "description": "Today's links Leveraged buyouts are not like mortgages: Corporate raiders and investment banks conspiring to steal companies. Hey look at this: Delights to delectate. This day in history: 2004, 2009, 2019, 2023 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Leveraged buyouts are not like mortgages (permalink) Here's an open secret: the confusing jargon of finance is not the product of some inherent complexity that requires a whole new vocabulary. Rather, finance-talk is all obfuscation, because if we called finance tactics by their plain-language names, it would be obvious that the sector exists to defraud the public and loot th…",
-          "link": "https://pluralistic.net/2024/08/05/rugged-individuals/",
-          "publishedOn": "2024-08-05T16:13:20.000Z",
-          "wordCount": 3753,
-          "title": "Pluralistic: Leveraged buyouts are not like mortgages (05 Aug 2024)",
-          "imageUrl": null
         }
       ]
     },
@@ -2168,16 +2158,6 @@
           "wordCount": 3560,
           "title": "Airport layover musings: AI, tech, internet culture & giving space for constructive criticism",
           "imageUrl": "http://nathalielawhead.com/noodles/ieee/IMG_8333.jpeg"
-        },
-        {
-          "id": "https://www.nathalielawhead.com/candybox/?p=5684",
-          "author": "alienmelon",
-          "description": "Freeware and shareware have existed since the beginning of software. Software is art, and an empowering conduit for unending creative experimentation on computers. This is a discussion about the large and largely underrepresented space of tool development from solo devs, individual artists, or tiny teams. In light of recent controversies surrounding AI, and how larger mainstream software is being criticized for its missteps, we will explore why the small tool space matters more than ever in the broad spectrum of internet culture, games, and tech.",
-          "link": "http://www.nathalielawhead.com/candybox/from-monopolies-to-tiny-tools-by-solo-devs",
-          "publishedOn": "2024-08-06T10:25:31.000Z",
-          "wordCount": 7960,
-          "title": "From monopolies to tiny tools by solo devs",
-          "imageUrl": "http://nathalielawhead.com/noodles/ieee/keynoteslide.png"
         }
       ]
     },
@@ -2192,6 +2172,26 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/10/0045382-ran-across-this-book-in",
+          "author": null,
+          "description": "Ran across this book in the bookstore recently and it looked great: The Art of Aardman. “This collection features original character sketches and never-before-seen concept art, offering a unique look inside the studio that created…Wallace & Gromit.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/10/0045382-ran-across-this-book-in",
+          "publishedOn": "2024-10-04T15:42:07.000Z",
+          "wordCount": 701,
+          "title": "Ran across this book in the bookstore recently and it looked great:...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/10/music-by-john-williams",
+          "author": null,
+          "description": "Music By John Williams is a documentary film about the legendary composer who did the scores for Star Wars, Jaws, Indiana Jones, Jurassic Park, Close Encounters, Superman, E.T., Home Alone, Schindler’s List — seriously, one person composed all these?! — Saving Private Ryan, Harry Potter, Lincoln, etc. etc. etc. Oh, and the Olympic Fanfare and Theme that NBC uses for the Olympics.\nAnyway, the documentary premieres on Nov 1 on Disney+.\nTags: John Williams · movies · music · trailers · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/10/music-by-john-williams",
+          "publishedOn": "2024-10-04T14:48:05.000Z",
+          "wordCount": 780,
+          "title": "Music By John Williams",
+          "imageUrl": "https://i.ytimg.com/vi/g1i2REK7bVQ/sddefault.jpg"
+        },
         {
           "id": "https://kottke.org/24/10/ta-nehisi-coates-jon-stewart-understanding-the-humiliation-of-oppression",
           "author": null,
@@ -5301,116 +5301,6 @@
           "wordCount": 701,
           "title": "The Marshall Project: what communities have learned from sending unarmed responders instead...",
           "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/08/0045068-yes-yes-yes-campaigns-fro",
-          "author": null,
-          "description": "YES YES YES: “Campaigns from Harris for President on down should clarify that they will post to Twitter only after updating other platforms. Steering the media away from Twitter helps democracy.” Time to stop helping Musk’s disinformation campaign.",
-          "link": "https://kottke.org/24/08/0045068-yes-yes-yes-campaigns-fro",
-          "publishedOn": "2024-08-05T23:10:19.000Z",
-          "wordCount": 602,
-          "title": "YES YES YES: &#8220;Campaigns from Harris for President on down should clarify...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/08/the-spielberg-face-1",
-          "author": null,
-          "description": "If you watch any of Steven Spielberg’s movies, you’ll notice a distinctive element: the Spielberg Face.\nIf Spielberg deserves to be called a master of audience manipulation, then this is his signature stroke.\n\n\nYou see the onscreen character watching along with you in wonder, awe, apprehension, fear, sadness. It’s the director’s way of hitting pause, to show the audience this is a critical scene, to reinforce how the audience should be feeling in that moment.\n[This is a vintage post originally from Oct 2016.]\nTags: film school · movies · Steven Spielberg · timeless posts · video",
-          "link": "https://kottke.org/24/08/the-spielberg-face-1",
-          "publishedOn": "2024-08-05T22:35:37.000Z",
-          "wordCount": 616,
-          "title": "The Spielberg Face",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/08/0045066-cooking-with-pixar-a-play",
-          "author": null,
-          "description": "Cooking with Pixar, a playlist of videos with recipes inspired by Luca (trenette al pesto), Turning Ref (congee), Coco (tamales), and Incredibles 2 (cookies).\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/08/0045066-cooking-with-pixar-a-play",
-          "publishedOn": "2024-08-05T21:47:09.000Z",
-          "wordCount": 696,
-          "title": "Cooking with Pixar, a playlist of videos with recipes inspired by Luca...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/08/0045065-when-kids-cant-get-outsid",
-          "author": null,
-          "description": "When kids can’t get outside to play in a world built for cars, both they and adults suffer. “Kids didn’t need special equipment or lessons; they just needed to be less reliant on their time-strapped parents to get outside.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/08/0045065-when-kids-cant-get-outsid",
-          "publishedOn": "2024-08-05T21:00:49.000Z",
-          "wordCount": 818,
-          "title": "When kids can&#8217;t get outside to play in a world built for...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/08/is-5-of-the-earths-population-related-to-genghis-khan",
-          "author": null,
-          "description": "If you spend any amount of time on the internet — and if you’re reading this, you probably do and perhaps even feel shamed by your weekly Screen Time notification — you’ve probably seen the statistic that 5% of the Earth’s population is related to 13th century ruler of the Mongol Empire and presumed prolific father, Genghis Khan. In this episode of SciShow, Hank Green explores if that’s true and how researchers investigate relations across dozens and even hundreds of generations.\nTags: genetics · Genghis Khan · Hank Green · science · video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/08/is-5-of-the-earths-population-related-to-genghis-khan",
-          "publishedOn": "2024-08-05T20:28:52.000Z",
-          "wordCount": 731,
-          "title": "Is 5% of the Earth&#8217;s Population Related to Genghis Khan?",
-          "imageUrl": "https://i.ytimg.com/vi/qpuQCGuI41Y/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/08/0045063-google-a-monopoly-loses-i",
-          "author": null,
-          "description": "Google, a monopoly, loses its antitrust case against the Dept of Justice. “A federal judge ruled that Google violated US antitrust law by maintaining a monopoly in the search and advertising markets.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/08/0045063-google-a-monopoly-loses-i",
-          "publishedOn": "2024-08-05T19:53:34.000Z",
-          "wordCount": 692,
-          "title": "Google, a monopoly, loses its antitrust case against the Dept of Justice....",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/08/0045062-australia-is-starting-kid",
-          "author": null,
-          "description": "Australia is starting kids with peanut allergies on an oral immunotherapy program. “Eligible babies will be given gradually increasing doses of peanut powder each day for at least two years, to reduce sensitivity.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/08/0045062-australia-is-starting-kid",
-          "publishedOn": "2024-08-05T19:00:02.000Z",
-          "wordCount": 699,
-          "title": "Australia is starting kids with peanut allergies on an oral immunotherapy program....",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/08/the-evolution-of-olympic-performances-1912-to-2020",
-          "author": null,
-          "description": "Over the last century, athletic performances have dramatically improved because of better training, improved nutrition, a bigger pool of people to draw from, technology, increased financial support, and the human desire to build on each others’ successes. It’s actually shocking how much better athletics have gotten, as you can see from these “then & now” videos from the Summer Olympics. Here’s the men’s pole vault from 1912 and then 2020:\n\nThe women’s javelin in 1932 (Babe Didrikson!) vs. 2020:\n\nAnd perhaps the most stark difference: the women’s 10-meter platform diving in 1912 and 2020; it’s like watching two completely different sports:\n\nOk, maybe gymnastics too:\n\n\nYou can see the entire playlist of then & now videos on the Olympics YouTube channel. (via open culture)\nTags: 2020 Summer Olympics · Olympic Games · sports · video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/08/the-evolution-of-olympic-performances-1912-to-2020",
-          "publishedOn": "2024-08-05T18:17:43.000Z",
-          "wordCount": 771,
-          "title": "The Evolution of Olympic Performances, 1912 to 2020",
-          "imageUrl": "https://i.ytimg.com/vi/ZzeqIsG6wz8/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/08/0045059-carl-zimmers-new-book-sou",
-          "author": null,
-          "description": "Carl Zimmer’s new book sounds fascinating & relevant: Air-Borne: The Hidden History of the Life We Breathe. “The fascinating, untold story of the air we breathe, the hidden life it contains, and invisible dangers that can turn the world upside down.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/08/0045059-carl-zimmers-new-book-sou",
-          "publishedOn": "2024-08-05T15:24:46.000Z",
-          "wordCount": 947,
-          "title": "Carl Zimmer&#8217;s new book sounds fascinating & relevant: Air-Borne: The Hidden History...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/08/0045058-if-youre-curious-about-ho",
-          "author": null,
-          "description": "If you’re curious about how USA’s Kristen Faulkner shocked the top riders in the women’s road race, these threads go into some of the strategy involved. “Road cycling is built upon prisoner’s dilemmas like this.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/08/0045058-if-youre-curious-about-ho",
-          "publishedOn": "2024-08-05T14:45:08.000Z",
-          "wordCount": 1652,
-          "title": "If you&#8217;re curious about how USA&#8217;s Kristen Faulkner shocked the top riders...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/08/0045057-a-climate-scientist-half-",
-          "author": null,
-          "description": "“A climate scientist half-jokingly once told me that if billionaires really wanted to save the planet, they would buy everyone a heat pump…”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/08/0045057-a-climate-scientist-half-",
-          "publishedOn": "2024-08-05T13:58:31.000Z",
-          "wordCount": 1226,
-          "title": "&#8220;A climate scientist half-jokingly once told me that if billionaires really wanted...",
-          "imageUrl": ""
         }
       ]
     },
@@ -5470,16 +5360,6 @@
           "publishedOn": "2024-08-21T00:00:00.000Z",
           "wordCount": 6462,
           "title": "Quitting My Job For The Way Of Pain",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ludic.mataroa.blog/blog/kneel-before-the-emperor-of-mecatol-rex/",
-          "author": null,
-          "description": "Mecatol Rex.\nA blasted hellscape, scarred and pitted, haunted by the ghosts of ancient custodians who await the next fools to aspire for lordship over its husk-corpse. A million billion xenos of species innumerable have spilled synth-blood and soul across flagstones that have witnessed aeons of death, sacrificed at the altar of failed ambition.\nMecatol Rex.\nThe hollowed-out heart of the galaxy. The Hungering Throne, whose call reaches like siren-song across the cosmos, pulling at the threads of the greatest individuals the galaxy has ever seen, turning them from fruitful destiny to bloodied victims. It would be the height of folly to try wrench control of it for yourself, and require a disregard verging on manic recklessness for the numberless skulls lining the path to ascension.\nMecatol R…",
-          "link": "https://ludic.mataroa.blog/blog/kneel-before-the-emperor-of-mecatol-rex/",
-          "publishedOn": "2024-08-06T00:00:00.000Z",
-          "wordCount": 6493,
-          "title": "Kneel Before The Emperor Of Mecatol Rex",
           "imageUrl": null
         }
       ]
