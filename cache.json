@@ -368,16 +368,6 @@
           "wordCount": 209,
           "title": "Classical Periodic Table",
           "imageUrl": "https://imgs.xkcd.com/comics/classical_periodic_table_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2974/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/storage_tanks.png\" title=\"We're considering installing a pressurization system to keep the tanks at constant pressure solely to deter them.\" alt=\"We're considering installing a pressurization system to keep the tanks at constant pressure solely to deter them.\" />",
-          "link": "https://xkcd.com/2974/",
-          "publishedOn": "2024-08-19T00:00:00.000Z",
-          "wordCount": 207,
-          "title": "Storage Tanks",
-          "imageUrl": "https://imgs.xkcd.com/comics/storage_tanks_2x.png"
         }
       ]
     },
@@ -702,6 +692,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/764610986006167552",
+          "author": null,
+          "description": "text-mode:\n¡Dom Sylvester Houédard",
+          "link": "https://text-mode.tumblr.com/post/764610986006167552",
+          "publishedOn": "2024-10-17T18:30:59.000Z",
+          "wordCount": 1005,
+          "title": "text-mode:\n\n¡Dom Sylvester Houédard",
+          "imageUrl": "https://64.media.tumblr.com/4f3300fb65ab49e9882967f53ddca173/tumblr_msli5ogRKy1rpiyaso1_1280.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/764520405390196736",
           "author": null,
@@ -1291,16 +1291,6 @@
           "wordCount": 980,
           "title": "text-mode:\n\nBy Charlie Deck, 2013. source /  via nerdcore",
           "imageUrl": "https://64.media.tumblr.com/0c0dd1efb2013a5454fa329d74df617b/tumblr_myfjc9lIQK1rpco88o1_500.gif"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/759175155086950400",
-          "author": null,
-          "description": "text-mode:\n\n【キャラグラお蔵出し】かねごんPのアイマスデモに衝撃を受けての落描き。このときはVerUp版を作るつもりとか全然なくてただの絵なんですが、UgeoさんをはじめMZ-700クラスタで悪乗りした結果なぜかあんなことに…ｗ http://t.co/hpLhYitQ\n— 紅茶羊羹 (@youkan700)\nMarch 27, 2012",
-          "link": "https://text-mode.tumblr.com/post/759175155086950400",
-          "publishedOn": "2024-08-18T18:30:47.000Z",
-          "wordCount": 940,
-          "title": "text-mode:\n\n\n【キャラグラお蔵出し】かねごんPのアイマスデモに衝撃を受けての落描き。このときはVerUp版を作るつもり...",
-          "imageUrl": "https://64.media.tumblr.com/8b6b3588bab239d7700dfda437f66b04/tumblr_mzebxju0DS1rpiyaso1_640.gif"
         }
       ]
     },
@@ -1309,6 +1299,16 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=76628",
+          "author": "Christopher Hilton and Maximilian Gahntz",
+          "description": "Artificial intelligence (AI) is shaping how we live, work and connect with the world. From chatbots to image generators, AI is transforming our online experiences. But this change raises serious questions: Who controls the technology behind these AI systems? And how can we ensure that everyone — not just traditional big tech — has a […]\nThe post Mozilla’s research: Unlocking AI for everyone, not just Big Tech appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/ai/unlocking-ai-research/",
+          "publishedOn": "2024-10-17T07:00:00.000Z",
+          "wordCount": 2055,
+          "title": "Mozilla’s research: Unlocking AI for everyone, not just Big Tech",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2023/11/moz_header_ai_mozilla1-1080x720.jpg"
+        },
         {
           "id": "https://blog.mozilla.org/?p=76545",
           "author": "Tina Rattliff",
@@ -1524,16 +1524,6 @@
           "publishedOn": "2024-09-12T15:09:12.000Z",
           "wordCount": 2394,
           "title": "Reasons I still love the fish shell",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2024/08/19/migrating-mess-with-dns-to-use-powerdns/",
-          "author": null,
-          "description": "About 3 years ago, I announced Mess With DNS in\nthis blog post, a playground\nwhere you can learn how DNS works by messing around and creating records.\nI wasn’t very careful with the DNS implementation though (to quote the release blog\npost: “following the DNS RFCs? not exactly”), and people started reporting\nproblems that eventually I decided that I wanted to fix.\nthe problems\nSome of the problems people have reported were:\ndomain names with underscores weren’t allowed, even though they should be\nIf there was a CNAME record for a domain name, it allowed you to create other records for that domain name, even if it shouldn’t\nyou could create 2 different CNAME records for the same domain name, which shouldn’t be allowed\nno support for the SVCB or HTTPS record types, which seemed a little comp…",
-          "link": "https://jvns.ca/blog/2024/08/19/migrating-mess-with-dns-to-use-powerdns/",
-          "publishedOn": "2024-08-19T08:15:28.000Z",
-          "wordCount": 2285,
-          "title": "Migrating Mess With DNS to use PowerDNS",
           "imageUrl": null
         }
       ]
@@ -2181,6 +2171,116 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/10/0045473-redbox-went-bankrupt-and-",
+          "author": null,
+          "description": "Redbox went bankrupt and abandoned their DVD lending machines. Tinkerers have hacked the OS, procured machines from the likes of Walgreens, and hauled them home to repurpose or to get at the sweet, sweet fruit within (aka the DVDs).\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/10/0045473-redbox-went-bankrupt-and-",
+          "publishedOn": "2024-10-17T22:13:43.000Z",
+          "wordCount": 709,
+          "title": "Redbox went bankrupt and abandoned their DVD lending machines. Tinkerers have hacked...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/10/0045477-the-biden-administration-",
+          "author": null,
+          "description": "The Biden administration has cancelled $175 billion in student debt for almost 5 million people since Jan 2021. Could have done much more than that if not for Republicans suing to keep people in debt.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/10/0045477-the-biden-administration-",
+          "publishedOn": "2024-10-17T21:33:05.000Z",
+          "wordCount": 711,
+          "title": "The Biden administration has cancelled $175 billion in student debt for almost...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/10/0045472-this-mashup-of-ymca-by",
+          "author": null,
+          "description": "This mashup of Y.M.C.A. by the Village People and a track from Hans Zimmer’s Interstellar soundtrack should not work as well as it does. “Young man, young man” (plaintive).\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/10/0045472-this-mashup-of-ymca-by",
+          "publishedOn": "2024-10-17T20:53:56.000Z",
+          "wordCount": 711,
+          "title": "This mashup of Y.M.C.A. by the Village People and a track from...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/10/0045471-a-weird-form-of-dark",
+          "author": null,
+          "description": "A Weird Form of Dark Energy Might Solve a Cosmic Conundrum. “Estimates of how fast the universe is expanding disagree. Could a new form of dark energy resolve the problem?” (Written by two experts on dark energy.)\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/10/0045471-a-weird-form-of-dark",
+          "publishedOn": "2024-10-17T20:09:17.000Z",
+          "wordCount": 769,
+          "title": "A Weird Form of Dark Energy Might Solve a Cosmic Conundrum. &#8220;Estimates...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/10/how-cranberries-are-harvested-1",
+          "author": null,
+          "description": "This video seems like it was made specifically for kottke.org. In the first half of it, you learn how cranberries are harvested. In the second half, there’s gorgeous HD slo-mo footage of wakeskating through a cranberry bog.\nAnd with a Tycho soundtrack no less…it’s all too perfect. (via ★interesting)\n[This is a vintage post originally from Sep 2013.]\nTags: food · how to · slow motion · sports · timeless posts · video",
+          "link": "https://kottke.org/24/10/how-cranberries-are-harvested-1",
+          "publishedOn": "2024-10-17T19:00:02.000Z",
+          "wordCount": 592,
+          "title": "How Cranberries Are Harvested",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/10/0045469-supreme-court-rules-6-3-t",
+          "author": null,
+          "description": "Supreme Court Rules 6-3 To Open Evil Tomb Of Batibat. “Contemporaneous accounts provide no evidence the Founding Fathers envisioned a role for the federal government in vanquishing this unholy entity from the face of the earth.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/10/0045469-supreme-court-rules-6-3-t",
+          "publishedOn": "2024-10-17T18:00:19.000Z",
+          "wordCount": 742,
+          "title": "Supreme Court Rules 6-3 To Open Evil Tomb Of Batibat. &#8220;Contemporaneous accounts...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/10/0045470-ok-this-is-a-genuinely",
+          "author": null,
+          "description": "Ok, this is a genuinely shocking thing to hear: “There is a new species of shark or shark relative (skate, ray, or chimera) discovered approximately every two weeks.” —shark expert David Shiffman\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/10/0045470-ok-this-is-a-genuinely",
+          "publishedOn": "2024-10-17T17:23:31.000Z",
+          "wordCount": 709,
+          "title": "Ok, this is a genuinely shocking thing to hear: &#8220;There is a...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/10/0045468-the-binary-game-tests-you",
+          "author": null,
+          "description": "The Binary Game tests you on quickly converting numbers from binary to decimal and from decimal to binary, from 0 (00000000) to 255 (11111111). “Before long you’ll be doing these conversions in your head.” My son turned me onto this — it’s fun!\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/10/0045468-the-binary-game-tests-you",
+          "publishedOn": "2024-10-17T16:46:38.000Z",
+          "wordCount": 680,
+          "title": "The Binary Game tests you on quickly converting numbers from binary to...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/10/0045396-new-research-documents-ac",
+          "author": null,
+          "description": "“New research documents accelerating plant growth on the Antarctic Peninsula and nearby islands.” 8000 sq ft of vegetation 40 years ago has grown into 4.6 sq miles.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/10/0045396-new-research-documents-ac",
+          "publishedOn": "2024-10-17T16:04:19.000Z",
+          "wordCount": 696,
+          "title": "&#8220;New research documents accelerating plant growth on the Antarctic Peninsula and nearby...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/10/ravioli-and-other-ravioli-shaped-objects",
+          "author": null,
+          "description": "From XKCD: Ravioli-Shaped Objects. See also The Cube Rule of Food, the Grand Unified Theory of Food Identification.\nTags: food · XKCD\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/10/ravioli-and-other-ravioli-shaped-objects",
+          "publishedOn": "2024-10-17T15:03:23.000Z",
+          "wordCount": 656,
+          "title": "Ravioli and Other Ravioli-Shaped Objects",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/ravioli-objects.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/10/ooh-a-color-kindle-is-finally-here",
+          "author": null,
+          "description": "I think this counts as a FINALLY! Amazon is coming out with a full-color e-reader called the Kindle Colorsoft. You can pre-order it now for $280 and it ships on October 30. This will be great for comics, graphic novels, and books with art & photography. I am a committed ebook reader and it’s always been disappointing to view photos on the Kindle…they look like they were faxed from the Voyager space probe or something.\nAs it happens, I’m in the market for a new e-reader — I lost my Kindle Paperwhite a few weeks ago and haven’t replaced it (partially because I’m in the midst of an actual paper book right now but mostly because I am stubbon and don’t want to believe I have become the sort of person who loses things — my driver’s license also went missing recently). Anyway, I’m trying to decide between the Colorsoft ($280), the Boox Palma (aka the Gentle Librarian, also $280), or getting the new & improved Paperwhite (faster, bigger screen, thinner, higher contrast, $160). Hmm…\nTags: Amazon · Boox · Kindle\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/10/ooh-a-color-kindle-is-finally-here",
+          "publishedOn": "2024-10-17T13:28:33.000Z",
+          "wordCount": 1872,
+          "title": "Ooh, a Color Kindle Is Finally Here",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/kindle-color.jpg"
+        },
         {
           "id": "https://kottke.org/24/10/a-bonkers-japanese-skateboarding-show",
           "author": null,
@@ -5419,16 +5519,6 @@
           "publishedOn": "2024-08-19T14:32:35.000Z",
           "wordCount": 633,
           "title": "A disturbing report from ProPublica on the armed domestic terror cells that...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/08/0045149-james-milner-38-starts-re",
-          "author": null,
-          "description": "James Milner, 38, starts record 23rd season in the Premier League. He’s seven years older than his current manager, Brighton & Hove Albion’s Fabian Hürzeler.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/08/0045149-james-milner-38-starts-re",
-          "publishedOn": "2024-08-18T22:11:30.000Z",
-          "wordCount": 694,
-          "title": "James Milner, 38, starts record 23rd season in the Premier League. He&#8217;s...",
           "imageUrl": ""
         }
       ]
