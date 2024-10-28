@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2024-10-27T00:43:27.863Z</updated>
+    <updated>2024-10-28T00:42:14.141Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[text-mode:
+
+yih6wxrz + yih6wxrz + catbus]]></title>
+        <id>https://text-mode.tumblr.com/post/765516925889609728</id>
+        <link href="https://text-mode.tumblr.com/post/765516925889609728"/>
+        <updated>2024-10-27T18:30:30.000Z</updated>
+        <summary type="html"><![CDATA[text-mode:
+yih6wxrz + yih6wxrz + catbus]]></summary>
+        <author>
+            <name>TEXT-MODE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using less memory to look up IP addresses in Mess With DNS]]></title>
+        <id>https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/</id>
+        <link href="https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/"/>
+        <updated>2024-10-27T07:47:04.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been having problems for the last 3 years or so where Mess With DNS
+periodically runs out of memory and gets OOM killed.
+This hasn’t been a big priority for me: usually it just goes down for a few
+minutes while it restarts, and it only happens once a day at most, so I’ve just
+been ignoring. But last week it started actually causing a problem so I decided
+to look into it.
+This was kind of winding road where I learned a lot so here’s a table of contents:
+there’s about 100MB of memory available
+the problem: OOM killing the backup script
+attempt 1: use SQLite
+
+problem: how to store IPv6 addresses
+problem: it’s 500x slower
+time for EXPLAIN QUERY PLAN
+attempt 2: use a trie
+
+some notes on memory profiling
+attempt 3: make my array use less memory
+
+idea 3.1: deduplicate the Name and Country
+ho…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[text-mode:
 
@@ -7780,30 +7823,6 @@ C64 vs MZ-700. This is Mikulas vs. Krampusz...]]></title>
         <updated>2024-08-29T18:30:58.000Z</updated>
         <summary type="html"><![CDATA[text-mode:
 C64 vs MZ-700. This is Mikulas vs. Krampusz originally made in PETSCII by Hermit (below), converted to MZ-700’s textmode by Marq (above).]]></summary>
-        <author>
-            <name>TEXT-MODE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Mozilla’s AI website creator, Solo, is shaking up a $2.1 billion industry]]></title>
-        <id>https://blog.mozilla.org/?p=75756</id>
-        <link href="https://blog.mozilla.org/en/mozilla/ai/mozilla-solo-artifical-intelligence-website-creator-ai/"/>
-        <updated>2024-08-28T19:24:04.000Z</updated>
-        <summary type="html"><![CDATA[In the world of entrepreneurship, one business owner’s journey proves the power of simple technology. And group chats. When Richelle Samy founded Culture of Stamina, a coaching service, she set out to create an online presence that was elegant and professional. She found what she was looking for when a group chat led her to […]
-The post How Mozilla’s AI website creator, Solo, is shaking up a $2.1 billion industry appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Aron Yohannes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[text-mode:
-
-Make your terminal colourful with lolcat.]]></title>
-        <id>https://text-mode.tumblr.com/post/760081126065864704</id>
-        <link href="https://text-mode.tumblr.com/post/760081126065864704"/>
-        <updated>2024-08-28T18:30:48.000Z</updated>
-        <summary type="html"><![CDATA[text-mode:
-Make your terminal colourful with lolcat.]]></summary>
         <author>
             <name>TEXT-MODE</name>
         </author>

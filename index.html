@@ -16,9 +16,9 @@
     <meta name="robots" content="noindex, nofollow">
     <link rel="preload" as="font" type="font/woff2" href="https://spitlo.com/fonts/GangsterGrotesk-Bold.woff2" crossorigin="anonymous">
     <link rel="preload" as="font" type="font/woff2" href="https://spitlo.com/fonts/VictorMono-Thin.woff2" crossorigin="anonymous">
-    <link rel="icon" type="image/svg+xml" href="https://spitlo.com/images/favicon.svg?2024-10-27T00:43:27.836Z">
+    <link rel="icon" type="image/svg+xml" href="https://spitlo.com/images/favicon.svg?2024-10-28T00:42:14.116Z">
     <link rel="alternate" type="application/rss+xml" title="Ajour / Spitlo.com" href="feed.atom">
-    <link href="https://spitlo.com/style.css?2024-10-27T00:43:27.836Z" rel="stylesheet">
+    <link href="https://spitlo.com/style.css?2024-10-28T00:42:14.116Z" rel="stylesheet">
 
     <style>
       body { font-size: 14px; }
@@ -53,6 +53,52 @@
           Visit <a target="_blank" rel="noopener noreferrer" href="https://github.com/osmoscraft/osmosfeed">osmos::feed</a> for more info or to make your own custom feed reader.
         </p>
 
+          <section class="daily-content">
+            <h2 class="daily-heading"><time datatime="2024-10-27">2024-10-27</time></h2>
+                <article data-source="TEXT-MODE" data-rtime="3">
+                  <h3><a target="_blank" rel="noopener noreferrer" href=https://text-mode.tumblr.com/post/765516925889609728>text-mode:
+
+yih6wxrz + yih6wxrz + catbus</a></h3>
+                  <ul class="meta">
+                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://text-mode.tumblr.com/>TEXT-MODE</a></li>
+                    <li><span class="label">Date:</span> <time datetime="2024-10-27T18:30:30.000Z">2024-10-27</time></li>
+                    <li><span class="label">Reading time:</span> <time>3 min</time></li>
+                    <li><span class="label">Words</span> <time>967</time></li>
+                  </ul>
+                  <p>text-mode:
+yih6wxrz + yih6wxrz + catbus</p>
+                </article>
+                <article data-source="Julia Evans" data-rtime="8">
+                  <h3><a target="_blank" rel="noopener noreferrer" href=https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/>Using less memory to look up IP addresses in Mess With DNS</a></h3>
+                  <ul class="meta">
+                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=http://jvns.ca/atom.xml>Julia Evans</a></li>
+                    <li><span class="label">Date:</span> <time datetime="2024-10-27T07:47:04.000Z">2024-10-27</time></li>
+                    <li><span class="label">Reading time:</span> <time>8 min</time></li>
+                    <li><span class="label">Words</span> <time>2522</time></li>
+                  </ul>
+                  <p>I’ve been having problems for the last 3 years or so where Mess With DNS
+periodically runs out of memory and gets OOM killed.
+This hasn’t been a big priority for me: usually it just goes down for a few
+minutes while it restarts, and it only happens once a day at most, so I’ve just
+been ignoring. But last week it started actually causing a problem so I decided
+to look into it.
+This was kind of winding road where I learned a lot so here’s a table of contents:
+there’s about 100MB of memory available
+the problem: OOM killing the backup script
+attempt 1: use SQLite
+
+problem: how to store IPv6 addresses
+problem: it’s 500x slower
+time for EXPLAIN QUERY PLAN
+attempt 2: use a trie
+
+some notes on memory profiling
+attempt 3: make my array use less memory
+
+idea 3.1: deduplicate the Name and Country
+ho…</p>
+                </article>
+          </section>
           <section class="daily-content">
             <h2 class="daily-heading"><time datatime="2024-10-26">2024-10-26</time></h2>
                 <article data-source="TEXT-MODE" data-rtime="3">
@@ -268,6 +314,9 @@ Tags: design · flags · language
                   </ul>
                   <p>No content preview</p>
                 </article>
+          </section>
+          <section class="daily-content">
+            <h2 class="daily-heading"><time datatime="2024-10-24">2024-10-24</time></h2>
                 <article data-source="kottke.org" data-rtime="3">
                   <h3><a target="_blank" rel="noopener noreferrer" href=https://kottke.org/24/10/gobsmacking-image-of-a-stellar-nursery>Gobsmacking Image of a Stellar Nursery</a></h3>
                   <ul class="meta">
@@ -284,9 +333,6 @@ It is very worth your time to click through and look at this image in all of its
 Tags: astronomy · James Webb Space Telescope · Phil Plait · photography · science · space
 💬 Join the discussion on kottke.org →</p>
                 </article>
-          </section>
-          <section class="daily-content">
-            <h2 class="daily-heading"><time datatime="2024-10-24">2024-10-24</time></h2>
                 <article data-source="kottke.org" data-rtime="2">
                   <h3><a target="_blank" rel="noopener noreferrer" href=https://kottke.org/24/10/0045517-join-or-die-the-documenta>Join or Die, the documentary about Robert Putnam (author of Bowling Alone...</a></h3>
                   <ul class="meta">
@@ -626,6 +672,9 @@ Tags: books · On Freedom · politics · Timothy Snyder
          
 💬 Join the discussion on kottke.org →</p>
                 </article>
+          </section>
+          <section class="daily-content">
+            <h2 class="daily-heading"><time datatime="2024-10-22">2024-10-22</time></h2>
                 <article data-source="kottke.org" data-rtime="2">
                   <h3><a target="_blank" rel="noopener noreferrer" href=https://kottke.org/24/10/buster-keaton-and-the-art-of-the-gag-1>Buster Keaton and the Art of the Gag</a></h3>
                   <ul class="meta">
@@ -640,9 +689,6 @@ See also Studs Terkel’s 1960 interview with Keaton, a video showing Keaton’s
 [This is a vintage post originally from Nov 2015.]
 Tags: Buster Keaton · film school · movies · Taylor Ramos · timeless posts · Tony Zhou · video</p>
                 </article>
-          </section>
-          <section class="daily-content">
-            <h2 class="daily-heading"><time datatime="2024-10-22">2024-10-22</time></h2>
                 <article data-source="kottke.org" data-rtime="2">
                   <h3><a target="_blank" rel="noopener noreferrer" href=https://kottke.org/24/10/carpenters-symphony>Carpenter’s Symphony</a></h3>
                   <ul class="meta">
@@ -822,6 +868,9 @@ Such an enormous deportation will requires an army of informers. People who deno
 The Trump campaign is telling us straight out that this is their plan — they are not hiding it! at all! — and historians are letting us know what has happened in similar situations in the past and it’s just not all that confusing or complicated to understand. Even if they try and don’t succeed, it’s going to be absolutely brutal. Those are the stakes.
 Tags: Donald Trump · politics · Timothy Snyder</p>
                 </article>
+          </section>
+          <section class="daily-content">
+            <h2 class="daily-heading"><time datatime="2024-10-21">2024-10-21</time></h2>
                 <article data-source="kottke.org" data-rtime="2">
                   <h3><a target="_blank" rel="noopener noreferrer" href=https://kottke.org/24/10/0045489-the-very-real-scenario-wh>The Very Real Scenario Where Trump Loses and Takes Power Anyway. 100%....</a></h3>
                   <ul class="meta">
@@ -832,9 +881,6 @@ Tags: Donald Trump · politics · Timothy Snyder</p>
                   </ul>
                   <p>The Very Real Scenario Where Trump Loses and Takes Power Anyway. 100%. My feeling is that it’s been months since his campaign was about winning the election — they’re focused on the coup endgame.</p>
                 </article>
-          </section>
-          <section class="daily-content">
-            <h2 class="daily-heading"><time datatime="2024-10-21">2024-10-21</time></h2>
                 <article data-source="kottke.org" data-rtime="2">
                   <h3><a target="_blank" rel="noopener noreferrer" href=https://kottke.org/24/10/stunt-city>Stunt City</a></h3>
                   <ul class="meta">
@@ -1077,6 +1123,9 @@ Savanna vomit 2013</p>
                   </ul>
                   <p>Today&#x27;s links Penguin Random House, AI, and writers&#x27; rights: &quot;You can&#x27;t train an AI with our books&quot; isn&#x27;t the same thing as &quot;We won&#x27;t train an AI with YOUR book.&quot; Hey look at this: Delights to delectate. This day in history: 2009, 2014, 2019, 2023 Upcoming appearances: Where to find me. Recent appearances: Where I&#x27;ve been. Latest books: You keep readin&#x27; em, I&#x27;ll keep writin&#x27; &#x27;em. Upcoming books: Like I said, I&#x27;ll keep writin&#x27; &#x27;em. Colophon: All the rest. Penguin Random House, AI, and writers&#x27; rights (permalink) My friend Teresa Nielsen Hayden is a wellspring of wise sayings, like &quot;you&#x27;re not responsible for what you do in other people&#x27;s dreams,&quot; and my all time favorite, from the Napster era: &quot;Just because you&#x27;re on their side, it doesn&#x27;t mean they&#x27;re on your side.&quot; The record labels hated…</p>
                 </article>
+          </section>
+          <section class="daily-content">
+            <h2 class="daily-heading"><time datatime="2024-10-18">2024-10-18</time></h2>
                 <article data-source="Pluralistic: Daily links from Cory Doctorow" data-rtime="10">
                   <h3><a target="_blank" rel="noopener noreferrer" href=https://pluralistic.net/2024/10/18/states-rights/>Pluralistic: Blue states should play &quot;constitutional hardball&quot; (18 Oct 2024)</a></h3>
                   <ul class="meta">
@@ -1087,9 +1136,6 @@ Savanna vomit 2013</p>
                   </ul>
                   <p>Today&#x27;s links Blue states should play &quot;constitutional hardball&quot;: Scooping up medical professionals, teachers, doctors and anyone with a trans kid. Hey look at this: Delights to delectate. This day in history: 2004, 2014, 2019, 2023 Upcoming appearances: Where to find me. Recent appearances: Where I&#x27;ve been. Latest books: You keep readin&#x27; em, I&#x27;ll keep writin&#x27; &#x27;em. Upcoming books: Like I said, I&#x27;ll keep writin&#x27; &#x27;em. Colophon: All the rest. Blue states should play &quot;constitutional hardball&quot; (permalink) Nothing&#x27;s more frustrating that watching the GOP smash norms and decency to advance policies that harm millions of Americas, unless it&#x27;s that, plus Democratic officials stamping their feet and saying, &quot;C&#x27;mon guys, play fair.&quot; The GOP&#x27;s game is called &quot;constitutional hardball.&quot; Think: Mitch McCo…</p>
                 </article>
-          </section>
-          <section class="daily-content">
-            <h2 class="daily-heading"><time datatime="2024-10-18">2024-10-18</time></h2>
                 <article data-source="TEXT-MODE" data-rtime="4">
                   <h3><a target="_blank" rel="noopener noreferrer" href=https://text-mode.tumblr.com/post/764701590610493440>text-mode:
 
@@ -1199,6 +1245,9 @@ Tags: art · Cassio Vasconcellos · photography · remix
                   </ul>
                   <p>No content preview</p>
                 </article>
+          </section>
+          <section class="daily-content">
+            <h2 class="daily-heading"><time datatime="2024-10-17">2024-10-17</time></h2>
                 <article data-source="kottke.org" data-rtime="2">
                   <h3><a target="_blank" rel="noopener noreferrer" href=https://kottke.org/24/10/0045473-redbox-went-bankrupt-and->Redbox went bankrupt and abandoned their DVD lending machines. Tinkerers have hacked...</a></h3>
                   <ul class="meta">
@@ -1216,9 +1265,6 @@ Tags: art · Cassio Vasconcellos · photography · remix
          
 💬 Join the discussion on kottke.org →</p>
                 </article>
-          </section>
-          <section class="daily-content">
-            <h2 class="daily-heading"><time datatime="2024-10-17">2024-10-17</time></h2>
                 <article data-source="kottke.org" data-rtime="2">
                   <h3><a target="_blank" rel="noopener noreferrer" href=https://kottke.org/24/10/0045477-the-biden-administration->The Biden administration has cancelled $175 billion in student debt for almost...</a></h3>
                   <ul class="meta">
@@ -1432,6 +1478,9 @@ Tags: Kasso · skateboarding · sports · TV · video
          
 💬 Join the discussion on kottke.org →</p>
                 </article>
+          </section>
+          <section class="daily-content">
+            <h2 class="daily-heading"><time datatime="2024-10-16">2024-10-16</time></h2>
                 <article data-source="kottke.org" data-rtime="2">
                   <h3><a target="_blank" rel="noopener noreferrer" href=https://kottke.org/24/10/abortion-bans-have-made-miscarriages-more-dangerous>Abortion Bans Have Made Miscarriages More Dangerous</a></h3>
                   <ul class="meta">
@@ -1445,9 +1494,6 @@ Tags: Kasso · skateboarding · sports · TV · video
 Tags: abortion · Aubrey Hirsch · healthcare
 💬 Join the discussion on kottke.org →</p>
                 </article>
-          </section>
-          <section class="daily-content">
-            <h2 class="daily-heading"><time datatime="2024-10-16">2024-10-16</time></h2>
                 <article data-source="kottke.org" data-rtime="3">
                   <h3><a target="_blank" rel="noopener noreferrer" href=https://kottke.org/24/10/0045463-jimmy-carter-cast-his-mai>Jimmy Carter cast his mail-in ballot for Kamala Harris today, two months...</a></h3>
                   <ul class="meta">
@@ -3184,6 +3230,9 @@ Tags: John Williams · movies · music · trailers · video
                   </ul>
                   <p>No content preview</p>
                 </article>
+          </section>
+          <section class="daily-content">
+            <h2 class="daily-heading"><time datatime="2024-10-03">2024-10-03</time></h2>
                 <article data-source="kottke.org" data-rtime="3">
                   <h3><a target="_blank" rel="noopener noreferrer" href=https://kottke.org/24/10/ta-nehisi-coates-jon-stewart-understanding-the-humiliation-of-oppression>Ta-Nehisi Coates &amp; Jon Stewart: Understanding the Humiliation of Oppression</a></h3>
                   <ul class="meta">
@@ -3202,9 +3251,6 @@ And with Terry Gross on Fresh Air.
 Tags: books · interviews · Jon Stewart · politics · Ta-Nehisi Coates · The Message · video
 💬 Join the discussion on kottke.org →</p>
                 </article>
-          </section>
-          <section class="daily-content">
-            <h2 class="daily-heading"><time datatime="2024-10-03">2024-10-03</time></h2>
                 <article data-source="kottke.org" data-rtime="3">
                   <h3><a target="_blank" rel="noopener noreferrer" href=https://kottke.org/24/10/what-does-our-far-future-look-like>What Does Our Far Future Look Like?</a></h3>
                   <ul class="meta">
@@ -4084,6 +4130,9 @@ But apparently as …</p>
          
 💬 Join the discussion on kottke.org →</p>
                 </article>
+          </section>
+          <section class="daily-content">
+            <h2 class="daily-heading"><time datatime="2024-09-26">2024-09-26</time></h2>
                 <article data-source="kottke.org" data-rtime="2">
                   <h3><a target="_blank" rel="noopener noreferrer" href=https://kottke.org/24/09/0045337-in-the-late-19th-century>In the late 19th century, hotels started building fully outfitted darkrooms for...</a></h3>
                   <ul class="meta">
@@ -4116,9 +4165,6 @@ And then, fast-forwarding to the 90s and 00s, Kodak gradually, then suddenly, mi
 Tags: Kodak · photography · video
 💬 Join the discussion on kottke.org →</p>
                 </article>
-          </section>
-          <section class="daily-content">
-            <h2 class="daily-heading"><time datatime="2024-09-26">2024-09-26</time></h2>
                 <article data-source="The Mozilla Blog" data-rtime="6">
                   <h3><a target="_blank" rel="noopener noreferrer" href=https://blog.mozilla.org/en/products/firefox/firefox-privacy-security-features/>Take control of your browsing with Firefox’s privacy and security features</a></h3>
                   <ul class="meta">
@@ -4608,6 +4654,9 @@ Tags: astronomy · best of · best of 2024 · photography
                   </ul>
                   <p>I recently launched a brand new version of this blog, and in this post, I share how it’s built! We’ll examine the tech stack and see how all of the pieces fit together, as well as dig into some of the details to see how they work.</p>
                 </article>
+          </section>
+          <section class="daily-content">
+            <h2 class="daily-heading"><time datatime="2024-09-23">2024-09-23</time></h2>
                 <article data-source="Josh Comeau&#x27;s blog" data-rtime="36">
                   <h3><a target="_blank" rel="noopener noreferrer" href=https://www.joshwcomeau.com/blog/how-i-built-my-blog/>How I Built My Blog</a></h3>
                   <ul class="meta">
@@ -4618,9 +4667,6 @@ Tags: astronomy · best of · best of 2024 · photography
                   </ul>
                   <p>An in-depth look at the technical stack behind this very blog! We&#x27;ll see how I use Next&#x27;s API routes to implement my hit and like counters, how I use MDX to add interaction and customization, and how I organize my codebase, among others.</p>
                 </article>
-          </section>
-          <section class="daily-content">
-            <h2 class="daily-heading"><time datatime="2024-09-23">2024-09-23</time></h2>
                 <article data-source="kottke.org" data-rtime="2">
                   <h3><a target="_blank" rel="noopener noreferrer" href=https://kottke.org/24/09/master-blacksmith-forges-a-beautiful-knife-1>Master Blacksmith Forges a Beautiful Knife</a></h3>
                   <ul class="meta">
@@ -6431,6 +6477,9 @@ Tags: cycling · sports · video
                   </ul>
                   <p>No content preview</p>
                 </article>
+          </section>
+          <section class="daily-content">
+            <h2 class="daily-heading"><time datatime="2024-09-10">2024-09-10</time></h2>
                 <article data-source="kottke.org" data-rtime="3">
                   <h3><a target="_blank" rel="noopener noreferrer" href=https://kottke.org/24/09/james-earl-jones-reads-poes-the-raven>James Earl Jones Reads Poe’s The Raven</a></h3>
                   <ul class="meta">
@@ -6457,9 +6506,6 @@ And in 2000, also on behalf of Verizon, he read Dr. Seuss’ Mr. Brown Can Moo, 
 Tags: Abraham Lincoln · Edgar Allan Poe · Frederick Douglass · James Earl Jones · Martin Luther King · poetry · Shakespeare · video · Walt Whitman
 💬 Join the discussion on kottke.org →</p>
                 </article>
-          </section>
-          <section class="daily-content">
-            <h2 class="daily-heading"><time datatime="2024-09-10">2024-09-10</time></h2>
                 <article data-source="kottke.org" data-rtime="2">
                   <h3><a target="_blank" rel="noopener noreferrer" href=https://kottke.org/24/09/tychos-burning-man-sunrise-set-for-2024>Tycho’s Burning Man Sunrise Set for 2024</a></h3>
                   <ul class="meta">
@@ -7145,6 +7191,9 @@ Tags: art · Joshua Smith
                   </ul>
                   <p>No content preview</p>
                 </article>
+          </section>
+          <section class="daily-content">
+            <h2 class="daily-heading"><time datatime="2024-09-05">2024-09-05</time></h2>
                 <article data-source="kottke.org" data-rtime="2">
                   <h3><a target="_blank" rel="noopener noreferrer" href=https://kottke.org/24/09/0045234-an-introduction-to-the-la>An introduction to the latest iteration of Dynamicland’s Realtalk, a prototype of...</a></h3>
                   <ul class="meta">
@@ -7162,9 +7211,6 @@ Tags: art · Joshua Smith
          
 💬 Join the discussion on kottke.org →</p>
                 </article>
-          </section>
-          <section class="daily-content">
-            <h2 class="daily-heading"><time datatime="2024-09-05">2024-09-05</time></h2>
                 <article data-source="kottke.org" data-rtime="6">
                   <h3><a target="_blank" rel="noopener noreferrer" href=https://kottke.org/24/09/0045233-cars-have-fucked-up-this>Cars Have Fucked Up This Country Bad. “On average, America is an...</a></h3>
                   <ul class="meta">
@@ -8009,33 +8055,6 @@ C64 vs MZ-700. This is Mikulas vs. Krampusz originally made in PETSCII by Hermit
                 </article>
           </section>
           <section class="daily-content">
-            <h2 class="daily-heading"><time datatime="2024-08-28">2024-08-28</time></h2>
-                <article data-source="The Mozilla Blog" data-rtime="8">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://blog.mozilla.org/en/mozilla/ai/mozilla-solo-artifical-intelligence-website-creator-ai/>How Mozilla’s AI website creator, Solo, is shaking up a $2.1 billion industry</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://blog.mozilla.org/en/>The Mozilla Blog</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2024-08-28T19:24:04.000Z">2024-08-28</time></li>
-                    <li><span class="label">Reading time:</span> <time>8 min</time></li>
-                    <li><span class="label">Words</span> <time>2345</time></li>
-                  </ul>
-                  <p>In the world of entrepreneurship, one business owner’s journey proves the power of simple technology. And group chats. When Richelle Samy founded Culture of Stamina, a coaching service, she set out to create an online presence that was elegant and professional. She found what she was looking for when a group chat led her to […]
-The post How Mozilla’s AI website creator, Solo, is shaking up a $2.1 billion industry appeared first on The Mozilla Blog.</p>
-                </article>
-                <article data-source="TEXT-MODE" data-rtime="3">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://text-mode.tumblr.com/post/760081126065864704>text-mode:
-
-Make your terminal colourful with lolcat.</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://text-mode.tumblr.com/>TEXT-MODE</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2024-08-28T18:30:48.000Z">2024-08-28</time></li>
-                    <li><span class="label">Reading time:</span> <time>3 min</time></li>
-                    <li><span class="label">Words</span> <time>993</time></li>
-                  </ul>
-                  <p>text-mode:
-Make your terminal colourful with lolcat.</p>
-                </article>
-          </section>
-          <section class="daily-content">
             <h2 class="daily-heading"><time datatime="2022-03-18">2022-03-18</time></h2>
                 <article data-source="Writing - rachelbythebay" data-rtime="2">
                   <h3><a target="_blank" rel="noopener noreferrer" href=https://rachelbythebay.com/w/2022/03/17/macedit/>Discussing two &quot;holy war&quot; topics at the same time</a></h3>
@@ -8523,7 +8542,7 @@ those of the filesystem.  If in doubt, use blkid to see what&#x27;s what.</p>
                 </article>
           </section>
           <section class="daily-content">
-            <h2 class="daily-heading"><time datatime="2022-03-01">2022-03-01</time></h2>
+            <h2 class="daily-heading"><time datatime="2022-02-28">2022-02-28</time></h2>
                 <article data-source="Writing - rachelbythebay" data-rtime="2">
                   <h3><a target="_blank" rel="noopener noreferrer" href=https://rachelbythebay.com/w/2022/02/28/copilot/>When Command-V (or CTRL-V) is your &quot;copilot&quot;</a></h3>
                   <ul class="meta">
@@ -8851,7 +8870,7 @@ actual BBS software and related acc…</p>
 
         <footer>
           <section class="details">
-            <span class="detail">Built @ 2024-10-27T00:43:27.836Z</span>
+            <span class="detail">Built @ 2024-10-28T00:42:14.116Z</span>
             <span class="divider">|</span>
             <span class="detail">CLI: 1.15.1</span>
             <span class="divider">|</span>

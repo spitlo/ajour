@@ -703,6 +703,16 @@
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
         {
+          "id": "https://text-mode.tumblr.com/post/765516925889609728",
+          "author": null,
+          "description": "text-mode:\nyih6wxrz + yih6wxrz + catbus",
+          "link": "https://text-mode.tumblr.com/post/765516925889609728",
+          "publishedOn": "2024-10-27T18:30:30.000Z",
+          "wordCount": 967,
+          "title": "text-mode:\n\nyih6wxrz + yih6wxrz + catbus",
+          "imageUrl": "https://64.media.tumblr.com/5899bb80b5d5a1457fcfac791ab2a064/tumblr_mwgqqtY7Jv1rpiyaso2_500.png"
+        },
+        {
           "id": "https://text-mode.tumblr.com/post/765426368827850752",
           "author": null,
           "description": "text-mode:\nGuns n farts.",
@@ -1291,16 +1301,6 @@
           "wordCount": 1038,
           "title": "text-mode:\n\nC64 vs MZ-700. This is Mikulas vs. Krampusz...",
           "imageUrl": "https://64.media.tumblr.com/8b471a0c639b37a69f70d75a66927ac4/tumblr_mxc3b32i1E1rpiyaso2_400.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/760081126065864704",
-          "author": null,
-          "description": "text-mode:\nMake your terminal colourful with lolcat.",
-          "link": "https://text-mode.tumblr.com/post/760081126065864704",
-          "publishedOn": "2024-08-28T18:30:48.000Z",
-          "wordCount": 993,
-          "title": "text-mode:\n\nMake your terminal colourful with lolcat.",
-          "imageUrl": "https://64.media.tumblr.com/fa27f6c81f0dad3b9deab17bd5742031/tumblr_myqpa31RiJ1rpiyaso1_540.png"
         }
       ]
     },
@@ -1473,16 +1473,6 @@
           "wordCount": 2462,
           "title": "14 AI projects to watch: Mozilla’s first Builders Accelerator cohort kicks off",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2024/06/Blog-16_9-1920x1080-1-1080x720.png"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=75756",
-          "author": "Aron Yohannes",
-          "description": "In the world of entrepreneurship, one business owner’s journey proves the power of simple technology. And group chats. When Richelle Samy founded Culture of Stamina, a coaching service, she set out to create an online presence that was elegant and professional. She found what she was looking for when a group chat led her to […]\nThe post How Mozilla’s AI website creator, Solo, is shaking up a $2.1 billion industry appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/ai/mozilla-solo-artifical-intelligence-website-creator-ai/",
-          "publishedOn": "2024-08-28T19:24:04.000Z",
-          "wordCount": 2345,
-          "title": "How Mozilla’s AI website creator, Solo, is shaking up a $2.1 billion industry",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2024/08/solo-banner-1200x1200-1-1280x853.png"
         }
       ]
     },
@@ -1491,6 +1481,16 @@
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
+        {
+          "id": "https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/",
+          "author": null,
+          "description": "I’ve been having problems for the last 3 years or so where Mess With DNS\nperiodically runs out of memory and gets OOM killed.\nThis hasn’t been a big priority for me: usually it just goes down for a few\nminutes while it restarts, and it only happens once a day at most, so I’ve just\nbeen ignoring. But last week it started actually causing a problem so I decided\nto look into it.\nThis was kind of winding road where I learned a lot so here’s a table of contents:\nthere’s about 100MB of memory available\nthe problem: OOM killing the backup script\nattempt 1: use SQLite\n\nproblem: how to store IPv6 addresses\nproblem: it’s 500x slower\ntime for EXPLAIN QUERY PLAN\nattempt 2: use a trie\n\nsome notes on memory profiling\nattempt 3: make my array use less memory\n\nidea 3.1: deduplicate the Name and Country\nho…",
+          "link": "https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/",
+          "publishedOn": "2024-10-27T07:47:04.000Z",
+          "wordCount": 2522,
+          "title": "Using less memory to look up IP addresses in Mess With DNS",
+          "imageUrl": null
+        },
         {
           "id": "https://jvns.ca/blog/2024/10/07/some-notes-on-upgrading-hugo/",
           "author": null,
