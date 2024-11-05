@@ -44,26 +44,6 @@
           "wordCount": null,
           "title": "A billion new developers thanks to AI?",
           "imageUrl": null
-        },
-        {
-          "id": "https://christianheilmann.com/?p=8247",
-          "author": "Chris Heilmann",
-          "description": "I just created a massive dataset of all the AI generated metadata of the videos of the WeAreDeveloper World Congress and I wanted to extract only the tags. The dataset is a huge array with each item containing a description, generated title, an array of tags, the original and their title, like this: { “description”: […]",
-          "link": "https://christianheilmann.com/2024/09/06/quick-tip-using-flatmap-to-extract-data-from-a-huge-set-without-any-loop/",
-          "publishedOn": "2024-09-06T11:47:39.000Z",
-          "wordCount": null,
-          "title": "Quick tip: using flatMap() to extract data from a huge set without any loop",
-          "imageUrl": null
-        },
-        {
-          "id": "https://christianheilmann.com/?p=8239",
-          "author": "Chris Heilmann",
-          "description": "I am currently working on creating the new Call for Papers for the next WeAreDevelopers World Congress and one of the feedback items we got was that levels like “Expert, Intermediate and Beginner” don’t make much sense. First of all, speakers do not choose the right level as they are worried that a beginner or […]",
-          "link": "https://christianheilmann.com/2024/09/06/no-more-expert-intermediate-beginner-classifying-talks-in-call-for-papers-conference-agendas/",
-          "publishedOn": "2024-09-06T05:50:06.000Z",
-          "wordCount": null,
-          "title": "No more “Expert, Intermediate, Beginner”: Classifying talks in Call for Papers/Conference agendas",
-          "imageUrl": null
         }
       ]
     },
@@ -129,6 +109,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3007/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/probabilistic_uncertainty.png\" title=\"&quot;One popular strategy is to enter an emotional spiral. Could that be the right approach? We contacted several researchers who are experts in emotional spirals to ask them, but none of them were in a state to speak with us.&quot;\" alt=\"&quot;One popular strategy is to enter an emotional spiral. Could that be the right approach? We contacted several researchers who are experts in emotional spirals to ask them, but none of them were in a state to speak with us.&quot;\" />",
+          "link": "https://xkcd.com/3007/",
+          "publishedOn": "2024-11-04T00:00:00.000Z",
+          "wordCount": 180,
+          "title": "Probabilistic Uncertainty",
+          "imageUrl": "https://imgs.xkcd.com/comics/probabilistic_uncertainty_2x.png"
+        },
         {
           "id": "https://xkcd.com/3006/",
           "author": null,
@@ -368,16 +358,6 @@
           "wordCount": 205,
           "title": "Monocaster",
           "imageUrl": "https://imgs.xkcd.com/comics/monocaster_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2982/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/water_filtration.png\" title=\"You'd think the most expensive part would be the quark-gluon plasma chamber, but it's actually usually the tube to the top of the atmosphere to carry the cosmic rays down.\" alt=\"You'd think the most expensive part would be the quark-gluon plasma chamber, but it's actually usually the tube to the top of the atmosphere to carry the cosmic rays down.\" />",
-          "link": "https://xkcd.com/2982/",
-          "publishedOn": "2024-09-06T00:00:00.000Z",
-          "wordCount": 207,
-          "title": "Water Filtration",
-          "imageUrl": "https://imgs.xkcd.com/comics/water_filtration_2x.png"
         }
       ]
     },
@@ -692,6 +672,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/766245477013438464",
+          "author": null,
+          "description": "text-mode:\nChinese ANSI by missher.",
+          "link": "https://text-mode.tumblr.com/post/766245477013438464",
+          "publishedOn": "2024-11-04T19:30:31.000Z",
+          "wordCount": 1010,
+          "title": "text-mode:\n\nChinese ANSI by missher.",
+          "imageUrl": "https://64.media.tumblr.com/866a13c6815829a2e98e79bce786744d/tumblr_mrshliN02E1rpiyaso1_1280.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/766154888207106048",
           "author": null,
@@ -1281,16 +1271,6 @@
           "wordCount": 987,
           "title": "text-mode:\n\nBy Hello from ramen-ita@2ch (2008)",
           "imageUrl": "https://64.media.tumblr.com/325c89452649136bf877ddf008387501/tumblr_mx2vcxmY8P1rpiyaso1_640.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/760805903718023168",
-          "author": null,
-          "description": "mabelsofmadness:\nMABEL No. 46\nASCII Mabel.",
-          "link": "https://text-mode.tumblr.com/post/760805903718023168",
-          "publishedOn": "2024-09-05T18:30:50.000Z",
-          "wordCount": 958,
-          "title": "mabelsofmadness:\n\nMABEL No. 46\nASCII Mabel.",
-          "imageUrl": "https://64.media.tumblr.com/a9b7567b7f675bb42446ed5bcd37c32f/tumblr_mm4jzd9MtT1rmpu7vo1_500.png"
         }
       ]
     },
@@ -1299,6 +1279,16 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=77294",
+          "author": "Tarek Ziadé and Ania Safko",
+          "description": "Image generated by DALL-E in response to a request for a photorealistic image of a fox standing in a grassy landscape. Firefox 130 introduces automatic alt text for PDF images and an improved alt text flow. In addition to protecting users’ privacy with a small language model that operates locally on their device, these improvements […]\nThe post Help us improve our alt text generation model appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/ai/help-us-improve-our-alt-text-generation-model/",
+          "publishedOn": "2024-11-04T21:21:45.000Z",
+          "wordCount": 2328,
+          "title": "Help us improve our alt text generation model",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2024/11/alt-text-geenration-model-432x288.png"
+        },
         {
           "id": "https://blog.mozilla.org/?p=76849",
           "author": "Mozilla",
@@ -1559,6 +1549,56 @@
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
         {
+          "id": "https://www.joshwcomeau.com/css/container-queries-introduction/",
+          "author": "Josh W. Comeau",
+          "description": "It’s been a couple of years since container queries started landing in browsers… so why isn’t anyone using them? It turns out that container queries are kinda tricky; they’re not as straightforward as media queries. In this tutorial, we’ll break it all down and make sense of them, so that you can start using them in your work.",
+          "link": "https://www.joshwcomeau.com/css/container-queries-introduction/",
+          "publishedOn": "2024-11-04T13:15:00.000Z",
+          "wordCount": 7993,
+          "title": "A Friendly Introduction to Container Queries",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-container-queries-introduction.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/react/common-beginner-mistakes/",
+          "author": "Josh W. Comeau",
+          "description": "I used to teach React at a local coding bootcamp, and I noticed that students kept getting tripped up by the same handful of things. In this article, we're going to go through 9 of the most dastardly gotchas. I'll show you how to solve these common problems, so you can avoid a lot of potential frustration!",
+          "link": "https://www.joshwcomeau.com/react/common-beginner-mistakes/",
+          "publishedOn": "2024-10-13T20:04:38.000Z",
+          "wordCount": 10881,
+          "title": "Common Beginner Mistakes with React",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-common-beginner-mistakes.jpg"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/react/usememo-and-usecallback/",
+          "author": "Josh W. Comeau",
+          "description": "What's the deal with these two hooks?! Lots of devs find them confusing, for a whole host of reasons. In this tutorial, we'll dig deep and understand what they do, why they're useful, and how to get the most out of them.",
+          "link": "https://www.joshwcomeau.com/react/usememo-and-usecallback/",
+          "publishedOn": "2024-10-13T20:04:38.000Z",
+          "wordCount": 11877,
+          "title": "Understanding useMemo and useCallback",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-usememo-and-usecallback.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/react/why-react-re-renders/",
+          "author": "Josh W. Comeau",
+          "description": "In React, we don't update the DOM directly, we tell React what we want the DOM to look like, and React tackles the rest. But how exactly does it do this? In this tutorial, we'll unpack exactly when and why React re-renders, and how we can use this information to optimize the performance of our React apps.",
+          "link": "https://www.joshwcomeau.com/react/why-react-re-renders/",
+          "publishedOn": "2024-10-13T20:04:38.000Z",
+          "wordCount": 8396,
+          "title": "Why React Re-Renders",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-why-react-re-renders.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/animation/a-friendly-introduction-to-spring-physics/",
+          "author": "Josh W. Comeau",
+          "description": "Of all the little tips and techniques I've picked up over the years about animation, spring physics remains one of the most powerful and flexible. In this tutorial, we'll learn how to harness their power to build fluid, organic transitions.",
+          "link": "https://www.joshwcomeau.com/animation/a-friendly-introduction-to-spring-physics/",
+          "publishedOn": "2024-10-13T20:04:38.000Z",
+          "wordCount": 3653,
+          "title": "A Friendly Introduction to Spring Physics",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-a-friendly-introduction-to-spring-physics.png"
+        },
+        {
           "id": "https://www.joshwcomeau.com/react/file-structure/",
           "author": "Josh W. Comeau",
           "description": "How should we structure components and other files in our React apps? I've iterated my way to a solution I'm really happy with. In this blog post, I'll share how it works, what the tradeoffs are, and how I mitigate them.",
@@ -1797,16 +1837,6 @@
           "wordCount": 12718,
           "title": "Boop!",
           "imageUrl": "https://www.joshwcomeau.com/images/og-boop.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/react/rainbow-button/",
-          "author": "Josh W. Comeau",
-          "description": "If you've ever tried to animate a gradient, you've been met with a harsh reality—it isn't possible. At least, it wasn't! In this tutorial, we'll leverage bleeding-edge browser features to animate ANY CSS property, including background gradients, using CSS Houdini, CSS variables, and React.",
-          "link": "https://www.joshwcomeau.com/react/rainbow-button/",
-          "publishedOn": "2024-09-05T13:01:25.000Z",
-          "wordCount": 9678,
-          "title": "Magical Rainbow Gradients",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-rainbow-button.png"
         }
       ]
     },
@@ -1821,6 +1851,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=9720",
+          "author": "Cory Doctorow",
+          "description": "Today's links Neal Stephenson's \"Polostan\": Raising the curtain on a post-cyberpunk sf series about the dawn on the nuclear age. Hey look at this: Delights to delectate. This day in history: 2004, 2009, 2014, 2019, 2023 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Neal Stephenson's \"Polostan\" (permalink) Science fiction isn't collection of tropes, nor is it a literary style, nor is it a marketing category. It can encompass all of these, but what sf really is, is an outlook. At the core of sf is an approach to technology (and, sometimes, science): sf treats technology as a kind of crux that the rest of the tale revolves around.…",
+          "link": "https://pluralistic.net/2024/11/04/bomb-light/",
+          "publishedOn": "2024-11-04T14:16:54.000Z",
+          "wordCount": 3238,
+          "title": "Pluralistic: Neal Stephenson's \"Polostan\" (04 Nov 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=9693",
           "author": "Cory Doctorow",
@@ -2266,6 +2306,56 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/11/0045576-some-profiles-of-first-ti",
+          "author": null,
+          "description": "Some profiles of first-time voters who were formerly incarcerated. “I’m carrying all the people that can’t vote in my vote. And that’s an honor.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/11/0045576-some-profiles-of-first-ti",
+          "publishedOn": "2024-11-04T23:37:48.000Z",
+          "wordCount": 708,
+          "title": "Some profiles of first-time voters who were formerly incarcerated. &#8220;I&#8217;m carrying all...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/11/0045578-i-am-very-excited-about",
+          "author": null,
+          "description": "I am *very* excited about this: Christian Marclay’s The Clock is going back on display at MoMA. Member previews: Nov 7–9, Nov 10, 2024 through Spring 2025. “The work is both a cinematic tour-de-force and a functioning timepiece.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/11/0045578-i-am-very-excited-about",
+          "publishedOn": "2024-11-04T22:48:12.000Z",
+          "wordCount": 728,
+          "title": "I am *very* excited about this: Christian Marclay&#8217;s The Clock is going...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/11/the-powerful-density-of-hypertextual-writing",
+          "author": null,
+          "description": "The NY Times has had a difficult time covering the 2024 election in a clear, responsible manner. But I wanted to highlight this short opinion piece from the paper’s editorial board, which I’m reproducing here in its entirety:\nYou already know Donald Trump. He is unfit to lead. Watch him. Listen to those who know him best. He tried to subvert an election and remains a threat to democracy. He helped overturn Roe, with terrible consequences. Mr. Trump’s corruption and lawlessness go beyond elections: It’s his whole ethos. He lies without limit. If he’s re-elected, the G.O.P. won’t restrain him. Mr. Trump will use the government to go after opponents. He will pursue a cruel policy of mass deportations. He will wreak havoc on the poor, the middle class and employers. Another Trump term will dam…",
+          "link": "https://kottke.org/24/11/the-powerful-density-of-hypertextual-writing",
+          "publishedOn": "2024-11-04T21:53:56.000Z",
+          "wordCount": 1015,
+          "title": "The Powerful Density of Hypertextual Writing",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/11/0045573-based-on-our-election-for",
+          "author": null,
+          "description": "Based on Our Election Forecast, We Are 100 Percent Sure Anything Could Fucking Happen. “In 1 percent of simulations, Trump and Harris settle the presidency via cage match. In 2 percent of simulations, they open a quaint bakery in Vermont for dogs…”",
+          "link": "https://kottke.org/24/11/0045573-based-on-our-election-for",
+          "publishedOn": "2024-11-04T17:26:45.000Z",
+          "wordCount": 626,
+          "title": "Based on Our Election Forecast, We Are 100 Percent Sure Anything Could...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/11/how-are-you-doing-1",
+          "author": null,
+          "description": "No seriously, how is everyone doing today? We’re coming down to the wire on the most cuckoo bananapants presidential election campaign in recent memory. There’s so much at stake and there are so many unknowns, a potent cocktail for anxiety. If that’s where you are right now, I hope you know you’re not alone. If you’re feeling confident, that’s great and I’m happy for you. If my Instagram feed is any indication, many of you have already voted and are volunteering to knock on doors, phone bank, or to cure ballots in swing states — thanks so much for doing that! (Greg Pak’s list of last minute actions is a good place to start if you want to pitch in.)\nMe? Last week was a rough one — lots of anxiety about the election and other things. I’m feeling better this morning; I got out for some exercise this weekend, spent some really nice time with my son, and generally kept social media at arm’s length. Even though it’s pretty cold here today, I’m heading out for a bike ride this afternoon to load up on some good dopamine. I started season two of The Diplomat last night and it seems to have picked up right where it left off last season — the perfect diversionary viewing for me.\nBut I’m also struggling to work out what to post here this week. I am very nearly done with anything political in nature (I don’t want to contribute to doomscrolling) but posting anything else at this critical juncture, when people’s actual lives and freedoms are on the line, seems frivolous. I suppose I’ll figure it out, but heads up: things might be a little lighter than usual around here — or maybe the opposite? We’ll see.\nIn the meantime, if you don’t mind sharing, let us know how you’re doing in the comments.\nTags: Greg Pak · politics\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/11/how-are-you-doing-1",
+          "publishedOn": "2024-11-04T16:10:22.000Z",
+          "wordCount": 8779,
+          "title": "How Are You Doing?",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/24/11/0045571-type-revival-for-film",
           "author": null,
@@ -5755,126 +5845,6 @@
           "wordCount": 672,
           "title": "Detailed Miniature &#8220;Sculptures of Urban Decay&#8221;",
           "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/j-smith-mini-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/09/0045234-an-introduction-to-the-la",
-          "author": null,
-          "description": "An introduction to the latest iteration of Dynamicland’s Realtalk, a prototype of a communal computing environment that makes use of physical materials to make collaboration easier & more powerful. (Hard to explain, just watch the video..)\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/09/0045234-an-introduction-to-the-la",
-          "publishedOn": "2024-09-05T22:48:06.000Z",
-          "wordCount": 728,
-          "title": "An introduction to the latest iteration of Dynamicland&#8217;s Realtalk, a prototype of...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/09/0045233-cars-have-fucked-up-this",
-          "author": null,
-          "description": "Cars Have Fucked Up This Country Bad. “On average, America is an ugly country. The median American scene…would be an exhaust-choked roadway flanked on both sides by fast food restaurants and big box stores.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/09/0045233-cars-have-fucked-up-this",
-          "publishedOn": "2024-09-05T21:56:30.000Z",
-          "wordCount": 1759,
-          "title": "Cars Have Fucked Up This Country Bad. &#8220;On average, America is an...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/09/0045228-a-working-thumper-from-du",
-          "author": null,
-          "description": "A working thumper from Dune built out of Lego. (Working as in it thumps…I have no idea if it actually summons Shai-Hulud.)\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/09/0045228-a-working-thumper-from-du",
-          "publishedOn": "2024-09-05T21:07:46.000Z",
-          "wordCount": 661,
-          "title": "A working thumper from Dune built out of Lego. (Working as in...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/09/einsteins-nuclear-warning-letter-to-fdr-up-for-auction",
-          "author": null,
-          "description": "A copy of the letter written and signed by Albert Einstein in 1939 warning President Franklin Roosevelt of the possibility of Nazi Germany building nuclear weapons is up for auction next week at Christie’s. The estimate is $4-6 million.\n\nThe present letter is based directly on the content that Einstein dictated in German. Leo Szilard then translated the text into English and dictated it in turn to a Columbia University typist. Unsure of the level of detail to present to the chief executive, Szilard also made a longer version that recommended specific administrative steps the President could take to support uranium research. The longer version was the one delivered to the White House. It has rested, since 1945, in the permanent collection of the Franklin D. Roosevelt Library at Hyde Park, N…",
-          "link": "https://kottke.org/24/09/einsteins-nuclear-warning-letter-to-fdr-up-for-auction",
-          "publishedOn": "2024-09-05T20:34:30.000Z",
-          "wordCount": 1081,
-          "title": "Einstein&#8217;s Nuclear Warning Letter to FDR Up For Auction",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/einstein-fdr-letter.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/09/0045213-this-is-a-website-you",
-          "author": null,
-          "description": "This is a website you can only visit once. (I mean, technically you can visit many times. But embracing constraints is worthwhile.)\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/09/0045213-this-is-a-website-you",
-          "publishedOn": "2024-09-05T19:48:51.000Z",
-          "wordCount": 661,
-          "title": "This is a website you can only visit once. (I mean, technically...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/09/0045143-crash-course-art-history-",
-          "author": null,
-          "description": "Crash Course Art History, a playlist of 22 episodes with topics like What Makes an Artist “Great”?, What’s the Difference Between Art and Design?, and Should We Separate Art from the Artist?\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/09/0045143-crash-course-art-history-",
-          "publishedOn": "2024-09-05T19:07:15.000Z",
-          "wordCount": 701,
-          "title": "Crash Course Art History, a playlist of 22 episodes with topics like...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/09/goodbye-for-now-also-diary-comics",
-          "author": null,
-          "description": "Hi, it’s me, Edith, again! I’m back with one more comic before I sign off for a while. I know I haven’t actually been blogging recently, but I wanted to make a more official “goodbye for now” post in case anyone is like, Where did Edith go? Basically I think I bit off a little more than I could chew, blogging-wise. But it meant so much to me that Jason was willing to give it a shot. \nThank you for reading, big thanks to Jason for having me, and I hope to be back before too long (especially if Jason goes on vacation again or something 👀). And of course I’m not actually going anywhere, so I’ll see you in the comments! \n\n\n\n        \n\n         \nTags: diary comics\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/09/goodbye-for-now-also-diary-comics",
-          "publishedOn": "2024-09-05T17:39:49.000Z",
-          "wordCount": 1123,
-          "title": "Goodbye for Now! And a Diary Comic",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/june25intro.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/09/0045230-no-way-to-prevent-this-1",
-          "author": null,
-          "description": "‘No Way To Prevent This,’ Says Only Nation Where This Regularly Happens. 🤬🤬🤬",
-          "link": "https://kottke.org/24/09/0045230-no-way-to-prevent-this-1",
-          "publishedOn": "2024-09-05T17:15:01.000Z",
-          "wordCount": 623,
-          "title": "&#8216;No Way To Prevent This,&#8217; Says Only Nation Where This Regularly Happens....",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/09/0045215-lies-by-scientists-can-ki",
-          "author": null,
-          "description": "Lies by scientists can kill people — falsified research on beta blockers may have killed 800,000 people. “In cases where research dishonesty is literally killing people, shouldn’t it be appropriate to resort to the criminal justice system?”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/09/0045215-lies-by-scientists-can-ki",
-          "publishedOn": "2024-09-05T16:59:50.000Z",
-          "wordCount": 752,
-          "title": "Lies by scientists can kill people — falsified research on beta blockers...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/09/0045229-i-never-expected-to-run",
-          "author": null,
-          "description": "I Never Expected To Run For Office — Here’s What I Learned. “An election wasn’t really a contest with a prize. It was a course of study. It was the process of trying to become the world’s premier authority in what my neighbors wanted and needed…”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/09/0045229-i-never-expected-to-run",
-          "publishedOn": "2024-09-05T16:26:33.000Z",
-          "wordCount": 929,
-          "title": "I Never Expected To Run For Office — Here&#8217;s What I Learned....",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/09/lane-8-season-mixtapes",
-          "author": null,
-          "description": "I don’t remember how I happened upon them, but I’ve been enjoying Lane 8’s seasonal mixtapes for the past few years — good upbeat music to work to.\n\nHe’s been doing these for 11 years. The Denver DJs mixes are available on Soundcloud, YouTube, and Apple Music. The fall 2024 mix should be out very soon!\nTags: Lane 8 · music\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/09/lane-8-season-mixtapes",
-          "publishedOn": "2024-09-05T15:50:00.000Z",
-          "wordCount": 756,
-          "title": "Lane 8 Season Mixtapes",
-          "imageUrl": "https://i.ytimg.com/vi/u-PeF3SfY5w/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/09/0045221-100-tiny-tricks-for-sorti",
-          "author": null,
-          "description": "100 tiny tricks for sorting out your life. I did this one recently: “Take 10 minutes to tackle the inevitable plastic boxes and lids situation in your kitchen.” (All this advice all at once was kinda overwhelming tbh.)\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/09/0045221-100-tiny-tricks-for-sorti",
-          "publishedOn": "2024-09-05T15:19:50.000Z",
-          "wordCount": 1348,
-          "title": "100 tiny tricks for sorting out your life. I did this one...",
-          "imageUrl": ""
         }
       ]
     },
