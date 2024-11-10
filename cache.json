@@ -110,6 +110,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3009/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/number_shortage.png\" title=\"&quot;10 minutes ago we were down to only 2 0s!&quot; &quot;How many do we have now?&quot; &quot;I ... don't know!!&quot;\" alt=\"&quot;10 minutes ago we were down to only 2 0s!&quot; &quot;How many do we have now?&quot; &quot;I ... don't know!!&quot;\" />",
+          "link": "https://xkcd.com/3009/",
+          "publishedOn": "2024-11-08T00:00:00.000Z",
+          "wordCount": 180,
+          "title": "Number Shortage",
+          "imageUrl": "https://imgs.xkcd.com/comics/number_shortage_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3008/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/proterozoic_rocks.png\" title=\"These rocks are from a time before eyes, brains, and bones, pieces of a land warmed by an unseen sun.\" alt=\"These rocks are from a time before eyes, brains, and bones, pieces of a land warmed by an unseen sun.\" />",
@@ -348,16 +358,6 @@
           "wordCount": 205,
           "title": "Craters",
           "imageUrl": "https://imgs.xkcd.com/comics/craters_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2984/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/asteroid_news.png\" title=\"Their calculations show it will 'pass within the distance of the moon' but that it 'will not hit the moon, so what's the point?'\" alt=\"Their calculations show it will 'pass within the distance of the moon' but that it 'will not hit the moon, so what's the point?'\" />",
-          "link": "https://xkcd.com/2984/",
-          "publishedOn": "2024-09-11T00:00:00.000Z",
-          "wordCount": 207,
-          "title": "Asteroid News",
-          "imageUrl": "https://imgs.xkcd.com/comics/asteroid_news_2x.png"
         }
       ]
     },
@@ -682,6 +682,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/766698502764019712",
+          "author": null,
+          "description": "text-mode:\nASCII knotwork by Kreelah.",
+          "link": "https://text-mode.tumblr.com/post/766698502764019712",
+          "publishedOn": "2024-11-09T19:31:10.000Z",
+          "wordCount": 959,
+          "title": "text-mode:\n\nASCII knotwork by Kreelah.",
+          "imageUrl": "https://64.media.tumblr.com/56bda49d2c71b7343b7d7977aa2be1b8/tumblr_muis2i902r1rpiyaso1_500.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/766607909159370752",
           "author": null,
@@ -1271,16 +1281,6 @@
           "wordCount": 1003,
           "title": "zonezonezone:\n\nDadamaino - Composizione Ottica (1965)",
           "imageUrl": "https://64.media.tumblr.com/ba5d7a741b41b6e0399a1957c67baac1/tumblr_mfo5pjsrVH1qboydoo1_500.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/761258901635268608",
-          "author": null,
-          "description": "text-mode:\nPentiumheart\nwindhover\nsoHOT\nsource",
-          "link": "https://text-mode.tumblr.com/post/761258901635268608",
-          "publishedOn": "2024-09-10T18:31:02.000Z",
-          "wordCount": 947,
-          "title": "text-mode:\n\nPentiumheartwindhoversoHOTsource",
-          "imageUrl": "https://64.media.tumblr.com/67c6117ce25dd264e7fe52fd5008908e/tumblr_mrshejilJe1rpiyaso1_1280.gif"
         }
       ]
     },
@@ -1501,6 +1501,16 @@
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
+        {
+          "id": "https://jvns.ca/blog/2024/11/09/new-microblog/",
+          "author": null,
+          "description": "I added a new section to this site a couple weeks ago called\nTIL (“today I learned”).\nthe goal: save interesting tools & facts I posted on social media\nOne kind of thing I like to post on Mastodon/Bluesky is “hey, here’s a cool\nthing”, like the great SQLite repl litecli, or\nthe fact that cross compiling in Go Just Works and it’s amazing, or\ncryptographic right answers,\nor this great diff tool. Usually I don’t want to write\na whole blog post about those things because I really don’t have much more to\nsay than “hey this is useful!”\nIt started to bother me that I didn’t have anywhere to put those things: for\nexample recently I wanted to use diffdiff and I just\ncould not remember what it was called.\nthe solution: make a new section of this blog\nSo I quickly made a new folder called /til/, adde…",
+          "link": "https://jvns.ca/blog/2024/11/09/new-microblog/",
+          "publishedOn": "2024-11-09T09:24:29.000Z",
+          "wordCount": 718,
+          "title": "New microblog with TILs",
+          "imageUrl": null
+        },
         {
           "id": "https://jvns.ca/blog/2024/10/31/ascii-control-characters/",
           "author": null,
@@ -5825,106 +5835,6 @@
           "wordCount": 757,
           "title": "12 principles for building a feminine economy. &#8220;Be grateful. Remember, wealth has...",
           "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/09/james-earl-jones-reads-poes-the-raven",
-          "author": null,
-          "description": "James Earl Jones did many things during his long career, including acting as Verizon’s pitchman. As part of a 2005 promotion, Jones recited Edgar Allan Poe’s The Raven in that amazing rumbly voice of his, reprising his earlier performance on The Simpsons. Here’s the full version on Soundcloud, including his introduction — “he wrote about murder, torture, and being buried alive”:\n\nAs part of the same promotion, he also apparently recorded a recitation of the Gettysburg Address, but I cannot locate a copy of that anywhere.1 However, he did recite part of the Gettysburg Address, along with fragments of other Lincoln speeches, in a performance of Aaron Copland’s Lincoln Portrait with the Seattle Symphony Orchestra:\n\nJones also read Frederick Douglass’s speech What to the Slave is 4th of July?:\n\nAnd some Walt Whitman:\n\nAnd excerpts from Martin Luther King, Jr.’s Letter from a Birmingham Jail:\n\nAnd some Othello at the Obama White House:\n\n\nAnd in 2000, also on behalf of Verizon, he read Dr. Seuss’ Mr. Brown Can Moo, Can You? to a group of schoolchildren. I would love to hear that recording.↩\n\nTags: Abraham Lincoln · Edgar Allan Poe · Frederick Douglass · James Earl Jones · Martin Luther King · poetry · Shakespeare · video · Walt Whitman\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/09/james-earl-jones-reads-poes-the-raven",
-          "publishedOn": "2024-09-10T22:52:21.000Z",
-          "wordCount": 834,
-          "title": "James Earl Jones Reads Poe&#8217;s The Raven",
-          "imageUrl": "https://i.ytimg.com/vi/sXU3RfB7308/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/09/tychos-burning-man-sunrise-set-for-2024",
-          "author": null,
-          "description": "If you’re in the market for a chill work mix, Tycho has uploaded his annual Burning Man Sunrise Set for 2024 to Soundcloud.\nSee also Tycho’s BM sets from 2023, 2022, 2019, 2018, 2017, 2016, 2015, and 2014. Oh, and he’s got a new album out as well: Infinite Health.\nTags: music · Tycho\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/09/tychos-burning-man-sunrise-set-for-2024",
-          "publishedOn": "2024-09-10T21:48:51.000Z",
-          "wordCount": 692,
-          "title": "Tycho&#8217;s Burning Man Sunrise Set for 2024",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/09/0045260-what-if-trump-wins-more",
-          "author": null,
-          "description": "What If Trump Wins? More of: “Fucking kill them all.” “An eye for an eye.” “You just got to kill these people.” “Other countries do it all the time.” Less of: democracy, freedom.",
-          "link": "https://kottke.org/24/09/0045260-what-if-trump-wins-more",
-          "publishedOn": "2024-09-10T21:15:18.000Z",
-          "wordCount": 602,
-          "title": "What If Trump Wins? More of: &#8220;Fucking kill them all.&#8221; &#8220;An eye...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/09/my-brilliant-friend-season-four-is-here",
-          "author": null,
-          "description": "Well, I don’t know how I missed this, but the fantastic HBO series My Brilliant Friend is back for its fourth and final season. The series is based on Elena Ferrante’s Neapolitan novels and this season covers the events of the fourth book, The Story of the Lost Child.\nI love My Brilliant Friend — it’s one of my all-time favorites and might be the best show you’re not watching. I agree completely with Clare Thorp’s description of it as “criminally underrated”.\nAs the trailer above shows, the previous two lead actors (who were excellent) have been replaced by older ones, a change I’m a little apprehensive about, but everything else about the show has been pitch perfect so I’m gonna trust the process. From an NPR piece on the new season:\n“This child is you, when you were a child,” Maiorino recalled her friend Alessia saying about the novel’s titular protagonist and sometimes antagonist Lila. Like Lila and her friend Lenù, Maiorino is from Naples and stayed in the south, while her friend left to study in the north of the country, get married and have children.\nArt has now truly imitated life for Maiorino, who plays Lila in the fourth season of the series.\n\n\nNew episodes of My Brilliant Friend started airing on HBO last night and will drop every Monday for the next 10 weeks. Go check it out!\nTags: books · Elena Ferrante · HBO · My Brilliant Friend · trailers · TV · video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/09/my-brilliant-friend-season-four-is-here",
-          "publishedOn": "2024-09-10T18:45:42.000Z",
-          "wordCount": 877,
-          "title": "My Brilliant Friend Season Four Is Here!",
-          "imageUrl": "https://i.ytimg.com/vi/Ug-keps5tyc/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/09/0045257-a-long-essay-from-2007",
-          "author": null,
-          "description": "A long essay from 2007 that compares the cultural and political perceptions & impacts of The Beatles and The Rolling Stones. “During the watershed summer of 1968, the Beatles/Stones debate suddenly became a contest of political ideologies…”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/09/0045257-a-long-essay-from-2007",
-          "publishedOn": "2024-09-10T17:53:55.000Z",
-          "wordCount": 737,
-          "title": "A long essay from 2007 that compares the cultural and political perceptions...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/09/0045258-the-set-of-all-four",
-          "author": null,
-          "description": "The set of all four Neapolitan novels from Elena Ferrante are somehow on sale for only $4.99 for the Kindle. If you’ve never read these amazing books, now’s your chance.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/09/0045258-the-set-of-all-four",
-          "publishedOn": "2024-09-10T17:00:27.000Z",
-          "wordCount": 875,
-          "title": "The set of all four Neapolitan novels from Elena Ferrante are somehow...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/09/the-mainstream-press-has-failed-to-meet-this-political-moment",
-          "author": null,
-          "description": "Rebecca Solnit writes about how the mainstream political press is failing the American public they claim to serve.\nThese critics are responding to how the behemoths of the industry seem intent on bending the facts to fit their frameworks and agendas. In pursuit of clickbait content centered on conflicts and personalities, they follow each other into informational stampedes and confirmation bubbles.\nThey pursue the appearance of fairness and balance by treating the true and the false, the normal and the outrageous, as equally valid and by normalizing Republicans, especially Donald Trump, whose gibberish gets translated into English and whose past crimes and present-day lies and threats get glossed over. They neglect, again and again, important stories with real consequences. This is not ent…",
-          "link": "https://kottke.org/24/09/the-mainstream-press-has-failed-to-meet-this-political-moment",
-          "publishedOn": "2024-09-10T16:38:12.000Z",
-          "wordCount": 940,
-          "title": "The Mainstream Press Has Failed to Meet This Political Moment",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/09/0045242-more-than-friends-how-do",
-          "author": null,
-          "description": "More Than Friends. “How do you define a relationship? What is required for it to be ‘serious?’ Sex? Love? The threat of heartbreak? Is a relationship something you do or something you have? It is something that changes you? Teaches you who you are?”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/09/0045242-more-than-friends-how-do",
-          "publishedOn": "2024-09-10T15:59:26.000Z",
-          "wordCount": 695,
-          "title": "More Than Friends. &#8220;How do you define a relationship? What is required...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/09/0045248-a-hand-drawn-map-by-vladi",
-          "author": null,
-          "description": "A hand-drawn map by Vladimir Nabokov of the travels of Leopold Bloom & Stephen Dedalus around Dublin in James Joyce’s Ulysses. He drew the map for his college course on Masters of European Fiction.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/09/0045248-a-hand-drawn-map-by-vladi",
-          "publishedOn": "2024-09-10T15:15:40.000Z",
-          "wordCount": 775,
-          "title": "A hand-drawn map by Vladimir Nabokov of the travels of Leopold Bloom...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/09/colonial-williamsburg-a-safe-space-for-learning-history",
-          "author": null,
-          "description": "When you woke up this morning, you probably didn’t think the most interesting & thought-provoking thing you’d read today was about Colonial Williamsburg. Laura Jedeed’s piece for Politico, Where MAGA Granddads and Resistance Moms Go to Learn America’s Most Painful History Lessons, is about how folks at the living museum strive to accurately interpret the past while remaining accessible to those who might feel challenged by those truths.\nIn this excerpt, Jedeed describes how long-time museum interpreter Stephen Seals approaches portraying James Armistead Lafayette, an enslaved man who served as a spy for the American forces during the Revolution:\nJames Armistead Lafayette’s story encapsulates the paradox at the heart of America’s founding; enslavers who founded a nation to preserve liberty …",
-          "link": "https://kottke.org/24/09/colonial-williamsburg-a-safe-space-for-learning-history",
-          "publishedOn": "2024-09-10T14:33:23.000Z",
-          "wordCount": 2109,
-          "title": "Colonial Williamsburg, a Safe Space for Learning History",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/colonial-williamsburg.jpg"
         }
       ]
     },

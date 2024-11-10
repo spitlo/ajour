@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2024-11-09T00:38:07.003Z</updated>
+    <updated>2024-11-10T00:42:15.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[text-mode:
+
+ASCII knotwork by Kreelah.]]></title>
+        <id>https://text-mode.tumblr.com/post/766698502764019712</id>
+        <link href="https://text-mode.tumblr.com/post/766698502764019712"/>
+        <updated>2024-11-09T19:31:10.000Z</updated>
+        <summary type="html"><![CDATA[text-mode:
+ASCII knotwork by Kreelah.]]></summary>
+        <author>
+            <name>TEXT-MODE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New microblog with TILs]]></title>
+        <id>https://jvns.ca/blog/2024/11/09/new-microblog/</id>
+        <link href="https://jvns.ca/blog/2024/11/09/new-microblog/"/>
+        <updated>2024-11-09T09:24:29.000Z</updated>
+        <summary type="html"><![CDATA[I added a new section to this site a couple weeks ago called
+TIL (“today I learned”).
+the goal: save interesting tools & facts I posted on social media
+One kind of thing I like to post on Mastodon/Bluesky is “hey, here’s a cool
+thing”, like the great SQLite repl litecli, or
+the fact that cross compiling in Go Just Works and it’s amazing, or
+cryptographic right answers,
+or this great diff tool. Usually I don’t want to write
+a whole blog post about those things because I really don’t have much more to
+say than “hey this is useful!”
+It started to bother me that I didn’t have anywhere to put those things: for
+example recently I wanted to use diffdiff and I just
+could not remember what it was called.
+the solution: make a new section of this blog
+So I quickly made a new folder called /til/, adde…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[&#8220;The Quilt Index, originally launched in 2003, is an open access, digital...]]></title>
         <id>https://kottke.org/24/11/0045594-the-quilt-index-originall</id>
@@ -190,6 +227,16 @@ Tags: books · Damian Lewis · Hilary Mantel · Mark Rylance · trailers · TV �
 The post We asked why you love Firefox. Here’s what you said. appeared first on The Mozilla Blog.]]></summary>
         <author>
             <name>Mozilla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Number Shortage]]></title>
+        <id>https://xkcd.com/3009/</id>
+        <link href="https://xkcd.com/3009/"/>
+        <updated>2024-11-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/number_shortage.png" title="&quot;10 minutes ago we were down to only 2 0s!&quot; &quot;How many do we have now?&quot; &quot;I ... don't know!!&quot;" alt="&quot;10 minutes ago we were down to only 2 0s!&quot; &quot;How many do we have now?&quot; &quot;I ... don't know!!&quot;" />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -8036,192 +8083,6 @@ Tags: cycling · sports · video
         <summary type="html"><![CDATA[Today's links Matt Bors's "Justice Warriors: Vote Harder": Mr Gotcha For President! Hey look at this: Delights to delectate. This day in history: 2014, 2019, 2023 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Matt Bors's "Justice Warriors: Vote Harder" (permalink) There's no political satirist working today quite like Matt "Mr Gotcha" Bors, whose 2023 masterpiece Justice Warriors just got a timely – and brutally funny – sequel, Justice Warriors: Vote Harder: https://www.mattbors.com/store/p/justice-warriors-ffzgn You've doubtless seen Matt Bors's work, which has repeatedly attained viral liftoff, most notably with his Mr Gotcha…]]></summary>
         <author>
             <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asteroid News]]></title>
-        <id>https://xkcd.com/2984/</id>
-        <link href="https://xkcd.com/2984/"/>
-        <updated>2024-09-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/asteroid_news.png" title="Their calculations show it will 'pass within the distance of the moon' but that it 'will not hit the moon, so what's the point?'" alt="Their calculations show it will 'pass within the distance of the moon' but that it 'will not hit the moon, so what's the point?'" />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[James Earl Jones Reads Poe&#8217;s The Raven]]></title>
-        <id>https://kottke.org/24/09/james-earl-jones-reads-poes-the-raven</id>
-        <link href="https://kottke.org/24/09/james-earl-jones-reads-poes-the-raven"/>
-        <updated>2024-09-10T22:52:21.000Z</updated>
-        <summary type="html"><![CDATA[James Earl Jones did many things during his long career, including acting as Verizon’s pitchman. As part of a 2005 promotion, Jones recited Edgar Allan Poe’s The Raven in that amazing rumbly voice of his, reprising his earlier performance on The Simpsons. Here’s the full version on Soundcloud, including his introduction — “he wrote about murder, torture, and being buried alive”:
-
-As part of the same promotion, he also apparently recorded a recitation of the Gettysburg Address, but I cannot locate a copy of that anywhere.1 However, he did recite part of the Gettysburg Address, along with fragments of other Lincoln speeches, in a performance of Aaron Copland’s Lincoln Portrait with the Seattle Symphony Orchestra:
-
-Jones also read Frederick Douglass’s speech What to the Slave is 4th of July?:
-
-And some Walt Whitman:
-
-And excerpts from Martin Luther King, Jr.’s Letter from a Birmingham Jail:
-
-And some Othello at the Obama White House:
-
-
-And in 2000, also on behalf of Verizon, he read Dr. Seuss’ Mr. Brown Can Moo, Can You? to a group of schoolchildren. I would love to hear that recording.↩
-
-Tags: Abraham Lincoln · Edgar Allan Poe · Frederick Douglass · James Earl Jones · Martin Luther King · poetry · Shakespeare · video · Walt Whitman
-💬 Join the discussion on kottke.org →]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tycho&#8217;s Burning Man Sunrise Set for 2024]]></title>
-        <id>https://kottke.org/24/09/tychos-burning-man-sunrise-set-for-2024</id>
-        <link href="https://kottke.org/24/09/tychos-burning-man-sunrise-set-for-2024"/>
-        <updated>2024-09-10T21:48:51.000Z</updated>
-        <summary type="html"><![CDATA[If you’re in the market for a chill work mix, Tycho has uploaded his annual Burning Man Sunrise Set for 2024 to Soundcloud.
-See also Tycho’s BM sets from 2023, 2022, 2019, 2018, 2017, 2016, 2015, and 2014. Oh, and he’s got a new album out as well: Infinite Health.
-Tags: music · Tycho
-💬 Join the discussion on kottke.org →]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What If Trump Wins? More of: &#8220;Fucking kill them all.&#8221; &#8220;An eye...]]></title>
-        <id>https://kottke.org/24/09/0045260-what-if-trump-wins-more</id>
-        <link href="https://kottke.org/24/09/0045260-what-if-trump-wins-more"/>
-        <updated>2024-09-10T21:15:18.000Z</updated>
-        <summary type="html"><![CDATA[What If Trump Wins? More of: “Fucking kill them all.” “An eye for an eye.” “You just got to kill these people.” “Other countries do it all the time.” Less of: democracy, freedom.]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Brilliant Friend Season Four Is Here!]]></title>
-        <id>https://kottke.org/24/09/my-brilliant-friend-season-four-is-here</id>
-        <link href="https://kottke.org/24/09/my-brilliant-friend-season-four-is-here"/>
-        <updated>2024-09-10T18:45:42.000Z</updated>
-        <summary type="html"><![CDATA[Well, I don’t know how I missed this, but the fantastic HBO series My Brilliant Friend is back for its fourth and final season. The series is based on Elena Ferrante’s Neapolitan novels and this season covers the events of the fourth book, The Story of the Lost Child.
-I love My Brilliant Friend — it’s one of my all-time favorites and might be the best show you’re not watching. I agree completely with Clare Thorp’s description of it as “criminally underrated”.
-As the trailer above shows, the previous two lead actors (who were excellent) have been replaced by older ones, a change I’m a little apprehensive about, but everything else about the show has been pitch perfect so I’m gonna trust the process. From an NPR piece on the new season:
-“This child is you, when you were a child,” Maiorino recalled her friend Alessia saying about the novel’s titular protagonist and sometimes antagonist Lila. Like Lila and her friend Lenù, Maiorino is from Naples and stayed in the south, while her friend left to study in the north of the country, get married and have children.
-Art has now truly imitated life for Maiorino, who plays Lila in the fourth season of the series.
-
-
-New episodes of My Brilliant Friend started airing on HBO last night and will drop every Monday for the next 10 weeks. Go check it out!
-Tags: books · Elena Ferrante · HBO · My Brilliant Friend · trailers · TV · video
-💬 Join the discussion on kottke.org →]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[text-mode:
-
-PentiumheartwindhoversoHOTsource]]></title>
-        <id>https://text-mode.tumblr.com/post/761258901635268608</id>
-        <link href="https://text-mode.tumblr.com/post/761258901635268608"/>
-        <updated>2024-09-10T18:31:02.000Z</updated>
-        <summary type="html"><![CDATA[text-mode:
-Pentiumheart
-windhover
-soHOT
-source]]></summary>
-        <author>
-            <name>TEXT-MODE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A long essay from 2007 that compares the cultural and political perceptions...]]></title>
-        <id>https://kottke.org/24/09/0045257-a-long-essay-from-2007</id>
-        <link href="https://kottke.org/24/09/0045257-a-long-essay-from-2007"/>
-        <updated>2024-09-10T17:53:55.000Z</updated>
-        <summary type="html"><![CDATA[A long essay from 2007 that compares the cultural and political perceptions & impacts of The Beatles and The Rolling Stones. “During the watershed summer of 1968, the Beatles/Stones debate suddenly became a contest of political ideologies…”
-
-        
-
-        
-
-         
-💬 Join the discussion on kottke.org →]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The set of all four Neapolitan novels from Elena Ferrante are somehow...]]></title>
-        <id>https://kottke.org/24/09/0045258-the-set-of-all-four</id>
-        <link href="https://kottke.org/24/09/0045258-the-set-of-all-four"/>
-        <updated>2024-09-10T17:00:27.000Z</updated>
-        <summary type="html"><![CDATA[The set of all four Neapolitan novels from Elena Ferrante are somehow on sale for only $4.99 for the Kindle. If you’ve never read these amazing books, now’s your chance.
-
-        
-
-        
-
-         
-💬 Join the discussion on kottke.org →]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Mainstream Press Has Failed to Meet This Political Moment]]></title>
-        <id>https://kottke.org/24/09/the-mainstream-press-has-failed-to-meet-this-political-moment</id>
-        <link href="https://kottke.org/24/09/the-mainstream-press-has-failed-to-meet-this-political-moment"/>
-        <updated>2024-09-10T16:38:12.000Z</updated>
-        <summary type="html"><![CDATA[Rebecca Solnit writes about how the mainstream political press is failing the American public they claim to serve.
-These critics are responding to how the behemoths of the industry seem intent on bending the facts to fit their frameworks and agendas. In pursuit of clickbait content centered on conflicts and personalities, they follow each other into informational stampedes and confirmation bubbles.
-They pursue the appearance of fairness and balance by treating the true and the false, the normal and the outrageous, as equally valid and by normalizing Republicans, especially Donald Trump, whose gibberish gets translated into English and whose past crimes and present-day lies and threats get glossed over. They neglect, again and again, important stories with real consequences. This is not ent…]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More Than Friends. &#8220;How do you define a relationship? What is required...]]></title>
-        <id>https://kottke.org/24/09/0045242-more-than-friends-how-do</id>
-        <link href="https://kottke.org/24/09/0045242-more-than-friends-how-do"/>
-        <updated>2024-09-10T15:59:26.000Z</updated>
-        <summary type="html"><![CDATA[More Than Friends. “How do you define a relationship? What is required for it to be ‘serious?’ Sex? Love? The threat of heartbreak? Is a relationship something you do or something you have? It is something that changes you? Teaches you who you are?”
-
-        
-
-        
-
-         
-💬 Join the discussion on kottke.org →]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A hand-drawn map by Vladimir Nabokov of the travels of Leopold Bloom...]]></title>
-        <id>https://kottke.org/24/09/0045248-a-hand-drawn-map-by-vladi</id>
-        <link href="https://kottke.org/24/09/0045248-a-hand-drawn-map-by-vladi"/>
-        <updated>2024-09-10T15:15:40.000Z</updated>
-        <summary type="html"><![CDATA[A hand-drawn map by Vladimir Nabokov of the travels of Leopold Bloom & Stephen Dedalus around Dublin in James Joyce’s Ulysses. He drew the map for his college course on Masters of European Fiction.
-
-        
-
-        
-
-         
-💬 Join the discussion on kottke.org →]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Colonial Williamsburg, a Safe Space for Learning History]]></title>
-        <id>https://kottke.org/24/09/colonial-williamsburg-a-safe-space-for-learning-history</id>
-        <link href="https://kottke.org/24/09/colonial-williamsburg-a-safe-space-for-learning-history"/>
-        <updated>2024-09-10T14:33:23.000Z</updated>
-        <summary type="html"><![CDATA[When you woke up this morning, you probably didn’t think the most interesting & thought-provoking thing you’d read today was about Colonial Williamsburg. Laura Jedeed’s piece for Politico, Where MAGA Granddads and Resistance Moms Go to Learn America’s Most Painful History Lessons, is about how folks at the living museum strive to accurately interpret the past while remaining accessible to those who might feel challenged by those truths.
-In this excerpt, Jedeed describes how long-time museum interpreter Stephen Seals approaches portraying James Armistead Lafayette, an enslaved man who served as a spy for the American forces during the Revolution:
-James Armistead Lafayette’s story encapsulates the paradox at the heart of America’s founding; enslavers who founded a nation to preserve liberty …]]></summary>
-        <author>
-            <name>kottke.org</name>
         </author>
     </entry>
     <entry>
