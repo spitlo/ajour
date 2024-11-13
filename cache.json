@@ -100,6 +100,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3010/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/geometriphylogenetics.png\" title=\"There's a maximum likelihood that I'm doing phylogenetics wrong.\" alt=\"There's a maximum likelihood that I'm doing phylogenetics wrong.\" />",
+          "link": "https://xkcd.com/3010/",
+          "publishedOn": "2024-11-11T00:00:00.000Z",
+          "wordCount": 178,
+          "title": "Geometriphylogenetics",
+          "imageUrl": "https://imgs.xkcd.com/comics/geometriphylogenetics_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3009/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/number_shortage.png\" title=\"&quot;10 minutes ago we were down to only 2 0s!&quot; &quot;How many do we have now?&quot; &quot;I ... don't know!!&quot;\" alt=\"&quot;10 minutes ago we were down to only 2 0s!&quot; &quot;How many do we have now?&quot; &quot;I ... don't know!!&quot;\" />",
@@ -662,6 +672,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/766970253219594240",
+          "author": null,
+          "description": "text-mode:\n“Video Coding - I’ll be there for you like I’ve been there before.”\nsource",
+          "link": "https://text-mode.tumblr.com/post/766970253219594240",
+          "publishedOn": "2024-11-12T19:30:31.000Z",
+          "wordCount": 978,
+          "title": "text-mode:\n\n“Video Coding - I’ll be there for you like I’ve been...",
+          "imageUrl": "https://64.media.tumblr.com/abd18c067df1e22db6bdeebc9f1e21fb/tumblr_mrshany0Zq1rpiyaso1_1280.gif"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/766879692474253312",
           "author": null,
@@ -1251,16 +1271,6 @@
           "wordCount": 994,
           "title": "text-mode:\n\nNeanderthal by Shaun Berke (2012)",
           "imageUrl": "https://64.media.tumblr.com/b613c489e087c26c9b4fbc72c95446aa/tumblr_mnt0t3yDcA1rpiyaso2_640.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/761530669519224832",
-          "author": null,
-          "description": "text-mode:\nAncient baskets, mostly from Peru. via",
-          "link": "https://text-mode.tumblr.com/post/761530669519224832",
-          "publishedOn": "2024-09-13T18:30:40.000Z",
-          "wordCount": 979,
-          "title": "text-mode:\n\nAncient baskets, mostly from Peru. via",
-          "imageUrl": "https://64.media.tumblr.com/49bc4280b5a8c29adb6e2e9d4af78bc1/tumblr_mnrj2kLKIn1rpiyaso1_1280.png"
         }
       ]
     },
@@ -1269,6 +1279,26 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=76569",
+          "author": "Matt C",
+          "description": "Open source thrives because of its people. Firefox, like so many successful open-source projects, is powered by passionate contributors and dedicated supporters. Their collective efforts have transformed Firefox from just a web browser into the cornerstone of a global community, bringing together users and developers with a shared vision for the open web. Reddit, one […]\nThe post Exploring the Firefox Community on r/firefox appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/products/firefox/firefox-subreddit/",
+          "publishedOn": "2024-11-12T18:08:35.000Z",
+          "wordCount": 2551,
+          "title": "Exploring the Firefox Community on r/firefox",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2024/11/Group-1000006298-1080x720.jpg"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=77258",
+          "author": "Manuel Sainsily",
+          "description": "AI is shaking things up in the creative world, and I get why a lot of artists feel anxious. Whenever new technology comes along — especially in industries like ours — it brings fear. Fear of losing control, fear of being replaced. That’s real. But there’s another side to this: AI can open doors we […]\nThe post How AI is reshaping creativity: Insights from art, tech and policy appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/ai/ai-creativity/",
+          "publishedOn": "2024-11-12T17:00:00.000Z",
+          "wordCount": 1887,
+          "title": "How AI is reshaping creativity: Insights from art, tech and policy",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2024/10/manu-1080x720.jpg"
+        },
         {
           "id": "https://blog.mozilla.org/?p=77333",
           "author": "Mozilla",
@@ -1647,186 +1677,6 @@
           "wordCount": 10844,
           "title": "How I Built My Blog",
           "imageUrl": "https://www.joshwcomeau.com/images/og-how-i-built-my-blog.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/react/server-components/",
-          "author": "Josh W. Comeau",
-          "description": "This year, the React team unveiled something they've been quietly researching for years: an official way to run React components exclusively on the server. This is a significant paradigm shift, and it's caused a whole lot of confusion in the React community. In this tutorial, we'll explore this new world, and build an intuition for how it works, and how we can take advantage of it.",
-          "link": "https://www.joshwcomeau.com/react/server-components/",
-          "publishedOn": "2024-09-13T14:12:29.000Z",
-          "wordCount": 19217,
-          "title": "Making Sense of React Server Components",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-server-components.jpg"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/animation/css-transitions/",
-          "author": "Josh W. Comeau",
-          "description": "This comprehensive guide shows how to use CSS transitions! A back-to-basics look at the fundamental building blocks we need to create microinteractions and other animations.",
-          "link": "https://www.joshwcomeau.com/animation/css-transitions/",
-          "publishedOn": "2024-09-13T14:12:29.000Z",
-          "wordCount": 9550,
-          "title": "An Interactive Guide to CSS Transitions",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-css-transitions.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/react/boop/",
-          "author": "Josh W. Comeau",
-          "description": "An in-depth tutorial that teaches how to create one of the most adorable interactions I've ever created. We'll learn how to use React components and hooks to abstract behaviours, and see how to design the perfect API. Even if you're not into animations, I think you'll find it interesting!",
-          "link": "https://www.joshwcomeau.com/react/boop/",
-          "publishedOn": "2024-09-13T14:12:29.000Z",
-          "wordCount": 12721,
-          "title": "Boop!",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-boop.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/css/stacking-contexts/",
-          "author": "Josh W. Comeau",
-          "description": "The z-index property can be a tricky little bugger. Sometimes, no matter how much you crank up the number, the element never rises to the top! In this article, we explore stacking contexts, and see how they can thwart our efforts to use z-index. We'll also learn how to use this mechanism to our advantage.",
-          "link": "https://www.joshwcomeau.com/css/stacking-contexts/",
-          "publishedOn": "2024-09-13T14:12:29.000Z",
-          "wordCount": 8581,
-          "title": "What The Heck, z-index??",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-stacking-contexts.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/blog/the-end-of-frontend-development/",
-          "author": "Josh W. Comeau",
-          "description": "Large language models like GPT-4 are becoming increasingly capable, at an alarming rate. Within a couple of years, we won't need developers any more! …Or at least, that's the narrative going viral on Twitter. I'm much more optimistic about what these AI advancements mean for the future of software development.",
-          "link": "https://www.joshwcomeau.com/blog/the-end-of-frontend-development/",
-          "publishedOn": "2024-09-13T14:12:29.000Z",
-          "wordCount": 7611,
-          "title": "The End of Front-End Development",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-the-end-of-frontend-development.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/react/folding-the-dom/",
-          "author": "Josh W. Comeau",
-          "description": "In this post, we'll explore a technique we can use to \"fold\" a DOM node, like folding a letter in real-life. On that journey, we'll learn a lot about 3D transforms and CSS animation techniques!",
-          "link": "https://www.joshwcomeau.com/react/folding-the-dom/",
-          "publishedOn": "2024-09-13T14:12:29.000Z",
-          "wordCount": 5334,
-          "title": "Folding the DOM",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-folding-the-dom.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/css/interactive-guide-to-grid/",
-          "author": "Josh W. Comeau",
-          "description": "CSS Grid is an incredibly powerful tool for building layouts on the web, but like all powerful tools, there's a significant learning curve. In this tutorial, we'll build a mental model for how CSS Grid works and how we can use it effectively. I'll share the biggest 💡 lightbulb moments I've had in my own learning journey.",
-          "link": "https://www.joshwcomeau.com/css/interactive-guide-to-grid/",
-          "publishedOn": "2024-09-13T14:12:29.000Z",
-          "wordCount": 10401,
-          "title": "An Interactive Guide to CSS Grid",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-interactive-guide-to-grid.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/animation/pride-flags/",
-          "author": "Josh W. Comeau",
-          "description": "Happy Pride month! In this tutorial, I'll share a handful of my favourite animation tricks. You'll learn how to build an animated wavy pride flag using CSS keyframes and linear gradients. We'll also see how to make it dynamic using React. 🏳️‍🌈",
-          "link": "https://www.joshwcomeau.com/animation/pride-flags/",
-          "publishedOn": "2024-09-13T14:12:29.000Z",
-          "wordCount": 8558,
-          "title": "Animated Pride Flags",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-pride-flags.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/",
-          "author": "Josh W. Comeau",
-          "description": "“Should I use pixels or rems?”. In this comprehensive blog post, we'll answer this question once and for all. You'll learn about the accessibility implications, and how to determine the best unit to use in any scenario.",
-          "link": "https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/",
-          "publishedOn": "2024-09-13T14:12:29.000Z",
-          "wordCount": 10233,
-          "title": "The Surprising Truth About Pixels and Accessibility",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-surprising-truth-about-pixels-and-accessibility.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/css/understanding-layout-algorithms/",
-          "author": "Josh W. Comeau",
-          "description": "As front-end developers, we often learn CSS by focusing on individual properties. Instead, we should focus on how the language uses those properties to calculate layouts. In this blog post, we'll pop the hood on CSS and see how the language is structured, and how to learn it effectively.",
-          "link": "https://www.joshwcomeau.com/css/understanding-layout-algorithms/",
-          "publishedOn": "2024-09-13T14:12:29.000Z",
-          "wordCount": 8954,
-          "title": "Understanding Layout Algorithms",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-understanding-layout-algorithms.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/css/custom-css-reset/",
-          "author": "Josh W. Comeau",
-          "description": "I have a set of baseline CSS styles that come with me from project to project. In the past, I'd use a typical CSS reset, but times have changed, and I believe I have a better set of global styles!",
-          "link": "https://www.joshwcomeau.com/css/custom-css-reset/",
-          "publishedOn": "2024-09-13T14:12:29.000Z",
-          "wordCount": 8786,
-          "title": "A Modern CSS Reset",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-custom-css-reset.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/",
-          "author": "Josh W. Comeau",
-          "description": "As software developers, we're always learning new things; it's practically the whole gig! If we can learn to quickly pick up new languages/frameworks/tools, we'll become so much more effective at our job. It's sort of a superpower.",
-          "link": "https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/",
-          "publishedOn": "2024-09-13T14:12:29.000Z",
-          "wordCount": 7728,
-          "title": "How To Learn Stuff Quickly",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-how-to-learn-stuff-quickly.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/animation/3d-button/",
-          "author": "Josh W. Comeau",
-          "description": "Every action we take on the web starts with a button click, and yet most buttons are ho-hum and uninspired. In this tutorial, we'll build an animated 3D button with HTML and CSS that sparks joy.",
-          "link": "https://www.joshwcomeau.com/animation/3d-button/",
-          "publishedOn": "2024-09-13T14:12:29.000Z",
-          "wordCount": 8133,
-          "title": "Building a Magical 3D Button",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-3d-button.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/nextjs/refreshing-server-side-props/",
-          "author": "Josh W. Comeau",
-          "description": "Next allows you to do server-side data-fetching, but what happens when that data needs to change on the client? This brief tutorial shows how to re-fetch the props without doing a full server reload.",
-          "link": "https://www.joshwcomeau.com/nextjs/refreshing-server-side-props/",
-          "publishedOn": "2024-09-13T14:12:29.000Z",
-          "wordCount": 5097,
-          "title": "Refreshing Server-Side Props",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-refreshing-server-side-props.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/css/rules-of-margin-collapse/",
-          "author": "Josh W. Comeau",
-          "description": "“Margin collapse” has a dastardly reputation, one of the trickier parts of CSS. Fortunately, it gets a lot easier once you learn a few rules! In this tutorial, we take a deep dive into the governing principles, and learn how to use them to our advantage.",
-          "link": "https://www.joshwcomeau.com/css/rules-of-margin-collapse/",
-          "publishedOn": "2024-09-13T14:12:29.000Z",
-          "wordCount": 6692,
-          "title": "The Rules of Margin Collapse",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-rules-of-margin-collapse.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/css/full-bleed/",
-          "author": "Josh W. Comeau",
-          "description": "Certain layouts are surprisingly dastardly. On the modern web, one of the most common layouts is also one of the trickiest. In this tutorial, I break down how to build the \"full-bleed\" layout using CSS Grid.",
-          "link": "https://www.joshwcomeau.com/css/full-bleed/",
-          "publishedOn": "2024-09-13T14:12:29.000Z",
-          "wordCount": 6145,
-          "title": "Full-Bleed Layout Using CSS Grid",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-full-bleed.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/blog/why-my-blog-is-closed-source/",
-          "author": "Josh W. Comeau",
-          "description": "In our community, it's so common for developer projects to be open-source. I'm breaking with this trend for my blog, but I have good reasons! In this article, I'll share my reasoning, as well as a workaround in case you _really_ want to see the source. If you're considering whether a project should be open-source or not, I hope you'll find it valuable.",
-          "link": "https://www.joshwcomeau.com/blog/why-my-blog-is-closed-source/",
-          "publishedOn": "2024-09-13T14:12:29.000Z",
-          "wordCount": 4997,
-          "title": "Why My Blog is Closed-Source",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-why-my-blog-is-closed-source.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/css/css-variables-for-react-devs/",
-          "author": "Josh W. Comeau",
-          "description": "CSS variables are *really* cool, and they're incredibly powerful when it comes to React! This tutorial shows how we can use them with React to create dynamic themes. We'll see how to get the most out of CSS-in-JS tools like styled-components, and how our mental frame around media queries has been wrong all along.",
-          "link": "https://www.joshwcomeau.com/css/css-variables-for-react-devs/",
-          "publishedOn": "2024-09-13T14:12:29.000Z",
-          "wordCount": 8435,
-          "title": "CSS Variables for React Devs",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-css-variables-for-react-devs.png"
         }
       ]
     },
@@ -1841,6 +1691,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=9767",
+          "author": "Cory Doctorow",
+          "description": "Today's links Boss politics antitrust: Trump will use Xi Xinping's \"anti-corruption\" playbook. Hey look at this: Delights to delectate. This day in history: 2009, 2014, 2019 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Boss politics antitrust (permalink) Xi Jinping inaugurated his second term with an anti-corruption purge that ran from 2012-2015, resulting in a massive turnover in the power structures of Chinese society. At the time, people inside and outside of China believed that Xi was using the crackdown to target his political enemies and consolidate power. Certainly, that was the effect of the purge, which paved the way …",
+          "link": "https://pluralistic.net/2024/11/12/the-enemy-of-your-enemy/",
+          "publishedOn": "2024-11-12T14:13:06.000Z",
+          "wordCount": 2619,
+          "title": "Pluralistic: Boss politics antitrust (12 Nov 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=9758",
           "author": "Cory Doctorow",
@@ -2306,6 +2166,106 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/11/single-line-mazes",
+          "author": null,
+          "description": "Wacław Szpakowski was a Polish architect and engineer who, over the course of his life and in secret, made a series of drawings of mazes from single continuous lines. From The Paris Review:\nThe drawings, he explains, “were experiments with the straight line conducted not in research laboratories but produced spontaneously at various places and random moments since all that was needed to make them was a piece of paper and a pencil.” Though the kernels of his ideas came from informal notebooks, the imposing virtuosity and opaqueness of Szpakowski’s final drawings are anything but spontaneous or random. His enigmatic process — how he could draw with such supreme evenhandedness, could make his designs so pristine and yet so intricate — is hinted at only in his few visible erasure marks.\n\n\nGeoff Manaugh writes at BLDGBLOG:\nBut the appeal of Szpakowski’s work would appear to extend well beyond the architectural. At times they resemble textiles, weaving diagrams, computer circuitry, and even Arts & Crafts ornamentation, like 19th-century wallpapers designed for an era of retro-computational aesthetics.\nWoodworking templates, patent drawings for fluidic calculators, elaborate game boards — the list of associations goes on and on.\n\n\nOf course, I was reminded of Dom’s challenge to Ariadne to draw a difficult maze in Inception, the light cycles in Tron, and the Etch A Sketch…but to each their own.\nYou can explore more of Szpakowski’s work at his website, at culture.pl, and at the Miguel Abreu gallery website.\nTags: art · Geoff Manaugh · Waclaw Szpakowski\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/11/single-line-mazes",
+          "publishedOn": "2024-11-12T21:51:25.000Z",
+          "wordCount": 880,
+          "title": "Single Line Mazes",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/waclaw-szpakowski-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/11/0045619-journalisms-fight-for-sur",
+          "author": null,
+          "description": "Journalism’s fight for survival in a postliterate democracy. “The work of obtaining facts has a major economic disadvantage against the production of bullshit, and it’s only getting worse.”",
+          "link": "https://kottke.org/24/11/0045619-journalisms-fight-for-sur",
+          "publishedOn": "2024-11-12T20:54:05.000Z",
+          "wordCount": 602,
+          "title": "Journalism&#8217;s fight for survival in a postliterate democracy. &#8220;The work of obtaining...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/11/0045613-i-was-a-fool-art",
+          "author": null,
+          "description": "‘I was a fool’: Art Garfunkel describes tearful reunion with Paul Simon. “We’ve made plans to meet again. Will Paul bring his guitar? Who knows.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/11/0045613-i-was-a-fool-art",
+          "publishedOn": "2024-11-12T20:13:24.000Z",
+          "wordCount": 698,
+          "title": "&#8216;I was a fool&#8217;: Art Garfunkel describes tearful reunion with Paul Simon....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/11/the-anti-wonka-candy-factory-1",
+          "author": null,
+          "description": "In 2011, Magnum photographer Martin Parr visited the Teddy Grays candy factory near Birmingham, England that makes old-fashioned candy with Wonka-esque names — Mint Humbugs, Nutty Brittles, Spearminties. The result is this ultra-charming 20 minute film profile of the company and its candy-making process.\nCharmingness evidence, exhibit A: When asked if the company would ever modernize, company director Teddy Gray responds, “Imagine coming to work in the morning and looking at all them faxes, oh no.” Even his modernization references need modernizing.\nCharmingness evidence, exhibit B: The lingerie calendar behind Gray as he talks on the phone, and the beefcake calendar behind his daughter in the very next scene. \nCharmingness evidence, exhibit C through exhibit ZZZ: Every other scene in the film.\nI know 20 minutes for a web video sounds daunting, but it’s worth the while. At the very least, skip to 14:00 and watch how they make “lettered rock”, hard candy sticks with words written on the inside of the candy. As shown in the video, the individual letters start out 3-4 inches high, are arranged into words when rolled up into a massive tube of candy a foot in diameter, and end up a fraction of an inch tall when pulled out into small sticks, like so:\n\nAnd you thought laying out type for the web was difficult. (thx, nick)\n[This is a vintage post originally from Jul 2014.]\nTags: food · Martin Parr · Teddy Grays · timeless posts · video",
+          "link": "https://kottke.org/24/11/the-anti-wonka-candy-factory-1",
+          "publishedOn": "2024-11-12T19:35:46.000Z",
+          "wordCount": 766,
+          "title": "The Anti-Wonka Candy Factory",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/lettered-rock.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/11/0045616-words-from-toni-morrison-",
+          "author": null,
+          "description": "Words from Toni Morrison, Audre Lorde, and James Baldwin about “the vital role that artists play in society generally, and doubly so in the face of authoritarian regimes”.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/11/0045616-words-from-toni-morrison-",
+          "publishedOn": "2024-11-12T18:53:06.000Z",
+          "wordCount": 724,
+          "title": "Words from Toni Morrison, Audre Lorde, and James Baldwin about &#8220;the vital...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/11/0045618-marine-biologist-dr-ayana",
+          "author": null,
+          "description": "Marine biologist Dr. Ayana Elizabeth Johnson: “Keep showing up. Join something. Find your people. Bring your superpowers. Be a problem solver. Choose your battles. Nourish joy. Love nature.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/11/0045618-marine-biologist-dr-ayana",
+          "publishedOn": "2024-11-12T17:28:35.000Z",
+          "wordCount": 997,
+          "title": "Marine biologist Dr. Ayana Elizabeth Johnson: &#8220;Keep showing up. Join something. Find...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/11/0045617-a-classic-that-really-mad",
+          "author": null,
+          "description": "A classic that really made me laugh this morning: Pachelbel’s Canon Played by Train Horns.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/11/0045617-a-classic-that-really-mad",
+          "publishedOn": "2024-11-12T16:47:02.000Z",
+          "wordCount": 703,
+          "title": "A classic that really made me laugh this morning: Pachelbel&#8217;s Canon Played...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/11/200-of-the-largest-earth-impact-craters-mapped",
+          "author": null,
+          "description": "I am predisposed to like videos about meteorite craters but this was even more interesting than I anticipated.\nA nice example of a crater 2-3 km wide is Rotor Kamm in southern Africa. I should mention that we’re easily into city killer impacts here, in case you’re wondering.\n\n\nYou can explore the Earth Impact Database on their website. (via @michaelhobbes.bsky.social)\nTags: geology · maps · science · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/11/200-of-the-largest-earth-impact-craters-mapped",
+          "publishedOn": "2024-11-12T16:01:46.000Z",
+          "wordCount": 704,
+          "title": "200 of the Largest Earth Impact Craters Mapped",
+          "imageUrl": "https://i.ytimg.com/vi/iTed69ef1ks/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/24/11/0045612-the-wired-guide-to-protec",
+          "author": null,
+          "description": "The Wired Guide to Protecting Yourself From Government Surveillance. The incoming administration has “vowed to deport millions and jail his enemies. To carry out that agenda, his administration will exploit America’s digital surveillance machine.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/11/0045612-the-wired-guide-to-protec",
+          "publishedOn": "2024-11-12T15:14:13.000Z",
+          "wordCount": 715,
+          "title": "The Wired Guide to Protecting Yourself From Government Surveillance. The incoming administration...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/11/0045611-huh-i-didnt-know-that",
+          "author": null,
+          "description": "Huh, I didn’t know that the guy who wrote The Curious Garden (one my kids’ favorite books when they were younger) also wrote The Wild Robot — both inspired by the High Line.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/11/0045611-huh-i-didnt-know-that",
+          "publishedOn": "2024-11-12T14:21:50.000Z",
+          "wordCount": 745,
+          "title": "Huh, I didn&#8217;t know that the guy who wrote The Curious Garden...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/24/11/0045610-delete-your-account-for-r",
           "author": null,
@@ -5615,56 +5575,6 @@
           "wordCount": 1130,
           "title": "Black and Blue and Read All Over",
           "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/09/0045277-disco-in-the-80s-but",
-          "author": null,
-          "description": "Disco in the 80s but everyone is Lionel Messi. (This is incredible.)\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/09/0045277-disco-in-the-80s-but",
-          "publishedOn": "2024-09-13T19:27:38.000Z",
-          "wordCount": 771,
-          "title": "Disco in the 80s but everyone is Lionel Messi. (This is incredible.)...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/09/the-worlds-loudest-sound-1",
-          "author": null,
-          "description": "The sound made by the Krakatoa volcanic eruption in 1883 was so loud it ruptured eardrums of people 40 miles away, travelled around the world four times, and was clearly heard 3,000 miles away.\nThink, for a moment, just how crazy this is. If you’re in Boston and someone tells you that they heard a sound coming from New York City, you’re probably going to give them a funny look. But Boston is a mere 200 miles from New York. What we’re talking about here is like being in Boston and clearly hearing a noise coming from Dublin, Ireland. Travelling at the speed of sound (766 miles or 1,233 kilometers per hour), it takes a noise about 4 hours to cover that distance. This is the most distant sound that has ever been heard in recorded history.\n\n\nA much much smaller eruption occurred recently in Pap…",
-          "link": "https://kottke.org/24/09/the-worlds-loudest-sound-1",
-          "publishedOn": "2024-09-13T18:18:30.000Z",
-          "wordCount": 1119,
-          "title": "The World&#8217;s Loudest Sound",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/krakatoa-sound-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/09/0045274-how-to-monetize-a-blog",
-          "author": null,
-          "description": "How to Monetize a Blog. I am taking very careful notes, so expect some big changes around here. Mind the vortex (vortext?) tho.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/09/0045274-how-to-monetize-a-blog",
-          "publishedOn": "2024-09-13T16:45:26.000Z",
-          "wordCount": 714,
-          "title": "How to Monetize a Blog. I am taking very careful notes, so...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/09/0045275-man-replies-stop-to-polit",
-          "author": null,
-          "description": "Man Replies ‘STOP’ To Political Fundraiser Text Like Powerful Wizard Casting Spell To Ward Off Mythical Beast. It me, 10 times a day.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/09/0045275-man-replies-stop-to-polit",
-          "publishedOn": "2024-09-13T15:27:56.000Z",
-          "wordCount": 1074,
-          "title": "Man Replies &#8216;STOP&#8217; To Political Fundraiser Text Like Powerful Wizard Casting Spell...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/09/0045276-at-long-last-robert-caros",
-          "author": null,
-          "description": "At long last, Robert Caro’s The Power Broker is available as a Kindle ebook. It will be released on Sept 16 — you can preorder it here.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/09/0045276-at-long-last-robert-caros",
-          "publishedOn": "2024-09-13T12:47:11.000Z",
-          "wordCount": 729,
-          "title": "At long last, Robert Caro&#8217;s The Power Broker is available as a...",
-          "imageUrl": ""
         }
       ]
     },
@@ -5706,6 +5616,16 @@
       "feedUrl": "https://ludic.mataroa.blog/rss/",
       "siteUrl": "https://ludic.mataroa.blog",
       "articles": [
+        {
+          "id": "https://ludic.mataroa.blog/blog/why-i-will-always-be-angry-about-software-engineering/",
+          "author": null,
+          "description": "Why do I bother getting angry about software?\nWhen I started writing, it came from a place of ennui — absolute despair at the amount of waste I was seeing in the technology sector since leaving university. I was paid spectacularly well, but nothing I produced had any value. No one I knew in the corporate world was producing any value, save for those who were completely deluding themselves. Even the most talented people spent all of their time trying (and failing) to stop uncaring amateurs and empty suits from blowing millions on nonsense.\nTwo years later, after much writing and agonizing, I've quit my job to start my own consultancy. Whether it works or not surprisingly doesn't bother me at all — I know the risks I am taking. Money comes, money goes, at least I'm not storming the beaches o…",
+          "link": "https://ludic.mataroa.blog/blog/why-i-will-always-be-angry-about-software-engineering/",
+          "publishedOn": "2024-11-12T00:00:00.000Z",
+          "wordCount": 5224,
+          "title": "Why I Will Always Be Angry About Software Engineering",
+          "imageUrl": null
+        },
         {
           "id": "https://ludic.mataroa.blog/blog/get-me-out-of-data-hell/",
           "author": null,
