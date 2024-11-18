@@ -657,6 +657,16 @@
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
         {
+          "id": "https://text-mode.tumblr.com/post/767423255867949056",
+          "author": null,
+          "description": "text-mode:\nASCII-WM 2006 was a live ASCII-broadcast of the world cup in soccer. It was accessed about 15 million times - only via telnet. Apart from converting video to ASCII, it used the live commentary from Austrian TV, translated it to English with Babelfish, and put it in the stream.\nThe final matches were broadcast on local TV in Vienna with a speech synthesis reading the babelfishy commentary (see bottom image).\nAll pics via ascii-wm.net",
+          "link": "https://text-mode.tumblr.com/post/767423255867949056",
+          "publishedOn": "2024-11-17T19:30:48.000Z",
+          "wordCount": 1114,
+          "title": "text-mode:\n\nASCII-WM 2006 was a live ASCII-broadcast of the...",
+          "imageUrl": "https://64.media.tumblr.com/8c93a7a52f6936fb2817834c759c4072/tumblr_mtfvt4aHep1rpiyaso6_500.png"
+        },
+        {
           "id": "https://text-mode.tumblr.com/post/767332660673658880",
           "author": null,
           "description": "text-mode:\nCharley Harper’s needlepoint painted canvases",
@@ -1245,16 +1255,6 @@
           "wordCount": 986,
           "title": "text-mode:\n\nA Minitel prototype presented in 1979, via.",
           "imageUrl": "https://64.media.tumblr.com/00f7f9ad544d3a9f1c4a3bcf6b491415/tumblr_ms396xBzDD1rpiyaso1_640.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/761983673425952768",
-          "author": null,
-          "description": "text-mode:\nBy a_ndros, in a similar style to ONull.",
-          "link": "https://text-mode.tumblr.com/post/761983673425952768",
-          "publishedOn": "2024-09-18T18:30:58.000Z",
-          "wordCount": 981,
-          "title": "text-mode:\n\nBy a_ndros, in a similar style to ONull.",
-          "imageUrl": "https://64.media.tumblr.com/a02e2c890c9049032999d9bcadefccb2/tumblr_mo33bgsfQa1rpiyaso1_640.jpg"
         }
       ]
     },
@@ -1572,6 +1572,76 @@
       "feedUrl": "https://www.joshwcomeau.com/rss.xml",
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
+        {
+          "id": "https://www.joshwcomeau.com/animation/pride-flags/",
+          "author": "Josh W. Comeau",
+          "description": "Happy Pride month! In this tutorial, I'll share a handful of my favourite animation tricks. You'll learn how to build an animated wavy pride flag using CSS keyframes and linear gradients. We'll also see how to make it dynamic using React. 🏳️‍🌈",
+          "link": "https://www.joshwcomeau.com/animation/pride-flags/",
+          "publishedOn": "2024-11-17T16:13:53.000Z",
+          "wordCount": 8560,
+          "title": "Animated Pride Flags",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-pride-flags.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/css/designing-shadows/",
+          "author": "Josh W. Comeau",
+          "description": "When I look around the web, most of the shadows I see are fuzzy grey boxes. It doesn't have to be this way, though! CSS gives us the tools to create rich, lush, lifelike shadows. In this tutorial, I'll show you how.",
+          "link": "https://www.joshwcomeau.com/css/designing-shadows/",
+          "publishedOn": "2024-11-17T16:13:53.000Z",
+          "wordCount": 9480,
+          "title": "Designing Beautiful Shadows in CSS",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-designing-shadows.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/react/demystifying-styled-components/",
+          "author": "Josh W. Comeau",
+          "description": "For so many React devs, styled-components seems kinda magical. It isn't at all clear how it uses traditional CSS features under-the-hood, and that lack of clarity can cause real problems when things go awry. In this post, we'll learn exactly how styled-components works by building our own mini-version.",
+          "link": "https://www.joshwcomeau.com/react/demystifying-styled-components/",
+          "publishedOn": "2024-11-17T16:13:53.000Z",
+          "wordCount": 10826,
+          "title": "Demystifying styled-components",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-demystifying-styled-components.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/react/boop/",
+          "author": "Josh W. Comeau",
+          "description": "An in-depth tutorial that teaches how to create one of the most adorable interactions I've ever created. We'll learn how to use React components and hooks to abstract behaviours, and see how to design the perfect API. Even if you're not into animations, I think you'll find it interesting!",
+          "link": "https://www.joshwcomeau.com/react/boop/",
+          "publishedOn": "2024-11-17T16:13:53.000Z",
+          "wordCount": 12718,
+          "title": "Boop!",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-boop.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/blog/why-my-blog-is-closed-source/",
+          "author": "Josh W. Comeau",
+          "description": "In our community, it's so common for developer projects to be open-source. I'm breaking with this trend for my blog, but I have good reasons! In this article, I'll share my reasoning, as well as a workaround in case you _really_ want to see the source. If you're considering whether a project should be open-source or not, I hope you'll find it valuable.",
+          "link": "https://www.joshwcomeau.com/blog/why-my-blog-is-closed-source/",
+          "publishedOn": "2024-11-17T16:13:53.000Z",
+          "wordCount": 5018,
+          "title": "Why My Blog is Closed-Source",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-why-my-blog-is-closed-source.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/css/css-variables-for-react-devs/",
+          "author": "Josh W. Comeau",
+          "description": "CSS variables are *really* cool, and they're incredibly powerful when it comes to React! This tutorial shows how we can use them with React to create dynamic themes. We'll see how to get the most out of CSS-in-JS tools like styled-components, and how our mental frame around media queries has been wrong all along.",
+          "link": "https://www.joshwcomeau.com/css/css-variables-for-react-devs/",
+          "publishedOn": "2024-11-17T16:13:53.000Z",
+          "wordCount": 8466,
+          "title": "CSS Variables for React Devs",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-css-variables-for-react-devs.png"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/career/remote-work-pt2/",
+          "author": "Josh W. Comeau",
+          "description": "As remote work becomes increasingly popular, I am frequently asked how to get started. This article shares everything I know about landing that first remote gig.",
+          "link": "https://www.joshwcomeau.com/career/remote-work-pt2/",
+          "publishedOn": "2024-11-17T16:13:53.000Z",
+          "wordCount": 8068,
+          "title": "Finding your first remote job",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-remote-work-pt2.png"
+        },
         {
           "id": "https://www.joshwcomeau.com/css/custom-css-reset/",
           "author": "Josh W. Comeau",
@@ -5719,56 +5789,6 @@
           "wordCount": 940,
           "title": "&#8220;The Kidnapping I Can&#8217;t Escape&#8221;",
           "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/09/0045294-serena-rios-mcrae-makes-h",
-          "author": null,
-          "description": "Serena Rios McRae makes hand-carved stamps out of pink erasers and recently stamped all 185 erasers onto one sheet of paper.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/09/0045294-serena-rios-mcrae-makes-h",
-          "publishedOn": "2024-09-18T19:05:35.000Z",
-          "wordCount": 709,
-          "title": "Serena Rios McRae makes hand-carved stamps out of pink erasers and recently...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/09/mickey-17-a-new-film-from-bong-joon-ho",
-          "author": null,
-          "description": "For his first movie since 2019’s Parasite, filmmaker Bong Joon-ho is coming out with a sci-fi dark comedy film called Mickey 17. The trailer is above and the synopsis from Wikipedia is:\nWanting to get out of Earth, Mickey Barnes signs up to be an “expendable”: a disposable employee where after one iteration dies, a new body is regenerated with most of their memories intact. After one of his “multiples”, Mickey 17, unintentionally survived a human expedition to colonize the ice world Niflheim, he goes head-to-head with a new multiple, Mickey 18.\n\n\nMickey 17 will be out in theaters in late January. I found the trailer for this from Aaron Stewart-Ahn, who says:\nDavid Zaslav’s Warner Bros has been trying to bury Bong Joon-ho’s sci-fi follow up to Parasite for over a year now, refused to let it play Cannes, and is now dumping it in January. Rumors are Robert Pattinson’s weirdo performance also bothered them which to me means it must be friggin’ awesome.\n\n\nPer Wikipedia, production wrapped in late 2022 so yeah, it sounds like they didn’t know what to do with it.\nTags: Bong Joon-ho · Mickey 17 · movies · trailers · video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/09/mickey-17-a-new-film-from-bong-joon-ho",
-          "publishedOn": "2024-09-18T16:49:54.000Z",
-          "wordCount": 1276,
-          "title": "Mickey 17, a New Film From Bong Joon-ho",
-          "imageUrl": "https://i.ytimg.com/vi/osYpGSz_0i4/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/09/0045293-the-newest-season-of-the",
-          "author": null,
-          "description": "The newest season of the Slow Burn podcast is about the rise of Fox News. “It’s this rare institution that hasn’t been around for all that long — it launched in 1996 — but has so clearly changed the country and all of us who live here.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/09/0045293-the-newest-season-of-the",
-          "publishedOn": "2024-09-18T16:07:37.000Z",
-          "wordCount": 783,
-          "title": "The newest season of the Slow Burn podcast is about the rise...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/09/0045292-every-webpage-deserves-to",
-          "author": null,
-          "description": "Every webpage deserves to be a place. Matt Webb’s cursor party feature lets web visitors see other people’s cursors on his site. And they can chat with each other and share text highlights. “It should be everywhere. It’s how the web should be.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/09/0045292-every-webpage-deserves-to",
-          "publishedOn": "2024-09-18T15:29:07.000Z",
-          "wordCount": 879,
-          "title": "Every webpage deserves to be a place. Matt Webb&#8217;s cursor party feature...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/09/0045291-huge-study-from-the-econo",
-          "author": null,
-          "description": "Huge study from The Economist about car bloat in the US. “For every life that the heaviest 1% of SUVs and trucks save, there are more than a dozen lives lost in other vehicles.” ‘Safety for me, danger for you’ is an American motto at this point.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/09/0045291-huge-study-from-the-econo",
-          "publishedOn": "2024-09-18T14:43:37.000Z",
-          "wordCount": 2258,
-          "title": "Huge study from The Economist about car bloat in the US. &#8220;For...",
-          "imageUrl": ""
         }
       ]
     },
@@ -5828,16 +5848,6 @@
           "publishedOn": "2024-10-10T00:00:00.000Z",
           "wordCount": 4487,
           "title": "Get Me Out Of Data Hell",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ludic.mataroa.blog/blog/tossed-salads-and-scrumbled-eggs/",
-          "author": null,
-          "description": "With the decision to focus on our consultancy full-time in 2025, my time as an employee draws to a close. My attitude has become that of an entomologist observing a strange insect which can miraculously diagnose issues, but only if the diagnosis is \"you weren't Agile enough\". My rage has quickly morphed into relief because this is, broadly speaking, the competition.\n'A beetle clock?' she said. She had turned away from the glass dome.  \n'Oh, er, yes... The Hershebian lawyer beetle has a very consistent daily routine,' said Jeremy. 'I, er, only keep it for, um, interest.'\nWhile our team is now blessedly free of both the madness of corporate dysfunction and the grotesque world of VC-funded enterprise, we must still interface with such organizations, ideally in as pleasant a manner as is possi…",
-          "link": "https://ludic.mataroa.blog/blog/tossed-salads-and-scrumbled-eggs/",
-          "publishedOn": "2024-09-19T00:00:00.000Z",
-          "wordCount": 10208,
-          "title": "Tossed Salads And Scrumbled Eggs",
           "imageUrl": null
         }
       ]
