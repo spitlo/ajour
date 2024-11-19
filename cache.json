@@ -348,16 +348,6 @@
           "wordCount": 209,
           "title": "Physics Lab Thermostat",
           "imageUrl": "https://imgs.xkcd.com/comics/physics_lab_thermostat_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2988/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/maslows_pyramid.png\" title=\"The local police, building inspector, and fire marshal are all contesting my 'safety' assertion, or would be if they could reach me past all the traps.\" alt=\"The local police, building inspector, and fire marshal are all contesting my 'safety' assertion, or would be if they could reach me past all the traps.\" />",
-          "link": "https://xkcd.com/2988/",
-          "publishedOn": "2024-09-20T00:00:00.000Z",
-          "wordCount": 207,
-          "title": "Maslow's Pyramid",
-          "imageUrl": "https://imgs.xkcd.com/comics/maslows_pyramid_2x.png"
         }
       ]
     },
@@ -656,6 +646,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/767513911812636672",
+          "author": null,
+          "description": "text-mode:\nDisk directory of the C64 demo Tiki Pahu! [2013] by Genesis Project",
+          "link": "https://text-mode.tumblr.com/post/767513911812636672",
+          "publishedOn": "2024-11-18T19:31:45.000Z",
+          "wordCount": 929,
+          "title": "text-mode:\n\nDisk directory of the C64 demo Tiki Pahu! [2013] by...",
+          "imageUrl": "https://64.media.tumblr.com/3e0a27cd1c4e255830c4e499c5c25562/tumblr_mv6681gLqF1rpiyaso1_400.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/767423255867949056",
           "author": null,
@@ -1245,16 +1245,6 @@
           "wordCount": 947,
           "title": "text-mode:\n\nOracle Teletext (1983)",
           "imageUrl": "https://64.media.tumblr.com/b3fda51b1272d8f6d7fa88a74dbcd72d/tumblr_ms3a6ogxz91rpiyaso1_640.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/762074253250183168",
-          "author": null,
-          "description": "text-mode:\nA Minitel prototype presented in 1979, via.",
-          "link": "https://text-mode.tumblr.com/post/762074253250183168",
-          "publishedOn": "2024-09-19T18:30:42.000Z",
-          "wordCount": 986,
-          "title": "text-mode:\n\nA Minitel prototype presented in 1979, via.",
-          "imageUrl": "https://64.media.tumblr.com/00f7f9ad544d3a9f1c4a3bcf6b491415/tumblr_ms396xBzDD1rpiyaso1_640.jpg"
         }
       ]
     },
@@ -1263,6 +1253,26 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=77332",
+          "author": "Mozilla",
+          "description": "What was browsing the web like in 2004? People said things like “surfing the internet,” for starters. Excessive pop-up ads were annoying but they felt like the norm. The search bar and multiple tabs did not exist, and there seemed to be only one browser in sight. That is, until Firefox 1.0 arrived and gave […]\nThe post 20 years of Firefox: How a community project changed the web appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/products/firefox/firefox-milestones/",
+          "publishedOn": "2024-11-18T23:40:03.000Z",
+          "wordCount": 2461,
+          "title": "20 years of Firefox: How a community project changed the web",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2024/11/Firefox-anniversary-banner-1-purple-backfrop-1081x720.png"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=77477",
+          "author": "Ayah Bdeir, Camille François and Ludovic Peran",
+          "description": "On the official ”road to the French Government’s AI Action Summit,” Mozilla and Columbia University’s Institute of Global Politics are bringing together AI experts and practitioners to advance AI safety approaches that embody the values of open source. On Tuesday in San Francisco, Mozilla and Columbia University’s Institute of Global Politics will hold the Columbia […]\nThe post Charging ahead on AI openness and safety appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/ai-openness-safety/",
+          "publishedOn": "2024-11-18T17:54:56.000Z",
+          "wordCount": 2082,
+          "title": "Charging ahead on AI openness and safety",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2024/11/columbia-convening-nov-2024-1080x720.png"
+        },
         {
           "id": "https://blog.mozilla.org/?p=77430",
           "author": "Kristina Bravo",
@@ -1505,6 +1515,16 @@
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
+        {
+          "id": "https://jvns.ca/blog/2024/11/18/how-to-import-a-javascript-library/",
+          "author": null,
+          "description": "I like writing Javascript without a build system\nand for the millionth time yesterday I ran into a problem where I needed to\nfigure out how to import a Javascript library in my code without using a build\nsystem, and it took FOREVER to figure out how to import it because the\nlibrary’s setup instructions assume that you’re using a build system.\nLuckily at this point I’ve mostly learned how to navigate this situation and\neither successfully use the library or decide it’s too difficult and switch to\na different library, so here’s the guide I wish I had to importing Javascript\nlibraries years ago.\nI’m only going to talk about using Javacript libraries on the frontend, and\nonly about how to use them in a no-build-system setup.\nIn this post I’m going to talk about:\nthe three main types of Javascr…",
+          "link": "https://jvns.ca/blog/2024/11/18/how-to-import-a-javascript-library/",
+          "publishedOn": "2024-11-18T09:35:42.000Z",
+          "wordCount": 2714,
+          "title": "Importing a frontend Javascript library without a build system",
+          "imageUrl": null
+        },
         {
           "id": "https://jvns.ca/blog/2024/11/09/new-microblog/",
           "author": null,
@@ -1785,6 +1805,21 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=9802",
+          "author": "Cory Doctorow",
+          "description": "Today's links Harpercollins wants authors to sign away AI training rights: Rights come from power. Hey look at this: Delights to delectate. This day in history: 2004, 2009, 2014, 2019, 2023 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Harpercollins wants authors to sign away AI training rights (permalink) Rights don't give you power. People with power can claim rights. Giving a \"right\" to someone powerless just transfers it to someone more powerful than them. Nowhere is this more visible than in copyright fights, where creative workers are given new rights that are immediately hoovered up by their bosses. It's not clear whethe…",
+          "link": "https://pluralistic.net/2024/11/18/rights-without-power/",
+          "publishedOn": "2024-11-18T08:49:52.000Z",
+          "wordCount": 3985,
+          "title": "Pluralistic: Harpercollins wants authors to sign away AI training rights (18 Nov 2024)",
+          "enclosure": {
+            "url": "https://random.waxy.org/video/grey_video.mov",
+            "length": "23228463",
+            "type": "video/quicktime"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=9788",
           "author": "Cory Doctorow",
@@ -2199,16 +2234,6 @@
           "wordCount": 4447,
           "title": "Pluralistic: Tech monopolists use their market power to invade your privacy (20 Sep 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=9414",
-          "author": "Cory Doctorow",
-          "description": "Today's links Thinking the unthinkable: At a certain point, we have to admit that the correct amount of radium in your suppository is zero. Hey look at this: Delights to delectate. This day in history: 2004, 2014, 2023 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Thinking the unthinkable (permalink) Time and again, I find myself thinking about radium suppositories: specifically, I get to thinking about the day that the consensus shifted from \"radium suppositories are great\" to \"stop putting radioisotopes up your ass.\" The thing is, people really liked radium-based quack remedies. They drank radium-infused water, smeared radium…",
-          "link": "https://pluralistic.net/2024/09/19/just-stop-putting-that-up-your-ass/",
-          "publishedOn": "2024-09-19T14:32:22.000Z",
-          "wordCount": 2882,
-          "title": "Pluralistic: Thinking the unthinkable (19 Sep 2024)",
-          "imageUrl": null
         }
       ]
     },
@@ -2250,6 +2275,126 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/11/0045620-christian-right-lobbies-t",
+          "author": null,
+          "description": "Christian Right Lobbies To Overturn Second Law Of Thermodynamics. “What do these scientists want us teaching our children? That the universe will continue to expand until it reaches eventual heat death?”",
+          "link": "https://kottke.org/24/11/0045620-christian-right-lobbies-t",
+          "publishedOn": "2024-11-18T22:47:11.000Z",
+          "wordCount": 632,
+          "title": "Christian Right Lobbies To Overturn Second Law Of Thermodynamics. &#8220;What do these...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/11/0045662-the-trailer-for-mission-i",
+          "author": null,
+          "description": "The trailer for Mission: Impossible – The Final Reckoning. Tom Cruise…still running. I can’t wait to see what he falls off of, clings to, leaps onto, or is thrown from this time!\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/11/0045662-the-trailer-for-mission-i",
+          "publishedOn": "2024-11-18T21:42:35.000Z",
+          "wordCount": 737,
+          "title": "The trailer for Mission: Impossible – The Final Reckoning. Tom Cruise&#8230;still running....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/11/less-uniform-social-media-experiences",
+          "author": null,
+          "description": "In the MIT Technology Review, Mat Honan makes two points about changes in the world of social media with both Bluesky and Threads seeing massive growth in November accelerated by the election and people leaving Twitter. The era of everyone having a uniform social media experience is ending. And that’s good.\nThe first is that tech and politics are just entirely enmeshed at this point. That’s due to the extreme extent to which tech has captured culture and the economy. Everything is a tech story now, including and especially politics. \nThe second point is about what I see as a more long-term shift away from centralization. What’s more interesting to me than people fleeing a service because they don’t like its politics is the emergence of unique experiences and cultures across all three of these services, as well as other, smaller competitors.\n\n\nI loved Twitter early on when it felt like everyone was building their own communities, and then it stopped feeling like that, and then it got worse and worse. For the most part, it seems like my better friends from Twitter went to Threads, but I can’t really figure out the vibe over there, which is annoying because I’m too old to make new friends. I’m on Bluesky and like it very much. One of the more helpful features is letting individual users create their own Starter Packs, so if you want to, for example follow a community of Carly Rae Jepsen fans, you can do that really easily because I made a starter pack for you.\nTags: Bluesky · Mat Honan · social media · Twitter\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/11/less-uniform-social-media-experiences",
+          "publishedOn": "2024-11-18T21:00:25.000Z",
+          "wordCount": 1137,
+          "title": "Less Uniform Social Media Experiences",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/11/0045663-90-seconds-of-miss-piggy",
+          "author": null,
+          "description": "90 seconds of Miss Piggy absolutely roasting Martha Stewart. “Oh, how obsessive!”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/11/0045663-90-seconds-of-miss-piggy",
+          "publishedOn": "2024-11-18T20:11:54.000Z",
+          "wordCount": 653,
+          "title": "90 seconds of Miss Piggy absolutely roasting Martha Stewart. &#8220;Oh, how obsessive!&#8221;...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/11/0045664-if-you-need-a-refresher",
+          "author": null,
+          "description": "If you need a refresher, here’s the official 2-minute recap of Severance season one from Apple TV+.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/11/0045664-if-you-need-a-refresher",
+          "publishedOn": "2024-11-18T19:29:09.000Z",
+          "wordCount": 710,
+          "title": "If you need a refresher, here&#8217;s the official 2-minute recap of Severance...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/11/what-is-the-most-surprising-predator-prey-relationship",
+          "author": null,
+          "description": "OK, I see you have your hand up with an answer, but I’m going to take this one, alright? Killer whales hunt moose. Right? That’s the most surprising. \nIt is not terribly common, but in the Pacific Northwest, habitats of two of the more massive mammals intersect. Moose will swim to look for food or escape other predators and orcas will eat anything once, just like Jason. For more on the reasons orcas sometime eat moose, we turn now to noted naturalist publication, Forbes.\nOne documented incident occurred in 1992 in Alaska, when a hungry pod of four Biggs’ killer whales attacked a pair of swimming moose. They feasted on the larger of the two. The smaller one escaped the feeding frenzy, but it was wounded so badly that it was unable to keep swimming and drowned a little later.\n\n\nSo are killer whales, with their jerky tendencies and habit of toying with prey the bluejay of the sea? I say no. Bluejays have no redeeming qualities and orcas sink yachts for fun, anecdotally save humans from sharks, rescue trapped whales, and wash the dishes after dinner. I made up that last one, no clue if they do the dishes at not. I know for sure bluejays don’t, the bullies.\nTags: moose · nature · whales\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/11/what-is-the-most-surprising-predator-prey-relationship",
+          "publishedOn": "2024-11-18T18:40:35.000Z",
+          "wordCount": 1254,
+          "title": "What Is The Most Surprising Predator Prey Relationship?",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/11/0045655-in-2018-nerds-products-br",
+          "author": null,
+          "description": "“In 2018, Nerds products brought in $40 million in sales. In the past calendar year, the company said, that number jumped to $800 million.” NERDS Gummy Clusters are good as hell and everyone’s talking about them.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/11/0045655-in-2018-nerds-products-br",
+          "publishedOn": "2024-11-18T17:38:27.000Z",
+          "wordCount": 1356,
+          "title": "&#8220;In 2018, Nerds products brought in $40 million in sales. In the...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/11/0045661-roxane-gay-to-suggest-we",
+          "author": null,
+          "description": "Roxane Gay: “To suggest we should yield even a little to Mr. Trump’s odious politics, to suggest we should compromise on the rights of trans people, for instance, […] is unacceptable. It is shameful and cowardly.” Yes, yes, yes, 1000% this.",
+          "link": "https://kottke.org/24/11/0045661-roxane-gay-to-suggest-we",
+          "publishedOn": "2024-11-18T16:52:02.000Z",
+          "wordCount": 621,
+          "title": "Roxane Gay: &#8220;To suggest we should yield even a little to Mr....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/11/trumps-historically-small-victory",
+          "author": null,
+          "description": "I honestly did not read most of this article, but I wanted to draw your attention to some facts about the recent presidential election that you might find surprising:\nWhile Mr. Trump won the popular vote for the first time in three tries, he garnered just 50.1 percent nationally, according to the latest tabulation by The Times, just 1.8 percentage points ahead of Vice President Kamala Harris. When the slow-counting blue giant of California finally finishes tallying its votes, that margin is likely to shrink a bit more. The Cook Report already calculates that his percentage has fallen below 50 percent, meaning he did not win a majority.\nWherever it eventually falls, Mr. Trump’s margin of victory in the national popular vote will be one of the smallest in history. Since 1888, only two other …",
+          "link": "https://kottke.org/24/11/trumps-historically-small-victory",
+          "publishedOn": "2024-11-18T16:11:57.000Z",
+          "wordCount": 925,
+          "title": "Trump&#8217;s Historically Small Victory",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/11/this-week",
+          "author": null,
+          "description": "Hello there everybody. I’m working on some programming stuff to enable some future new features for the site this week, so I’m going to be around a little less than usual. My pal Aaron Cohen (previously) is going to be here to fill in some of the gaps, so be on the lookout for that. 👯‍♂️\nIn the meantime, what was one small thing you did this weekend that made you or someone else smile, laugh, relax, or feel satisfied? After a productive day yesterday, I treated myself to the first episode of the new season of Silo, read Craig Mod’s Things Become Other Things for 30 minutes, and listened to James by Percival Everett on audiobook for 20 minutes.\nTags: Aaron Cohen · kottke.org\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/11/this-week",
+          "publishedOn": "2024-11-18T15:12:20.000Z",
+          "wordCount": 2862,
+          "title": "This Week",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/11/0045650-you-might-be-able-to",
+          "author": null,
+          "description": "You might be able to fit an entire orange in your mouth. But can you get it out again? “Temporarily blind and gasping in my own private world of consequences, I was unaware of the cone of devastation that I had unleashed…”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/11/0045650-you-might-be-able-to",
+          "publishedOn": "2024-11-18T14:42:31.000Z",
+          "wordCount": 806,
+          "title": "You might be able to fit an entire orange in your mouth....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/11/downhill-skateboarding",
+          "author": null,
+          "description": "On these downhill skateboarding things, I’m always wondering why there aren’t any cars, but uh, there are cars in this one. Josh Neuman skateboarding down a mountain road while cars come up makes me real nervous! He almost skates into a barrier at 2:07, and towards the end there’s a biker riding up the hill going very slow showing how steep this is. I don’t know. It’s too fast I think. Love to see someone as good at their job as this guy.\n\nTags: Josh Neuman · skateboarding\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/11/downhill-skateboarding",
+          "publishedOn": "2024-11-17T16:00:04.000Z",
+          "wordCount": 975,
+          "title": "Downhill Skateboarding",
+          "imageUrl": "https://i.ytimg.com/vi/yn-TfAzobDI/sddefault.jpg"
+        },
         {
           "id": "https://kottke.org/24/11/0045654-haymarket-books-is-giving",
           "author": null,
@@ -5698,96 +5843,6 @@
           "publishedOn": "2024-09-20T15:01:10.000Z",
           "wordCount": 690,
           "title": "The Breakthrough That Could Unlock Ocean Carbon Removal. &#8220;How Equatic solved seawater&#8217;s...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/09/a-tour-of-antarctica-by-drone",
-          "author": null,
-          "description": "This 8-minute video of a drone’s eye tour of the coast of Antarctica is just flat-out gorgeous.\n\n[This is a vintage post originally from Apr 2015.]\nTags: Antarctica · timeless posts · video",
-          "link": "https://kottke.org/24/09/a-tour-of-antarctica-by-drone",
-          "publishedOn": "2024-09-19T21:14:02.000Z",
-          "wordCount": 562,
-          "title": "A Tour of Antarctica by Drone",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/09/0045305-visualizing-ship-movement",
-          "author": null,
-          "description": "Visualizing Ship Movements with AIS Data. “Explore the beautiful, intricate paths of ships over a year — tracked from America’s busiest ports to the open ocean via AIS marine tracking data.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/09/0045305-visualizing-ship-movement",
-          "publishedOn": "2024-09-19T19:49:28.000Z",
-          "wordCount": 715,
-          "title": "Visualizing Ship Movements with AIS Data. &#8220;Explore the beautiful, intricate paths of...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/09/0045300-a-famous-lecture-given-in",
-          "author": null,
-          "description": "A famous lecture given in 1982 by computer science pioneer Grace Hopper, “Future Possibilities: Data, Hardware, Software, and People”, has long been publicly unavailable but is now on YouTube.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/09/0045300-a-famous-lecture-given-in",
-          "publishedOn": "2024-09-19T19:08:38.000Z",
-          "wordCount": 753,
-          "title": "A famous lecture given in 1982 by computer science pioneer Grace Hopper,...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/09/0045296-horndog-a-rotating-hot-do",
-          "author": null,
-          "description": "Horndog, a rotating hot dog robot that scrolls photos of bread on “Instagrain”. It’s art!\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/09/0045296-horndog-a-rotating-hot-do",
-          "publishedOn": "2024-09-19T18:29:19.000Z",
-          "wordCount": 653,
-          "title": "Horndog, a rotating hot dog robot that scrolls photos of bread on...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/09/double-trio",
-          "author": null,
-          "description": "I love these covers designed by Rodrigo Corral for Nathaniel Mackey’s poetry collection Double Trio. You will likely recognize some of the other covers designed by Corral over the years.\nTags: book covers · books · design · Double Trio · Nathaniel Mackey · poetry · Rodrigo Corral\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/09/double-trio",
-          "publishedOn": "2024-09-19T17:39:09.000Z",
-          "wordCount": 666,
-          "title": "Double Trio",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/double-trio-cover.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/09/0045301-monopoly-but-communist-no",
-          "author": null,
-          "description": "Monopoly, But COMMUNIST? No Rolls Barred, a YouTube Channel about board games, has a series of videos featuring Monopoly but with different rules.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/09/0045301-monopoly-but-communist-no",
-          "publishedOn": "2024-09-19T16:42:08.000Z",
-          "wordCount": 716,
-          "title": "Monopoly, But COMMUNIST? No Rolls Barred, a YouTube Channel about board games,...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/09/0045303-ian-bogost-on-the-death",
-          "author": null,
-          "description": "Ian Bogost on the death of the “perfect vehicle”, the minivan. “It is useful because it offers benefits for families, and it is uncool because family life is thought to be imprisoning.” Conversely, SUVs & trucks offer a sense of freedom.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/09/0045303-ian-bogost-on-the-death",
-          "publishedOn": "2024-09-19T15:29:38.000Z",
-          "wordCount": 1683,
-          "title": "Ian Bogost on the death of the &#8220;perfect vehicle&#8221;, the minivan. &#8220;It...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/09/0045297-oh-hey-a-new-book",
-          "author": null,
-          "description": "Oh hey, a new book from Oliver Burkeman coming out soon: Meditations for Mortals: Four Weeks to Embrace Your Limitations and Make Time for What Counts.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/09/0045297-oh-hey-a-new-book",
-          "publishedOn": "2024-09-19T14:43:57.000Z",
-          "wordCount": 687,
-          "title": "Oh hey, a new book from Oliver Burkeman coming out soon: Meditations...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/09/the-kidnapping-i-cant-escape",
-          "author": null,
-          "description": "From earlier this summer, The Kidnapping I Can’t Escape is a great piece by Taffy Brodesser-Akner about the real-life kidnapping that inspired her recent novel, Long Island Compromise.\nJack was home safe. He had survived his kidnapping. But the actual kidnapping is not what this story is about, if you can believe it. It’s about surviving what you survived, which is also known as the rest of your life.\n\n\nIt’s also about, spoiler alert, trauma.\nTolstoy tells us that all happy families are alike and that each unhappy family is unhappy in its own way. A few years ago, I wrote a different novel, my first novel, about divorce, which was inspired in part by the divorce stories of several people I know, and I came to the conclusion that, actually, all divorces are exactly alike. I tell you this because I’ve now come to understand the same thing about trauma: Happy, well-adjusted people are all different. The traumatized are exactly alike. I’m about to tell you a story that is nothing like a violent kidnapping — almost laughably so — but what I’ve learned over the years is that trauma is trauma. Something terrible happens, beyond what is in our own personal capacity to cope with, and the details don’t matter as much as the state we’re thrown into. Our bodies and brains have not evolved to reliably differentiate a rape at knife point from a job loss that threatens us with financial ruin or from the dismantling of our world by our parents’ divorce. It’s wrong, but explain that to your poor, battered autonomic nervous system.\n\n\nLike I said, it’s a great piece and you should read the whole thing. The piece is also available, with some additional author commentary, on this episode of The Daily podcast.\nTags: books · crime · kidnapping · Long Island Compromise · Taffy Brodesser-Akner\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/09/the-kidnapping-i-cant-escape",
-          "publishedOn": "2024-09-19T14:03:24.000Z",
-          "wordCount": 940,
-          "title": "&#8220;The Kidnapping I Can&#8217;t Escape&#8221;",
           "imageUrl": ""
         }
       ]
