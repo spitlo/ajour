@@ -100,7 +100,18 @@
       "title": "there.oughta.be/",
       "feedUrl": "https://there.oughta.be/feed.xml",
       "siteUrl": "https://there.oughta.be/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://there.oughta.be/a/bluetooth-remote",
+          "author": null,
+          "description": "Do you own a Sony camera? Then you probably know the pain of trying to use a phone to remotely trigger the camera. I gave up on using Wifi and the official Play Memories app for that. …or Imaging Edge or whatever it is called now. For quite a while I have been carrying a primitive IR remote, when I learned that my α6400 actually can be controlled via Bluetooth. So, I created the app that I wished Sony would provide. Of course it’s free and open source. Click the image to see the video on youtube.com. The video is mostly about my process of going through all the options to remotely trigger my camera and, yes, I took this as an excuse to create my first “Top 5” listicle. It is a good starting point if you want to know what problem this app solves and if it is for you. This article here will go into more detail of how the app works, how to control the camera via Python, what the app can do, what it cannot do and how to automate the app from other apps like Tasker.",
+          "link": "https://there.oughta.be/a/bluetooth-remote",
+          "publishedOn": "2024-12-06T23:00:00.000Z",
+          "wordCount": 5256,
+          "title": "There oughta be a Bluetooth Remote app for Sony cameras.",
+          "imageUrl": "https://there.oughta.be/assets/images/2024-12-07/youtube.jpg"
+        }
+      ]
     },
     {
       "title": "Grumpy Gamer",
@@ -368,16 +379,6 @@
           "wordCount": 207,
           "title": "Solar Protons",
           "imageUrl": "https://imgs.xkcd.com/comics/solar_protons_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2996/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/cidabm.png\" title=\"There's a heated debate over whether the big island of Tierra del Fuego should qualify for membership.\" alt=\"There's a heated debate over whether the big island of Tierra del Fuego should qualify for membership.\" />",
-          "link": "https://xkcd.com/2996/",
-          "publishedOn": "2024-10-09T00:00:00.000Z",
-          "wordCount": 205,
-          "title": "CIDABM",
-          "imageUrl": "https://imgs.xkcd.com/comics/cidabm_2x.png"
         }
       ]
     },
@@ -675,6 +676,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/769235205499305985",
+          "author": null,
+          "description": "text-mode:\nCorrupted C64 BBS-graphics from Antidote 2004.",
+          "link": "https://text-mode.tumblr.com/post/769235205499305985",
+          "publishedOn": "2024-12-07T19:30:58.000Z",
+          "wordCount": 968,
+          "title": "text-mode:\n\nCorrupted C64 BBS-graphics from Antidote 2004.",
+          "imageUrl": "https://64.media.tumblr.com/3caae834535846b128a44f20ab77bdf3/tumblr_mv6vv3KHBj1rpiyaso1_640.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/769144627080101888",
           "author": null,
@@ -1264,16 +1275,6 @@
           "wordCount": 999,
           "title": "text-mode:\n\nBy CTRL+C & CTRL+V (2007)",
           "imageUrl": "https://64.media.tumblr.com/3b4fd74c360800af2d8329641ada4093/tumblr_mx2wdkGJZc1rpiyaso1_540.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/763795611366588416",
-          "author": null,
-          "description": "text-mode:\nHot spring",
-          "link": "https://text-mode.tumblr.com/post/763795611366588416",
-          "publishedOn": "2024-10-08T18:30:57.000Z",
-          "wordCount": 986,
-          "title": "text-mode:\n\nHot spring",
-          "imageUrl": "https://64.media.tumblr.com/1ac320cc351fa01fa012e164a069c2ef/tumblr_mx2qup8z9w1rpiyaso1_640.png"
         }
       ]
     },
@@ -1481,46 +1482,6 @@
           "wordCount": 1534,
           "title": "It’s Halloween — pick your spooky Firefox disguise",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2024/10/fx_desktop_hllwn_firefox-witch-1080x720.png"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=76169",
-          "author": "Jesus J. Montero",
-          "description": "Jesus J. Montero is an award-winning journalist and passionate storyteller. He’s known for his investigative work covering social justice, music and culture. Jesus J. is also a producer, curating dynamic experiences that highlight culture through storytelling and dialogue. You can follow him on Instagram at @JesusJMontero. Photo: Olivia Gatti Danielle Moore is a woman on […]\nThe post Semicolon Books: A haven of independence and empowerment in Chicago appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/chicago-semicolon-books-danielle-moore/",
-          "publishedOn": "2024-10-08T13:04:40.000Z",
-          "wordCount": 2136,
-          "title": "Semicolon Books: A haven of independence and empowerment in Chicago",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2024/10/FireFox-SemiColon-Jesus-J-Montero-_21-1280x853.jpg"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=76108",
-          "author": "Jesus J. Montero",
-          "description": "Jesus J. Montero is an award-winning journalist and passionate storyteller. He’s known for his investigative work covering social justice, music and culture. Jesus J. is also a producer, curating dynamic experiences that highlight culture through storytelling and dialogue. You can follow him on Instagram at @JesusJMontero. Photo: Olivia Gatti Freedom and legacy go hand in […]\nThe post The Pop-Up: A homegrown space for Chicago’s creatives appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/chicago-the-pop-up/",
-          "publishedOn": "2024-10-08T13:04:35.000Z",
-          "wordCount": 2031,
-          "title": "The Pop-Up: A homegrown space for Chicago’s creatives",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2024/10/FireFox-POP-UP-Jesus-J-Montero-_22-9.10.08 PM-1280x853.jpg"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=76056",
-          "author": "Jesus J. Montero",
-          "description": "Jesus J. Montero is an award-winning journalist and passionate storyteller. He’s known for his investigative work covering social justice, music and culture. Jesus J. is also a producer, curating dynamic experiences that highlight culture through storytelling and dialogue. You can follow him on Instagram at @JesusJMontero. Photo: Olivia Gatti Community is power. That’s the driving […]\nThe post DishRoulette Kitchen: Empowering Chicago’s entrepreneurs for generational change appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/chicago-dishroulette-kitchen/",
-          "publishedOn": "2024-10-08T13:04:29.000Z",
-          "wordCount": 2115,
-          "title": "DishRoulette Kitchen: Empowering Chicago’s entrepreneurs for generational change",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2024/10/FireFox-DRK-Jesus-J-Montero-_12-1280x853.jpg"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=76014",
-          "author": "Diyi Zhu",
-          "description": "As a community builder at Mozilla, I’m all about staying connected — whether that’s producing community events to invite more people into our brand, or working directly with people to make sure our products are actually helping those who need them most. Recently, I had the chance to sit down with three amazing small business […]\nThe post Local roots, digital connections: How Chicago’s small businesses are building with Solo appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/chicago-small-businesses-solo-ai/",
-          "publishedOn": "2024-10-08T13:04:23.000Z",
-          "wordCount": 2030,
-          "title": "Local roots, digital connections: How Chicago’s small businesses are building with Solo",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2024/10/FireFox-POP-UP-Jesus-J-Montero-_10-1280x853.jpg"
         }
       ]
     },
@@ -1759,6 +1720,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=9902",
+          "author": "Cory Doctorow",
+          "description": "Today's links A year in illustration (2024): Call me immodest, but I really think I've upped my game. Hey look at this: Delights to delectate. This day in history: 2009, 2014, 2009, 2023 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. A year in illustration (2024) (permalink) As I go into my fifth year of writing Pluralistic (!), I find myself increasingly reflecting on the unexpected pleasures of creating the collages that head each post. I am by no means a visual artist – my drawing skills are sub-stick-figure, and my spatial sense overall is remarkable terrible. I can't solve jigsaws, I get lost in hotel corridors, and I can't…",
+          "link": "https://pluralistic.net/2024/12/07/great-kepplers-ghost/",
+          "publishedOn": "2024-12-07T21:22:05.000Z",
+          "wordCount": 7253,
+          "title": "Pluralistic: A year in illustration (2024) (07 Dec 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=9893",
           "author": "Cory Doctorow",
@@ -2148,16 +2119,6 @@
           "wordCount": 3496,
           "title": "Pluralistic: Cars bricked by bankrupt EV company will stay bricked (10 Oct 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=9550",
-          "author": "Cory Doctorow",
-          "description": "Today's links Google's new phones can't stop phoning home: The call is coming from inside the house. Hey look at this: Delights to delectate. This day in history: 2004, 2009, 2014, 2019, 2023 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Google's new phones can't stop phoning home (permalink) One of the most brazen lies of Big Tech is that people like commercial surveillance, a fact you can verify for yourself by simply observing how many people end up using products that spy on them. If they didn't like spying, they wouldn't opt into being spied on. This lie has spread to the law enforcement and national security agencies, who…",
-          "link": "https://pluralistic.net/2024/10/08/water-thats-not-wet/",
-          "publishedOn": "2024-10-08T16:39:47.000Z",
-          "wordCount": 3875,
-          "title": "Pluralistic: Google's new phones can't stop phoning home (08 Oct 2024)",
-          "imageUrl": null
         }
       ]
     },
@@ -2189,6 +2150,26 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/24/12/0045805-jia-tolentino-on-the-some",
+          "author": null,
+          "description": "Jia Tolentino on the sometimes celebratory reaction to the death of UnitedHealthcare CEO Brian Thompson and what it says about business & violence in America. “A denied health-insurance claim can instantly bend the trajectory of a life toward bankruptcy and misery and death.”",
+          "link": "https://kottke.org/24/12/0045805-jia-tolentino-on-the-some",
+          "publishedOn": "2024-12-08T00:38:54.000Z",
+          "wordCount": 610,
+          "title": "Jia Tolentino on the sometimes celebratory reaction to the death of UnitedHealthcare...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/24/12/0045804-a-fantastic-interactive-f",
+          "author": null,
+          "description": "A fantastic interactive feature about the newly restored Notre-Dame cathedral. “Each day we have 20 difficulties. But it’s different when you work on a building that has a soul. Beauty makes everything easier.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/24/12/0045804-a-fantastic-interactive-f",
+          "publishedOn": "2024-12-07T23:31:09.000Z",
+          "wordCount": 708,
+          "title": "A fantastic interactive feature about the newly restored Notre-Dame cathedral. &#8220;Each day...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/24/12/0045801-a-bluesky-starter-pack-of",
           "author": null,
@@ -6057,96 +6038,6 @@
           "publishedOn": "2024-10-09T13:34:49.000Z",
           "wordCount": 627,
           "title": "Mainstream journalists are clamoring for Harris to do more interviews, but these...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/10/the-move",
-          "author": null,
-          "description": "I really liked this entertaining short film by Eric Kissack (editor & producer for The Good Place), in which a couple moving into a new apartment together discovers a previously unnoticed feature of their new space, which in turn…well, I don’t want to spoil anything. Just watch it.\nTags: Eric Kissack · this is a metaphor for something · video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/10/the-move",
-          "publishedOn": "2024-10-08T20:54:32.000Z",
-          "wordCount": 706,
-          "title": "The Move",
-          "imageUrl": "https://i.ytimg.com/vi/HGApVXP9cPA/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/10/0045408-a-look-at-mozillas-rebran",
-          "author": null,
-          "description": "A look at Mozilla’s rebrand. “Mozilla’s new logo is a flag symbol built from the Mozilla M that comes to life to reveal the company’s iconic Tyrannosaurus Rex symbol and mascot, originally designed by Shepard Fairey.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/10/0045408-a-look-at-mozillas-rebran",
-          "publishedOn": "2024-10-08T20:08:58.000Z",
-          "wordCount": 892,
-          "title": "A look at Mozilla&#8217;s rebrand. &#8220;Mozilla&#8217;s new logo is a flag symbol...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/10/finalists-for-the-2024-comedy-wildlife-photography-awards",
-          "author": null,
-          "description": "The finalists of the 2024 Comedy Wildlife Photography Awards competition have been announced, so if you need a laugh, here you go.\n\n\n\nThere are so many “tag yourself” moments in these photos. You can check out all of the finalists here and vote for the People’s Choice Award until Oct 31.\nTags: best of · best of 2024 · photography\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/10/finalists-for-the-2024-comedy-wildlife-photography-awards",
-          "publishedOn": "2024-10-08T19:01:18.000Z",
-          "wordCount": 698,
-          "title": "Finalists for the 2024 Comedy Wildlife Photography Awards",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/comedy-wildlife-24-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/10/0045403-from-kenji-lopez-alt-a-li",
-          "author": null,
-          "description": "From Kenji López-Alt, a list of potential red flags that he looks for when deciding to patronize restaurants. “I try to avoid spending my money at establishments where that money may end up in the hands of people who are abusive or exploitative.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/10/0045403-from-kenji-lopez-alt-a-li",
-          "publishedOn": "2024-10-08T18:05:36.000Z",
-          "wordCount": 753,
-          "title": "From Kenji López-Alt, a list of potential red flags that he looks...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/10/0045405-aint-nothing-like-the-rea",
-          "author": null,
-          "description": "Ain’t Nothing Like the Real Thing, an investigation of fake objects. “Value is found through fakeness, not in spite of it, giving the fake object the potential to be even better than the real thing.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/10/0045405-aint-nothing-like-the-rea",
-          "publishedOn": "2024-10-08T17:20:51.000Z",
-          "wordCount": 717,
-          "title": "Ain&#8217;t Nothing Like the Real Thing, an investigation of fake objects. &#8220;Value...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/10/infinite-cosmos-visions-from-the-jw-space-telescope",
-          "author": null,
-          "description": "Out today from National Geographic is Infinite Cosmos, a gorgeous-looking book by Ethan Siegel (intro by Brian Greene). It’s about the history of the JWST, humanity’s biggest ever space telescope, a machine that allows us to peer deeper & clearer into the universe than ever before, and some of the amazing results obtained through its use.\n\nSiegel wrote a piece about the book for Big Think, which includes an excerpt. Gravitational lensing is so cool:\nEven with its unprecedented capabilities, JWST’s views of the universe are still finite and limited. The faintest, most distant objects in the cosmos — including the very first stars of all — remain invisible even in the longest-exposure JWST images acquired to date. The universe itself offers a natural enhancement, however, that can reveal features that would otherwise remain unobservable: gravitational lensing.\nWhenever a large amount of mass gathers together in one location, it bends and distorts the fabric of the surrounding space-time, just as the theory of general relativity dictates. As light from background objects even farther away passes close to or through that region of the universe, it not only gets distorted but also gets magnified and potentially bent, either into multiple images or into a complete or partial ring. The foreground mass behaves as a gravitational lens. The amount of mass and how it’s distributed affect the light passing through it, amplifying the light coming from those background sources.\n\n\n\n\nInfinite Cosmos is available for purchase at Amazon and Bookshop.\nTags: astronomy · books · Ethan Siegel · Infinite Cosmos · James Webb Space Telescope · photography · science · space\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/10/infinite-cosmos-visions-from-the-jw-space-telescope",
-          "publishedOn": "2024-10-08T15:54:15.000Z",
-          "wordCount": 1084,
-          "title": "Infinite Cosmos: Visions From the JW Space Telescope",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/infinite-cosmos-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/10/0045401-report-nbc-is-shelving-se",
-          "author": null,
-          "description": "Report: NBC is shelving Separated (Errol Morris’ documentary on Trump’s inhumane child separation policies) until after the election because they don’t want to offend Trump — they hope he’ll agree to another debate. (Maybe they bought it to shelve it?)\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/10/0045401-report-nbc-is-shelving-se",
-          "publishedOn": "2024-10-08T15:08:40.000Z",
-          "wordCount": 1452,
-          "title": "Report: NBC is shelving Separated (Errol Morris&#8217; documentary on Trump&#8217;s inhumane child...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/10/0045399-nobel-physics-prize-award",
-          "author": null,
-          "description": "Nobel Physics Prize Awarded for Pioneering A.I. Research by 2 Scientists (John Hopfield and Geoffrey Hinton). I’m a little confused why this qualifies for the physics prize? Applied physics I guess?\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/10/0045399-nobel-physics-prize-award",
-          "publishedOn": "2024-10-08T14:27:31.000Z",
-          "wordCount": 1026,
-          "title": "Nobel Physics Prize Awarded for Pioneering A.I. Research by 2 Scientists (John...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/10/0045398-an-exhibition-of-dozens-o",
-          "author": null,
-          "description": "An exhibition of dozens of iconic photographic prints from the 20th century, along with the annotations on the reverse sides including “crop lines, grease pencil markings, date stamps of when the photograph was run, captions used by the newspaper…”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/10/0045398-an-exhibition-of-dozens-o",
-          "publishedOn": "2024-10-08T13:52:34.000Z",
-          "wordCount": 860,
-          "title": "An exhibition of dozens of iconic photographic prints from the 20th century,...",
           "imageUrl": ""
         }
       ]
