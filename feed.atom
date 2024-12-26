@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2024-12-25T00:39:31.311Z</updated>
+    <updated>2024-12-26T00:39:34.806Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[text-mode:
+
+By CTRL+C & CTRL+V (2006)]]></title>
+        <id>https://text-mode.tumblr.com/post/770865967097102336</id>
+        <link href="https://text-mode.tumblr.com/post/770865967097102336"/>
+        <updated>2024-12-25T19:31:14.000Z</updated>
+        <summary type="html"><![CDATA[text-mode:
+By CTRL+C & CTRL+V (2006)]]></summary>
+        <author>
+            <name>TEXT-MODE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Louis Armstrong Reads &#8216;Twas The Night Before Christmas]]></title>
+        <id>https://kottke.org/24/12/louis-armstrong-reads-twas-the-night-before-christmas</id>
+        <link href="https://kottke.org/24/12/louis-armstrong-reads-twas-the-night-before-christmas"/>
+        <updated>2024-12-25T17:27:11.000Z</updated>
+        <summary type="html"><![CDATA[While poking around for Christmas music, I found this little-known recording of Louis Armstrong reading ‘Twas The Night Before Christmas, recorded shortly before he died.
+The poem, first published in 1823, would be Armstrong’s final commercial recording. Armstrong taped it on February 26, 1971, on a reel-to-reel recorder at his home in Queens, New York, during his last spell of good health.
+
+
+Truly one of the great voices of all time.
+Tags: Louis Armstrong · video
+💬 Join the discussion on kottke.org →]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[text-mode:
 
@@ -8123,59 +8152,6 @@ yih6wxrz + yih6wxrz + catbus]]></title>
 yih6wxrz + yih6wxrz + catbus]]></summary>
         <author>
             <name>TEXT-MODE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using less memory to look up IP addresses in Mess With DNS]]></title>
-        <id>https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/</id>
-        <link href="https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/"/>
-        <updated>2024-10-27T07:47:04.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been having problems for the last 3 years or so where Mess With DNS
-periodically runs out of memory and gets OOM killed.
-This hasn’t been a big priority for me: usually it just goes down for a few
-minutes while it restarts, and it only happens once a day at most, so I’ve just
-been ignoring. But last week it started actually causing a problem so I decided
-to look into it.
-This was kind of winding road where I learned a lot so here’s a table of contents:
-there’s about 100MB of memory available
-the problem: OOM killing the backup script
-attempt 1: use SQLite
-
-problem: how to store IPv6 addresses
-problem: it’s 500x slower
-time for EXPLAIN QUERY PLAN
-attempt 2: use a trie
-
-some notes on memory profiling
-attempt 3: make my array use less memory
-
-idea 3.1: deduplicate the Name and Country
-ho…]]></summary>
-        <author>
-            <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[text-mode:
-
-Guns n farts.]]></title>
-        <id>https://text-mode.tumblr.com/post/765426368827850752</id>
-        <link href="https://text-mode.tumblr.com/post/765426368827850752"/>
-        <updated>2024-10-26T18:31:09.000Z</updated>
-        <summary type="html"><![CDATA[text-mode:
-Guns n farts.]]></summary>
-        <author>
-            <name>TEXT-MODE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: Keeping a suspense file gives you superpowers (26 Oct 2024)]]></title>
-        <id>https://pluralistic.net/?p=9656</id>
-        <link href="https://pluralistic.net/2024/10/26/one-weird-trick/"/>
-        <updated>2024-10-26T13:38:35.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Keeping a suspense file gives you superpowers: The single best part of "Getting Things Done." Hey look at this: Delights to delectate. This day in history: 2004, 2009, 2014, 2019, 2023 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Keeping a suspense file gives you superpowers (permalink) Two decades ago, I was part of a group of nerds who got really interested in how each other managed to do what we did. The effort was kicked off by Danny O'Brien, who called it "Lifehacking" and I played a small role in getting that term popularized: https://craphound.com/lifehacksetcon04.txt While we were all devoted to sharing t…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
         </author>
     </entry>
     <entry>
