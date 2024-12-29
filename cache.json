@@ -389,16 +389,6 @@
           "wordCount": 178,
           "title": "Demons",
           "imageUrl": "https://imgs.xkcd.com/comics/demons_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3005/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/disposal.png\" title=\"We were disappointed that the rocket didn't make a THOOOONK noise when it went into the tube, but we're setting up big loudspeakers for future launches to add the sound effect.\" alt=\"We were disappointed that the rocket didn't make a THOOOONK noise when it went into the tube, but we're setting up big loudspeakers for future launches to add the sound effect.\" />",
-          "link": "https://xkcd.com/3005/",
-          "publishedOn": "2024-10-30T00:00:00.000Z",
-          "wordCount": 178,
-          "title": "Disposal",
-          "imageUrl": "https://imgs.xkcd.com/comics/disposal_2x.png"
         }
       ]
     },
@@ -408,6 +398,16 @@
       "siteUrl": "https://remysharp.com",
       "articles": [
         {
+          "id": "starter-villain",
+          "author": null,
+          "description": "Cats…sentient cats.\nA fun, good length book that doesn't take itself too seriously (which, sentient cats is probably the first clue).\nOn reflection (and since the blurb already gives this away), the \"hyperintelligent talking spy cats\" are a core mechanic of the story, I do now wonder why they hadn't turned out to be the super villains? I'm pretty sure the first thing smart cats would do is ship humans off to a petting zoo as soon as they had the kind of skills the cats in this book does…\nMinor plot hole aside, I enjoyed this story. Very light weight on the brain, pretty silly without being utterly stupid, and manages to end up in a sensible place.\nA recommend if you want something to bridge between some heavy reading.",
+          "link": "https://remysharp.com/books/2024/starter-villain",
+          "publishedOn": "2024-12-27T00:00:00.000Z",
+          "wordCount": 619,
+          "title": "Starter Villain [book]",
+          "imageUrl": null
+        },
+        {
           "id": "ffconf-2024",
           "author": null,
           "description": "Our 16th year, 17th outing (it's complicated with doubles for 3 years and skipping the pandemic years…) completed two weeks ago, and it is high time I post my thoughts.\nThere are two parts this post breaks into: the day itself and the amazing talks, and the lead up and its future.",
@@ -416,6 +416,26 @@
           "wordCount": 1661,
           "title": "FFConf 2024 [blog]",
           "imageUrl": "https://remysharp.com/images/ffconf-2024/fam.jpg"
+        },
+        {
+          "id": "the-answer-is-no",
+          "author": null,
+          "description": "Brief, sadly, on all aspects.\nI knew this was a short read, and having come out of Frank Herbert's Dune at almost 900 pages, a nice little chomp down on a Backman book was exactly what I wanted.\nExcept, frustratingly, I ended up feeling a little cheapened by this book. I've loved Backman's other books (that I've read) and it's the dry humour whilst seeing there's caring a love under every grumpy character that makes their books so appealing to me.\nThis short story definitely tries to include that aspect, but the book is so short that it feels more like it's been stuffed full of lovely sentiment to the point where it's feels more trite than anything else.\nI do think it's simply the format that left this story down for me. The sentiment of the actual story is lovely (I appreciate there's no meat to my review here), but it just was blasted out of a cannon rather too quickly for my liking.",
+          "link": "https://remysharp.com/books/2024/the-answer-is-no",
+          "publishedOn": "2024-11-27T00:00:00.000Z",
+          "wordCount": 657,
+          "title": "The Answer Is No [book]",
+          "imageUrl": null
+        },
+        {
+          "id": "dune-dune-chronicles-1",
+          "author": null,
+          "description": "Incredible world building, but I definitely felt the story lost me multiple times.\nI've watched Dune 1 and 2 before having read this book, so I had a distinct advantage that Denis Villeneuve's version was already in my head and gave me an (effective) leg up on the visualisation of the world that Herbert was building.\nGenunienly I found the world building and detail amazing, and even moreso the idea that this book was written in 1965 and that so many people had already fell in love with the book and world. That speaks, I think to the quality of the writing.\nThe story (again with the advantage of having watched the films) for the first half was engaging.\nBut then around the time in the book that wasn't translated to the screen, the scenes in which Jessica is becoming the Grand Mother, and Pa…",
+          "link": "https://remysharp.com/books/2024/dune-dune-chronicles-1",
+          "publishedOn": "2024-11-24T00:00:00.000Z",
+          "wordCount": 890,
+          "title": "Dune (Dune Chronicles, #1) [book]",
+          "imageUrl": null
         },
         {
           "id": "2024-11-05-0827383d",
@@ -705,13 +725,34 @@
       "title": "Lea Verou’s blog",
       "feedUrl": "https://feeds.feedburner.com/leaverou",
       "siteUrl": "https://lea.verou.me/feed.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://lea.verou.me/blog/2024/context-chips/",
+          "author": null,
+          "description": "One would think that we’ve more or less figured survey UI out by now.\nMultiple choice questions, checkbox questions, matrix questions, dropdown questions, freeform textfields, numerical scales,\nwhat more could one possibly need?!\nAnd yet, every time Google sponsored me to lead one of the State Of … surveys, and especially the inaugural State of HTML 2023 Survey,\nI kept hitting the same wall; I kept feeling that the established options for answering UIs were woefully inadequate for\nbalancing the collection good insights with minimal friction for end-users.\nThe State Of surveys used a completely custom survey infrastructure,\nso I could often (but not always) convince engineering to implement new question UIs.\nAfter joining Font Awesome, I somehow found myself leading yet another survey, desp…",
+          "link": "https://lea.verou.me/blog/2024/context-chips/",
+          "publishedOn": "2024-12-27T00:00:00.000Z",
+          "wordCount": 5114,
+          "title": "Context Chips in Survey Design: “Okay, but how does it _feel_?”",
+          "imageUrl": "https://lea.verou.me/blog/2024/context-chips/images/cover.png"
+        }
+      ]
     },
     {
       "title": "TEXT-MODE",
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/771137721696731136",
+          "author": null,
+          "description": "text-mode:\nStoned is the name of a boot sector computer virus created in 1987. When an infected computer started, there was a one in eight probability that the screen would declare:\nYour PC is now Stoned!",
+          "link": "https://text-mode.tumblr.com/post/771137721696731136",
+          "publishedOn": "2024-12-28T19:30:39.000Z",
+          "wordCount": 1066,
+          "title": "text-mode:\n\nStoned is the name of a boot sector computer virus...",
+          "imageUrl": "https://64.media.tumblr.com/48c234d35e8a2a019e72e2ae11685119/tumblr_mumh60Ge8t1rpiyaso1_640.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/771047146885644288",
           "author": null,
@@ -1301,16 +1342,6 @@
           "wordCount": 911,
           "title": "text-mode:\n\nMou-Dounidemonare bear",
           "imageUrl": "https://64.media.tumblr.com/bb0561cede1438e42a3f5f3d192be7e6/tumblr_mx2o888YvZ1rpiyaso1_500.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/765701914780368896",
-          "author": null,
-          "description": "text-mode:\nSmoke King [2013] by Electric",
-          "link": "https://text-mode.tumblr.com/post/765701914780368896",
-          "publishedOn": "2024-10-29T19:30:50.000Z",
-          "wordCount": 984,
-          "title": "text-mode:\n\nSmoke King [2013] by Electric",
-          "imageUrl": "https://64.media.tumblr.com/4b6a3417e33b327a5d9bf945298da600/tumblr_mwaxs8w7fH1rpiyaso1_400.png"
         }
       ]
     },
@@ -2097,31 +2128,6 @@
           "enclosure": {
             "url": "https://web.archive.org/web/20060306155902/http://digital-lifestyles.info/media/audio/2004.10.28-BBC-Creative-Archive-Q&A.mp3",
             "length": "14604643",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=9680",
-          "author": "Cory Doctorow",
-          "description": "Today's links AI's \"human in the loop\" isn't: A moral crumple zone, an accountability sink, but not a supervisor. Hey look at this: Delights to delectate. This day in history: 2004, 2009, 2014, 2019, 2023 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. AI's \"human in the loop\" isn't (permalink) AI's ability to make – or assist with – important decisions is fraught: on the one hand, AI can often classify things very well, at a speed and scale that outstrips the ability of any reasonably resourced group of humans. On the other hand, AI is sometimes very wrong, in ways that can be terribly harmful. Bureaucracies and the AI pitchmen …",
-          "link": "https://pluralistic.net/2024/10/30/a-neck-in-a-noose/",
-          "publishedOn": "2024-10-30T12:43:02.000Z",
-          "wordCount": 3315,
-          "title": "Pluralistic: AI's \"human in the loop\" isn't (30 Oct 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=9676",
-          "author": "Cory Doctorow",
-          "description": "Today's links Conspiratorialism as a material phenomenon: What work does a conspiracy fantasy do? Hey look at this: Delights to delectate. This day in history: 2004, 2009, 2014, 2019 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Conspiratorialism as a material phenomenon (permalink) I think it behooves us to be a little skeptical of stories about AI driving people to believe wrong things and commit ugly actions. Not that I like the AI slop that is filling up our social media, but when we look at the ways that AI is harming us, slop is pretty low on the list. The real AI harms come from the actual things that AI companies sell A…",
-          "link": "https://pluralistic.net/2024/10/29/hobbesian-slop/",
-          "publishedOn": "2024-10-29T19:20:04.000Z",
-          "wordCount": 3963,
-          "title": "Pluralistic: Conspiratorialism as a material phenomenon (29 Oct 2024)",
-          "enclosure": {
-            "url": "https://ia903108.us.archive.org/3/items/Cory_Doctorow_Podcast_314/Cory_Doctorow_Podcast_314_-Affordances.mp3",
-            "length": "50661376",
             "type": "audio/mpeg"
           },
           "imageUrl": null
@@ -5904,96 +5910,6 @@
           "publishedOn": "2024-10-30T15:22:27.000Z",
           "wordCount": 1090,
           "title": "Kelli Anderson details how the clever A-to-Z 7-segment display mechanism works on...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/10/hyperlinks-the-open-web-and-a-membership-appeal",
-          "author": null,
-          "description": "Ok, look. I know there’s a loooot going on these days, particularly in these United States, but I wanted to take a moment to thank everyone who has supported kottke.org over the years with a paying membership. It’s the 8th anniversary of the membership program, and I’ve written many times about what that support means to me and to the site; here’s a snippet:\nPerhaps nearest and dearest to my heart, member support keeps the site free, open, and available to everyone on an internet that is increasingly paywalled. It’s not difficult to imagine an alt-universe kottke.org with ads crammed into every bit of whitespace, email collection forms popping up on every visit, and half the site behind a members-only paywall. No shade to those who have gone that route to keep things running — I’d probably…",
-          "link": "https://kottke.org/24/10/hyperlinks-the-open-web-and-a-membership-appeal",
-          "publishedOn": "2024-10-29T21:14:29.000Z",
-          "wordCount": 1652,
-          "title": "Hyperlinks, the Open Web, and a Membership Appeal",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/kottke-member-neon.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/10/household-surrealism-clothesline-animals",
-          "author": null,
-          "description": "Multidisciplinary artist Helga Stentzel cleverly hangs laundry items on clotheslines to make abstract animal shapes. You can find more of her household surrealism on Instagram. (via colossal)\nTags: art · Helga Stentzel\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/10/household-surrealism-clothesline-animals",
-          "publishedOn": "2024-10-29T20:13:29.000Z",
-          "wordCount": 687,
-          "title": "Household Surrealism: Clothesline Animals",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/clothesline-animals-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/10/0045550-from-2017-i-dont-know",
-          "author": null,
-          "description": "From 2017: I Don’t Know How To Explain To You That You Should Care About Other People. “Our disagreement is not merely political, but a fundamental divide on what it means to live in a society, how to be a good person, and why any of that matters.” 🎯",
-          "link": "https://kottke.org/24/10/0045550-from-2017-i-dont-know",
-          "publishedOn": "2024-10-29T19:03:27.000Z",
-          "wordCount": 633,
-          "title": "From 2017: I Don&#8217;t Know How To Explain To You That You...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/10/0045541-as-a-middle-aged-man-i",
-          "author": null,
-          "description": "As a middle-aged man, I would’ve saved loads on therapy if I’d read Baby-Sitters Club books as a kid. “The social taboo which prevented [boys] from reading fiction marketed at girls was infinitely more powerful than anything censorship achieved.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/10/0045541-as-a-middle-aged-man-i",
-          "publishedOn": "2024-10-29T18:14:42.000Z",
-          "wordCount": 1240,
-          "title": "As a middle-aged man, I would&#8217;ve saved loads on therapy if I&#8217;d...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/10/retro-80s-versions-of-tech-company-logos",
-          "author": null,
-          "description": "Kostya Petrenko makes 80s versions of tech/media company logos as if they’ve been screencapped from CRT displays. I think my favorite of his might be the retro OpenAI logo, which you can see in this reel.\nSee also Medieval Versions of Contemporary Corporate Logos.\nTags: design · Kostya Petrenko · logos · remix\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/10/retro-80s-versions-of-tech-company-logos",
-          "publishedOn": "2024-10-29T17:27:17.000Z",
-          "wordCount": 692,
-          "title": "Retro 80s Versions of Tech Company Logos",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/kostya-petrenko-logos-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/10/0045546-bernie-sanders-answers-th",
-          "author": null,
-          "description": "If you are thinking of protesting by not voting, Bernie Sanders answers this question very well: “I disagree with Kamala’s position on the war in Gaza. How can I vote for her?”",
-          "link": "https://kottke.org/24/10/0045546-bernie-sanders-answers-th",
-          "publishedOn": "2024-10-29T16:40:43.000Z",
-          "wordCount": 604,
-          "title": "If you are thinking of protesting by not voting, Bernie Sanders answers...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/10/0045542-delimar-vera-was-kidnappe",
-          "author": null,
-          "description": "Delimar Vera was kidnapped when she was 10 days old and presumed to have died in a fire. “Then came a chance encounter with her real mother at a birthday party…”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/10/0045542-delimar-vera-was-kidnappe",
-          "publishedOn": "2024-10-29T16:07:13.000Z",
-          "wordCount": 717,
-          "title": "Delimar Vera was kidnapped when she was 10 days old and presumed...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/10/0045535-what-its-like-being-a",
-          "author": null,
-          "description": "What It’s Like Being a Billionaire’s Personal Assistant. “You have to have thick skin. You’re like a rhinoceros or an armadillo. And you have to have incredible patience. You’re working for people who are not used to hearing no.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/10/0045535-what-its-like-being-a",
-          "publishedOn": "2024-10-29T14:27:13.000Z",
-          "wordCount": 706,
-          "title": "What It&#8217;s Like Being a Billionaire&#8217;s Personal Assistant. &#8220;You have to have...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/10/a-vote-for-donald-trump-is-a-vote-for-school-shootings-and-measles",
-          "author": null,
-          "description": "One of the best media endorsements of this election cycle comes from EIC Nilay Patel of The Verge, who absolutely pulls no punches in describing Donald Trump and his by-now very familiar patterns and desires.\nTrump simply cannot use the tools of democracy to run the country on our behalf. His brain does not work that way, even when it appears to be working. He is too selfish, too stupid, too cognitively impaired, too fucked in the head by social media — too whatever. He just can’t do it. He will make our collective action problems worse because he doesn’t even know what kind of problems they are. There is a reason he loves dictators and that all his biggest ideas involve forcing people to do things at the barrel of a gun: mass deportations, arresting his critics, sending the military into …",
-          "link": "https://kottke.org/24/10/a-vote-for-donald-trump-is-a-vote-for-school-shootings-and-measles",
-          "publishedOn": "2024-10-29T13:46:49.000Z",
-          "wordCount": 939,
-          "title": "&#8220;A Vote for Donald Trump Is a Vote for School Shootings and Measles&#8221;",
           "imageUrl": ""
         }
       ]
