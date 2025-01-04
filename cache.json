@@ -6,6 +6,16 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=8322",
+          "author": "Chris Heilmann",
+          "description": "One of the cool features of MacOS’ Finder app is that it does not trim file names that don’t fit the space at the end, but in the middle of the file name. This does make a lot more sense, as it also shows what format the file is. Neither JavaScript nor CSS have a […]",
+          "link": "https://christianheilmann.com/2025/01/03/trimmiddle-the-missing-string-trim-command/",
+          "publishedOn": "2025-01-03T15:21:57.000Z",
+          "wordCount": null,
+          "title": "trimMiddle() – the missing String trim method",
+          "imageUrl": null
+        },
+        {
           "id": "https://christianheilmann.com/?p=8319",
           "author": "Chris Heilmann",
           "description": "X isn’t Twitter. X isn’t even driven by human emotions any longer and is run by a management that doesn’t care about people, emotions or the dangers of propaganda. That’s why a lot of people who made Twitter grow in the beginning – real content creators – now meet on BlueSky. I do, too, but […]",
@@ -140,6 +150,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3033/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/origami_black_hole.png\" title=\"You may notice the first half of these instructions are similar to the instructions for a working nuclear fusion device. After the first few dozen steps, be sure to press down firmly and fold quickly to overcome fusion pressure.\" alt=\"You may notice the first half of these instructions are similar to the instructions for a working nuclear fusion device. After the first few dozen steps, be sure to press down firmly and fold quickly to overcome fusion pressure.\" />",
+          "link": "https://xkcd.com/3033/",
+          "publishedOn": "2025-01-03T00:00:00.000Z",
+          "wordCount": 208,
+          "title": "Origami Black Hole",
+          "imageUrl": "https://imgs.xkcd.com/comics/origami_black_hole_2x.png"
+        },
         {
           "id": "https://xkcd.com/3032/",
           "author": null,
@@ -398,6 +418,16 @@
       "siteUrl": "https://remysharp.com",
       "articles": [
         {
+          "id": "server-isnt-sending-content-length",
+          "author": null,
+          "description": "As part of the ZX Spectrum community I wrote a tool that can download content over HTTP from a ZX Spectrum Next, but one prerequisite is that the content-length header is present (so it operate properly).\nA friend from the community runs a server and built a (really nice) GUI tool on top the .http command where users can find and download software for their Spectrum.\nHowever, for reasons unknown, it wasn't working and content-length just seemed to be missing.\nThis fix isn't Speccy specific, it will fix missing content length for Apache 2 servers.",
+          "link": "https://remysharp.com/2025/01/03/server-isnt-sending-content-length",
+          "publishedOn": "2025-01-03T00:00:00.000Z",
+          "wordCount": 913,
+          "title": "Server isn't sending content length [blog]",
+          "imageUrl": "https://remysharp.com/images/firefox-headers.png"
+        },
+        {
           "id": "my-2024",
           "author": null,
           "description": "This year zipped past for me, mostly because I had my eye on an event in November for most of the year, but here we are: the close of '24 and on the doorstep of '25.\nIn this post I'll try to remind my future self of what I did, but unlike previous years, there's a lot less public work (side projects), a lot less blogging content…and generally, I think, a lot less.\nSo, with that bulge of joy, let's get on with it.",
@@ -445,16 +475,6 @@
           "publishedOn": "2024-11-24T00:00:00.000Z",
           "wordCount": 890,
           "title": "Dune (Dune Chronicles, #1) [book]",
-          "imageUrl": null
-        },
-        {
-          "id": "2024-11-05-0827383d",
-          "author": null,
-          "description": "I find this very cool that the Gov.uk / GDS have released their platform tooling (in particular forms) to the public sector.\nI can imagine it's a jump to go from project in the public sector to being able to implement all the nuts and bolts it requires, and this platform looks to cut right through the hard work. Specifically:\n\nYou can create accessible, low cost online services without needing coding skills or technical knowledge.\n\nI love this. Progressive enhancement. Core functionality (forms, payments, notifications).\nMore background reading from their blog here: https://gds.blog.gov.uk/2024/11/04/gov-uk-forms-in-motion/\nSource: platforms.service.gov.uk",
-          "link": "https://remysharp.com/links/2024-11-05-0827383d",
-          "publishedOn": "2024-11-05T10:08:01.000Z",
-          "wordCount": 582,
-          "title": "Build and run online services _easily_ [link]",
           "imageUrl": null
         }
       ]
@@ -743,6 +763,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/771681304160976896",
+          "author": null,
+          "description": "text-mode:\nPretty big text-mode success! Seems to be the москва институт гидропроект.\nvia internetshaman",
+          "link": "https://text-mode.tumblr.com/post/771681304160976896",
+          "publishedOn": "2025-01-03T19:30:40.000Z",
+          "wordCount": 1025,
+          "title": "text-mode:\n\nPretty big text-mode success! Seems to be the москва...",
+          "imageUrl": "https://64.media.tumblr.com/90eb51cae07e3d103244d1d2ecb9270c/tumblr_mtfwlnfBeF1rpiyaso1_1280.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/771590746547568640",
           "author": null,
@@ -1342,16 +1372,6 @@
           "wordCount": 941,
           "title": "text-mode:\n\nハゲ (zoomed in)",
           "imageUrl": "https://64.media.tumblr.com/0f9145a5433e88bf4623acfe864b64c8/tumblr_mwgsncSBXi1rpiyaso1_1280.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/766245477013438464",
-          "author": null,
-          "description": "text-mode:\nChinese ANSI by missher.",
-          "link": "https://text-mode.tumblr.com/post/766245477013438464",
-          "publishedOn": "2024-11-04T19:30:31.000Z",
-          "wordCount": 1010,
-          "title": "text-mode:\n\nChinese ANSI by missher.",
-          "imageUrl": "https://64.media.tumblr.com/866a13c6815829a2e98e79bce786744d/tumblr_mrshliN02E1rpiyaso1_1280.png"
         }
       ]
     },
@@ -1579,16 +1599,6 @@
           "wordCount": 1711,
           "title": "We asked why you love Firefox. Here’s what you said.",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2024/11/Firefox-anniversary-banner-2-anniversary-video-1080x720.png"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=77294",
-          "author": "Tarek Ziadé and Ania Safko",
-          "description": "Image generated by DALL-E in response to a request for a photorealistic image of a fox standing in a grassy landscape. Firefox 130 introduces automatic alt text for PDF images and an improved alt text flow. In addition to protecting users’ privacy with a small language model that operates locally on their device, these improvements […]\nThe post Help us improve our alt text generation model appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/ai/help-us-improve-our-alt-text-generation-model/",
-          "publishedOn": "2024-11-04T21:21:45.000Z",
-          "wordCount": 2328,
-          "title": "Help us improve our alt text generation model",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2024/11/alt-text-geenration-model-432x288.png"
         }
       ]
     },
@@ -1743,16 +1753,6 @@
           "wordCount": 10327,
           "title": "A Modern CSS Reset",
           "imageUrl": "https://www.joshwcomeau.com/images/og-custom-css-reset.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/css/container-queries-introduction/",
-          "author": "Josh W. Comeau",
-          "description": "It’s been a couple of years since container queries started landing in browsers… so why isn’t anyone using them? It turns out that container queries are kinda tricky; they’re not as straightforward as media queries. In this tutorial, we’ll break it all down and make sense of them, so that you can start using them in your work.",
-          "link": "https://www.joshwcomeau.com/css/container-queries-introduction/",
-          "publishedOn": "2024-11-04T13:15:00.000Z",
-          "wordCount": 7993,
-          "title": "A Friendly Introduction to Container Queries",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-container-queries-introduction.png"
         }
       ]
     },
@@ -2076,16 +2076,6 @@
           "wordCount": 4610,
           "title": "Pluralistic: How to have cancer (06 Nov 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=9720",
-          "author": "Cory Doctorow",
-          "description": "Today's links Neal Stephenson's \"Polostan\": Raising the curtain on a post-cyberpunk sf series about the dawn on the nuclear age. Hey look at this: Delights to delectate. This day in history: 2004, 2009, 2014, 2019, 2023 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Neal Stephenson's \"Polostan\" (permalink) Science fiction isn't collection of tropes, nor is it a literary style, nor is it a marketing category. It can encompass all of these, but what sf really is, is an outlook. At the core of sf is an approach to technology (and, sometimes, science): sf treats technology as a kind of crux that the rest of the tale revolves around.…",
-          "link": "https://pluralistic.net/2024/11/04/bomb-light/",
-          "publishedOn": "2024-11-04T14:16:54.000Z",
-          "wordCount": 3238,
-          "title": "Pluralistic: Neal Stephenson's \"Polostan\" (04 Nov 2024)",
-          "imageUrl": null
         }
       ]
     },
@@ -2137,6 +2127,86 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/25/01/0045933-clip-is-a-plug",
+          "author": null,
+          "description": "Clip is a “plug & play” unit that upgrades almost any bike to an e-bike. The “no-tools” gadget clips onto to the front forks of a bike and provides up to 12 miles of range.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/01/0045933-clip-is-a-plug",
+          "publishedOn": "2025-01-03T21:27:11.000Z",
+          "wordCount": 693,
+          "title": "Clip is a &#8220;plug & play&#8221; unit that upgrades almost any bike...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/01/0045957-i-loved-the-first-volume",
+          "author": null,
+          "description": "I loved the first volume of this, so I’m pleased to see that David Whyte is back with Consolations II. “To become intimate is to become vulnerable not only to what I want and desire in my life, but to the fear I have of my desire being met.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/01/0045957-i-loved-the-first-volume",
+          "publishedOn": "2025-01-03T20:15:15.000Z",
+          "wordCount": 720,
+          "title": "I loved the first volume of this, so I&#8217;m pleased to see...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/01/0045954-male-college-enrollment-c",
+          "author": null,
+          "description": "Male college enrollment could be dropping because of male flight. “Male flight describes a similar phenomenon when large numbers of females enter a profession, group, hobby or industry—the men leave. That industry is then devalued.”",
+          "link": "https://kottke.org/25/01/0045954-male-college-enrollment-c",
+          "publishedOn": "2025-01-03T19:21:56.000Z",
+          "wordCount": 621,
+          "title": "Male college enrollment could be dropping because of male flight. &#8220;Male flight...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/01/man-made-structures-now-outweigh-the-mass-of-the-living-world",
+          "author": null,
+          "description": "Biocubes is a visualization comparing the mass of the living world (biomass) to the mass that’s been generated by humans (technomass). From a piece in the Times about the visualization:\n“The website enables many comparisons that, once seen, can no longer be unseen,” he said. For instance, humans outweigh wild animals 10 to 1, a fact that surprised Dr. Ménard. (“In my experience, most people expect the opposite.”) But we weigh only half as much as the livestock herds we maintain to eat. Perhaps more ominously, humans use 100 times their own mass in plastic.\n\n\n        \n\n         \nTags: infoviz\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/01/man-made-structures-now-outweigh-the-mass-of-the-living-world",
+          "publishedOn": "2025-01-03T18:10:43.000Z",
+          "wordCount": 761,
+          "title": "Man-Made Structures Now Outweigh the Mass of the Living World",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/biocubes.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/01/0045953-a-list-of-advice-for",
+          "author": null,
+          "description": "A list of advice for defeating the authoritarian threat. “Authoritarians want you to feel powerless because it makes their work easier. Courage, faith, and optimism are essential. Fascism feeds on cynicism and pessimism. Starve it.”",
+          "link": "https://kottke.org/25/01/0045953-a-list-of-advice-for",
+          "publishedOn": "2025-01-03T17:00:02.000Z",
+          "wordCount": 614,
+          "title": "A list of advice for defeating the authoritarian threat. &#8220;Authoritarians want you...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/01/0045951-depictions-of-children-dy",
+          "author": null,
+          "description": "Depictions of children dying were rife in 19th century literature, mirroring high child mortality levels in real life. “People who want to dismantle a century of resolute public health measures, like vaccination, invite those horrors to return.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/01/0045951-depictions-of-children-dy",
+          "publishedOn": "2025-01-03T16:03:03.000Z",
+          "wordCount": 746,
+          "title": "Depictions of children dying were rife in 19th century literature, mirroring high...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/01/0045944-an-online-only-conversati",
+          "author": null,
+          "description": "An online-only conversation from the British Library with Lauren Groff about her novel Matrix, Marie de France, and “violence, sensuality, and religious ecstasy in the medieval world”. Jan 14, £10.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/01/0045944-an-online-only-conversati",
+          "publishedOn": "2025-01-03T15:10:26.000Z",
+          "wordCount": 718,
+          "title": "An online-only conversation from the British Library with Lauren Groff about her...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/01/fact-checking-the-spiciness-of-hot-ones-sauces",
+          "author": null,
+          "description": "The team at Howtown closed out 2024 by investigating the spice level (i.e. the Scoville ratings) of the lineup of hot sauces on the popular YouTube interview series Hot Ones while also teaching us about how hot peppers evolved and how pepper spininess is measured. (Spoiler: the sauces are not as hot as advertised.)\nCheers to Adam Cole for Peter Pipering this particular passage:\nBy picking peppers, they could pinpoint the precise percentage of each patch that was pungent, and some patches were more pungent than others.\n\n\nPerfect.\nTags: food · Hot Ones · Howtown · science · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/01/fact-checking-the-spiciness-of-hot-ones-sauces",
+          "publishedOn": "2025-01-03T14:18:52.000Z",
+          "wordCount": 850,
+          "title": "Fact-Checking the Spiciness of &#8216;Hot Ones&#8217; Sauces",
+          "imageUrl": "https://i.ytimg.com/vi/dutpBSKj8JY/sddefault.jpg"
+        },
         {
           "id": "https://kottke.org/25/01/0045945-huh-theres-going-to-be",
           "author": null,
@@ -5755,76 +5825,6 @@
           "publishedOn": "2024-11-05T15:41:50.000Z",
           "wordCount": 732,
           "title": "TIL about argonaut octopuses. &#8220;Although most octopuses live near the ocean floor...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/11/0045579-wow-more-than-40-people",
-          "author": null,
-          "description": "Wow, more than 40 people have undergone a CAR-T-cell therapy for lupus, most of whom have gone into drug-free remission. “It is too early to declare any of these patients cured for life, but that now seems within the realm of possibility.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/11/0045579-wow-more-than-40-people",
-          "publishedOn": "2024-11-05T01:46:25.000Z",
-          "wordCount": 1248,
-          "title": "Wow, more than 40 people have undergone a CAR-T-cell therapy for lupus,...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/11/0045575-i-did-go-touch-that",
-          "author": null,
-          "description": "“I did go touch that rock. I didn’t tell anyone…” I live on a road named for a big boulder and didn’t notice it for far too long…\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/11/0045575-i-did-go-touch-that",
-          "publishedOn": "2024-11-05T00:39:43.000Z",
-          "wordCount": 761,
-          "title": "&#8220;I did go touch that rock. I didn&#8217;t tell anyone&#8230;&#8221; I live...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/11/0045576-some-profiles-of-first-ti",
-          "author": null,
-          "description": "Some profiles of first-time voters who were formerly incarcerated. “I’m carrying all the people that can’t vote in my vote. And that’s an honor.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/11/0045576-some-profiles-of-first-ti",
-          "publishedOn": "2024-11-04T23:37:48.000Z",
-          "wordCount": 708,
-          "title": "Some profiles of first-time voters who were formerly incarcerated. &#8220;I&#8217;m carrying all...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/11/0045578-i-am-very-excited-about",
-          "author": null,
-          "description": "I am *very* excited about this: Christian Marclay’s The Clock is going back on display at MoMA. Member previews: Nov 7–9, Nov 10, 2024 through Spring 2025. “The work is both a cinematic tour-de-force and a functioning timepiece.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/11/0045578-i-am-very-excited-about",
-          "publishedOn": "2024-11-04T22:48:12.000Z",
-          "wordCount": 728,
-          "title": "I am *very* excited about this: Christian Marclay&#8217;s The Clock is going...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/11/the-powerful-density-of-hypertextual-writing",
-          "author": null,
-          "description": "The NY Times has had a difficult time covering the 2024 election in a clear, responsible manner. But I wanted to highlight this short opinion piece from the paper’s editorial board, which I’m reproducing here in its entirety:\nYou already know Donald Trump. He is unfit to lead. Watch him. Listen to those who know him best. He tried to subvert an election and remains a threat to democracy. He helped overturn Roe, with terrible consequences. Mr. Trump’s corruption and lawlessness go beyond elections: It’s his whole ethos. He lies without limit. If he’s re-elected, the G.O.P. won’t restrain him. Mr. Trump will use the government to go after opponents. He will pursue a cruel policy of mass deportations. He will wreak havoc on the poor, the middle class and employers. Another Trump term will dam…",
-          "link": "https://kottke.org/24/11/the-powerful-density-of-hypertextual-writing",
-          "publishedOn": "2024-11-04T21:53:56.000Z",
-          "wordCount": 1015,
-          "title": "The Powerful Density of Hypertextual Writing",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/11/0045573-based-on-our-election-for",
-          "author": null,
-          "description": "Based on Our Election Forecast, We Are 100 Percent Sure Anything Could Fucking Happen. “In 1 percent of simulations, Trump and Harris settle the presidency via cage match. In 2 percent of simulations, they open a quaint bakery in Vermont for dogs…”",
-          "link": "https://kottke.org/24/11/0045573-based-on-our-election-for",
-          "publishedOn": "2024-11-04T17:26:45.000Z",
-          "wordCount": 626,
-          "title": "Based on Our Election Forecast, We Are 100 Percent Sure Anything Could...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/11/how-are-you-doing-1",
-          "author": null,
-          "description": "No seriously, how is everyone doing today? We’re coming down to the wire on the most cuckoo bananapants presidential election campaign in recent memory. There’s so much at stake and there are so many unknowns, a potent cocktail for anxiety. If that’s where you are right now, I hope you know you’re not alone. If you’re feeling confident, that’s great and I’m happy for you. If my Instagram feed is any indication, many of you have already voted and are volunteering to knock on doors, phone bank, or to cure ballots in swing states — thanks so much for doing that! (Greg Pak’s list of last minute actions is a good place to start if you want to pitch in.)\nMe? Last week was a rough one — lots of anxiety about the election and other things. I’m feeling better this morning; I got out for some exercise this weekend, spent some really nice time with my son, and generally kept social media at arm’s length. Even though it’s pretty cold here today, I’m heading out for a bike ride this afternoon to load up on some good dopamine. I started season two of The Diplomat last night and it seems to have picked up right where it left off last season — the perfect diversionary viewing for me.\nBut I’m also struggling to work out what to post here this week. I am very nearly done with anything political in nature (I don’t want to contribute to doomscrolling) but posting anything else at this critical juncture, when people’s actual lives and freedoms are on the line, seems frivolous. I suppose I’ll figure it out, but heads up: things might be a little lighter than usual around here — or maybe the opposite? We’ll see.\nIn the meantime, if you don’t mind sharing, let us know how you’re doing in the comments.\nTags: Greg Pak · politics\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/11/how-are-you-doing-1",
-          "publishedOn": "2024-11-04T16:10:22.000Z",
-          "wordCount": 8779,
-          "title": "How Are You Doing?",
           "imageUrl": ""
         }
       ]
