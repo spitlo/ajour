@@ -399,16 +399,6 @@
           "wordCount": 207,
           "title": "Arizona Chess",
           "imageUrl": "https://imgs.xkcd.com/comics/arizona_chess_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3013/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/kedging_cannon.png\" title=\"The real key was inventing the windmill-powered winch.\" alt=\"The real key was inventing the windmill-powered winch.\" />",
-          "link": "https://xkcd.com/3013/",
-          "publishedOn": "2024-11-18T00:00:00.000Z",
-          "wordCount": 207,
-          "title": "Kedging Cannon",
-          "imageUrl": "https://imgs.xkcd.com/comics/kedging_cannon_2x.png"
         }
       ]
     },
@@ -783,6 +773,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/772859080471642112",
+          "author": null,
+          "description": "text-mode:\nLSD Virus (1994)  overwrites all files of current directory and manifests itself with a video effect. Then it displays the message:\nLSD ViRuS 1.0 Coded By Death Dealer 4/29/94 [TeMpEsT -94]\nIt also contains the string: Author:\nDeath Dealer Of [TeMpEsT]Virus:[LSD]",
+          "link": "https://text-mode.tumblr.com/post/772859080471642112",
+          "publishedOn": "2025-01-16T19:30:55.000Z",
+          "wordCount": 1047,
+          "title": "text-mode:\n\nLSD Virus (1994)  overwrites all files of current...",
+          "imageUrl": "https://64.media.tumblr.com/299ee819ee2682d77a62abdfa40403c9/tumblr_muzfxnhVjR1rpiyaso1_540.gif"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/772768477379543040",
           "author": null,
@@ -1382,16 +1382,6 @@
           "wordCount": 929,
           "title": "text-mode:\n\nDisk directory of the C64 demo Tiki Pahu! [2013] by...",
           "imageUrl": "https://64.media.tumblr.com/3e0a27cd1c4e255830c4e499c5c25562/tumblr_mv6681gLqF1rpiyaso1_400.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/767423255867949056",
-          "author": null,
-          "description": "text-mode:\nASCII-WM 2006 was a live ASCII-broadcast of the world cup in soccer. It was accessed about 15 million times - only via telnet. Apart from converting video to ASCII, it used the live commentary from Austrian TV, translated it to English with Babelfish, and put it in the stream.\nThe final matches were broadcast on local TV in Vienna with a speech synthesis reading the babelfishy commentary (see bottom image).\nAll pics via ascii-wm.net",
-          "link": "https://text-mode.tumblr.com/post/767423255867949056",
-          "publishedOn": "2024-11-17T19:30:48.000Z",
-          "wordCount": 1114,
-          "title": "text-mode:\n\nASCII-WM 2006 was a live ASCII-broadcast of the...",
-          "imageUrl": "https://64.media.tumblr.com/8c93a7a52f6936fb2817834c759c4072/tumblr_mtfvt4aHep1rpiyaso6_500.png"
         }
       ]
     },
@@ -1400,6 +1390,16 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=78242",
+          "author": "David Durfee, James Honaker and Rong Xia",
+          "description": "Continuing our series on Anonym’s technology, this post focuses on Anonym’s use of differential privacy. Differential privacy is a cornerstone of Anonym’s approach to building confidential and effective data solutions. In this post, we’ll explain why we integrate differential privacy (DP) into all our systems and share how we tailor our implementation to meet the […]\nThe post Raising the bar: Why differential privacy is at the core of Anonym’s approach appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/anonym-differential-privacy/",
+          "publishedOn": "2025-01-16T14:00:00.000Z",
+          "wordCount": 2394,
+          "title": "Raising the bar: Why differential privacy is at the core of Anonym’s approach",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2024/10/Blog_Anonym_Thumbnail-1200x800.png"
+        },
         {
           "id": "https://blog.mozilla.org/?p=78226",
           "author": "Kristina Bravo",
@@ -1626,16 +1626,6 @@
           "wordCount": 2102,
           "title": "Why pipes sometimes get \"stuck\": buffering",
           "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2024/11/18/how-to-import-a-javascript-library/",
-          "author": null,
-          "description": "I like writing Javascript without a build system\nand for the millionth time yesterday I ran into a problem where I needed to\nfigure out how to import a Javascript library in my code without using a build\nsystem, and it took FOREVER to figure out how to import it because the\nlibrary’s setup instructions assume that you’re using a build system.\nLuckily at this point I’ve mostly learned how to navigate this situation and\neither successfully use the library or decide it’s too difficult and switch to\na different library, so here’s the guide I wish I had to importing Javascript\nlibraries years ago.\nI’m only going to talk about using Javacript libraries on the frontend, and\nonly about how to use them in a no-build-system setup.\nIn this post I’m going to talk about:\nthe three main types of Javascr…",
-          "link": "https://jvns.ca/blog/2024/11/18/how-to-import-a-javascript-library/",
-          "publishedOn": "2024-11-18T09:35:42.000Z",
-          "wordCount": 2714,
-          "title": "Importing a frontend Javascript library without a build system",
-          "imageUrl": null
         }
       ]
     },
@@ -1663,76 +1653,6 @@
           "wordCount": 7978,
           "title": "A Framework for Evaluating Browser Support",
           "imageUrl": "https://www.joshwcomeau.com/images/og-browser-support.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/animation/pride-flags/",
-          "author": "Josh W. Comeau",
-          "description": "Happy Pride month! In this tutorial, I'll share a handful of my favourite animation tricks. You'll learn how to build an animated wavy pride flag using CSS keyframes and linear gradients. We'll also see how to make it dynamic using React. 🏳️‍🌈",
-          "link": "https://www.joshwcomeau.com/animation/pride-flags/",
-          "publishedOn": "2024-11-17T16:13:53.000Z",
-          "wordCount": 8560,
-          "title": "Animated Pride Flags",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-pride-flags.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/css/designing-shadows/",
-          "author": "Josh W. Comeau",
-          "description": "When I look around the web, most of the shadows I see are fuzzy grey boxes. It doesn't have to be this way, though! CSS gives us the tools to create rich, lush, lifelike shadows. In this tutorial, I'll show you how.",
-          "link": "https://www.joshwcomeau.com/css/designing-shadows/",
-          "publishedOn": "2024-11-17T16:13:53.000Z",
-          "wordCount": 9480,
-          "title": "Designing Beautiful Shadows in CSS",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-designing-shadows.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/react/demystifying-styled-components/",
-          "author": "Josh W. Comeau",
-          "description": "For so many React devs, styled-components seems kinda magical. It isn't at all clear how it uses traditional CSS features under-the-hood, and that lack of clarity can cause real problems when things go awry. In this post, we'll learn exactly how styled-components works by building our own mini-version.",
-          "link": "https://www.joshwcomeau.com/react/demystifying-styled-components/",
-          "publishedOn": "2024-11-17T16:13:53.000Z",
-          "wordCount": 10826,
-          "title": "Demystifying styled-components",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-demystifying-styled-components.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/react/boop/",
-          "author": "Josh W. Comeau",
-          "description": "An in-depth tutorial that teaches how to create one of the most adorable interactions I've ever created. We'll learn how to use React components and hooks to abstract behaviours, and see how to design the perfect API. Even if you're not into animations, I think you'll find it interesting!",
-          "link": "https://www.joshwcomeau.com/react/boop/",
-          "publishedOn": "2024-11-17T16:13:53.000Z",
-          "wordCount": 12718,
-          "title": "Boop!",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-boop.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/blog/why-my-blog-is-closed-source/",
-          "author": "Josh W. Comeau",
-          "description": "In our community, it's so common for developer projects to be open-source. I'm breaking with this trend for my blog, but I have good reasons! In this article, I'll share my reasoning, as well as a workaround in case you _really_ want to see the source. If you're considering whether a project should be open-source or not, I hope you'll find it valuable.",
-          "link": "https://www.joshwcomeau.com/blog/why-my-blog-is-closed-source/",
-          "publishedOn": "2024-11-17T16:13:53.000Z",
-          "wordCount": 5018,
-          "title": "Why My Blog is Closed-Source",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-why-my-blog-is-closed-source.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/css/css-variables-for-react-devs/",
-          "author": "Josh W. Comeau",
-          "description": "CSS variables are *really* cool, and they're incredibly powerful when it comes to React! This tutorial shows how we can use them with React to create dynamic themes. We'll see how to get the most out of CSS-in-JS tools like styled-components, and how our mental frame around media queries has been wrong all along.",
-          "link": "https://www.joshwcomeau.com/css/css-variables-for-react-devs/",
-          "publishedOn": "2024-11-17T16:13:53.000Z",
-          "wordCount": 8466,
-          "title": "CSS Variables for React Devs",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-css-variables-for-react-devs.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/career/remote-work-pt2/",
-          "author": "Josh W. Comeau",
-          "description": "As remote work becomes increasingly popular, I am frequently asked how to get started. This article shares everything I know about landing that first remote gig.",
-          "link": "https://www.joshwcomeau.com/career/remote-work-pt2/",
-          "publishedOn": "2024-11-17T16:13:53.000Z",
-          "wordCount": 8068,
-          "title": "Finding your first remote job",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-remote-work-pt2.png"
         }
       ]
     },
@@ -2076,21 +1996,6 @@
           "wordCount": 3142,
           "title": "Pluralistic: Forcing Google to spin off Chrome (and Android?) (19 Nov 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=9802",
-          "author": "Cory Doctorow",
-          "description": "Today's links Harpercollins wants authors to sign away AI training rights: Rights come from power. Hey look at this: Delights to delectate. This day in history: 2004, 2009, 2014, 2019, 2023 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Harpercollins wants authors to sign away AI training rights (permalink) Rights don't give you power. People with power can claim rights. Giving a \"right\" to someone powerless just transfers it to someone more powerful than them. Nowhere is this more visible than in copyright fights, where creative workers are given new rights that are immediately hoovered up by their bosses. It's not clear whethe…",
-          "link": "https://pluralistic.net/2024/11/18/rights-without-power/",
-          "publishedOn": "2024-11-18T08:49:52.000Z",
-          "wordCount": 3985,
-          "title": "Pluralistic: Harpercollins wants authors to sign away AI training rights (18 Nov 2024)",
-          "enclosure": {
-            "url": "https://random.waxy.org/video/grey_video.mov",
-            "length": "23228463",
-            "type": "video/quicktime"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -2142,6 +2047,16 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/25/01/0046002-film-director-david-lynch",
+          "author": null,
+          "description": "Film director David Lynch has died at the age of 78. RIP, Lynch was a real one. “It’s a beautiful day with golden sunshine and blue skies all the way.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/01/0046002-film-director-david-lynch",
+          "publishedOn": "2025-01-16T18:54:44.000Z",
+          "wordCount": 1341,
+          "title": "Film director David Lynch has died at the age of 78. RIP,...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/25/01/ooo-ill-see-you-next-week",
           "author": null,
@@ -5581,16 +5496,6 @@
           "wordCount": 806,
           "title": "You might be able to fit an entire orange in your mouth....",
           "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/11/downhill-skateboarding",
-          "author": null,
-          "description": "On these downhill skateboarding things, I’m always wondering why there aren’t any cars, but uh, there are cars in this one. Josh Neuman skateboarding down a mountain road while cars come up makes me real nervous! He almost skates into a barrier at 2:07, and towards the end there’s a biker riding up the hill going very slow showing how steep this is. I don’t know. It’s too fast I think. Love to see someone as good at their job as this guy.\n\nTags: Josh Neuman · skateboarding\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/11/downhill-skateboarding",
-          "publishedOn": "2024-11-17T16:00:04.000Z",
-          "wordCount": 975,
-          "title": "Downhill Skateboarding",
-          "imageUrl": "https://i.ytimg.com/vi/yn-TfAzobDI/sddefault.jpg"
         }
       ]
     },
