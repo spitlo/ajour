@@ -136,8 +136,19 @@
     {
       "title": "Grumpy Gamer",
       "feedUrl": "https://grumpygamer.com/rss",
-      "siteUrl": "https://grumpygamer.com",
-      "articles": []
+      "siteUrl": "https://grumpygamer.com/",
+      "articles": [
+        {
+          "id": "https://grumpygamer.com/hugo/",
+          "author": null,
+          "description": "!! P.S. Static site is now live on grumpygamer.com !!\nI spent the last weekend converting grumpygamer.com to a static website using Hugo.\nI don’t really know why. The old dynamic site was working fine.\nIt’s still hosted it on my server but there is no php, etc. I may move it to a static site hosting platform.\nIf your reading this, you’re on the new static site.\nSo far Hugo has been great. It’s Go mark-up language is a little odd, but I’m used to it now.\nThe old site used markdown but I added some odd new rules and porting all the posts over was kind of a pain. Wrote a php script that pulled down all the posts and wrote them out as json. I then wrote a Python script to find all my odd markdown hacks and convert them to the standard markdown that Hugo uses.\nAll in all, it only took a few hou…",
+          "link": "https://grumpygamer.com/hugo/",
+          "publishedOn": "2025-01-12T20:55:45.000Z",
+          "wordCount": 621,
+          "title": "Hugo",
+          "imageUrl": "https://grumpygamer.com//images/gg_cover_image2.png"
+        }
+      ]
     },
     {
       "title": "Emily Short's Interactive Storytelling",
@@ -399,16 +410,6 @@
           "wordCount": 207,
           "title": "D Combinatorics",
           "imageUrl": "https://imgs.xkcd.com/comics/dnd_combinatorics_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3014/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/arizona_chess.png\" title=\"Sometimes, you have to sacrifice pieces to gain the advantage. Sometimes, to advance ... you have to fall back.\" alt=\"Sometimes, you have to sacrifice pieces to gain the advantage. Sometimes, to advance ... you have to fall back.\" />",
-          "link": "https://xkcd.com/3014/",
-          "publishedOn": "2024-11-20T00:00:00.000Z",
-          "wordCount": 207,
-          "title": "Arizona Chess",
-          "imageUrl": "https://imgs.xkcd.com/comics/arizona_chess_2x.png"
         }
       ]
     },
@@ -783,6 +784,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/773040260789714944",
+          "author": null,
+          "description": "text-mode:\nBargello is a type of needlepoint embroidery consisting of upright flat stitches laid in a mathematical pattern to create motifs. The name originates from a series of chairs found in the Bargello palace in Florence, which have a “flame stitch” pattern.",
+          "link": "https://text-mode.tumblr.com/post/773040260789714944",
+          "publishedOn": "2025-01-18T19:30:42.000Z",
+          "wordCount": 1072,
+          "title": "text-mode:\n\nBargello is a type of needlepoint embroidery...",
+          "imageUrl": "https://64.media.tumblr.com/779a2907f3e72bb7feb98b96942815d1/tumblr_mspeawXOkp1rpiyaso4_400.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/772949694859165696",
           "author": null,
@@ -1382,16 +1393,6 @@
           "wordCount": 997,
           "title": "text-mode:\n\nhot text boys, via",
           "imageUrl": "https://64.media.tumblr.com/379cd48aa223945d0d537a33ad9dc6ee/tumblr_mqcyrswOUe1rpiyaso1_540.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/767604435237142528",
-          "author": null,
-          "description": "text-mode:\nThe Future Starts Now - a 20x30 meter ASCII by Rikki Kasso, 2010. Placed on the Mejiro Kindergarten in Tokyo. The ASCII art was based on a photograph, infused with numbers and phrases about learning in English and Japanese. Rikki:\nAs I thought more into it, it became clear that this text in digital form also known as a “font” was also a brand new language that children will grow up with as an automatic second written language. A “Neo-Neanderthal” age where symbols and icons are used to reform communication.\nSort of like was argued here. More here and here.",
-          "link": "https://text-mode.tumblr.com/post/767604435237142528",
-          "publishedOn": "2024-11-19T19:30:35.000Z",
-          "wordCount": 1126,
-          "title": "text-mode:\n\nThe Future Starts Now - a 20x30 meter ASCII by Rikki...",
-          "imageUrl": "https://64.media.tumblr.com/faffd52dc3b415223270dd02e7021b15/tumblr_mvej7r9RwZ1rpiyaso9_1280.jpg"
         }
       ]
     },
@@ -1657,6 +1658,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=10127",
+          "author": "Cory Doctorow",
+          "description": "Today's links Pinkslump linkdump: New year, new grab-bag. This day in history: 2005, 2010, 2015, 2020, 2024 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Pinkslump linkdump (permalink) We're less than a month into 2025 and I'm already overwhelmed by my backlog of links! Herewith, then, is my 25th linkdump post, a grab-bag of artful transitions between miscellaneous subjects. Here's the previous 24: https://pluralistic.net/tag/linkdump/ Last week's big tech event was the Supreme Court giving the go-ahead for Congress to ban Tiktok, because somehow the First Amendment allows the US government to shut down a speech forum if they d…",
+          "link": "https://pluralistic.net/2025/01/18/ragbag/",
+          "publishedOn": "2025-01-18T17:47:13.000Z",
+          "wordCount": 5422,
+          "title": "Pluralistic: Pinkslump linkdump (18 Jan 2025)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=10117",
           "author": "Cory Doctorow",
@@ -5265,116 +5276,6 @@
           "publishedOn": "2024-11-20T14:47:56.000Z",
           "wordCount": 735,
           "title": "Rafael Nadal has officially retired from professional tennis. One of the greatest...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/11/0045678-for-the-love-of-god",
-          "author": null,
-          "description": "For the love of god, quit calling your newsletter “my Substack”. “You can talk about your work as *your work*. It’s your newsletter, or your email, or your blog. Or just your writing. But it sure as hell isn’t ‘your Substack.’”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/11/0045678-for-the-love-of-god",
-          "publishedOn": "2024-11-20T01:16:39.000Z",
-          "wordCount": 817,
-          "title": "For the love of god, quit calling your newsletter &#8220;my Substack&#8221;. &#8220;You...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/11/doomsday-fish",
-          "author": null,
-          "description": "The oarfish is a very long fish people don’t normally see on account of it living deep, deep in the deep water, though three have washed up on the shores of Southern California in the last 3 months. The oarfish is referred to as the Doomsday Fish (a very cool name for a fish imo), because Japanese mythology considers seeing one of these fish, which can grow to be 30 feet, an omen of tsunamis or earthquakes. 12 washed up on the shores of Japan before the earthquake in 2011.\nDon’t worry though because scientists looked into it and decided “the spatiotemporal relationship between deep‐sea fish appearances and earthquakes was hardly found.” Honestly, it’s a weird way to say “no the fish don’t mean an earthquake,” but it’s all we’ve got.\nTags: fish\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/11/doomsday-fish",
-          "publishedOn": "2024-11-19T22:42:06.000Z",
-          "wordCount": 763,
-          "title": "Doomsday Fish",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/oarfish.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/11/0045672-25-years-after-maligned",
-          "author": null,
-          "description": "25 years after the much maligned DK Rap premiered to scorn in Nintendo’s Donkey Kong 64, the composer, Grant Kirkhope, has released a remix with the rapper Substantial that whips.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/11/0045672-25-years-after-maligned",
-          "publishedOn": "2024-11-19T21:35:57.000Z",
-          "wordCount": 731,
-          "title": "25 years after the much maligned DK Rap premiered to scorn in...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/11/0045668-every-day-people-go-out",
-          "author": null,
-          "description": "Every day, people go out and do the kind of stuff you’ve never imagined being possible, but they imagined it, and that’s what’s important. \n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/11/0045668-every-day-people-go-out",
-          "publishedOn": "2024-11-19T20:54:09.000Z",
-          "wordCount": 676,
-          "title": "Every day, people go out and do the kind of stuff you&#8217;ve...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/11/0045676-you-still-have-a-couple",
-          "author": null,
-          "description": "You still have a couple of days left to back Kelli Anderson’s pop-up book about typography on Kickstarter. It looks incredible.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/11/0045676-you-still-have-a-couple",
-          "publishedOn": "2024-11-19T20:03:09.000Z",
-          "wordCount": 675,
-          "title": "You still have a couple of days left to back Kelli Anderson&#8217;s...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/11/purple-isnt-real",
-          "author": null,
-          "description": "So we all know the color purple has always been associated with royalty because the dye used to make it was extremely limited because you could only get it from the Phoenician city of Tyre where a tiny snail lived. Dye makers had to “crack open the snail’s shell, extract a purple-producing mucus and expose it to sunlight for a precise amount of time,” and it took 250K snails to make an ounce of dye. But did we know purple isn’t like all the other colors?\nMost of you here probably know that our perception of color comes down to physics. Light is a type of radiation that our eyes can perceive, and it spans a certain range of the electromagnetic spectrum. Individual colors are like building blocks in white light: they are subdivisions of the visible spectrum. For us to perceive an object as being of a certain color, it needs to absorb some of the subdivisions in the light that falls on it (or all of them, for black). The parts it reflects (doesn’t absorb) are what gives it its color. But not so for purple, because it is a non-spectral color.\n\n\nHahahah. Yessssss. Pound sand, Harold!\nTags: color · physics · science\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/11/purple-isnt-real",
-          "publishedOn": "2024-11-19T19:32:58.000Z",
-          "wordCount": 1128,
-          "title": "Purple Isn&#8217;t Real",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/11/0045671-asheville-nc-has-lifted-i",
-          "author": null,
-          "description": "Asheville, NC has lifted its boil water notice after 53 days. Hurricane Helene left high sediment levels contaminating 80% of the city’s drinking water.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/11/0045671-asheville-nc-has-lifted-i",
-          "publishedOn": "2024-11-19T18:10:21.000Z",
-          "wordCount": 688,
-          "title": "Asheville, NC has lifted its boil water notice after 53 days. Hurricane...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/11/0045675-emoji-rain-is-a-visualiza",
-          "author": null,
-          "description": "Emoji Rain is a visualization of emoji use on Bluesky. “Emojis from longer messages fall more slowly!” 🦋 💧 🌧️ ☔️ 🌈 🦄\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/11/0045675-emoji-rain-is-a-visualiza",
-          "publishedOn": "2024-11-19T17:30:47.000Z",
-          "wordCount": 719,
-          "title": "Emoji Rain is a visualization of emoji use on Bluesky. &#8220;Emojis from...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/11/how-to-survive-our-authoritarian-post-truth-era",
-          "author": null,
-          "description": "For The Observer, Carole Cadwalladr published a list of pointers on how to survive in Trumpist America, inspired by Timothy Snyder’s Fighting Authoritarianism: 20 Lessons from the 20th Century that was published in the wake of the 2016 election. Some of these are excellent:\n1 When someone tells you who they are, believe them. Last week Donald Trump appointed a director of intelligence who spouts Russian propaganda, a Christian nationalist crusader as secretary of defence, and a secretary of health who is a vaccine sceptic. If Trump was seeking to destroy American democracy, the American state and American values, this is how he’d do it.\n2 Journalists are first, but everyone else is next. Trump has announced multibillion-dollar lawsuits against “the enemy camp”: newspapers and publishers. H…",
-          "link": "https://kottke.org/24/11/how-to-survive-our-authoritarian-post-truth-era",
-          "publishedOn": "2024-11-19T16:58:36.000Z",
-          "wordCount": 895,
-          "title": "How to Survive Our Authoritarian Post-Truth Era",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/do-not-obey.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/11/weight-of-the-world",
-          "author": null,
-          "description": "Premiering this Friday (Nov 22) on FX is a short documentary from The New York Times called Weight of the World about GLP-1 drugs. Here’s the synopsis:\nAs GLP-1 drugs like Ozempic soar in popularity for weight loss, this film follows three people on their own GLP-1 journeys and explores how decades of diet culture and society’s relentless pursuit of thinness paved the way for their rise.\n\n\nThe doc features Roxane Gay & Tressie McMillan Cottom and will will be available on Hulu on Nov 23.\nTags: drugs · GLP-1 · medicine · Roxane Gay · trailers · Tressie McMillan Cottom · video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/11/weight-of-the-world",
-          "publishedOn": "2024-11-19T15:54:31.000Z",
-          "wordCount": 725,
-          "title": "Weight of the World",
-          "imageUrl": "https://i.ytimg.com/vi/kidrzbqpOvI/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/11/0045667-on-saturday-more-than-50",
-          "author": null,
-          "description": "“On Saturday, more than 50 Jeremy Allen White lookalikes descended on the sledding hill at Humboldt Park to compete for $50 and a pack of Marlboro Red cigarettes.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/11/0045667-on-saturday-more-than-50",
-          "publishedOn": "2024-11-19T15:00:35.000Z",
-          "wordCount": 756,
-          "title": "&#8220;On Saturday, more than 50 Jeremy Allen White lookalikes descended on the...",
           "imageUrl": ""
         }
       ]
