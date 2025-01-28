@@ -6,6 +6,26 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=8363",
+          "author": "Chris Heilmann",
+          "description": "As the times we live in demand it, I released Derpify.js. It is an npm package (3 line method) that turns strings into strings that are randomly mixed upper and lower case. console.log(derpify(‘All he wanted to say was I love you all.’)) gives you: ALL hE WANTed to SAY WAS I lOVe YoU AlL. Get […]",
+          "link": "https://christianheilmann.com/2025/01/27/derpify-js-is-now-on-npm-and-github-a-tool-for-these-trying-times/",
+          "publishedOn": "2025-01-27T13:49:17.000Z",
+          "wordCount": null,
+          "title": "Derpify.js is now on npm and GitHub – a tool for these trying times…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://christianheilmann.com/?p=8361",
+          "author": "Chris Heilmann",
+          "description": "80 years ago today the concentration camp Auschwitz-Birkenau was liberated. Millions of people were killed there. Jews, Roma and Sinti, people with disabilities, homosexuals, political prisoners… All accounted for. Killed by people “just following orders”. An industrial destruction complex void of any emotion. A dehumanisation machine. Surrounded by villages of people who claim not to […]",
+          "link": "https://christianheilmann.com/2025/01/27/80-years-ago/",
+          "publishedOn": "2025-01-27T09:19:55.000Z",
+          "wordCount": null,
+          "title": "80 years ago",
+          "imageUrl": null
+        },
+        {
           "id": "https://christianheilmann.com/?p=8359",
           "author": "Chris Heilmann",
           "description": "Whilst trying to reload a document in my browser, I found an interesting shortcut. As I had a Finder window in focus with a video file highlighted, I found out that: You can rotate images and videos in Finder 90 degrees clockwise by pressing CMD+R and You can rotate images and videos in Finder 90 […]",
@@ -169,6 +189,16 @@
       "siteUrl": "https://grumpygamer.com/",
       "articles": [
         {
+          "id": "https://grumpygamer.com/damage_poll/",
+          "author": null,
+          "description": "I recently asked on Mastodon how a player would expect damage to be computed in an RPG.\n(base_damage + extra_damage) * damage_buff\n\nor\n(base_damage * damage_buff) + extra_damage\n\nGeneral consensus is there was no consensus.\nThe one thing people did agree on was that the skill/weapon description should say what the order of operation is.\nFair enough.\nI am worried about the amount of information that needs to be conveyed to players.  The game needs to work well on the Switch and the Steam Deck with limited screen size.  I play a lot of games where the 20-something devs with perfect eyesight spent too much time looking at the game on a large monitor. I’ve purposely kept the text large enough to read on a small screen. It means I need to be succinct.\nSome people suggested that players should be able to order the weapons/skills as they wanted. This is problematic since weapons/skills come in a very random order and a UI to reorder them seems like a lot of work and not really what the game is about.\nIt also doesn’t matter what order the weapons/skills are evaluated. I compute damage_buff then compute damage_extra when the weapon/skill is acquired. Later on those are used to compute damage and that is where the order matters.\nIt’s also basically an action game and players shouldn’t get too deep into stat management for a character that is going to last a few minutes.\nMaybe I’m wrong about that.\nI think I will opt for the 1st method since it allows for bigger numbers and that is something players do want.",
+          "link": "https://grumpygamer.com/damage_poll/",
+          "publishedOn": "2025-01-26T00:00:00.000Z",
+          "wordCount": 341,
+          "title": "Damage Poll",
+          "imageUrl": "https://grumpygamer.com//images/gg_cover_image2.png"
+        },
+        {
           "id": "https://grumpygamer.com/12_days_of_crunch_time_mention/",
           "author": null,
           "description": "I’m a big fan of Tim Cane’s YouTube channel.\nIf I was going to have a YouTube channel, I would want it to be like his but talking about adventure games, not RPGs. Maybe someday.\nSo imagine my delight when he posted this:\n\n    \nClayton and I wrote this poem many years ago, but not much as changed.\nI’ve never met Tim Cane but hope to someday. Maybe he will come to New Zealand.",
@@ -201,6 +231,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3043/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/muons.png\" title=\"Update: I've been banned from the physics department for the way I pronounce &quot;Doppler effect.&quot;\" alt=\"Update: I've been banned from the physics department for the way I pronounce &quot;Doppler effect.&quot;\" />",
+          "link": "https://xkcd.com/3043/",
+          "publishedOn": "2025-01-27T00:00:00.000Z",
+          "wordCount": 204,
+          "title": "Muons",
+          "imageUrl": "https://imgs.xkcd.com/comics/muons_2x.png"
+        },
         {
           "id": "https://xkcd.com/3042/",
           "author": null,
@@ -440,16 +480,6 @@
           "wordCount": 211,
           "title": "Advent Calendar Advent Calendar",
           "imageUrl": "https://imgs.xkcd.com/comics/advent_calendar_advent_calendar_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3018/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/second_stage.png\" title=\"Hmm, they won't do in-flight delivery, so let's order a new first and second stage to our emergency landing site and then try to touch down on top of them to save time.\" alt=\"Hmm, they won't do in-flight delivery, so let's order a new first and second stage to our emergency landing site and then try to touch down on top of them to save time.\" />",
-          "link": "https://xkcd.com/3018/",
-          "publishedOn": "2024-11-29T00:00:00.000Z",
-          "wordCount": 207,
-          "title": "Second Stage",
-          "imageUrl": "https://imgs.xkcd.com/comics/second_stage_2x.png"
         }
       ]
     },
@@ -804,6 +834,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/773855648552189952",
+          "author": null,
+          "description": "text-mode:\nTypotexture by Timm Ulrichs (1962)",
+          "link": "https://text-mode.tumblr.com/post/773855648552189952",
+          "publishedOn": "2025-01-27T19:30:56.000Z",
+          "wordCount": 1007,
+          "title": "text-mode:\n\nTypotexture by Timm Ulrichs (1962)",
+          "imageUrl": "https://64.media.tumblr.com/49e435b3dbf2717f36e17e86ea2b717a/tumblr_mt2oqtmWgJ1rpiyaso1_1280.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/773765040648159232",
           "author": null,
@@ -1413,16 +1453,6 @@
           "wordCount": 1017,
           "title": "text-mode:\n\n“The Angel of Death”(1890), Evelyn De Morgan; made...",
           "imageUrl": "https://64.media.tumblr.com/a5d83f959f86e5ffa83d616fcac257ef/tumblr_mx2x9bN8cx1rpiyaso1_1280.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/768419878232309760",
-          "author": null,
-          "description": "text-mode:\nPETSCII by iLKke for the Orb’s Commodore PET demo (2010)",
-          "link": "https://text-mode.tumblr.com/post/768419878232309760",
-          "publishedOn": "2024-11-28T19:31:42.000Z",
-          "wordCount": 990,
-          "title": "text-mode:\n\nPETSCII by iLKke for the Orb’s Commodore PET demo...",
-          "imageUrl": "https://64.media.tumblr.com/6d5aefc7a2fc03768d7377ae511848fc/tumblr_mv65oh2i6I1rpiyaso1_640.png"
         }
       ]
     },
@@ -1431,6 +1461,16 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=78278",
+          "author": "Erica Brozovsky",
+          "description": "Dr. Erica Brozovsky is a sociolinguist, a public scholar and a lover of words. She is the host of Otherwords, a PBS series on language and linguistics, and a professor of writing and rhetoric at Worcester Polytechnic Institute. You can find her at @ericabrozovsky on most platforms. Photo: Kelly Zhu If you’ve been on the […]\nThe post IYKYK: The secret language of memes appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/internet-culture/secret-language-of-memes-iykyk/",
+          "publishedOn": "2025-01-27T19:09:05.000Z",
+          "wordCount": 2599,
+          "title": "IYKYK: The secret language of memes",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2025/01/moz_distilled_header_memes_01_1920x1080-1080x720.png"
+        },
         {
           "id": "https://blog.mozilla.org/?p=78243",
           "author": "Tarek Ziadé",
@@ -1627,16 +1667,6 @@
           "wordCount": 2136,
           "title": "\"Rules\" that terminal programs follow",
           "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/",
-          "author": null,
-          "description": "Here’s a niche terminal problem that has bothered me for years but that I never\nreally understood until a few weeks ago. Let’s say you’re running this command\nto watch for some specific output in a log file:\ntail -f /some/log/file | grep thing1 | grep thing2\n\nIf log lines are being added to the file relatively slowly, the result I’d see\nis… nothing! It doesn’t matter if there were matches in the log file or not,\nthere just wouldn’t be any output.\nI internalized this as “uh, I guess pipes just get stuck sometimes and don’t\nshow me the output, that’s weird”, and I’d handle it by just\nrunning grep thing1 /some/log/file | grep thing2 instead, which would work.\nSo as I’ve been doing a terminal deep dive over the last few months I was\nreally excited to finally learn exactly why this happens.\nwhy…",
-          "link": "https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/",
-          "publishedOn": "2024-11-29T08:23:31.000Z",
-          "wordCount": 2102,
-          "title": "Why pipes sometimes get \"stuck\": buffering",
-          "imageUrl": null
         }
       ]
     },
@@ -1645,6 +1675,16 @@
       "feedUrl": "https://www.joshwcomeau.com/rss.xml",
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
+        {
+          "id": "https://www.joshwcomeau.com/css/container-queries-unleashed/",
+          "author": "Josh W. Comeau",
+          "description": "Container queries expand the universe of designs that can be implemented, giving us whole new superpowers. Now that container queries are broadly available, I think it’s time we start exploring this potential! In this post, I’ll share the “killer pattern” I can’t stop using in my work, and explore what’s possible with this new capability.",
+          "link": "https://www.joshwcomeau.com/css/container-queries-unleashed/",
+          "publishedOn": "2025-01-27T13:15:00.000Z",
+          "wordCount": 5548,
+          "title": "Container Queries Unleashed",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-container-queries-unleashed.jpg"
+        },
         {
           "id": "https://www.joshwcomeau.com/css/backdrop-filter/",
           "author": "Josh W. Comeau",
@@ -1668,6 +1708,21 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=10188",
+          "author": "Cory Doctorow",
+          "description": "Today's links It's pretty easy to cut $2 trillion from the federal budget, actually: Just end all the private-sector profiteering. Hey look at this: Delights to delectate. Object permanence: 2005, 2010, 2015, 2020, 2024 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. It's pretty easy to cut $2 trillion from the federal budget, actually (permalink) If Elon Musk wants to cut $2t from the US federal budget, there's a pretty straightforward way to get there – just eliminate all the beltway bandits who overcharge Uncle Sucker for everything from pharmaceuticals to roadworks to (of course) rockets, and then make the rich pay their taxe…",
+          "link": "https://pluralistic.net/2025/01/27/beltway-bandits/",
+          "publishedOn": "2025-01-27T16:50:17.000Z",
+          "wordCount": 3887,
+          "title": "Pluralistic: It's pretty easy to cut $2 trillion from the federal budget, actually (27 Jan 2025)",
+          "enclosure": {
+            "url": "https://ia802809.us.archive.org/11/items/Cory_Doctorow_Podcast_325/Cory_Doctorow_Podcast_325_-_The_case_for_cities_that_arent_dystopian_surveillance_states.mp3",
+            "length": "19597312",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=10177",
           "author": "Cory Doctorow",
@@ -2049,16 +2104,6 @@
           "wordCount": 4228,
           "title": "In defense and absolute condemnation of AI: how AI has already affected “The Game Industry”",
           "imageUrl": "http://nathalielawhead.com/noodles/itcha/IMG_9320.jpeg"
-        },
-        {
-          "id": "https://www.nathalielawhead.com/candybox/?p=5759",
-          "author": "alienmelon",
-          "description": "Despite how misunderstood the internet was, there was this immense possibility space for us artists to shape what it meant to create there. Anything was possible. It could become anything!",
-          "link": "http://www.nathalielawhead.com/candybox/creating-for-a-better-industry",
-          "publishedOn": "2024-11-28T15:12:27.000Z",
-          "wordCount": 4981,
-          "title": "Creating For A Better Industry",
-          "imageUrl": "http://nathalielawhead.com/noodles/brin_workshop/8.png"
         }
       ]
     },
@@ -2073,6 +2118,146 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/25/01/0046045-nba-greats-think-this-d-i",
+          "author": null,
+          "description": "“NBA greats think this D-II coach is a basketball genius. So why don’t you know who he is?” I love reading about stuff like this.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/01/0046045-nba-greats-think-this-d-i",
+          "publishedOn": "2025-01-28T00:00:19.000Z",
+          "wordCount": 724,
+          "title": "&#8220;NBA greats think this D-II coach is a basketball genius. So why...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/01/0046078-i-spent-too-long-playing",
+          "author": null,
+          "description": "I spent too long playing Neal Agarwal’s Simulation Clicker. “Stimulation Clicker takes players on the all-too-familiar journey from ‘this is neat’ to ‘this is ruining my life.’”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/01/0046078-i-spent-too-long-playing",
+          "publishedOn": "2025-01-27T23:19:08.000Z",
+          "wordCount": 723,
+          "title": "I spent too long playing Neal Agarwal&#8217;s Simulation Clicker. &#8220;Stimulation Clicker takes...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/01/0046077-elevationlab-is-selling-a",
+          "author": null,
+          "description": "ElevationLab is selling a waterproof AirTag case that provides 10-years of battery life. “Easy assembly: Discard AirTag’s battery and door, place on the custom contact, install AA batteries, screw shut.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/01/0046077-elevationlab-is-selling-a",
+          "publishedOn": "2025-01-27T22:41:50.000Z",
+          "wordCount": 832,
+          "title": "ElevationLab is selling a waterproof AirTag case that provides 10-years of battery...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/01/0046073-tabboo-is-a-browser-exten",
+          "author": null,
+          "description": "TabBoo is a browser extension that adds “random jumpscares to sites you’re trying to avoid”.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/01/0046073-tabboo-is-a-browser-exten",
+          "publishedOn": "2025-01-27T22:02:40.000Z",
+          "wordCount": 686,
+          "title": "TabBoo is a browser extension that adds &#8220;random jumpscares to sites you&#8217;re...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/01/0046072-the-new-yorker-is-100",
+          "author": null,
+          "description": "The New Yorker is 100 years old this year and part of the celebrations include an exhibition at the NYPL that showcases “founding documents, rare manuscripts, photographs, and timeless cover and cartoon art” from the magazine.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/01/0046072-the-new-yorker-is-100",
+          "publishedOn": "2025-01-27T21:22:17.000Z",
+          "wordCount": 880,
+          "title": "The New Yorker is 100 years old this year and part of...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/01/what-on-earth-is-jogging-1971",
+          "author": null,
+          "description": "In June 1971, the BBC aired a segment on a “mysterious” and “niche” sports imported from America called “jogging”. It’s in black & white, which makes it feel even older than it is, and they interview (while jogging!) Tory MP Ernest Marples, who says he often jogs to Parliament from his house in a lounge suit. This is something straight out of Monty Python…more interviews with people while they are running please.\nBTW, Wikipedia has this to say about Marples:\nIn later life, Marples was elevated to the peerage before fleeing to Monaco at very short notice to avoid prosecution for tax fraud.\n\n\nOnce a runner, always a runner. (thx, dunstan)\nTags: Ernest Marples · running · sports · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/01/what-on-earth-is-jogging-1971",
+          "publishedOn": "2025-01-27T20:36:46.000Z",
+          "wordCount": 818,
+          "title": "What on Earth Is Jogging? (1971)",
+          "imageUrl": "https://i.ytimg.com/vi/txBS99s0nhE/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/01/0046043-a-history-of-computer-scr",
+          "author": null,
+          "description": "A history of computer screensavers, from dumb terminal screen dimming in the 70s to flying toasters and beyond.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/01/0046043-a-history-of-computer-scr",
+          "publishedOn": "2025-01-27T19:44:22.000Z",
+          "wordCount": 707,
+          "title": "A history of computer screensavers, from dumb terminal screen dimming in the...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/01/0046079-from-teen-vogue-how-trans",
+          "author": null,
+          "description": "From Teen Vogue: How Trans Kids Can Protect Themselves Now That Trump Is in Office. “Despite what can seem like a deluge of anti-trans bills, policies, and language, there are a lot of people on your side, fighting for trans rights.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/01/0046079-from-teen-vogue-how-trans",
+          "publishedOn": "2025-01-27T18:58:23.000Z",
+          "wordCount": 719,
+          "title": "From Teen Vogue: How Trans Kids Can Protect Themselves Now That Trump...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/01/0046069-the-wiener-holocaust-libr",
+          "author": null,
+          "description": "“The Wiener Holocaust Library, one of the largest Nazi-era archives in the world, has launched a new online portal putting over 150,000 pages of evidence of the Holocaust and those who resisted it at the hands of researchers worldwide.”",
+          "link": "https://kottke.org/25/01/0046069-the-wiener-holocaust-libr",
+          "publishedOn": "2025-01-27T18:12:11.000Z",
+          "wordCount": 675,
+          "title": "&#8220;The Wiener Holocaust Library, one of the largest Nazi-era archives in the...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/01/today-is-international-holocaust-remembrance-day",
+          "author": null,
+          "description": "80 years ago today, the Nazi death camp at Auschwitz-Birkenau was liberated. An estimated 1.1 million people (Jews, Poles, Russian POWs, Roma) were murdered at Auschwitz-Birkenau between 1940 and 1945, and this date was subsequently chosen by the United Nations as International Holocaust Remembrance Day.\nOne of the things you can do to mark the day is to join Yad Vashem’s IRemember Wall:\nThe IRemember Wall is a unique and meaningful opportunity for you to participate in an online commemorative activity marking International Holocaust Remembrance Day.\nBy joining our IRemember Wall, your name will be randomly matched to the name of a Holocaust victim from our Central Database of Shoah Victims’ Names, and will appear together on the Wall.\nYou can also choose a specific name to remember and match with on the Wall from our Central Database of Shoah Victims’ Names, which contains over 4.8 million names of Holocaust victims.\n\n\nAs he does every year, illustrator Christoph Niemann drew the person he matched with and shared the story of her life.\n\nThis year I was paired with Astro Cofino. We have very little biographical information: she was born in 1930 in Athens, her parents were called Benoua and Mairy. The first thing that caught my eye when I saw Astro’s photo was a little brooch she’s wearing: it looks like a comet, and I can’t help but thinking that it was meant as a reference to her name? Astro is maybe 11 or 12 in the picture, she smiles, with a tiny hint of giddiness in her eyes.\n\n\nHere’s Astro’s information from Yad Vashem’s database — she was murdered by the Nazis at Auschwitz when she was 14.\nTags: art · Christoph Niemann · death · Holocaust · illustration · Nazis · war · World War II",
+          "link": "https://kottke.org/25/01/today-is-international-holocaust-remembrance-day",
+          "publishedOn": "2025-01-27T17:15:29.000Z",
+          "wordCount": 848,
+          "title": "Today is International Holocaust Remembrance Day",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/astro-cofino.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/01/0046040-the-homosaurus-is-an-inte",
+          "author": null,
+          "description": "“The Homosaurus is an international linked data vocabulary of Lesbian, Gay, Bisexual, Transgender, and Queer (LGBTQ) terms.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/01/0046040-the-homosaurus-is-an-inte",
+          "publishedOn": "2025-01-27T16:31:05.000Z",
+          "wordCount": 762,
+          "title": "&#8220;The Homosaurus is an international linked data vocabulary of Lesbian, Gay, Bisexual,...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/01/questloves-fantastic-video-mix-of-50-years-of-snl-music",
+          "author": null,
+          "description": "Oh this is just delightful: for the opening of his documentary film on the history of music on SNL he co-directed with Oz Rodriguez, Questlove produced what the NY Times calls “a high-speed, six-minute DJ mix of SNL music highlights”. So. Good.\nFrom the same piece in the Times, Questlove explains how it came about:\nIt’s impossible for me to phone anything in, even if I wanted to. I just wanted to throw the ultimate D.J. gig and hook you in from the gate. It started off small, and it couldn’t stop.\nIn the beginning, I was just going in five-year intervals — what’s the three strongest moments between ‘75 and ‘80? — and do it that way. But I’m so programmed as a D.J. it’s physically impossible for me to gather a group of songs together and not start — that’s my version of improvisation. And once you put, like, 17 songs together, you have a conversation with yourself: “OK, are we really doing this?”\nMy producers said: “It’ll never happen! The clearance, the clearance!” This is the first time that I realized my diplomatic position in music. People say, “Ahmir, you might be the next Quincy Jones, because your whole thing is more social than creative, knowing the right people, knowing who’s who.” There were at least 19 situations in which I had to come hat in hand to said person, and mind you, this is for two seconds — Michael Bolton singing “Love Is a Wonderful Thing” just once.\n\n\nHe got every clearance except for Luciano Pavarotti:\nThe only outright no that I couldn’t fix was that Luciano Pavarotti was going to be part of the Bobby McFerrin-Busta Rhymes mash-up. But it was too much to explain to his estate, and I couldn’t go to Italy and whatever. It could have been brilliant, Bobby McFerrin and Pavarotti going toe to toe.\n\n\nThe film premieres tonight on NBC and will be available on Peacock starting tomorrow.\nTags: movies · music · Questlove · remix · Saturday Night Live · TV · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/01/questloves-fantastic-video-mix-of-50-years-of-snl-music",
+          "publishedOn": "2025-01-27T15:21:15.000Z",
+          "wordCount": 1093,
+          "title": "Questlove&#8217;s Fantastic Video Mix of 50 Years of SNL Music",
+          "imageUrl": "https://i.ytimg.com/vi/vDxYQd51Xuk/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/01/0046064-the-source-of-the-irish",
+          "author": null,
+          "description": "The Source of the Irish Potato Famine Pathogen Is Finally Identified. “Researchers nailed down the Andes Mountains in South America as the birthplace of Phtytophthora infestans, otherwise known as potato blight or late blight.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/01/0046064-the-source-of-the-irish",
+          "publishedOn": "2025-01-27T14:33:37.000Z",
+          "wordCount": 733,
+          "title": "The Source of the Irish Potato Famine Pathogen Is Finally Identified. &#8220;Researchers...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/01/0046063-oh-man-very-sad-news",
+          "author": null,
+          "description": "Oh man, very sad news: Pableaux Johnson has died. If you were at SXSW in the late 90s or early 00s, you probably ran into Pableaux, probably at a big dinner he threw, probably him handing you, a stranger just minutes before, a plate of food. Fuck.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/01/0046063-oh-man-very-sad-news",
+          "publishedOn": "2025-01-27T04:30:59.000Z",
+          "wordCount": 1672,
+          "title": "Oh man, very sad news: Pableaux Johnson has died. If you were...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/25/01/how-to-weather-the-storm",
           "author": null,
