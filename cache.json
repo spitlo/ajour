@@ -150,16 +150,6 @@
           "wordCount": 1973,
           "title": "There oughta be a Game Boy Slideshow",
           "imageUrl": "https://there.oughta.be/assets/images/2025-01-10/youtube.jpg"
-        },
-        {
-          "id": "https://there.oughta.be/a/bluetooth-remote",
-          "author": null,
-          "description": "Do you own a Sony camera? Then you probably know the pain of trying to use a phone to remotely trigger the camera. I gave up on using Wifi and the official Play Memories app for that. …or Imaging Edge or whatever it is called now. For quite a while I have been carrying a primitive IR remote, when I learned that my α6400 actually can be controlled via Bluetooth. So, I created the app that I wished Sony would provide. Of course it’s free and open source. Click the image to see the video on youtube.com. The video is mostly about my process of going through all the options to remotely trigger my camera and, yes, I took this as an excuse to create my first “Top 5” listicle. It is a good starting point if you want to know what problem this app solves and if it is for you. This article here will go into more detail of how the app works, how to control the camera via Python, what the app can do, what it cannot do and how to automate the app from other apps like Tasker.",
-          "link": "https://there.oughta.be/a/bluetooth-remote",
-          "publishedOn": "2024-12-06T23:00:00.000Z",
-          "wordCount": 5256,
-          "title": "There oughta be a Bluetooth Remote app for Sony cameras.",
-          "imageUrl": "https://there.oughta.be/assets/images/2024-12-07/youtube.jpg"
         }
       ]
     },
@@ -221,6 +211,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3046/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/stromatolites.png\" title=\"If only my ancestors had been fortunate enough to marry into the branch of the bacteria family that could photosynthesize, like all my little green cousins here.\" alt=\"If only my ancestors had been fortunate enough to marry into the branch of the bacteria family that could photosynthesize, like all my little green cousins here.\" />",
+          "link": "https://xkcd.com/3046/",
+          "publishedOn": "2025-02-03T00:00:00.000Z",
+          "wordCount": 204,
+          "title": "Stromatolites",
+          "imageUrl": "https://imgs.xkcd.com/comics/stromatolites_2x.png"
+        },
         {
           "id": "https://xkcd.com/3045/",
           "author": null,
@@ -1664,6 +1664,16 @@
       "siteUrl": "https://pluralistic.net",
       "articles": [
         {
+          "id": "https://pluralistic.net/?p=10243",
+          "author": "Cory Doctorow",
+          "description": "Today's links Ron Deibert's \"Chasing Shadows\": How Citizen Lab invented \"counterintelligence for civil society.\" Hey look at this: Delights to delectate. Object permanence: 2005, 2010, 2015, 2020 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Ron Deibert's \"Chasing Shadows\" (permalink) Since 2001, Ron Deibert has led Citizen Lab, the world's foremost \"counterintelligence group for civil society,\" where they defend human rights activists, journalists and dissidents from the digital weapons deployed by the world's worst autocrats and thugs: https://citizenlab.ca/ Citizen Lab's work is nothing short of breathtaking. For decades, th…",
+          "link": "https://pluralistic.net/2025/02/04/citizen-lab/",
+          "publishedOn": "2025-02-04T14:28:54.000Z",
+          "wordCount": 2954,
+          "title": "Pluralistic: Ron Deibert's \"Chasing Shadows\" (04 Feb 2025)",
+          "imageUrl": null
+        },
+        {
           "id": "https://pluralistic.net/?p=10235",
           "author": "Cory Doctorow",
           "description": "Today's links Petard, Part IV: Smart is at least as important as evil. Hey look at this: Delights to delectate. Object permanence: 2005, 2010, 2015, 2024 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Petard, Part IV (permalink) Last week's announcement that Trump's FCC was going to once again allow ISPs to bribe landlords to force you to use their service was easy to miss, amidst all the chaos: https://arstechnica.com/tech-policy/2025/01/fcc-chair-nixes-plan-to-boost-broadband-competition-in-apartment-buildings/ But it sure got my attention, since that was the plot of \"Petard,\" a techno-Lovecraftian sf story I wrote for Bruce S…",
@@ -2022,16 +2032,6 @@
           "wordCount": 7253,
           "title": "Pluralistic: A year in illustration (2024) (07 Dec 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=9893",
-          "author": "Cory Doctorow",
-          "description": "Today's links Battery rationality: Ringing down the curtain on 9/11's security theater. Hey look at this: Delights to delectate. This day in history: 2009, 2014, 2019, 2023 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Battery rationality (permalink) After 9/11, we were told that \"no cost was too high\" when it came to fighting terrorism, and indeed, the US did blow trillions on forever wars and regime change projects and black sites and kidnappings and dronings and gulags that were supposed to end terrorism. Back in the imperial core, we all got to play the home edition of the \"no price is too high\" War on Terror game. New, ext…",
-          "link": "https://pluralistic.net/2024/12/06/shoenabombers/",
-          "publishedOn": "2024-12-06T13:04:07.000Z",
-          "wordCount": 4072,
-          "title": "Pluralistic: Battery rationality (06 Dec 2024)",
-          "imageUrl": null
         }
       ]
     },
@@ -2093,6 +2093,156 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/25/02/0046139-fair-calls-out-some-of",
+          "author": null,
+          "description": "FAIR calls out some of the shoddy coverage on the 2025 Coup by the NY Times & Wash. Post. They “largely buried these stories, downplaying their earth-shattering break from democratic norms”. (Wired & Rolling Stone have been courageous in their coverage.)",
+          "link": "https://kottke.org/25/02/0046139-fair-calls-out-some-of",
+          "publishedOn": "2025-02-04T23:46:58.000Z",
+          "wordCount": 637,
+          "title": "FAIR calls out some of the shoddy coverage on the 2025 Coup...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/0046138-im-a-federal-worker-elon",
+          "author": null,
+          "description": "I’m a Federal Worker. Elon Musk’s Government Data Heist Is the Entire Ballgame. “Those outside the federal government might not understand the gravity of this situation.” And: “Now is the moment to act.”",
+          "link": "https://kottke.org/25/02/0046138-im-a-federal-worker-elon",
+          "publishedOn": "2025-02-04T23:03:55.000Z",
+          "wordCount": 615,
+          "title": "I&#8217;m a Federal Worker. Elon Musk&#8217;s Government Data Heist Is the Entire...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/0046137-mike-masnick-some-conserv",
+          "author": null,
+          "description": "Mike Masnick: Some Conservatives Admit We’re In A Constitutional Crisis. “It’s about recognizing that the politics of destruction, even when wrapped in the flag of ‘winning,’ leads inevitably to collective loss.”",
+          "link": "https://kottke.org/25/02/0046137-mike-masnick-some-conserv",
+          "publishedOn": "2025-02-04T22:33:40.000Z",
+          "wordCount": 632,
+          "title": "Mike Masnick: Some Conservatives Admit We&#8217;re In A Constitutional Crisis. &#8220;It&#8217;s about...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/0046136-personal-discretion-over-",
+          "author": null,
+          "description": "Personal Discretion Over the Treasury’s Payments System Means the End of Democracy. “Don’t like “woke” research? Turn it off. Hate USAID? Cut off the money. Think payments to Lutheran Family Services are illegal? Shut them down.”",
+          "link": "https://kottke.org/25/02/0046136-personal-discretion-over-",
+          "publishedOn": "2025-02-04T22:05:25.000Z",
+          "wordCount": 681,
+          "title": "Personal Discretion Over the Treasury&#8217;s Payments System Means the End of Democracy....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/why-it-matters-that-musk-has-taken-control-of-key-government-operations",
+          "author": null,
+          "description": "It’s a couple of days old by now, but this Bluesky thread by Abe Newman (“someone who spent a decade studying how centralized information systems are used for coercion”) does a great job in laying out some of the stakes and potential consequences of Musk’s & Trump’s illegal seizure of some key operations of the federal government.\nThese systems seen arcane and technical but are critical to key operations of the federal government — payment, personnel, and operations. In good times they make the trains run on time, but now they may be exploited for control.\n\n\nNewman links to reporting that detail that these operations are controlled by Musk: payment, personnel, and operations. But seeing them as part of a bigger strategy is important:\nThe first point is to make the connection. Reporting has…",
+          "link": "https://kottke.org/25/02/why-it-matters-that-musk-has-taken-control-of-key-government-operations",
+          "publishedOn": "2025-02-04T21:38:40.000Z",
+          "wordCount": 1546,
+          "title": "Why It Matters That Musk Has Taken Control of Key Government Operations",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/immortan-joe-water-control.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/02/0046134-the-verge-interviewed-fed",
+          "author": null,
+          "description": "The Verge interviewed federal employees about the chaos they’re seeing. “Many workers still worry that outside the government, people don’t realize how unprecedented this situation is — or how much is at stake.”",
+          "link": "https://kottke.org/25/02/0046134-the-verge-interviewed-fed",
+          "publishedOn": "2025-02-04T20:27:21.000Z",
+          "wordCount": 618,
+          "title": "The Verge interviewed federal employees about the chaos they&#8217;re seeing. &#8220;Many workers...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/0046133-fuck-that-federal-workers",
+          "author": null,
+          "description": "‘Fuck That’: Federal Workers Say They’re Scared But ‘Digging In’ Amid Trump’s Chaos. “Ironically for the Trumpies, bringing us back to the office will make us stronger morale-wise.” Signs like this of resistance are good news!",
+          "link": "https://kottke.org/25/02/0046133-fuck-that-federal-workers",
+          "publishedOn": "2025-02-04T19:26:41.000Z",
+          "wordCount": 639,
+          "title": "&#8216;Fuck That&#8217;: Federal Workers Say They&#8217;re Scared But &#8216;Digging In&#8217; Amid Trump&#8217;s...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/the-2025-coup-derogatory",
+          "author": null,
+          "description": "In her latest installment of Letters From an American, historian Heather Cox Richardson writes about the ongoing coup of the US government by Donald Trump and Elon Musk.\nI’m going to start tonight by stating the obvious: the Republicans control both chambers of Congress: the House of Representatives and the Senate. They also control the White House and the Supreme Court. If they wanted to get rid of the United States Agency for International Development (USAID), for example, they could introduce a bill, debate it, pass it, and send it on to President Trump for his signature. And there would be very little the Democrats could do to stop that change.\nBut they are not doing that.\nInstead, they are permitting unelected billionaire Elon Musk, whose investment of $290 million in Trump and other …",
+          "link": "https://kottke.org/25/02/the-2025-coup-derogatory",
+          "publishedOn": "2025-02-04T18:46:51.000Z",
+          "wordCount": 1213,
+          "title": "The 2025 Coup (Derogatory)",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/0046131-here-is-some-good-news",
+          "author": null,
+          "description": "Here is some good news: the white nationalist terrorist group Proud Boys have lost control of their trademarks. They are now controlled by a Black church in Washington DC that the group attacked in 2020.",
+          "link": "https://kottke.org/25/02/0046131-here-is-some-good-news",
+          "publishedOn": "2025-02-04T18:14:07.000Z",
+          "wordCount": 636,
+          "title": "Here is some good news: the white nationalist terrorist group Proud Boys...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/0046130-trump-musk-have-discussed",
+          "author": null,
+          "description": "Trump & Musk have discussed placing “spies” in gov’t offices to root out anti-MAGA sentiment so gov’t employees can’t inform Americans about the ongoing coup. (And some fed. employees are using Reddit to get news on what’s happening in their depts.)",
+          "link": "https://kottke.org/25/02/0046130-trump-musk-have-discussed",
+          "publishedOn": "2025-02-04T17:46:15.000Z",
+          "wordCount": 639,
+          "title": "Trump & Musk have discussed placing &#8220;spies&#8221; in gov&#8217;t offices to root...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/0046129-more-on-musks-alarming-un",
+          "author": null,
+          "description": "More on Musk’s alarming unconstitutional seizure of the Treasury Department payments system: they’ve had admin access since Jan 31 and have already made changes to the system’s *live code*. (Good luck getting your tax refund if you voted for Harris?)",
+          "link": "https://kottke.org/25/02/0046129-more-on-musks-alarming-un",
+          "publishedOn": "2025-02-04T16:20:41.000Z",
+          "wordCount": 688,
+          "title": "More on Musk&#8217;s alarming unconstitutional seizure of the Treasury Department payments system:...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/0046128-very-very-bad-under-the",
+          "author": null,
+          "description": "VERY VERY BAD: Under the direction of Elon Musk, a 25-year-old engineer has seized admin privileges to the code for “Treasury Department systems responsible for nearly all payments made by the US government”, incl. Social Security, tax payments, etc.",
+          "link": "https://kottke.org/25/02/0046128-very-very-bad-under-the",
+          "publishedOn": "2025-02-04T15:55:38.000Z",
+          "wordCount": 660,
+          "title": "VERY VERY BAD: Under the direction of Elon Musk, a 25-year-old engineer...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/0046127-musks-political-project-w",
+          "author": null,
+          "description": "“Musk’s political project with DOGE is actually quite straightforward: The world’s richest man appears to be indiscriminately dismantling the government with an eye toward consolidating power and punishing his political enemies.”",
+          "link": "https://kottke.org/25/02/0046127-musks-political-project-w",
+          "publishedOn": "2025-02-04T15:32:16.000Z",
+          "wordCount": 616,
+          "title": "&#8220;Musk&#8217;s political project with DOGE is actually quite straightforward: The world&#8217;s richest...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/0046126-it-only-tuesday-not-only",
+          "author": null,
+          "description": "It Only Tuesday. “Not only do Americans have most of Tuesday morning to contend with, but all of Tuesday afternoon and then Tuesday night.”",
+          "link": "https://kottke.org/25/02/0046126-it-only-tuesday-not-only",
+          "publishedOn": "2025-02-04T15:05:04.000Z",
+          "wordCount": 631,
+          "title": "It Only Tuesday. &#8220;Not only do Americans have most of Tuesday morning...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/0046125-donald-trumps-executive-o",
+          "author": null,
+          "description": "Donald Trump’s Executive Orders Aim to Create Jim Crow for Trans People. “The orders also, variously, deny people the ability to exercise control over their own bodies, medical care, and future, while also infringing on rights of free expression.”",
+          "link": "https://kottke.org/25/02/0046125-donald-trumps-executive-o",
+          "publishedOn": "2025-02-04T01:26:49.000Z",
+          "wordCount": 638,
+          "title": "Donald Trump&#8217;s Executive Orders Aim to Create Jim Crow for Trans People....",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/25/02/0046124-heather-cox-richardson-is",
           "author": null,
@@ -5291,96 +5441,6 @@
           "publishedOn": "2024-12-07T23:31:09.000Z",
           "wordCount": 708,
           "title": "A fantastic interactive feature about the newly restored Notre-Dame cathedral. &#8220;Each day...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/12/0045801-a-bluesky-starter-pack-of",
-          "author": null,
-          "description": "A Bluesky starter pack of major news outlets that have joined the platform, including CNN, The Guardian, Reuters, NPR, Financial Times, WSJ, Wired, and USA Today.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/12/0045801-a-bluesky-starter-pack-of",
-          "publishedOn": "2024-12-06T21:21:22.000Z",
-          "wordCount": 749,
-          "title": "A Bluesky starter pack of major news outlets that have joined the...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/12/this-is-what-the-internets-for",
-          "author": null,
-          "description": "I wonder if, when Bobby Internet invented the internet, he imagined it would be used for videos like this. There’s something so fun about watching people crack up at work. See also SNL actors breaking. They also have fun accents, which I maybe shouldn’t say because kottke.org is worldwide and if you live in Australia, you probably just think the videos are funny without any special notice of the accent. \nAnyway, I was watching this and my eight year old saw it over my shoulder and said excitedly, “I’ve seen that!” I thought he was watching mostly Bluey so I asked him what he searched to find this and he said, “Balloon popping videos,” matter of factly, so I guess we’re kind of the same and that’s a perfectly understandable thing for an 8-year-old to be searching for on YouTube. Then we watched a video of these guys throwing things off a Swiss dam. \nTags: video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/12/this-is-what-the-internets-for",
-          "publishedOn": "2024-12-06T20:35:52.000Z",
-          "wordCount": 902,
-          "title": "This Is What The Internet&#8217;s For",
-          "imageUrl": "https://i.ytimg.com/vi/8iYCp3ZwoU8/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/12/0045803-404-media-reporting-on-40",
-          "author": null,
-          "description": "404 Media, reporting on 404’d media: big health insurance companies are removing information about their executive leadership teams from their websites.",
-          "link": "https://kottke.org/24/12/0045803-404-media-reporting-on-40",
-          "publishedOn": "2024-12-06T19:28:57.000Z",
-          "wordCount": 603,
-          "title": "404 Media, reporting on 404&#8217;d media: big health insurance companies are removing...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/12/dick-van-dyke-coldplay-video",
-          "author": null,
-          "description": "Coldplay tapped Spike Jonze & Mary Wigmore to direct the music video for a song called All My Love from their latest album and the pair decided to turn it into an early 99th birthday celebration of Dick Van Dyke. Van Dyke danced a bit, sung a bit, was swarmed by his family, and ruminated on nearing the end of his life:\nI’m acutely aware that I could go any day now, but I don’t know why it doesn’t concern me. I’m not afraid of it. I have the feeling — totally against anything intellectual I have — that I’m gonna be alright.\n\n\nThe video is really quite moving — what a splendid human. Watch until the end, when Chris Martin composes a song on the spot for an absolutely delighted Van Dyke. (via @danielgray.com)\nTags: Chris Martin · Coldplay · crying at work · Dick Van Dyke · Mary Wigmore · music · Spike Jonze · video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/12/dick-van-dyke-coldplay-video",
-          "publishedOn": "2024-12-06T18:09:27.000Z",
-          "wordCount": 1048,
-          "title": "98-Year-Old Dick Van Dyke Stars in Lovely New Coldplay Video",
-          "imageUrl": "https://i.ytimg.com/vi/o4OlL0OpbW8/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/12/0045793-the-sound-of-traffic-and",
-          "author": null,
-          "description": "“The sound of traffic and a uniform sea of barley have been replaced by the most beautiful meadows, full of wildflowers, young saplings and the buzz of bees.” The bees will come back if you give them flowers.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/12/0045793-the-sound-of-traffic-and",
-          "publishedOn": "2024-12-06T17:28:35.000Z",
-          "wordCount": 749,
-          "title": "“The sound of traffic and a uniform sea of barley have been...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/12/0045784-the-collapse-of-self-wort",
-          "author": null,
-          "description": "The Collapse of Self-Worth in the Digital Age. “We’ve been cored like apples, a dependency created, hooked on the public internet to tell us the worth. Every notification ping holds the possibility we have merit.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/12/0045784-the-collapse-of-self-wort",
-          "publishedOn": "2024-12-06T17:11:21.000Z",
-          "wordCount": 699,
-          "title": "The Collapse of Self-Worth in the Digital Age. &#8220;We&#8217;ve been cored like...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/12/0045800-after-almost-25-years-pau",
-          "author": null,
-          "description": "After almost 25 years, Paul Krugman is retiring as a NYT opinion columnist. Krugman: “I decided to leave in search of more freedom in terms of both style and content.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/12/0045800-after-almost-25-years-pau",
-          "publishedOn": "2024-12-06T16:34:17.000Z",
-          "wordCount": 728,
-          "title": "After almost 25 years, Paul Krugman is retiring as a NYT opinion...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/12/nasas-rocket-engine-fireplace",
-          "author": null,
-          "description": "Oh, this is so good: NASA has an 8-hour cozy fireplace video in 4K that’s actually a rocket engine (in a fireplace).\nThis glowing mood-setter is brought to you by the SLS (Space Launch System) rocket that launched Artemis I on its mission around the Moon and back on Nov. 16, 2022. 8.8 million pounds of total thrust – and a couple glasses of eggnog – might just be enough to make your holidays merry.\n\n\n(via @jenlucpiquant.bsky.social)\nTags: NASA · video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/12/nasas-rocket-engine-fireplace",
-          "publishedOn": "2024-12-06T15:56:04.000Z",
-          "wordCount": 738,
-          "title": "NASA&#8217;s Rocket Engine Fireplace",
-          "imageUrl": "https://i.ytimg.com/vi/_cgTVTwu4nw/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/12/0045787-subtle-foreshadowing-i-la",
-          "author": null,
-          "description": "“subtle foreshadowing” — I laughed unbelievably hard at this, just absolutely gasping to breathe. Academy Award winner for best editing right here.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/12/0045787-subtle-foreshadowing-i-la",
-          "publishedOn": "2024-12-06T15:16:57.000Z",
-          "wordCount": 733,
-          "title": "&#8220;subtle foreshadowing&#8221; — I laughed unbelievably hard at this, just absolutely gasping...",
           "imageUrl": ""
         }
       ]
