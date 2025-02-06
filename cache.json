@@ -212,6 +212,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3047/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/rotary_tool.png\" title=\"It was great until my thumb slipped and I accidentally launched my telescope into the air at Mach 8.\" alt=\"It was great until my thumb slipped and I accidentally launched my telescope into the air at Mach 8.\" />",
+          "link": "https://xkcd.com/3047/",
+          "publishedOn": "2025-02-05T00:00:00.000Z",
+          "wordCount": 206,
+          "title": "Rotary Tool",
+          "imageUrl": "https://imgs.xkcd.com/comics/rotary_tool_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3046/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/stromatolites.png\" title=\"If only my ancestors had been fortunate enough to marry into the branch of the bacteria family that could photosynthesize, like all my little green cousins here.\" alt=\"If only my ancestors had been fortunate enough to marry into the branch of the bacteria family that could photosynthesize, like all my little green cousins here.\" />",
@@ -815,6 +825,26 @@
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
         {
+          "id": "https://text-mode.tumblr.com/post/774671012251025408",
+          "author": null,
+          "description": "text-mode:\nA Poem to Philip Glass by Barrie Tullett (2011).\nThe book is a typographic response to the music of Philip Glass.",
+          "link": "https://text-mode.tumblr.com/post/774671012251025408",
+          "publishedOn": "2025-02-05T19:30:48.000Z",
+          "wordCount": 1031,
+          "title": "text-mode:\n\nA Poem to Philip Glass by Barrie Tullett (2011).The...",
+          "imageUrl": "https://64.media.tumblr.com/ca666d16551d5f4b24726da1905bc6da/tumblr_mt31i7MQFV1rpiyaso6_540.jpg"
+        },
+        {
+          "id": "https://text-mode.tumblr.com/post/774580414048354304",
+          "author": null,
+          "description": "text-mode:\nHenri Chopin‘s sound poetry released in 1987 by Jacques Donguy.",
+          "link": "https://text-mode.tumblr.com/post/774580414048354304",
+          "publishedOn": "2025-02-04T19:30:46.000Z",
+          "wordCount": 1009,
+          "title": "text-mode:\n\nHenri Chopin‘s sound poetry released in 1987 by...",
+          "imageUrl": "https://64.media.tumblr.com/f7c927cfc81b91cfa4e380cdabff661c/tumblr_mt2yfrXwIx1rpiyaso3_1280.jpg"
+        },
+        {
           "id": "https://text-mode.tumblr.com/post/774489812472299520",
           "author": null,
           "description": "text-mode:\nNotes from the Cosmic Typewriter \nThe Life and Work of Dom Sylvester Houédard. \nEdited by Nicola Simpson. Occasional Papers (2012).",
@@ -1413,26 +1443,6 @@
           "wordCount": 1003,
           "title": "text-mode:\n\nEye Candy [2013] by Dane",
           "imageUrl": "https://64.media.tumblr.com/69a2278cd9ecb59b92d3a4959b782f58/tumblr_mv5y1efeyf1rpiyaso1_400.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/769235205499305985",
-          "author": null,
-          "description": "text-mode:\nCorrupted C64 BBS-graphics from Antidote 2004.",
-          "link": "https://text-mode.tumblr.com/post/769235205499305985",
-          "publishedOn": "2024-12-07T19:30:58.000Z",
-          "wordCount": 968,
-          "title": "text-mode:\n\nCorrupted C64 BBS-graphics from Antidote 2004.",
-          "imageUrl": "https://64.media.tumblr.com/3caae834535846b128a44f20ab77bdf3/tumblr_mv6vv3KHBj1rpiyaso1_640.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/769144627080101888",
-          "author": null,
-          "description": "text-mode:\nGet a Grip Dolphin",
-          "link": "https://text-mode.tumblr.com/post/769144627080101888",
-          "publishedOn": "2024-12-06T19:31:16.000Z",
-          "wordCount": 980,
-          "title": "text-mode:\n\nGet a Grip Dolphin",
-          "imageUrl": "https://64.media.tumblr.com/fd12bbdd0fbb877072cf0311685c8d97/tumblr_mx2rck0H7S1rpiyaso1_400.png"
         }
       ]
     },
@@ -1614,6 +1624,16 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2025/02/05/some-terminal-frustrations/",
+          "author": null,
+          "description": "A few weeks ago I ran a terminal survey (you can read the results here) and at the end I asked:\nWhat’s the most frustrating thing about using the terminal for you?\n1600 people answered, and I decided to spend a few days categorizing all the\nresponses. Along the way I learned that classifying qualitative data is not\neasy but I gave it my best shot. I ended up building a custom\ntool to make it faster to categorize\neverything.\nAs with all of my surveys the methodology isn’t particularly scientific. I just\nposted the survey to Mastodon and Twitter, ran it for a couple of days, and got\nanswers from whoever happened to see it and felt like responding.\nHere are the top categories of frustrations!\nI think it’s worth keeping in mind while reading these comments that\n40% of people answering this sur…",
+          "link": "https://jvns.ca/blog/2025/02/05/some-terminal-frustrations/",
+          "publishedOn": "2025-02-05T16:57:00.000Z",
+          "wordCount": 1703,
+          "title": "Some terminal frustrations",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/",
           "author": null,
           "description": "Hello! Recently I ran a terminal survey and I asked people what frustrated\nthem. One person commented:\nThere are so many pieces to having a modern terminal experience. I wish it\nall came out of the box.\nMy immediate reaction was “oh, getting a modern terminal experience isn’t that\nhard, you just need to….”, but the more I thought about it, the longer the\n“you just need to…” list got, and I kept thinking about more and more\ncaveats.\nSo I thought I would write down some notes about what it means to me personally\nto have a “modern” terminal experience and what I think can make it hard for\npeople to get there.\nwhat is a “modern terminal experience”?\nHere are a few things that are important to me, with which part of the system\nis responsible for them:\nmultiline support for copy and paste: if yo…",
@@ -1663,6 +1683,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=10257",
+          "author": "Cory Doctorow",
+          "description": "Today's links MLMs are the mirror-world version of community organizing: In the mirror world, community organizers are community predators. Hey look at this: Delights to delectate. Object permanence: 2005, 2010, 2015, 2024 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. MLMs are the mirror-world version of community organizing (permalink) In her unmissable 2023 book Doppelganger, Naomi Klein paints a picture of a \"mirror world\" of right wing and conspiratorial beliefs that are warped, false reflections of real crises: https://pluralistic.net/2023/09/05/not-that-naomi/#if-the-naomi-be-klein-youre-doing-just-fine For example, Qanon…",
+          "link": "https://pluralistic.net/2025/02/05/power-of-positive-thinking/",
+          "publishedOn": "2025-02-05T18:44:30.000Z",
+          "wordCount": 4198,
+          "title": "Pluralistic: MLMs are the mirror-world version of community organizing (04 Feb 2025)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=10243",
           "author": "Cory Doctorow",
@@ -2022,16 +2052,6 @@
           "wordCount": 5841,
           "title": "Pluralistic: Predicting the present (09 Dec 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=9902",
-          "author": "Cory Doctorow",
-          "description": "Today's links A year in illustration (2024): Call me immodest, but I really think I've upped my game. Hey look at this: Delights to delectate. This day in history: 2009, 2014, 2009, 2023 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. A year in illustration (2024) (permalink) As I go into my fifth year of writing Pluralistic (!), I find myself increasingly reflecting on the unexpected pleasures of creating the collages that head each post. I am by no means a visual artist – my drawing skills are sub-stick-figure, and my spatial sense overall is remarkable terrible. I can't solve jigsaws, I get lost in hotel corridors, and I can't…",
-          "link": "https://pluralistic.net/2024/12/07/great-kepplers-ghost/",
-          "publishedOn": "2024-12-07T21:22:05.000Z",
-          "wordCount": 7253,
-          "title": "Pluralistic: A year in illustration (2024) (07 Dec 2024)",
-          "imageUrl": null
         }
       ]
     },
@@ -2093,6 +2113,116 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/25/02/timothy-snyder-of-course-its-a-coup",
+          "author": null,
+          "description": "Historian Timothy Snyder, author of On Tyranny, is urging people and the media to understand and acknowledge that what’s happening right now is definitely a coup.\nImagine if it had gone like this.\nTen Tesla cybertrucks, painted in camouflage colors with a giant X on each roof, drive noisily through Washington DC. Tires screech. Out jump a couple of dozen young men, dressed in red and black Devil’s Champion armored costumes. After giving Nazi salutes, they grab guns and run to one government departmental after another, calling out slogans like “all power to Supreme Leader Skibidi Hitler.”\nHistorically, that is what coups looked like. The center of power was a physical place. Occupying it, and driving out the people who held office, was to claim control. So if a cohort of armed men with odd symbols had stormed government buildings, Americans would have recognized that as a coup attempt.\nAnd that sort of coup attempt would have failed.\nNow imagine that, instead, the scene goes like this.\nA couple dozen young men go from government office to government office, dressed in civilian clothes and armed only with zip drives. Using technical jargon and vague references to orders from on high, they gain access to the basic computer systems of the federal government. Having done so, they proceed to grant their Supreme Leader access to information and the power to start and stop all government payments.\nThat coup is, in fact, happening. And if we do not recognize it for what it is, it could succeed.\n\n\n        \n\n         \nTags: 2025 Coup · books · Donald Trump · Elon Musk · On Tyranny · politics · Timothy Snyder · USA",
+          "link": "https://kottke.org/25/02/timothy-snyder-of-course-its-a-coup",
+          "publishedOn": "2025-02-05T23:55:27.000Z",
+          "wordCount": 828,
+          "title": "Timothy Snyder: Of Course It&#8217;s a Coup",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/0046150-lots-of-people-asking-wha",
+          "author": null,
+          "description": "Lots of people asking what they can do about the coup. Here’s a start: an updated guide from Indivisible, “a set of strategies and practical first steps” for “anyone who lives in America and is upset, scared, and determined”.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/02/0046150-lots-of-people-asking-wha",
+          "publishedOn": "2025-02-05T23:55:19.000Z",
+          "wordCount": 722,
+          "title": "Lots of people asking what they can do about the coup. Here&#8217;s...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/0046149-federal-software-contract",
+          "author": null,
+          "description": "Federal software contractor Dan Hon (who’s worked with HHS, Head Start, Medicaid/Medicare, DOD) has a great & informative thread about Musk’s seizure of the government’s computing systems.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/02/0046149-federal-software-contract",
+          "publishedOn": "2025-02-05T23:22:42.000Z",
+          "wordCount": 738,
+          "title": "Federal software contractor Dan Hon (who&#8217;s worked with HHS, Head Start, Medicaid/Medicare,...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/musks-impossible-power-grab-and-americas-crisis",
+          "author": null,
+          "description": "This long post by Mike Brock at Techdirt does a great job in laying out the many reasons why we should be concerned about Elon Musk’s power grab. Here’s just part of the section about all of the federal laws he is breaking:\nWhen Congress passed 18 U.S.C. § 208, they were imagining scenarios where federal officials might have access to some information that could affect their private interests. But Musk’s situation goes far beyond anything the drafters likely contemplated—he has gained access to the actual machinery of government while simultaneously running multiple companies directly affected by that machinery.\nConsider what this means in practice: Through DOGE, he has access to sensitive Treasury data while running public companies whose stock prices could be affected by that information. He can see classified materials while controlling SpaceX, which competes for national security contracts. He has visibility into federal agency operations while owning a social media platform that shapes public discourse about those agencies.\nThe Ethics in Government Act and STOCK Act were designed to prevent federal officials from using nonpublic information for private gain. But Musk isn’t just getting occasional access to sensitive information — he’s gained unprecedented access to core government systems while maintaining control of companies worth hundreds of billions of dollars. The potential for using this access to benefit his private interests isn’t incidental — it’s systematic and structural.\n\n\n        \n\n         \nTags: 2025 Coup · Donald Trump · Elon Musk · Mike Brock · politics · USA",
+          "link": "https://kottke.org/25/02/musks-impossible-power-grab-and-americas-crisis",
+          "publishedOn": "2025-02-05T22:47:31.000Z",
+          "wordCount": 802,
+          "title": "&#8220;Musk&#8217;s Impossible Power Grab And America&#8217;s Crisis&#8221;",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/0046147-since-nyc-began-congestio",
+          "author": null,
+          "description": "Since NYC began congestion pricing, subway ridership is up, subway crime is way down, traffic fatalities are down. Also, trip times for drivers and buses are faster and bus ridership is up.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/02/0046147-since-nyc-began-congestio",
+          "publishedOn": "2025-02-05T22:07:08.000Z",
+          "wordCount": 721,
+          "title": "Since NYC began congestion pricing, subway ridership is up, subway crime is...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/0046146-incredible-nearly-96-of-n",
+          "author": null,
+          "description": "Incredible: Nearly 96% of new cars registered in Norway in January 2025 were all-electric.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/02/0046146-incredible-nearly-96-of-n",
+          "publishedOn": "2025-02-05T21:12:37.000Z",
+          "wordCount": 713,
+          "title": "Incredible: Nearly 96% of new cars registered in Norway in January 2025...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/0046145-members-of-musks-team-hav",
+          "author": null,
+          "description": "Members of Musk’s team have tried to gain access to servers at the NOAA. Project 2025 says the agency is “‘harmful to US prosperity’ for its role in climate science”. Their data collection and capabilities would be a massive loss.",
+          "link": "https://kottke.org/25/02/0046145-members-of-musks-team-hav",
+          "publishedOn": "2025-02-05T20:18:48.000Z",
+          "wordCount": 1411,
+          "title": "Members of Musk&#8217;s team have tried to gain access to servers at...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/the-end-of-the-liberal-consensus",
+          "author": null,
+          "description": "I really appreciate Heather Cox Richardson’s daily newsletter for providing historical context to what’s happening right now. In this morning’s letter, after summarizing the Musk/Trump attacks on our government (most of which I linked to yesterday), Richardson talks about the history of the liberal consensus, the post-WWII agreement about how government should be deployed and how that consensus is coming to an end (gradually, then suddenly).\nMusk’s takeover of the U.S. government to override Congress and dictate what programs he considers worthwhile is a logical outcome of forty years of Republican rhetoric. After World War II, members of both political parties agreed that the government should regulate business, provide a basic social safety net, promote infrastructure, and protect civil …",
+          "link": "https://kottke.org/25/02/the-end-of-the-liberal-consensus",
+          "publishedOn": "2025-02-05T19:44:44.000Z",
+          "wordCount": 923,
+          "title": "The End of the Liberal Consensus",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/a-programming-note-1",
+          "author": null,
+          "description": "Hey, everyone. I just wanted to update you on what’s been happening here at KDO HQ. As you might have noticed (and if my inbox is any indication, you have), I have pivoted to posting almost exclusively about the coup happening in the United States right now. My focus will be on this crisis for the foreseeable future. I don’t yet know to what extent other things will make it back into the mix. I still very much believe that we need art and beauty and laughter and distraction and all of that, but I also believe very strongly that this situation is too important and potentially dangerous to ignore. And it is largely being ignored by a mainstream press that has been softened up by years of conservative pushback, financial pressures, and hollowing out by Facebook & Google. But I have an indepen…",
+          "link": "https://kottke.org/25/02/a-programming-note-1",
+          "publishedOn": "2025-02-05T17:30:54.000Z",
+          "wordCount": 14146,
+          "title": "A Programming Note",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/this-changes-everything",
+          "author": null,
+          "description": "This is a great piece by Jamelle Bouie, which lays out in plain language what Musk and Trump are doing to the federal government, why it matters, and what can be done about it.\nTo describe the current situation in the executive branch as merely a constitutional crisis is to understate the significance of what we’re experiencing. “Constitutional crisis” does not even begin to capture the radicalism of what is unfolding in the federal bureaucracy and of what Congress’s decision not to act may liquidate in terms of constitutional meaning.\nTogether, Trump and Musk are trying to rewrite the rules of the American system. They are trying to instantiate an anti-constitutional theory of executive power that would make the president supreme over all other branches of government. They are doing so in service of a plutocratic agenda of austerity and the upward redistribution of wealth. And the longer Congress stands by, the more this is fixed in place.\nIf Trump, Musk and their allies — like Russell Vought, the president’s pick to lead the Office of Management and Budget and a vocal advocate of an autocratic “radical constitutionalism” that treats the president is an elected despot — succeed, then the question of American politics won’t be if they’ll win the next election, but whether the Constitution as we know it is still in effect.\n\n\nVery much worth reading the whole thing — I found his conclusion somewhat unexpected (but IMO correct).\nTags: 2025 Coup · Donald Trump · Elon Musk · Jamelle Bouie · politics · USA",
+          "link": "https://kottke.org/25/02/this-changes-everything",
+          "publishedOn": "2025-02-05T14:41:52.000Z",
+          "wordCount": 805,
+          "title": "This Changes Everything",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/0046140-a-self-coup-also-called-a",
+          "author": null,
+          "description": "“A self-coup, also called an autocoup…is a form of coup d’état in which a political leader, having come to power through legal means, stays in power illegally through the actions of themselves and/or their supporters.”",
+          "link": "https://kottke.org/25/02/0046140-a-self-coup-also-called-a",
+          "publishedOn": "2025-02-05T13:17:19.000Z",
+          "wordCount": 653,
+          "title": "&#8220;A self-coup, also called an autocoup&#8230;is a form of coup d&#8217;état in...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/25/02/0046139-fair-calls-out-some-of",
           "author": null,
@@ -5421,26 +5551,6 @@
           "publishedOn": "2024-12-08T16:06:05.000Z",
           "wordCount": 715,
           "title": "Catherine Russell has starred in the same off-Broadway play for 37 years,...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/12/0045805-jia-tolentino-on-the-some",
-          "author": null,
-          "description": "Jia Tolentino on the sometimes celebratory reaction to the death of UnitedHealthcare CEO Brian Thompson and what it says about business & violence in America. “A denied health-insurance claim can instantly bend the trajectory of a life toward bankruptcy and misery and death.”",
-          "link": "https://kottke.org/24/12/0045805-jia-tolentino-on-the-some",
-          "publishedOn": "2024-12-08T00:38:54.000Z",
-          "wordCount": 610,
-          "title": "Jia Tolentino on the sometimes celebratory reaction to the death of UnitedHealthcare...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/12/0045804-a-fantastic-interactive-f",
-          "author": null,
-          "description": "A fantastic interactive feature about the newly restored Notre-Dame cathedral. “Each day we have 20 difficulties. But it’s different when you work on a building that has a soul. Beauty makes everything easier.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/12/0045804-a-fantastic-interactive-f",
-          "publishedOn": "2024-12-07T23:31:09.000Z",
-          "wordCount": 708,
-          "title": "A fantastic interactive feature about the newly restored Notre-Dame cathedral. &#8220;Each day...",
           "imageUrl": ""
         }
       ]
