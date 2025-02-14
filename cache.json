@@ -460,16 +460,6 @@
           "wordCount": 206,
           "title": "Linear Sort",
           "imageUrl": "https://imgs.xkcd.com/comics/linear_sort_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3025/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/phase_change.png\" title=\"Even when you try to make nice, smooth ice cubes in a freezer, sometimes one of them will shoot out a random ice spike, which physicists ascribe to kiki conservation.\" alt=\"Even when you try to make nice, smooth ice cubes in a freezer, sometimes one of them will shoot out a random ice spike, which physicists ascribe to kiki conservation.\" />",
-          "link": "https://xkcd.com/3025/",
-          "publishedOn": "2024-12-16T00:00:00.000Z",
-          "wordCount": 206,
-          "title": "Phase Change",
-          "imageUrl": "https://imgs.xkcd.com/comics/phase_change_2x.png"
         }
       ]
     },
@@ -854,6 +844,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/775395784828076032",
+          "author": null,
+          "description": "text-mode:\nEduardo Kac: Typewritings (1981-1982)",
+          "link": "https://text-mode.tumblr.com/post/775395784828076032",
+          "publishedOn": "2025-02-13T19:30:45.000Z",
+          "wordCount": 1006,
+          "title": "text-mode:\n\nEduardo Kac: Typewritings (1981-1982)",
+          "imageUrl": "https://64.media.tumblr.com/3b6dcf5c14a893bd0dd66e8b7adb088b/tumblr_mt9mdwaayC1rpiyaso4_1280.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/775305216821215232",
           "author": null,
@@ -1463,16 +1463,6 @@
           "wordCount": 999,
           "title": "text-mode:\n\nBy v5mt, 2010",
           "imageUrl": "https://64.media.tumblr.com/tumblr_l8ei5aC7dr1qaajkio1_500.gif"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/769959968833241088",
-          "author": null,
-          "description": "text-mode:\nCubiic [2013] by Kristian Myklebust",
-          "link": "https://text-mode.tumblr.com/post/769959968833241088",
-          "publishedOn": "2024-12-15T19:30:46.000Z",
-          "wordCount": 998,
-          "title": "text-mode:\n\nCubiic [2013] by Kristian Myklebust",
-          "imageUrl": "https://64.media.tumblr.com/d772b6317bebb37657727b1fa58d44d8/tumblr_mv5ylkYrJG1rpiyaso1_400.png"
         }
       ]
     },
@@ -1659,6 +1649,16 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/",
+          "author": null,
+          "description": "I was talking to a friend about how to add a directory to your PATH today. It’s\nsomething that feels “obvious” to me since I’ve been using the terminal for a\nlong time, but when I searched for instructions for how to do it, I actually\ncouldn’t find something that explained all of the steps – a lot of them just\nsaid “add this to ~/.bashrc”, but what if you’re not using bash? What if your\nbash config is actually in a different file? And how are you supposed to figure\nout which directory to add anyway?\nSo I wanted to try to write down some more complete directions and mention some\nof the gotchas I’ve run into over the years.\nHere’s a table of contents:\nstep 1: what shell are you using?\nstep 2: find your shell’s config file\n\na note on bash’s config file\nstep 3: figure out which directory to ad…",
+          "link": "https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/",
+          "publishedOn": "2025-02-13T12:27:56.000Z",
+          "wordCount": 1838,
+          "title": "How to add a directory to your PATH",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2025/02/05/some-terminal-frustrations/",
           "author": null,
           "description": "A few weeks ago I ran a terminal survey (you can read the results here) and at the end I asked:\nWhat’s the most frustrating thing about using the terminal for you?\n1600 people answered, and I decided to spend a few days categorizing all the\nresponses. Along the way I learned that classifying qualitative data is not\neasy but I gave it my best shot. I ended up building a custom\ntool to make it faster to categorize\neverything.\nAs with all of my surveys the methodology isn’t particularly scientific. I just\nposted the survey to Mastodon and Twitter, ran it for a couple of days, and got\nanswers from whoever happened to see it and felt like responding.\nHere are the top categories of frustrations!\nI think it’s worth keeping in mind while reading these comments that\n40% of people answering this sur…",
@@ -1708,6 +1708,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=10320",
+          "author": "Cory Doctorow",
+          "description": "Today's links Premature Internet Activists: The retconning of tech rights. Hey look at this: Delights to delectate. Object permanence: 2005, 2015, 2024 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Premature Internet Activists (permalink) \"Premature antifacist\" was a sarcastic term used by leftists caught up in the Red Scare to describe themselves, as they came under ideological suspicion for having traveled to Spain to fight against Franco's fascists before the US entered WWII and declared war against the business-friendly, anticommunist fascist Axis powers of Italy, Spain, Greece, and, of course, Germany: https://www.google.c…",
+          "link": "https://pluralistic.net/2025/02/13/digital-rights/",
+          "publishedOn": "2025-02-13T18:01:28.000Z",
+          "wordCount": 3671,
+          "title": "Pluralistic: Premature Internet Activists (13 Feb 2025)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=10309",
           "author": "Cory Doctorow",
@@ -2128,6 +2138,96 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/25/02/0046217-really-interesting-essay-",
+          "author": null,
+          "description": "Really interesting essay about organizing: How Much Discomfort Is the Whole World Worth? “If we cannot organize beyond the bounds of our comfort zones, we will never build movements large enough to combat the forces that would destroy us.”",
+          "link": "https://kottke.org/25/02/0046217-really-interesting-essay-",
+          "publishedOn": "2025-02-13T23:52:03.000Z",
+          "wordCount": 628,
+          "title": "Really interesting essay about organizing: How Much Discomfort Is the Whole World...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/fuck-the-middle-ground",
+          "author": null,
+          "description": "Jessica Valenti on why there’s no room for compromise or middle ground on abortion rights.\nAnyone still holding out hope for a ‘compromise’ on abortion rights needs to give it up. Right now.\nOver the past few days, a Louisiana mother was arrested for getting abortion pills for her teenager, abortion reports became public records in Indiana, and Arkansas advanced a bill mandating an anti-abortion propaganda video be shown in public school classrooms.\nAlso in the last week, the new Trump administration erased information on reproductive health and privacy rights from government websites, Missouri Republicans moved to overturn a pro-choice amendment that voters approved in November, Idaho legislators proposed a bill that could punish abortion patients with the death penalty, and South Carolina lawmakers pushed legislation that wouldn’t just ban pro-choice websites—it would make it a felony to even talk about abortion with a pregnant person.\nIn the short amount of time Donald Trump has been in office, anti-abortion extremists have been told they can attack clinics without fear of arrest, and the Republican party who once claimed they’d never punish women for abortion now say bills to prosecute patients as murderers “inspire healthy dialogue.”\nDo these sound like people interested in ‘compromise’? We’re watching conservatives dismantle democracy and force women back into the home — killing quite a few of us along the way. In what universe is the appropriate response finding common ground?\nYou don’t ask the guy with the boot on your neck to wear a softer shoe. You rip his fucking foot off.\n\n\nThis is a paywalled article but it includes the entire text — “It’s past time to act like it.” is the last line of the piece.\nSee also Rebecca Solnit: On Not Meeting Nazis Halfway and A.R. Moxon’s essay that reminds us the center between fascism and democracy is fascism. (thx, meg)\nTags: abortion · Jessica Valenti · politics",
+          "link": "https://kottke.org/25/02/fuck-the-middle-ground",
+          "publishedOn": "2025-02-13T23:16:46.000Z",
+          "wordCount": 872,
+          "title": "&#8220;Fuck the Middle Ground&#8221;",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/0046216-house-gop-has-reintroduce",
+          "author": null,
+          "description": "House GOP has reintroduced the SAVE Act, which would require voters to show a passport or birth cert. when voting as proof of citizenship. But 140M Americans don’t have a passport and 69M women don’t have a birth cert. matching their current last name.",
+          "link": "https://kottke.org/25/02/0046216-house-gop-has-reintroduce",
+          "publishedOn": "2025-02-13T22:30:34.000Z",
+          "wordCount": 643,
+          "title": "House GOP has reintroduced the SAVE Act, which would require voters to...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/0046215-elie-mystal-on-elon-musks",
+          "author": null,
+          "description": "Elie Mystal on Elon Musk’s vision of neo-apartheid. “First and most important, apartheid is a business plan. It’s a system designed to exploit cheap Black labor, without ever letting Black people reap the financial and social gains of hard work.”",
+          "link": "https://kottke.org/25/02/0046215-elie-mystal-on-elon-musks",
+          "publishedOn": "2025-02-13T21:49:50.000Z",
+          "wordCount": 639,
+          "title": "Elie Mystal on Elon Musk&#8217;s vision of neo-apartheid. &#8220;First and most important,...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/0046210-bad-company-private-equit",
+          "author": null,
+          "description": "Bad Company: Private Equity and the Death of the American Dream is a forthcoming book that’s “an exposé of private equity’s devastating impact on American lives, communities, and the economy”.",
+          "link": "https://kottke.org/25/02/0046210-bad-company-private-equit",
+          "publishedOn": "2025-02-13T21:18:50.000Z",
+          "wordCount": 620,
+          "title": "Bad Company: Private Equity and the Death of the American Dream is...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/is-this-the-end-of-the-american-constitution",
+          "author": null,
+          "description": "Jamelle Bouie has started posting video essays on his YouTube channel about the current US political crisis. His latest one is an adaptation of his NY Times piece, There Is No Going Back.\nNow, even if Musk had been elected to office, this would still be one of the worst abuses of power in American history. That is unquestionable. No one in the executive branch has the legal authority to unilaterally cancel congressional appropriations. No one has the legal authority to turn the Treasury payment system into a means of political retribution. No one has the authority to summarily dismiss civil servants without cause. No one has the authority to take down and scrub Americans’ data unilaterally. And no private citizen has the authority to access some of the most sensitive data the government collects on private citizens for their own unknown and probably nefarious purposes.\n\n\nBouie has also regularly been posting videos to his Instagram (bio: “National program director of the CHUM Group”) and TikTok.\nTags: 2025 Coup · Donald Trump · Elon Musk · Jamelle Bouie · politics · USA · video",
+          "link": "https://kottke.org/25/02/is-this-the-end-of-the-american-constitution",
+          "publishedOn": "2025-02-13T20:30:19.000Z",
+          "wordCount": 740,
+          "title": "Is This the End of the American Constitution?",
+          "imageUrl": "https://i.ytimg.com/vi/aBVGmDaQRbE/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/02/0046213-on-a-scale-of-10",
+          "author": null,
+          "description": "On a scale of +10 (full democracy) to -10 (full autocracy), the US now scores a 0, its lowest score since the Civil War. “The USA is no longer considered a democracy and lies at the cusp of autocracy.”",
+          "link": "https://kottke.org/25/02/0046213-on-a-scale-of-10",
+          "publishedOn": "2025-02-13T19:52:34.000Z",
+          "wordCount": 603,
+          "title": "On a scale of +10 (full democracy) to -10 (full autocracy), the...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/0046211-rfk-jr-confirmed-as-secre",
+          "author": null,
+          "description": "RFK Jr. confirmed as secretary of the Health and Human Services Department. There has been a lot of horrible news over the past month but this one is making me feel ill. I’m gonna log off for awhile.",
+          "link": "https://kottke.org/25/02/0046211-rfk-jr-confirmed-as-secre",
+          "publishedOn": "2025-02-13T16:39:35.000Z",
+          "wordCount": 665,
+          "title": "RFK Jr. confirmed as secretary of the Health and Human Services Department....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/0046208-heather-cox-richardson-on",
+          "author": null,
+          "description": "Heather Cox Richardson on the history of the liberal consensus, from Lincoln to Eisenhower, and how the country has been turning back toward “the idea of a small government that serves the needs of a few wealthy people”.",
+          "link": "https://kottke.org/25/02/0046208-heather-cox-richardson-on",
+          "publishedOn": "2025-02-13T16:04:29.000Z",
+          "wordCount": 622,
+          "title": "Heather Cox Richardson on the history of the liberal consensus, from Lincoln...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/25/02/0046209-the-trailer-for-season-si",
           "author": null,
