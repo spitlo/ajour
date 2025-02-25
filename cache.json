@@ -202,6 +202,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3055/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/giants.png\" title=\"I can't get over the suspicion that all those viral pictures are photoshopped and 'Flemish' belongs in the lower right circle.\" alt=\"I can't get over the suspicion that all those viral pictures are photoshopped and 'Flemish' belongs in the lower right circle.\" />",
+          "link": "https://xkcd.com/3055/",
+          "publishedOn": "2025-02-24T00:00:00.000Z",
+          "wordCount": 204,
+          "title": "Giants",
+          "imageUrl": "https://imgs.xkcd.com/comics/giants_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3054/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/scream_cipher.png\" title=\"AAAAAA A ÃA̧AȂA̦ ǍÅÂÃĀÁȂ AAAAAAA!\" alt=\"AAAAAA A ÃA̧AȂA̦ ǍÅÂÃĀÁȂ AAAAAAA!\" />",
@@ -440,16 +450,6 @@
           "wordCount": 208,
           "title": "Time Capsule Instructions",
           "imageUrl": "https://imgs.xkcd.com/comics/time_capsule_instructions_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3030/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/lasering_incidents.png\" title=\"I still don't know how the police found my compound where I ran an illegal searchlight depot/covert blimp airfield/fireworks testing range.\" alt=\"I still don't know how the police found my compound where I ran an illegal searchlight depot/covert blimp airfield/fireworks testing range.\" />",
-          "link": "https://xkcd.com/3030/",
-          "publishedOn": "2024-12-27T00:00:00.000Z",
-          "wordCount": 206,
-          "title": "Lasering Incidents",
-          "imageUrl": "https://imgs.xkcd.com/comics/lasering_incidents_2x.png"
         }
       ]
     },
@@ -458,6 +458,16 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "upgrading-usb-powered-devices-to-usbc",
+          "author": null,
+          "description": "For a small home project, my son suggested adding some under lights to a plant stand we recently added to our kitchen. I figured we could do this with a cheap LED strip and it could connect to the \"house\" using Zigbee and Home Assistant.\nAll was well until I realised the plug socket nearest the plants already had it's USB port in use and only the USB-C port was available. No worries, I'll just snip the USB plug and swap in a USB-C plug. Or so I thought.",
+          "link": "https://remysharp.com/2025/02/24/upgrading-usb-powered-devices-to-usbc",
+          "publishedOn": "2025-02-24T00:00:00.000Z",
+          "wordCount": 1001,
+          "title": "Upgrading USB devices to USB-C [blog]",
+          "imageUrl": "https://remysharp.com/images/plant-led.jpg"
+        },
         {
           "id": "2025-02-12-9469eb6c",
           "author": null,
@@ -527,16 +537,6 @@
           "wordCount": 2417,
           "title": "My 2024 [blog]",
           "imageUrl": "https://remysharp.com/images/2024-sharps.jpg"
-        },
-        {
-          "id": "starter-villain",
-          "author": null,
-          "description": "Cats…sentient cats.\nA fun, good length book that doesn't take itself too seriously (which, sentient cats is probably the first clue).\nOn reflection (and since the blurb already gives this away), the \"hyperintelligent talking spy cats\" are a core mechanic of the story, I do now wonder why they hadn't turned out to be the super villains? I'm pretty sure the first thing smart cats would do is ship humans off to a petting zoo as soon as they had the kind of skills the cats in this book does…\nMinor plot hole aside, I enjoyed this story. Very light weight on the brain, pretty silly without being utterly stupid, and manages to end up in a sensible place.\nA recommend if you want something to bridge between some heavy reading.",
-          "link": "https://remysharp.com/books/2024/starter-villain",
-          "publishedOn": "2024-12-27T00:00:00.000Z",
-          "wordCount": 619,
-          "title": "Starter Villain [book]",
-          "imageUrl": null
         }
       ]
     },
@@ -800,16 +800,6 @@
           "wordCount": 975,
           "title": "Style-observer: JS to observe CSS property changes, for reals",
           "imageUrl": "https://lea.verou.me/blog/2025/style-observer/images/social.gif"
-        },
-        {
-          "id": "https://lea.verou.me/blog/2024/context-chips/",
-          "author": null,
-          "description": "One would think that we’ve more or less figured survey UI out by now.\nMultiple choice questions, checkbox questions, matrix questions, dropdown questions, freeform textfields, numerical scales,\nwhat more could one possibly need?!\nAnd yet, every time Google sponsored me to lead one of the State Of … surveys, and especially the inaugural State of HTML 2023 Survey,\nI kept hitting the same wall; I kept feeling that the established options for answering UIs were woefully inadequate for\nbalancing the collection good insights with minimal friction for end-users.\nThe State Of surveys used a completely custom survey infrastructure,\nso I could often (but not always) convince engineering to implement new question UIs.\nAfter joining Font Awesome, I somehow found myself leading yet another survey, desp…",
-          "link": "https://lea.verou.me/blog/2024/context-chips/",
-          "publishedOn": "2024-12-27T00:00:00.000Z",
-          "wordCount": 5114,
-          "title": "Context Chips in Survey Design: “Okay, but how does it _feel_?”",
-          "imageUrl": "https://lea.verou.me/blog/2024/context-chips/images/cover.png"
         }
       ]
     },
@@ -818,6 +808,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/776392348998516736",
+          "author": null,
+          "description": "text-mode:\nPinky (1986-1992) screens, a Minitel Micro-serveur for Atari ST.\nMore info here (french)",
+          "link": "https://text-mode.tumblr.com/post/776392348998516736",
+          "publishedOn": "2025-02-24T19:30:42.000Z",
+          "wordCount": 999,
+          "title": "text-mode:\n\nPinky (1986-1992) screens, a Minitel Micro-serveur...",
+          "imageUrl": "https://64.media.tumblr.com/1af479eb0ab5600f26e5059e7d37dcbc/tumblr_ms37goxB4I1rpiyaso4_400.gif"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/776301746888867840",
           "author": null,
@@ -1427,16 +1427,6 @@
           "wordCount": 1007,
           "title": "text-mode:\n\nI HAS FLOPPY!! [2013] by Redcrab",
           "imageUrl": "https://64.media.tumblr.com/6b8209d8c6c67f953f9c875c77a1e2d5/tumblr_mv5xispWng1rpiyaso1_400.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/770956522298687488",
-          "author": null,
-          "description": "text-mode:\nPetroglyphs, made thousands of years ago in Puako, Hawaii.\nWhat is it with humans and straight lines, anyway?",
-          "link": "https://text-mode.tumblr.com/post/770956522298687488",
-          "publishedOn": "2024-12-26T19:30:34.000Z",
-          "wordCount": 1037,
-          "title": "text-mode:\n\nPetroglyphs, made thousands of years ago in Puako,...",
-          "imageUrl": "https://64.media.tumblr.com/334c6bab16ef05c65d6d57f425af8887/tumblr_mnq01z2yqE1rpiyaso1_640.jpg"
         }
       ]
     },
@@ -1640,6 +1630,16 @@
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
         {
+          "id": "https://www.joshwcomeau.com/blog/whimsical-animations/",
+          "author": "Josh W. Comeau",
+          "description": "I spent the past few weeks packing as many easter eggs as I could into my latest project, and in this blog post, I want to dig into some of the more interesting details! If you’re interested in animations/interactions, you’ll want to check this one out; I share a bunch of my favourite secrets and tricks. 😄",
+          "link": "https://www.joshwcomeau.com/blog/whimsical-animations/",
+          "publishedOn": "2025-02-24T11:00:00.000Z",
+          "wordCount": 12597,
+          "title": "A Million Little Secrets",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-whimsical-animations.jpg"
+        },
+        {
           "id": "https://www.joshwcomeau.com/css/container-queries-unleashed/",
           "author": "Josh W. Comeau",
           "description": "Container queries expand the universe of designs that can be implemented, giving us whole new superpowers. Now that container queries are broadly available, I think it’s time we start exploring this potential! In this post, I’ll share the “killer pattern” I can’t stop using in my work, and explore what’s possible with this new capability.",
@@ -1662,6 +1662,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=10377",
+          "author": "Cory Doctorow",
+          "description": "Today's links How an obscure advisory board lets utilities steal $50b/year from ratepayers: The Society of Utility and Regulatory Financial Analysts is a hell of a henhouse fox. Hey look at this: Delights to delectate. Object permanence: 2005, 2010, 2015 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. How an obscure advisory board lets utilities steal $50b/year from ratepayers (permalink) Two figures to ponder. First: if your local power company is privately owned, you've seen energy rate hikes at 49% above inflation over the last three years. Second: if your local power company is publicly owned, you've seen energy rates go up a…",
+          "link": "https://pluralistic.net/2025/02/24/surfa/",
+          "publishedOn": "2025-02-24T10:47:14.000Z",
+          "wordCount": 3501,
+          "title": "Pluralistic: How an obscure advisory board lets utilities steal $50b/year from ratepayers (24 Feb 2025)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=10372",
           "author": "Cory Doctorow",
@@ -2102,6 +2112,146 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/25/02/0046305-as-facebook-abandons-fact",
+          "author": null,
+          "description": "As Facebook Abandons Fact-Checking, It’s Also Offering Bonuses for Viral Content. “The upshot: a likely resurgence of incendiary false stories on Facebook, some of them funded by Meta.”",
+          "link": "https://kottke.org/25/02/0046305-as-facebook-abandons-fact",
+          "publishedOn": "2025-02-24T22:19:47.000Z",
+          "wordCount": 638,
+          "title": "As Facebook Abandons Fact-Checking, It&#8217;s Also Offering Bonuses for Viral Content. &#8220;The...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/0046306-actress-hunter-schafers-g",
+          "author": null,
+          "description": "Actress Hunter Schafer’s gender marker was changed to “male” on her US passport due to Trump’s anti-trans passport rules. “This is real…and no one, no matter their circumstance, no matter how wealthy or white or pretty or whatever, is excluded.”",
+          "link": "https://kottke.org/25/02/0046306-actress-hunter-schafers-g",
+          "publishedOn": "2025-02-24T21:24:32.000Z",
+          "wordCount": 640,
+          "title": "Actress Hunter Schafer&#8217;s gender marker was changed to &#8220;male&#8221; on her US...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/inalienable-rights-vs-conditional-privileges",
+          "author": null,
+          "description": "From @existennialmemes on Tumblr:\nListen, if a Bad President can come in and take away our rights and we’re dependent on a Good President replacing them in four years to give us back our rights, then we do not have any rights.\nIf politicians can take or distribute them, then they’re not “inalienable” and they’re not “rights.”\nWe don’t have inalienable rights we have conditional privileges, divvied out according to the whims of whoever currently holds the reins.\nAnd if we want to have actual rights, then we must build a system in which no one has the power to take them away to begin with.\n\n\nI am wondering what a system like that would actually look like… (via @halaylah.bsky.social)\nTags: politics · USA",
+          "link": "https://kottke.org/25/02/inalienable-rights-vs-conditional-privileges",
+          "publishedOn": "2025-02-24T20:09:42.000Z",
+          "wordCount": 684,
+          "title": "Inalienable Rights vs. Conditional Privileges",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/0046307-aoc-shows-how-to-fight",
+          "author": null,
+          "description": "AOC Shows How to Fight Back and Stand Strong. “AOC’s stand for her constituents, and her public refusal to be intimidated, are models of resistance that other Democrats would do well to imitate.”",
+          "link": "https://kottke.org/25/02/0046307-aoc-shows-how-to-fight",
+          "publishedOn": "2025-02-24T19:36:51.000Z",
+          "wordCount": 619,
+          "title": "AOC Shows How to Fight Back and Stand Strong. &#8220;AOC&#8217;s stand for...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/andor-season-two-trailer",
+          "author": null,
+          "description": "I don’t know about you, but I’m ready to watch an earnest show about an ultimately successful revolution against a fascist government. It will be interesting to see in this political climate whether Disney+ is the place to watch such a thing.\nTags: Star Wars · trailers · TV · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/02/andor-season-two-trailer",
+          "publishedOn": "2025-02-24T18:52:26.000Z",
+          "wordCount": 841,
+          "title": "Andor Season Two Trailer",
+          "imageUrl": "https://i.ytimg.com/vi/AE4wxt70aUM/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/02/0046303-this-website-is-tracking-",
+          "author": null,
+          "description": "This website is tracking how many people have lost their jobs because of the USAID Stop-Work Order (55K confirmed, 100K+ estimated globally) and documenting other effects (people dying around the world).",
+          "link": "https://kottke.org/25/02/0046303-this-website-is-tracking-",
+          "publishedOn": "2025-02-24T18:13:06.000Z",
+          "wordCount": 626,
+          "title": "This website is tracking how many people have lost their jobs because...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/0046301-from-last-week-tonight-wi",
+          "author": null,
+          "description": "From Last Week Tonight With John Oliver, a list of instructions on “how to change your settings to make yourself less valuable to Meta”.",
+          "link": "https://kottke.org/25/02/0046301-from-last-week-tonight-wi",
+          "publishedOn": "2025-02-24T17:15:09.000Z",
+          "wordCount": 631,
+          "title": "From Last Week Tonight With John Oliver, a list of instructions on...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/0046302-a-collection-of-videos-of",
+          "author": null,
+          "description": "A collection of videos of people fighting back against the Trump administration, incl. Maine governor Janet Mills, former NFL player Chris Kluwe, and AOC. It’s good to see this stuff and to take inspiration from it.",
+          "link": "https://kottke.org/25/02/0046302-a-collection-of-videos-of",
+          "publishedOn": "2025-02-24T16:44:37.000Z",
+          "wordCount": 653,
+          "title": "A collection of videos of people fighting back against the Trump administration,...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/fired-nps-usfs-blm-employees-share-their-stories",
+          "author": null,
+          "description": "The Guardian profiled a number of people fired from the agencies that manage federal lands - the US Forest Service, Bureau of Land Management, etc. — purged from their jobs by the Trump/Musk administration.\nVictoria Winch, US Forest Service wilderness forestry technician, Flathead national forest, Spotted Bear ranger district, adjacent to Glacier national park, Montana:\nPeople come on to these lands to hunt, to feed their families. People are allowed to get firewood. Outfitters, who are a big part of the local economy, use these trails.\nBut every single field person at Spotted Bear was terminated. Those trails won’t get cleared this year. And it takes less than one season for them to be totally impassable.\n\n\nNick Massey, USFS wilderness Ranger, Pisgah national forest, North Carolina:\nWe we…",
+          "link": "https://kottke.org/25/02/fired-nps-usfs-blm-employees-share-their-stories",
+          "publishedOn": "2025-02-24T15:58:38.000Z",
+          "wordCount": 1897,
+          "title": "Fired NPS, USFS, BLM Employees Share Their Stories",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/purged-park-employees.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/02/0046299-following-a-public-uproar",
+          "author": null,
+          "description": "Following a public uproar, the Trump administration is walking back some of the purges of National Park Service employees.",
+          "link": "https://kottke.org/25/02/0046299-following-a-public-uproar",
+          "publishedOn": "2025-02-24T15:31:55.000Z",
+          "wordCount": 630,
+          "title": "Following a public uproar, the Trump administration is walking back some of...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/0046298-from-eater-what-should-yo",
+          "author": null,
+          "description": "From Eater, What Should You Do if ICE Comes to Your Restaurant? “We spoke to legal experts about what restaurant owners and workers can do to protect themselves from immigration raids.”",
+          "link": "https://kottke.org/25/02/0046298-from-eater-what-should-yo",
+          "publishedOn": "2025-02-24T15:03:03.000Z",
+          "wordCount": 627,
+          "title": "From Eater, What Should You Do if ICE Comes to Your Restaurant?...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/0046297-we-the-builders-is-a",
+          "author": null,
+          "description": "We the Builders is a site run by current and former federal employees about how “DOGE” is destroying the government. “They are destroyers. We are the builders. We don’t work for DOGE. We have always worked for you.”",
+          "link": "https://kottke.org/25/02/0046297-we-the-builders-is-a",
+          "publishedOn": "2025-02-24T14:34:40.000Z",
+          "wordCount": 620,
+          "title": "We the Builders is a site run by current and former federal...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/0046296-when-your-only-job-is",
+          "author": null,
+          "description": "When Your Only Job Is to Cuddle. “On that day, I rocked him for three hours. My left shoulder ached, my arm went numb, but I would not let go, for he and I had work to do, trust to build.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/02/0046296-when-your-only-job-is",
+          "publishedOn": "2025-02-24T02:15:02.000Z",
+          "wordCount": 1039,
+          "title": "When Your Only Job Is to Cuddle. &#8220;On that day, I rocked...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/02/0046290-running-pong-in-240-brows",
+          "author": null,
+          "description": "Running Pong in 240 Browser Tabs. “That’s 240 browser tabs in a tight 8x30 grid. And they’re running pong!”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/02/0046290-running-pong-in-240-brows",
+          "publishedOn": "2025-02-24T00:44:51.000Z",
+          "wordCount": 817,
+          "title": "Running Pong in 240 Browser Tabs. &#8220;That’s 240 browser tabs in a...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/25/02/0046292-speaking-of-amy-sherald-s",
           "author": null,
@@ -5800,96 +5950,6 @@
           "publishedOn": "2024-12-27T14:53:29.000Z",
           "wordCount": 795,
           "title": "Absolutely brilliant interactive explainer on everything about the Moon: how it moves,...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/12/0045916-a-reader-found-her-father",
-          "author": null,
-          "description": "A reader found her father in a photo on the back cover of Isabel Wilkerson’s book Caste. The photo was of a crowd of people at the 1963 March on Washington.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/12/0045916-a-reader-found-her-father",
-          "publishedOn": "2024-12-26T23:21:59.000Z",
-          "wordCount": 823,
-          "title": "A reader found her father in a photo on the back cover...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/12/0045917-the-unbearable-slowness-o",
-          "author": null,
-          "description": "The unbearable slowness of being: “Streaming a high-def video takes about 25M bits/sec. The download rate in a typical American home is about 262 million bps. Now researchers have estimated the speed of information flow in the human brain: just 10 bps.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/12/0045917-the-unbearable-slowness-o",
-          "publishedOn": "2024-12-26T22:24:16.000Z",
-          "wordCount": 735,
-          "title": "The unbearable slowness of being: &#8220;Streaming a high-def video takes about 25M...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/12/an-epic-2024-movie-trailer-mashup",
-          "author": null,
-          "description": "Sleepy Skunk’s end-of-the-year movie trailer mashups are always worth a look. This year’s installment got me wondering how many of these movies I’ve actually seen — not that many, I don’t think. (via @rands)\nTags: movies · remix · trailers · video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/12/an-epic-2024-movie-trailer-mashup",
-          "publishedOn": "2024-12-26T21:21:40.000Z",
-          "wordCount": 694,
-          "title": "An Epic 2024 Movie Trailer Mashup",
-          "imageUrl": "https://i.ytimg.com/vi/CGkZIzE39q8/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/12/how-to-make-80s-school-cafeteria-pizza",
-          "author": null,
-          "description": "Food historian Max Miller stumbled upon the original recipe for 1980s/90s school cafeteria pizza (you know, with the iconic rectangular slices) and decided to whip up a batch (with “pourable dough”).\nTastes just like it. You can like — all of those herbs are exactly the same as they were. I think maybe it tastes a little fresher than I remember, like the flavors are a little heightened…but that’s that’s them. This is the pizza…\n\n\nWhile the pizza was baking, Miller talked about the history of school lunches (following up on his video about school lunches during the Depression) — it’s a story that features J. Edgar Hoover and The Black Panthers.\nYou can find the pizza recipe on Miller’s website or in the original 1988 USDA publication Quantity Recipes for School Food Service courtesy of the Internet Archive. The pourable dough recipe is on page B-15 and the cheese pizza recipe is on D-30. (via @ernie.tedium.co)\nTags: education · food · how to · Max Miller · pizza · video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/12/how-to-make-80s-school-cafeteria-pizza",
-          "publishedOn": "2024-12-26T20:23:32.000Z",
-          "wordCount": 826,
-          "title": "How to Make 80s School Cafeteria Pizza",
-          "imageUrl": "https://i.ytimg.com/vi/40MvjFaTVzE/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/12/0045909-you-can-watch-the-first-1",
-          "author": null,
-          "description": "You can watch the first five seasons of The Dick Van Dyke show on YouTube for free — the first season is here.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/12/0045909-you-can-watch-the-first-1",
-          "publishedOn": "2024-12-26T19:26:04.000Z",
-          "wordCount": 721,
-          "title": "You can watch the first five seasons of The Dick Van Dyke...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/12/0045912-minnesota-guaranteed-free",
-          "author": null,
-          "description": "Minnesota Guaranteed Free School Meals for All Kids. Now Let’s Do It Nationwide. It’s been a big success: “We can see that students are just better prepared. They’re better able to learn and focus.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/12/0045912-minnesota-guaranteed-free",
-          "publishedOn": "2024-12-26T18:11:33.000Z",
-          "wordCount": 746,
-          "title": "Minnesota Guaranteed Free School Meals for All Kids. Now Let&#8217;s Do It...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/12/0045913-californias-raised-the-mi",
-          "author": null,
-          "description": "California’s raised the minimum wage for fast-food workers and contrary to some bad press & much industry outcry, it’s been a success. “California’s fast-food sector gained jobs in all but one month since September 2023.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/12/0045913-californias-raised-the-mi",
-          "publishedOn": "2024-12-26T16:59:55.000Z",
-          "wordCount": 854,
-          "title": "California&#8217;s raised the minimum wage for fast-food workers and contrary to some...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/12/0045914-whooping-cough-cases-reac",
-          "author": null,
-          "description": "Whooping cough cases reach highest level in a decade. “The U.S. has recorded over 32,000 whooping cough cases this year, compared with around 5,100 as of mid-December last year. Infants are most vulnerable…” (Guess why?)\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/12/0045914-whooping-cough-cases-reac",
-          "publishedOn": "2024-12-26T15:49:55.000Z",
-          "wordCount": 877,
-          "title": "Whooping cough cases reach highest level in a decade. &#8220;The U.S. has...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/12/0045908-10-years-ago-i-wrote",
-          "author": null,
-          "description": "10 years ago, I wrote about why I support Wikipedia with a monthly donation. “I consider it a subscription fee to an indispensable and irreplaceable resource I use dozens of times weekly while producing kottke[dot]org.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/12/0045908-10-years-ago-i-wrote",
-          "publishedOn": "2024-12-26T14:34:30.000Z",
-          "wordCount": 1171,
-          "title": "10 years ago, I wrote about why I support Wikipedia with a...",
           "imageUrl": ""
         }
       ]
