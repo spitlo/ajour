@@ -109,6 +109,16 @@
       "siteUrl": "https://100r.co",
       "articles": [
         {
+          "id": "log.html#feb2025",
+          "author": "Rek Bell",
+          "description": "Hey everyone!\nThis is the list of all the changes we've done to our projects during the month of February.\nSummary Of Changes\n100r.co, added Dinghy gelcoat, Week 10, Week 11, and Week 12 of the Victoria to Sitka logbook. Updated solar with new pictures and corrected information (this page used to be called solar tips).\nNebu, released a spreadsheet editor.\nGrimgrains, added a new recipe: Stovetop zaatar pizza.\nStore, added maritime flag stickers for sale.\nRabbit Waves, added a new page: Emergency Bag. Updated Morse Code with Flags page with animations, released a printable zine(see how to fold a zine).\nOn February 14th, we celebrated our 9th year living aboard our beloved Pino. Read a short text by Devine, which expands on what it means to truly be a generalist.\nDespite the weather being le…",
+          "link": "https://100r.co/site/log.html#feb2025",
+          "publishedOn": "2025-03-01T07:00:00.000Z",
+          "wordCount": 684,
+          "title": "Summary of changes for February 2025",
+          "imageUrl": null
+        },
+        {
           "id": "log.html#jan2025",
           "author": "Rek Bell",
           "description": "Hey everyone!\nThis is the list of all the changes we've done to our projects during the month of January.\nSummary Of Changes\n100r.co, added a new page: tote. Added Week 8 and Week 9 of the Victoria to Sitka logbook.\nTote, released the project on itch.io.\nGrimgrains, added a new recipe: chocolate turtles.\nLeft, added an option to collapse the nav bar on the left.\nOrca, added community links.\nDevine spent time improving the html5 Uxn emulator, and thanks to their hard work it is now possible to play Niju, Donsol, and Oquonie directly in the browser on itch.io, the same goes for projects like Noodle and Tote.\nIt's been a long time coming, but Oquonie is now playable on Playdate. Rek spent the last week converting the 2-bit assets for Oquonie to 1-bit, because some of the characters and tiles were too difficult to read, now all of the assets work perfectly on monochromatic screens. As an amazing plus, Devine got the music and sounds working perfectly, just like in the original iOS version.\nFrom January 19-25th, we both participated in Goblin Week, an event in which you make goblins every day for a week(whatever that means to you). See the goblin series made by Rek(viewable here in higher rez also) and the one made by Devine(Mastodon).\nPino has earned two new replacement solar panels this month! We have not installed them yet, it is still too cold outside in Victoria (we are expecting snow this week).\nWe share photos often in our monthly updates, and so Devine spent time building our very own custom photo feed named Days. It is possible to follow the feed with RSS. \nBook Club: This month we are reading How do You Live? by Genzaburo Yoshino and Middlemarch by George Eliot.\nContinue Reading",
@@ -116,16 +126,6 @@
           "publishedOn": "2025-02-01T07:00:00.000Z",
           "wordCount": 331,
           "title": "Summary of changes for January 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "log.html#dec2024",
-          "author": "Rek Bell",
-          "description": "Hey everyone!\nThis is the list of all the changes we've done to our projects during the month of December.\nSummary Of Changes\n100r.co, updated the documentation for our various projects.\nLeft, added support for unicode input(Mastodon).\nRabbit Waves, added a page on Air to Ground Signals.\nDecember Adventure, collected Devine's code experiments.\nBefore diving into the ins and outs of the past year, we'd like to begin by sending our very warmest thanks to everyone who generously hosted us, drove us to the hardware store, invited us out for fries to cheer us up, fixed typos in the books, improved the documentation, lent us power-tools, donated to the studio, spent hours to show us how to fix broken things and corrected us when we were wrong.\nDuring the first few weeks of the year, we were busy…",
-          "link": "https://100r.co/site/log.html#dec2024",
-          "publishedOn": "2025-01-01T07:00:00.000Z",
-          "wordCount": 3634,
-          "title": "Summary of changes for December 2024",
           "imageUrl": null
         }
       ]
@@ -460,16 +460,6 @@
           "wordCount": 208,
           "title": "Origami Black Hole",
           "imageUrl": "https://imgs.xkcd.com/comics/origami_black_hole_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3032/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/skew_t_log_p.png\" title=\"The most important quantity for meteorologists is of course the product of latent pressure and temperostrophic enthalpy, though 'how nice the weather is' is a close second.\" alt=\"The most important quantity for meteorologists is of course the product of latent pressure and temperostrophic enthalpy, though 'how nice the weather is' is a close second.\" />",
-          "link": "https://xkcd.com/3032/",
-          "publishedOn": "2025-01-01T00:00:00.000Z",
-          "wordCount": 206,
-          "title": "Skew-T Log-P",
-          "imageUrl": "https://imgs.xkcd.com/comics/skew_t_log_p_2x.png"
         }
       ]
     },
@@ -818,6 +808,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/776845325513244672",
+          "author": null,
+          "description": "text-mode:\nWorks by Trivial for the Amiga ASCII Art Exhibition in Cologne 2013. The first two ones made together with Mortimer Twang and the last one together with dMG.\nMore here.",
+          "link": "https://text-mode.tumblr.com/post/776845325513244672",
+          "publishedOn": "2025-03-01T19:30:34.000Z",
+          "wordCount": 1051,
+          "title": "text-mode:\n\nWorks by Trivial for the Amiga ASCII Art Exhibition...",
+          "imageUrl": "https://64.media.tumblr.com/ac6a1e8e2d0cb45adbf43ba5802ba378/tumblr_mshr11EKzL1rpiyaso1_1280.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/776754751787433984",
           "author": null,
@@ -1417,26 +1417,6 @@
           "wordCount": 986,
           "title": "text-mode:\n\nWeaving Sample Warps by Judie Eatough (2006)",
           "imageUrl": "https://64.media.tumblr.com/b8719ddaadad8018582e7eddb12895a6/tumblr_mjy7zlD8yc1rpiyaso7_1280.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/771409516968427520",
-          "author": null,
-          "description": "text-mode:\nAmbulance or Ambulance Car virus (Germany, 1990).\nWhen an infected file is executed, an ASCII ambulance can be seen moving across the screen and a siren start to sound displaying a alert message like : BOOM!. Ambulance is not a destructive virus; it simply spreads itself around and shows off its payload once in a while.",
-          "link": "https://text-mode.tumblr.com/post/771409516968427520",
-          "publishedOn": "2024-12-31T19:30:43.000Z",
-          "wordCount": 1090,
-          "title": "text-mode:\n\nAmbulance or Ambulance Car virus (Germany,...",
-          "imageUrl": "https://64.media.tumblr.com/6f88b094b0edc26543b7f4947357cdef/tumblr_mtnhjlt7TA1rpiyaso1_400.gif"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/771399056609132544",
-          "author": null,
-          "description": "prostheticknowledge:\nHAPPY NEW YEAR!!! - 2014",
-          "link": "https://text-mode.tumblr.com/post/771399056609132544",
-          "publishedOn": "2024-12-31T16:44:27.000Z",
-          "wordCount": 1016,
-          "title": "prostheticknowledge:\n\nHAPPY NEW YEAR!!! - 2014",
-          "imageUrl": "https://64.media.tumblr.com/67140b4760b38fe3c2fc4165f57c4d9e/tumblr_myoz5s1T2O1qav3uso1_500.gif"
         }
       ]
     },
@@ -1702,6 +1682,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=10427",
+          "author": "Cory Doctorow",
+          "description": "Today's links Zincchump Linkdump: Some links from the road. Object permanence: 2005, 2010, 2015, 2020, 2024 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Zincchump Linkdump (permalink) I've got a really good excuse for finishing this week with a folder full of links that didn't make it into the newsletter – I'm on a crazy book tour and I've been in four cities this week alone. Time for another linkdump! Here's the previous 28 'dumps: https://pluralistic.net/tag/linkdump/ I like to start these 'dumps off on an upbeat note, and this week, I've got something gratifyingly cool and wondrous. Stars Reach is a \"living galaxy sandbox M…",
+          "link": "https://pluralistic.net/2025/03/01/menagerie/",
+          "publishedOn": "2025-03-01T10:26:40.000Z",
+          "wordCount": 3402,
+          "title": "Pluralistic: Zincchump Linkdump (01 Mar 2025)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=10393",
           "author": "Cory Doctorow",
@@ -2172,6 +2162,26 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/25/03/trump-betrays-ukraine-in-white-house-ambush-of-zelenskyy",
+          "author": null,
+          "description": "Here’s a straightforward description of Trump’s “ambush” of Volodymyr Zelenskyy from Heather Cox Richardson:\nToday, President Donald Trump ambushed Ukraine president Volodymyr Zelensky in an attack that seemed designed to give the White House an excuse for siding with Russia in its war on Ukraine. Vice President J.D. Vance joined Trump and Zelensky in the Oval Office — his attendance at such an event was unusual — in front of reporters. Those reporters included one from Russian state media, but no one from the Associated Press or Reuters, who were not granted access.\nIn front of the cameras, Trump and Vance engaged in what Josh Marshall of Talking Points Memo called a “mob hit,” spouting Russian propaganda and trying to bully Zelensky into accepting a ceasefire and signing over rights to U…",
+          "link": "https://kottke.org/25/03/trump-betrays-ukraine-in-white-house-ambush-of-zelenskyy",
+          "publishedOn": "2025-03-01T22:18:15.000Z",
+          "wordCount": 1067,
+          "title": "Trump Betrays Ukraine in White House Ambush of Zelenskyy",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/03/jd-vance-chastised-by-vermont-snow-reporter",
+          "author": null,
+          "description": "JD Vance, fresh off of helping his boss ambush & insult a foreign leader in the White House yesterday afternoon, is on vacation in Vermont with his family this weekend and will be skiing at Sugarbush Resort in Warren, VT, a 15-minute drive from where I live.\nThis morning, Sugarbush snow reporter Lucy Welch took the opportunity to make some good trouble by sending out a message of resistance against Vance and the administration he represents. The message went out via email to all Sugarbush daily report subscribers and appeared on the website for a brief time before it was removed. Here is the text of her message:\nMar 1st, 2025, 6:49 AM: Today of all days, I would like to reflect on what Sugarbush means to me. This mountain has brought me endless days of joy, adventure, challenges, new exper…",
+          "link": "https://kottke.org/25/03/jd-vance-chastised-by-vermont-snow-reporter",
+          "publishedOn": "2025-03-01T15:01:19.000Z",
+          "wordCount": 2376,
+          "title": "Good Trouble: JD Vance Chastised by Vermont Snow Reporter",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/vance-protests.jpg"
+        },
         {
           "id": "https://kottke.org/25/02/0046351-defense-secretary-pete-he",
           "author": null,
@@ -6221,26 +6231,6 @@
           "wordCount": 1004,
           "title": "Apple TV+ is going to be free this weekend for non-subscribers. You...",
           "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/24/12/saying-goodbye-to-2024",
-          "author": null,
-          "description": "Well, I really don’t know what happened here. One minute it was the second week of January 2024 and the next minute we’re a scant 12 hours away from 2025 — a ludicrously futuristic date, a sci-fi date. And I didn’t do a media diet post all year! I have no excuse; it just…didn’t happen. Over and over and over and over again — it just kept not happening!\nAs penance, and for my last post of the year, here’s a giant media diet recap of (almost) everything I read, watched, listened to, and experienced in the year of our lord 2024. (I’ll try to break it up into smaller chunks next year… 🤞)\nIntermezzo by Sally Rooney. I am just totally in the tank for how Rooney writes about power dynamics & interpersonal interactions. I think maybe this is my second-favorite of hers after Normal People? (A)\n\nSh…",
-          "link": "https://kottke.org/24/12/saying-goodbye-to-2024",
-          "publishedOn": "2024-12-31T17:47:36.000Z",
-          "wordCount": 4742,
-          "title": "Saying Goodbye to 2024",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/big-butter.jpg"
-        },
-        {
-          "id": "https://kottke.org/24/12/0045937-inside-zildjian-a-400-yea",
-          "author": null,
-          "description": "Inside Zildjian, a 400-year-old cymbal-making company in Massachusetts. Their business took off after The Beatles’ Ed Sullivan appearance and the alloy they use for making cymbals is a closely guarded secret.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/24/12/0045937-inside-zildjian-a-400-yea",
-          "publishedOn": "2024-12-31T16:06:40.000Z",
-          "wordCount": 901,
-          "title": "Inside Zildjian, a 400-year-old cymbal-making company in Massachusetts. Their business took off...",
-          "imageUrl": ""
         }
       ]
     },
@@ -6268,16 +6258,6 @@
           "wordCount": 9978,
           "title": "“Miss, May I Drive You Home”:  Ends Badly For The Singer",
           "imageUrl": "https://www.zeroto180.org/wp-content/uploads/2025/01/Judy-Lynn-thumbnail.jpg"
-        },
-        {
-          "id": "https://www.zeroto180.org/?p=100636",
-          "author": "Zeroto180",
-          "description": "Before the “klacker toy” had been banned by federal authorities, a New York City-area beat group with two 45 releases under its belt, The 8th Wonders of the World, seized an opportunity to record a song of praise for the dangerously hyperkinetic play object marketed squarely at the teenybopper demographic. This one-off release under the […]\nThe post The Klacker-King Song — “Outlaw Bubblegum” on Rotten Rat Records appeared first on Zero to 180 - Three Minute Magic.",
-          "link": "https://www.zeroto180.org/the-klacker-king-song-outlaw-bubblegum-on-rotten-rat-records/",
-          "publishedOn": "2024-12-31T14:50:11.000Z",
-          "wordCount": 10407,
-          "title": "The Klacker-King Song — “Outlaw Bubblegum” on Rotten Rat Records",
-          "imageUrl": "https://www.zeroto180.org/wp-content/uploads/2024/12/Klacker-King-test-thumbnail.jpg"
         }
       ]
     },
