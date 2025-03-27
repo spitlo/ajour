@@ -126,16 +126,6 @@
           "wordCount": 432,
           "title": "Death by Scrolling",
           "imageUrl": "https://grumpygamer.com//images/dbs_media.png"
-        },
-        {
-          "id": "https://grumpygamer.com/damage_poll/",
-          "author": null,
-          "description": "I recently asked on Mastodon how a player would expect damage to be computed in an RPG.\n(base_damage + extra_damage) * damage_buff\n\nor\n(base_damage * damage_buff) + extra_damage\n\nGeneral consensus is there was no consensus.\nThe one thing people did agree on was that the skill/weapon description should say what the order of operation is.\nFair enough.\nI am worried about the amount of information that needs to be conveyed to players.  The game needs to work well on the Switch and the Steam Deck with limited screen size.  I play a lot of games where the 20-something devs with perfect eyesight spent too much time looking at the game on a large monitor. I’ve purposely kept the text large enough to read on a small screen. It means I need to be succinct.\nSome people suggested that players should be able to order the weapons/skills as they wanted. This is problematic since weapons/skills come in a very random order and a UI to reorder them seems like a lot of work and not really what the game is about.\nIt also doesn’t matter what order the weapons/skills are evaluated. I compute damage_buff then compute damage_extra when the weapon/skill is acquired. Later on those are used to compute damage and that is where the order matters.\nIt’s also basically an action game and players shouldn’t get too deep into stat management for a character that is going to last a few minutes.\nMaybe I’m wrong about that.\nI think I will opt for the 1st method since it allows for bigger numbers and that is something players do want.",
-          "link": "https://grumpygamer.com/damage_poll/",
-          "publishedOn": "2025-01-26T00:00:00.000Z",
-          "wordCount": 341,
-          "title": "Damage Poll",
-          "imageUrl": "https://grumpygamer.com//images/gg_cover_image2.png"
         }
       ]
     },
@@ -150,6 +140,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3068/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/rock_identification.png\" title=\"'Is it worth anything?' 'I dunno, is the answer to that question worth another $5?'\" alt=\"'Is it worth anything?' 'I dunno, is the answer to that question worth another $5?'\" />",
+          "link": "https://xkcd.com/3068/",
+          "publishedOn": "2025-03-26T00:00:00.000Z",
+          "wordCount": 206,
+          "title": "Rock Identification",
+          "imageUrl": "https://imgs.xkcd.com/comics/rock_identification_2x.png"
+        },
         {
           "id": "https://xkcd.com/3067/",
           "author": null,
@@ -737,6 +737,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/779110248995815424",
+          "author": null,
+          "description": "text-mode:\negosann 2013",
+          "link": "https://text-mode.tumblr.com/post/779110248995815424",
+          "publishedOn": "2025-03-26T19:30:34.000Z",
+          "wordCount": 1001,
+          "title": "text-mode:\n\negosann 2013",
+          "imageUrl": "https://64.media.tumblr.com/dbfc237a7a6157747b4a7fd49ccb054f/tumblr_mqcyjd5XX61rpiyaso1_500.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/779019649202470912",
           "author": null,
@@ -1326,16 +1336,6 @@
           "wordCount": 1068,
           "title": "text-mode:\n\nHymn virus (1990).When the date and month correspond...",
           "imageUrl": "https://64.media.tumblr.com/a11e4077e56fd342bca457c9bf994ff1/tumblr_mtnn9kTcTY1rpiyaso1_540.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/773674455935434752",
-          "author": null,
-          "description": "text-mode:\nStephansdom aka St. Stephen’s Cathedral (Vienna) from 1160. \nThe roof is 111 metres (361 ft) long, and covered by 230,000 glazed tiles. The double-headed eagle that is symbolic of the empire ruled from Vienna by the Habsburg dynasty.",
-          "link": "https://text-mode.tumblr.com/post/773674455935434752",
-          "publishedOn": "2025-01-25T19:30:57.000Z",
-          "wordCount": 1068,
-          "title": "text-mode:\n\nStephansdom aka St. Stephen’s Cathedral (Vienna)...",
-          "imageUrl": "https://64.media.tumblr.com/32b9a6c4b54f33184b615b14c0b3890a/tumblr_mso70gQVxd1rpiyaso5_1280.jpg"
         }
       ]
     },
@@ -1344,6 +1344,16 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=78493",
+          "author": "Santiago Andrigo",
+          "description": "VPNs are great for keeping your connection secure and your activity private, but they can also get in the way. From triggering captchas to making some websites harder to access, traditional VPNs often force users into a trade-off between privacy and convenience. The new Mozilla VPN extension for Firefox — now available on Windows — […]\nThe post A smarter VPN experience: Introducing the Mozilla VPN extension for Windows appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/products/firefox/extensions-addons/mozilla-vpn-for-firefox/",
+          "publishedOn": "2025-03-26T18:23:48.000Z",
+          "wordCount": 1898,
+          "title": "A smarter VPN experience: Introducing the Mozilla VPN extension for Windows",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2025/03/Making-Mozilla-VPN-more-flexible_-A-new-extension-for-Windows-1080x720.png"
+        },
         {
           "id": "https://blog.mozilla.org/?p=78491",
           "author": "Stefan French",
@@ -1581,6 +1591,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=10598",
+          "author": "Cory Doctorow",
+          "description": "Today's links The AOC-Sanders anti-oligarch tour is all about organizing: The courage to govern WITH, not OVER. Hey look at this: Delights to delectate. Object permanence: 2015, 2020, 2024 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The AOC-Sanders anti-oligarch tour is all about organizing (permalink) It's hard to imagine today, but Barack Obama ran as a populist outsider, buoyed into office by a grassroots organizing campaign that used an incredibly innovative online organizing tool called MyBarackObama.com, which directly connected rank-and-file supporters so they could self-organize, creating an unstoppable force. But as …",
+          "link": "https://pluralistic.net/2025/03/26/not-me-us/",
+          "publishedOn": "2025-03-26T17:59:20.000Z",
+          "wordCount": 2822,
+          "title": "Pluralistic: The AOC-Sanders anti-oligarch tour is all about organizing (26 Mar 2025)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=10593",
           "author": "Cory Doctorow",
@@ -2035,16 +2055,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=10177",
-          "author": "Cory Doctorow",
-          "description": "Today's links It's not a crime if we do it with an app: How Big Potato and the other food cartels did greedflation and got away with it. Hey look at this: Delights to delectate. Object permanence: 2005, 2010, 2015, 2020, 2024 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. It's not a crime if we do it with an app (permalink) The core regulatory proposition of the tech industry is \"it's not a crime if we do it with an app.\" It's not an unlicensed taxi if we do it with an app. It's not an illegal hotel room if we do it with an app. It's not an unregistered security if we do it with an app. It's not wage theft if we do it with an ap…",
-          "link": "https://pluralistic.net/2025/01/25/potatotrac/",
-          "publishedOn": "2025-01-25T17:25:12.000Z",
-          "wordCount": 3156,
-          "title": "Pluralistic: It's not a crime if we do it with an app (25 Jan 2025)",
-          "imageUrl": null
         }
       ]
     },
@@ -2066,6 +2076,12 @@
       ]
     },
     {
+      "title": "Neil Panchal",
+      "feedUrl": "https://neil.computer/rss/",
+      "siteUrl": "https://neil.computer/",
+      "articles": []
+    },
+    {
       "title": "Nicky's New Shtuff",
       "feedUrl": "https://ncase.me/feed.xml",
       "siteUrl": "https://ncase.me/",
@@ -2076,6 +2092,86 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/25/03/0046511-wired-surveyed-730-coders",
+          "author": null,
+          "description": "Wired surveyed 730 coders and developers about how they use AI chatbots & tools. “Freelance coders seem to like AI more than full-time coders.”",
+          "link": "https://kottke.org/25/03/0046511-wired-surveyed-730-coders",
+          "publishedOn": "2025-03-26T23:00:26.000Z",
+          "wordCount": 846,
+          "title": "Wired surveyed 730 coders and developers about how they use AI chatbots...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/03/tavares-strachan",
+          "author": null,
+          "description": "I like these collage-like artworks by Tavares Strachan. One of the figures depicted above in the third piece, just above the queen, is polar explorer Matthew Henson, who was the first person (maybe?) to reach the geographic North Pole in 1909 as part of Robert Peary’s expedition.\nTags: art · Matthew Henson · Robert Peary · Tavares Strachan\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/03/tavares-strachan",
+          "publishedOn": "2025-03-26T20:02:20.000Z",
+          "wordCount": 700,
+          "title": "Tavares Strachan",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/tavares-strachan-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/03/0046520-watch-all-of-the-commerci",
+          "author": null,
+          "description": "Watch All of the Commercials That David Lynch Has Directed: A Big 30-Minute Compilation. “The New York Department of Sanitation engaged Lynch’s services to imbue their anti-littering campaign with his signature high-contrast ominousness…”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/03/0046520-watch-all-of-the-commerci",
+          "publishedOn": "2025-03-26T19:13:44.000Z",
+          "wordCount": 745,
+          "title": "Watch All of the Commercials That David Lynch Has Directed: A Big...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/03/0046517-jess-piper-on-speaking-to",
+          "author": null,
+          "description": "Jess Piper on speaking to people in conservative areas of America about Trumpism. “You are going to have to tell them the truth. You know the truth. We have to be in the streets.”",
+          "link": "https://kottke.org/25/03/0046517-jess-piper-on-speaking-to",
+          "publishedOn": "2025-03-26T18:03:52.000Z",
+          "wordCount": 614,
+          "title": "Jess Piper on speaking to people in conservative areas of America about...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/03/what-did-hubble-see-on-your-birthday",
+          "author": null,
+          "description": "The Hubble Space Telescope “has observed some fascinating cosmic wonder every day of the year, including on your birthday”. Just enter your month and day of birth to find out what it saw. My birthday image is of the Egg Nebula (shown above):\nWhere is the center of the Egg Nebula? Like a baby chick pecking its way out of an egg, the star in the center of the Egg Nebula is casting away shells of gas and dust as it slowly transforms itself into a white dwarf star.\nThe Egg Nebula is a rapidly evolving pre-planetary nebula spanning about one light year toward the constellation of Cygnus. Thick dust blocks the center star from view, while the dust shells further out reflect light from this star. Light vibrating in the plane defined by each dust grain, the central star and the observer is preferentially reflected, causing an effect known as polarization. Measuring the orientation of the polarized light for the Egg Nebula gives clues as to location of the hidden source. The above image taken by the Advanced Camera for Surveys on the Hubble Space Telescope is false-color coded to highlight the orientation of polarization.\n\n\nCool! I like my birthday nebula. (via the morning news)\nTags: astronomy · Hubble telescope · NASA · space\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/03/what-did-hubble-see-on-your-birthday",
+          "publishedOn": "2025-03-26T17:05:37.000Z",
+          "wordCount": 867,
+          "title": "What Did Hubble See on Your Birthday?",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/egg-nebula.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/03/0046514-waldo-jaquith-on-why-he",
+          "author": null,
+          "description": "Waldo Jaquith on why he works in the open (blogging, open sourcing software, etc.): “I’ve long worked in the open, overwhelmingly for one reason: it increases enormously the surface area for success.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/03/0046514-waldo-jaquith-on-why-he",
+          "publishedOn": "2025-03-26T16:01:51.000Z",
+          "wordCount": 736,
+          "title": "Waldo Jaquith on why he works in the open (blogging, open sourcing...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/03/0046499-the-haunting-of-verdant-v",
+          "author": null,
+          "description": "The Haunting of Verdant Valley is a photo book about Silicon Valley. “Anonymous office parks, pristine corporate campuses, and fading remnants of past industries tell the story of a region built on extraction — of resources, labor, and attention.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/03/0046499-the-haunting-of-verdant-v",
+          "publishedOn": "2025-03-26T15:05:07.000Z",
+          "wordCount": 695,
+          "title": "The Haunting of Verdant Valley is a photo book about Silicon Valley....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/03/0046521-the-atlantic-has-shared-t",
+          "author": null,
+          "description": "The Atlantic has shared the text messages sent by the Trump regime’s “national security” personnel on Signal.",
+          "link": "https://kottke.org/25/03/0046521-the-atlantic-has-shared-t",
+          "publishedOn": "2025-03-26T13:59:34.000Z",
+          "wordCount": 612,
+          "title": "The Atlantic has shared the text messages sent by the Trump regime’s...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/25/03/0046509-the-frick-collection-is-b",
           "author": null,
