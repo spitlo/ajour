@@ -51,13 +51,34 @@
       "title": "Stavros' Stuff Latest Posts",
       "feedUrl": "https://feeds.feedburner.com/stavrosstuff",
       "siteUrl": null,
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.stavros.io/posts/why-is-everything-so-scalable/",
+          "author": null,
+          "description": "Everyone is a FAANG engineer\nI’m entirely convinced that basically every developer alive today heard the adage “dress for the job you want, not the job you have” and figured that, since they always wear jeans and a t-shirt anyway, they might as well apply it to their systems’ architecture.\nThis explains why the stack of every single company I’ve seen is invariably AWS/GCP with at least thirty microservices (how else will you keep the code tidy?), a distributed datastore",
+          "link": "https://www.stavros.io/posts/why-is-everything-so-scalable/",
+          "publishedOn": "2025-04-01T03:13:47.000Z",
+          "wordCount": 1887,
+          "title": "Why is everything so scalable?",
+          "imageUrl": "https://www.stavros.io/static/images/favicons/og-image.jpg?h=3375145f"
+        }
+      ]
     },
     {
       "title": "Hundred Rabbits",
       "feedUrl": "https://100r.co/links/rss.xml",
       "siteUrl": "https://100r.co",
       "articles": [
+        {
+          "id": "log.html#mar2025",
+          "author": "Rek Bell",
+          "description": "Hey everyone!\nThis is the list of all the changes we've done to our projects during the month of March.\nSummary Of Changes\nIn the above illustration, little Ninj is going through a first-aid kit, looking through our supplies to see what needs to be topped off and what is out-of-date. Rek drew a list of suggestions on what to include in both a first-aid and a medical kit for the Rabbit Waves project, we plan to add more items soon(thanks to everyone on Mastodon who suggested additions! It'll be in the April update).\nWe will spend the first few days of April participating in Flickjam, making small games in the style of Flickgame, a tool originally made by Increpare, in which the world is navigated by clicking on pixels of different colors to head in different directions. Devine ported Flickgame to Varvara, and wrote a compiler for flick games to uxn roms.\nThis past month, Rek finished transcribing the entire 15 weeks of the Victoria to Sitka logbook! We have plans to turn it into a book, in the style of Busy Doing Nothing, with tons of extra content and illustrations.\nMarch was a very good month for silly calendar doodles. Our paper calendar is always in view, it documents important events like releases, appointments, as well as food, memes, and other noteworthy things that happened on each day.\nBook Club: This month we are still reading The Goldfinch by Donna Tartt(it's a long book).\nContinue Reading",
+          "link": "https://100r.co/site/log.html#mar2025",
+          "publishedOn": "2025-03-31T07:00:00.000Z",
+          "wordCount": 965,
+          "title": "Summary of changes for March 2025",
+          "imageUrl": null
+        },
         {
           "id": "log.html#feb2025",
           "author": "Rek Bell",
@@ -66,16 +87,6 @@
           "publishedOn": "2025-03-01T07:00:00.000Z",
           "wordCount": 684,
           "title": "Summary of changes for February 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "log.html#jan2025",
-          "author": "Rek Bell",
-          "description": "Hey everyone!\nThis is the list of all the changes we've done to our projects during the month of January.\nSummary Of Changes\n100r.co, added a new page: tote. Added Week 8 and Week 9 of the Victoria to Sitka logbook.\nTote, released the project on itch.io.\nGrimgrains, added a new recipe: chocolate turtles.\nLeft, added an option to collapse the nav bar on the left.\nOrca, added community links.\nDevine spent time improving the html5 Uxn emulator, and thanks to their hard work it is now possible to play Niju, Donsol, and Oquonie directly in the browser on itch.io, the same goes for projects like Noodle and Tote.\nIt's been a long time coming, but Oquonie is now playable on Playdate. Rek spent the last week converting the 2-bit assets for Oquonie to 1-bit, because some of the characters and tiles were too difficult to read, now all of the assets work perfectly on monochromatic screens. As an amazing plus, Devine got the music and sounds working perfectly, just like in the original iOS version.\nFrom January 19-25th, we both participated in Goblin Week, an event in which you make goblins every day for a week(whatever that means to you). See the goblin series made by Rek(viewable here in higher rez also) and the one made by Devine(Mastodon).\nPino has earned two new replacement solar panels this month! We have not installed them yet, it is still too cold outside in Victoria (we are expecting snow this week).\nWe share photos often in our monthly updates, and so Devine spent time building our very own custom photo feed named Days. It is possible to follow the feed with RSS. \nBook Club: This month we are reading How do You Live? by Genzaburo Yoshino and Middlemarch by George Eliot.\nContinue Reading",
-          "link": "https://100r.co/site/log.html#jan2025",
-          "publishedOn": "2025-02-01T07:00:00.000Z",
-          "wordCount": 331,
-          "title": "Summary of changes for January 2025",
           "imageUrl": null
         }
       ]
@@ -97,6 +108,16 @@
       "feedUrl": "https://grumpygamer.com/rss",
       "siteUrl": "https://grumpygamer.com/",
       "articles": [
+        {
+          "id": "https://grumpygamer.com/april_fools_2025/",
+          "author": null,
+          "description": "Going on n+1 years, I proclaim grumpygamer.com to be 100% April Fools’ Day joke free.\nI realized that I lost a large chunk of the early April Fools’ posts due to moving content from one back-end to another over time.  It pains me as I’m sure they are seen as culturally significant and worth preserving for future generations.\n“Grandpa! Tell us the story of when the web used be be April Fools’ joke free!”\nI might have to go track them down on the Wayback Machine and pretend it all never happened and I have perfect back-up and archiving practices.",
+          "link": "https://grumpygamer.com/april_fools_2025/",
+          "publishedOn": "2025-04-01T00:00:00.000Z",
+          "wordCount": 174,
+          "title": "April Fools' 2025",
+          "imageUrl": "https://grumpygamer.com//images/april1_media.png"
+        },
         {
           "id": "https://grumpygamer.com/deathbyscrolling/",
           "author": null,
@@ -120,6 +141,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3070/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/orogeny.png\" title=\"Most properties can only boast INDOOR heated floors.\" alt=\"Most properties can only boast INDOOR heated floors.\" />",
+          "link": "https://xkcd.com/3070/",
+          "publishedOn": "2025-03-31T00:00:00.000Z",
+          "wordCount": 204,
+          "title": "Orogeny",
+          "imageUrl": "https://imgs.xkcd.com/comics/orogeny_2x.png"
+        },
         {
           "id": "https://xkcd.com/3069/",
           "author": null,
@@ -446,16 +477,6 @@
           "wordCount": 980,
           "title": "Home Assistant: how get real-time UK electricity and gas [blog]",
           "imageUrl": "https://remysharp.com/images/hass-energy.png"
-        },
-        {
-          "id": "the-man-who-died-twice-thursday-murder-club-2",
-          "author": null,
-          "description": "Wreaks of \"cosy crime\" - and that's good.\nThere's a reason that Richard Osman's series has been a runaway success for many people (or at least I can believe it) - the story is well written, the characters are extremely well drawn and the pages are a pleasure to digest.\nI keep thinking I'm further along in the series than I actually am because the characters have quickly become a staple of crime fiction in my head.\nAlthough I did find I was a little suprised at the some of the more grusome passages (realising that doesn't really fit the \"cosy crime\" sub-genre). Those parts did take me out of the story a little. Again, I feel like I've had more of these characters than I actually have (this is the second Thursday book I've read), so there's no reason why a few hard edges wouldn't be part of the story.\nI did, however, have one complaint. I was quickly getting annoyed with the diary that Joyce would write in. For some reason I was having a hard time believing that Joyce was writing diary entries in such a conversational style as a pen and paper job, especially when the style of her writing/thoughts read as if she would be telling her husband… who's already shuffled off. I'm not 100% sure why I found it distracting, but I suspect that's not going to reduce any amount in the next Thursday books, so I'll probably need to find a way around it.\nOtherwise, a lovely read. Definitely feels as if I'm visiting these characters, and it's always a pleasure sharing a bit of time with them all.",
-          "link": "https://remysharp.com/books/2025/the-man-who-died-twice-thursday-murder-club-2",
-          "publishedOn": "2025-02-01T00:00:00.000Z",
-          "wordCount": 796,
-          "title": "The Man Who Died Twice (Thursday Murder Club, #2) [book]",
-          "imageUrl": null
         }
       ]
     },
@@ -743,6 +764,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/779650111022170112",
+          "author": null,
+          "description": "text-mode:\nRichard Paul Lohse, Trente rangées systématiques de tons, 1950-1955",
+          "link": "https://text-mode.tumblr.com/post/779650111022170112",
+          "publishedOn": "2025-04-01T18:31:26.000Z",
+          "wordCount": 971,
+          "title": "text-mode:\n\nRichard Paul Lohse, Trente rangées systématiques de...",
+          "imageUrl": "https://64.media.tumblr.com/934a8f9f0276d7782e7cb9ccc311bd8c/tumblr_mompxuP2oD1rpiyaso1_1280.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/779559497794519040",
           "author": null,
@@ -1332,16 +1363,6 @@
           "wordCount": 1110,
           "title": "text-mode:\n\nSemtex virus (1997) hook INT 8, 21h and write...",
           "imageUrl": "https://64.media.tumblr.com/4667b77042445df6e9107dfb1681019e/tumblr_muzin4U4mD1rpiyaso1_1280.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/774218162029854720",
-          "author": null,
-          "description": "text-mode:\nCharles H. Young (1931)",
-          "link": "https://text-mode.tumblr.com/post/774218162029854720",
-          "publishedOn": "2025-01-31T19:32:56.000Z",
-          "wordCount": 998,
-          "title": "text-mode:\n\nCharles H. Young (1931)",
-          "imageUrl": "https://64.media.tumblr.com/3c16c5989fa00ab0b80bea2d7e2bda4a/tumblr_mt30tzVcWH1rpiyaso1_640.png"
         }
       ]
     },
@@ -1607,6 +1628,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=10637",
+          "author": "Cory Doctorow",
+          "description": "Today's links Anyone who trusts an AI therapist needs their head examined: Same goes for trusting an AI with your trade secrets. Hey look at this: Delights to delectate. Object permanence: 2010, 2015, 2020, 2024 Upcoming appearances: Where to find me. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Anyone who trusts an AI therapist needs their head examined (permalink) There's a debate to be had about whether AI chatbots make good psychotherapists. This is not an area of my expertise, so I'm not going to weigh in on that debate. But nevertheless, I think that if you use an AI therapist, you need your head examined: https://www.sa…",
+          "link": "https://pluralistic.net/2025/04/01/doctor-robo-blabbermouth/",
+          "publishedOn": "2025-04-01T12:28:11.000Z",
+          "wordCount": 3079,
+          "title": "Pluralistic: Anyone who trusts an AI therapist needs their head examined (01 Apr 2025)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=10624",
           "author": "Cory Doctorow",
@@ -2066,16 +2097,6 @@
           "wordCount": 8221,
           "title": "Pluralistic: Petard, Part III (01 Feb 2025)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=10207",
-          "author": "Cory Doctorow",
-          "description": "Today's links Petard (Part II): Systematizing and automating the struggle. Hey look at this: Delights to delectate. Object permanence: 2005, 2010, 2015, 2024 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Petard (Part II) (permalink) Biden's FCC unanimously passed a rules banning landlords from accepting kickbacks to force all their tenants to use one ISP as a rental condition. Last week, Trump's FCC boss Brendan Carr (who voted for the rule just last year) killed it, saying that he was sticking up for tenants, who would somehow save money from this sleazy arrangement: https://arstechnica.com/tech-policy/2025/01/fcc-chair-nixes-…",
-          "link": "https://pluralistic.net/2025/01/31/the-blood-speech/",
-          "publishedOn": "2025-01-31T15:15:41.000Z",
-          "wordCount": 3829,
-          "title": "Pluralistic: Petard (Part II) (31 Jan 2025)",
-          "imageUrl": null
         }
       ]
     },
@@ -2123,6 +2144,136 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/25/04/hands-off-a-day-of-action-and-protest-on-april-5",
+          "author": null,
+          "description": "On April 5th, a group of prominent national organizations (including 50501, Indivisible, Hands Off, MoveOn, and Women’s March) and many local organizations are all coming together for a day of nationwide action and protest.\nThis is a nationwide mobilization to stop the most brazen power grab in modern history. Trump, Musk, and their billionaire cronies are orchestrating an all-out assault on our government, our economy, and our basic rights — enabled by Congress every step of the way.\nThey want to strip America for parts — shuttering Social Security offices, firing essential workers, eliminating consumer protections, and gutting Medicaid — all to bankroll their billionaire tax scam. They’re handing over our tax dollars, our public services, and our democracy to the ultra-rich.\nIf we don’t fight now, there won’t be anything left to save.\n\n\nThis is gonna be huge. There are events all over the country on April 5, and if there isn’t one near you, you can plan your own. There are signs you can print out to bring (or design/bring your own).\nFor more information, you can check out the Hands Off! website, the See You In the Streets site, or this informative collection of info from several sites/orgs.\nTags: 2025 Coup · Donald Trump · Elon Musk · politics · USA",
+          "link": "https://kottke.org/25/04/hands-off-a-day-of-action-and-protest-on-april-5",
+          "publishedOn": "2025-04-01T21:54:35.000Z",
+          "wordCount": 780,
+          "title": "Hands Off! A Day of Action and Protest on April 5.",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/hands-off.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/04/0046559-a-two-part-online-trainin",
+          "author": null,
+          "description": "A two-part online training event on the Fundamentals of Organizing. It kicked off tonight at 5:30pm ET and part 2 is on April 8.",
+          "link": "https://kottke.org/25/04/0046559-a-two-part-online-trainin",
+          "publishedOn": "2025-04-01T21:45:51.000Z",
+          "wordCount": 643,
+          "title": "A two-part online training event on the Fundamentals of Organizing. It kicked...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/04/0046560-the-record-for-the-longes",
+          "author": null,
+          "description": "The record for the longest individual speech in the Senate belongs to segregationist Strom Thurmond. He spoke for 24 hours & 18 minutes in a racist and futile attempt to prevent the Civil Rights Act of 1957 from passing.",
+          "link": "https://kottke.org/25/04/0046560-the-record-for-the-longes",
+          "publishedOn": "2025-04-01T21:01:34.000Z",
+          "wordCount": 667,
+          "title": "The record for the longest individual speech in the Senate belongs to...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/04/0046532-mercator-extreme-is-a-fun",
+          "author": null,
+          "description": "Mercator Extreme is a fun tool that you can use to choose any point on Earth as the pole and then view the resulting ultra-distorted Mercator map.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/04/0046532-mercator-extreme-is-a-fun",
+          "publishedOn": "2025-04-01T19:21:36.000Z",
+          "wordCount": 724,
+          "title": "Mercator Extreme is a fun tool that you can use to choose...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/04/0046558-i-couldnt-pass-up-reading",
+          "author": null,
+          "description": "With a headline this this, how can you resist? On the Best (Worst) Best Man Speech Ever (at My Super Mario-Themed Wedding). “After he finished his speech, he received applause and cheers from one and a half tables and dead silence from the rest.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/04/0046558-i-couldnt-pass-up-reading",
+          "publishedOn": "2025-04-01T18:37:13.000Z",
+          "wordCount": 1108,
+          "title": "With a headline this this, how can you resist? On the Best...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/04/0046541-a-fragile-13th-century-ma",
+          "author": null,
+          "description": "“A fragile 13th century manuscript fragment, hidden in plain sight as the binding of a 16th-century archival register, has been discovered in Cambridge and revealed to contain rare medieval stories of Merlin and King Arthur.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/04/0046541-a-fragile-13th-century-ma",
+          "publishedOn": "2025-04-01T17:55:07.000Z",
+          "wordCount": 721,
+          "title": "&#8220;A fragile 13th century manuscript fragment, hidden in plain sight as the...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/04/0046555-no-one-is-safe-from",
+          "author": null,
+          "description": "No One Is Safe From America’s Abusive Immigration Authorities Anymore. “Immigration agents are increasingly using the full statutory powers that they always had, choosing to detain, abuse, and deport these tourists & workers instead of working with them.”",
+          "link": "https://kottke.org/25/04/0046555-no-one-is-safe-from",
+          "publishedOn": "2025-04-01T17:14:28.000Z",
+          "wordCount": 627,
+          "title": "No One Is Safe From America&#8217;s Abusive Immigration Authorities Anymore. &#8220;Immigration agents...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/04/0046557-historian-heather-cox-ric",
+          "author": null,
+          "description": "Historian Heather Cox Richardson says that Facebook is removing her posts. Her two most recent posts, both critical of the Trump regime, are not on the platform anymore.",
+          "link": "https://kottke.org/25/04/0046557-historian-heather-cox-ric",
+          "publishedOn": "2025-04-01T16:32:08.000Z",
+          "wordCount": 649,
+          "title": "Historian Heather Cox Richardson says that Facebook is removing her posts. Her...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/04/heres-what-life-was-like-before-the-affordable-care-act",
+          "author": null,
+          "description": "From Aubrey Hirsch, It Could Be Much, Much Worse, an illustrated guide to what health care and insurance was like in the US before the ACA.\n\n\nYou can also find this guide on Instagram.\nTags: Aubrey Hirsch · comics · healthcare · politics\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/04/heres-what-life-was-like-before-the-affordable-care-act",
+          "publishedOn": "2025-04-01T16:08:24.000Z",
+          "wordCount": 773,
+          "title": "Here&#8217;s What Life Was Like Before the Affordable Care Act",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/before-aca-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/04/0046554-of-course-trump-will-tank",
+          "author": null,
+          "description": "Of Course Trump Will Tank the Economy. It’s What Republicans Do. “They screw up the economy. Later down the line, Democrats get elected and have to fix everything.”",
+          "link": "https://kottke.org/25/04/0046554-of-course-trump-will-tank",
+          "publishedOn": "2025-04-01T15:19:05.000Z",
+          "wordCount": 628,
+          "title": "Of Course Trump Will Tank the Economy. It&#8217;s What Republicans Do. &#8220;They...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/04/john-lithgow-reads-20-lessons-on-tyranny-by-timothy-snyder",
+          "author": null,
+          "description": "In this 10-minute video, John Lithgow reads each of the lessons from Timothy Snyder’s On Tyranny: Twenty Lessons from the Twentieth Century (Bookshop). \nNumber two: defend institutions. It is institutions that help us to preserve decency. They need our help as well. Do not speak of our institutions unless you make them yours by acting on their behalf. Institutions do not protect themselves. They fall one after the other unless each is defended from the beginning. So choose an institution you care about — a court, a newspaper, a law, a labor union — and take its side.\n\n\nSnyder himself made a series of 20 videos a few years ago in which he reads each lesson and then provides more context on what it means. Here’s the first episode on anticipatory obedience (he starts reading after a short intro, at about the 2:40 mark):\n\nLesson number one is: do not obey in advance. Most of the power of authoritarianism is freely given. In times like these, individuals think ahead about what a more repressive government will want, and then offer themselves without being asked. A citizen who adapts in this way is teaching power what it can do.\nSo, this is the first lesson because it’s about the basic choice we make when we confront difficulty. It’s about the choice of all choices: are we going to go with the new flow or are we going to stand — if only a little bit, only hesitantly — as long as we can against the current?\n\n\nAgain, the whole series of 20 videos can be accessed from this playlist.\nTags: books · John Lithgow · On Tyranny · politics · Timothy Snyder · video",
+          "link": "https://kottke.org/25/04/john-lithgow-reads-20-lessons-on-tyranny-by-timothy-snyder",
+          "publishedOn": "2025-04-01T13:55:46.000Z",
+          "wordCount": 845,
+          "title": "John Lithgow Reads 20 Lessons on Tyranny by Timothy Snyder",
+          "imageUrl": "https://i.ytimg.com/vi/cXR5HLodsT8/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/04/0046548-tressie-mcmillan-cottom-a",
+          "author": null,
+          "description": "Tressie McMillan Cottom: AI is mid tech for mid tasks. “The use cases for artificial intelligence across every domain of work and life have started to get silly really fast.”",
+          "link": "https://kottke.org/25/04/0046548-tressie-mcmillan-cottom-a",
+          "publishedOn": "2025-04-01T13:22:35.000Z",
+          "wordCount": 775,
+          "title": "Tressie McMillan Cottom: AI is mid tech for mid tasks. &#8220;The use...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/03/0046551-senator-cory-booker-is-ho",
+          "author": null,
+          "description": "Senator Cory Booker is holding the floor of the Senate and says he “will speak for as long as I’m physically able to lift the voices of Americans who are being harmed and not being heard in this moment of crisis”.",
+          "link": "https://kottke.org/25/03/0046551-senator-cory-booker-is-ho",
+          "publishedOn": "2025-04-01T03:17:39.000Z",
+          "wordCount": 1332,
+          "title": "Senator Cory Booker is holding the floor of the Senate and says...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/25/03/0046547-if-you-need-a-distraction",
           "author": null,
@@ -6332,116 +6483,6 @@
           "wordCount": 660,
           "title": "A simple guide to using Signal for government workers (written by a...",
           "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/01/0046042-new-tron-movie-coming-mus",
-          "author": null,
-          "description": "New Tron movie coming, music by Nine Inch Nails. “Tron: Ares follows a highly sophisticated program, Ares, who is sent from the digital world into the real world on a dangerous mission, marking humankind’s first encounter with A.I. beings.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/01/0046042-new-tron-movie-coming-mus",
-          "publishedOn": "2025-01-31T21:43:18.000Z",
-          "wordCount": 749,
-          "title": "New Tron movie coming, music by Nine Inch Nails. &#8220;Tron: Ares follows...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/01/japanese-salaryman-eraser-goes-bald",
-          "author": null,
-          "description": "Designed by Kazuya Ishikawa, the clever Salaryman Eraser features a Japanese businessman who goes bald as you use the eraser. The same company also makes an eraser that turns into Mt Fuji through repeated use.\nTags: design · Kazuya Ishikawa\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/01/japanese-salaryman-eraser-goes-bald",
-          "publishedOn": "2025-01-31T21:07:28.000Z",
-          "wordCount": 715,
-          "title": "The Japanese Salaryman Eraser Goes Bald Through Use",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/salaryman-eraser.jpg"
-        },
-        {
-          "id": "https://kottke.org/25/01/0046120-new-square-feature-allows",
-          "author": null,
-          "description": "New Square Feature Allows Customers To Tip With Bible Quote. “We have also heard our customers and are working to provide Christian cross and praying-hands emojis as well.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/01/0046120-new-square-feature-allows",
-          "publishedOn": "2025-01-31T20:25:10.000Z",
-          "wordCount": 1036,
-          "title": "New Square Feature Allows Customers To Tip With Bible Quote. &#8220;We have...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/01/0046112-the-bawdy-graffiti-of-pom",
-          "author": null,
-          "description": "The Bawdy Graffiti of Pompeii and Herculaneum. This was was written on the wall of a bar/brothel: “Weep, you girls. My penis has given you up. Now it penetrates men’s behinds. Goodbye, wondrous femininity!”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/01/0046112-the-bawdy-graffiti-of-pom",
-          "publishedOn": "2025-01-31T19:43:41.000Z",
-          "wordCount": 755,
-          "title": "The Bawdy Graffiti of Pompeii and Herculaneum. This was was written on...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/01/0046115-the-new-comfort-movie-can",
-          "author": null,
-          "description": "The New Comfort Movie Canon: The 10 Best Feel-Good Films of the Last 10 Years. Includes Flow (which I watched the other day and is brilliant), The French Dispatch, Little Women, and Logan Lucky.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/01/0046115-the-new-comfort-movie-can",
-          "publishedOn": "2025-01-31T19:03:39.000Z",
-          "wordCount": 963,
-          "title": "The New Comfort Movie Canon: The 10 Best Feel-Good Films of the...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/01/scans-of-early-80s-gaming-magazines",
-          "author": null,
-          "description": "The Video Game History Foundation has launched a digital library of documents, magazines, and transcripts related to video games that’s free for everyone to access. Some of you might be interested in the collection of materials related to the development and promotion of games created by Cyan (Myst, Riven, etc.) but I went straight for the library of video game magazines. The earliest issue I could find was this issue of Electronic Games from 1981.\n\n\n\n\nHa, I bet you had forgotten that George Plimpton was a spokesman for Intellivision. (Quick sidebar here because I can’t resist this odd fact: Plimpton was one of a group of people, which also included former NFL star Rosey Grier & Olympic gold medalist Rafer Johnson, who apprehended and disarmed Sirhan Sirhan after Sirhan shot Robert F. Kennedy.)\nThat same issue of Electronic Games from 1981 contains this interesting nugget of news about how long McDonald’s has been thinking about replacing their cashiers with computers:\nWill McDonalds be the first fast-food chain to hop on the electronic gaming bandwagon in a big way? The hamburger king has approached Atari about the possibility of designing a computerized video monitor. The device would take the meal order and then help the customer pass the wait pleasantly by playing a videogame. One potential hitch: What happens if a player is on a hot streak when the Big Mac, fries and soft drink show up?\n\n\nAnyway, I definitely lost more than a few hours to this. You can check out the full digital library and watch this video for more information about what’s in it. (via the verge)\nTags: George Plimpton · magazines · video games\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/01/scans-of-early-80s-gaming-magazines",
-          "publishedOn": "2025-01-31T18:00:05.000Z",
-          "wordCount": 1193,
-          "title": "Asteroids vs Space Invaders! Scans of Early 80s Gaming Magazines.",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/80s-gaming-mags-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/25/01/0046113-a-web-version-of-pitfall",
-          "author": null,
-          "description": "A web version of Pitfall. I used to play this a lot on my cousins’ Intellivision and yep, it’s still as difficult & annoying as I remember it!\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/01/0046113-a-web-version-of-pitfall",
-          "publishedOn": "2025-01-31T17:14:27.000Z",
-          "wordCount": 944,
-          "title": "A web version of Pitfall. I used to play this a lot...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/01/0046114-author-mary-childs-shares",
-          "author": null,
-          "description": "Author Mary Childs shares some of her “stress-designed” drafts: On Trying (and Really Failing) to Design My Own Book Cover. “It’s a miracle any cover is ever good.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/01/0046114-author-mary-childs-shares",
-          "publishedOn": "2025-01-31T16:32:09.000Z",
-          "wordCount": 727,
-          "title": "Author Mary Childs shares some of her &#8220;stress-designed&#8221; drafts: On Trying (and...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/01/brian-eno-believes-in-singing",
-          "author": null,
-          "description": "Brian Eno believes that singing is the key to a good life.\nSinging aloud leaves you with a sense of levity and contentedness. And then there are what I would call “civilizational benefits.” When you sing with a group of people, you learn how to subsume yourself into a group consciousness because a capella singing is all about the immersion of the self into the community. That’s one of the great feelings — to stop being me for a little while and to become us. That way lies empathy, the great social virtue.\n\n\n(via subtraction)\n[This is a vintage post originally from Nov 2008.]\nTags: Brian Eno · music · timeless posts",
-          "link": "https://kottke.org/25/01/brian-eno-believes-in-singing",
-          "publishedOn": "2025-01-31T15:41:36.000Z",
-          "wordCount": 662,
-          "title": "Brian Eno Believes in Singing",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/01/0046111-20-years-ago-seoul-tore",
-          "author": null,
-          "description": "20 years ago, Seoul tore down an elevated highway and built a park in its place. “The restored waterway has been a triumph.” It attracts millions of visitors, improves air quality, manages floods, cools the city, and hosts plants & wildlife.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/01/0046111-20-years-ago-seoul-tore",
-          "publishedOn": "2025-01-31T15:05:25.000Z",
-          "wordCount": 737,
-          "title": "20 years ago, Seoul tore down an elevated highway and built a...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/01/0046108-andrea-pitzer-lost-her-mo",
-          "author": null,
-          "description": "Andrea Pitzer lost her mother to Amway. “In many ways, Amway adherents embraced a fusion of conspiratorial thinking and populism that would remain a central thread of America’s political story.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/01/0046108-andrea-pitzer-lost-her-mo",
-          "publishedOn": "2025-01-31T13:46:07.000Z",
-          "wordCount": 1159,
-          "title": "Andrea Pitzer lost her mother to Amway. &#8220;In many ways, Amway adherents...",
-          "imageUrl": ""
         }
       ]
     },
@@ -6469,16 +6510,6 @@
           "wordCount": 10529,
           "title": "Plessy vs. Billboard",
           "imageUrl": "https://www.zeroto180.org/wp-content/uploads/2025/02/Plessy-versus-Billboard-test-thumbnail-image.jpg"
-        },
-        {
-          "id": "https://www.zeroto180.org/?p=91191",
-          "author": "Zeroto180",
-          "description": "Judy Lynn – “America’s Western Sweetheart” – would get her one and only 45 picture sleeve, ironically enough, for this cheerful-sounding honky tonk tale in which the singer informs us she has only seconds to live before the “kindly” stranger who offered a ride at the train station prepares to break one of the Ten […]\nThe post “Miss, May I Drive You Home”:  Ends Badly For The Singer appeared first on Zero to 180 - Three Minute Magic.",
-          "link": "https://www.zeroto180.org/miss-may-i-drive-you-home-ends-badly-for-the-singer/",
-          "publishedOn": "2025-01-31T17:53:40.000Z",
-          "wordCount": 9978,
-          "title": "“Miss, May I Drive You Home”:  Ends Badly For The Singer",
-          "imageUrl": "https://www.zeroto180.org/wp-content/uploads/2025/01/Judy-Lynn-thumbnail.jpg"
         }
       ]
     },
