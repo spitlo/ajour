@@ -132,6 +132,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3071/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/decay_chain.png\" title=\"If you have an old phone in a drawer, and you listen very carefully, you can occasionally hear the occasional tap of an emitted SIM card hitting the side of the drawer as the phone transmutes to a lower-end model.\" alt=\"If you have an old phone in a drawer, and you listen very carefully, you can occasionally hear the occasional tap of an emitted SIM card hitting the side of the drawer as the phone transmutes to a lower-end model.\" />",
+          "link": "https://xkcd.com/3071/",
+          "publishedOn": "2025-04-02T00:00:00.000Z",
+          "wordCount": 206,
+          "title": "Decay Chain",
+          "imageUrl": "https://imgs.xkcd.com/comics/decay_chain_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3070/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/orogeny.png\" title=\"Most properties can only boast INDOOR heated floors.\" alt=\"Most properties can only boast INDOOR heated floors.\" />",
@@ -370,16 +380,6 @@
           "wordCount": 206,
           "title": "Rotary Tool",
           "imageUrl": "https://imgs.xkcd.com/comics/rotary_tool_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3046/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/stromatolites.png\" title=\"If only my ancestors had been fortunate enough to marry into the branch of the bacteria family that could photosynthesize, like all my little green cousins here.\" alt=\"If only my ancestors had been fortunate enough to marry into the branch of the bacteria family that could photosynthesize, like all my little green cousins here.\" />",
-          "link": "https://xkcd.com/3046/",
-          "publishedOn": "2025-02-03T00:00:00.000Z",
-          "wordCount": 204,
-          "title": "Stromatolites",
-          "imageUrl": "https://imgs.xkcd.com/comics/stromatolites_2x.png"
         }
       ]
     },
@@ -457,16 +457,6 @@
           "wordCount": 1676,
           "title": "Blog Questions Challenge [blog]",
           "imageUrl": "https://remysharp.com/images/cards/og/9-1.jpg"
-        },
-        {
-          "id": "home-assistant-how-get-realtime-electricity-and-gas.md",
-          "author": null,
-          "description": "There's a number of ways to get real-time electricity readings into Home Assistant. I'm currently using a Puck.js to read the blinking light on my meter but our gas meter is one of the new ultrasonic ones (in particular there's no readings or lights without physically interacting with it), so there was no obvious means to getting this data.\nMost UK based energy companies don't have public methods to get your data out. I know Octopus does have APIs (which isn't our supplier), and there's a specific smart meter that also makes the data available on MQTT - but it's been out of stock for (at least) the last 12 months.\nHowever, this last weekend I discovered, so long as you have a smart meter, you can actually collect this data from the DCC.",
-          "link": "https://remysharp.com/2025/02/03/home-assistant-how-get-realtime-electricity-and-gas.md",
-          "publishedOn": "2025-02-03T10:00:00.000Z",
-          "wordCount": 980,
-          "title": "Home Assistant: how get real-time UK electricity and gas [blog]",
-          "imageUrl": "https://remysharp.com/images/hass-energy.png"
         }
       ]
     },
@@ -754,6 +744,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/779831256948097024",
+          "author": null,
+          "description": "text-mode:\nBy dirtyoldpics.",
+          "link": "https://text-mode.tumblr.com/post/779831256948097024",
+          "publishedOn": "2025-04-03T18:30:40.000Z",
+          "wordCount": 978,
+          "title": "text-mode:\n\nBy dirtyoldpics.",
+          "imageUrl": "https://64.media.tumblr.com/20f370838f1ae242e7d76ccc400865b6/tumblr_mp41n4Ujx71rpiyaso1_640.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/779740652349095936",
           "author": null,
@@ -1343,16 +1343,6 @@
           "wordCount": 1028,
           "title": "text-mode:\n\nNotes from the Cosmic Typewriter The Life and Work...",
           "imageUrl": "https://64.media.tumblr.com/28f622761eea7c8f4635eae2e1462a23/tumblr_mt63qtL11o1rpiyaso1_640.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/774399235972087808",
-          "author": null,
-          "description": "text-mode:\nMinitel cover magazine (1980) via jmailland",
-          "link": "https://text-mode.tumblr.com/post/774399235972087808",
-          "publishedOn": "2025-02-02T19:31:01.000Z",
-          "wordCount": 1001,
-          "title": "text-mode:\n\nMinitel cover magazine (1980) via jmailland",
-          "imageUrl": "https://64.media.tumblr.com/9ee74d9c7a5918a88524193c425fdda0/tumblr_ms38ioPeEa1rpiyaso1_1280.jpg"
         }
       ]
     },
@@ -2097,16 +2087,6 @@
           "wordCount": 2954,
           "title": "Pluralistic: Ron Deibert's \"Chasing Shadows\" (04 Feb 2025)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=10235",
-          "author": "Cory Doctorow",
-          "description": "Today's links Petard, Part IV: Smart is at least as important as evil. Hey look at this: Delights to delectate. Object permanence: 2005, 2010, 2015, 2024 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Petard, Part IV (permalink) Last week's announcement that Trump's FCC was going to once again allow ISPs to bribe landlords to force you to use their service was easy to miss, amidst all the chaos: https://arstechnica.com/tech-policy/2025/01/fcc-chair-nixes-plan-to-boost-broadband-competition-in-apartment-buildings/ But it sure got my attention, since that was the plot of \"Petard,\" a techno-Lovecraftian sf story I wrote for Bruce S…",
-          "link": "https://pluralistic.net/2025/02/02/rot-fungus-r-us/",
-          "publishedOn": "2025-02-02T20:26:36.000Z",
-          "wordCount": 4013,
-          "title": "Pluralistic: Petard, Part IV (03 Feb 2025)",
-          "imageUrl": null
         }
       ]
     },
@@ -2154,6 +2134,16 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/25/04/it-is-all-just-so-very-very-stupid",
+          "author": null,
+          "description": "Folks, I can’t even today. I gotta tap out. I hope to be back with you tomorrow.\nTags: kottke.org · video",
+          "link": "https://kottke.org/25/04/it-is-all-just-so-very-very-stupid",
+          "publishedOn": "2025-04-03T17:15:22.000Z",
+          "wordCount": 587,
+          "title": "It Is All Just So Very Very Stupid",
+          "imageUrl": "https://i.ytimg.com/vi/iq8klyWKBdc/sddefault.jpg"
+        },
         {
           "id": "https://kottke.org/25/04/0046573-m-gessen-unmarked-vans-se",
           "author": null,
