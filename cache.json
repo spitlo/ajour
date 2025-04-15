@@ -109,6 +109,16 @@
       "siteUrl": "https://grumpygamer.com/",
       "articles": [
         {
+          "id": "https://grumpygamer.com/steam_auth/",
+          "author": null,
+          "description": "When I build my game for testing, it’s a completely automated process from the command line.\nI type pub.sh --test on the command line and a long chain of events is started.\nThe script pushes to git, which starts the cloud based CI machine (Azure) building the Mac, Windows and Linux executables.\nWhen they are done, my local script is notified and they are download locally.\nGame files are added and they are signed and packaged up.\nThe script then logs into Steam and uploads the game.\nA change list is built from the git log and uploaded to a private website.\nWhen that is complete, a message is sent to Discord to notify testers that the build is done.\nThis is all done with no interaction on my part.\nIt makes doing test builds quick, easy, and painless. But more important is there is no human i…",
+          "link": "https://grumpygamer.com/steam_auth/",
+          "publishedOn": "2025-04-14T05:26:07.000Z",
+          "wordCount": 548,
+          "title": "Steam Auth Issues",
+          "imageUrl": "https://grumpygamer.com//images/gg_cover_image2.png"
+        },
+        {
           "id": "https://grumpygamer.com/april_fools_2025/",
           "author": null,
           "description": "Going on n+1 years, I proclaim grumpygamer.com to be 100% April Fools’ Day joke free.\nI realized that I lost a large chunk of the early April Fools’ posts due to moving content from one back-end to another over time.  It pains me as I’m sure they are seen as culturally significant and worth preserving for future generations.\n“Grandpa! Tell us the story of when the web used be be April Fools’ joke free!”\nI might have to go track them down on the Wayback Machine and pretend it all never happened and I have perfect back-up and archiving practices.",
@@ -370,16 +380,6 @@
           "wordCount": 206,
           "title": "Archive Request",
           "imageUrl": "https://imgs.xkcd.com/comics/archive_request_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3051/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/hardwood.png\" title=\"They may technically have been softwoods at some point, but they definitely aren't now.\" alt=\"They may technically have been softwoods at some point, but they definitely aren't now.\" />",
-          "link": "https://xkcd.com/3051/",
-          "publishedOn": "2025-02-14T00:00:00.000Z",
-          "wordCount": 204,
-          "title": "Hardwood",
-          "imageUrl": "https://imgs.xkcd.com/comics/hardwood_2x.png"
         }
       ]
     },
@@ -716,13 +716,34 @@
       "title": "Lea Verou’s blog",
       "feedUrl": "https://feeds.feedburner.com/leaverou",
       "siteUrl": "https://lea.verou.me/feed.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://lea.verou.me/blog/2025/style-observer/",
+          "author": null,
+          "description": "I cannot count the number of times in my career I wished I could run JS in response to CSS property changes,\nregardless of what triggered them: media queries, user actions, or even other JS.\nUse cases abound.\nHere are some of mine:\nImplement higher level custom properties in components, where one custom property changes multiple others in nontrivial ways (e.g. a --variant: danger that sets 10 color tokens).\nPolyfill missing CSS features\nChange certain HTML attributes via CSS (hello --aria-expanded!)\nSet CSS properties based on other CSS properties without having to mirror them as custom properties\nThe most recent time I needed this was to prototype an idea I had for Web Awesome,\nand I decided this was it:\nI’d either find a good, bulletproof solution, or I would build it myself.\nSpoiler ale…",
+          "link": "https://lea.verou.me/blog/2025/style-observer/",
+          "publishedOn": "2025-03-24T14:52:30.000Z",
+          "wordCount": 975,
+          "title": "Style-observer: JS to observe CSS property changes, for reals",
+          "imageUrl": "https://lea.verou.me/blog/2025/style-observer/images/social.gif"
+        }
+      ]
     },
     {
       "title": "TEXT-MODE",
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/780827819393581056",
+          "author": null,
+          "description": "text-mode:\ntoilets*",
+          "link": "https://text-mode.tumblr.com/post/780827819393581056",
+          "publishedOn": "2025-04-14T18:30:36.000Z",
+          "wordCount": 986,
+          "title": "text-mode:\n\ntoilets*",
+          "imageUrl": "https://64.media.tumblr.com/tumblr_m5m8nyazdJ1rpiyaso1_1280.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/780737244698918912",
           "author": null,
@@ -1312,16 +1333,6 @@
           "wordCount": 1065,
           "title": "text-mode:\n\nBob Neill’s Book of Typewriter Art (1982), via Lori...",
           "imageUrl": "https://64.media.tumblr.com/c0ea590c2244a51402f03b2582ed7b2a/tumblr_mt2wp5x5Z71rpiyaso6_640.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/775395784828076032",
-          "author": null,
-          "description": "text-mode:\nEduardo Kac: Typewritings (1981-1982)",
-          "link": "https://text-mode.tumblr.com/post/775395784828076032",
-          "publishedOn": "2025-02-13T19:30:45.000Z",
-          "wordCount": 1006,
-          "title": "text-mode:\n\nEduardo Kac: Typewritings (1981-1982)",
-          "imageUrl": "https://64.media.tumblr.com/3b6dcf5c14a893bd0dd66e8b7adb088b/tumblr_mt9mdwaayC1rpiyaso4_1280.jpg"
         }
       ]
     },
@@ -1555,6 +1566,16 @@
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
         {
+          "id": "https://www.joshwcomeau.com/blog/the-post-developer-era/",
+          "author": "Josh W. Comeau",
+          "description": "When OpenAI released GPT-4 back in March 2023, they kickstarted the AI revolution. The consensus online was that front-end development jobs would be totally eliminated within a year or two.Well, it’s been more than two years since then, and I thought it was worth revisiting some of those early predictions, and seeing if we can glean any insights about where things are headed.",
+          "link": "https://www.joshwcomeau.com/blog/the-post-developer-era/",
+          "publishedOn": "2025-04-14T13:00:00.000Z",
+          "wordCount": 6979,
+          "title": "The Post-Developer Era",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-the-post-developer-era.jpg"
+        },
+        {
           "id": "https://www.joshwcomeau.com/blog/whimsical-animations/",
           "author": "Josh W. Comeau",
           "description": "I spent the past few weeks packing as many easter eggs as I could into my latest project, and in this blog post, I want to dig into some of the more interesting details! If you’re interested in animations/interactions, you’ll want to check this one out; I share a bunch of my favourite secrets and tricks. 😄",
@@ -1577,6 +1598,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=10713",
+          "author": "Cory Doctorow",
+          "description": "Today's links Machina economicus: Enshittification is an alien invasion. Hey look at this: Delights to delectate. Object permanence: 2005, 2010, 2015, 2020, 2024 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Machina economicus (permalink) \"Homo economicus\" is the hypothetical \"perfectly economically rational\" person that economic models often assume us all to be, despite the fact that we are demonstrably not perfectly rational. The economists who built models based on homo economicus understood that its assumptions were unwarranted, but that's OK! As the \"Nobel prize\"* winning economist Milton Friedman famously wrote: Truly imp…",
+          "link": "https://pluralistic.net/2025/04/14/timmy-share/",
+          "publishedOn": "2025-04-14T19:29:43.000Z",
+          "wordCount": 3677,
+          "title": "Pluralistic: Machina economicus (14 Apr 2025)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=10706",
           "author": "Cory Doctorow",
@@ -2016,16 +2047,6 @@
           "wordCount": 2966,
           "title": "Pluralistic: Skinnamarinkstump Linkdump (15 Feb 2025)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=10320",
-          "author": "Cory Doctorow",
-          "description": "Today's links Premature Internet Activists: The retconning of tech rights. Hey look at this: Delights to delectate. Object permanence: 2005, 2015, 2024 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Premature Internet Activists (permalink) \"Premature antifacist\" was a sarcastic term used by leftists caught up in the Red Scare to describe themselves, as they came under ideological suspicion for having traveled to Spain to fight against Franco's fascists before the US entered WWII and declared war against the business-friendly, anticommunist fascist Axis powers of Italy, Spain, Greece, and, of course, Germany: https://www.google.c…",
-          "link": "https://pluralistic.net/2025/02/13/digital-rights/",
-          "publishedOn": "2025-02-13T18:01:28.000Z",
-          "wordCount": 3671,
-          "title": "Pluralistic: Premature Internet Activists (13 Feb 2025)",
-          "imageUrl": null
         }
       ]
     },
@@ -2063,6 +2084,106 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/25/04/0046629-in-a-meeting-today-dictat",
+          "author": null,
+          "description": "In a meeting today, dictators Donald Trump & Nayib Bukele talked about building Salvadoran concentration camps for US citizens and defying a Supreme Court order to return Abrego Garcia from unlawful detention. “You gotta build about five more places.”",
+          "link": "https://kottke.org/25/04/0046629-in-a-meeting-today-dictat",
+          "publishedOn": "2025-04-14T20:40:43.000Z",
+          "wordCount": 657,
+          "title": "In a meeting today, dictators Donald Trump & Nayib Bukele talked about...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/04/palestinian-protester-on-his-way-to-citizenship-test-arrested-by-ice-in-vt",
+          "author": null,
+          "description": "From Akela Lacy at The Intercept, Palestinian Student Leader Was Called In for Citizenship Interview — Then Arrested by ICE (archive):\nMohsen K. Mahdawi arrived at the U.S. Citizenship and Immigration Services office in Burlington, Vermont, on Monday. A Palestinian student at Columbia University, he hoped that, after 10 years in the U.S., he would pass the test to become a naturalized citizen. \nInstead, agents from U.S. Immigration and Customs Enforcement arrested him and began the process to deport him to the occupied West Bank. Mahdawi, a leader of the campus protest movement against Israel’s war on Gaza, became yet another green card holder arrested and facing removal.\n“Mohsen Mahdawi was unlawfully detained today for no reason other than his Palestinian identity,” Mahdawi’s attorney Luna Droubi said in a statement to The Intercept. “He came to this country hoping to be free to speak out about the atrocities he has witnessed, only to be punished for such speech.”\n\n\nWindsor County state senator Rebecca White took a video of Mahdawi being escorted in handcuffs (also on Reddit & YouTube) from the U.S. Citizenship and Immigration Services in Colchester, VT by hooded and masked men to a group of unmarked vehicles.\n\n(thx, caroline)\nTags: crime · legal · Mohsen Mahdawi · Vermont",
+          "link": "https://kottke.org/25/04/palestinian-protester-on-his-way-to-citizenship-test-arrested-by-ice-in-vt",
+          "publishedOn": "2025-04-14T19:46:07.000Z",
+          "wordCount": 1013,
+          "title": "Palestinian Protester on His Way to Citizenship Test Arrested by ICE in VT",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/ice-vt-mahdawi.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/04/director-ryan-coogler-breaks-down-film-aspect-ratios",
+          "author": null,
+          "description": "Filmmaker Ryan Coogler (Black Panther, Creed) is a big ol’ movie dork, and it’s endearing to watch him break down all the different types of film, aspect ratios, and projection options as he explains how many ways you can watch his latest movie, Sinners, when it comes out this week. Super informative too if you’ve always wondered about the different IMAX formats and just what the heck it means when someone you love gets excited about 70mm.\nTags: film school · movies · Ryan Coogler · Sinners · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/04/director-ryan-coogler-breaks-down-film-aspect-ratios",
+          "publishedOn": "2025-04-14T19:16:57.000Z",
+          "wordCount": 741,
+          "title": "Director Ryan Coogler Breaks Down Film Aspect Ratios",
+          "imageUrl": "https://i.ytimg.com/vi/78Ru62uFM0s/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/04/0046624-why-do-ai-company-logos",
+          "author": null,
+          "description": "Why do AI company logos look like buttholes? “The fluidity and warmth of human-centered thinking through the use of circles is perhaps the most elegant way anyone has ever described making a logo that resembles an anus.”",
+          "link": "https://kottke.org/25/04/0046624-why-do-ai-company-logos",
+          "publishedOn": "2025-04-14T18:14:04.000Z",
+          "wordCount": 645,
+          "title": "Why do AI company logos look like buttholes? &#8220;The fluidity and warmth...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/04/are-you-looking-for-work-are-you-looking-to-fill-a-position",
+          "author": null,
+          "description": "Hey, it’s been awhile since we’ve done one of these. If you are out there looking for work, post a quick summary of what you do, what you’re looking for, and a link to your resume/portfolio/LinkedIn/contact info and maybe someone here will see it and want to hire you. Likewise, if you or your company/organization has job openings, post a brief description and a link to the opening(s). Full-time, freelance, remote-only, in-person, tech, non-tech, anything goes.\nSince comments can only be left by members, if you’re not a member and are looking for work, send me your comment via email and I will post it for you. (If you are on the hiring side, you can afford to expense the membership fee to post a job posting. 😉 But if you’re a non-profit, email away!)\nI don’t know what counts as spammy when I’m literally asking for ppl to post links, etc. but if it happens, I’ll delete spam listings.\nOh, and I’m happy to accept finders fees if your company hires someone from the comments here. Ok, let’s see what you’ve got.\nTags: job board\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/04/are-you-looking-for-work-are-you-looking-to-fill-a-position",
+          "publishedOn": "2025-04-14T17:36:40.000Z",
+          "wordCount": 4793,
+          "title": "Are You Looking for Work? Are You Looking to Fill a Position?",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/04/0046621-m-gessen-this-is-my",
+          "author": null,
+          "description": "M. Gessen: “This is my radical proposal for universities: Act like universities, not like businesses. Spend your endowments. Accept more, not fewer students. Open up your campuses and [bring] education to communities. Create a base. Become a movement.”",
+          "link": "https://kottke.org/25/04/0046621-m-gessen-this-is-my",
+          "publishedOn": "2025-04-14T16:57:02.000Z",
+          "wordCount": 627,
+          "title": "M. Gessen: &#8220;This is my radical proposal for universities: Act like universities,...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/04/unequal-rights",
+          "author": null,
+          "description": "Heather Cox Richardson on where we are right now in terms of what type of government we currently have:\nHere’s the thing: Once you give up the idea that we are all equal before the law and have the right to due process, you have given up the whole game. You have admitted the principle that some people have more rights than others. Once you have replaced the principle of equality before the law with the idea that some people have no rights, you have granted your approval to the idea of an authoritarian government. At that point, all you can do is to hope that the dictator and his henchmen overlook you.\n\n\nThey are 100% going to try to do this with citizens:\nMake no mistake: as Supreme Court Justices Sonia Sotomayor, Elena Kagan, and Ketanji Brown Jackson recently warned, if the administration can take noncitizens off the streets, render them to prison in another country, and then claim it is helpless to correct the error either because the person is out of reach of U.S. jurisdiction, it could do the same thing to citizens.\n\n\nMeanwhile, Trump’s approval rating is still well above 40% (and is even higher if you don’t factor in the economy/tariffs). 🤷‍♂️\nTags: 2025 Coup · crime · Donald Trump · Heather Cox Richardson · legal · politics · USA",
+          "link": "https://kottke.org/25/04/unequal-rights",
+          "publishedOn": "2025-04-14T16:03:04.000Z",
+          "wordCount": 769,
+          "title": "Unequal Rights",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/04/0046619-letter-from-a-high-rankin",
+          "author": null,
+          "description": "Letter from a high-ranking FBI official who recently resigned. “I took an oath to defend the Constitution. The unqualified leaders Donald Trump chose to lead the bureau act like they took an oath to Trump personally.”",
+          "link": "https://kottke.org/25/04/0046619-letter-from-a-high-rankin",
+          "publishedOn": "2025-04-14T15:20:21.000Z",
+          "wordCount": 641,
+          "title": "Letter from a high-ranking FBI official who recently resigned. &#8220;I took an...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/04/0046618-i-was-chuffed-to-see",
+          "author": null,
+          "description": "I was chuffed to see that KDO’s own Edith Zimmerman has a cartoon in the New Yorker today! Go Edith!\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/04/0046618-i-was-chuffed-to-see",
+          "publishedOn": "2025-04-14T14:43:40.000Z",
+          "wordCount": 843,
+          "title": "I was chuffed to see that KDO&#8217;s own Edith Zimmerman has a...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/04/0046617-george-monbiot-rightwing-",
+          "author": null,
+          "description": "George Monbiot: Rightwing populists will keep winning until we grasp this truth about human nature. “Economic inequality breeds resentment and a desire to get even. That’s what fuels support for even incompetent regimes.”",
+          "link": "https://kottke.org/25/04/0046617-george-monbiot-rightwing-",
+          "publishedOn": "2025-04-14T14:24:35.000Z",
+          "wordCount": 635,
+          "title": "George Monbiot: Rightwing populists will keep winning until we grasp this truth...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/25/04/0046616-i-am-catching-up-on",
           "author": null,
@@ -5981,116 +6102,6 @@
           "publishedOn": "2025-02-14T15:42:23.000Z",
           "wordCount": 1280,
           "title": "An Update",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/02/0046219-how-to-stop-trumps-power",
-          "author": null,
-          "description": "How to stop Trump’s power grab. “Trump isn’t inevitable. Here’s a plan to keep democracy intact.”",
-          "link": "https://kottke.org/25/02/0046219-how-to-stop-trumps-power",
-          "publishedOn": "2025-02-14T01:15:18.000Z",
-          "wordCount": 597,
-          "title": "How to stop Trump&#8217;s power grab. &#8220;Trump isn&#8217;t inevitable. Here&#8217;s a plan...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/02/the-venn-diagram-of-trumps-authoritarian-actions",
-          "author": null,
-          "description": "Professor Christina Pagel of University College London has mapped the actions of the Trump administration’s first few weeks into a Venn diagram (above) with “five broad domains that correspond to features of proto-authoritarian states”:\nUndermining Democratic Institutions & Rule of Law; Dismantling federal government\nDismantling Social Protections & Rights; Enrichment & Corruption\nSuppressing Dissent & Controlling Information\nAttacking Science, Environment, Health, Arts & Education\nAggressive Foreign Policy & Global Destabilization\n\n\nThis diagram is available as a PDF and the information is also contained in this categorized table. Links and commentary from Pagel can be found on Bluesky as well.\nAlso very helpful is this list of authoritarian actions that the Trump administration has taken, each with a link to the relevant news story. I will be referring back to this list often in the coming weeks.\nTags: 2025 Coup · Christina Pagel · Donald Trump · infoviz · politics · USA",
-          "link": "https://kottke.org/25/02/the-venn-diagram-of-trumps-authoritarian-actions",
-          "publishedOn": "2025-02-14T00:38:48.000Z",
-          "wordCount": 707,
-          "title": "The Venn Diagram of Trump&#8217;s Authoritarian Actions",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/trump-venn-diagram.jpg"
-        },
-        {
-          "id": "https://kottke.org/25/02/0046217-really-interesting-essay-",
-          "author": null,
-          "description": "Really interesting essay about organizing: How Much Discomfort Is the Whole World Worth? “If we cannot organize beyond the bounds of our comfort zones, we will never build movements large enough to combat the forces that would destroy us.”",
-          "link": "https://kottke.org/25/02/0046217-really-interesting-essay-",
-          "publishedOn": "2025-02-13T23:52:03.000Z",
-          "wordCount": 628,
-          "title": "Really interesting essay about organizing: How Much Discomfort Is the Whole World...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/02/fuck-the-middle-ground",
-          "author": null,
-          "description": "Jessica Valenti on why there’s no room for compromise or middle ground on abortion rights.\nAnyone still holding out hope for a ‘compromise’ on abortion rights needs to give it up. Right now.\nOver the past few days, a Louisiana mother was arrested for getting abortion pills for her teenager, abortion reports became public records in Indiana, and Arkansas advanced a bill mandating an anti-abortion propaganda video be shown in public school classrooms.\nAlso in the last week, the new Trump administration erased information on reproductive health and privacy rights from government websites, Missouri Republicans moved to overturn a pro-choice amendment that voters approved in November, Idaho legislators proposed a bill that could punish abortion patients with the death penalty, and South Carolina lawmakers pushed legislation that wouldn’t just ban pro-choice websites—it would make it a felony to even talk about abortion with a pregnant person.\nIn the short amount of time Donald Trump has been in office, anti-abortion extremists have been told they can attack clinics without fear of arrest, and the Republican party who once claimed they’d never punish women for abortion now say bills to prosecute patients as murderers “inspire healthy dialogue.”\nDo these sound like people interested in ‘compromise’? We’re watching conservatives dismantle democracy and force women back into the home — killing quite a few of us along the way. In what universe is the appropriate response finding common ground?\nYou don’t ask the guy with the boot on your neck to wear a softer shoe. You rip his fucking foot off.\n\n\nThis is a paywalled article but it includes the entire text — “It’s past time to act like it.” is the last line of the piece.\nSee also Rebecca Solnit: On Not Meeting Nazis Halfway and A.R. Moxon’s essay that reminds us the center between fascism and democracy is fascism. (thx, meg)\nTags: abortion · Jessica Valenti · politics",
-          "link": "https://kottke.org/25/02/fuck-the-middle-ground",
-          "publishedOn": "2025-02-13T23:16:46.000Z",
-          "wordCount": 872,
-          "title": "&#8220;Fuck the Middle Ground&#8221;",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/02/0046216-house-gop-has-reintroduce",
-          "author": null,
-          "description": "House GOP has reintroduced the SAVE Act, which would require voters to show a passport or birth cert. when voting as proof of citizenship. But 140M Americans don’t have a passport and 69M women don’t have a birth cert. matching their current last name.",
-          "link": "https://kottke.org/25/02/0046216-house-gop-has-reintroduce",
-          "publishedOn": "2025-02-13T22:30:34.000Z",
-          "wordCount": 643,
-          "title": "House GOP has reintroduced the SAVE Act, which would require voters to...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/02/0046215-elie-mystal-on-elon-musks",
-          "author": null,
-          "description": "Elie Mystal on Elon Musk’s vision of neo-apartheid. “First and most important, apartheid is a business plan. It’s a system designed to exploit cheap Black labor, without ever letting Black people reap the financial and social gains of hard work.”",
-          "link": "https://kottke.org/25/02/0046215-elie-mystal-on-elon-musks",
-          "publishedOn": "2025-02-13T21:49:50.000Z",
-          "wordCount": 639,
-          "title": "Elie Mystal on Elon Musk&#8217;s vision of neo-apartheid. &#8220;First and most important,...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/02/0046210-bad-company-private-equit",
-          "author": null,
-          "description": "Bad Company: Private Equity and the Death of the American Dream is a forthcoming book that’s “an exposé of private equity’s devastating impact on American lives, communities, and the economy”.",
-          "link": "https://kottke.org/25/02/0046210-bad-company-private-equit",
-          "publishedOn": "2025-02-13T21:18:50.000Z",
-          "wordCount": 620,
-          "title": "Bad Company: Private Equity and the Death of the American Dream is...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/02/is-this-the-end-of-the-american-constitution",
-          "author": null,
-          "description": "Jamelle Bouie has started posting video essays on his YouTube channel about the current US political crisis. His latest one is an adaptation of his NY Times piece, There Is No Going Back.\nNow, even if Musk had been elected to office, this would still be one of the worst abuses of power in American history. That is unquestionable. No one in the executive branch has the legal authority to unilaterally cancel congressional appropriations. No one has the legal authority to turn the Treasury payment system into a means of political retribution. No one has the authority to summarily dismiss civil servants without cause. No one has the authority to take down and scrub Americans’ data unilaterally. And no private citizen has the authority to access some of the most sensitive data the government collects on private citizens for their own unknown and probably nefarious purposes.\n\n\nBouie has also regularly been posting videos to his Instagram (bio: “National program director of the CHUM Group”) and TikTok.\nTags: 2025 Coup · Donald Trump · Elon Musk · Jamelle Bouie · politics · USA · video",
-          "link": "https://kottke.org/25/02/is-this-the-end-of-the-american-constitution",
-          "publishedOn": "2025-02-13T20:30:19.000Z",
-          "wordCount": 740,
-          "title": "Is This the End of the American Constitution?",
-          "imageUrl": "https://i.ytimg.com/vi/aBVGmDaQRbE/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/25/02/0046213-on-a-scale-of-10",
-          "author": null,
-          "description": "On a scale of +10 (full democracy) to -10 (full autocracy), the US now scores a 0, its lowest score since the Civil War. “The USA is no longer considered a democracy and lies at the cusp of autocracy.”",
-          "link": "https://kottke.org/25/02/0046213-on-a-scale-of-10",
-          "publishedOn": "2025-02-13T19:52:34.000Z",
-          "wordCount": 603,
-          "title": "On a scale of +10 (full democracy) to -10 (full autocracy), the...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/02/0046211-rfk-jr-confirmed-as-secre",
-          "author": null,
-          "description": "RFK Jr. confirmed as secretary of the Health and Human Services Department. There has been a lot of horrible news over the past month but this one is making me feel ill. I’m gonna log off for awhile.",
-          "link": "https://kottke.org/25/02/0046211-rfk-jr-confirmed-as-secre",
-          "publishedOn": "2025-02-13T16:39:35.000Z",
-          "wordCount": 665,
-          "title": "RFK Jr. confirmed as secretary of the Health and Human Services Department....",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/02/0046208-heather-cox-richardson-on",
-          "author": null,
-          "description": "Heather Cox Richardson on the history of the liberal consensus, from Lincoln to Eisenhower, and how the country has been turning back toward “the idea of a small government that serves the needs of a few wealthy people”.",
-          "link": "https://kottke.org/25/02/0046208-heather-cox-richardson-on",
-          "publishedOn": "2025-02-13T16:04:29.000Z",
-          "wordCount": 622,
-          "title": "Heather Cox Richardson on the history of the liberal consensus, from Lincoln...",
           "imageUrl": ""
         }
       ]
