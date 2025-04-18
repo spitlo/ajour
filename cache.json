@@ -152,6 +152,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3077/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/de_sitter.png\" title=\"Our anti-de Sitter club is small at the moment, but I've started corresponding with the conformal field theory people.\" alt=\"Our anti-de Sitter club is small at the moment, but I've started corresponding with the conformal field theory people.\" />",
+          "link": "https://xkcd.com/3077/",
+          "publishedOn": "2025-04-16T00:00:00.000Z",
+          "wordCount": 206,
+          "title": "de Sitter",
+          "imageUrl": "https://imgs.xkcd.com/comics/de_sitter_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3076/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/the_roads_both_taken.png\" title=\"When you worry that you're missing out on something by not making both choices simultaneously by quantum superposition, that's called phomo.\" alt=\"When you worry that you're missing out on something by not making both choices simultaneously by quantum superposition, that's called phomo.\" />",
@@ -390,16 +400,6 @@
           "wordCount": 204,
           "title": "KM3NeT",
           "imageUrl": "https://imgs.xkcd.com/comics/km3net_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3052/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/archive_request.png\" title=\"They just want researchers in the enclosure to feel enriched and stimulated. ('The Enclosure' is what archivists call the shadowy world outside their archives in which so many people are trapped.)\" alt=\"They just want researchers in the enclosure to feel enriched and stimulated. ('The Enclosure' is what archivists call the shadowy world outside their archives in which so many people are trapped.)\" />",
-          "link": "https://xkcd.com/3052/",
-          "publishedOn": "2025-02-17T00:00:00.000Z",
-          "wordCount": 206,
-          "title": "Archive Request",
-          "imageUrl": "https://imgs.xkcd.com/comics/archive_request_2x.png"
         }
       ]
     },
@@ -754,6 +754,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/781099621031329792",
+          "author": null,
+          "description": "text-mode:\nCyrillic teletext, via",
+          "link": "https://text-mode.tumblr.com/post/781099621031329792",
+          "publishedOn": "2025-04-17T18:30:47.000Z",
+          "wordCount": 981,
+          "title": "text-mode:\n\nCyrillic teletext, via",
+          "imageUrl": "https://64.media.tumblr.com/eb9ecda625a92f8322711c1fecafb298/tumblr_mo33r2PBp11rpiyaso1_640.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/781009089407909888",
           "author": null,
@@ -1343,16 +1353,6 @@
           "wordCount": 996,
           "title": "text-mode:\n\nTypewriter Mystery Games by Julius Nelson...",
           "imageUrl": "https://64.media.tumblr.com/2af2de1373f662780b800cc4fd4ab645/tumblr_mtdofuA1wQ1rpiyaso1_1280.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/775667601605066752",
-          "author": null,
-          "description": "text-mode:\nVuk Cosic, one of the biggest ASCII-names in the art world, has a new project. He’s making a movie in cuneiform to be presented this friday. Is that Linda Lovelace we see?\n\nsource",
-          "link": "https://text-mode.tumblr.com/post/775667601605066752",
-          "publishedOn": "2025-02-16T19:31:09.000Z",
-          "wordCount": 1036,
-          "title": "text-mode:\n\nVuk Cosic, one of the biggest ASCII-names in the art...",
-          "imageUrl": "https://64.media.tumblr.com/dd7cae5ba7ff3fbd0d1a3c22396098e9/tumblr_msykftQkRU1rpiyaso1_640.png"
         }
       ]
     },
@@ -1361,6 +1361,16 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=78856",
+          "author": "Mozilla",
+          "description": "The CEO of Mozilla, Laura Chambers, provided insights about the U.S. v. Google LLC case on search competition ahead of the trial slated to begin April 21, 2025. “As the CEO of Mozilla, I often have conversations about the future of this company. Most times these conversations are tied to how we build a better […]\nThe post Mozilla’s CEO weighs in on U.S. v. Google appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/internet-policy/mozilla-ceo-on-google-antitrust/",
+          "publishedOn": "2025-04-17T12:10:33.000Z",
+          "wordCount": 1629,
+          "title": "Mozilla’s CEO weighs in on U.S. v. Google",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2025/03/Mozilla-Blog-Thumbnail@2x-1080x720.png"
+        },
         {
           "id": "https://blog.mozilla.org/?p=78832",
           "author": "Kristina Bravo",
@@ -2184,6 +2194,126 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/25/04/timeless-tips-for-simple-sabotage-from-the-cia-1",
+          "author": null,
+          "description": "In 1944, the OSS (the precursor to the CIA) produced a document called the Simple Sabotage Field Manual (PDF). It was designed to be used by agents in the field to hinder our WWII adversaries. The CIA recently highlighted five tips from the manual as timelessly relevant:\n1. Managers and Supervisors: To lower morale and production, be pleasant to inefficient workers; give them undeserved promotions. Discriminate against efficient workers; complain unjustly about their work.\n2. Employees: Work slowly. Think of ways to increase the number of movements needed to do your job: use a light hammer instead of a heavy one; try to make a small wrench do instead of a big one.\n3. Organizations and Conferences: When possible, refer all matters to committees, for “further study and consideration.” Attempt to make the committees as large and bureaucratic as possible. Hold conferences when there is more critical work to be done.\n4. Telephone: At office, hotel and local telephone switchboards, delay putting calls through, give out wrong numbers, cut people off “accidentally,” or forget to disconnect them so that the line cannot be used again.\n5. Transportation: Make train travel as inconvenient as possible for enemy personnel. Issue two tickets for the same seat on a train in order to set up an “interesting” argument.\n\n\nHa, some of these things are practically best practices in American business, not against enemies but against their employees, customers, and themselves. You can also find the manual in book or ebook format. (via @craigmod)\n[This is a vintage post originally from Aug 2016.]\nTags: books · CIA · timeless posts · war · WWII",
+          "link": "https://kottke.org/25/04/timeless-tips-for-simple-sabotage-from-the-cia-1",
+          "publishedOn": "2025-04-17T22:57:56.000Z",
+          "wordCount": null,
+          "title": "Timeless Tips for &#8220;Simple Sabotage&#8221; From the CIA",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kottke.org/25/04/0046660-i-love-this-interactive-v",
+          "author": null,
+          "description": "I love this interactive visualization by The Pudding of the shared DNA of music (i.e. how “borrowed beats, loaned lyrics, and multipurpose melodies” are passed down through generations of music, from Edvard Grieg (1876) to Tupac).\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/04/0046660-i-love-this-interactive-v",
+          "publishedOn": "2025-04-17T22:04:38.000Z",
+          "wordCount": null,
+          "title": "I love this interactive visualization by The Pudding of the shared DNA...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kottke.org/25/04/olympic-gold-medalist-dominates-the-100m-at-her-kids-sports-day-event",
+          "author": null,
+          "description": "If you’re one of those people who watches the Olympics and wishes they’d put a normal person in the competition so we can see how fast the athletes really are, this one’s for you.\nEight-time Olympic gold medalist and a 10-time world champion sprinter Shelly-Ann Fraser-Pryce recently announced her comeback and for her first 100m race, she competed against the other parents at her son’s sports day event. And completely demolished them.\n\nI love how she goes flat-out…no Usain Bolt showboating or looking around near the finish line. All business. (via @rebeccablood.bsky.social)\nUpdate: She did it back in 2023 too.\n\nTags: Shelly-Ann Fraser-Pryce · sports · track and field · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/04/olympic-gold-medalist-dominates-the-100m-at-her-kids-sports-day-event",
+          "publishedOn": "2025-04-17T21:26:58.000Z",
+          "wordCount": null,
+          "title": "Olympic Gold Medalist Dominates the 100m at Her Kid&#8217;s Sports Day Event",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kottke.org/25/04/0046658-the-rise-of-the-infinite",
+          "author": null,
+          "description": "The Rise of the Infinite Fringe. “It used to be easy to kill a conspiracy theory. But the internet has made them immortal — and politically powerful.”",
+          "link": "https://kottke.org/25/04/0046658-the-rise-of-the-infinite",
+          "publishedOn": "2025-04-17T21:02:50.000Z",
+          "wordCount": null,
+          "title": "The Rise of the Infinite Fringe. &#8220;It used to be easy to...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kottke.org/25/04/0046657-matt-webbs-interesting-ob",
+          "author": null,
+          "description": "Matt Webb’s interesting observations on running his first marathon. “There are new experiences to be found, when you go past your limits, which aren’t like the old ones scaled up. They’re something distinct. Unanticipated and unanticipatable.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/04/0046657-matt-webbs-interesting-ob",
+          "publishedOn": "2025-04-17T20:30:13.000Z",
+          "wordCount": null,
+          "title": "Matt Webb&#8217;s interesting observations on running his first marathon. &#8220;There are new...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kottke.org/25/04/0046656-so-you-want-to-be",
+          "author": null,
+          "description": "So You Want to Be a Dissident? For many, the US has “crossed into a new & unfamiliar realm — one in which the consequences of challenging the state seem to increasingly carry real danger”. Here’s “a practical guide to courage in Trump’s age of fear”.",
+          "link": "https://kottke.org/25/04/0046656-so-you-want-to-be",
+          "publishedOn": "2025-04-17T18:27:04.000Z",
+          "wordCount": null,
+          "title": "So You Want to Be a Dissident? For many, the US has...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kottke.org/25/04/0046654-historians-quibbling-over",
+          "author": null,
+          "description": "Historians: Quibbling Over Exact Definition Of Concentration Camp Sign Of Healthy Society. “The more pedantic one’s reasoning for a facility not fully satisfying the criteria for a true concentration camp, the better that bodes for a country’s future.”",
+          "link": "https://kottke.org/25/04/0046654-historians-quibbling-over",
+          "publishedOn": "2025-04-17T17:32:31.000Z",
+          "wordCount": null,
+          "title": "Historians: Quibbling Over Exact Definition Of Concentration Camp Sign Of Healthy Society....",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kottke.org/25/04/0046650-toddlers-which-includes-d",
+          "author": null,
+          "description": "“Toddlers (which includes defensive bureaucrats, bullies, flat earthers, […] and radio talk show hosts) may indicate that they’d like to have an argument, but they’re actually engaging in connection, noise, play acting or a chance to earn status.”",
+          "link": "https://kottke.org/25/04/0046650-toddlers-which-includes-d",
+          "publishedOn": "2025-04-17T17:07:00.000Z",
+          "wordCount": null,
+          "title": "&#8220;Toddlers (which includes defensive bureaucrats, bullies, flat earthers, [&#8230;] and radio talk...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kottke.org/25/04/0046651-harry-potter-and-the-prob",
+          "author": null,
+          "description": "Harry Potter and the Problematic Author, a fanzine “on loving flawed media and feeling betrayed by a childhood hero”. “I was 11 years old when Harry Potter finally broke through my dyslexia and turned me into a reader.”",
+          "link": "https://kottke.org/25/04/0046651-harry-potter-and-the-prob",
+          "publishedOn": "2025-04-17T16:16:15.000Z",
+          "wordCount": null,
+          "title": "Harry Potter and the Problematic Author, a fanzine &#8220;on loving flawed media...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kottke.org/25/04/the-american-revolution-by-ken-burns",
+          "author": null,
+          "description": "Filmmakers Ken Burns, Sarah Botstein and David Schmidt have made a 12-hour documentary series on the Revolutionary War that will debut on PBS in November 2025. Here’s a preview (YouTube, Bluesky):\n\nFrom the press release:\nAn expansive look at the virtues and contradictions of the war and the birth of the United States of America, the film follows dozens of figures from a wide variety of backgrounds. Viewers will experience the war through the memories of the men and women who experienced it: the rank-and-file Continental soldiers and American militiamen (some of them teenagers), Patriot political and military leaders, British Army officers, American Loyalists, Native soldiers and civilians, enslaved and free African Americans, German soldiers in the British service, French and Spanish alli…",
+          "link": "https://kottke.org/25/04/the-american-revolution-by-ken-burns",
+          "publishedOn": "2025-04-17T15:24:59.000Z",
+          "wordCount": null,
+          "title": "The American Revolution by Ken Burns",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kottke.org/25/04/0046652-about-those-stories-of-th",
+          "author": null,
+          "description": "About those stories of the detection of a possible molecular signature of life on a distant planet: the molecule they are talking about can also arise without life. “That’s a rather huge caveat!” (It’s never aliens. (Until it is. (Someday.)))\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/04/0046652-about-those-stories-of-th",
+          "publishedOn": "2025-04-17T14:15:07.000Z",
+          "wordCount": null,
+          "title": "About those stories of the detection of a possible molecular signature of...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kottke.org/25/04/0046637-ai-discovered-wholly-new-",
+          "author": null,
+          "description": "“AI discovered wholly new proteins before it could count the ‘r’s in ‘strawberry’, which makes it neither vaporware nor a demigod but a secret third thing.”",
+          "link": "https://kottke.org/25/04/0046637-ai-discovered-wholly-new-",
+          "publishedOn": "2025-04-17T13:35:46.000Z",
+          "wordCount": null,
+          "title": "&#8220;AI discovered wholly new proteins before it could count the &#8216;r&#8217;s in...",
+          "imageUrl": null
+        },
         {
           "id": "https://kottke.org/25/04/0046649-ben-werdmuller-on-how-he",
           "author": null,
