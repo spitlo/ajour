@@ -162,6 +162,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3078/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/anchor_bolts.png\" title=\"The biggest expense was installing the mantle ducts to keep the carbonate-silicate cycle operating.\" alt=\"The biggest expense was installing the mantle ducts to keep the carbonate-silicate cycle operating.\" />",
+          "link": "https://xkcd.com/3078/",
+          "publishedOn": "2025-04-18T00:00:00.000Z",
+          "wordCount": 206,
+          "title": "Anchor Bolts",
+          "imageUrl": "https://imgs.xkcd.com/comics/anchor_bolts_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3077/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/de_sitter.png\" title=\"Our anti-de Sitter club is small at the moment, but I've started corresponding with the conformal field theory people.\" alt=\"Our anti-de Sitter club is small at the moment, but I've started corresponding with the conformal field theory people.\" />",
@@ -400,16 +410,6 @@
           "wordCount": 206,
           "title": "Scream Cipher",
           "imageUrl": "https://imgs.xkcd.com/comics/scream_cipher_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3053/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/km3net.png\" title=\"Unfortunately, KM3NeT led to the discovery of the Pauli anglerfish, which emits Cherenkov radiation to prey on neutrino researchers.\" alt=\"Unfortunately, KM3NeT led to the discovery of the Pauli anglerfish, which emits Cherenkov radiation to prey on neutrino researchers.\" />",
-          "link": "https://xkcd.com/3053/",
-          "publishedOn": "2025-02-19T00:00:00.000Z",
-          "wordCount": 204,
-          "title": "KM3NeT",
-          "imageUrl": "https://imgs.xkcd.com/comics/km3net_2x.png"
         }
       ]
     },
@@ -774,6 +774,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/781280807780286464",
+          "author": null,
+          "description": "text-mode:\nPrinted log-in screens from Phantasmal Alchemy, an Atari BBS in the mid 1980s. Made in Atari’s own ascii-standard ATASCII. \nThe BBS started rather humbly, but eventually grew to encompass a large assortment of 8-bit hardware, including two 20MB hard drives.  Which, for Atari 8-bit stuff was pretty much infinite storage back then. :) The BBS was quite popular in Southeastern Connecticut, and I met many people through the BBS that I am still friends with to this day. \nMore here. Spotted by @vectorbunny.",
+          "link": "https://text-mode.tumblr.com/post/781280807780286464",
+          "publishedOn": "2025-04-19T18:30:40.000Z",
+          "wordCount": 1092,
+          "title": "text-mode:\n\nPrinted log-in screens from Phantasmal Alchemy, an...",
+          "imageUrl": "https://64.media.tumblr.com/858c49957c18016ae781ee127bd33463/tumblr_momph6GRJj1rpiyaso7_640.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/781190220092768256",
           "author": null,
@@ -1363,16 +1373,6 @@
           "wordCount": 1023,
           "title": "text-mode:\n\nTitas’ ASCII torso, used on the cover of a...",
           "imageUrl": "https://64.media.tumblr.com/50a5b64597043f12cad290bd5a25ff87/tumblr_mlrjeddGie1s136m4o1_640.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/775848763974680576",
-          "author": null,
-          "description": "text-mode:\nLooks like Glitchr has outdone himself on Twitter…\nsource",
-          "link": "https://text-mode.tumblr.com/post/775848763974680576",
-          "publishedOn": "2025-02-18T19:30:39.000Z",
-          "wordCount": 994,
-          "title": "text-mode:\n\nLooks like Glitchr has outdone himself on...",
-          "imageUrl": "https://64.media.tumblr.com/bf785cae647ca5f29d7a8a091a1bebcb/tumblr_msz0fk2Jl41rpiyaso1_1280.jpg"
         }
       ]
     },
@@ -1640,26 +1640,6 @@
           "wordCount": 1939,
           "title": "Growing Mozilla — and evolving our leadership",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2024/12/logo-lockup-video-poster-1080x720.png"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=78418",
-          "author": "Mozilla",
-          "description": "A fresh start isn’t just for your home — your iPhone or iPad deserves a privacy detox too. With Firefox for iOS, you can block hidden trackers, stop fingerprinting, and keep your browsing history more private with Enhanced Tracking Protection. How Firefox for iOS protects you Websites and advertisers often track your activity using cookies, […]\nThe post Spring detox with Firefox for iOS appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/products/firefox-ios-spring-detox/",
-          "publishedOn": "2025-02-18T17:54:44.000Z",
-          "wordCount": 1559,
-          "title": "Spring detox with Firefox for iOS",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2025/02/spring-cleaning-1080x720.png"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=78366",
-          "author": "Tarek Ziadé and Paul Adenot",
-          "description": "In the Firefox AI Runtime, we can use multiple threads in the dedicated inference process to speed up execution times CPU. The WASM/JS environment can create a SharedArrayBuffer and run multiple threads against its content and distribute the load on several CPU cores concurrently. Below is the time taken in seconds on a MacBook M1 […]\nThe post What is the best hardware concurrency for running inference on CPU? appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/ai/ai-tech/what-is-the-best-hardware-concurrency-for-running-inference-on-cpu/",
-          "publishedOn": "2025-02-18T16:34:35.000Z",
-          "wordCount": 2760,
-          "title": "What is the best hardware concurrency for running inference on CPU?",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2025/02/fox-1-1024x683.png"
         }
       ]
     },
@@ -1718,6 +1698,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=10753",
+          "author": "Cory Doctorow",
+          "description": "Today's links Against transparency: *Caveat emptor* is grifter for, \"Surprise, you're dead!\" Hey look at this: Delights to delectate. Object permanence: 2005, 2015, 2020, 2024 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Against transparency (permalink) Walk down any street in California for more than a couple minutes and you will come upon a sign warning you that a product or just an area \"contains chemicals known to the state of California to cause cancer.\" These warnings are posted to comply with Prop 65, a 1986 law that requires firms to notify you if they're exposing you to cancer risk. The hope was that a legal requireme…",
+          "link": "https://pluralistic.net/2025/04/19/gotcha/",
+          "publishedOn": "2025-04-19T13:08:50.000Z",
+          "wordCount": 3922,
+          "title": "Pluralistic: Against transparency (19 Apr 2025)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=10747",
           "author": "Cory Doctorow",
@@ -2166,16 +2156,6 @@
           "publishedOn": "2025-02-19T18:06:08.000Z",
           "wordCount": 4776,
           "title": "Pluralistic: Pluralistic is five (19 Feb 2025)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=10349",
-          "author": "Cory Doctorow",
-          "description": "Today's links America and \"national capitalism\": How the EU should respond to Trumpism. Hey look at this: Delights to delectate. Object permanence: 2005, 2010, 2015 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. America and \"national capitalism\" (permalink) Thomas Piketty's 2013 unexpected bestseller (a 750 page economics book translated from French!) Capital in the 21st Century, offers a very convincing explanation of our political decay, and it continues to serve this purpose as the decay undergoes alarming acceleration: https://memex.craphound.com/2014/06/24/thomas-pikettys-capital-in-the-21st-century/ Let me sketch out that …",
-          "link": "https://pluralistic.net/2025/02/18/pikettys-productivity/",
-          "publishedOn": "2025-02-18T17:33:04.000Z",
-          "wordCount": 4325,
-          "title": "Pluralistic: America and \"national capitalism\" (18 Feb 2025)",
           "imageUrl": null
         }
       ]
@@ -6362,106 +6342,6 @@
           "publishedOn": "2025-02-19T15:25:04.000Z",
           "wordCount": 756,
           "title": "Lizzie Wade&#8217;s forthcoming book is about human resilience in the face of...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/02/unbelievably-cruel-asmr-video-immigrants",
-          "author": null,
-          "description": "This afternoon on Twitter, the official White House account posted an ASMR video of an immigrant deportation flight. Elon Musk quoted-tweeted the video with “Haha wow 🧌🏅”. Here’s a screen recording I made of the video & tweet:\n\nA popular genre on YouTube, ASMR videos are designed to trigger feelings of relaxation and low-grade euphoria through sounds and imagery. In this video, the Trump White House invites us to relax to the clinking of handcuffs, the rattling of chains, and other sounds of immigrants being shackled like criminals and placed on flights out of the country. Some of those being deported are not criminals, are being imprisoned in countries other than their own, could be sent to a detention center in Guantanamo Bay, or might be sent back to countries with autocratic regimes to face persecution or death.\nThis is unfathomably cruel and monstrous. Vile. Evil. The stuff of sadistic dictators and terrorists. Nazis. People who killed cats for fun when they were kids. From the top down, the people serving in the Trump administration are sick, inhuman, heartless. This video absolutely gutted me. I am so very ashamed to be an American today. (via @rebeccasolnit.bsky.social)\nTags: Donald Trump · Elon Musk · immigration · politics · video",
-          "link": "https://kottke.org/25/02/unbelievably-cruel-asmr-video-immigrants",
-          "publishedOn": "2025-02-18T23:11:40.000Z",
-          "wordCount": 774,
-          "title": "Unbelievably Cruel ASMR Video by the White House of Deporting Immigrants",
-          "imageUrl": "https://i.ytimg.com/vi/QjyQmiKF5To/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/25/02/0046251-over-the-past-20-years",
-          "author": null,
-          "description": "Over the past 20 years, archaeologists working in the Amazon have found evidence of an ancient civilization that reached a peak population of 1 million around 150 CE.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/02/0046251-over-the-past-20-years",
-          "publishedOn": "2025-02-18T21:39:07.000Z",
-          "wordCount": 703,
-          "title": "Over the past 20 years, archaeologists working in the Amazon have found...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/02/0046250-good-read-dismantling-the",
-          "author": null,
-          "description": "Good read. “Dismantling the federal government to prevent that from happening was a key object of the conservative project before Trump. It has remained so with him at the head of the Republican party and will remain so whenever his time is up.”",
-          "link": "https://kottke.org/25/02/0046250-good-read-dismantling-the",
-          "publishedOn": "2025-02-18T20:59:40.000Z",
-          "wordCount": 653,
-          "title": "Good read. &#8220;Dismantling the federal government to prevent that from happening was...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/02/0046249-the-war-on-dei-is",
-          "author": null,
-          "description": "The War on DEI Is a Smoke Screen. “MAGA’s attacks on ‘wokeness’ and diversity, equity, and inclusion are a thinly veiled attack on the Civil Rights Movement itself.”",
-          "link": "https://kottke.org/25/02/0046249-the-war-on-dei-is",
-          "publishedOn": "2025-02-18T20:03:45.000Z",
-          "wordCount": 623,
-          "title": "The War on DEI Is a Smoke Screen. &#8220;MAGA&#8217;s attacks on &#8216;wokeness&#8217;...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/02/0046248-ethan-marcotte-resigned-f",
-          "author": null,
-          "description": "Ethan Marcotte resigned from his job at 18F (a GSA subsidiary) rather than participate in the Trump/Musk purge of gov’t employees. “I didn’t want to sit down with anyone involved in that, and pretend like any part of their work was lawful, legitimate, or moral.”",
-          "link": "https://kottke.org/25/02/0046248-ethan-marcotte-resigned-f",
-          "publishedOn": "2025-02-18T19:20:13.000Z",
-          "wordCount": 636,
-          "title": "Ethan Marcotte resigned from his job at 18F (a GSA subsidiary) rather...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/02/0046247-musk-and-the-trump-admini",
-          "author": null,
-          "description": "Musk and the Trump Administration are lying about not purging anyone from the FAA involved in safety. A fired FAA employee: “The danger to the national airspace can’t be understated. This is a very real threat to the American flying public.”",
-          "link": "https://kottke.org/25/02/0046247-musk-and-the-trump-admini",
-          "publishedOn": "2025-02-18T18:42:27.000Z",
-          "wordCount": 639,
-          "title": "Musk and the Trump Administration are lying about not purging anyone from...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/02/0046246-in-case-you-need-a",
-          "author": null,
-          "description": "In case you need a new t-shirt: READ BOOKS PUNCH NAZIS. “All proceeds from this campaign are going to SafePlace International in Oakland.”",
-          "link": "https://kottke.org/25/02/0046246-in-case-you-need-a",
-          "publishedOn": "2025-02-18T18:01:09.000Z",
-          "wordCount": 624,
-          "title": "In case you need a new t-shirt: READ BOOKS PUNCH NAZIS. &#8220;All...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/02/150-year-olds-arent-collecting-social-security",
-          "author": null,
-          "description": "Elon Musk has claimed that his “DOGE” team has found evidence of “massive fraud” at the Social Security Administration, alleging that 150-year-old Americans were receiving benefit checks. I saw this claim easily debunked over the weekend, but Wired has a good writeup of it. Basically, the programming language that these systems are written in (COBOL) often uses an arbitrary date as a baseline…most commonly a date from 150 years ago.\nComputer programmers quickly claimed that the 150 figure was not evidence of fraud, but rather the result of a weird quirk of the Social Security Administration’s benefits system, which was largely written in COBOL, a 60-year-old programming language that undergirds SSA’s databases as well as systems from many other US government agencies.\nCOBOL is rarely used today, and as such, Musk’s cadre of young engineers may well be unfamiliar with it.\nBecause COBOL does not have a date type, some implementations rely instead on a system whereby all dates are coded to a reference point. The most commonly used is May 20, 1875, as this was the date of an international standards-setting conference held in Paris, known as the “Convention du Mètre.”\nThese systems default to the reference point when a birth date is missing or incomplete, meaning all of those entries in 2025 would show an age of 150.\n\n\nThe SSA also automatically stops benefit payments whenever someone reaches the age of 115.\nTags: 2025 Coup · COBOL · Elon Musk · programming · USA",
-          "link": "https://kottke.org/25/02/150-year-olds-arent-collecting-social-security",
-          "publishedOn": "2025-02-18T17:32:05.000Z",
-          "wordCount": 800,
-          "title": "150-Year-Olds Aren&#8217;t Collecting Social Security",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/02/0046244-marisa-kabas-elon-musk",
-          "author": null,
-          "description": "Marisa Kabas: Elon Musk & his young acolytes are actual, open Nazis. “Whatever comes to mind when you think of a Nazi, that is for whom this country is currently being run.”",
-          "link": "https://kottke.org/25/02/0046244-marisa-kabas-elon-musk",
-          "publishedOn": "2025-02-18T16:05:05.000Z",
-          "wordCount": 612,
-          "title": "Marisa Kabas: Elon Musk & his young acolytes are actual, open Nazis....",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/02/the-personal-toll-of-the-trumpmusk-government-purges",
-          "author": null,
-          "description": "Brian Merchant, author of the excellent Blood in the Machine (about the Luddites), talked to a bunch of federal tech workers about the illegal purge of federal employees and shuttering of entire government agencies (also illegal): “what’s happening, how they’re processing it, and how they’re pushing back”.\n“I will also say that as the Thursday deadline [for the initial fork in the road offers] approached OPM sent out these increasingly desperate emails that felt like nothing so much as a Democratic candidate at a fundraising deadline,” one worker told me. He says his team of over a dozen will soon be down to just a handful of employees. Another tells me that people of color are disproportionately being targeted for layoffs in their department. But DOGE is also trying to winnow staff throug…",
-          "link": "https://kottke.org/25/02/the-personal-toll-of-the-trumpmusk-government-purges",
-          "publishedOn": "2025-02-18T15:27:13.000Z",
-          "wordCount": 963,
-          "title": "The Personal Toll of the Trump/Musk Government Purges",
           "imageUrl": ""
         }
       ]
