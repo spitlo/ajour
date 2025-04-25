@@ -63,6 +63,16 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.stavros.io/posts/making-a-trmnl-device/",
+          "author": null,
+          "description": "My obsession with e-ink displays continues\nSome time ago, my friend George linked me to TRMNL, a new battery-powered e-ink display with an associated service that generates the images that the display will actually show.\nIt looks really well-made, and I have an irrational attraction to e-ink displays, so naturally I had to pre-orde",
+          "link": "https://www.stavros.io/posts/making-a-trmnl-device/",
+          "publishedOn": "2025-04-24T02:50:39.000Z",
+          "wordCount": 1556,
+          "title": "I couldn't wait for a TRMNL device, so I made my own",
+          "imageUrl": "https://www.stavros.io/static/images/favicons/og-image.jpg?h=3375145f"
+        },
+        {
           "id": "https://www.stavros.io/posts/why-is-everything-so-scalable/",
           "author": null,
           "description": "Everyone is a FAANG engineer\nI’m entirely convinced that basically every developer alive today heard the adage “dress for the job you want, not the job you have” and figured that, since they always wear jeans and a t-shirt anyway, they might as well apply it to their systems’ architecture.\nThis explains why the stack of every single company I’ve seen is invariably AWS/GCP with at least thirty microservices (how else will you keep the code tidy?), a distributed datastore",
@@ -400,16 +410,6 @@
           "wordCount": 204,
           "title": "RNA",
           "imageUrl": "https://imgs.xkcd.com/comics/rna_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3055/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/giants.png\" title=\"I can't get over the suspicion that all those viral pictures are photoshopped and 'Flemish' belongs in the lower right circle.\" alt=\"I can't get over the suspicion that all those viral pictures are photoshopped and 'Flemish' belongs in the lower right circle.\" />",
-          "link": "https://xkcd.com/3055/",
-          "publishedOn": "2025-02-24T00:00:00.000Z",
-          "wordCount": 204,
-          "title": "Giants",
-          "imageUrl": "https://imgs.xkcd.com/comics/giants_2x.png"
         }
       ]
     },
@@ -477,16 +477,6 @@
           "wordCount": 764,
           "title": "The Time Machine [book]",
           "imageUrl": null
-        },
-        {
-          "id": "upgrading-usb-powered-devices-to-usbc",
-          "author": null,
-          "description": "For a small home project, my son suggested adding some under lights to a plant stand we recently added to our kitchen. I figured we could do this with a cheap LED strip and it could connect to the \"house\" using Zigbee and Home Assistant.\nAll was well until I realised the plug socket nearest the plants already had it's USB port in use and only the USB-C port was available. No worries, I'll just snip the USB plug and swap in a USB-C plug. Or so I thought.",
-          "link": "https://remysharp.com/2025/02/24/upgrading-usb-powered-devices-to-usbc",
-          "publishedOn": "2025-02-24T00:00:00.000Z",
-          "wordCount": 1001,
-          "title": "Upgrading USB devices to USB-C [blog]",
-          "imageUrl": "https://remysharp.com/images/plant-led.jpg"
         }
       ]
     },
@@ -774,6 +764,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/781733786942619648",
+          "author": null,
+          "description": "text-mode:\nASCII in the news! Cover art for this article in the the weekly East Bay Express, January 2013. Photo by varius.",
+          "link": "https://text-mode.tumblr.com/post/781733786942619648",
+          "publishedOn": "2025-04-24T18:30:34.000Z",
+          "wordCount": 962,
+          "title": "text-mode:\n\nASCII in the news! Cover art for this article in the...",
+          "imageUrl": "https://64.media.tumblr.com/d7f98c3378181489b15ef0819a970e89/tumblr_mns5hjcN4J1rpiyaso1_1280.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/781643186816843776",
           "author": null,
@@ -1363,16 +1363,6 @@
           "wordCount": 999,
           "title": "text-mode:\n\nPinky (1986-1992) screens, a Minitel Micro-serveur...",
           "imageUrl": "https://64.media.tumblr.com/1af479eb0ab5600f26e5059e7d37dcbc/tumblr_ms37goxB4I1rpiyaso4_400.gif"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/776301746888867840",
-          "author": null,
-          "description": "text-mode:\nNBC Europe Teletext aka Super Text (1993).",
-          "link": "https://text-mode.tumblr.com/post/776301746888867840",
-          "publishedOn": "2025-02-23T19:30:37.000Z",
-          "wordCount": 970,
-          "title": "text-mode:\n\nNBC Europe Teletext aka Super Text (1993).",
-          "imageUrl": "https://64.media.tumblr.com/6705615159edf1348f35ac5c1db67a3a/tumblr_ms3ag0ZTOf1rpiyaso2_640.jpg"
         }
       ]
     },
@@ -1684,16 +1674,6 @@
           "wordCount": 6979,
           "title": "The Post-Developer Era",
           "imageUrl": "https://www.joshwcomeau.com/images/og-the-post-developer-era.jpg"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/blog/whimsical-animations/",
-          "author": "Josh W. Comeau",
-          "description": "I spent the past few weeks packing as many easter eggs as I could into my latest project, and in this blog post, I want to dig into some of the more interesting details! If you’re interested in animations/interactions, you’ll want to check this one out; I share a bunch of my favourite secrets and tricks. 😄",
-          "link": "https://www.joshwcomeau.com/blog/whimsical-animations/",
-          "publishedOn": "2025-02-24T11:00:00.000Z",
-          "wordCount": 12597,
-          "title": "A Million Little Secrets",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-whimsical-animations.jpg"
         }
       ]
     },
@@ -1719,6 +1699,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=10790",
+          "author": "Cory Doctorow",
+          "description": "Today's links Every complex ecosystem has parasites: The only way to eliminate fraud and waste is to become a trivial walled garden. Hey look at this: Delights to delectate. Object permanence: 2005, 2010, 2015, 2020, 2024 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Every complex ecosystem has parasites (permalink) Patrick \"patio11\" McKenzie is a fantastic explainer, the kind of person who breaks topics down in ways that stay with you, and creep into your understanding of other subjects, too. Take his 2022 essay, \"The optimal amount of fraud is non-zero\": https://www.bitsaboutmoney.com/archive/optimal-amount-of-fraud/ It's a v…",
+          "link": "https://pluralistic.net/2025/04/24/hermit-kingdom/",
+          "publishedOn": "2025-04-24T11:56:57.000Z",
+          "wordCount": 4099,
+          "title": "Pluralistic: Every complex ecosystem has parasites (24 Apr 2025)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=10777",
           "author": "Cory Doctorow",
@@ -2167,16 +2157,6 @@
           "publishedOn": "2025-02-25T13:55:40.000Z",
           "wordCount": 4118,
           "title": "Pluralistic: Apple's encryption capitulation (25 Feb 2025)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=10377",
-          "author": "Cory Doctorow",
-          "description": "Today's links How an obscure advisory board lets utilities steal $50b/year from ratepayers: The Society of Utility and Regulatory Financial Analysts is a hell of a henhouse fox. Hey look at this: Delights to delectate. Object permanence: 2005, 2010, 2015 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. How an obscure advisory board lets utilities steal $50b/year from ratepayers (permalink) Two figures to ponder. First: if your local power company is privately owned, you've seen energy rate hikes at 49% above inflation over the last three years. Second: if your local power company is publicly owned, you've seen energy rates go up a…",
-          "link": "https://pluralistic.net/2025/02/24/surfa/",
-          "publishedOn": "2025-02-24T10:47:14.000Z",
-          "wordCount": 3501,
-          "title": "Pluralistic: How an obscure advisory board lets utilities steal $50b/year from ratepayers (24 Feb 2025)",
           "imageUrl": null
         }
       ]
@@ -6233,46 +6213,6 @@
           "publishedOn": "2025-02-24T14:34:40.000Z",
           "wordCount": 620,
           "title": "We the Builders is a site run by current and former federal...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/02/0046296-when-your-only-job-is",
-          "author": null,
-          "description": "When Your Only Job Is to Cuddle. “On that day, I rocked him for three hours. My left shoulder ached, my arm went numb, but I would not let go, for he and I had work to do, trust to build.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/02/0046296-when-your-only-job-is",
-          "publishedOn": "2025-02-24T02:15:02.000Z",
-          "wordCount": 1039,
-          "title": "When Your Only Job Is to Cuddle. &#8220;On that day, I rocked...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/02/0046290-running-pong-in-240-brows",
-          "author": null,
-          "description": "Running Pong in 240 Browser Tabs. “That’s 240 browser tabs in a tight 8x30 grid. And they’re running pong!”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/02/0046290-running-pong-in-240-brows",
-          "publishedOn": "2025-02-24T00:44:51.000Z",
-          "wordCount": 817,
-          "title": "Running Pong in 240 Browser Tabs. &#8220;That’s 240 browser tabs in a...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/02/0046292-speaking-of-amy-sherald-s",
-          "author": null,
-          "description": "Speaking of Amy Sherald, she’s got an exhibition at The Whitney that opens on April 9th! “This exhibition includes a billboard across from the Museum’s entrance on Gansevoort Street.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/02/0046292-speaking-of-amy-sherald-s",
-          "publishedOn": "2025-02-23T23:04:25.000Z",
-          "wordCount": 740,
-          "title": "Speaking of Amy Sherald, she&#8217;s got an exhibition at The Whitney that...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/02/0046295-roxane-gays-lovely-obitua",
-          "author": null,
-          "description": "Roxane Gay’s lovely obituary for her mother Nicole: It Was Always Going to be Too Soon. “She had an unwavering moral code, a profound inclination toward justice, and her standards were exacting.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/02/0046295-roxane-gays-lovely-obitua",
-          "publishedOn": "2025-02-23T21:06:14.000Z",
-          "wordCount": 709,
-          "title": "Roxane Gay&#8217;s lovely obituary for her mother Nicole: It Was Always Going...",
           "imageUrl": ""
         }
       ]
