@@ -740,6 +740,16 @@
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
         {
+          "id": "https://text-mode.tumblr.com/post/785991874752233472",
+          "author": null,
+          "description": "text-mode:\nTypewriter works by Lee Etheredge IV. Wonder how long these took to make…",
+          "link": "https://text-mode.tumblr.com/post/785991874752233472",
+          "publishedOn": "2025-06-10T18:31:03.000Z",
+          "wordCount": 1021,
+          "title": "text-mode:\n\nTypewriter works by Lee Etheredge IV. Wonder how...",
+          "imageUrl": "https://64.media.tumblr.com/6aa3d95f59b7708320d0268131fd7cde/tumblr_mlf4441QVz1rpiyaso1_1280.jpg"
+        },
+        {
           "id": "https://text-mode.tumblr.com/post/785901275750498304",
           "author": null,
           "description": "jongillie:\nComment le Present Ouvrage ces Questions Critiques - Dom Sylvester Houedard (1971)",
@@ -1328,16 +1338,6 @@
           "wordCount": 1044,
           "title": "text-mode:\n\nBritt-Marie Christoffersson, one of the founding...",
           "imageUrl": "https://64.media.tumblr.com/10d6fbbbf2464eb25d0ec98d45891de6/tumblr_mo67uzilO51rpiyaso5_1280.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/780556018957549568",
-          "author": null,
-          "description": "text-mode:\nExamples of White Mountain Redware, made between year 1000 and 1500. All pics from rarepottery.info.",
-          "link": "https://text-mode.tumblr.com/post/780556018957549568",
-          "publishedOn": "2025-04-11T18:30:27.000Z",
-          "wordCount": 937,
-          "title": "text-mode:\n\nExamples of White Mountain Redware, made between...",
-          "imageUrl": "https://64.media.tumblr.com/14a448fd353a9ebdc56a1f5829ee2358/tumblr_mnpyg3u8Ro1rpiyaso1_1280.jpg"
         }
       ]
     },
@@ -1346,6 +1346,21 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=81018",
+          "author": "Kristina Bravo",
+          "description": "Most travel plans start with a handful of tabs. A map here, a few guides there. Then a flurry of bookings, logins and maybe a PDF form you’re supposed to sign with your finger. Next thing you know, you’re in line at the car rental counter with 3% battery, no confirmation number, and no address […]\nThe post Firefox features that help you plan a trip (and take it) appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/firefox/travel-features/",
+          "publishedOn": "2025-06-10T21:15:42.000Z",
+          "wordCount": 1892,
+          "title": "Firefox features that help you plan a trip (and take it)",
+          "enclosure": {
+            "url": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2025/04/ENG-Tab-groups-animation-v101.mp4",
+            "length": "10915554",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2025/06/fx-sync-950x633.png"
+        },
         {
           "id": "https://blog.mozilla.org/?p=79458",
           "author": "Hannah Bullion",
@@ -1515,16 +1530,6 @@
           "wordCount": 1629,
           "title": "Mozilla’s CEO weighs in on U.S. v. Google",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2025/03/Mozilla-Blog-Thumbnail@2x-1080x720.png"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=78832",
-          "author": "Kristina Bravo",
-          "description": "Here at Mozilla, we are the first to admit the internet isn’t perfect, but we know the internet is pretty darn magical. The internet opens up doors and opportunities, allows for human connection, and lets everyone find where they belong — their corners of the internet. We all have an internet story worth sharing. In […]\nThe post Inside the newsletter making layoffs feel less bleak and more like a group chat appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/internet-culture/laid-off-newsletter/",
-          "publishedOn": "2025-04-11T15:54:19.000Z",
-          "wordCount": 2147,
-          "title": "Inside the newsletter making layoffs feel less bleak and more like a group chat",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2025/04/Melanie_Ehrenkranz_Header_1920x1080_V2@2x-1080x720.png"
         }
       ]
     },
@@ -1532,13 +1537,34 @@
       "title": "Julia Evans",
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://jvns.ca/blog/2025/06/10/how-to-compile-a-c-program/",
+          "author": null,
+          "description": "I have never been a C programmer but every so often I need to compile a C/C++\nprogram from source. This has been kind of a struggle for me: for a\nlong time, my approach was basically “install the dependencies, run make, if\nit doesn’t work, either try to find a binary someone has compiled or give up”.\n“Hope someone else has compiled it” worked pretty well when I was running Linux\nbut since I’ve been using a Mac for the last couple of years I’ve been running\ninto more situations where I have to actually compile programs myself.\nSo let’s talk about what you might have to do to compile a C program! I’ll use\na couple of examples of specific C programs I’ve compiled and talk about a few\nthings that can go wrong. Here are three programs we’ll be talking about\ncompiling:\npaperjam\nsqlite\nqf (a page…",
+          "link": "https://jvns.ca/blog/2025/06/10/how-to-compile-a-c-program/",
+          "publishedOn": "2025-06-10T00:00:00.000Z",
+          "wordCount": 2031,
+          "title": "Using `make` to compile C programs (for non-C-programmers)",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Josh Comeau's blog",
       "feedUrl": "https://www.joshwcomeau.com/rss.xml",
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
+        {
+          "id": "https://www.joshwcomeau.com/animation/partial-keyframes/",
+          "author": "Josh W. Comeau",
+          "description": "CSS Keyframe animations are so much more powerful than most developers realize. In this tutorial, I’ll show you something that completely blew my mind, a technique that makes our keyframe animations so much more reusable and dynamic! 🤯",
+          "link": "https://www.joshwcomeau.com/animation/partial-keyframes/",
+          "publishedOn": "2025-06-10T11:00:00.000Z",
+          "wordCount": 5753,
+          "title": "Partial Keyframes",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-partial-keyframes.png"
+        },
         {
           "id": "https://www.joshwcomeau.com/css/height-enigma/",
           "author": "Josh W. Comeau",
@@ -1906,16 +1932,6 @@
           "publishedOn": "2025-04-12T18:13:46.000Z",
           "wordCount": 3104,
           "title": "Pluralistic: Blue Cross of Louisiana doesn't give a shit about breast cancer (12 Apr 2025)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=10699",
-          "author": "Cory Doctorow",
-          "description": "Today's links Zuckerberg in the dock: Facebook is finally going on trial. Hey look at this: Delights to delectate. Object permanence: 2005, 2010, 2020 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Zuckerberg in the dock (permalink) It's been more than a decade in the making, but Facebook – or, if you prefer, Meta – is going on trial for antitrust violations, with the highest possible stakes and the worst possible evidence (for Facebook). The Big Tech On Trial blog was started to follow the Google antitrust case, the biggest antitrust case of the century, which was barely noticed by most of the press. Partly that was down to the…",
-          "link": "https://pluralistic.net/2025/04/11/it-is-better-to-buy/",
-          "publishedOn": "2025-04-11T16:46:54.000Z",
-          "wordCount": 4551,
-          "title": "Pluralistic: Zuckerberg in the dock (11 Apr 2025)",
           "imageUrl": null
         }
       ]
