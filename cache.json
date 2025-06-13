@@ -148,18 +148,7 @@
       "title": "Grumpy Gamer",
       "feedUrl": "https://grumpygamer.com/rss",
       "siteUrl": "https://grumpygamer.com/",
-      "articles": [
-        {
-          "id": "https://grumpygamer.com/steam_auth/",
-          "author": null,
-          "description": "When I build my game for testing, it’s a completely automated process from the command line.\nI type pub.sh --test on the command line and a long chain of events is started.\nThe script pushes to git, which starts the cloud based CI machine (Azure) building the Mac, Windows and Linux executables.\nWhen they are done, my local script is notified and they are download locally.\nGame files are added and they are signed and packaged up.\nThe script then logs into Steam and uploads the game.\nA change list is built from the git log and uploaded to a private website.\nWhen that is complete, a message is sent to Discord to notify testers that the build is done.\nThis is all done with no interaction on my part.\nIt makes doing test builds quick, easy, and painless. But more important is there is no human i…",
-          "link": "https://grumpygamer.com/steam_auth/",
-          "publishedOn": "2025-04-14T05:26:07.000Z",
-          "wordCount": 548,
-          "title": "Steam Auth Issues",
-          "imageUrl": "https://grumpygamer.com//images/gg_cover_image2.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Emily Short's Interactive Storytelling",
@@ -421,16 +410,6 @@
           "wordCount": 206,
           "title": "de Sitter",
           "imageUrl": "https://imgs.xkcd.com/comics/de_sitter_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3076/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/the_roads_both_taken.png\" title=\"When you worry that you're missing out on something by not making both choices simultaneously by quantum superposition, that's called phomo.\" alt=\"When you worry that you're missing out on something by not making both choices simultaneously by quantum superposition, that's called phomo.\" />",
-          "link": "https://xkcd.com/3076/",
-          "publishedOn": "2025-04-14T00:00:00.000Z",
-          "wordCount": 210,
-          "title": "The Roads Both Taken",
-          "imageUrl": "https://imgs.xkcd.com/comics/the_roads_both_taken_2x.png"
         }
       ]
     },
@@ -749,6 +728,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/786173035855101952",
+          "author": null,
+          "description": "betonbabe:\nJOSEF ALBERS \nBRICK WALL DETAIL, HARVARD UNIVERSITY, 1949-50",
+          "link": "https://text-mode.tumblr.com/post/786173035855101952",
+          "publishedOn": "2025-06-12T18:30:32.000Z",
+          "wordCount": 1000,
+          "title": "betonbabe:\n\n\nJOSEF ALBERS \nBRICK WALL DETAIL, HARVARD...",
+          "imageUrl": "https://64.media.tumblr.com/tumblr_m4ulquqFQf1qztueno1_1280.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/786082478850998272",
           "author": null,
@@ -1338,16 +1327,6 @@
           "wordCount": 986,
           "title": "text-mode:\n\ntoilets*",
           "imageUrl": "https://64.media.tumblr.com/tumblr_m5m8nyazdJ1rpiyaso1_1280.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/780737244698918912",
-          "author": null,
-          "description": "text-mode:\nUI screens from AT&T’s 1983 Viewtron system (1983), album by Philip Bump.",
-          "link": "https://text-mode.tumblr.com/post/780737244698918912",
-          "publishedOn": "2025-04-13T18:30:58.000Z",
-          "wordCount": 1017,
-          "title": "text-mode:\n\nUI screens from AT&T’s 1983 Viewtron system...",
-          "imageUrl": "https://64.media.tumblr.com/c250cf3a5d2ea8fa3560991a2b16e382/tumblr_mo0i4mgnjJ1rpiyaso8_500.jpg"
         }
       ]
     },
@@ -5469,26 +5448,6 @@
           "wordCount": 635,
           "title": "George Monbiot: Rightwing populists will keep winning until we grasp this truth...",
           "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/04/0046616-i-am-catching-up-on",
-          "author": null,
-          "description": "I am catching up on what happened in season one of The Last of Us by watching and reading recaps. Season 2 starts tonight on HBO & Max at 9pm ET.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/04/0046616-i-am-catching-up-on",
-          "publishedOn": "2025-04-13T19:17:35.000Z",
-          "wordCount": 758,
-          "title": "I am catching up on what happened in season one of The...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/04/0046571-new-study-finds-average-a",
-          "author": null,
-          "description": "New Study Finds Average American Stands No Chance Against What’s Coming. “The typical American is toast.”",
-          "link": "https://kottke.org/25/04/0046571-new-study-finds-average-a",
-          "publishedOn": "2025-04-13T14:13:25.000Z",
-          "wordCount": 644,
-          "title": "New Study Finds Average American Stands No Chance Against What&#8217;s Coming. &#8220;The...",
-          "imageUrl": ""
         }
       ]
     },
@@ -5530,6 +5489,16 @@
       "feedUrl": "https://ludic.mataroa.blog/rss/",
       "siteUrl": "https://ludic.mataroa.blog",
       "articles": [
+        {
+          "id": "https://ludic.mataroa.blog/blog/the-narrative-fallacy/",
+          "author": null,
+          "description": "Note: This is an edited re-post of something I wrote in 2019 on a now-defunct blog, apparently a month before I started my first job in tech. I need to reference it in a future post. As a result, it is a little bit different stylistically from my current writing. I hope you enjoy it anyway!\nI'm talking about the brain-destroying threat that narratives pose to our thinking today, and we must credit Nicholas Nassim Taleb's Black Swan for introducing me to the concept. It is the single most influential book on my life. I love most things that Taleb writes, but this is a controversial opinion, to say the least.\nIf you don’t know anything about Taleb, oh boy are you in for a treat. Here is a quote about the man to whet the appetite:\nI know many of you love this guy, and think he’s a genius. I c…",
+          "link": "https://ludic.mataroa.blog/blog/the-narrative-fallacy/",
+          "publishedOn": "2025-06-12T00:00:00.000Z",
+          "wordCount": 6507,
+          "title": "The Narrative Fallacy",
+          "imageUrl": null
+        },
         {
           "id": "https://ludic.mataroa.blog/blog/get-weird-and-disappear/",
           "author": null,
