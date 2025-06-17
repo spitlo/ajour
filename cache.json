@@ -44,16 +44,6 @@
           "wordCount": null,
           "title": "0x32",
           "imageUrl": null
-        },
-        {
-          "id": "https://christianheilmann.com/?p=8467",
-          "author": "Chris Heilmann",
-          "description": "In a moment of boredom, I wrote a little app/web page that shows lovely words we should be using more. It is done in plain HTML, JavaScript, and some CSS. The source code is available, and I am also happy to receive pull requests adding more lovely words. This is not what I wanted to […]",
-          "link": "https://christianheilmann.com/2025/04/18/keeping-it-on-the-dl-another-html-gem-you-never-use/",
-          "publishedOn": "2025-04-18T10:19:58.000Z",
-          "wordCount": null,
-          "title": "Keeping it on the < dl > – another HTML gem you never use",
-          "imageUrl": null
         }
       ]
     },
@@ -151,6 +141,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3103/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/exoplanet_system.png\" title=\"Sure, this exoplanet we discovered may seem hostile to life, but our calculations suggest it's actually in the accretion disc's habitable zone.\" alt=\"Sure, this exoplanet we discovered may seem hostile to life, but our calculations suggest it's actually in the accretion disc's habitable zone.\" />",
+          "link": "https://xkcd.com/3103/",
+          "publishedOn": "2025-06-16T00:00:00.000Z",
+          "wordCount": 206,
+          "title": "Exoplanet System",
+          "imageUrl": "https://imgs.xkcd.com/comics/exoplanet_system_2x.png"
+        },
         {
           "id": "https://xkcd.com/3102/",
           "author": null,
@@ -390,16 +390,6 @@
           "wordCount": 206,
           "title": "Air Fact",
           "imageUrl": "https://imgs.xkcd.com/comics/air_fact_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3078/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/anchor_bolts.png\" title=\"The biggest expense was installing the mantle ducts to keep the carbonate-silicate cycle operating.\" alt=\"The biggest expense was installing the mantle ducts to keep the carbonate-silicate cycle operating.\" />",
-          "link": "https://xkcd.com/3078/",
-          "publishedOn": "2025-04-18T00:00:00.000Z",
-          "wordCount": 206,
-          "title": "Anchor Bolts",
-          "imageUrl": "https://imgs.xkcd.com/comics/anchor_bolts_2x.png"
         }
       ]
     },
@@ -437,16 +427,6 @@
           "wordCount": 1327,
           "title": "Minority Rule: Adventures in the Culture War [book]",
           "imageUrl": null
-        },
-        {
-          "id": "how-i-made-an-led-driver-smart",
-          "author": null,
-          "description": "…by just a little.\nOur family bathroom has a cabinet with an IR sensor that turns on LEDs in the side of the cabinet. The IR sensor is \"wave your hand under the cabinet\" and the lights go on or off. The littlest uses this light (instead of the overhead which is connected to the extractor fan - i.e. loud) as a night light.\nSince it's usually left on at night, I wanted to give the LEDs some smarts so when I go to bed, it automatically turns off with my blanket \"turn all the lights out\" home assistant command.",
-          "link": "https://remysharp.com/2025/04/18/how-i-made-an-led-driver-smart",
-          "publishedOn": "2025-04-18T00:00:00.000Z",
-          "wordCount": 1639,
-          "title": "How I made an LED driver smart… [blog]",
-          "imageUrl": "https://remysharp.com/images/cabinet_before.jpg"
         }
       ]
     },
@@ -688,7 +668,23 @@
       "title": "LOW←TECH MAGAZINE English",
       "feedUrl": "https://feeds2.feedburner.com/typepad/krisdedecker/lowtechmagazineenglish",
       "siteUrl": "https://solar.lowtechmagazine.com/posts/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://solar.lowtechmagazine.com/2025/06/dressing-and-undressing-the-home/",
+          "author": null,
+          "description": "Image: \"Arabs in the desert\", a painting by Vasili Veresjtsjagin. End of 19th or early 20th century. Image in the public domain. Inside the tent, temperatures could be up to 10-15 degrees Celsius cooler than in the surrounding atmosphere. \n\n\n\nThermal insulation is a cornerstone of policies aimed at reducing the high energy consumption for heating and cooling buildings. 1 In many industrialized countries, building energy regulations require new and existing buildings to have insulated walls, floors, and roofs, as well as double- or triple-glazed windows. In cold weather, insulation slows down the heat loss from the interior to the exterior, reducing the energy use of the heating system. In hot weather, insulation delays the transfer of heat from the outside to the inside, thereby reducing t…",
+          "link": "https://solar.lowtechmagazine.com/2025/06/dressing-and-undressing-the-home/",
+          "publishedOn": "2025-06-16T00:00:00.000Z",
+          "wordCount": 6637,
+          "title": "How to Dress and Undress your Home",
+          "enclosure": {
+            "url": "https://solar.lowtechmagazine.com/2025/06/dressing-and-undressing-the-home/images/dithers/Vasili_Vasilievich_Vereshchagin_-_Arabs_in_the_desert_Koran_Study_dithered.png",
+            "type": "image/png",
+            "length": "39631"
+          },
+          "imageUrl": "https://solar.lowtechmagazine.com/2025/06/dressing-and-undressing-the-home/images/dithers/Vasili_Vasilievich_Vereshchagin_-_Arabs_in_the_desert_Koran_Study_dithered.png"
+        }
+      ]
     },
     {
       "title": "esoteric.codes",
@@ -729,6 +725,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/786535436794347521",
+          "author": null,
+          "description": "text-mode:\nHow to read the square kufic from the mausoleum at Shah-i-Zinda, made in 1361. QR-codes can go to bed now.\nMore pics and info at kufic.info.\nبسم الله الرحمن الرحيم\nقل هو الله أحد\nاللَه الصَمد\nلمْ يلد ولم يولد\nو لم يكن له كفوا أحد",
+          "link": "https://text-mode.tumblr.com/post/786535436794347521",
+          "publishedOn": "2025-06-16T18:30:44.000Z",
+          "wordCount": 1070,
+          "title": "text-mode:\n\nHow to read the square kufic from the mausoleum...",
+          "imageUrl": "https://64.media.tumblr.com/d050d17a9482199f715fe82e13b0dad6/tumblr_mk61qdEPmf1rpiyaso7_r1_250.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/786444888455741440",
           "author": null,
@@ -1318,16 +1324,6 @@
           "wordCount": 982,
           "title": "text-mode:\n\nBy Jaebum Joo. More here and here.",
           "imageUrl": "https://64.media.tumblr.com/a8b3f0749e009c7804ba42b461766aa1/tumblr_mo1tss45r41rpiyaso6_1280.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/781099621031329792",
-          "author": null,
-          "description": "text-mode:\nCyrillic teletext, via",
-          "link": "https://text-mode.tumblr.com/post/781099621031329792",
-          "publishedOn": "2025-04-17T18:30:47.000Z",
-          "wordCount": 981,
-          "title": "text-mode:\n\nCyrillic teletext, via",
-          "imageUrl": "https://64.media.tumblr.com/eb9ecda625a92f8322711c1fecafb298/tumblr_mo33r2PBp11rpiyaso1_640.jpg"
         }
       ]
     },
@@ -1336,6 +1332,16 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=81072",
+          "author": "Damiano",
+          "description": "Here at Mozilla, we are the first to admit the internet isn’t perfect, but we know the internet is pretty darn magical. The internet opens up doors and opportunities, allows for human connection, and lets everyone find where they belong — their corners of the internet. We all have an internet story worth sharing. In […]\nThe post The Great British Bake Off’s Janusz on CakeTok and queer joy appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/internet-culture/interviews/janusz-domagala/",
+          "publishedOn": "2025-06-16T17:40:06.000Z",
+          "wordCount": 2347,
+          "title": "The Great British Bake Off’s Janusz on CakeTok and queer joy",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2025/06/fx_distilled_Janusz_Domagala_Header_1920x1080_V1-1080x720.jpg"
+        },
         {
           "id": "https://blog.mozilla.org/?p=81018",
           "author": "Kristina Bravo",
@@ -1852,16 +1858,6 @@
           "publishedOn": "2025-04-19T13:08:50.000Z",
           "wordCount": 3922,
           "title": "Pluralistic: Against transparency (19 Apr 2025)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=10747",
-          "author": "Cory Doctorow",
-          "description": "Today's links Mark Zuckerberg personally lost the Facebook antitrust case: A folder on his desktop called \"mens rea.\" Hey look at this: Delights to delectate. Object permanence: 2005, 2010, 2015, 2020, 2024 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Mark Zuckerberg personally lost the Facebook antitrust case (permalink) It's damned hard to prove an antitrust case: so often, the prosecution has to prove that the company intended to crush competition, and/or that they raised prices or reduced quality because they knew they didn't have to fear competitors. It's a lot easier to prove what a corporation did than it is to prove wh…",
-          "link": "https://pluralistic.net/2025/04/18/chatty-zucky/",
-          "publishedOn": "2025-04-18T12:34:35.000Z",
-          "wordCount": 4130,
-          "title": "Pluralistic: Mark Zuckerberg personally lost the Facebook antitrust case (18 Apr 2025)",
           "imageUrl": null
         }
       ]
@@ -4959,126 +4955,6 @@
           "wordCount": 628,
           "title": "The Supreme Court Knows Trump Isn&#8217;t Listening Anymore. &#8220;If the justices wanted...",
           "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/04/timeless-tips-for-simple-sabotage-from-the-cia-1",
-          "author": null,
-          "description": "In 1944, the OSS (the precursor to the CIA) produced a document called the Simple Sabotage Field Manual (PDF). It was designed to be used by agents in the field to hinder our WWII adversaries. The CIA recently highlighted five tips from the manual as timelessly relevant:\n1. Managers and Supervisors: To lower morale and production, be pleasant to inefficient workers; give them undeserved promotions. Discriminate against efficient workers; complain unjustly about their work.\n2. Employees: Work slowly. Think of ways to increase the number of movements needed to do your job: use a light hammer instead of a heavy one; try to make a small wrench do instead of a big one.\n3. Organizations and Conferences: When possible, refer all matters to committees, for “further study and consideration.” Attempt to make the committees as large and bureaucratic as possible. Hold conferences when there is more critical work to be done.\n4. Telephone: At office, hotel and local telephone switchboards, delay putting calls through, give out wrong numbers, cut people off “accidentally,” or forget to disconnect them so that the line cannot be used again.\n5. Transportation: Make train travel as inconvenient as possible for enemy personnel. Issue two tickets for the same seat on a train in order to set up an “interesting” argument.\n\n\nHa, some of these things are practically best practices in American business, not against enemies but against their employees, customers, and themselves. You can also find the manual in book or ebook format. (via @craigmod)\n[This is a vintage post originally from Aug 2016.]\nTags: books · CIA · timeless posts · war · WWII",
-          "link": "https://kottke.org/25/04/timeless-tips-for-simple-sabotage-from-the-cia-1",
-          "publishedOn": "2025-04-17T22:57:56.000Z",
-          "wordCount": null,
-          "title": "Timeless Tips for &#8220;Simple Sabotage&#8221; From the CIA",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kottke.org/25/04/0046660-i-love-this-interactive-v",
-          "author": null,
-          "description": "I love this interactive visualization by The Pudding of the shared DNA of music (i.e. how “borrowed beats, loaned lyrics, and multipurpose melodies” are passed down through generations of music, from Edvard Grieg (1876) to Tupac).\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/04/0046660-i-love-this-interactive-v",
-          "publishedOn": "2025-04-17T22:04:38.000Z",
-          "wordCount": null,
-          "title": "I love this interactive visualization by The Pudding of the shared DNA...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kottke.org/25/04/olympic-gold-medalist-dominates-the-100m-at-her-kids-sports-day-event",
-          "author": null,
-          "description": "If you’re one of those people who watches the Olympics and wishes they’d put a normal person in the competition so we can see how fast the athletes really are, this one’s for you.\nEight-time Olympic gold medalist and a 10-time world champion sprinter Shelly-Ann Fraser-Pryce recently announced her comeback and for her first 100m race, she competed against the other parents at her son’s sports day event. And completely demolished them.\n\nI love how she goes flat-out…no Usain Bolt showboating or looking around near the finish line. All business. (via @rebeccablood.bsky.social)\nUpdate: She did it back in 2023 too.\n\nTags: Shelly-Ann Fraser-Pryce · sports · track and field · video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/04/olympic-gold-medalist-dominates-the-100m-at-her-kids-sports-day-event",
-          "publishedOn": "2025-04-17T21:26:58.000Z",
-          "wordCount": null,
-          "title": "Olympic Gold Medalist Dominates the 100m at Her Kid&#8217;s Sports Day Event",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kottke.org/25/04/0046658-the-rise-of-the-infinite",
-          "author": null,
-          "description": "The Rise of the Infinite Fringe. “It used to be easy to kill a conspiracy theory. But the internet has made them immortal — and politically powerful.”",
-          "link": "https://kottke.org/25/04/0046658-the-rise-of-the-infinite",
-          "publishedOn": "2025-04-17T21:02:50.000Z",
-          "wordCount": null,
-          "title": "The Rise of the Infinite Fringe. &#8220;It used to be easy to...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kottke.org/25/04/0046657-matt-webbs-interesting-ob",
-          "author": null,
-          "description": "Matt Webb’s interesting observations on running his first marathon. “There are new experiences to be found, when you go past your limits, which aren’t like the old ones scaled up. They’re something distinct. Unanticipated and unanticipatable.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/04/0046657-matt-webbs-interesting-ob",
-          "publishedOn": "2025-04-17T20:30:13.000Z",
-          "wordCount": null,
-          "title": "Matt Webb&#8217;s interesting observations on running his first marathon. &#8220;There are new...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kottke.org/25/04/0046656-so-you-want-to-be",
-          "author": null,
-          "description": "So You Want to Be a Dissident? For many, the US has “crossed into a new & unfamiliar realm — one in which the consequences of challenging the state seem to increasingly carry real danger”. Here’s “a practical guide to courage in Trump’s age of fear”.",
-          "link": "https://kottke.org/25/04/0046656-so-you-want-to-be",
-          "publishedOn": "2025-04-17T18:27:04.000Z",
-          "wordCount": null,
-          "title": "So You Want to Be a Dissident? For many, the US has...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kottke.org/25/04/0046654-historians-quibbling-over",
-          "author": null,
-          "description": "Historians: Quibbling Over Exact Definition Of Concentration Camp Sign Of Healthy Society. “The more pedantic one’s reasoning for a facility not fully satisfying the criteria for a true concentration camp, the better that bodes for a country’s future.”",
-          "link": "https://kottke.org/25/04/0046654-historians-quibbling-over",
-          "publishedOn": "2025-04-17T17:32:31.000Z",
-          "wordCount": null,
-          "title": "Historians: Quibbling Over Exact Definition Of Concentration Camp Sign Of Healthy Society....",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kottke.org/25/04/0046650-toddlers-which-includes-d",
-          "author": null,
-          "description": "“Toddlers (which includes defensive bureaucrats, bullies, flat earthers, […] and radio talk show hosts) may indicate that they’d like to have an argument, but they’re actually engaging in connection, noise, play acting or a chance to earn status.”",
-          "link": "https://kottke.org/25/04/0046650-toddlers-which-includes-d",
-          "publishedOn": "2025-04-17T17:07:00.000Z",
-          "wordCount": null,
-          "title": "&#8220;Toddlers (which includes defensive bureaucrats, bullies, flat earthers, [&#8230;] and radio talk...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kottke.org/25/04/0046651-harry-potter-and-the-prob",
-          "author": null,
-          "description": "Harry Potter and the Problematic Author, a fanzine “on loving flawed media and feeling betrayed by a childhood hero”. “I was 11 years old when Harry Potter finally broke through my dyslexia and turned me into a reader.”",
-          "link": "https://kottke.org/25/04/0046651-harry-potter-and-the-prob",
-          "publishedOn": "2025-04-17T16:16:15.000Z",
-          "wordCount": null,
-          "title": "Harry Potter and the Problematic Author, a fanzine &#8220;on loving flawed media...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kottke.org/25/04/the-american-revolution-by-ken-burns",
-          "author": null,
-          "description": "Filmmakers Ken Burns, Sarah Botstein and David Schmidt have made a 12-hour documentary series on the Revolutionary War that will debut on PBS in November 2025. Here’s a preview (YouTube, Bluesky):\n\nFrom the press release:\nAn expansive look at the virtues and contradictions of the war and the birth of the United States of America, the film follows dozens of figures from a wide variety of backgrounds. Viewers will experience the war through the memories of the men and women who experienced it: the rank-and-file Continental soldiers and American militiamen (some of them teenagers), Patriot political and military leaders, British Army officers, American Loyalists, Native soldiers and civilians, enslaved and free African Americans, German soldiers in the British service, French and Spanish alli…",
-          "link": "https://kottke.org/25/04/the-american-revolution-by-ken-burns",
-          "publishedOn": "2025-04-17T15:24:59.000Z",
-          "wordCount": null,
-          "title": "The American Revolution by Ken Burns",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kottke.org/25/04/0046652-about-those-stories-of-th",
-          "author": null,
-          "description": "About those stories of the detection of a possible molecular signature of life on a distant planet: the molecule they are talking about can also arise without life. “That’s a rather huge caveat!” (It’s never aliens. (Until it is. (Someday.)))\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/04/0046652-about-those-stories-of-th",
-          "publishedOn": "2025-04-17T14:15:07.000Z",
-          "wordCount": null,
-          "title": "About those stories of the detection of a possible molecular signature of...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kottke.org/25/04/0046637-ai-discovered-wholly-new-",
-          "author": null,
-          "description": "“AI discovered wholly new proteins before it could count the ‘r’s in ‘strawberry’, which makes it neither vaporware nor a demigod but a secret third thing.”",
-          "link": "https://kottke.org/25/04/0046637-ai-discovered-wholly-new-",
-          "publishedOn": "2025-04-17T13:35:46.000Z",
-          "wordCount": null,
-          "title": "&#8220;AI discovered wholly new proteins before it could count the &#8216;r&#8217;s in...",
-          "imageUrl": null
         }
       ]
     },
