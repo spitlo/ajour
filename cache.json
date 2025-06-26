@@ -151,6 +151,26 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3107/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/weather_balloons.png\" title=\"Once you add the balloons into the model, it makes forecasting easier overall--the forecast is always 'cold and dark, with minimal solar-driven convection.'\" alt=\"Once you add the balloons into the model, it makes forecasting easier overall--the forecast is always 'cold and dark, with minimal solar-driven convection.'\" />",
+          "link": "https://xkcd.com/3107/",
+          "publishedOn": "2025-06-25T00:00:00.000Z",
+          "wordCount": 206,
+          "title": "Weather Balloons",
+          "imageUrl": "https://imgs.xkcd.com/comics/weather_balloons_2x.png"
+        },
+        {
+          "id": "https://xkcd.com/3106/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/farads.png\" title=\"'This HAZMAT container contains radioactive material with activity of one becquerel.' 'So, like, a single banana slice?'\" alt=\"'This HAZMAT container contains radioactive material with activity of one becquerel.' 'So, like, a single banana slice?'\" />",
+          "link": "https://xkcd.com/3106/",
+          "publishedOn": "2025-06-23T00:00:00.000Z",
+          "wordCount": 204,
+          "title": "Farads",
+          "imageUrl": "https://imgs.xkcd.com/comics/farads_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3105/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/interoperability.png\" title=\"We're getting a lot of complaints from commuters who were routed onto a coaster, but the theme park patrons who spent hours stuck on an intercity line are also not happy.\" alt=\"We're getting a lot of complaints from commuters who were routed onto a coaster, but the theme park patrons who spent hours stuck on an intercity line are also not happy.\" />",
@@ -728,6 +748,16 @@
       "siteUrl": "https://lea.verou.me/feed.xml",
       "articles": [
         {
+          "id": "https://lea.verou.me/blog/2025/hovercar/",
+          "author": null,
+          "description": "You may be familiar with this wonderful illustration and accompanying\nblog post by Henrik Kniberg about good MVPs:\nIt’s a very visual way to illustrate the age-old concept that\nthat a good MVP is not the one developed in isolation over months or years,\ngrounded on assumptions about user needs and goals,\nbut one that delivers value to users as early as possible,\nso that future iterations can take advantage of the lessons learned from real users.\nFrom Hovercar to Skateboard\nI love Henrik’s metaphor so much, I have been using a similar system to flesh out product requirements and shipping goals, especially early on.\nIt can be immediately understood by anyone who has seen Henrik’s illustration,\nand I find it can be a lot more pragmatic and flexible than the usual simple two tiered system (core…",
+          "link": "https://lea.verou.me/blog/2025/hovercar/",
+          "publishedOn": "2025-06-25T00:00:00.000Z",
+          "wordCount": 4174,
+          "title": "The Hovercar Framework for Deliberate Product Design",
+          "imageUrl": "https://lea.verou.me/blog/2025/hovercar/images/image.png"
+        },
+        {
           "id": "https://lea.verou.me/blog/2025/bluesky-likes/",
           "author": null,
           "description": "Just want the components? Here you go:\n\n Demo\n\n Repo\n\n NPM\nA love letter to the Bluesky API\nI’m old enough to remember the golden Web 2.0 era, when many of today’s big social media platforms grew up.\nA simpler time, when the Web was much more extroverted.\nIt was common for websites to embed data from others (the peak of mashups),\nand prominently feature widgets from various platforms to showcase a post’s likes or shares.\nEspecially Twitter was so ubiquitous that the number of Twitter shares was my primary metric for how much people were interested in a blog post I wrote.\nThen, websites started progressively becoming walled gardens, guarding their data with more fervor than Gollum guarding the Precious.\nFeatures disappeared or got locked behind API keys, ridiculous rate limits, expensive pa…",
@@ -754,6 +784,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/787350859631804416",
+          "author": null,
+          "description": "text-mode:\nBy joegotung 2008",
+          "link": "https://text-mode.tumblr.com/post/787350859631804416",
+          "publishedOn": "2025-06-25T18:31:32.000Z",
+          "wordCount": 882,
+          "title": "text-mode:\n\nBy joegotung 2008",
+          "imageUrl": "https://64.media.tumblr.com/tumblr_meh83k5nlO1rpiyaso1_640.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/787260221177446400",
           "author": null,
@@ -1343,16 +1383,6 @@
           "wordCount": 1004,
           "title": "text-mode:\n\nSBC Text from the Singapore Broadcasting...",
           "imageUrl": "https://64.media.tumblr.com/707e51e0df01581428596b18940b1c87/tumblr_mnr8urNGtV1rpiyaso3_400.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/781915004772532225",
-          "author": null,
-          "description": "text-mode:\n“Rödbroka”  designed by Ann-Mari Forsberg in 1944.",
-          "link": "https://text-mode.tumblr.com/post/781915004772532225",
-          "publishedOn": "2025-04-26T18:30:57.000Z",
-          "wordCount": 1004,
-          "title": "text-mode:\n\n“Rödbroka”  designed by Ann-Mari Forsberg in 1944.",
-          "imageUrl": "https://64.media.tumblr.com/60f59d6240bdca429f1d00389e3dec74/tumblr_mkbpqrfJUV1rpiyaso1_1280.jpg"
         }
       ]
     },
@@ -1583,6 +1613,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=11084",
+          "author": "Cory Doctorow",
+          "description": "Today's links What's a \"public internet?\": You don't want Nigel Farage moderating your social media, right? Hey look at this: Delights to delectate. Object permanence: 2005, 2010, 2015, 2020, 2024 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. What's a \"public internet?\" (permalink) The \"Eurostack\" is a (long overdue) project to publicly fund a European \"stack\" of technology that is independent from American Big Tech (as well as other powers' technology that has less hold in Europe, such as Chinese and Russian tech): https://www.euro-stack.info/ But \"technological soveriegnty\" is a slippery and easily abused concept. Policies li…",
+          "link": "https://pluralistic.net/2025/06/25/eurostack/",
+          "publishedOn": "2025-06-25T17:13:41.000Z",
+          "wordCount": 5197,
+          "title": "Pluralistic: What's a \"public internet?\" (25 Jun 2025)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=11073",
           "author": "Cory Doctorow",
@@ -1924,6 +1964,116 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/25/06/0047027-aaron-sorkin-is-writing-a",
+          "author": null,
+          "description": "Aaron Sorkin is writing and directing a sequel to The Social Network. “The new film isn’t a ‘January 6’ movie and will focus not just on the 2020 election but also Facebook’s effect on teens, preteens, violence and countries outside the U.S.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/06/0047027-aaron-sorkin-is-writing-a",
+          "publishedOn": "2025-06-25T21:44:50.000Z",
+          "wordCount": 775,
+          "title": "Aaron Sorkin is writing and directing a sequel to The Social Network....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/06/what-was-jim-crow",
+          "author": null,
+          "description": "This is an excellent video explanation from Jamelle Bouie of what Jim Crow was, how it developed, and how it continues to reverberate in American society and politics today.\nIf you are an American watching this, and you had a standard social studies or history class in high school, you may think of Jim Crow as more or less simply being separate institutions, separate bathrooms, separate water fountains — various kinds of public disrespect. And those certainly were the symbols of Jim Crow, symbols of outward public disrespect. But that’s not what the system was.\nJim Crow the system was something we would recognize today, and describe as today, as authoritarian. And specifically, it was an authoritarian system of labor control and political control. The Jim Crow states sharply limited political participation by large parts of their population — most of them black, but not a small number of them white as well — and the Jim Crow states themselves were largely vehicles for the interest of powerful owners of capital and property: land owners, factory owners — people who had a vested interest in direct control of labor. The social separation, the extreme and atavistic violence, the theft, the plunder — all of these things were downstream of this effort to control political behavior and control labor. They were the mechanisms of that control, the way to keep people in line or keep them bought into the system if they were on the white side of the color line.\n\n\nThe video is long and it gets into some detail that’s not super exciting (but is nevertheless important), but stick with it — I learned a lot.\nTags: history · Jamelle Bouie · Jim Crow · politics · racism · USA\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/06/what-was-jim-crow",
+          "publishedOn": "2025-06-25T20:40:11.000Z",
+          "wordCount": 934,
+          "title": "What Was Jim Crow?",
+          "imageUrl": "https://i.ytimg.com/vi/FdCf0rQmY-s/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/06/0047014-a-blog-about-sci-fi-inter",
+          "author": null,
+          "description": "A blog about sci-fi interfaces in movies and TV shows with lots of screenshotted examples.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/06/0047014-a-blog-about-sci-fi-inter",
+          "publishedOn": "2025-06-25T19:34:40.000Z",
+          "wordCount": 690,
+          "title": "A blog about sci-fi interfaces in movies and TV shows with lots...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/06/how-christoph-niemann-uses-ai-in-his-work",
+          "author": null,
+          "description": "This is a thoughtful piece from artist & illustrator Christoph Niemann about how he’s come to use AI (tactically, sparingly) in his work: Sketched Out: An Illustrator Confronts His Fears About A.I. Art.\nCreating art is a nonlinear process. I start with a rough goal. But then I head into dead ends and get lost or stuck. The secret to my process is to be on high alert in this deep jungle for unexpected twists and turns, because this is where a new idea is born. I can’t make art when I’m excluded from the most crucial moments.\n\n\nBut also:\nWhen I first learned about computer tools in art school, I was elated. All of a sudden I was able to set type, draw animations, create clean vector graphics. Since then, I’ve experimented with every new digital tool available. Despite my wariness of AI, I’ve found some good uses for it.\nSomething as seemingly simple as “Fill a 10x20 document with circles of random sizes between 1 and 2 inches without using a repeating pattern” would take days using traditional digital tools. Now, by using ChatGPT to code a script, I can have different versions in minutes.\n\n\n(thx, andy)\nTags: art · artificial intelligence · Christoph Niemann",
+          "link": "https://kottke.org/25/06/how-christoph-niemann-uses-ai-in-his-work",
+          "publishedOn": "2025-06-25T18:32:31.000Z",
+          "wordCount": 773,
+          "title": "How Christoph Niemann Uses AI in His Work",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/niemann-ai.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/06/0047022-in-case-you-need-like",
+          "author": null,
+          "description": "In case you need, like I do, some reminders on How to Weather the Storm. “You have opportunity after opportunity to create something lovely for yourself or others.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/06/0047022-in-case-you-need-like",
+          "publishedOn": "2025-06-25T17:40:20.000Z",
+          "wordCount": 734,
+          "title": "In case you need, like I do, some reminders on How to...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/06/the-joy-and-pain-of-learning-new-things-as-an-older-human",
+          "author": null,
+          "description": "From an excerpt of his new book, It’s Only Drowning (Amazon), David Litt writes about the frustrating and humiliating experience of learning how to surf at the age of 35.\nYet I didn’t quit. I returned to the dog beach twice more the week of my first solo session, and four more times the week after that. I could count my total number of successful pop-ups on my fingers, so it wasn’t the rush of riding waves that kept me coming back. It was something deeper. During each surf session I felt frustrated, exhausted, humiliated, terrified, depleted, confused, and sore — but never depressed. While flailing in pursuit of whitewater may not have been fun, it was something different to think about. It paused the spin cycle in my mind.\n\n\nI started mountain biking almost 5 years ago, at the age of 46. The sport is not so geared towards young learners as surfing, but it presents sufficient physical challenges and danger for the older human that feeling “frustrated, exhausted, humiliated, terrified, depleted, confused, and sore” is guaranteed. But also: exhilarated, fulfilled, happy, and engaged. While my cardio could still use some work, I’m no longer terrible at mountain biking and continue to improve, which is both a source of satisfaction at my progression and hunger to keep getting better.\nSee also: To Air Is Human and The Joy of Fortnite.\nTags: biking · books · David Litt · It’s Only Drowning · Jason Kottke · sports · surfing\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/06/the-joy-and-pain-of-learning-new-things-as-an-older-human",
+          "publishedOn": "2025-06-25T16:48:50.000Z",
+          "wordCount": 1229,
+          "title": "The Joy and Pain of Learning New Things as an Older Human",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/06/0047021-a-recent-trend-in-book",
+          "author": null,
+          "description": "A recent trend in book cover design: “It tends to lay blaringly bright type in a sans-serif font atop a painting, usually a few centuries old but not always.” See My Year of Rest and Relaxation by Ottessa Moshfegh.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/06/0047021-a-recent-trend-in-book",
+          "publishedOn": "2025-06-25T15:49:57.000Z",
+          "wordCount": 783,
+          "title": "A recent trend in book cover design: &#8220;It tends to lay blaringly...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/06/0047020-noah-kalina-on-the-observ",
+          "author": null,
+          "description": "Noah Kalina on the observer’s paradox: “I’ve come to the unfortunate realization that I can’t experience anything anymore without thinking about how I’ll document it.” 🎯🎯🎯\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/06/0047020-noah-kalina-on-the-observ",
+          "publishedOn": "2025-06-25T14:59:33.000Z",
+          "wordCount": 703,
+          "title": "Noah Kalina on the observer&#8217;s paradox: &#8220;I&#8217;ve come to the unfortunate realization...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/06/chris-ware-creates-stamps-for-usps",
+          "author": null,
+          "description": "Graphic artist Chris Ware has created a set of 20 stamps for the US Postal Service’s 250th anniversary in his iconic style.\nThe pane of 20 interconnected stamps show a bird’s-eye view of a mail carrier’s route through a bustling town. Laid out in 4 rows of 5, the stamps depict the story through the 4 seasons from top-left to bottom-right. The artwork also contains numerous icons representing the Postal Service.\n\n\nThe stamps will be available in July but you can pre-order them now from the USPS Store. (thx, caroline)\nTags: Chris Ware · design · stamps · USPS\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/06/chris-ware-creates-stamps-for-usps",
+          "publishedOn": "2025-06-25T14:14:26.000Z",
+          "wordCount": 813,
+          "title": "Chris Ware Creates Stamps For USPS",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/ware-usps.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/06/0047017-from-scientific-american-",
+          "author": null,
+          "description": "From Scientific American, a set of charts of vaccination recommendations for children and adults backed by science. (Since our “government” won’t do it…so fun to live in the DIY public health era.)",
+          "link": "https://kottke.org/25/06/0047017-from-scientific-american-",
+          "publishedOn": "2025-06-25T13:40:27.000Z",
+          "wordCount": 679,
+          "title": "From Scientific American, a set of charts of vaccination recommendations for children...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/06/0047013-star-wars-lofi-chill-musi",
+          "author": null,
+          "description": "Star Wars Lofi, chill music from a galaxy far, far away to work & study to. Available on Spotify, YouTube, Apple Music, and vinyl.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/06/0047013-star-wars-lofi-chill-musi",
+          "publishedOn": "2025-06-25T13:05:37.000Z",
+          "wordCount": 769,
+          "title": "Star Wars Lofi, chill music from a galaxy far, far away to...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/25/06/koyaanisqatsi-trailer-recreated-using-stock-footage-1",
           "author": null,
@@ -4842,16 +4992,6 @@
           "publishedOn": "2025-04-28T13:53:11.000Z",
           "wordCount": 646,
           "title": "A year of hate: what I learned when I went undercover with...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/04/0046718-this-five-hundred-word-bu",
-          "author": null,
-          "description": "This Five-Hundred-Word Bumper Sticker on My Tesla Explains Why I’m Not a Bad Person. “Trust me, I feel the sting of every single disapproving glare like a thousand needles. My soul trembles and withers. It is an unbearable burden.”",
-          "link": "https://kottke.org/25/04/0046718-this-five-hundred-word-bu",
-          "publishedOn": "2025-04-26T14:23:45.000Z",
-          "wordCount": 642,
-          "title": "This Five-Hundred-Word Bumper Sticker on My Tesla Explains Why I&#8217;m Not a...",
           "imageUrl": ""
         }
       ]
