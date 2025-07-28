@@ -99,6 +99,16 @@
       "siteUrl": "https://grumpygamer.com/",
       "articles": [
         {
+          "id": "https://grumpygamer.com/deathbyscrolling3/",
+          "author": null,
+          "description": "We just got Death By Scrolling running on the Switch. We had to do some optimization because we were doing stupid stuff with rendering the tile map. Modern PC machines are so fast these days that you can do a lot of stupid stuff and it doesn’t matter. Back in the day (queue angry old man) I had to count cpu cycles and every byte of memory was precious.  Nowadays memory is basically infinite.\nBut it’s different for consoles, they do have a limited amount of memory and you do have to pay attention to performance.\nOne thing that really bothers me when I play Switch games ported from PC or other consoles is the lack of care over font size.  Things that look good on a big monitor or TV are unreadable on the Switch (and the Steamdeck).\nWe’ve taken great care to make everything big enough to be readable on handhelds, but it’s a real pain.  As a designer you want to cram enough information on each screen, especially for RPG-ish games.\nPeople get used to html/css rendering and how good it is at flowing to fill space and around images.  Games often don’t have text rendering engines that are that complex (using a html/css engine internally is overkill).\nOne of the big upgrades I want to do to my engine is better text flow rendering, it will never be as good as html/css in the browser, but it could be a lot better/easier. It’s one of the things I’m envious of Godot.",
+          "link": "https://grumpygamer.com/deathbyscrolling3/",
+          "publishedOn": "2025-07-27T22:13:23.000Z",
+          "wordCount": 333,
+          "title": "Death By Scrolling Part 3",
+          "imageUrl": "https://grumpygamer.com//images/dbs_title_media.png"
+        },
+        {
           "id": "https://grumpygamer.com/deathbyscrolling2/",
           "author": null,
           "description": "If you haven’t read my previous post about Death By Scrolling way back in February, I suggest you do.\nOf course this is my lazy way of doing the 2nd promised blog post for Death By Scrolling.\nIn all fairness, I started to write it and it seem awfully familiar so I went back and checked and sure enough I had already written about it.\nBut, I’ll do another real post…\nI asked for beta testers on Mastodon and got close to 300 sign-ups. I didn’t want to invite everyone all at once. There is an old saying that you can only make a first impression once.\nEvery time I make a new beta version I invite 25 more people.\nCouple of stats:\nAbout 25% of the people never redeem the steam key. Or they redeem it weeks later. This is a little surprising, but maybe it shouldn’t be. People are busy.\nOf the people who did redeem the key a third play the game once or twice and never again. This is not surprising. Death By Scrolling is a rogue-like and you die a lot. I do mean a lot, it’s right in the title. Some people do not like this type of game, and I’m OK with that.\nMaybe half the people who play the game never visit the Discord. We can get only so much info from analytics.  Having a conversation about what you like and don’t like is very helpful. Again, this isn’t too unexpected.\nThe players that do play more than a few times play a lot and that is good to see. It’s nice to see strategies emerge that we, as the designers, didn’t think of.  That is always a good sign.\nThis is the first time I’ve done large-ish beta test for one of my games and it’s been fascinating and very insightful.\nI’m about to invite the next group of 25 testers.  If you’re among this group, please visit the Discord.\n– Ron",
@@ -831,6 +841,16 @@
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
         {
+          "id": "https://text-mode.tumblr.com/post/790249910541991936",
+          "author": null,
+          "description": "text-mode:\nSome teletext/videotex standards works with more than just alphanumerical characters. Like the Canadian Telidon, which used vector graphics. These are Telidon images, made by Jacques Palumbo in 1986.\nMeanwhile in Japan, videotex was more complex: it was alphaphotographic. That is a combination of text and hi-res photos. It supposedly worked like a fax machine for the TV. Pic or it didn’t happen?",
+          "link": "https://text-mode.tumblr.com/post/790249910541991936",
+          "publishedOn": "2025-07-27T18:30:43.000Z",
+          "wordCount": 1066,
+          "title": "text-mode:\n\nSome teletext/videotex standards works with more...",
+          "imageUrl": "https://64.media.tumblr.com/77213590526a395170d3b6f5cd3259f6/tumblr_mj5wb0kIcE1rpiyaso2_1280.jpg"
+        },
+        {
           "id": "https://text-mode.tumblr.com/post/790159327277285376",
           "author": null,
           "description": "jessiethatcher:\nJessie Thatcher: Plastic Grid I",
@@ -1419,16 +1439,6 @@
           "wordCount": 1002,
           "title": "text-mode:\n\nechidna, via.",
           "imageUrl": "https://64.media.tumblr.com/tumblr_mcsxxp64WR1rpiyaso1_640.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/784814097483120640",
-          "author": null,
-          "description": "text-mode:\nMadonna and Child ASCII Art, Creative Computing Compendium (Standards for writing graphical programs in BASIC), from the magazine “The Best of Creative Computing Volume 1” (1976), via.",
-          "link": "https://text-mode.tumblr.com/post/784814097483120640",
-          "publishedOn": "2025-05-28T18:30:47.000Z",
-          "wordCount": 1000,
-          "title": "text-mode:\n\nMadonna and Child ASCII Art, Creative Computing...",
-          "imageUrl": "https://64.media.tumblr.com/003181487c9ca85cb4cd4a021e525fbe/tumblr_mkblhnN5SJ1rpiyaso1_1280.gif"
         }
       ]
     },
@@ -1878,16 +1888,6 @@
           "publishedOn": "2025-05-30T14:13:32.000Z",
           "wordCount": 2654,
           "title": "Pluralistic: Farewell (for the moment) (30 May 2025)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=10983",
-          "author": "Cory Doctorow",
-          "description": "Today's links America is a scam: Welcome to the age of cheating. Hey look at this: Delights to delectate. Object permanence: 2010, 2015, 2020 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. America is a scam (permalink) Donald Trump is many things: a racist, an authoritarian, a rapist… but what he is, and has always been, above all and from the very start, is a scammer: https://www.washingtonpost.com/politics/donald-trump-alter-ego-barron/2016/05/12/02ac99ec-16fe-11e6-aa55-670cabef46e0_story.html The election of Donald Trump feeds many needs in the right wing coalition: the libidinal pleasure of seeing trans people, migrants, and…",
-          "link": "https://pluralistic.net/2025/05/28/cheaters-ever-prosper/",
-          "publishedOn": "2025-05-28T18:24:25.000Z",
-          "wordCount": 3985,
-          "title": "Pluralistic: America is a scam (28 May 2025)",
           "imageUrl": null
         }
       ]
@@ -4653,96 +4653,6 @@
           "publishedOn": "2025-05-29T13:09:30.000Z",
           "wordCount": 752,
           "title": "The curse of Toumaï: an ancient skull, a disputed femur and a...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/05/0046947-this-rings-true-elon-musk",
-          "author": null,
-          "description": "This rings true: “Elon Musk is less like Tony Stark and more like Michael Scott.” The future he’s selling us is Stark Industries but what we’re getting is Dunder Mifflin.",
-          "link": "https://kottke.org/25/05/0046947-this-rings-true-elon-musk",
-          "publishedOn": "2025-05-28T21:11:42.000Z",
-          "wordCount": 617,
-          "title": "This rings true: &#8220;Elon Musk is less like Tony Stark and more...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/05/0046948-happy-20th-anniversary-to",
-          "author": null,
-          "description": "Happy 20th anniversary to Swissmiss, Tina Roth Eisenberg’s design/creativity/positivity blog.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/05/0046948-happy-20th-anniversary-to",
-          "publishedOn": "2025-05-28T20:13:26.000Z",
-          "wordCount": 709,
-          "title": "Happy 20th anniversary to Swissmiss, Tina Roth Eisenberg&#8217;s design/creativity/positivity blog....",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/05/the-great-span-president-john-tylers-grandson-dies-aged-96",
-          "author": null,
-          "description": "Born in 1790 just a few months after George Washington took office, John Tyler was America’s 10th president, serving from 1841-1845. Harrison Ruffin Tyler, Tyler’s last living grandson, died this past weekend at the age of 96.\nAs long as he lived, much of the great sweep of American history could be contained in just three generations of memory.\n\n\nI wrote about Harrison and his brother Lyon Gardiner Tyler Jr. back in 2012 and again in 2020 when Lyon died.\nJohn Tyler was born barely a year into George Washington’s first term and undoubtedly met and even worked with some of the nation’s earliest political figures, including Thomas Jefferson and John Quincy Adams. Amazing to think that just three generations of the same family stretch almost all the way back to the founding of our country. It underscores just how young the United States is — after all, the last person to receive a Civil War pension just died back in June.\n\n\nYou can read more about these sorts of human bucket brigades across time on The Great Span page. (via @jeremywallace.bsky.social)\nTags: John Tyler · obituaries · politics · The Great Span\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/05/the-great-span-president-john-tylers-grandson-dies-aged-96",
-          "publishedOn": "2025-05-28T19:24:30.000Z",
-          "wordCount": 847,
-          "title": "The Great Span: President John Tyler&#8217;s Grandson Dies Aged 96",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/05/0046945-a-recent-study-ibn-al-sha",
-          "author": null,
-          "description": "A recent study: “Ibn al-Shatir was the first astronomer to have successfully challenged the Ptolemaic cosmological system of planets revolving around Earth and corrected the theory’s inaccuracies about two centuries before Copernicus.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/05/0046945-a-recent-study-ibn-al-sha",
-          "publishedOn": "2025-05-28T18:01:47.000Z",
-          "wordCount": 736,
-          "title": "A recent study: &#8220;Ibn al-Shatir was the first astronomer to have successfully...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/05/0046944-top-25-premier-league-goa",
-          "author": null,
-          "description": "Top 25 Premier League goals of 2024-25 season. I like a good screamer from outside the box as much as anyone, but where are the good team goals? Were there any?\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/05/0046944-top-25-premier-league-goa",
-          "publishedOn": "2025-05-28T17:03:20.000Z",
-          "wordCount": 732,
-          "title": "Top 25 Premier League goals of 2024-25 season. I like a good...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/05/0046943-resourceful-shooting-down",
-          "author": null,
-          "description": "Resourceful: “Shooting down a $100,000 Russian drone with an air-defense missile might cost hundreds of thousands or even millions of dollars. Shooting it down with a shotgun from a light plane might cost a few thousand dollars.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/05/0046943-resourceful-shooting-down",
-          "publishedOn": "2025-05-28T16:09:34.000Z",
-          "wordCount": 723,
-          "title": "Resourceful: &#8220;Shooting down a $100,000 Russian drone with an air-defense missile might...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/05/how-to-fix-grocery-stores-the-chewy-decimal-system",
-          "author": null,
-          "description": "Hank Green believes how grocery stores are organized is broken. (True.) His solution is to take inspiration from libraries and organize the shelves of every grocery store in the entire world according to the Chewy Decimal System.\nTIL that maybe librarians don’t like the Dewey Decimal System?\nDewey sucks so much and it’s never going away. It was designed in a 19th century white dude mindset that splits religion (200-299) into Christianity (200-289) and Other (290-299), sections books about indigenous peoples in the history section (900s) rather than the culture section (300s) as if they don’t continue to exist, and arbitrarily separates wild animals (in the 500s) from pets and working animals (600s). It’s particularly unintuitive for kids, who often are taught it before they’re taught what decimals are, and has multiple better alternatives that aren’t used because it’s financially unfeasible for large collections to be changed.\n\n\n(thx, caroline)\nTags: food · Hank Green · video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/05/how-to-fix-grocery-stores-the-chewy-decimal-system",
-          "publishedOn": "2025-05-28T14:56:22.000Z",
-          "wordCount": 1543,
-          "title": "How to Fix Grocery Stores: The Chewy Decimal System",
-          "imageUrl": "https://i.ytimg.com/vi/RxMR1TMec04/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/25/05/0046938-this-a-great-piece-about",
-          "author": null,
-          "description": "This a great piece about the challenges many are facing in participating in activism. “Nothing will feel like enough because everything we know and love is at stake.”",
-          "link": "https://kottke.org/25/05/0046938-this-a-great-piece-about",
-          "publishedOn": "2025-05-28T14:01:49.000Z",
-          "wordCount": 620,
-          "title": "This a great piece about the challenges many are facing in participating...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/05/0046941-you-can-play-doom-in",
-          "author": null,
-          "description": "You can play Doom in this NY Times article about how you can run Doom almost anywhere (in a PDF, on an iPod, on a pregnancy test, on a treadmill, etc.) “Doom was developed in a really unique way that lent a high degree of portability to its code base.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/05/0046941-you-can-play-doom-in",
-          "publishedOn": "2025-05-28T13:23:15.000Z",
-          "wordCount": 940,
-          "title": "You can play Doom in this NY Times article about how you...",
           "imageUrl": ""
         }
       ]
