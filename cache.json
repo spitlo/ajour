@@ -152,6 +152,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3126/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/disclaimer.png\" title=\"You say no human would reply to a forum thread about Tom Bombadil by writing and editing hundreds of words of text, complete with formatting, fancy punctuation, and two separate uses of the word 'delve'. Unfortunately for both of us, you are wrong.\" alt=\"You say no human would reply to a forum thread about Tom Bombadil by writing and editing hundreds of words of text, complete with formatting, fancy punctuation, and two separate uses of the word 'delve'. Unfortunately for both of us, you are wrong.\" />",
+          "link": "https://xkcd.com/3126/",
+          "publishedOn": "2025-08-08T00:00:00.000Z",
+          "wordCount": 204,
+          "title": "Disclaimer",
+          "imageUrl": "https://imgs.xkcd.com/comics/disclaimer_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3125/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/snake_in_the_box_problem.png\" title=\"Chemistry grad students have been spotted trying to lure campus squirrels into laundry hampers in the hope that it sparks inspiration.\" alt=\"Chemistry grad students have been spotted trying to lure campus squirrels into laundry hampers in the hope that it sparks inspiration.\" />",
@@ -830,6 +840,16 @@
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
         {
+          "id": "https://text-mode.tumblr.com/post/791337085667868672",
+          "author": null,
+          "description": "text-mode:\nThomas Bayrle’s Pictogram-like cells aka ‘super-forms’\nAll-in-One, exhibition at WIELS (Brussels) / 09.02 – 12.05.2013.",
+          "link": "https://text-mode.tumblr.com/post/791337085667868672",
+          "publishedOn": "2025-08-08T18:30:54.000Z",
+          "wordCount": 1019,
+          "title": "text-mode:\n\nThomas Bayrle’s Pictogram-like cells aka...",
+          "imageUrl": "https://64.media.tumblr.com/c7d0bb1ca5be23d15a257e83a0a7ed55/tumblr_mij8p5mGar1rpiyaso9_640.jpg"
+        },
+        {
           "id": "https://text-mode.tumblr.com/post/791246466907865088",
           "author": null,
           "description": "text-mode:\n“Cuadricula” by Arnaud Loumeau (2013)",
@@ -1418,16 +1438,6 @@
           "wordCount": 1021,
           "title": "text-mode:\n\nTypewriter works by Lee Etheredge IV. Wonder how...",
           "imageUrl": "https://64.media.tumblr.com/6aa3d95f59b7708320d0268131fd7cde/tumblr_mlf4441QVz1rpiyaso1_1280.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/785901275750498304",
-          "author": null,
-          "description": "jongillie:\nComment le Present Ouvrage ces Questions Critiques - Dom Sylvester Houedard (1971)",
-          "link": "https://text-mode.tumblr.com/post/785901275750498304",
-          "publishedOn": "2025-06-09T18:31:01.000Z",
-          "wordCount": 1008,
-          "title": "jongillie:\n\nComment le Present Ouvrage ces Questions Critiques...",
-          "imageUrl": "https://64.media.tumblr.com/634cb56e344b0279b626e5807d132e49/tumblr_mi3sr3fQbT1r0qjv4o1_540.png"
         }
       ]
     },
@@ -1567,16 +1577,6 @@
           "wordCount": 1368,
           "title": "New zine: The Secret Rules of the Terminal",
           "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2025/06/10/how-to-compile-a-c-program/",
-          "author": null,
-          "description": "I have never been a C programmer but every so often I need to compile a C/C++\nprogram from source. This has been kind of a struggle for me: for a\nlong time, my approach was basically “install the dependencies, run make, if\nit doesn’t work, either try to find a binary someone has compiled or give up”.\n“Hope someone else has compiled it” worked pretty well when I was running Linux\nbut since I’ve been using a Mac for the last couple of years I’ve been running\ninto more situations where I have to actually compile programs myself.\nSo let’s talk about what you might have to do to compile a C program! I’ll use\na couple of examples of specific C programs I’ve compiled and talk about a few\nthings that can go wrong. Here are three programs we’ll be talking about\ncompiling:\npaperjam\nsqlite\nqf (a page…",
-          "link": "https://jvns.ca/blog/2025/06/10/how-to-compile-a-c-program/",
-          "publishedOn": "2025-06-10T00:00:00.000Z",
-          "wordCount": 2031,
-          "title": "Using `make` to compile C programs (for non-C-programmers)",
-          "imageUrl": null
         }
       ]
     },
@@ -1594,16 +1594,6 @@
           "wordCount": 9014,
           "title": "A Friendly Introduction to SVG",
           "imageUrl": "https://www.joshwcomeau.com/images/og-friendly-introduction-to-svg.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/animation/partial-keyframes/",
-          "author": "Josh W. Comeau",
-          "description": "CSS Keyframe animations are so much more powerful than most developers realize. In this tutorial, I’ll show you something that completely blew my mind, a technique that makes our keyframe animations so much more reusable and dynamic! 🤯",
-          "link": "https://www.joshwcomeau.com/animation/partial-keyframes/",
-          "publishedOn": "2025-06-10T11:00:00.000Z",
-          "wordCount": 5753,
-          "title": "Partial Keyframes",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-partial-keyframes.png"
         }
       ]
     },
@@ -1994,6 +1984,26 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/25/08/0047302-james-lovell-the-commande",
+          "author": null,
+          "description": "“James Lovell, the commander of Apollo 13 who helped turn a failed moon mission into a triumph of on-the-fly can-do engineering, has died. He was 97.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/08/0047302-james-lovell-the-commande",
+          "publishedOn": "2025-08-08T21:53:33.000Z",
+          "wordCount": 875,
+          "title": "&#8220;James Lovell, the commander of Apollo 13 who helped turn a failed...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/08/0047300-the-danish-post-office-wi",
+          "author": null,
+          "description": "The Danish post office will stop delivering mail (but not parcels) at the end of 2025. “Letter volumes have decreased by over 90 percent since 2000”. But over 100 million letters were delivered in 2024…that’s still a tremendous number.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/08/0047300-the-danish-post-office-wi",
+          "publishedOn": "2025-08-08T17:29:25.000Z",
+          "wordCount": 755,
+          "title": "The Danish post office will stop delivering mail (but not parcels) at...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/25/08/0047301-new-fbi-data-shows-that",
           "author": null,
