@@ -119,6 +119,16 @@
       "siteUrl": "https://grumpygamer.com/",
       "articles": [
         {
+          "id": "https://grumpygamer.com/deathbyscrolling4/",
+          "author": null,
+          "description": "I was having a discussion with someone on Mastodon about unit testing games and how it is a next to impossible job.  Once clarified, I think we saw eye-to-eye on it, but I do hear about it a lot, mostly from programmers that don’t live in game dev.\nTesting games is hard. So much of what fails during testing is due to random behavior by the player. Them doing something you didn’t anticipate.\nI break testing down to three groups.\n1 - Unit testing\nThis is what I hear about the most and how this would be a good way to test games. It is not. Unit testing will test code components of your game, but not the game.  If you have a sorting routine, this will test that, but it has little effect on testing your game.\nI do unit testing, mostly on the engine commands. This get run once a week or when I a…",
+          "link": "https://grumpygamer.com/deathbyscrolling4/",
+          "publishedOn": "2025-08-13T01:59:51.000Z",
+          "wordCount": 673,
+          "title": "Death By Scrolling Part 4",
+          "imageUrl": "https://grumpygamer.com//images/dbs_title_media.png"
+        },
+        {
           "id": "https://grumpygamer.com/deathbyscrolling3/",
           "author": null,
           "description": "We just got Death By Scrolling running on the Switch. We had to do some optimization because we were doing stupid stuff with rendering the tile map. Modern PC machines are so fast these days that you can do a lot of stupid stuff and it doesn’t matter. Back in the day (queue angry old man) I had to count cpu cycles and every byte of memory was precious.  Nowadays memory is basically infinite.\nBut it’s different for consoles, they do have a limited amount of memory and you do have to pay attention to performance.\nOne thing that really bothers me when I play Switch games ported from PC or other consoles is the lack of care over font size.  Things that look good on a big monitor or TV are unreadable on the Switch (and the Steamdeck).\nWe’ve taken great care to make everything big enough to be readable on handhelds, but it’s a real pain.  As a designer you want to cram enough information on each screen, especially for RPG-ish games.\nPeople get used to html/css rendering and how good it is at flowing to fill space and around images.  Games often don’t have text rendering engines that are that complex (using a html/css engine internally is overkill).\nOne of the big upgrades I want to do to my engine is better text flow rendering, it will never be as good as html/css in the browser, but it could be a lot better/easier. It’s one of the things I’m envious of Godot.",
@@ -161,6 +171,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3128/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/thread_meeting.png\" title=\"Hey, so did you ever finish your video series about Cassie and the caterpillar morph? I loved the first three, but never ... no, sorry, I get it, this isn't the place. Sorry! Sorry.\" alt=\"Hey, so did you ever finish your video series about Cassie and the caterpillar morph? I loved the first three, but never ... no, sorry, I get it, this isn't the place. Sorry! Sorry.\" />",
+          "link": "https://xkcd.com/3128/",
+          "publishedOn": "2025-08-13T00:00:00.000Z",
+          "wordCount": 206,
+          "title": "Thread Meeting",
+          "imageUrl": "https://imgs.xkcd.com/comics/thread_meeting_2x.png"
+        },
         {
           "id": "https://xkcd.com/3127/",
           "author": null,
@@ -419,6 +439,16 @@
       "siteUrl": "https://remysharp.com",
       "articles": [
         {
+          "id": "in-bloom-sweetpea-2",
+          "author": null,
+          "description": "No quite the same murderfest from Sweetpea 1, but still enjoyably angry at the world.\nI think I expected the same kind of murder spree from the first book, and it's not that at all (although Rhiannon, the protagonist, desperately wants that). It's actually written on the tin, In Bloom is Rhiannon's experience of being pregnant - which, for a change, rolls up all the shitty experiences into one.\nI enjoyed, and laughed at, the cutting turn of phrases - the kind of brutal honesty that you might reserve for the closest of friends knowing that it's for the \"inside voice\".\nI can see myself reading the next instalment in the book (though perhaps not so soon) and I'm not entirely sure where the character can go given the way the book ends, so that's definitely intriguing.\nBut just for the the record (my record!), Rhiannon is a terrible person!",
+          "link": "https://remysharp.com/books/2025/in-bloom-sweetpea-2",
+          "publishedOn": "2025-08-12T00:00:00.000Z",
+          "wordCount": 769,
+          "title": "In Bloom (Sweetpea, #2) [book]",
+          "imageUrl": null
+        },
+        {
           "id": "getting-my-highlights-and-notes-from-koreader",
           "author": null,
           "description": "It's not an intuitive process and requires a few speciality commands to work, so it made sense that I write up the process so I can duck myself later on.",
@@ -486,16 +516,6 @@
           "publishedOn": "2025-06-16T00:00:00.000Z",
           "wordCount": 1034,
           "title": "Spike Milligan: Man of Letters [book]",
-          "imageUrl": null
-        },
-        {
-          "id": "the-left-hand-of-darkness",
-          "author": null,
-          "description": "300 pages but wow it felt 4 times longer...\nI found the writings quite difficult to consume. A lot, if not all the names were sounds but without any familiar rhythm, and Le Guin was describing, with I assume great accuracy a world with locations, cities, regions and mountains - but I was struggling to map it all.\nThen the story was thread through this detail, which left me struggling to read and struggling to enjoy the book.\nIt's only when I hit around 60% and the two characters embark on a journey across the ice did I finally manage to engage properly. I really did feel the characters relationship change through their journey and felt their struggle, which I think is what turned this book, for me, from 2 star to 3.\nThere's a scene towards the end when the protagonist revisits the King of {whatever the name of the city was}, and the protagonist reflects on how the time has passed since his first visit much earlier in the book. I could empathise! It felt like a lifetime!\nProbably a great book. Maybe passed me by though.",
-          "link": "https://remysharp.com/books/2025/the-left-hand-of-darkness",
-          "publishedOn": "2025-06-15T00:00:00.000Z",
-          "wordCount": 892,
-          "title": "The Left Hand of Darkness [book]",
           "imageUrl": null
         }
       ]
@@ -829,6 +849,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/791790079024758784",
+          "author": null,
+          "description": "text-mode:\nANSI cat by kyp / Black Maiden, 2001.",
+          "link": "https://text-mode.tumblr.com/post/791790079024758784",
+          "publishedOn": "2025-08-13T18:31:02.000Z",
+          "wordCount": 999,
+          "title": "text-mode:\n\nANSI cat by kyp / Black Maiden, 2001.",
+          "imageUrl": "https://64.media.tumblr.com/tumblr_mab9iksE661rpiyaso1_640.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/791699454764908544",
           "author": null,
@@ -1418,16 +1448,6 @@
           "wordCount": 1009,
           "title": "text-mode:\n\nVery particular ANSI-style from Jerusalem / Boil,...",
           "imageUrl": "https://64.media.tumblr.com/tumblr_mab9h3ZURH1rpiyaso1_640.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/786354261061763072",
-          "author": null,
-          "description": "text-mode:\nVery impressive stop motion text movie: TXT ISLAND.\nTXT ISLAND is a typographic tale of epic misadventure. The film was shot as stop-motion animation of plastic sign board letters by animation director Chris Gavin and completed in May 2009 after a production period of around 9 months.\nThanks to Ilkke for the headzüp.",
-          "link": "https://text-mode.tumblr.com/post/786354261061763072",
-          "publishedOn": "2025-06-14T18:31:02.000Z",
-          "wordCount": 1074,
-          "title": "text-mode:\n\nVery impressive stop motion text movie: TXT...",
-          "imageUrl": "https://64.media.tumblr.com/0921dc8afda4d143ecbdeafaebeed403/tumblr_mladjmYFpZ1rpiyaso2_640.gif"
         }
       ]
     },
@@ -1436,6 +1456,16 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=81445",
+          "author": "Ashley Boyd and Mark Surman",
+          "description": "As global political landscapes shift, mission-driven organizations face a critical challenge: creating resilient models that deliver meaningful social impact and financial stability. For over 25 years, Mozilla has worked to strike this balance across diverse political and economic climates. While Mozilla’s structure is unique — a non-profit Foundation as the sole shareholder of multiple commercial […]\nThe post Driving towards a double bottom line, through participation and choice appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/responsible-tech/",
+          "publishedOn": "2025-08-13T20:04:53.000Z",
+          "wordCount": 3248,
+          "title": "Driving towards a double bottom line, through participation and choice",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2025/03/Mozilla-Blog-Thumbnail@2x-1080x720.png"
+        },
         {
           "id": "https://blog.mozilla.org/?p=81380",
           "author": "Ochuko Akpovbovbo",
@@ -1614,6 +1644,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=11373",
+          "author": "Cory Doctorow",
+          "description": "Today's links Maga's boss class think they are immune to American carnage: They're in for a surprise. Hey look at this: Delights to delectate. Object permanence: Paradox of choice (screens); Perpetual Lenovo crapware; Trump's Solicitor General: \"bribery is legal\"; Marvel's 10¢ comics; Snatched postal sorting-machines; Failed State; Kenk; Glass Houses; Caveman SF; My origin story; FBI vs George Carlin. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Maga's boss class think they are immune to American carnage (permalink) It's not just that Texas DA Gocha Ramirez charged a woman with murder for having an abortion (something he wasn'…",
+          "link": "https://pluralistic.net/2025/08/13/then-they-came-for-me/",
+          "publishedOn": "2025-08-13T17:14:20.000Z",
+          "wordCount": 3798,
+          "title": "Pluralistic: Maga's boss class think they are immune to American carnage (13 Aug 2025)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=11359",
           "author": "Cory Doctorow",
@@ -1999,6 +2039,126 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/25/08/the-red-onion-font",
+          "author": null,
+          "description": "The latest post from The Pudding starts off about as good as possible to attract the likes of me: “This is a project about onions and math.” I mean, yes. I’m in. And I enjoyed the interactive article, Dicing an Onion the Mathematically Optimal Way, but the design was absolutely delightful and onion-y:\n\n\n\n\nThey even used an onion gradient for the border of the page. This must have been so fun to work on! Initially, I thought they’d designed the onion font, but a quick search turned up Handmadefont’s OnioType Font:\n\nFrom the description, it sounds like the letterforms are made from real onions:\nEach letter is lovingly crafted from a perfectly sliced red onion, where nature’s concentric rings do most of the design heavy-lifting. Vivid purples, tender whites, and sudden flashes of yellow form shapes so unexpectedly elegant, you’ll never look at a salad the same way again.\n\n\nBut I dunno…Photoshop might be a better guess. Still! I love this font and kudos to The Pudding for putting it to good use.\nTags: cooking · design · food · infoviz · mathematics · The Pudding · typography\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/08/the-red-onion-font",
+          "publishedOn": "2025-08-13T21:47:19.000Z",
+          "wordCount": 817,
+          "title": "The Red Onion Font",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/onion-font-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/08/0047332-the-colors-of-the-world",
+          "author": null,
+          "description": "The Colors of the World, Seen From the International Space Station. “Recent photographs from crew members aboard the ISS show some spectacular views of auroras, moonsets, the Milky Way, and more, seen from from their vantage point in orbit.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/08/0047332-the-colors-of-the-world",
+          "publishedOn": "2025-08-13T20:57:56.000Z",
+          "wordCount": 713,
+          "title": "The Colors of the World, Seen From the International Space Station. &#8220;Recent...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/08/silicon-doodles-microchip-art",
+          "author": null,
+          "description": "Back in the earlier days of microchips, the designers would sometimes add tiny images to the chips, for fun. From NPR:\nMany of the doodles came from engineers who weren’t doing it for an audience.\n“We did it for ourselves,” said Willy McAllister, a retired electrical engineer who worked for more than a decade at Hewlett-Packard (HP) and helped craft a chip with the sleek image of a cheetah on it. “Nobody ever expected it to be cracked open 10 years later and marveled at. That was never the point.”\nThe cheetah was picked as a visual representation for an HP project code named after the world’s fastest land animal.\n\n\nAnd from a recent NY Times story:\n“They were the maverick days, like the early days of flying,” Mr. John said. “At that time, it could do no harm to the chip, so it was purely creative expression.”\nMr. John tried, with mixed results, to recreate a yacht from the period’s Old Spice advertisements. Another colleague who was thin drew elaborate muscles. The doodles were drawn with a chip design tool.\nThe most important reason behind the covert graffiti, Mr. John added, was for the doodles to say: “I’m signing my name on this chip, so it’s got to mean something.”\n\n\nYou can find many more microchip doodles at Silicon Zoo.\nTags: art\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/08/silicon-doodles-microchip-art",
+          "publishedOn": "2025-08-13T20:05:18.000Z",
+          "wordCount": 861,
+          "title": "Silicon Doodles & Microchip Art",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/silicon-doodles-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/08/0047337-dictators-love-a-crisis-f",
+          "author": null,
+          "description": "Dictators love a crisis. “For reasons of both personality and political ambition, Trump needs a crisis to govern — or rather, to rule. And if the actual conditions of reality will not give him a state of exception, he’ll create one himself.”",
+          "link": "https://kottke.org/25/08/0047337-dictators-love-a-crisis-f",
+          "publishedOn": "2025-08-13T19:21:40.000Z",
+          "wordCount": 622,
+          "title": "Dictators love a crisis. &#8220;For reasons of both personality and political ambition,...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/08/the-story-of-the-chinese-farmer-1",
+          "author": null,
+          "description": "In a talk about Taoism called Swimming Headless, Alan Watts shared with his audience the parable of the Chinese farmer.\nOnce upon a time, there was a Chinese farmer who lost a horse. Ran away. And all the neighbors came ‘round that evening and said, “that’s too bad.”\nAnd he said, “maybe.”\nThe next day, the horse came back and brought seven wild horses with it. And all the neighbors came around and said, “that’s great, isn’t it?”\nAnd he said, “maybe.”\n\n\nThe point, according to Watts’ interpretation of Lao Tzu’s teachings, is “to try to live in such a way that nothing is either an advantage or a disadvantage”.\nThe whole process of nature is an integrated process of immense complexity, and it’s really impossible to tell whether anything that happens in it is good or bad, because you never know what will be the consequence of the misfortune. Or you never know what will be the consequences of good fortune.\n\n\nI read the Tao Te Ching in an English class in college, and I remember not getting it. It was a small class, only six students, and none of us white midwestern kids had ever read any Eastern philosophy before and didn’t really understand it, to the professor’s frustration. I wish I could take that class again; I’d get so much more out of it now. (via @sausaw)\n[This is a vintage post originally from May 2017.]\nTags: Alan Watts · Laozi · Tao Te Ching · timeless posts · video",
+          "link": "https://kottke.org/25/08/the-story-of-the-chinese-farmer-1",
+          "publishedOn": "2025-08-13T18:39:45.000Z",
+          "wordCount": 786,
+          "title": "The Story of the Chinese Farmer",
+          "imageUrl": "https://i.ytimg.com/vi/sWd6fNVZ20o/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/08/0047335-today-general-officers-no",
+          "author": null,
+          "description": "“Today, general officers no longer seem to see themselves as guardians of the constitutional order. It now seems clear to us that the military will not rescue Americans from Mr. Trump’s misuse of the nation’s military capabilities.”",
+          "link": "https://kottke.org/25/08/0047335-today-general-officers-no",
+          "publishedOn": "2025-08-13T18:09:09.000Z",
+          "wordCount": 803,
+          "title": "&#8220;Today, general officers no longer seem to see themselves as guardians of...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/08/0047299-the-what-its-like-to",
+          "author": null,
+          "description": "The ‘What It’s Like To Be…’ podcast features interviews with people about their jobs (recently: a deli owner, a harbor pilot, a hospice nurse, and a brain surgeon). The host told me it’s “Studs Terkel meets Ted Lasso”.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/08/0047299-the-what-its-like-to",
+          "publishedOn": "2025-08-13T17:42:45.000Z",
+          "wordCount": 768,
+          "title": "The &#8216;What It&#8217;s Like To Be&#8230;&#8217; podcast features interviews with people about...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/08/0047308-a-forthcoming-book-from-l",
+          "author": null,
+          "description": "A forthcoming book from long-time technology writer David Pogue: Apple: The First 50 Years. “Deeply researched & lavishly illustrated, Apple: The First 50 Years includes new interviews with 150 key people who made the journey, including Steve Wozniak…”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/08/0047308-a-forthcoming-book-from-l",
+          "publishedOn": "2025-08-13T16:29:52.000Z",
+          "wordCount": 692,
+          "title": "A forthcoming book from long-time technology writer David Pogue: Apple: The First...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/08/0047321-a-90-minute-video-of-maki",
+          "author": null,
+          "description": "A 90-minute video of making a batch of woodblock prints “from blank paper to finished print” from the printer’s POV. Relaxing & ASMR-adjacent.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/08/0047321-a-90-minute-video-of-maki",
+          "publishedOn": "2025-08-13T15:19:08.000Z",
+          "wordCount": 846,
+          "title": "A 90-minute video of making a batch of woodblock prints &#8220;from blank...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/08/0047326-this-show-felt-like-it",
+          "author": null,
+          "description": "“‘This Show Felt Like It Was Falling Out of Me’. Six female artists on how they prepared for their major solo debuts this fall.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/08/0047326-this-show-felt-like-it",
+          "publishedOn": "2025-08-13T14:07:43.000Z",
+          "wordCount": 699,
+          "title": "&#8220;&#8216;This Show Felt Like It Was Falling Out of Me&#8217;. Six female...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/08/0047331-i-love-that-the-kid",
+          "author": null,
+          "description": "I love that The Kid Should See This has dozens of videos about poop, including a recent one about why poop is brown.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/08/0047331-i-love-that-the-kid",
+          "publishedOn": "2025-08-13T13:00:11.000Z",
+          "wordCount": 679,
+          "title": "I love that The Kid Should See This has dozens of videos...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/08/0047324-at-40-she-discovered-she",
+          "author": null,
+          "description": "At 40, She Discovered She Was One of America’s Best Free Divers. Sara Burnett took a free diving intro course and a year later she competed in a world championship for the US team. “Why am I doing an extreme sport at this age?”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/08/0047324-at-40-she-discovered-she",
+          "publishedOn": "2025-08-13T00:46:47.000Z",
+          "wordCount": 791,
+          "title": "At 40, She Discovered She Was One of America&#8217;s Best Free Divers....",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/25/08/0047330-if-youre-still-back-to-sc",
           "author": null,
