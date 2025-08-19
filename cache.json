@@ -71,10 +71,21 @@
       ]
     },
     {
-      "title": "Sara Soueidan – Blog",
+      "title": "Sara Soueidan — UI developer",
       "feedUrl": "https://www.sarasoueidan.com/blog/index.xml",
-      "siteUrl": "https://sarasoueidan.com/blog-feed.xml",
-      "articles": []
+      "siteUrl": "https://www.sarasoueidan.com/blog/index.xml",
+      "articles": [
+        {
+          "id": "https://www.sarasoueidan.com/blog/css-scrollspy/",
+          "author": null,
+          "description": "✨ This post is sponsored by everyone who has bought my Practical Accessibility course. ✨\nThe Bootstrap Scrollspy—now commonly known as just “Scrollspy”—is a feature that automatically updates navigation links based on the user’s scroll position to indicate which link is currently active in the viewport. It is popular because it aims to enhance the user experience by providing visual cues about which part of the content is currently being viewed.\nThe Scrollspy effect demonstrated in the Bootstrap documentation shows the navbar links are highlighted when their respective target sections are scrolled into view. \n\nBy default, in-page navigation links (<a href=\"\">) don’t get highlighted when their targets are scrolled into view.\n Scrollspy toggles the `.active` class on anchor (``) elements whe…",
+          "link": "https://www.sarasoueidan.com/blog/css-scrollspy/",
+          "publishedOn": "2025-08-18T00:00:00.000Z",
+          "wordCount": 4448,
+          "title": "CSS-only scrollspy effect using scroll-marker-group and :target-current",
+          "imageUrl": "https://sarasoueidan.com/og.png"
+        }
+      ]
     },
     {
       "title": "there.oughta.be/",
@@ -151,6 +162,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3130/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/predicament.png\" title=\"I dropped my phone while trying to search, and I tried to unlock it from up here, so can you also search for screen repair places?\" alt=\"I dropped my phone while trying to search, and I tried to unlock it from up here, so can you also search for screen repair places?\" />",
+          "link": "https://xkcd.com/3130/",
+          "publishedOn": "2025-08-18T00:00:00.000Z",
+          "wordCount": 204,
+          "title": "Predicament",
+          "imageUrl": "https://imgs.xkcd.com/comics/predicament_2x.png"
+        },
         {
           "id": "https://xkcd.com/3129/",
           "author": null,
@@ -390,16 +411,6 @@
           "wordCount": 204,
           "title": "Farads",
           "imageUrl": "https://imgs.xkcd.com/comics/farads_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3105/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/interoperability.png\" title=\"We're getting a lot of complaints from commuters who were routed onto a coaster, but the theme park patrons who spent hours stuck on an intercity line are also not happy.\" alt=\"We're getting a lot of complaints from commuters who were routed onto a coaster, but the theme park patrons who spent hours stuck on an intercity line are also not happy.\" />",
-          "link": "https://xkcd.com/3105/",
-          "publishedOn": "2025-06-20T00:00:00.000Z",
-          "wordCount": 204,
-          "title": "Interoperability",
-          "imageUrl": "https://imgs.xkcd.com/comics/interoperability_2x.png"
         }
       ]
     },
@@ -774,6 +785,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/792243066138411008",
+          "author": null,
+          "description": "text-mode:\nShift-JIS ASCII by SYAMO8",
+          "link": "https://text-mode.tumblr.com/post/792243066138411008",
+          "publishedOn": "2025-08-18T18:31:04.000Z",
+          "wordCount": 937,
+          "title": "text-mode:\n\nShift-JIS ASCII by SYAMO8",
+          "imageUrl": "https://64.media.tumblr.com/tumblr_m9nutsNAHU1rpiyaso1_540.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/792152454146981888",
           "author": null,
@@ -1363,16 +1384,6 @@
           "wordCount": 928,
           "title": "text-mode:\n\nPosted here by painepo.",
           "imageUrl": "https://64.media.tumblr.com/be6a7dd34f66ebb38da341d2a1add775/tumblr_mkiocjuUrK1rpiyaso1_540.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/786807246534443008",
-          "author": null,
-          "description": "text-mode:\nTree of Dissipation, Intemperance, via.",
-          "link": "https://text-mode.tumblr.com/post/786807246534443008",
-          "publishedOn": "2025-06-19T18:31:02.000Z",
-          "wordCount": 916,
-          "title": "text-mode:\n\nTree of Dissipation, Intemperance, via.",
-          "imageUrl": "https://64.media.tumblr.com/tumblr_mag7j5qIrQ1rpiyaso1_1280.jpg"
         }
       ]
     },
@@ -1381,6 +1392,16 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=81368",
+          "author": "Jenifer Boscacci",
+          "description": "When Firefox users ask for better translation support, we make it happen. Thanks to your feedback on Mozilla Connect, Firefox now supports Chinese, Japanese, and Korean (often referred to as CJK) translation, both on desktop and Android. That means millions more people can browse and translate the web in their language, without sending their content […]\nThe post Firefox just got better for Chinese, Japanese and Korean speakers on Android appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/firefox/cjk-translation-on-android/",
+          "publishedOn": "2025-08-18T20:54:21.000Z",
+          "wordCount": 2087,
+          "title": "Firefox just got better for Chinese, Japanese and Korean speakers on Android",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2025/08/LocalisationBlogHeader1-1080x720.png"
+        },
         {
           "id": "https://blog.mozilla.org/?p=81445",
           "author": "Ashley Boyd and Mark Surman",
@@ -1526,6 +1547,16 @@
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
         {
+          "id": "https://www.joshwcomeau.com/svg/interactive-guide-to-paths/",
+          "author": "Josh W. Comeau",
+          "description": "SVG gives us many different primitives to work with, but by far the most powerful is the \n element. Unfortunately, it’s also the most inscrutable, with its compact Regex-style syntax. In this tutorial, we’ll demystify this infamous element and see some of the cool things we can do with it!",
+          "link": "https://www.joshwcomeau.com/svg/interactive-guide-to-paths/",
+          "publishedOn": "2025-08-18T13:30:00.000Z",
+          "wordCount": 9707,
+          "title": "An Interactive Guide to SVG Paths",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-interactive-guide-to-paths.jpg"
+        },
+        {
           "id": "https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/",
           "author": "Josh W. Comeau",
           "description": "SVGs are one of the most remarkable technologies we have access to on the web. They’re first-class citizens, fully addressable with CSS and JavaScript. In this tutorial, I’ll cover all of the most important fundamentals, and show you some of the ridiculously-cool things we can do with this massively underrated tool. ✨",
@@ -1559,6 +1590,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=11404",
+          "author": "Cory Doctorow",
+          "description": "Today's links Zuckermuskian solipsism: They just don't think other people are real. Hey look at this: Delights to delectate. Object permanence: Heinlein bio; Amazon bans Amazon-critical podcasts; How to Argue With a Racist; Disenshittify or Die; Food arrangement copyrights, Stingrays on steroids. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Zuckermuskian solipsism (permalink) When Elon Musk disagrees with someone, he calls them an \"NPC\" (non-player character). In video-games, an NPC is a machine-puppeted sprite that engages in predictable movements (think of the ghosts in Pac-Man) and perhaps utters some scripted (or AI-genera…",
+          "link": "https://pluralistic.net/2025/08/18/seeing-like-a-billionaire/",
+          "publishedOn": "2025-08-18T15:14:11.000Z",
+          "wordCount": 3009,
+          "title": "Pluralistic: Zuckermuskian solipsism (18 Aug 2025)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=11398",
           "author": "Cory Doctorow",
@@ -1938,16 +1979,6 @@
           "wordCount": 3379,
           "title": "Pluralistic: Oregon bans the corporate practice of medicine (20 Jun 2025)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=11040",
-          "author": "Cory Doctorow",
-          "description": "Today's links Your Meta AI prompts are in a live, public feed: Zuck thinks we've all forgotten about Beacon. Hey look at this: Delights to delectate. Object permanence: 2015, 2020 Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Your Meta AI prompts are in a live, public feed (permalink) Back in 2006, AOL tried something incredibly bold and even more incredibly stupid: they dumped a data-set of 20,000,000 \"anonymized\" search queries from 650,000 users (yes, AOL had a search engine – there used to be lots of search engines!): https://en.wikipedia.org/wiki/AOL_search_log_release The AOL dump was a catastrophe. In an eyeblink, many o…",
-          "link": "https://pluralistic.net/2025/06/19/privacy-breach-by-design/",
-          "publishedOn": "2025-06-19T14:03:48.000Z",
-          "wordCount": 3564,
-          "title": "Pluralistic: Your Meta AI prompts are in a live, public feed (19 Jun 2025)",
-          "imageUrl": null
         }
       ]
     },
@@ -1974,6 +2005,16 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/25/08/slow-start-to-the-week",
+          "author": null,
+          "description": "Hey folks. I’m dropping my son off at college today1 so the site is going to be a little slow until I get back midweek. In the meantime, you can check out some of the great sites on the KDO Rolodex on the front page of the site (scroll down some), and I’ll see you back here sometime on Tuesday or Wednesday. 👋\n\nWhat?! I know! College already. I’m so excited for him but also just wondering how this happened so fast.↩\n\nTags: Jason Kottke · kottke.org\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/08/slow-start-to-the-week",
+          "publishedOn": "2025-08-18T14:20:25.000Z",
+          "wordCount": 1304,
+          "title": "Slow Start to the Week",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/25/08/0047350-venus-williams-is-making-",
           "author": null,
@@ -5642,86 +5683,6 @@
           "publishedOn": "2025-06-20T12:58:08.000Z",
           "wordCount": 700,
           "title": "Your beginning-of-summer PSA: Drowning Doesn&#8217;t Look Like Drowning. &#8220;There is very little...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/06/0046973-want-to-use-your-phone",
-          "author": null,
-          "description": "Want to use your phone less? Try Forest. “Whenever you want to stay focused, plant a [virtual] tree. Your tree will grow while you focus on your work. Leaving the app halfway will cause your tree to die.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/06/0046973-want-to-use-your-phone",
-          "publishedOn": "2025-06-19T20:10:24.000Z",
-          "wordCount": 773,
-          "title": "Want to use your phone less? Try Forest. &#8220;Whenever you want to...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/06/0046977-the-fear-of-never-landing",
-          "author": null,
-          "description": "The Fear of Never Landing is a new album from ambient music band Marconi Union, whose 2011 song Weightless has been described as “the world’s most relaxing song”. Get it on YT, Bandcamp, Spotify, and Apple Music.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/06/0046977-the-fear-of-never-landing",
-          "publishedOn": "2025-06-19T19:07:05.000Z",
-          "wordCount": 703,
-          "title": "The Fear of Never Landing is a new album from ambient music...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/06/new-music-video-for-talking-heads-psycho-killer-feat-saoirse-ronan",
-          "author": null,
-          "description": "To celebrate the 50th anniversary of the band, Talking Heads have released a new music video for their iconic 1977 single, Psycho Killer. The video stars Saoirse Ronan and was directed by Mike Mills.\nTags: music · Saoirse Ronan · Talking Heads · video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/06/new-music-video-for-talking-heads-psycho-killer-feat-saoirse-ronan",
-          "publishedOn": "2025-06-19T18:12:02.000Z",
-          "wordCount": 739,
-          "title": "New Music Video for Talking Heads&#8217; Psycho Killer (feat. Saoirse Ronan)",
-          "imageUrl": "https://i.ytimg.com/vi/CJ54eImz88w/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/25/06/0046982-they-are-doing-a-spacebal",
-          "author": null,
-          "description": "They are doing a Spaceballs 2. (“They” includes Mel Brooks and Rick Moranis, who has not appeared in a live-action film since 1997.) “I am one with the Schwartz and the Schwartz is with me.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/06/0046982-they-are-doing-a-spacebal",
-          "publishedOn": "2025-06-19T17:19:11.000Z",
-          "wordCount": 814,
-          "title": "They are doing a Spaceballs 2. (&#8220;They&#8221; includes Mel Brooks and Rick...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/06/0046972-a-new-study-from-mits",
-          "author": null,
-          "description": "A new study from MIT’s Media Lab (not yet peer-reviewed & small sample size): ChatGPT May Be Eroding Critical Thinking Skills.",
-          "link": "https://kottke.org/25/06/0046972-a-new-study-from-mits",
-          "publishedOn": "2025-06-19T16:35:54.000Z",
-          "wordCount": 619,
-          "title": "A new study from MIT&#8217;s Media Lab (not yet peer-reviewed & small...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/06/0046974-the-nyc-subway-is-not",
-          "author": null,
-          "description": "The [NYC] Subway Is Not Scary. “It’s fine and safe. It’s full of women and children. There are tons of old ladies on there.” And: “You sound real corny being scared of the subway.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/06/0046974-the-nyc-subway-is-not",
-          "publishedOn": "2025-06-19T15:48:59.000Z",
-          "wordCount": 705,
-          "title": "The [NYC] Subway Is Not Scary. &#8220;It&#8217;s fine and safe. It&#8217;s full...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/06/what-is-juneteenth-and-why-does-it-matter",
-          "author": null,
-          "description": "Historian Heather Cox Richardson is now doing visual versions of her daily newsletter on YouTube. Yesterday’s video explains the origins and significance of Juneteenth.\nBlack people in Galveston met the news Order No. 3 brought with celebrations in the streets, but emancipation was not a gift from white Americans. Black Americans had fought and died for the United States. They had worked as soldiers, as nurses, and as day laborers in the Union army. Those who could had demonstrated their hatred of enslavement and the Confederacy by leaving their homes for the northern lines, sometimes delivering valuable information or matériel to the Union, while those unable to leave had hidden wounded U.S. soldiers and helped them get back to Union lines.\nBut white former Confederates in Texas were demoralized and angered by the changes in their circumstances. “It looked like everything worth living for was gone,” Texas cattleman Charles Goodnight later recalled.\n\n\n        \n\n         \nTags: Heather Cox Richardson · history · holidays · Juneteenth · USA · video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/06/what-is-juneteenth-and-why-does-it-matter",
-          "publishedOn": "2025-06-19T15:02:22.000Z",
-          "wordCount": 812,
-          "title": "What Is Juneteenth and Why Does It Matter?",
-          "imageUrl": "https://i.ytimg.com/vi/E7UaaAyPqPY/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/25/06/0046970-just-dropped-yesterday-la",
-          "author": null,
-          "description": "Just dropped yesterday: Lane 8’s Summer 2025 Mixtape. Got this on right now trying to coax the ol’ brainpan back into work mode.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/06/0046970-just-dropped-yesterday-la",
-          "publishedOn": "2025-06-19T14:20:34.000Z",
-          "wordCount": 681,
-          "title": "Just dropped yesterday: Lane 8&#8217;s Summer 2025 Mixtape. Got this on right...",
           "imageUrl": ""
         }
       ]
