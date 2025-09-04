@@ -140,6 +140,16 @@
       "siteUrl": "https://grumpygamer.com/",
       "articles": [
         {
+          "id": "https://grumpygamer.com/testtron3000/",
+          "author": null,
+          "description": "Have I mentioned that you should Wish List Death by Scrolling now, before you finish reading this?\nHere is the code the runs TesterTron3000 in Death by Scrolling.\nThere is some code not listed that does set up, but the following  runs the level.\nIt’s written in Dinky, a custom language I wrote for Delores based on what we used for Thimbleweeed Park and then used in Return to Monkey Island.\nTesterTron3000 is as dumb as a box of rocks, but in some ways that’s what makes it fun to watch.\nBefore we get into code, here is another sample run.\n‏\n\n    \n\n    \n‏\nIt’s not the best code I’ve written but far from the worst and it gets the job done.  TesterTron3000 has run for over 48 hours and not found a serious bug, so I’m happy.\nSource code follows, you’ve been warned…\n 1function runLevel() {\n 2\tloc…",
+          "link": "https://grumpygamer.com/testtron3000/",
+          "publishedOn": "2025-09-03T07:04:13.000Z",
+          "wordCount": 559,
+          "title": "TesterTron3000",
+          "imageUrl": "https://grumpygamer.com//images/testertron_twp.png"
+        },
+        {
           "id": "https://grumpygamer.com/deathbyscrolling6/",
           "author": null,
           "description": "I first created TesterTron3000 during Thimbleweed Park (hence the name). It was a simple automated tester that randomly clicked on the screen. It couldn’t play the game because it has no knowledge of inventory or puzzles. It did find the odd errors, but was of little real value.\nFast forward to the futuristic year of 2025 and I’m working on Death by Scrolling and need a new automated game play tester.\nDeath by Scrolling, not being an adventure game, comes along and I need a whole new program to test with, but I like the name so I keep that.\nTesterTron3000 is pretty simple, it just runs through the level, looks for power-ups and if its health is low, it looks for hearts. It’s not rocket science.  I could make it a lot smarter, but what I really need is tool that stress tests the game so smarts of low on the list.\nI can leave it running overnight and it plays thousands of levels and in the morning I see if any errors occurred or if there are memory leaks.\nNone so far.\nIts been a great tool for consoles because we can only do limited testing before sending it to outside testers due to limited dev kits1, so running TesterTron3000 on it for 24 hours is good piece of mind.\nThere are little animation glitches because it’s not running through the normal controller code and I’ve spotted some missing sfx.\nTesterTron3000 is written 100% in Dinky and only about 100 lines of code.\nI might ship it with the final game as an attract mode, but it’s kind of buggy, has bad path finding, and really stupid so I worry players would fixate on what it’s not doing right.  It’s not a tool for playing the game with any degree is skill, it’s a stress tester and a dev tool.\nBut, it’s fun to watch.\n‏\n\n    \n\n    \n‏\n\n\n\n\nSomething a lot of people don’t know is for consoles you need special dev kits to test with, it’s not like the PC (or even the SteamDeck) where you can use any device.  You have to buy (often very expensive) special dev kits, even just to test. It’s really annoying. ↩︎",
@@ -212,6 +222,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3137/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/cursed_number.png\" title=\"Another group of mathematicians is working to put an upper bound on the number, although everyone keeps begging them to stop.\" alt=\"Another group of mathematicians is working to put an upper bound on the number, although everyone keeps begging them to stop.\" />",
+          "link": "https://xkcd.com/3137/",
+          "publishedOn": "2025-09-03T00:00:00.000Z",
+          "wordCount": 206,
+          "title": "Cursed Number",
+          "imageUrl": "https://imgs.xkcd.com/comics/cursed_number_2x.png"
+        },
         {
           "id": "https://xkcd.com/3136/",
           "author": null,
@@ -816,6 +836,16 @@
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
         {
+          "id": "https://text-mode.tumblr.com/post/793692594711478272",
+          "author": null,
+          "description": "text-mode:\n原爆ドーム by  CTRL+C & CTRL+V (2007)\nGenbaku dome - a dome after the Atomic bomb in Hiroshima, 6th of August, 1945, via",
+          "link": "https://text-mode.tumblr.com/post/793692594711478272",
+          "publishedOn": "2025-09-03T18:30:42.000Z",
+          "wordCount": 1024,
+          "title": "text-mode:\n\n原爆ドーム by  CTRL+C & CTRL+V (2007)Genbaku dome - a...",
+          "imageUrl": "https://64.media.tumblr.com/tumblr_m5etm1S0RI1rpiyaso1_1280.png"
+        },
+        {
           "id": "https://text-mode.tumblr.com/post/793602002685952000",
           "author": null,
           "description": "text-mode:\ndom sylvester houédard, ceolfrith No.15, 1972.",
@@ -1404,16 +1434,6 @@
           "wordCount": 1027,
           "title": "text-mode:\n\nPage from ‘Snap Shots’ by Mary Beams. Made with...",
           "imageUrl": "https://64.media.tumblr.com/d7b6f1b5f46c1ee14db71d3691126492/tumblr_mj7d2oSNE81rpiyaso1_1280.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/788256773297537024",
-          "author": null,
-          "description": "text-mode:\nCross River, Nigeria, photographs by Phyllis Galembo (2004).",
-          "link": "https://text-mode.tumblr.com/post/788256773297537024",
-          "publishedOn": "2025-07-05T18:30:39.000Z",
-          "wordCount": 999,
-          "title": "text-mode:\n\nCross River, Nigeria, photographs by Phyllis Galembo...",
-          "imageUrl": "https://64.media.tumblr.com/995024777df03ab0dd86f8a0d6e78054/tumblr_mizmxro1gQ1rpiyaso1_500.jpg"
         }
       ]
     },
@@ -1619,6 +1639,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=11518",
+          "author": "Cory Doctorow",
+          "description": "Today's links The worst possible antitrust outcome: Hope you like enshittification. Hey look at this: Delights to delectate. Object permanence: Amazon drivers hang phones from trees; DVD Jon v Windows DRM; Chevron's dirty tricks. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The worst possible antitrust outcome (permalink) Well, fuck. Last year, Google lost an antitrust case to Biden's DoJ. The DoJ lawyers beat Google like a drum, proving beyond a shadow of a doubt that Google had deliberately sought to create and maintain a monopoly over search, and that they'd used that monopoly to make search materially worse, while locking …",
+          "link": "https://pluralistic.net/2025/09/03/unpunishing-process/",
+          "publishedOn": "2025-09-03T20:02:29.000Z",
+          "wordCount": 3206,
+          "title": "Pluralistic: The worst possible antitrust outcome (03 Sep 2025)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=11513",
           "author": "Cory Doctorow",
@@ -2029,6 +2059,126 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/25/09/0047449-the-baltimore-museum-of-a",
+          "author": null,
+          "description": "The Baltimore Museum of Art is exhibiting Amy Sherald’s American Sublime show after Sherald pulled it from the Smithsonian’s National Portrait Gallery due to attempted censorship. I saw this in NYC; it’s fantastic.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/0047449-the-baltimore-museum-of-a",
+          "publishedOn": "2025-09-03T23:17:45.000Z",
+          "wordCount": 672,
+          "title": "The Baltimore Museum of Art is exhibiting Amy Sherald&#8217;s American Sublime show...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/09/the-thousands-of-atomic-bombs-exploded-on-earth",
+          "author": null,
+          "description": "From Orbital Mechanics, a visualization of the 2153 nuclear weapons exploded on Earth since 1945.\n\n2153! I had no idea there had been that much testing. According to Wikipedia, the number is 2119 tests, with most of those coming from the US (1032) and the USSR (727). The largest device ever detonated was Tsar Bomba, a 50-megaton hydrogen bomb set off in the atmosphere above an island in the Barents Sea in 1961. Tsar Bomba had more than three times the yield of the largest bomb tested by the US. The result was spectacular.\nThe fireball reached nearly as high as the altitude of the release plane and was visible at almost 1,000 kilometres (620 mi) away from where it ascended. The subsequent mushroom cloud was about 64 kilometres (40 mi) high (over seven times the height of Mount Everest), whi…",
+          "link": "https://kottke.org/25/09/the-thousands-of-atomic-bombs-exploded-on-earth",
+          "publishedOn": "2025-09-03T21:59:45.000Z",
+          "wordCount": 969,
+          "title": "The Thousands of Atomic Bombs Exploded on Earth",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/09/0047447-3books-a-site-that-featur",
+          "author": null,
+          "description": "3books, a site that features the books recommended by guests at the end of each Ezra Klein Show podcast. Built by my pal Michael Sippey.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/0047447-3books-a-site-that-featur",
+          "publishedOn": "2025-09-03T20:33:58.000Z",
+          "wordCount": 689,
+          "title": "3books, a site that features the books recommended by guests at the...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/09/0047442-great-interactive-feature",
+          "author": null,
+          "description": "Great interactive feature on how former world record holder Max Park solves the Rubik’s Cube. You scroll through his slow-motion solve — he makes 12 moves in the first second. “It’s like playing chess at the speed of ping pong.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/0047442-great-interactive-feature",
+          "publishedOn": "2025-09-03T19:44:31.000Z",
+          "wordCount": 847,
+          "title": "Great interactive feature on how former world record holder Max Park solves...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/09/0047423-i-loved-this-the-history",
+          "author": null,
+          "description": "I loved this: The History of The New Yorker’s Vaunted Fact-Checking Department. “The writer had already engaged in the charm and betrayal inherent in reporting. We were in the harm-reduction business.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/0047423-i-loved-this-the-history",
+          "publishedOn": "2025-09-03T18:58:48.000Z",
+          "wordCount": 705,
+          "title": "I loved this: The History of The New Yorker&#8217;s Vaunted Fact-Checking Department....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/09/the-baseball-photographer-trading-cards-1975",
+          "author": null,
+          "description": "In the mid-70s, Mike Mandel traveled around the United States photographing photographers as if they were baseball players, capturing the likes of Imogen Cunningham, Ed Ruscha, William Eggleston, and Ansel Adams.\nI photographed photographers as if they were baseball players and produced a set of cards that were packaged in random groups of ten, with bubble gum, so that the only way of collecting a complete set was to make a trade. I travelled around the United States visiting about 150 photographic “personalities” and had them pose for me. I carried baseball paraphernalia: caps, gloves, balls, a mask and chest protector, a bat, as well as photographic equipment, and made a 14,000 mile odyssey. Out of this experience came 134 Baseball-Photographer images. I designed a reverse side for the card which would allow for each photographer to fill in their own personal data that in a way referred to the information usually included on real baseball cards: Favorite camera, favorite developer, favorite film, height, weight, etc. I used whatever information each photographer provided me.\n\n\nYou can hear Mandel talking about the project in this SFMOMA video — the gum he included in the packages of cards was donated by Topps:\n\nYou can find some of the cards on eBay for around $10-50 apiece and a complete set, signed by Mandel & Imogen Cunningham, can be had for $3,650. (thx, duncan)\nTags: art · Mike Mandel · photography · remix · sports\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/the-baseball-photographer-trading-cards-1975",
+          "publishedOn": "2025-09-03T18:03:41.000Z",
+          "wordCount": 873,
+          "title": "The Baseball Photographer Trading Cards, 1975",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/bb-photo-cards-02.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/09/0047445-how-the-richest-people-in",
+          "author": null,
+          "description": "How the Richest People in America Avoid Paying Taxes. “The country’s billionaires pay lower tax rates than many of its millionaires do. Indeed, they pay lower tax rates than many middle-class professionals.”",
+          "link": "https://kottke.org/25/09/0047445-how-the-richest-people-in",
+          "publishedOn": "2025-09-03T17:01:35.000Z",
+          "wordCount": 614,
+          "title": "How the Richest People in America Avoid Paying Taxes. &#8220;The country&#8217;s billionaires...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/09/abstract-popular-science",
+          "author": null,
+          "description": "I ran across this delightful account that explores and explains everyday scientific questions through maddeningly catchy songs. Like why a cast saw cuts through plaster but spares your skin:\n\nHow working principle of an electric kettle is another banger:\n\nMy gateway into this account was why are steel coils placed upright when trucks are hauling them:\n\nThese will get stuck in your head. Available on YouTube and TikTok (e.g. how is a football made).\nTags: science · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/abstract-popular-science",
+          "publishedOn": "2025-09-03T16:07:04.000Z",
+          "wordCount": 784,
+          "title": "Abstract Popular Science",
+          "imageUrl": "https://i.ytimg.com/vi/LktoghthUgg/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/09/0047436-thetrusizecom-by-james-ta",
+          "author": null,
+          "description": "Thetrusize.com, by James Talmage and Damon Maneice, is a website that lets you move a country or state around a Mercator projection map of the world so you can see how big or small a country really is.\n\n\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/0047436-thetrusizecom-by-james-ta",
+          "publishedOn": "2025-09-03T15:15:59.000Z",
+          "wordCount": 722,
+          "title": "Thetrusize.com, by James Talmage and Damon Maneice, is a website that lets...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/09/one-teens-incredible-mental-time-travel-memory-system",
+          "author": null,
+          "description": "A paper recently published in a behavioral sciences journal describes a high school student’s hyperthymesia, an extraordinary ability to retrieve autobiographical memories. Teenager With Hyperthymesia Exhibits Extraordinary Mental Time Travel Abilities:\nThe subject of the study, referred to as TL, was a 17-year-old high school student in France when she came to the researchers’ attention. She had long known her memory was different. As a child, she would casually mention her ability to mentally revisit past events to check for details, only to be accused of lying by her peers. Eventually, she disclosed this ability to her family at age 16.\nTL’s recollections were not merely accurate — they were structured. She described a highly organized internal world where memories were stored in a larg…",
+          "link": "https://kottke.org/25/09/one-teens-incredible-mental-time-travel-memory-system",
+          "publishedOn": "2025-09-03T14:15:32.000Z",
+          "wordCount": 1137,
+          "title": "One Teen&#8217;s Incredible &#8220;Mental Time Travel&#8221; Memory System",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/09/0047438-oh-wow-after-26-years",
+          "author": null,
+          "description": "Oh wow, after 26 years and 1000+ episodes, Melvyn Bragg is stepping down from hosting the In Our Time radio series.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/0047438-oh-wow-after-26-years",
+          "publishedOn": "2025-09-03T13:29:43.000Z",
+          "wordCount": 883,
+          "title": "Oh wow, after 26 years and 1000+ episodes, Melvyn Bragg is stepping...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/09/0047437-apologies-you-have-reache",
+          "author": null,
+          "description": "Apologies: You Have Reached the End of Your Free-Trial Period of America! “We are retaining some features for premium users. Want rule of law? That’s premium. The right to run your company without government interference? That’s a paid feature now.”",
+          "link": "https://kottke.org/25/09/0047437-apologies-you-have-reache",
+          "publishedOn": "2025-09-03T13:07:15.000Z",
+          "wordCount": 613,
+          "title": "Apologies: You Have Reached the End of Your Free-Trial Period of America!...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/25/09/0047433-this-video-features-a-num",
           "author": null,
