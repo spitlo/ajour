@@ -6,6 +6,16 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=8588",
+          "author": "Chris Heilmann",
+          "description": "For our weekly WeAreDevelopers Live Show I wanted to have a way to include a time progress bar into the page we show. The problem there was that these are markdown files using GitHub Pages and whilst I do use some scripting in them, I wanted to make sure that I could have this functionality […]",
+          "link": "https://christianheilmann.com/2025/09/05/a-css-only-time-progress-bar-to-use-in-markdown-github-pages/",
+          "publishedOn": "2025-09-05T06:34:17.000Z",
+          "wordCount": null,
+          "title": "A CSS only time progress bar to use in markdown / GitHub Pages",
+          "imageUrl": null
+        },
+        {
           "id": "https://christianheilmann.com/?p=8585",
           "author": "Chris Heilmann",
           "description": "When I still worked for a US company, I traveled every few weeks to the US, so much so that I had gold status on several airlines. Ever since the Covid pandemic hit and I got laid off by my last employer as part of a 10k employee cut, I stuck to Europe. Other reasons […]",
@@ -53,16 +63,6 @@
           "publishedOn": "2025-07-14T10:05:01.000Z",
           "wordCount": null,
           "title": "Presentations should always work offline – especially in online conferences",
-          "imageUrl": null
-        },
-        {
-          "id": "https://christianheilmann.com/?p=8527",
-          "author": "Chris Heilmann",
-          "description": "Hi there, I am currently slightly freaking out as this week is the WeAreDevelopers World Congress in Berlin and I am moderating the main stage with 23 talks in two days and still have to write the closing keynote. Officially the event starts on Thursday, but if you are already in Berlin tomorrow, I put […]",
-          "link": "https://christianheilmann.com/2025/07/08/day-zero-activities-of-wearedevelopers-world-congress-tomorrow/",
-          "publishedOn": "2025-07-08T07:07:32.000Z",
-          "wordCount": null,
-          "title": "Day Zero Activities of WeAreDevelopers World Congress tomorrow",
           "imageUrl": null
         }
       ]
@@ -198,16 +198,6 @@
           "wordCount": 409,
           "title": "Death By Scrolling part 2",
           "imageUrl": "https://grumpygamer.com//images/dbs_title_media.png"
-        },
-        {
-          "id": "https://grumpygamer.com/deathbyscrolling1/",
-          "author": null,
-          "description": "I miss the Kickstarter days of Thimbleweed Park where each week I would write a blog post about how things were going and we’d to a podcast. If we were doing Thimbleweed Park today we’d have a video podcast on YouTube.\nI watch a lot of YouTube videos from indie game devs where they document everything they are doing on their game with a fancy video and my first thought is: “Where do you find the time to make this”.  I barely have enough time to work on my game.\nNow that Death By Scrolling is getting close to releasing, I really should start blogging again about the game. There are a lot of interesting things happening and there is no reason I should keep those to myself.\nI have found that as I get older I enjoy pontificating less and less. I’ve stopped doing talks, doing interviews and podcasts. I really enjoy Tim Cain YouTube channel but I could never do that. It’s not that I don’t have anything to say, it’s that I have become self-conscious that I’m just pontificating for no reason and don’t have anything deep and interesting to say.\nNow that I’ve got you all primed and ready, starting next week you can plan your day around the Death By Scrolling blog update.\nOr maybe I’ll delete this post like it never happened.\n^^^ this",
-          "link": "https://grumpygamer.com/deathbyscrolling1/",
-          "publishedOn": "2025-07-08T01:21:45.000Z",
-          "wordCount": 308,
-          "title": "Death By Scrolling part 1",
-          "imageUrl": "https://grumpygamer.com//images/dbs_title_media.png"
         }
       ]
     },
@@ -222,6 +212,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3138/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/dimensional_lumber_tape_measure.png\" title=\"A person with two watches is never sure what time it is, especially if I got them one of the watches.\" alt=\"A person with two watches is never sure what time it is, especially if I got them one of the watches.\" />",
+          "link": "https://xkcd.com/3138/",
+          "publishedOn": "2025-09-05T00:00:00.000Z",
+          "wordCount": 210,
+          "title": "Dimensional Lumber Tape Measure",
+          "imageUrl": "https://imgs.xkcd.com/comics/dimensional_lumber_tape_measure_2x.png"
+        },
         {
           "id": "https://xkcd.com/3137/",
           "author": null,
@@ -807,16 +807,6 @@
           "wordCount": 1156,
           "title": "State of HTML 2025 now open!",
           "imageUrl": "https://lea.verou.me/blog/2025/design-state-of-html/images/image.png"
-        },
-        {
-          "id": "https://lea.verou.me/blog/2025/design-state-of-html/",
-          "author": null,
-          "description": "Mamma mia, here we go again!\n\n\nTwo years ago, I was funded by Google to design the inaugural State of HTML survey.\nWhile I had led State of … surveys before (also graciously sponsored by Google), that was by far the most intense, as 0→1 projects often are.\nIn addition to the research, content, and analysis work that goes into every State of … survey,\nthe unique challenges it presented were a forcing function for finally tackling some longstanding UX issues with these surveys.\nAs a result, we pioneered new survey interaction UIs, and validated them via usability testing.\nThis work did not just affect State of HTML, but had ripple effects on all subsequent State of … surveys.\nThe results made it all worth it.\nTurnout was the highest ever for a new Devographics [1] survey: 21 thousand partici…",
-          "link": "https://lea.verou.me/blog/2025/design-state-of-html/",
-          "publishedOn": "2025-07-08T00:00:00.000Z",
-          "wordCount": 1474,
-          "title": "Influence the State of HTML 2025 Survey!",
-          "imageUrl": "https://lea.verou.me/blog/2025/design-state-of-html/images/image.png"
         }
       ]
     },
@@ -825,6 +815,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/793873817422430209",
+          "author": null,
+          "description": "text-mode:\nBy Mattias Gustavsson, from here.",
+          "link": "https://text-mode.tumblr.com/post/793873817422430209",
+          "publishedOn": "2025-09-05T18:31:10.000Z",
+          "wordCount": 997,
+          "title": "text-mode:\n\nBy Mattias Gustavsson, from here.",
+          "imageUrl": "https://64.media.tumblr.com/eb3df037264078c692828149f89d69fc/tumblr_mggs03Gzws1rpiyaso1_640.gif"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/793783217960419328",
           "author": null,
@@ -1414,16 +1414,6 @@
           "wordCount": 995,
           "title": "text-mode:\n\nWanangkura Stadium in western Australia, designed by...",
           "imageUrl": "https://64.media.tumblr.com/106f0357364e9e90ef84f7f29f79ed39/tumblr_mk11k5d52X1rpiyaso1_1280.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/788437982937006081",
-          "author": null,
-          "description": "text-mode:\nA dhurrie called The Never Ending Story designed by the Swedish company Oyyo. Handmade in India without modern machinery.",
-          "link": "https://text-mode.tumblr.com/post/788437982937006081",
-          "publishedOn": "2025-07-07T18:30:54.000Z",
-          "wordCount": 1019,
-          "title": "text-mode:\n\nA dhurrie called The Never Ending Story designed by...",
-          "imageUrl": "https://64.media.tumblr.com/09a09280f35b99d6cd91a3f4de45a18a/tumblr_miz40fPTD01rpiyaso1_1280.jpg"
         }
       ]
     },
@@ -1629,6 +1619,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=11549",
+          "author": "Cory Doctorow",
+          "description": "Today's links Why Wikipedia works: Agreeing on source notability, not facts. Hey look at this: Delights to delectate. Object permanence: Zero History; XKCD cake; Kazaa judgment. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Why Wikipedia works (permalink) If you've ever spent time around Wikipedians, you've doubtless heard its motto: \"Wikipedia only works in practice. In theory, it's a mess.\" It's a delicious line, which is why I stole it for my 2017 novel Walkaway. But this is one of those lines that's too good to fact-check. The truth is that there's a theory that very neatly describes how Wikipedia works; that is, how Wikipe…",
+          "link": "https://pluralistic.net/2025/09/05/be-the-first-person/",
+          "publishedOn": "2025-09-05T17:53:49.000Z",
+          "wordCount": 4114,
+          "title": "Pluralistic: Why Wikipedia works (05 Sep 2025)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=11523",
           "author": "Cory Doctorow",
@@ -2059,6 +2059,16 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/25/09/0047459-florida-decided-there-wer",
+          "author": null,
+          "description": "Florida Decided There Were Too Many Children. “Florida is the first state to take the courageous step toward decluttering itself of excess children, but under the inexpert guidance of Robert F. Kennedy Jr., other states may follow.”",
+          "link": "https://kottke.org/25/09/0047459-florida-decided-there-wer",
+          "publishedOn": "2025-09-05T13:03:08.000Z",
+          "wordCount": 617,
+          "title": "Florida Decided There Were Too Many Children. &#8220;Florida is the first state...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/25/09/0047456-how-are-you-supposed-to",
           "author": null,
@@ -5687,116 +5697,6 @@
           "publishedOn": "2025-07-08T14:26:42.000Z",
           "wordCount": 717,
           "title": "Medieval Murder Maps. &#8220;Discover the murders, sudden deaths, sanctuary churches, and prisons...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/07/a-swim-through-jellyfish-lake-1",
-          "author": null,
-          "description": "Jellyfish Lake in Palau is home to approximately 13 million jellyfish. Their mild stings mean you can snorkel in their midst and capture beautifully surreal scenes like this:\n\nIf I had a bucket list, I think a swim in Jellyfish Lake w/ classical accompaniment might be on it. (via colossal)\n[This is a vintage post originally from May 2015.]\nTags: Palau · timeless posts · video",
-          "link": "https://kottke.org/25/07/a-swim-through-jellyfish-lake-1",
-          "publishedOn": "2025-07-08T00:22:53.000Z",
-          "wordCount": 613,
-          "title": "A Swim Through Jellyfish Lake",
-          "imageUrl": "https://i.ytimg.com/vi/dA6Y9uSE5zc/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/25/07/0047052-how-silicon-valley-got-ri",
-          "author": null,
-          "description": "How Silicon Valley Got Rich. “When Apple went public in 1980, it created 300 millionaires. When Microsoft did in 1986, 3,000 employees became millionaires. After Google’s IPO in 2004, 1,000 employees held stock worth more than $5 million.”",
-          "link": "https://kottke.org/25/07/0047052-how-silicon-valley-got-ri",
-          "publishedOn": "2025-07-07T22:47:14.000Z",
-          "wordCount": 619,
-          "title": "How Silicon Valley Got Rich. &#8220;When Apple went public in 1980, it...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/07/0047089-all-games-are-cooperative",
-          "author": null,
-          "description": "“All games are cooperative. The very act of agreeing to & honouring rules, & the deeper compact, of temporarily engaging in the roleplay that the drama taking place on the table is *important* - this is a fundamentally cooperative enterprise.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/07/0047089-all-games-are-cooperative",
-          "publishedOn": "2025-07-07T21:56:14.000Z",
-          "wordCount": 755,
-          "title": "&#8220;All games are cooperative. The very act of agreeing to & honouring...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/07/bookshoporgs-100-bestselling-books-of-2025-so-far",
-          "author": null,
-          "description": "Online bookseller bookshop.org recently released a list of their bestselling books of the year (so far). The list is quite a bit different than what you might see from larger booksellers and looks more like what your local bookstore has on their bestseller list. The top five:\nOn Tyranny by Timothy Snyder. “Today, our political order faces new threats, not unlike the totalitarianism of the twentieth century. We are no wiser than the Europeans who saw democracy yield to fascism, Nazism, or communism. Our one advantage is that we might learn from their experience.”\nCareless People by Sarah Wynn-Williams. “An explosive memoir charting one woman’s career at the heart of one of the most influential companies on the planet, Careless People gives you a front-row seat to Facebook, the decisions tha…",
-          "link": "https://kottke.org/25/07/bookshoporgs-100-bestselling-books-of-2025-so-far",
-          "publishedOn": "2025-07-07T21:02:32.000Z",
-          "wordCount": 1279,
-          "title": "Bookshop.org&#8217;s 100 Bestselling Books of 2025 (So Far)",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/bookshop-2025-so-far.jpg"
-        },
-        {
-          "id": "https://kottke.org/25/07/0047095-always-worth-a-read-the",
-          "author": null,
-          "description": "Always worth a read: the latest issue of Jodi Ettenberg’s The Curious About Everything newsletter. (I have so many tabs open to read now… 🎉🫠)\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/07/0047095-always-worth-a-read-the",
-          "publishedOn": "2025-07-07T20:10:54.000Z",
-          "wordCount": 694,
-          "title": "Always worth a read: the latest issue of Jodi Ettenberg&#8217;s The Curious...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/07/every-wes-anderson-movie-explained-by-wes-anderson",
-          "author": null,
-          "description": "Clocking in at almost an hour, this “definitive interview” with Wes Anderson by Vanity Fair about all 12 of his films is perhaps only for Wes stans or cinephiles, but then again, listening to thoughtful, creative people talking earnestly about their work is almost always worth the time.\nHi, I’m Wes Anderson. I have made, apparently, 12 films and I’m now going to walk us through every one of them in some way.\n\n\n(via open culture)\nTags: film school · movies · video · Wes Anderson\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/07/every-wes-anderson-movie-explained-by-wes-anderson",
-          "publishedOn": "2025-07-07T17:53:00.000Z",
-          "wordCount": 1123,
-          "title": "Every Wes Anderson Movie, Explained by Wes Anderson",
-          "imageUrl": "https://i.ytimg.com/vi/NEOvfStFSvM/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/25/07/0047087-the-fundamental-dilemma-o",
-          "author": null,
-          "description": "“The fundamental dilemma [of media like NYT]: journalism is, by its nature, supposed to be on the side of accuracy, against lies & liars, but the GOP is lies & liars top to bottom. And for reasons of power & access, journalism can not say so.”",
-          "link": "https://kottke.org/25/07/0047087-the-fundamental-dilemma-o",
-          "publishedOn": "2025-07-07T17:05:04.000Z",
-          "wordCount": 672,
-          "title": "&#8220;The fundamental dilemma [of media like NYT]: journalism is, by its nature,...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/07/0047082-heres-what-tom-hollands-l",
-          "author": null,
-          "description": "Here’s what Tom Holland’s lip-sync of Umbrella can teach us about stormwater management. “So set designers must have accounted for the flow to go somewhere, but not all residential or commercial properties are so well drained.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/07/0047082-heres-what-tom-hollands-l",
-          "publishedOn": "2025-07-07T16:14:50.000Z",
-          "wordCount": 798,
-          "title": "Here&#8217;s what Tom Holland&#8217;s lip-sync of Umbrella can teach us about stormwater...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/07/0047065-science-writer-jennifer-o",
-          "author": null,
-          "description": "Science writer Jennifer Ouellette reflects on the 30th anniversary of Apollo 13, including the movie’s realism “The actors, once locked in, breathed air pumped into the suits just like the original Apollo astronauts.” I love Apollo 13.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/07/0047065-science-writer-jennifer-o",
-          "publishedOn": "2025-07-07T15:10:27.000Z",
-          "wordCount": 878,
-          "title": "Science writer Jennifer Ouellette reflects on the 30th anniversary of Apollo 13,...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/07/a-great-art-explained-book-sign-me-up",
-          "author": null,
-          "description": "Ah, this is awesome: Great Art Explained is one of my favorite YouTube channels and there’s a book version coming out in the fall.\nArt can be thrilling, and resonate on a deep personal level. It is how you view the work, place it in context and understand its history that makes an artwork truly come alive.\nA fresh approach to a classic subject, James Payne’s no-nonsense analysis sheds new light on 30 masterpieces from around the globe and reveals what makes them truly timeless works of art.\nEach chapter delves into not only the art itself but also the artist’s life, as well as the work’s place in their wider oeuvre; in other words, what makes it “great.”\n\n\nYou can preorder Great Art Explained from Bookshop or Amazon.\nTags: art · art school · books · Great Art Explained · James Payne\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/07/a-great-art-explained-book-sign-me-up",
-          "publishedOn": "2025-07-07T14:20:30.000Z",
-          "wordCount": 861,
-          "title": "A Great Art Explained Book? Sign Me Up!",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/great-art-explained-book.jpg"
-        },
-        {
-          "id": "https://kottke.org/25/07/0047086-the-detention-center-in-f",
-          "author": null,
-          "description": "The detention center in Florida easily fits the definition of concentration camp. “This facility’s purpose fits the classic model, and its existence points to serious dangers ahead for the country.” Alligator Auschwitz.",
-          "link": "https://kottke.org/25/07/0047086-the-detention-center-in-f",
-          "publishedOn": "2025-07-07T13:31:32.000Z",
-          "wordCount": 1038,
-          "title": "The detention center in Florida easily fits the definition of concentration camp....",
           "imageUrl": ""
         }
       ]
