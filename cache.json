@@ -140,6 +140,16 @@
       "siteUrl": "https://grumpygamer.com/",
       "articles": [
         {
+          "id": "https://grumpygamer.com/comments_back/",
+          "author": null,
+          "description": "“But? Wait?” I can hear you saying, “Isn’t grumpygamer.com a static site built by Hugo? What dark magic did you use to get comments on the static site?”\nNo dark magic. But it does involve a small php script.\nYou can embed php in a hugo page and since grumpygamer.com is hosted on my server and it’s running php it wasn’t that hard.\nNo tricky javascript and since it’s all hosted by me, no privacy issues. All your comments stay on my server and don’t feed Big Comment.\nComments are stored in flat files so no pesky SQL databases. It only took me about a day, so all in all not bad.\nI may regret this.\nI’m only turned on comments for future posts.\nBe nice!\nP.S. I will post the code and a small guide in a few days, so you too can invite the masses to critic and criticize your every word. Good times.",
+          "link": "https://grumpygamer.com/comments_back/",
+          "publishedOn": "2025-09-06T05:32:29.000Z",
+          "wordCount": 652,
+          "title": "Comments are back",
+          "imageUrl": "https://grumpygamer.com//images/comments.png"
+        },
+        {
           "id": "https://grumpygamer.com/testtron3000/",
           "author": null,
           "description": "Have I mentioned that you should Wish List Death by Scrolling now, before you finish reading this?\nHere is the code the runs TesterTron3000 in Death by Scrolling.\nThere is some code not listed that does set up, but the following  runs the level.\nIt’s written in Dinky, a custom language I wrote for Delores based on what we used for Thimbleweeed Park and then used in Return to Monkey Island.\nTesterTron3000 is as dumb as a box of rocks, but in some ways that’s what makes it fun to watch.\nBefore we get into code, here is another sample run.\n‏\n\n    \n\n    \n‏\nIt’s not the best code I’ve written but far from the worst and it gets the job done.  TesterTron3000 has run for over 48 hours and not found a serious bug, so I’m happy.\nSource code follows, you’ve been warned…\n 1function runLevel() {\n 2\tloc…",
@@ -461,16 +471,6 @@
           "wordCount": 208,
           "title": "Building a Fire",
           "imageUrl": "https://imgs.xkcd.com/comics/building_a_fire_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3113/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/fix_this_sign.png\" title=\"We're building on our earlier success getting web developers to pay to change the backslashes in our displayed payment URL to forward slashes.\" alt=\"We're building on our earlier success getting web developers to pay to change the backslashes in our displayed payment URL to forward slashes.\" />",
-          "link": "https://xkcd.com/3113/",
-          "publishedOn": "2025-07-09T00:00:00.000Z",
-          "wordCount": 208,
-          "title": "Fix This Sign",
-          "imageUrl": "https://imgs.xkcd.com/comics/fix_this_sign_2x.png"
         }
       ]
     },
@@ -769,23 +769,7 @@
       "title": "LOW←TECH MAGAZINE English",
       "feedUrl": "https://feeds2.feedburner.com/typepad/krisdedecker/lowtechmagazineenglish",
       "siteUrl": "https://solar.lowtechmagazine.com/posts/",
-      "articles": [
-        {
-          "id": "https://solar.lowtechmagazine.com/2025/07/how-to-mount-a-balcony-awning/",
-          "author": null,
-          "description": "Hi Kris,\nI’ve been reading your website for quite a while. It’s one of my favourite blogs. Thank you for what you are doing!\nWe are currently experiencing a heat wave in Germany, so I drew inspiration from Low-tech Magazine’s article “How to Dress and Undress your Home” and built an awning on my balcony. I documented the process so that other readers can install one themselves.\nThe overall cost for my build was around 50 Euros, but you can do it much cheaper by using upcycled materials. It requires only a few tools to build, so almost anyone can reproduce it.\nRequired materials\nSteel cable (or rope). I went with a 4 mm galvanized steel cable. I want the build to be sturdy and be able to withstand strong winds. A 3 mm cable would probably work as well. Warning: Some inexpensive steel cables…",
-          "link": "https://solar.lowtechmagazine.com/2025/07/how-to-mount-a-balcony-awning/",
-          "publishedOn": "2025-07-09T00:00:00.000Z",
-          "wordCount": 1530,
-          "title": "How to Mount a Balcony Awning",
-          "enclosure": {
-            "url": "https://solar.lowtechmagazine.com/2025/07/how-to-mount-a-balcony-awning/images/dithers/IMG_0704-min_dithered.png",
-            "type": "image/png",
-            "length": "60108"
-          },
-          "imageUrl": "https://solar.lowtechmagazine.com/2025/07/how-to-mount-a-balcony-awning/images/dithers/IMG_0704-min_dithered.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "esoteric.codes",
@@ -815,6 +799,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/793964405214920704",
+          "author": null,
+          "description": "text-mode:\nThis came from a demoscene place, but I think it came from dump.fm before that, perhaps posted by A Bill Miller? Yep/no.",
+          "link": "https://text-mode.tumblr.com/post/793964405214920704",
+          "publishedOn": "2025-09-06T18:31:01.000Z",
+          "wordCount": 1036,
+          "title": "text-mode:\n\nThis came from a demoscene place, but I think it...",
+          "imageUrl": "https://64.media.tumblr.com/ca71552886b5be2a926b0b88aac94f0d/tumblr_mgds7rGBub1rpiyaso1_400.gif"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/793873817422430209",
           "author": null,
@@ -1404,16 +1398,6 @@
           "wordCount": 948,
           "title": "text-mode:\n\nTelidon — ‘knowledge at your fingertips!’ (1981) CBC...",
           "imageUrl": "https://64.media.tumblr.com/1b11462ec2f675c82131f293b47d49cf/tumblr_mj7dxtX8ll1rpiyaso1_500.gif"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/788528577560920064",
-          "author": null,
-          "description": "text-mode:\nWanangkura Stadium in western Australia, designed by ARM architecture. They call it pixely, we call it textmodey.\nMore here.",
-          "link": "https://text-mode.tumblr.com/post/788528577560920064",
-          "publishedOn": "2025-07-08T18:30:52.000Z",
-          "wordCount": 995,
-          "title": "text-mode:\n\nWanangkura Stadium in western Australia, designed by...",
-          "imageUrl": "https://64.media.tumblr.com/106f0357364e9e90ef84f7f29f79ed39/tumblr_mk11k5d52X1rpiyaso1_1280.jpg"
         }
       ]
     },
@@ -1551,16 +1535,6 @@
           "wordCount": 2264,
           "title": "Why we can’t stop multitasking",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2025/07/Blog_Multitasking_Header-1080x720.png"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=81207",
-          "author": "Damiano",
-          "description": "Here at Mozilla, we are the first to admit the internet isn’t perfect, but we know the internet is pretty darn magical. The internet opens up doors and opportunities, allows for human connection, and lets everyone find where they belong — their corners of the internet. We all have an internet story worth sharing. In […]\nThe post Tiffanie Barriere browses like she bartends (with soul, sass and a splash of magic) appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/internet-culture/interviews/tiffanie-barriere-browses-like-she-bartends-with-soul-sass-and-a-splash-of-magic/",
-          "publishedOn": "2025-07-08T16:00:00.000Z",
-          "wordCount": 2066,
-          "title": "Tiffanie Barriere browses like she bartends (with soul, sass and a splash of magic)",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2025/06/fx_distilled_tiffanie_Header_1920x1080-1080x720.png"
         }
       ]
     },
@@ -1619,6 +1593,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=11556",
+          "author": "Cory Doctorow",
+          "description": "Today's links Stock buybacks are stock swindles: Raising the value of a stock without raising the value of the company. Hey look at this: Delights to delectate. Object permanence: Marshmellow longtermism; Physicists are not epidemiologists; CO asphyxiation accounts for half of Hurricane Laura deaths. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Stock buybacks are stock swindles (permalink) Trump's doing a lot of oligarch shit, and while some of it very visible and obvious, other moves, like throwing the door open to \"stock buybacks\" are technical and obscure, but it's worth paying attention to this, because this form of stock …",
+          "link": "https://pluralistic.net/2025/09/06/computer-says-huh/",
+          "publishedOn": "2025-09-06T15:51:17.000Z",
+          "wordCount": 3649,
+          "title": "Pluralistic: Stock buybacks are stock swindles (06 Sep 2025)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=11549",
           "author": "Cory Doctorow",
@@ -5587,116 +5571,6 @@
           "publishedOn": "2025-07-09T13:54:09.000Z",
           "wordCount": 717,
           "title": "I&#8217;m not ignoring your message – I&#8217;m overwhelmed by the tyranny of...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/07/0047116-from-marcin-wichary-a-his",
-          "author": null,
-          "description": "From Marcin Wichary, a history of Mac settings (1984-2004). The article includes several embedded emulators, so you can actually use the setting panels under discussion. Amazing.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/07/0047116-from-marcin-wichary-a-his",
-          "publishedOn": "2025-07-09T00:13:03.000Z",
-          "wordCount": 691,
-          "title": "From Marcin Wichary, a history of Mac settings (1984-2004). The article includes...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/07/0047102-a-masterclass-on-status-p",
-          "author": null,
-          "description": "A Masterclass on Status, Power, & the Economy with Tressie McMillan Cottom. I’ve only started listening to this podcast, but it’s so good already and I’ve heard only great things about it.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/07/0047102-a-masterclass-on-status-p",
-          "publishedOn": "2025-07-08T22:52:38.000Z",
-          "wordCount": 722,
-          "title": "A Masterclass on Status, Power, & the Economy with Tressie McMillan Cottom....",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/07/0047104-did-shakespeare-write-ham",
-          "author": null,
-          "description": "Did Shakespeare Write Hamlet While He Was Stoned? Examining the evidence that the Bard smoked weed and that he was aware of its effect on his creativity.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/07/0047104-did-shakespeare-write-ham",
-          "publishedOn": "2025-07-08T21:39:45.000Z",
-          "wordCount": 718,
-          "title": "Did Shakespeare Write Hamlet While He Was Stoned? Examining the evidence that...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/07/0047110-chatgpt-kept-directing-pe",
-          "author": null,
-          "description": "ChatGPT kept directing people to use a non-existent feature on Soundslice…so the team built it. “To my knowledge, this is the first case of a company developing a feature because ChatGPT is incorrectly telling people it exists. (Yay?)”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/07/0047110-chatgpt-kept-directing-pe",
-          "publishedOn": "2025-07-08T20:46:24.000Z",
-          "wordCount": 776,
-          "title": "ChatGPT kept directing people to use a non-existent feature on Soundslice&#8230;so the...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/07/0047109-this-breakthrough-sponge-",
-          "author": null,
-          "description": "This Breakthrough Sponge Could Change How the World Gets Clean Water. “A team of scientists has developed a groundbreaking sponge-like aerogel that can turn seawater into clean drinking water using only sunlight.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/07/0047109-this-breakthrough-sponge-",
-          "publishedOn": "2025-07-08T19:52:56.000Z",
-          "wordCount": 728,
-          "title": "This Breakthrough Sponge Could Change How the World Gets Clean Water. &#8220;A...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/07/100-years-of-world-history-as-told-by-100-movies",
-          "author": null,
-          "description": "This is a unique look at the history of the world from 1925 to 2025, told through the lens of movies whose plots take place in those years. For example, the WWII era is represented by The Sound of Music (1965), The Pianist (2002), The Darkest Hour (2017), Casablanca (1942), The Thin Red Line (1998, Come and See (1985), Son of Saul (2015), Oppenheimer (2023), and Godzilla Minus One (2023).\nAs the video goes on, more and more of the scenes depict imagined past futures from films like 1984, Transformers: The Movie, Blade Runner, The Matrix, 2001: A Space Odyssey, and Johnny Mnemonic.\nIn the end, it’s not a happy video — lots of war, both past and future. Hollywood does like to dwell on our worst times.\nTags: history · movies · video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/07/100-years-of-world-history-as-told-by-100-movies",
-          "publishedOn": "2025-07-08T19:01:08.000Z",
-          "wordCount": 790,
-          "title": "100 Years of World History, As Told By 100 Movies",
-          "imageUrl": "https://i.ytimg.com/vi/4O9RY2n-ckg/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/25/07/0047099-how-four-masters-michelan",
-          "author": null,
-          "description": "How Four Masters — Michelangelo, Donatello, Verrocchio & Bernini — Sculpted David. I saw Bernini’s David recently and it’s an amazing sculpture.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/07/0047099-how-four-masters-michelan",
-          "publishedOn": "2025-07-08T18:07:21.000Z",
-          "wordCount": 804,
-          "title": "How Four Masters — Michelangelo, Donatello, Verrocchio & Bernini — Sculpted David....",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/07/0047083-i-deleted-my-second-brain",
-          "author": null,
-          "description": "I Deleted My Second Brain. Why I Erased 10,000 Notes, 7 Years of Ideas, and Every Thought I Tried to Save. “Instead of accelerating my thinking, it began to replace it. Instead of aiding memory, it froze my curiosity into static categories.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/07/0047083-i-deleted-my-second-brain",
-          "publishedOn": "2025-07-08T17:20:18.000Z",
-          "wordCount": 1296,
-          "title": "I Deleted My Second Brain. Why I Erased 10,000 Notes, 7 Years...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/07/0047091-when-in-doubt-go-for",
-          "author": null,
-          "description": "When in doubt, go for a walk. “Walking won’t solve everything. But it won’t make anything worse. That’s more than you can say for most things we do when we’re stressed, tired, or lost.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/07/0047091-when-in-doubt-go-for",
-          "publishedOn": "2025-07-08T16:21:20.000Z",
-          "wordCount": 779,
-          "title": "When in doubt, go for a walk. &#8220;Walking won&#8217;t solve everything. But...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/07/the-black-panther-party-ten-point-program",
-          "author": null,
-          "description": "In 1966, Huey Newton & Bobby Seale formed the Black Panther Party and wrote a 10-point manifesto of what the group stood for and what they wanted. Here’s the full text of the plan.\n4. We Want Decent Housing Fit For The Shelter of Human Beings.\nWe believe that if the White Landlords will not give decent housing to our Black community, then the housing and the land should be made into cooperatives so that our community, with government aid, can build and make decent housing for its people.\n\n\n\n5. We Want Education for Our People That Exposes The True Nature Of This Decadent American Society. We Want Education That Teaches Us Our True History And Our Role in the Present-Day Society.\nWe believe in an educational system that will give to our people a knowledge of self. If a man does not have knowledge of himself and his position in society and the world then he has little chance to relate to anything else.\n\n\n        \n\n         \nTags: Black Panthers · Bobby Seale · education · Huey Newton · lists · policing · politics · racism · USA",
-          "link": "https://kottke.org/25/07/the-black-panther-party-ten-point-program",
-          "publishedOn": "2025-07-08T15:13:23.000Z",
-          "wordCount": 736,
-          "title": "The Black Panther Party Ten-Point Program",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/07/0047096-medieval-murder-maps-disc",
-          "author": null,
-          "description": "Medieval Murder Maps. “Discover the murders, sudden deaths, sanctuary churches, and prisons of three thriving medieval cities. Click on a pin to read the story based on the original record written down in the rolls of the coroner.” (Fascinating…)\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/07/0047096-medieval-murder-maps-disc",
-          "publishedOn": "2025-07-08T14:26:42.000Z",
-          "wordCount": 717,
-          "title": "Medieval Murder Maps. &#8220;Discover the murders, sudden deaths, sanctuary churches, and prisons...",
           "imageUrl": ""
         }
       ]
