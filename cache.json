@@ -126,6 +126,16 @@
       "siteUrl": "https://www.sarasoueidan.com/blog/index.xml",
       "articles": [
         {
+          "id": "https://www.sarasoueidan.com/blog/alt-text-for-css-generated-content/",
+          "author": null,
+          "description": "This is the first in a series of articles I'm naming \"Effortless Accessibility\", in which I will share actionable tips on HTML and CSS features (existing and new/cutting edge!) that you can use to improve the accessibility and usability of your websites and web applications with little to no effort. \n\n -->\n\n✨ This post is sponsored by everyone who has bought my Practical Accessibility course. ✨\nThe CSS ::before and ::after pseudo-elements are used to insert presentational content before and after (respectively) existing content in an HTML element.\nThe content property is used to define what content is inserted in these elements.\nFor example, the following CSS adds the text \"Error: \" before the content of an error message container:\n<div class=\"error-message\">The value you entered is invali…",
+          "link": "https://www.sarasoueidan.com/blog/alt-text-for-css-generated-content/",
+          "publishedOn": "2025-09-17T00:00:00.000Z",
+          "wordCount": 5388,
+          "title": "CSS to speech: alternative text for CSS-generated content",
+          "imageUrl": "https://sarasoueidan.com/og.png"
+        },
+        {
           "id": "https://www.sarasoueidan.com/blog/podcast-with-kevin-powell/",
           "author": null,
           "description": "Kevin and I been planning this podcast for months and our schedules finally aligned and we made it happen.\nWe originally planned to chat for a bit… but we had so much fun that almost two hours flew by without us noticing 😅\nWe covered:\nDefining web accessibility and why it matters\nHow we each became more aware of it (our accessibility origin stories)\nRaising awareness and addressing common pushback by debunking accessibility myths\nHTML semantics and ARIA\nScreen readers and the accessibility tree\nNew CSS features and how CSS affects accessibility\nKeeping up with CSS\nCourse creation and the Practical Accessibility course\n…and we talked a little bit about our shared interest in cooking, fermentation, nutrition, and our favorite meals 🍲\nIf you’ve ever been curious about web accessibility and how it relates to your work as a front-end designer or developer, and are interested in a technical deep dive into HTML semantics, ARIA, and CSS, or just want to hear two nerds geeking out and laughing along the way — give it a watch (or a listen)!\nI would love to hear what you think!",
@@ -830,6 +840,16 @@
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
         {
+          "id": "https://text-mode.tumblr.com/post/794960952352178176",
+          "author": null,
+          "description": "text-mode:\nBill Bissett, via.",
+          "link": "https://text-mode.tumblr.com/post/794960952352178176",
+          "publishedOn": "2025-09-17T18:30:42.000Z",
+          "wordCount": 974,
+          "title": "text-mode:\n\nBill Bissett, via.",
+          "imageUrl": "https://64.media.tumblr.com/tumblr_mdr7yqGmbG1rpiyaso1_1280.jpg"
+        },
+        {
           "id": "https://text-mode.tumblr.com/post/794870366372757504",
           "author": null,
           "description": "text-mode:\n92% of all doctors use educational DOS software on a daily basis.",
@@ -1418,16 +1438,6 @@
           "wordCount": 1098,
           "title": "text-mode:\n\nObscure C64 textmode software from 83/84. Microtel...",
           "imageUrl": "https://64.media.tumblr.com/8617d57927ff8039b2b27a6076948faa/tumblr_mjkjndEBBx1rpiyaso2_1280.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/789525140030586880",
-          "author": null,
-          "description": "text-mode:\nFrom The Flight of Icarus by Georges Schwizgebel, 1974. Watch the full thing here. Thanks to Rico Zerone for finding this gem!",
-          "link": "https://text-mode.tumblr.com/post/789525140030586880",
-          "publishedOn": "2025-07-19T18:30:48.000Z",
-          "wordCount": 1047,
-          "title": "text-mode:\n\nFrom The Flight of Icarus by Georges Schwizgebel,...",
-          "imageUrl": "https://64.media.tumblr.com/5f122178125262ad499cad5823abce16/tumblr_mjmhcsYbG21rpiyaso1_1280.gif"
         }
       ]
     },
@@ -1436,6 +1446,26 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=81772",
+          "author": "Lucy Purdon",
+          "description": "This essay was originally published on The Sidebar, Mozilla’s Substack. Trigger warning: Discussion of pregnancy loss. Open up TikTok on any given day and you’ll find confident young women openly discussing their periods. They might recognise a low mood is due to the luteal phase or feel amazing because they are ovulating. They acknowledge the […]\nThe post Young people are outsmarting period tracking apps appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/internet-culture/period-tracking-apps/",
+          "publishedOn": "2025-09-17T18:29:10.000Z",
+          "wordCount": 2761,
+          "title": "Young people are outsmarting period tracking apps",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2025/09/DTS_AWAY_Daniel_Faro_Photos_ID7501-r1-1102x735.jpg"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=81686",
+          "author": "Neha Kochar",
+          "description": "All web browsing starts with a DNS query to find the IP address for the desired service or website. For much of the internet’s history, this query is sent in the clear. DNS-over-HTTPS (DoH) plugs this privacy leak by encrypting the DNS messages, so no one on the network, not your internet service provider or […]\nThe post Firefox DNS privacy: Faster than ever, now on Android appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/firefox/dns-android/",
+          "publishedOn": "2025-09-17T13:00:00.000Z",
+          "wordCount": 1986,
+          "title": "Firefox DNS privacy: Faster than ever, now on Android",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2020/02/ff-blog-header-doh-1_2-990x660.jpg"
+        },
         {
           "id": "https://blog.mozilla.org/?p=81514",
           "author": "Andy F.",
@@ -1618,6 +1648,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=11621",
+          "author": "Cory Doctorow",
+          "description": "Today's links Conspiratorialism's causal chain: A four-part begat. Hey look at this: Delights to delectate. Object permanence: Legal threats over HDCP leaks; Print your own TSA luggage keys; \"A Natural History of Empty Lots.\" Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Conspiratorialism's causal chain (permalink) Conspiratorialism is downstream of the trauma of institutional failures. Insitutional failures are downstream of regulatory capture. Regulatory capture is downstream of monopolization. Monopolization is downstream of the failure to enforce antitrust law. Start with conspiratorialism and trauma. I am staunchly pro-vac…",
+          "link": "https://pluralistic.net/2025/09/17/cause-and-effect/",
+          "publishedOn": "2025-09-17T11:47:38.000Z",
+          "wordCount": 3722,
+          "title": "Pluralistic: Conspiratorialism's causal chain (17 Sep 2025)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=11607",
           "author": "Cory Doctorow",
@@ -2052,16 +2092,6 @@
           "wordCount": 3447,
           "title": "Pluralistic: How my DRM-free principles left me owning the rights to a German audiobook (21 Jul 2025)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=11211",
-          "author": "Cory Doctorow",
-          "description": "Today's links Conspiratorialism and neoliberalism: If \"there is no such thing as society\" then all evil must be the fault of evil individuals. Hey look at this: Delights to delectate. Object permanence: Groovy Congressional fallout shelter, MRI scans of food, \"Network Nation\" Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Conspiratorialism and neoliberalism (permalink) Trump's day-one Executive Order blitz contained a lot of weird, fucked-up shit, but for me, the most telling (though not the most important) was the decision to defund all medical research whose grant applications contained the word \"systemic\": https://www.washing…",
-          "link": "https://pluralistic.net/2025/07/19/systemic/",
-          "publishedOn": "2025-07-19T17:48:01.000Z",
-          "wordCount": 3508,
-          "title": "Pluralistic: Conspiratorialism and neoliberalism (19 Jul 2025)",
-          "imageUrl": null
         }
       ]
     },
@@ -2088,6 +2118,126 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/25/09/0047536-the-debate-me-bro-grift",
+          "author": null,
+          "description": "The “Debate Me Bro” Grift: How Trolls Weaponized The Marketplace Of Ideas. “The fundamental issue with “debate me bro” culture [is] that it creates a false equivalence between good-faith expertise and bad-faith trolling.”",
+          "link": "https://kottke.org/25/09/0047536-the-debate-me-bro-grift",
+          "publishedOn": "2025-09-17T22:52:31.000Z",
+          "wordCount": 832,
+          "title": "The &#8220;Debate Me Bro&#8221; Grift: How Trolls Weaponized The Marketplace Of Ideas....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/09/0047534-how-agates-form-why-minne",
+          "author": null,
+          "description": "How Agates Form, Why Minnesota Lakes Have So Many, & Where To Look For Them. I was always excited as a kid to go find agates at the lake (typically Lake Superior), but I didn’t know a) how they formed, or b) that you couldn’t find them just anywhere.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/0047534-how-agates-form-why-minne",
+          "publishedOn": "2025-09-17T20:44:28.000Z",
+          "wordCount": 743,
+          "title": "How Agates Form, Why Minnesota Lakes Have So Many, & Where To...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/09/0047535-inspired-by-a-question-ov",
+          "author": null,
+          "description": "Inspired by a question over at Cup of Jo, what are the five things that are essential in your kitchen? Mine lean black & tan: balsamic vinegar, soy sauce, parmesan, olive oil, mayonnaise. (Honorable mention: chili oil.)\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/0047535-inspired-by-a-question-ov",
+          "publishedOn": "2025-09-17T19:59:21.000Z",
+          "wordCount": 1244,
+          "title": "Inspired by a question over at Cup of Jo, what are the...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/09/blending-in",
+          "author": null,
+          "description": "These are some of my favorite portrait illustrations from Sofia Bonati.\nIn her art you’ll find female portraits that invite you into a dreamlike world where the woman and her surroundings intertwine, connect. They are women with deep, mysterious looks, who want to tell us something.\n\n\nI especially like the more geometric ones that radiate. Prints and original works are available in her shop. (via colossal)\nTags: art · illustration · Sofia Bonati\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/blending-in",
+          "publishedOn": "2025-09-17T18:48:19.000Z",
+          "wordCount": 712,
+          "title": "Blending In",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/sofia-bonati-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/09/0047531-the-climate-change-parado",
+          "author": null,
+          "description": "The Climate Change Paradox. “Earth’s climate is chaotic and volatile. Climate change is simple and predictable. How can both be true?” Complexity & chaos theory are so interesting.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/0047531-the-climate-change-parado",
+          "publishedOn": "2025-09-17T17:46:52.000Z",
+          "wordCount": 997,
+          "title": "The Climate Change Paradox. &#8220;Earth&#8217;s climate is chaotic and volatile. Climate change...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/09/0047530-on-the-latest-wave-of",
+          "author": null,
+          "description": "On the latest wave of AI/LLM tools. “It is a transition from working with a co-intelligence to working with a wizard. Magic gets done, but we don’t always know what to do with the results.”",
+          "link": "https://kottke.org/25/09/0047530-on-the-latest-wave-of",
+          "publishedOn": "2025-09-17T16:57:18.000Z",
+          "wordCount": 613,
+          "title": "On the latest wave of AI/LLM tools. &#8220;It is a transition from...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/09/smart-tracker-cards",
+          "author": null,
+          "description": "Here’s a thing I didn’t know existed until the other day: credit-card sized trackers that you put into your wallet (or bag) that can be located with Apple Find My. Some come with long-life batteries and others are rechargeable. Some can play a sound when lost. This seems pretty handy for when an AirTag is too bulky. \nThe first one I stumbled across was this one from Paperwallet but there are also many other options.\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/smart-tracker-cards",
+          "publishedOn": "2025-09-17T16:24:03.000Z",
+          "wordCount": 1262,
+          "title": "Smart Tracker Cards",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/tracker-card.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/09/0047532-trump-told-voters-that-th",
+          "author": null,
+          "description": "“Trump told voters that they could indulge their resentments and still walk away richer and more prosperous. But they can’t. To embrace nativism in a global, connected economic world is to sacrifice prosperity for the sake of exclusion…”",
+          "link": "https://kottke.org/25/09/0047532-trump-told-voters-that-th",
+          "publishedOn": "2025-09-17T15:56:53.000Z",
+          "wordCount": 624,
+          "title": "&#8220;Trump told voters that they could indulge their resentments and still walk...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/09/0047525-early-next-year-sesame-st",
+          "author": null,
+          "description": "Early next year, Sesame Street is making hundreds of full episodes available on YouTube.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/0047525-early-next-year-sesame-st",
+          "publishedOn": "2025-09-17T15:32:10.000Z",
+          "wordCount": 811,
+          "title": "Early next year, Sesame Street is making hundreds of full episodes available...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/09/classic-airlines-apparel",
+          "author": null,
+          "description": "Remember the collection of classic airline logos I linked to a few years ago? The folks at 08 Left have taken some of those old logos and put them on hats, t-shirts, and hoodies.\nTags: design · fashion · flying\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/classic-airlines-apparel",
+          "publishedOn": "2025-09-17T14:37:16.000Z",
+          "wordCount": 745,
+          "title": "Classic Airlines Apparel",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/08left-shirts.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/09/0047526-new-from-neal-agarwal-a",
+          "author": null,
+          "description": "New from Neal Agarwal: a series of increasingly ridiculous and difficult captchas. I burst out laughing at the vegetables one.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/0047526-new-from-neal-agarwal-a",
+          "publishedOn": "2025-09-17T13:53:30.000Z",
+          "wordCount": 1140,
+          "title": "New from Neal Agarwal: a series of increasingly ridiculous and difficult captchas....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/09/0047522-scandal-rocks-internation",
+          "author": null,
+          "description": "Scandal rocks international stone skipping contest. “The would-be cheaters admitted to the scheme by a show of hands and apologized for their misdeeds after the judges raised their suspicions.” Aww, so wholesome?\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/0047522-scandal-rocks-internation",
+          "publishedOn": "2025-09-17T13:19:04.000Z",
+          "wordCount": 781,
+          "title": "Scandal rocks international stone skipping contest. &#8220;The would-be cheaters admitted to the...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/25/09/0047523-style-lessons-from-robert",
           "author": null,
