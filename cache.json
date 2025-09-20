@@ -262,6 +262,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3144/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/phase_changes.png\" title=\"People looking for the gaps in our understanding where the meaning of consciousness or free will might hide often turn to quantum uncertainty or infinite cosmologies, as if we don't have breathtakingly complex emergent phenomena right there in our freezers.\" alt=\"People looking for the gaps in our understanding where the meaning of consciousness or free will might hide often turn to quantum uncertainty or infinite cosmologies, as if we don't have breathtakingly complex emergent phenomena right there in our freezers.\" />",
+          "link": "https://xkcd.com/3144/",
+          "publishedOn": "2025-09-19T00:00:00.000Z",
+          "wordCount": 206,
+          "title": "Phase Changes",
+          "imageUrl": "https://imgs.xkcd.com/comics/phase_changes_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3143/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/question_mark.png\" title=\"Although now people will realize three-per-em space that all this time I've been using weird medium mathematical space whitespace characters in my hair space hair space hair space speech dot dot dot...\" alt=\"Although now people will realize three-per-em space that all this time I've been using weird medium mathematical space whitespace characters in my hair space hair space hair space speech dot dot dot...\" />",
@@ -537,16 +547,6 @@
           "wordCount": 769,
           "title": "In Bloom (Sweetpea, #2) [book]",
           "imageUrl": null
-        },
-        {
-          "id": "getting-my-highlights-and-notes-from-koreader",
-          "author": null,
-          "description": "It's not an intuitive process and requires a few speciality commands to work, so it made sense that I write up the process so I can duck myself later on.",
-          "link": "https://remysharp.com/2025/07/22/getting-my-highlights-and-notes-from-koreader",
-          "publishedOn": "2025-07-22T00:00:00.000Z",
-          "wordCount": 1108,
-          "title": "Getting my highlights & notes from KOReader [blog]",
-          "imageUrl": "https://remysharp.com/images/cards/og/9-5.jpg"
         }
       ]
     },
@@ -800,24 +800,23 @@
       "title": "Lea Verou’s blog",
       "feedUrl": "https://feeds.feedburner.com/leaverou",
       "siteUrl": "https://lea.verou.me/feed.xml",
-      "articles": [
-        {
-          "id": "https://lea.verou.me/blog/2025/state-of-html/",
-          "author": null,
-          "description": "tl;dr: State of HTML 2025 survey is now open!\nTake it now\nAbout two weeks ago, I announced that I was back leading this year’s State of HTML 2025 survey, after a one year hiatus.\nWe are grateful for all the suggestions that poured in, they were immensely helpful in shaping the survey.\nAfter two weeks of hard work from a small team spanning three continents, we are finally ready to launch!\nI would urge each and every one of you that works with the web platform to fill out this survey.\nIt’s a unique opportunity to have your voice heard in the browser vendors’ decision-making process.\nSurvey results are used by browsers to prioritize roadmaps — the reason Google is funding this.\nThe results from State of … surveys directly feed into prioritization for next year’s Interop project.\nTime spent t…",
-          "link": "https://lea.verou.me/blog/2025/state-of-html/",
-          "publishedOn": "2025-07-22T00:00:00.000Z",
-          "wordCount": 1156,
-          "title": "State of HTML 2025 now open!",
-          "imageUrl": "https://lea.verou.me/blog/2025/design-state-of-html/images/image.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "TEXT-MODE",
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/795142139740897280",
+          "author": null,
+          "description": "text-mode:\nBy CTRL+C & CTRL+V (2011)",
+          "link": "https://text-mode.tumblr.com/post/795142139740897280",
+          "publishedOn": "2025-09-19T18:30:36.000Z",
+          "wordCount": 922,
+          "title": "text-mode:\n\nBy CTRL+C & CTRL+V (2011)",
+          "imageUrl": "https://64.media.tumblr.com/8ae000c3d517aeae1ef987442add68bd/tumblr_mf9oxvh1df1rpiyaso1_640.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/795051554696724480",
           "author": null,
@@ -1407,16 +1406,6 @@
           "wordCount": 1017,
           "title": "text-mode:\n\nOn Gijs Gieskes’ website the visitor can draw these...",
           "imageUrl": "https://64.media.tumblr.com/6676e191316ecbb66c91aabc4654d395/tumblr_mjb5biTkhI1rpiyaso1_640.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/789706348810076161",
-          "author": null,
-          "description": "text-mode:\n1–2–3–Helsinki ! Design en Seine, an official satellite event of World Design Capital Helsinki 2012 in Paris. Designed by Esa Vesmanen (Pure Design)",
-          "link": "https://text-mode.tumblr.com/post/789706348810076161",
-          "publishedOn": "2025-07-21T18:31:02.000Z",
-          "wordCount": 1037,
-          "title": "text-mode:\n\n1–2–3–Helsinki ! Design en Seine, an official...",
-          "imageUrl": "https://64.media.tumblr.com/8255a3e64dd7ff8999ab797da7e44775/tumblr_mjlh4s52UM1rpiyaso1_1280.jpg"
         }
       ]
     },
@@ -1592,16 +1581,6 @@
           "wordCount": 9707,
           "title": "An Interactive Guide to SVG Paths",
           "imageUrl": "https://www.joshwcomeau.com/images/og-interactive-guide-to-paths.jpg"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/",
-          "author": "Josh W. Comeau",
-          "description": "SVGs are one of the most remarkable technologies we have access to on the web. They’re first-class citizens, fully addressable with CSS and JavaScript. In this tutorial, I’ll cover all of the most important fundamentals, and show you some of the ridiculously-cool things we can do with this massively underrated tool. ✨",
-          "link": "https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/",
-          "publishedOn": "2025-07-21T13:30:00.000Z",
-          "wordCount": 9014,
-          "title": "A Friendly Introduction to SVG",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-friendly-introduction-to-svg.png"
         }
       ]
     },
@@ -2097,6 +2076,96 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/25/09/0047551-physics-of-fluids-journal",
+          "author": null,
+          "description": "Physics of Fluids journal article: ‘Phase behavior of Cacio e Pepe sauce’. The authors found the dish entered the “Mozzarella Phase” when starch concentrations (relative to cheese) dropped below 1%, “corresponding to an unpleasant and separated sauce”.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/0047551-physics-of-fluids-journal",
+          "publishedOn": "2025-09-19T20:52:49.000Z",
+          "wordCount": 720,
+          "title": "Physics of Fluids journal article: &#8216;Phase behavior of Cacio e Pepe sauce&#8217;....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/09/0047550-matt-webb-gin-tonic",
+          "author": null,
+          "description": "Matt Webb: “Gin & tonic was invented by the East India Company to keep its colonising army safe [from malaria] in India. Bet the covid vaccine would have been more popular if it got you drunk.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/0047550-matt-webb-gin-tonic",
+          "publishedOn": "2025-09-19T20:11:41.000Z",
+          "wordCount": 753,
+          "title": "Matt Webb: &#8220;Gin & tonic was invented by the East India Company...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/09/a-brief-history-of-the-flatiron-building-1",
+          "author": null,
+          "description": "A photo of NYC’s Flatiron Building, taken in 1904 by Edward Steichen.\nFun fact: the Flatiron Building was not so named because of its resemblance to a clothes iron. It was actually named after the building’s owner, Archibald W. Flatiron.\nOk, not really. But *puts on mansplaining suspenders* the part about the building not being named after its resemblance to an iron is true. It was the piece of land that was so-named, long before the building was even built. A man named Amos Eno owned the property and it became known as “Eno’s flatiron”. The canny Eno, knowing his property was conveniently located right next to Madison Square, erected a screen on top of the small building at the very tip of the triangle and made it available for motion picture advertising in the 1870s. From Alice Alexiou’s…",
+          "link": "https://kottke.org/25/09/a-brief-history-of-the-flatiron-building-1",
+          "publishedOn": "2025-09-19T19:36:54.000Z",
+          "wordCount": 1288,
+          "title": "A Brief History of The Flatiron Building",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/flatiron-building-edward-steichen.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/09/0047542-inside-the-top-secret-vir",
+          "author": null,
+          "description": "Inside the Top Secret Virgil Abloh Archive. For the first time, a look into the fashion collection of the late Off-White and Louis Vuitton creative director.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/0047542-inside-the-top-secret-vir",
+          "publishedOn": "2025-09-19T18:47:01.000Z",
+          "wordCount": 727,
+          "title": "Inside the Top Secret Virgil Abloh Archive. For the first time, a...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/09/0047547-ai-developers-havent-figu",
+          "author": null,
+          "description": "“AI developers haven’t figured out a way to train their models not to scheme. That’s because such training could actually teach the model how to scheme even better to avoid being detected.” (The same is true for children.)",
+          "link": "https://kottke.org/25/09/0047547-ai-developers-havent-figu",
+          "publishedOn": "2025-09-19T17:53:37.000Z",
+          "wordCount": 635,
+          "title": "&#8220;AI developers haven&#8217;t figured out a way to train their models not...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/09/0047548-damn-interesting-celebrat",
+          "author": null,
+          "description": "Damn Interesting celebrates its 20th birthday. “In 2005, YouTube, reddit, and Facebook were all still wet and screaming infants.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/0047548-damn-interesting-celebrat",
+          "publishedOn": "2025-09-19T17:04:14.000Z",
+          "wordCount": 723,
+          "title": "Damn Interesting celebrates its 20th birthday. &#8220;In 2005, YouTube, reddit, and Facebook...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/09/0047543-gear-brands-with-a-lifeti",
+          "author": null,
+          "description": "Gear Brands With a Lifetime Warranty like Darn Tough Vermont, Osprey, Orvis, Patagonia, and Timbuk2.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/0047543-gear-brands-with-a-lifeti",
+          "publishedOn": "2025-09-19T15:55:59.000Z",
+          "wordCount": 1116,
+          "title": "Gear Brands With a Lifetime Warranty like Darn Tough Vermont, Osprey, Orvis,...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/09/crying-glacier",
+          "author": null,
+          "description": "A short documentary with the recorded sounds of a melting glacier.\nWhen you look at this gigantic mass of ice, it’s hard to get a personal relationship to it. So we wanted to document this landscape to give us an idea of what it sounds like inside a glacier. There is also the sadness because you know that all these sounds are disappearing right now. Of course, melting is something natural for glaciers, but the problem is that nothing new is coming back.\n\n\n        \n\n         \nTags: climate crisis · sound · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/crying-glacier",
+          "publishedOn": "2025-09-19T14:48:24.000Z",
+          "wordCount": 729,
+          "title": "Crying Glacier",
+          "imageUrl": "https://i.ytimg.com/vi/1AewKFS8uXg/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/09/0047546-a-1965-television-intervi",
+          "author": null,
+          "description": "A 1965 television interview with a 107-year-old Irish farmer (born in 1858) on all the changes he’s seen during his life. Q: “What would you say was the biggest change?” A: “Well, machinery.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/0047546-a-1965-television-intervi",
+          "publishedOn": "2025-09-19T13:26:35.000Z",
+          "wordCount": 938,
+          "title": "A 1965 television interview with a 107-year-old Irish farmer (born in 1858)...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/25/09/0047544-the-defining-experience-o",
           "author": null,
@@ -5655,106 +5724,6 @@
           "publishedOn": "2025-07-22T14:10:47.000Z",
           "wordCount": 767,
           "title": "Today (July 22) will be the second-shortest day since 1973. &#8220;The difference...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/07/the-most-observed-plants-animals-in-each-us-state",
-          "author": null,
-          "description": "XKCD mapped the most observed plant and animal for all 50 US states as reported by iNaturalist users. I had no idea bumble bees were such a popularly observed animal — the common eastern bumble bee (Bombus impatiens) is most-observed in Vermont, Wisconsin, Maine, Connecticut, Illinois, and Minnesota. Also popular: white-tailed deer, bison, milkweed, honeysuckle, and robins.\nTags: maps · Randall Munroe · USA · XKCD\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/07/the-most-observed-plants-animals-in-each-us-state",
-          "publishedOn": "2025-07-21T22:04:04.000Z",
-          "wordCount": 763,
-          "title": "The Most Observed Plants & Animals in Each US State",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/xkcd-plants-animals.jpg"
-        },
-        {
-          "id": "https://kottke.org/25/07/0047187-a-look-at-40-years",
-          "author": null,
-          "description": "A look at 40 years of Rembrandt self-portraits. “Rembrandt documented his face as it aged through time, from the fresh-faced playfulness of youth to his careworn old age.” He did about 100 self-portraits in total.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/07/0047187-a-look-at-40-years",
-          "publishedOn": "2025-07-21T21:01:29.000Z",
-          "wordCount": 717,
-          "title": "A look at 40 years of Rembrandt self-portraits. &#8220;Rembrandt documented his face...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/07/when-the-icebergs-came-to-town",
-          "author": null,
-          "description": "A few weeks ago, a pair of icebergs drifted close to Innaarsuit, Greenland. Photographer Dennis Lehtonen captured the visit — you can see the photos on Instagram or in the Arctic gallery on his website. From Colossal:\nA couple of weeks ago, Lehtonen and locals spotted an iceberg floating a few miles away, and even from the distance, he could tell it was large. Days later, it — actually a pair — slid into Innaarsuit, dwarfing the fishing village’s modest wooden houses.\nThe municipality was warned to be careful when on the coast and not to travel in large groups. Fragments occasionally broke off as the iceberg moved, creating a reverberating sound akin to thunder. Many locals also documented the phenomenon, despite being more accustomed to icebergs. “They would also tell me that this is the highest they have ever seen an iceberg rise above the houses,” Lehtonen says. “So it was definitely a special event.”\n\n\nThe images, especially the first one with the icebergs in the fog, reminded me of an alien visitation, like in Independence Day or, especially, Arrival. Cue the Jóhann Jóhannsson. (via colossal)\nTags: Dennis Lehtonen · Greenland · photography\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/07/when-the-icebergs-came-to-town",
-          "publishedOn": "2025-07-21T20:07:19.000Z",
-          "wordCount": 842,
-          "title": "When the Icebergs Came to Town",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/lehtonen-icebergs-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/25/07/0047185-gregor-formanek-is-likely",
-          "author": null,
-          "description": "Gregor Formanek is likely the very last SS guard of a concentration camp to be charged by German prosecutors. “Did he enjoy the power he had? Did he care? Did he find it boring? Did it make him uneasy?”",
-          "link": "https://kottke.org/25/07/0047185-gregor-formanek-is-likely",
-          "publishedOn": "2025-07-21T19:19:24.000Z",
-          "wordCount": 642,
-          "title": "Gregor Formanek is likely the very last SS guard of a concentration...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/07/how-to-flood-proof-a-hurricane-prone-florida-town",
-          "author": null,
-          "description": "In Florida, flooding is a huge cause of death and destruction from hurricanes. This video looks at how a town called Babcock Ranch was designed to withstand hurricane flooding through some smart engineering.\nYet this one town, Babcock Ranch, has been hit by four hurricanes and basically came out unscathed. There was no flooding at all. So we asked the engineer who helped build this town to break down its hidden designs.\n\n\nRelated: John Seabrook’s piece in this week’s New Yorker, In an Age of Climate Change, How Do We Cope with Floods? (archive).\nVermont feels like the frontier of climate change in the Northeast. Farmers in the bottomlands, who previously planted wheat and barley, are beginning to plant rice, which can be underwater for two days without damage to the crop. The old roads tha…",
-          "link": "https://kottke.org/25/07/how-to-flood-proof-a-hurricane-prone-florida-town",
-          "publishedOn": "2025-07-21T18:28:44.000Z",
-          "wordCount": 1052,
-          "title": "How to Flood-Proof a Hurricane-Prone Florida Town",
-          "imageUrl": "https://i.ytimg.com/vi/-mv_IiESpyY/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/25/07/0047183-the-alamo-announced-frida",
-          "author": null,
-          "description": "“The Alamo announced Friday a whimsical and nostalgic new addition to its growing collection: the original, screen-used stunt bike from the beloved 1985 film Pee-Wee’s Big Adventure.” Round of applause for everyone involved.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/07/0047183-the-alamo-announced-frida",
-          "publishedOn": "2025-07-21T17:31:13.000Z",
-          "wordCount": 751,
-          "title": "&#8220;The Alamo announced Friday a whimsical and nostalgic new addition to its...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/07/0047182-catherine-laceys-the-mobi",
-          "author": null,
-          "description": "Catherine Lacey’s The Möbius Book is both a memoir and a novel, does not have a beginning or an end, and is “readable from either side”.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/07/0047182-catherine-laceys-the-mobi",
-          "publishedOn": "2025-07-21T16:49:35.000Z",
-          "wordCount": 729,
-          "title": "Catherine Lacey&#8217;s The Möbius Book is both a memoir and a novel,...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/07/intricate-drawings-by-shunshun",
-          "author": null,
-          "description": "I am totally smitten with the intricate drawings of Japanese artist Shunshun. It’s worth clicking through to see them in detail. Here’s a look at his process:\n\nYou can follow Shunshun on Instagram.\nTags: art · Shunshun\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/07/intricate-drawings-by-shunshun",
-          "publishedOn": "2025-07-21T15:03:03.000Z",
-          "wordCount": 683,
-          "title": "Intricate Drawings by Shunshun",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/shunshun-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/25/07/0047178-terrible-nights-sleep-her",
-          "author": null,
-          "description": "“Terrible night’s sleep? Here’s how to make it through the day…” Maybe hold off on caffeine, limit carbs + easy energy, “snack” your exercise, get out in the sun, nap (but not too long), and head to bed at your normal time.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/07/0047178-terrible-nights-sleep-her",
-          "publishedOn": "2025-07-21T14:11:44.000Z",
-          "wordCount": 742,
-          "title": "&#8220;Terrible night&#8217;s sleep? Here&#8217;s how to make it through the day&#8230;&#8221; Maybe...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/07/0047170-a-remake-of-the-thomas",
-          "author": null,
-          "description": "A remake of The Thomas Crown Affair with Michael B. Jordan, Danai Gurira, Kenneth Branagh, and Lily Gladstone? Yeah, I’m into that.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/07/0047170-a-remake-of-the-thomas",
-          "publishedOn": "2025-07-21T13:35:17.000Z",
-          "wordCount": 718,
-          "title": "A remake of The Thomas Crown Affair with Michael B. Jordan, Danai...",
           "imageUrl": ""
         }
       ]
