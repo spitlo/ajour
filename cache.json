@@ -6,6 +6,16 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=8610",
+          "author": "Chris Heilmann",
+          "description": "When I moved to the UK at the tail end of the last millennium, I wasn’t in a good place. I was hired by a US company to work in their German office, and they sent me over to the US to work on their product. I lived in a hotel for a few months, […]",
+          "link": "https://christianheilmann.com/2025/09/25/as-i-remember-london/",
+          "publishedOn": "2025-09-25T12:08:53.000Z",
+          "wordCount": null,
+          "title": "As I remember London",
+          "imageUrl": null
+        },
+        {
           "id": "https://christianheilmann.com/?p=8596",
           "author": "Chris Heilmann",
           "description": "Cleaning out some old boxes trying to find an old work contract I came across a sticker sheet I got back when HTML5 became a standard that has all the icons on there the W3C defined as part of the “web reboot”: I posted it around on social media to see who can remember them […]",
@@ -236,16 +246,6 @@
           "publishedOn": "2025-08-13T01:59:51.000Z",
           "wordCount": 673,
           "title": "Death By Scrolling Part 4",
-          "imageUrl": "https://grumpygamer.com//images/dbs_title_media.png"
-        },
-        {
-          "id": "https://grumpygamer.com/deathbyscrolling3/",
-          "author": null,
-          "description": "We just got Death By Scrolling running on the Switch. We had to do some optimization because we were doing stupid stuff with rendering the tile map. Modern PC machines are so fast these days that you can do a lot of stupid stuff and it doesn’t matter. Back in the day (queue angry old man) I had to count cpu cycles and every byte of memory was precious.  Nowadays memory is basically infinite.\nBut it’s different for consoles, they do have a limited amount of memory and you do have to pay attention to performance.\nOne thing that really bothers me when I play Switch games ported from PC or other consoles is the lack of care over font size.  Things that look good on a big monitor or TV are unreadable on the Switch (and the Steamdeck).\nWe’ve taken great care to make everything big enough to be readable on handhelds, but it’s a real pain.  As a designer you want to cram enough information on each screen, especially for RPG-ish games.\nPeople get used to html/css rendering and how good it is at flowing to fill space and around images.  Games often don’t have text rendering engines that are that complex (using a html/css engine internally is overkill).\nOne of the big upgrades I want to do to my engine is better text flow rendering, it will never be as good as html/css in the browser, but it could be a lot better/easier. It’s one of the things I’m envious of Godot.",
-          "link": "https://grumpygamer.com/deathbyscrolling3/",
-          "publishedOn": "2025-07-27T22:13:23.000Z",
-          "wordCount": 333,
-          "title": "Death By Scrolling Part 3",
           "imageUrl": "https://grumpygamer.com//images/dbs_title_media.png"
         }
       ]
@@ -510,16 +510,6 @@
           "wordCount": 212,
           "title": "Bad Map Projection: Interrupted Spheres",
           "imageUrl": "https://imgs.xkcd.com/comics/bad_map_projection_interrupted_spheres_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3121/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/kite_incident.png\" title=\"Detectives say the key to tracking down the source of the kites was a large wall map covered in thumbtacks and string. 'It's the first time that method has ever actually worked,' said a spokesperson.\" alt=\"Detectives say the key to tracking down the source of the kites was a large wall map covered in thumbtacks and string. 'It's the first time that method has ever actually worked,' said a spokesperson.\" />",
-          "link": "https://xkcd.com/3121/",
-          "publishedOn": "2025-07-28T00:00:00.000Z",
-          "wordCount": 206,
-          "title": "Kite Incident",
-          "imageUrl": "https://imgs.xkcd.com/comics/kite_incident_2x.png"
         }
       ]
     },
@@ -528,6 +518,16 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "signal-pollution",
+          "author": null,
+          "description": "Very recently I was forced to sign up to Meta due to a product purchase (don't at-me!) and I had forgotten what it was like to be part of the algorithms. Our entire family browse the internet (the web and internet) from behind a DNS proxy that blocks a lot of social media including Facebook/Meta/Insta/whatever it's actually called.\nUnblocking these different services just to get a physical product to work (naively I thought it worked mostly offline) felt like I was exposing myself to a pretty gross network.\nThen had to make an account for my child, whom if there were over the age of 10 and under the age of 13, could be managed under my account. Once they turned 13 (in the eyes of Meta) they were completely unrestricted (which I've got A LOT to say about, but I digress).\nThis combined with …",
+          "link": "https://remysharp.com/2025/09/25/signal-pollution",
+          "publishedOn": "2025-09-25T00:00:00.000Z",
+          "wordCount": 973,
+          "title": "Signal Pollution [blog]",
+          "imageUrl": "https://remysharp.com/images/cards/og/9-7.jpg"
+        },
         {
           "id": "fifteen",
           "author": null,
@@ -807,6 +807,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/795685769572417536",
+          "author": null,
+          "description": "text-mode:\n‘Everybody rescue’ by asciiart (2011).",
+          "link": "https://text-mode.tumblr.com/post/795685769572417536",
+          "publishedOn": "2025-09-25T18:31:22.000Z",
+          "wordCount": 1007,
+          "title": "text-mode:\n\n‘Everybody rescue’ by asciiart (2011).",
+          "imageUrl": "https://64.media.tumblr.com/tumblr_ma96oj7Ezy1rpiyaso1_640.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/795595159484104704",
           "author": null,
@@ -1396,16 +1406,6 @@
           "wordCount": 1001,
           "title": "text-mode:\n\nBackseat Releases- Orlingo “One Time Too Much” 7...",
           "imageUrl": "https://64.media.tumblr.com/8af9ffe227e4a655a045ece3a38f402d/tumblr_miz3ehzc5N1rpiyaso1_1280.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/790249910541991936",
-          "author": null,
-          "description": "text-mode:\nSome teletext/videotex standards works with more than just alphanumerical characters. Like the Canadian Telidon, which used vector graphics. These are Telidon images, made by Jacques Palumbo in 1986.\nMeanwhile in Japan, videotex was more complex: it was alphaphotographic. That is a combination of text and hi-res photos. It supposedly worked like a fax machine for the TV. Pic or it didn’t happen?",
-          "link": "https://text-mode.tumblr.com/post/790249910541991936",
-          "publishedOn": "2025-07-27T18:30:43.000Z",
-          "wordCount": 1066,
-          "title": "text-mode:\n\nSome teletext/videotex standards works with more...",
-          "imageUrl": "https://64.media.tumblr.com/77213590526a395170d3b6f5cd3259f6/tumblr_mj5wb0kIcE1rpiyaso2_1280.jpg"
         }
       ]
     },
@@ -1625,6 +1625,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=11653",
+          "author": "Cory Doctorow",
+          "description": "Today's links Rage Against the (Algorithmic Management) Machine: What unions could (must!) do about app-based work. Hey look at this: Delights to delectate. Object permanence: Dieselgate for everything; Roca Labs stops gagging, Adventures of a Dwergish Girl; the Batmobile is a copyrighted character. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Rage Against the (Algorithmic Management) Machine (permalink) \"Negotiating the Algorithm\" is an incredibly exciting, visionary report on the ways that organized labor can and should respond to \"algorithmic management\" – all the ways in which bosses have turned your mobile phone into your…",
+          "link": "https://pluralistic.net/2025/09/25/roboboss/",
+          "publishedOn": "2025-09-25T15:10:24.000Z",
+          "wordCount": 3839,
+          "title": "Pluralistic: Rage Against the (Algorithmic Management) Machine (25 Sep 2025)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=11648",
           "author": "Cory Doctorow",
@@ -2085,6 +2095,136 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/25/09/0047583-for-more-than-a-century",
+          "author": null,
+          "description": "For more than a century in the 18th & 19th centuries, an edited version of Romeo & Juliet, with “a 67-line final conversation between Romeo and Juliet”, was more popular than Shakespeare’s original.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/0047583-for-more-than-a-century",
+          "publishedOn": "2025-09-25T23:17:23.000Z",
+          "wordCount": 741,
+          "title": "For more than a century in the 18th & 19th centuries, an...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/09/0047592-a-four-year-old-mystery-f",
+          "author": null,
+          "description": "A four-year-old mystery finally solved: who was the awkwardly tall stranger at our wedding? “Who was the tall man in a dark suit, distinguished by the look of quiet mortification on his face?” Love the reason he was there.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/0047592-a-four-year-old-mystery-f",
+          "publishedOn": "2025-09-25T22:19:27.000Z",
+          "wordCount": 715,
+          "title": "A four-year-old mystery finally solved: who was the awkwardly tall stranger at...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/09/engineering-lego-cars-to-climb-increasingly-tall-walls",
+          "author": null,
+          "description": "I haven’t gotten my Brick Technology fix in awhile, so here’s a video featuring a series of more and more capable Lego vehicles climbing over taller and taller walls. As I have written before, here’s what makes these videos so compelling:\nThey’re not even really about Lego…that’s just the playful hook to get you through the door. They’re really about science and engineering — trial and error, repeated failure, iteration, small gains, switching tactics when confronted with dead ends, how innovation can result in significant advantages. Of course, none of this is unique to engineering; these are all factors in any creative endeavor — painting, sports, photography, writing, programming. But the real magic here is seeing it all happen in just a few minutes.\n\n\nSee also their recent video about Lego cars crossing a treadmill bridge. (via the kid should see this)\nTags: Lego · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/engineering-lego-cars-to-climb-increasingly-tall-walls",
+          "publishedOn": "2025-09-25T21:21:30.000Z",
+          "wordCount": 799,
+          "title": "Engineering Lego Cars to Climb Increasingly Tall Walls",
+          "imageUrl": "https://i.ytimg.com/vi/5t1HLv3IXMM/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/09/0047596-from-eater-a-list-of",
+          "author": null,
+          "description": "From Eater, a list of the 38 most essential & influential US restaurants of the past 20 years. The list includes Momofuku Ssäm Bar, Via Carota, Husk, Alinea, Nong’s Khao Man Gai, Mission Chinese Food, and Gjelina.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/0047596-from-eater-a-list-of",
+          "publishedOn": "2025-09-25T20:32:27.000Z",
+          "wordCount": 710,
+          "title": "From Eater, a list of the 38 most essential & influential US...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/09/0047590-how-to-be-a-good",
+          "author": null,
+          "description": "How to Be a Good Literary Citizen (in Seven Easy Steps). “The most important rule of literary citizenship is to show up. Showing up can mean a number of things: attending events at your local bookstore or library, volunteering…”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/0047590-how-to-be-a-good",
+          "publishedOn": "2025-09-25T19:43:08.000Z",
+          "wordCount": 743,
+          "title": "How to Be a Good Literary Citizen (in Seven Easy Steps). &#8220;The...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/09/0047597-the-black-hole-that-could",
+          "author": null,
+          "description": "The Black Hole That Could Rewrite Cosmology. Astronomers may have found a primordial black hole, perhaps formed by quantum fluctuations during post-Big Bang inflation “before any stars had yet appeared”.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/0047597-the-black-hole-that-could",
+          "publishedOn": "2025-09-25T18:58:24.000Z",
+          "wordCount": 705,
+          "title": "The Black Hole That Could Rewrite Cosmology. Astronomers may have found a...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/09/0047595-former-nba-star-reggie-mi",
+          "author": null,
+          "description": "Former NBA star Reggie Miller’s neighbors got him hooked on mountain biking. “I was still in basketball shape. And they destroyed me. Being out there on the mountain bike, I was like ‘oh my God this is so fun!’ And that’s what got me hooked.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/0047595-former-nba-star-reggie-mi",
+          "publishedOn": "2025-09-25T18:14:33.000Z",
+          "wordCount": 745,
+          "title": "Former NBA star Reggie Miller&#8217;s neighbors got him hooked on mountain biking....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/09/the-music-of-the-everyday",
+          "author": null,
+          "description": "Artist and composer Matthew Wilcock looks for patterns in the everyday and creates music from them. It’s easier to quickly watch an example than to explain:\n\n\nInstantly thought of the video for Star Guitar by The Chemical Brothers, directed by Michel Gondry. They also seem like the sort of videos you would have found on Mister Rodgers’ or Sesame Street back in the day.\nIn addition to traffic, Wilcock has made music with people on escalators:\nEach escalator and path is assigned three notes and they alternate between those as the person’s head breaks the line. Lowest note closest to camera, highest furtherest away. I love the idea of involving all these people unknowingly in an artwork. Recorded in Liverpool St. station, London.\n\n\n\nAnd a bird eating:\n\nFactory workers:\n\nBees:\n\nYou can find more of these video compositions on Wilcock’s YouTube channel and Instagram. He’s most active (and popular) on Insta; check out his Tour de France and swingset videos there. (thx, andy)\nTags: art · Matthew Wilcock · music · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/the-music-of-the-everyday",
+          "publishedOn": "2025-09-25T17:29:39.000Z",
+          "wordCount": 862,
+          "title": "The Music of the Everyday",
+          "imageUrl": "https://i.ytimg.com/vi/kdexv1MxcNM/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/09/0047588-zadie-smith-in-my-experie",
+          "author": null,
+          "description": "Zadie Smith: “In my experience, every kind of writing requires some kind of self-soothing Jedi mind trick, and, when it comes to essay composition, the rectangle is mine.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/0047588-zadie-smith-in-my-experie",
+          "publishedOn": "2025-09-25T16:46:44.000Z",
+          "wordCount": 727,
+          "title": "Zadie Smith: &#8220;In my experience, every kind of writing requires some kind...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/09/the-hummingbird-bike",
+          "author": null,
+          "description": "Gooood lord, just look at this exquisite handmade bike, a collaboration between British design collective Tomato1 and Shinichi Konno of Cherubim.\n\nKarl Hyde and Rick Smith of the electronic group Underworld are Tomato co-founders. I found my way to this bike after watching Underworld’s recent Boiler Room set.’↩\n\nTags: bicycles · biking · design · Shinichi Konno · Tomato · Underworld\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/the-hummingbird-bike",
+          "publishedOn": "2025-09-25T16:03:01.000Z",
+          "wordCount": 809,
+          "title": "The Hummingbird Bike",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/hummingbird-bike.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/09/0047587-new-issue-of-laura-olins",
+          "author": null,
+          "description": "New issue of Laura Olin’s newsletter, full of good stuff. “I had forgotten that the Statue of Liberty was, upon installation, brown.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/0047587-new-issue-of-laura-olins",
+          "publishedOn": "2025-09-25T15:21:22.000Z",
+          "wordCount": 779,
+          "title": "New issue of Laura Olin&#8217;s newsletter, full of good stuff. &#8220;I had...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/09/0047585-two-slice-is-a-bitmappy",
+          "author": null,
+          "description": "Two Slice is a bitmappy font that’s only two pixels tall and “somewhat readable”.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/09/0047585-two-slice-is-a-bitmappy",
+          "publishedOn": "2025-09-25T14:41:02.000Z",
+          "wordCount": 666,
+          "title": "Two Slice is a bitmappy font that&#8217;s only two pixels tall and...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/09/0047584-fantastic-essay-by-roxane",
+          "author": null,
+          "description": "Fantastic essay by Roxane Gay: Civility Is a Fantasy. “Calling for civility is about exerting power. It is a way of reminding the powerless that they exist at the will of those in power and should act accordingly. It is a demand for control.”",
+          "link": "https://kottke.org/25/09/0047584-fantastic-essay-by-roxane",
+          "publishedOn": "2025-09-25T14:02:48.000Z",
+          "wordCount": 640,
+          "title": "Fantastic essay by Roxane Gay: Civility Is a Fantasy. &#8220;Calling for civility...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/25/09/0047582-steamed-hams-but-its-a",
           "author": null,
