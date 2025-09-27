@@ -262,6 +262,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3147/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/hiking.png\" title=\"Every downhill walk is a waterslide that might have been.\" alt=\"Every downhill walk is a waterslide that might have been.\" />",
+          "link": "https://xkcd.com/3147/",
+          "publishedOn": "2025-09-26T00:00:00.000Z",
+          "wordCount": 204,
+          "title": "Hiking",
+          "imageUrl": "https://imgs.xkcd.com/comics/hiking_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3146/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/fantastic_four.png\" title=\"One perk of being born at 0.88c is that your birthday is over two days long.\" alt=\"One perk of being born at 0.88c is that your birthday is over two days long.\" />",
@@ -794,7 +804,18 @@
       "title": "esoteric.codes",
       "feedUrl": "https://esoteric.codes/rss",
       "siteUrl": "https://esoteric.codes",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://esoteric.codes/blog/forty-four-esolangs-an-artists-monograph-of-programming-languages",
+          "author": null,
+          "description": "I have two pieces of esolang news: one personal, the other about this blog.\n\r\nFirst, a collection of my esolang work is now out with MIT Press. A sampling of the languages are posted on my site, but that list leans toward the implemented, which excludes some of the more poetic, less implementable langs. The book, like this blog, celebrates playing at the edges of language and code, with some results far from our physical machines. It was a blast to write and forced me to work through on my whole to-do list of esolang ideas: which still resonated for me, and how they might become fully realized. Do I really want to define a language that entirely escapes the act of articulation? (Yes, of course I do!) You can read the preface here. There's more in this piece for IEEE Spectrum and this podcast with Sam Arbesman, author of the brilliant Magic of Code.\nRead More",
+          "link": "https://esoteric.codes/blog/forty-four-esolangs-an-artists-monograph-of-programming-languages",
+          "publishedOn": "2025-09-26T13:37:00.000Z",
+          "wordCount": 739,
+          "title": "Forty-Four Esolangs: an artist's monograph of programming languages",
+          "imageUrl": "https://esoteric.codes/uploads/05ad9a32-a35c-4433-8677-75f1031b2171/forty_four_cover_front_half.jpg"
+        }
+      ]
     },
     {
       "title": "Lea Verou’s blog",
@@ -807,6 +828,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/795776327866302464",
+          "author": null,
+          "description": "text-mode:\nVenus de Milo, by Delaware 2005.",
+          "link": "https://text-mode.tumblr.com/post/795776327866302464",
+          "publishedOn": "2025-09-26T18:30:45.000Z",
+          "wordCount": 992,
+          "title": "text-mode:\n\nVenus de Milo, by Delaware 2005.",
+          "imageUrl": "https://64.media.tumblr.com/tumblr_me81odWsGk1rpiyaso1_500.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/795685769572417536",
           "author": null,
@@ -1396,16 +1427,6 @@
           "wordCount": 1055,
           "title": "text-mode:\n\nCommodore 64 disk directories:Wildfire [1997] by...",
           "imageUrl": "https://64.media.tumblr.com/930fb886a5ff80776b32686eec8e9526/tumblr_mj4xpdEJex1rpiyaso1_500.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/790340507844952064",
-          "author": null,
-          "description": "text-mode:\nBackseat Releases\n- Orlingo “One Time Too Much” 7 inch (2003)\n- Mortimer “Ageema Blues” 7 inch (2003)",
-          "link": "https://text-mode.tumblr.com/post/790340507844952064",
-          "publishedOn": "2025-07-28T18:30:43.000Z",
-          "wordCount": 1001,
-          "title": "text-mode:\n\nBackseat Releases- Orlingo “One Time Too Much” 7...",
-          "imageUrl": "https://64.media.tumblr.com/8af9ffe227e4a655a045ece3a38f402d/tumblr_miz3ehzc5N1rpiyaso1_1280.jpg"
         }
       ]
     },
@@ -1558,16 +1579,6 @@
           "wordCount": 1402,
           "title": "Anthony Enzor-DeMeo promoted to General Manager, Firefox",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2025/03/Mozilla-Blog-Thumbnail@2x-1080x720.png"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=81321",
-          "author": "Jennifer Guerra",
-          "description": "For marketers, understanding how a campaign performed shouldn’t come at the cost of ceding proprietary data, or time-consuming integration acrobatics, with the platforms they run on. But that’s often the tradeoff they encounter, particularly when it comes to measuring impact on closed platforms or in privacy-sensitive environments like iOS.  Taimi, an LGBTQ+ dating app that […]\nThe post Lightning performance, protecting PII: Taimi’s privacy-first TikTok campaign appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/advertising/anonym/taimi/",
-          "publishedOn": "2025-07-28T13:00:00.000Z",
-          "wordCount": 1916,
-          "title": "Lightning performance, protecting PII: Taimi’s privacy-first TikTok campaign",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2025/07/Distilled_TaimiAnonym2@2x-1-1080x720.png"
         }
       ]
     },
@@ -1618,13 +1629,34 @@
       "title": "A List Apart: The Full Feed",
       "feedUrl": "https://alistapart.com/main/feed/",
       "siteUrl": "https://alistapart.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://alistapart.com/article/design-dialects-breaking-the-rules-not-the-system/",
+          "author": "by",
+          "description": "\"Language is not merely a set of unrelated sounds, clauses, rules, and meanings; it is a totally coherent system bound to context and behavior.\" — Kenneth L. Pike\nThe web has accents. So should our design systems.\nDesign Systems as Living Languages\nDesign systems aren't component libraries—they’re living languages. Tokens are phonemes, components are words, patterns are phrases, layouts are sentences. The conversations we build with users become the stories our products tell.\nBut here’s what we've forgotten: the more fluently a language is spoken, the more accents it can support without losing meaning. English in Scotland differs from English in Sydney, yet both are unmistakably English. The language adapts to context while preserving core meaning. This couldn’t be more obvious to me, a Br…",
+          "link": "https://alistapart.com/article/design-dialects-breaking-the-rules-not-the-system/",
+          "publishedOn": "2025-09-26T16:48:12.000Z",
+          "wordCount": 3131,
+          "title": "Design Dialects: Breaking the Rules, Not the System",
+          "imageUrl": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9hbGlzdGFwYXJ0LmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxOVwvMDNcL2Nyb3BwZWQtaWNvbl9uYXZpZ2F0aW9uLWxhdXJlbC01MTIuanBnP2ZpdD01MTIlMkM1MTImc3NsPTEiLCJ0eHQiOiJBIExpc3QgQXBhcnQiLCJ0ZW1wbGF0ZSI6ImVkZ2UiLCJmb250IjoiIiwiYmxvZ19pZCI6MTU4MDk0NzI2fQ.newTojEDtdGzV9hV6wY9Zx7WZCMjPNGV0-ORSKXaGUYMQ"
+        }
+      ]
     },
     {
       "title": "Pluralistic: Daily links from Cory Doctorow",
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=11663",
+          "author": "Cory Doctorow",
+          "description": "Today's links Apple threatens to stop selling iPhones in the EU: Yeah, right. Hey look at this: Delights to delectate. Object permanence: Thomas Ligotti's anhedonic philosophy; Catalan elections; Molly Crabapple's Syria. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Apple threatens to stop selling iPhones in the EU (permalink) Apple has threatened to stop selling iPhones and other devices in the European Union (home to over 500,000,000 affluent consumers) if the bloc doesn't rescind the Digital Markets Act, a democratically accountable anti-monopoly law that bans Apple from blocking third parties from offering services to iPhon…",
+          "link": "https://pluralistic.net/2025/09/26/empty-threats/",
+          "publishedOn": "2025-09-26T15:08:14.000Z",
+          "wordCount": 3797,
+          "title": "Pluralistic: Apple threatens to stop selling iPhones in the EU (26 Sep 2025)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=11653",
           "author": "Cory Doctorow",
@@ -2059,16 +2091,6 @@
           "wordCount": 3278,
           "title": "Pluralistic: Boss-politics antitrust and the MAGA crackup (29 Jul 2025)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=11264",
-          "author": "Cory Doctorow",
-          "description": "Today's links How twiddling enshittifies your brain: They preferentially mess with the stuff you rely on the most. Hey look at this: Delights to delectate. Object permanence: Used books economics; Adbusters sf; Branson vs virgins; Shark knife; Protesters must pledge souls to Satan; Cop \"unions\" aren't; Afterland. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. How twiddling enshittifies your brain (permalink) \"If your customers are too happy, you're leaving money on the table\": it's the rallying cry of the enshittifier, and it's also what a friend of mine was told by a respected professor in a top-tier MBA program. Enshittificati…",
-          "link": "https://pluralistic.net/2025/07/28/twiddlehazard/",
-          "publishedOn": "2025-07-28T19:37:50.000Z",
-          "wordCount": 4416,
-          "title": "Pluralistic: How twiddling enshittifies your brain (28 Jul 2025)",
-          "imageUrl": null
         }
       ]
     },
@@ -2095,6 +2117,16 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/25/09/taking-the-day",
+          "author": null,
+          "description": "Hello fronds and anemones. Tomorrow is my birthday so I am taking today off. I’ll see you back here on Monday.\nBut before I go: I pushed some changes to how videos work on the site (after a bunch of feedback). The default behavior is now: you click on a video and it plays. If you hold “b” (for lightbox) while clicking, the video will play in a widescreen lightbox. Also, the escape key will now close the video and the lightbox is better about resizing so that the bottom of the videos don’t get cut off (thanks to Christophe for the CSS fix).\nI don’t think this is the forever solution (it doesn’t address folks who want to open the videos on YouTube or Vimeo in a new tab), but I wanted to get something out there while I figure out the rest.\nTags: kottke.org",
+          "link": "https://kottke.org/25/09/taking-the-day",
+          "publishedOn": "2025-09-26T15:33:52.000Z",
+          "wordCount": 710,
+          "title": "Taking the Day",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/sea-anemone.jpg"
+        },
         {
           "id": "https://kottke.org/25/09/0047583-for-more-than-a-century",
           "author": null,
@@ -5713,126 +5745,6 @@
           "publishedOn": "2025-07-29T14:05:50.000Z",
           "wordCount": 1231,
           "title": "An analysis of every word that&#8217;s visible on NYC&#8217;s streets (from 18...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/07/0047227-season-4-of-star-trek",
-          "author": null,
-          "description": "Season 4 of Star Trek: Strange New Worlds is going to feature an episode where all the characters are Muppetized (with puppets created by Jim Henson’s Creature Shop). I love this show.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/07/0047227-season-4-of-star-trek",
-          "publishedOn": "2025-07-29T00:25:38.000Z",
-          "wordCount": 743,
-          "title": "Season 4 of Star Trek: Strange New Worlds is going to feature...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/07/0047229-a-list-of-the-top",
-          "author": null,
-          "description": "A list of the top 100 “most innovative, influential, and informative” podcasts of all time. The list includes 99% Invisible, The Big Dig, Code Switch, Heavyweight, In Our Time, Radiolab, Slow Burn, and You’re Wrong About.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/07/0047229-a-list-of-the-top",
-          "publishedOn": "2025-07-28T23:10:47.000Z",
-          "wordCount": 701,
-          "title": "A list of the top 100 &#8220;most innovative, influential, and informative&#8221; podcasts...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/07/is-this-the-best-downhill-mountain-biker-in-the-world",
-          "author": null,
-          "description": "Meet Jackson Goldstone. He’s 6 years old, lives in British Columbia, and is already ripping it up on his bike. Here’s a video of him taking the long way around on his way to kindergarten:\n\nWow, if he keeps riding and improving, I wonder how good this kid could be? Ok, I’m funning you a little bit because that was several years ago and Jackson is starring in GoPro videos at the age of 10 and riding the hardest trails faster and better than many adult riders:\n\nI mean, I think Jackson could really be world-class some da— Ha, more tricks! Jackson is actually 21 years old here in the present of 2025 and is actually now one of the best downhill mountain bikers in the world. Here’s the POV video from a recent win of his:\n\nThere are a couple of notable things about this video:\n1. Watch the way he goes through a bunch of tree stumps at full tilt at ~1:10 by basically jumping over the whole thing with a couple of quick hops. Adjust the playback speed of the video to 0.5 or 0.25 to see how he does it. I’ve watched this like 10 times and it’s still bonkers.\n2. And then at ~1:52, he screams through a tunnel and gaps directly onto a wooden berm — and you can hear how the crowd reacts. Here’s another view of that same gap and the rest of his run:\n\nOther riders clear that gap too, but somehow not as big or direct as Jackson does it. I don’t actually know enough about mtn biking to know how Goldstone is doing what he’s doing, but if you want a hint, check out the “Bike Jesus” section of this video that starts at ~5:30:\n\n3. Oh yeah, and just how ungodly fast he and the other riders are going past trees and through rocks and all sorts of other lurking assailants. Blimey.\nTags: biking · cycling · Jackson Goldstone · sports · video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/07/is-this-the-best-downhill-mountain-biker-in-the-world",
-          "publishedOn": "2025-07-28T22:26:52.000Z",
-          "wordCount": 1596,
-          "title": "Is This the Best Downhill Mountain Biker in the World?",
-          "imageUrl": "https://i.ytimg.com/vi/9aimt8dmLng/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/25/07/0047235-is-starvation-in-gaza-rea",
-          "author": null,
-          "description": "Is starvation in Gaza really Israel’s fault? The facts are clear. “Israeli officials have, for months — indeed, since the start of the war — not only admitted to working to restrict the aid that makes its way to Gaza, but bragged about doing so.”",
-          "link": "https://kottke.org/25/07/0047235-is-starvation-in-gaza-rea",
-          "publishedOn": "2025-07-28T21:23:33.000Z",
-          "wordCount": 636,
-          "title": "Is starvation in Gaza really Israel&#8217;s fault? The facts are clear. &#8220;Israeli...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/07/0047230-another-piece-from-hitler",
-          "author": null,
-          "description": "Another piece from Hitler scholar Timothy Ryback that is uncomfortably resonant today: What Happened When Hitler Took On Germany’s Central Banker.",
-          "link": "https://kottke.org/25/07/0047230-another-piece-from-hitler",
-          "publishedOn": "2025-07-28T20:54:17.000Z",
-          "wordCount": 602,
-          "title": "Another piece from Hitler scholar Timothy Ryback that is uncomfortably resonant today:...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/07/0047232-jose-andres-the-world-can",
-          "author": null,
-          "description": "José Andrés: The World Cannot Stand By With Gaza on the Brink of Famine. “There is no excuse for the world to stand by and watch two million human beings suffer on the brink of full-blown famine.”",
-          "link": "https://kottke.org/25/07/0047232-jose-andres-the-world-can",
-          "publishedOn": "2025-07-28T20:05:08.000Z",
-          "wordCount": 626,
-          "title": "José Andrés: The World Cannot Stand By With Gaza on the Brink...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/07/0047226-til-the-etymology-of-boyc",
-          "author": null,
-          "description": "TIL the etymology of boycott. “When Boycott set about evicting 11 tenants, the locals had had enough. The Mayo branch of the Irish Land League urged Boycott’s employees to withdraw their labor and began a campaign of isolation against Boycott.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/07/0047226-til-the-etymology-of-boyc",
-          "publishedOn": "2025-07-28T17:51:18.000Z",
-          "wordCount": 711,
-          "title": "TIL the etymology of boycott. &#8220;When Boycott set about evicting 11 tenants,...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/07/all-the-dogs-explained",
-          "author": null,
-          "description": "From MinuteEarth, a quick tour of all the different kinds of dogs in the world, wild & domesticated, and how they are related to each other.\nGreat Danes are the tallest dogs in the world. Standing on his hind legs, the Great Dane Zeus was taller than Shaq. He could drink directly from the kitchen sink.\n\n\n        \n\n         \nTags: dogs · science · video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/07/all-the-dogs-explained",
-          "publishedOn": "2025-07-28T16:59:29.000Z",
-          "wordCount": 698,
-          "title": "All the Dogs, Explained",
-          "imageUrl": "https://i.ytimg.com/vi/tuRl8moQbXU/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/25/07/0047222-watch-this-chinese-ev-mak",
-          "author": null,
-          "description": "Watch this: Chinese EV maker BYD built a driverless car that can *jump over potholes*, has a top speed of 243mph, and can charge from 30% to 80% battery in 10 minutes. It’s a Mario Kart World kart IRL — hold ZR to Charge Jump!\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/07/0047222-watch-this-chinese-ev-mak",
-          "publishedOn": "2025-07-28T15:46:05.000Z",
-          "wordCount": 791,
-          "title": "Watch this: Chinese EV maker BYD built a driverless car that can...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/07/0047221-new-york-times-style-guid",
-          "author": null,
-          "description": "New York Times’ Style Guide Substitutions for “The President Violated the Constitution”. “The president, tiptoeing precipitously down the sidelines of legality, inadvertently ran the constitutional football out of bounds.”",
-          "link": "https://kottke.org/25/07/0047221-new-york-times-style-guid",
-          "publishedOn": "2025-07-28T14:52:15.000Z",
-          "wordCount": 618,
-          "title": "New York Times&#8217; Style Guide Substitutions for &#8220;The President Violated the Constitution&#8221;....",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/07/0047220-two-leading-human-rights-",
-          "author": null,
-          "description": "“Two leading human rights organisations based in Israel, B’Tselem and Physicians for Human Rights, say Israel is committing genocide against Palestinians in Gaza and the country’s western allies have a legal and moral duty to stop it.”",
-          "link": "https://kottke.org/25/07/0047220-two-leading-human-rights-",
-          "publishedOn": "2025-07-28T14:12:47.000Z",
-          "wordCount": 621,
-          "title": "&#8220;Two leading human rights organisations based in Israel, B&#8217;Tselem and Physicians for...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/07/0047219-is-this-the-beginning-of",
-          "author": null,
-          "description": "Is this the beginning of the end of HIV/AIDS? Lenacapavir “offers 100% protection” against contracting HIV and there are already 6 generic manufacturers lined up to produce the drug under royalty-free licensing agreements.",
-          "link": "https://kottke.org/25/07/0047219-is-this-the-beginning-of",
-          "publishedOn": "2025-07-28T13:34:35.000Z",
-          "wordCount": 650,
-          "title": "Is this the beginning of the end of HIV/AIDS? Lenacapavir &#8220;offers 100%...",
           "imageUrl": ""
         }
       ]
