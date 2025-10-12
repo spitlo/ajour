@@ -93,6 +93,16 @@
       "siteUrl": null,
       "articles": [
         {
+          "id": "https://www.stavros.io/posts/switch-to-jujutsu-already-a-tutorial/",
+          "author": null,
+          "description": "If you don't like Jujutsu, you're wrong\nAs all developers, I’ve been using git since the dawn of time, since its commands were an inscrutable jumble of ill-fitting incantations, and it has remained this way until today.\nNeedless to say, I just don’t get git.\nI never got it, even though I’ve read a bunch of stuff on how it represents things internally.\nI’ve been using it for years knowing what a few commands do, and whenever it gets into a weird state because I fat-fingered something, I have my trusty alias, fuckgit, that deletes the .git directory, clones the repo again into a temp folder, and moves the .git directory from that into my directory, and I’ve managed to eke out a living for my family this way.\nOver the past few years, I’ve been seeing people rave about Jujutsu, and I always wanted to try it, but it never seemed worth the trouble, even though I hate git.\nI idly read a few tutorials, trying to understand how it works, but in the end I decided it wasn’t for me.\nOne day I randomly decided to try again, but this time I asked Claude how to do with Jujutsu whatever operation I wanted to do with git.\nThat’s when the mental model of jj clicked for me, and I finally understood everything, including how git works.\nI never thought a VCS would spark joy in me, but here we are, and I figured maybe I can write something that will make jj click for you as well.\nIt also doesn’t hurt that Jujutsu is completely interoperable with git (and thus with providers like GitHub), and I can have all the power of Jujutsu locally on my git repos, without anyone knowing I’m not actually using git.\nThe problem\nThe problem I had with the other tutorials, without realizing it, was that",
+          "link": "https://www.stavros.io/posts/switch-to-jujutsu-already-a-tutorial/",
+          "publishedOn": "2025-10-10T21:13:48.000Z",
+          "wordCount": 4182,
+          "title": "Switch to Jujutsu already: a tutorial",
+          "imageUrl": "https://www.stavros.io/static/images/favicons/og-image.jpg?h=24586483"
+        },
+        {
           "id": "https://www.stavros.io/posts/really-small-led-panel/",
           "author": null,
           "description": "It's small\nI bought a really small 8x8 LED panel a while ago because I have a problem.\nI just can’t resist a nice WS2812 LED panel, much like I can’t resist an e-ink display.\nThese days I manage to stay sober, but once in a while I’ll see a nice cheap LED panel and fall off the wagon.\nIt has now been thirteen minutes that I have gone without buying LED panels, and this is",
@@ -268,16 +278,6 @@
           "publishedOn": "2025-08-19T02:25:32.000Z",
           "wordCount": 105,
           "title": "Death By Scrolling Announcement",
-          "imageUrl": "https://grumpygamer.com//images/dbs_title_media.png"
-        },
-        {
-          "id": "https://grumpygamer.com/deathbyscrolling4/",
-          "author": null,
-          "description": "I was having a discussion with someone on Mastodon about unit testing games and how it is a next to impossible job.  Once clarified, I think we saw eye-to-eye on it, but I do hear about it a lot, mostly from programmers that don’t live in game dev.\nTesting games is hard. So much of what fails during testing is due to random behavior by the player. Them doing something you didn’t anticipate.\nI break testing down to three groups.\n1 - Unit testing\nThis is what I hear about the most and how this would be a good way to test games. It is not. Unit testing will test code components of your game, but not the game.  If you have a sorting routine, this will test that, but it has little effect on testing your game.\nI do unit testing, mostly on the engine commands. This get run once a week or when I a…",
-          "link": "https://grumpygamer.com/deathbyscrolling4/",
-          "publishedOn": "2025-08-13T01:59:51.000Z",
-          "wordCount": 673,
-          "title": "Death By Scrolling Part 4",
           "imageUrl": "https://grumpygamer.com//images/dbs_title_media.png"
         }
       ]
@@ -542,16 +542,6 @@
           "wordCount": 206,
           "title": "Archaeology Research",
           "imageUrl": "https://imgs.xkcd.com/comics/archaeology_research_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3128/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/thread_meeting.png\" title=\"Hey, so did you ever finish your video series about Cassie and the caterpillar morph? I loved the first three, but never ... no, sorry, I get it, this isn't the place. Sorry! Sorry.\" alt=\"Hey, so did you ever finish your video series about Cassie and the caterpillar morph? I loved the first three, but never ... no, sorry, I get it, this isn't the place. Sorry! Sorry.\" />",
-          "link": "https://xkcd.com/3128/",
-          "publishedOn": "2025-08-13T00:00:00.000Z",
-          "wordCount": 206,
-          "title": "Thread Meeting",
-          "imageUrl": "https://imgs.xkcd.com/comics/thread_meeting_2x.png"
         }
       ]
     },
@@ -891,6 +881,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/797135283437125632",
+          "author": null,
+          "description": "text-mode:\nRTTY originated by JERRY, AD4V.",
+          "link": "https://text-mode.tumblr.com/post/797135283437125632",
+          "publishedOn": "2025-10-11T18:30:46.000Z",
+          "wordCount": 937,
+          "title": "text-mode:\n\nRTTY originated by JERRY, AD4V.",
+          "imageUrl": "https://64.media.tumblr.com/tumblr_m9khs4K2Mc1rpiyaso1_500.png"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/797044703967281152",
           "author": null,
@@ -1480,16 +1480,6 @@
           "wordCount": 999,
           "title": "text-mode:\n\nANSI cat by kyp / Black Maiden, 2001.",
           "imageUrl": "https://64.media.tumblr.com/tumblr_mab9iksE661rpiyaso1_640.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/791699454764908544",
-          "author": null,
-          "description": "text-mode:\nKYKAFRIKAANS (1976-1980) by Willem Boshoff.",
-          "link": "https://text-mode.tumblr.com/post/791699454764908544",
-          "publishedOn": "2025-08-12T18:30:36.000Z",
-          "wordCount": 974,
-          "title": "text-mode:\n\nKYKAFRIKAANS (1976-1980) by Willem Boshoff.",
-          "imageUrl": "https://64.media.tumblr.com/tumblr_mdrbriano91rpiyaso1_r1_500.jpg"
         }
       ]
     },
@@ -1751,6 +1741,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=11779",
+          "author": "Cory Doctorow",
+          "description": "Today's links The curious, intertwined history of climate and digital rights activism: It's going much [better|worse] than expected. Hey look at this: Delights to delectate. Object permanence: Bricked EVs; Cross-stitched tracert. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The curious, intertwined history of climate and digital rights activism (permalink) I am an environmentalist, but I'm not a climate activist. I used to be – I even used to ring strangers' doorbells on behalf of Greenpeace. But a quarter of a century ago, I fell in with the Electronic Frontier Foundation and became a lifelong digital rights activist, and swi…",
+          "link": "https://pluralistic.net/2025/10/11/cyber-rights-now/",
+          "publishedOn": "2025-10-11T11:08:22.000Z",
+          "wordCount": 3800,
+          "title": "Pluralistic: The curious, intertwined history of climate and digital rights activism (11 Oct 2025)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=11767",
           "author": "Cory Doctorow",
@@ -2211,6 +2211,16 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/25/10/0047701-diane-keaton-oscar-winnin",
+          "author": null,
+          "description": "Diane Keaton, Oscar-Winning ‘Annie Hall’ Star, Dies at 79.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/10/0047701-diane-keaton-oscar-winnin",
+          "publishedOn": "2025-10-11T20:20:34.000Z",
+          "wordCount": 681,
+          "title": "Diane Keaton, Oscar-Winning &#8216;Annie Hall&#8217; Star, Dies at 79....",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/25/10/the-underscore-music-player",
           "author": null,
@@ -5889,126 +5899,6 @@
           "publishedOn": "2025-08-13T13:00:11.000Z",
           "wordCount": 679,
           "title": "I love that The Kid Should See This has dozens of videos...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/08/0047324-at-40-she-discovered-she",
-          "author": null,
-          "description": "At 40, She Discovered She Was One of America’s Best Free Divers. Sara Burnett took a free diving intro course and a year later she competed in a world championship for the US team. “Why am I doing an extreme sport at this age?”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/08/0047324-at-40-she-discovered-she",
-          "publishedOn": "2025-08-13T00:46:47.000Z",
-          "wordCount": 791,
-          "title": "At 40, She Discovered She Was One of America&#8217;s Best Free Divers....",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/08/0047330-if-youre-still-back-to-sc",
-          "author": null,
-          "description": "If you’re still back-to-school (or racing-the-tariffs) shopping, these M4 Macbook Airs are somehow still on sale. “$800 is an absurdly low price for so much computer.”",
-          "link": "https://kottke.org/25/08/0047330-if-youre-still-back-to-sc",
-          "publishedOn": "2025-08-12T21:48:18.000Z",
-          "wordCount": 634,
-          "title": "If you&#8217;re still back-to-school (or racing-the-tariffs) shopping, these M4 Macbook Airs are...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/08/0047328-car-and-plane-travel-from",
-          "author": null,
-          "description": "Car and plane travel from Canada to the US has dropped sharply year-over-year, with a 37% drop in July car trips and 26% drop in air travel. Not sure why they call it a “boycott” — the Trump regime’s outright hostility to outsiders is the cause here.",
-          "link": "https://kottke.org/25/08/0047328-car-and-plane-travel-from",
-          "publishedOn": "2025-08-12T21:00:24.000Z",
-          "wordCount": 634,
-          "title": "Car and plane travel from Canada to the US has dropped sharply...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/08/0047329-the-only-time-prince",
-          "author": null,
-          "description": "The Only Time Prince & Miles Davis Jammed Together Onstage: Watch the New Year’s Eve, 1987 Concert.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/08/0047329-the-only-time-prince",
-          "publishedOn": "2025-08-12T20:03:28.000Z",
-          "wordCount": 703,
-          "title": "The Only Time Prince & Miles Davis Jammed Together Onstage: Watch the...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/08/the-lego-game-boy",
-          "author": null,
-          "description": "Lego is coming out with a near 1:1 replica of Nintendo’s iconic Game Boy handheld video game system. It’s not playable, but you can insert & remove Lego game cartridges and use different lenticular screens to pretend. Here’s a short video showing how it “works”:\n\nYou can preorder the kit from Amazon; the price is $60, which is only $30 less than the actual Game Boy cost when it was released.1\nI still have my original Game Boy from 1989 — it’s sitting on a table near where I’m typing this. I played so so much Tetris on that thing… (via moss & fog)\n\nAlthough $90 in 1989 is $235 in 2025 dollars, which is right around what the Playdate handheld costs.↩\n\nTags: Game Boy · Lego · Nintendo · remix · video games\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/08/the-lego-game-boy",
-          "publishedOn": "2025-08-12T19:06:09.000Z",
-          "wordCount": 762,
-          "title": "The Lego Game Boy",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/lego-gameboy-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/25/08/0047322-a-man-read-3599-books",
-          "author": null,
-          "description": "A Man Read 3,599 Books Over 60 Years, and Now His Family Has Shared the Entire List Online. That’s roughly a book a week. The list runs over 100 pages and he checked most of the books out of the local library.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/08/0047322-a-man-read-3599-books",
-          "publishedOn": "2025-08-12T18:06:27.000Z",
-          "wordCount": 1070,
-          "title": "A Man Read 3,599 Books Over 60 Years, and Now His Family...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/08/the-boston-globes-prescient-2016-view-of-our-trumpist-future",
-          "author": null,
-          "description": "On April 9, 2016, several months before Donald Trump was elected President for the first time, the Boston Globe ran an editorial entitled “The GOP must stop Donald Trump”.\nDonald J. Trump’s vision for the future of our nation is as deeply disturbing as it is profoundly un-American.\nIt is easy to find historical antecedents. The rise of demagogic strongmen is an all too common phenomenon on our small planet. And what marks each of those dark episodes is a failure to fathom where a leader’s vision leads, to carry rhetoric to its logical conclusion. The satirical front page of this section attempts to do just that, to envision what America looks like with Trump in the White House.\nIt is an exercise in taking a man at his word. And his vision of America promises to be as appalling in real life as it is in black and white on the page. It is a vision that demands an active and engaged opposition. It requires an opposition as focused on denying Trump the White House as the candidate is flippant and reckless about securing it.\n\n\nAs part of the editorial, they imagined a Globe front page one year into a future Trump presidency:\n\nSome of the headlines read “Deportations to Begin: President Trump calls for tripling of ICE force; riots continue” and “Markets sink as trade war looms”. They may have gotten the timeline and some of the details wrong, but many of the Globe’s fake headlines now read as tame.\nIn his second term, Trump has removed any pretense of governing and is full steam ahead on indulging his bigotry, filling his coffers, playing Big Boy Diplomat, and replacing the American system of democracy with a conservative authoritarian government. And as the editorial notes, all you had to do to predict it was to take Trump at his word. (via @epicciuto.bsky.social)\nTags: Boston Globe · Donald Trump · journalism · politics · USA",
-          "link": "https://kottke.org/25/08/the-boston-globes-prescient-2016-view-of-our-trumpist-future",
-          "publishedOn": "2025-08-12T16:56:00.000Z",
-          "wordCount": 879,
-          "title": "The Boston Globe&#8217;s Prescient 2016 View of Our Trumpist Future",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/globe-trump-front-page.jpg"
-        },
-        {
-          "id": "https://kottke.org/25/08/0047325-wplace-is-exploding-onlin",
-          "author": null,
-          "description": "Wplace Is Exploding Online Amid a New Era of Youth Protest. “Some pixels started movements. At one point there was just a single wooden ship flying a Brazilian flag off Portugal. Soon, a fleet appeared, a tongue-in-cheek invasion.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/08/0047325-wplace-is-exploding-onlin",
-          "publishedOn": "2025-08-12T16:39:43.000Z",
-          "wordCount": 720,
-          "title": "Wplace Is Exploding Online Amid a New Era of Youth Protest. &#8220;Some...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/08/the-iron-chef-opening-theme-was-composed-by-hans-zimmer",
-          "author": null,
-          "description": "Today I learned that the opening theme song for the original Iron Chef TV program was adapted from a song composed by Hans Zimmer, who has done scores for films like Interstellar, Dune, Blade Runner: 2049, Inception, and Dunkirk. Perhaps even weirder, the name of the theme song is “Show Me Your Firetruck”. (The song is from Zimmer’s score for the movie Backdraft.)\nTags: Hans Zimmer · Iron Chef · music · TV · video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/08/the-iron-chef-opening-theme-was-composed-by-hans-zimmer",
-          "publishedOn": "2025-08-12T15:49:04.000Z",
-          "wordCount": 804,
-          "title": "The Iron Chef Opening Theme Was Composed by Hans Zimmer?",
-          "imageUrl": "https://i.ytimg.com/vi/2nqbvxZamqw/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/25/08/0047320-vote-for-the-2025-tiny",
-          "author": null,
-          "description": "Vote for the 2025 Tiny Awards Site of the Year! This looks like a fantastic group of nominees that celebrate “the best of the small, poetic, creative, handmade web”.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/08/0047320-vote-for-the-2025-tiny",
-          "publishedOn": "2025-08-12T14:48:30.000Z",
-          "wordCount": 697,
-          "title": "Vote for the 2025 Tiny Awards Site of the Year! This looks...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/08/0047319-this-website-is-for-human",
-          "author": null,
-          "description": "This website is for humans. “I write the content on this website for people, not robots. I’m sharing my opinions and experiences so that you might identify with them and learn from them.”",
-          "link": "https://kottke.org/25/08/0047319-this-website-is-for-human",
-          "publishedOn": "2025-08-12T14:09:13.000Z",
-          "wordCount": 607,
-          "title": "This website is for humans. &#8220;I write the content on this website...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/08/0047318-reddit-will-block-the-int",
-          "author": null,
-          "description": "Reddit will block the Internet Archive. “The company says that AI companies have scraped data from the Wayback Machine, so it’s going to limit what the Wayback Machine can access.” AI scraping will kill the open web — everyone’s shutting the gates.",
-          "link": "https://kottke.org/25/08/0047318-reddit-will-block-the-int",
-          "publishedOn": "2025-08-12T13:03:20.000Z",
-          "wordCount": 614,
-          "title": "Reddit will block the Internet Archive. &#8220;The company says that AI companies...",
           "imageUrl": ""
         }
       ]
