@@ -219,16 +219,6 @@
           "wordCount": 1192,
           "title": "Death By Scrolling Level Design",
           "imageUrl": "https://grumpygamer.com//images/dbs7_media.png"
-        },
-        {
-          "id": "https://grumpygamer.com/comments_back/",
-          "author": null,
-          "description": "“But? Wait?” I can hear you saying, “Isn’t grumpygamer.com a static site built by Hugo? What dark magic did you use to get comments on the static site?”\nNo dark magic. But it does involve a small php script.\nYou can embed php in a hugo page and since grumpygamer.com is hosted on my server and it’s running php it wasn’t that hard.\nNo tricky javascript and since it’s all hosted by me, no privacy issues. All your comments stay on my server and don’t feed Big Comment.\nComments are stored in flat files so no pesky SQL databases. It only took me about a day, so all in all not bad.\nI may regret this.\nI’m only turned on comments for future posts.\nBe nice!\nP.S. I will post the code and a small guide in a few days, so you too can invite the masses to critic and criticize your every word. Good times.",
-          "link": "https://grumpygamer.com/comments_back/",
-          "publishedOn": "2025-09-06T05:32:29.000Z",
-          "wordCount": 652,
-          "title": "Comments are back",
-          "imageUrl": "https://grumpygamer.com//images/comments.png"
         }
       ]
     },
@@ -500,6 +490,16 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "2025-11-04-aeb3d7b3",
+          "author": null,
+          "description": "Version control for your data: Automerge is a local-first sync engine for multiplayer apps that works offline, prevents conflicts, and runs fast. Interesting project, possibly for mini personal projects that want to share some data (possibly without a database? unsure). But also in some kind of collaborative code editor, ala codecasting from JS Bin old days. Beautifully designed landing page though.\nSource: automerge.org",
+          "link": "https://remysharp.com/links/2025-11-04-aeb3d7b3",
+          "publishedOn": "2025-11-04T12:47:22.000Z",
+          "wordCount": 546,
+          "title": "Automerge [link]",
+          "imageUrl": null
+        },
         {
           "id": "how-has-ffconf-changed-since-it-was-known-as-full-frontal",
           "author": null,
@@ -872,6 +872,16 @@
       "feedUrl": "https://text-mode.tumblr.com/rss",
       "siteUrl": "https://text-mode.tumblr.com/",
       "articles": [
+        {
+          "id": "https://text-mode.tumblr.com/post/799313397521989632",
+          "author": null,
+          "description": "text-mode:\nKindergarten Paper Weavings from circa 1900 (Collection Jim Linderman).",
+          "link": "https://text-mode.tumblr.com/post/799313397521989632",
+          "publishedOn": "2025-11-04T19:30:57.000Z",
+          "wordCount": 1023,
+          "title": "text-mode:\n\nKindergarten Paper Weavings from circa 1900...",
+          "imageUrl": "https://64.media.tumblr.com/tumblr_m9gjbudIeA1rpiyaso1_1280.jpg"
+        },
         {
           "id": "https://text-mode.tumblr.com/post/799222799528083456",
           "author": null,
@@ -1461,16 +1471,6 @@
           "wordCount": 1036,
           "title": "text-mode:\n\nThis came from a demoscene place, but I think it...",
           "imageUrl": "https://64.media.tumblr.com/ca71552886b5be2a926b0b88aac94f0d/tumblr_mgds7rGBub1rpiyaso1_400.gif"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/793873817422430209",
-          "author": null,
-          "description": "text-mode:\nBy Mattias Gustavsson, from here.",
-          "link": "https://text-mode.tumblr.com/post/793873817422430209",
-          "publishedOn": "2025-09-05T18:31:10.000Z",
-          "wordCount": 997,
-          "title": "text-mode:\n\nBy Mattias Gustavsson, from here.",
-          "imageUrl": "https://64.media.tumblr.com/eb3df037264078c692828149f89d69fc/tumblr_mggs03Gzws1rpiyaso1_640.gif"
         }
       ]
     },
@@ -2101,16 +2101,6 @@
           "wordCount": 3649,
           "title": "Pluralistic: Stock buybacks are stock swindles (06 Sep 2025)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=11549",
-          "author": "Cory Doctorow",
-          "description": "Today's links Why Wikipedia works: Agreeing on source notability, not facts. Hey look at this: Delights to delectate. Object permanence: Zero History; XKCD cake; Kazaa judgment. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Why Wikipedia works (permalink) If you've ever spent time around Wikipedians, you've doubtless heard its motto: \"Wikipedia only works in practice. In theory, it's a mess.\" It's a delicious line, which is why I stole it for my 2017 novel Walkaway. But this is one of those lines that's too good to fact-check. The truth is that there's a theory that very neatly describes how Wikipedia works; that is, how Wikipe…",
-          "link": "https://pluralistic.net/2025/09/05/be-the-first-person/",
-          "publishedOn": "2025-09-05T17:53:49.000Z",
-          "wordCount": 4114,
-          "title": "Pluralistic: Why Wikipedia works (05 Sep 2025)",
-          "imageUrl": null
         }
       ]
     },
@@ -2153,6 +2143,66 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/25/11/0047775-stone-simulator-is-a-medi",
+          "author": null,
+          "description": "“Stone Simulator is a meditative idle game where you live as a rock enduring endless seasons and absurd events. Survive storms, unlock quirky achievements, and observe a serene, ever-changing world…” Includes a multi-player mode.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/11/0047775-stone-simulator-is-a-medi",
+          "publishedOn": "2025-11-04T21:59:34.000Z",
+          "wordCount": 795,
+          "title": "&#8220;Stone Simulator is a meditative idle game where you live as a...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/11/0047770-pebbling-sending-little-l",
+          "author": null,
+          "description": "Pebbling: sending little links and memes to the people that you love. Derived from the behavior of gentoo penguins, who “pick up pebbles in their beak and carry them to their partners or potential partners as a gift”.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/11/0047770-pebbling-sending-little-l",
+          "publishedOn": "2025-11-04T20:44:15.000Z",
+          "wordCount": 735,
+          "title": "Pebbling: sending little links and memes to the people that you love....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/11/papers",
+          "author": null,
+          "description": "Papers is a 3-minute animated short film made by Yoshinao Satoh from what must be thousands of newspaper scans. The animation set to Different Trains by Steve Reich & Kronos Quartet. I love this style of collage animation.\nTags: animation · Kronos Quartet · Steve Reich · video · Yoshinao Satoh\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/11/papers",
+          "publishedOn": "2025-11-04T19:25:07.000Z",
+          "wordCount": 684,
+          "title": "Papers",
+          "imageUrl": "https://i.ytimg.com/vi/56EG957YinM/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/11/0047774-conde-nast-is-watering-do",
+          "author": null,
+          "description": "Conde Nast is watering down Teen Vogue by folding it into the Vogue website. “Management plans to lay off six of our members, most of whom are BIPOC women or trans…” Teen Vogue’s political reporting has been excellent: direct & courageous.",
+          "link": "https://kottke.org/25/11/0047774-conde-nast-is-watering-do",
+          "publishedOn": "2025-11-04T18:16:45.000Z",
+          "wordCount": 647,
+          "title": "Conde Nast is watering down Teen Vogue by folding it into the...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/11/0047779-originally-released-in-19",
+          "author": null,
+          "description": "“Originally released in 1982, the Vectrex was a truly unique console, featuring its own built-in vector display and colorful screen overlays. Forty-three years after its creation, this iconic console is reborn in a brand-new miniature edition.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/11/0047779-originally-released-in-19",
+          "publishedOn": "2025-11-04T17:16:25.000Z",
+          "wordCount": 763,
+          "title": "&#8220;Originally released in 1982, the Vectrex was a truly unique console, featuring...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/11/0047781-thanks-to-great-wave-toda",
+          "author": null,
+          "description": "Thanks to Great Wave Today, I was able to see an original woodblock print of Hokusai’s The Great Wave off Kanagawa at the Creative Museum here in Tokyo. My first time seeing an original IRL! And an amazing exhibition as well.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/11/0047781-thanks-to-great-wave-toda",
+          "publishedOn": "2025-11-04T14:07:38.000Z",
+          "wordCount": 833,
+          "title": "Thanks to Great Wave Today, I was able to see an original...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/25/11/every-tree-can-be-a-buddha",
           "author": null,
@@ -5261,16 +5311,6 @@
           "publishedOn": "2025-09-08T13:06:23.000Z",
           "wordCount": 1156,
           "title": "Why more and more people are tuning the news out: &#8216;Now I...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/09/0047459-florida-decided-there-wer",
-          "author": null,
-          "description": "Florida Decided There Were Too Many Children. “Florida is the first state to take the courageous step toward decluttering itself of excess children, but under the inexpert guidance of Robert F. Kennedy Jr., other states may follow.”",
-          "link": "https://kottke.org/25/09/0047459-florida-decided-there-wer",
-          "publishedOn": "2025-09-05T13:03:08.000Z",
-          "wordCount": 617,
-          "title": "Florida Decided There Were Too Many Children. &#8220;Florida is the first state...",
           "imageUrl": ""
         }
       ]
