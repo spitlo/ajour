@@ -214,6 +214,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3167/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/car_size.png\" title=\"'They really shouldn't let those small cars drive in traffic. I worry I'm going to kill someone if I hit one! They should have to drive on the sidewalk, safely out of the way.'\" alt=\"'They really shouldn't let those small cars drive in traffic. I worry I'm going to kill someone if I hit one! They should have to drive on the sidewalk, safely out of the way.'\" />",
+          "link": "https://xkcd.com/3167/",
+          "publishedOn": "2025-11-12T00:00:00.000Z",
+          "wordCount": 206,
+          "title": "Car Size",
+          "imageUrl": "https://imgs.xkcd.com/comics/car_size_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3166/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/big_and_little_spoons.png\" title=\"Are you the annoying spoon or the sleepy spoon?\" alt=\"Are you the annoying spoon or the sleepy spoon?\" />",
@@ -470,6 +480,26 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "2025-11-12-dac6ad4b",
+          "author": null,
+          "description": "As I think about how command line AI tools can be used, I know it's already a bit of the wild west not disimilar to the way we install npm modules. I've seen a bit of writing about how these tools should be run in a controlled sandbox (because they can mess with the surroudning environment), and this is a nice digestable post with working examplse of Dockerfiles.\nSource: thingsithinkithink.blog",
+          "link": "https://remysharp.com/links/2025-11-12-dac6ad4b",
+          "publishedOn": "2025-11-12T14:08:00.000Z",
+          "wordCount": 567,
+          "title": "Building an AI Sandbox with Docker [link]",
+          "imageUrl": null
+        },
+        {
+          "id": "syntax-highlighting-in-web-component-templates",
+          "author": null,
+          "description": "A simple but effective fix to working with web components and VS Code. I wanted to get syntax highlighting and prettier support (to auto fix indenting, quotes, etc) in my component's templates.\nThe extremely quick read is, add /* HTML */ to the front of the template. Case sensitive and space sensitive (though hopefully one day it won't be so strict). Now highlighting and prettier (with save and fix) works.\nNote that you need the es6-string-html VS Code extension for this to highlight correct (something I had forgotten I had installed).",
+          "link": "https://remysharp.com/2025/11/12/syntax-highlighting-in-web-component-templates",
+          "publishedOn": "2025-11-12T00:00:00.000Z",
+          "wordCount": 903,
+          "title": "Syntax Highlighting in Web Component Templates [blog]",
+          "imageUrl": "https://remysharp.com/images/template-highlight-0.png.avif"
+        },
         {
           "id": "2025-11-04-aeb3d7b3",
           "author": null,
@@ -1411,16 +1441,6 @@
           "wordCount": 1023,
           "title": "yeseniatp:\n\n\n‘Five Choirs’ (1928) by Gunta Stölzl. ’Bauhaus :...",
           "imageUrl": "https://64.media.tumblr.com/tumblr_m8jfzkTJfb1rr1oxso1_400.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/794598594856501248",
-          "author": null,
-          "description": "text-mode:\nNdebele house paintings from South Africa. A style developed after the Ndebele started fighting with the European farmers in 1883. Wikipedia:\nThese wall paintings done by the women of the Ndebele was their secret code to their people, disguised to anyone but the Ndebele.",
-          "link": "https://text-mode.tumblr.com/post/794598594856501248",
-          "publishedOn": "2025-09-13T18:31:11.000Z",
-          "wordCount": 1088,
-          "title": "text-mode:\n\nNdebele house paintings from South Africa. A style...",
-          "imageUrl": "https://64.media.tumblr.com/tumblr_meh4l3IR4o1rpiyaso1_1280.jpg"
         }
       ]
     },
@@ -1429,6 +1449,16 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=83510",
+          "author": "Maximilian Gahntz",
+          "description": "Today, Mozilla is thrilled to join the Digital Public Goods Alliance (DPGA) as its newest member. The DPGA is a UN-backed initiative that seeks to advance open technologies and ensure that technology is put to use in the public interest and serves everyone, everywhere — like Mozilla’s Common Voice, which has been recognized as a […]\nThe post Mozilla joins the Digital Public Goods Alliance, championing open source to drive global progress  appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/digital-public-goods-alliance/",
+          "publishedOn": "2025-11-12T17:09:58.000Z",
+          "wordCount": 1812,
+          "title": "Mozilla joins the Digital Public Goods Alliance, championing open source to drive global progress",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2025/11/mozilla-illustrations-bitmap-globe-greenblack1-1280x853.png"
+        },
         {
           "id": "https://blog.mozilla.org/?p=82478",
           "author": "Tom Ritter",
@@ -1687,6 +1717,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=11942",
+          "author": "Cory Doctorow",
+          "description": "Today's links A tale of three customer service chatbots: Two were worse than useless, one betrayed its masters. Hey look at this: Delights to delectate. Object permanence: General strike; We won't fly; Green tea doesn't promote weight-loss. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. A tale of three customer service chatbots (permalink) AI can't do your job, but an AI salesman can convince your boss to fire you and replace you with an AI that can't do your job. Nowhere is that more true than in customer service: https://pluralistic.net/2025/08/06/unmerchantable-substitute-goods/#customer-disservice Customer service is a pure …",
+          "link": "https://pluralistic.net/2025/11/11/sorry-to-bother-you/",
+          "publishedOn": "2025-11-12T06:03:26.000Z",
+          "wordCount": 4101,
+          "title": "Pluralistic: A tale of three customer service chatbots (12 Nov 2025)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=11933",
           "author": "Cory Doctorow",
@@ -2046,16 +2086,6 @@
           "wordCount": 4236,
           "title": "Pluralistic: No such thing as selective censorship resistance (16 Sep 2025)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=11603",
-          "author": "Cory Doctorow",
-          "description": "Today's links Wallet voting: On the uses and abuses of consumerism. Hey look at this: Delights to delectate. Object permanence: Microsoft copyright crackdown against Russian dissidents; Corbyn wins Labour leadership; Bill Gates' monopolism; TiVo won't record DRM shows; HDCP leaks; Puking sink; Mr Gotcha v covid. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Wallet voting (permalink) You cannot vote with your wallet. Or rather, you can, but you will lose that vote. Wallet-votes always go to the people with the thickest wallets, and statistically, that is not you. Margaret Thatcher tried to get us to believe that \"there is no suc…",
-          "link": "https://pluralistic.net/2025/09/13/consumption-choices/",
-          "publishedOn": "2025-09-13T13:45:00.000Z",
-          "wordCount": 3426,
-          "title": "Pluralistic: Wallet voting (13 Sep 2025)",
-          "imageUrl": null
         }
       ]
     },
@@ -2098,6 +2128,106 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/25/11/0047838-put-wings-on-your-car",
+          "author": null,
+          "description": "Put wings on your car. “We call it a private jet for tax reasons really. Private jets don’t pay duty on fuel, so by adding wings to the vehicle, we should qualify for the same exemption.”",
+          "link": "https://kottke.org/25/11/0047838-put-wings-on-your-car",
+          "publishedOn": "2025-11-13T00:16:47.000Z",
+          "wordCount": 660,
+          "title": "Put wings on your car. &#8220;We call it a private jet for...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/11/0047828-recently-discovered-55-mi",
+          "author": null,
+          "description": "Recently discovered 55-million-year-old crocodile eggshells perhaps belong to “drop crocs”, a species that “perhaps [hunted] like leopards — dropping out of trees on any unsuspecting thing they fancied for dinner”. Drop crocs!\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/11/0047828-recently-discovered-55-mi",
+          "publishedOn": "2025-11-12T23:04:28.000Z",
+          "wordCount": 702,
+          "title": "Recently discovered 55-million-year-old crocodile eggshells perhaps belong to &#8220;drop crocs&#8221;, a species...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/11/0047829-more-women-are-riding-the",
+          "author": null,
+          "description": "More women are riding the streets of Tehran on motorbikes, in violation of the law & social restrictions. “There is not any political manifesto or social agenda here. It’s just that since my workplace is downtown and I had to commute every day…”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/11/0047829-more-women-are-riding-the",
+          "publishedOn": "2025-11-12T22:19:55.000Z",
+          "wordCount": 731,
+          "title": "More women are riding the streets of Tehran on motorbikes, in violation...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/11/anton-kusters-photos-of-the-yakuza-1",
+          "author": null,
+          "description": "For his Yakuza project, photographer Anton Kusters spent two years documenting some members of the Japanese mafia.\n\nA limited edition of a book containing the photos is available. Steward Mag recently did an interview with Kusters:\nThe values were almost comparable to general Japanese workplace values, actually.  Most yakuza gangs actually have neighborhood offices, and the plaques they have on the door state core values like “respect your superiors,” “keep the office clean,” and so on.\nOne thing I noticed early on with gang life was how subtle everything was.  Everything was unspoken, and will was expressed through group pressure.  A pressure was constantly there.  There was this innate understanding of form — if someone did something wrong, no one would say anything; he would simply be expected to apologize.  And the fact everyone would be so silent about it made the pressure really intense.\n\n\n(thx, david)\n[This is a vintage post originally from Sep 2012.]\nTags: Anton Kusters · crime · Japan · photography · timeless posts · Yakuza",
+          "link": "https://kottke.org/25/11/anton-kusters-photos-of-the-yakuza-1",
+          "publishedOn": "2025-11-12T20:40:24.000Z",
+          "wordCount": 712,
+          "title": "Anton Kusters&#8217; Photos of the Yakuza",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/yakuza-anton-kusters.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/11/0047830-a-group-of-archaeologists",
+          "author": null,
+          "description": "A group of archaeologists has proposed “applying a model of how humans expanded to the different islands across the Pacific Ocean during their early migration to glean insights into how humanity should manage our colonization of space”.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/11/0047830-a-group-of-archaeologists",
+          "publishedOn": "2025-11-12T19:24:14.000Z",
+          "wordCount": 730,
+          "title": "A group of archaeologists has proposed &#8220;applying a model of how humans...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/11/0047831-the-reason-there-are-no",
+          "author": null,
+          "description": "“The reason there are no weird blogs anymore is that it’s more fruitful to drive them out of business.” Private equity is ripping media into shreds.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/11/0047831-the-reason-there-are-no",
+          "publishedOn": "2025-11-12T18:17:00.000Z",
+          "wordCount": 922,
+          "title": "&#8220;The reason there are no weird blogs anymore is that it&#8217;s more...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/11/0047832-22-thanksgiving-main-dish",
+          "author": null,
+          "description": "22 Thanksgiving Main Dishes That Are Better Than Turkey. I’ve been trying to get the fam to pivot from turkey to chicken (with all the usual sides in place), but no dice.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/11/0047832-22-thanksgiving-main-dish",
+          "publishedOn": "2025-11-12T17:14:51.000Z",
+          "wordCount": 1204,
+          "title": "22 Thanksgiving Main Dishes That Are Better Than Turkey. I&#8217;ve been trying...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/11/0047834-just-as-you-feared",
+          "author": null,
+          "description": "Just as You Feared — Life in Zohran Mamdani’s New York. “Breakfast is sugar-free pea fibre from the state-run ZohranMart. I wish that I could give my son something better — it’s his birthday. But he doesn’t mind. School has turned him very woke.”",
+          "link": "https://kottke.org/25/11/0047834-just-as-you-feared",
+          "publishedOn": "2025-11-12T16:21:01.000Z",
+          "wordCount": 648,
+          "title": "Just as You Feared — Life in Zohran Mamdani&#8217;s New York. &#8220;Breakfast...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/11/operation-space-station",
+          "author": null,
+          "description": "Operation Space Station is a two-part PBS documentary series on the International Space Station. Here’s a very short teaser trailer:\n\nA synopsis:\nThe size of a football field, the International Space Station hurtles around Earth at 17,000 mph, shielding its astronauts from the most hostile environment humans have ever endured. After 25 years of continuous human presence in space, astronauts and Mission Control insiders reveal the most terrifying moments aboard this remarkable orbiting laboratory, where a single mistake could prove fatal. From ammonia leaks, meteor strikes, and docking disasters, to spacewalk horrors, potentially lethal showers of space junk, and the moment the entire ISS backflipped out of control, follow life-or-death dramas unfolding 250 miles above our planet — and the human ingenuity and teamwork that save the day.\n\n\n(via installer)\nTags: ISS · NASA · science · space · TV · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/11/operation-space-station",
+          "publishedOn": "2025-11-12T15:35:04.000Z",
+          "wordCount": 835,
+          "title": "Operation Space Station",
+          "imageUrl": "https://i.ytimg.com/vi/l9wWG9bDivk/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/11/0047835-meet-the-2025-national-bo",
+          "author": null,
+          "description": "Meet the 2025 National Book Award Finalists. “Literary Hub caught up with the finalists to ask them a bit about their books, their reading habits, and their writing lives.” Some great stuff in here.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/11/0047835-meet-the-2025-national-bo",
+          "publishedOn": "2025-11-12T14:19:44.000Z",
+          "wordCount": 773,
+          "title": "Meet the 2025 National Book Award Finalists. &#8220;Literary Hub caught up with...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/25/11/a-history-of-japan-1",
           "author": null,
