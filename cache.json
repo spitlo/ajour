@@ -856,18 +856,7 @@
       "title": "esoteric.codes",
       "feedUrl": "https://esoteric.codes/rss",
       "siteUrl": "https://esoteric.codes",
-      "articles": [
-        {
-          "id": "https://esoteric.codes/blog/forty-four-esolangs-an-artists-monograph-of-programming-languages",
-          "author": null,
-          "description": "I have two pieces of esolang news: one personal, the other about this blog.\n\r\nFirst, a collection of my esolang work is now out with MIT Press. A sampling of the languages are posted on my site, but that list leans toward the implemented, which excludes some of the more poetic, less implementable langs. The book, like this blog, celebrates playing at the edges of language and code, with some results far from our physical machines. It was a blast to write and forced me to work through on my whole to-do list of esolang ideas: which still resonated for me, and how they might become fully realized. Do I really want to define a language that entirely escapes the act of articulation? (Yes, of course I do!) You can read the preface here. There's more in this piece for IEEE Spectrum and this podcast with Sam Arbesman, author of the brilliant Magic of Code.\nRead More",
-          "link": "https://esoteric.codes/blog/forty-four-esolangs-an-artists-monograph-of-programming-languages",
-          "publishedOn": "2025-09-26T13:37:00.000Z",
-          "wordCount": 739,
-          "title": "Forty-Four Esolangs: an artist's monograph of programming languages",
-          "imageUrl": "https://esoteric.codes/uploads/05ad9a32-a35c-4433-8677-75f1031b2171/forty_four_cover_front_half.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Lea Verou’s blog",
@@ -1290,16 +1279,6 @@
           "wordCount": 997,
           "title": "text-mode:\n\nRTTY by SKIP, K0ARG.",
           "imageUrl": "https://64.media.tumblr.com/tumblr_m9kfo5KMnR1rpiyaso1_640.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/795776327866302464",
-          "author": null,
-          "description": "text-mode:\nVenus de Milo, by Delaware 2005.",
-          "link": "https://text-mode.tumblr.com/post/795776327866302464",
-          "publishedOn": "2025-09-26T18:30:45.000Z",
-          "wordCount": 992,
-          "title": "text-mode:\n\nVenus de Milo, by Delaware 2005.",
-          "imageUrl": "https://64.media.tumblr.com/tumblr_me81odWsGk1rpiyaso1_500.jpg"
         }
       ]
     },
@@ -1308,6 +1287,16 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=82910",
+          "author": "Konstantina Papadea",
+          "description": "Every day, Firefox users around the world turn to Mozilla Support (SUMO) with a question, a hiccup or just a little curiosity. It’s community-powered – contributors offer answers and support to make someone’s day a little easier. We celebrated this global community last month with Ask-A-Fox, a weeklong virtual event that brought together longtime contributors, […]\nThe post Celebrating the contributors that power Mozilla Support appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/firefox/contributors-mozilla-support/",
+          "publishedOn": "2025-11-25T18:02:14.000Z",
+          "wordCount": 1970,
+          "title": "Celebrating the contributors that power Mozilla Support",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2025/11/Firefox-Replython_Blog-Header-1-1080x720.png"
+        },
         {
           "id": "https://blog.mozilla.org/?p=83588",
           "author": "Mark Surman",
@@ -1538,6 +1527,16 @@
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
         {
+          "id": "https://www.joshwcomeau.com/css/subgrid/",
+          "author": "Josh W. Comeau",
+          "description": "Subgrid allows us to extend a grid template down through the DOM tree, so that deeply-nested elements can participate in the same grid layout. At first glance, I thought this would be a helpful convenience, but it turns out that it’s so much more. Subgrid unlocks exciting new layout possibilities, stuff we couldn’t do until now. ✨",
+          "link": "https://www.joshwcomeau.com/css/subgrid/",
+          "publishedOn": "2025-11-25T12:00:00.000Z",
+          "wordCount": 13655,
+          "title": "Brand New Layouts with CSS Subgrid",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-subgrid.jpg"
+        },
+        {
           "id": "https://www.joshwcomeau.com/animation/linear-timing-function/",
           "author": "Josh W. Comeau",
           "description": "The “linear()” timing function is a game-changer; it allows us to model physics-based motion right in vanilla CSS! That said, there are some limitations and quirks to be aware of. I’ve been experimenting with this API for a while now, and in this post, I’ll share all of the tips and tricks I’ve learned for using it effectively. ✨",
@@ -1563,16 +1562,6 @@
           "wordCount": 4078,
           "title": "Design for Amiability: Lessons from Vienna",
           "imageUrl": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9hbGlzdGFwYXJ0LmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxOVwvMDNcL2Nyb3BwZWQtaWNvbl9uYXZpZ2F0aW9uLWxhdXJlbC01MTIuanBnP2ZpdD01MTIlMkM1MTImc3NsPTEiLCJ0eHQiOiJBIExpc3QgQXBhcnQiLCJ0ZW1wbGF0ZSI6ImVkZ2UiLCJmb250IjoiIiwiYmxvZ19pZCI6MTU4MDk0NzI2fQ.newTojEDtdGzV9hV6wY9Zx7WZCMjPNGV0-ORSKXaGUYMQ"
-        },
-        {
-          "id": "https://alistapart.com/article/design-dialects-breaking-the-rules-not-the-system/",
-          "author": "by",
-          "description": "\"Language is not merely a set of unrelated sounds, clauses, rules, and meanings; it is a totally coherent system bound to context and behavior.\" — Kenneth L. Pike\nThe web has accents. So should our design systems.\nDesign Systems as Living Languages\nDesign systems aren't component libraries—they’re living languages. Tokens are phonemes, components are words, patterns are phrases, layouts are sentences. The conversations we build with users become the stories our products tell.\nBut here’s what we've forgotten: the more fluently a language is spoken, the more accents it can support without losing meaning. English in Scotland differs from English in Sydney, yet both are unmistakably English. The language adapts to context while preserving core meaning. This couldn’t be more obvious to me, a Br…",
-          "link": "https://alistapart.com/article/design-dialects-breaking-the-rules-not-the-system/",
-          "publishedOn": "2025-09-26T16:48:12.000Z",
-          "wordCount": 3131,
-          "title": "Design Dialects: Breaking the Rules, Not the System",
-          "imageUrl": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9hbGlzdGFwYXJ0LmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxOVwvMDNcL2Nyb3BwZWQtaWNvbl9uYXZpZ2F0aW9uLWxhdXJlbC01MTIuanBnP2ZpdD01MTIlMkM1MTImc3NsPTEiLCJ0eHQiOiJBIExpc3QgQXBhcnQiLCJ0ZW1wbGF0ZSI6ImVkZ2UiLCJmb250IjoiIiwiYmxvZ19pZCI6MTU4MDk0NzI2fQ.newTojEDtdGzV9hV6wY9Zx7WZCMjPNGV0-ORSKXaGUYMQ"
         }
       ]
     },
@@ -1581,6 +1570,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=12006",
+          "author": "Cory Doctorow",
+          "description": "Today's links Google steers Americans looking for health care into \"junk insurance\" : An enshittified search monopolist meets the worst health care system imaginable. Hey look at this: Delights to delectate. Object permanence: Disaster fantasies; \"Sea to Sea\"; Veronica Belmont on surviving memeification; Email carcinization. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Google steers Americans looking for health care into \"junk insurance\" (permalink) Being \"the enshittification guy\" means that people expect you to weigh in on every service or platform that has been deliberately worsened to turn a buck. It's an impossible task (…",
+          "link": "https://pluralistic.net/2025/11/25/open-season/",
+          "publishedOn": "2025-11-25T16:19:19.000Z",
+          "wordCount": 3402,
+          "title": "Pluralistic: Google steers Americans looking for health care into \"junk insurance\" (25 Nov 2025)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=12001",
           "author": "Cory Doctorow",
@@ -1940,16 +1939,6 @@
           "wordCount": 3638,
           "title": "Pluralistic: The real (economic) AI apocalypse is nigh (27 Sep 2025)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=11663",
-          "author": "Cory Doctorow",
-          "description": "Today's links Apple threatens to stop selling iPhones in the EU: Yeah, right. Hey look at this: Delights to delectate. Object permanence: Thomas Ligotti's anhedonic philosophy; Catalan elections; Molly Crabapple's Syria. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Apple threatens to stop selling iPhones in the EU (permalink) Apple has threatened to stop selling iPhones and other devices in the European Union (home to over 500,000,000 affluent consumers) if the bloc doesn't rescind the Digital Markets Act, a democratically accountable anti-monopoly law that bans Apple from blocking third parties from offering services to iPhon…",
-          "link": "https://pluralistic.net/2025/09/26/empty-threats/",
-          "publishedOn": "2025-09-26T15:08:14.000Z",
-          "wordCount": 3797,
-          "title": "Pluralistic: Apple threatens to stop selling iPhones in the EU (26 Sep 2025)",
-          "imageUrl": null
         }
       ]
     },
@@ -1992,6 +1981,86 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/25/11/chindogu-the-japanese-art-of-unuseless-inventions",
+          "author": null,
+          "description": "Chindōgu is the Japanese practice of inventing things that are not exactly useful but neither are they useless; they’re more unuseless, a term coined by chindōgu’s originator Kenji Kawakami. Some examples are tiny umbrellas for shoes, chopsticks with a tiny fan on them to cool your noodles before you slurp them, a flu headset (basically a roll of toilet paper you wear as a hat), and onion chopping glasses that have little fans that blow the onion fumes away from your eyes so you don’t start crying. This video explains chindōgu and provides some examples:\n\nThis is a great explainer as well, with lots of images and videos of examples, like this one:\n\nChindōgu have to be made. If you design the invention on paper and don’t make it, it doesn’t qualify. It’s a piece of paper with a bad invention on it. Bring the invention into the physical world so humankind can experience how truly almost useless it is.\n\n\nRelated: How the selfie stick was invented twice.\nTags: Japan · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/11/chindogu-the-japanese-art-of-unuseless-inventions",
+          "publishedOn": "2025-11-25T21:39:31.000Z",
+          "wordCount": 823,
+          "title": "Chindōgu: The Japanese Art of &#8220;Unuseless&#8221; Inventions",
+          "imageUrl": "https://i.ytimg.com/vi/i_r6uZBQulo/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/11/0047894-my-car-is-becoming-a",
+          "author": null,
+          "description": "My Car Is Becoming a Brick. “Cars used to be entirely mechanical objects” but now “certain models are destined to age their way out of compatibility with the latest software” (like smartphones).\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/11/0047894-my-car-is-becoming-a",
+          "publishedOn": "2025-11-25T20:42:37.000Z",
+          "wordCount": 1529,
+          "title": "My Car Is Becoming a Brick. &#8220;Cars used to be entirely mechanical...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/11/0047895-to-explore-violence-again",
+          "author": null,
+          "description": "To Explore Violence Against Women, She Drugs Herself Onstage. “It’s an attempt to explore whether performance can give form to the disorganizing experience of trauma, its gaps and obsessional thinking.”",
+          "link": "https://kottke.org/25/11/0047895-to-explore-violence-again",
+          "publishedOn": "2025-11-25T19:35:18.000Z",
+          "wordCount": 627,
+          "title": "To Explore Violence Against Women, She Drugs Herself Onstage. &#8220;It&#8217;s an attempt...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/11/0047847-whats-the-difference-betw",
+          "author": null,
+          "description": "What’s the difference between an artist and a creator? “An artist is a self-directed artistic expressor” vs. “a creator is a self-directed market expressor”. (Wondering where I fit on the 4-quadrant graph…)\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/11/0047847-whats-the-difference-betw",
+          "publishedOn": "2025-11-25T18:45:16.000Z",
+          "wordCount": 767,
+          "title": "What&#8217;s the difference between an artist and a creator? &#8220;An artist is...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/11/does-harrison-ford-know-his-lines",
+          "author": null,
+          "description": "Vanity Fair sat down with Harrison Ford and asked him to identify which of his lines he’d said in which movie, mostly as a way of getting him to talk about his career. A few observations:\nI love that they trolled him with The Star Wars Holiday Special…and he knew the line! “I’ve never seen it, which explains it. But I was there, though.”\nHarrison Ford was in Apocalypse Now? And George Lucas, when he saw the film (post-Star Wars), didn’t recognize Ford?\n\n\n\nOn Blade Runner: “I like any cut without the narration.”\n\nThe story he tells about his first role with lines, in a film called Dead Heat on a Merry-Go-Round, is a good one.\nVariety has done a bunch of these videos with actors & directors like Kate Winslet, Greta Gerwig, Carol Burnett, Jeffrey Wright, and Gary Oldman.\nTags: Harrison Ford · interviews · movies · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/11/does-harrison-ford-know-his-lines",
+          "publishedOn": "2025-11-25T17:19:35.000Z",
+          "wordCount": 794,
+          "title": "Does Harrison Ford Know His Lines?",
+          "imageUrl": "https://i.ytimg.com/vi/RyWLk_VunM4/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/11/0047891-small-japanese-pickup-tru",
+          "author": null,
+          "description": "Small Japanese Pickup Truck Shows Bigger is Definitely Not Better. “Kei trucks are city-sized, not highway-sized.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/11/0047891-small-japanese-pickup-tru",
+          "publishedOn": "2025-11-25T16:15:31.000Z",
+          "wordCount": 710,
+          "title": "Small Japanese Pickup Truck Shows Bigger is Definitely Not Better. &#8220;Kei trucks...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/11/0047901-americas-polarization-has",
+          "author": null,
+          "description": "America’s Polarization Has Become the World’s Side Hustle. “Social media monetization programs have incentivized this effort and are almost entirely to blame.” Team USA just scoring own goal after own goal these days.",
+          "link": "https://kottke.org/25/11/0047901-americas-polarization-has",
+          "publishedOn": "2025-11-25T15:08:28.000Z",
+          "wordCount": 625,
+          "title": "America&#8217;s Polarization Has Become the World&#8217;s Side Hustle. &#8220;Social media monetization programs...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/11/0047900-requiem-for-early-bloggin",
+          "author": null,
+          "description": "Requiem for Early Blogging. “I still look for people with early blogger energy, though — people willing to make an effort to understand the world and engage in a way that isn’t a performance, or trolling, or outright grifting.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/11/0047900-requiem-for-early-bloggin",
+          "publishedOn": "2025-11-25T14:11:54.000Z",
+          "wordCount": 1184,
+          "title": "Requiem for Early Blogging. &#8220;I still look for people with early blogger...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/25/11/0047880-the-surprising-benefits-o",
           "author": null,
@@ -4911,16 +4980,6 @@
           "wordCount": 819,
           "title": "An asteroid discovered in 2024 has a small chance of hitting the...",
           "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/09/taking-the-day",
-          "author": null,
-          "description": "Hello fronds and anemones. Tomorrow is my birthday so I am taking today off. I’ll see you back here on Monday.\nBut before I go: I pushed some changes to how videos work on the site (after a bunch of feedback). The default behavior is now: you click on a video and it plays. If you hold “b” (for lightbox) while clicking, the video will play in a widescreen lightbox. Also, the escape key will now close the video and the lightbox is better about resizing so that the bottom of the videos don’t get cut off (thanks to Christophe for the CSS fix).\nI don’t think this is the forever solution (it doesn’t address folks who want to open the videos on YouTube or Vimeo in a new tab), but I wanted to get something out there while I figure out the rest.\nTags: kottke.org",
-          "link": "https://kottke.org/25/09/taking-the-day",
-          "publishedOn": "2025-09-26T15:33:52.000Z",
-          "wordCount": 710,
-          "title": "Taking the Day",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/sea-anemone.jpg"
         }
       ]
     },
