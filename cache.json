@@ -193,6 +193,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3174/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/bridge_clearance.png\" title=\"A lot of the highway department's budget goes to adjusting the sign whenever the moon passes directly overhead.\" alt=\"A lot of the highway department's budget goes to adjusting the sign whenever the moon passes directly overhead.\" />",
+          "link": "https://xkcd.com/3174/",
+          "publishedOn": "2025-11-28T00:00:00.000Z",
+          "wordCount": 206,
+          "title": "Bridge Clearance",
+          "imageUrl": "https://imgs.xkcd.com/comics/bridge_clearance_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3173/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/satellite_imagery.png\" title=\"Every weekend I take an ATV out into the desert and spend a day tracing a faint &quot;(C) GOOGLE 2009&quot; watermark across the landscape.\" alt=\"Every weekend I take an ATV out into the desert and spend a day tracing a faint &quot;(C) GOOGLE 2009&quot; watermark across the landscape.\" />",
@@ -852,18 +862,7 @@
       "title": "Lea Verou’s blog",
       "feedUrl": "https://feeds.feedburner.com/leaverou",
       "siteUrl": "https://lea.verou.me/feed.xml",
-      "articles": [
-        {
-          "id": "https://lea.verou.me/blog/2025/user-effort/",
-          "author": null,
-          "description": "Alan Kay [source]\n\n\n\nOne of my favorite product design principles is Alan Kay’s “Simple things should be simple, complex things should be possible”.\n[1]\nI had been saying it almost verbatim long before I encountered Kay’s quote.\nKay’s maxim is deceptively simple, but its implications run deep.\nIt isn’t just a design ideal — it’s a call to continually balance friction, scope, and tradeoffs in service of the people using our products.\nThis philosophy played a big part in Prism’s success back in 2012,\nhelping it become the web’s de facto syntax highlighter for years, with over 2 billion npm downloads.\nHighlighting code on a page took including two files.\nNo markup changes.\nStyling used readable CSS class names.\nEven adding new languages — the most common “complex” use case — required far less…",
-          "link": "https://lea.verou.me/blog/2025/user-effort/",
-          "publishedOn": "2025-09-29T20:54:24.000Z",
-          "wordCount": 5037,
-          "title": "In the economy of user effort, be a bargain, not a scam",
-          "imageUrl": "https://lea.verou.me/blog/2025/user-effort/images/curve-multiple.gif"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "TEXT-MODE",
@@ -1239,16 +1238,6 @@
           "wordCount": 975,
           "title": "text-mode:\n\nGekrap – KYKAFRIKAANS (2003) by Willem Boshoff.",
           "imageUrl": "https://64.media.tumblr.com/tumblr_mdrbbpREHJ1rpiyaso1_1280.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/796048117814394880",
-          "author": null,
-          "description": "text-mode:\nCTRL+C & CTRL+V : 2010-03-22 08:10",
-          "link": "https://text-mode.tumblr.com/post/796048117814394880",
-          "publishedOn": "2025-09-29T18:30:44.000Z",
-          "wordCount": 1015,
-          "title": "text-mode:\n\nCTRL+C & CTRL+V : 2010-03-22 08:10",
-          "imageUrl": "https://64.media.tumblr.com/tumblr_m5eutekPFF1rpiyaso1_1280.png"
         }
       ]
     },
@@ -1540,6 +1529,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=12024",
+          "author": "Cory Doctorow",
+          "description": "Today's links (Digital) Elbows Up: How Canada Can Become a Nation of Jailbreakers, Reclaim Our Digital Sovereignty, Win the Trade-War, and Disenshittify Our Technology. Hey look at this: Delights to delectate. Object permanence: Workaholic Goethe; Prehistory of the Sony rootkit; Wunderkammer front room; Dolphin teleportation symposium: now with more Eisenhowers Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. (Digital) Elbows Up (permalink) I'm in Toronto to participate in a three-day \"speculative design\" workshop at OCAD U, where designers, technologists and art students are thinking up cool things Canadians could do if we reform…",
+          "link": "https://pluralistic.net/2025/11/28/disenshittification-nation/",
+          "publishedOn": "2025-11-28T09:00:28.000Z",
+          "wordCount": 7713,
+          "title": "Pluralistic: (Digital) Elbows Up (28 Nov 2025)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=12019",
           "author": "Cory Doctorow",
@@ -1961,6 +1960,66 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/25/11/macaulay-culkin-watches-home-alone-with-his-kids-who-dont-realize-hes-kevin",
+          "author": null,
+          "description": "On tour for the 35th anniversary of Home Alone, Macaulay Culkin said his kids love the movie, but don’t know he’s Kevin. They’re only three and four years old, so this makes sense, but it’s still hilarious.\nAnd while they will even get excited when they see the young character in montages on Disney+, where the film is available to stream, Culkin said, “They have no idea that I’m Kevin.” “They’re only three and four years old,” continued the actor, adding that he wants “to keep up that illusion as long as possible.”\n\n\n\nBut also, did you know Angels With Dirty Souls isn’t a real movie? I didn’t. \nSince we’re here, how about a Home Alone oral history from 10 years ago?\nMark Radcliffe\nChris wanted to do snow dressing as part of the background of the movie. Budgetwise, we couldn’t really afford…",
+          "link": "https://kottke.org/25/11/macaulay-culkin-watches-home-alone-with-his-kids-who-dont-realize-hes-kevin",
+          "publishedOn": "2025-11-28T21:05:25.000Z",
+          "wordCount": 1063,
+          "title": "Macaulay Culkin Watches Home Alone With His Kids Who Don&#8217;t Realize He&#8217;s Kevin",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/Home%20Alone.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/11/0047915-rebecca-solnit-a-year-on",
+          "author": null,
+          "description": "Rebecca Solnit: A Year on From Trump’s Victory, Resistance Is Everywhere. “There has, in fact, been a tremendous amount and variety of resistance and opposition and it’s mattered tremendously.”",
+          "link": "https://kottke.org/25/11/0047915-rebecca-solnit-a-year-on",
+          "publishedOn": "2025-11-28T20:03:54.000Z",
+          "wordCount": 623,
+          "title": "Rebecca Solnit: A Year on From Trump&#8217;s Victory, Resistance Is Everywhere. &#8220;There...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/11/0047912-atul-gawande-of-harvards-",
+          "author": null,
+          "description": "Atul Gawande of Harvard’s School of Public Health: The Trump regime’s destruction of USAID “has already caused the deaths of six hundred thousand people, two-thirds of them children”.",
+          "link": "https://kottke.org/25/11/0047912-atul-gawande-of-harvards-",
+          "publishedOn": "2025-11-28T19:10:49.000Z",
+          "wordCount": 646,
+          "title": "Atul Gawande of Harvard&#8217;s School of Public Health: The Trump regime&#8217;s destruction...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/11/0047911-a-long-profile-of-comics",
+          "author": null,
+          "description": "A long profile of comics legend Alan Moore. “For the first time in his 45-year career, Alan Moore is alone on the page.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/11/0047911-a-long-profile-of-comics",
+          "publishedOn": "2025-11-28T18:24:14.000Z",
+          "wordCount": 687,
+          "title": "A long profile of comics legend Alan Moore. &#8220;For the first time...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/11/0047913-im-still-working-on-the",
+          "author": null,
+          "description": "I’m still working on the KDO gift guide for this year. In the meantime, here’s the 2024 edition, which has aged well and includes these popular Japanese nail clippers.",
+          "link": "https://kottke.org/25/11/0047913-im-still-working-on-the",
+          "publishedOn": "2025-11-28T16:26:42.000Z",
+          "wordCount": 649,
+          "title": "I&#8217;m still working on the KDO gift guide for this year. In...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/11/0047914-australia-is-on-course-to",
+          "author": null,
+          "description": "“Australia is on course to meet a target of eliminating cervical cancer by 2035, which, if achieved, will make it the first country to do so.” This is due in large part to their HPV vaccination campaign.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/11/0047914-australia-is-on-course-to",
+          "publishedOn": "2025-11-28T15:48:44.000Z",
+          "wordCount": 719,
+          "title": "&#8220;Australia is on course to meet a target of eliminating cervical cancer...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/25/11/what-are-you-thankful-for",
           "author": null,
@@ -4929,116 +4988,6 @@
           "publishedOn": "2025-09-30T13:18:17.000Z",
           "wordCount": 685,
           "title": "An oral history of Deltron 3030&#8217;s stupendous debut album....",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/09/0047579-huh-the-original-version-",
-          "author": null,
-          "description": "Huh, the original version of the Goldilocks and the Three Bears fairy tale is a bit different: “An impudent old woman enters the forest home of three anthropomorphic bachelor bears…”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/09/0047579-huh-the-original-version-",
-          "publishedOn": "2025-09-29T23:13:33.000Z",
-          "wordCount": 740,
-          "title": "Huh, the original version of the Goldilocks and the Three Bears fairy...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/09/a-tour-of-the-new-david-bowie-archive",
-          "author": null,
-          "description": "A few days ago, I linked to a NY Times piece about the V&A’s 90,000-piece archive of David Bowie stuff — costumes, photos, drawings, lyrics, etc.\nThe David Bowie Centre is a working archive with new reading and study rooms. The archive contains over 80,000 items, including 414 costumes and accessories, nearly 150 musical instruments and other sound equipment, designs, props and scenery for concerts, film and theatre. Bowie’s own desk is part of the archive, alongside notebooks, diaries, lyrics, correspondence, fan mail and over 70,000 photographic prints, negatives and transparencies.\nThe Centre is brought to life with a series of small, curated displays. Highlights include 1970s Ziggy Stardust and Aladdin Sane ensembles designed by Freddie Burretti and Kansai Yamamoto, a film showcasing performances from Bowie’s career, and an installation tracing his impact on popular culture.\n\n\nLast week, Open Culture linked to this video tour of the Bowie collection by Jessica the Museum Guide:\n\nI imagine it’s not quite like being there in person, but still. (via open culture)\nTags: art · David Bowie · fashion · museums · music · V&A Museum · video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/09/a-tour-of-the-new-david-bowie-archive",
-          "publishedOn": "2025-09-29T22:00:14.000Z",
-          "wordCount": 828,
-          "title": "A Tour of the New David Bowie Archive",
-          "imageUrl": "https://i.ytimg.com/vi/aWOw884dPW4/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/25/09/0047609-theyre-bringing-back-read",
-          "author": null,
-          "description": "They’re bringing back Reading Rainbow, hosted by Mychal the Librarian.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/09/0047609-theyre-bringing-back-read",
-          "publishedOn": "2025-09-29T20:44:24.000Z",
-          "wordCount": 765,
-          "title": "They&#8217;re bringing back Reading Rainbow, hosted by Mychal the Librarian....",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/09/mussolini-son-of-the-century",
-          "author": null,
-          "description": "Antonio Scurati’s 2018 “documentary novel” M: Son of the Century was a worldwide bestseller about the early political career of Benito Mussolini and the rise of fascism in post-WWI Italy. Director Joe Wright (Pride and Prejudice, Darkest Hour) has adapted the book into an 8-part TV series called Mussolini: Son Of The Century. Here are a pair of trailers:\n\n\nOne commenter on this YT video says “it’s Cabaret meets Clockwork Orange, meets Metropolis…” I stumbled across this via Carla Sinclair, who writes:\nIt is, unsurprisingly, violent and gritty, highlighting Benito Mussolini’s rise to power that began in the year 1919, when he founded the National Fascist Party in Italy. But it’s also beautifully shot, with military and fight scenes stunningly choreographed to electronic music by Tom Rowlands of the Chemical Brothers. At times it feels like an intense musical — without the song and dance.\n\n\nIf you’re in the US, you can stream Mussolini: Son Of The Century on Mubi — four of the episodes are available so far and the new ones debut on Wednesdays.\nTags: Antonio Scurati · books · Carla Sinclair · Joe Wright · M: Son of the Century · Mussolini: Son Of The Century · trailers · TV · video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/09/mussolini-son-of-the-century",
-          "publishedOn": "2025-09-29T20:02:32.000Z",
-          "wordCount": 880,
-          "title": "Mussolini: Son Of The Century",
-          "imageUrl": "https://i.ytimg.com/vi/F_iRg076H6g/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/25/09/0047602-natalia-newsome-is-a-511",
-          "author": null,
-          "description": "Natalia Newsome is a 5’11” sophomore volleyball player for SMU; she’s got a 40-inch vertical and can touch almost a foot above a regulation basketball hoop. It is bananas how high she rises when spiking the ball.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/09/0047602-natalia-newsome-is-a-511",
-          "publishedOn": "2025-09-29T19:09:35.000Z",
-          "wordCount": 695,
-          "title": "Natalia Newsome is a 5&#8217;11&#8221; sophomore volleyball player for SMU; she&#8217;s got...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/09/bisa-butler-hold-me-close",
-          "author": null,
-          "description": "Bisa Butler makes quilted portraits and recently debuted a show with some of her newest work called Hold Me Close. From her artist’s statement:\nThis body of work is a visual response to how I am feeling as an African American woman living in 2025. We lived through COVID and witnessed the uprising of the Black Lives Matter movement, only to arrive at a time when many of the civil rights I grew up with are being challenged and reversed. Protections and programs for non-white Americans, women, queer people, poor people, and people with disabilities are under attack, and it has left me feeling destabilized. Watching immigrants being hunted, chased down, and kidnapped by masked men horrifies me. The thought of people being gunned down and starved for political agendas is the stuff of nightmares. I’ve been looking for solace and turned to my work like a visual diary.\n\n\nColossal has a good gallery of images from the show and Butler did a video tour where you can see how shiny & glittery some of the pieces are:\n\nHold Me Close is on view from September 13 to November 1, 2025 at Jeffrey Deitch in Los Angeles.\nTags: art · Bisa Butler\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/09/bisa-butler-hold-me-close",
-          "publishedOn": "2025-09-29T18:24:52.000Z",
-          "wordCount": 849,
-          "title": "Bisa Butler, Hold Me Close",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/bisa-bulter-hold-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/25/09/0047601-ismail-ibrahim-worked-as-",
-          "author": null,
-          "description": "Ismail Ibrahim worked as a fact checker for an unnamed magazine (it was the New Yorker). “Friendly members of the editorial staff informed me that some of my older colleagues were calling me a terrorist sympathizer.”",
-          "link": "https://kottke.org/25/09/0047601-ismail-ibrahim-worked-as-",
-          "publishedOn": "2025-09-29T17:11:07.000Z",
-          "wordCount": 646,
-          "title": "Ismail Ibrahim worked as a fact checker for an unnamed magazine (it...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/09/0047577-in-post-soviet-russia-sau",
-          "author": null,
-          "description": "In post-Soviet Russia, Sauron is good actually? “It became a story about hobbits, elves, dwarves, and men oppressing the not-so-evil Sauron and his nation of Mordor.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/09/0047577-in-post-soviet-russia-sau",
-          "publishedOn": "2025-09-29T16:17:10.000Z",
-          "wordCount": 1091,
-          "title": "In post-Soviet Russia, Sauron is good actually? &#8220;It became a story about...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/09/0047600-m-gessen-this-is-the",
-          "author": null,
-          "description": "M. Gessen: This Is the Feeling of Losing a Country. I Know It Well. “When your country strips you of rights and protections, it tells you that it no longer recognizes you. Other times, you realize that you no longer recognize your country.”",
-          "link": "https://kottke.org/25/09/0047600-m-gessen-this-is-the",
-          "publishedOn": "2025-09-29T15:18:14.000Z",
-          "wordCount": 634,
-          "title": "M. Gessen: This Is the Feeling of Losing a Country. I Know...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/09/0047599-nikole-hannah-jones-on-th",
-          "author": null,
-          "description": "Nikole Hannah-Jones on the bipartisan tributes of Charlie Kirk & the mainstreaming of extremist, bigoted speech. “You know, the Good Book, the Bible, says you judge a man as he lived, not as he died.”",
-          "link": "https://kottke.org/25/09/0047599-nikole-hannah-jones-on-th",
-          "publishedOn": "2025-09-29T14:36:49.000Z",
-          "wordCount": 636,
-          "title": "Nikole Hannah-Jones on the bipartisan tributes of Charlie Kirk & the mainstreaming...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/09/0047589-an-asteroid-discovered-in",
-          "author": null,
-          "description": "An asteroid discovered in 2024 has a small chance of hitting the moon in 2032. “Lunar ejecta could increase micrometeoroid debris flux in low Earth orbit up to 1000 times above background levels.” Scientists say we may be able to nuke it.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/09/0047589-an-asteroid-discovered-in",
-          "publishedOn": "2025-09-29T13:58:53.000Z",
-          "wordCount": 819,
-          "title": "An asteroid discovered in 2024 has a small chance of hitting the...",
           "imageUrl": ""
         }
       ]
