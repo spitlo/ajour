@@ -34,23 +34,13 @@
           "wordCount": null,
           "title": "Abandonware of the web: do you know that there is an HTML tables API?",
           "imageUrl": null
-        },
-        {
-          "id": "https://christianheilmann.com/?p=8699",
-          "author": "Chris Heilmann",
-          "description": "Alright folks, the call for papers is open for two of the WeAreDevelopers events 2026, so if you want to speak at any of them, activate the following links and enter your details and the ones of your session(s): WeAreDevelopers World Congress in Berlin , Germany 08-10/07/2026 WeAreDevelopers World Congress North America in San Jose, […]",
-          "link": "https://christianheilmann.com/2025/10/01/call-for-papers-is-open-for-the-wearedevelopers-berlin-and-san-jose-events-2026-heres-what-were-looking-for/",
-          "publishedOn": "2025-10-01T09:40:14.000Z",
-          "wordCount": null,
-          "title": "Call for Papers is open for the WeAreDevelopers Berlin and San Jose events 2026 – here’s what we’re looking for…",
-          "imageUrl": null
         }
       ]
     },
     {
-      "title": "Stavros' Stuff Latest Posts",
+      "title": "Stavros' Stuff",
       "feedUrl": "https://feeds.feedburner.com/stavrosstuff",
-      "siteUrl": null,
+      "siteUrl": "https://www.stavros.io/",
       "articles": [
         {
           "id": "https://www.stavros.io/posts/i-converted-a-rotary-phone-into-a-meeting-handset/",
@@ -97,16 +87,6 @@
           "publishedOn": "2025-11-02T07:00:00.000Z",
           "wordCount": 3034,
           "title": "Summary of changes for October 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "log.html#sep2025",
-          "author": "Rek Bell",
-          "description": "Hey everyone!\nThis is the list of all the changes we've done to our projects during the month of September.\nNoodle, redesigned the interface.\nWiki, updated  with a new photo.\nPunk Rabbits, completed 19 new rabbits(#35-53).\nNanoTalk, released a Nanochat client, written in Tal.\nAs promised, we released a revised transcription of Devine's talk Permacomputing 101 for Critical Signals 2025! We have moved our website to a Canadian TDL(100r.ca), so be sure to update your bookmarks! We will keep the .co version of our website online for redundancy.\nRek finished revising the upcoming version of the Victoria to Sitka logbook and passed the text over to Devine for proof-reading. The finished publication will feature 104 drawings, 19 recipes, and 18 new sections on a variety of topics. We hope to release the digital version early next year, and the printed version a bit later.\nOur friend Erik(d6) designed a bespoke chat server so that the Uxn community could meet up through an interface designed specifically to interface nicely with tiny clients so we hacked together a little rom for it. Get in touch if you'd like to hang out on there!\nDevine is performing in Montreal on October 11th, as Aliceffekt, at the AMP Festival 2025. They've also released a new album this month, called Ver'Iystl(Bandcamp), adding further dimension to the many places populating the Neauismetica. Let us know if you're planning to come!\nBook Club: This month we are reading The Glass Bead Game by Hermann Hesse, and we are continuing to read Middlemarch by George Eliot.\nContinue Reading",
-          "link": "https://100r.ca/site/log.html#sep2025",
-          "publishedOn": "2025-10-01T07:00:00.000Z",
-          "wordCount": 2750,
-          "title": "Summary of changes for September 2025",
           "imageUrl": null
         }
       ]
@@ -441,16 +421,6 @@
           "wordCount": 204,
           "title": "Ping",
           "imageUrl": "https://imgs.xkcd.com/comics/ping_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3149/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/measure_twice_cut_once.png\" title=\"&quot;Measure zero times, cut zero times.&quot; --carpenter who has achieved enlightenment and realized the wood is fine where it is\" alt=\"&quot;Measure zero times, cut zero times.&quot; --carpenter who has achieved enlightenment and realized the wood is fine where it is\" />",
-          "link": "https://xkcd.com/3149/",
-          "publishedOn": "2025-10-01T00:00:00.000Z",
-          "wordCount": 210,
-          "title": "Measure Twice, Cut Once",
-          "imageUrl": "https://imgs.xkcd.com/comics/measure_twice_cut_once_2x.png"
         }
       ]
     },
@@ -459,6 +429,16 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "handing-over-to-the-ai-for-a-day",
+          "author": null,
+          "description": "Context: back in March 2025 I decided to put aside my scepticism and try AI driven development for the day. I appreciate that in 8 months, the AI landscape, particularly around agentic software dev has moved along, and perhaps this should have been posted originally back in March. All the same, maybe this is useful to some degree, if only to capture what it was like in time.\n\nWhilst I sit squarely in my AI-sceptic seat, I was recently prompted to try a different tact by two post I read a few weeks back.\nThe first was Bruce's colonoscopy post, yes, that one. It was in fact that he was using a local LLM to create a generative image to commemorate his visit. I'd been using chatgpt (for code and electronics, basically a NLP version of a search engine), and hadn't considered that perhaps I coul…",
+          "link": "https://remysharp.com/2025/11/29/handing-over-to-the-ai-for-a-day",
+          "publishedOn": "2025-11-29T00:00:00.000Z",
+          "wordCount": 2587,
+          "title": "Handing over to the AI for a day [blog]",
+          "imageUrl": "https://remysharp.com/images/cards/og/9-0.jpg"
+        },
         {
           "id": "ffconf-2025",
           "author": null,
@@ -862,7 +842,18 @@
       "title": "Lea Verou’s blog",
       "feedUrl": "https://feeds.feedburner.com/leaverou",
       "siteUrl": "https://lea.verou.me/feed.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://lea.verou.me/blog/2025/user-effort/",
+          "author": null,
+          "description": "Alan Kay [source]\n\n\n\nOne of my favorite product design principles is Alan Kay’s “Simple things should be simple, complex things should be possible”.\n[1]\nI had been saying it almost verbatim long before I encountered Kay’s quote.\nKay’s maxim is deceptively simple, but its implications run deep.\nIt isn’t just a design ideal — it’s a call to continually balance friction, scope, and tradeoffs in service of the people using our products.\nThis philosophy played a big part in Prism’s success back in 2012,\nhelping it become the web’s de facto syntax highlighter for years, with over 2 billion npm downloads.\nSimple things were easy: All it took to highlight code on a webpage was including two files, a JS file and a CSS file.\nNo markup changes.\nNo JS glue code.\nStyling used readable CSS class names.\n…",
+          "link": "https://lea.verou.me/blog/2025/user-effort/",
+          "publishedOn": "2025-11-27T15:32:30.000Z",
+          "wordCount": 5235,
+          "title": "In the economy of user effort, be a bargain, not a scam",
+          "imageUrl": "https://lea.verou.me/blog/2025/user-effort/images/curve-multiple.gif"
+        }
+      ]
     },
     {
       "title": "TEXT-MODE",
@@ -1228,16 +1219,6 @@
           "wordCount": 938,
           "title": "tranquilblue:\n\nFrançois-Marie Arouet",
           "imageUrl": "https://64.media.tumblr.com/tumblr_lx2t4tg1AA1r9rxyno1_640.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/796138708601602048",
-          "author": null,
-          "description": "text-mode:\nGekrap – KYKAFRIKAANS (2003) by Willem Boshoff.",
-          "link": "https://text-mode.tumblr.com/post/796138708601602048",
-          "publishedOn": "2025-09-30T18:30:38.000Z",
-          "wordCount": 975,
-          "title": "text-mode:\n\nGekrap – KYKAFRIKAANS (2003) by Willem Boshoff.",
-          "imageUrl": "https://64.media.tumblr.com/tumblr_mdrbbpREHJ1rpiyaso1_1280.jpg"
         }
       ]
     },
@@ -1897,16 +1878,6 @@
           "publishedOn": "2025-10-02T19:50:43.000Z",
           "wordCount": 4782,
           "title": "Pluralistic: Decarbonization at a distance (02 Oct 2025)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=11689",
-          "author": "Cory Doctorow",
-          "description": "Today's links Announcing the Enshittification tour: Come say hi, why dontcha? Hey look at this: Delights to delectate. Object permanence: HP defeat device; It Gets Better; OPM hack endangers CIA in Beijing; Self-driving cars crash. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Announcing the Enshittification tour (permalink) Next Monday, I'll be departing for a 24-city, three-month book tour for my new book, Enshittification: Why Everything Suddenly Went Wrong and What To Do About It: https://us.macmillan.com/books/9780374619329/enshittification/ This is a big tour! I'll be doing in-person events in the US, Canada, the UK and P…",
-          "link": "https://pluralistic.net/2025/09/30/enshittification-tour/",
-          "publishedOn": "2025-09-30T15:49:23.000Z",
-          "wordCount": 2785,
-          "title": "Pluralistic: Announcing the Enshittification tour (30 Sep 2025)",
           "imageUrl": null
         }
       ]
@@ -4879,116 +4850,6 @@
           "wordCount": 629,
           "title": "Five More Things I Want to Tell My White Friends. &#8220;Please understand...",
           "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/09/0047621-i-really-appreciated-this",
-          "author": null,
-          "description": "I really appreciated this thoughtful piece about Ta-Nehisi Coates & Ezra Klein. Andrea Pitzer says “lost” folks like Klein “don’t have a clear idea how this moment fits into history and what it is exactly that they’re doing”.",
-          "link": "https://kottke.org/25/09/0047621-i-really-appreciated-this",
-          "publishedOn": "2025-09-30T21:49:27.000Z",
-          "wordCount": 628,
-          "title": "I really appreciated this thoughtful piece about Ta-Nehisi Coates & Ezra Klein....",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/09/0047620-12-booker-prize-2025-nomi",
-          "author": null,
-          "description": "12 Booker Prize 2025 nominees share their writing spots. “There are kitchen tables, laptops open amongst the charming chaos of daily life, and desks appropriately equipped with the tools of the job, from laptop stands to ergonomic office chairs.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/09/0047620-12-booker-prize-2025-nomi",
-          "publishedOn": "2025-09-30T21:03:43.000Z",
-          "wordCount": 779,
-          "title": "12 Booker Prize 2025 nominees share their writing spots. &#8220;There are kitchen...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/09/na-kim-in-the-abstract",
-          "author": null,
-          "description": "I love this self-portrait by Na Kim. It’s somehow bold and subtle? Wow.\nTags: art · Na Kim\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/09/na-kim-in-the-abstract",
-          "publishedOn": "2025-09-30T20:01:23.000Z",
-          "wordCount": 665,
-          "title": "Na Kim, in the Abstract",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/na-kim-self-portrait-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/25/09/0047615-this-question-from-ta-neh",
-          "author": null,
-          "description": "This question from Ta-Nehisi Coates in his recent conversation with Ezra Klein re: Charlie Kirk’s death jumped out at me: “But was silence not an option?” Too much attention-seeking and not enough meaning-making by our media & punditry.",
-          "link": "https://kottke.org/25/09/0047615-this-question-from-ta-neh",
-          "publishedOn": "2025-09-30T19:00:47.000Z",
-          "wordCount": 1378,
-          "title": "This question from Ta-Nehisi Coates in his recent conversation with Ezra Klein...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/09/the-future-was-then-an-exhibition-of-fascist-italian-posters",
-          "author": null,
-          "description": "Speaking of Benito Mussolini and fascism, the excellent Poster House museum in NYC has a new exhibition on for the next few months: The Future Was Then: The Changing Face of Fascist Italy. It features “some of the best posters produced during the worst period in modern Italian history”.\nIn a fascist movement inspired by art, how does the fascist government influence the artists living in its grasp? This exhibition explores how Benito Mussolini’s government created a broad-reaching culture that grew with and into the Futurist movement to claw into advertising, propaganda, and the very heart of the nation he commanded.\n\n\n\n\nThat Lubrificanti Fiat poster is incredible. The Future Was Then is on view at Poster House  until Feb 22, 2026.\nTags: advertising · art · Benito Mussolini · Italy · museums · NYC · politics · Poster House\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/09/the-future-was-then-an-exhibition-of-fascist-italian-posters",
-          "publishedOn": "2025-09-30T18:10:58.000Z",
-          "wordCount": 852,
-          "title": "The Future Was Then: an Exhibition of Fascist Italian Posters",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/ph-italy-fascism-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/25/09/0047606-how-to-actually-live-like",
-          "author": null,
-          "description": "How to actually live like a local. “The thing is, nobody ever actually wants to ‘live like a local’ when they are traveling. Instead, they want to live like a romanticized, idealized version of a local that they have in their head…”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/09/0047606-how-to-actually-live-like",
-          "publishedOn": "2025-09-30T17:16:04.000Z",
-          "wordCount": 726,
-          "title": "How to actually live like a local. &#8220;The thing is, nobody ever...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/09/0047612-a-long-profile-of-tim",
-          "author": null,
-          "description": "A long profile of Tim Berners-Lee, the inventor of the WWW. “Tim Berners-Lee may have the smallest fame-to-impact ratio of anyone living. Strangers hardly ever recognize his face; on “Jeopardy!,” his name usually goes for at least $1600.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/09/0047612-a-long-profile-of-tim",
-          "publishedOn": "2025-09-30T16:25:33.000Z",
-          "wordCount": 730,
-          "title": "A long profile of Tim Berners-Lee, the inventor of the WWW. &#8220;Tim...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/09/mister-rogers-visits-sesame-street-1981",
-          "author": null,
-          "description": "On May 22, 1981, for the finale of the show’s 12th season, Mister Rogers visited Sesame Street. With apologies to the Avengers, this has to be the greatest crossover event in history.\nIn the episode, Rogers agrees to judge a race between Big Bird and Mr. Snuffleupagus, a character that no one on the show but Big Bird has seen. When BB tells his friends he met Mister Rogers, they don’t believe him, including Mr. Snuffleupagus! Later, BB & MR have a conversation about what’s real and what’s make-believe. Here’s more on the episode from the Neighborhood Archive and the Muppet Wiki.\nMr. Rogers comes to visit Big Bird at his nest. Big Bird wonders if Mr. Rogers is really here, because no one believed him before. Mr. Rogers observes that sometimes it’s hard to distinguish between fantasy and rea…",
-          "link": "https://kottke.org/25/09/mister-rogers-visits-sesame-street-1981",
-          "publishedOn": "2025-09-30T15:19:25.000Z",
-          "wordCount": 1394,
-          "title": "Mister Rogers Visits Sesame Street (1981)",
-          "imageUrl": "https://i.ytimg.com/vi/OqWDjJRhCkc/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/25/09/0047608-new-book-from-patrick-rad",
-          "author": null,
-          "description": "New book from Patrick Radden Keefe (Say Nothing, Empire of Pain): London Falling, “a portrait of a family trying to solve the riddle not just of how their son died, but of who he really was in life.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/09/0047608-new-book-from-patrick-rad",
-          "publishedOn": "2025-09-30T14:39:42.000Z",
-          "wordCount": 771,
-          "title": "New book from Patrick Radden Keefe (Say Nothing, Empire of Pain): London...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/09/0047611-yes-this-exactly-the-gove",
-          "author": null,
-          "description": "Yes, this exactly: “The government is already shut down, and has been for several months, as the Trump administration initiated an assault on this system of government.”",
-          "link": "https://kottke.org/25/09/0047611-yes-this-exactly-the-gove",
-          "publishedOn": "2025-09-30T13:53:20.000Z",
-          "wordCount": 616,
-          "title": "Yes, this exactly: &#8220;The government is already shut down, and has been...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/09/0047610-an-oral-history-of-deltro",
-          "author": null,
-          "description": "An oral history of Deltron 3030’s stupendous debut album.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/09/0047610-an-oral-history-of-deltro",
-          "publishedOn": "2025-09-30T13:18:17.000Z",
-          "wordCount": 685,
-          "title": "An oral history of Deltron 3030&#8217;s stupendous debut album....",
-          "imageUrl": ""
         }
       ]
     },
@@ -5006,16 +4867,6 @@
           "wordCount": 12444,
           "title": "Bonnie Lou at King Records:  Roots of Countrypolitan",
           "imageUrl": "https://www.zeroto180.org/wp-content/uploads/2025/10/Bonnie-Lou-thumbnail-image.jpg"
-        },
-        {
-          "id": "https://www.zeroto180.org/?p=130165",
-          "author": "Zeroto180",
-          "description": "1955 was a pivotal year for The Charms. On October 29th, the vocal harmony group had performed on stage at Carnegie Hall, as part of Lou Krefetz‘s “Top Ten Rhythm and Blues Show” — “the first time that the sacred precincts of Carnegie Hall [will] have resounded to the rhythms of rock and roll music,” […]\nThe post Otis Williams And His Charms:  In Partnership With Henry Glover appeared first on Zero to 180 - Three Minute Magic.",
-          "link": "https://www.zeroto180.org/otis-williams-and-his-charms-in-partnership-with-henry-glover/",
-          "publishedOn": "2025-09-30T22:28:47.000Z",
-          "wordCount": 13563,
-          "title": "Otis Williams And His Charms:  In Partnership With Henry Glover",
-          "imageUrl": "https://www.zeroto180.org/wp-content/uploads/2025/09/Otis-Williams-Charms-thumbnail-prototypeA.jpg"
         }
       ]
     },
