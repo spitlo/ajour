@@ -41,16 +41,6 @@
           "wordCount": 2119,
           "title": "I converted a rotary phone into a meeting handset",
           "imageUrl": "https://www.stavros.io/static/images/favicons/og-image.jpg?h=24586483"
-        },
-        {
-          "id": "https://www.stavros.io/posts/switch-to-jujutsu-already-a-tutorial/",
-          "author": null,
-          "description": "If you don't like Jujutsu, you're wrong\nAs all developers, I’ve been using git since the dawn of time, since its commands were an inscrutable jumble of ill-fitting incantations, and it has remained this way until today.\nNeedless to say, I just don’t get git.\nI never got it, even though I’ve read a bunch of stuff on how it represents things internally.\nI’ve been using it for years knowing what a few commands do, and whenever it gets into a weird state because I fat-fingered something, I have my trusty alias, fuckgit, that deletes the .git directory, clones the repo again into a temp folder, and moves the .git directory from that into my directory, and I’ve managed to eke out a living for my family this way.\nOver the past few years, I’ve been seeing people rave about Jujutsu, and I always wanted to try it, but it never seemed worth the trouble, even though I hate git.\nI idly read a few tutorials, trying to understand how it works, but in the end I decided it wasn’t for me.\nOne day I randomly decided to try again, but this time I asked Claude how to do with Jujutsu whatever operation I wanted to do with git.\nThat’s when the mental model of jj clicked for me, and I finally understood everything, including how git works.\nI never thought a VCS would spark joy in me, but here we are, and I figured maybe I can write something that will make jj click for you as well.\nIt also doesn’t hurt that Jujutsu is completely interoperable with git (and thus with providers like GitHub), and I can have all the power of Jujutsu locally on my git repos, without anyone knowing I’m not actually using git.\nThe problem\nThe problem I had with the other tutorials, without realizing it, was that",
-          "link": "https://www.stavros.io/posts/switch-to-jujutsu-already-a-tutorial/",
-          "publishedOn": "2025-10-10T21:13:48.000Z",
-          "wordCount": 4182,
-          "title": "Switch to Jujutsu already: a tutorial",
-          "imageUrl": "https://www.stavros.io/static/images/favicons/og-image.jpg?h=24586483"
         }
       ]
     },
@@ -141,6 +131,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3178/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/hyperacute_interdynamics.png\" title=\"Our models fall apart where the three theories overlap; we're unable to predict what happens when a nanometer-sized squirrel eats a grapefruit with the mass of the sun.\" alt=\"Our models fall apart where the three theories overlap; we're unable to predict what happens when a nanometer-sized squirrel eats a grapefruit with the mass of the sun.\" />",
+          "link": "https://xkcd.com/3178/",
+          "publishedOn": "2025-12-08T00:00:00.000Z",
+          "wordCount": 206,
+          "title": "Hyperacute Interdynamics",
+          "imageUrl": "https://imgs.xkcd.com/comics/hyperacute_interdynamics_2x.png"
+        },
         {
           "id": "https://xkcd.com/3177/",
           "author": null,
@@ -1068,16 +1068,6 @@
           "wordCount": 937,
           "title": "text-mode:\n\nRTTY originated by JERRY, AD4V.",
           "imageUrl": "https://64.media.tumblr.com/tumblr_m9khs4K2Mc1rpiyaso1_500.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/797044703967281152",
-          "author": null,
-          "description": "text-mode:\nמבט ספורט - הפתיח עם הנקודות",
-          "link": "https://text-mode.tumblr.com/post/797044703967281152",
-          "publishedOn": "2025-10-10T18:31:03.000Z",
-          "wordCount": 868,
-          "title": "text-mode:\n\nמבט ספורט - הפתיח עם הנקודות",
-          "imageUrl": "https://i.ytimg.com/vi/E58dzzgglS0/hqdefault.jpg"
         }
       ]
     },
@@ -1086,6 +1076,26 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=83848",
+          "author": "Jenifer Boscacci",
+          "description": "Whenever you open Firefox, we want it to feel like it speaks your language and matches your style. This month, our mobile team is rolling out features inspired by community ideas, user requests and the small everyday moments that make browsing more delightful. Today we’re bringing three of those ideas to life: on-device translations for […]\nThe post Translate the web your way, plus choose the Firefox icon that suits your vibe appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/firefox/firefox-146/",
+          "publishedOn": "2025-12-09T14:00:00.000Z",
+          "wordCount": 2096,
+          "title": "Translate the web your way, plus choose the Firefox icon that suits your vibe",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2025/12/Distilled_WNP146-New-Features-1080x720.png"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=83884",
+          "author": "Mozilla",
+          "description": "In 2025, we rolled out one update after another, all aimed at making your browsing better — with more flow, speed, choice, and control over your information and experience. Your window to the internet, whether on desktop, mobile, or across all your devices, has gotten an upgrade this year. More flow: Tab Groups Try Tab […]\nThe post You got more with Firefox in 2025  appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/firefox/firefox-2025-updates/",
+          "publishedOn": "2025-12-09T08:00:00.000Z",
+          "wordCount": 2141,
+          "title": "You got more with Firefox in 2025",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2025/12/Recap-Blog-Post-Thumbnail-EN-1-1-1080x720.png"
+        },
         {
           "id": "https://blog.mozilla.org/?p=83791",
           "author": "Jenifer Boscacci",
@@ -1286,7 +1296,7 @@
     {
       "title": "Julia Evans",
       "feedUrl": "https://jvns.ca/atom.xml",
-      "siteUrl": "http://jvns.ca/atom.xml",
+      "siteUrl": "https://jvns.ca/atom.xml",
       "articles": []
     },
     {
@@ -1338,6 +1348,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=12125",
+          "author": "Cory Doctorow",
+          "description": "Today's links Big Tech joins the race to build the world's heaviest airplane: Die as Microsoft, or live to become the IBM you overthrew. Hey look at this: Delights to delectate. Object permanence: Bean-sprouting keyboard; Ink rant; FBI wanted to deport John Lennon; \"Concrete Park\"; Plutocratic lane-changes. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Big Tech joins the race to build the world's heaviest airplane (permalink) I have a weird fascination with early-stage Bill Gates, after his mother convinced a pal of hers – chairman of IBM's board of directors – to give her son the contract to provide the operating system for th…",
+          "link": "https://pluralistic.net/2025/12/09/temporarily-embarrassed-founders/",
+          "publishedOn": "2025-12-09T11:01:50.000Z",
+          "wordCount": 3264,
+          "title": "Pluralistic: Big Tech joins the race to build the world's heaviest airplane (09 Dec 2025)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=12118",
           "author": "Cory Doctorow",
@@ -1692,16 +1712,6 @@
           "wordCount": 4352,
           "title": "Pluralistic: How to fix the UK housing crisis (13 Oct 2025)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=11779",
-          "author": "Cory Doctorow",
-          "description": "Today's links The curious, intertwined history of climate and digital rights activism: It's going much [better|worse] than expected. Hey look at this: Delights to delectate. Object permanence: Bricked EVs; Cross-stitched tracert. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The curious, intertwined history of climate and digital rights activism (permalink) I am an environmentalist, but I'm not a climate activist. I used to be – I even used to ring strangers' doorbells on behalf of Greenpeace. But a quarter of a century ago, I fell in with the Electronic Frontier Foundation and became a lifelong digital rights activist, and swi…",
-          "link": "https://pluralistic.net/2025/10/11/cyber-rights-now/",
-          "publishedOn": "2025-10-11T11:08:22.000Z",
-          "wordCount": 3800,
-          "title": "Pluralistic: The curious, intertwined history of climate and digital rights activism (11 Oct 2025)",
-          "imageUrl": null
         }
       ]
     },
@@ -1754,6 +1764,66 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/25/12/a-charlie-brown-christmas-live",
+          "author": null,
+          "description": "Listen to jazz trio The Commercialists play Vince Guaraldi’s A Charlie Brown Christmas live in a small club called The Estate in Milwaukee. That’s this afternoon’s chill work music sorted then.\nIf you’re anywhere near Milwaukee this month, it looks like there are still tickets to some of their Charlie Brown performances left, although the shows at The Estate look like they’re sold out for the month. (thx, than)\nTags: jazz · music · Peanuts · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/12/a-charlie-brown-christmas-live",
+          "publishedOn": "2025-12-09T20:37:59.000Z",
+          "wordCount": 789,
+          "title": "A Charlie Brown Christmas, Live",
+          "imageUrl": "https://i.ytimg.com/vi/p3m3mcGnq3A/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/12/0047984-we-asked-critics-from-aut",
+          "author": null,
+          "description": "We Asked Critics From Authoritarian Regimes What They Wish They’d Known Sooner. “You cannot make authoritarian leaders the center of your narrative. You have to make the people the center of your narrative, and you have to be passionate about it.”",
+          "link": "https://kottke.org/25/12/0047984-we-asked-critics-from-aut",
+          "publishedOn": "2025-12-09T20:05:14.000Z",
+          "wordCount": 647,
+          "title": "We Asked Critics From Authoritarian Regimes What They Wish They&#8217;d Known Sooner....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/12/0047943-a-particularly-inventive-",
+          "author": null,
+          "description": "A “particularly inventive” Rube Goldberg marble run maze. Lots of elements doing double duty.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/12/0047943-a-particularly-inventive-",
+          "publishedOn": "2025-12-09T19:03:40.000Z",
+          "wordCount": 678,
+          "title": "A &#8220;particularly inventive&#8221; Rube Goldberg marble run maze. Lots of elements doing...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/12/the-2025-kottke-holiday-gift-guide",
+          "author": null,
+          "description": "Since 2013, I’ve done a holiday gift guide that’s basically a curated roundup of stuff from the best gift guides I can find. I always do it a little bit differently from year to year, and last year I went with a simple list and it worked well. So I’m doing that again this year. Also: this is a little more spare than I’d like, but I wanted to get something up pronto. I will be updating this every few days for the next week-ish, so check back. Ok, let’s a-go!\n1. The guide always starts with charitable giving and so should you. If you can, give cash to your local food bank (and kick in extra around the holiday time). Volunteer. Start with GiveWell’s list of “high-impact, cost-effective charities”. Here are Vox’s 10 guidelines for giving effectively. I personally give to the National Network o…",
+          "link": "https://kottke.org/25/12/the-2025-kottke-holiday-gift-guide",
+          "publishedOn": "2025-12-09T15:54:18.000Z",
+          "wordCount": 2067,
+          "title": "The 2025 Kottke Holiday Gift Guide",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//images/posts/01/img-47982-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/25/12/0047969-colin-furze-built-a-full-",
+          "author": null,
+          "description": "Colin Furze built a full-suspension bike using powerful magnets instead of shocks or springs.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/25/12/0047969-colin-furze-built-a-full-",
+          "publishedOn": "2025-12-09T15:03:35.000Z",
+          "wordCount": 834,
+          "title": "Colin Furze built a full-suspension bike using powerful magnets instead of shocks...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/25/12/0047983-looks-like-the-supreme-co",
+          "author": null,
+          "description": "Looks Like the Supreme Court Will Continue to Overturn the 20th Century. But: “It’s amazing how many of our problems today could be solved by a Congress that was willing and able to legislate in response to national problems.”",
+          "link": "https://kottke.org/25/12/0047983-looks-like-the-supreme-co",
+          "publishedOn": "2025-12-09T14:15:40.000Z",
+          "wordCount": 636,
+          "title": "Looks Like the Supreme Court Will Continue to Overturn the 20th Century....",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/25/12/jiggle-cat",
           "author": null,
@@ -4533,86 +4603,6 @@
           "wordCount": 681,
           "title": "Diane Keaton, Oscar-Winning &#8216;Annie Hall&#8217; Star, Dies at 79....",
           "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/10/the-underscore-music-player",
-          "author": null,
-          "description": "For the past several months, I’ve been using a web-based music player I built called Underscore. It’s playing music for me right now. I recently revamped & improved it and thought it was time to show it off. Here’s a screenshot:\n\nOk, let me explain. I listen to music all day while I’m working, favoring music without words — electronic, classical, soundtracks, ambient, nature sounds, that sort of thing. I listen to whole albums, long mixes, and playlists across several services, including Spotify, YouTube, and Soundcloud. It was becoming a pain in my ass trying to pick something to listen to while working; I’d have to scroll through playlists on all these different services and generally I’d end up listening to the same stuff over and over again, getting sick of it, getting distracted by ch…",
-          "link": "https://kottke.org/25/10/the-underscore-music-player",
-          "publishedOn": "2025-10-10T19:58:31.000Z",
-          "wordCount": null,
-          "title": "The Underscore Music Player",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kottke.org/25/10/0047686-minuteyear-is-an-art-piec",
-          "author": null,
-          "description": "Minute/Year is an art piece/installation where the sound occurring in a space for a single minute is recorded each day. Simultaneously, the previous day’s recording is played back. So each day’s recording features something of the previous day.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/10/0047686-minuteyear-is-an-art-piec",
-          "publishedOn": "2025-10-10T19:28:33.000Z",
-          "wordCount": null,
-          "title": "Minute/Year is an art piece/installation where the sound occurring in a space...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kottke.org/25/10/0047699-missed-this-from-a-few",
-          "author": null,
-          "description": "Missed this from a few days ago: the winners of the 2025 MacArthur Fellowship. “I think this year, we see empathy and deep engagement with community figures prominently in this class.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/10/0047699-missed-this-from-a-few",
-          "publishedOn": "2025-10-10T17:54:54.000Z",
-          "wordCount": null,
-          "title": "Missed this from a few days ago: the winners of the 2025...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kottke.org/25/10/ilm-visual-effects-artist-breaks-down-hidden-vfx",
-          "author": null,
-          "description": "If you were one of those people who loved watching DVD extras, you’ll enjoy the hell out of ILM visual effects artist Todd Vaziri breaking down some of the special effects that he and his team have worked on, including Rogue One, The Force Awakens, and Dungeons and Dragons: Honor Among Thieves. Introducing the video on his site, Vaziri writes:\nMy goal was to highlight the artistic process of visual effects. Movies like the ones I highlight in the video are crafted by hundreds of artists, technicians and production folks, all working together to achieve the vision of the director. I’m so proud to have worked with such amazing crews over the years.\n\n\nMany of the effects he highlights aren’t the obvious ones — monsters, digital Leia, lightsaber battles — but rather effects that you’d never notice — indeed effects that you shouldn’t notice because they are designed to be seamless. Like a “dust poof” from a slingshot shot — it registers and helps sell the scene, but you’d never think, “oh, that’s an effect”.\nThe whole thing is fascinating — and the rope thing is genius.\nTags: film school · movies · Star Wars · Todd Vaziri · video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/10/ilm-visual-effects-artist-breaks-down-hidden-vfx",
-          "publishedOn": "2025-10-10T16:49:34.000Z",
-          "wordCount": null,
-          "title": "ILM Visual Effects Artist Breaks Down Hidden VFX",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kottke.org/25/10/0047695-an-oddly-fascinating-vide",
-          "author": null,
-          "description": "An oddly fascinating video on the Barney Google comic strip, which began in 1919 and is somehow still running (it’s called Snuffy Smith now). Interesting how art forms shift through innovation and evolution with society at large.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/10/0047695-an-oddly-fascinating-vide",
-          "publishedOn": "2025-10-10T16:01:32.000Z",
-          "wordCount": null,
-          "title": "An oddly fascinating video on the Barney Google comic strip, which began...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kottke.org/25/10/0047694-i-love-the-synchronized-w",
-          "author": null,
-          "description": "I love the synchronized waves that these Himalayan giant honey bees use against their hornet predators.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/10/0047694-i-love-the-synchronized-w",
-          "publishedOn": "2025-10-10T15:06:39.000Z",
-          "wordCount": null,
-          "title": "I love the synchronized waves that these Himalayan giant honey bees use...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kottke.org/25/10/can-you-recommend-a-good-bookmark-manager",
-          "author": null,
-          "description": "I know I’m opening up a can of bees here, but I am in the market for a bookmark manager. I’ve got a good workflow going for potential KDO fodder, but my, um, system of Chrome bookmarks + memory + pasting links & snippets into the Notes app for other stuff (travel, bikes, design, internet, movies, etc.) is stretched past the breaking point. Here are some thoughts on what I’d like:\nI’m looking to store lightly annotated URLs. I don’t want to organize links into collections or obsessively tag things — mostly I just want to throw everything into a big bucket and use search to find stuff. (Search should include the text of the original source, not just my annotations)\nThat said, if some AI thinger can organize things into buckets based on topic or, better yet, provide “more like this” for links, I would not be opposed.\n\n\n\nKeeping backups of URLs in case of linkrot would be a great feature to have.\n\n\n\nCan be cloud or self-hosted.\n\n\n\nHappy to pay a reasonable subscription.\n\n\n\nI’d like whatever I go with to be around for awhile. So probably not some hot new app that’s 3 months old (unless it’s really something special) or a Google app like NotebookLM (the streets still remember Google Reader, cut down in its prime).\n\n\n\nShould be able to easily add links and access my library from my phone & computer (ideally with apps instead of through a browser) and the web.\n\n\n\nI’m looking for a bookmark manager, not a read-it-later app (Instapaper) or a note-taking app (Obsidian) or whatever Notion is (I actually don’t know).\n\n\n\nAn API would be nice.\n\nRaindrop.io seems like an obvious choice; what else should I consider? Does the “throw everything in one big bucket” approach even work? What features/needs am I missing? Come on you info nerds, let me have it with both barrels. I’d love to hear your experiences and recommendations on apps that you use & love and others to steer clear of.\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/10/can-you-recommend-a-good-bookmark-manager",
-          "publishedOn": "2025-10-10T13:48:07.000Z",
-          "wordCount": null,
-          "title": "Can You Recommend a Good Bookmark Manager?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kottke.org/25/10/0047696-venezuelan-opposition-lea",
-          "author": null,
-          "description": "Venezuelan opposition leader María Corina Machado wins the Nobel Peace Prize. “When authoritarians seize power, it is crucial to recognize courageous defenders of freedom who rise and resist.”",
-          "link": "https://kottke.org/25/10/0047696-venezuelan-opposition-lea",
-          "publishedOn": "2025-10-10T13:10:35.000Z",
-          "wordCount": null,
-          "title": "Venezuelan opposition leader María Corina Machado wins the Nobel Peace Prize. &#8220;When...",
-          "imageUrl": null
         }
       ]
     },
