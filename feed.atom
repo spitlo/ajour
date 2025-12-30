@@ -2,10 +2,206 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2025-12-29T00:56:35.953Z</updated>
+    <updated>2025-12-30T00:51:53.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sqlite Comments]]></title>
+        <id>https://grumpygamer.com/sqlite_comments/</id>
+        <link href="https://grumpygamer.com/sqlite_comments/"/>
+        <updated>2025-12-29T21:29:13.000Z</updated>
+        <summary type="html"><![CDATA[When I started using Hugu for static site generation I lost the ability to have comments and we all know now supportive the Internet can be, so why wouldn’t you have comments?
+I wrote a few php scripts that I added on to Hugo and I had comments again.  I decided to store the comments as flat files so I didn’t complicate things by needing the bloated MySQL. I wanted to keep it as simple and fast as possible.
+When a comment is added, my PHP script created a directory (if needed) for the post and saves the comment out as a .json file with name as the current time to make sorting easy.
+When the blog page was displayed, these files (already sorted thanks to the filename) were loaded and displayed.
+And it all worked well until it didn’t.  Flat files are simple. but they can be hard to search or …]]></summary>
+        <author>
+            <name>Grumpy Gamer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Imperfect Homework Machine]]></title>
+        <id>https://kottke.org/25/12/the-imperfect-homework-machine</id>
+        <link href="https://kottke.org/25/12/the-imperfect-homework-machine"/>
+        <updated>2025-12-29T20:21:41.000Z</updated>
+        <summary type="html"><![CDATA[Shel Silverstein’s Homework Machine was one of my kids’ favorite poems of his when they were little. First published in 1981, the short poem turned out to be rather prescient about AI, especially the earlier LLMs, which couldn’t math their way out of a wet paper bag.
+Your homework comes out, quick and clean as can be.
+
+
+(via @brooksrocco)
+Tags: artificial intelligence · poetry · Shel Silverstein]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typewriter works by&nbsp;Montserrat Alberich Escard&iacute;vol&nbsp;(1912-1973). Her first exhibition was in 1929&hellip;]]></title>
+        <id>https://text-mode.tumblr.com/post/804296209597693952</id>
+        <link href="https://text-mode.tumblr.com/post/804296209597693952"/>
+        <updated>2025-12-29T19:30:37.000Z</updated>
+        <summary type="html"><![CDATA[Typewriter works by Montserrat Alberich Escardívol (1912-1973). Her first exhibition was in 1929 (including the Don Quijote image above) and she continued to type graphics most of her life. The typewriter company Underwood gave her a customized typewriter in 1957, with a few custom characters and a width of 310 characters. Presumably, the Barcelona Cathedral image was made some time after that. She used around 20 colour ribbons, which helped to set her apart from many other typewriter artists.
+h/t: Markku Reunanen]]></summary>
+        <author>
+            <name>TEXT-MODE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conservatives are trying to roll the Constitution back to the pre-Civil War...]]></title>
+        <id>https://kottke.org/25/12/0048096-conservatives-are-trying-</id>
+        <link href="https://kottke.org/25/12/0048096-conservatives-are-trying-"/>
+        <updated>2025-12-29T18:53:46.000Z</updated>
+        <summary type="html"><![CDATA[Conservatives are trying to roll the Constitution back to the pre-Civil War version. “It will be a society of the dominators and the dominated. But it will not be a democracy worthy of the name.”]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One of America’s Most Successful Experiments Is Coming to a Shuddering Halt....]]></title>
+        <id>https://kottke.org/25/12/0048094-one-of-americas-most-succ</id>
+        <link href="https://kottke.org/25/12/0048094-one-of-americas-most-succ"/>
+        <updated>2025-12-29T17:58:15.000Z</updated>
+        <summary type="html"><![CDATA[One of America’s Most Successful Experiments Is Coming to a Shuddering Halt. “‘It’s not the same. Why am I here? I question that to myself.’ Amid an astonishing wave of anti-Indian animus, it’s a question many Indian Americans are asking.”
+
+        
+
+        
+
+         
+💬 Join the discussion on kottke.org →]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ultracold atoms observed climbing a quantum staircase. (Relatable: the upstairs of my...]]></title>
+        <id>https://kottke.org/25/12/0048095-ultracold-atoms-observed-</id>
+        <link href="https://kottke.org/25/12/0048095-ultracold-atoms-observed-"/>
+        <updated>2025-12-29T17:34:29.000Z</updated>
+        <summary type="html"><![CDATA[Ultracold atoms observed climbing a quantum staircase. (Relatable: the upstairs of my house is warmer than the ground floor too.)
+
+        
+
+        
+
+         
+💬 Join the discussion on kottke.org →]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Underscore: Now Slightly Less Random]]></title>
+        <id>https://kottke.org/25/12/underscore-now-slightly-less-random</id>
+        <link href="https://kottke.org/25/12/underscore-now-slightly-less-random"/>
+        <updated>2025-12-29T17:03:26.000Z</updated>
+        <summary type="html"><![CDATA[I pushed a key change to the Underscore music player over the weekend. Members can now click on any song in their collection to play it (previously there was only a randomize button). I added this because I often wanted to listen to a particular song/album/playlist, genre, or tempo (chill, upbeat, etc.)1 and sat there hitting the random button until I got something I liked. No more; quick selection and back into the work groove.
+If you missed it, here’s what I wrote about Underscore at launch:
+Here’s how it works. You can add links to music from Spotify, YouTube, Soundcloud, Bandcamp, and Apple Music to it — just paste their share URLs in. Reloading the page gives you a random piece of music from your collection. You can see a list of the songs, videos, playlists, and albums in your collection and can hide them if you want. That’s it. That’s all it does.
+There’s no APIs or authentication or auto-synching playlists. The music is played through embedded players and if it lands on something from Spotify, Apple Music, or Bandcamp, you’re gonna have to click the play button in the embedded player (Soundcloud and YT videos should play automatically (but don’t always for whatever reason)). When your current selection ends, the new random thing doesn’t automatically play…you need to refresh the page.
+
+
+I use Underscore every single day while I’m working. Is anyone else out there using it?
+P.S. I also added the ability to add Tidal albums & playlists to Underscore. Unfortunately, Tidal’s embedded player doesn’t play full-length songs, even for logged-in users. If you’re a Tidal user, bug them about adding this feature to their embedded player!
+
+I prefer chill in the morning and when writing. When designing or programming, I like something more upbeat. Also depends on my mood on the day.↩
+
+Tags: kottke.org · music · Underscore
+💬 Join the discussion on kottke.org →]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thin Desires Are Eating Your Life. &#8220;A thick desire is one that...]]></title>
+        <id>https://kottke.org/25/12/0048079-thin-desires-are-eating-y</id>
+        <link href="https://kottke.org/25/12/0048079-thin-desires-are-eating-y"/>
+        <updated>2025-12-29T16:21:18.000Z</updated>
+        <summary type="html"><![CDATA[Thin Desires Are Eating Your Life. “A thick desire is one that changes you in the process of pursuing it. A thin desire is one that doesn’t.”
+
+        
+
+        
+
+         
+💬 Join the discussion on kottke.org →]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Internet Archive has a playable version of the NY Times Crossword...]]></title>
+        <id>https://kottke.org/25/12/0048090-the-internet-archive-has-</id>
+        <link href="https://kottke.org/25/12/0048090-the-internet-archive-has-"/>
+        <updated>2025-12-29T15:30:16.000Z</updated>
+        <summary type="html"><![CDATA[The Internet Archive has a playable version of the NY Times Crossword Puzzle app from 1992. It ran on Windows 3.1 and included a few hundred puzzles. (Click on Game/Open to select a puzzle.)
+
+        
+
+        
+
+         
+💬 Join the discussion on kottke.org →]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Iconic First Lady of NYC]]></title>
+        <id>https://kottke.org/25/12/the-first-lady-of-nyc</id>
+        <link href="https://kottke.org/25/12/the-first-lady-of-nyc"/>
+        <updated>2025-12-29T14:42:09.000Z</updated>
+        <summary type="html"><![CDATA[I love these photos of Rama Duwaji by Szilveszter Mako — a perfect combination of photographer and subject. Duwaji is an artist, illustrator, New Yorker, and second-generation Syrian-American. She is also married to Zohran Mamdani, who is the mayor-elect of NYC.
+Tags: art · fashion · photography · Rama Duwaji · Szilveszter Mako · Zohran Mamdani
+💬 Join the discussion on kottke.org →]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good morning! Just wanted to let you all know that Rian Johnson...]]></title>
+        <id>https://kottke.org/25/12/0048088-good-morning-just-wanted-</id>
+        <link href="https://kottke.org/25/12/0048088-good-morning-just-wanted-"/>
+        <updated>2025-12-29T14:02:52.000Z</updated>
+        <summary type="html"><![CDATA[Good morning! Just wanted to let you all know that Rian Johnson subtly rickrolled us with a scene in Wake Up Dead Man.
+
+        
+
+        
+
+         
+💬 Join the discussion on kottke.org →]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[worldsofzzt:
+
+Source
+“Toypole” by Agent Orange (2022)
+Published...]]></title>
+        <id>https://text-mode.tumblr.com/post/804265518248984576</id>
+        <link href="https://text-mode.tumblr.com/post/804265518248984576"/>
+        <updated>2025-12-29T11:22:48.000Z</updated>
+        <summary type="html"><![CDATA[worldsofzzt:
+Source
+“Toypole” by Agent Orange (2022)
+Play This World Online]]></summary>
+        <author>
+            <name>TEXT-MODE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High Altitude Cooking Instructions]]></title>
+        <id>https://xkcd.com/3187/</id>
+        <link href="https://xkcd.com/3187/"/>
+        <updated>2025-12-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/high_altitude_cooking_instructions.png" title="1,300,000-1,400,000 ft: Ask a crew member to show you how to use the ISS food warmer." alt="1,300,000-1,400,000 ft: Ask a crew member to show you how to use the ISS food warmer." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merry Christmas, Ya Filthy Animals (2025)]]></title>
         <id>https://ludic.mataroa.blog/blog/merry-christmas-ya-filthy-animals-2025/</id>
@@ -6352,56 +6548,6 @@ The post Bonnie Lou at King Records:  Roots of Countrypolitan appeared first on 
         <summary type="html"><![CDATA[Today's links The internet was made for privacy: And unmade by regulators. Hey look at this: Delights to delectate. Object permanence: Materialist conspiratorialism; TSA ball-fondlers; Anonymous to dox 1,000 Klansmen; Amazon hates private property; The Great Firewall of Cameron. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The internet was made for privacy (permalink) While "tech exceptionalism" can be a grave sin (as with the "move fast and break things" ethos that wrecked so much of our world, especially its labor markets), there are ways in which tech is truly exceptional, in the sense of bringing forth capabilities and aff…]]></summary>
         <author>
             <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I&#8217;ve got this queued up to listen to on the Shinkansen later:...]]></title>
-        <id>https://kottke.org/25/10/0047761-ive-got-this-queued-up</id>
-        <link href="https://kottke.org/25/10/0047761-ive-got-this-queued-up"/>
-        <updated>2025-10-31T00:51:12.000Z</updated>
-        <summary type="html"><![CDATA[I’ve got this queued up to listen to on the Shinkansen later: Lane 8’s Fall 2025 Mixtape. Available on YouTube, Soundcloud, and Apple Music. I’ve added this to my Underscore collection too.
-
-        
-
-        
-
-         
-💬 Join the discussion on kottke.org →]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heart Mountain]]></title>
-        <id>https://xkcd.com/3162/</id>
-        <link href="https://xkcd.com/3162/"/>
-        <updated>2025-10-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/heart_mountain.png" title="Even geology papers about Heart Mountain are like, &quot;Look, we all agree this 'volcanic gas earthquake hovercraft' thing seems like it can't possibly be right, but...&quot;" alt="Even geology papers about Heart Mountain are like, &quot;Look, we all agree this 'volcanic gas earthquake hovercraft' thing seems like it can't possibly be right, but...&quot;" />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI is Dunning-Kruger as a service]]></title>
-        <id>https://christianheilmann.com/?p=8727</id>
-        <link href="https://christianheilmann.com/2025/10/30/ai-is-dunning-kruger-as-a-service/"/>
-        <updated>2025-10-30T19:52:36.000Z</updated>
-        <summary type="html"><![CDATA[On January 6th, 1995 two bank robbers in Pittsburgh confused law enforcement by not making any attempts to conceal their faces but instead brazenly looking at security cameras as if they were invisible. The reason is that they actually thought they were. Clifton Earl Johnson had convinced his fellow in crime, McArthur Wheeler that covering […]]]></summary>
-        <author>
-            <name>Chris Heilmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[text-mode:
-
-Three mainstream computer heroes, rendered in their...]]></title>
-        <id>https://text-mode.tumblr.com/post/798860417951809536</id>
-        <link href="https://text-mode.tumblr.com/post/798860417951809536"/>
-        <updated>2025-10-30T19:31:02.000Z</updated>
-        <summary type="html"><![CDATA[text-mode:
-Three mainstream computer heroes, rendered in their respective font. Jack Tramiel (Commodore), Dennis Ritchie (UNIX) and some guy (Apple). Made by SanderFocus, who also makes great pixel art - more here.]]></summary>
-        <author>
-            <name>TEXT-MODE</name>
         </author>
     </entry>
     <entry>
