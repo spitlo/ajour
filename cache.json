@@ -109,6 +109,16 @@
       "siteUrl": "https://grumpygamer.com/",
       "articles": [
         {
+          "id": "https://grumpygamer.com/this_time_for_sure/",
+          "author": null,
+          "description": "I think 2026 is the year of Linux for me. I know I’ve said this before, but it feels like Apple has lost it’s way. Liquid Glass is the last straw plus their draconian desire to lock everything down gives me moral pause. It is only a matter of time before we can’t run software on the Mac that wasn’t purchased from the App Store.\nI use Linux on my servers so I am comfortable using it, just not in a desktop environment.\nSome things I worry about:\nA really good C++ IDE. I get a lot of advice for C++ IDEs from people who only use them now and then or just to compile, but don’t live in them all day and need to visually step into code and even ASM. I worry about CLion but am willing to give it a good try. Please don’t suggest an IDE unless you use them for hardcore C++ debugging.\nI will still mak…",
+          "link": "https://grumpygamer.com/this_time_for_sure/",
+          "publishedOn": "2026-01-05T19:56:58.000Z",
+          "wordCount": 697,
+          "title": "This Time For Sure",
+          "imageUrl": "https://grumpygamer.com//images/gg_media_image.png"
+        },
+        {
           "id": "https://grumpygamer.com/hu_comments/",
           "author": null,
           "description": "UPDATE: It is now live at: static-hugo-comments\nI’ve been cleaning up my comments script for hugo and am about ready to upload it to Github.\nI added an option to use flat files or sqlite and it can notify Discord (and probably other services) when a comment is added.  It’s all one php file.\nThe reason I’m telling you this is to force myself to actually do it.  Otherwise there would be “one more thing” and I’d never do it.\nI was talking to a game dev today about how to motivate yourself to get things done on your game.  We both agreed publicly making promises is a good way.",
@@ -390,16 +400,6 @@
           "wordCount": 210,
           "title": "Big and Little Spoons",
           "imageUrl": "https://imgs.xkcd.com/comics/big_and_little_spoons_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3165/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/earthquake_prediction_flowchart.png\" title=\"At least people who make religious predictions of the apocalypse have an answer to the question 'Why didn't you predict any of the other ones that happened recently?'\" alt=\"At least people who make religious predictions of the apocalypse have an answer to the question 'Why didn't you predict any of the other ones that happened recently?'\" />",
-          "link": "https://xkcd.com/3165/",
-          "publishedOn": "2025-11-07T00:00:00.000Z",
-          "wordCount": 208,
-          "title": "Earthquake Prediction Flowchart",
-          "imageUrl": "https://imgs.xkcd.com/comics/earthquake_prediction_flowchart_2x.png"
         }
       ]
     },
@@ -785,7 +785,18 @@
       "title": "esoteric.codes",
       "feedUrl": "https://esoteric.codes/rss",
       "siteUrl": "https://esoteric.codes",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://esoteric.codes/blog/yayimhere-interview",
+          "author": null,
+          "description": "yayimhere's dream-inspired work uncovers subtle anomalies and contradictions in the strict logic of minimalist systems.\n\r\n» How did you discover esolangs and drew you to this form in the beginning? \n\r\nI only partly remember how I got into esolanging itself. I think the reason was Malbolge. It was so interesting to me, that you could make something so hard to use! Because of that, my first esolangs (now deleted, since I don't even remember how they work anymore) were goto-based, and self-modifying in one way or the other. \n\r\n[See also: interview with Ben Olmstead, creator of Malbolge]\n\r\n» Tell me about your approach to esolanging / esoprogramming. You seem to have many languages that relate in some way to Minsky machines. Could you explain what a Minsky machine is and why you are drawn to that architecture? \n\r\nMost of my esolangs are made along the lines of:\n\r\n\r\nRead another esolang, and highly overthink one very very specific feature, quote, or programming method from it.\n\r\nCome up with a half concept for something using that.\n\r\nIn my sleep make the precise command set\n\r\nAnd wake up in the morning, with a whole programming language!\n\r\n\r\nWhich I think you can see in languages like hexad, which is a strange self modifying language where reading and writing basically is impossible. This originated from a single quote on the WUUI page: \"It is currently unclear whether such a memory structure can be reliably set up under WUUI's rules\". This then made me wonder, is it possible to make every structure unreliable. And after a while, I had a language.\nRead More",
+          "link": "https://esoteric.codes/blog/yayimhere-interview",
+          "publishedOn": "2026-01-05T04:06:00.000Z",
+          "wordCount": 4706,
+          "title": "Interview with yayimhere",
+          "imageUrl": "https://esoteric.codes/uploads/441d0ae6-a564-423a-9e62-675d780876f7/yayimhere_wide.png"
+        }
+      ]
     },
     {
       "title": "Lea Verou’s blog",
@@ -1040,16 +1051,6 @@
           "wordCount": 2125,
           "title": "Firefox expands fingerprint protections: advancing towards a more private web",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2025/11/Distilled_Fx-Privacy-Protections_1920x1080-1080x720.png"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=82895",
-          "author": "Brian Smith",
-          "description": "Increasingly, businesses, schools, and government institutions deploy Firefox at scale for security, resilience, and data sovereignty. Organizations have fine-grained administrative and orchestration control of the browser’s behavior using policies with Firefox and the Extended Support Release (ESR). Today, we’re opening early access to Firefox Support for Organizations, a new program that begins operation in January […]\nThe post Introducing early access for Firefox Support for Organizations appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/firefox/firefox-support-for-organizations/",
-          "publishedOn": "2025-11-07T12:00:00.000Z",
-          "wordCount": 1574,
-          "title": "Introducing early access for Firefox Support for Organizations",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2025/11/Press_Firefox_Brand_1200x800_1-1200x800.png"
         }
       ]
     },
@@ -1087,6 +1088,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=12215",
+          "author": "Cory Doctorow",
+          "description": "Today's links A world without people: AI is a promise to wire the boss's toy steering wheel directly into the company's drive-train. Hey look at this: Delights to delectate. Object permanence: Adding exclusive rights make economies weaker; Bloggers after the collapse; Why the media can't figure out Wikipedia; Who are these sf legends?; Anne Frank is in the public domain; Hollywood's MP in Canada; Piketty on Piketty; Vanilla ISIS; India throws out Facebook's astroturf emails; Google unionizes; \"The Data Detective\"; Breaking Apple ][+ DRM. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. A world without people (permalink) To be a bi…",
+          "link": "https://pluralistic.net/2026/01/05/fisher-price-steering-wheel/",
+          "publishedOn": "2026-01-05T14:42:21.000Z",
+          "wordCount": 4655,
+          "title": "Pluralistic: A world without people (05 Jan 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=12185",
           "author": "Cory Doctorow",
@@ -1396,16 +1407,6 @@
           "wordCount": 5142,
           "title": "Pluralistic: The enshittification of labor (07 Nov 2025)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=11886",
-          "author": "Cory Doctorow",
-          "description": "Today's links The 40-year economic mistake that let Google conquer (and enshittify) the world: If reality doesn't fit the theory, ignore reality. Hey look at this: Delights to delectate. Object permanence: The Master Switch; Dueling useless machines; Chrome delists Symantec; Someone tried to buy the UK; \"Made to Kill\"; #Audiblegate; Sony lies about de-rootkitifier; “Aurora”; Bluesky and enshittification; Polostan; New Zealand's 3 strikes law; Open Kinekt drivers; Co-op platforms vs Uber; Chelsea Manning's surveillance reform bill. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The 40-year economic mistake that let Google conquer…",
-          "link": "https://pluralistic.net/2025/11/06/vertical-blinds/",
-          "publishedOn": "2025-11-06T12:57:32.000Z",
-          "wordCount": 4195,
-          "title": "Pluralistic: The 40-year economic mistake that let Google conquer (and enshittify) the world (06 Nov 2025)",
-          "imageUrl": null
         }
       ]
     },
@@ -1453,6 +1454,116 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/01/0048122-when-two-filmmakers-make-",
+          "author": null,
+          "description": "When Two Filmmakers Make the Same Movie — and One of Them Is Werner Herzog. A comparison of the two 2022 documentaries about volcanologists Maurice & Katia Krafft, Herzog’s The Fire Within, and Sara Dosa’s Fire of Love.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/26/01/0048122-when-two-filmmakers-make-",
+          "publishedOn": "2026-01-05T23:37:28.000Z",
+          "wordCount": 751,
+          "title": "When Two Filmmakers Make the Same Movie — and One of Them...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/01/0048113-from-book-riots-zero-to",
+          "author": null,
+          "description": "From Book Riot’s Zero to Well-Read podcast: How to Read More (and Better) in 2026. “They dig into when to push through, when to quit a book, how to choose books outside the algorithm, and how small shifts in attention can enrich your reading life.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/26/01/0048113-from-book-riots-zero-to",
+          "publishedOn": "2026-01-05T22:07:59.000Z",
+          "wordCount": 744,
+          "title": "From Book Riot&#8217;s Zero to Well-Read podcast: How to Read More (and...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/01/the-mystery-of-the-samurai-in-venice",
+          "author": null,
+          "description": "Until the late 19th century, Japan’s relations with Europe were relatively limited. So when a pair of letters written by a Japanese man in the early 1600s were discovered in Venice, a mystery was born. Who was this man, why was he in Italy, and why was there little previous evidence that he’d been there? In part one of a new series, Evan Puschak sets the geopolitical stage and introduces us to the samurai who travelled to Rome to treat with the Pope.\nTags: Evan Puschak · Japan · religion · video\n💬 Join the discussion on kottke.org →",
+          "link": "https://kottke.org/26/01/the-mystery-of-the-samurai-in-venice",
+          "publishedOn": "2026-01-05T20:57:59.000Z",
+          "wordCount": 739,
+          "title": "The Mystery Of The Samurai In Venice",
+          "imageUrl": "https://i.ytimg.com/vi/8pkX2fLFy4E/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/01/0048129-a-year-of-clean-energy",
+          "author": null,
+          "description": "A Year of Clean Energy Milestones. “Wind, solar, and electric vehicles made huge strides globally in 2025. For the first time, wind & solar supplied more power than coal worldwide, while plug-in vehicles accounted for more than 1/4 of new car sales.”",
+          "link": "https://kottke.org/26/01/0048129-a-year-of-clean-energy",
+          "publishedOn": "2026-01-05T19:42:59.000Z",
+          "wordCount": 669,
+          "title": "A Year of Clean Energy Milestones. &#8220;Wind, solar, and electric vehicles made...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/01/0048127-a-number-of-studies-show",
+          "author": null,
+          "description": "A number of studies show that various vaccines (shingles, RSV, flu) are associated with “off-target” benefits like reduced cardiovascular risk, lower rates of dementia, and lower Alzheimer’s risk for older people.",
+          "link": "https://kottke.org/26/01/0048127-a-number-of-studies-show",
+          "publishedOn": "2026-01-05T18:34:51.000Z",
+          "wordCount": 628,
+          "title": "A number of studies show that various vaccines (shingles, RSV, flu) are...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/01/0048097-why-i-left-substack-a",
+          "author": null,
+          "description": "Why I Left Substack. A combination of “a good deal of gross misogyny, transphobia, and hard-right stuff” plus Substack “trying to deny this responsibility [as a publisher], to pretend that their decisions weren’t decisions at all”.",
+          "link": "https://kottke.org/26/01/0048097-why-i-left-substack-a",
+          "publishedOn": "2026-01-05T17:38:20.000Z",
+          "wordCount": 613,
+          "title": "Why I Left Substack. A combination of &#8220;a good deal of gross...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/01/what-we-will-use-as-weapons-a-list-of-school-supplies",
+          "author": null,
+          "description": "In 2024, schoolteacher Ginny Robinson won the Best in Show award at a quilting convention for her quilt called What We Will Use as Weapons: A List of School Supplies.\nThis is a protest quilt. It was made by an artist whose day job puts her on the front lines of one of the most grotesque realities in America today. She is a teacher.\nWhat We Will Use as Weapons: A List of School Supplies is the title for this provocative work of art that features school supplies hurling toward the center on the front and an assault rifle on the back. This long, narrow quilt is the actual size and shape of a door. An outline of a human is stitched through the layers. On the front, the person is meant to represent a shooter, and on the reverse side, a teacher.\n\n\nRobinson’s quilt is now part of the collection at the International Quilt Museum.\nTags: education · Ginny Robinson · guns · quilts · USA",
+          "link": "https://kottke.org/26/01/what-we-will-use-as-weapons-a-list-of-school-supplies",
+          "publishedOn": "2026-01-05T16:40:38.000Z",
+          "wordCount": 795,
+          "title": "What We Will Use as Weapons: A List of School Supplies",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//images/posts/01/img-48119-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/01/0048126-m-gessen-on-the-new",
+          "author": null,
+          "description": "M. Gessen on the new world order the Trump regime seems eager to bring about. “If Trump can take Venezuela and Putin can take Ukraine, surely President Xi Jinping of China can take Taiwan.”",
+          "link": "https://kottke.org/26/01/0048126-m-gessen-on-the-new",
+          "publishedOn": "2026-01-05T15:45:02.000Z",
+          "wordCount": 615,
+          "title": "M. Gessen on the new world order the Trump regime seems eager...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/01/0048125-the-media-refuses-to-call",
+          "author": null,
+          "description": "The Media Refuses to Call Trump’s Venezuela Attack an Act of War. “Overwhelmingly, the US media and its purportedly straight reporters have adopted wholesale the White House’s pseudo-legalistic, limited framework of an ‘operation’ to ‘arrest’ Maduro.”",
+          "link": "https://kottke.org/26/01/0048125-the-media-refuses-to-call",
+          "publishedOn": "2026-01-05T15:21:55.000Z",
+          "wordCount": 634,
+          "title": "The Media Refuses to Call Trump&#8217;s Venezuela Attack an Act of War....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/01/0048124-we-are-the-bad-guys",
+          "author": null,
+          "description": "We Are the Bad Guys. “What do we call it when a stronger person decides to rob a weaker person because he can? It is just gangsterism. We are the most dangerous gangsters in the world today.”",
+          "link": "https://kottke.org/26/01/0048124-we-are-the-bad-guys",
+          "publishedOn": "2026-01-05T14:55:56.000Z",
+          "wordCount": 733,
+          "title": "We Are the Bad Guys. &#8220;What do we call it when a...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/01/0048123-isaac-chotiner-interviews",
+          "author": null,
+          "description": "Isaac Chotiner interviews Oona Hathaway, an expert in international law, about the “brazen illegality” of the Trump regime’s invasion of Venezuela to kidnap president Nicolás Maduro.",
+          "link": "https://kottke.org/26/01/0048123-isaac-chotiner-interviews",
+          "publishedOn": "2026-01-05T14:31:27.000Z",
+          "wordCount": 614,
+          "title": "Isaac Chotiner interviews Oona Hathaway, an expert in international law, about the...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/01/0048121-evergreen-no-blood-for-oi",
           "author": null,
@@ -4601,106 +4712,6 @@
           "publishedOn": "2025-11-07T14:58:22.000Z",
           "wordCount": 1065,
           "title": "TIL: &#8220;Key man risk refers to the potential threat a company faces...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/11/0047802-cole-escola-oh-mary-is",
-          "author": null,
-          "description": "Cole Escola (Oh, Mary!) is writing the screenplay for a Miss Piggy movie. Jennifer Lawrence & Emma Stone are producing. (Crossing my fingers for a Pigs in Space scene…)\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/11/0047802-cole-escola-oh-mary-is",
-          "publishedOn": "2025-11-07T03:10:10.000Z",
-          "wordCount": 747,
-          "title": "Cole Escola (Oh, Mary!) is writing the screenplay for a Miss Piggy...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/11/the-daft-punk-experience-in-fortnite",
-          "author": null,
-          "description": "Speaking of Daft Punk, did you know they released some new music recently? Ok well, that’s not quiiiite true, but in late September, Epic launched the Daft Punk Experience in Fortnite and IMO it’s a) extremely cool, nd b) should be considered a part of the group’s official discography.\nFor a taste of what it’s like, here’s the seven-minute intro to the experience:\n\nI watched this live when it launched, on a big TV and with the sound turned up, and it was awesome. Again, no new music, but definitely a new music video experience.\nDuring the intro, you can control your player slightly but the game mostly moves you through it. After you’re inside the pyramid though, there’s a lot to do. The main event is a concert playing some of the songs from their Alive 2007 tour; here’s what that looks lik…",
-          "link": "https://kottke.org/25/11/the-daft-punk-experience-in-fortnite",
-          "publishedOn": "2025-11-06T22:33:02.000Z",
-          "wordCount": 1020,
-          "title": "The Daft Punk Experience in Fortnite",
-          "imageUrl": "https://i.ytimg.com/vi/VmqQSAF1KTs/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/25/11/0047778-space-type-generator-is-a",
-          "author": null,
-          "description": "Space Type Generator is “a kinetic type generator” that’s a hell of a lot of fun to mess with.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/11/0047778-space-type-generator-is-a",
-          "publishedOn": "2025-11-06T21:23:43.000Z",
-          "wordCount": 683,
-          "title": "Space Type Generator is &#8220;a kinetic type generator&#8221; that&#8217;s a hell of...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/11/0047783-low-skilled-workers-are-a",
-          "author": null,
-          "description": "Low Skilled Workers Are a Myth. “[Minimum wage jobs] are not low-skill. They simply require different skills, ones that not just anyone possesses.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/11/0047783-low-skilled-workers-are-a",
-          "publishedOn": "2025-11-06T20:29:14.000Z",
-          "wordCount": 1345,
-          "title": "Low Skilled Workers Are a Myth. &#8220;[Minimum wage jobs] are not low-skill....",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/11/how-marlon-brando-changed-acting",
-          "author": null,
-          "description": "In his most recent video, Evan Puschak takes a close look at Marlon Brando’s face and gestures in a scene from On the Waterfront to explain how Brando changed film forever.\nAnd this is what makes Brando a genius: when his eyes betray his words. His voice says, “What do you really care?” But his eyes say, “Please care. Please show me that you care.”\n\n\nWelp, time to watch On the Waterfront, I guess.\nTags: Evan Puschak · film school · Marlon Brando · movies · On the Waterfront · video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/11/how-marlon-brando-changed-acting",
-          "publishedOn": "2025-11-06T19:37:50.000Z",
-          "wordCount": 766,
-          "title": "How Marlon Brando Changed Acting",
-          "imageUrl": "https://i.ytimg.com/vi/-L6OGruW9i4/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/25/11/0047776-oreo-oreooreo-re-ore-oreo",
-          "author": null,
-          "description": "OREO! OREOOREO! RE! ORE! OREORE! OREOREOREOREORE!\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/11/0047776-oreo-oreooreo-re-ore-oreo",
-          "publishedOn": "2025-11-06T18:48:22.000Z",
-          "wordCount": 721,
-          "title": "OREO! OREOOREO! RE! ORE! OREORE! OREOREOREOREORE!...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/11/0047795-earths-got-a-new-moon",
-          "author": null,
-          "description": "Earth’s got a new moon! (Sort of.) “This asteroid is part of an elite cosmic club which acts like moons but aren’t.” If asteroid, why moon acting?\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/11/0047795-earths-got-a-new-moon",
-          "publishedOn": "2025-11-06T18:00:17.000Z",
-          "wordCount": 712,
-          "title": "Earth&#8217;s got a new moon! (Sort of.) &#8220;This asteroid is part of...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/11/aiming-for-fullness",
-          "author": null,
-          "description": "After completing another long solo walk, Craig Mod wrote about fullness:\nThis is why I always say: Aim for fullness if you want happiness. If the creator itself came down from the sky at the end of a big walking and photographing and writing day and asked: Did ya do all ya could today? I’d be able to answer, without hesitation, heck yes. I suspect we’re “programmed” to feel good about this, and this is, fundamentally, how we emerged from the muck, how we walked out of Africa, how we engineered the miraculous (and horrific) bits of modern humanity. Fullness feels good because DNA knows fullness pushes us ever “forward” (to better, more efficient, more fail-safe means of replication).\nI’d go so far to say that “full days” is one of the wells from which we derive our humanity.\nThe modern smartphone, laden with the corporate ecosystem pulsing underneath its screen, robs us of this feeling, conspires to keep us from “true” fullness. The swiping, the news cycles, the screaming, the idiocy — if anything destroys a muse, it’s this. If anything keeps you locked into a fetid loop of looking, looking, and looking once more at the train wreck, it’s this. I find it impossible to feel fullness, even in the slightest, after having spent just a bit of a day in the thralls of the algorithms.\nThe smartphone eradicates “space” in the mind. With that psychic loss of space, grace becomes impossible. You see the knock-on effects of this rippling out across the world politically.\n\n\nI haven’t done anything as extreme as Craig over the past few weeks I’ve been in Japan, but I have been spending more time offline, out in the world, walking & biking around, exploring, being curious, and, yeah, I feel more full and less anxious/depressed/_______. It feels really good.\nTags: Craig Mod\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/11/aiming-for-fullness",
-          "publishedOn": "2025-11-06T17:06:19.000Z",
-          "wordCount": 1218,
-          "title": "Aiming for Fullness",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/11/0047799-lego-is-considering-makin",
-          "author": null,
-          "description": "Lego is considering making this fan-created Daft Punk set into an official set. YES PLEASE.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/11/0047799-lego-is-considering-makin",
-          "publishedOn": "2025-11-06T16:20:36.000Z",
-          "wordCount": 752,
-          "title": "Lego is considering making this fan-created Daft Punk set into an official...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/11/0047800-australia-has-so-much-sol",
-          "author": null,
-          "description": "Australia has so much solar that it’s offering everyone free electricity. “The program would require electricity retailers to provide free electricity to everyone for at least three hours a day…”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/11/0047800-australia-has-so-much-sol",
-          "publishedOn": "2025-11-06T14:45:36.000Z",
-          "wordCount": 1239,
-          "title": "Australia has so much solar that it&#8217;s offering everyone free electricity. &#8220;The...",
           "imageUrl": ""
         }
       ]
