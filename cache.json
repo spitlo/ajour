@@ -410,16 +410,6 @@
           "wordCount": 206,
           "title": "Car Size",
           "imageUrl": "https://imgs.xkcd.com/comics/car_size_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3166/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/big_and_little_spoons.png\" title=\"Are you the annoying spoon or the sleepy spoon?\" alt=\"Are you the annoying spoon or the sleepy spoon?\" />",
-          "link": "https://xkcd.com/3166/",
-          "publishedOn": "2025-11-10T00:00:00.000Z",
-          "wordCount": 210,
-          "title": "Big and Little Spoons",
-          "imageUrl": "https://imgs.xkcd.com/comics/big_and_little_spoons_2x.png"
         }
       ]
     },
@@ -913,6 +903,16 @@
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
         {
+          "id": "https://blog.mozilla.org/?p=84152",
+          "author": "Raffi Krikorian",
+          "description": "The future of intelligence is being set right now, and the path we’re on leads somewhere I don’t want to go. We’re drifting toward a world where intelligence is something you rent — where your ability to reason, create, and decide flows through systems you don’t control, can’t inspect, and didn’t shape. In that world, […]\nThe post Owners, not renters: Mozilla’s open source AI strategy  appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/mozilla-open-source-ai-strategy/",
+          "publishedOn": "2026-01-08T19:05:12.000Z",
+          "wordCount": 3612,
+          "title": "Owners, not renters: Mozilla’s open source AI strategy",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/01/mozilla-illustrations-bitmap-cloud-blackpink-1280x853.png"
+        },
+        {
           "id": "https://blog.mozilla.org/?p=84112",
           "author": "Mozilla",
           "description": "Mozilla has always believed that technology should serve people — not the other way around. As we enter a moment of rapid change in how people experience the internet and AI, we’re focused on building products that are private, transparent, and put people in control. Today, we’re excited to take an important step forward in […]\nThe post Welcoming John Solomon as Mozilla’s New Chief Marketing Officer appeared first on The Mozilla Blog.",
@@ -1073,7 +1073,18 @@
       "title": "Julia Evans",
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "https://jvns.ca/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://jvns.ca/blog/2026/01/08/a-data-model-for-git/",
+          "author": null,
+          "description": "Hello! This past fall, I decided to take some time to work on Git’s\ndocumentation. I’ve been thinking about working on open source docs for a long\ntime – usually if I think the documentation for something could be improved,\nI’ll write a blog post or a zine or something. But this time I wondered: could I\ninstead make a few improvements to the official documentation?\nSo Marie and I made a few changes to the Git\ndocumentation!\na data model for Git\nAfter a while working on the documentation, we noticed that Git uses the terms\n“object”, “reference”, or “index” in its documentation a lot, but that it didn’t\nhave a great explanation of what those terms mean or how they relate to other\ncore concepts like “commit” and “branch”. So we wrote a new “data model” document!\nYou can read the data model he…",
+          "link": "https://jvns.ca/blog/2026/01/08/a-data-model-for-git/",
+          "publishedOn": "2026-01-08T00:00:00.000Z",
+          "wordCount": 1221,
+          "title": "A data model for Git (and other docs updates)",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Josh Comeau's blog",
@@ -1103,6 +1114,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=12233",
+          "author": "Cory Doctorow",
+          "description": "Today's links Where did the money go? Turning a mountain of (their) money into a pile of (your) money. Hey look at this: Delights to delectate. Object permanence: Revolutionary Colossus; T-Mobile CEO v EFF; Broadband isn't gasoline. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Where did the money go? (permalink) America is trudging through its third consecutive K-shaped recovery (an economic rally where the rich get richer and everyone else gets poorer). The rich have never been richer, and the debt-fueled consumption that kept the economy going is tapering down to a trickle. This isn't down to the iron laws of economics or th…",
+          "link": "https://pluralistic.net/2026/01/08/after-the-moneys-gone/",
+          "publishedOn": "2026-01-08T13:30:43.000Z",
+          "wordCount": 3610,
+          "title": "Pluralistic: Where did the money go? (08 Jan 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=12226",
           "author": "Cory Doctorow",
@@ -1412,16 +1433,6 @@
           "wordCount": 5299,
           "title": "Pluralistic: Theodora Goss's 'Letters From an Imaginary Country' (11 Nov 2025)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=11923",
-          "author": "Cory Doctorow",
-          "description": "Today's links \"Flexible labor\" is a euphemism for \"derisking capital\": It's a zero-sum game. Hey look at this: Delights to delectate. Object permanence: Corrupt CDs; 10,000 wax cylinders; EU wants copyright on links; Sony rootkit; Humbling math-papers; Chelsea Manning on Aaron Swartz; \"Boundless Realms.\" Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. \"Flexible labor\" is a euphemism for \"derisking capital\" (permalink) Corporations aren't people, but people and corporations do share some characteristics. Whether you're a human being or an immortal sinister colony organism that uses humans as gut flora (e.g. a corporation), most of…",
-          "link": "https://pluralistic.net/2025/11/10/zero-sum-zero-hours/",
-          "publishedOn": "2025-11-10T12:15:28.000Z",
-          "wordCount": 3836,
-          "title": "Pluralistic: \"Flexible labor\" is a euphemism for \"derisking capital\" (10 Nov 2025)",
-          "imageUrl": null
         }
       ]
     },
@@ -1469,6 +1480,16 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/01/abolish-ice",
+          "author": null,
+          "description": "Abolish ICE. Abolish ICE. Abolish ICE. Abolish ICE. Abolish ICE. Abolish ICE. Abolish ICE. Abolish ICE. Abolish ICE. Abolish ICE. Abolish ICE. Abolish ICE. Abolish ICE. Abolish ICE. Abolish ICE. Abolish ICE. Abolish ICE. Abolish ICE. Abolish ICE.\nTags: crime · Jamelle Bouie · murder · USA · video",
+          "link": "https://kottke.org/26/01/abolish-ice",
+          "publishedOn": "2026-01-08T14:50:13.000Z",
+          "wordCount": null,
+          "title": "Abolish ICE",
+          "imageUrl": null
+        },
         {
           "id": "https://kottke.org/26/01/0048153-an-ice-agent-murdered-a",
           "author": null,
