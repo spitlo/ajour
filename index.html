@@ -16,9 +16,9 @@
     <meta name="robots" content="noindex, nofollow">
     <link rel="preload" as="font" type="font/woff2" href="https://spitlo.com/fonts/GangsterGrotesk-Bold.woff2" crossorigin="anonymous">
     <link rel="preload" as="font" type="font/woff2" href="https://spitlo.com/fonts/VictorMono-Thin.woff2" crossorigin="anonymous">
-    <link rel="icon" type="image/svg+xml" href="https://spitlo.com/images/favicon.svg?2026-01-17T00:51:12.695Z">
+    <link rel="icon" type="image/svg+xml" href="https://spitlo.com/images/favicon.svg?2026-01-18T00:57:44.851Z">
     <link rel="alternate" type="application/rss+xml" title="Ajour / Spitlo.com" href="feed.atom">
-    <link href="https://spitlo.com/style.css?2026-01-17T00:51:12.695Z" rel="stylesheet">
+    <link href="https://spitlo.com/style.css?2026-01-18T00:57:44.851Z" rel="stylesheet">
 
     <style>
       body { font-size: 14px; }
@@ -53,6 +53,50 @@
           Visit <a target="_blank" rel="noopener noreferrer" href="https://github.com/osmoscraft/osmosfeed">osmos::feed</a> for more info or to make your own custom feed reader.
         </p>
 
+          <section class="daily-content">
+            <h2 class="daily-heading"><time datatime="2026-01-17">2026-01-17</time></h2>
+                <article data-source="Grumpy Gamer" data-rtime="2">
+                  <h3><a target="_blank" rel="noopener noreferrer" href=https://grumpygamer.com/dbs_bug/>Death by Scrolling Bug</a></h3>
+                  <ul class="meta">
+                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://grumpygamer.com/>Grumpy Gamer</a></li>
+                    <li><span class="label">Date:</span> <time datetime="2026-01-17T21:24:55.000Z">2026-01-17</time></li>
+                    <li><span class="label">Reading time:</span> <time>2 min</time></li>
+                    <li><span class="label">Words</span> <time>454</time></li>
+                  </ul>
+                  <p>Interesting bug in Death by Scrolling. Let’s dive in.
+This morning I got up to several Mastodon, Forum messages and Steam posts about a crash in Death by scrolling.
+ferryman.yack(90) Can&#x27;t find var CHALLENGE_GEM
+Interesting. Never seen that before and why now?
+Turns out this bug is in a Daily Challenge, which is why we’re getting a lot of bug reports all at once.  That Daily Challenge must have just pop up for everyone.
+But why didn’t we catch it before?  Both in human testing and in our automated tests?
+Here is the core issue.  CHALLENGE_GEM is a const. But it turns out that consts that are not defined in defines.dinky (and this one wasn’t) aren’t seen in Dinky code run inside of Yack files. This is a bug in the Dinky compiler.
+But to complicated matters even more, the compiler bug is not seen in our dev environment, so it only happens with fully packed release files.
+Our automated testing does test all the Challenges, but this is an odd Challenge in that it is completed in a dialog (Yack file), so while the Challenge was tested for completion it was not trigger via the Yack file by our testing unit.
+But it does deeper.
+After the first release on Steam it was discovered that this challenge only gave 1 Gem, not the normal 5.  This was due to this code in the Yack file:
+STATS_TOTAL.gems_from_challenges +&#x3D; 1
+PLAYER.onGainGem(1)
+
+I had hard coded 1 long ago.  So I changed it to
+STATS_TOTAL.gems_from_challenges +&#x3D; CHALLENGE_GEM
+PLAYER.onGainGem(CHALLENGE_GEM)
+
+So, the first version with the hard coded 1 was the one that went though most of the play testing and testing.
+Then when I change it to CHALLENGE_GEM it ran fine for me because I was in the dev environment and the automated testing didn’t catch this because it was in a .yack file and it was a Daily Challenge so had odds of about 1/100 of happening means it slipped through.
+A lot of 20/20 hindsight.
+This is fixed in the new expansion, but I’m not sure I want to push a fix to the Steam release because it is rare and there are risks in just building a new build.</p>
+                </article>
+                <article data-source="Pluralistic: Daily links from Cory Doctorow" data-rtime="10">
+                  <h3><a target="_blank" rel="noopener noreferrer" href=https://pluralistic.net/2026/01/17/erin-lets-go/>Pluralistic: The world needs an Ireland for disenshittification (17 Jan 2026)</a></h3>
+                  <ul class="meta">
+                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://pluralistic.net>Pluralistic: Daily links from Cory Doctorow</a></li>
+                    <li><span class="label">Date:</span> <time datetime="2026-01-17T15:18:04.000Z">2026-01-17</time></li>
+                    <li><span class="label">Reading time:</span> <time>10 min</time></li>
+                    <li><span class="label">Words</span> <time>3091</time></li>
+                  </ul>
+                  <p>Today&#x27;s links The world needs an Ireland for disenshittification: Regulatory arbitrage isn&#x27;t just for tax cheats. Hey look at this: Delights to delectate. Object permanence: &quot;Fledgling&quot;; Magnetic forest rings; Electable Mr Sanders; &quot;Terrorists&quot; were just blind guys. Upcoming appearances: Where to find me. Recent appearances: Where I&#x27;ve been. Latest books: You keep readin&#x27; em, I&#x27;ll keep writin&#x27; &#x27;em. Upcoming books: Like I said, I&#x27;ll keep writin&#x27; &#x27;em. Colophon: All the rest. The world needs an Ireland for disenshittification (permalink) Ireland is a tax haven. In the 1970s and 1980s, life in the civil-war wracked country was hard – between poverty, scarce employment and civil unrest, the country hemorrhaged its best and brightest. As the saying went, &quot;Ireland&#x27;s top export is the Irish.&quot; In d…</p>
+                </article>
+          </section>
           <section class="daily-content">
             <h2 class="daily-heading"><time datatime="2026-01-16">2026-01-16</time></h2>
                 <article data-source="kottke.org" data-rtime="2">
@@ -6344,228 +6388,6 @@ Tags: science · videos · XKCD
                   </ul>
                   <p>CDC officials confirm that the US is two months away from measles being considered endemic for the first time since 2000. “Elimination status is lost if the virus spreads continuously for 12 months.”</p>
                 </article>
-                <article data-source="kottke.org" data-rtime="3">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://kottke.org/25/11/0047875-the-saudification-of-amer>The Saudification of America Is Under Way. “Jamal Khashoggi’s plight and murder...</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://kottke.org/>kottke.org</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2025-11-19T12:54:24.000Z">2025-11-19</time></li>
-                    <li><span class="label">Reading time:</span> <time>3 min</time></li>
-                    <li><span class="label">Words</span> <time>815</time></li>
-                  </ul>
-                  <p>The Saudification of America Is Under Way. “Jamal Khashoggi’s plight and murder was a warning sign for the US, of the impending loss of freedom and censorship that would sweep the country.”</p>
-                </article>
-                <article data-source="xkcd.com" data-rtime="1">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://xkcd.com/3170/>Service Outage</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://xkcd.com/>xkcd.com</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2025-11-19T00:00:00.000Z">2025-11-19</time></li>
-                    <li><span class="label">Reading time:</span> <time>1 min</time></li>
-                    <li><span class="label">Words</span> <time>206</time></li>
-                  </ul>
-                  <p>No content preview</p>
-                </article>
-          </section>
-          <section class="daily-content">
-            <h2 class="daily-heading"><time datatime="2025-11-18">2025-11-18</time></h2>
-                <article data-source="kottke.org" data-rtime="3">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://kottke.org/25/11/making-dark-chocolate-hilarious>Making Dark Chocolate Hilarious</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://kottke.org/>kottke.org</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2025-11-18T22:57:47.000Z">2025-11-18</time></li>
-                    <li><span class="label">Reading time:</span> <time>3 min</time></li>
-                    <li><span class="label">Words</span> <time>788</time></li>
-                  </ul>
-                  <p>Dark chocolate is very serious business. That’s why this ad for Bournville dark chocolate, which takes aim at dark chocolate snobbery, is so funny.
-This one is so intense. It comes with a list of side effects.
-Mine comes with a therapist.
-To the uneducated palette, this tastes like burnt tire.
-This one captures bitterness, astringency, and resentfulness. The taste is so grown up.
-Oh, mine’s massively grown up.
-This is only available under the counter of a pet store with no address.
-This sugar was used by the Aztecs as currency.
-Some believe this one’s haunted.
-Mine’s flammable.
-
-
-        
-
-         
-Tags: advertising · Bournville · chocolate · food · video
-💬 Join the discussion on kottke.org →</p>
-                </article>
-                <article data-source="kottke.org" data-rtime="2">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://kottke.org/25/11/0047871-edward-o-wilson-in-2009>Edward O. Wilson in 2009: “The real problem of humanity is the...</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://kottke.org/>kottke.org</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2025-11-18T22:11:02.000Z">2025-11-18</time></li>
-                    <li><span class="label">Reading time:</span> <time>2 min</time></li>
-                    <li><span class="label">Words</span> <time>603</time></li>
-                  </ul>
-                  <p>Edward O. Wilson in 2009: “The real problem of humanity is the following: we have paleolithic emotions; medieval institutions; and god-like technology. And it is terrifically dangerous, and it is now approaching a point of crisis overall.”</p>
-                </article>
-                <article data-source="kottke.org" data-rtime="3">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://kottke.org/25/11/0047866-the-strange-afterlife-of->The Strange Afterlife of Hilma af Klint, Painting’s Posthumous Star. “As af...</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://kottke.org/>kottke.org</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2025-11-18T21:15:35.000Z">2025-11-18</time></li>
-                    <li><span class="label">Reading time:</span> <time>3 min</time></li>
-                    <li><span class="label">Words</span> <time>944</time></li>
-                  </ul>
-                  <p>The Strange Afterlife of Hilma af Klint, Painting’s Posthumous Star. “As af Klint’s fame has grown, so have the questions — about what she believed, whom she worked with, and who should be allowed to speak in her name.”
-
-        
-
-        
-
-         
-💬 Join the discussion on kottke.org →</p>
-                </article>
-                <article data-source="kottke.org" data-rtime="3">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://kottke.org/25/11/0047869-the-fascinating-history-o>The Fascinating History of Tarot Card Decks: From the Renaissance to the...</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://kottke.org/>kottke.org</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2025-11-18T20:27:04.000Z">2025-11-18</time></li>
-                    <li><span class="label">Reading time:</span> <time>3 min</time></li>
-                    <li><span class="label">Words</span> <time>772</time></li>
-                  </ul>
-                  <p>The Fascinating History of Tarot Card Decks: From the Renaissance to the Modern Day. The V&amp;A does an unboxing of a half dozen tarot card decks from the last 500 years.
-
-        
-
-        
-
-         
-💬 Join the discussion on kottke.org →</p>
-                </article>
-                <article data-source="kottke.org" data-rtime="3">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://kottke.org/25/11/mary-beard-hollywood-lied-to-you-about-ancient-rome-heres-the-truth>Mary Beard: Hollywood Lied to You About Ancient Rome. Here’s the Truth.</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://kottke.org/>kottke.org</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2025-11-18T19:44:58.000Z">2025-11-18</time></li>
-                    <li><span class="label">Reading time:</span> <time>3 min</time></li>
-                    <li><span class="label">Words</span> <time>816</time></li>
-                  </ul>
-                  <p>In an interview lasting for more than an hour, classicist Mary Beard shares her knowledge &amp; experience about how the picture of Rome we might have in our heads, inherited from Hollywood movies like Gladiator, is incomplete (and just plain wrong in some cases) and what the reality was, gleaned from Roman sources.
-We’ve inherited the history of Ancient Rome through movies, ruins, and shallow stories. The truth is far messier, says classicist Mary Beard. The hidden side of Roman life that screens rarely capture is chaotic; crowded streets teeming with Romans whose everyday lives were shaped by social hierarchies and familial obligations.
-Mary Beard unpacks what archaeology, literature, and even shoes tell us about the Romans’ daily lives. From the role of slaves in dressing elites to the rowdy crowds at chariot races, she shows how we’ve underestimated their complexity.
-
-
-(via open culture)
-Tags: Mary Beard · movies · Roman Empire · video
-💬 Join the discussion on kottke.org →</p>
-                </article>
-                <article data-source="kottke.org" data-rtime="3">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://kottke.org/25/11/0047870-raccoons-are-showing-earl>Raccoons Are Showing Early Signs of Domestication. “City-dwelling raccoons seem to be...</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://kottke.org/>kottke.org</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2025-11-18T18:53:26.000Z">2025-11-18</time></li>
-                    <li><span class="label">Reading time:</span> <time>3 min</time></li>
-                    <li><span class="label">Words</span> <time>818</time></li>
-                  </ul>
-                  <p>Raccoons Are Showing Early Signs of Domestication. “City-dwelling raccoons seem to be evolving a shorter snout — a telltale feature of our pets and other domesticated animals.”
-
-        
-
-        
-
-         
-💬 Join the discussion on kottke.org →</p>
-                </article>
-                <article data-source="kottke.org" data-rtime="3">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://kottke.org/25/11/magnetikpunk-playing-vintage-reel-to-reel-tapes-as-musical-instruments>Magnetikpunk: Playing Vintage Reel-to-Reel Tapes as Musical Instruments</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://kottke.org/>kottke.org</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2025-11-18T17:49:43.000Z">2025-11-18</time></li>
-                    <li><span class="label">Reading time:</span> <time>3 min</time></li>
-                    <li><span class="label">Words</span> <time>843</time></li>
-                  </ul>
-                  <p>A Japanese experimental music group called Open Reel Ensemble plays reel-to-reel tape recorders from the 70s &amp; 80s as musical instruments (give it a sec to get going):
-
-Brilliant! A YouTube commenter notes: “Very cool, looks like you’re fishing for sound waves.” Here’s another video of them playing…this one’s like a reel-to-reel version of DJing with turntables:
-
-I went looking for information about how they’re producing these sounds and found this profile of the group from 2018.
-Over the years, the group has developed new techniques. As Motherboard explains, each member can now “program” sounds directly on to the recorders, creating a strange blend of digital and analog technology. With multi-track recorders, Open Reel Ensemble is able to switch individual tracks on and off, too. Sometimes they’ll record blocks of sustained noise, at various pitches, to be triggered and disabled like notes on a guitar. These allow the band to play intricate chords and melodies on stage. “We’re finding new techniques every day,” Wada said, “exploring rotation and movements, and the relationship between magnetics and sound.”
-
-
-I bet they are amazing to see live.
-Tags: music · Open Reel Ensemble · remix · video
-💬 Join the discussion on kottke.org →</p>
-                </article>
-                <article data-source="kottke.org" data-rtime="2">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://kottke.org/25/11/0047853-the-winners-of-the-lit>The winners of the LIT Lighting Design Awards, encompassing the best work...</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://kottke.org/>kottke.org</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2025-11-18T17:06:12.000Z">2025-11-18</time></li>
-                    <li><span class="label">Reading time:</span> <time>2 min</time></li>
-                    <li><span class="label">Words</span> <time>703</time></li>
-                  </ul>
-                  <p>The winners of the LIT Lighting Design Awards, encompassing the best work in lighting architecture, product design (lamps, etc.), concerts, healthcare, streets, and many more categories.
-
-        
-
-        
-
-         
-💬 Join the discussion on kottke.org →</p>
-                </article>
-                <article data-source="kottke.org" data-rtime="2">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://kottke.org/25/11/0047862-a-beloved-clothing-store->A Beloved Clothing Store Closed. A Customer Bought All 4,500 Items. “Ms....</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://kottke.org/>kottke.org</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2025-11-18T16:14:52.000Z">2025-11-18</time></li>
-                    <li><span class="label">Reading time:</span> <time>2 min</time></li>
-                    <li><span class="label">Words</span> <time>716</time></li>
-                  </ul>
-                  <p>A Beloved Clothing Store Closed. A Customer Bought All 4,500 Items. “Ms. Szuflita said she had nearly broken even purely on the numbers. There’s also value in the still unfolding adventure.”
-
-        
-
-        
-
-         
-💬 Join the discussion on kottke.org →</p>
-                </article>
-                <article data-source="kottke.org" data-rtime="3">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://kottke.org/25/11/0047860-fantastic-and-useful-litt>Fantastic and useful little design touch on this website that sells lighting...</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://kottke.org/>kottke.org</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2025-11-18T16:03:27.000Z">2025-11-18</time></li>
-                    <li><span class="label">Reading time:</span> <time>3 min</time></li>
-                    <li><span class="label">Words</span> <time>769</time></li>
-                  </ul>
-                  <p>Fantastic and useful little design touch on this website that sells lighting (toggle the switch in the upper right corner).
-
-        
-
-        
-
-         
-💬 Join the discussion on kottke.org →</p>
-                </article>
-                <article data-source="kottke.org" data-rtime="2">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://kottke.org/25/11/football-stadium-turned-community-garden>Football Stadium Turned Community Garden</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://kottke.org/>kottke.org</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2025-11-18T15:12:39.000Z">2025-11-18</time></li>
-                    <li><span class="label">Reading time:</span> <time>2 min</time></li>
-                    <li><span class="label">Words</span> <time>730</time></li>
-                  </ul>
-                  <p>As part of a city-wide urban greening program, Taipei turned an abandoned football stadium into a community garden. Here’s an overview of the terraced garden that’s taken over Zhongshan Soccer Stadium from James Stewart on Instagram. A couple of screenshots from the video:
-
-So cool! (thx, alaina)
-Tags: cities · Taiwan
-💬 Join the discussion on kottke.org →</p>
-                </article>
-                <article data-source="Pluralistic: Daily links from Cory Doctorow" data-rtime="13">
-                  <h3><a target="_blank" rel="noopener noreferrer" href=https://pluralistic.net/2025/11/18/im-not-bad/>Pluralistic: Disney lost Roger Rabbit (18 Nov 2025)</a></h3>
-                  <ul class="meta">
-                    <li><span class="label">Source:</span> <a target="_blank" rel="noopener noreferrer" href=https://pluralistic.net>Pluralistic: Daily links from Cory Doctorow</a></li>
-                    <li><span class="label">Date:</span> <time datetime="2025-11-18T13:54:06.000Z">2025-11-18</time></li>
-                    <li><span class="label">Reading time:</span> <time>13 min</time></li>
-                    <li><span class="label">Words</span> <time>3755</time></li>
-                  </ul>
-                  <p>Today&#x27;s links Disney has lost Roger Rabbit: Termination of Transfer is the most pro-artist form of copyright. Hey look at this: Delights to delectate. Object permanence: Why didn&#x27;t AV apps block Sony&#x27;s rootkit? Surveillance doesn&#x27;t stop terror attacks; The last Pratchett; The true cost of terrorism. Upcoming appearances: Where to find me. Recent appearances: Where I&#x27;ve been. Latest books: You keep readin&#x27; em, I&#x27;ll keep writin&#x27; &#x27;em. Upcoming books: Like I said, I&#x27;ll keep writin&#x27; &#x27;em. Colophon: All the rest. Disney has lost Roger Rabbit (permalink) Gary K Wolf is the author of a fantastic 1981 novel called Who Censored Roger Rabbit? which Disney licensed and turned into an equally fantastic 1988 live action/animated hybrid movie called Who Framed Roger Rabbit? But despite the commercial and …</p>
-                </article>
           </section>
           <section class="daily-content">
             <h2 class="daily-heading"><time datatime="2022-03-18">2022-03-18</time></h2>
@@ -7383,7 +7205,7 @@ actual BBS software and related acc…</p>
 
         <footer>
           <section class="details">
-            <span class="detail">Built @ 2026-01-17T00:51:12.695Z</span>
+            <span class="detail">Built @ 2026-01-18T00:57:44.851Z</span>
             <span class="divider">|</span>
             <span class="detail">CLI: 1.15.1</span>
             <span class="divider">|</span>
