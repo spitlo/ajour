@@ -487,16 +487,6 @@
           "wordCount": 1055,
           "title": "An opportunity to learn: Advent of Code [blog]",
           "imageUrl": "https://remysharp.com/images/cards/og/9-4.jpg"
-        },
-        {
-          "id": "handing-over-to-the-ai-for-a-day",
-          "author": null,
-          "description": "Context: back in March 2025 I decided to put aside my scepticism and try AI driven development for the day. I appreciate that in 8 months, the AI landscape, particularly around agentic software dev has moved along, and perhaps this should have been posted originally back in March. All the same, maybe this is useful to some degree, if only to capture what it was like in time.\n\nWhilst I sit squarely in my AI-sceptic seat, I was recently prompted to try a different tact by two post I read a few weeks back.\nThe first was Bruce's colonoscopy post, yes, that one. It was in fact that he was using a local LLM to create a generative image to commemorate his visit. I'd been using chatgpt (for code and electronics, basically a NLP version of a search engine), and hadn't considered that perhaps I coul…",
-          "link": "https://remysharp.com/2025/11/29/handing-over-to-the-ai-for-a-day",
-          "publishedOn": "2025-11-29T00:00:00.000Z",
-          "wordCount": 2587,
-          "title": "Handing over to the AI for a day [blog]",
-          "imageUrl": "https://remysharp.com/images/cards/og/9-0.jpg"
         }
       ]
     },
@@ -857,6 +847,16 @@
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
         {
+          "id": "https://blog.mozilla.org/?p=84300",
+          "author": "Mozilla",
+          "description": "We’re at a fork in the road. AI is here, and has started to define how we search, create, communicate — and how the web itself works.  Some of you love AI, but want it to work better for yourselves and society. Some of you hate it, and don’t want any of it.  We get it.  […]\nThe post The State of Mozilla: Are you ready to choose your future?  appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/state-of-mozilla-25-26/",
+          "publishedOn": "2026-01-27T17:05:13.000Z",
+          "wordCount": 1614,
+          "title": "The State of Mozilla: Are you ready to choose your future?",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/01/som-1061x707.png"
+        },
+        {
           "id": "https://blog.mozilla.org/?p=84277",
           "author": "Peter Rojas",
           "description": "Who will build the next version of the web? Mozilla wants to make it more likely that it’s you. We are committing time and resources to bring experienced builders into Mozilla for a short, programmed period, to work with our New Products leaders to build tools and products for the next version of the web.  […]\nThe post Who will pioneer the next web? appeared first on The Mozilla Blog.",
@@ -994,6 +994,16 @@
       "siteUrl": "https://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/",
+          "author": null,
+          "description": "Hello! One of my favourite things is starting to learn an\nOld Boring Technology that I’ve never tried before but that has been around for\n20+ years. It feels really good when every problem I’m ever going to have has\nbeen solved already 1000 times and I can just get stuff done easily.\nI’ve thought it would be cool to learn a popular web framework like\nRails or Django or Laravel for a long time, but I’d never really managed to\nmake it happen. But I started learning Django to make a website a few months\nback, I’ve been liking it so far, and here are a few quick notes!\nless magic than Rails\nI spent some time trying to learn Rails in 2020,\nand while it was cool and I really wanted to like Rails (the Ruby community is great!),\nI found that if I left my Rails project alone for months, when I came…",
+          "link": "https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/",
+          "publishedOn": "2026-01-27T00:00:00.000Z",
+          "wordCount": 1399,
+          "title": "Some notes on starting to use Django",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2026/01/08/a-data-model-for-git/",
           "author": null,
           "description": "Hello! This past fall, I decided to take some time to work on Git’s\ndocumentation. I’ve been thinking about working on open source docs for a long\ntime – usually if I think the documentation for something could be improved,\nI’ll write a blog post or a zine or something. But this time I wondered: could I\ninstead make a few improvements to the official documentation?\nSo Marie and I made a few changes to the Git\ndocumentation!\na data model for Git\nAfter a while working on the documentation, we noticed that Git uses the terms\n“object”, “reference”, or “index” in its documentation a lot, but that it didn’t\nhave a great explanation of what those terms mean or how they relate to other\ncore concepts like “commit” and “branch”. So we wrote a new “data model” document!\nYou can read the data model he…",
@@ -1022,6 +1032,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=12322",
+          "author": "Cory Doctorow",
+          "description": "Today's links Carney isn't a hero (and that's OK): There is nothing harder to stop than an idea whose time has come to pass. Hey look at this: Delights to delectate. Object permanence: Things My Girlfriend and I Have Argued About; AnarchistU; \"Monopolized\"; All bets are off. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Carney isn't a hero (and that's OK) (permalink) I blame novelists: it's only in prose that we get the illusion of telepathy, of being inside the mind of another. No wonder novelistic tales of political transformation focus on the moral fortitude of individual leaders. The problem is, it's a destructive lie. Sure…",
+          "link": "https://pluralistic.net/2026/01/27/i-want-to-do-it/",
+          "publishedOn": "2026-01-27T17:43:00.000Z",
+          "wordCount": 3853,
+          "title": "Pluralistic: Carney isn't a hero (and that's OK) (27 Jan 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=12317",
           "author": "Cory Doctorow",
@@ -1378,6 +1398,106 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/01/an-archive-of-italian-graphic-design",
+          "author": null,
+          "description": "“Archivio Grafica Italiana is the first online archive dedicated to the entire Italian graphic design heritage.” (via sidebar)\nTags: design",
+          "link": "https://kottke.org/26/01/an-archive-of-italian-graphic-design",
+          "publishedOn": "2026-01-27T23:06:46.000Z",
+          "wordCount": 585,
+          "title": "An Archive of Italian Graphic Design",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//images/posts/01/img-48252-03.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/01/0048241-an-impressive-isometric-m",
+          "author": null,
+          "description": "An impressive isometric map of NYC, built with AI agents. “I’m particularly interested in scaling up the grindy repetitive tasks that make many ideas practically impossible.”",
+          "link": "https://kottke.org/26/01/0048241-an-impressive-isometric-m",
+          "publishedOn": "2026-01-27T21:49:30.000Z",
+          "wordCount": 603,
+          "title": "An impressive isometric map of NYC, built with AI agents. &#8220;I&#8217;m particularly...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/01/watch-classic-episodes-of-sesame-street-for-free-on-youtube",
+          "author": null,
+          "description": "Sesame Street has uploaded a bunch of classic episodes to YouTube that are free to watch, including the very first episode from 1969, the one where Mister Rogers visits, and the episode where Mr. Snuffulupagus is finally revealed. The most recent one was uploaded just a couple of days ago, so it appears to be an ongoing effort. (via open culture)\nP.S. From Four Things About Mr. Snuffleupagus:\nSnuffy was finally introduced to the main human cast mainly due to a string of high profile and sometimes graphic stories of pedophilia and sexual abuse of children that had been aired on shows such as 60 Minutes and 20/20. The writers felt that by having the adults refuse to believe Big Bird despite the fact that he was telling the truth, they were scaring children into thinking that their parents would not believe them if they had been sexually abused and that they would just be better off remaining silent.\n\n\n        \n\n         \nTags: Fred Rogers · Sesame Street · TV · video · YouTube",
+          "link": "https://kottke.org/26/01/watch-classic-episodes-of-sesame-street-for-free-on-youtube",
+          "publishedOn": "2026-01-27T20:45:18.000Z",
+          "wordCount": 736,
+          "title": "Watch Classic Episodes of Sesame Street for Free on YouTube",
+          "imageUrl": "https://i.ytimg.com/vi/va9N_PNimvA/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/01/0048212-you-need-a-kitchen-slide",
+          "author": null,
+          "description": "You Need A Kitchen Slide Rule. “Kitchen work is all about proportions, and nothing beats the slide rule for proportions.”",
+          "link": "https://kottke.org/26/01/0048212-you-need-a-kitchen-slide",
+          "publishedOn": "2026-01-27T19:50:36.000Z",
+          "wordCount": 636,
+          "title": "You Need A Kitchen Slide Rule. &#8220;Kitchen work is all about proportions,...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/01/information-you-could-hold-in-your-hand",
+          "author": null,
+          "description": "Whoa, this is a fantastic archive of tangible media objects — like gramophone records, punch cards, 8-tracks, floppy disks, etc. (via unsung)",
+          "link": "https://kottke.org/26/01/information-you-could-hold-in-your-hand",
+          "publishedOn": "2026-01-27T18:36:54.000Z",
+          "wordCount": 590,
+          "title": "Information You Could Hold in Your Hand",
+          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//images/posts/01/img-48245-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/01/0048248-science-magazine-us-gover",
+          "author": null,
+          "description": "Science magazine: US government has lost more than 10,000 STEM PhDs since Trump took office.",
+          "link": "https://kottke.org/26/01/0048248-science-magazine-us-gover",
+          "publishedOn": "2026-01-27T17:54:17.000Z",
+          "wordCount": 579,
+          "title": "Science magazine: US government has lost more than 10,000 STEM PhDs since...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/01/0048247-the-comics-journals-obitu",
+          "author": null,
+          "description": "The Comics Journal’s obituary for Scott Adams. “Dilbert’s tone shifted during the 2010s, punching down at targets, mocking and belittling societal shifts and perceived “political correctness,” with more cynical, even bitter humor…”",
+          "link": "https://kottke.org/26/01/0048247-the-comics-journals-obitu",
+          "publishedOn": "2026-01-27T17:18:44.000Z",
+          "wordCount": 633,
+          "title": "The Comics Journal&#8217;s obituary for Scott Adams. &#8220;Dilbert&#8217;s tone shifted during the...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/01/0048246-this-video-from-december-",
+          "author": null,
+          "description": "This video from December is about a pair of teenaged ICE trackers. “Armed with phone and body cameras, Ben and Sam patrol the Chicago suburbs in hopes of tracking ICE agents and filming raids they see as unwarranted and unjustified.”",
+          "link": "https://kottke.org/26/01/0048246-this-video-from-december-",
+          "publishedOn": "2026-01-27T15:35:35.000Z",
+          "wordCount": 666,
+          "title": "This video from December is about a pair of teenaged ICE trackers....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/01/0048243-a-90-minute-ice-watch-tra",
+          "author": null,
+          "description": "A 90-minute ICE Watch training session via Zoom “on effectively protecting your neighborhoods from federal enforcement incursions”. Jan 28, 7pm ET. Sign up here.",
+          "link": "https://kottke.org/26/01/0048243-a-90-minute-ice-watch-tra",
+          "publishedOn": "2026-01-27T14:43:17.000Z",
+          "wordCount": 664,
+          "title": "A 90-minute ICE Watch training session via Zoom &#8220;on effectively protecting your...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/01/0048242-minnesota-proved-maga-wro",
+          "author": null,
+          "description": "Minnesota Proved MAGA Wrong. “Activists have made the decision to emphasize protection, aid, and observation. When matters escalate, it is usually the choice of the federal agents.”",
+          "link": "https://kottke.org/26/01/0048242-minnesota-proved-maga-wro",
+          "publishedOn": "2026-01-27T13:59:46.000Z",
+          "wordCount": 606,
+          "title": "Minnesota Proved MAGA Wrong. &#8220;Activists have made the decision to emphasize protection,...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/01/0048234-a-collection-of-dartboard",
           "author": null,
@@ -4607,66 +4727,6 @@
           "wordCount": null,
           "title": "Q: &#8220;Want to Feel Old?&#8221; A: &#8220;Yes.&#8221;",
           "imageUrl": null
-        },
-        {
-          "id": "https://kottke.org/25/11/macaulay-culkin-watches-home-alone-with-his-kids-who-dont-realize-hes-kevin",
-          "author": null,
-          "description": "On tour for the 35th anniversary of Home Alone, Macaulay Culkin said his kids love the movie, but don’t know he’s Kevin. They’re only three and four years old, so this makes sense, but it’s still hilarious.\nAnd while they will even get excited when they see the young character in montages on Disney+, where the film is available to stream, Culkin said, “They have no idea that I’m Kevin.” “They’re only three and four years old,” continued the actor, adding that he wants “to keep up that illusion as long as possible.”\n\n\n\nBut also, did you know Angels With Dirty Souls isn’t a real movie? I didn’t. \nSince we’re here, how about a Home Alone oral history from 10 years ago?\nMark Radcliffe\nChris wanted to do snow dressing as part of the background of the movie. Budgetwise, we couldn’t really afford…",
-          "link": "https://kottke.org/25/11/macaulay-culkin-watches-home-alone-with-his-kids-who-dont-realize-hes-kevin",
-          "publishedOn": "2025-11-28T21:05:25.000Z",
-          "wordCount": 1063,
-          "title": "Macaulay Culkin Watches Home Alone With His Kids Who Don&#8217;t Realize He&#8217;s Kevin",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//plus/misc/images/Home%20Alone.jpg"
-        },
-        {
-          "id": "https://kottke.org/25/11/0047915-rebecca-solnit-a-year-on",
-          "author": null,
-          "description": "Rebecca Solnit: A Year on From Trump’s Victory, Resistance Is Everywhere. “There has, in fact, been a tremendous amount and variety of resistance and opposition and it’s mattered tremendously.”",
-          "link": "https://kottke.org/25/11/0047915-rebecca-solnit-a-year-on",
-          "publishedOn": "2025-11-28T20:03:54.000Z",
-          "wordCount": 623,
-          "title": "Rebecca Solnit: A Year on From Trump&#8217;s Victory, Resistance Is Everywhere. &#8220;There...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/11/0047912-atul-gawande-of-harvards-",
-          "author": null,
-          "description": "Atul Gawande of Harvard’s School of Public Health: The Trump regime’s destruction of USAID “has already caused the deaths of six hundred thousand people, two-thirds of them children”.",
-          "link": "https://kottke.org/25/11/0047912-atul-gawande-of-harvards-",
-          "publishedOn": "2025-11-28T19:10:49.000Z",
-          "wordCount": 646,
-          "title": "Atul Gawande of Harvard&#8217;s School of Public Health: The Trump regime&#8217;s destruction...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/11/0047911-a-long-profile-of-comics",
-          "author": null,
-          "description": "A long profile of comics legend Alan Moore. “For the first time in his 45-year career, Alan Moore is alone on the page.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/11/0047911-a-long-profile-of-comics",
-          "publishedOn": "2025-11-28T18:24:14.000Z",
-          "wordCount": 687,
-          "title": "A long profile of comics legend Alan Moore. &#8220;For the first time...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/11/0047913-im-still-working-on-the",
-          "author": null,
-          "description": "I’m still working on the KDO gift guide for this year. In the meantime, here’s the 2024 edition, which has aged well and includes these popular Japanese nail clippers.",
-          "link": "https://kottke.org/25/11/0047913-im-still-working-on-the",
-          "publishedOn": "2025-11-28T16:26:42.000Z",
-          "wordCount": 649,
-          "title": "I&#8217;m still working on the KDO gift guide for this year. In...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/11/0047914-australia-is-on-course-to",
-          "author": null,
-          "description": "“Australia is on course to meet a target of eliminating cervical cancer by 2035, which, if achieved, will make it the first country to do so.” This is due in large part to their HPV vaccination campaign.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/11/0047914-australia-is-on-course-to",
-          "publishedOn": "2025-11-28T15:48:44.000Z",
-          "wordCount": 719,
-          "title": "&#8220;Australia is on course to meet a target of eliminating cervical cancer...",
-          "imageUrl": ""
         }
       ]
     },
