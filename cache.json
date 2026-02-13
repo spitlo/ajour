@@ -177,6 +177,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3206/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/installation.png\" title=\"Do YOU remember the skylight being this big?\" alt=\"Do YOU remember the skylight being this big?\" />",
+          "link": "https://xkcd.com/3206/",
+          "publishedOn": "2026-02-11T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Installation",
+          "imageUrl": "https://imgs.xkcd.com/comics/installation_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3205/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/carbon_dating.png\" title=\"This dating is corroborated by the presence of stone tools at the site, rather than earlier and less effective helium ones.\" alt=\"This dating is corroborated by the presence of stone tools at the site, rather than earlier and less effective helium ones.\" />",
@@ -415,16 +425,6 @@
           "wordCount": 206,
           "title": "Telescope Types",
           "imageUrl": "https://imgs.xkcd.com/comics/telescope_types_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3181/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/jumping_frog_radius.png\" title=\"Earth's r_jf is approximately 1.5 light-days, leading to general relativity's successful prediction that all the frogs in the Solar System should be found collected on the surface of the Earth.\" alt=\"Earth's r_jf is approximately 1.5 light-days, leading to general relativity's successful prediction that all the frogs in the Solar System should be found collected on the surface of the Earth.\" />",
-          "link": "https://xkcd.com/3181/",
-          "publishedOn": "2025-12-15T00:00:00.000Z",
-          "wordCount": 208,
-          "title": "Jumping Frog Radius",
-          "imageUrl": "https://imgs.xkcd.com/comics/jumping_frog_radius_2x.png"
         }
       ]
     },
@@ -433,6 +433,16 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "git-recent",
+          "author": null,
+          "description": "Mega short blog post, mostly for me to remember, but also might be useful to you.\nIn a project I'll often work on and move around different branches throughout the day, and as the years wear on it's rather dulled my memory - that's to say, I quickly forget what branch I was working on!",
+          "link": "https://remysharp.com/2026/02/12/git-recent",
+          "publishedOn": "2026-02-12T00:00:00.000Z",
+          "wordCount": 704,
+          "title": "git recent: what branch did I work on? [blog]",
+          "imageUrl": "https://remysharp.com/images/cards/og/9-7.jpg"
+        },
         {
           "id": "2026-02-03-d5be6744",
           "author": null,
@@ -1008,6 +1018,16 @@
       "siteUrl": "https://pluralistic.net",
       "articles": [
         {
+          "id": "https://pluralistic.net/?p=12410",
+          "author": "Cory Doctorow",
+          "description": "Today's links Doctors' union may yet save the NHS from Palantir: There is power in the union. Hey look at this: Delights to delectate. Object permanence: Premature internet activists; Privacy Without Monopoly; \"Broad Band\"; Yazidi supersoldiers; I was a Jeopardy! clue. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Doctors' union may yet save the NHS from Palantir (permalink) If you weren't paying close attention, you might think that the most grotesque and indefensible aspect of Keir Starmer's Labour government turning over NHS patient records to the American military contractor Palantir is that Palantir are Trumpist war-crimin…",
+          "link": "https://pluralistic.net/2026/02/12/palantir-is-ice/",
+          "publishedOn": "2026-02-12T08:42:04.000Z",
+          "wordCount": 2895,
+          "title": "Pluralistic: Doctors' union may yet save the NHS from Palantir (12 Feb 2026)",
+          "imageUrl": null
+        },
+        {
           "id": "https://pluralistic.net/?p=12407",
           "author": "Cory Doctorow",
           "description": "Today's links Europe takes a big step towards a post-dollar world: Recapturing $24t worth of transactions from Visa/Mastercard. Hey look at this: Delights to delectate. Object permanence: API for Congress; Steampunk fetish mask; Hillary x AOL login screen; Suffragist Valentines; Musk x Intuit vs the American people. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Europe takes a big step towards a post-dollar world (permalink) There's a reason every decentralized system eventually finds its way onto a platform: platforms solve real-world problems that platform users struggle to solve for themselves. I've written before about the i…",
@@ -1388,6 +1408,136 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/02/0048356-if-you-havent-seen-this",
+          "author": null,
+          "description": "If you haven’t seen this or heard about it (or even if you have), the full story of this McDonald’s mural is well worth your time. “Giving that talk…was one of the greatest moments of my life. Bar none.” (Don’t skip the video!)",
+          "link": "https://kottke.org/26/02/0048356-if-you-havent-seen-this",
+          "publishedOn": "2026-02-12T23:22:16.000Z",
+          "wordCount": 357,
+          "title": "If you haven&#8217;t seen this or heard about it (or even...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/02/building-a-lego-powered-submarine",
+          "author": null,
+          "description": "As you know, I love me some Lego engineering builds. This one is pretty fun: using a large syringe, a Raspberry Pi, neodymium magnets, a controller scavenged from a toy submarine, and a bunch of Lego pieces, Brick Experiment Channel built a remote-controlled submarine. And it works so well! They even tested it by navigating 200 meters in a real stream.\n\n \n\n        \n         \nTags: Lego · video",
+          "link": "https://kottke.org/26/02/building-a-lego-powered-submarine",
+          "publishedOn": "2026-02-12T21:55:46.000Z",
+          "wordCount": 339,
+          "title": "Building a Lego-Powered Submarine",
+          "imageUrl": "https://i.ytimg.com/vi/KLEH8RJsYgI/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/02/0048365-spider-noir-is-an-upcomin",
+          "author": null,
+          "description": "Spider-Noir is an upcoming live-action series starring Nicolas Cage as his noir Spider-Man character from Spider-Verse. The trailer is available in color and black & white.",
+          "link": "https://kottke.org/26/02/0048365-spider-noir-is-an-upcomin",
+          "publishedOn": "2026-02-12T21:09:43.000Z",
+          "wordCount": 351,
+          "title": "Spider-Noir  is an upcoming live-action series starring...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/02/the-track",
+          "author": null,
+          "description": "The Track is a documentary film about a group of athletes training in post-war Bosnia to make the Olympics in luge.\nThe Track is a coming-of-age journey of three friends chasing their improbable Olympic dreams in post-war Bosnia. Training on a crumbling track left behind from the 1984 Sarajevo Winter Olympics, the boys are guided by their devoted coach Senad, whose fight to rebuild the neglected track mirrors his determination to create a future for his athletes in a country facing one of the highest youth unemployment rates in Europe.\nFilmed over five transformative years, The Track captures an intimate and deeply human coming-of-age story set against the backdrop of a nation still recovering from the scars of war, political corruption, and rising nationalism. As the boys balance Olympic ambition with the pull of street life, heartbreak, and survival, their paths begin to diverge, revealing the stark realities young people face in modern Bosnia.\n\n\t\nYou can check the website for online and IRL showings; it’s on Amazon Prime in the US.\n\n \n\n        \n         \nTags: Bosnia · luge · movies · Olympic Games · sports · The Track · trailers · video · war",
+          "link": "https://kottke.org/26/02/the-track",
+          "publishedOn": "2026-02-12T20:21:12.000Z",
+          "wordCount": 449,
+          "title": "The Track",
+          "imageUrl": "https://i.ytimg.com/vi/6cpaoVKZuAo/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/02/0048363-fun-word-search-game-from",
+          "author": null,
+          "description": "Fun word search game from Slate: Pears. (I love any Boggle-esque sort of game. Got 433 today.)",
+          "link": "https://kottke.org/26/02/0048363-fun-word-search-game-from",
+          "publishedOn": "2026-02-12T19:45:18.000Z",
+          "wordCount": 316,
+          "title": "Fun word search game from Slate:  Pears . (I love any...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/02/0048362-ceo-said-a-thing-journali",
+          "author": null,
+          "description": "“‘CEO said a thing!’ journalism generally involves a press outlet parroting the claims of a CEO or billionaire utterly mindlessly without any sort of useful historical context as to whether anything being said is factually correct.”",
+          "link": "https://kottke.org/26/02/0048362-ceo-said-a-thing-journali",
+          "publishedOn": "2026-02-12T19:04:52.000Z",
+          "wordCount": 370,
+          "title": "&#8220; &#8216;CEO said a thing!&#8217; journalism...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/02/0048361-our-milky-way-galaxy-may",
+          "author": null,
+          "description": "“Our Milky Way galaxy may not have a supermassive black hole at its centre but rather an enormous clump of mysterious dark matter exerting the same gravitational influence.”",
+          "link": "https://kottke.org/26/02/0048361-our-milky-way-galaxy-may",
+          "publishedOn": "2026-02-12T18:29:47.000Z",
+          "wordCount": 341,
+          "title": "&#8220;Our Milky Way galaxy may not have a supermassive...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/02/0048353-the-origins-of-one-of",
+          "author": null,
+          "description": "The Origins of One of the Most Beloved Video Games of All Time. “Something I’ve heard from every Mario developer I’ve ever spoken to over the years is this: Whenever you press a button, something fun should happen.”",
+          "link": "https://kottke.org/26/02/0048353-the-origins-of-one-of",
+          "publishedOn": "2026-02-12T17:42:01.000Z",
+          "wordCount": 366,
+          "title": "The Origins of One of the Most Beloved Video Games of...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/02/0048352-michelle-zauner-crying-in",
+          "author": null,
+          "description": "Michelle Zauner (Crying in H Mart) on the 30th anniversary of Infinite Jest. “If you allow yourself to trust-fall into the barbed intricacies of the writing, you will discover soft, exquisite humanity as its perennial landing.”",
+          "link": "https://kottke.org/26/02/0048352-michelle-zauner-crying-in",
+          "publishedOn": "2026-02-12T17:01:25.000Z",
+          "wordCount": 358,
+          "title": "Michelle Zauner (Crying in H Mart)  on the 30th...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/02/its-fine-if-i-suck-sometimes",
+          "author": null,
+          "description": "Sara Hussain for Vogue India: In 2026, I’m No Longer Interested in ‘Working on Myself’, aka the exhausting “hyper-policing [of] our thoughts and language until having a personality feels like a risk assessment exercise”.\nEverything began to feel like a diagnostic exercise. If I’m tired, it’s burnout. If I’m irritated, it’s dysregulation. If I don’t reply to a message immediately, I’m either protecting my boundaries or avoiding intimacy. I am never simply annoyed. I am always processing.\nTo be fair, some of this shift was necessary. Therapy helps. Naming patterns helps. Talking about things publicly has helped people survive things they otherwise might not have. Awareness is progress. My awareness, however, has tipped into surveillance.\n\n\t\nBeing in therapy these last few years has been great, essential even. But I feel what Hussain is talking about here. One of the helpful things I’ve learned is that while you do need to change and grow, you still need to be yourself. I forget who, but someone once said that the job of an editor is to make a writer sound more like themselves. That’s probably true of the therapeutic process as well, including the part we’re responsible for.\n\n \n\n        \n         \nTags: Sara Hussain · therapy",
+          "link": "https://kottke.org/26/02/its-fine-if-i-suck-sometimes",
+          "publishedOn": "2026-02-12T16:18:50.000Z",
+          "wordCount": 474,
+          "title": "&#8220;It&#8217;s Fine If I Suck Sometimes&#8221;",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/02/0048351-any-serious-push-to-accou",
+          "author": null,
+          "description": "“Any serious push to account for the actions of this government — to abolish the president’s private army, restructure immigration enforcement and punish anyone responsible for wrongdoing — must include recompense and repair for its victims.”",
+          "link": "https://kottke.org/26/02/0048351-any-serious-push-to-accou",
+          "publishedOn": "2026-02-12T15:29:20.000Z",
+          "wordCount": 343,
+          "title": "&#8220;Any serious push to account for the actions of...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/02/0048339-when-gmail-was-released-a",
+          "author": null,
+          "description": "When Gmail was released as a public beta in 2004, it “ran on three hundred old Pentium III computers nobody else at Google wanted”.",
+          "link": "https://kottke.org/26/02/0048339-when-gmail-was-released-a",
+          "publishedOn": "2026-02-12T14:56:06.000Z",
+          "wordCount": 352,
+          "title": "When Gmail was released as a public beta in 2004, it...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/02/0048344-actor-style-headshots-fro",
+          "author": null,
+          "description": "Actor-style headshots from the 80s of artists like Cindy Sherman, Jeff Koons, Jenny Holzer, and Robert Longo.",
+          "link": "https://kottke.org/26/02/0048344-actor-style-headshots-fro",
+          "publishedOn": "2026-02-12T14:00:04.000Z",
+          "wordCount": 303,
+          "title": "Actor-style headshots from the 80s  of artists like...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/02/recently-discovered-an-nyc-underground-railroad-stop",
           "author": null,
