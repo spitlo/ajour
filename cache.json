@@ -959,6 +959,16 @@
       "siteUrl": "https://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2026/02/18/man-pages/",
+          "author": null,
+          "description": "Hello! After spending some time working on the Git man pages last year,\nI’ve been thinking a little more about what makes a good man page.\nI’ve spent a lot of time writing cheat sheets for tools (tcpdump, git, dig, etc)\nwhich have a man page as their primary documentation. This is because I often\nfind the man pages hard to navigate to get the information I want.\nLately I’ve wondering – could the man page itself have an amazing cheat sheet\nin it? What might make a man page easier to use?\nI’m still very early in thinking about this but I wanted to write down some quick notes.\nI asked some people on Mastodon for their favourite man pages, and here\nare some examples of interesting things I saw on those man pages.\nan OPTIONS SUMMARY\nIf you’ve read a lot of man pages you’ve probably seen somethi…",
+          "link": "https://jvns.ca/blog/2026/02/18/man-pages/",
+          "publishedOn": "2026-02-18T00:00:00.000Z",
+          "wordCount": 1619,
+          "title": "Notes on clarifying man pages",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/",
           "author": null,
           "description": "Hello! One of my favourite things is starting to learn an\nOld Boring Technology that I’ve never tried before but that has been around for\n20+ years. It feels really good when every problem I’m ever going to have has\nbeen solved already 1000 times and I can just get stuff done easily.\nI’ve thought it would be cool to learn a popular web framework like\nRails or Django or Laravel for a long time, but I’d never really managed to\nmake it happen. But I started learning Django to make a website a few months\nback, I’ve been liking it so far, and here are a few quick notes!\nless magic than Rails\nI spent some time trying to learn Rails in 2020,\nand while it was cool and I really wanted to like Rails (the Ruby community is great!),\nI found that if I left my Rails project alone for months, when I came…",
@@ -1358,16 +1368,6 @@
           "wordCount": 3936,
           "title": "My new game poem is here! “she danced in the wind like a holographic dream before the world died”",
           "imageUrl": "http://nathalielawhead.com/noodles/shedanced/1ORuEN.gif"
-        },
-        {
-          "id": "https://www.nathalielawhead.com/candybox/?p=5892",
-          "author": "alienmelon",
-          "description": "The EU game scene was always something I admired from a distance. All the quirky interesting events that you'd only hear about when you attended GDC for your once-a-year catchup with friends that flew in from all around the world... You know, when you'd finally be able to get the (top secret) news of what they've been working on... Or who is doing what interesting new thing...\r\n\r\nIt's different now, seeing it in person... It's so much bigger than I could ever have imagined!",
-          "link": "http://www.nathalielawhead.com/candybox/one-whole-year-of-video-game-recommendations",
-          "publishedOn": "2025-12-20T14:43:24.000Z",
-          "wordCount": 4470,
-          "title": "One whole year of video game recommendations",
-          "imageUrl": "http://nathalielawhead.com/noodles/eoyindiegame/arcticeggs.jpg"
         }
       ]
     },
@@ -1388,6 +1388,116 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/02/0048355-love-this-cool-js-pattern",
+          "author": null,
+          "description": "Love this cool JS pattern-making script.",
+          "link": "https://kottke.org/26/02/0048355-love-this-cool-js-pattern",
+          "publishedOn": "2026-02-18T22:53:24.000Z",
+          "wordCount": 278,
+          "title": "Love  this cool JS pattern-making script .",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/02/0048394-new-from-neal-agarwal-san",
+          "author": null,
+          "description": "New from Neal Agarwal: Sandboxels. “It’s a falling-sand game with hundreds of elements, heat simulation, electricity & a lot more. I like making little cities and then adding tons of rats.”",
+          "link": "https://kottke.org/26/02/0048394-new-from-neal-agarwal-san",
+          "publishedOn": "2026-02-18T21:34:22.000Z",
+          "wordCount": 742,
+          "title": "New from Neal Agarwal:  Sandboxels . &#8220;It&#8217;s a...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/02/0048370-some-modern-collective-no",
+          "author": null,
+          "description": "Some modern collective nouns: a cringe of Cybertrucks, an anxiety of authors, a migraine of toddlers, and “a group of two or men is called a podcast”.",
+          "link": "https://kottke.org/26/02/0048370-some-modern-collective-no",
+          "publishedOn": "2026-02-18T20:45:17.000Z",
+          "wordCount": 753,
+          "title": "Some modern collective nouns : a cringe of Cybertrucks,...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/02/0048392-businessproduct-advice-la",
+          "author": null,
+          "description": "Business/product advice: launch it three times. “The vast majority of the time, the single biggest problem you have is that nobody knows you exist, and nobody gives a damn about what you do.”",
+          "link": "https://kottke.org/26/02/0048392-businessproduct-advice-la",
+          "publishedOn": "2026-02-18T19:59:27.000Z",
+          "wordCount": 1513,
+          "title": "Business/product advice:  launch it three times ....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/02/a-sense-of-getting-closer",
+          "author": null,
+          "description": "With music by Max Cooper and visuals by Conner Griffith, A Sense of Getting Closer is a music video that was inspired by a quote submitted to Cooper’s On Being project:\nI have a sense of getting closer to something which my life depends on. I can sense it but I cannot tell if I should be excited or terrified about what will happen.\n\n\t\nMesmerizing. Like literally, given that it’s based on “a hypnotic light show we can’t look away from, yet we know is made up of low-quality content fed to us by engagement algorithms.” (via @aaroncoleman.bsky.social)\n\n \n\n        \n         \nTags: Conner Griffith · Max Cooper · mesmerizing · music · video",
+          "link": "https://kottke.org/26/02/a-sense-of-getting-closer",
+          "publishedOn": "2026-02-18T18:48:50.000Z",
+          "wordCount": 831,
+          "title": "A Sense of Getting Closer",
+          "imageUrl": "https://i.ytimg.com/vi/4jaHcz3d85w/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/02/0048393-searching-for-birds-an-en",
+          "author": null,
+          "description": "Searching for Birds, an engaging visualization of eBird and Google Trends data that reveals human curiosity about birds.",
+          "link": "https://kottke.org/26/02/0048393-searching-for-birds-an-en",
+          "publishedOn": "2026-02-18T17:26:16.000Z",
+          "wordCount": 693,
+          "title": "Searching for Birds , an engaging visualization of eBird...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/02/0048388-how-to-raise-children-its",
+          "author": null,
+          "description": "How to raise children. “It’s wild to me that we parent our children to fit into society, then get together with our friends and talk about how broken society is.”",
+          "link": "https://kottke.org/26/02/0048388-how-to-raise-children-its",
+          "publishedOn": "2026-02-18T16:49:35.000Z",
+          "wordCount": 2283,
+          "title": "How to raise children . &#8220;It&#8217;s wild to me...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/02/0048378-team-pursuit-speed-skater",
+          "author": null,
+          "description": "Team Pursuit speed skaters used to trade off leads like cyclists but the sport has been revolutionized by the US team’s invention of the “bump drafting” technique.",
+          "link": "https://kottke.org/26/02/0048378-team-pursuit-speed-skater",
+          "publishedOn": "2026-02-18T16:07:49.000Z",
+          "wordCount": 724,
+          "title": "Team Pursuit speed skaters used to trade off leads like...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/02/vintage-art-house-movie-posters-by-peter-strausfeld",
+          "author": null,
+          "description": "The excellent Poster House museum in NYC currently has an exhibition up of posters by Peter Strausfeld.\nBetween 1947 and 1980, Peter Strausfeld, a German refugee interned on the Isle of Man during World War II, created unique, compelling posters for London’s Academy Cinema—the city’s premier art house movie theater. Founded by Elsie Cohen in 1931, the Academy specialized in international films that eschewed classic Hollywood narratives, highlighting works by now-famous directors like Federico Fellini, Akira Kurosawa, François Truffaut, Ingmar Bergman, Andrzej Wajda, and Satyajit Ray. While these films now hold cult status for cinema aficionados, in the early to mid-20th century, art house remained a novel and daring form of cinema that few theaters showcased. \nThroughout his longstanding relationship with the Academy, Strausfeld created over 300 bold, predominantly single-color linocut compositions with a deceptively simple hand-printed feel.\n\n\t\n\n\nAn accompanying book is available from RIT Press. More of Strausfeld’s work can be found at It’s Nice That, Orson & Welles, and Mubi. (via the new yorker)\n\n \n\n        \n         \nTags: art · design · movies · museums · Peter Strausfeld · Poster House",
+          "link": "https://kottke.org/26/02/vintage-art-house-movie-posters-by-peter-strausfeld",
+          "publishedOn": "2026-02-18T15:07:05.000Z",
+          "wordCount": 831,
+          "title": "Vintage Art House Movie Posters by Peter Strausfeld",
+          "imageUrl": "http://kottke.org/images/posts/01/img-48390-01.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/02/0048389-paul-ford-on-ai-and",
+          "author": null,
+          "description": "Paul Ford on AI and the Infinite Software Era. “All of the people I love hate this stuff, and all the people I hate love it. And yet, likely because of the same personality flaws that drew me to technology in the first place, I am annoyingly excited.”",
+          "link": "https://kottke.org/26/02/0048389-paul-ford-on-ai-and",
+          "publishedOn": "2026-02-18T14:07:56.000Z",
+          "wordCount": 357,
+          "title": "Paul Ford on AI and the Infinite Software Era ....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/02/0048381-current-is-an-interesting",
+          "author": null,
+          "description": "Current is an interesting new RSS reader that doesn’t function like an email inbox. “There is no count because counting was the problem.”",
+          "link": "https://kottke.org/26/02/0048381-current-is-an-interesting",
+          "publishedOn": "2026-02-18T13:25:00.000Z",
+          "wordCount": 1720,
+          "title": "Current  is an interesting new RSS reader that...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/02/reimagining-the-origins-of-winter-sports",
           "author": null,
