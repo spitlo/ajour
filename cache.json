@@ -76,7 +76,18 @@
       "title": "Stavros' Stuff",
       "feedUrl": "https://feeds.feedburner.com/stavrosstuff",
       "siteUrl": "https://www.stavros.io/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.stavros.io/posts/i-made-a-voice-note-taker/",
+          "author": null,
+          "description": "It's small and tiny and so cute\nHave you ever always wanted a very very small voice note recorder that would fit in your pocket? Something that would always work, and always be available to take a note at the touch of a button, with no fuss? Me neither.\nUntil, that is, I saw the Pebble Index 01, then I absolutely needed it right away and had to have it in my life immediately, but alas, it is not available, plus it’s disposable, and I don’t like creating e-waste. What was a poor maker like me supposed to do when struck down so cruelly by the vicissitudes of fate?\nThere was only one thing I could do:\nI could build my own, shitty version of it for $8, and that’s exactly what I did.\nThe problem\nLike everyone else, I have some sort of undiagnosed ADHD, which manifests itself as my brain itching for a specific task, and the itch becoming unbearable unless I scratch it.\nThis usually results in me getting my",
+          "link": "https://www.stavros.io/posts/i-made-a-voice-note-taker/",
+          "publishedOn": "2026-02-27T02:40:55.000Z",
+          "wordCount": 3195,
+          "title": "I made a voice note taker",
+          "imageUrl": "https://www.stavros.io/static/images/favicons/og-image.jpg?h=24586483"
+        }
+      ]
     },
     {
       "title": "Hundred Rabbits",
@@ -151,16 +162,6 @@
           "wordCount": 352,
           "title": "Making New IP",
           "imageUrl": "https://grumpygamer.com//images/gg_media_image.png"
-        },
-        {
-          "id": "https://grumpygamer.com/sqlite_comments/",
-          "author": null,
-          "description": "When I started using Hugu for static site generation I lost the ability to have comments and we all know now supportive the Internet can be, so why wouldn’t you have comments?\nI wrote a few php scripts that I added on to Hugo and I had comments again.  I decided to store the comments as flat files so I didn’t complicate things by needing the bloated MySQL. I wanted to keep it as simple and fast as possible.\nWhen a comment is added, my PHP script created a directory (if needed) for the post and saves the comment out as a .json file with name as the current time to make sorting easy.\nWhen the blog page was displayed, these files (already sorted thanks to the filename) were loaded and displayed.\nAnd it all worked well until it didn’t.  Flat files are simple. but they can be hard to search or …",
-          "link": "https://grumpygamer.com/sqlite_comments/",
-          "publishedOn": "2025-12-29T21:29:13.000Z",
-          "wordCount": 664,
-          "title": "Sqlite Comments",
-          "imageUrl": "https://grumpygamer.com//images/gg_media_image.png"
         }
       ]
     },
@@ -175,6 +176,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3213/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/dental_formulas.png\" title=\"I mean, half of these are undefined. And your multiplication dots are too low; they look like decimal points.\" alt=\"I mean, half of these are undefined. And your multiplication dots are too low; they look like decimal points.\" />",
+          "link": "https://xkcd.com/3213/",
+          "publishedOn": "2026-02-27T00:00:00.000Z",
+          "wordCount": 187,
+          "title": "Dental Formulas",
+          "imageUrl": "https://imgs.xkcd.com/comics/dental_formulas_2x.png"
+        },
         {
           "id": "https://xkcd.com/3212/",
           "author": null,
@@ -852,26 +863,6 @@
           "wordCount": 977,
           "title": "Various works by&nbsp;Haji, 1998-2001. via&nbsp;16colors",
           "imageUrl": "https://64.media.tumblr.com/f380ee3c3ed445dfc99ee2b1cd8008be/e9aa841a373a2333-89/s400x600/9d8b6aad1e86bad41cbbc704c6a7c3cf822f2003.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/804296209597693952",
-          "author": null,
-          "description": "Typewriter works by Montserrat Alberich Escardívol (1912-1973). Her first exhibition was in 1929 (including the Don Quijote image above) and she continued to type graphics most of her life. The typewriter company Underwood gave her a customized typewriter in 1957, with a few custom characters and a width of 310 characters. Presumably, the Barcelona Cathedral image was made some time after that. She used around 20 colour ribbons, which helped to set her apart from many other typewriter artists.\nh/t: Markku Reunanen",
-          "link": "https://text-mode.tumblr.com/post/804296209597693952",
-          "publishedOn": "2025-12-29T19:30:37.000Z",
-          "wordCount": 1032,
-          "title": "Typewriter works by&nbsp;Montserrat Alberich Escard&iacute;vol&nbsp;(1912-1973). Her first exhibition was in 1929&hellip;",
-          "imageUrl": "https://64.media.tumblr.com/180b5abf397367a01f32c95061567cd1/762ae6c3fe5b0bbc-af/s1280x1920/1af9b05eb0364e0fb763f492b667c46920b14d15.jpg"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/804265518248984576",
-          "author": null,
-          "description": "worldsofzzt:\nSource\n“Toypole” by Agent Orange (2022)\nPlay This World Online",
-          "link": "https://text-mode.tumblr.com/post/804265518248984576",
-          "publishedOn": "2025-12-29T11:22:48.000Z",
-          "wordCount": 1007,
-          "title": "worldsofzzt:\n\nSource\n“Toypole” by Agent Orange (2022)\nPublished...",
-          "imageUrl": "https://64.media.tumblr.com/07b0325361e0ebf1666733f2e21a17d9/99ec62d85de19312-c4/s500x750/82a95e24336b36fd327a6b96df9d6b19c3116a08.png"
         }
       ]
     },
@@ -1498,6 +1489,96 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/02/0048461-for-months-callers-to-the",
+          "author": null,
+          "description": "“For months, callers to the Washington state Department of Licensing who have requested automated service in Spanish have instead heard an AI voice speaking English in a strong Spanish accent.”",
+          "link": "https://kottke.org/26/02/0048461-for-months-callers-to-the",
+          "publishedOn": "2026-02-27T21:08:47.000Z",
+          "wordCount": 346,
+          "title": "&#8220;For months, callers to the Washington state...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/02/0048197-a-2-hour-mix-of-music",
+          "author": null,
+          "description": "A 2-hour mix of music compiled by Thom Yorke that plays before Radiohead’s European shows.",
+          "link": "https://kottke.org/26/02/0048197-a-2-hour-mix-of-music",
+          "publishedOn": "2026-02-27T19:52:25.000Z",
+          "wordCount": 295,
+          "title": "A 2-hour mix of music compiled by Thom Yorke  that plays...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/02/the-candy-factory",
+          "author": null,
+          "description": "Ann Ballentine bought an old candy factory building in Brooklyn in 1979. She filled it with working artists and became something of a fairy godmother to them all.\nIt entails someone who’s not as money driven, because you’re not gouging people for huge rents, and it requires being determined to do that over a long stretch of time.\n\n\t\nThis is a lovely little short film.\n\n \n\n        \n         \nTags: Ann Ballentine · art · NYC · real estate · video",
+          "link": "https://kottke.org/26/02/the-candy-factory",
+          "publishedOn": "2026-02-27T18:59:14.000Z",
+          "wordCount": 719,
+          "title": "The Candy Factory",
+          "imageUrl": "https://i.ytimg.com/vi/TyqZp-XtFzo/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/02/0048423-do-people-still-worship-t",
+          "author": null,
+          "description": "Do people still worship the ancient Greek gods? “Hellenism – also called Hellenic ethnic religion, or Dodekatheism – which is the practice of worshipping ancient gods, has been growing in popularity since the 1990s.”",
+          "link": "https://kottke.org/26/02/0048423-do-people-still-worship-t",
+          "publishedOn": "2026-02-27T18:08:23.000Z",
+          "wordCount": 696,
+          "title": "Do people still worship the ancient Greek gods?...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/02/0048459-jimi-hendrix-was-a-system",
+          "author": null,
+          "description": "Jimi Hendrix Was a Systems Engineer. “Hendrix’s mission was to reshape both the electric guitar’s envelope and its tone until it could feel like a human voice.”",
+          "link": "https://kottke.org/26/02/0048459-jimi-hendrix-was-a-system",
+          "publishedOn": "2026-02-27T17:17:49.000Z",
+          "wordCount": 705,
+          "title": "Jimi Hendrix Was a Systems Engineer ....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/02/0048460-marks-found-on-40000-year",
+          "author": null,
+          "description": "Marks found on 40,000-year-old artifacts might be a proto-language. “They found that these sign sequences displayed an information density very similar to the earliest examples of the cuneiform forerunner called proto-cuneiform.”",
+          "link": "https://kottke.org/26/02/0048460-marks-found-on-40000-year",
+          "publishedOn": "2026-02-27T16:32:22.000Z",
+          "wordCount": 742,
+          "title": "Marks found on 40,000-year-old artifacts might be a...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/15/04/the-ingenious-design-of-the-aluminum-beverage-can",
+          "author": null,
+          "description": "The aluminum soda can is a humble testament to the power and scope of human ingenuity. If that sounds like hyperbole, you should watch this video, which features eleven solid minutes of engineering explanation and is not boring for even a second.\n\nMore science/engineering programming like this please…I feel like if this would have been on PBS or Discovery, it would have lasted twice as long and communicated half the information. For a chaser, you can watch a detailed making-of from an aluminum can manufacturing company:\n\n\n \n\n         \n[This is a vintage post originally from Apr 2015.]\nTags: Bill Hammack · design · timeless posts · video",
+          "link": "https://kottke.org/15/04/the-ingenious-design-of-the-aluminum-beverage-can",
+          "publishedOn": "2026-02-27T15:30:05.000Z",
+          "wordCount": 369,
+          "title": "The Ingenious Design of the Aluminum Beverage Can",
+          "imageUrl": "https://i.ytimg.com/vi/hUhisi2FBuw/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/02/0048458-pope-leo-xiv-to-his",
+          "author": null,
+          "description": "Pope Leo XIV to his priests: stop using AI to write sermons. “‘To give a homily is to share faith,’ he said, and AI ‘will never be able to share faith.’”",
+          "link": "https://kottke.org/26/02/0048458-pope-leo-xiv-to-his",
+          "publishedOn": "2026-02-27T14:43:57.000Z",
+          "wordCount": 341,
+          "title": "Pope Leo XIV to his priests:  stop using AI to write...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/02/0048264-mondrian-entered-the-publ",
+          "author": null,
+          "description": "Mondrian Entered the Public Domain. The Estate Disagrees. “Composition II with Red, Blue, and Yellow is in the U.S. public domain. It has been since January 1, 2026. No amount of Spanish law or invented ‘dual copyright’ theories changes that.”",
+          "link": "https://kottke.org/26/02/0048264-mondrian-entered-the-publ",
+          "publishedOn": "2026-02-27T13:55:34.000Z",
+          "wordCount": 721,
+          "title": "Mondrian Entered the Public Domain. The Estate...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/02/0048457-the-ny-times-has-added",
           "author": null,
@@ -5076,96 +5157,6 @@
           "publishedOn": "2025-12-30T15:19:45.000Z",
           "wordCount": 708,
           "title": "The 20 Best Podcasts of 2025, incl. Signal Hill (&#8220;this inventive program...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/12/the-imperfect-homework-machine",
-          "author": null,
-          "description": "Shel Silverstein’s Homework Machine was one of my kids’ favorite poems of his when they were little. First published in 1981, the short poem turned out to be rather prescient about AI, especially the earlier LLMs, which couldn’t math their way out of a wet paper bag.\nYour homework comes out, quick and clean as can be.\n\n\n(via @brooksrocco)\nTags: artificial intelligence · poetry · Shel Silverstein",
-          "link": "https://kottke.org/25/12/the-imperfect-homework-machine",
-          "publishedOn": "2025-12-29T20:21:41.000Z",
-          "wordCount": 651,
-          "title": "The Imperfect Homework Machine",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//images/posts/01/img-48099-02.jpg"
-        },
-        {
-          "id": "https://kottke.org/25/12/0048096-conservatives-are-trying-",
-          "author": null,
-          "description": "Conservatives are trying to roll the Constitution back to the pre-Civil War version. “It will be a society of the dominators and the dominated. But it will not be a democracy worthy of the name.”",
-          "link": "https://kottke.org/25/12/0048096-conservatives-are-trying-",
-          "publishedOn": "2025-12-29T18:53:46.000Z",
-          "wordCount": 615,
-          "title": "Conservatives are trying to roll the Constitution back to the pre-Civil War...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/12/0048094-one-of-americas-most-succ",
-          "author": null,
-          "description": "One of America’s Most Successful Experiments Is Coming to a Shuddering Halt. “‘It’s not the same. Why am I here? I question that to myself.’ Amid an astonishing wave of anti-Indian animus, it’s a question many Indian Americans are asking.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/12/0048094-one-of-americas-most-succ",
-          "publishedOn": "2025-12-29T17:58:15.000Z",
-          "wordCount": 722,
-          "title": "One of America’s Most Successful Experiments Is Coming to a Shuddering Halt....",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/12/0048095-ultracold-atoms-observed-",
-          "author": null,
-          "description": "Ultracold atoms observed climbing a quantum staircase. (Relatable: the upstairs of my house is warmer than the ground floor too.)\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/12/0048095-ultracold-atoms-observed-",
-          "publishedOn": "2025-12-29T17:34:29.000Z",
-          "wordCount": 698,
-          "title": "Ultracold atoms observed climbing a quantum staircase. (Relatable: the upstairs of my...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/12/underscore-now-slightly-less-random",
-          "author": null,
-          "description": "I pushed a key change to the Underscore music player over the weekend. Members can now click on any song in their collection to play it (previously there was only a randomize button). I added this because I often wanted to listen to a particular song/album/playlist, genre, or tempo (chill, upbeat, etc.)1 and sat there hitting the random button until I got something I liked. No more; quick selection and back into the work groove.\nIf you missed it, here’s what I wrote about Underscore at launch:\nHere’s how it works. You can add links to music from Spotify, YouTube, Soundcloud, Bandcamp, and Apple Music to it — just paste their share URLs in. Reloading the page gives you a random piece of music from your collection. You can see a list of the songs, videos, playlists, and albums in your collection and can hide them if you want. That’s it. That’s all it does.\nThere’s no APIs or authentication or auto-synching playlists. The music is played through embedded players and if it lands on something from Spotify, Apple Music, or Bandcamp, you’re gonna have to click the play button in the embedded player (Soundcloud and YT videos should play automatically (but don’t always for whatever reason)). When your current selection ends, the new random thing doesn’t automatically play…you need to refresh the page.\n\n\nI use Underscore every single day while I’m working. Is anyone else out there using it?\nP.S. I also added the ability to add Tidal albums & playlists to Underscore. Unfortunately, Tidal’s embedded player doesn’t play full-length songs, even for logged-in users. If you’re a Tidal user, bug them about adding this feature to their embedded player!\n\nI prefer chill in the morning and when writing. When designing or programming, I like something more upbeat. Also depends on my mood on the day.↩\n\nTags: kottke.org · music · Underscore\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/12/underscore-now-slightly-less-random",
-          "publishedOn": "2025-12-29T17:03:26.000Z",
-          "wordCount": 1066,
-          "title": "Underscore: Now Slightly Less Random",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//images/posts/01/img-48093-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/25/12/0048079-thin-desires-are-eating-y",
-          "author": null,
-          "description": "Thin Desires Are Eating Your Life. “A thick desire is one that changes you in the process of pursuing it. A thin desire is one that doesn’t.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/12/0048079-thin-desires-are-eating-y",
-          "publishedOn": "2025-12-29T16:21:18.000Z",
-          "wordCount": 859,
-          "title": "Thin Desires Are Eating Your Life. &#8220;A thick desire is one that...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/12/0048090-the-internet-archive-has-",
-          "author": null,
-          "description": "The Internet Archive has a playable version of the NY Times Crossword Puzzle app from 1992. It ran on Windows 3.1 and included a few hundred puzzles. (Click on Game/Open to select a puzzle.)\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/12/0048090-the-internet-archive-has-",
-          "publishedOn": "2025-12-29T15:30:16.000Z",
-          "wordCount": 703,
-          "title": "The Internet Archive has a playable version of the NY Times Crossword...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/25/12/the-first-lady-of-nyc",
-          "author": null,
-          "description": "I love these photos of Rama Duwaji by Szilveszter Mako — a perfect combination of photographer and subject. Duwaji is an artist, illustrator, New Yorker, and second-generation Syrian-American. She is also married to Zohran Mamdani, who is the mayor-elect of NYC.\nTags: art · fashion · photography · Rama Duwaji · Szilveszter Mako · Zohran Mamdani\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/12/the-first-lady-of-nyc",
-          "publishedOn": "2025-12-29T14:42:09.000Z",
-          "wordCount": 773,
-          "title": "The Iconic First Lady of NYC",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//images/posts/01/img-48089-02.jpg"
-        },
-        {
-          "id": "https://kottke.org/25/12/0048088-good-morning-just-wanted-",
-          "author": null,
-          "description": "Good morning! Just wanted to let you all know that Rian Johnson subtly rickrolled us with a scene in Wake Up Dead Man.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/25/12/0048088-good-morning-just-wanted-",
-          "publishedOn": "2025-12-29T14:02:52.000Z",
-          "wordCount": 737,
-          "title": "Good morning! Just wanted to let you all know that Rian Johnson...",
           "imageUrl": ""
         }
       ]
