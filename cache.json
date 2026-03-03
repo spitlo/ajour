@@ -6,6 +6,16 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=9794",
+          "author": "Chris Heilmann",
+          "description": "I liked social media. I love learning and showing people how things are done there. I’m a LinkedIn and Skillshare trainer and wrote a few books. I also published tons of information on various social media channels. I also like that creators get benefits from publishing information. A social media platform should reward great contributions […]",
+          "link": "https://christianheilmann.com/2026/03/02/linkedin-should-punish-the-comment-x-to-get-access-bait-spam/",
+          "publishedOn": "2026-03-02T13:50:08.000Z",
+          "wordCount": null,
+          "title": "LinkedIn should punish the “comment X to get access” bait spam",
+          "imageUrl": null
+        },
+        {
           "id": "https://christianheilmann.com/?p=9781",
           "author": "Chris Heilmann",
           "description": "Did you know that you can host HTML/CSS/JS demos with execution and source code display on GitHub? All you need is a few include commands in a markdown file and your html/css/js files in a folder. Try it out here: https://codepo8.github.io/code-hosting-demo/example/ See the source here: https://codepo8.github.io/code-hosting-demo/example/index.md My Code Demo ## Try it out {% include_relative […]",
@@ -435,16 +445,6 @@
           "wordCount": 204,
           "title": "Tensegrity",
           "imageUrl": "https://imgs.xkcd.com/comics/tensegrity_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3189/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/conic_sections.png\" title=\"They're not generally used for crewed spacecraft because astronauts HATE going around the corners.\" alt=\"They're not generally used for crewed spacecraft because astronauts HATE going around the corners.\" />",
-          "link": "https://xkcd.com/3189/",
-          "publishedOn": "2026-01-02T00:00:00.000Z",
-          "wordCount": 206,
-          "title": "Conic Sections",
-          "imageUrl": "https://imgs.xkcd.com/comics/conic_sections_2x.png"
         }
       ]
     },
@@ -512,16 +512,6 @@
           "wordCount": 934,
           "title": "Bytes I can delete after all this time [blog]",
           "imageUrl": "https://remysharp.com/images/cards/og/9-4.jpg"
-        },
-        {
-          "id": "a-very-merry-murder-malvern-farm-mystery-6",
-          "author": null,
-          "description": "Fine. Easy read. Guessed the murdered though 🤷\nGrabbed it for the Christmas period (slightly annoyed I finished it on Jan 2nd). It's decently written, apparently part of a series (this being book 6) but stands fine on it's own. There's a few references to something that happened before, but doesn't affect the story.\nIt does read like a Columbo or Murder She Wrote, where there's people killing other people like it's just another Wednesday. All ends are fully tied up without anything left to the reader by the end.\nI did figure out the killer around 1/3rd of the way in - or at least I keep asking the protagonist \"What about X?!\".\nNot terribly Christmasy, but the very last chapter was very sweet.",
-          "link": "https://remysharp.com/books/2026/a-very-merry-murder-malvern-farm-mystery-6",
-          "publishedOn": "2026-01-02T00:00:00.000Z",
-          "wordCount": 624,
-          "title": "A Very Merry Murder (Malvern Farm Mystery, #6) [book]",
-          "imageUrl": null
         }
       ]
     },
@@ -788,6 +778,16 @@
       "siteUrl": "https://lea.verou.me/feed.xml",
       "articles": [
         {
+          "id": "https://lea.verou.me/blog/2026/external-import-maps-today/",
+          "author": null,
+          "description": "A few weeks ago, I posted Web dependencies are broken. Can we fix them?.\nToday’s post is a little less gloomy:\nTurns out that the major limitation that would allow centralized set-it-and-forget-it import map management can be lifted today, with excellent browser support!\nThe core idea is that you can use DOM methods to inject an import map dynamically, by literally creating an <script type=\"importmap\"> element in a classic (blocking) script and appending it after the injector script. 💡\nThis is a gamechanger.\nIt makes external import maps nice-to-have sugar instead of the only way to have centralized import map management decoupled from HTML generation.\nAll we need to do is build a little injector script, no need for tightly coupled workflows that take over everything.\nOnce you have that, …",
+          "link": "https://lea.verou.me/blog/2026/external-import-maps-today/",
+          "publishedOn": "2026-03-02T00:00:00.000Z",
+          "wordCount": 1369,
+          "title": "External import maps, today!",
+          "imageUrl": null
+        },
+        {
           "id": "https://lea.verou.me/blog/2026/web-deps/",
           "author": null,
           "description": "No, this is not another rant about npm’s security issues.\n\n\nAbstraction is the cornerstone of modern software engineering.\nReusing logic and building higher-level solutions from lower-level building blocks is what makes all the technological wonders around us possible.\nImagine if every time anyone wrote a calculator they also had to reinvent floating-point arithmetic and string encoding!\nIn healthy ecosystems dependencies are normal, cheap, and first-class.\n“Dependency-free” is not a badge of honor.\nAnd yet, the web platform has outsourced this fundamental functionality to third-party tooling.\nAs a result, code reuse has become a balancing of tradeoffs that should not have existed in the first place.\nIn NodeJS, you just npm install and reference specifiers straight away in your code.\nSame …",
@@ -823,16 +823,6 @@
           "wordCount": 1070,
           "title": "fungi.neocities.org&nbsp;is a site by Polyducks, who&rsquo;s been featured here&nbsp;many times before. It features&hellip;",
           "imageUrl": "https://64.media.tumblr.com/7c443988b26fbd62d5609859fe976d9e/6a60ee2780054f44-2b/s1280x1920/e428b1a7a63c592c024e15aa8ee9146939936969.png"
-        },
-        {
-          "id": "https://text-mode.tumblr.com/post/804567993357090816",
-          "author": null,
-          "description": "Näyttää Betonilta by Duce, 2025. C64 PETSCII, inspired by Odeith.",
-          "link": "https://text-mode.tumblr.com/post/804567993357090816",
-          "publishedOn": "2026-01-01T19:30:31.000Z",
-          "wordCount": 1021,
-          "title": "N&auml;ytt&auml;&auml; Betonilta&nbsp;by Duce, 2025. C64 PETSCII, inspired by&nbsp;Odeith.",
-          "imageUrl": "https://64.media.tumblr.com/cc032a6e43efeb2589e932a8dcc88d7b/a4d22d5de87b3d23-5d/s400x600/3d1044b49d976dfef038646714b50769ecf23ac0.png"
         }
       ]
     },
@@ -998,6 +988,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=12488",
+          "author": "Cory Doctorow",
+          "description": "Today's links No one wants to read your AI slop: If you must do this, for god's sake, do it privately. Hey look at this: Delights to delectate. Object permanence: AOL email tax; Ebook readers' bill of rights; Sanders media blackout. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. No one wants to read your AI slop (permalink) Everyone knows (or should know) that as fascinating as your dreams are to you, they are eye-glazingly dull to everyone else. Perhaps you have a friend or two who will tolerate you recounting your dreams at them (treasure those friends), but you should never, ever presume that other people want to hear about y…",
+          "link": "https://pluralistic.net/2026/03/02/nonconsensual-slopping/",
+          "publishedOn": "2026-03-02T09:22:11.000Z",
+          "wordCount": 3024,
+          "title": "Pluralistic: No one wants to read your AI slop (02 Mar 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=12479",
           "author": "Cory Doctorow",
@@ -1454,6 +1454,106 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/03/0048475-when-lit-up-at-night",
+          "author": null,
+          "description": "When lit up at night, this badminton academy in Bhubaneswar, India looks like a shuttlecock.",
+          "link": "https://kottke.org/26/03/0048475-when-lit-up-at-night",
+          "publishedOn": "2026-03-02T22:16:35.000Z",
+          "wordCount": 700,
+          "title": "When lit up at night,  this badminton academy in...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/0048474-supercharged-solar-activi",
+          "author": null,
+          "description": "“Supercharged” solar activity and the equinox effect, which “doubles the chance of auroral activity around the spring and fall equinoxes”, could make March 2026 the best month for the northern lights until the mid-2030s.",
+          "link": "https://kottke.org/26/03/0048474-supercharged-solar-activi",
+          "publishedOn": "2026-03-02T21:25:11.000Z",
+          "wordCount": 731,
+          "title": "&#8220;Supercharged&#8221; solar activity and the equinox...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/nine-inch-nails-releases-tron",
+          "author": null,
+          "description": "Last week, Nine Inch Nails released an album of remixes and unreleased session music from their Tron: Ares score called Tron Ares: Divergence. I’m listening to it now; pretty good so far.\n\n \n\n        \n         \nTags: movies · music · Nine Inch Nails · Tron · video",
+          "link": "https://kottke.org/26/03/nine-inch-nails-releases-tron",
+          "publishedOn": "2026-03-02T20:25:00.000Z",
+          "wordCount": 981,
+          "title": "Nine Inch Nails Releases Tron: Ares Remix Album",
+          "imageUrl": "https://i.ytimg.com/vi/h81CrYQFp0w/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/03/0048467-a-long-dive-into-the",
+          "author": null,
+          "description": "“A long dive into the features that make my ideal music app, and why nothing currently fulfills the brief.”",
+          "link": "https://kottke.org/26/03/0048467-a-long-dive-into-the",
+          "publishedOn": "2026-03-02T19:30:17.000Z",
+          "wordCount": 701,
+          "title": "&#8220; A long dive into the features that make my ideal...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/0048472-this-is-the-most-2026",
+          "author": null,
+          "description": "This is the most 2026 thing I’ve ever heard: Sigmund Freud’s great-granddaughter Bella Freud has a video podcast on YouTube where she interviews people (Cate Blanchette, Lorde, Graydon Carter) while they lie on a psychiatrist’s couch.",
+          "link": "https://kottke.org/26/03/0048472-this-is-the-most-2026",
+          "publishedOn": "2026-03-02T18:43:52.000Z",
+          "wordCount": 921,
+          "title": "This is the most 2026 thing I&#8217;ve ever heard:...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/0048471-a-boston-man-discovered-a",
+          "author": null,
+          "description": "A Boston man discovered a document passed down through his family: his ancestor’s freedom papers. “When he touched that paper he was touching the same place his relative touched in 1834.”",
+          "link": "https://kottke.org/26/03/0048471-a-boston-man-discovered-a",
+          "publishedOn": "2026-03-02T17:57:04.000Z",
+          "wordCount": 747,
+          "title": "A Boston man discovered a document passed down through...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/lumire-le-cinema",
+          "author": null,
+          "description": "Lumière, Le Cinema! is a new documentary film by Thierry Frémaux about Auguste & Louis Lumière and the early days of motion pictures — and includes 100+ newly restored films. It’s playing at MoMA at the end of this month; here’s their description:\nWitness the birth of cinema with Thierry Frémaux’s Lumière, Le Cinéma! (2025), about the pioneering achievements of the French entrepreneurs Auguste and Louis Lumière in the late 19th century. Journey back to the 1890s, when the Lumière Company, with their astonishing new invention, the cinematograph, made it possible for audiences to voyage around the world in moving pictures for the first time. Featuring gorgeous new restorations of more than 100 comedies, dramas, and travelogues — some famous, some forgotten, and some never before seen — and set to an evocative score of period music by Gabriel Fauré, this wondrous documentary enables contemporary viewers to imagine an entirely new language of storytelling unfolding film by glorious film.\n\n\t\nJust watching the trailer is wild — the restored footage from short films that are 120, 130 years old is astonishing. From a review in Collider:\nFrom riding atop trains to showing off goofy vaudevillian acts or brief moments of comical violence, each clip speaks not only to what came before, but how these short pieces behave as the DNA for every genre, every facet of what we consider filmmaking to this very day. The biggest joy of all, of course, is the ability to see these films projected large and in all their restored glory, not simply segregated to being streamed on a small screen, or to suffer through damage that makes these segments feel all that more removed from the present. It’s as if many of these clips have been rescued from an island where they have been deserted for more than a century, carefully dusted off, and allowed finally to be seen in a context that their creators could only have dreamed possible.\n\n \n\n        \n         \nTags: Lumiere brothers · Lumière Le Cinema! · movies · Thierry Frémaux · trailers · video",
+          "link": "https://kottke.org/26/03/lumire-le-cinema",
+          "publishedOn": "2026-03-02T17:00:00.000Z",
+          "wordCount": 982,
+          "title": "Lumière, Le Cinema!",
+          "imageUrl": "https://i.ytimg.com/vi/_3BEsMtLhzU/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/03/0048464-astrophysicist-cosimo-bam",
+          "author": null,
+          "description": "Astrophysicist Cosimo Bambi proposes sending a tiny spacecraft to study nearby black holes. “Earth-based lasers would blast the [light] sail with photons, accelerating the craft to a third of the speed of light.”",
+          "link": "https://kottke.org/26/03/0048464-astrophysicist-cosimo-bam",
+          "publishedOn": "2026-03-02T16:04:49.000Z",
+          "wordCount": 879,
+          "title": "Astrophysicist Cosimo Bambi proposes  sending a tiny...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/0048465-novartis-has-settled-a-la",
+          "author": null,
+          "description": "“Novartis has settled a lawsuit by the estate of Henrietta Lacks that alleged the [company] unjustly profited off her cells, which were taken…without her knowledge in 1951 and reproduced in labs to enable major medical advancements…”",
+          "link": "https://kottke.org/26/03/0048465-novartis-has-settled-a-la",
+          "publishedOn": "2026-03-02T15:25:51.000Z",
+          "wordCount": 750,
+          "title": "&#8220; Novartis has settled a lawsuit by the estate of...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/why-attack-iran",
+          "author": null,
+          "description": "There are many possible and plausible answers to this simple question. Timothy Snyder offers a useful perspective in helping answer it:\nHow do [we] understand the war with Iran? We must get away from the propaganda and ask why this might be happening, in light of the facts that we do know.\nThese facts suggest two interpretive frameworks: a foreign war as a mechanism to destroy democracy at home; and a foreign war as an element of personal corruption by the president of the United States.\nFrom the United States, the most plausible angle of view is domestic politics, not foreign policy.\n\n\t\nTrump is not a conventionally intelligent person and is losing his wits to age, but he remains an instinctual genius. There’s no grand plan here and there doesn’t need to be; he’s just moving towards his flame: enrichment for himself, entrenching power, and instability for everyone else.\n\n \n\n        \n         \nTags: Donald Trump · iran · politics · Timothy Snyder · war",
+          "link": "https://kottke.org/26/03/why-attack-iran",
+          "publishedOn": "2026-03-02T14:08:50.000Z",
+          "wordCount": 428,
+          "title": "Why Attack Iran?",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/02/0048461-for-months-callers-to-the",
           "author": null,
