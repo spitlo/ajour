@@ -415,16 +415,6 @@
           "wordCount": 187,
           "title": "Planetary Alignment",
           "imageUrl": "https://imgs.xkcd.com/comics/planetary_alignment_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3191/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/superstition.png\" title=\"It's important to teach yourself to feel responsible for random events, because with great responsibility comes great power. That's what my wise Uncle Ben told me right before he died; he might still be alive today if only I'd said rabbit rabbit that year!\" alt=\"It's important to teach yourself to feel responsible for random events, because with great responsibility comes great power. That's what my wise Uncle Ben told me right before he died; he might still be alive today if only I'd said rabbit rabbit that year!\" />",
-          "link": "https://xkcd.com/3191/",
-          "publishedOn": "2026-01-07T00:00:00.000Z",
-          "wordCount": 178,
-          "title": "Superstition",
-          "imageUrl": "https://imgs.xkcd.com/comics/superstition_2x.png"
         }
       ]
     },
@@ -755,16 +745,6 @@
           "wordCount": 1369,
           "title": "External import maps, today!",
           "imageUrl": null
-        },
-        {
-          "id": "https://lea.verou.me/blog/2026/web-deps/",
-          "author": null,
-          "description": "No, this is not another rant about npm’s security issues.\n\n\nAbstraction is the cornerstone of modern software engineering.\nReusing logic and building higher-level solutions from lower-level building blocks is what makes all the technological wonders around us possible.\nImagine if every time anyone wrote a calculator they also had to reinvent floating-point arithmetic and string encoding!\nIn healthy ecosystems dependencies are normal, cheap, and first-class.\n“Dependency-free” is not a badge of honor.\nAnd yet, the web platform has outsourced this fundamental functionality to third-party tooling.\nAs a result, code reuse has become a balancing of tradeoffs that should not have existed in the first place.\nIn NodeJS, you just npm install and reference specifiers straight away in your code.\nSame …",
-          "link": "https://lea.verou.me/blog/2026/web-deps/",
-          "publishedOn": "2026-01-07T00:00:00.000Z",
-          "wordCount": 4609,
-          "title": "Web dependencies are broken. Can we fix them?",
-          "imageUrl": "https://lea.verou.me/blog/2026/web-deps/images/intervention.png"
         }
       ]
     },
@@ -956,6 +936,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=12515",
+          "author": "Cory Doctorow",
+          "description": "Today's links The web is bearable with RSS: And don't forget \"Reader Mode.\" Hey look at this: Delights to delectate. Object permanence: Eyemodule x Disneyland; Scott Walker lies; Brother's demon-haunted printer; 4th Amendment luggage tape; Sanders x small donors v media; US police killings tallied. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The web is bearable with RSS (permalink) Never let them tell you that enshittification was a mystery. Enshittification isn't downstream of the \"iron laws of economics\" or an unrealistic demand by \"consumers\" to get stuff for free. Enshittification comes from specific policy choices, made …",
+          "link": "https://pluralistic.net/2026/03/07/reader-mode/",
+          "publishedOn": "2026-03-07T18:02:49.000Z",
+          "wordCount": 3927,
+          "title": "Pluralistic: The web is bearable with RSS (07 Mar 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=12506",
           "author": "Cory Doctorow",
@@ -1369,16 +1359,6 @@
           "publishedOn": "2026-01-07T14:55:46.000Z",
           "wordCount": 3838,
           "title": "Pluralistic: Writing vs AI (07 Jan 2026)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=12219",
-          "author": "Cory Doctorow",
-          "description": "Today's links Code is a liability (not an asset): AI psychosis, tech boss edition. Hey look at this: Delights to delectate. Object permanence: Coldplay CD DRM; Star Wars Wars; Digital manorialism vs neofeudalism; Transvaginal foetal sonic bombardment: woo-tunes for your hoo-hah. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Code is a liability (not an asset) (permalink) Code is a liability (not an asset). Tech bosses don't understand this. They think AI is great because it produces 10,000 times more code than a programmer, but that just means it's producing 10,000 times more liabilities. AI is the asbestos we're shoveling into …",
-          "link": "https://pluralistic.net/2026/01/06/1000x-liability/",
-          "publishedOn": "2026-01-06T14:11:46.000Z",
-          "wordCount": 4846,
-          "title": "Pluralistic: Code is a liability (not an asset) (06 Jan 2026)",
           "imageUrl": null
         }
       ]
@@ -5170,96 +5150,6 @@
           "publishedOn": "2026-01-07T14:43:01.000Z",
           "wordCount": 799,
           "title": "The proliferation of hummingbird feeders has become a &#8220;major evolutionary force&#8221; for...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/01/0048142-the-lost-episodes-of-star",
-          "author": null,
-          "description": "Lost episodes of Star Trek from the 70s. They were going to do a reboot of the TV series (without Spock!) but the project morphed into the first movie. There are 19 episode scripts & treatments from the project; a few were adapted for ST:TNG.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/26/01/0048142-the-lost-episodes-of-star",
-          "publishedOn": "2026-01-07T00:02:53.000Z",
-          "wordCount": 739,
-          "title": "Lost episodes of Star Trek from the 70s. They were going to...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/01/0048130-robin-sloan-asserts-provo",
-          "author": null,
-          "description": "Robin Sloan asserts (provocatively) that AGI is already here (and has been for a few years). “We’ve got this ubiquitous term, Artificial General Intelligence, & it appears that the Artificial Intelligence has become Really Very General, so … ?”",
-          "link": "https://kottke.org/26/01/0048130-robin-sloan-asserts-provo",
-          "publishedOn": "2026-01-06T22:54:10.000Z",
-          "wordCount": 626,
-          "title": "Robin Sloan asserts (provocatively) that AGI is already here (and has been...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/01/the-story-of-czech-graphic-design",
-          "author": null,
-          "description": "Identity — The Story of Czech Graphic Design is a seven-part series available on YouTube.\nIn seven parts, the Identita series introduces viewers to the history of Czech graphic design. We will not only explore together the development of the visual face of the Czechoslovak Republic, we will also reveal what is hidden behind the symbols, signs and colors that represent it.\n\n\n        \n\n         \nTags: Czech Republic · design · video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/26/01/the-story-of-czech-graphic-design",
-          "publishedOn": "2026-01-06T21:48:47.000Z",
-          "wordCount": 716,
-          "title": "The Story of Czech Graphic Design",
-          "imageUrl": "https://i.ytimg.com/vi/AlVknm16oE4/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/01/0048141-norman-rockwell-was-antif",
-          "author": null,
-          "description": "“Norman Rockwell was antifa”, says Daisy Rockwell, Norman’s granddaughter. “So you’ll understand her indignation when President Trump began hijacking her grandfather’s legacy to promote what she considers modern-day fascism.”",
-          "link": "https://kottke.org/26/01/0048141-norman-rockwell-was-antif",
-          "publishedOn": "2026-01-06T20:39:54.000Z",
-          "wordCount": 612,
-          "title": "&#8220;Norman Rockwell was antifa&#8221;, says Daisy Rockwell, Norman&#8217;s granddaughter. &#8220;So you&#8217;ll understand...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/01/a-collection-of-unreleased-boards-of-canada-tracks",
-          "author": null,
-          "description": "A couple of weeks ago, someone uploaded to YouTube and Google Drive eleven unreleased tracks from Boards of Canada (made from 1985-1996). This seems to be a legit, high-quality leak, judging from the excitement in the YT comments and on Reddit. I’ve heard a couple of these before, courtesy of some long-ago Kazaa/Limewire crate-digging, but most of these are new to me. (via the morning news)\nTags: Boards of Canada · music · video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/26/01/a-collection-of-unreleased-boards-of-canada-tracks",
-          "publishedOn": "2026-01-06T19:07:54.000Z",
-          "wordCount": 725,
-          "title": "A Collection of Unreleased Boards of Canada Tracks",
-          "imageUrl": "https://i.ytimg.com/vi/9S7cVCFUqE8/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/01/0048144-this-sucks-the-corporatio",
-          "author": null,
-          "description": "This sucks: the Corporation for Public Broadcasting is no more. “Its board of directors chose Monday to shutter CPB completely instead of keeping it in existence as a shell.” GOP ghouls finally killed it.",
-          "link": "https://kottke.org/26/01/0048144-this-sucks-the-corporatio",
-          "publishedOn": "2026-01-06T18:14:55.000Z",
-          "wordCount": 654,
-          "title": "This sucks: the Corporation for Public Broadcasting is no more. &#8220;Its board...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/01/the-detectorists-a-short-film-about-otters-and-detection-dogs",
-          "author": null,
-          "description": "An ecologist in Wales uses tracking dogs to help track & protect the endangered wild otter population; meet The Detectorists.\nSet against the serene backdrop of rural Wales, this short documentary follows wildlife ecologist Lee Jenkins and his two German Pointers — Neo and pup-in-training Cariad — as they search for elusive otters. Using scent detection to guide camera trap placement, the team gathers crucial evidence to protect these endangered animals. Shot from a dog’s-eye view with immersive cinematography, the film offers a poetic glimpse into conservation through the nose and eyes of a canine detective.\n\n\n        \n\n         \nTags: dogs · video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/26/01/the-detectorists-a-short-film-about-otters-and-detection-dogs",
-          "publishedOn": "2026-01-06T17:09:15.000Z",
-          "wordCount": 858,
-          "title": "The Detectorists — A Short Film About Otters and Detection Dogs.",
-          "imageUrl": "https://i.ytimg.com/vi/6rg6bcWI2Uo/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/01/0048138-tiledart-discover-great-t",
-          "author": null,
-          "description": "Tiled.art: “Discover great tessellation art, understand how it works, and create your own.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/26/01/0048138-tiledart-discover-great-t",
-          "publishedOn": "2026-01-06T16:06:35.000Z",
-          "wordCount": 708,
-          "title": "Tiled.art: &#8220;Discover great tessellation art, understand how it works, and create your...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/01/0048116-annas-archive-the-largest",
-          "author": null,
-          "description": "Anna’s Archive (“the largest truly open library in human history”) is backing up the entirety of Spotify. “We have archived around 86 million songs from Spotify. While this only represents 37% of songs, it represents around 99.6% of listens.”",
-          "link": "https://kottke.org/26/01/0048116-annas-archive-the-largest",
-          "publishedOn": "2026-01-06T15:07:02.000Z",
-          "wordCount": 659,
-          "title": "Anna&#8217;s Archive (&#8220;the largest truly open library in human history&#8221;) is backing...",
           "imageUrl": ""
         }
       ]
