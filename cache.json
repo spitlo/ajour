@@ -167,6 +167,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3217/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/home_remedies.png\" title=\"As always, you are permitted to call one person for guidance, but that person must be a grandparent.\" alt=\"As always, you are permitted to call one person for guidance, but that person must be a grandparent.\" />",
+          "link": "https://xkcd.com/3217/",
+          "publishedOn": "2026-03-09T00:00:00.000Z",
+          "wordCount": 187,
+          "title": "Home Remedies",
+          "imageUrl": "https://imgs.xkcd.com/comics/home_remedies_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3216/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/bazookasaurus.png\" title=\"In contrast to the deep booming sound associated with the cannon in pop culture depictions, recent studies show it actually made more of a 'toot toot!' noise.\" alt=\"In contrast to the deep booming sound associated with the cannon in pop culture depictions, recent studies show it actually made more of a 'toot toot!' noise.\" />",
@@ -857,6 +867,16 @@
       "siteUrl": "https://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/",
+          "author": null,
+          "description": "Hello! My big takeaway from last month’s musings about man pages\nwas that examples in man pages are really great, so I worked on adding (or\nimproving) examples to two of my favourite tools’ man pages.\nHere they are:\nthe dig man page (now with examples)\nthe tcpdump man page examples (this one is an update to the previous examples)\nthe goal: include the most basic examples\nThe goal here was really just to give the absolute most basic examples of how to\nuse the tool, for people who use tcpdump or dig infrequently (or have never used\nit before!) and don’t remember how it works.\nSo far saying “hey, I want to write an examples section for beginners and\ninfrequent users of this tools” has been working really well. It’s easy to\nexplain, I think it makes sense from everything I’ve heard from users …",
+          "link": "https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/",
+          "publishedOn": "2026-03-10T00:00:00.000Z",
+          "wordCount": 874,
+          "title": "Examples for the tcpdump and dig man pages",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2026/02/18/man-pages/",
           "author": null,
           "description": "Hello! After spending some time working on the Git man pages last year,\nI’ve been thinking a little more about what makes a good man page.\nI’ve spent a lot of time writing cheat sheets for tools (tcpdump, git, dig, etc)\nwhich have a man page as their primary documentation. This is because I often\nfind the man pages hard to navigate to get the information I want.\nLately I’ve wondering – could the man page itself have an amazing cheat sheet\nin it? What might make a man page easier to use?\nI’m still very early in thinking about this but I wanted to write down some quick notes.\nI asked some people on Mastodon for their favourite man pages, and here\nare some examples of interesting things I saw on those man pages.\nan OPTIONS SUMMARY\nIf you’ve read a lot of man pages you’ve probably seen somethi…",
@@ -906,6 +926,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=12528",
+          "author": "Cory Doctorow",
+          "description": "Today's links Ad-tech is fascist tech: Surveillance advertising is just surveillance. Hey look at this: Delights to delectate. Object permanence: Washpo v Bernie; Activists v Saif Gadaffi's London mansion; Spacefaring v contract language; Tuna-can tiffin pail; France v encryption. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Ad-tech is fascist tech (permalink) A core tenet of the enshittification hypothesis is that all the terrible stuff we're subjected to in our digital lives today is the result of foreseeable (and foreseen) policy choices, which created the enshittogenic policy environment in which the worst people's worst i…",
+          "link": "https://pluralistic.net/2026/03/10/ice-tech/",
+          "publishedOn": "2026-03-10T15:23:43.000Z",
+          "wordCount": 3785,
+          "title": "Pluralistic: Ad-tech is fascist tech (10 Mar 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=12520",
           "author": "Cory Doctorow",
@@ -1310,16 +1340,6 @@
           "wordCount": 3928,
           "title": "Pluralistic: Predistribution vs redistribution (Big Tech edition) (10 Jan 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=12244",
-          "author": "Cory Doctorow",
-          "description": "Today's links bunnie's piggyback hack: An actual \"one weird trick\" that's pretty fucking spectacular. Hey look at this: Delights to delectate. Object permanence: \"Keyboard Practice\"; Sam Bulte says she's no dirtier than other MPs; Gene Luen Yang's Amabassador for Young People's Literature speech; Menstruation innovation. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. bunnie's piggyback hack (permalink) If Andrew \"bunnie\" Huang didn't actually exist, I'd swear he was a character out of a(n extraordinarily technologically well-informed) cyberpunk novel. Every time I interact with this legendary hardware hacker, he blows my mind wi…",
-          "link": "https://pluralistic.net/2026/01/09/quantity-break/",
-          "publishedOn": "2026-01-09T14:59:17.000Z",
-          "wordCount": 3522,
-          "title": "Pluralistic: bunnie's piggyback hack (09 Jan 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -1372,6 +1392,126 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/03/0048227-amount-of-water-man-just",
+          "author": null,
+          "description": "Amount Of Water Man Just Used To Wash Dish To Be Prize Of Hand-To-Hand Combat Match In 2065.",
+          "link": "https://kottke.org/26/03/0048227-amount-of-water-man-just",
+          "publishedOn": "2026-03-10T21:44:10.000Z",
+          "wordCount": 365,
+          "title": "Amount Of Water Man Just Used To Wash Dish To Be Prize...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/syndicates-of-capital",
+          "author": null,
+          "description": "Jessica Burbank:\nA new world order is here. States (countries) are no longer the highest form of power globally. Power has shifted to wealthy individuals who work in groups and operate across borders: syndicates of capital.\nSyndicates of capital cannot be categorized as legal or illegal. They exist primarily in the extralegal sphere, where either no regulations apply to their behavior or, where laws do exist, there is no entity powerful enough to enforce them in a manner that asserts control over the syndicates’ behavior.\n\n\t\nYeah. It’s seemed to me for quite awhile now that the most likely form of future world government evolves not from the United Nations but from big multinational corporations controlled by the billionaire class.\nSee also two recent pieces on the wealthy in America. The …",
+          "link": "https://kottke.org/26/03/syndicates-of-capital",
+          "publishedOn": "2026-03-10T20:30:00.000Z",
+          "wordCount": 1682,
+          "title": "Syndicates of Capital",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/0048530-everyone-knows-yuri-gagar",
+          "author": null,
+          "description": "Everyone knows Yuri Gagarin was the first person to go to space. What this article presupposes is…maybe he wasn’t? It all boils down to what your definition of space is.",
+          "link": "https://kottke.org/26/03/0048530-everyone-knows-yuri-gagar",
+          "publishedOn": "2026-03-10T19:34:32.000Z",
+          "wordCount": 1702,
+          "title": "Everyone knows Yuri Gagarin was the first person to go to...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/0048531-another-recent-hypercard-",
+          "author": null,
+          "description": "Another recent HyperCard discovery (that isn’t somehow in the Internet Archive): an “expanded book” version of William Gibson’s Sprawl Trilogy (Neuromancer, Count Zero, and Mona Lisa Overdrive).",
+          "link": "https://kottke.org/26/03/0048531-another-recent-hypercard-",
+          "publishedOn": "2026-03-10T18:46:16.000Z",
+          "wordCount": 653,
+          "title": "Another recent HyperCard discovery (that isn&#8217;t...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/0048534-stanford-medicine-researc",
+          "author": null,
+          "description": "“Stanford Medicine researchers and their colleagues invented a new vaccine that protects mice from respiratory viruses, bacteria and allergens — the closest yet to a universal vaccine.”",
+          "link": "https://kottke.org/26/03/0048534-stanford-medicine-researc",
+          "publishedOn": "2026-03-10T17:59:51.000Z",
+          "wordCount": 826,
+          "title": "&#8220;Stanford Medicine researchers and their colleagues...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/ghost-elephants",
+          "author": null,
+          "description": "Ghost Elephants is a new documentary film directed by Werner Herzog for National Geographic. Here’s the trailer.\nFor over a decade, Dr. Steve Boyes, conservation biologist and National Geographic Explorer, has been in search of a mysterious, elusive herd of Ghost Elephants in the highlands of Angola, deep within its forests. From acclaimed director Werner Herzog (“Grizzly Man”), GHOST ELEPHANTS follows Boyes on an epic journey as he sets out with some of the best master trackers in the world, in pursuit of an animal long believed to be a myth.\n\n\t\nFrom Peter Sobczynski’s rave review of the film:\nThe subject of Herzog’s fascination this time around is South African naturalist Dr. Steve Boyes, and while he seems perfectly staid and affable at first sight, he has an obsession within him that has consumed his life to such an extent that if he didn’t actually exist, Herzog might have had to invent him. The focus of his fascination is a species of giant elephant residing in the highlands of Angola, known as “ghost elephants” for their apparent ability to avoid detection. Indeed, not only has Boyes never actually seen one of these creatures with his own eyes, but he is not even certain that such creatures exist—the closest he has come is a massive elephant shot near that area in Angola in 1955, now on display at the Smithsonian.\n\n\t\nHerzog, National Geographic, elephants, quixotic quest — who says no? Ghost Elephants is available to stream on Disney+ and Hulu.\n\n \n\n        \n         \nTags: elephants · movies · Peter Sobczynski · trailers · video · Werner Herzog",
+          "link": "https://kottke.org/26/03/ghost-elephants",
+          "publishedOn": "2026-03-10T17:12:00.000Z",
+          "wordCount": 871,
+          "title": "Ghost Elephants",
+          "imageUrl": "https://i.ytimg.com/vi/YoOD-2Wn7ik/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/03/0048523-githubs-uptime-lately-see",
+          "author": null,
+          "description": "Github’s uptime lately seems…..concerning?",
+          "link": "https://kottke.org/26/03/0048523-githubs-uptime-lately-see",
+          "publishedOn": "2026-03-10T16:20:20.000Z",
+          "wordCount": 874,
+          "title": "Github&#8217;s uptime lately  seems&#8230;..concerning?",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/0048529-billionaires-made-19-perc",
+          "author": null,
+          "description": "“Billionaires made 19 percent of all reported federal campaign contributions in 2024, a Times analysis shows, and even more in some local elections.” The Scale of Billionaires’ Campaign Donations is Overwhelming U.S. Politics.",
+          "link": "https://kottke.org/26/03/0048529-billionaires-made-19-perc",
+          "publishedOn": "2026-03-10T15:30:50.000Z",
+          "wordCount": 625,
+          "title": "&#8220;Billionaires made 19 percent of all reported...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/the-shape-of-paris",
+          "author": null,
+          "description": "The Shape of Paris is a balletic short film of skateboarder Andy Anderson zooming, grinding, spinning, and floating around Paris in the summertime. It is also beautifully shot by Brett Novak; Paris has never looked better. As a YT commenter put it: “bro wtf this is the cleanest footage I’ve ever seen. The cinematography and color grading is insane.”\nAlso, this is the first skate video I’ve seen with “trick acknowledgements” in the credits. Great touch. (via craig mod)\n\n \n\n        \n         \nTags: Andy Anderson · Paris · skateboarding · sports · video",
+          "link": "https://kottke.org/26/03/the-shape-of-paris",
+          "publishedOn": "2026-03-10T14:30:00.000Z",
+          "wordCount": 649,
+          "title": "The Shape of Paris",
+          "imageUrl": "https://i.ytimg.com/vi/4q8wZ15ALz4/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/03/0048525-the-modern-times-cafe-mov",
+          "author": null,
+          "description": "The Modern Times cafe moved to a pay-what-you-want model during the ICE occupation of Minneapolis. Now the cafe is making it permanent (and pivoting to a nonprofit). “Some had come for a free meal; others were there to pay double or triple their tab.”",
+          "link": "https://kottke.org/26/03/0048525-the-modern-times-cafe-mov",
+          "publishedOn": "2026-03-10T14:10:06.000Z",
+          "wordCount": 810,
+          "title": "The Modern Times cafe moved to a pay-what-you-want model...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/0048521-a-group-of-runners-starts",
+          "author": null,
+          "description": "“A group of runners starts jogging around a circular track, with each runner maintaining a unique, constant pace. Will every runner end up ‘lonely,’ or relatively far from everyone else, at least once, no matter their speeds?”",
+          "link": "https://kottke.org/26/03/0048521-a-group-of-runners-starts",
+          "publishedOn": "2026-03-10T13:36:38.000Z",
+          "wordCount": 624,
+          "title": "&#8220;A group of runners starts jogging around a...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/0048520-jay-graber-is-stepping-do",
+          "author": null,
+          "description": "Jay Graber is stepping down as CEO of Bluesky to “transition to a new role as Bluesky’s Chief Innovation Officer”. And they’re looking for a new permanent CEO.",
+          "link": "https://kottke.org/26/03/0048520-jay-graber-is-stepping-do",
+          "publishedOn": "2026-03-10T12:29:42.000Z",
+          "wordCount": 603,
+          "title": "Jay Graber is stepping down as CEO of Bluesky  to...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/03/0048518-what-if-we-taught-student",
           "author": null,
@@ -5050,66 +5190,6 @@
           "publishedOn": "2026-01-12T15:35:39.000Z",
           "wordCount": 992,
           "title": "Using lidar, scientists discovered a 400-foot-long wall composed of &#8220;60 massive granite...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/01/0048133-wordszip-is-an-infinite-c",
-          "author": null,
-          "description": "words.zip is “an infinite collaborative word search where anyone can find and submit words — no account required.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/26/01/0048133-wordszip-is-an-infinite-c",
-          "publishedOn": "2026-01-09T22:10:29.000Z",
-          "wordCount": 693,
-          "title": "words.zip is &#8220;an infinite collaborative word search where anyone can find and...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/01/0048145-theres-a-shark-called-the",
-          "author": null,
-          "description": "There’s a shark called the cookiecutter shark because it leaves bite marks the shape of “neat, circular holes resembling the cut of a cookie cutter”.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/26/01/0048145-theres-a-shark-called-the",
-          "publishedOn": "2026-01-09T21:15:59.000Z",
-          "wordCount": 712,
-          "title": "There&#8217;s a shark called the cookiecutter shark because it leaves bite marks...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/01/0048131-burn-harry-burn-reckoning",
-          "author": null,
-          "description": "Burn Harry Burn: Reckoning With My Harry Potter Fandom as a Trans Person. “I dug a fire pit in my backyard and burned my complete set of hardcover Harry Potters.”",
-          "link": "https://kottke.org/26/01/0048131-burn-harry-burn-reckoning",
-          "publishedOn": "2026-01-09T19:04:55.000Z",
-          "wordCount": 646,
-          "title": "Burn Harry Burn: Reckoning With My Harry Potter Fandom as a Trans...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/01/0048137-a-soaring-us-vs-a",
-          "author": null,
-          "description": "A soaring US vs a stagnant EU? “Europeans benefit from more leisure time than Americans, higher life expectancy & lower inequality levels, all w/ comparable productivity rates. However one looks at it, this is a considerably better economic performance.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/26/01/0048137-a-soaring-us-vs-a",
-          "publishedOn": "2026-01-09T18:19:19.000Z",
-          "wordCount": 1348,
-          "title": "A soaring US vs a stagnant EU? &#8220;Europeans benefit from more leisure...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/01/0048156-alexandra-petri-i-tried-t",
-          "author": null,
-          "description": "Alexandra Petri: I Tried to Be the Government. It Did Not Go Well. “I have just driven six and a half hours to Ohio in order to forecast my own weather. From a hot-air balloon.” She also inspects milk & does lawn work on National Park land.",
-          "link": "https://kottke.org/26/01/0048156-alexandra-petri-i-tried-t",
-          "publishedOn": "2026-01-09T17:36:53.000Z",
-          "wordCount": 641,
-          "title": "Alexandra Petri: I Tried to Be the Government. It Did Not Go...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/01/0048155-what-youre-watching-isnt-",
-          "author": null,
-          "description": "What You’re Watching Isn’t What You’re Really Watching. “You think you’re watching an innocent woman being shot and killed in cold blood by the federal government, but what you’re really watching is the death of the United States of America.”",
-          "link": "https://kottke.org/26/01/0048155-what-youre-watching-isnt-",
-          "publishedOn": "2026-01-09T16:15:05.000Z",
-          "wordCount": 634,
-          "title": "What You&#8217;re Watching Isn&#8217;t What You&#8217;re Really Watching. &#8220;You think you&#8217;re watching...",
           "imageUrl": ""
         }
       ]
