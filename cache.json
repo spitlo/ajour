@@ -6,6 +6,16 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=9804",
+          "author": "Chris Heilmann",
+          "description": "I was on the We l❤️ Open Source podcast and talked about the threats to open source and software. Trading openness for convenience: From app stores to AI assistants",
+          "link": "https://christianheilmann.com/2026/03/12/talking-on-the-we-love-open-source-podcasts-about-the-threats-of-ai-to-open-source-and-free-software/",
+          "publishedOn": "2026-03-12T16:38:12.000Z",
+          "wordCount": null,
+          "title": "Talking on the “We love open source” podcasts about the threats of AI to open source and free software.",
+          "imageUrl": null
+        },
+        {
           "id": "https://christianheilmann.com/?p=9794",
           "author": "Chris Heilmann",
           "description": "I liked social media. I love learning and showing people how things are done there. I’m a LinkedIn and Skillshare trainer and wrote a few books. I also published tons of information on various social media channels. I also like that creators get benefits from publishing information. A social media platform should reward great contributions […]",
@@ -144,6 +154,16 @@
       "siteUrl": "https://grumpygamer.com/",
       "articles": [
         {
+          "id": "https://grumpygamer.com/tomorrow_never_came/",
+          "author": null,
+          "description": "Here is a movie I made with my friend, Tom, back when I was 15 or so. We were sure we’d be the next George Lucas or Steven Spielberg.\nLittle did I know a few years later I’d be working at Lucasfilm and Steven Spielberg would call me up for hints on Monkey Island. He couldn’t use the 1-900 number like everyone else.\nThe movie has sound, but it was lost when it was transferred to VHS and this goofy music was added.\nIn case the Smithsonian wants to preserve the movie as historically important, here is the link.",
+          "link": "https://grumpygamer.com/tomorrow_never_came/",
+          "publishedOn": "2026-03-12T22:28:13.000Z",
+          "wordCount": 182,
+          "title": "Tomorrow Never Came",
+          "imageUrl": "https://grumpygamer.com//images/gg_media_image.png"
+        },
+        {
           "id": "https://grumpygamer.com/dbs_bug/",
           "author": null,
           "description": "Interesting bug in Death by Scrolling. Let’s dive in.\nThis morning I got up to several Mastodon, Forum messages and Steam posts about a crash in Death by scrolling.\nferryman.yack(90) Can't find var CHALLENGE_GEM\nInteresting. Never seen that before and why now?\nTurns out this bug is in a Daily Challenge, which is why we’re getting a lot of bug reports all at once.  That Daily Challenge must have just pop up for everyone.\nBut why didn’t we catch it before?  Both in human testing and in our automated tests?\nHere is the core issue.  CHALLENGE_GEM is a const. But it turns out that consts that are not defined in defines.dinky (and this one wasn’t) aren’t seen in Dinky code run inside of Yack files. This is a bug in the Dinky compiler.\nBut to complicated matters even more, the compiler bug is not seen in our dev environment, so it only happens with fully packed release files.\nOur automated testing does test all the Challenges, but this is an odd Challenge in that it is completed in a dialog (Yack file), so while the Challenge was tested for completion it was not trigger via the Yack file by our testing unit.\nBut it does deeper.\nAfter the first release on Steam it was discovered that this challenge only gave 1 Gem, not the normal 5.  This was due to this code in the Yack file:\nSTATS_TOTAL.gems_from_challenges += 1\nPLAYER.onGainGem(1)\n\nI had hard coded 1 long ago.  So I changed it to\nSTATS_TOTAL.gems_from_challenges += CHALLENGE_GEM\nPLAYER.onGainGem(CHALLENGE_GEM)\n\nSo, the first version with the hard coded 1 was the one that went though most of the play testing and testing.\nThen when I change it to CHALLENGE_GEM it ran fine for me because I was in the dev environment and the automated testing didn’t catch this because it was in a .yack file and it was a Daily Challenge so had odds of about 1/100 of happening means it slipped through.\nA lot of 20/20 hindsight.\nThis is fixed in the new expansion, but I’m not sure I want to push a fix to the Steam release because it is rare and there are risks in just building a new build.",
@@ -166,6 +186,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3218/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/subduction_retrieval.png\" title=\"Aww, the oceanic crust and the continental crust are getting married!\" alt=\"Aww, the oceanic crust and the continental crust are getting married!\" />",
+          "link": "https://xkcd.com/3218/",
+          "publishedOn": "2026-03-11T00:00:00.000Z",
+          "wordCount": 187,
+          "title": "Subduction Retrieval",
+          "imageUrl": "https://imgs.xkcd.com/comics/subduction_retrieval_2x.png"
+        },
         {
           "id": "https://xkcd.com/3217/",
           "author": null,
@@ -405,16 +435,6 @@
           "wordCount": 189,
           "title": "16 Part Epoxy",
           "imageUrl": "https://imgs.xkcd.com/comics/16_part_epoxy_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3193/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/sailing_rigs.png\" title=\"I wanted to make the world's fastest yawl, so I made the aft sail bigger, but apparently that means it's not a yawl anymore! It's a real ketch-22.\" alt=\"I wanted to make the world's fastest yawl, so I made the aft sail bigger, but apparently that means it's not a yawl anymore! It's a real ketch-22.\" />",
-          "link": "https://xkcd.com/3193/",
-          "publishedOn": "2026-01-12T00:00:00.000Z",
-          "wordCount": 187,
-          "title": "Sailing Rigs",
-          "imageUrl": "https://imgs.xkcd.com/comics/sailing_rigs_2x.png"
         }
       ]
     },
@@ -759,6 +779,26 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=84386",
+          "author": "Bryan Johns",
+          "description": "We recently released a feature in the Firefox iOS mobile app called “Shake to Summarize”. The reception was remarkably positive, earning an honorable mention on Time Magazine’s best inventions of 2025.  For anyone unfamiliar with Shake to Summarize, it’s just what the name implies: when you’re browsing a webpage, you can shake your phone to […]\nThe post Under the hood: The AI powering Firefox’s Shake to Summarize appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/firefox/firefox-ai/ai-powering-firefox-shake-to-summarize/",
+          "publishedOn": "2026-03-12T17:57:54.000Z",
+          "wordCount": 2395,
+          "title": "Under the hood: The AI powering Firefox’s Shake to Summarize",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2025/08/shake-to-summarize-summaries-1144x762.png"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=84709",
+          "author": "Martin Thomson",
+          "description": "The unique architecture of the web enables a much higher degree of user privacy than exists on other platforms. Many factors contribute to this, but an essential one is that you don’t need to log in to start browsing. Sharing details about yourself with a website is an optional step you can take when you […]\nThe post The web should remain anonymous by default appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/privacy-security/web-anonymity/",
+          "publishedOn": "2026-03-12T12:00:00.000Z",
+          "wordCount": 1934,
+          "title": "The web should remain anonymous by default",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/03/Cursor_Green_1920x1080-1080x720.jpeg"
+        },
         {
           "id": "https://blog.mozilla.org/?p=84516",
           "author": "Brian Grinstead and Christian Holler",
@@ -1392,6 +1432,126 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/03/0048536-potoooooooo-was-an-18th-c",
+          "author": null,
+          "description": "Potoooooooo was an 18th-century British racehorse whose name was pronounced like “Potatoes” (Pot-eight-Os).",
+          "link": "https://kottke.org/26/03/0048536-potoooooooo-was-an-18th-c",
+          "publishedOn": "2026-03-12T23:32:24.000Z",
+          "wordCount": 597,
+          "title": "Potoooooooo  was an 18th-century British racehorse whose...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/0048551-presolar-grains-microscop",
+          "author": null,
+          "description": "“Presolar grains” (microscopic crystals that are older than the Sun) harvested from meteorites may help determine how our solar system was formed.",
+          "link": "https://kottke.org/26/03/0048551-presolar-grains-microscop",
+          "publishedOn": "2026-03-12T22:20:30.000Z",
+          "wordCount": 595,
+          "title": "&#8220;Presolar grains&#8221; (microscopic crystals that...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/lego-sets-remixed",
+          "author": null,
+          "description": "Bradley Barber remixes Lego sets into other things, e.g. the Millennium Falcon from Back to the Future DeLorean parts, an AT-AT into the USS Enterprise, and a Pirates of the Caribbean ship from the parts of a Lego bonsai tree set.\nHe is not alone in this pursuit; you can find tens of thousands of custom Lego designs at Rebrickable, including dozens of Barber’s designs.\n\n \n\n        \n         \nTags: Bradley Barber · lego · remix",
+          "link": "https://kottke.org/26/03/lego-sets-remixed",
+          "publishedOn": "2026-03-12T21:10:00.000Z",
+          "wordCount": 600,
+          "title": "Lego Sets Remixed",
+          "imageUrl": "http://kottke.org/plus/misc/images/editor-1773150868-4d6545e4.png"
+        },
+        {
+          "id": "https://kottke.org/26/03/0048557-this-is-great-channel-sur",
+          "author": null,
+          "description": "This is great: Channel Surfer is “a retro TV guide that turns YouTube into live cable TV. Each channel plays videos on a deterministic schedule — like real TV, you tune in mid-show.”",
+          "link": "https://kottke.org/26/03/0048557-this-is-great-channel-sur",
+          "publishedOn": "2026-03-12T20:26:00.000Z",
+          "wordCount": 785,
+          "title": "This is great:  Channel Surfer  is &#8220;a retro TV...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/0048561-coulous-vinyl-cafe-no-4",
+          "author": null,
+          "description": "coulou’s vinyl cafe (no. 4) - rainy day selections. “what’s up lovely humans, super excited to be sharing this new vinyl sessssion with you all.”",
+          "link": "https://kottke.org/26/03/0048561-coulous-vinyl-cafe-no-4",
+          "publishedOn": "2026-03-12T19:42:15.000Z",
+          "wordCount": 764,
+          "title": "coulou&#8217;s vinyl cafe (no. 4) - rainy day selections...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/0048550-the-void-would-very-much",
+          "author": null,
+          "description": "The Void Would Very Much Like You to Stop Screaming Into It. “I think we can both admit at this point that the screaming isn’t working. The screaming isn’t making you feel any better.”",
+          "link": "https://kottke.org/26/03/0048550-the-void-would-very-much",
+          "publishedOn": "2026-03-12T18:59:30.000Z",
+          "wordCount": 353,
+          "title": "The Void Would Very Much Like You to Stop Screaming Into...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/0048559-clive-thompson-wrote-abou",
+          "author": null,
+          "description": "Clive Thompson wrote about coding with AI agents. “Software developers point out that coding has a unique quality: They can tether their A.I.s to reality, because they can demand the agents test the code to see if it runs correctly.”",
+          "link": "https://kottke.org/26/03/0048559-clive-thompson-wrote-abou",
+          "publishedOn": "2026-03-12T18:19:05.000Z",
+          "wordCount": 349,
+          "title": "Clive Thompson wrote about coding with AI agents ....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/a-miraculous-escape",
+          "author": null,
+          "description": "A pair of hounds chase a hare across a snowy plain — will it get away? In Mario Kart terms, the dogs have the weight and max speed advantage while the hare is maxed out in acceleration, handling, and traction.\n\n \n\n        \n         \nTags: dogs · video",
+          "link": "https://kottke.org/26/03/a-miraculous-escape",
+          "publishedOn": "2026-03-12T17:39:00.000Z",
+          "wordCount": 608,
+          "title": "A Miraculous Escape",
+          "imageUrl": "https://i.ytimg.com/vi/O60xU-PAWys/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/03/0048558-we-took-an-ancient-vicepu",
+          "author": null,
+          "description": "“We took an ancient vice…put it on everyone’s phone, and made it as normal and frictionless as checking the weather. What could possibly go wrong?” I *hate* the extent to which gambling has infested everything; it’s not going to end well.",
+          "link": "https://kottke.org/26/03/0048558-we-took-an-ancient-vicepu",
+          "publishedOn": "2026-03-12T17:03:50.000Z",
+          "wordCount": 2430,
+          "title": "&#8220;We took an ancient vice&#8230;put it on...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/0048556-ballot-guessr-is-a-versio",
+          "author": null,
+          "description": "Ballot Guessr: “GeoGuessr for politics. See a Google Street View image, guess how the county voted in the 2024 presidential election.” (633/1000 on my first try…but I borked one of the guesses bc I forgot there was a time limit. 🙃)",
+          "link": "https://kottke.org/26/03/0048556-ballot-guessr-is-a-versio",
+          "publishedOn": "2026-03-12T16:17:56.000Z",
+          "wordCount": 757,
+          "title": "Ballot Guessr : &#8220;GeoGuessr for politics. See a...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/0048547-ai-is-rewiring-how-the",
+          "author": null,
+          "description": "AI Is Rewiring How the World’s Best Go Players Think. “Players now train to replicate AI’s moves as closely as they can rather than inventing their own, even when the machine’s thinking remains mysterious to them.”",
+          "link": "https://kottke.org/26/03/0048547-ai-is-rewiring-how-the",
+          "publishedOn": "2026-03-12T15:51:26.000Z",
+          "wordCount": 608,
+          "title": "AI Is Rewiring How the World&#8217;s Best Go Players...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/0048544-a-printable-zine-50-ways",
+          "author": null,
+          "description": "A printable zine: 50 Ways To Meet Your Neighbor. “32. Picking up trash, generally, is a good way to meet neighbors. People notice. 33. Winter: Shovel someone’s sidewalk. It’s also great cardio.”",
+          "link": "https://kottke.org/26/03/0048544-a-printable-zine-50-ways",
+          "publishedOn": "2026-03-12T15:09:13.000Z",
+          "wordCount": 630,
+          "title": "A printable zine:  50 Ways To Meet Your Neighbor ....",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/03/0048549-missed-this-earlier-in-th",
           "author": null,
