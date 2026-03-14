@@ -187,6 +187,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3219/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/planets_and_bright_stars.png\" title=\"An old astronomer trick for distinguishing the Sun from other stars is to take multiple photos a few minutes apart and overlay them, making the Sun stand out due to its high proper motion.\" alt=\"An old astronomer trick for distinguishing the Sun from other stars is to take multiple photos a few minutes apart and overlay them, making the Sun stand out due to its high proper motion.\" />",
+          "link": "https://xkcd.com/3219/",
+          "publishedOn": "2026-03-13T00:00:00.000Z",
+          "wordCount": 191,
+          "title": "Planets and Bright Stars",
+          "imageUrl": "https://imgs.xkcd.com/comics/planets_and_bright_stars_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3218/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/subduction_retrieval.png\" title=\"Aww, the oceanic crust and the continental crust are getting married!\" alt=\"Aww, the oceanic crust and the continental crust are getting married!\" />",
@@ -492,16 +502,6 @@
           "wordCount": 3892,
           "title": "JS Bin down in 2026 [blog]",
           "imageUrl": "https://remysharp.com/images/jsbin-status-chart.avif"
-        },
-        {
-          "id": "bytes-i-can-delete-after-all-this-time",
-          "author": null,
-          "description": "For the last few years my work-work has mostly focused on back end software (particularly around APIs). This meant that any front end work I was doing was for myself.\nBeing an long-in-the-tooth old dog, I tend to learn and trick, and roll it out again and again typically without taking the time to find whether I still need the trick. Case and point, I learnt about the JavaScript performance trick of ~~1.4 === 1 to floor a value (and the same float | 0) but really these days it's not \"faster\" than doing it the legible way (i.e. Math.floor(1.4)).\nGiven I've had a bit of time away from the backend, here's an unorganised list of things I've found I can use, and thusly remove extra code that I no longer need.",
-          "link": "https://remysharp.com/2026/01/13/bytes-i-can-delete-after-all-this-time",
-          "publishedOn": "2026-01-13T10:00:00.000Z",
-          "wordCount": 934,
-          "title": "Bytes I can delete after all this time [blog]",
-          "imageUrl": "https://remysharp.com/images/cards/og/9-4.jpg"
         }
       ]
     },
@@ -888,16 +888,6 @@
           "wordCount": 2106,
           "title": "How founders are meeting the moment: Lessons from Mozilla Ventures’ 2025 portfolio convening",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/01/convening-2025-1280x853.jpg"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=84176",
-          "author": "Mozilla",
-          "description": "Mozilla is pleased to announce that Amy Keating has joined Mozilla as Chief Business Officer (CBO). In this role, Amy will work across the Mozilla family of organizations  — spanning products, companies, investments, grants, and new ventures — to help ensure we are not only advancing our mission but also financially sustainable and operationally rigorous. […]\nThe post Mozilla welcomes Amy Keating as Chief Business Officer appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/amy-keating-chief-business-officer/",
-          "publishedOn": "2026-01-12T19:31:21.000Z",
-          "wordCount": 1774,
-          "title": "Mozilla welcomes Amy Keating as Chief Business Officer",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/01/CBO-Announcement-1080x720.png"
         }
       ]
     },
@@ -966,6 +956,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=12536",
+          "author": "Cory Doctorow",
+          "description": "Today's links Three more AI psychoses: Everybody calm down. Hey look at this: Delights to delectate. Object permanence: \"Jules, Penny and the Rooster\"; Superinjunction; Harper Lee's kids v cheap paperbacks; 3D printed cat battle-armor; Black sf. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Three more AI psychoses (permalink) \"AI psychosis\" is one of those terms that is incredibly useful and also almost certainly going to be deprecated in smart circles in short order because it is: a) useful; b) easily colloquialized to describe related phenomena; and c) adjacent to medical issues, and there's a group of people who feel very st…",
+          "link": "https://pluralistic.net/2026/03/12/normal-technology/",
+          "publishedOn": "2026-03-13T02:17:20.000Z",
+          "wordCount": 6335,
+          "title": "Pluralistic: Three more AI psychoses (12 Mar 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=12533",
           "author": "Cory Doctorow",
@@ -1370,16 +1370,6 @@
           "wordCount": null,
           "title": "Pluralistic: Sorry, eh (13 Jan 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=12250",
-          "author": "Cory Doctorow",
-          "description": "Today's links A winning trade war strategy for Canada: Tech giants are also the enemy of American businesses. Hey look at this: Delights to delectate. Object permanence: Wikipedia v The Register; Jeff Koons v balloon dogs; Brewster Kahle on aaronsw; Chelsea Manning on aaronsw; Why diet research sucks; Bloomberg loves Bernie. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. A winning trade war strategy for Canada (permalink) As the great Canadian philosopher Keanu Reeves averred in the 1994 public transportation documentary Speed, sometimes the winning move is to shoot the hostage. That is: when your adversary has trapped you in a …",
-          "link": "https://pluralistic.net/2026/01/12/disenshittification-nation-2/",
-          "publishedOn": "2026-01-12T16:01:00.000Z",
-          "wordCount": 3941,
-          "title": "Pluralistic: A winning trade war strategy for Canada (11 Jan 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -1432,6 +1422,106 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/03/0048569-for-the-first-time-in-2",
+          "author": null,
+          "description": "For the first time in awhile, copies of two lost episodes of classic Doctor Who have been discovered. Both are from the William Hartnell era and feature the Daleks.",
+          "link": "https://kottke.org/26/03/0048569-for-the-first-time-in-2",
+          "publishedOn": "2026-03-13T21:51:01.000Z",
+          "wordCount": 593,
+          "title": "For the first time in awhile,  copies of two lost...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/0048533-the-great-friendship-flat",
+          "author": null,
+          "description": "The Great Friendship Flattening. “I amass bits of knowledge about my loved ones — my sister’s boyfriend published a poem; my friend left her job — as a spectator, in the same way that I might learn about an influencer’s favorite books…”",
+          "link": "https://kottke.org/26/03/0048533-the-great-friendship-flat",
+          "publishedOn": "2026-03-13T19:29:18.000Z",
+          "wordCount": 596,
+          "title": "The Great Friendship Flattening . &#8220;I amass bits of...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/0048563-why-movies-just-dont-feel",
+          "author": null,
+          "description": "Why Movies Just Don’t Feel “Real” Anymore. “A deep dive into the first principles of movie immersion: on perceptual realism, indexicality, haptic visuality, and cinematic qualia.”",
+          "link": "https://kottke.org/26/03/0048563-why-movies-just-dont-feel",
+          "publishedOn": "2026-03-13T18:50:24.000Z",
+          "wordCount": 881,
+          "title": "Why Movies Just Don&#8217;t Feel &#8220;Real&#8221;...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/10-hours-of-ambient-freezer-drone",
+          "author": null,
+          "description": "Some genius has taken an audio sample of the hum of a grocery store freezer, cleaned it up, and extended it into a 10-hour video. The freezer’s hum, variously compared to Brian Eno’s music and “an electrical gong bath”, went viral enough to warrant an article in the Guardian last month:\n“Anyone noticed how nice the freezers sound in the eccy road co-op?” someone wrote on the Sheffield Reddit page in January. “It’s like all the fans have been carefully tuned to the calmest droning chord ever, it’s like being in an electrical gong bath.”\nEarlier this week, another Redditor shared a video of the freezers in all their aural glory, later earning a huge second audience when reposted to X. A debate ensued. Was it tuned to C# major? Could you hear the opening of Nothing Compares 2 U somewhere in the electronic hum? “I think it’s developed a slight discordant edge over the last couple of months,” one Reddit user wrote. “It’s ageing like fine wine.”\n\n \n\n        \n         \nTags: audio · video",
+          "link": "https://kottke.org/26/03/10-hours-of-ambient-freezer-drone",
+          "publishedOn": "2026-03-13T18:21:00.000Z",
+          "wordCount": 706,
+          "title": "10 Hours of Ambient Freezer Drone",
+          "imageUrl": "https://i.ytimg.com/vi/I4M7Ix0E_J0/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/03/0048522-recommendations-of-25-med",
+          "author": null,
+          "description": "Recommendations of 25 medieval manuscripts to explore online. “Almost every institution with a significant collection of medieval manuscripts digitizes many of their most significant works and makes them freely accessible online.”",
+          "link": "https://kottke.org/26/03/0048522-recommendations-of-25-med",
+          "publishedOn": "2026-03-13T17:45:59.000Z",
+          "wordCount": 626,
+          "title": "Recommendations of 25 medieval manuscripts to explore...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/0048567-the-z9gt-model-ev-from",
+          "author": null,
+          "description": "The Z9GT model EV from China’s BYD “can be 70 percent charged in five minutes and be almost full in 12 minutes, even in temperatures as low as -30° C” and “has a range of up to 800 km” (~500 miles). The US is sooooo far behind here.",
+          "link": "https://kottke.org/26/03/0048567-the-z9gt-model-ev-from",
+          "publishedOn": "2026-03-13T17:14:08.000Z",
+          "wordCount": 1083,
+          "title": "The Z9GT model EV from China&#8217;s BYD  &#8220;can be...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/its-an-open-thread",
+          "author": null,
+          "description": "Since the comments are back open and folks here can now share a little about themselves with each other, I thought I’d open this post up for whatever you guys want to chat about. What are you particularly interested in these days? Working on any fun projects? Got a new hobby? What’s the best thing you’ve seen this week? What’s something you’re struggling with?\n\n \n\n        \n         \nTags: kottke.org",
+          "link": "https://kottke.org/26/03/its-an-open-thread",
+          "publishedOn": "2026-03-13T15:20:00.000Z",
+          "wordCount": 10134,
+          "title": "It&#8217;s an Open Thread",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/0048565-craig-mod-is-software-bon",
+          "author": null,
+          "description": "Craig Mod is software bonkers. “I’m software bonkers: I can’t stop thinking about software. And I can’t stop building software.”",
+          "link": "https://kottke.org/26/03/0048565-craig-mod-is-software-bon",
+          "publishedOn": "2026-03-13T14:42:18.000Z",
+          "wordCount": 671,
+          "title": "Craig Mod is  software bonkers . &#8220;I&#8217;m...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/0048564-balcony-solar-finally-see",
+          "author": null,
+          "description": "Balcony solar finally seems to be taking off in the US. “As of Wednesday, Democratic and Republican lawmakers in 28 states and Washington, D.C., have announced their own legislation to make these systems permissible.”",
+          "link": "https://kottke.org/26/03/0048564-balcony-solar-finally-see",
+          "publishedOn": "2026-03-13T14:15:58.000Z",
+          "wordCount": 1002,
+          "title": "Balcony solar finally seems to be taking off in the US ....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/0048538-yet-another-graph-showing",
+          "author": null,
+          "description": "Yet another graph showing that when you control for quality of life (hours/week worked) and wealth inequality, American exceptionalism disappears.",
+          "link": "https://kottke.org/26/03/0048538-yet-another-graph-showing",
+          "publishedOn": "2026-03-13T13:31:29.000Z",
+          "wordCount": 588,
+          "title": "Yet another graph showing that when you control for...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/03/0048536-potoooooooo-was-an-18th-c",
           "author": null,
@@ -5391,86 +5481,6 @@
           "wordCount": null,
           "title": "Discover the 100-Year-Old Self-Playing Violin, One of the Most Complex Music Players...",
           "imageUrl": null
-        },
-        {
-          "id": "https://kottke.org/26/01/0048162-i-feel-stuck-and-sad",
-          "author": null,
-          "description": "“I feel stuck and sad and I don’t know what else to do.” Yeah, same.",
-          "link": "https://kottke.org/26/01/0048162-i-feel-stuck-and-sad",
-          "publishedOn": "2026-01-12T21:44:59.000Z",
-          "wordCount": 640,
-          "title": "&#8220;I feel stuck and sad and I don&#8217;t know what else to...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/01/an-optical-compass-inspired-by-bee-vision",
-          "author": null,
-          "description": "Bees use polarized sunlight scattered by the atmosphere in order to navigate; they always know where the sun is, even if it’s cloudy or behind a mountain. Then they waggle dance to inform their hive-mates about food source locations.\nSo if a bee wants to fly straight towards the sun, it waggles straight up the hive. If the food is 30° away from that polarization line, it waggles 30° away from vertical. If the food is directly away from the sun, it waggles downward.\nAnd the distance they should fly is encoded on how long the waggle lasts. It depends on the species of bee, but a waggle of about 1 second means about a kilometer away. So a 45° waggle for about 0.6 seconds means fly at 45° angles from the sun polarization line for about 600 meters.\nThe bee repeats this waggle dance over and over. And the more excited the dance, the better the food source. And if other bees verify it and perform the same dance, the signal gets amplified until the whole hive knows where to go.\n\n\nAs shown in this video, it’s possible to construct an optical compass using polarized filters in order to wayfind like the bees. Pretty cool! (via damn interesting)\nTags: bees · physics · science · video\n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/26/01/an-optical-compass-inspired-by-bee-vision",
-          "publishedOn": "2026-01-12T20:39:46.000Z",
-          "wordCount": 864,
-          "title": "An Optical Compass Inspired by Bee Vision",
-          "imageUrl": "https://i.ytimg.com/vi/4ERqAqwQ1wo/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/01/0048140-simon-tathams-portable-pu",
-          "author": null,
-          "description": "Simon Tatham’s Portable Puzzle Collection. “This page contains a collection of small computer programs which implement one-player puzzle games.”\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/26/01/0048140-simon-tathams-portable-pu",
-          "publishedOn": "2026-01-12T19:46:32.000Z",
-          "wordCount": 715,
-          "title": "Simon Tatham&#8217;s Portable Puzzle Collection. &#8220;This page contains a collection of small...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/01/0048160-out-of-the-1000-most-disc",
-          "author": null,
-          "description": "Out of the 1000 most-discussed books on Hacker News, it looks like around 50 of them were written by women.",
-          "link": "https://kottke.org/26/01/0048160-out-of-the-1000-most-disc",
-          "publishedOn": "2026-01-12T18:35:11.000Z",
-          "wordCount": 604,
-          "title": "Out of the 1000 most-discussed books on Hacker News, it looks like...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/01/a-logistical-matter",
-          "author": null,
-          "description": "Just wanted to drop a quick note to say that kottke.org moved servers over the weekend. You shouldn’t have noticed anything, except perhaps that the site is faster now. There was a small issue with the RSS feed after the migration, but that’s been resolved. If you notice anything amiss, drop me a line?\nAs always, big thanks to the crew at Arcustech for their rock-solid hosting and prompt tech support expertise.\nTags: kottke.org",
-          "link": "https://kottke.org/26/01/a-logistical-matter",
-          "publishedOn": "2026-01-12T17:25:18.000Z",
-          "wordCount": 633,
-          "title": "A Logistical Matter",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/01/train-wreck",
-          "author": null,
-          "description": "A wreck on the Lehigh Valley trackage in South Somerville, NJ circa 1918. (via shorpy)\nTags: this is a metaphor for something · trains",
-          "link": "https://kottke.org/26/01/train-wreck",
-          "publishedOn": "2026-01-12T16:55:24.000Z",
-          "wordCount": 579,
-          "title": "Train Wreck",
-          "imageUrl": "https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none//images/posts/01/img-48158-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/01/0048117-i-loved-watching-this-qui",
-          "author": null,
-          "description": "I loved watching this quick video recap of how Penguin designer Elisha Zepeda made the book covers for 10 books that came out in 2025. Zepeda has a much longer look at his process on YT.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/26/01/0048117-i-loved-watching-this-qui",
-          "publishedOn": "2026-01-12T16:28:41.000Z",
-          "wordCount": 787,
-          "title": "I loved watching this quick video recap of how Penguin designer Elisha...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/01/0048150-using-lidar-scientists-di",
-          "author": null,
-          "description": "Using lidar, scientists discovered a 400-foot-long wall composed of “60 massive granite monoliths, set directly onto the bedrock in pairs at regular intervals”. The wall is 30 feet underwater and was built 7000+ years ago.\n\n        \n\n        \n\n         \n💬 Join the discussion on kottke.org →",
-          "link": "https://kottke.org/26/01/0048150-using-lidar-scientists-di",
-          "publishedOn": "2026-01-12T15:35:39.000Z",
-          "wordCount": 992,
-          "title": "Using lidar, scientists discovered a 400-foot-long wall composed of &#8220;60 massive granite...",
-          "imageUrl": ""
         }
       ]
     },
