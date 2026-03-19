@@ -172,16 +172,6 @@
           "wordCount": 182,
           "title": "Tomorrow Never Came",
           "imageUrl": "https://grumpygamer.com//images/gg_media_image.png"
-        },
-        {
-          "id": "https://grumpygamer.com/dbs_bug/",
-          "author": null,
-          "description": "Interesting bug in Death by Scrolling. Let’s dive in.\nThis morning I got up to several Mastodon, Forum messages and Steam posts about a crash in Death by scrolling.\nferryman.yack(90) Can't find var CHALLENGE_GEM\nInteresting. Never seen that before and why now?\nTurns out this bug is in a Daily Challenge, which is why we’re getting a lot of bug reports all at once.  That Daily Challenge must have just pop up for everyone.\nBut why didn’t we catch it before?  Both in human testing and in our automated tests?\nHere is the core issue.  CHALLENGE_GEM is a const. But it turns out that consts that are not defined in defines.dinky (and this one wasn’t) aren’t seen in Dinky code run inside of Yack files. This is a bug in the Dinky compiler.\nBut to complicated matters even more, the compiler bug is not seen in our dev environment, so it only happens with fully packed release files.\nOur automated testing does test all the Challenges, but this is an odd Challenge in that it is completed in a dialog (Yack file), so while the Challenge was tested for completion it was not trigger via the Yack file by our testing unit.\nBut it does deeper.\nAfter the first release on Steam it was discovered that this challenge only gave 1 Gem, not the normal 5.  This was due to this code in the Yack file:\nSTATS_TOTAL.gems_from_challenges += 1\nPLAYER.onGainGem(1)\n\nI had hard coded 1 long ago.  So I changed it to\nSTATS_TOTAL.gems_from_challenges += CHALLENGE_GEM\nPLAYER.onGainGem(CHALLENGE_GEM)\n\nSo, the first version with the hard coded 1 was the one that went though most of the play testing and testing.\nThen when I change it to CHALLENGE_GEM it ran fine for me because I was in the dev environment and the automated testing didn’t catch this because it was in a .yack file and it was a Daily Challenge so had odds of about 1/100 of happening means it slipped through.\nA lot of 20/20 hindsight.\nThis is fixed in the new expansion, but I’m not sure I want to push a fix to the Steam release because it is rare and there are risks in just building a new build.",
-          "link": "https://grumpygamer.com/dbs_bug/",
-          "publishedOn": "2026-01-17T21:24:55.000Z",
-          "wordCount": 454,
-          "title": "Death by Scrolling Bug",
-          "imageUrl": "https://grumpygamer.com//images/gg_media_image.png"
         }
       ]
     },
@@ -196,6 +186,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3221/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/landscape_features.png\" title=\"'Well, there's speculation that it's due to a mantle hotspot.' --a geologist who's trying to cover up the fact that they didn't hear your question\" alt=\"'Well, there's speculation that it's due to a mantle hotspot.' --a geologist who's trying to cover up the fact that they didn't hear your question\" />",
+          "link": "https://xkcd.com/3221/",
+          "publishedOn": "2026-03-18T00:00:00.000Z",
+          "wordCount": 187,
+          "title": "Landscape Features",
+          "imageUrl": "https://imgs.xkcd.com/comics/landscape_features_2x.png"
+        },
         {
           "id": "https://xkcd.com/3220/",
           "author": null,
@@ -453,6 +453,16 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "web-of-state-of-the-browser-day-out",
+          "author": null,
+          "description": "Okay, that's a stupidly obscure title. It's meant to represent the combined events: State of the Browser and Web Day Out - two events I attended in the last month.\nThe short version is: if you get the chance to attend these events or even anything similar, I'd highly recommend that you grab that ticket and let the event wash over you.\nFor those that didn't attend (or maybe you did and wanted to read my perspective) then here's my thoughts on the separate events and then the round up of my own experience.",
+          "link": "https://remysharp.com/2026/03/18/web-of-state-of-the-browser-day-out",
+          "publishedOn": "2026-03-18T09:00:00.000Z",
+          "wordCount": 2338,
+          "title": "Web of State of the Browser Day Out [blog]",
+          "imageUrl": "https://remysharp.com/images/dave-sotb.jpg"
+        },
         {
           "id": "rivers-of-london",
           "author": null,
@@ -1360,16 +1370,6 @@
           "wordCount": 3136,
           "title": "Pluralistic: Social media without socializing (19 Jan 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=12279",
-          "author": "Cory Doctorow",
-          "description": "Today's links The world needs an Ireland for disenshittification: Regulatory arbitrage isn't just for tax cheats. Hey look at this: Delights to delectate. Object permanence: \"Fledgling\"; Magnetic forest rings; Electable Mr Sanders; \"Terrorists\" were just blind guys. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The world needs an Ireland for disenshittification (permalink) Ireland is a tax haven. In the 1970s and 1980s, life in the civil-war wracked country was hard – between poverty, scarce employment and civil unrest, the country hemorrhaged its best and brightest. As the saying went, \"Ireland's top export is the Irish.\" In d…",
-          "link": "https://pluralistic.net/2026/01/17/erin-lets-go/",
-          "publishedOn": "2026-01-17T15:18:04.000Z",
-          "wordCount": 3091,
-          "title": "Pluralistic: The world needs an Ireland for disenshittification (17 Jan 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -1422,6 +1422,126 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/03/0048585-this-is-maybe-the-best",
+          "author": null,
+          "description": "This is maybe the best baseball catch you’ll ever see. Or the most fun one anyway.",
+          "link": "https://kottke.org/26/03/0048585-this-is-maybe-the-best",
+          "publishedOn": "2026-03-18T23:12:20.000Z",
+          "wordCount": 562,
+          "title": "This is  maybe the best baseball catch  you&#8217;ll ever...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/0048606-miuccia-prada-is-worth-48",
+          "author": null,
+          "description": "Miuccia Prada is worth $4.8 billion. How good of a person do you expect her to be? “I got to thinking about all this the other day while mulling the curious, oft-repeated fact that Miuccia Prada was, in her 1960s youth, a Communist.”",
+          "link": "https://kottke.org/26/03/0048606-miuccia-prada-is-worth-48",
+          "publishedOn": "2026-03-18T22:14:08.000Z",
+          "wordCount": 605,
+          "title": "Miuccia Prada is worth $4.8 billion. How good of a...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/0048601-birds-in-the-united-state",
+          "author": null,
+          "description": "“Birds in the United States are not only declining, but they are declining faster, especially in areas with intensive agriculture, according to new research.”",
+          "link": "https://kottke.org/26/03/0048601-birds-in-the-united-state",
+          "publishedOn": "2026-03-18T21:25:19.000Z",
+          "wordCount": 592,
+          "title": "&#8220;Birds in the United States are not only declining,...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/0048571-a-playable-css-only-super",
+          "author": null,
+          "description": "A playable CSS-only Super Mario Bros game. Wow.",
+          "link": "https://kottke.org/26/03/0048571-a-playable-css-only-super",
+          "publishedOn": "2026-03-18T20:00:08.000Z",
+          "wordCount": 548,
+          "title": "A playable CSS-only Super Mario Bros game . Wow.",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/0048598-a-generator-for-vhs-slipc",
+          "author": null,
+          "description": "A generator for VHS slipcovers, cassette tape inserts, CD labels & inserts. You can paste in Spotify URLs, search for movies, etc. Really cool and fun.",
+          "link": "https://kottke.org/26/03/0048598-a-generator-for-vhs-slipc",
+          "publishedOn": "2026-03-18T19:01:14.000Z",
+          "wordCount": 585,
+          "title": "A generator  for VHS slipcovers, cassette tape inserts,...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/delta-seatback-chess-bot",
+          "author": null,
+          "description": "The chess program available on Delta Air Lines’ seatback screens is an ELO monster that can beat almost all opponents on easy mode. This guy used a series of increasingly powerful bots to see just how good the Delta chess bot is. Can it beat a grandmaster-level bot? (via clive thompson)\n\n \n\n        \n         \nTags: chess · Delta · games · video",
+          "link": "https://kottke.org/26/03/delta-seatback-chess-bot",
+          "publishedOn": "2026-03-18T18:00:00.000Z",
+          "wordCount": 870,
+          "title": "The Delta Air Lines Seatback Chess Bot Will Destroy You",
+          "imageUrl": "https://i.ytimg.com/vi/c0mLhHDcY3I/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/03/0048576-what-does-it-feel-like",
+          "author": null,
+          "description": "What does it feel like to be struck by lightning? “Some have to relearn simple things, things they’ve done their whole life — how to read, how to sing, how to ride a bike.”",
+          "link": "https://kottke.org/26/03/0048576-what-does-it-feel-like",
+          "publishedOn": "2026-03-18T17:12:54.000Z",
+          "wordCount": 618,
+          "title": "What does it feel like to be struck by lightning?...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/0048609-trailer-for-spider-man-br",
+          "author": null,
+          "description": "Trailer for Spider-Man: Brand New Day. I like that Tom Holland. I’m into it.",
+          "link": "https://kottke.org/26/03/0048609-trailer-for-spider-man-br",
+          "publishedOn": "2026-03-18T16:27:07.000Z",
+          "wordCount": 612,
+          "title": "Trailer for Spider-Man: Brand New Day . I like that Tom...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/0048596-the-fascinating-engineeri",
+          "author": null,
+          "description": "The Fascinating Engineering of the Titanic: How the Great Ocean Liner Was Built. “Issues of the journal The Engineer published between 1909 and 1911 contain detailed photographs of the construction of both the Titanic and Olympic…”",
+          "link": "https://kottke.org/26/03/0048596-the-fascinating-engineeri",
+          "publishedOn": "2026-03-18T15:56:19.000Z",
+          "wordCount": 667,
+          "title": "The Fascinating Engineering of the Titanic: How the...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/0048608-cesar-chavez-a-civil-righ",
+          "author": null,
+          "description": "Cesar Chavez, a Civil Rights Icon, Is Accused of Abusing Girls for Years. “Ms. Murguia and another woman, Debra Rojas, say that Mr. Chavez sexually abused them for years when they were girls, from around 1972 to 1977.”",
+          "link": "https://kottke.org/26/03/0048608-cesar-chavez-a-civil-righ",
+          "publishedOn": "2026-03-18T15:05:01.000Z",
+          "wordCount": 974,
+          "title": "Cesar Chavez, a Civil Rights Icon, Is Accused of Abusing...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/subway-to-coney-island-1987",
+          "author": null,
+          "description": "This is a mindblowing time capsule of ordinary life: video of a group of friends taking the NYC subway to Coney Island in 1987. Because it was before mobile phones, they had to arrange to meet one of the group members in the first car of the train along the way.\nThe film was shot by Nelson Sullivan, a videographer who recorded the arts, music, and LGBTQ+ communities in NYC in this same ur-vlogging style.\nViewed today, Sullivan’s video record of his life represents a pre-Internet form of vlogging, while his frequently used technique of turning the camera to face himself clearly anticipates the modern selfie.\n\n\t\nYou can watch hundreds more of Sullivan’s films on YouTube, including a trip to McDonald’s (the most popular video on the channel), several RuPaul videos, a holiday party at Michael Alig & DJ Keoki’s apartment, and Keith Haring’s NYE party. Sullivan sadly died of a presumed heart attack two years later at the age of 41. (thx, caroline)\n\n \n\n        \n         \nTags: Nelson Sullivan · NYC · subway · video",
+          "link": "https://kottke.org/26/03/subway-to-coney-island-1987",
+          "publishedOn": "2026-03-18T14:15:00.000Z",
+          "wordCount": 840,
+          "title": "Riding the Subway to Coney Island in 1987",
+          "imageUrl": "https://i.ytimg.com/vi/JN4ATDfCYmo/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/03/0048607-jamelle-bouie-says-the-sa",
+          "author": null,
+          "description": "Jamelle Bouie says the SAVE Act will take us back to Jim Crow South: “a one-party state, backed by the threat of violence, where the law ensures that most people cannot hope for meaningful political representation.”",
+          "link": "https://kottke.org/26/03/0048607-jamelle-bouie-says-the-sa",
+          "publishedOn": "2026-03-18T13:40:25.000Z",
+          "wordCount": 336,
+          "title": "Jamelle Bouie says the SAVE Act will take us back to Jim...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/03/0048605-this-is-an-interactive-st",
           "author": null,
