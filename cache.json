@@ -187,6 +187,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3224/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/centimeter_wavelengths.png\" title=\"Yes, the cosmic microwave background is great, but what about the earthly microwave foreground?\" alt=\"Yes, the cosmic microwave background is great, but what about the earthly microwave foreground?\" />",
+          "link": "https://xkcd.com/3224/",
+          "publishedOn": "2026-03-25T00:00:00.000Z",
+          "wordCount": 187,
+          "title": "Centimeter Wavelengths",
+          "imageUrl": "https://imgs.xkcd.com/comics/centimeter_wavelengths_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3223/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/inflation_timeline.png\" title=\"Depending what corners of the internet you hang out on, 'regular' may at times awkwardly coexist with 'sexy.'\" alt=\"Depending what corners of the internet you hang out on, 'regular' may at times awkwardly coexist with 'sexy.'\" />",
@@ -425,16 +435,6 @@
           "wordCount": 187,
           "title": "Chemical Formula",
           "imageUrl": "https://imgs.xkcd.com/comics/chemical_formula_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3199/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/early_arthropods.png\" title=\"'Ugh, I'm never going to be like spiders. My descendants will all just be normal arthropods who mind their own busines and don't do anything weird.' --The ancestor of a bunch of eusocial insects\" alt=\"'Ugh, I'm never going to be like spiders. My descendants will all just be normal arthropods who mind their own busines and don't do anything weird.' --The ancestor of a bunch of eusocial insects\" />",
-          "link": "https://xkcd.com/3199/",
-          "publishedOn": "2026-01-26T00:00:00.000Z",
-          "wordCount": 187,
-          "title": "Early Arthropods",
-          "imageUrl": "https://imgs.xkcd.com/comics/early_arthropods_2x.png"
         }
       ]
     },
@@ -443,6 +443,16 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "fixing-my-slow-mac-network-speeds",
+          "author": null,
+          "description": "For a while now both my desktop Mac (running Sonoma) and my laptop (running Tahoe - do not recommend) have had sub-optimal network speeds.\nMy Android phone, on our network, on the same SSID, speed tests at 1.1Gbps. My laptop gets around 160Mbps and my desktop pulls in around 80Mbps.\nThat's quite a difference, and even though I don't need the gigabit speeds - sometimes I can tell when the desktop is being slow (web site be getting big).\nWhat was weird is that the network speeds get much faster if I add something like NordVPN to my connection…which doesn't make sense…",
+          "link": "https://remysharp.com/2026/03/26/fixing-my-slow-mac-network-speeds",
+          "publishedOn": "2026-03-26T09:00:00.000Z",
+          "wordCount": 898,
+          "title": "Fixing my slow Mac network speeds [blog]",
+          "imageUrl": "https://remysharp.com/images/speed-test.avif"
+        },
         {
           "id": "web-of-state-of-the-browser-day-out",
           "author": null,
@@ -779,6 +789,16 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=85272",
+          "author": "Mozilla",
+          "description": "The future of AI should belong to all of humanity, well beyond a handful of countries or companies. For that to happen, AI needs to be open, trusted, and built in ways that give people, institutions, and nations real choices. That’s why, today, Mozilla is announcing a strategic partnership with Mila – Quebec Artificial Intelligence Institute […]\nThe post Mozilla and Mila announce strategic research partnership to advance open source and sovereign AI capabilities  appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/mila-open-source-sovereign-ai/",
+          "publishedOn": "2026-03-26T16:58:13.000Z",
+          "wordCount": 1835,
+          "title": "Mozilla and Mila announce strategic research partnership to advance open source and sovereign AI capabilities",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/03/bullhorn-1280x853.webp"
+        },
         {
           "id": "https://blog.mozilla.org/?p=84862",
           "author": "Adam Fishman",
@@ -1447,6 +1467,36 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/03/0048602-theres-an-upside-down-h-o",
+          "author": null,
+          "description": "There’s an upside-down “H” on the facade of a Frank Lloyd Wright building in Illinois. Here’s a deep dive into how it got there.",
+          "link": "https://kottke.org/26/03/0048602-theres-an-upside-down-h-o",
+          "publishedOn": "2026-03-26T17:58:45.000Z",
+          "wordCount": 717,
+          "title": "There&#8217;s an upside-down &#8220;H&#8221; on the...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/0048555-a-comparison-of-different",
+          "author": null,
+          "description": "A comparison of different sorting algorithms (bubble, merge, heap, timsort). You can run them one at a time or race all seven.",
+          "link": "https://kottke.org/26/03/0048555-a-comparison-of-different",
+          "publishedOn": "2026-03-26T14:45:37.000Z",
+          "wordCount": 667,
+          "title": "A comparison of different sorting algorithms  (bubble,...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/03/0048627-stephen-colbert-is-co-wri",
+          "author": null,
+          "description": "Stephen Colbert is co-writing a Lord of the Rings movie. “The Lord of the Rings: Shadow of the Past is set 14 years after the passing of Frodo. Sam, Merry and Pippin set out to retrace the first steps of their adventure…”",
+          "link": "https://kottke.org/26/03/0048627-stephen-colbert-is-co-wri",
+          "publishedOn": "2026-03-26T04:27:56.000Z",
+          "wordCount": 612,
+          "title": "Stephen Colbert is co-writing a Lord of the Rings movie...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/03/0048622-feminism-is-far-from-dead",
           "author": null,
