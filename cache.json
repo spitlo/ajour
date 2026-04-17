@@ -460,16 +460,6 @@
           "wordCount": 185,
           "title": "Plums",
           "imageUrl": "https://imgs.xkcd.com/comics/plums_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3208/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/snews.png\" title=\"People say setting of fireworks indoors is dangerous, but I looked at their energy release and it's like 10^-40 foe; totally negligible.\" alt=\"People say setting of fireworks indoors is dangerous, but I looked at their energy release and it's like 10^-40 foe; totally negligible.\" />",
-          "link": "https://xkcd.com/3208/",
-          "publishedOn": "2026-02-16T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "SNEWS",
-          "imageUrl": "https://imgs.xkcd.com/comics/snews_2x.png"
         }
       ]
     },
@@ -780,7 +770,18 @@
       "title": "esoteric.codes",
       "feedUrl": "https://esoteric.codes/rss",
       "siteUrl": "https://esoteric.codes",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://esoteric.codes/blog/five-esonatlangs",
+          "author": null,
+          "description": "The five esolangs discussed in this piece -- Coem, Love Languages, Prāsa, Kip, and Captive -- draw on aspects of natural language usually avoided in code: nuance and ambiguity, complex grammars and morphologies. They stand apart from the better‑known, jokier esolangs like LOLCODE or RockStar, which borrow from natlangs only for their vocabulary, building lexicons of memespeak or power-ballad lyrics, respectively. Since they keep the same grammar as typical imperative languages, there's a stiffness to the way their natural-language-inspired phrases combine and they still feel code-like. These five langs, which we might call esoNatLangs, do not; they foreground linguistic expressiveness over algorithmic execution.\n\r\n\"Esonatlang\" is a play on sub-genres of Oulipo (\"the workshop of potential literature\" which featured constraint-based writing), e.g. Outrapo, the \"workshop of potential tragicomedy.\" These langs multicode with prose: their programs have multiple readings that constrain each other aesthetically, much like Piet does with images or Velato with music. The constraint sets of some are abstract enough to border the steganographic: an English sentence gives little hint that it is also a Love Languages program on first reading. Other esonatlangs leave more visible stylistic traces, like the musical cadence of Prāsa. But all prioritize code as a text for human reading: their computational aspect -- how they perform as code -- shapes how they are written, rather than serving as a primary goal. As per usual in esolang practice, esonatlangs are made by practitioners from many backgrounds: academics and students, artists, and as side projects by working programmers. The final language, Captive, is one of mine. It should be noted that none of these were made in reaction to each other, and the term esonatlang is my own; this is an emerging trend, not a label these esolangers have necessarily adopted themselves.\nRead More",
+          "link": "https://esoteric.codes/blog/five-esonatlangs",
+          "publishedOn": "2026-04-16T05:22:00.000Z",
+          "wordCount": 3406,
+          "title": "EsoNatLangs Bring the Complexity of Natural Language into Code",
+          "imageUrl": "https://esoteric.codes/uploads/7857420a-fd01-41f9-bc97-f0d35d39f924/BBillySawBrainfuck.png"
+        }
+      ]
     },
     {
       "title": "Lea Verou’s blog",
@@ -1017,6 +1018,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=12674",
+          "author": "Cory Doctorow",
+          "description": "Today's links A Pascal's Wager for AI Doomers: We're already being turned into paperclips. Hey look at this: Delights to delectate. Object permanence: Every pirate ebook on the internet; Sun's \"Open DRM\"; Untranslatable words; Let's encrypt is encrypting; Boots ruined by hedge fund; Brussels terrorists' opsec; Copyrighted Klingon; Murder Offsets. Upcoming appearances: Toronto, San Francisco, London, Berlin, NYC, Hay-on-Wye, London, NYC. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. A Pascal's Wager for AI Doomers (permalink) Lest anyone accuse me of bargaining in bad faith here, let me start with this admission: I don't think AI is intelligent; nor do I think that th…",
+          "link": "https://pluralistic.net/2026/04/16/pascals-wager/",
+          "publishedOn": "2026-04-16T11:09:32.000Z",
+          "wordCount": 3869,
+          "title": "Pluralistic: A Pascal's Wager for AI Doomers (16 Apr 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=12668",
           "author": "Cory Doctorow",
@@ -1401,16 +1412,6 @@
           "wordCount": 3649,
           "title": "Pluralistic: What's a \"gig work minimum wage\" (17 Feb 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=12435",
-          "author": "Cory Doctorow",
-          "description": "Today's links The online community trilemma: Reach, community and information, pick two. Hey look at this: Delights to delectate. Object permanence: Bruces x Sony DRM; Eniac tell-all; HBO v PVRs; Fucking damselflies; Gil Scout Cookie wine-pairings; Big Pharma's opioid fines are tax-deductible; Haunted Mansion ops manual; RIAA v CD ripping; Flying boat; Morbid Valentines; Veg skulls; Billionaires x VR v guillotines; \"Lovecraft Country\"; Claude Shannon on AI; Comics Code Authority horror comic; Scratch-built clock; Stolen hospital. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The online community trilemma (permalink) The digital…",
-          "link": "https://pluralistic.net/2026/02/16/fast-good-cheap/",
-          "publishedOn": "2026-02-16T08:22:26.000Z",
-          "wordCount": 3987,
-          "title": "Pluralistic: The online community trilemma (16 Feb 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -1473,6 +1474,66 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/04/0048764-researchers-have-found-th",
+          "author": null,
+          "description": "Researchers have found that some aspects of sperm whales’ communication are “remarkably similar” to human languages.",
+          "link": "https://kottke.org/26/04/0048764-researchers-have-found-th",
+          "publishedOn": "2026-04-16T17:22:59.000Z",
+          "wordCount": 714,
+          "title": "Researchers have found that  some aspects of sperm...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/04/0048728-what-was-the-very-first",
+          "author": null,
+          "description": "What Was the Very First Plant in the World? “Scientists believe the first true plants evolved from green algae around 470 million years ago.”",
+          "link": "https://kottke.org/26/04/0048728-what-was-the-very-first",
+          "publishedOn": "2026-04-16T16:39:44.000Z",
+          "wordCount": 770,
+          "title": "What Was the Very First Plant in the World?...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/04/the-brennan-self-balancing-monorail",
+          "author": null,
+          "description": "This is so cool: in the early 1900s, a mechanical engineer named Louis Brennan invented a self-balancing train that ran on a single track. This video demonstrates how the train worked using a clever system of gyroscopes.\nThis is the Brennan Monorail, a train from the early 1900s that seemed to defy the laws of physics. Not only did it keep itself perfectly balanced on a single rail, but it mysteriously leaned into corners without any driver input.\n\n\t\nIt’s kind of incredible how well Brennan’s system worked. It’s ingenious. (via messy nessy)\n\n \n\n        \n         \nTags: engineering · inventions · Louis Brennan · physics · science · trains · video",
+          "link": "https://kottke.org/26/04/the-brennan-self-balancing-monorail",
+          "publishedOn": "2026-04-16T15:36:00.000Z",
+          "wordCount": 879,
+          "title": "The Brennan Self-Balancing Monorail",
+          "imageUrl": "https://i.ytimg.com/vi/kUYzuAJeg3M/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/04/0048741-i-mentioned-this-book-in",
+          "author": null,
+          "description": "I mentioned this book in a previous post but it deserves its own thing: Timothy Ryback’s 53 Days: How Hitler Dismantled a Democracy will hit shelves in September. A must-read for me.",
+          "link": "https://kottke.org/26/04/0048741-i-mentioned-this-book-in",
+          "publishedOn": "2026-04-16T14:31:55.000Z",
+          "wordCount": 741,
+          "title": "I mentioned this book in a previous post but it deserves...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/04/the-peoples-clock",
+          "author": null,
+          "description": "As part of his Real Time series, artist Maarten Baas has created The People’s Clock, a timepiece that lives in Amsterdam’s Schiphol airport. To create the clock’s “workings”, Baas recorded more than 1000 volunteers moving as the clock’s hands over a 12-hour period. If you look carefully, you can see a single individual dressed in orange at the edge of the circle acting as the second hand:\n\nEach of the installed clock’s faces is a looped video of that recording, synced to the current time. Here’s a quick behind-the-scenes video of how the clock was made:\n\nSee also Baas’s Sweeper’s Clock and Schiphol Clock.\n\n\n \n\n        \n         \nTags: amsterdam · art · clocks · Maarten Baas · time · video",
+          "link": "https://kottke.org/26/04/the-peoples-clock",
+          "publishedOn": "2026-04-16T13:45:00.000Z",
+          "wordCount": 1066,
+          "title": "The People&#8217;s Clock: a Timepiece Made of People",
+          "imageUrl": "http://kottke.org/plus/misc/images/editor-1776265123-2a62db81.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/04/0048767-the-great-american-glp-1-",
+          "author": null,
+          "description": "The Great American GLP-1 Experiment. In the last few years, people have come up with all sorts of off-label uses for GLP-1s, including treating concussions, menopause, long Covid, IBS, drug addiction, anxiety, hair loss, and arthritis.",
+          "link": "https://kottke.org/26/04/0048767-the-great-american-glp-1-",
+          "publishedOn": "2026-04-16T13:01:09.000Z",
+          "wordCount": 1099,
+          "title": "The Great American GLP-1 Experiment . In the last few...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/04/0048766-a-rare-event-to-capture",
           "author": null,
