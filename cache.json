@@ -54,16 +54,6 @@
           "wordCount": null,
           "title": "LinkedIn should punish the “comment X to get access” bait spam",
           "imageUrl": null
-        },
-        {
-          "id": "https://christianheilmann.com/?p=9781",
-          "author": "Chris Heilmann",
-          "description": "Did you know that you can host HTML/CSS/JS demos with execution and source code display on GitHub? All you need is a few include commands in a markdown file and your html/css/js files in a folder. Try it out here: https://codepo8.github.io/code-hosting-demo/example/ See the source here: https://codepo8.github.io/code-hosting-demo/example/index.md My Code Demo ## Try it out {% include_relative […]",
-          "link": "https://christianheilmann.com/2026/02/28/quick-tip-hosting-html-css-js-demos-from-source-code-on-github-pages/",
-          "publishedOn": "2026-02-28T11:36:47.000Z",
-          "wordCount": null,
-          "title": "Quick tip: hosting HTML/CSS/JS demos from source code on GitHub Pages",
-          "imageUrl": null
         }
       ]
     },
@@ -181,6 +171,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3238/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/soniferous_aether.png\" title=\"Imagine you could ride alongside a sound wave. It would probably be pretty cool, right? We're putting in a departmental budget request to buy a really fast plane so we can check it out.\" alt=\"Imagine you could ride alongside a sound wave. It would probably be pretty cool, right? We're putting in a departmental budget request to buy a really fast plane so we can check it out.\" />",
+          "link": "https://xkcd.com/3238/",
+          "publishedOn": "2026-04-27T00:00:00.000Z",
+          "wordCount": 187,
+          "title": "Soniferous Aether",
+          "imageUrl": "https://imgs.xkcd.com/comics/soniferous_aether_2x.png"
+        },
         {
           "id": "https://xkcd.com/3237/",
           "author": null,
@@ -951,6 +951,16 @@
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
         {
+          "id": "https://www.joshwcomeau.com/animation/scroll-driven-animations/",
+          "author": "Josh W. Comeau",
+          "description": "The new Animation Timeline API allows us to create dynamic scroll animations without any JavaScript! It’s honestly a very lovely API, and in this blog post, we’ll explore some of the super cool things we can do with it.",
+          "link": "https://www.joshwcomeau.com/animation/scroll-driven-animations/",
+          "publishedOn": "2026-04-28T12:00:00.000Z",
+          "wordCount": 8844,
+          "title": "Scroll-Driven Animations",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-scroll-driven-animations.png"
+        },
+        {
           "id": "https://www.joshwcomeau.com/animation/squash-and-stretch/",
           "author": "Josh W. Comeau",
           "description": "Have you ever heard of Disney’s 12 Basic Principles of Animation? In this tutorial, we’ll explore how we can use the very first principle to create SVG micro-interactions that feel way more natural and believable. It’s one of those small things that has a big impact.",
@@ -994,6 +1004,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=12743",
+          "author": "Cory Doctorow",
+          "description": "Today's links Vicky Osterweil's \"The Extended Universe\": How Disney killed the movies and took over the world. Hey look at this: Delights to delectate. Object permanence: Zappa v censorship; Chemistry set with no chemicals; Short cons; Mitsubishi's Dieselgate; \"Bellwether.\" Upcoming appearances: Berlin, NYC, Barcelona, Hay-on-Wye, London, NYC. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Vicky Osterweil's \"The Extended Universe\" (permalink) Vicky Osterweil's The Extended Universe: How Disney Killed the Movies and Took Over the World makes the kind of long, polemical, startling and illuminating argument that defines great cultural criticism; it's the sort of book tha…",
+          "link": "https://pluralistic.net/2026/04/27/mouseketeers/",
+          "publishedOn": "2026-04-28T05:57:01.000Z",
+          "wordCount": 2987,
+          "title": "Pluralistic: Vicky Osterweil's \"The Extended Universe\" (28 Apr 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=12738",
           "author": "Cory Doctorow",
@@ -1393,16 +1413,6 @@
           "wordCount": 3024,
           "title": "Pluralistic: No one wants to read your AI slop (02 Mar 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=12479",
-          "author": "Cory Doctorow",
-          "description": "Today's links California can stop Larry Ellison from buying Warners: These are the right states' rights. Hey look at this: Delights to delectate. Object permanence: RIP Octavia Butler; \"Midnighters\"; Freeman Dyson on \"The Information\"; Korean Little Brother filibuster; Privacy isn't property; With Great Power Came No Responsibility; Unsellable A-holes; Cardboard Cthulhu; Chinese map fuzzing. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. California can stop Larry Ellison from buying Warners (permalink) For months, the hottest will-they/won't-they drama in Hollywood concerned the suitors for Warners, up for sale again after being…",
-          "link": "https://pluralistic.net/2026/02/28/golden-mean/",
-          "publishedOn": "2026-02-28T11:11:44.000Z",
-          "wordCount": 3530,
-          "title": "Pluralistic: California can stop Larry Ellison from buying Warners (28 Feb 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -1450,6 +1460,126 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/13/03/remembering-roberto-clementes-3000th-hit",
+          "author": null,
+          "description": "This story by Kevin Guilfoile about his aging father (who worked for the Pirates and the Baseball Hall of Fame) and the mystery of what happened to the bat that Roberto Clemente got his 3,000th hit with is one of my favorite things that I’ve read over the past few months.\n[My father’s] personality is present, if his memories are a jumble. He is still funny, and surprisingly quick with one-liners to crack up the staff at the facility where he lives. He is exceedingly polite, same as he ever was. He is good at faking a casual conversation, especially on the phone. But if you sit and talk with him for a long time, he gets very anxious. He starts tapping his forehead with his fingers. “Shouldn’t we be going?” he’ll say. You tell him there’s no place we need to be, but 30 seconds later he’ll as…",
+          "link": "https://kottke.org/13/03/remembering-roberto-clementes-3000th-hit",
+          "publishedOn": "2026-04-28T22:30:00.000Z",
+          "wordCount": 1122,
+          "title": "Remembering Roberto Clemente&#8217;s 3000th Hit",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/04/0048832-five-great-book-critics-w",
+          "author": null,
+          "description": "Five great book critics writing today (and where to find them).",
+          "link": "https://kottke.org/26/04/0048832-five-great-book-critics-w",
+          "publishedOn": "2026-04-28T21:47:52.000Z",
+          "wordCount": 717,
+          "title": "Five great book critics writing today (and where to find...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/04/0048838-this-is-interesting-talki",
+          "author": null,
+          "description": "This is interesting: Talkie is a vintage LLM, trained on “historical pre-1931 English text”. “The training data for the base model is entirely out of copyright (the USA copyright cutoff date is currently January 1, 1931).”",
+          "link": "https://kottke.org/26/04/0048838-this-is-interesting-talki",
+          "publishedOn": "2026-04-28T21:03:58.000Z",
+          "wordCount": 511,
+          "title": "This is interesting:  Talkie is a vintage LLM , trained...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/04/some-cool-movie-explosions",
+          "author": null,
+          "description": "Listen, sometimes you just want to watch things blow up. But safely and without consequence (although Arnold Schwarzenegger did somehow become the governor of California). So, can I interest you in three minutes of movie explosions? The 80s and 90s were really a golden age for kick-ass movie explosions. (via @tvaziri.com)\n\n \n\n        \n         \nTags: movies · video",
+          "link": "https://kottke.org/26/04/some-cool-movie-explosions",
+          "publishedOn": "2026-04-28T20:03:00.000Z",
+          "wordCount": 718,
+          "title": "Some Cool Movie Explosions",
+          "imageUrl": "https://i.ytimg.com/vi/qwl9azNeup4/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/04/0048830-a-half-century-after-it-w",
+          "author": null,
+          "description": "“A half-century after it was published, The Soul of a New Machine does a better job challenging AI hype than most current criticism.” I thought something similarly (about the web) when I read Kidder’s book 25 years ago, during the aftermath of the dot com bust.",
+          "link": "https://kottke.org/26/04/0048830-a-half-century-after-it-w",
+          "publishedOn": "2026-04-28T19:18:27.000Z",
+          "wordCount": 760,
+          "title": "&#8220;A half-century after it was published,  The Soul...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/04/0048816-do-i-belong-in-tech",
+          "author": null,
+          "description": "Do I Belong in Tech Anymore? “Why am I here? Does any of this work actually matter? And if I stop caring about the quality of my work… will anyone notice?”",
+          "link": "https://kottke.org/26/04/0048816-do-i-belong-in-tech",
+          "publishedOn": "2026-04-28T18:30:10.000Z",
+          "wordCount": 770,
+          "title": "Do I Belong in Tech Anymore?  &#8220;Why am I here? Does...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/04/0048836-british-energy-major-bp-o",
+          "author": null,
+          "description": "“British energy major BP on Tuesday reported that first-quarter profits more than doubled from a year ago, following a surge in oil and gas prices driven by the Middle East conflict.” Oh, surprise surprise.",
+          "link": "https://kottke.org/26/04/0048836-british-energy-major-bp-o",
+          "publishedOn": "2026-04-28T17:47:03.000Z",
+          "wordCount": 491,
+          "title": "&#8220;British energy major BP on Tuesday reported that...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/04/i-love-boosters",
+          "author": null,
+          "description": "Boots Riley made his directorial debut with the totally weirdo (complimentary) movie Sorry to Bother You in 2018. He’s been quiet since then, but he’s back with a new comedy, I Love Boosters. This looks great. From a review on Letterboxd:\nMaximalist social commentary delivered with anime action and colourful high strangeness. Did it kind of fall off the rails towards the end? Absolutely. Was it fun as fuck and creative right to the end? You best believe it. God bless the shoplifters. I got major Everything Everywhere All At Once vibes from this…\n\n\t\nThe film debuted at SXSW in March and is opening in theaters on May 22.\n\n \n\n        \n         \nTags: Boots Riley · I Love Boosters · movies · trailers · video",
+          "link": "https://kottke.org/26/04/i-love-boosters",
+          "publishedOn": "2026-04-28T17:04:00.000Z",
+          "wordCount": 1121,
+          "title": "I Love Boosters",
+          "imageUrl": "https://i.ytimg.com/vi/I1xZegSgN8w/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/04/0048822-on-the-propaganda-of-earl",
+          "author": null,
+          "description": "On the Propaganda of Early Nazism, and How We See it in America Today. “Unlike other political systems, fascism was not meant to be intellectualized or discussed; it was meant to be experienced.”",
+          "link": "https://kottke.org/26/04/0048822-on-the-propaganda-of-earl",
+          "publishedOn": "2026-04-28T16:18:21.000Z",
+          "wordCount": 746,
+          "title": "On the Propaganda of Early Nazism, and How We See it in...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/04/0048824-the-era-of-ai-malaise",
+          "author": null,
+          "description": "The Era of AI Malaise. “The AI has learned to code. The AI is building itself. Will I have a job tomorrow? Will the market crash? Why does OpenAI need a bunker? Do I need a bunker? Maybe I should have a bunker.”",
+          "link": "https://kottke.org/26/04/0048824-the-era-of-ai-malaise",
+          "publishedOn": "2026-04-28T15:24:06.000Z",
+          "wordCount": 510,
+          "title": "The Era of AI Malaise . &#8220;The AI has learned to...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/04/0048835-its-the-age-of-electricit",
+          "author": null,
+          "description": "It’s the Age of Electricity and America Isn’t Ready. “Our grid is too old and our supply of electricity too small. If we don’t meet this moment, we will face an impoverished future of more expensive, less reliable energy, and slower economic growth.”",
+          "link": "https://kottke.org/26/04/0048835-its-the-age-of-electricit",
+          "publishedOn": "2026-04-28T14:15:53.000Z",
+          "wordCount": 890,
+          "title": "It&#8217;s the Age of Electricity and America...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/04/0048821-elizabeth-kolberts-profil",
+          "author": null,
+          "description": "Elizabeth Kolbert’s profile of EPA head Lee Zeldin. “In a little more than a year, Zeldin has transformed the E.P.A. from an agency devoted to protecting human health and the environment into one that, more or less openly, sides with polluters.”",
+          "link": "https://kottke.org/26/04/0048821-elizabeth-kolberts-profil",
+          "publishedOn": "2026-04-28T13:15:56.000Z",
+          "wordCount": 1022,
+          "title": "Elizabeth Kolbert&#8217;s profile of EPA head Lee Zeldin...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/04/the-self-defeating-both-sidesism-of-the-us-press",
           "author": null,
@@ -5058,96 +5188,6 @@
           "publishedOn": "2026-03-02T14:08:50.000Z",
           "wordCount": 428,
           "title": "Why Attack Iran?",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/02/0048461-for-months-callers-to-the",
-          "author": null,
-          "description": "“For months, callers to the Washington state Department of Licensing who have requested automated service in Spanish have instead heard an AI voice speaking English in a strong Spanish accent.”",
-          "link": "https://kottke.org/26/02/0048461-for-months-callers-to-the",
-          "publishedOn": "2026-02-27T21:08:47.000Z",
-          "wordCount": 346,
-          "title": "&#8220;For months, callers to the Washington state...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/02/0048197-a-2-hour-mix-of-music",
-          "author": null,
-          "description": "A 2-hour mix of music compiled by Thom Yorke that plays before Radiohead’s European shows.",
-          "link": "https://kottke.org/26/02/0048197-a-2-hour-mix-of-music",
-          "publishedOn": "2026-02-27T19:52:25.000Z",
-          "wordCount": 295,
-          "title": "A 2-hour mix of music compiled by Thom Yorke  that plays...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/02/the-candy-factory",
-          "author": null,
-          "description": "Ann Ballentine bought an old candy factory building in Brooklyn in 1979. She filled it with working artists and became something of a fairy godmother to them all.\nIt entails someone who’s not as money driven, because you’re not gouging people for huge rents, and it requires being determined to do that over a long stretch of time.\n\n\t\nThis is a lovely little short film.\n\n \n\n        \n         \nTags: Ann Ballentine · art · NYC · real estate · video",
-          "link": "https://kottke.org/26/02/the-candy-factory",
-          "publishedOn": "2026-02-27T18:59:14.000Z",
-          "wordCount": 719,
-          "title": "The Candy Factory",
-          "imageUrl": "https://i.ytimg.com/vi/TyqZp-XtFzo/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/02/0048423-do-people-still-worship-t",
-          "author": null,
-          "description": "Do people still worship the ancient Greek gods? “Hellenism – also called Hellenic ethnic religion, or Dodekatheism – which is the practice of worshipping ancient gods, has been growing in popularity since the 1990s.”",
-          "link": "https://kottke.org/26/02/0048423-do-people-still-worship-t",
-          "publishedOn": "2026-02-27T18:08:23.000Z",
-          "wordCount": 696,
-          "title": "Do people still worship the ancient Greek gods?...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/02/0048459-jimi-hendrix-was-a-system",
-          "author": null,
-          "description": "Jimi Hendrix Was a Systems Engineer. “Hendrix’s mission was to reshape both the electric guitar’s envelope and its tone until it could feel like a human voice.”",
-          "link": "https://kottke.org/26/02/0048459-jimi-hendrix-was-a-system",
-          "publishedOn": "2026-02-27T17:17:49.000Z",
-          "wordCount": 705,
-          "title": "Jimi Hendrix Was a Systems Engineer ....",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/02/0048460-marks-found-on-40000-year",
-          "author": null,
-          "description": "Marks found on 40,000-year-old artifacts might be a proto-language. “They found that these sign sequences displayed an information density very similar to the earliest examples of the cuneiform forerunner called proto-cuneiform.”",
-          "link": "https://kottke.org/26/02/0048460-marks-found-on-40000-year",
-          "publishedOn": "2026-02-27T16:32:22.000Z",
-          "wordCount": 742,
-          "title": "Marks found on 40,000-year-old artifacts might be a...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/15/04/the-ingenious-design-of-the-aluminum-beverage-can",
-          "author": null,
-          "description": "The aluminum soda can is a humble testament to the power and scope of human ingenuity. If that sounds like hyperbole, you should watch this video, which features eleven solid minutes of engineering explanation and is not boring for even a second.\n\nMore science/engineering programming like this please…I feel like if this would have been on PBS or Discovery, it would have lasted twice as long and communicated half the information. For a chaser, you can watch a detailed making-of from an aluminum can manufacturing company:\n\n\n \n\n         \n[This is a vintage post originally from Apr 2015.]\nTags: Bill Hammack · design · timeless posts · video",
-          "link": "https://kottke.org/15/04/the-ingenious-design-of-the-aluminum-beverage-can",
-          "publishedOn": "2026-02-27T15:30:05.000Z",
-          "wordCount": 369,
-          "title": "The Ingenious Design of the Aluminum Beverage Can",
-          "imageUrl": "https://i.ytimg.com/vi/hUhisi2FBuw/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/02/0048458-pope-leo-xiv-to-his",
-          "author": null,
-          "description": "Pope Leo XIV to his priests: stop using AI to write sermons. “‘To give a homily is to share faith,’ he said, and AI ‘will never be able to share faith.’”",
-          "link": "https://kottke.org/26/02/0048458-pope-leo-xiv-to-his",
-          "publishedOn": "2026-02-27T14:43:57.000Z",
-          "wordCount": 341,
-          "title": "Pope Leo XIV to his priests:  stop using AI to write...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/02/0048264-mondrian-entered-the-publ",
-          "author": null,
-          "description": "Mondrian Entered the Public Domain. The Estate Disagrees. “Composition II with Red, Blue, and Yellow is in the U.S. public domain. It has been since January 1, 2026. No amount of Spanish law or invented ‘dual copyright’ theories changes that.”",
-          "link": "https://kottke.org/26/02/0048264-mondrian-entered-the-publ",
-          "publishedOn": "2026-02-27T13:55:34.000Z",
-          "wordCount": 721,
-          "title": "Mondrian Entered the Public Domain. The Estate...",
           "imageUrl": ""
         }
       ]
