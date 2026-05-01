@@ -44,16 +44,6 @@
           "wordCount": null,
           "title": "Talking on the “We love open source” podcasts about the threats of AI to open source and free software.",
           "imageUrl": null
-        },
-        {
-          "id": "https://christianheilmann.com/?p=9794",
-          "author": "Chris Heilmann",
-          "description": "I liked social media. I love learning and showing people how things are done there. I’m a LinkedIn and Skillshare trainer and wrote a few books. I also published tons of information on various social media channels. I also like that creators get benefits from publishing information. A social media platform should reward great contributions […]",
-          "link": "https://christianheilmann.com/2026/03/02/linkedin-should-punish-the-comment-x-to-get-access-bait-spam/",
-          "publishedOn": "2026-03-02T13:50:08.000Z",
-          "wordCount": null,
-          "title": "LinkedIn should punish the “comment X to get access” bait spam",
-          "imageUrl": null
         }
       ]
     },
@@ -410,16 +400,6 @@
           "wordCount": 187,
           "title": "Solar Warning",
           "imageUrl": "https://imgs.xkcd.com/comics/solar_warning_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3214/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/electric_vehicles.png\" title=\"Now that I've finally gotten an electric vehicle, I'm never going back to an acoustic one.\" alt=\"Now that I've finally gotten an electric vehicle, I'm never going back to an acoustic one.\" />",
-          "link": "https://xkcd.com/3214/",
-          "publishedOn": "2026-03-02T00:00:00.000Z",
-          "wordCount": 187,
-          "title": "Electric Vehicles",
-          "imageUrl": "https://imgs.xkcd.com/comics/electric_vehicles_2x.png"
         }
       ]
     },
@@ -762,18 +742,7 @@
       "title": "Lea Verou’s blog",
       "feedUrl": "https://feeds.feedburner.com/leaverou",
       "siteUrl": "https://lea.verou.me/feed.xml",
-      "articles": [
-        {
-          "id": "https://lea.verou.me/blog/2026/external-import-maps-today/",
-          "author": null,
-          "description": "A few weeks ago, I posted Web dependencies are broken. Can we fix them?.\nToday’s post is a little less gloomy:\nTurns out that the major limitation that would allow centralized set-it-and-forget-it import map management can be lifted today, with excellent browser support!\nThe core idea is that you can use DOM methods to inject an import map dynamically, by literally creating an <script type=\"importmap\"> element in a classic (blocking) script and appending it after the injector script. 💡\nThis is a gamechanger.\nIt makes external import maps nice-to-have sugar instead of the only way to have centralized import map management decoupled from HTML generation.\nAll we need to do is build a little injector script, no need for tightly coupled workflows that take over everything.\nOnce you have that, …",
-          "link": "https://lea.verou.me/blog/2026/external-import-maps-today/",
-          "publishedOn": "2026-03-02T00:00:00.000Z",
-          "wordCount": 1369,
-          "title": "External import maps, today!",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "TEXT-MODE",
@@ -786,6 +755,16 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=85605",
+          "author": "Mozilla",
+          "description": "We’re delighted that Abigail Besdin has joined Mozilla as our new Chief Operating Officer. This is an incredibly exciting time for Mozilla. Our focus is to become the world’s most trusted software company by building products that let people use the internet openly, safely, and on their terms. As technology changes rapidly, we are working […]\nThe post Welcoming Abigail Besdin, Mozilla’s new Chief Operating Officer appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/leadership/coo-abigail-besdin/",
+          "publishedOn": "2026-04-30T12:57:15.000Z",
+          "wordCount": 1634,
+          "title": "Welcoming Abigail Besdin, Mozilla’s new Chief Operating Officer",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/04/Distilled_AbigailBesdin-1080x720.png"
+        },
         {
           "id": "https://blog.mozilla.org/?p=85491",
           "author": "Mozilla",
@@ -1004,6 +983,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=12748",
+          "author": "Cory Doctorow",
+          "description": "Today's links How not to ban surveillance pricing: Maryland's new consumer protection law is all loophole. Hey look at this: Delights to delectate. Object permanence: Google's 8,000 Linux servers; Battleshoe; Knitted potholes; Unpack the court; \"Robot Artists and Black Swans\"; Enshittifying tech jobs. Upcoming appearances: Berlin, NYC, Barcelona, Hay-on-Wye, London, NYC. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. How not to ban surveillance pricing (permalink) If you want to piss me off, it's easy: just breezily assert that our tech regulation problems are the result of the fast pace of technological change racing ahead of the plodding speed of governmental action…",
+          "link": "https://pluralistic.net/2026/04/30/something-must-be-done/",
+          "publishedOn": "2026-04-30T14:38:35.000Z",
+          "wordCount": 3977,
+          "title": "Pluralistic: How not to ban surveillance pricing (30 Apr 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=12743",
           "author": "Cory Doctorow",
@@ -1403,16 +1392,6 @@
           "wordCount": 5064,
           "title": "Pluralistic: Supreme Court saves artists from AI (03 Mar 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=12488",
-          "author": "Cory Doctorow",
-          "description": "Today's links No one wants to read your AI slop: If you must do this, for god's sake, do it privately. Hey look at this: Delights to delectate. Object permanence: AOL email tax; Ebook readers' bill of rights; Sanders media blackout. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. No one wants to read your AI slop (permalink) Everyone knows (or should know) that as fascinating as your dreams are to you, they are eye-glazingly dull to everyone else. Perhaps you have a friend or two who will tolerate you recounting your dreams at them (treasure those friends), but you should never, ever presume that other people want to hear about y…",
-          "link": "https://pluralistic.net/2026/03/02/nonconsensual-slopping/",
-          "publishedOn": "2026-03-02T09:22:11.000Z",
-          "wordCount": 3024,
-          "title": "Pluralistic: No one wants to read your AI slop (02 Mar 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -1460,6 +1439,26 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/04/farewell-voting-rights-act",
+          "author": null,
+          "description": "Adam Serwer writing about the yesterday’s Supreme Court decision that guts much of whatever remains of the Voting Rights Act:\nIn states with large Black populations that remain under Republican control — half of the Black American population resides in the South — lawmakers will now be able to draw districts that dilute Black residents’ voting power. In his opinion for the right-wing majority, Justice Samuel Alito wrote that “in considering the constitutionality of a districting scheme, courts must treat partisan advantage like any other race-neutral aim: a constitutionally permissible criterion that States may rely on as desired.” The Court’s decision is consonant with the philosophy, articulated by Kilpatrick in his earlier days, that the state is oppressive when it interferes with the r…",
+          "link": "https://kottke.org/26/04/farewell-voting-rights-act",
+          "publishedOn": "2026-04-30T16:14:36.000Z",
+          "wordCount": 2015,
+          "title": "Farewell, Voting Rights Act",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/04/0048852-come-on-everyone-were-goi",
+          "author": null,
+          "description": "Come on everyone, we’re going to Cursor Camp!",
+          "link": "https://kottke.org/26/04/0048852-come-on-everyone-were-goi",
+          "publishedOn": "2026-04-30T15:21:02.000Z",
+          "wordCount": 672,
+          "title": "Come on everyone, we&#8217;re going to  Cursor Camp !",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/04/0048844-winners-of-the-gdt-nature",
           "author": null,
@@ -5307,6 +5306,16 @@
       "feedUrl": "https://www.zeroto180.org/feed/",
       "siteUrl": "https://www.zeroto180.org/",
       "articles": [
+        {
+          "id": "https://www.zeroto180.org/?p=141894",
+          "author": "Zeroto180",
+          "description": "These selected highlights from Broadcast Music Inc.’s one-time print periodical, BMI: The Many Worlds Of Music, reflect a particularly vibrant time in music and the arts, both domestically in the United States and abroad. BMI: The Many Worlds Of Music July 1966 At the request of the United States Information Agency, BMI supplied 15,000 copies […]\nThe post BMI’s Back Pages – Highlights From Past Issues of ‘The Many Worlds Of Music’ = 1966-1973 appeared first on Zero to 180 - Three Minute Magic.",
+          "link": "https://www.zeroto180.org/bmis-back-pages-highlights-from-past-issues-of-the-many-worlds-of-music-1966-1973/",
+          "publishedOn": "2026-04-30T22:37:53.000Z",
+          "wordCount": 39062,
+          "title": "BMI’s Back Pages – Highlights From Past Issues of ‘The Many Worlds Of Music’ = 1966-1973",
+          "imageUrl": "https://www.zeroto180.org/wp-content/uploads/2026/04/BMI-The-Many-Worlds-of-Music-thumbnail-test-d.jpg"
+        },
         {
           "id": "https://www.zeroto180.org/?p=95807",
           "author": "Zeroto180",
