@@ -70,6 +70,16 @@
       "siteUrl": "https://100r.ca",
       "articles": [
         {
+          "id": "log.html#apr2026",
+          "author": "Rek Bell",
+          "description": "Hey everyone!\nThis is the list of all the changes we've done to our projects during the month of April.\nWiki, documented the replacement of Pino's headstay.\nRabbit Waves, added a new page about Ship Lights.\nRejoice, a bestiary of multiset combinators.\nGaude, but.. in Peano's Latin.\nHeol, implemented combinatory logic operators.\nHakum, added the last page for Sabotage Study.\nSummer's already here, pushing us to finish a few last minute projects aboard Pino. Between all the sewing, sanding, varnishing, greasing, climbing up the mast, climbing up the mast some more, dropping tools in the water, cabinet-making(?), we're just about ready to meet it shipshape.\nAfter taking the furler apart into a thousand little pieces and putting it all back together(without losing too many pieces), we raised o…",
+          "link": "https://100r.ca/site/log.html#apr2026",
+          "publishedOn": "2026-04-01T07:00:00.000Z",
+          "wordCount": 1637,
+          "title": "Summary of changes for April 2026",
+          "imageUrl": null
+        },
+        {
           "id": "log.html#mar2026",
           "author": "Rek Bell",
           "description": "Hey everyone!\nThis is the list of all the changes we've done to our projects during the month of March.\nWiki, documented the replacement of Pino's backstay, and created a project page for No Bears, None.\nHakum, completed page 10 of Sabotage Study.\nRabbit Waves, added a comic page.\nGrimgrains, updated lactofermentation section about jars.\nOquonie, released a new version with lots of tiny optimizations.\nUxn, released a little emulator for the m5 stack.\n \n\nWe spent a big chunk of the month finishing up the new Donsol. Devine documented the development as part of a spring edition of December Adventure. All of the graphics are done and the game is fully playable, all we have left to do is to test for bugs and to write the music. It looks fantastic. We'll let you all know when we have a release date!\nThe goal with Rabbit Waves was always to use storytelling to teach analog seafaring skills by making it possible to navigate between different topics by selecting highlighted objects in comic strips. Rek completed the first page, featuring a rabbit sailor's morning coffee-making routine while living on a small turnip sailboat at sea. This comic is the first step towards that goal of building a larger world for Rabbit Waves.\nSpring is here and we are catching up with boat maintenance. While doing checks aboard last fall we noticed that Pino's backstay had a cut, we replaced the stay this week and plan to do the same for the headstay.\nThis month, we also finished proofreading the revised version of the Victoria to sitka logbook, which we will now refer to as No Bears, None. We still have work to do on it, but we hope to release it later this summer, or early fall. Lastly, we'd like to thank everyone who purchased rabbit stickers last month! Devine continues to draw very beautiful spirographs onto each letter.\nBook Club: We are reading Island by Aldous Huxley.",
@@ -151,6 +161,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3240/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/bottle.png\" title=\"&quot;I know it seems impossible, but the trick is that I sailed in here when I was very young.&quot;\" alt=\"&quot;I know it seems impossible, but the trick is that I sailed in here when I was very young.&quot;\" />",
+          "link": "https://xkcd.com/3240/",
+          "publishedOn": "2026-05-01T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Bottle",
+          "imageUrl": "https://imgs.xkcd.com/comics/bottle_2x.png"
+        },
         {
           "id": "https://xkcd.com/3239/",
           "author": null,
@@ -408,6 +428,16 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "devtools-how-to-query-through-the-shadow-dom",
+          "author": null,
+          "description": "This is a literal TIL but was so hand I had to put it my blog so that I wouldn't later forget it.\nThanks to Big Brain Keith Cirkel for sharing this.\nAs (hopefully) you know, there's the $ and $$ functions in devtools. For querySelector and querySelectorAll respectively.\nWell there's also $$$ to query through the shadow DOM. This means the query will cut through and into the nested DOM inside of the shadow DOM making it much easier to navigate and search for elements when debugging or styling.\nBegs the question: what's going to be lurking inside of $$$$ in 5 years time!",
+          "link": "https://remysharp.com/2026/05/01/devtools-how-to-query-through-the-shadow-dom",
+          "publishedOn": "2026-05-01T00:00:00.000Z",
+          "wordCount": 589,
+          "title": "devtools: how to query through the shadow DOM [blog]",
+          "imageUrl": "https://remysharp.com/images/cards/og/9-4.jpg"
+        },
         {
           "id": "apps-i-use-that-you-might-not-know",
           "author": null,
@@ -1439,6 +1469,116 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/05/0048859-is-ai-the-next-phase-of-e",
+          "author": null,
+          "description": "Ohhhhh dear, Richard Dawkins: Is AI the Next Phase of Evolution? Claude Appears to Be Conscious. “My conversations with several Claudes and ChatGPTs have convinced me that these intelligent beings are at least as competent as any evolved organism.” 😬",
+          "link": "https://kottke.org/26/05/0048859-is-ai-the-next-phase-of-e",
+          "publishedOn": "2026-05-01T21:52:00.000Z",
+          "wordCount": 982,
+          "title": "Ohhhhh dear, Richard Dawkins:  Is AI the Next Phase of...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/05/0048840-unruly-play-a-collection-",
+          "author": null,
+          "description": "Unruly Play: “A collection of 169 works of play in unlikely places. Games about unusual things. Unexpected encounters.”",
+          "link": "https://kottke.org/26/05/0048840-unruly-play-a-collection-",
+          "publishedOn": "2026-05-01T21:28:19.000Z",
+          "wordCount": 722,
+          "title": "Unruly Play : &#8220;A collection of 169 works of play...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/05/0048813-ada-palmer-bruce-schneier",
+          "author": null,
+          "description": "Ada Palmer & Bruce Schneier: AI Learns Language From Skewed Sources. That Could Change How We Humans Speak – and Think. “Our sense of the world may become distorted in ways we have barely begun to comprehend.”",
+          "link": "https://kottke.org/26/05/0048813-ada-palmer-bruce-schneier",
+          "publishedOn": "2026-05-01T20:42:33.000Z",
+          "wordCount": 511,
+          "title": "Ada Palmer & Bruce Schneier:  AI Learns Language From...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/05/who-merits-the-longest-ny-times-obituaries",
+          "author": null,
+          "description": "Using the NY Times Archive API, journalist Ted Alcorn built Below the Fold, a dashboard through which you can explore the last 25 years of Times coverage: 2.2 million articles containing 1.5 billion words. You can slice and dice this data in a bunch of different ways — it’s a fantastic resource.\nOne of the site’s sections is about obituaries. From that data, Alcorn produced this infographic of whose obits contained the highest word count:\n\nAs you can see, it’s a lot of world leaders, religious leaders, politicians, and white men. There only appear to be five women on the list. Notable non-politicians include Aleksandr Solzhenitsyn, Muhammad Ali, and Charles Schulz.\nThe whole dashboard is fun/enlightening to explore.\n\n \n\n        \n         \nTags: infoviz · journalism · NY Times · obituaries · Ted Alcorn",
+          "link": "https://kottke.org/26/05/who-merits-the-longest-ny-times-obituaries",
+          "publishedOn": "2026-05-01T19:55:00.000Z",
+          "wordCount": 850,
+          "title": "Who Merits the Longest NY Times Obituaries?",
+          "imageUrl": "http://kottke.org/plus/misc/images/editor-1777650907-6fe143ac.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/05/0048823-amam-i-alternatively-infl",
+          "author": null,
+          "description": "Am…am I “alternatively influential”? Defined roughly as “public thinkers and tastemakers who have real clout in their own demesnes despite only modest internet followings”.",
+          "link": "https://kottke.org/26/05/0048823-amam-i-alternatively-infl",
+          "publishedOn": "2026-05-01T19:04:25.000Z",
+          "wordCount": 1097,
+          "title": "Am&#8230;am I  &#8220;alternatively influential&#8221; ?...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/05/the-supreme-court-is-corrupt-this-is-what-we-can-do-about-it",
+          "author": null,
+          "description": "This is excellent: Jamelle Bouie explains why he thinks the Supreme Court is corrupt and what we (through Congress) can do about it. Not all video transcripts work as text, but this one does, so I’m including his full remarks here: \nThe Supreme Court is corrupt.\nYou might hear that and think, “Well, Jamelle, you just disagree with the rulings. They’re not corrupt. They’re doing their jobs.” But I want to posit to you that they’re not doing their jobs. They’re in fact doing something very different. They’re acting as a super legislature, an unelected group of people who have taken it upon themselves to correct Congress. Not when Congress has overstepped its bounds, not when Congress has overstepped its powers, but when the court simply doesn’t like what they’re doing.\nTypically when we use …",
+          "link": "https://kottke.org/26/05/the-supreme-court-is-corrupt-this-is-what-we-can-do-about-it",
+          "publishedOn": "2026-05-01T18:15:00.000Z",
+          "wordCount": 2512,
+          "title": "The Supreme Court Is Corrupt. This Is What We Can Do About It.",
+          "imageUrl": "https://i.ytimg.com/vi/SRzS61buXkQ/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/05/the-film-that-attacks-you",
+          "author": null,
+          "description": "For his latest video essay, Evan Puschak tells us about Un Chien Andalou, the pioneering surrealist short film by Luis Buñuel and Salvador Dalí. The film is particularly notable for a shocking shot in the opening scene, which, if you’ve seen it, you’ve likely never forgotten. Said Buñuel of the film:\nThis film has no intention of attracting nor pleasing the spectator; indeed, on the contrary, it attacks him, to the degree that he belongs to a society with which surrealism is at war.\n\n\t\nYou can watch Un Chien Andalou on YouTube:\n\nOne wonders what Buñuel and Dalí would have made of YouTube…\n\n \n\n        \n         \nTags: art · film school · Luis Buñuel · movies · Salvador Dali · Un Chien Andalou · video",
+          "link": "https://kottke.org/26/05/the-film-that-attacks-you",
+          "publishedOn": "2026-05-01T17:15:00.000Z",
+          "wordCount": 951,
+          "title": "The Film That Attacks You",
+          "imageUrl": "https://i.ytimg.com/vi/sj1y9FDJKCM/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/05/0048855-i-fixed-a-few-bugs",
+          "author": null,
+          "description": "I fixed a few bugs on the Rolodex yesterday — some of the feeds weren’t updating and modifying sites wasn’t working properly. (Members get the mini-feedreader view!)",
+          "link": "https://kottke.org/26/05/0048855-i-fixed-a-few-bugs",
+          "publishedOn": "2026-05-01T16:37:26.000Z",
+          "wordCount": 740,
+          "title": "I fixed a few bugs on  the Rolodex  yesterday — some of...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/05/0048845-since-1900-scientists-hav",
+          "author": null,
+          "description": "“Since 1900, scientists have observed more than 20 phases of ice, many of them shaped under extreme conditions. The growing list includes hot ice and even ice that conducts electricity.”",
+          "link": "https://kottke.org/26/05/0048845-since-1900-scientists-hav",
+          "publishedOn": "2026-05-01T15:47:54.000Z",
+          "wordCount": 751,
+          "title": "&#8220;Since 1900,  scientists have observed more than 20...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/05/0048833-on-the-futility-of-border",
+          "author": null,
+          "description": "On the futility of border walls. “The Ozymandian ruins of many such walls litter our ancient and modern landscapes, because for as long as humanity has built hard borders, people have inevitably found ways to cross, topple or simply bypass them.”",
+          "link": "https://kottke.org/26/05/0048833-on-the-futility-of-border",
+          "publishedOn": "2026-05-01T14:58:18.000Z",
+          "wordCount": 501,
+          "title": "On the futility of border walls . &#8220;The Ozymandian...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/05/0048854-the-secret-to-success-is",
+          "author": null,
+          "description": "The Secret to Success Is ‘Monotasking’. “We find that in ­real‑world work, the more switches in attention a person makes, the lower is their end‑­of‑day assessed productivity.”",
+          "link": "https://kottke.org/26/05/0048854-the-secret-to-success-is",
+          "publishedOn": "2026-05-01T14:23:10.000Z",
+          "wordCount": 1791,
+          "title": "The Secret to Success Is &#8216;Monotasking&#8217; ....",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/04/farewell-voting-rights-act",
           "author": null,
@@ -5197,106 +5337,6 @@
           "publishedOn": "2026-03-03T14:05:27.000Z",
           "wordCount": 966,
           "title": "&#8220; Boredom is the price we pay for a life rich with...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/03/0048475-when-lit-up-at-night",
-          "author": null,
-          "description": "When lit up at night, this badminton academy in Bhubaneswar, India looks like a shuttlecock.",
-          "link": "https://kottke.org/26/03/0048475-when-lit-up-at-night",
-          "publishedOn": "2026-03-02T22:16:35.000Z",
-          "wordCount": 700,
-          "title": "When lit up at night,  this badminton academy in...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/03/0048474-supercharged-solar-activi",
-          "author": null,
-          "description": "“Supercharged” solar activity and the equinox effect, which “doubles the chance of auroral activity around the spring and fall equinoxes”, could make March 2026 the best month for the northern lights until the mid-2030s.",
-          "link": "https://kottke.org/26/03/0048474-supercharged-solar-activi",
-          "publishedOn": "2026-03-02T21:25:11.000Z",
-          "wordCount": 731,
-          "title": "&#8220;Supercharged&#8221; solar activity and the equinox...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/03/nine-inch-nails-releases-tron",
-          "author": null,
-          "description": "Last week, Nine Inch Nails released an album of remixes and unreleased session music from their Tron: Ares score called Tron Ares: Divergence. I’m listening to it now; pretty good so far.\n\n \n\n        \n         \nTags: movies · music · Nine Inch Nails · Tron · video",
-          "link": "https://kottke.org/26/03/nine-inch-nails-releases-tron",
-          "publishedOn": "2026-03-02T20:25:00.000Z",
-          "wordCount": 981,
-          "title": "Nine Inch Nails Releases Tron: Ares Remix Album",
-          "imageUrl": "https://i.ytimg.com/vi/h81CrYQFp0w/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/03/0048467-a-long-dive-into-the",
-          "author": null,
-          "description": "“A long dive into the features that make my ideal music app, and why nothing currently fulfills the brief.”",
-          "link": "https://kottke.org/26/03/0048467-a-long-dive-into-the",
-          "publishedOn": "2026-03-02T19:30:17.000Z",
-          "wordCount": 701,
-          "title": "&#8220; A long dive into the features that make my ideal...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/03/0048472-this-is-the-most-2026",
-          "author": null,
-          "description": "This is the most 2026 thing I’ve ever heard: Sigmund Freud’s great-granddaughter Bella Freud has a video podcast on YouTube where she interviews people (Cate Blanchette, Lorde, Graydon Carter) while they lie on a psychiatrist’s couch.",
-          "link": "https://kottke.org/26/03/0048472-this-is-the-most-2026",
-          "publishedOn": "2026-03-02T18:43:52.000Z",
-          "wordCount": 921,
-          "title": "This is the most 2026 thing I&#8217;ve ever heard:...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/03/0048471-a-boston-man-discovered-a",
-          "author": null,
-          "description": "A Boston man discovered a document passed down through his family: his ancestor’s freedom papers. “When he touched that paper he was touching the same place his relative touched in 1834.”",
-          "link": "https://kottke.org/26/03/0048471-a-boston-man-discovered-a",
-          "publishedOn": "2026-03-02T17:57:04.000Z",
-          "wordCount": 747,
-          "title": "A Boston man discovered a document passed down through...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/03/lumire-le-cinema",
-          "author": null,
-          "description": "Lumière, Le Cinema! is a new documentary film by Thierry Frémaux about Auguste & Louis Lumière and the early days of motion pictures — and includes 100+ newly restored films. It’s playing at MoMA at the end of this month; here’s their description:\nWitness the birth of cinema with Thierry Frémaux’s Lumière, Le Cinéma! (2025), about the pioneering achievements of the French entrepreneurs Auguste and Louis Lumière in the late 19th century. Journey back to the 1890s, when the Lumière Company, with their astonishing new invention, the cinematograph, made it possible for audiences to voyage around the world in moving pictures for the first time. Featuring gorgeous new restorations of more than 100 comedies, dramas, and travelogues — some famous, some forgotten, and some never before seen — and set to an evocative score of period music by Gabriel Fauré, this wondrous documentary enables contemporary viewers to imagine an entirely new language of storytelling unfolding film by glorious film.\n\n\t\nJust watching the trailer is wild — the restored footage from short films that are 120, 130 years old is astonishing. From a review in Collider:\nFrom riding atop trains to showing off goofy vaudevillian acts or brief moments of comical violence, each clip speaks not only to what came before, but how these short pieces behave as the DNA for every genre, every facet of what we consider filmmaking to this very day. The biggest joy of all, of course, is the ability to see these films projected large and in all their restored glory, not simply segregated to being streamed on a small screen, or to suffer through damage that makes these segments feel all that more removed from the present. It’s as if many of these clips have been rescued from an island where they have been deserted for more than a century, carefully dusted off, and allowed finally to be seen in a context that their creators could only have dreamed possible.\n\n \n\n        \n         \nTags: Lumiere brothers · Lumière Le Cinema! · movies · Thierry Frémaux · trailers · video",
-          "link": "https://kottke.org/26/03/lumire-le-cinema",
-          "publishedOn": "2026-03-02T17:00:00.000Z",
-          "wordCount": 982,
-          "title": "Lumière, Le Cinema!",
-          "imageUrl": "https://i.ytimg.com/vi/_3BEsMtLhzU/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/03/0048464-astrophysicist-cosimo-bam",
-          "author": null,
-          "description": "Astrophysicist Cosimo Bambi proposes sending a tiny spacecraft to study nearby black holes. “Earth-based lasers would blast the [light] sail with photons, accelerating the craft to a third of the speed of light.”",
-          "link": "https://kottke.org/26/03/0048464-astrophysicist-cosimo-bam",
-          "publishedOn": "2026-03-02T16:04:49.000Z",
-          "wordCount": 879,
-          "title": "Astrophysicist Cosimo Bambi proposes  sending a tiny...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/03/0048465-novartis-has-settled-a-la",
-          "author": null,
-          "description": "“Novartis has settled a lawsuit by the estate of Henrietta Lacks that alleged the [company] unjustly profited off her cells, which were taken…without her knowledge in 1951 and reproduced in labs to enable major medical advancements…”",
-          "link": "https://kottke.org/26/03/0048465-novartis-has-settled-a-la",
-          "publishedOn": "2026-03-02T15:25:51.000Z",
-          "wordCount": 750,
-          "title": "&#8220; Novartis has settled a lawsuit by the estate of...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/03/why-attack-iran",
-          "author": null,
-          "description": "There are many possible and plausible answers to this simple question. Timothy Snyder offers a useful perspective in helping answer it:\nHow do [we] understand the war with Iran? We must get away from the propaganda and ask why this might be happening, in light of the facts that we do know.\nThese facts suggest two interpretive frameworks: a foreign war as a mechanism to destroy democracy at home; and a foreign war as an element of personal corruption by the president of the United States.\nFrom the United States, the most plausible angle of view is domestic politics, not foreign policy.\n\n\t\nTrump is not a conventionally intelligent person and is losing his wits to age, but he remains an instinctual genius. There’s no grand plan here and there doesn’t need to be; he’s just moving towards his flame: enrichment for himself, entrenching power, and instability for everyone else.\n\n \n\n        \n         \nTags: Donald Trump · iran · politics · Timothy Snyder · war",
-          "link": "https://kottke.org/26/03/why-attack-iran",
-          "publishedOn": "2026-03-02T14:08:50.000Z",
-          "wordCount": 428,
-          "title": "Why Attack Iran?",
           "imageUrl": ""
         }
       ]
