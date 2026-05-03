@@ -410,16 +410,6 @@
           "wordCount": 185,
           "title": "Bazookasaurus",
           "imageUrl": "https://imgs.xkcd.com/comics/bazookasaurus_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3215/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/solar_warning.png\" title=\"This replaces the previous solar activity watch, which was issued last month when the sun took off its sunglasses.\" alt=\"This replaces the previous solar activity watch, which was issued last month when the sun took off its sunglasses.\" />",
-          "link": "https://xkcd.com/3215/",
-          "publishedOn": "2026-03-04T00:00:00.000Z",
-          "wordCount": 187,
-          "title": "Solar Warning",
-          "imageUrl": "https://imgs.xkcd.com/comics/solar_warning_2x.png"
         }
       ]
     },
@@ -943,6 +933,16 @@
       "siteUrl": "https://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2026/05/02/testing-vue-components-in-the-browser/",
+          "author": null,
+          "description": "Hello! One of my long term projects on here is\nfiguring out how to write frontend Javascript without using Node\nor any other server JS runtime.\nOne issue I run into a lot in my frontend JS projects is that I don’t know how\nto write tests for them. I’ve tried to use Playwright in the past, but it felt\nslow and unwieldy to be starting these new browser processes all the time, and\nit involved some Node code to orchestrate the tests.\nThe result is that I just don’t test my frontend code which doesn’t feel great.\nUsually I don’t update my projects much either so it doesn’t come up that much,\nbut it would be nice to be able to make changes with more confidence!\nSo a way to do frontend testing that I like has been on my wishlist for a long time.\nidea: just run the tests in the browser tab\nAlex Ch…",
+          "link": "https://jvns.ca/blog/2026/05/02/testing-vue-components-in-the-browser/",
+          "publishedOn": "2026-05-02T00:00:00.000Z",
+          "wordCount": 1924,
+          "title": "Testing Vue components in the browser",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/",
           "author": null,
           "description": "Hello! My big takeaway from last month’s musings about man pages\nwas that examples in man pages are really great, so I worked on adding (or\nimproving) examples to two of my favourite tools’ man pages.\nHere they are:\nthe dig man page (now with examples)\nthe tcpdump man page examples (this one is an update to the previous examples)\nthe goal: include the most basic examples\nThe goal here was really just to give the absolute most basic examples of how to\nuse the tool, for people who use tcpdump or dig infrequently (or have never used\nit before!) and don’t remember how it works.\nSo far saying “hey, I want to write an examples section for beginners and\ninfrequent users of this tools” has been working really well. It’s easy to\nexplain, I think it makes sense from everything I’ve heard from users …",
@@ -1013,6 +1013,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=12760",
+          "author": "Cory Doctorow",
+          "description": "Today's links The prehistory of the Democratic Nuremberg Caucus: Do bounties for ICE whistleblowers next! Hey look at this: Delights to delectate. Object permanence: Colbert v GWB; Wallaby milk; Jay Rosen's journalism precepts; Radical Media(TM); What is carried interest? TCP over pigeon; BNL v copyright; RIP Joanna Russ; GOP forcing students to repay scam loans. Upcoming appearances: Berlin, NYC, Barcelona, Hay-on-Wye, London, NYC. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The prehistory of the Democratic Nuremberg Caucus (permalink) Comrade Trump continues his unbroken streak of destroying the American empire's grip on the world, hastening the renewables transi…",
+          "link": "https://pluralistic.net/2026/05/02/denazification/",
+          "publishedOn": "2026-05-02T11:22:11.000Z",
+          "wordCount": 3677,
+          "title": "Pluralistic: The prehistory of the Democratic Nuremberg Caucus (02 May 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=12748",
           "author": "Cory Doctorow",
@@ -1411,16 +1421,6 @@
           "publishedOn": "2026-03-05T19:31:30.000Z",
           "wordCount": 4161,
           "title": "Pluralistic: Blowtorching the frog (05 Mar 2026) executive-dysfunction",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=12495",
-          "author": "Cory Doctorow",
-          "description": "Today's links Supreme Court saves artists from AI: Just because you're on their side, it doesn't mean they're on your side. Hey look at this: Delights to delectate. Object permanence: KKK x D&D; Martian creativity; Scott Walker's capital ringers; UK v adblocking; Shitty jihadi opsec. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Supreme Court saves artists from AI (permalink) The Supreme Court has just turned down a petition to hear an appeal in a case that held that AI works can't be copyrighted. By turning down the appeal, the Supreme Court took a massively consequential step to protect creative workers' interests: https://ww…",
-          "link": "https://pluralistic.net/2026/03/03/its-a-trap-2/",
-          "publishedOn": "2026-03-03T18:26:13.000Z",
-          "wordCount": 5064,
-          "title": "Pluralistic: Supreme Court saves artists from AI (03 Mar 2026)",
           "imageUrl": null
         }
       ]
@@ -5237,106 +5237,6 @@
           "publishedOn": "2026-03-04T14:10:15.000Z",
           "wordCount": 640,
           "title": "Steve Jobs  famously said  that computers are a bicycle...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/03/0048483-llms-are-getting-pretty-g",
-          "author": null,
-          "description": "LLMs are getting pretty good at unmasking pseudonymous users — their success rate is “far greater” than humans alone can manage.",
-          "link": "https://kottke.org/26/03/0048483-llms-are-getting-pretty-g",
-          "publishedOn": "2026-03-03T22:03:58.000Z",
-          "wordCount": 318,
-          "title": "LLMs are getting pretty good at unmasking pseudonymous...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/03/0048479-imagine-what-it-was-like",
-          "author": null,
-          "description": "“Imagine what it was like for women in colonial North America. Life was different depending on where you lived, your background, and how much money you had.”",
-          "link": "https://kottke.org/26/03/0048479-imagine-what-it-was-like",
-          "publishedOn": "2026-03-03T21:12:33.000Z",
-          "wordCount": 793,
-          "title": "&#8220; Imagine what it was like for women in colonial...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/03/hypercard-changed-everything",
-          "author": null,
-          "description": "This video traces the history of Apple’s HyperCard from Vannevar Bush’s idea of the Memex to the Mother of All Demos to the Xerox PARC Alto to Bill Atkinson, the inventor of HyperCard, who said:\nHyperCard is a software erector set. It lets people put things together without having to know how to solder.\n\n\t\nThere’s a ton of information about HyperCard at hypercard.org, including this HyperCard simulator that runs in your browser.\n\n \n\n        \n         \nTags: Apple · Bill Atkinson · computing · HyperCard · Vannevar Bush · video",
-          "link": "https://kottke.org/26/03/hypercard-changed-everything",
-          "publishedOn": "2026-03-03T20:05:15.000Z",
-          "wordCount": 1016,
-          "title": "HyperCard Changed Everything",
-          "imageUrl": "https://i.ytimg.com/vi/hxHkNToXga8/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/03/0048482-does-your-country-need-re",
-          "author": null,
-          "description": "Does Your Country Need Regime Change? A Quiz. “Is your country a notorious bad actor in the Middle East? Has your leader deployed the country’s military domestically against civilians who were protesting peacefully?”",
-          "link": "https://kottke.org/26/03/0048482-does-your-country-need-re",
-          "publishedOn": "2026-03-03T19:23:21.000Z",
-          "wordCount": 338,
-          "title": "Does Your Country Need Regime Change? A Quiz.  &#8220;Is...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/03/takashi-murakami-remixes-monet",
-          "author": null,
-          "description": "As part of his show called Hark Back to Ukiyo-e: Tracing Superflat to Japonisme’s Genesis, currently on display in LA, Takashi Murakami painted his own version of Claude Monet’s Woman with a Parasol - Madame Monet and Her Son. The painting is paired with Murakami’s copies of woodblock prints (ukiyo-e) that influenced the work of Monet and other abstract & impressionist artists.\nHere Murakami pairs a copy of Monet’s portrait with twelve enlarged versions of ukiyo-e prints by Kikukawa Eizan and his teacher, Utamaro. Through these examples Murakami shapes a narrative of Monet’s encounter with bijinga. They suggest the elements that Monet absorbed in his study of prints: statuesque three-quarter figures; sensual outlines; parasols viewed from below; cloud-like masses of cherry blossoms; windswept skirts. Another selection, Utamaro’s Yamauba and Kintarō, is an example of a bijinga sub-genre in which women are shown with young children.\n\n\t\nAs noted by Greg Allen, Murakami used an unusual process for his reproductions:\nCopying the originals, Murakami had his own intimate encounter with these features, recognizing in the process the meticulous care taken in pursuit of delicate eﬀects. He interprets them in his signature style, composed of layer upon layer of silkscreened acrylic paint, applied with a special squeegee work application method and coated in a glossy finish.\n\n \n\n        \n         \nTags: art · Claude Monet · remix · Takashi Murakami",
-          "link": "https://kottke.org/26/03/takashi-murakami-remixes-monet",
-          "publishedOn": "2026-03-03T19:06:40.000Z",
-          "wordCount": 959,
-          "title": "Takashi Murakami Remixes Monet",
-          "imageUrl": "http://kottke.org/plus/misc/images/editor-1772560269-3e84183d.png"
-        },
-        {
-          "id": "https://kottke.org/26/03/0048477-remember-the-scroll-lock-",
-          "author": null,
-          "description": "Remember the “scroll lock” key on your keyboard? What the heck was it for? And why is the same scrolling mechanic showing up in streaming service interfaces?",
-          "link": "https://kottke.org/26/03/0048477-remember-the-scroll-lock-",
-          "publishedOn": "2026-03-03T18:19:41.000Z",
-          "wordCount": 724,
-          "title": "Remember the &#8220;scroll lock&#8221; key on your...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/03/new-rembrandt-painting-discove",
-          "author": null,
-          "description": "A painting from 1633 called Vision of Zacharias in the Temple has been newly identified by Rijksmuseum researchers as an authentic Rembrandt van Rijn. It had been decades since the painting was examined — art historians have access to all kinds of new techniques and information about Rembrandt’s methods and materials.\nVision of Zacharias in the Temple was shown at the major Rembrandt exhibition at the Stedelijk Museum Amsterdam in 1898. In 1960, however, it was excluded from Rembrandt’s oeuvre. A year later, a private collector purchased the work, after which it disappeared from public view. Only recently did the current owner contact the Rijksmuseum, allowing the painting to be examined again after 65 years.\nThe two-year investigation shows that all the pigments used also appear in other paintings by Rembrandt from the same period. The build-up of the paint layers and the handling are likewise consistent with his early work.\nThe painting is executed on two oak panels from trees grown in the south-east of Lithuania, a common wood source in the seventeenth century. The dimensions and construction correspond to panels Rembrandt frequently used. Dendrochronology (tree-ring dating) confirms that the inscribed date “1633” is plausible.\n\n\t\nHere’s the back of the painting (the whole analysis is interesting):\n\nVision of Zacharias in the Temple goes on display at the Rijksmuseum tomorrow. (via the history blog)\n\n \n\n        \n         \nTags: art · rembrandt · rijksmuseum",
-          "link": "https://kottke.org/26/03/new-rembrandt-painting-discove",
-          "publishedOn": "2026-03-03T17:07:41.000Z",
-          "wordCount": 874,
-          "title": "New Rembrandt Painting Discovered",
-          "imageUrl": "http://kottke.org/plus/misc/images/editor-1772556795-80fae66c.png"
-        },
-        {
-          "id": "https://kottke.org/17/07/can-you-draw-all-50-states-from-memory",
-          "author": null,
-          "description": "Per Betteridge’s law of headlines and also the map above, my answer is clearly no. You can try it yourself here…you draw them one at a time and it adds them to the map automagically. I’m going to blame my trackpad use a little, but I’m not sure I would have done much better had I drawn with a pencil and looked a map beforehand.\nUpdate: Your periodic reminder that Senator Al Franken can draw all 50 US states from memory with astonishing accuracy.\n\n(thx, eric)\n\n \n\n         \n[This is a vintage post originally from Jul 2017.]\nTags: Al Franken · geography · maps · timeless posts · USA · video",
-          "link": "https://kottke.org/17/07/can-you-draw-all-50-states-from-memory",
-          "publishedOn": "2026-03-03T16:19:29.000Z",
-          "wordCount": 371,
-          "title": "Can You Draw All 50 States From Memory?",
-          "imageUrl": "http://kottke.org/plus/misc/images/time-state-map.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/03/0048470-recent-advances-in-scienc",
-          "author": null,
-          "description": "Recent advances in science have revolutionized our understanding of the Maya, e.g. there’s evidence that “more people lived in the classic-era Maya lowlands than on the Italian peninsula during the peak of the Roman empire…”",
-          "link": "https://kottke.org/26/03/0048470-recent-advances-in-scienc",
-          "publishedOn": "2026-03-03T15:37:37.000Z",
-          "wordCount": 725,
-          "title": "Recent advances in science have revolutionized our...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/03/0048469-boredom-is-the-price-we",
-          "author": null,
-          "description": "“Boredom is the price we pay for a life rich with meaning. Recognizing this makes the feeling more endurable.”",
-          "link": "https://kottke.org/26/03/0048469-boredom-is-the-price-we",
-          "publishedOn": "2026-03-03T14:05:27.000Z",
-          "wordCount": 966,
-          "title": "&#8220; Boredom is the price we pay for a life rich with...",
           "imageUrl": ""
         }
       ]
