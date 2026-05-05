@@ -410,16 +410,6 @@
           "wordCount": 187,
           "title": "Home Remedies",
           "imageUrl": "https://imgs.xkcd.com/comics/home_remedies_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3216/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/bazookasaurus.png\" title=\"In contrast to the deep booming sound associated with the cannon in pop culture depictions, recent studies show it actually made more of a 'toot toot!' noise.\" alt=\"In contrast to the deep booming sound associated with the cannon in pop culture depictions, recent studies show it actually made more of a 'toot toot!' noise.\" />",
-          "link": "https://xkcd.com/3216/",
-          "publishedOn": "2026-03-06T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Bazookasaurus",
-          "imageUrl": "https://imgs.xkcd.com/comics/bazookasaurus_2x.png"
         }
       ]
     },
@@ -914,26 +904,6 @@
           "wordCount": 1934,
           "title": "The web should remain anonymous by default",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/03/Cursor_Green_1920x1080-1080x720.jpeg"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=84516",
-          "author": "Brian Grinstead and Christian Holler",
-          "description": "For more than two decades, Firefox has been one of the most scrutinized and security-hardened codebases on the web. Open source means our code is visible, reviewable, and continuously stress-tested by a global community.  A few weeks ago, Anthropic’s Frontier Red Team approached us with results from a new AI-assisted vulnerability-detection method that surfaced more […]\nThe post Hardening Firefox with Anthropic’s Red Team  appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/",
-          "publishedOn": "2026-03-06T10:30:00.000Z",
-          "wordCount": 1885,
-          "title": "Hardening Firefox with Anthropic’s Red Team",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/03/Mozilla_Illustrations_Pixelgram_Lock_Square_Orange-1080x720.png"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=84535",
-          "author": "Steve Flavin",
-          "description": "This is an edited transcript of an episode of Outside the Fox, Firefox’s flagship podcast, where we explore what’s happening online and why it matters. Stay up to date by subscribing on YouTube, Apple Podcasts, Spotify, or your favorite podcast app. On Outside the Fox, my co-host Kim Horcher and I spend a lot of […]\nThe post Ajit Varma on Firefox’s new AI controls: ‘We believe in user choice’ appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/firefox/outside-the-fox-ai-controls/",
-          "publishedOn": "2026-03-05T17:06:26.000Z",
-          "wordCount": 2829,
-          "title": "Ajit Varma on Firefox’s new AI controls: ‘We believe in user choice’",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/03/Outside-the-Fox-Ep044-Thumbnail-4x3-1-1280x853.jpg"
         }
       ]
     },
@@ -942,6 +912,16 @@
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "https://jvns.ca/atom.xml",
       "articles": [
+        {
+          "id": "https://jvns.ca/blog/2026/05/04/css-colour-palettes/",
+          "author": null,
+          "description": "A while back I decided to stop using Tailwind for new projects and to just write\nvanilla CSS instead.\nBut one thing I missed about Tailwind was the colour palette (here as CSS).\nIf I wanted a light blue I could just use blue-100 and if I didn’t like it\nmaybe try blue-200 or blue-50. I’m not very good with colours so it makes\na big difference to me to have a reasonable colour palette that somebody who is\nbetter at colour than me has thought about.\nBut I’m also a little tired of those Tailwind colours, so I asked on Mastodon\ntoday what other colour palettes were out there. And then a friend said they\nwanted links to those colour palettes, so here’s a blog post so my friend can\nsee them, and all the rest of you too :)\nmy favourites\nThe ones I liked the most were:\nuchū (css file, FAQ)\nflexoki (css file)\nreasonable colours, which seems to have a focus on accessibility (css file)\nmore colour palettes\nweb awesome\nradix\nUS web design systems\nmaterial design\ncolourscheme generators\nFolks also linked to a bunch of colour palette generators\nharmonizer\ntints.dev\ncoolors\ncolorpalette.pro\nI’ve always found these types of generators too hard to use but maybe one day I\nwill get better enough at colour that I’m able to use a colour palette generator\nsuccessfully so I’ll leave those links there anyway.\nand more colour tools:\ncolorhexa has some info about colorblindness\noklch\nGenerative colors with CSS gives an example of\nhow to use the oklch CSS function to dynamically generate colors.",
+          "link": "https://jvns.ca/blog/2026/05/04/css-colour-palettes/",
+          "publishedOn": "2026-05-04T00:00:00.000Z",
+          "wordCount": 478,
+          "title": "Links to CSS colour palettes",
+          "imageUrl": null
+        },
         {
           "id": "https://jvns.ca/blog/2026/05/02/testing-vue-components-in-the-browser/",
           "author": null,
@@ -1023,6 +1003,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=12766",
+          "author": "Cory Doctorow",
+          "description": "Today's links Demand destruction vs fuel-superceding infrastructure: Will Trump hormuz us into the full Gretacene? Hey look at this: Delights to delectate. Object permanence: Beck, Scientologist; Citizen journalism; Podcast-killing treaty; US x Kiwi copyright; Apple did a crime; DeCSS v civilian aviation; Navy x SF's queering; Micosoft v FLOSS; Sony-BMG needs a new DRM czar; Lossy copying sculpture; AI and the fatfinger economy. Upcoming appearances: Guelph, Barcelona, Berlin, Hay-on-Wye, London, NYC, Edinburgh. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Demand destruction vs fuel-superceding infrastructure (permalink) No one is better at keeping hope alive than R…",
+          "link": "https://pluralistic.net/2026/05/04/hope-in-the-dark/",
+          "publishedOn": "2026-05-04T09:39:28.000Z",
+          "wordCount": 4232,
+          "title": "Pluralistic: Demand destruction vs fuel-superseding infrastructure (04 May 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=12760",
           "author": "Cory Doctorow",
@@ -1422,16 +1412,6 @@
           "wordCount": 3927,
           "title": "Pluralistic: The web is bearable with RSS (07 Mar 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=12506",
-          "author": "Cory Doctorow",
-          "description": "Today's links Blowtorching the frog: If I must have enemies, let them be impatient ones. Hey look at this: Delights to delectate. Object permanence: Bill Cosby v Waxy; Rodney King, 20 years on; Peter Watts v flesh-eating bacteria; American authoritarianism; Algebra II v Statistics for Citizenship; Ideas lying around; Banksy x Russian graffists; TSA v hand luggage; Hack your Sodastream; There were always enshittifiers. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Blowtorching the frog (permalink) Back in 2018, the Singletrack blog published a widely read article explaining the lethal trigonometry of a UK intersection where driv…",
-          "link": "https://pluralistic.net/2026/03/05/executive-dysfunction/",
-          "publishedOn": "2026-03-05T19:31:30.000Z",
-          "wordCount": 4161,
-          "title": "Pluralistic: Blowtorching the frog (05 Mar 2026) executive-dysfunction",
-          "imageUrl": null
         }
       ]
     },
@@ -1479,6 +1459,116 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/05/0048867-you-can-watch-the-whole-m",
+          "author": null,
+          "description": "The Booksellers is a 2019 feature-length documentary film about antiquarian and rare book dealers; you can watch the whole movie for free on YouTube.",
+          "link": "https://kottke.org/26/05/0048867-you-can-watch-the-whole-m",
+          "publishedOn": "2026-05-04T21:51:00.000Z",
+          "wordCount": 790,
+          "title": "The Booksellers is a 2019 feature-length documentary film...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/05/new-banksy-blinded-by-nationalism",
+          "author": null,
+          "description": "The artist Banksy has installed (without a permit, one assumes) a new statue in London that depicts a man in a suit marching off off a ledge, blinded by a flag.\nThe artwork has been dubbed Blind Patriotism, although Banksy, enigmatic as always, doesn’t explain the meaning of his latest work. However, many have interpreted it as satirising the rise of nationalistic fervour in the UK, typified by the populist politician Nigel Farage and other forces on the far right.\n\n\t\nAnother bullseye for Banksy. 🎯\n\n \n\n        \n         \nTags: art · Banksy · politics",
+          "link": "https://kottke.org/26/05/new-banksy-blinded-by-nationalism",
+          "publishedOn": "2026-05-04T20:32:00.000Z",
+          "wordCount": 862,
+          "title": "New Banksy: Blinded by Nationalism",
+          "imageUrl": "http://kottke.org/plus/misc/images/editor-1777919453-cfb228bb.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/05/0048866-designer-jenny-volvovskis",
+          "author": null,
+          "description": "Designer Jenny Volvovski’s collection of unsolicited book cover designs. “I really wanted to design book covers but didn’t have any book cover work. So I hired myself to redesign my personal library.”",
+          "link": "https://kottke.org/26/05/0048866-designer-jenny-volvovskis",
+          "publishedOn": "2026-05-04T19:48:00.000Z",
+          "wordCount": 731,
+          "title": "Designer Jenny Volvovski&#8217;s collection of...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/05/0048872-this-music-video",
+          "author": null,
+          "description": "I’m not a fan of the first part of this music video (reminds me too much of dipshits I had to endure at school), but the single-take choreography from ~4:18 is great.",
+          "link": "https://kottke.org/26/05/0048872-this-music-video",
+          "publishedOn": "2026-05-04T19:02:00.000Z",
+          "wordCount": 866,
+          "title": "I&#8217;m not a fan of the first part of  this music...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/05/0048868-the-screeching-sound-of-p",
+          "author": null,
+          "description": "According to this peer-reviewed paper, the “screeching sound of peeling tape” is caused by tiny sonic booms. The speeds at work here are in the range of Mach 0.7–1.8. Supersonic crafts!",
+          "link": "https://kottke.org/26/05/0048868-the-screeching-sound-of-p",
+          "publishedOn": "2026-05-04T18:24:00.000Z",
+          "wordCount": 772,
+          "title": "According to this peer-reviewed paper,  the...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/05/0048865-here-are-some-of-the-best",
+          "author": null,
+          "description": "NASA has released some 12,000 unseen photos from the recent Artemis II mission; here are some of the best shots.",
+          "link": "https://kottke.org/26/05/0048865-here-are-some-of-the-best",
+          "publishedOn": "2026-05-04T17:40:00.000Z",
+          "wordCount": 753,
+          "title": "NASA has released some 12,000 unseen photos from the...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/05/the-contiguous-41-states",
+          "author": null,
+          "description": "Nowhere on XKCD’s map of The Contiguous 41 States does it say that you need to find the missing seven states, but that’s immediately where my mind went. And it was a little more challenging than I anticipated — all of New England is present & accounted for somehow?\nThe answer key is here, along with this tidbit:\nThe United States did have exactly 41 states for a few days in 1889, from the admission of Montana, the 41st state, on November 8, to the admission of Washington (the state, not DC), the 42nd state, on November 11.\n\n\t\nSee also this super-sized US map with 64 states.\nAnd then after I wrote all of the above, I decided to check and of course I’d posted about this map before, soon after it came out. *sigh*\n\n \n\n        \n         \nTags: maps · usa · xkcd",
+          "link": "https://kottke.org/26/05/the-contiguous-41-states",
+          "publishedOn": "2026-05-04T16:59:00.000Z",
+          "wordCount": 933,
+          "title": "The Contiguous 41 States",
+          "imageUrl": "http://kottke.org/plus/misc/images/editor-1777901299-6763469f.png"
+        },
+        {
+          "id": "https://kottke.org/26/05/0048863-a-55-minute-mix-of-boards",
+          "author": null,
+          "description": "A 55-minute mix of Boards of Canada B-sides and rarities.",
+          "link": "https://kottke.org/26/05/0048863-a-55-minute-mix-of-boards",
+          "publishedOn": "2026-05-04T16:15:00.000Z",
+          "wordCount": 733,
+          "title": "A 55-minute mix of Boards of Canada B-sides and rarities .",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/05/0048864-they-would-never-use-the-",
+          "author": null,
+          "description": "“They Would Never Use the Death Star on Us”: Alderaan Residents Reflect on Their Support for the Empire as a Large Imperial Installation Enters the System. “The Senate was ineffective, and the liberal Jedi were out of touch…”",
+          "link": "https://kottke.org/26/05/0048864-they-would-never-use-the-",
+          "publishedOn": "2026-05-04T15:20:00.000Z",
+          "wordCount": 523,
+          "title": "&#8220;They Would Never Use the Death Star on Us&#8221;:...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/05/the-visual-comedy-of-wes-andersons-isle-of-dogs",
+          "author": null,
+          "description": "I’m gonna call it: Every Frame a Painting, my all-time favorite YouTube channel, is back. Tony Zhou and Taylor Ramos stopped producing their fantastic video essays back in 2017 and while they have popped up here and there since then, they’ve mostly stuck to their retirement.\nBut for the past few months, the duo have been releasing video essays produced in partnership with Criterion: Night of the Living Dead: Limitations into Virtues, The Blade (1995): The Edges of Wuxia, and just yesterday, The Visual Comedy of Isle of Dogs (embedded above).\nFor the past three decades, Wes Anderson has left a distinctive fingerprint in American comedy, with his penchant for artificial worlds, deadpan performances, literary devices, and snappy narration. But there’s something else. These movies are funny to look at. Over the years, Anderson has experimented more and more with visual comedy. And none of this is more apparent than in Isle of Dogs.\n\n\t\nIt looks like they’re doing about one video a month. I hope they keep it up…I love their videos.\n(Ok, maybe don’t read this bit until you’ve watched the Isle of Dogs video, but did you detect that Zhou’s narration seems to be synced to the mouth movements of the characters in the clips he’s talking over? Such a great little detail of visual comedy…I clapped my hands in glee like a toddler when I noticed.)\n\n \n\n        \n         \nTags: film school · Isle of Dogs · movies · Taylor Ramos · Tony Zhou · video · Wes Anderson",
+          "link": "https://kottke.org/26/05/the-visual-comedy-of-wes-andersons-isle-of-dogs",
+          "publishedOn": "2026-05-04T14:36:52.000Z",
+          "wordCount": 935,
+          "title": "The Visual Comedy of Wes Anderson&#8217;s Isle of Dogs",
+          "imageUrl": "https://i.ytimg.com/vi/eex-_BztHSE/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/05/0048862-how-sylvester-stallone-re",
+          "author": null,
+          "description": "How Sylvester Stallone Rescued the First Rambo Film With a Radical Recut, Cutting It From 3½ Hours to 93 Minutes. “The solution that ended up saving the movie wasn’t much less drastic, producing a 93-minute cut that excised most of Rambo’s dialogue.”",
+          "link": "https://kottke.org/26/05/0048862-how-sylvester-stallone-re",
+          "publishedOn": "2026-05-04T13:57:00.000Z",
+          "wordCount": 1015,
+          "title": "How Sylvester Stallone Rescued the First Rambo Film With...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/05/0048859-is-ai-the-next-phase-of-e",
           "author": null,
@@ -5037,116 +5127,6 @@
           "publishedOn": "2026-03-06T15:07:58.000Z",
           "wordCount": 340,
           "title": "&#8220;If measles-mumps-rubella vaccination rates decline...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/03/0048504-director-rian-johnson-kni",
-          "author": null,
-          "description": "Director Rian Johnson (Knives Out, Poker Face) wrote the review of the Thursday crossword puzzle for the NY Times today. “I love a good Thursday. The baffling special graphics, the wait-that-can’t-be-right puzzlement and that glorious ah-ha moment…”",
-          "link": "https://kottke.org/26/03/0048504-director-rian-johnson-kni",
-          "publishedOn": "2026-03-06T01:35:19.000Z",
-          "wordCount": 591,
-          "title": "Director Rian Johnson (Knives Out, Poker Face)  wrote the...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/03/0048496-earths-gravity-is-lumpy-t",
-          "author": null,
-          "description": "Earth’s gravity is lumpy. “The gravity in East Antarctica is measurably weaker than anywhere else on the planet.”",
-          "link": "https://kottke.org/26/03/0048496-earths-gravity-is-lumpy-t",
-          "publishedOn": "2026-03-05T21:55:27.000Z",
-          "wordCount": 802,
-          "title": "Earth&#8217;s gravity is lumpy . &#8220;The gravity in...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/03/big-tuskers",
-          "author": null,
-          "description": "Oh wow, I love these photographs of “big tusker” elephants by Johan Siggesson.\n\n\nI didn’t even know big tuskers were a thing — and they may not be for much longer:\nThe term “Big Tusker” refers to an elephant with tusks so large they scrape the floor. Unfortunately, the opportunities for witnessing a big tusker in its natural habitat are slim. As of today, there are approximately 25 individuals left in the world, most of which reside in the Tsavo Conservation Area. It is vital that we make every effort to protect what is arguably the last viable gene pool of “Big Tuskers” remaining.\n\n\t\nYou can see just how large these elephants’ tusks are compared to those of other elephants in this photo. A great find via Colossal.\nSiggesson’s Instagram is worth a look as well…the starkness of the stripes in this zebra photo!\n\n \n\n        \n         \nTags: elephants · Johan Siggesson · photography",
-          "link": "https://kottke.org/26/03/big-tuskers",
-          "publishedOn": "2026-03-05T21:00:00.000Z",
-          "wordCount": 793,
-          "title": "Big Tuskers",
-          "imageUrl": "http://kottke.org/plus/misc/images/editor-1772723309-063ed429.png"
-        },
-        {
-          "id": "https://kottke.org/26/03/0048502-this-is-kind-of-amazing",
-          "author": null,
-          "description": "This is kind of amazing: World Monitor is a real-time global intelligence dashboard. Includes military activity, climate anomalies, live webcam feeds in warzones, internet outages, active fires, and even the Pentagon Pizza Index.",
-          "link": "https://kottke.org/26/03/0048502-this-is-kind-of-amazing",
-          "publishedOn": "2026-03-05T20:19:37.000Z",
-          "wordCount": 932,
-          "title": "This is kind of amazing:  World Monitor  is a real-time...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/03/0048498-yes-lets-retire-the-resta",
-          "author": null,
-          "description": "Yes, let’s retire the restaurant monologue. “The urge to direct diners through every bite of a meal runs counter to what I love about dining out, one of just a few cornerstones of American life that have not yet been optimized into oblivion.”",
-          "link": "https://kottke.org/26/03/0048498-yes-lets-retire-the-resta",
-          "publishedOn": "2026-03-05T19:38:50.000Z",
-          "wordCount": 712,
-          "title": "Yes, let&#8217;s  retire the restaurant monologue ....",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/03/0048501-from-propublica-a-databas",
-          "author": null,
-          "description": "From ProPublica, a database of financial disclosures from the Trump regime’s political appointees. “Use this database to explore potential conflicts of interest for President Donald Trump and his team.”",
-          "link": "https://kottke.org/26/03/0048501-from-propublica-a-databas",
-          "publishedOn": "2026-03-05T18:49:44.000Z",
-          "wordCount": 352,
-          "title": "From ProPublica,  a database of financial disclosures...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/03/brian-enos-oblique-strategies",
-          "author": null,
-          "description": "After posting the video on the history of HyperCard the other day, I went down a bit of a HyperCard rabbit hole on the Internet Archive. There are a ton of HyperCard programs, manual & packaging scans, and other resources available on IA; among them:\nThe Manhole, from the developers of Myst\nA bird identification quiz\nThe 1991 Apple Worldwide Developer Conference Presentation (“Contains session info, presentations, and attendee list”)\nThe “expanded book” version of the Hitchhiker’s Guide to the Galaxy\nA guide to the first season of Twin Peaks\nThe Electronic Whole Earth Catalog from Stewart Brand & Kevin Kelly\nI also found this version of Brian Eno’s Oblique Strategies:\n\nYou can see why people call HyperCard “the web before the web”…it’s all right there.\nAlso, don’t miss this comment from Keith Dawson (who you may remember from the pioneering tech newsletter Tasty Bits From the Technology Front) on how HyperCard was almost called Wildcard.\nSoon after, I took a call from Apple. Would we be willing to give up the name Wildcard, or at least license it for their use on a new product? We discussed it. No.\n\n\t\nWild.\n\n \n\n        \n         \nTags: Apple · Brian Eno · computing · HyperCard · Keith Dawson",
-          "link": "https://kottke.org/26/03/brian-enos-oblique-strategies",
-          "publishedOn": "2026-03-05T17:52:13.000Z",
-          "wordCount": 987,
-          "title": "Brian Eno&#8217;s Oblique Strategies on HyperCard",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/03/0048500-web-game-list-as-many",
-          "author": null,
-          "description": "Web game: list as many animals as you can in 1 minute (but you get more time with correct guesses).",
-          "link": "https://kottke.org/26/03/0048500-web-game-list-as-many",
-          "publishedOn": "2026-03-05T16:39:17.000Z",
-          "wordCount": 770,
-          "title": "Web game:  list as many animals as you can in 1 minute...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/03/the-four-rules-for-a-good-walk",
-          "author": null,
-          "description": "In 2017, city planner Jeff Speck gave a talk on the four ways to make a city more walkable:\nIn the typical American city, in which most people own cars and the temptation is to drive them all the time, if you’re going to get them to walk, then you have to offer a walk that’s as good as a drive or better. What does that mean? It means you need to offer four things simultaneously: there needs to be a proper reason to walk, the walk has to be safe and feel safe, the walk has to be comfortable, and the walk has to be interesting.\n\n\t\nI know Speck is talking about cities here, but these four rules — useful, safe, comfortable, and interesting — get at something about living in rural Vermont that I’ve always had trouble articulating: for a place that’s so outdoors-oriented with so many trails and places to hike, a good walk can be difficult to find. I can walk out my door to take a walk that’s sorta safe (walking against traffic on the side of the road — some assholes don’t slow down or move over that much). Comfort is variable: cars kick up dust and my house is surrounded by pretty steep hills. I can’t really walk to anywhere useful, and there aren’t too many possible routes so the interest of the scenery, though beautiful in the summer, gets stale. So then I’m left with driving somewhere to walk, which always just bums me out.\nAnyway, this explains why every time I get to walkable city (Tokyo, Rome, NYC, Paris), I am instantly like, yes!! This! This is a walk.\nRelated reading: Speck is the author of Walkable City (Amazon) and Walkable City Rules (Amazon). (via paul stout)\n\n \n\n        \n         \nTags: books · Jeff Speck · video · Walkable City · Walkable City Rules · walking",
-          "link": "https://kottke.org/26/03/the-four-rules-for-a-good-walk",
-          "publishedOn": "2026-03-05T16:00:00.000Z",
-          "wordCount": 2003,
-          "title": "The Four Rules for a Good Walk",
-          "imageUrl": "https://i.ytimg.com/vi/6cL5Nud8d7w/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/03/0048492-legendary-computer-scient",
-          "author": null,
-          "description": "Legendary computer scientist Donald Knuth: “Shock! Shock! I learned yesterday that an open problem I’d been working on for several weeks had just been solved by Claude Opus 4.6.”",
-          "link": "https://kottke.org/26/03/0048492-legendary-computer-scient",
-          "publishedOn": "2026-03-05T15:18:22.000Z",
-          "wordCount": 304,
-          "title": "Legendary computer scientist Donald Knuth :...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/03/0048493-the-entire-sun-oscillates",
-          "author": null,
-          "description": "“The entire Sun oscillates in a globally coherent way, and the oscillations are formed by sound waves trapped inside the Sun that make it resonate just like a musical instrument.”",
-          "link": "https://kottke.org/26/03/0048493-the-entire-sun-oscillates",
-          "publishedOn": "2026-03-05T14:33:54.000Z",
-          "wordCount": 1328,
-          "title": "&#8220;The entire Sun oscillates in a globally coherent...",
           "imageUrl": ""
         }
       ]
