@@ -61,16 +61,6 @@
           "wordCount": 3041,
           "title": "Adding a feature to a closed-source app",
           "imageUrl": "https://www.stavros.io/static/images/favicons/og-image.jpg?h=24586483"
-        },
-        {
-          "id": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
-          "author": null,
-          "description": "I don't care for the joy of programming\nLately I’ve gotten heavily back into making stuff, and it’s mostly because of LLMs.\nI thought that I liked programming, but it turned out that what I like was making things, and programming was just one way to do that.\nSince LLMs have become good at programming, I’ve been using them to make stuff non",
-          "link": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
-          "publishedOn": "2026-03-10T11:58:51.000Z",
-          "wordCount": 7684,
-          "title": "How I write software with LLMs",
-          "imageUrl": "https://www.stavros.io/static/images/favicons/og-image.jpg?h=24586483"
         }
       ]
     },
@@ -171,6 +161,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3243/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/crystal_gazing.png\" title=\"'Beyond that lies a vale of fire through which my vision cannot penetrate' is the kind of fun thing geologists, heliophysicists, and early universe cosmologists have a lot of opportunities to say.\" alt=\"'Beyond that lies a vale of fire through which my vision cannot penetrate' is the kind of fun thing geologists, heliophysicists, and early universe cosmologists have a lot of opportunities to say.\" />",
+          "link": "https://xkcd.com/3243/",
+          "publishedOn": "2026-05-08T00:00:00.000Z",
+          "wordCount": 187,
+          "title": "Crystal Gazing",
+          "imageUrl": "https://imgs.xkcd.com/comics/crystal_gazing_2x.png"
+        },
         {
           "id": "https://xkcd.com/3242/",
           "author": null,
@@ -428,6 +428,16 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "popover-backdrop-anti-pattern",
+          "author": null,
+          "description": "After attending recent conferences and learning that I can swap out buckets of JavaScript for the HTML native popover property, I've been using it liberally throughout my own projects.\nFor little pop out menus it's perfect. Then I also started using it for modal boxes (yes, you might be thinking ahead of me: dialog, still, let's find out what happened).\nThe popover property was really easy for this, and the ::backdrop selector was perfect for adding a little backdrop blur to tell my user \"this is the thing you're dealing with\".\nI especially love that all the UX around dismissing is handled for me. I can hit the escape key, or click outside the popover and it's dismissed.\nExcept, I kept noticing that when I dismissed my popover it would sometimes vanish then immediately pop back to life…",
+          "link": "https://remysharp.com/2026/05/08/popover-backdrop-anti-pattern",
+          "publishedOn": "2026-05-08T00:00:00.000Z",
+          "wordCount": 1437,
+          "title": "A popover backdrop anti-pattern [blog]",
+          "imageUrl": "https://remysharp.com/images/cards/og/9-2.jpg"
+        },
         {
           "id": "devtools-how-to-query-through-the-shadow-dom",
           "author": null,
@@ -951,16 +961,6 @@
           "wordCount": 1924,
           "title": "Testing Vue components in the browser",
           "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/",
-          "author": null,
-          "description": "Hello! My big takeaway from last month’s musings about man pages\nwas that examples in man pages are really great, so I worked on adding (or\nimproving) examples to two of my favourite tools’ man pages.\nHere they are:\nthe dig man page (now with examples)\nthe tcpdump man page examples (this one is an update to the previous examples)\nthe goal: include the most basic examples\nThe goal here was really just to give the absolute most basic examples of how to\nuse the tool, for people who use tcpdump or dig infrequently (or have never used\nit before!) and don’t remember how it works.\nSo far saying “hey, I want to write an examples section for beginners and\ninfrequent users of this tools” has been working really well. It’s easy to\nexplain, I think it makes sense from everything I’ve heard from users …",
-          "link": "https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/",
-          "publishedOn": "2026-03-10T00:00:00.000Z",
-          "wordCount": 874,
-          "title": "Examples for the tcpdump and dig man pages",
-          "imageUrl": null
         }
       ]
     },
@@ -1023,6 +1023,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=12787",
+          "author": "Cory Doctorow",
+          "description": "Today's links Lee Lai's \"Cannon\": A beautiful, subtle, long-lingering tale of duty, sex, and working for a shitty restaurant boss. Hey look at this: Delights to delectate. Object permanence: Ebay paying to run newspaper classifieds; Chuck Tingle v Sad Puppies; FBI v TOR; Daycare v Goldman Sachs; Scammers re-used covid nose-swabs; \"The Adventures of Mary Darling.\" Upcoming appearances: Guelph, Barcelona, Berlin, Hay-on-Wye, London, NYC, Edinburgh. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Lee Lai's \"Cannon\" (permalink) Lee Lai's Cannon is an extraordinary graphic novel that turns out a beautifully told, subtle and ambiguous tale about Lucy (Lucy -> \"Loose\" -> \"Loo…",
+          "link": "https://pluralistic.net/2026/05/08/gung-gung/",
+          "publishedOn": "2026-05-08T12:19:36.000Z",
+          "wordCount": 2895,
+          "title": "Pluralistic: Lee Lai's \"Cannon\" (08 May 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=12778",
           "author": "Cory Doctorow",
@@ -1442,16 +1452,6 @@
           "wordCount": 3785,
           "title": "Pluralistic: Ad-tech is fascist tech (10 Mar 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=12520",
-          "author": "Cory Doctorow",
-          "description": "Today's links Billionaires are a danger to themselves and (especially) us: A billionaire is a machine for producing policy failures at scale. Hey look at this: Delights to delectate. Object permanence: Librarians Against DRM; Copyright maximalist MP is a pirate; \"The Monster\"; The perversity of self-destructing ebooks; Space opera cliches; Social software politics; Game in a browser's location bar; Map of sf/f; Group chat sucks; Jeep hack; Gandersauce. Upcoming appearances: Where to find me. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Billionaires are a danger to themselves and (especially) us (permalink) Even if rich people were no more likely to believe stupid sh…",
-          "link": "https://pluralistic.net/2026/03/09/autocrats-of-trade-2/",
-          "publishedOn": "2026-03-09T16:46:33.000Z",
-          "wordCount": 4750,
-          "title": "Pluralistic: Billionaires are a danger to themselves and (especially) us (09 Mar 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -1499,6 +1499,116 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/05/0048909-submitted-a-petition-to-t",
+          "author": null,
+          "description": "In 1951, the Civil Rights Congress submitted a petition to the UN charging that the “brutality and discrimination” of Jim Crow constituted genocide by the US govt. The US prevented any debate on the petition and CRC leaders were persecuted thereafter.",
+          "link": "https://kottke.org/26/05/0048909-submitted-a-petition-to-t",
+          "publishedOn": "2026-05-08T20:00:00.000Z",
+          "wordCount": 776,
+          "title": "In 1951, the Civil Rights Congress  submitted a petition...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/05/0048906-nibmeister",
+          "author": null,
+          "description": "Someone in a private forum I belong to mentioned fountain pens and thus I became acquainted with the role of a nibmeister, a person who can remake the nib of your pen more to your liking (different angle, better flow, etc).",
+          "link": "https://kottke.org/26/05/0048906-nibmeister",
+          "publishedOn": "2026-05-08T19:03:00.000Z",
+          "wordCount": 1029,
+          "title": "Someone in a private forum I belong to mentioned fountain...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/05/wowsabout",
+          "author": null,
+          "description": "PBS Kids and The Jim Henson Company have collaborated on a kids special called Wowsabout! that focuses on the experience of wonder.\nWowsabout is rooted in a rich curriculum developed by Dr. Dacher Keltner, one of the world’s foremost emotion scientists and author of “AWE: The New Science of Everyday Wonder and How It Can Transform Your Life.” The special, shot on location in breathtaking Sequoia National Park, aims to help children recognize and name the feeling of awe by experiencing moments of wonder alongside Roxy and Ronald. Through nature, music, storytelling, and friendship, children learn how awe sparks curiosity, creativity, kindness, and a desire to explore and care for the world around them. The special inspires children to notice awe in everyday moments and begin their own “Wows…",
+          "link": "https://kottke.org/26/05/wowsabout",
+          "publishedOn": "2026-05-08T18:14:00.000Z",
+          "wordCount": 1107,
+          "title": "Wowsabout!",
+          "imageUrl": "https://i.ytimg.com/vi/yrVZmbfkVc8/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/05/0048879-an-analysis-of-18-years-o",
+          "author": null,
+          "description": "An analysis of 18 years of Guardian blind dates. “A surprising number of successful dates include something embarrassing: the bill, a late arrival, a misread moment. Awkward doesn’t mean doomed.”",
+          "link": "https://kottke.org/26/05/0048879-an-analysis-of-18-years-o",
+          "publishedOn": "2026-05-08T17:34:00.000Z",
+          "wordCount": 744,
+          "title": "An analysis of 18 years of Guardian blind dates ....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/05/0048902-will-be-on-display-at-the",
+          "author": null,
+          "description": "Pioneering abstract artist Hilma af Klint’s Paintings for the Temple (1906‑1915) will be on display at the Grand Palais in Paris from May 6 - Aug 30, 2026.",
+          "link": "https://kottke.org/26/05/0048902-will-be-on-display-at-the",
+          "publishedOn": "2026-05-08T16:49:00.000Z",
+          "wordCount": 778,
+          "title": "Pioneering abstract artist Hilma af Klint&#8217;s...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/05/the-design-evolution-of-screwdriver-handles",
+          "author": null,
+          "description": "Screwdriver handles are sneakily well-designed for a variety of different uses.\nI mean, who thinks about a screwdriver? But if you look at the handles, well, that’s a complicated shape. And it lets you do a lot. It’s comfortable to hold, but it won’t roll off your bench. And you can turn it one-handed or use both hands. And you get a couple of different grips. That’s a good design.\n\n\t\nIn this video, woodworker & tool enthusiast Rex Krueger walks us through the design history of the screwdriver and how it came to have such a distinctive and useful handle.\nI grew up helping my dad out in the garage with all sorts of projects, mostly cars, and until watching this video, I had no idea that you could slip a standard wrench over the handle of a screwdriver as a cheater bar. 🤯 (via unsung)\n\n \n\n        \n         \nTags: design · Rex Krueger · video",
+          "link": "https://kottke.org/26/05/the-design-evolution-of-screwdriver-handles",
+          "publishedOn": "2026-05-08T15:52:00.000Z",
+          "wordCount": 1333,
+          "title": "The Design Evolution of Screwdriver Handles",
+          "imageUrl": "https://i.ytimg.com/vi/sGiRSA_GWK8/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/05/0048901-what-can-we-do-about-part",
+          "author": null,
+          "description": "What Can We Do About Partisan Gerrymandering? Jamelle Bouie has been on a tear with his analysis and historical contextualizing of the Supreme Court’s gutting of the Voting Rights Act.",
+          "link": "https://kottke.org/26/05/0048901-what-can-we-do-about-part",
+          "publishedOn": "2026-05-08T15:10:00.000Z",
+          "wordCount": 488,
+          "title": "What Can We Do About Partisan Gerrymandering?  Jamelle...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/05/0048900-nolen-royalty",
+          "author": null,
+          "description": "Nolen Royalty: “My latest project is Marc Andreessen Egg Game - a game about drawing on eggs to make them look like venture capitalist Marc Andreessen.”",
+          "link": "https://kottke.org/26/05/0048900-nolen-royalty",
+          "publishedOn": "2026-05-08T14:45:00.000Z",
+          "wordCount": 722,
+          "title": "Nolen Royalty : &#8220;My latest project is  Marc...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/05/the-2025-alaskan-tsunami-that-measured-1578-feet-tall",
+          "author": null,
+          "description": "Last year in an Alaskan fjord, a surprise landslide triggered a tsunami 1578 feet tall. That’s not a typo…the wave was taller than all but 13 of the world’s tallest buildings.\nIn the early hours of August 10, 2025, an enormous landslide triggered a massive tsunami down the fjord. The tsunami was 1,578-feet-tall, or one-and-a-half times the height of the Eiffel Tower. Fortunately, no one was caught in the wave since it hit around 5:30 a.m. local time. If the tsunami hit later that day, about 20 cruise ships and numerous recreational boaters and kayakers could have been impacted by the giant wave.\nIn a study published today in the journal Science, researchers studied this “near miss” event, finding that the continued effects of climate change were likely the cause.\n\n\t\nThe mass of rock that set off the wave contained “a volume 24 times larger than that of the great pyramid of Giza”, with the initial wave moving at ~150mph. Professor Dan Shugar explains what happened on that morning and shows a simulation of what happened:\n\nFrom this piece in the NY Times:\nThe Tracy Arm landslide was preceded by an unusually rapid retreat of the South Sawyer Glacier, leaving the rock slope that ultimately collapsed bare and unsupported. That same rearrangement of land elements is increasingly occurring throughout Alaskan fjords and around the world. As glaciers retreat and thawing permafrost lubricates slopes, these giant landslides may become more frequent.\n\n\t\nIncredibly, this isn’t even the largest recorded tsunami; a 1958 earthquake with a magnitude of 7.8 to 8.3 triggered a rockslide that created a wave 1,719 feet tall in Lituya Bay. If you don’t want to waste a couple of hours, I’d suggest not clicking through to the megatsunami Wikipedia page.\nSee also When the Mediterranean Sea Dried Up.\n\n \n\n        \n         \nTags: science · tsunamis · video",
+          "link": "https://kottke.org/26/05/the-2025-alaskan-tsunami-that-measured-1578-feet-tall",
+          "publishedOn": "2026-05-08T13:55:00.000Z",
+          "wordCount": 1240,
+          "title": "The 2025 Alaskan Tsunami That Measured 1578 Feet Tall",
+          "imageUrl": "http://kottke.org/plus/misc/images/editor-1778192894-96a465f1.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/05/0048899-prophecy-at-1420-mhz",
+          "author": null,
+          "description": "Prophecy At 1420 MHz is the first single from Boards of Canada’s upcoming album. (It’s paired with a short intro track, so we’re basically getting the first five and a half minutes of the album here.)",
+          "link": "https://kottke.org/26/05/0048899-prophecy-at-1420-mhz",
+          "publishedOn": "2026-05-08T13:31:00.000Z",
+          "wordCount": 789,
+          "title": "Prophecy At 1420 MHz  is the first single from Boards of...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/05/0048895-its-david-attenboroughs-1",
+          "author": null,
+          "description": "It’s David Attenborough’s 100th birthday today! One of my few genuine heroes.",
+          "link": "https://kottke.org/26/05/0048895-its-david-attenboroughs-1",
+          "publishedOn": "2026-05-08T12:19:00.000Z",
+          "wordCount": 778,
+          "title": "It&#8217;s David Attenborough&#8217;s 100th birthday...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/05/0048820-in-nine-experiments-invol",
           "author": null,
@@ -5238,86 +5348,6 @@
           "wordCount": 810,
           "title": "The Modern Times cafe moved to a pay-what-you-want model...",
           "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/03/0048521-a-group-of-runners-starts",
-          "author": null,
-          "description": "“A group of runners starts jogging around a circular track, with each runner maintaining a unique, constant pace. Will every runner end up ‘lonely,’ or relatively far from everyone else, at least once, no matter their speeds?”",
-          "link": "https://kottke.org/26/03/0048521-a-group-of-runners-starts",
-          "publishedOn": "2026-03-10T13:36:38.000Z",
-          "wordCount": 624,
-          "title": "&#8220;A group of runners starts jogging around a...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/03/0048520-jay-graber-is-stepping-do",
-          "author": null,
-          "description": "Jay Graber is stepping down as CEO of Bluesky to “transition to a new role as Bluesky’s Chief Innovation Officer”. And they’re looking for a new permanent CEO.",
-          "link": "https://kottke.org/26/03/0048520-jay-graber-is-stepping-do",
-          "publishedOn": "2026-03-10T12:29:42.000Z",
-          "wordCount": 603,
-          "title": "Jay Graber is stepping down as CEO of Bluesky  to...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/03/0048518-what-if-we-taught-student",
-          "author": null,
-          "description": "“What if we taught students to use AI critically, rather than insisting they ignore it or assume they’re using it to cheat?” asks college freshman Maximilian Milovidov. “Students will reach for these tools, whether universities ban them or not.”",
-          "link": "https://kottke.org/26/03/0048518-what-if-we-taught-student",
-          "publishedOn": "2026-03-09T19:01:12.000Z",
-          "wordCount": 354,
-          "title": "&#8220;What if we taught students to use AI critically,...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/03/0048515-new-web-game-that-takes",
-          "author": null,
-          "description": "New web game that takes 2 min to play (and perhaps a lifetime to master?): Outsmart. “Five rounds, first to 3 wins. In each round, the higher bet wins. You have 100 total points, so bet wisely. Can you outsmart the machine?”",
-          "link": "https://kottke.org/26/03/0048515-new-web-game-that-takes",
-          "publishedOn": "2026-03-09T17:58:41.000Z",
-          "wordCount": 1295,
-          "title": "New web game that takes 2 min to play (and perhaps a...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/03/gugusse-and-the-automaton",
-          "author": null,
-          "description": "The Library of Congress recently discovered a copy of a “long-lost” film made in ~1897 by George Méliès called Gugusse and the Automaton (Gugusse et l’Automate), which “had not been seen by anyone in likely more than a century” and “was the first appearance on film of what might be called a robot”. It’s also one of the first science fiction films ever made.\nYou can watch a digitized copy of the whole film here (it’s only 45 seconds long):\n\nAnd here’s the story of how the film was discovered.\nEqually delighted was Bill McFarland, the donor who had driven the box of films from his home in Grand Rapids, Michigan, to the Library’s National Audio-Visual Conservation Center in Culpeper, Virginia, to have the cache evaluated.\nHis great-grandfather, William Delisle Frisbee, had been a potato farmer and schoolteacher in western Pennsylvania by day, but by night he was a traveling showman. He drove his horse and buggy from town to town to dazzle the locals with a projector and some of the world’s first moving pictures.\nHe set up shop in a local schoolroom, church, lodge or civic auditorium and showed magic lantern slides and short films with music from a newfangled phonograph. It was shocking.\n“They must have been thrilled,” McFarland said. “They must have been out of their minds to see this motion picture and to hear the Edison phonograph.”\n\n \n\n        \n         \nTags: George Méliès · Gugusse and the Automaton · movies · robots · video",
-          "link": "https://kottke.org/26/03/gugusse-and-the-automaton",
-          "publishedOn": "2026-03-09T17:00:00.000Z",
-          "wordCount": 867,
-          "title": "Gugusse and the Automaton",
-          "imageUrl": "https://i.ytimg.com/vi/ojqcjzzjN2Q/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/03/0048514-gps-jamming-and-spoofing-",
-          "author": null,
-          "description": "GPS jamming and spoofing is becoming commonplace in war. “Ships in the region’s waters found their navigation systems had gone haywire, erroneously indicating that the vessels were at airports, a nuclear power plant and on Iranian land.”",
-          "link": "https://kottke.org/26/03/0048514-gps-jamming-and-spoofing-",
-          "publishedOn": "2026-03-09T15:54:23.000Z",
-          "wordCount": 776,
-          "title": "GPS jamming and spoofing is becoming commonplace in war...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/03/0048517-the-fish-doorbell-in-utre",
-          "author": null,
-          "description": "The fish doorbell in Utrecht is back for another season! “Did you spot a fish? Press the Fish Doorbell! Then our lock keeper can let the fish through.”",
-          "link": "https://kottke.org/26/03/0048517-the-fish-doorbell-in-utre",
-          "publishedOn": "2026-03-09T14:58:49.000Z",
-          "wordCount": 599,
-          "title": "The fish doorbell in Utrecht is back for another season!...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/03/the-hidden-hope-in-the-darknes",
-          "author": null,
-          "description": "On the occasion of the release of her latest book, The Beginning Comes After the End, Rebecca Solnit sat down for an interview with David Marchese of the NY Times. Here’s the video version:\n\nThis is a great interview. Marchese’s first question is about how we find the positive in a world filled with grim news:\nEven the right tells us something encouraging, if we listen carefully to what they’re saying. They tell us: You are very powerful. You’ve changed the world profoundly. All these things that are often treated separately — feminism, queer rights, environmental action — are connected, so they’re basically telling us we’re incredibly successful, which is the good news. The bad news is that they hate it and want to change it all back. There is a backlash, and it is significant. But it is not comprehensive or global.\n\n\t\nAnd I loved this part (emphasis mine):\nOne of the great weaknesses of our era is that we get lone superhero movies that suggest that our big problems are solved by muscly guys in spandex, when actually the world mostly gets changed through collective effort. Thich Nhat Hanh said before he died a few years ago that the next Buddha will be the Sangha. The Sangha, in Buddhist terminology, is the community of practitioners. It’s this idea that we don’t have to look for an individual, for a savior, for an Übermensch. I think the counter to Trump always has been and always will be civil society. A lot of the left wants social change to look like the French Revolution or Che Guevara. Maybe changing the world is more like caregiving than it is like war. Too many people still expect it to look like war. \n\n \n\n        \n         \nTags: interviews · politics · Rebecca Solnit · video",
-          "link": "https://kottke.org/26/03/the-hidden-hope-in-the-darknes",
-          "publishedOn": "2026-03-09T14:00:00.000Z",
-          "wordCount": 1436,
-          "title": "The Hidden Hope in the Darkness",
-          "imageUrl": "https://i.ytimg.com/vi/sOJ_uaffG5s/sddefault.jpg"
         }
       ]
     },
