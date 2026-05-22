@@ -132,6 +132,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3248/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/182_8_meters.png\" title=\"They rounded down to 182.8 instead of rounding up to 182.9 because 182.9 might make the statement incorrect.\" alt=\"They rounded down to 182.8 instead of rounding up to 182.9 because 182.9 might make the statement incorrect.\" />",
+          "link": "https://xkcd.com/3248/",
+          "publishedOn": "2026-05-20T00:00:00.000Z",
+          "wordCount": 187,
+          "title": "182.8 Meters",
+          "imageUrl": "https://imgs.xkcd.com/comics/182_8_meters_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3247/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/particle_census.png\" title=\"Remember, your answers to the physics census are confidential; we will not be issuing Pauli exclusion principle citations.\" alt=\"Remember, your answers to the physics census are confidential; we will not be issuing Pauli exclusion principle citations.\" />",
@@ -370,16 +380,6 @@
           "wordCount": 187,
           "title": "Centimeter Wavelengths",
           "imageUrl": "https://imgs.xkcd.com/comics/centimeter_wavelengths_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3223/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/inflation_timeline.png\" title=\"Depending what corners of the internet you hang out on, 'regular' may at times awkwardly coexist with 'sexy.'\" alt=\"Depending what corners of the internet you hang out on, 'regular' may at times awkwardly coexist with 'sexy.'\" />",
-          "link": "https://xkcd.com/3223/",
-          "publishedOn": "2026-03-23T00:00:00.000Z",
-          "wordCount": 187,
-          "title": "Inflation Timeline",
-          "imageUrl": "https://imgs.xkcd.com/comics/inflation_timeline_2x.png"
         }
       ]
     },
@@ -786,6 +786,31 @@
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
         {
+          "id": "https://blog.mozilla.org/?p=85966",
+          "author": "Brian Bingham",
+          "description": "Launching Web Serial in Firefox 151 The web is built by communities, but not all communities use the web the same way.  That philosophy shaped part of this week’s Firefox 151 release, which introduced support for the Web Serial API on desktop. Most folks won’t use this API, but for our community of builders and […]\nThe post Mozilla and Adafruit bring Web Serial workflows to Firefox appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/firefox/firefox-web-serial-adafruit/",
+          "publishedOn": "2026-05-21T18:00:38.000Z",
+          "wordCount": 1608,
+          "title": "Mozilla and Adafruit bring Web Serial workflows to Firefox",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/05/Distilled_Adafruit_Header-1080x720.jpg"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=85786",
+          "author": "Firefox UX Team",
+          "description": "Crafted with care. Built for speed. Ready for what’s next. A great browser is so intuitive that you often forget you’re using it. Yet today the internet is changing faster than ever, and your browser needs to keep up. Firefox is still the only browser built for people, not platforms: independent, customizable, private and firmly […]\nThe post Designing Firefox for the future appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/firefox/new-firefox-design/",
+          "publishedOn": "2026-05-21T12:55:53.000Z",
+          "wordCount": 2054,
+          "title": "Designing Firefox for the future",
+          "enclosure": {
+            "url": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/05/distilled_nova_themes.mp4",
+            "length": "7145697",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/05/distilled_nova_header_generic_thumbnail-1080x720.png"
+        },
+        {
           "id": "https://blog.mozilla.org/?p=85656",
           "author": "Mozilla",
           "description": "Today, Firefox is rolling out updates across desktop and mobile that give you more choice over how you browse. Here’s a look at what’s new. Adding location selection to Firefox’s free VPN Firefox now offers a fully featured VPN experience directly in the browser — for free. In just two months, over 1 million users […]\nThe post New in Firefox 151: VPN location selection, AI controls on mobile, and expanded Shake to Summarize support appeared first on The Mozilla Blog.",
@@ -973,16 +998,6 @@
           "wordCount": 6636,
           "title": "Squash and Stretch",
           "imageUrl": "https://www.joshwcomeau.com/images/og-squash-and-stretch.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/css/header-blockers/",
-          "author": "Josh W. Comeau",
-          "description": "There is a lil’ UI detail on this blog. Most people don’t even notice it, but the ones who do often reach out, asking how on earth it works. It feels like it defies the rules of CSS! In this blog post, I’ll break down the surprisingly-straightforward implementation so you can start using this trick yourself.",
-          "link": "https://www.joshwcomeau.com/css/header-blockers/",
-          "publishedOn": "2026-03-23T12:00:00.000Z",
-          "wordCount": 4351,
-          "title": "Sneaky Header Blocker Trick",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-header-blockers.png"
         }
       ]
     },
@@ -1008,6 +1023,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=12833",
+          "author": "Cory Doctorow",
+          "description": "Today's links Shopping isn't politics: The personal isn't political. Hey look at this: Delights to delectate. Object permanence: Neither arphid nor RFID; Gor novel sex slave cult; Violent economist sex criminals; Vade et caca in pilleum et ipse traheatur super aures tuo; \"We Stand on Guard\"; Healthy FLOSS; Lawsuits 2.0; CDC v zombie apocalypse; Gandhi's speeches; Apple v games about Palestine; Second Life chuds v Bernie; UK was never a \"white\" country; Dead, broke; Who Broke the Internet? (III) Upcoming appearances: Hay-on-Wye, London, Kansas City, LA, Menlo Park, Toronto, NYC, Edinburgh. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Shopping isn't politics (permalin…",
+          "link": "https://pluralistic.net/2026/05/21/purity-culture/",
+          "publishedOn": "2026-05-21T15:03:37.000Z",
+          "wordCount": 4190,
+          "title": "Pluralistic: Shopping isn't politics (21 May 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=12827",
           "author": "Cory Doctorow",
@@ -1432,16 +1457,6 @@
           "wordCount": 4418,
           "title": "Pluralistic: Goodhart's Law vs \"prediction markets\" (24 Mar 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=12570",
-          "author": "Cory Doctorow",
-          "description": "Today's links Understaffing as a form of enshittification: A way to shift value from workers, patients and shoppers to investors. Hey look at this: Delights to delectate. Object permanence: Marvel v \"superhero\"; What's a photocopier?; \"Up Against It\"; \"Medusa's Web\"; AI can't do your job; Coping with plenty; \"The Shakedown\"; Chickenized reverse-centaurs; France v iTunes; Copyfight discipline; Mystery lobbyists; \"Where the Axe is Buried\"; Free/open microprocessor; Folk models of computer security; Bug-eyed steampunk mask; Academics embracing Wikipedia. Upcoming appearances: Berkeley, Montreal, London, Berlin, Hay-on-Wye. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. U…",
-          "link": "https://pluralistic.net/2026/03/22/nobodys-home/",
-          "publishedOn": "2026-03-23T05:54:55.000Z",
-          "wordCount": 4299,
-          "title": "Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -1489,6 +1504,106 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/05/water-world",
+          "author": null,
+          "description": "Water World, created by Seán Doran from imagery captured by a NASA/NOAA weather satellite, is a gorgeous, swirling, painterly portrait of the Earth’s dynamic atmosphere. Doran calls it “a meditative slow gaze at Earth’s atmosphere, revealing the hidden depths of activity in the water-filled skies of planet Earth”. It’s 4K, so put it on the biggest screen you can find and just sit back and watch.\n\n \n\n        \n         \nTags: clouds · Earth · meditative · mesmerizing · Sean Doran · video · weather",
+          "link": "https://kottke.org/26/05/water-world",
+          "publishedOn": "2026-05-21T20:30:00.000Z",
+          "wordCount": 730,
+          "title": "Water World",
+          "imageUrl": "https://i.ytimg.com/vi/OTnJyARSqL4/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/05/0048998-the-secret-to-winning-on-",
+          "author": null,
+          "description": "The Secret to Winning on Jeopardy. “To win on Jeopardy, you don’t need to learn everything. You just need to learn one thing about everything.” As an proficient player of Yell Answers At The TV Jeopardy in my teen years, I can confirm this strat.",
+          "link": "https://kottke.org/26/05/0048998-the-secret-to-winning-on-",
+          "publishedOn": "2026-05-21T19:24:00.000Z",
+          "wordCount": 817,
+          "title": "The Secret to Winning on Jeopardy . &#8220;To win on...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/05/0048996-paul-browns-ipod",
+          "author": null,
+          "description": "Paul Brown’s iPod. This is a lovely remembrance & time capsule: a playable iPod emulator of “the music on the iPod my dad had in 2018 before he died”. Click wheel works and everything.",
+          "link": "https://kottke.org/26/05/0048996-paul-browns-ipod",
+          "publishedOn": "2026-05-21T18:44:00.000Z",
+          "wordCount": 747,
+          "title": "Paul Brown&#8217;s iPod . This is a lovely remembrance &...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/05/what-number-was-stephen-colbert-thinking-of",
+          "author": null,
+          "description": "One of the questions on The Colbert Questionert that Stephen Colbert would administer to his celebrity guests was “What number am I thinking of?” As you can see from this compilation, his answer was often, but not always, “no”.\n\nA few of the guests said “42” but none ever said “69”?\nSo anyway, the Late Show is coming to an end tonight, a casualty of CBS’s newfound fealty to the Trump regime, and Stephen Colbert finally took the questionert himself. And yes, at last, he revealed the number that he was thinking of…to Robert De Niro no less:\n\n\n \n\n        \n         \nTags: Stephen Colbert · The Late Show · TV · video",
+          "link": "https://kottke.org/26/05/what-number-was-stephen-colbert-thinking-of",
+          "publishedOn": "2026-05-21T17:48:00.000Z",
+          "wordCount": 786,
+          "title": "What Number Was Stephen Colbert Thinking Of?",
+          "imageUrl": "https://i.ytimg.com/vi/hJ-fOj7Qqvs/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/05/0049001-an-ai-model-has-disproved",
+          "author": null,
+          "description": "This is impressive: an AI model has disproved an 80-year-old conjecture by Paul Erdős. “The proof came from a new general-purpose reasoning model, rather than from a system trained specifically for mathematics.”",
+          "link": "https://kottke.org/26/05/0049001-an-ai-model-has-disproved",
+          "publishedOn": "2026-05-21T16:58:00.000Z",
+          "wordCount": 879,
+          "title": "This is impressive:  an AI model has disproved an...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/05/three-hours-unbelievable-nature-david-attenborough",
+          "author": null,
+          "description": "Wow, BBC Earth has posted this three-hour-long video to YouTube of David Attenborough narrating Unbelievable Moments From Nature. I’ve had it on in the background for the last little while as I’m working and it’s great.\n\n \n\n        \n         \nTags: David Attenborough · video",
+          "link": "https://kottke.org/26/05/three-hours-unbelievable-nature-david-attenborough",
+          "publishedOn": "2026-05-21T16:45:00.000Z",
+          "wordCount": 734,
+          "title": "Three Hours of Unbelievable Moments From Nature, Narrated by David Attenborough",
+          "imageUrl": "https://i.ytimg.com/vi/JV7r8yV_eGg/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/05/0048995-us-is-simply-choosing-not",
+          "author": null,
+          "description": "“US is ‘simply choosing not to stop’ Ebola outbreak after massive public health cuts.” Just so fucking stupid and maddening and wasteful and dangerous and callous and evil.",
+          "link": "https://kottke.org/26/05/0048995-us-is-simply-choosing-not",
+          "publishedOn": "2026-05-21T16:15:00.000Z",
+          "wordCount": 848,
+          "title": "&#8220;US is ‘simply choosing not to stop’ Ebola...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/05/0048994-trump-destroyed-usaid-now",
+          "author": null,
+          "description": "Trump Destroyed USAID. Now People Are Dying. “Everyone, especially in South Sudan, wanted to know if the US really had cut off aid. It was easier for them to believe that the aid organizations were lying to them than to think that the US would do this.”",
+          "link": "https://kottke.org/26/05/0048994-trump-destroyed-usaid-now",
+          "publishedOn": "2026-05-21T15:49:00.000Z",
+          "wordCount": 770,
+          "title": "Trump Destroyed USAID. Now People Are Dying....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/05/0048992-free-admission-to-canadia",
+          "author": null,
+          "description": "Free admission to Canadian national parks this summer! “From June 19 to September 7, no fees apply for: admission for all visitors to all national historic sites, national parks, and national marine conservation areas operated by Parks Canada.”",
+          "link": "https://kottke.org/26/05/0048992-free-admission-to-canadia",
+          "publishedOn": "2026-05-21T15:10:00.000Z",
+          "wordCount": 759,
+          "title": "Free admission to Canadian national parks this summer!...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/05/0048981-at-long-last-i-have-maxxi",
+          "author": null,
+          "description": "At Long Last, I Have Maxximized My Looks. “Apparently, eating a fistful of iguana tranquilizers for breakfast every morning has turned me cold-blooded, and I am no longer appropriately adapted for life on the Earth’s surface.”",
+          "link": "https://kottke.org/26/05/0048981-at-long-last-i-have-maxxi",
+          "publishedOn": "2026-05-21T14:30:00.000Z",
+          "wordCount": 501,
+          "title": "At Long Last, I Have Maxximized My Looks ....",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/05/what-if-lock-in-doesnt-matter-so-much-anymore",
           "author": null,
