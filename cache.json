@@ -87,18 +87,7 @@
       "title": "Grumpy Gamer",
       "feedUrl": "https://grumpygamer.com/rss",
       "siteUrl": "https://grumpygamer.com/",
-      "articles": [
-        {
-          "id": "https://grumpygamer.com/dbs_consoles/",
-          "author": null,
-          "description": "After some delays with getting console certification, I’m happy to announce the release of Xbox, PlayStation and Switch (and Steam update) of Death by Scrolling on April 16.\nConsole and Steam feature a big update that includes a new playable character, new world, new powerups, new stuff and new fun.  We completely reworked your ability to customize your character. It’s a huge update.",
-          "link": "https://grumpygamer.com/dbs_consoles/",
-          "publishedOn": "2026-04-09T18:42:08.000Z",
-          "wordCount": 195,
-          "title": "Death by Scrolling Consoles",
-          "imageUrl": "https://grumpygamer.com//images/dbs_annouce.jpeg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Emily Short's Interactive Storytelling",
@@ -111,6 +100,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3256/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/nostalgia_content.png\" title=\"Gen-Z got a chunk of the Carboniferous, and now all their memes are about how pathetic and small today's dragonflies are.\" alt=\"Gen-Z got a chunk of the Carboniferous, and now all their memes are about how pathetic and small today's dragonflies are.\" />",
+          "link": "https://xkcd.com/3256/",
+          "publishedOn": "2026-06-08T00:00:00.000Z",
+          "wordCount": 187,
+          "title": "Nostalgia Content",
+          "imageUrl": "https://imgs.xkcd.com/comics/nostalgia_content_2x.png"
+        },
         {
           "id": "https://xkcd.com/3255/",
           "author": null,
@@ -350,16 +349,6 @@
           "wordCount": 219,
           "title": "Countdown Standard",
           "imageUrl": "https://imgs.xkcd.com/comics/countdown_standard_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3231/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/lightning.png\" title=\"Maybe you should wear one too? I guess I'm taller than you, so as long as I have one we're fine.\" alt=\"Maybe you should wear one too? I guess I'm taller than you, so as long as I have one we're fine.\" />",
-          "link": "https://xkcd.com/3231/",
-          "publishedOn": "2026-04-10T00:00:00.000Z",
-          "wordCount": 217,
-          "title": "Lightning",
-          "imageUrl": "https://imgs.xkcd.com/comics/lightning_2x.png"
         }
       ]
     },
@@ -761,6 +750,16 @@
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
         {
+          "id": "https://blog.mozilla.org/?p=86052",
+          "author": "Mozilla",
+          "description": "Your browser tabs say a lot about your life: work projects, vacation plans, shopping carts and all the rabbit holes in between. Add the world’s biggest soccer tournament to the mix, and your browser is suddenly juggling scores to check, streams to watch, lineups to scan and group chats to keep up with. And since […]\nThe post Make Firefox your World Cup sidekick this summer appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/firefox/firefox-world-cup/",
+          "publishedOn": "2026-06-08T15:59:22.000Z",
+          "wordCount": 1908,
+          "title": "Make Firefox your World Cup sidekick this summer",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/06/Distilled_FxWC_Header-1080x720.jpg"
+        },
+        {
           "id": "https://blog.mozilla.org/?p=85966",
           "author": "Brian Bingham",
           "description": "Launching Web Serial in Firefox 151 The web is built by communities, but not all communities use the web the same way.  That philosophy shaped part of this week’s Firefox 151 release, which introduced support for the Web Serial API on desktop. Most folks won’t use this API, but for our community of builders and […]\nThe post Mozilla and Adafruit bring Web Serial workflows to Firefox appeared first on The Mozilla Blog.",
@@ -859,26 +858,6 @@
           "wordCount": 2029,
           "title": "The zero-days are numbered",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/04/Cursor_Orange_1920x1080-1080x720.jpeg"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=85462",
-          "author": "Linda Griffin",
-          "description": "Microsoft recently announced it’s pulling back Copilot from several of its core Windows apps — Photos, Notepad, the Snipping Tool, and Widgets. Rolling back these forced AI integrations is the right move, but this is just the most recent example of Microsoft going too far without user consent.  Copilot was pushed onto users Over the […]\nThe post Old habits die hard: Microsoft tries to limit our options, this time with AI appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla/ai/microsoft-copilot-ai-user-choice/",
-          "publishedOn": "2026-04-09T17:03:46.000Z",
-          "wordCount": 2172,
-          "title": "Old habits die hard: Microsoft tries to limit our options, this time with AI",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/04/Browsing_1920x1080-1080x720.jpeg"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=85448",
-          "author": "0DIN Team",
-          "description": "We’re launching across the developer and security community this week on Product Hunt and Hacker News. If you’ve been following AI security, we’d love your support and your feedback.  At Mozilla, open source has never been just a licensing choice. It’s a conviction: the internet gets healthier when tools and knowledge circulate freely, when anyone […]\nThe post 0DIN is open-sourcing AI security and the hard-earned knowledge behind it appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/mozilla-new-products/0din-ai-security-scanner/",
-          "publishedOn": "2026-04-09T16:35:02.000Z",
-          "wordCount": 2023,
-          "title": "0DIN is open-sourcing AI security and the hard-earned knowledge behind it",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/04/0DIN-Is-Open-Sourcing-AI-Security-and-the-Hard-Earned-Knowledge-Behind-It-864x576.png"
         }
       ]
     },
@@ -1387,16 +1366,6 @@
           "wordCount": 3316,
           "title": "Pluralistic: Don't Be Evil (11 Apr 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=12642",
-          "author": "Cory Doctorow",
-          "description": "Today's links Canny Valley and Creative Commons: Another bite at the apple. Hey look at this: Delights to delectate. Object permanence: Bidenomics needs to be bigger; Al Franken's balanced war budget; Bernie x The Pope; Art is a money-laundry; UK government condemns copyright trolls; Howard Dean's genocidal pharma sellout. Upcoming appearances: Montreal, Toronto, San Francisco, London, Berlin, NYC, Hay-on-Wye, London. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Canny Valley and Creative Commons (permalink) Last year, I ran a wildly successful Kickstarter campaign to pre-sell my ebooks, audiobooks and hardcovers of my book Enshittification, which went on to be an in…",
-          "link": "https://pluralistic.net/2026/04/10/canny-valley/",
-          "publishedOn": "2026-04-10T09:57:16.000Z",
-          "wordCount": 4723,
-          "title": "Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -1414,16 +1383,6 @@
           "wordCount": 2524,
           "title": "Meanderware: Things I loved about cyberspace",
           "imageUrl": "http://nathalielawhead.com/noodles/meanderware/LqOWiQ.gif"
-        },
-        {
-          "id": "http://www.nathalielawhead.com/candybox/?p=5954",
-          "author": "alienmelon",
-          "description": "I wasn’t able to give up on the macOS version, so after a lot of hard work (way too much hard work… the working was HARD)… there’s now a functional macOS version. Get it here: https://alienmelon.itch.io/flower Some features do not work, but this does not impact the overall experience. You cannot save poems to your desktop so you don’t get the ending poem. You cannot change resolution settings, this is because those break the browser widget that’s being used. The one on macOS works very different, and has restrictions, so anything that causes a resolution change breaks it. This is...",
-          "link": "http://www.nathalielawhead.com/candybox/i-persisted-the-macos-version-of-she-danced-in-the-wind-like-a-holographic-dream-before-the-world-died-is-here-x",
-          "publishedOn": "2026-04-09T16:02:43.000Z",
-          "wordCount": 1986,
-          "title": "I persisted! The macOS version of “she danced in the wind like a holographic dream before the world died” is here x)",
-          "imageUrl": "http://nathalielawhead.com/noodles/shiny.gif"
         }
       ]
     },
@@ -1444,6 +1403,96 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/06/0049090-wind-and-solar-generated-",
+          "author": null,
+          "description": "“For the first time, wind and solar generated more electricity than gas worldwide in April 2026.”",
+          "link": "https://kottke.org/26/06/0049090-wind-and-solar-generated-",
+          "publishedOn": "2026-06-08T20:33:00.000Z",
+          "wordCount": 754,
+          "title": "&#8220;For the first time,  wind and solar generated more...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/0049099-a-lovely-story-by-mary-hk",
+          "author": null,
+          "description": "A lovely story by Mary H.K. Choi about her husband and wedding. “A green card wedding was the story I was selling…but it became clear I’d wanted to get married for all the typical risky reasons most of us do: love, understanding, hope.”",
+          "link": "https://kottke.org/26/06/0049099-a-lovely-story-by-mary-hk",
+          "publishedOn": "2026-06-08T19:47:00.000Z",
+          "wordCount": 788,
+          "title": "A lovely story by Mary H.K. Choi about her husband and...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/0049097-a-long-and-difficult-to-r",
+          "author": null,
+          "description": "From the New Yorker, a long and difficult-to-read report by Heidi Blake about how the truly disgusting and evil Tate brothers built a sexual slavery empire.",
+          "link": "https://kottke.org/26/06/0049097-a-long-and-difficult-to-r",
+          "publishedOn": "2026-06-08T19:00:00.000Z",
+          "wordCount": 473,
+          "title": "From the New Yorker,  a long and difficult-to-read report...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/0049098-the-supreme-court-has-inv",
+          "author": null,
+          "description": "The Supreme Court Has Invented a Right to Discriminate. “The Roberts Court has replaced the Fifteenth Amendment’s ban on racial discrimination in voting with a right to engage in racial discrimination in voting.”",
+          "link": "https://kottke.org/26/06/0049098-the-supreme-court-has-inv",
+          "publishedOn": "2026-06-08T18:19:00.000Z",
+          "wordCount": 476,
+          "title": "The Supreme Court Has Invented a Right to Discriminate ....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/0049096-nominations-are-open-for-",
+          "author": null,
+          "description": "Nominations are open for this year’s Tiny Awards. “The Tiny Awards exist because we thought it was important to shine a spotlight on the sorts of personal web projects that tend to get overlooked.”",
+          "link": "https://kottke.org/26/06/0049096-nominations-are-open-for-",
+          "publishedOn": "2026-06-08T17:39:00.000Z",
+          "wordCount": 753,
+          "title": "Nominations are open for this year’s Tiny Awards ....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/0049095-have-you-talked-with-some",
+          "author": null,
+          "description": "Interesting question and resulting thread: have you talked with someone who was alive in the 1800s? I think I technically have (a relative in the 80s when I was a kid) but I don’t remember the circumstances. Anyone have a good memory to share?",
+          "link": "https://kottke.org/26/06/0049095-have-you-talked-with-some",
+          "publishedOn": "2026-06-08T16:55:00.000Z",
+          "wordCount": 5152,
+          "title": "Interesting question and resulting thread:  have you...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/the-new-mister-rogers-youtube-channel",
+          "author": null,
+          "description": "The folks at Fred Rogers Productions have launched a YouTube channel dedicated to Mister Rogers’ Neighborhood. They plan to post compilations, clips, and full episodes, some of which haven’t been seen on PBS in years & years. One of the first complete episodes they’ve posted is the one about how crayons are made!\n\nOther full episodes include A Visit with Officer Clemmons, The Very First Episode (from 1968), and Koko the Gorilla Meets Mister Rogers.\n\n\n\nAnd there’s also this 30-minute compilation of fan-favorite factory visits.\n\nAgain, here’s the channel if you want to subscribe or explore more.\n\n \n\n        \n         \nTags: Fred Rogers · Mister Rogers' Neighborhood · TV · video · YouTube",
+          "link": "https://kottke.org/26/06/the-new-mister-rogers-youtube-channel",
+          "publishedOn": "2026-06-08T16:05:00.000Z",
+          "wordCount": 778,
+          "title": "The New Mister Rogers YouTube Channel",
+          "imageUrl": "https://i.ytimg.com/vi/PcoAZGb4h5g/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/06/0049091-my-students-cant-read",
+          "author": null,
+          "description": "My Students Can’t Read. “There is a measurable, generational collapse in sustained reading and writing, and the academy is responding to it with improvisation and exhaustion rather than the structural overhaul it requires.”",
+          "link": "https://kottke.org/26/06/0049091-my-students-cant-read",
+          "publishedOn": "2026-06-08T15:29:00.000Z",
+          "wordCount": 3036,
+          "title": "My Students Can’t Read . &#8220;There is a measurable,...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/0049092-a-wesley-morris-profile-o",
+          "author": null,
+          "description": "Yeah, I’ll read the hell out of a Wesley Morris profile of Steven Spielberg. “Spielberg has always known that his movies are attempts to understand his boyhood and his parents, to try to heal them through fiction and illuminate parts of himself.”",
+          "link": "https://kottke.org/26/06/0049092-a-wesley-morris-profile-o",
+          "publishedOn": "2026-06-08T14:55:46.000Z",
+          "wordCount": 779,
+          "title": "Yeah, I’ll read the hell out of  a Wesley Morris profile...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/06/summer-fridays-open-thread",
           "author": null,
@@ -5202,96 +5251,6 @@
           "publishedOn": "2026-04-10T13:56:14.000Z",
           "wordCount": 968,
           "title": "Well, this blows:  FSG has shuttered their MCD imprint &...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/04/0048717-this-tiny-e-ink-reader-is",
-          "author": null,
-          "description": "This tiny e-ink reader is small enough to attach to the back of your phone.",
-          "link": "https://kottke.org/26/04/0048717-this-tiny-e-ink-reader-is",
-          "publishedOn": "2026-04-09T23:31:23.000Z",
-          "wordCount": 703,
-          "title": "This tiny e-ink reader  is  small enough  to attach to...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/04/the-headless-mary-magdalene-by-artemisia-gentileschi",
-          "author": null,
-          "description": "I’m charmed by this fragment of Artemisia Gentileschi’s painting of Mary Magdalene that’s up for auction later this month.\nFor many years it was in a private collection in Germany where it lay rolled up in a cellar. The head of the saint had been cut out of the canvas, under circumstances that remain unclear, in an incident most probably linked to the chaos and looting of postwar Berlin.\n\n\t\nLike the empty picture frames at the Isabella Stewart Gardner Museum, the rectangular hole in the painting invites the viewer to imagine what became of its former contents. Where is Magdalene’s head & shoulders now? Did it get framed as its own painting? Is it still hanging in someone’s house or tucked away in someone’s attic? Will it be reunited with the rest of the painting someday?\nBtw, this painting is a copy of another of Gentileschi’s previous works, which hangs in the Pitti Palace in Florence. There are some differences between the two paintings, but at least we know what the area inside that hole looks like, mostly.\n\n\n \n\n        \n         \nTags: art · Artemisia Gentileschi",
-          "link": "https://kottke.org/26/04/the-headless-mary-magdalene-by-artemisia-gentileschi",
-          "publishedOn": "2026-04-09T22:45:00.000Z",
-          "wordCount": 860,
-          "title": "The Headless Mary Magdalene by Artemisia Gentileschi",
-          "imageUrl": "http://kottke.org/plus/misc/images/editor-1775763512-6152b5e2.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/04/0048711-between-the-impossible-an",
-          "author": null,
-          "description": "Between the Impossible and the Inevitable: The Case for Defiance (aka Never F**king Surrender). “We make the future in the present, when we show up. Don’t surrender it to those who would destroy it.”",
-          "link": "https://kottke.org/26/04/0048711-between-the-impossible-an",
-          "publishedOn": "2026-04-09T22:01:57.000Z",
-          "wordCount": 528,
-          "title": "Between the Impossible and the Inevitable: The Case for...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/04/0048712-hostile-volume-is-a-simpl",
-          "author": null,
-          "description": "Hostile Volume is a simple and maddening game where you need to hold the audio volume at 25%, which gets increasingly difficult with each level.",
-          "link": "https://kottke.org/26/04/0048712-hostile-volume-is-a-simpl",
-          "publishedOn": "2026-04-09T21:12:18.000Z",
-          "wordCount": 731,
-          "title": "Hostile Volume  is a simple and maddening game where you...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/04/0048708-international-chess-feder",
-          "author": null,
-          "description": "International Chess Federation Adds Race Car Piece. “The race car piece gets to go twice in one turn because it’s so fast.” Smart to capitalize on F1’s popularity; they should do my fave Monopoly piece next (the iron).",
-          "link": "https://kottke.org/26/04/0048708-international-chess-feder",
-          "publishedOn": "2026-04-09T20:38:58.000Z",
-          "wordCount": 522,
-          "title": "International Chess Federation Adds Race Car Piece ....",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/04/the-fabulous-design-of-duct-tape",
-          "author": null,
-          "description": "Bill Hammack, aka The Engineer Guy, is an amazing engineering educator and in this video he explains how duct tape is designed to simultaneously do three things well: “a) adhere with light pressure, b) stay in place, yet c) be removable”.\nControlling the stickiness of tape is of utmost importance. In fact, a key element of engineering tape is controlling its stickiness — and only by doing that can tape be wound into a useful roll. If the tape sticks too tightly to itself, we could not use it.\n\n\t\nGotta be honest: I was not expecting Silly Putty to make a relevant guest appearance during his explanation. And I love the ramp & ball test for tape stickiness near the end…a very elegant and simple bit of engineering:\nPressure sensitive tape predates much of the most elementary molecular understanding of adhesion; tape has been mass produced since the early twentieth century. That engineers developed and refined tape without this knowledge is no surprise — recall that the purpose of the engineering method is to solve problems before we have full scientific knowledge.\n\n \n\n        \n         \nTags: Bill Hammack · design · engineering · science · video",
-          "link": "https://kottke.org/26/04/the-fabulous-design-of-duct-tape",
-          "publishedOn": "2026-04-09T17:30:00.000Z",
-          "wordCount": 871,
-          "title": "The Fabulous Engineering and Design of Duct Tape",
-          "imageUrl": "https://i.ytimg.com/vi/E-F2QQuZZGk/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/04/0048703-someone-ported-mac-os-x",
-          "author": null,
-          "description": "Someone ported Mac OS X to the Nintendo Wii. “Since its launch in 2007, the Wii has seen several operating systems ported to it: Linux, NetBSD, and most-recently, Windows NT. Today, Mac OS X joins that list.”",
-          "link": "https://kottke.org/26/04/0048703-someone-ported-mac-os-x",
-          "publishedOn": "2026-04-09T16:45:13.000Z",
-          "wordCount": 757,
-          "title": "Someone ported Mac OS X to the Nintendo Wii ....",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/04/0048685-working-with-agents-feels",
-          "author": null,
-          "description": "“Working with agents feels much less like classic deep work, and much more like playing a game.”",
-          "link": "https://kottke.org/26/04/0048685-working-with-agents-feels",
-          "publishedOn": "2026-04-09T15:48:16.000Z",
-          "wordCount": 480,
-          "title": "&#8220;Working with agents feels much less like classic...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/04/0048697-how-to-guess-if-your",
-          "author": null,
-          "description": "How to Guess If Your Job Will Exist in Five Years. “There’s a better question for white-collar workers to ask themselves: Am I coal, or am I a horse?”",
-          "link": "https://kottke.org/26/04/0048697-how-to-guess-if-your",
-          "publishedOn": "2026-04-09T15:01:14.000Z",
-          "wordCount": 767,
-          "title": "How to Guess If Your Job Will Exist in Five Years ....",
           "imageUrl": ""
         }
       ]
