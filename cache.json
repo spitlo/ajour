@@ -349,16 +349,6 @@
           "wordCount": 189,
           "title": "Make It Myself",
           "imageUrl": "https://imgs.xkcd.com/comics/make_it_myself_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3232/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/countdown_standard.png\" title=\"Anyone who is caught counting 'three ... two ... one ... zero ... GO!' will be punished with a lifetime of eating only ISO standard food samples.\" alt=\"Anyone who is caught counting 'three ... two ... one ... zero ... GO!' will be punished with a lifetime of eating only ISO standard food samples.\" />",
-          "link": "https://xkcd.com/3232/",
-          "publishedOn": "2026-04-13T00:00:00.000Z",
-          "wordCount": 219,
-          "title": "Countdown Standard",
-          "imageUrl": "https://imgs.xkcd.com/comics/countdown_standard_2x.png"
         }
       ]
     },
@@ -962,16 +952,6 @@
           "wordCount": 8844,
           "title": "Scroll-Driven Animations",
           "imageUrl": "https://www.joshwcomeau.com/images/og-scroll-driven-animations.png"
-        },
-        {
-          "id": "https://www.joshwcomeau.com/animation/squash-and-stretch/",
-          "author": "Josh W. Comeau",
-          "description": "Have you ever heard of Disney’s 12 Basic Principles of Animation? In this tutorial, we’ll explore how we can use the very first principle to create SVG micro-interactions that feel way more natural and believable. It’s one of those small things that has a big impact.",
-          "link": "https://www.joshwcomeau.com/animation/squash-and-stretch/",
-          "publishedOn": "2026-04-13T12:00:00.000Z",
-          "wordCount": 6636,
-          "title": "Squash and Stretch",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-squash-and-stretch.png"
         }
       ]
     },
@@ -997,6 +977,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=12899",
+          "author": "Cory Doctorow",
+          "description": "Today's links The world has moved on: Notes from the enshittocene. Hey look at this: Delights to delectate. Object permanence: \"Jpod\"; Barlow v Glickman; Cyclist v bike lanes; Judge v copyright trolls; \"The Uncertain Places\"; Thatcher v Palin; NY v Time Warner; Banks v negative interest rates; Keeping the new web decentralized; \"Prisoners' Inventions.\" Upcoming appearances: LA, Menlo Park, Toronto, NYC, Philadelphia, Chicago, Edinburgh, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The world has moved on (permalink) Douglas Adams wrote, \"Anything that is in the world when you're born is normal and ordinary and is just a natural part of the way the world w…",
+          "link": "https://pluralistic.net/2026/06/11/lapsarianism/",
+          "publishedOn": "2026-06-11T14:43:06.000Z",
+          "wordCount": 5732,
+          "title": "Pluralistic: The world has moved on (11 Jun 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=12890",
           "author": "Cory Doctorow",
@@ -1396,16 +1386,6 @@
           "wordCount": 3917,
           "title": "Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=12658",
-          "author": "Cory Doctorow",
-          "description": "Today's links Austerity creates fascism: We can't afford to not afford nice things. Hey look at this: Delights to delectate. Object permanence: The Server of Amontillado; Flapper's Dictionary; Mastercard v rec.humor.funny; Philippines electoral data breach; A front page from the Trump presidency; Spike Lee x Bernie Sanders; France v password hashing; Algorithms as Central European folk-dances; Save Comcast; Lex Luthor v export controls; Zuckerberg in the dock. Upcoming appearances: Toronto, San Francisco, London, Berlin, NYC, Hay-on-Wye, London. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Austerity creates fascism (permalink) I'm worried about AI psychosis. Specifi…",
-          "link": "https://pluralistic.net/2026/04/12/always-great/",
-          "publishedOn": "2026-04-13T05:29:27.000Z",
-          "wordCount": 3814,
-          "title": "Pluralistic: Austerity creates fascism (13 Apr 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -1430,7 +1410,18 @@
       "title": "Neil Panchal",
       "feedUrl": "https://neil.computer/rss/",
       "siteUrl": "https://neil.computer/",
-      "articles": []
+      "articles": [
+        {
+          "id": "6a092420d5e103044cd684d3",
+          "author": "Neil Panchal",
+          "description": "I have always wondered about the performance characteristics of virtualization. Despite the caveats in testing methodology, workloads, etc., it'd be nice to see what the performance penalty is for using Baremetal vs. Proxmox vs. ESXi. Googling for answers results in some ancient paper from like 2008. Asking LLMs",
+          "link": "https://neil.computer/notes/baremetal-vs-proxmox-vs-esxi-performance-geekbench-scores/",
+          "publishedOn": "2026-05-17T03:03:10.000Z",
+          "wordCount": null,
+          "title": "Baremetal vs. Proxmox vs. ESXi Performance Geekbench Scores",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Nicky's New Shtuff",
@@ -1443,6 +1434,106 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/06/0049127-ians-shoelace-site-is-sti",
+          "author": null,
+          "description": "Ian’s Shoelace Site Is Still The Best Site For Tying Your Shoes. However: “What is the point of adding value to the internet if it is only going to rob you? Why do research, make diagrams, and develop new knots?”",
+          "link": "https://kottke.org/26/06/0049127-ians-shoelace-site-is-sti",
+          "publishedOn": "2026-06-11T21:10:00.000Z",
+          "wordCount": 784,
+          "title": "Ian&#8217;s Shoelace Site Is Still The Best Site For...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/0049125-this-song-has-no-instrume",
+          "author": null,
+          "description": "“This song has no instruments in it.” This is cool: a song made only from pink noise and an equalizer.",
+          "link": "https://kottke.org/26/06/0049125-this-song-has-no-instrume",
+          "publishedOn": "2026-06-11T20:17:00.000Z",
+          "wordCount": 767,
+          "title": "“This song has no instruments in it.”  This is cool: a...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/0049124-apocalypse-early-warning-",
+          "author": null,
+          "description": "This is clever & depressing: the Apocalypse Early Warning System tracks private jet activity. “In the event of an imminent nuclear apocalypse, we suspect that many people who have access to private jets will immediately take to the skies…”",
+          "link": "https://kottke.org/26/06/0049124-apocalypse-early-warning-",
+          "publishedOn": "2026-06-11T19:57:00.000Z",
+          "wordCount": 742,
+          "title": "This is clever & depressing: the  Apocalypse Early...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/a-hand-drawn-visual-guide-to-chili-peppers",
+          "author": null,
+          "description": "For his great visual field guide to the chili peppers of the world, Erik Gauger hand-drew 176 peppers from India, South America, Korea, Thailand, Africa, and seemingly every other place on the Earth.\nCapsaicin, the compound that makes chili peppers hot is an evolutionary filter designed to punish mammals and reward birds. Mammals feel it as pain because mammal digestion destroys seeds. Birds don’t have the receptor that detects it, so they eat the fruit, fly off, and deposit the seeds far from the plant from which they ate. The plant needed birds, and birds didn’t mind the heat, because to them there was no heat to mind.\nWhat we’ve built from that, from the paprika, the Thai bird’s eye, the ancho, the chocolate habanero, began as a dispersal mechanism. Humans entered the picture late and changed almost everything about the pepper’s form, flavor, and range. But the underlying logic is still there in every fruit: a molecule that says no to the animals who won’t deliver their seeds far from the tree.\n\n\t\nEach drawing is accompanied by a description of the pepper, where it originated, the heat level, and even what hot sauces feature it.\n\nSee also Gauger’s Hot Sauces of the World page & poster.\n\n\n \n\n        \n         \nTags: art · Erik Gauger · food · illustration",
+          "link": "https://kottke.org/26/06/a-hand-drawn-visual-guide-to-chili-peppers",
+          "publishedOn": "2026-06-11T19:00:00.000Z",
+          "wordCount": 911,
+          "title": "A Hand-Drawn Visual Guide to Chili Peppers",
+          "imageUrl": "http://kottke.org/plus/misc/images/editor-1781200571-805f09f2.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/06/0049122-john-thomsons-photos-of-c",
+          "author": null,
+          "description": "John Thomson’s photos of China (1860s-70s). “Unlike many other early photographers he didn’t spend all his time photographing palaces and ruins. He also captured a lot of daily life including peasants, merchants, and criminals.”",
+          "link": "https://kottke.org/26/06/0049122-john-thomsons-photos-of-c",
+          "publishedOn": "2026-06-11T18:00:00.000Z",
+          "wordCount": 751,
+          "title": "John Thomson’s photos of China (1860s-70s) ....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/0049121-a-close-up-look-at-some-o",
+          "author": null,
+          "description": "A close-up look at some of Spain’s oldest & most compelling cave paintings. “We lost the connection they had to this world. They led the way quite nicely and successfully, and we got…distracted.”",
+          "link": "https://kottke.org/26/06/0049121-a-close-up-look-at-some-o",
+          "publishedOn": "2026-06-11T17:00:00.000Z",
+          "wordCount": 780,
+          "title": "A close-up look at some of Spain’s oldest & most...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/0049118-solar-overtook-coal-in-th",
+          "author": null,
+          "description": "For the first time on record, solar overtook coal in the US electricity mix in May 2026. “Solar supplied a record 12.8% of US electricity, while coal fell to 12.2%, its fourth-lowest monthly share ever.”",
+          "link": "https://kottke.org/26/06/0049118-solar-overtook-coal-in-th",
+          "publishedOn": "2026-06-11T16:00:00.000Z",
+          "wordCount": 506,
+          "title": "For the first time on record,  solar overtook coal in the...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/becoming-by-max-cooper",
+          "author": null,
+          "description": "Released a few days ago, this is the official video for Max Cooper’s Becoming, directed by Brandon Eversole. It’s mesmerizing, trippy, and a little bit glitchy. The video is also notable for being so wide that it breaks YouTube’s desktop layout — anything less than stretching my browser window to the edges of my screen and I can’t read the left-most text under the video.\n\n \n\n        \n         \nTags: Brandon Eversole · Max Cooper · mesmerizing · music · video",
+          "link": "https://kottke.org/26/06/becoming-by-max-cooper",
+          "publishedOn": "2026-06-11T15:10:00.000Z",
+          "wordCount": 841,
+          "title": "Becoming by Max Cooper",
+          "imageUrl": "https://i.ytimg.com/vi/f4iSy7UYGRk/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/06/0049120-this-line-from-benoit-bla",
+          "author": null,
+          "description": "“It’s so dumb!” I quote this line from Benoit Blanc in Glass Onion like 10 times a day now. Feel free to add it to your repetoire.",
+          "link": "https://kottke.org/26/06/0049120-this-line-from-benoit-bla",
+          "publishedOn": "2026-06-11T14:20:00.000Z",
+          "wordCount": 782,
+          "title": "“It’s so dumb!” I quote  this line from Benoit Blanc in...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/0049119-billionaires-billions-are",
+          "author": null,
+          "description": "Billionaires’ Billions Are Increasing Faster Than Ever. 15 years ago, billionaires had $4.5 trillion. “Now, their combined wealth totals $20.1 trillion — an amount that is equivalent to nearly a fifth of the entire world’s total yearly output.”",
+          "link": "https://kottke.org/26/06/0049119-billionaires-billions-are",
+          "publishedOn": "2026-06-11T13:30:00.000Z",
+          "wordCount": 496,
+          "title": "Billionaires’ Billions Are Increasing Faster Than Ever ....",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/06/0049117-the-white-houses-top-scie",
           "author": null,
@@ -5321,26 +5412,6 @@
           "publishedOn": "2026-04-13T14:31:58.000Z",
           "wordCount": 486,
           "title": "Rebecca Solnit: &#8220; The United States is being...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/04/0048724-hungarian-opposition-oust",
-          "author": null,
-          "description": "Hungarian Opposition Ousts Viktor Orbán After 16 Years in Power. “Magyar…pledged to repair Hungary’s strained relationship with the EU, crack down on corruption and funnel funds towards long-neglected public services.”",
-          "link": "https://kottke.org/26/04/0048724-hungarian-opposition-oust",
-          "publishedOn": "2026-04-13T13:38:49.000Z",
-          "wordCount": 743,
-          "title": "Hungarian Opposition Ousts Viktor Orbán After 16 Years...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/04/0048674-interviews-with-five-nove",
-          "author": null,
-          "description": "Interviews with five novelists (Jesmyn Ward, Joyce Carol Oates, Jhumpa Lahiri, Ottessa Moshfegh, Margaret Atwood) on writing something true with fiction. Oates: “If you could read Toni Morrison, why would you read AI?”",
-          "link": "https://kottke.org/26/04/0048674-interviews-with-five-nove",
-          "publishedOn": "2026-04-13T13:12:46.000Z",
-          "wordCount": 752,
-          "title": "Interviews with five novelists (Jesmyn Ward, Joyce Carol...",
           "imageUrl": ""
         }
       ]
