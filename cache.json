@@ -368,6 +368,16 @@
       "siteUrl": "https://remysharp.com",
       "articles": [
         {
+          "id": "2026-06-16-e496d97b",
+          "author": null,
+          "description": "I've been catching CSS Grid Lanes in the socials this week, but somehow had it in my head that it was to do with the gaps (the lanes) between the grid.\nIt's not, it's masonry (which, why not display: masonry 🤷\nThere's a also a decent (albeit stiff) video on how it works.\nTL;DR: mostly you can swap display: grid for display: grid-lanes (but Jeremy goes further to actually add the CSS support check first).\nSource: adactio.com",
+          "link": "https://remysharp.com/links/2026-06-16-e496d97b",
+          "publishedOn": "2026-06-16T14:46:39.000Z",
+          "wordCount": 561,
+          "title": "Enhancing with CSS Grid Lanes [link]",
+          "imageUrl": null
+        },
+        {
           "id": "2026-06-15-e715aced",
           "author": null,
           "description": "The UK government has announced they're going ahead with a social media ban for 16 year old and under.\nIn our household we've already had this restriction in place (at a network/DNS level) so it doesn't impact our kids experiences at all, but I do know from talking to the kids that the do wish their friends had it too. I would add that I'm in no doubt that kids will find work arounds, but the larger effect of this, I think, is important.\nA few quotes that interest me from the GOV.UK news post:\n\nThe ban will therefore include platforms like Snapchat, TikTok, YouTube, Instagram, Facebook and X. We do not intend for messaging services like WhatsApp and Signal to be included in the social media ban\n\nI'm assuming that \"like\" refers to the user-to-user definition, and I'd expect or hope to see pretty clear definitions (though the government doesn't particularly have a track record on clear definitions).\n\nThe government will also be looking in more detail at overnight curfews and breaks in infinite scrolling for under-18-year-olds and will set out more detail in July.\n\nIn particular the breaks in infinite scrolling - though I've been personally arguing that it could be banned altogether - the only function it serves from a UX perspective is \"stickiness\" aka - addition.\nI'm sceptical about the implementation rules and I'm particularly worried about how the government goes about setting the definitions of what products will need to do.\nSource: www.gov.uk",
@@ -798,6 +808,26 @@
       "feedUrl": "https://blog.mozilla.org/en/feed/",
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
+        {
+          "id": "https://blog.mozilla.org/?p=86157",
+          "author": "Mozilla",
+          "description": "Firefox gives you many ways to make the browser your own, from privacy settings and AI controls to tab management, custom colors, and more. As we continue to improve Firefox, you get more control over how it works for you. Today, we’re introducing a redesigned settings experience that makes your options easier to find, understand, […]\nThe post Firefox is easier than ever to customize appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/firefox/firefox-settings/",
+          "publishedOn": "2026-06-16T12:58:29.000Z",
+          "wordCount": 1559,
+          "title": "Firefox is easier than ever to customize",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/06/SRD-Distilled_Hero-1080x720.png"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=86156",
+          "author": "Mozilla",
+          "description": "Firefox has been busy introducing updates across productivity, privacy and AI. From Project Nova and browser-wide AI controls to expanded privacy protections and new ways to stay organized, the goal is simple: help you spend less time managing your browser and more time getting things done online. But building the best browser isn’t just about […]\nThe post What’s new in Firefox this June, and what’s next on the Firefox roadmap appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/firefox/firefox-roadmap-152/",
+          "publishedOn": "2026-06-16T12:57:54.000Z",
+          "wordCount": 2113,
+          "title": "What’s new in Firefox this June, and what’s next on the Firefox roadmap",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/06/Firefox_Distilled_Roadmap-1080x720.png"
+        },
         {
           "id": "https://blog.mozilla.org/?p=86051",
           "author": "Mozilla",
@@ -1395,16 +1425,6 @@
           "wordCount": 4877,
           "title": "Pluralistic: Comrade Trump (20 Apr 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=12698",
-          "author": "Cory Doctorow",
-          "description": "Today's links Georgia's voting technology blunder: It's possible for Dominion machines to suck, but not in the way that Tucker Carlson says they do. Hey look at this: Delights to delectate. Object permanence: GWB's illegal iPod; McDonald's breakfast sandwich fanfic; Technofeudal debt; \"The Everything Box\"; $100m deli. Upcoming appearances: Los Angeles, San Francisco, London, Berlin, NYC, Barcelona, Hay-on-Wye, London, NYC. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Georgia's voting technology blunder (permalink) Nearly 25 years ago, in the aftermath of Bush v Gore, I got involved in a bunch of ugly tech policy fights over voting machines. The hanging chad debacle …",
-          "link": "https://pluralistic.net/2026/04/18/dominion-sucks-actually/",
-          "publishedOn": "2026-04-18T13:00:44.000Z",
-          "wordCount": 4446,
-          "title": "Pluralistic: Georgia's voting technology blunder (18 Apr 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -1453,6 +1473,106 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/06/0049155-is-this-the-sloppiest-ai-",
+          "author": null,
+          "description": "Is this the sloppiest AI slop video of all time? The AI-generated voiceover (at ~6:45) gets tripped up saying “what WWE” and basically sings Daisy Bell for more than 10 minutes until someone kicks the server.",
+          "link": "https://kottke.org/26/06/0049155-is-this-the-sloppiest-ai-",
+          "publishedOn": "2026-06-16T20:28:00.000Z",
+          "wordCount": 488,
+          "title": "Is this the sloppiest AI slop video of all time?  The...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/0049160-music-from-the-films-of-w",
+          "author": null,
+          "description": "If I lived in LA, I would go to this concert at the Hollywood Bowl: Music From the Films of Wes Anderson. “Over three nights, musicians including Beck, Jenny Lewis, Jackson Browne, and Mothersbaugh himself perform favorite songs, scores…”",
+          "link": "https://kottke.org/26/06/0049160-music-from-the-films-of-w",
+          "publishedOn": "2026-06-16T19:38:00.000Z",
+          "wordCount": 801,
+          "title": "If I lived in LA, I would go to this concert at the...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/0049158-spielberg-faces",
+          "author": null,
+          "description": "Disclosure Day surely sets a world record for the number of Spielberg Faces.",
+          "link": "https://kottke.org/26/06/0049158-spielberg-faces",
+          "publishedOn": "2026-06-16T18:47:03.000Z",
+          "wordCount": 828,
+          "title": "Disclosure Day surely sets a world record for the number...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/walter-whites-big-hat",
+          "author": null,
+          "description": "In this modified scene from Breaking Bad, Walter White’s hat grows in proportion to his ego. YT commenter: “He was just brimming with confidence.” Could be time for a BB rewatch. (via @ernie.tedium.co)\n\n \n\n        \n         \nTags: Breaking Bad · remix · TV · video",
+          "link": "https://kottke.org/26/06/walter-whites-big-hat",
+          "publishedOn": "2026-06-16T17:28:00.000Z",
+          "wordCount": 705,
+          "title": "Walter White’s Big Hat",
+          "imageUrl": "https://i.ytimg.com/vi/PTlVtPV-Qtw/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/06/0049036-film-posters-inadvertentl",
+          "author": null,
+          "description": "“Film posters inadvertently photographed by [British] postwar town planners.” Includes posters for Help!, Shaft, Dr. No, Planet of the Apes, and many more.",
+          "link": "https://kottke.org/26/06/0049036-film-posters-inadvertentl",
+          "publishedOn": "2026-06-16T16:48:00.000Z",
+          "wordCount": 725,
+          "title": "&#8220;Film posters inadvertently photographed by...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/0049154-isnt-the-implication-that",
+          "author": null,
+          "description": "“If Platner’s past rhetoric about and treatment of women are the natural price of running a working class candidate, isn’t the implication that working class men by nature mistreat the women in their lives?”",
+          "link": "https://kottke.org/26/06/0049154-isnt-the-implication-that",
+          "publishedOn": "2026-06-16T15:58:00.000Z",
+          "wordCount": 484,
+          "title": "&#8220;If Platner’s past rhetoric about and treatment of...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/0049147-a-million-new-spacex-sate",
+          "author": null,
+          "description": "A million new SpaceX satellites will destroy the night sky — for everyone on Earth. They already have 10K satellites in orbit and they want to add a million more. 🥴",
+          "link": "https://kottke.org/26/06/0049147-a-million-new-spacex-sate",
+          "publishedOn": "2026-06-16T15:16:00.000Z",
+          "wordCount": 502,
+          "title": "A million new SpaceX satellites will destroy the night...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/new-ambient-album-from-marconi-union",
+          "author": null,
+          "description": "Marconi Union, which you might remember for creating the most relaxing song in the world, has released a new album: Multiforms: Ambient Transmissions, Vol. 3. You can watch the visual album on YouTube or stream it from a variety of sources. This went straight into my Underscore collection.\n\n \n\n        \n         \nTags: Marconi Union",
+          "link": "https://kottke.org/26/06/new-ambient-album-from-marconi-union",
+          "publishedOn": "2026-06-16T14:21:00.000Z",
+          "wordCount": 725,
+          "title": "New Ambient Album From Marconi Union",
+          "imageUrl": "https://i.ytimg.com/vi/8h1AX9jNMho/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/06/0049149-the-40-most-rage-inducing",
+          "author": null,
+          "description": "The 40 Most Rage-Inducing Problems in Tech. Like: “4. Please, please stop asking me to verify my humanity by clicking on tiny motorcycles.” and “35. To Mark Zuckerberg, specifically: Shut up about the Roman Empire.”",
+          "link": "https://kottke.org/26/06/0049149-the-40-most-rage-inducing",
+          "publishedOn": "2026-06-16T13:36:00.000Z",
+          "wordCount": 925,
+          "title": "The 40 Most Rage-Inducing Problems in Tech . Like:...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/0049157-releasing-a-flip-phone",
+          "author": null,
+          "description": "Commodore (you know, the 64 folks) is releasing a flip phone. “No social media, no browser. Runs 99% of Android apps (without Android). T9-style texting adds mindful friction. Audiophile grade HD Audio.”",
+          "link": "https://kottke.org/26/06/0049157-releasing-a-flip-phone",
+          "publishedOn": "2026-06-16T12:41:00.000Z",
+          "wordCount": 1007,
+          "title": "Commodore (you know, the 64 folks) is  releasing a flip...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/06/0049150-how-the-heck-do-solar-pan",
           "author": null,
@@ -5121,86 +5241,6 @@
           "publishedOn": "2026-04-21T12:56:04.000Z",
           "wordCount": 723,
           "title": "&#8220; The Extrapolated Futures Archive  is a...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/04/0048660-nancy-friedman-notes-the-",
-          "author": null,
-          "description": "Nancy Friedman notes the decline in quality in movie taglines. “As movies have become louder, flashier, and more expensive, their taglines have atrophied: they’re limp, lackluster, and uninspiring.”",
-          "link": "https://kottke.org/26/04/0048660-nancy-friedman-notes-the-",
-          "publishedOn": "2026-04-17T20:49:50.000Z",
-          "wordCount": 732,
-          "title": "Nancy Friedman notes the decline in quality in movie...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/04/0048752-the-16th-season-of-the",
-          "author": null,
-          "description": "The 16th season of the Dissect podcast is a deep dive into Daft Punk; here’s the 1st episode.",
-          "link": "https://kottke.org/26/04/0048752-the-16th-season-of-the",
-          "publishedOn": "2026-04-17T20:02:01.000Z",
-          "wordCount": 742,
-          "title": "The 16th season of the Dissect podcast is a deep dive...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/04/bodega-cats-of-new-york",
-          "author": null,
-          "description": "The Bodega Cats of New York project documents the working cats of NYC’s delis, bodegas, and corner stores.\nThe cat at the local deli wasn’t a pet. She knew the regulars. She kept the mice out. She gave people a reason to walk an extra block. And she was technically a violation of city health code.\nThat was six years ago. Since then, the project has documented over 150 shops, collected 13,500 petition signatures, and helped introduce the first legislation in New York City history to classify bodega cats as working animals.\n\n\t\nAvailable soon in book form.\n\n \n\n        \n         \nTags: cats · NYC · photography",
-          "link": "https://kottke.org/26/04/bodega-cats-of-new-york",
-          "publishedOn": "2026-04-17T19:05:00.000Z",
-          "wordCount": 1021,
-          "title": "Bodega Cats of New York",
-          "imageUrl": "http://kottke.org/plus/misc/images/editor-1776105389-0e0252c0.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/04/0048760-a-few-years-back-the",
-          "author": null,
-          "description": "A few years back, the Mini Cooper’s taillights were designed to look like the Union Jack flag, which is fine until you turn the blinker on and it looks like an arrow pointing in the wrong direction. I hated this design the moment I saw it on the road.",
-          "link": "https://kottke.org/26/04/0048760-a-few-years-back-the",
-          "publishedOn": "2026-04-17T18:16:04.000Z",
-          "wordCount": 783,
-          "title": "A few years back, the Mini Cooper&#8217;s taillights were...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/04/0048762-oh-my-gosh-look-at",
-          "author": null,
-          "description": "Oh my gosh, look at these tiny snow leopard cubs from the Melbourne Zoo. 🥹",
-          "link": "https://kottke.org/26/04/0048762-oh-my-gosh-look-at",
-          "publishedOn": "2026-04-17T17:30:10.000Z",
-          "wordCount": 727,
-          "title": "Oh my gosh,  look at these tiny snow leopard cubs  from...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/04/0048765-the-astronomy-picture-of-",
-          "author": null,
-          "description": "The Astronomy Picture of the Day, in which the International Space Station looks like it’s landing on the Moon.",
-          "link": "https://kottke.org/26/04/0048765-the-astronomy-picture-of-",
-          "publishedOn": "2026-04-17T16:32:39.000Z",
-          "wordCount": 724,
-          "title": "The Astronomy Picture of the Day , in which the...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/04/project-plowshare-nukes-for-peace",
-          "author": null,
-          "description": "I’d vaguely heard of Project Plowshare but good god, what a ridiculous and dangerous waste of time and money.\nAt the height of the Cold War, nuclear weapons were seen not only as devices of destruction, but also as tools for progress. Project Plowshare was a bold attempt to use atomic explosions for more practical purposes: from digging canals and creating harbors to reshaping entire landscapes. This project was designed to push the limits of what seemed possible, but instead turned into an environmental disaster.\n\n\t\nThis reminds me of that episode of the Simpsons when Homer buys a gun and uses it around the house for everything, like changing the TV channel and opening beer cans. If the only tool you have is a hammer…\n\n \n\n        \n         \nTags: Cold War · nuclear bombs · science · video",
-          "link": "https://kottke.org/26/04/project-plowshare-nukes-for-peace",
-          "publishedOn": "2026-04-17T15:45:00.000Z",
-          "wordCount": 1221,
-          "title": "Project Plowshare: Nukes for Peace!",
-          "imageUrl": "https://i.ytimg.com/vi/h3DCdWyb0cc/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/04/0048763-here-are-some-things-that",
-          "author": null,
-          "description": "“Here are some things that have been found in donation bins: A live puppy. Live Japanese grenades. An 1854 tombstone for Rebecca Jane Nye. Old skulls. A stolen Frederic Remington sculpture. Customized Air Jordans made for Spike Lee.”",
-          "link": "https://kottke.org/26/04/0048763-here-are-some-things-that",
-          "publishedOn": "2026-04-17T15:00:44.000Z",
-          "wordCount": 792,
-          "title": "&#8220; Here are some things that have been found in...",
           "imageUrl": ""
         }
       ]
