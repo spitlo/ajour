@@ -34,16 +34,6 @@
           "wordCount": null,
           "title": "Accessibility question: is nesting interactive elements bad?",
           "imageUrl": null
-        },
-        {
-          "id": "https://christianheilmann.com/?p=9824",
-          "author": "Chris Heilmann",
-          "description": "Lately I’ve been in a few podcasts and interviews and one question came up almost every time: What is left for developers to care about or define themselves with when all the code is written by AI? Here is the quick answer: being a developer was never about writing code. Code is a tool to […]",
-          "link": "https://christianheilmann.com/2026/04/21/how-do-developers-define-their-worth-when-code-is-written-by-ai/",
-          "publishedOn": "2026-04-21T09:22:17.000Z",
-          "wordCount": null,
-          "title": "How do developers define their worth when code is written by AI?",
-          "imageUrl": null
         }
       ]
     },
@@ -110,6 +100,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3261/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/side_effect.png\" title=\"Brace yourself--the chirp gets pretty weird.\" alt=\"Brace yourself--the chirp gets pretty weird.\" />",
+          "link": "https://xkcd.com/3261/",
+          "publishedOn": "2026-06-19T00:00:00.000Z",
+          "wordCount": 187,
+          "title": "Side Effect",
+          "imageUrl": "https://imgs.xkcd.com/comics/side_effect_2x.png"
+        },
         {
           "id": "https://xkcd.com/3260/",
           "author": null,
@@ -367,6 +367,26 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "2026-06-19-e5b6847a",
+          "author": null,
+          "description": "This is neat. Effectively injecting a tonne of JavaScript based sensors into the elements that ask for the particular category via data-props-for, such as:\n<div id=\"meter\" data-props-for=\"range\">\n  <input type=\"range\" min=\"0\" max=\"100\" value=\"42\">\n</div>\n\nWith CSS like:\n@container style(--live-value: 100) {\n  .gauge__num { color: var(--max-tint); }\n  .gauge__flag::after { content: 'max'; }\n}\n\nLots of useful categories too.\nSource: prop-for-that.netlify.app",
+          "link": "https://remysharp.com/links/2026-06-19-e5b6847a",
+          "publishedOn": "2026-06-19T15:51:12.000Z",
+          "wordCount": 546,
+          "title": "prop-for-that: CSS reacts, JS just listens [link]",
+          "imageUrl": null
+        },
+        {
+          "id": "2026-06-19-efb870ce",
+          "author": null,
+          "description": "Sacha has an in depth analysis of the UK's recent announcements around social media websites and children's access to them.\nI wanted to pull a few quotes:\n\nThe Internet Watch Foundation reported that child sexual extortion cases in the UK rose 72% in a single year — criminals tricking young people into sending nude images, then blackmailing them. In 97% of those cases, the victims are boys.\n\nSacha also spots this:\n\nBuried in the coverage is the acknowledgement that all adults will need to verify their age if they want to take or view nude images on their own devices. [...] You’ll have to prove you’re an adult to own and use a phone.\n\nOn one hand, to own a phone requires (since the availability of mobile phones) proof of being an adult, because to get a contract of any sort you had to have a bank account. This obviously changes with \"burner\" phones (a £10 job from ASDA) and a PAYG sim.\nOn the other hand, who am I proving I'm an adult to - which walks a weird line of privacy invasion.\nQuoted within Sacha's article is Signal's response, and exactly what I was thinking when I saw the announcement too: isn't this at odds with the UK wanting to take some kind of lead in international AI?\n\nChild safety looks like well-funded education, robust social services, and meaningful guardrails on the very AI technologies and platforms the current government is eagerly courting.\n\nAn excellent post well worth the review, regardless of parent status, it's going to affect us all.\nSource: newsletter.sachajudd.com",
+          "link": "https://remysharp.com/links/2026-06-19-efb870ce",
+          "publishedOn": "2026-06-19T10:29:59.000Z",
+          "wordCount": 752,
+          "title": "A bouncer in your pocket by Sacha Judd [link]",
+          "imageUrl": null
+        },
         {
           "id": "20-years-of-blogging",
           "author": null,
@@ -1047,6 +1067,16 @@
       "siteUrl": "https://pluralistic.net",
       "articles": [
         {
+          "id": "https://pluralistic.net/?p=12944",
+          "author": "Cory Doctorow",
+          "description": "Today's links The Big Con: Making the pile of shit bigger won't increase the number of ponies underneath it. Hey look at this: Delights to delectate. Object permanence: TVA v SETI@Home; Telemarketers v DHS batphones; Matt Stone's MPAA censorship memo; Stonehenge pocket watch; W3C v security research; Congressional mass-shooting response simulator; Dynastic wealth; Gig economy astroturf; Meta publishes your AI prompts. Upcoming appearances: LA, Menlo Park, Toronto, NYC, Philadelphia, Chicago, London, Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The Big Con (permalink) Partway through Bridget Read's unmissabl…",
+          "link": "https://pluralistic.net/2026/06/19/too-big-to-fact-check/",
+          "publishedOn": "2026-06-19T20:54:32.000Z",
+          "wordCount": 3697,
+          "title": "Pluralistic: The Big Con (19 Jun 2026)",
+          "imageUrl": null
+        },
+        {
           "id": "https://pluralistic.net/?p=12937",
           "author": "Cory Doctorow",
           "description": "Today's links AI digital sovereignty risk doesn't exist: If 'risk + AI = risk – AI', then 'AI = 0'. Hey look at this: Delights to delectate. Object permanence: Napster x librarians; Flickr API reciprocity; KFC's Mega Jug v diabetes research; Hambone virtuoso; Google fiber x binding arbitration; \"The Immortal Choir Holds Every Voice.\" Upcoming appearances: LA, Menlo Park, Toronto, NYC, Philadelphia, Chicago, London, Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. AI digital sovereignty risk doesn't exist (permalink) Back at the height of the blockchain bubble, I made a hobby of pointing out that crypto weirdos …",
@@ -1439,26 +1469,6 @@
           "publishedOn": "2026-04-22T15:24:00.000Z",
           "wordCount": 4331,
           "title": "Pluralistic: It's not a crime if we do it (to nurses) with an app (22 Apr 2026)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=12709",
-          "author": "Cory Doctorow",
-          "description": "Today's links Quinn Slobodian and Ben Tarnoff's \"Muskism: A Guide for the Perplexed\": A rocket exploding in a human face, forever. Hey look at this: Delights to delectate. Object permanence: Is sugar poison? More watch-part motorcycles; \"Something New\"; \"Seeds\"; Bulldozer fight; Facebook tonsils; Against transparency. Upcoming appearances: San Francisco, London, Berlin, NYC, Barcelona, Hay-on-Wye, London, NYC. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Quinn Slobodian and Ben Tarnoff's \"Muskism: A Guide for the Perplexed\" (permalink) Quinn Slobodian and Ben Tarnoff's Muskism: A Guide for the Perplexed seeks to describe the ideology that gave rise to Elon Musk, the…",
-          "link": "https://pluralistic.net/2026/04/21/torment-nexusism/",
-          "publishedOn": "2026-04-21T13:18:50.000Z",
-          "wordCount": 3043,
-          "title": "Pluralistic: Quinn Slobodian and Ben Tarnoff's \"Muskism: A Guide for the Perplexed\" (21 Apr 2026)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=12705",
-          "author": "Cory Doctorow",
-          "description": "Today's links Comrade Trump: Burning down the American empire to save it. Hey look at this: Delights to delectate. Object permanence: MPAA's threat-based 'education'; Cuehack; Heinlein on GWB; AT&T v the internet; British tax-havens v HMG; What is neoliberalism?; Newspaper landlords; Watch-part motorcycle; Tax havens bad; Buscemi's eyes; Sesame Street on lead poisoning. Upcoming appearances: San Francisco, London, Berlin, NYC, Barcelona, Hay-on-Wye, London, NYC. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Comrade Trump (permalink) There aren't a lot of things I agree with Mark Carney about, but there's one area where he and I are in total accord: the old, US-domina…",
-          "link": "https://pluralistic.net/2026/04/20/praxis/",
-          "publishedOn": "2026-04-20T16:44:33.000Z",
-          "wordCount": 4877,
-          "title": "Pluralistic: Comrade Trump (20 Apr 2026)",
           "imageUrl": null
         }
       ]
@@ -5466,26 +5476,6 @@
           "publishedOn": "2026-04-21T14:08:22.000Z",
           "wordCount": 522,
           "title": "It&#8217;s Getting Harder to Spot AI in Contemporary...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/04/0048771-reciprocard-start-by-sear",
-          "author": null,
-          "description": "ReciproCard: “Start by searching for your home library above to instantly see every free reciprocal agreement you qualify for.” Use this to have more options for Libby ebooks.",
-          "link": "https://kottke.org/26/04/0048771-reciprocard-start-by-sear",
-          "publishedOn": "2026-04-21T13:29:46.000Z",
-          "wordCount": 892,
-          "title": "ReciproCard : &#8220;Start by searching for your home...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/04/0048768-the-extrapolated-futures-",
-          "author": null,
-          "description": "“The Extrapolated Futures Archive is a reverse-lookup for speculative fiction. Describe a situation you are facing, and find the SF stories that already worked through the implications.”",
-          "link": "https://kottke.org/26/04/0048768-the-extrapolated-futures-",
-          "publishedOn": "2026-04-21T12:56:04.000Z",
-          "wordCount": 723,
-          "title": "&#8220; The Extrapolated Futures Archive  is a...",
           "imageUrl": ""
         }
       ]
