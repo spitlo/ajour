@@ -101,6 +101,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3262/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/sports_commentary.png\" title=\"The plural of anecdote may not be data, but the singular of data is anecdote.\" alt=\"The plural of anecdote may not be data, but the singular of data is anecdote.\" />",
+          "link": "https://xkcd.com/3262/",
+          "publishedOn": "2026-06-22T00:00:00.000Z",
+          "wordCount": 187,
+          "title": "Sports Commentary",
+          "imageUrl": "https://imgs.xkcd.com/comics/sports_commentary_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3261/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/side_effect.png\" title=\"Brace yourself--the chirp gets pretty weird.\" alt=\"Brace yourself--the chirp gets pretty weird.\" />",
@@ -823,6 +833,26 @@
       "siteUrl": "https://blog.mozilla.org/en/",
       "articles": [
         {
+          "id": "https://blog.mozilla.org/?p=86259",
+          "author": "Mark Surman",
+          "description": "Earlier this month, we officially stood up Mozilla.org: a new 501(c)(3) nonprofit created to steward the long term success of the Mozilla Project.  Over the last year or so, I’ve said a lot about how AI is reshaping the web — and how we need to simultaneously stand up for the open internet Mozilla helped build […]\nThe post The web is evolving. So are we. appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/mozilla/news/announcing-mozilla-org-new-non-profit/",
+          "publishedOn": "2026-06-23T17:59:27.000Z",
+          "wordCount": 1582,
+          "title": "The web is evolving. So are we.",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/06/Screenshot-2026-06-23-at-08-57-20-Illustration-Visual-Elements-Mozilla-Brand-936x624.png"
+        },
+        {
+          "id": "https://blog.mozilla.org/?p=86257",
+          "author": "Dennis Jackson",
+          "description": "If you’ve been running into endless CAPTCHAS or website login requests lately, you’re not imagining things.  Websites, facing a rising tide of abusive traffic from bots, are adopting increasingly aggressive countermeasures, damaging user’s experience of the web, their privacy and open access to the web.    In this post, we’ll talk about a new initiative we’re […]\nThe post Keeping the Web Open and Private in the Bot Era appeared first on The Mozilla Blog.",
+          "link": "https://blog.mozilla.org/en/privacy-security/keeping-the-web-open-and-private-in-the-bot-era/",
+          "publishedOn": "2026-06-23T15:56:54.000Z",
+          "wordCount": 2199,
+          "title": "Keeping the Web Open and Private in the Bot Era",
+          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/04/Browsing_1920x1080-1080x720.jpeg"
+        },
+        {
           "id": "https://blog.mozilla.org/?p=86157",
           "author": "Mozilla",
           "description": "Firefox gives you many ways to make the browser your own, from privacy settings and AI controls to tab management, custom colors, and more. As we continue to improve Firefox, you get more control over how it works for you. Today, we’re introducing a redesigned settings experience that makes your options easier to find, understand, […]\nThe post Firefox is easier than ever to customize appeared first on The Mozilla Blog.",
@@ -1019,6 +1049,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=12961",
+          "author": "Cory Doctorow",
+          "description": "Today's links Spying on kids to save kids from spying is very, very stupid: First they came for the VPNs. Hey look at this: Delights to delectate. Object permanence: RIP Darwin's tortoise; ISPs conspire to create copyright jail; Waxy v fair use; Broken Windows is BS; Google is a machine-learning company; \"Writing the Other\"; Canadian wealth-tax. Upcoming appearances: Toronto, NYC, Philadelphia, Chicago, London, Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Spying on kids to save kids from spying is very, very stupid (permalink) The literature on harms to kids from online platforms is complex and nuanced, rif…",
+          "link": "https://pluralistic.net/2026/06/23/destroy-the-village/",
+          "publishedOn": "2026-06-23T11:30:21.000Z",
+          "wordCount": 3278,
+          "title": "Pluralistic: Spying on kids to save kids from spying is very, very stupid (23 Jun 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=12954",
           "author": "Cory Doctorow",
@@ -1403,16 +1443,6 @@
           "wordCount": 3525,
           "title": "Pluralistic: The enshittification multiverse (27 Apr 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=12732",
-          "author": "Cory Doctorow",
-          "description": "Today's links Ada Palmer's \"Inventing the Renaissance\": A tour-de-force, a magnum opus, a work of utter brilliance. Hey look at this: Delights to delectate. Object permanence: Gloating about the dot-bomb; RIAA sues PC-less family; John Deere v infosec; Foxconn v Wisconsin; Copyfraud x torturers' reputations; \"Careless People.\" Upcoming appearances: London, Berlin, NYC, Barcelona, Hay-on-Wye, London, NYC. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Ada Palmer's \"Inventing the Renaissance\" (permalink) Ada Palmer may just be the most bewilderingly talented person I know: a genius sf writer, incredible librettist and singer, wildly innovative educator, and a leading hi…",
-          "link": "https://pluralistic.net/2026/04/25/machiavellian/",
-          "publishedOn": "2026-04-25T11:17:58.000Z",
-          "wordCount": 3399,
-          "title": "Pluralistic: Ada Palmer's \"Inventing the Renaissance\" (25 Apr 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -1461,6 +1491,86 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/06/0049204-the-us-is-in-the-middle-o",
+          "author": null,
+          "description": "Not surprising to KDO readers and I don’t really know who still needs to hear this in June 2026 but: the US is in the middle of a “rolling coup” by ultra-conservatives who are “well along the path of destroying our democracy”.",
+          "link": "https://kottke.org/26/06/0049204-the-us-is-in-the-middle-o",
+          "publishedOn": "2026-06-23T20:20:00.000Z",
+          "wordCount": 507,
+          "title": "Not surprising to KDO readers and I don’t really know who...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/0049191-yet-another-unsurprising-",
+          "author": null,
+          "description": "Yet another unsurprising article about how bigger SUVs and trucks have resulted in more pedestrian deaths in the US over the past two decades.",
+          "link": "https://kottke.org/26/06/0049191-yet-another-unsurprising-",
+          "publishedOn": "2026-06-23T19:20:00.000Z",
+          "wordCount": 472,
+          "title": "Yet another unsurprising article about how  bigger SUVs...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/room-tone",
+          "author": null,
+          "description": "For each of their on-camera interviews with filmmakers, actors, critics, and other film nerds, Criterion records 30 seconds of “room tone” that is used to cut the footage into a seamless video.\nWhen trying to explain what room tone is to someone unfamiliar with the concept, I reach for an architectural metaphor. If words are the bricks of a scene, then surely room tone is the mortar that binds them together. It gives sonic coherence to an edited piece built from different takes within the same location.\nAsking a cast and crew to observe a moment of silence is an acknowledgment that room tone cannot be faked. You cannot substitute it with a recording from another production, and you cannot generate it using artificial intelligence. It is something you capture at a specific time and place that has not occurred before and will not occur again. This is our attempt at freezing such fleeting moments — and welcoming those to come.\n\n\t\nAnd then at the end of each year, they cut the room tone recordings into a compilation video; here’s 2025’s video:\n\nAs well as 2024’s and 2023’s:\n\nI find these videos equal parts charming and meditative. As movies & TV become ever-more fast-paced and our attention bent to black rectangular pocket casinos, it’s increasingly rare to witness people sitting still with only their thoughts to occupy them. We see Humans Frantically Doing everywhere these days, but these room tone videos are a good reminder that Humans Just Being is an essential part of life as well.\n\n \n\n        \n         \nTags: Criterion Collection",
+          "link": "https://kottke.org/26/06/room-tone",
+          "publishedOn": "2026-06-23T18:23:00.000Z",
+          "wordCount": 981,
+          "title": "Room Tone",
+          "imageUrl": "https://i.ytimg.com/vi/LjBII76kdc0/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/06/0049202-giant-banana-pulled-over-",
+          "author": null,
+          "description": "Giant Banana Pulled Over in Montana: Driver Says Cops Have Stopped Him 100s Of Times. “The reason I pulled you over, that light back there, you peeled out.”",
+          "link": "https://kottke.org/26/06/0049202-giant-banana-pulled-over-",
+          "publishedOn": "2026-06-23T17:38:00.000Z",
+          "wordCount": 892,
+          "title": "Giant Banana Pulled Over in Montana: Driver Says Cops...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/some-great-deals-on-tech-stuff",
+          "author": null,
+          "description": "Amazon is doing their Prime Day sale again this summer and for those with Prime memberships, it’s a chance to upgrade some tech items at rarely seen prices. Here are a few items I’ve got my eye on:\nThe AirPods Pro 3 are still my daily headphones; I really do love them so much. They’re $180 right now, which I think is the lowest price they’ve been.\nApple’s AirPods Max 2 headphones are on sale for a ridiculous $400 (27% off)…the lowest price ever.\nI do not have the latest Kindle Paperwhite, but I just now bought one for  $125 (22% off). After a long period of foundering, I’ve gotten back into reading again and want an upgrade over the four-year-old Kindle I’m currently using.\nI don’t have one of these and reviews have been mixed (some ppl love them and some are lukewarm on them), but the pocket-sized X4 E-Book Reader is on sale for $55 (20% off). It’s so small you can attach it to the back of your phone.\nMy finger is hovered over the “add to cart” button on the 15-inch M5 MacBook Air ($1150, 20% off). I have the 15-inch M4 Air and absolutely love it…but I wouldn’t mind something a little beefier for some of the programming stuff I’ve been doing lately.\nWhile not exactly “tech”, it is technology: the KitchenAid 5.5 quart stand mixer is 40% off ($300).\nRegarding the Apple stuff on the list, it’s helpful to keep in mind that Tim Cook recently said in an interview that Apple is going to be raising their prices “to offset the surging costs of memory and storage chips”. It’s unclear when this will happen, but it makes all the current Apple deals look even better.\n\n \n\n        \n         \nTags: Amazon",
+          "link": "https://kottke.org/26/06/some-great-deals-on-tech-stuff",
+          "publishedOn": "2026-06-23T16:36:00.000Z",
+          "wordCount": 711,
+          "title": "Some Great Deals on Tech Stuff",
+          "imageUrl": "http://kottke.org/plus/misc/images/editor-1782226563-2d868c95.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/06/0049189-brexit-vote-10-years-on",
+          "author": null,
+          "description": "Brexit vote: 10 years on. “‘Absolute nightmare, shambles, and still is to this day,’ says Tony Rutherford a decade after he voted leave to save the British fishing industry.”",
+          "link": "https://kottke.org/26/06/0049189-brexit-vote-10-years-on",
+          "publishedOn": "2026-06-23T16:00:00.000Z",
+          "wordCount": 738,
+          "title": "Brexit vote: 10 years on . &#8220;&#8216;Absolute...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/0049196-this-playable-3d-rendered",
+          "author": null,
+          "description": "I love this playable 3D-rendered reel-to-reel player made by Dunstan Orchard and Kristina Dutton. Despite their virtuality, the buttons are delightfully clicky and the attention to detail is impressive.",
+          "link": "https://kottke.org/26/06/0049196-this-playable-3d-rendered",
+          "publishedOn": "2026-06-23T14:02:00.000Z",
+          "wordCount": 723,
+          "title": "I love  this playable 3D-rendered reel-to-reel player...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/0049193-step-into-a-virtual-crite",
+          "author": null,
+          "description": "Step into a virtual Criterion Closet. “A walk-in closet of 1,327 real Criterion editions, shelved in spine-number order — exactly as a true collector keeps them. Look around, read the spines, and pull any one off the shelf to inspect the case.”",
+          "link": "https://kottke.org/26/06/0049193-step-into-a-virtual-crite",
+          "publishedOn": "2026-06-23T13:03:00.000Z",
+          "wordCount": 764,
+          "title": "Step into a virtual Criterion Closet . &#8220;A walk-in...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/06/0049192-scientists-have-found-evi",
           "author": null,
@@ -5139,86 +5249,6 @@
           "publishedOn": "2026-04-26T14:19:49.000Z",
           "wordCount": 1042,
           "title": "Wow, Sabastian Sawe set a world record with a 1:59:30...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/15/02/vintage-weekly-bus-passes",
-          "author": null,
-          "description": "A collection of weekly bus passes from Milwaukee, WI. Years covered are 1930-1979. Was there a new design every single week? (via @slowernet)\n\n \n\n         \n[This is a vintage post originally from Feb 2015.]\nTags: design · timeless posts",
-          "link": "https://kottke.org/15/02/vintage-weekly-bus-passes",
-          "publishedOn": "2026-04-24T20:55:00.000Z",
-          "wordCount": 419,
-          "title": "Vintage Weekly Bus Passes",
-          "imageUrl": "http://kottke.org/plus/misc/images/milwaukee-bus-passes-01.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/04/0048807-a-papyrus-of-part-of",
-          "author": null,
-          "description": "A papyrus of part of the Iliad has been discovered in a Roman-era tomb of mummies in Egypt. “The papyrus contains a passage from Book II of Homer’s Iliad, specifically the section known as the ‘Catalogue of Ships’…”",
-          "link": "https://kottke.org/26/04/0048807-a-papyrus-of-part-of",
-          "publishedOn": "2026-04-24T20:02:42.000Z",
-          "wordCount": 822,
-          "title": "A papyrus of part of the Iliad has been discovered in a...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/04/0048799-we-had-the-idea-to",
-          "author": null,
-          "description": "“We had the idea to make a Bodoni interpretation with potato stamps, so we bought 8kg of potatoes, some knives and [started carving]. When we finally had the full alphabet we stamped it on paper, made a font out of this and called it Bodedo.”",
-          "link": "https://kottke.org/26/04/0048799-we-had-the-idea-to",
-          "publishedOn": "2026-04-24T19:05:40.000Z",
-          "wordCount": 779,
-          "title": "&#8220;We had the idea to make a Bodoni interpretation...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/04/tenfold-knottiness",
-          "author": null,
-          "description": "While reading this article about the structure of complex knots, I ran across this diagram drawn by scientist Peter Guthrie Tait in 1885 for a paper called On Knots Part III. It’s one of two figures that together show all of the possible variations of knots with 10 crossings. I think the color plus the small multiples activated the Tufte array in my brain; anyway, I love this diagram. (via damn interesting)\n(I tried for the better part of an hour to track down a high-resolution copy of Tait’s paper to no avail. There are various contenders, but nothing that includes high-res scans of both knottiness diagrams. I’m curious about this archive of the original paper but not $41 curious. If anyone has access through their institution and wants to send me a PDF, I’d love that. Update: I have a copy of the paper and will be posting updated images soon! Thank you, Michael!)\n\n \n\n        \n         \nTags: mathematics · Peter Guthrie Tait · science",
-          "link": "https://kottke.org/26/04/tenfold-knottiness",
-          "publishedOn": "2026-04-24T18:19:12.000Z",
-          "wordCount": 822,
-          "title": "Tenfold Knottiness",
-          "imageUrl": "http://kottke.org/plus/misc/images/editor-1776960165-1904b331.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/04/0048806-instead-of-losing-democra",
-          "author": null,
-          "description": "Instead of Losing Democratic Elections, What If We Just Stopped Having Them Altogether? “My goodness, imagine the efficiency. No long lines. No campaign ads. No need to pretend Wisconsin matters every four years.”",
-          "link": "https://kottke.org/26/04/0048806-instead-of-losing-democra",
-          "publishedOn": "2026-04-24T17:23:31.000Z",
-          "wordCount": 495,
-          "title": "Instead of Losing Democratic Elections, What If We Just...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/04/0048804-how-the-heck-does-shazam",
-          "author": null,
-          "description": "How The Heck Does Shazam Work? “By throwing away almost everything and keeping only a handful of landmark peaks, a noisy 5-second clip from a coffee shop becomes a set of coordinates precise enough to pinpoint one song out of millions.” Fascinating!",
-          "link": "https://kottke.org/26/04/0048804-how-the-heck-does-shazam",
-          "publishedOn": "2026-04-24T16:12:34.000Z",
-          "wordCount": 1252,
-          "title": "How The Heck Does Shazam Work?  &#8220;By throwing away...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/04/its-friday-lets-do-an-open-thread",
-          "author": null,
-          "description": "What’s on your mind lately? What’s going on in your life? Witnessed anything amazing? Anything you’d like to share with the rest of the class?\nHere in Vermont, it’s barely spring (which means it’ll probably snow at least one more time before I need to start mowing the lawn). No mountain biking yet. A local theater is playing Silence of the Lambs this weekend (35th anniversary!), so I might go do that. I’ve been working on a new post editor for KDO and it’s coming along — building software and designing interfaces is fun and maddening. Autumn is going to come with some big changes for me, and I’ve been making some progress in preparing for that.\nHows about yous?\n\n \n\n        \n         \nTags: kottke.org",
-          "link": "https://kottke.org/26/04/its-friday-lets-do-an-open-thread",
-          "publishedOn": "2026-04-24T14:54:00.000Z",
-          "wordCount": 7674,
-          "title": "It&#8217;s Friday, Let&#8217;s Do an Open Thread",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/04/0048772-1d-chess-you-might-initia",
-          "author": null,
-          "description": "1D Chess. “You might initially find it more difficult than expected, but assuming optimal play, is there a forced win for white?”",
-          "link": "https://kottke.org/26/04/0048772-1d-chess-you-might-initia",
-          "publishedOn": "2026-04-24T14:14:40.000Z",
-          "wordCount": 832,
-          "title": "1D Chess . &#8220;You might initially find it more...",
           "imageUrl": ""
         }
       ]
