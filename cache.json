@@ -101,6 +101,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3265/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/asteroid_threat.png\" title=\"Paleontologists have long worried that the dinosaurs blasted into space 66 million years ago will one day complete their orbits and fall back down.\" alt=\"Paleontologists have long worried that the dinosaurs blasted into space 66 million years ago will one day complete their orbits and fall back down.\" />",
+          "link": "https://xkcd.com/3265/",
+          "publishedOn": "2026-06-29T00:00:00.000Z",
+          "wordCount": 187,
+          "title": "Asteroid Threat",
+          "imageUrl": "https://imgs.xkcd.com/comics/asteroid_threat_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3264/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/720_ollie.png\" title=\"This discovery was key to his demonstration of regular/goofy symmetry violation, which won him gold in the theory portion of the X Games.\" alt=\"This discovery was key to his demonstration of regular/goofy symmetry violation, which won him gold in the theory portion of the X Games.\" />",
@@ -339,16 +349,6 @@
           "wordCount": 187,
           "title": "Horizontal Stabilizers",
           "imageUrl": "https://imgs.xkcd.com/comics/horizontal_stabilizers_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3240/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/bottle.png\" title=\"&quot;I know it seems impossible, but the trick is that I sailed in here when I was very young.&quot;\" alt=\"&quot;I know it seems impossible, but the trick is that I sailed in here when I was very young.&quot;\" />",
-          "link": "https://xkcd.com/3240/",
-          "publishedOn": "2026-05-01T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Bottle",
-          "imageUrl": "https://imgs.xkcd.com/comics/bottle_2x.png"
         }
       ]
     },
@@ -357,6 +357,26 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "decompressing-33-signal-bytes",
+          "author": null,
+          "description": "In my RSS reader, I stumbled upon this code-golfed (i.e. minimised to death) snippet that's fairly clever, but from the code, utterly opaque.\nI couldn't immediately see how it worked, and since Copilot autocompletes most of my code for me - whether I want to or not, I figured it was a good bit of practice to decompress and understand.\nFirst things first: snooze the little copilot bastard for an hour!",
+          "link": "https://remysharp.com/2026/06/29/decompressing-33-signal-bytes",
+          "publishedOn": "2026-06-29T00:00:00.000Z",
+          "wordCount": 984,
+          "title": "Decompressing 33 signal bytes [blog]",
+          "imageUrl": "https://remysharp.com/images/cards/og/9-0.jpg"
+        },
+        {
+          "id": "platform-decay",
+          "author": null,
+          "description": "Solid entry into the series.\nI've read all the previous Murderbot books, but since the last, I also watched the TV series - which I equally enjoyed, but…or put a weird spin on reading this latest book.\nI'd entirely forgotten the \"diary\" part, and because of the TV series, I had the external perspective and wondered why this book was both being told from Murderbot's internal monologue, but also why there was so much…noise, I guess the word would be.\nOnce I'd finally remembered that this was the actual format of the book I settled into it, reminding myself there wouldn't be huge character developments (because the diaries tend to last for one mission/episode).\nStill, the Murderbot character is in fact growing and evolving and that's fun to read.\nThe story pulled me along pretty well. Not quite the rip roaring page turner, but a solid entry all the same.\nI'm not 100% sure you could just pick this book up without having read at least a few previous books, which is why I hadn't rated it higher (the very first novellas are absolutely excellent).\nEnjoyable, even if it took me a minute to remember the specific Murderbot format.",
+          "link": "https://remysharp.com/books/2026/platform-decay",
+          "publishedOn": "2026-06-26T00:00:00.000Z",
+          "wordCount": 877,
+          "title": "Platform Decay (The Murderbot Diaries, #8) [book]",
+          "imageUrl": null
+        },
         {
           "id": "2026-06-22-4f7168d2",
           "author": null,
@@ -536,16 +556,6 @@
           "wordCount": 1437,
           "title": "A popover backdrop anti-pattern [blog]",
           "imageUrl": "https://remysharp.com/images/cards/og/9-2.jpg"
-        },
-        {
-          "id": "devtools-how-to-query-through-the-shadow-dom",
-          "author": null,
-          "description": "This is a literal TIL but was so hand I had to put it my blog so that I wouldn't later forget it.\nThanks to Big Brain Keith Cirkel for sharing this.\nAs (hopefully) you know, there's the $ and $$ functions in devtools. For querySelector and querySelectorAll respectively.\nWell there's also $$$ to query through the shadow DOM. This means the query will cut through and into the nested DOM inside of the shadow DOM making it much easier to navigate and search for elements when debugging or styling.\nBegs the question: what's going to be lurking inside of $$$$ in 5 years time!",
-          "link": "https://remysharp.com/2026/05/01/devtools-how-to-query-through-the-shadow-dom",
-          "publishedOn": "2026-05-01T00:00:00.000Z",
-          "wordCount": 589,
-          "title": "devtools: how to query through the shadow DOM [blog]",
-          "imageUrl": "https://remysharp.com/images/cards/og/9-4.jpg"
         }
       ]
     },
@@ -1010,6 +1020,16 @@
       "siteUrl": "https://pluralistic.net",
       "articles": [
         {
+          "id": "https://pluralistic.net/?p=12980",
+          "author": "Cory Doctorow",
+          "description": "Today's links Gemini is better than search because Google enshittified search: We're All Trying To Find The Guy Who Did This. Hey look at this: Delights to delectate. Object permanence: Microsoft antitrust overturned; Scammer carves C64; RIP Jim Baen; GOP rep to constituent's child: \"drop dead\" (literally); CCTVs jacked for botnet; Olympic profitability lie; Human factors in health infosec; Exfiltration via computer fans; Congress's summer schedule: 9 working days; Antitrust is political antigrav; Ted Chiang's 72 Letters; Microsoft antitrust appeal; Vinge on privacy; Breaking open the web; Bernie on Brexit; \"The Perdition Score\"; Intuit v Child Tax Credit. Upcoming appearances: London, Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I've been. Latest b…",
+          "link": "https://pluralistic.net/2026/06/29/arsonist-firefighters/",
+          "publishedOn": "2026-06-29T16:34:57.000Z",
+          "wordCount": 3891,
+          "title": "Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)",
+          "imageUrl": null
+        },
+        {
           "id": "https://pluralistic.net/?p=12977",
           "author": "Cory Doctorow",
           "description": "Today's links Zuckerberg's increasingly bizarre war on whistleblowers: Under no circumstances should you rush out and read the book that prompted Mark Zuckerberg to demand $111m and eternal auctorial silence. Hey look at this: Delights to delectate. Object permanence: Flame warriors; Cryptography and casinos; TSA v dying 95 year old woman's adult diaper; Neoliberalism and Brexit; Beyond solutionism; How Thiel cheated with his Roth; Inequality's stabilizer; Palm Pilot school; Gillmor on PR flacks; \"How I Edited an Agricultural Paper; Conservative judge chokes liberal judge; Hollywoodnomics; Rubber fingertips v fingerprint readers; Snowden's telepresence robot; \"Shrill\"; Moral hazard, \"Three Rocks.\" Upcoming appearances: London, Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Rec…",
@@ -1398,16 +1418,6 @@
           "wordCount": 3677,
           "title": "Pluralistic: The prehistory of the Democratic Nuremberg Caucus (02 May 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=12748",
-          "author": "Cory Doctorow",
-          "description": "Today's links How not to ban surveillance pricing: Maryland's new consumer protection law is all loophole. Hey look at this: Delights to delectate. Object permanence: Google's 8,000 Linux servers; Battleshoe; Knitted potholes; Unpack the court; \"Robot Artists and Black Swans\"; Enshittifying tech jobs. Upcoming appearances: Berlin, NYC, Barcelona, Hay-on-Wye, London, NYC. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. How not to ban surveillance pricing (permalink) If you want to piss me off, it's easy: just breezily assert that our tech regulation problems are the result of the fast pace of technological change racing ahead of the plodding speed of governmental action…",
-          "link": "https://pluralistic.net/2026/04/30/something-must-be-done/",
-          "publishedOn": "2026-04-30T14:38:35.000Z",
-          "wordCount": 3977,
-          "title": "Pluralistic: How not to ban surveillance pricing (30 Apr 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -1456,6 +1466,76 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/06/0049231-a-tour-of-some-playground",
+          "author": null,
+          "description": "A tour of some playgrounds in NYC designed by kids, with features like pollinator gardens, hair-braiding stations, a floor-is-lava obstacle course, and human-sized chess boards. Love it — children should get way more of a say w/ stuff like this.",
+          "link": "https://kottke.org/26/06/0049231-a-tour-of-some-playground",
+          "publishedOn": "2026-06-29T22:00:00.000Z",
+          "wordCount": 890,
+          "title": "A tour of some playgrounds in NYC designed by kids ,...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/0049227-on-decision-fatigue",
+          "author": null,
+          "description": "On decision fatigue: “Why are you so tired? The answer has to do with how many times you’ve had to make a decision throughout the day.” And: “The quality of our decisions deteriorates as we accumulate previous decisions.”",
+          "link": "https://kottke.org/26/06/0049227-on-decision-fatigue",
+          "publishedOn": "2026-06-29T21:00:00.000Z",
+          "wordCount": 1056,
+          "title": "On decision fatigue : &#8220;Why are you so tired? The...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/0049233-christian-marclays-the-cl",
+          "author": null,
+          "description": "If you’ve never seen it (or even if you have), Christian Marclay’s The Clock will be showing at LACMA from July 26 to August 23, including two 24-hour showings.",
+          "link": "https://kottke.org/26/06/0049233-christian-marclays-the-cl",
+          "publishedOn": "2026-06-29T19:00:00.000Z",
+          "wordCount": 782,
+          "title": "If you’ve never seen it (or even if you have),  Christian...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/phyllis-the-goat-and-the-senior-league-wii-bowling-champions",
+          "author": null,
+          "description": "Senior living communities generally don’t go viral or gain media attention for positive reasons, so it’s nice to see this story about the University Village Retirement Community in Tulsa, Oklahoma and their champion Wii bowling team.\nOn this recent Thursday in June, their hopes are pinned on Phyllis Wimer, known as Phyllis Killer or Phyllis the GOAT for the many strikes she bowls; Charlene “the Grasshopper” Giles, whose hop gives her some extra oomph as she releases the ball; “Marvelous” Marcia Ness, who describes herself as a “tough old broad,” ready to bowl after recovering from a broken wrist and back; and “Rollin’” Ron Demaree, who grips the lower-left handlebar on his motorized wheelchair to propel himself upward and forward for more power in his roll.\n\n\t\nPhyllis the GOAT is 95 years old and rolls 300s in practice sessions like it’s nothing. Here’s a local news segment on the team from a few months ago:\n\nI was very into Wii Sports 20 years ago (!!!) and still occasionally play Switch Sports with the kids (golf, bowling, and tennis mostly). They’re great party/gathering games and evidently also great for staying active and sharp in your 90s.\n\n \n\n        \n         \nTags: bowling · Nintendo · sports · video · video games · Wii",
+          "link": "https://kottke.org/26/06/phyllis-the-goat-and-the-senior-league-wii-bowling-champions",
+          "publishedOn": "2026-06-29T17:00:00.000Z",
+          "wordCount": 933,
+          "title": "Phyllis the GOAT and the Senior League Wii Bowling Champions",
+          "imageUrl": "https://i.ytimg.com/vi/bxxojmQF45s/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/06/0049180-a-retro-70s-tv-intro-for-",
+          "author": null,
+          "description": "A Retro 70s TV Intro for Andor. “Get ready to travel to a far away galaxy that existed a long, long time ago. It’s the science fiction spectacular…ANDOR.”",
+          "link": "https://kottke.org/26/06/0049180-a-retro-70s-tv-intro-for-",
+          "publishedOn": "2026-06-29T15:50:00.000Z",
+          "wordCount": 769,
+          "title": "A Retro 70s TV Intro for Andor . &#8220;Get ready to...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/maybe-it-will-happen-today",
+          "author": null,
+          "description": "On Friday, I got a bee in my bonnet that this t-shirt should exist and so I made it and now you can buy it. The shirt is simple, straightforward, $25 (+s&h), and ships all over the world.\nA promotion. Making a new friend. Or the big cork-popping event; you know the one. Today could be the day!\n\n\t\nMaybe it’ll even happen before the shirt reaches your mailbox! We should be so lucky.\nThanks to Dan Cederholm at SimpleBits for his Free Lunch font and to Fourthwall for handling the shopping, printing, and fulfillment.\nOh, and I also zhuzhed up the Goods page, where you can still get the Hypertext, Process, and Choppke’s tees. More fine not-hypertext products to come soon.\n\n \n\n        \n         \nTags: fashion · kottke.org",
+          "link": "https://kottke.org/26/06/maybe-it-will-happen-today",
+          "publishedOn": "2026-06-29T14:00:00.000Z",
+          "wordCount": 945,
+          "title": "Maybe It Will Happen Today",
+          "imageUrl": "http://kottke.org/plus/misc/images/editor-1782669996-5a482830.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/06/0049226-the-writers-who-wrote-the",
+          "author": null,
+          "description": "The Writers Who Wrote The Most in History. “Corin Tellado published more than 4,000 novels, mostly under a contract with Spanish publisher Bruguera, which obligated her to deliver a 76-page novel every single week for years.”",
+          "link": "https://kottke.org/26/06/0049226-the-writers-who-wrote-the",
+          "publishedOn": "2026-06-29T13:04:31.000Z",
+          "wordCount": 1040,
+          "title": "The Writers Who Wrote The Most in History . &#8220;Corin...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/06/0049222-who-wins-the-2026-world-c",
           "author": null,
@@ -5055,26 +5135,6 @@
           "wordCount": 1791,
           "title": "The Secret to Success Is &#8216;Monotasking&#8217; ....",
           "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/04/farewell-voting-rights-act",
-          "author": null,
-          "description": "Adam Serwer writing about the yesterday’s Supreme Court decision that guts much of whatever remains of the Voting Rights Act:\nIn states with large Black populations that remain under Republican control — half of the Black American population resides in the South — lawmakers will now be able to draw districts that dilute Black residents’ voting power. In his opinion for the right-wing majority, Justice Samuel Alito wrote that “in considering the constitutionality of a districting scheme, courts must treat partisan advantage like any other race-neutral aim: a constitutionally permissible criterion that States may rely on as desired.” The Court’s decision is consonant with the philosophy, articulated by Kilpatrick in his earlier days, that the state is oppressive when it interferes with the r…",
-          "link": "https://kottke.org/26/04/farewell-voting-rights-act",
-          "publishedOn": "2026-04-30T16:14:36.000Z",
-          "wordCount": 2015,
-          "title": "Farewell, Voting Rights Act",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/04/0048852-come-on-everyone-were-goi",
-          "author": null,
-          "description": "Come on everyone, we’re going to Cursor Camp!",
-          "link": "https://kottke.org/26/04/0048852-come-on-everyone-were-goi",
-          "publishedOn": "2026-04-30T15:21:02.000Z",
-          "wordCount": 672,
-          "title": "Come on everyone, we&#8217;re going to  Cursor Camp !",
-          "imageUrl": ""
         }
       ]
     },
@@ -5092,16 +5152,6 @@
           "wordCount": 11959,
           "title": "“Big Eight Wheeler Roll On” by Lee Rose — Back Phrasing in the Extreme",
           "imageUrl": "https://www.zeroto180.org/wp-content/uploads/2026/05/Lee-Rose-finale-thumbnail.jpg"
-        },
-        {
-          "id": "https://www.zeroto180.org/?p=141894",
-          "author": "Zeroto180",
-          "description": "These selected highlights from Broadcast Music Inc.’s one-time print periodical, BMI: The Many Worlds Of Music, reflect a particularly vibrant time in music and the arts, both domestically in the United States and abroad. BMI: The Many Worlds Of Music July 1966 At the request of the United States Information Agency, BMI supplied 15,000 copies […]\nThe post BMI’s Back Pages – Highlights From Past Issues of ‘The Many Worlds Of Music’ = 1966-1973 appeared first on Zero to 180 - Three Minute Magic.",
-          "link": "https://www.zeroto180.org/bmis-back-pages-highlights-from-past-issues-of-the-many-worlds-of-music-1966-1973/",
-          "publishedOn": "2026-04-30T22:37:53.000Z",
-          "wordCount": 39062,
-          "title": "BMI’s Back Pages – Highlights From Past Issues of ‘The Many Worlds Of Music’ = 1966-1973",
-          "imageUrl": "https://www.zeroto180.org/wp-content/uploads/2026/04/BMI-The-Many-Worlds-of-Music-thumbnail-test-d.jpg"
         }
       ]
     },
