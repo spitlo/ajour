@@ -358,6 +358,16 @@
       "siteUrl": "https://remysharp.com",
       "articles": [
         {
+          "id": "2026-06-30-99723827",
+          "author": null,
+          "description": "A long article (23 min read!) on the rebuild of MDN away from React and into Web Components.\nThere's lots in there, but I particularly like the section starting Web Components that writes about how they're progressively enhancing and how there's thought to the components (such as their mdn-dropdown styles).\nI also really like this pattern where modules are auto-loaded and it's easy to switch JS enabled modules off for testing:\nfor (const element of document.querySelectorAll(\"*\")) {\n  const tag = element.tagName.toLowerCase();\n  if (tag.startsWith(\"mdn-\")) {\n    const component = tag.replace(\"mdn-\", \"\");\n    import(`../components/${component}/element.js`);\n  }\n}\n\nSource: developer.mozilla.org",
+          "link": "https://remysharp.com/links/2026-06-30-99723827",
+          "publishedOn": "2026-06-30T14:04:43.000Z",
+          "wordCount": 580,
+          "title": "Under the hood of MDN's new frontend [link]",
+          "imageUrl": null
+        },
+        {
           "id": "decompressing-33-signal-bytes",
           "author": null,
           "description": "In my RSS reader, I stumbled upon this code-golfed (i.e. minimised to death) snippet that's fairly clever, but from the code, utterly opaque.\nI couldn't immediately see how it worked, and since Copilot autocompletes most of my code for me - whether I want to or not, I figured it was a good bit of practice to decompress and understand.\nFirst things first: snooze the little copilot bastard for an hour!",
@@ -978,16 +988,6 @@
           "wordCount": 478,
           "title": "Links to CSS colour palettes",
           "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2026/05/02/testing-vue-components-in-the-browser/",
-          "author": null,
-          "description": "Hello! One of my long term projects on here is\nfiguring out how to write frontend Javascript without using Node\nor any other server JS runtime.\nOne issue I run into a lot in my frontend JS projects is that I don’t know how\nto write tests for them. I’ve tried to use Playwright in the past, but it felt\nslow and unwieldy to be starting these new browser processes all the time, and\nit involved some Node code to orchestrate the tests.\nThe result is that I just don’t test my frontend code which doesn’t feel great.\nUsually I don’t update my projects much either so it doesn’t come up that much,\nbut it would be nice to be able to make changes with more confidence!\nSo a way to do frontend testing that I like has been on my wishlist for a long time.\nidea: just run the tests in the browser tab\nAlex Ch…",
-          "link": "https://jvns.ca/blog/2026/05/02/testing-vue-components-in-the-browser/",
-          "publishedOn": "2026-05-02T00:00:00.000Z",
-          "wordCount": 1924,
-          "title": "Testing Vue components in the browser",
-          "imageUrl": null
         }
       ]
     },
@@ -1012,13 +1012,34 @@
       "title": "A List Apart: The Full Feed",
       "feedUrl": "https://alistapart.com/main/feed/",
       "siteUrl": "https://alistapart.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://alistapart.com/article/designed-for-a-dead-language/",
+          "author": "by",
+          "description": "Every language app in your pocket inherited a teaching method built for Latin. Understanding why that happened is a more useful design lesson than anything the apps themselves will teach you.\nIn 1788, Prussia introduced the Abitur, a standardized national examination required for entry into universities and the civil service. To pass it, students needed to demonstrate measurable, gradable knowledge. The system needed to teach language to large classrooms, produce consistent outcomes, and do it with one teacher and thirty students. The educators responsible for designing this system reached for the only teaching template they had, one that had been used in European schools for two centuries: the method developed to teach Latin.\nLatin, by 1788, was a dead language. Nobody needed to speak it.…",
+          "link": "https://alistapart.com/article/designed-for-a-dead-language/",
+          "publishedOn": "2026-06-30T16:22:27.000Z",
+          "wordCount": 3545,
+          "title": "Designed for a Dead Language",
+          "imageUrl": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9hbGlzdGFwYXJ0LmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxOVwvMDNcL2Nyb3BwZWQtaWNvbl9uYXZpZ2F0aW9uLWxhdXJlbC01MTIuanBnP2ZpdD01MTIlMkM1MTImcXVhbGl0eT04OSZzc2w9MSIsInR4dCI6IkEgTGlzdCBBcGFydCIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxNTgwOTQ3MjZ9.0oP5GNj3vHR_yLJaXkr_AaWMuS_ItN_HPB-deU1HBBgMQ"
+        }
+      ]
     },
     {
       "title": "Pluralistic: Daily links from Cory Doctorow",
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=12985",
+          "author": "Cory Doctorow",
+          "description": "Today's links Jo Walton's \"Everybody's Perfect\": A mystical tour-de-force that makes you feel like your mundane life until this point has all been a boring dream. Hey look at this: Delights to delectate. Object permanence: Corruption; How much (little) are the AI companies making? Upcoming appearances: London, Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Jo Walton's \"Everybody's Perfect\" (permalink) There's a new Jo Walton book, called Everybody's Perfect. Because it's a Jo Walton novel, you know in advance that three things are true about it: It is beautiful; It is profound; It is unlike every other novel,…",
+          "link": "https://pluralistic.net/2026/06/30/serenissima/",
+          "publishedOn": "2026-06-30T11:22:50.000Z",
+          "wordCount": 3177,
+          "title": "Pluralistic: Jo Walton's \"Everybody's Perfect\" (30 Jun 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=12980",
           "author": "Cory Doctorow",
@@ -1408,16 +1429,6 @@
           "wordCount": 4232,
           "title": "Pluralistic: Demand destruction vs fuel-superseding infrastructure (04 May 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=12760",
-          "author": "Cory Doctorow",
-          "description": "Today's links The prehistory of the Democratic Nuremberg Caucus: Do bounties for ICE whistleblowers next! Hey look at this: Delights to delectate. Object permanence: Colbert v GWB; Wallaby milk; Jay Rosen's journalism precepts; Radical Media(TM); What is carried interest? TCP over pigeon; BNL v copyright; RIP Joanna Russ; GOP forcing students to repay scam loans. Upcoming appearances: Berlin, NYC, Barcelona, Hay-on-Wye, London, NYC. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The prehistory of the Democratic Nuremberg Caucus (permalink) Comrade Trump continues his unbroken streak of destroying the American empire's grip on the world, hastening the renewables transi…",
-          "link": "https://pluralistic.net/2026/05/02/denazification/",
-          "publishedOn": "2026-05-02T11:22:11.000Z",
-          "wordCount": 3677,
-          "title": "Pluralistic: The prehistory of the Democratic Nuremberg Caucus (02 May 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -1466,6 +1477,66 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/06/0049235-playwright-georgica-pettu",
+          "author": null,
+          "description": "Playwright Georgica Pettus has written a play called Truck, which is based on the excellent documentary Hands on a Hardbody. “I thought, ‘This is the best premise for a play, because all the attention goes to the dialogue.’”",
+          "link": "https://kottke.org/26/06/0049235-playwright-georgica-pettu",
+          "publishedOn": "2026-06-30T22:10:00.000Z",
+          "wordCount": 813,
+          "title": "Playwright Georgica Pettus has written a play called...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/0049234-what-is-queer-typography",
+          "author": null,
+          "description": "What is queer typography? “I think that covers a lot of what queerness means: an attitude in the face of conformity, an attitude in the sea of passivity, an attitude to say yes when others say no.”",
+          "link": "https://kottke.org/26/06/0049234-what-is-queer-typography",
+          "publishedOn": "2026-06-30T21:23:33.000Z",
+          "wordCount": 761,
+          "title": "What is queer typography?  &#8220;I think that covers a...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/0049241-ddd",
+          "author": null,
+          "description": "Gah, this is another thing I’m completely fucking pissed about today: Supreme Court upholds bans on transgender athletes participating in women and girls’ sports.",
+          "link": "https://kottke.org/26/06/0049241-ddd",
+          "publishedOn": "2026-06-30T14:47:00.000Z",
+          "wordCount": 612,
+          "title": "Gah, this is another thing I’m completely fucking pissed...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/0049240-great-piece-by-andrea-pit",
+          "author": null,
+          "description": "Great piece by Andrea Pitzer on how lost Ezra Klein is in this current moment, newly relevant because he interviewed fascist activist Christopher Rufo on his NYT podcast (JFC!) “If you don’t know what your core beliefs are, you’re going to get played.”",
+          "link": "https://kottke.org/26/06/0049240-great-piece-by-andrea-pit",
+          "publishedOn": "2026-06-30T14:15:45.000Z",
+          "wordCount": 1565,
+          "title": "Great piece by Andrea Pitzer on how lost Ezra Klein is...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/0049238-this-ai-compass-quiz",
+          "author": null,
+          "description": "I found this AI Compass quiz genuinely useful for pinpointing how I actually feel about various aspects of AI. At the same time, I don’t think my result (“The Kontextmaschine”) quite fits…",
+          "link": "https://kottke.org/26/06/0049238-this-ai-compass-quiz",
+          "publishedOn": "2026-06-30T13:58:00.000Z",
+          "wordCount": 1119,
+          "title": "I found  this AI Compass quiz  genuinely useful for...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/06/0049237-we-crunched-the-data-ther",
+          "author": null,
+          "description": "There’s a Grocery Price Emergency in America. “Our research shows that even relatively well-off families are struggling with high prices… President Trump and Congress are neither investing in long-term solutions nor offering short-term relief.”",
+          "link": "https://kottke.org/26/06/0049237-we-crunched-the-data-ther",
+          "publishedOn": "2026-06-30T13:13:34.000Z",
+          "wordCount": 625,
+          "title": "There’s a Grocery Price Emergency in America....",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/06/0049231-a-tour-of-some-playground",
           "author": null,
@@ -5025,116 +5096,6 @@
           "wordCount": 1015,
           "title": "How Sylvester Stallone Rescued the First Rambo Film With...",
           "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/05/0048859-is-ai-the-next-phase-of-e",
-          "author": null,
-          "description": "Ohhhhh dear, Richard Dawkins: Is AI the Next Phase of Evolution? Claude Appears to Be Conscious. “My conversations with several Claudes and ChatGPTs have convinced me that these intelligent beings are at least as competent as any evolved organism.” 😬",
-          "link": "https://kottke.org/26/05/0048859-is-ai-the-next-phase-of-e",
-          "publishedOn": "2026-05-01T21:52:00.000Z",
-          "wordCount": 982,
-          "title": "Ohhhhh dear, Richard Dawkins:  Is AI the Next Phase of...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/05/0048840-unruly-play-a-collection-",
-          "author": null,
-          "description": "Unruly Play: “A collection of 169 works of play in unlikely places. Games about unusual things. Unexpected encounters.”",
-          "link": "https://kottke.org/26/05/0048840-unruly-play-a-collection-",
-          "publishedOn": "2026-05-01T21:28:19.000Z",
-          "wordCount": 722,
-          "title": "Unruly Play : &#8220;A collection of 169 works of play...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/05/0048813-ada-palmer-bruce-schneier",
-          "author": null,
-          "description": "Ada Palmer & Bruce Schneier: AI Learns Language From Skewed Sources. That Could Change How We Humans Speak – and Think. “Our sense of the world may become distorted in ways we have barely begun to comprehend.”",
-          "link": "https://kottke.org/26/05/0048813-ada-palmer-bruce-schneier",
-          "publishedOn": "2026-05-01T20:42:33.000Z",
-          "wordCount": 511,
-          "title": "Ada Palmer & Bruce Schneier:  AI Learns Language From...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/05/who-merits-the-longest-ny-times-obituaries",
-          "author": null,
-          "description": "Using the NY Times Archive API, journalist Ted Alcorn built Below the Fold, a dashboard through which you can explore the last 25 years of Times coverage: 2.2 million articles containing 1.5 billion words. You can slice and dice this data in a bunch of different ways — it’s a fantastic resource.\nOne of the site’s sections is about obituaries. From that data, Alcorn produced this infographic of whose obits contained the highest word count:\n\nAs you can see, it’s a lot of world leaders, religious leaders, politicians, and white men. There only appear to be five women on the list. Notable non-politicians include Aleksandr Solzhenitsyn, Muhammad Ali, and Charles Schulz.\nThe whole dashboard is fun/enlightening to explore.\n\n \n\n        \n         \nTags: infoviz · journalism · NY Times · obituaries · Ted Alcorn",
-          "link": "https://kottke.org/26/05/who-merits-the-longest-ny-times-obituaries",
-          "publishedOn": "2026-05-01T19:55:00.000Z",
-          "wordCount": 850,
-          "title": "Who Merits the Longest NY Times Obituaries?",
-          "imageUrl": "http://kottke.org/plus/misc/images/editor-1777650907-6fe143ac.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/05/0048823-amam-i-alternatively-infl",
-          "author": null,
-          "description": "Am…am I “alternatively influential”? Defined roughly as “public thinkers and tastemakers who have real clout in their own demesnes despite only modest internet followings”.",
-          "link": "https://kottke.org/26/05/0048823-amam-i-alternatively-infl",
-          "publishedOn": "2026-05-01T19:04:25.000Z",
-          "wordCount": 1097,
-          "title": "Am&#8230;am I  &#8220;alternatively influential&#8221; ?...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/05/the-supreme-court-is-corrupt-this-is-what-we-can-do-about-it",
-          "author": null,
-          "description": "This is excellent: Jamelle Bouie explains why he thinks the Supreme Court is corrupt and what we (through Congress) can do about it. Not all video transcripts work as text, but this one does, so I’m including his full remarks here: \nThe Supreme Court is corrupt.\nYou might hear that and think, “Well, Jamelle, you just disagree with the rulings. They’re not corrupt. They’re doing their jobs.” But I want to posit to you that they’re not doing their jobs. They’re in fact doing something very different. They’re acting as a super legislature, an unelected group of people who have taken it upon themselves to correct Congress. Not when Congress has overstepped its bounds, not when Congress has overstepped its powers, but when the court simply doesn’t like what they’re doing.\nTypically when we use …",
-          "link": "https://kottke.org/26/05/the-supreme-court-is-corrupt-this-is-what-we-can-do-about-it",
-          "publishedOn": "2026-05-01T18:15:00.000Z",
-          "wordCount": 2512,
-          "title": "The Supreme Court Is Corrupt. This Is What We Can Do About It.",
-          "imageUrl": "https://i.ytimg.com/vi/SRzS61buXkQ/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/05/the-film-that-attacks-you",
-          "author": null,
-          "description": "For his latest video essay, Evan Puschak tells us about Un Chien Andalou, the pioneering surrealist short film by Luis Buñuel and Salvador Dalí. The film is particularly notable for a shocking shot in the opening scene, which, if you’ve seen it, you’ve likely never forgotten. Said Buñuel of the film:\nThis film has no intention of attracting nor pleasing the spectator; indeed, on the contrary, it attacks him, to the degree that he belongs to a society with which surrealism is at war.\n\n\t\nYou can watch Un Chien Andalou on YouTube:\n\nOne wonders what Buñuel and Dalí would have made of YouTube…\n\n \n\n        \n         \nTags: art · film school · Luis Buñuel · movies · Salvador Dali · Un Chien Andalou · video",
-          "link": "https://kottke.org/26/05/the-film-that-attacks-you",
-          "publishedOn": "2026-05-01T17:15:00.000Z",
-          "wordCount": 951,
-          "title": "The Film That Attacks You",
-          "imageUrl": "https://i.ytimg.com/vi/sj1y9FDJKCM/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/05/0048855-i-fixed-a-few-bugs",
-          "author": null,
-          "description": "I fixed a few bugs on the Rolodex yesterday — some of the feeds weren’t updating and modifying sites wasn’t working properly. (Members get the mini-feedreader view!)",
-          "link": "https://kottke.org/26/05/0048855-i-fixed-a-few-bugs",
-          "publishedOn": "2026-05-01T16:37:26.000Z",
-          "wordCount": 740,
-          "title": "I fixed a few bugs on  the Rolodex  yesterday — some of...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/05/0048845-since-1900-scientists-hav",
-          "author": null,
-          "description": "“Since 1900, scientists have observed more than 20 phases of ice, many of them shaped under extreme conditions. The growing list includes hot ice and even ice that conducts electricity.”",
-          "link": "https://kottke.org/26/05/0048845-since-1900-scientists-hav",
-          "publishedOn": "2026-05-01T15:47:54.000Z",
-          "wordCount": 751,
-          "title": "&#8220;Since 1900,  scientists have observed more than 20...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/05/0048833-on-the-futility-of-border",
-          "author": null,
-          "description": "On the futility of border walls. “The Ozymandian ruins of many such walls litter our ancient and modern landscapes, because for as long as humanity has built hard borders, people have inevitably found ways to cross, topple or simply bypass them.”",
-          "link": "https://kottke.org/26/05/0048833-on-the-futility-of-border",
-          "publishedOn": "2026-05-01T14:58:18.000Z",
-          "wordCount": 501,
-          "title": "On the futility of border walls . &#8220;The Ozymandian...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/05/0048854-the-secret-to-success-is",
-          "author": null,
-          "description": "The Secret to Success Is ‘Monotasking’. “We find that in ­real‑world work, the more switches in attention a person makes, the lower is their end‑­of‑day assessed productivity.”",
-          "link": "https://kottke.org/26/05/0048854-the-secret-to-success-is",
-          "publishedOn": "2026-05-01T14:23:10.000Z",
-          "wordCount": 1791,
-          "title": "The Secret to Success Is &#8216;Monotasking&#8217; ....",
-          "imageUrl": ""
         }
       ]
     },
@@ -5143,6 +5104,16 @@
       "feedUrl": "https://www.zeroto180.org/feed/",
       "siteUrl": "https://www.zeroto180.org/",
       "articles": [
+        {
+          "id": "https://www.zeroto180.org/?p=132456",
+          "author": "Zeroto180",
+          "description": "If you discount the first two King releases (King 500 and King 501) — four songs that were recorded north of Cincinnati in a small Dayton sound studio under assumed names, since the two artists involved, Merle Travis and Grandpa Jones were already under contract to WLW — The Delmore Brothers were the first “proper” artists to be […]\nThe post Alton Delmore:  “I Helped To Start a Recording Company There In Cincinnati” appeared first on Zero to 180 - Three Minute Magic.",
+          "link": "https://www.zeroto180.org/alton-delmore-i-helped-to-start-a-recording-company-there-in-cincinnati/",
+          "publishedOn": "2026-06-30T20:59:08.000Z",
+          "wordCount": 15816,
+          "title": "Alton Delmore:  “I Helped To Start a Recording Company There In Cincinnati”",
+          "imageUrl": "https://www.zeroto180.org/wp-content/uploads/2026/06/Delmore-Brothers-thumbnail.jpg"
+        },
         {
           "id": "http://www.zeroto180.org/?p=23944",
           "author": "Zeroto180",
