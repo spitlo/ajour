@@ -41,18 +41,7 @@
       "title": "Stavros' Stuff",
       "feedUrl": "https://feeds.feedburner.com/stavrosstuff",
       "siteUrl": "https://www.stavros.io/",
-      "articles": [
-        {
-          "id": "https://www.stavros.io/posts/adding-a-feature-to-a-closed-source-app/",
-          "author": null,
-          "description": "Who needs source code?\nI use Audiobookshelf (abbreviated ABS) for all my legal audiobooks that I bought legally, and I really like it.\nI also use the Smart Audiobook Player (abbreviated SABP) Android app, which I also bought (leg",
-          "link": "https://www.stavros.io/posts/adding-a-feature-to-a-closed-source-app/",
-          "publishedOn": "2026-05-04T00:25:16.000Z",
-          "wordCount": 3041,
-          "title": "Adding a feature to a closed-source app",
-          "imageUrl": "https://www.stavros.io/static/images/favicons/og-image.jpg?h=24586483"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Hundred Rabbits",
@@ -359,16 +348,6 @@
           "wordCount": 187,
           "title": "Aperiodic Table",
           "imageUrl": "https://imgs.xkcd.com/comics/aperiodic_table_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3241/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/horizontal_stabilizers.png\" title=\"It started as a mistake that everyone was afraid to admit to, and then it stuck because removing it 'looks silly.'.\" alt=\"It started as a mistake that everyone was afraid to admit to, and then it stuck because removing it 'looks silly.'.\" />",
-          "link": "https://xkcd.com/3241/",
-          "publishedOn": "2026-05-04T00:00:00.000Z",
-          "wordCount": 187,
-          "title": "Horizontal Stabilizers",
-          "imageUrl": "https://imgs.xkcd.com/comics/horizontal_stabilizers_2x.png"
         }
       ]
     },
@@ -1008,16 +987,6 @@
           "wordCount": 1961,
           "title": "Moving away from Tailwind, and learning to structure my CSS",
           "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2026/05/04/css-colour-palettes/",
-          "author": null,
-          "description": "A while back I decided to stop using Tailwind for new projects and to just write\nvanilla CSS instead.\nBut one thing I missed about Tailwind was the colour palette (here as CSS).\nIf I wanted a light blue I could just use blue-100 and if I didn’t like it\nmaybe try blue-200 or blue-50. I’m not very good with colours so it makes\na big difference to me to have a reasonable colour palette that somebody who is\nbetter at colour than me has thought about.\nBut I’m also a little tired of those Tailwind colours, so I asked on Mastodon\ntoday what other colour palettes were out there. And then a friend said they\nwanted links to those colour palettes, so here’s a blog post so my friend can\nsee them, and all the rest of you too :)\nmy favourites\nThe ones I liked the most were:\nuchū (css file, FAQ)\nflexoki (css file)\nreasonable colours, which seems to have a focus on accessibility (css file)\nmore colour palettes\nweb awesome\nradix\nUS web design systems\nmaterial design\ncolourscheme generators\nFolks also linked to a bunch of colour palette generators\nharmonizer\ntints.dev\ncoolors\ncolorpalette.pro\nI’ve always found these types of generators too hard to use but maybe one day I\nwill get better enough at colour that I’m able to use a colour palette generator\nsuccessfully so I’ll leave those links there anyway.\nand more colour tools:\ncolorhexa has some info about colorblindness\noklch\nGenerative colors with CSS gives an example of\nhow to use the oklch CSS function to dynamically generate colors.",
-          "link": "https://jvns.ca/blog/2026/05/04/css-colour-palettes/",
-          "publishedOn": "2026-05-04T00:00:00.000Z",
-          "wordCount": 478,
-          "title": "Links to CSS colour palettes",
-          "imageUrl": null
         }
       ]
     },
@@ -1060,6 +1029,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=13002",
+          "author": "Cory Doctorow",
+          "description": "Today's links The difference between \"today's task\" and \"accretive work\": Sometimes, \"I got it working\" is fine, but sometimes it isn't. Hey look at this: Delights to delectate. Object permanence: Series of tubes; Paralyzed teen beaten bloody by TSA; \"Ultra unreal\" Chinese lit; London property prices v Brexit; Biden v surprise billing; \"Feeding Ghosts.\" Upcoming appearances: London, Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The difference between \"today's task\" and \"accretive work\" (permalink) One thing I've learned about paradoxes: often the answer to the riddle of \"how can this one thing have such a co…",
+          "link": "https://pluralistic.net/2026/07/02/canonization/",
+          "publishedOn": "2026-07-02T07:54:42.000Z",
+          "wordCount": 3191,
+          "title": "Pluralistic: The difference between \"today's task\" and \"accretive work\" (02 Jul 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=12987",
           "author": "Cory Doctorow",
@@ -1459,16 +1438,6 @@
           "wordCount": 3582,
           "title": "Pluralistic: The three armies fighting for the post-American world (05 May 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=12766",
-          "author": "Cory Doctorow",
-          "description": "Today's links Demand destruction vs fuel-superceding infrastructure: Will Trump hormuz us into the full Gretacene? Hey look at this: Delights to delectate. Object permanence: Beck, Scientologist; Citizen journalism; Podcast-killing treaty; US x Kiwi copyright; Apple did a crime; DeCSS v civilian aviation; Navy x SF's queering; Micosoft v FLOSS; Sony-BMG needs a new DRM czar; Lossy copying sculpture; AI and the fatfinger economy. Upcoming appearances: Guelph, Barcelona, Berlin, Hay-on-Wye, London, NYC, Edinburgh. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Demand destruction vs fuel-superceding infrastructure (permalink) No one is better at keeping hope alive than R…",
-          "link": "https://pluralistic.net/2026/05/04/hope-in-the-dark/",
-          "publishedOn": "2026-05-04T09:39:28.000Z",
-          "wordCount": 4232,
-          "title": "Pluralistic: Demand destruction vs fuel-superseding infrastructure (04 May 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -1517,6 +1486,106 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/07/0049254--weather-forecasts-are-le",
+          "author": null,
+          "description": "As it was foretold: the Trump regime gutted the NOAA and now weather forecasts are less accurate. An atmospheric scientist: “The forecasts I’m able to offer you are less accurate than they would otherwise be.”",
+          "link": "https://kottke.org/26/07/0049254--weather-forecasts-are-le",
+          "publishedOn": "2026-07-02T19:25:00.000Z",
+          "wordCount": 919,
+          "title": "As it was foretold: the Trump regime gutted the NOAA and...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049251-the-40-best-albums-from-t",
+          "author": null,
+          "description": "Something for the digital crate-diggers: The 40 Best Albums From the Last 40 Years That You Probably Didn’t Hear (But Should’ve). I’d only heard of one or two these…",
+          "link": "https://kottke.org/26/07/0049251-the-40-best-albums-from-t",
+          "publishedOn": "2026-07-02T18:45:00.000Z",
+          "wordCount": 1103,
+          "title": "Something for the digital crate-diggers:  The 40 Best...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049252-dictionary-of-the-illegib",
+          "author": null,
+          "description": "“Dictionary of the Illegible proposes illegibility as a strategy for navigating a world increasingly governed by visibility, efficiency, and total surveillance.”",
+          "link": "https://kottke.org/26/07/0049252-dictionary-of-the-illegib",
+          "publishedOn": "2026-07-02T18:05:00.000Z",
+          "wordCount": 727,
+          "title": "&#8220; Dictionary of the Illegible  proposes...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049253-the-average-paid-newslett",
+          "author": null,
+          "description": "“The average paid newsletter costs $10 per month or $100 per year, according to analysis of thousands of publications hosted on Beehiiv.” KDO memberships start at $3/mo. and I haven’t raised prices since 2016. You folks are getting an incredible deal!",
+          "link": "https://kottke.org/26/07/0049253-the-average-paid-newslett",
+          "publishedOn": "2026-07-02T17:25:00.000Z",
+          "wordCount": 1058,
+          "title": "&#8220; The average paid newsletter costs $10 per month...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049250-hank-green-interviews-ze-",
+          "author": null,
+          "description": "Hank Green interviews Ze Frank, who kind of invented the modern YouTube format (aka vlogging). “At the episode’s end, Ze lays down some of the best advice Hank’s ever heard.”",
+          "link": "https://kottke.org/26/07/0049250-hank-green-interviews-ze-",
+          "publishedOn": "2026-07-02T16:45:00.000Z",
+          "wordCount": 940,
+          "title": "Hank Green interviews Ze Frank , who kind of invented...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049249-why-the-panic-about-trans",
+          "author": null,
+          "description": "Parker Molloy on why the panic about trans women in sports is not actually about fairness or protecting women & girls (in the similar way Gamergate was not about “ethics in games journalism”).",
+          "link": "https://kottke.org/26/07/0049249-why-the-panic-about-trans",
+          "publishedOn": "2026-07-02T16:04:00.000Z",
+          "wordCount": 626,
+          "title": "Parker Molloy on  why the panic about trans women in...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049247-will-america-ever-give-wh",
+          "author": null,
+          "description": "Will America Ever Give White-Man Rights to Everyone Else? “These documents…were written by rich white men for the benefit of rich white men, and this country has never for a day recovered from their failure.”",
+          "link": "https://kottke.org/26/07/0049247-will-america-ever-give-wh",
+          "publishedOn": "2026-07-02T15:38:00.000Z",
+          "wordCount": 637,
+          "title": "Will America Ever Give White-Man Rights to Everyone...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049248-the-us-constitution-is-fo",
+          "author": null,
+          "description": "The US Constitution Is for Simple Folk Still Burdened by the Belief That Words Have Meaning. “The true Constitution is not a document. It’s more of a gut feeling. It is a shimmering legal gas that settles wherever conservatives need it most…”",
+          "link": "https://kottke.org/26/07/0049248-the-us-constitution-is-fo",
+          "publishedOn": "2026-07-02T15:08:00.000Z",
+          "wordCount": 656,
+          "title": "The US Constitution Is for Simple Folk Still Burdened by...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049246-what-is-the-united-states",
+          "author": null,
+          "description": "Rebecca Solnit: What Is the United States of America Now? “The United States of America is a truck that has driven into a ditch. The United States of America is a program that has been hacked.” But also: “It is the country that gave the world jazz…”",
+          "link": "https://kottke.org/26/07/0049246-what-is-the-united-states",
+          "publishedOn": "2026-07-02T14:38:00.000Z",
+          "wordCount": 651,
+          "title": "Rebecca Solnit:  What Is the United States of America...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049175-report-from-a-celebrity-i",
+          "author": null,
+          "description": "Report from a cruise full of celebrity impersonators. “A woman sat a toddler down beside us, while another, larger toddler tugged at her capris. At this point, every child was starting to look like Wallace Shawn.”",
+          "link": "https://kottke.org/26/07/0049175-report-from-a-celebrity-i",
+          "publishedOn": "2026-07-02T14:08:00.000Z",
+          "wordCount": 762,
+          "title": "Report from a cruise full of celebrity impersonators ....",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/07/0049245-erling-haaland-brings-the",
           "author": null,
