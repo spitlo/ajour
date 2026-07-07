@@ -100,6 +100,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3268/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/offside.png\" title=\"The arbiter gave my knight a red card for capturing with cleats up :(\" alt=\"The arbiter gave my knight a red card for capturing with cleats up :(\" />",
+          "link": "https://xkcd.com/3268/",
+          "publishedOn": "2026-07-06T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Offside",
+          "imageUrl": "https://imgs.xkcd.com/comics/offside_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3267/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/types_of_tornado_alert.png\" title=\"I hate the unearthly sound my phone makes when the weather service issues a tornado harbinger.\" alt=\"I hate the unearthly sound my phone makes when the weather service issues a tornado harbinger.\" />",
@@ -338,16 +348,6 @@
           "wordCount": 187,
           "title": "Pullback Drive",
           "imageUrl": "https://imgs.xkcd.com/comics/pullback_drive_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3243/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/crystal_gazing.png\" title=\"'Beyond that lies a vale of fire through which my vision cannot penetrate' is the kind of fun thing geologists, heliophysicists, and early universe cosmologists have a lot of opportunities to say.\" alt=\"'Beyond that lies a vale of fire through which my vision cannot penetrate' is the kind of fun thing geologists, heliophysicists, and early universe cosmologists have a lot of opportunities to say.\" />",
-          "link": "https://xkcd.com/3243/",
-          "publishedOn": "2026-05-08T00:00:00.000Z",
-          "wordCount": 187,
-          "title": "Crystal Gazing",
-          "imageUrl": "https://imgs.xkcd.com/comics/crystal_gazing_2x.png"
         }
       ]
     },
@@ -356,6 +356,16 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "fundamentally",
+          "author": null,
+          "description": "Loved it. Intelligent and genuinely made me laugh.\nThis book was recommended in our work Slack, and just pull quote for the book description, I found myself instantly buying it:\n\nBy normal, you mean like you? A slag with a saviour complex?\n\nThe story follows Nadia, an academic who is pulled into a job with the UN to apply her proposal to rehabilitate ISIS brides so they can leave the camps and return home.\nWhat I really enjoyed about this book was the exposure to completely different backgrounds to my own. So for an example, Nadia is Muslim. She has turned her back on her faith. She's gone into academia, and she's now offered a job in the UN to help these ISIS brides.\nMost of the characters are completely different to the people in my real life, but the writing is steeped in reality (the author's note at the end explains that she, Younis, was a humanitarian worker known for her expertise on contemporary Iraq, and that though fictionalised, there's a lot of real experience in the story).\nNadia's character is witty, flawed, pissed off, broken and I found myself actually laughing out loud at some of the lines from the book. The book's blurb includes the following line, which I absolutely felt was accurate:\n\nA bitingly original, wildly funny and razor-sharp exploration of love, family, religion, radicalism[…]\n\nI really enjoyed the book, and found it hard to put down - as seen in my 10 day read of what normally takes me a month.\nFor a first novel, from someone that on paper is very academic and doing very serious work, this is A*. Love it.",
+          "link": "https://remysharp.com/books/2026/fundamentally",
+          "publishedOn": "2026-07-06T00:00:00.000Z",
+          "wordCount": 842,
+          "title": "Fundamentally [book]",
+          "imageUrl": null
+        },
         {
           "id": "2026-07-01-8272e198",
           "author": null,
@@ -565,16 +575,6 @@
           "wordCount": 486,
           "title": "NES Programming in 6502 Assembly [link]",
           "imageUrl": null
-        },
-        {
-          "id": "popover-backdrop-anti-pattern",
-          "author": null,
-          "description": "After attending recent conferences and learning that I can swap out buckets of JavaScript for the HTML native popover property, I've been using it liberally throughout my own projects.\nFor little pop out menus it's perfect. Then I also started using it for modal boxes (yes, you might be thinking ahead of me: dialog, still, let's find out what happened).\nThe popover property was really easy for this, and the ::backdrop selector was perfect for adding a little backdrop blur to tell my user \"this is the thing you're dealing with\".\nI especially love that all the UX around dismissing is handled for me. I can hit the escape key, or click outside the popover and it's dismissed.\nExcept, I kept noticing that when I dismissed my popover it would sometimes vanish then immediately pop back to life…",
-          "link": "https://remysharp.com/2026/05/08/popover-backdrop-anti-pattern",
-          "publishedOn": "2026-05-08T00:00:00.000Z",
-          "wordCount": 1437,
-          "title": "A popover backdrop anti-pattern [blog]",
-          "imageUrl": "https://remysharp.com/images/cards/og/9-2.jpg"
         }
       ]
     },
@@ -996,6 +996,16 @@
       "siteUrl": "https://www.joshwcomeau.com/",
       "articles": [
         {
+          "id": "https://www.joshwcomeau.com/css/anchor-positioning/",
+          "author": "Josh W. Comeau",
+          "description": "For decades, one of the most notoriously-challenging problems on the web has been sticking one element to another element, for things like tooltips and nested menus. The CSSWG has decided to provide a first-class solution to this problem, and it’s pretty friggin’ cool! In this tutorial, I’ll share the most useful parts I’ve found from this modern CSS feature.",
+          "link": "https://www.joshwcomeau.com/css/anchor-positioning/",
+          "publishedOn": "2026-07-06T13:15:00.000Z",
+          "wordCount": 9290,
+          "title": "Getting Started with Anchor Positioning",
+          "imageUrl": "https://www.joshwcomeau.com/images/og-anchor-positioning.png"
+        },
+        {
           "id": "https://www.joshwcomeau.com/animation/css-vs-javascript/",
           "author": "Josh W. Comeau",
           "description": "There are a bunch of JavaScript animation libraries out there, and you might have wondered whether there’s a performance cost compared to traditional CSS transitions and keyframe animations. In this blog post, we’ll compare the same animation across several different strategies and see the differences firsthand. There’s some interesting nuance here!",
@@ -1408,16 +1418,6 @@
           "wordCount": 3121,
           "title": "Pluralistic: Trump's fruitless search for a goreable ox (09 May 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=12787",
-          "author": "Cory Doctorow",
-          "description": "Today's links Lee Lai's \"Cannon\": A beautiful, subtle, long-lingering tale of duty, sex, and working for a shitty restaurant boss. Hey look at this: Delights to delectate. Object permanence: Ebay paying to run newspaper classifieds; Chuck Tingle v Sad Puppies; FBI v TOR; Daycare v Goldman Sachs; Scammers re-used covid nose-swabs; \"The Adventures of Mary Darling.\" Upcoming appearances: Guelph, Barcelona, Berlin, Hay-on-Wye, London, NYC, Edinburgh. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Lee Lai's \"Cannon\" (permalink) Lee Lai's Cannon is an extraordinary graphic novel that turns out a beautifully told, subtle and ambiguous tale about Lucy (Lucy -> \"Loose\" -> \"Loo…",
-          "link": "https://pluralistic.net/2026/05/08/gung-gung/",
-          "publishedOn": "2026-05-08T12:19:36.000Z",
-          "wordCount": 2895,
-          "title": "Pluralistic: Lee Lai's \"Cannon\" (08 May 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -1466,6 +1466,96 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/07/0049271-lane-8s-summer-2026-mixta",
+          "author": null,
+          "description": "Just dropped a couple of days ago: Lane 8’s Summer 2026 Mixtape (4 hours long). Also available on Soundcloud.",
+          "link": "https://kottke.org/26/07/0049271-lane-8s-summer-2026-mixta",
+          "publishedOn": "2026-07-06T20:40:00.000Z",
+          "wordCount": 716,
+          "title": "Just dropped a couple of days ago:  Lane 8’s Summer 2026...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/our-lives-are-an-orchestrated-shuffle-of-technology",
+          "author": null,
+          "description": "If you are anything like me, your soul let out a big “oooooof” while reading this: The Year Is 2063 and You Were Never Interesting.\nBut wait. You are 70 years old. You’re sitting in your home. Your grandchildren ask you what your 20s were like, and you honestly can’t tell them. You have no heirlooms; Temu doesn’t last. You never moved to Paris or quit the toxic job or booked the Spanish lesson. You were too nervous to get that tattoo, never went back to school. You were too awkward to go to the nude drawing class, you never did learn how to make dumplings. Your feed was so full of people living lives so full you never stopped to consider yours.\nThe great love affair of your life is… this. Sitting in the dark, your nose 6 inches from the screen. You have never separated, never taken a break. It started slowly, rockily. But by 25, it had its claws in you. By 30, it fills the dead spaces in your life. And you’ve never relented. It has consumed you wholly and the math has compounded. By this age, at 7 hours a day, 15 years of your life has been a screen.\n\n \n\n        \n         \nTags: Liz Lee",
+          "link": "https://kottke.org/26/07/our-lives-are-an-orchestrated-shuffle-of-technology",
+          "publishedOn": "2026-07-06T18:45:00.000Z",
+          "wordCount": 987,
+          "title": "Our Lives Are “an Orchestrated Shuffle of Technology&#8221;",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049270-craig-mod-interviewed-by-",
+          "author": null,
+          "description": "👀 Craig Mod interviewed by Debbie Millman on Design Matters. (I guess those eyes should be ears but an ears-bugging-out emoji doesn’t exist.)",
+          "link": "https://kottke.org/26/07/0049270-craig-mod-interviewed-by-",
+          "publishedOn": "2026-07-06T17:22:00.000Z",
+          "wordCount": 914,
+          "title": "👀  Craig Mod interviewed by Debbie Millman on Design...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049265-the-fun-shortage-is-real-",
+          "author": null,
+          "description": "The Fun Shortage Is Real, and It’s Making America Miserable (gift link). “With fewer places to relax and socialize, and steeper prices for entry, having fun is quantifiably harder than it used to be.”",
+          "link": "https://kottke.org/26/07/0049265-the-fun-shortage-is-real-",
+          "publishedOn": "2026-07-06T15:42:00.000Z",
+          "wordCount": 757,
+          "title": "The Fun Shortage Is Real, and It’s Making America...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049262-short-little-video-montag",
+          "author": null,
+          "description": "I love this short little video montage of actresses during Charlie Rose interviews. No dialogue, just quiet reactions. Musical accompaniment by Laurie Anderson (O Superman).",
+          "link": "https://kottke.org/26/07/0049262-short-little-video-montag",
+          "publishedOn": "2026-07-06T15:02:00.000Z",
+          "wordCount": 877,
+          "title": "I  love  this  short little video montage of actresses...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049260-in-the",
+          "author": null,
+          "description": "One of the great things about the World Cup and the US: In the United States, Every World Cup Team Is a Home Team. “Soccer fans from all over the world, many now making their homes in America, have packed bars, restaurants, living rooms…”",
+          "link": "https://kottke.org/26/07/0049260-in-the",
+          "publishedOn": "2026-07-06T14:22:00.000Z",
+          "wordCount": 794,
+          "title": "One of the great things about the World Cup and the US:...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/america-birth-of-a-nation",
+          "author": null,
+          "description": "To celebrate the 250th anniversary of our great nation, The Onion has produced a Ken Burns-esque film called Birth of a Nation (“the only movie ever named this”).\n250 years ago, a group of illiterate men would gather in these hallowed halls to scribble down what historians can now only assume were words. Words that would one day be assigned meaning. Words and pictures. Pictures mostly. That would serve as the founding principles for a grand new experiment that would forever change the course of human history. An experiment that would produce a monstrosity so powerful it would soon be known to the whole world by just one name. America.\n\n \n\n        \n         \nTags: politics · The Onion · usa · video",
+          "link": "https://kottke.org/26/07/america-birth-of-a-nation",
+          "publishedOn": "2026-07-06T13:36:00.000Z",
+          "wordCount": 850,
+          "title": "America: Birth Of A Nation",
+          "imageUrl": "https://i.ytimg.com/vi/_cTi_vTwwmU/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/07/0049256-the-nyt-ran-a-piece-about",
+          "author": null,
+          "description": "In 1937, the NYT ran a piece about the last living son of a Revolutionary War soldier. “Many times Constant said his father spoke of meeting George Washington…” The Great Span in action.",
+          "link": "https://kottke.org/26/07/0049256-the-nyt-ran-a-piece-about",
+          "publishedOn": "2026-07-06T13:00:00.000Z",
+          "wordCount": 791,
+          "title": "In 1937,  the NYT ran a piece about the last living son...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049259-five-young-descendants-of",
+          "author": null,
+          "description": "Five young descendants of Frederick Douglass read his famous “What To The Slave Is The Fourth Of July?” speech.",
+          "link": "https://kottke.org/26/07/0049259-five-young-descendants-of",
+          "publishedOn": "2026-07-06T12:13:00.000Z",
+          "wordCount": 756,
+          "title": "Five young descendants of Frederick Douglass read his...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/07/openish-thread-testing-a-new-feature",
           "author": null,
@@ -4925,106 +5015,6 @@
           "wordCount": 1240,
           "title": "The 2025 Alaskan Tsunami That Measured 1578 Feet Tall",
           "imageUrl": "http://kottke.org/plus/misc/images/editor-1778192894-96a465f1.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/05/0048899-prophecy-at-1420-mhz",
-          "author": null,
-          "description": "Prophecy At 1420 MHz is the first single from Boards of Canada’s upcoming album. (It’s paired with a short intro track, so we’re basically getting the first five and a half minutes of the album here.)",
-          "link": "https://kottke.org/26/05/0048899-prophecy-at-1420-mhz",
-          "publishedOn": "2026-05-08T13:31:00.000Z",
-          "wordCount": 789,
-          "title": "Prophecy At 1420 MHz  is the first single from Boards of...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/05/0048895-its-david-attenboroughs-1",
-          "author": null,
-          "description": "It’s David Attenborough’s 100th birthday today! One of my few genuine heroes.",
-          "link": "https://kottke.org/26/05/0048895-its-david-attenboroughs-1",
-          "publishedOn": "2026-05-08T12:19:00.000Z",
-          "wordCount": 778,
-          "title": "It&#8217;s David Attenborough&#8217;s 100th birthday...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/05/0048820-in-nine-experiments-invol",
-          "author": null,
-          "description": "“In nine experiments involving 1,800 participants, researchers found that people consistently underestimated how interesting and enjoyable conversations about boring topics would be.”",
-          "link": "https://kottke.org/26/05/0048820-in-nine-experiments-invol",
-          "publishedOn": "2026-05-07T21:53:38.000Z",
-          "wordCount": 819,
-          "title": "&#8220;In nine experiments involving 1,800 participants,...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/05/rogue-one-the-andor-cut",
-          "author": null,
-          "description": "David Kaylor is re-editing Rogue One into what he calls “The Andor Cut”; the trailer seems pretty compelling and well-done. He says this is Rogue One if it was produced after Andor:\nThe original version is the events of Rogue One as seen through Jyn’s perspective, and this is through Cassian’s.\n\n\t\nThe remixed Rogue One will be out on May 25, available in 4K with 5.1 surround sound. Kaylor has previously produced cuts of all three original trilogy Star Wars movies, Star Wars: Episode III - The Siege of Mandalore & Revenge of the Sith (a combo of the third prequel and part of the 7th season of Clone Wars), and Star Trek: Picard: The Last Generation (a recut of Star Trek: Picard’s 3rd season).\nThis edit is not to be confused with Andor: The Rogue One Arc, which recuts Rogue One into an Andor-like three-episode arc, leaning heavily on Andor’s soundtrack to set the mood.\nThis edit is kind of an expression of that with a movie I generally really liked - moving its energy from emulating the jaunty, swashbuckling OT, to more in line with its prequel show’s feel.\nUp front, I don’t actually think this elevates or changes Rogue One in any meaningful way. The movie is still the movie, still fast paced and action oriented, particularly compared to Andor’s fiercer, slower, and paranoid ethos. But I do think the elements Andor is rooted in become far more apparent foregrounded to this soundtrack. Where the movie somewhat failed to recapture the energy and excitement of traditional Star Wars (and not for lack of Giacchino effort), the places where it takes itself seriously should now feel less dissonant in a [tonal] context that seriously considers them.\n\n\t\nI’ve watched The Rogue One Arc and am looking forward to comparing it to The Andor Cut. And I’ve been seriously contemplating yet another rewatch of the TV series.\n\n \n\n        \n         \nTags: andor · movies · remix · Rogue One · Star Wars · trailers · video",
-          "link": "https://kottke.org/26/05/rogue-one-the-andor-cut",
-          "publishedOn": "2026-05-07T20:45:00.000Z",
-          "wordCount": 996,
-          "title": "Rogue One: The Andor Cut",
-          "imageUrl": "https://i.ytimg.com/vi/kynPAivzjoY/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/05/0048896-lessons-from-the-rise-and",
-          "author": null,
-          "description": "A brief history: lessons from the rise and fall of Reconstruction. “Must America be forever defined by strict hierarchies of race, gender, religion, and wealth – or can the nation finally realize its promise of egalitarian pluralism?”",
-          "link": "https://kottke.org/26/05/0048896-lessons-from-the-rise-and",
-          "publishedOn": "2026-05-07T19:57:25.000Z",
-          "wordCount": 772,
-          "title": "A brief history:  lessons from the rise and fall of...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/05/the-abolitionist-map-of-nyc",
-          "author": null,
-          "description": "The website for the Abolitionist Guide to NYC is just getting started, but the site does house an Abolitionist Map of NYC.\nThe Abolitionist Map of NYC offers a geographic survey of incarceration and anti-carceral resistance in Manahatta from the Dutch colonization of Lenapehoking to the present day. The map highlights some of the first jails and prisons to exist in the area, the movement of facilities from one place to the next, and sites of rebellion against the expansion of the prison industrial complex.\nIt is meant to serve as a tool for abolitionist resistance grounded in a long view of the struggle, tactics, and goals.\n\n\t\nThe map is available as a PDF and as an interactive version. (via @prisonculture.bsky.social)\n\n \n\n        \n         \nTags: maps · NYC · prison",
-          "link": "https://kottke.org/26/05/the-abolitionist-map-of-nyc",
-          "publishedOn": "2026-05-07T18:58:42.000Z",
-          "wordCount": 793,
-          "title": "The Abolitionist Map of NYC",
-          "imageUrl": "http://kottke.org/plus/misc/images/editor-1778163083-03d96f87.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/05/0048892-chess-peace",
-          "author": null,
-          "description": "Chess Peace is an iOS puzzle game where you have to place chess pieces on a board so that none of them attack each other. Simple + clever!",
-          "link": "https://kottke.org/26/05/0048892-chess-peace",
-          "publishedOn": "2026-05-07T18:25:12.000Z",
-          "wordCount": 758,
-          "title": "Chess Peace  is an iOS puzzle game where you have to...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/05/0048891-3000-year-old-jars-of-sti",
-          "author": null,
-          "description": "One of the coolest things about honey is its theoretically infinite shelf-life. 3000-year-old jars of still-edible honey have been found in Egyptian tombs — they used it medicinally for all sorts of things.",
-          "link": "https://kottke.org/26/05/0048891-3000-year-old-jars-of-sti",
-          "publishedOn": "2026-05-07T16:20:00.000Z",
-          "wordCount": 759,
-          "title": "One of the coolest things about honey is its...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/05/animated-artemis-ii-photos-reveal-satellites-buzzing-around-earth",
-          "author": null,
-          "description": "Ok, this is incredible: this person on Reddit discovered that if you take a bunch of the sequential photos of the Earth captured by the Artemis II crew and animate them, you can see that some of what appear to be stars are actually satellites, buzzing around the Earth like flies. You can see them really clearly in Seán Doran’s remastered animation. Totally totally gobsmacking. Literally awesome.\n\n \n\n        \n         \nTags: artemis · astronomy · Earth · photography · science · Sean Doran · space",
-          "link": "https://kottke.org/26/05/animated-artemis-ii-photos-reveal-satellites-buzzing-around-earth",
-          "publishedOn": "2026-05-07T14:33:00.000Z",
-          "wordCount": 951,
-          "title": "Animated Artemis II Photos Reveal Satellites Buzzing Around Earth",
-          "imageUrl": "https://i.ytimg.com/vi/ArDi7Y20cto/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/05/0048889-flooding-the-zone-with-ai",
-          "author": null,
-          "description": "“Podcast sloplords” are flooding the zone with AI-generated podcasts. By one count, almost 40% of new podcasts are written by AI chatbots and presented by “AI voice synthesizers [that] can sound eerily humanlike”.",
-          "link": "https://kottke.org/26/05/0048889-flooding-the-zone-with-ai",
-          "publishedOn": "2026-05-07T14:03:00.000Z",
-          "wordCount": 491,
-          "title": "&#8220;Podcast sloplords&#8221; are  flooding the zone...",
-          "imageUrl": ""
         }
       ]
     },
