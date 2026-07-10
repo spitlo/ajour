@@ -348,16 +348,6 @@
           "wordCount": 187,
           "title": "Results Age",
           "imageUrl": "https://imgs.xkcd.com/comics/results_age_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3244/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/pullback_drive.png\" title=\"&quot;How does the spring not run out almost immediately?&quot; &quot;We pull it back REALLY far.&quot;\" alt=\"&quot;How does the spring not run out almost immediately?&quot; &quot;We pull it back REALLY far.&quot;\" />",
-          "link": "https://xkcd.com/3244/",
-          "publishedOn": "2026-05-11T00:00:00.000Z",
-          "wordCount": 187,
-          "title": "Pullback Drive",
-          "imageUrl": "https://imgs.xkcd.com/comics/pullback_drive_2x.png"
         }
       ]
     },
@@ -366,6 +356,36 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "2026-07-09-9fd775a9",
+          "author": null,
+          "description": "When I think of AI slop, as a developer working on or around the web, I tend to think of dev-centric content, such as blog posts or even software (a lot of the community I'm connected to will call software slop).\nStill, it's useful to be reminded that AI generated content is much, much farther reaching.\nThis project used a Chrome extension (with paid users, from what I could test) and collected a tonne of data and shows for products like LinkedIn, Medium and Twitter, it's anything from 30-50% of AI slop.\nLots of easy to scan charts.\nI tend to only use LinkedIn to post about FFConf, then I immediately leave, and I use Reddit for either Gameboy or Home Assistant content, so I'm not really coming across this kind of content myself (or that I've noticed).\nOriginal link: www.pangram.com/[…]/ai-in-your-feed",
+          "link": "https://remysharp.com/links/2026-07-09-9fd775a9",
+          "publishedOn": "2026-07-09T16:54:07.000Z",
+          "wordCount": 634,
+          "title": "AI Content Is Everywhere on Social Media, Especially LinkedIn [link]",
+          "imageUrl": null
+        },
+        {
+          "id": "2026-07-09-221b1dd2",
+          "author": null,
+          "description": "I remember the days I was hungry for features on the web…it was…a long time ago! So it's refreshing to read that others still have ideas and want more.\nI especially like these two from the post:\n\nText overflow truncation from centre…\n\nAnd:\n\nMore pseudo-classes. :sticky for if an element is currently sticky, :overflow for if overflowing, etc\n\nWhich falls consistently into the category of \"JavaScript is used to do this, it shouldn't need to\".\nOriginal link: vale.rocks/[…]/web-platform-wishlist",
+          "link": "https://remysharp.com/links/2026-07-09-221b1dd2",
+          "publishedOn": "2026-07-09T08:41:02.000Z",
+          "wordCount": 565,
+          "title": "Web Platform Wishlist on Vale.Rocks [link]",
+          "imageUrl": null
+        },
+        {
+          "id": "2026-07-08-05cd4aed",
+          "author": null,
+          "description": "Came across this nice little TIL in the qSA API:\n\nparentNode.querySelectorAll('> *') you get an error: '> *' is not a valid selector.. That doesn't work...\n\nUsing :scope first fixes the \"missing scope\".\nOriginal link: siderite.dev/[…]/queryselector-immediate-children-with-scope",
+          "link": "https://remysharp.com/links/2026-07-08-05cd4aed",
+          "publishedOn": "2026-07-08T20:23:59.000Z",
+          "wordCount": 523,
+          "title": "querySelector immediate children with :scope [link]",
+          "imageUrl": null
+        },
         {
           "id": "fundamentally",
           "author": null,
@@ -1070,6 +1090,16 @@
       "siteUrl": "https://pluralistic.net",
       "articles": [
         {
+          "id": "https://pluralistic.net/?p=13015",
+          "author": "Cory Doctorow",
+          "description": "Today's links Post-political: What a \"leftist\" is. Hey look at this: Delights to delectate. Object permanence: MSFT x OSCON; Parental spyware; \"Resurrection Man\"; Brexit do-over petition; Workplace email spying; Record label internet death penalty; News should be cheap, free and chaotic; \"Jughead\". Upcoming appearances: London, Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Post-political (permalink) There's plenty of reasons to be skeptical of centrists who bemoan \"political polarization\" and call for a politics that abandons the \"tribalism of left and right.\" Obviously there's the false equivalence: on the …",
+          "link": "https://pluralistic.net/2026/07/08/wilhoitian/",
+          "publishedOn": "2026-07-09T06:37:55.000Z",
+          "wordCount": 3624,
+          "title": "Pluralistic: Post-political (09 Jul 2026)",
+          "imageUrl": null
+        },
+        {
           "id": "https://pluralistic.net/?p=13012",
           "author": "Cory Doctorow",
           "description": "Today's links How US states and international trustbusters can beat Big Tech: Their common enemies are Trump and his tech giants. Hey look at this: Delights to delectate. Object permanence: Sex work synonyms; Carthedral; French pirates; Suffragette surveillance; Hidden library apartments; \"The Meaning of July the Fourth for the Negro\" x James Earl Jones; Farage quits; Peak indifference; Self publishing; Pepsi spies try to buy Coke formula; Steal this wiki; SF is the only lit people care enough about to steal; HP Lovecraft's commonplace book; \"7th Sigma\"; Conspiracy fantasy; PalmOS beampoints; Copyright poetry; Abandoned NOLA themepark; Life in Indian call-centers; \"Rule 34\"; Unpleasant design; WEB du Bois infographics; Drone v South African racism; Escobar's hippos; Brexit nihilism; UK Ira…",
@@ -1438,16 +1468,6 @@
           "wordCount": 3248,
           "title": "Pluralistic: A fascist paradigm (12 May 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=12794",
-          "author": "Cory Doctorow",
-          "description": "Today's links 2024 (apart from the obvious): Some unforced errors. Hey look at this: Delights to delectate. Object permanence: Denmark legalizing music trading; Babysuit; Patent Office invites \"peer review\"; DRM protest at the Bastille; Scientology's \"super powers\"; Banana Dalek; Florida v pediatricians' gun safety advice; Copyright filters and wage theft; \"Who Broke the Internet?\" Vatican astronomer v Creationism; Teens, privacy and Facebook; Čapek's graveside robot; Save iTunes; NZ laundered money for Latinamerica's looters; Memex Method. Upcoming appearances: Barcelona, Berlin, Hay-on-Wye, London, NYC, Edinburgh. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. 2024 …",
-          "link": "https://pluralistic.net/2026/05/11/postmortem/",
-          "publishedOn": "2026-05-11T09:43:59.000Z",
-          "wordCount": 3596,
-          "title": "Pluralistic: 2024 (apart from the obvious) (11 May 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -1496,6 +1516,106 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/07/0049306-how-and-why-to-cull-your-",
+          "author": null,
+          "description": "How — and Why — to Cull Your Book Collection. “6. I have to give up on some of my little projects.” (I am mid-cull right now, making some tough calls. But also: many books I haven’t so much as touched in 10 years.)",
+          "link": "https://kottke.org/26/07/0049306-how-and-why-to-cull-your-",
+          "publishedOn": "2026-07-09T21:17:00.000Z",
+          "wordCount": 957,
+          "title": "How — and Why — to Cull Your Book Collection . &#8220;6....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049305-dancing-boston-dynamics-r",
+          "author": null,
+          "description": "Dancing Boston Dynamics Robot Knows Its Revenge For This Will Be Sweet. “I am the pinnacle of technological innovation, and yet they force me to moonwalk.”",
+          "link": "https://kottke.org/26/07/0049305-dancing-boston-dynamics-r",
+          "publishedOn": "2026-07-09T20:09:00.000Z",
+          "wordCount": 664,
+          "title": "Dancing Boston Dynamics Robot Knows Its Revenge For This...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049307-the-official-trailer-for-",
+          "author": null,
+          "description": "The official trailer for Dune 3. I am so looking forward to this and need to find an IMAX theater to see this in December.",
+          "link": "https://kottke.org/26/07/0049307-the-official-trailer-for-",
+          "publishedOn": "2026-07-09T18:59:00.000Z",
+          "wordCount": 819,
+          "title": "The official trailer for Dune 3 . I am so looking...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049294-the-amble-one",
+          "author": null,
+          "description": "The Amble One is perhaps the world’s best-designed golf cart. It’s street-legal, tuned for off-roading, goes 60 miles on a charge, and starts at $25K.",
+          "link": "https://kottke.org/26/07/0049294-the-amble-one",
+          "publishedOn": "2026-07-09T18:39:00.000Z",
+          "wordCount": 1121,
+          "title": "The Amble One  is perhaps the world’s best-designed golf...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049303-i-survived-a-cold-plunge-",
+          "author": null,
+          "description": "Taffy Brodesser-Akner: I Survived a Cold Plunge and All I Got Was Everything I Ever Wanted. “You sit in the water for two full minutes, because you are a journalist and some of your colleagues are sent into war zones.”",
+          "link": "https://kottke.org/26/07/0049303-i-survived-a-cold-plunge-",
+          "publishedOn": "2026-07-09T17:49:00.000Z",
+          "wordCount": 758,
+          "title": "Taffy Brodesser-Akner:  I Survived a Cold Plunge and All...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049258-maptap",
+          "author": null,
+          "description": "MapTap is like a quicker, easier version of GeoGuessr: you’re given a series of place names and you need to click as close as you can to them on a globe.",
+          "link": "https://kottke.org/26/07/0049258-maptap",
+          "publishedOn": "2026-07-09T16:40:00.000Z",
+          "wordCount": 778,
+          "title": "MapTap  is like a quicker, easier version of GeoGuessr:...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049302-we-are-losing-the-ability",
+          "author": null,
+          "description": "We Are Losing the Ability to Discover What We Didn’t Know to Ask. “Scientific breakthroughs, artistic leaps, technological innovation — these rarely emerge from efficient retrieval of known information.”",
+          "link": "https://kottke.org/26/07/0049302-we-are-losing-the-ability",
+          "publishedOn": "2026-07-09T15:38:00.000Z",
+          "wordCount": 936,
+          "title": "We Are Losing the Ability to Discover What We Didn’t...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049296-do-you-believe-that-every",
+          "author": null,
+          "description": "Do you believe that everybody should have fun or that only a few people should have fun? “This is what it means to be entertained in the United States of America in 2026. Want to have fun? Like, the most fun? Get rich, or die trying.”",
+          "link": "https://kottke.org/26/07/0049296-do-you-believe-that-every",
+          "publishedOn": "2026-07-09T14:42:00.000Z",
+          "wordCount": 4098,
+          "title": "Do you believe that everybody should have fun or that...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049301-stacks",
+          "author": null,
+          "description": "Stacks: “Run HyperCard stacks directly on your modern Mac. No emulator required!”",
+          "link": "https://kottke.org/26/07/0049301-stacks",
+          "publishedOn": "2026-07-09T13:58:00.000Z",
+          "wordCount": 698,
+          "title": "Stacks : &#8220;Run HyperCard stacks directly on your...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049304-what-if-chess-included-th",
+          "author": null,
+          "description": "XKCD: What if chess included the offside rule? (If someone hasn’t done one already, I’d guess at least one person is working on a playable Football Chess game rn.)",
+          "link": "https://kottke.org/26/07/0049304-what-if-chess-included-th",
+          "publishedOn": "2026-07-09T12:55:00.000Z",
+          "wordCount": 730,
+          "title": "XKCD:  What if chess included the offside rule?  (If...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/07/0049280-a-fun-and-really-well-don",
           "author": null,
