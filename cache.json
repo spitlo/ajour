@@ -348,16 +348,6 @@
           "wordCount": 185,
           "title": "Speedrun",
           "imageUrl": "https://imgs.xkcd.com/comics/speedrun_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3245/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/results_age.png\" title=\"Please, we need your help. Our research suggests you're the last living descendant of the person who knew how to format this config file.\" alt=\"Please, we need your help. Our research suggests you're the last living descendant of the person who knew how to format this config file.\" />",
-          "link": "https://xkcd.com/3245/",
-          "publishedOn": "2026-05-13T00:00:00.000Z",
-          "wordCount": 187,
-          "title": "Results Age",
-          "imageUrl": "https://imgs.xkcd.com/comics/results_age_2x.png"
         }
       ]
     },
@@ -366,6 +356,16 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "wildcards-in-css",
+          "author": null,
+          "description": "Just a brainfart here, but it's odd that even though we have wildcard selectors throughout CSS, and even partial selectors (I'll explain in a bit) we don't have partial wildcard selectors on top level elements.\nI'm not talking about the \"star\" rule, but what I imagine would be a wildcard on elements selector.",
+          "link": "https://remysharp.com/2026/07/11/wildcards-in-css",
+          "publishedOn": "2026-07-11T00:00:00.000Z",
+          "wordCount": 969,
+          "title": "Wildcards In CSS [blog]",
+          "imageUrl": "https://remysharp.com/images/cards/og/9-3.jpg"
+        },
         {
           "id": "2026-07-09-9fd775a9",
           "author": null,
@@ -604,16 +604,6 @@
           "publishedOn": "2026-05-15T00:00:00.000Z",
           "wordCount": 843,
           "title": "When the Cranes Fly South [book]",
-          "imageUrl": null
-        },
-        {
-          "id": "2026-05-13-7746ef1b",
-          "author": null,
-          "description": "Source: pikuma.com",
-          "link": "https://remysharp.com/links/2026-05-13-7746ef1b",
-          "publishedOn": "2026-05-13T10:44:25.000Z",
-          "wordCount": 486,
-          "title": "NES Programming in 6502 Assembly [link]",
           "imageUrl": null
         }
       ]
@@ -1099,6 +1089,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=13028",
+          "author": "Cory Doctorow",
+          "description": "Today's links Workplace \"flexibility\" isn't: What the gig economy calls flexibility is just risk-shifting. Hey look at this: Delights to delectate. Object permanence: \"Alanya to Alanya\"; ToS are the internet's biggest lie; Soviet jokes; Fox rapists v gag orders; GBAO is the future; \"Fun Family\"; Sacklers get to keep the loot. Upcoming appearances: London, Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Workplace \"flexibility\" isn't (permalink) Here's an irony: the \"gig economy\" is a statistical black hole. Workers, customers and regulators know very little about the most basic aspects of it: how much workers g…",
+          "link": "https://pluralistic.net/2026/07/11/your-risk/",
+          "publishedOn": "2026-07-11T08:54:28.000Z",
+          "wordCount": 4694,
+          "title": "Pluralistic: Workplace \"flexibility\" isn't (11 Jul 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=13024",
           "author": "Cory Doctorow",
@@ -5134,96 +5134,6 @@
           "publishedOn": "2026-05-13T15:13:33.000Z",
           "wordCount": 2193,
           "title": "A map of the regions of the US , as voted on by Reddit...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/05/0048928-basketball-musician",
-          "author": null,
-          "description": "“So, at about 14, I became the team’s unofficial basketball musician,” writes Theocharis Papatrechas. “A big shot earned a triumphant snare drum roll with a resolving crash. And if someone missed badly — an airball — I’d drop in a ‘du-ba-dum’”.",
-          "link": "https://kottke.org/26/05/0048928-basketball-musician",
-          "publishedOn": "2026-05-12T20:00:00.000Z",
-          "wordCount": 776,
-          "title": "&#8220;So, at about 14, I became the team&#8217;s...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/05/the-world-press-freedom-index-at-global-25-year-low",
-          "author": null,
-          "description": "Since Reporters Without Borders started tracking their World Press Freedom Index 25 years ago, the global rating has never been lower than the 2026 score. From a summary of their analysis:\nFor the first time in the history of the Reporters Without Borders (RSF) World Press Freedom Index, over half of the world’s countries now fall into the “difficult” or “very serious” categories for press freedom. In 25 years, the average score of all 180 countries and territories surveyed in the Index has never been so low. Since 2001, the expansion of increasingly restrictive legal arsenals — particularly those linked to national security policies — has been steadily eroding the right to information, even in democratic countries. The Index’s legal indicator has declined the most over the past year, a cl…",
-          "link": "https://kottke.org/26/05/the-world-press-freedom-index-at-global-25-year-low",
-          "publishedOn": "2026-05-12T19:00:00.000Z",
-          "wordCount": 1212,
-          "title": "The World Press Freedom Index at Global 25-Year Low",
-          "imageUrl": "http://kottke.org/plus/misc/images/editor-1778605717-8e9fa6ed.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/05/0048921-sounds-of-the-60s-the-ibm",
-          "author": null,
-          "description": "Sounds of the 60s: the IBM 1401 (punchcard collation, reel-to-reel recorder, etc). These aren’t the sounds of my computing childhood but I imagine they’re nostalgic for some of you.",
-          "link": "https://kottke.org/26/05/0048921-sounds-of-the-60s-the-ibm",
-          "publishedOn": "2026-05-12T18:19:00.000Z",
-          "wordCount": 938,
-          "title": "Sounds of the 60s: the IBM 1401  (punchcard collation,...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/05/0048931-yeah-shes-running",
-          "author": null,
-          "description": "Jamelle Bouie thinks Alexandria Ocasio-Cortez is positioning herself for a 2028 presidential run. “Yeah, she’s running.”",
-          "link": "https://kottke.org/26/05/0048931-yeah-shes-running",
-          "publishedOn": "2026-05-12T17:28:56.000Z",
-          "wordCount": 436,
-          "title": "Jamelle Bouie thinks Alexandria Ocasio-Cortez is...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/05/being-fed-content",
-          "author": null,
-          "description": "From an interview (gift link) with Don Hertzfeldt, creator of World of Tomorrow:\nNot to sound like a curmudgeon, but when I was a teenager, I took the train to go to the record store to find rare stuff. Spotify is way more convenient, but that wasn’t the point. The point was to get out and to feel like you’re hunting, to feel like you’re living your life. I’m going to the movies, I’m going to this show. What streaming has done—it’s very convenient, but it’s taken the feeling of going hunting and turned it into we’re all just being fed. We’re all farm animals that are just being fed, and we’re being fed content. You can just stay home. Just stay home. We’ll just feed it to you. No wonder everyone’s depressed.\n\n\t\nI feel like Xochitl Gonzalez’s piece on robotaxis, People Who Don’t Like People Are Making All of Our Decisions, rhymes with Hertzfeldt’s comments:\nFor two decades, I have watched us blindly fall for one sales pitch after another. Every app and advancement comes shrouded in promises of “progress” and “connectivity” and “convenience.” And in many early cases — such as the invention of ride-sharing apps — Silicon Valley truly did deliver a better mousetrap. But we’re getting diminishing returns. We are living in Silicon Valley’s future now, and we are lonelier, more anxious, and more polarized than ever before.\n\n \n\n        \n         \nTags: Don Hertzfeldt · interviews · Xochitl Gonzalez",
-          "link": "https://kottke.org/26/05/being-fed-content",
-          "publishedOn": "2026-05-12T16:45:00.000Z",
-          "wordCount": 1929,
-          "title": "Being Fed Content",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/05/0048913-a-few-weeks-of-xs-algorit",
-          "author": null,
-          "description": "Study: “A few weeks of X’s algorithm can make you more right‑wing – and it doesn’t wear off quickly.” People using the “For You” feed were more likely to favor GOP policies, less likely to want Trump prosecuted, and were more pro-Russia (vs Ukraine).",
-          "link": "https://kottke.org/26/05/0048913-a-few-weeks-of-xs-algorit",
-          "publishedOn": "2026-05-12T15:59:00.000Z",
-          "wordCount": 527,
-          "title": "Study:  &#8220;A few weeks of X&#8217;s algorithm can...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/05/can-you-see-the-world-when-you-close-your-eyes",
-          "author": null,
-          "description": "Aphantasia (the inability to visualize) is one of those things that I find endlessly fascinating; I’ve written about it a few times since 2016, most recently in response to Larissa MacFarquhar’s 2025 piece for the New Yorker: Some People Can’t See Mental Images. The Consequences Are Profound.\nMany of his correspondents, he learned, had discovered their condition very recently, after reading about it or hearing it described on the radio. Their whole lives, they had heard people talk about picturing, and imagining, and counting sheep, and visualizing beaches, and seeing in the mind’s eye, and assumed that all those idioms were only metaphors or colorful hyperbole. It was amazing how profoundly people could misunderstand one another, and assume that others didn’t mean what they were saying—ho…",
-          "link": "https://kottke.org/26/05/can-you-see-the-world-when-you-close-your-eyes",
-          "publishedOn": "2026-05-12T14:55:00.000Z",
-          "wordCount": 3743,
-          "title": "Can You See the World When You Close Your Eyes?",
-          "imageUrl": "http://kottke.org/plus/misc/images/editor-1778519863-b06228d6.png"
-        },
-        {
-          "id": "https://kottke.org/26/05/0048926-were-diversifying-the-uni",
-          "author": null,
-          "description": "We’re Diversifying the University by Hiring More Crackpots. “For too long, the university has ignored the wisdom of the donor class and hired based on academic excellence. Regrettably, this has led to the underrepresentation of discredited viewpoints…”",
-          "link": "https://kottke.org/26/05/0048926-were-diversifying-the-uni",
-          "publishedOn": "2026-05-12T14:05:00.000Z",
-          "wordCount": 496,
-          "title": "We’re Diversifying the University by Hiring More...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/05/0048925-digg",
-          "author": null,
-          "description": "Digg has (sorta) relaunched (again) and instead of an underwhelming Reddit clone, it’s now just scraping noted fascist cesspool “X” for AI news and telling us that Sam Altman is influential in AI? This is embarrassing. It’ll probably be a huge success.",
-          "link": "https://kottke.org/26/05/0048925-digg",
-          "publishedOn": "2026-05-12T13:23:00.000Z",
-          "wordCount": 832,
-          "title": "Digg  has (sorta) relaunched (again) and instead of an...",
           "imageUrl": ""
         }
       ]
