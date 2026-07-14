@@ -338,16 +338,6 @@
           "wordCount": 187,
           "title": "Particle Census",
           "imageUrl": "https://imgs.xkcd.com/comics/particle_census_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3246/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/speedrun.png\" title=\"Usain Bolt holds the world record in the 100 meter speedrun.\" alt=\"Usain Bolt holds the world record in the 100 meter speedrun.\" />",
-          "link": "https://xkcd.com/3246/",
-          "publishedOn": "2026-05-15T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Speedrun",
-          "imageUrl": "https://imgs.xkcd.com/comics/speedrun_2x.png"
         }
       ]
     },
@@ -605,16 +595,6 @@
           "wordCount": 3062,
           "title": "The 30 year game [blog]",
           "imageUrl": "https://remysharp.com/images/remy-2026-gameboy.jpg"
-        },
-        {
-          "id": "when-the-cranes-fly-south",
-          "author": null,
-          "description": "Took me a minute to get into, but then…I cried. The good kind.\nIt took me until around 20% of the book to get on with it properly. I was struggling to even want to pick up the book. It's well written, but the subject, end of life, was so unappealing that I found myself wanting to avoid reading the book.\nAt some point around 1/5 of the way in, this feeling settled and I was swept along by the narrative that the main character, Bo, gives us.\nI think reading this there's going to be different aspects that hit different people hardest. I'm not a dog person, so the thread about Sixten, his dog, though sad (the dog doesn't die!) it didn't gut punch me.\nI did however relate hard to the inner monologue not linking up to what's actually said. Something I suspect most people can relate to - which I suspect is the reason this book is well recommended.\nThe book is told almost exclusively from the thoughts of Bo, the elderly 89 year old man (which took me quite a few pages to actually work out). From his thoughts we travel back and forth in his memory which worked really well. I didn't feel lost at all, maybe because Bo's memories felt like they flowed naturally back and forth.\nThe story really does feel like it's being faithful to the human flaws many of us share.\nIt also, for me, did an excellent job of building up my relationship with Bo and gently brought me to tears right at the end in a way that made me message my kids to tell them I love them.",
-          "link": "https://remysharp.com/books/2026/when-the-cranes-fly-south",
-          "publishedOn": "2026-05-15T00:00:00.000Z",
-          "wordCount": 843,
-          "title": "When the Cranes Fly South [book]",
-          "imageUrl": null
         }
       ]
     },
@@ -868,7 +848,18 @@
       "title": "Lea Verou’s blog",
       "feedUrl": "https://feeds.feedburner.com/leaverou",
       "siteUrl": "https://lea.verou.me/feed.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://lea.verou.me/blog/2026/polyfills/",
+          "author": null,
+          "description": "If you’re a web developer, you may find the title baffling.\n“Polyfills need defending? Who’s against them?!” you might ask.\nTwo weeks ago, I’d be in the same boat.\nPolyfills and I go way back.\nI dug up a JSConf EU talk of mine from 2011 on exactly this topic.\nOne of the few opinions I have held strongly over the years is that polyfills are a net positive for the Web, and the good outweighs the rare failure cases where polyfills became too popular, too soon, and restricted the design space for the native API.\nAs with most things in life, it’s all about the cost-benefit.\nWe don’t stop flying planes because crashes happen.\nWe do a post-mortem and figure out how we can prevent the same accident from happening again.\nAnd crucially, the point of a post-mortem is to find the root cause — not to g…",
+          "link": "https://lea.verou.me/blog/2026/polyfills/",
+          "publishedOn": "2026-07-13T00:00:00.000Z",
+          "wordCount": 4326,
+          "title": "In defense of polyfills",
+          "imageUrl": "https://lea.verou.me/blog/2026/polyfills/images/cover.png"
+        }
+      ]
     },
     {
       "title": "TEXT-MODE",
@@ -1037,18 +1028,7 @@
       "title": "Julia Evans",
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "https://jvns.ca/atom.xml",
-      "articles": [
-        {
-          "id": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
-          "author": null,
-          "description": "Hello! 8 years ago, I wrote excitedly about discovering Tailwind.\nAt that time I really had no idea how to structure my CSS code and given the\nchoice between a pile of complete chaos and Tailwind, I was really happy to choose\nTailwind. It helped me make a lot of tiny sites!\nI spent the last week or so migrating a couple of sites away from Tailwind and\ntowards more semantic HTML + vanilla CSS, and it was SO fun and SO interesting,\nso here are some things I learned!\nAs usual I’m not a full-time frontend developer and so all of my CSS learning\nhas happened in fits and starts over many years.\nit turns out Tailwind taught me a lot\nWhen I started thinking about structuring CSS, I was intimidated at first: I’m\nnot very good at structuring my CSS! But then I started reading blog posts\ntalking abou…",
-          "link": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
-          "publishedOn": "2026-05-15T00:00:00.000Z",
-          "wordCount": 1961,
-          "title": "Moving away from Tailwind, and learning to structure my CSS",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Josh Comeau's blog",
@@ -1099,6 +1079,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=13031",
+          "author": "Cory Doctorow",
+          "description": "Today's links Why aren't AI companies competing directly with their customers? Why sell picks and shovels if you've already struck gold? Hey look at this: Delights to delectate. Object permanence: Pro-logging Lorax; Anti-DRM picture book; Whose cops did America train? Day on a Device; Theresa May x Fresh Prince; Ratfucking Corbyn supporters; Infosec v W3C DRM; Remix Public Enemy; Hungary's Cold War cartoons; America is unpaving its roads; Olympic overruns are world champions; Vivendi lobbyist is now UN copyright boss; Boris's racism; Facebook's insider stalkers; Semantic drift, ethical drift. Upcoming appearances: Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I …",
+          "link": "https://pluralistic.net/2026/07/13/go-meta-meta/",
+          "publishedOn": "2026-07-13T08:15:24.000Z",
+          "wordCount": 3359,
+          "title": "Pluralistic: Why aren't AI companies competing directly with their customers? (13 Jul 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=13028",
           "author": "Cory Doctorow",
@@ -1458,16 +1448,6 @@
           "wordCount": 3689,
           "title": "Pluralistic: Making sense of Trump's unscheduled sudden midair disassembly of the American empire (16 May 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=12809",
-          "author": "Cory Doctorow",
-          "description": "Today's links No one wants a permanent gerontocracy: The one policy everyone agrees on. Hey look at this: Delights to delectate. Object permanence: Wolfengitmo; Facebook condemns Google privacy invasion; Michael Moore on bin Laden; TSA v babies; Tendril perversion; \"Buy now\"; Uber Ch(eats); Who Broke the Internet (II)? Upcoming appearances: Berlin, Hay-on-Wye, London, NYC, Edinburgh. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. No one wants a permanent gerontocracy (permalink) Perhaps the most demoralizing part of Trumpismo is the fear that the people around you are so cruel and senseless that they approve of the violence, the racism, the pig-ignorant lies and rampa…",
-          "link": "https://pluralistic.net/2026/05/15/not-ok-boomer/",
-          "publishedOn": "2026-05-15T12:38:04.000Z",
-          "wordCount": 3231,
-          "title": "Pluralistic: No one wants a permanent gerontocracy (15 May 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -1516,6 +1496,126 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/07/0049329-by-looking-for-cosmic-coo",
+          "author": null,
+          "description": "“A star located about 1,300 light-years from Earth shows signs of having devoured one of its planets — and is now gearing up for a second helping…” Scientists found signs of the meal by looking for “cosmic cookie crumbs”.",
+          "link": "https://kottke.org/26/07/0049329-by-looking-for-cosmic-coo",
+          "publishedOn": "2026-07-13T23:50:00.000Z",
+          "wordCount": 761,
+          "title": "&#8220;A star located about 1,300 light-years from Earth...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/digger",
+          "author": null,
+          "description": "I’d seen that there was a new Tom Cruise movie coming out this fall called Digger, but I was not prepared for the trailer, in which we see Cruise playing a dipshit oligarch in what appears to be a Dr. Strangelove-style satire/thriller.\nThe most powerful man in the world embarks on a frantic mission to prove he is humanity’s savior before the disaster he’s unleashed destroys everything.\n\n\t\nThe film is directed by Alejandro Iñárritu (Amores perros, Birdman, The Revenant) and also stars John Goodman as a geriatric president, Sandra Hüller, and Jesse Plemons. Digger has just moved near the top of my most-anticipated movies of 2026 list.\n\n \n\n        \n         \nTags: Digger · movies · Tom Cruise · trailers · video",
+          "link": "https://kottke.org/26/07/digger",
+          "publishedOn": "2026-07-13T21:35:00.000Z",
+          "wordCount": 806,
+          "title": "Digger",
+          "imageUrl": "https://i.ytimg.com/vi/qORTe1wW3Wg/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/07/0049320-til-about-fredkins-parado",
+          "author": null,
+          "description": "TIL about Fredkin’s paradox. “With this kind of decision, what Fredkin’s paradox tells us is if it’s very difficult to decide, it’s probably because the alternatives are equivalent, and therefore it doesn’t matter which one you choose.”",
+          "link": "https://kottke.org/26/07/0049320-til-about-fredkins-parado",
+          "publishedOn": "2026-07-13T20:39:00.000Z",
+          "wordCount": 942,
+          "title": "TIL about Fredkin’s paradox . “With this kind of...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049291-the-universe-of-short-fil",
+          "author": null,
+          "description": "The Universe of Short Film is an amazing site for watching, sharing, and connecting around short films. This is really cool…not sure why the site isn’t better known.",
+          "link": "https://kottke.org/26/07/0049291-the-universe-of-short-fil",
+          "publishedOn": "2026-07-13T19:49:00.000Z",
+          "wordCount": 754,
+          "title": "The Universe of Short Film  is an amazing site for...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/earths-holes",
+          "author": null,
+          "description": "From XKCD, a tour of some of the Earth’s deepest and most notable holes, including mines, caves, boreholes, subway stations, lakes, tunnels, neutrino detectors, and, of course, the Mariana Trench.\nI was surprised to learn that a pair of boreholes, the Kola Superdeep Borehole and the Deepwater Horizon Borehole, are actually deeper than the Mariana Trench. Explain XKCD has more info on each of the various holes, including the truly bonkers Cave of Crystals in Mexico.\n\n \n\n        \n         \nTags: geology · infoviz · Randall Munroe · xkcd",
+          "link": "https://kottke.org/26/07/earths-holes",
+          "publishedOn": "2026-07-13T18:49:00.000Z",
+          "wordCount": 771,
+          "title": "Earth’s Holes",
+          "imageUrl": "http://kottke.org/plus/misc/images/editor-1783947933-b7fadee4.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/07/0049319-ocean-vuong-has-a-photogr",
+          "author": null,
+          "description": "Ocean Vuong has a photograpy show opening at The Wadsworth Museum in Hartford, CT in August. Vuong used “portraiture, landscape, and snapshots to document queer and immigrant life in the Connecticut River Valley over two decades”.",
+          "link": "https://kottke.org/26/07/0049319-ocean-vuong-has-a-photogr",
+          "publishedOn": "2026-07-13T17:59:00.000Z",
+          "wordCount": 762,
+          "title": "Ocean Vuong has a photograpy show opening at The...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049321-when-ai-is-a-member-of-th",
+          "author": null,
+          "description": "When A.I. Is a Member of the Family. How a family of three in a Cleveland suburb uses AI chatbots. This is wild.",
+          "link": "https://kottke.org/26/07/0049321-when-ai-is-a-member-of-th",
+          "publishedOn": "2026-07-13T17:11:00.000Z",
+          "wordCount": 698,
+          "title": "When A.I. Is a Member of the Family . How a family of...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/the-best-shots-from-the-2026-aerial-photographer-of-the-year-contest",
+          "author": null,
+          "description": "The best aerial photography reminds us that we don’t have to go all the way to space to experience a small helping of the overview effect. The 2026 Aerial Photographer of the Year contest celebrates the best photos taken from the air; here are a few of my favorites:\n\n\n\n\n\n\n\n\nPhoto credits: \nPaweł Jagiełło, Ak-Say Canyon, Kyrgyzstan.\nAzim Khan Ronnie, a rowing team in Switzerland.\nChin Leong Teo, the Park Royal Hotel, Singapore.\nAzim Khan Ronnie, workers harvesting/drying red chili peppers, Bangladesh.\nSavadmon Avalachamveettil, the Kumbh Mela pilgrimage crowd, India.\nMarcin Zając, Golden Gate Bridge, San Francisco.\nChin Leong Teo, crosswalk in Tokyo.\nDaniel Viñé Garcia, Cono de Arita, Argentina.\nYou can see more photos from the winning photographers at the contest’s website, Colossal, PetaPixel, and DIY Photography. (via colossal)\n\n \n\n        \n         \nTags: best of · best of 2026 · drones · photography",
+          "link": "https://kottke.org/26/07/the-best-shots-from-the-2026-aerial-photographer-of-the-year-contest",
+          "publishedOn": "2026-07-13T16:11:00.000Z",
+          "wordCount": 833,
+          "title": "The Best Shots From the 2026 Aerial Photographer of the Year Contest",
+          "imageUrl": "http://kottke.org/plus/misc/images/editor-1783950611-521bf972.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/07/0049316-a-list-of-the-new-foods-o",
+          "author": null,
+          "description": "A list of the new foods on offer at the Minnesota State Fair this year. They’re all some variation of “jerked pork rolled in butter & sugar, deep fried in dill pickle batter, and served with a side of cheese curd mayo”; I’d happily try any of them.",
+          "link": "https://kottke.org/26/07/0049316-a-list-of-the-new-foods-o",
+          "publishedOn": "2026-07-13T15:12:00.000Z",
+          "wordCount": 1163,
+          "title": "A list of the new foods on offer at the Minnesota State...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049312-once-unimaginable-publish",
+          "author": null,
+          "description": "Once Unimaginable, Publishers Are Preparing to Opt Out of Google Search. “We’ve been clear about what we want. We want a technical solution that allows you to be discoverable without having to give your content away for free.”",
+          "link": "https://kottke.org/26/07/0049312-once-unimaginable-publish",
+          "publishedOn": "2026-07-13T14:27:00.000Z",
+          "wordCount": 778,
+          "title": "Once Unimaginable, Publishers Are Preparing to Opt Out...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/exploring-nyc-with-next-generation-skaters",
+          "author": null,
+          "description": "This might be my new favorite skate video? It follows a pair of young skaters around the city as they chat about their friendship, share tips about living life, and try skating everything that is even remotely skateable.\nBest friends, Ari and Luca are two of the most promising NYC talents right now. They are consistently street skating, crushing events, and are keeping skateboarding exciting for a generation we seemingly missed.\nIf these two stick with it, we have no problem betting that they’ll be the next big names out of the city, and we were lucky enough to catch them right before they arrive.\n\n\t\n(via craid mod)\n\n \n\n        \n         \nTags: cities · NYC · skateboarding · sports · video",
+          "link": "https://kottke.org/26/07/exploring-nyc-with-next-generation-skaters",
+          "publishedOn": "2026-07-13T13:48:00.000Z",
+          "wordCount": 1223,
+          "title": "Exploring NYC With Next Generation Skaters",
+          "imageUrl": "https://i.ytimg.com/vi/eBtGXMiIj58/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/07/0049309-can-we-agree-to-pause-the",
+          "author": null,
+          "description": "Can we agree to pause the AI race? “If we can’t, then we are not as sovereign as we imagine; if we can’t, a machine god has already taken over this planet, and it’s called the market.”",
+          "link": "https://kottke.org/26/07/0049309-can-we-agree-to-pause-the",
+          "publishedOn": "2026-07-13T12:55:46.000Z",
+          "wordCount": 653,
+          "title": "Can we agree to pause the AI race?  &#8220;If we can’t,...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/07/0049298-this-ancient-egyptian-pai",
           "author": null,
@@ -4934,86 +5034,6 @@
           "publishedOn": "2026-05-15T13:56:06.000Z",
           "wordCount": 788,
           "title": "Sarah Rose (who is blind): &#8220;Meta glasses are...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/05/how-russell-vought-became-the-shadow-president",
-          "author": null,
-          "description": "One of the biggest assholes in the Trump regime is Russell Vought — and that’s really saying something; it’s a fierce competition. He’s the guy who said in 2023 that he wanted to put federal workers “in trauma”. ProPublica produced a video in Oct 2025 about how Vought is acting as a shadow president in his drive to dismantle the US federal government.\nRussell Vought is one of the most powerful people in the Trump administration. For almost three decades, he worked in Congress and held prominent roles at conservative think tanks. But he was little known outside of political circles. He’s now the director of the White House Office of Management and Budget and the chief architect of President Donald Trump’s campaign to radically reduce the size of the federal bureaucracy. \nIn this video, ProP…",
-          "link": "https://kottke.org/26/05/how-russell-vought-became-the-shadow-president",
-          "publishedOn": "2026-05-14T20:00:00.000Z",
-          "wordCount": 777,
-          "title": "How Russell Vought Became the Shadow President",
-          "imageUrl": "https://i.ytimg.com/vi/w1LuV82l0vs/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/05/0048947-inserted-an-ad-for-febrez",
-          "author": null,
-          "description": "Omg, Amazon Prime inserted an ad for Febreze in the midst of the most famous match cut in the history of cinema (in Kubrick’s 2001, when the ape-thrown bone turns into a spacecraft). I don’t know whether to laugh or cry (rn, it’s both).",
-          "link": "https://kottke.org/26/05/0048947-inserted-an-ad-for-febrez",
-          "publishedOn": "2026-05-14T18:35:00.000Z",
-          "wordCount": 1547,
-          "title": "Omg, Amazon Prime  inserted an ad for Febreze  in the...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/05/0048949-japan-runs-out-of-robot-w",
-          "author": null,
-          "description": "A very good, very 2026 headline: Japan Runs Out of Robot Wolves in Fight Against Bears. “Starting at around $4,000, each bespoke Monster Wolf is now equipped with battery power, solar panels, and detection sensors.”",
-          "link": "https://kottke.org/26/05/0048949-japan-runs-out-of-robot-w",
-          "publishedOn": "2026-05-14T17:49:00.000Z",
-          "wordCount": 763,
-          "title": "A very good, very 2026 headline:  Japan Runs Out of Robot...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/05/when-your-participation-is-decoration",
-          "author": null,
-          "description": "This is a smart piece about where we are in America right now, post-Citizen’s United, post-Voting Rights Amendment, post-Dobbs, mid-MAGA: The VRA Was the Nice Version (archive).\nFirst, let’s be honest about what the Voting Rights Act actually was, because everything here on out flows from it. It wasn’t a gift, not charity, and definitely not some magnanimous extension of democracy to people who’d been waiting their turn.\nIt was architecture. Lyndon Johnson, who had few illusions about how power actually worked, understood something the current Court either doesn’t know or doesn’t care to.\nThe bargain was simple: your participation produces results, so stay in the game.\nThat deal wasn’t made for the benefit of Black Americans alone, though it was Black blood that paid for it. It was made for the benefit of a country that needed a working, peaceful way for people with every reason in the world to burn the whole thing down to instead choose to work within it. The VRA wasn’t just the nice move — it was the smart one. Its purpose was to keep legitimate grievance inside the system rather than outside it.\nNow they’ve put it back outside.\n\n\t\nAnd what happens when you can’t work within the system to effect change? People want to route around it (emphasis mine):\nThe question is whether this country holds or comes apart, and coming apart doesn’t mean a stern editorial in The Atlantic. It means what it has always meant, every time a society told a critical mass of its members that their participation was decoration. It means blood. It means whole regions of this country deciding that the social contract is a piece of paper the other side already burned, and they’re under no obligation to honor a corpse.\nThat’s the alternative. Not inconvenience, not even a bad news cycle. That.\n\n\t\nThe whole thing is worth a read.\n\n \n\n        \n         \nTags: politics · usa",
-          "link": "https://kottke.org/26/05/when-your-participation-is-decoration",
-          "publishedOn": "2026-05-14T16:54:00.000Z",
-          "wordCount": 716,
-          "title": "When Your Participation Is Decoration",
-          "imageUrl": "http://kottke.org/plus/misc/images/editor-1778771306-8999b044.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/05/0048942-i-believe-in-myself-thats",
-          "author": null,
-          "description": "“I believe in myself. That’s why I commit.” A young skater doesn’t give up trying to land a three-stair kickflip.",
-          "link": "https://kottke.org/26/05/0048942-i-believe-in-myself-thats",
-          "publishedOn": "2026-05-14T16:12:00.000Z",
-          "wordCount": 759,
-          "title": "&#8220;I believe in myself. That&#8217;s why I...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/05/shape-of-dreams-zendaya-spike-jonze",
-          "author": null,
-          "description": "Zendaya co-created a new collection for On, the Swiss fashion company, and Spike Jonze directed this cool promotional video starring the actress. I’ve always loved his aesthetic — along with Michel Gondry, no one makes these types of videos seem “hand-crafted” (in a way that is hard to articulate) more than Jonze.\n\n \n\n        \n         \nTags: Spike Jonze · video · Zendaya",
-          "link": "https://kottke.org/26/05/shape-of-dreams-zendaya-spike-jonze",
-          "publishedOn": "2026-05-14T15:12:00.000Z",
-          "wordCount": 776,
-          "title": "Shape of Dreams (Zendaya × Spike Jonze)",
-          "imageUrl": "https://i.ytimg.com/vi/6NVAzWEgTXo/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/05/0048941-a-list-of-the-best-100-no",
-          "author": null,
-          "description": "The Guardian asked authors, critics, and academics to help compile a list of the best 100 novels of all time. They’ve done 41-100 so far. Selecting a book will show you who voted for it, then click on the voter’s name to see their other choices.",
-          "link": "https://kottke.org/26/05/0048941-a-list-of-the-best-100-no",
-          "publishedOn": "2026-05-14T14:33:00.000Z",
-          "wordCount": 776,
-          "title": "The Guardian asked authors, critics, and academics to...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/05/0048940-the-2026-national-recordi",
-          "author": null,
-          "description": "The 2026 National Recording Registry inductees were announced today. “The 2026 selections mark the first recordings by Taylor Swift and Beyoncé chosen for the registry.” Also: music from Weezer, The Go-Go’s, Chaka Khan, and Johnny Cash.",
-          "link": "https://kottke.org/26/05/0048940-the-2026-national-recordi",
-          "publishedOn": "2026-05-14T13:53:31.000Z",
-          "wordCount": 775,
-          "title": "The 2026 National Recording Registry inductees were...",
           "imageUrl": ""
         }
       ]
