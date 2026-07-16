@@ -100,6 +100,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3272/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/time_change.png\" title=\"All discussions of daylight saving time policy are doomed by a mix of contradictory, inconsistent, and impossible preferences, which is why I think the only thing we can really hope to do is to make it worse.\" alt=\"All discussions of daylight saving time policy are doomed by a mix of contradictory, inconsistent, and impossible preferences, which is why I think the only thing we can really hope to do is to make it worse.\" />",
+          "link": "https://xkcd.com/3272/",
+          "publishedOn": "2026-07-15T00:00:00.000Z",
+          "wordCount": 187,
+          "title": "Time Change",
+          "imageUrl": "https://imgs.xkcd.com/comics/time_change_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3271/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/the_princess_and_the_pea.png\" title=\"Once we've fully explored this space, we can start varying the number of princesses.\" alt=\"Once we've fully explored this space, we can start varying the number of princesses.\" />",
@@ -357,6 +367,26 @@
       "siteUrl": "https://remysharp.com",
       "articles": [
         {
+          "id": "2026-07-14-c60c39d6",
+          "author": null,
+          "description": "I've been banging on about this for a while now and I absolutely welcome the prospect of this being a reality, and hopefully not just for children. Adults desperately need it too:\nUnder Assembly Bill 1709 by Democratic Assemblyman Josh Lowenthal, social media companies might soon be forced to remove addictive features.\n\ninfinite scroll, auto play, recommended algorithms, and push notifications are product features. They are not speech.\n\nOriginal link: www.sfgate.com/[…]/meta-social-media-teenagers-22337724.php",
+          "link": "https://remysharp.com/links/2026-07-14-c60c39d6",
+          "publishedOn": "2026-07-14T19:12:57.000Z",
+          "wordCount": 575,
+          "title": "The infinite scroll may become endangered if controversial Calif. law passes [link]",
+          "imageUrl": null
+        },
+        {
+          "id": "2026-07-14-6ee288d7",
+          "author": null,
+          "description": "An excellent post on polyfills, talking through their impact, what issues people (mostly in the standards world) face.\nChock full of quotable lines, way too many to include to do the post any justice, save perhaps Lea's last headline:\n\nPolyfills make the Web faster, inclusive, and more robust\n\nHighly recommend reading for a greater understanding of the role of polyfills on the web.\nOriginal link: lea.verou.me/[…]/polyfills",
+          "link": "https://remysharp.com/links/2026-07-14-6ee288d7",
+          "publishedOn": "2026-07-14T12:24:16.000Z",
+          "wordCount": 552,
+          "title": "In defense of polyfills • Lea Verou [link]",
+          "imageUrl": null
+        },
+        {
           "id": "2026-07-12-4e9c9652",
           "author": null,
           "description": "TIL: git (the command line tool) now contains LLM generated code (I'm still unsure, we're calling this generative AI, right?). Landed in Jan 2026.\nI appreciate there's some folks out there that don't want to touch LLM generated content or have it in your tool chains, I'm just going to assume that's going to be very hard as time goes on.\nThough I do also appreciate there are projects working thanklessly to achieve just that.\nOriginal link: github.com/[…]/d7971544fe17378f44f49983010dbfc1834f7bef",
@@ -595,16 +625,6 @@
           "wordCount": 850,
           "title": "How I foot-gunned our newsletter this week [blog]",
           "imageUrl": "https://remysharp.com/images/dmarc.avif"
-        },
-        {
-          "id": "the-30-year-game",
-          "author": null,
-          "description": "Today I'm releasing my Game Boy game called Marbles² (or Marbles Squared). It's a port of a game that I originally wrote back in 2002, but is a game that started in my life in (or around) 1996.\nThe development this iteration of the game, the one in 2026, took me about a week and I haven't written a single line of code. Here's how things have changed.",
-          "link": "https://remysharp.com/2026/05/17/the-30-year-game",
-          "publishedOn": "2026-05-17T00:00:00.000Z",
-          "wordCount": 3062,
-          "title": "The 30 year game [blog]",
-          "imageUrl": "https://remysharp.com/images/remy-2026-gameboy.jpg"
         }
       ]
     },
@@ -1502,18 +1522,7 @@
       "title": "Neil Panchal",
       "feedUrl": "https://neil.computer/rss/",
       "siteUrl": "https://neil.computer/",
-      "articles": [
-        {
-          "id": "6a092420d5e103044cd684d3",
-          "author": "Neil Panchal",
-          "description": "I have always wondered about the performance characteristics of virtualization. Despite the caveats in testing methodology, workloads, etc., it'd be nice to see what the performance penalty is for using Baremetal vs. Proxmox vs. ESXi. Googling for answers results in some ancient paper from like 2008. Asking LLMs",
-          "link": "https://neil.computer/notes/baremetal-vs-proxmox-vs-esxi-performance-geekbench-scores/",
-          "publishedOn": "2026-05-17T03:03:10.000Z",
-          "wordCount": null,
-          "title": "Baremetal vs. Proxmox vs. ESXi Performance Geekbench Scores",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Nicky's New Shtuff",
@@ -1526,6 +1535,96 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/07/0049340-a-few-highlights-from-a-c",
+          "author": null,
+          "description": "A few highlights from a collection of lovely woodblock-printed sugoroku game boards from Japan. “The gameboards use stories and maps to teach children history and geography.”",
+          "link": "https://kottke.org/26/07/0049340-a-few-highlights-from-a-c",
+          "publishedOn": "2026-07-15T23:13:00.000Z",
+          "wordCount": 728,
+          "title": "A few highlights from a collection of lovely...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/the-naturalists-library-1833-43",
+          "author": null,
+          "description": "Nicholas Rougeux, whose work I have featured here before, has published a complete digital edition of William Jardine’s 40-volume book series on natural history published in the early-to-mid 19th-century. As part of the project, Rougeux restored each of the more than 1300 illustrations in the library, and the results are fantastic.\n\n\n\n\n\n\nRougeux wrote a post on the history of The Naturalist’s Library and how the project came about.\nThe Library is credited with having a significant democratizing effect on the study of natural history because Jardine and Lizars prioritized affordability and portability. Each book was only 4 by 6 inches and priced at six shillings, making them a much more accessible alternative to the “unwieldy folios” from other naturalists. This led to a tremendous demand f…",
+          "link": "https://kottke.org/26/07/the-naturalists-library-1833-43",
+          "publishedOn": "2026-07-15T22:03:00.000Z",
+          "wordCount": 1042,
+          "title": "The Naturalist’s Library (1833-43)",
+          "imageUrl": "http://kottke.org/plus/misc/images/editor-1784035172-2e01167f.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/07/0049341-legibility-of-effort-in-t",
+          "author": null,
+          "description": "Legibility of effort in the LLM age. “What software (and writing, to an extent) is missing now is legibility of effort - the ability to tell at a glance whether something took a human meaningful work.”",
+          "link": "https://kottke.org/26/07/0049341-legibility-of-effort-in-t",
+          "publishedOn": "2026-07-15T18:50:00.000Z",
+          "wordCount": 656,
+          "title": "Legibility of effort in the LLM age . &#8220;What...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/lionel-messi-bathing-a-baby-lamine-yamal",
+          "author": null,
+          "description": "These have to be some of the most remarkable sports photos of all time: a 20-year-old Lionel Messi bathing a five-month-old Lamine Yamal.\n\n\n\nTwo of the best football players in the world, one a Barcelona legend and another a Barca legend in the making. Both came up through the ranks of the club’s La Masia youth academy. Both wore number 19 for Barca before switching to the number 10. And if Argentina can advance past England in this afternoon’s semifinal match, the two will face each other in the World Cup final on Sunday. It’s like if there was a photo of Muhammad Ali holding Mike Tyson as a baby. Remarkable.\nAnd the way the photos happened is completely random; Yamal’s family didn’t have footballing connections or anything like that. The photos were taken by photographer Joan Monfort in …",
+          "link": "https://kottke.org/26/07/lionel-messi-bathing-a-baby-lamine-yamal",
+          "publishedOn": "2026-07-15T17:36:52.000Z",
+          "wordCount": 1025,
+          "title": "Lionel Messi Bathing a Baby Lamine Yamal",
+          "imageUrl": "http://kottke.org/plus/misc/images/editor-1784135308-544ebcf1.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/07/0049339-ted-gioia",
+          "author": null,
+          "description": "Ted Gioia: “Works like the Odyssey are ritualistic and trance-inducing. They are propelled by music and driven by rhythm. They cross a border beyond literature, and enter something more transcendent and metaphysical.”",
+          "link": "https://kottke.org/26/07/0049339-ted-gioia",
+          "publishedOn": "2026-07-15T17:08:00.000Z",
+          "wordCount": 824,
+          "title": "Ted Gioia : &#8220;Works like the Odyssey are...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049337-good-interview-with-craig",
+          "author": null,
+          "description": "Good interview with Craig Mod about how he uses LLMs: “using AI as a research assistant, why he keeps a tech-free zone in the mornings for deep thinking, and why he’s resisting the pull of the ‘mainlining’ AI era”.",
+          "link": "https://kottke.org/26/07/0049337-good-interview-with-craig",
+          "publishedOn": "2026-07-15T16:28:00.000Z",
+          "wordCount": 691,
+          "title": "Good interview with Craig Mod about how he uses LLMs :...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049322-the-moist-towelette-onlin",
+          "author": null,
+          "description": "The Moist Towelette Online Museum. Live moist and prosper. 🖖💦",
+          "link": "https://kottke.org/26/07/0049322-the-moist-towelette-onlin",
+          "publishedOn": "2026-07-15T15:48:44.000Z",
+          "wordCount": 805,
+          "title": "The Moist Towelette Online Museum . Live moist and...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/the-types-of-people-to-keep-around",
+          "author": null,
+          "description": "Molly Burford, author of Moments to Hold Close, writes list poetry (is that a thing?) about the kinds of people that you want in your life. From Types Of People You Need To Hang On To:\nThe friend who helps you clean your room. Those who are kind to those who can do nothing for them. Messy folks who repeatedly get it wrong but never stop trying to get it right anyway. Kindred spirits. Loud laughers. Pals who make the grocery store fun. Loved ones who get as excited about your success as you do. The person you feel comfortable crying in front of. Sing-in-the-car friends. People who text you to look at the moon.\n\n\t\nI am 100% the friend who will text you to look at the moon or the meteor shower or the aurora.\nFrom Types Of People I Admire The Most:\nSomeone who isn’t afraid to just be human. The friend who commits to the bit, even if it is well past its expiration date. People who accept that their ducks will always be in a bit of a zig-zag formation. Relentlessly creative folks. Daydreamers. Awkward silence embracers.\n\n\t\nFrom Types Of People Who Will Change Your Life:\nTeachers who believed there was potential within you, even when you were convinced you would always be a lost cause. The internet friend who showed you that your art does matter, and it’s needed. The mentor who became the older sister you never had. The ex-partner who showed you there are some types of people you’re only meant to love from afar. The neighbors who became family. The family members who became friends.\n\n\t\nMore, more, more, more.\n\n \n\n        \n         \nTags: Molly Burford · poetry",
+          "link": "https://kottke.org/26/07/the-types-of-people-to-keep-around",
+          "publishedOn": "2026-07-15T14:47:00.000Z",
+          "wordCount": 988,
+          "title": "The Types of People to Keep Around",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049325-i-hate-the-way-we-talk-on",
+          "author": null,
+          "description": "100000% this: I Hate The Way We Talk Online. “Let’s discuss topics without feeling the need to win a non-existent argument. Hot takes? No. Engage with nuance. Show the grace you would extend offline to those you meet on these virtual streets.”",
+          "link": "https://kottke.org/26/07/0049325-i-hate-the-way-we-talk-on",
+          "publishedOn": "2026-07-15T13:53:04.000Z",
+          "wordCount": 1154,
+          "title": "100000% this:  I Hate The Way We Talk Online ....",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/07/0049334-werwulf",
           "author": null,
