@@ -348,16 +348,6 @@
           "wordCount": 189,
           "title": "Time Machine Conversation",
           "imageUrl": "https://imgs.xkcd.com/comics/time_machine_conversation_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3250/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/flag_design.png\" title=\"Every place has a local cryptid; more places need a local Pictish Beast, a creature in historical art that's drawn so weirdly that no one can tell what animal it's supposed to be.\" alt=\"Every place has a local cryptid; more places need a local Pictish Beast, a creature in historical art that's drawn so weirdly that no one can tell what animal it's supposed to be.\" />",
-          "link": "https://xkcd.com/3250/",
-          "publishedOn": "2026-05-25T00:00:00.000Z",
-          "wordCount": 187,
-          "title": "Flag Design",
-          "imageUrl": "https://imgs.xkcd.com/comics/flag_design_2x.png"
         }
       ]
     },
@@ -366,6 +356,16 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "2026-07-23-35890312",
+          "author": null,
+          "description": "I've been following the stories around the \"child protection\" because on one hand it does afford children some protection, but it also hammers down on the privacy of everyone - i.e. adults who give up their privacy to prove they're not a child.\nVPNs in particular have been tossed around as something that the UK government would like to ban (citation needed/lacking!), which is why this article is particularly interesting:\nThe Court of Justice of the European Union has ruled that publishers and VPN providers aren't liable for copyright infringement\n\nGeo-blocking is the copyright holder's problem, not the VPN's. Providers are not liable for users bypassing restrictions\n\nHopefully this draws a simple line in the sand for the UK government, and yet, who really knows what's going through their head at any one time!\nOriginal link: www.techradar.com/[…]/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling",
+          "link": "https://remysharp.com/links/2026-07-23-35890312",
+          "publishedOn": "2026-07-23T10:39:26.000Z",
+          "wordCount": 641,
+          "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling [link]",
+          "imageUrl": null
+        },
         {
           "id": "2026-07-17-8797d866",
           "author": null,
@@ -1121,6 +1121,16 @@
       "siteUrl": "https://pluralistic.net",
       "articles": [
         {
+          "id": "https://pluralistic.net/?p=13065",
+          "author": "Cory Doctorow",
+          "description": "Today's links California's privacy obstacle course: Malice or incompetence (why not both?). Hey look at this: Delights to delectate. Object permanence: Continuous partial attention, TSA is the worst; Trump's FCC v the future. Upcoming appearances: Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. California's privacy obstacle course (permalink) Data brokers are a cancer. There's a direct line from the unrestricted collection, retention and processing of our data to a host of evils, from deepfake porn to phishing scams; from racial discrimination in hiring to ICE roundups of migrants; from targeted election inter…",
+          "link": "https://pluralistic.net/2026/07/23/drop-a-dime/",
+          "publishedOn": "2026-07-23T10:27:55.000Z",
+          "wordCount": 4147,
+          "title": "Pluralistic: California's privacy obstacle course (23 Jul 2026)",
+          "imageUrl": null
+        },
+        {
           "id": "https://pluralistic.net/?p=13062",
           "author": "Cory Doctorow",
           "description": "Today's links Trump's America can't even win a rigged game: America has created a post-American world. Hey look at this: Delights to delectate. Object permanence: \"Fagin\"; Scott McCloud on comics' future; Laurie Penny on Milo Yiannopoulos; Singaporean regulator rap; Conservatives as bitter rubes. Upcoming appearances: Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Trump's America can't even win a rigged game (permalink) Here's a sentence that stopped me in my tracks last week: \"The statement that 'the cemeteries are full of indispensable people' is just as true of nations, and in particular the US\": https://c…",
@@ -1489,16 +1499,6 @@
           "wordCount": 4052,
           "title": "Pluralistic: The AI bubble isn't like the internet bubble (26 May 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=12837",
-          "author": "Cory Doctorow",
-          "description": "Today's links No honor among (ad-tech) thieves: Including \"and\" and \"the.\" Hey look at this: Delights to delectate. Object permanence: Budweiser nunchuks; GOP vote-suppressor voted illegally; Airbnb enshittifies; Oculus enshittifies; Nintendo copyfrauds its fans; Meritocracy to eugenics pipeline; Ultima Online crisis management; SNES cartridge urinal; JJ Abrams x Axanar, \"Sex Criminals\"; Beating school filters for fun; Orphan works; Japanese ATM heist; How the Sacklers rigged the game. Upcoming appearances: London, Kansas City, LA, Menlo Park, Toronto, NYC, Edinburgh. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. No honor among (ad-tech) thieves (permalink) It should…",
-          "link": "https://pluralistic.net/2026/05/25/lying-spies/",
-          "publishedOn": "2026-05-25T08:21:45.000Z",
-          "wordCount": 3853,
-          "title": "Pluralistic: No honor among (ad-tech) thieves (25 May 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -1546,6 +1546,126 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/07/0049387-now-theyre-ramming-fish-s",
+          "author": null,
+          "description": "New orca behavior unlocked. They’ve been known to sink boats and wear salmon for hats; now they’re ramming fish so hard they explode. “Orcas were observed to hold sunfish in their jaws while a second whale smashed into the target at high speed…”",
+          "link": "https://kottke.org/26/07/0049387-now-theyre-ramming-fish-s",
+          "publishedOn": "2026-07-23T23:09:01.000Z",
+          "wordCount": 760,
+          "title": "New orca behavior unlocked. They’ve been known to sink...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049381-its-our-ethical-duty-to-u",
+          "author": null,
+          "description": "It’s our ethical duty to understand large numbers. “Our world is increasingly moving towards extreme values: Damages from climate change, deaths due to genocide, wealth that knows no bounds. We can’t tackle them if we can’t wrap our heads around [them].”",
+          "link": "https://kottke.org/26/07/0049381-its-our-ethical-duty-to-u",
+          "publishedOn": "2026-07-23T22:41:00.000Z",
+          "wordCount": 742,
+          "title": "It’s our ethical duty to understand large numbers ....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049385-a-teen-reporter-searched-",
+          "author": null,
+          "description": "A Teen Reporter Searched for His Community in the Epstein Files. Adults Freaked Out. “Once everyone was back at school on Tuesday, the high schoolers lawyered up during their lunch hour.”",
+          "link": "https://kottke.org/26/07/0049385-a-teen-reporter-searched-",
+          "publishedOn": "2026-07-23T21:21:00.000Z",
+          "wordCount": 827,
+          "title": "A Teen Reporter Searched for His Community in the...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049386-was-crushed-between-two-f",
+          "author": null,
+          "description": "“A beloved, useful, free website, run carefully by a competent, honest person for nearly thirty years, was crushed between two features of the new AI economy.” (AI bots and prediction market dipshits.)",
+          "link": "https://kottke.org/26/07/0049386-was-crushed-between-two-f",
+          "publishedOn": "2026-07-23T20:21:00.000Z",
+          "wordCount": 654,
+          "title": "&#8220;A beloved, useful, free website, run carefully by...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049374-on-the-good-and-bad-types",
+          "author": null,
+          "description": "“In extreme cases, it can create a phantom homeland, for the sake of which one is ready to die or kill. Unreflective nostalgia can breed monsters.” On the good and bad types of nostalgia.",
+          "link": "https://kottke.org/26/07/0049374-on-the-good-and-bad-types",
+          "publishedOn": "2026-07-23T19:41:00.000Z",
+          "wordCount": 765,
+          "title": "&#8220;In extreme cases, it can create a phantom...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049384-rebecca-solnit-on-the-tat",
+          "author": null,
+          "description": "Rebecca Solnit on the Tate brothers, The Odyssey, and the misogyny of classical literature & the contemporary world. “Classical culture is a lot of things including, literally, rape culture.”",
+          "link": "https://kottke.org/26/07/0049384-rebecca-solnit-on-the-tat",
+          "publishedOn": "2026-07-23T18:54:00.000Z",
+          "wordCount": 816,
+          "title": "Rebecca Solnit on the Tate brothers, The Odyssey, and...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/whats-on-the-sandwich-named-after-you-at-the-local-deli",
+          "author": null,
+          "description": "Following a prompt from Joanna at Cup of Jo… The local deli or sandwich shop names a sandwich after you. What would be on it? Perhaps another way of asking the question: what’s your favorite sandwich that’s a little bit unusual?\nI love a classic BLT, banh mi, or jambon beurre, but a sandwich that is fairly unique to me is tuna salad (made with pickles, pickle juice, and scallions), havarti, lettuce, and tomatoes on good white bread or a kaiser roll. I think that would be The Kottke at the local deli. Either that or something chopped?\n\n \n\n        \n         \nTags: food · sandwiches",
+          "link": "https://kottke.org/26/07/whats-on-the-sandwich-named-after-you-at-the-local-deli",
+          "publishedOn": "2026-07-23T17:54:00.000Z",
+          "wordCount": 2403,
+          "title": "What’s On the Sandwich Named After You at the Local Deli?",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049375-why-are-american-ambulanc",
+          "author": null,
+          "description": "Why are American ambulances so expensive? In part because Medicare pays only a fraction of the actual cost of an ambulance ride and the uninsured often don’t pay at all, so the privately insured get bills of $13,000 for a $2600 ride.",
+          "link": "https://kottke.org/26/07/0049375-why-are-american-ambulanc",
+          "publishedOn": "2026-07-23T17:17:00.000Z",
+          "wordCount": 642,
+          "title": "Why are American ambulances so expensive?  In part...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049372-were-squandering-leds-pot",
+          "author": null,
+          "description": "We’re Squandering LEDs’ Potential to Save Our Night Skies. “Our main failure isn’t a technical one. It’s that we have yet to revise our thinking about lighting at night. We use LED technology just as we did the old sources of light.”",
+          "link": "https://kottke.org/26/07/0049372-were-squandering-leds-pot",
+          "publishedOn": "2026-07-23T16:27:00.000Z",
+          "wordCount": 761,
+          "title": "We’re Squandering LEDs’ Potential to Save Our Night...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/a-matter-of-form-1984",
+          "author": null,
+          "description": "In addition to leading the animation studio at the National Film Board of Canada, René Jodoin made several animated films that explored geometric forms and motion, including the one above, A Matter of Form from 1984.\nSet to the rousing notes of Schubert’s Military March, this animation film is an ingenious example of how a single point can be the building-block for a multiplicity of shapes and configurations. Lines and forms grow out of the point, eventually covering the entire screen in splashes of colour. This is geometric wizardry at its colourful best. A film without words.\n\n\t\nI’m not saying my affinity for such animations is because I watched so much Sesame Street as a kid, but I’m not not saying it either.\nHere’s another of Jodoin’s films, Dance Squared:\n\nYou can watch more of Jodoin’s work in this YouTube playlist. (via the kid should see this)\n\n \n\n        \n         \nTags: geometry · René Jodoin · video",
+          "link": "https://kottke.org/26/07/a-matter-of-form-1984",
+          "publishedOn": "2026-07-23T15:40:00.000Z",
+          "wordCount": 816,
+          "title": "A Matter of Form (1984)",
+          "imageUrl": "https://i.ytimg.com/vi/nRvgKe__WXQ/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/07/0049380-an-online-edition-of-all-",
+          "author": null,
+          "description": "An online edition of all 85 of the Federalist Papers, presented as they were originally serialized in newspapers, with on eye on good typography and readability.",
+          "link": "https://kottke.org/26/07/0049380-an-online-edition-of-all-",
+          "publishedOn": "2026-07-23T14:54:00.000Z",
+          "wordCount": 739,
+          "title": "An online edition of all 85 of the Federalist Papers ,...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049373-this-map",
+          "author": null,
+          "description": "“This map shows the predicted density of underground networks created by arbuscular mycorrhizal fungi. These networks form one of Earth’s circulatory systems, moving massive amounts of carbon, nutrients, and water across plant communities.”",
+          "link": "https://kottke.org/26/07/0049373-this-map",
+          "publishedOn": "2026-07-23T14:16:00.000Z",
+          "wordCount": 830,
+          "title": "&#8220; This map  shows the predicted density of...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/07/0049377-a-70-minute-video-on-how-",
           "author": null,
