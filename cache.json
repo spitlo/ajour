@@ -90,6 +90,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3277/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/forth.png\" title=\"I NOTATION POLISH REVERSE ❤️\" alt=\"I NOTATION POLISH REVERSE ❤️\" />",
+          "link": "https://xkcd.com/3277/",
+          "publishedOn": "2026-07-27T00:00:00.000Z",
+          "wordCount": 185,
+          "title": "Forth",
+          "imageUrl": "https://imgs.xkcd.com/comics/forth_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3276/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/recursive_truckers_hitch.png\" title=\"As if the americium smoke detector incident wasn't enough, now nuclear regulators have ANOTHER reason to worry about the Boy Scouts.\" alt=\"As if the americium smoke detector incident wasn't enough, now nuclear regulators have ANOTHER reason to worry about the Boy Scouts.\" />",
@@ -328,16 +338,6 @@
           "wordCount": 185,
           "title": "Sunbeam",
           "imageUrl": "https://imgs.xkcd.com/comics/sunbeam_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3252/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/ancestral_genomes.png\" title=\"SUGGESTIONS FOR FUTURE RESEARCH: No further research is needed as it is frankly none of our business.\" alt=\"SUGGESTIONS FOR FUTURE RESEARCH: No further research is needed as it is frankly none of our business.\" />",
-          "link": "https://xkcd.com/3252/",
-          "publishedOn": "2026-05-29T00:00:00.000Z",
-          "wordCount": 187,
-          "title": "Ancestral Genomes",
-          "imageUrl": "https://imgs.xkcd.com/comics/ancestral_genomes_2x.png"
         }
       ]
     },
@@ -346,6 +346,16 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "when-do-web-component",
+          "author": null,
+          "description": "I saw recently saw a blog post (which annoyingly I can't find any more, but I'll link it if I do), showing off a web component that if I recall correctly, would show (or hide) it's contents depending on a browser feature (I'd guess using the @supports query).\nThat reminded me that I wrote a web component that I use quite a bit (particularly with FFConf), which should really be called do-when, but it's not, it's (stupidly) called when-do (the dash, I guess, being a comma in my head).\nThe component says: when a time occurs or passes, do a what: show, hide or scroll-to.\nYou can get the code from github - which also includes an interactive demo that lets you try the settings.",
+          "link": "https://remysharp.com/2026/07/24/when-do-web-component",
+          "publishedOn": "2026-07-24T00:00:00.000Z",
+          "wordCount": 891,
+          "title": "when-do web component [blog]",
+          "imageUrl": "https://remysharp.com/images/cards/og/9-7.jpg"
+        },
         {
           "id": "2026-07-23-35890312",
           "author": null,
@@ -1101,6 +1111,21 @@
       "siteUrl": "https://pluralistic.net",
       "articles": [
         {
+          "id": "https://pluralistic.net/?p=13080",
+          "author": "Cory Doctorow",
+          "description": "Today's links How the EU can punish Google (despite Trump): Grant me the courage to change the things I can. Hey look at this: Delights to delectate. Object permanence: Chilling Effects; Billy Bragg v Myspace; Glenn Beck calls murdered Norwegian children \"Hitler Youth\"; Photog sues Getty for $1b copyfraud; Best paid CEOs perform worst; Olympics v \"Olympics\"; Alberta tar sands v \"hot lesbians\"; IoT security apocalypse; 3 Little Pigs in pidgin; The nasty party; Copyright extortionist infringed fellow extortionist; Grandpa mobbed for photographing grandson in park; Ice Bucket Challenge didn't cure ALS; Twiddling enshittifies your brain. Upcoming appearances: Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll…",
+          "link": "https://pluralistic.net/2026/07/27/eucd-6/",
+          "publishedOn": "2026-07-27T10:52:03.000Z",
+          "wordCount": 3840,
+          "title": "Pluralistic: How the EU can punish Google (despite Trump) (27 Jul 2026)",
+          "enclosure": {
+            "url": "https://www.abc.net.au/reslib/200709/r184705_686227.mp3",
+            "length": "3493303",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "https://pluralistic.net/?p=13073",
           "author": "Cory Doctorow",
           "description": "Today's links Apple's robo-repo: Privatizing the risk premium, socializing its costs. Hey look at this: Delights to delectate. Object permanence: Printed batteries; Monopoly credit cards; Mapping airport power outlets; EMI loves pirates; Mexican indigenous phone co-op; Sewer cover textiles; Surge pricing v antitrust; Carbon offsets v forest fires; Charter schools as money laundries. Upcoming appearances: Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Apple's robo-repo (permalink) It may strike you as weird, but lenders love to lend money to poor people who will have trouble paying back their loans. Obviously,…",
@@ -1506,6 +1531,96 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/07/0049397-we-used-to-be-able-to-buy",
+          "author": null,
+          "description": "We Used to Be Able to Buy Things in This Country. “Locking up toothpaste was a warning sign that our executive class was crazy.”",
+          "link": "https://kottke.org/26/07/0049397-we-used-to-be-able-to-buy",
+          "publishedOn": "2026-07-27T21:18:00.000Z",
+          "wordCount": 734,
+          "title": "We Used to Be Able to Buy Things in This Country ....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/a-shortlist-of-potential-future-euro-banknote-designs",
+          "author": null,
+          "description": "The European Central Bank is providing a sneak peek at the next design of the Euro banknotes. From a shortlist of 10 designs created by artists and designers from across the EU, one will be selected as the basis of how Euro banknotes from €5 to €200 will look in the future. Here are a few I pulled out from all of the designs:\n\n\n\n\n\n\n\n\n\n\n\n\n\nIt’s notable (*cough*) that some of the banknotes are designed vertically vs horizontally. The influence of portrait mode on smartphones?\n\n \n\n        \n         \nTags: currency · design · European Union · money",
+          "link": "https://kottke.org/26/07/a-shortlist-of-potential-future-euro-banknote-designs",
+          "publishedOn": "2026-07-27T19:58:00.000Z",
+          "wordCount": 887,
+          "title": "A Shortlist of Potential Future Euro Banknote Designs",
+          "imageUrl": "http://kottke.org/plus/misc/images/editor-1785176015-95d9b986.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/07/0049391-datatype-is-an-opentype-v",
+          "author": null,
+          "description": "“Datatype is an OpenType variable font that turns simple text expressions into inline charts. No JavaScript, no images, no rendering library — just type the syntax and Datatype’s ligature substitution does the rest.”",
+          "link": "https://kottke.org/26/07/0049391-datatype-is-an-opentype-v",
+          "publishedOn": "2026-07-27T19:15:00.000Z",
+          "wordCount": 816,
+          "title": "&#8220; Datatype is an OpenType variable font that turns...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049382-the-batman-effect",
+          "author": null,
+          "description": "The Batman Effect: people in an experiment acted more altruisticly when the caped crusader was present.",
+          "link": "https://kottke.org/26/07/0049382-the-batman-effect",
+          "publishedOn": "2026-07-27T18:25:11.000Z",
+          "wordCount": 850,
+          "title": "The Batman Effect : people in an experiment acted more...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/once-upon-a-time-in-space",
+          "author": null,
+          "description": "From the filmmakers who made the excellent Once Upon a Time in Northern Ireland comes a four-part series on space exploration, Once Upon a Time in Space. A short trailer is above; here’s a synopsis:\nDrawing on intimate, unseen archive and powerful first-hand testimony, this landmark 4-part series tells the human stories behind our quest to explore space, offering a unique perspective on our changing world and where we are headed.\n\n\t\nThe series first aired on the BBC and the first two episodes are now available on PBS. (thx, mitch)\n\n \n\n        \n         \nTags: Once Upon a Time in Space · space · trailers · TV · video",
+          "link": "https://kottke.org/26/07/once-upon-a-time-in-space",
+          "publishedOn": "2026-07-27T17:08:22.000Z",
+          "wordCount": 772,
+          "title": "Once Upon a Time in Space",
+          "imageUrl": "https://i.ytimg.com/vi/2D-ew87MiS4/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/07/0049396-an-uncomplicated-man",
+          "author": null,
+          "description": "An Uncomplicated Man, Emily Wilson’s review of Nolan’s The Odyssey. “I would be ashamed to have written any part of this script. Sadly, Damon’s Odysseus isn’t complicated or wily or artful.”",
+          "link": "https://kottke.org/26/07/0049396-an-uncomplicated-man",
+          "publishedOn": "2026-07-27T15:56:00.000Z",
+          "wordCount": 2702,
+          "title": "An Uncomplicated Man , Emily Wilson’s review of Nolan’s...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049376-jet-lag-of-the-self",
+          "author": null,
+          "description": "Astronauts returning from long missions report a “jet lag of the self”: “a sense of watching their own lives from a half-step outside the frame”.",
+          "link": "https://kottke.org/26/07/0049376-jet-lag-of-the-self",
+          "publishedOn": "2026-07-27T15:22:00.000Z",
+          "wordCount": 974,
+          "title": "Astronauts returning from long missions report a  “jet...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/trumps-assault-on-science-continues",
+          "author": null,
+          "description": "I appreciate the plain speech of Science magazine’s Derek Lowe in his recent piece, The Assault On Science Funding Continues.\nWhen I talk to people about this subject (and that includes some journalists as well) and say what I’m about to at the end of this paragaph I am sometimes met with disbelief. But I mean what I say and I am trying my best to say what I mean: The Trump administration hates academic science funding, full stop. They hate where that money goes, and they hate who it goes to. They want to keep all that money for themselves, to hand out to favored cronies who can help them get elected and to steer yet more money and more power back into their hands.\nThat’s it. That’s the story. They are naturally not putting it in those words, but instead talking about “gold standard science” and the “reproducibility crisis” and funding “bold inquiry” for “transformational breakthroughs”. This is all bullshit, and it’s important to realize that. Shameless hand-waving bullshit, delivered in a how-dare-you-think-otherwise manner is the defining style of the entire Trump administration. You can see it in every appointee, in every part of the executive branch, and in the pronouncements of all of Trump’s supporters. I realize that this is a simple heuristic to apply, and a very unambiguous and unflattering one, but I find it to be all too useful and all too accurate. Give it a try.\n\n\t\nYep. He’s the mob boss president — everything is about favors, taking his cut, deals, tough guy-ness, bending the world to his will, power, and white male supremacy.\n\n \n\n        \n         \nTags: Derek Lowe · Donald Trump · politics · science",
+          "link": "https://kottke.org/26/07/trumps-assault-on-science-continues",
+          "publishedOn": "2026-07-27T14:22:00.000Z",
+          "wordCount": 835,
+          "title": "Trump’s Assault on Science Continues",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049393-the-cdc-page-on-autism-an",
+          "author": null,
+          "description": "Welp, right at the top of the CDC page on autism and vaccines: “The claim ‘vaccines do not cause autism’ is not an evidence-based claim because studies have not ruled out the possibility that infant vaccines cause autism.” 🫨",
+          "link": "https://kottke.org/26/07/0049393-the-cdc-page-on-autism-an",
+          "publishedOn": "2026-07-27T13:46:17.000Z",
+          "wordCount": 645,
+          "title": "Welp, right at the top of  the CDC page on autism and...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/07/0049387-now-theyre-ramming-fish-s",
           "author": null,
@@ -4854,106 +4969,6 @@
           "publishedOn": "2026-05-29T14:10:00.000Z",
           "wordCount": 964,
           "title": "How Should a Book Sound? And What About Footnotes?...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/05/0049038-get-it-wherever-you-buy-o",
-          "author": null,
-          "description": "Out now: new Boards of Canada album. Get it wherever you buy or stream music.",
-          "link": "https://kottke.org/26/05/0049038-get-it-wherever-you-buy-o",
-          "publishedOn": "2026-05-29T11:31:00.000Z",
-          "wordCount": 778,
-          "title": "Out now: new Boards of Canada album.  Get it wherever you...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/05/0049029-an-extended-loop-of-shaka",
-          "author": null,
-          "description": "From The Mandalorian and Grogu, an extended loop of Shakari, a synth-y track from composer Ludwig Göransson. See also Niamos from Andor (composed by Nicholas Britell).",
-          "link": "https://kottke.org/26/05/0049029-an-extended-loop-of-shaka",
-          "publishedOn": "2026-05-28T20:34:00.000Z",
-          "wordCount": 768,
-          "title": "From The Mandalorian and Grogu,  an extended loop of...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/05/0049033-inflation-would-be-much-l",
-          "author": null,
-          "description": "Not a surprise but nice to have the data: the Federal Reserve calculated that inflation would be much lower without Trump’s stupid tariffs.",
-          "link": "https://kottke.org/26/05/0049033-inflation-would-be-much-l",
-          "publishedOn": "2026-05-28T19:23:00.000Z",
-          "wordCount": 711,
-          "title": "Not a surprise but nice to have the data: the Federal...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/05/the-backward-index",
-          "author": null,
-          "description": "How do dictionary makers keep track of similarly suffixed words, like those ending in -ism, -graphy, -ness, or -ology? With a computer, it’s simple, but how did they do it before the computing age? Starting in the 1950s, lexicographers at Merriam-Webster typed all of the words in the dictionary out backwards and organized them alphabetically into a collection called the Backward Index.\nThe Backward Index evidently turned out to be a useful tool in the pre-electronic age. For example, it could help identify a set of related terms that should be defined in similar ways, including open compounds (Highland pony, Shetland pony, Welsh pony), closed compounds (blocklike, clocklike, rocklike, socklike, chalklike), and morphologically related terms (phytopathological, ethological, lithological, orn…",
-          "link": "https://kottke.org/26/05/the-backward-index",
-          "publishedOn": "2026-05-28T18:38:00.000Z",
-          "wordCount": 1029,
-          "title": "The Backward Index",
-          "imageUrl": "http://kottke.org/plus/misc/images/editor-1779978773-b661a4d1.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/05/0049031-on-the-fuel-efficiency-of",
-          "author": null,
-          "description": "On The Fuel Efficiency of Launching My Enemies Into The Sun. Incredibly nerdy and fun: does it require more power to eject a person from the solar system or launch them into the Sun?",
-          "link": "https://kottke.org/26/05/0049031-on-the-fuel-efficiency-of",
-          "publishedOn": "2026-05-28T18:01:00.000Z",
-          "wordCount": 860,
-          "title": "On The Fuel Efficiency of Launching My Enemies Into The...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/05/0049026-the-rise-fall-of-petty-ty",
-          "author": null,
-          "description": "The Rise & Fall Of ‘Petty Tyrants’. “The energy required to deceive is unsustainable. Reality is relentless. The tyrant who chooses to fight it is doomed.”",
-          "link": "https://kottke.org/26/05/0049026-the-rise-fall-of-petty-ty",
-          "publishedOn": "2026-05-28T17:23:00.000Z",
-          "wordCount": 482,
-          "title": "The Rise & Fall Of ‘Petty Tyrants’ . &#8220;The energy...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/05/0049030-searching-for-the-absolut",
-          "author": null,
-          "description": "Down with -maxxing! Searching for the absolute best option isn’t always the wisest course of action. Better to make a good-enough choice so “a great deal of energy gets freed up for living, instead of being spent on wondering about how to live”.",
-          "link": "https://kottke.org/26/05/0049030-searching-for-the-absolut",
-          "publishedOn": "2026-05-28T16:33:00.000Z",
-          "wordCount": 1086,
-          "title": "Down with -maxxing!  Searching for the absolute best...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/05/0049027-a-first-for-star-wars-fil",
-          "author": null,
-          "description": "There are no lightsabers in The Mandalorian and Grogu, a first for Star Wars films. There are also no Wilhelm screams in the movie, which is weird because I thought I heard snippets of it everywhere (even Mando’s blaster sounded a little Wilhelm-ish).",
-          "link": "https://kottke.org/26/05/0049027-a-first-for-star-wars-fil",
-          "publishedOn": "2026-05-28T15:45:00.000Z",
-          "wordCount": 800,
-          "title": "There are no lightsabers in The Mandalorian and Grogu,  a...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/05/100-iconic-moments-from-sir-david-attenborough",
-          "author": null,
-          "description": "Let’s the keep the David Attenborough love going: this is a six-hour video featuring 100 of the most iconic moments from the famed naturalist’s work. I got this via Enrique, who rightly asserts that “There’s no such thing as too much David Attenborough.”\nSee also Three Hours of Unbelievable Moments From Nature, Narrated by David Attenborough.\n\n \n\n        \n         \nTags: David Attenborough · video",
-          "link": "https://kottke.org/26/05/100-iconic-moments-from-sir-david-attenborough",
-          "publishedOn": "2026-05-28T14:50:00.000Z",
-          "wordCount": 739,
-          "title": "100 Iconic Moments From Sir David Attenborough",
-          "imageUrl": "https://i.ytimg.com/vi/EUtx6_fDXMY/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/05/0049025-consider-the-sister",
-          "author": null,
-          "description": "Consider the Sister: an interview with Amy Wallace. “It was hard work being David Foster Wallace’s little sister. It still is. The job of preserving the memory of her brother as a complex, vibrant, often joyful person has fallen to her.”",
-          "link": "https://kottke.org/26/05/0049025-consider-the-sister",
-          "publishedOn": "2026-05-28T14:10:00.000Z",
-          "wordCount": 761,
-          "title": "Consider the Sister : an interview with Amy Wallace....",
           "imageUrl": ""
         }
       ]
