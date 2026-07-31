@@ -39,6 +39,16 @@
       "siteUrl": "https://100r.ca",
       "articles": [
         {
+          "id": "log.html#jul2026",
+          "author": "Rek Bell",
+          "description": "Hey everyone!\nThis is the list of all the changes we've done to our projects during the month of June.\nWiki, updated ipad media station and solar cooking experiment. Added new information for roscoe bay.\nHakum, started a new comic sequence called Recharge, and re-did the second part of Chase.\nYufo, made improvements to our 2022 Virtual Pet Jam game Yufo, it is now playable in the browser on itch.io.\nGrimGrains, added a recipe for soybean coffee, a very good coffee alternative.\nThousand Rooms, released a Latin Sin Flexion version.\nThis month we participated in Catjam 2026 and released a humble point-and-click called Lepore Express Line. It features many cameos from all our other projects, maybe you can recognize a few? It's written in Uxntal, a concatenative assembly language for a 16-bit o…",
+          "link": "https://100r.ca/site/log.html#jul2026",
+          "publishedOn": "2026-07-30T07:00:00.000Z",
+          "wordCount": 2759,
+          "title": "Summary of changes for July 2026",
+          "imageUrl": null
+        },
+        {
           "id": "log.html#jun2026",
           "author": "Rek Bell",
           "description": "Hey everyone!\nThis is the list of all the changes we've done to our projects during the month of June.\nWiki, we had a few things fail this month, see: solar cooking experiment, and ipad media station. Also, the pressure sprayer that we use as an outdoor shower and to rinse dishes has developed a crack in its body, we smothered the gaps with big globs of LifeCalk(this quick fix has held so far).\nNo Bears None, corrected some errors in the text, and the latest epub version will now display the cover.\nRabbit Waves, completed a new comic page, the main character(rabbit) is named Hazy and the gull, Ark. The main page was re-ordered to make more room for the story pages. Colored elements in the comic are clickable and lead to knowledge pages.\nHakum, completed a new comic sequence called Tangled.…",
@@ -339,16 +349,6 @@
           "wordCount": 185,
           "title": "Detector",
           "imageUrl": "https://imgs.xkcd.com/comics/detector_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3253/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/sunbeam.png\" title=\"While weather control is typically thought of as a superpower, the unconscious ability of astronomers and astrophotographers to summon clouds is more properly classified as a curse.\" alt=\"While weather control is typically thought of as a superpower, the unconscious ability of astronomers and astrophotographers to summon clouds is more properly classified as a curse.\" />",
-          "link": "https://xkcd.com/3253/",
-          "publishedOn": "2026-06-01T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Sunbeam",
-          "imageUrl": "https://imgs.xkcd.com/comics/sunbeam_2x.png"
         }
       ]
     },
@@ -357,6 +357,26 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "2026-07-30-pokemon-emerald",
+          "author": null,
+          "description": "Similar to the Pokemon Yellow recently, I had a GBA Emerald Green sent in for repair.\nJust 24 hours ago, this was going to be a post on how I had failed to repair it, but in a last minute ditch, I managed to save it.\nLoading up the game resulted in nothing, and opening the shell explained why. There was a lot of corrosion around the PCB, but more importantly, two of the legs on the ROM had completely dissolved:\nIt doesn't photograph well, but the crud at the top left is where the chip legs had turned to mush\nThe first task is to remove the main chips (the ROM and the RAM) and examine and then clean up the damage under the chips. The black around the vias (the holes) aren't a great sign either.\nInitially looked like the pads had been lost too, but thankfully they were under there\nWhilst the…",
+          "link": "https://remysharp.com/tif/2026-07-30-pokemon-emerald",
+          "publishedOn": "2026-07-30T12:00:00.000Z",
+          "wordCount": 1049,
+          "title": "Pokémon Emerald [tif]",
+          "imageUrl": null
+        },
+        {
+          "id": "human-software",
+          "author": null,
+          "description": "A book about work, felt like work.\nI suspect this is very specific to me, but I found the majority of the story pretty triggering - specifically, I felt pissed off a lot of the time I was reading. After reading the About the Author section at the end of the book, it looks like I've had a similar timeline of a technical career to them (which perhaps is why the story got under my skin).\nThis is because I spent a decade in a company (over a decade ago) that treated it's employees a lot like the characters in the book and it was doing my in that the story seemed to centre around people who made their company the be-all of their lives.\nThough the story (sort of) follows two main characters, you really don't meet anyone outside of the company, Gerbach, and there's a scene in the book where it seems pretty clear they all live in each other's pockets.\nI didn't really have a good sense of timings until the very end (4 months). The story opens with outages the devs are firefighting, and I couldn't tell if they were still dealing with issues across the timeline or… if they'd just accepted it was all terrible and the characters swan off and pull sickies when their infrastructure is on fire 🤷.\nThen there's the AI aspect that's sort of supposed to be looming, but, sort of not really… Around 2/3rds of the way into the story there's a development (not quite a plot twist) which I managed to guess how it related to the AI.\nI think if you work in the technology industry, and you are (or have been) a dev, then this book might be worth a read. I'm not sure it's quite that accessible outside of the tech industry, specifically around some of the terminology (which, though I knew, I didn't realise there was a full appendix at the end, \"log4j\" might throw some people).\nRead through a recommendation (later realising that the person who recommended it was listed in the author thanks!), I think I'd struggle to recommend it myself.",
+          "link": "https://remysharp.com/books/2026/human-software",
+          "publishedOn": "2026-07-30T00:00:00.000Z",
+          "wordCount": 926,
+          "title": "Human Software [book]",
+          "imageUrl": null
+        },
         {
           "id": "2026-07-24-rescued-pokemon-yellow",
           "author": null,
@@ -395,6 +415,16 @@
           "publishedOn": "2026-07-17T11:25:43.000Z",
           "wordCount": 573,
           "title": "Image to text [link]",
+          "imageUrl": null
+        },
+        {
+          "id": "the-air-raid-book-club",
+          "author": null,
+          "description": "Quick easy read. Little repetitive, but shines a nice light.\nThe story starts in 1938 and we follow Gertie as she plans to retire as a widow having run a bookshop and successful book clubs for many years.\nThat's put on hold when she agrees to take in a child from the Kindertransport - which I'd know about but hadn't read a great deal of detail.\nAs a parent myself, this is the first part that breaks my brain a little, and indeed this part is entirely based in history. An amazing effort and so terrible too.\nThe story then follows Gertie as she takes care of Hedy, a 15 year old German Jew who also longs to be reunited with her family.\nThe story takes us through The Blitz, the air raid shelters, rolling blackouts and rationing that took place over the years as Hitler and the Nazis spread through Europe.\nI've not read any wartime books, so this was an experience. Obviously: harrowing. The story does also do a good job of making me believe the life that tries to march on.",
+          "link": "https://remysharp.com/books/2026/the-air-raid-book-club",
+          "publishedOn": "2026-07-15T00:00:00.000Z",
+          "wordCount": 679,
+          "title": "The Air Raid Book Club [book]",
           "imageUrl": null
         },
         {
@@ -1132,6 +1162,16 @@
       "siteUrl": "https://pluralistic.net",
       "articles": [
         {
+          "id": "https://pluralistic.net/?p=13100",
+          "author": "Cory Doctorow",
+          "description": "Today's links The stupidest imaginable excuses for surveillance pricing: Since 1850, San Francisco's Chamber of Commerce has been pissing in our mouths and calling it rain. Hey look at this: Delights to delectate. Object permanence: RIP Wau Holland; Diebold voting machines suck; How to steal an RFID-locked car; Pirates are big spenders; You can't fight enshittification. Upcoming appearances: Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The stupidest imaginable excuses for surveillance pricing (permalink) With \"surveillance pricing,\" businesses have finally found something AI can do way, way, way better than…",
+          "link": "https://pluralistic.net/2026/07/30/pay-for-privacy/",
+          "publishedOn": "2026-07-30T12:51:03.000Z",
+          "wordCount": 3674,
+          "title": "Pluralistic: The stupidest imaginable excuses for surveillance pricing (30 Jul 2026)",
+          "imageUrl": null
+        },
+        {
           "id": "https://pluralistic.net/?p=13093",
           "author": "Cory Doctorow",
           "description": "Today's links Enshittification and Reverse Centaurs go global: The good globalism. Hey look at this: Delights to delectate. Object permanence: Fonz thumps x Linux; CBC v DRM; Aussie mall v photos; English town x CCTVs; Pay no taxes x Big Tech; Games Workshop v gamers; Delta x surveillance pricing. Upcoming appearances: Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Enshittification and Reverse Centaurs go global (permalink) It's safe to say that the past couple of years have been good ones for me publishing-wise, thanks to a string of international bestsellers, both novels (Picks and Shovels) and nonfiction (…",
@@ -1515,16 +1555,6 @@
           "wordCount": 4723,
           "title": "Pluralistic: The tedious power of storytelling (02 Jun 2026) must-we-pretend",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=12860",
-          "author": "Cory Doctorow",
-          "description": "Today's links Molly Crabapple's 'Here Where We Live Is Our Country': An essential book for this moment and for the moments that led to it. Hey look at this: Delights to delectate. Object permanence: Home chemistry sets in danger; Every pirate wants to be an admiral; Painful computer workarounds; JPEG patent invalidated; UBS whistleblower v USA (x USA); David Foster Wallace x tennis; Who cares about \"bandwidth hogs?\" Upcoming appearances: London, Kansas City, LA, Menlo Park, Toronto, NYC, Edinburgh, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Molly Crabapple's 'Here Where We Live Is Our Country' (permalink) Molly Crabapple's Here Where We Live Is Our Cou…",
-          "link": "https://pluralistic.net/2026/06/01/doikayt/",
-          "publishedOn": "2026-06-01T09:25:48.000Z",
-          "wordCount": 5160,
-          "title": "Pluralistic: Molly Crabapple's 'Here Where We Live Is Our Country' (01 Jun 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -1562,6 +1592,96 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/07/what-are-the-most-untouchable-records-in-sports",
+          "author": null,
+          "description": "I ran across this post on Threads the other day: “What’s the hardest record in sports history to ever break?” A sampling of the replies:\n“Bill Russell’s 11 NBA championships including 8 in a row.”\n“Lionel Messi scored 91 goals in the 2012 calendar year.”\n“Cy Young 749 complete games.”\n“Fernando Tatis (Sr) - 2 Grand Slams in the same inning. Most of the others mentioned here are highly improbable, but there’s no way anyone ever hits 3 slams in one inning.”\n“Lionel Messi’s 8 Ballon d’or”\n“Sir Donald Bradman’s batting average in Test cricket. His 99.94.”\n“Russian wrestler Aleksandr Karelin. Undefeated for 13 years. 887 wins and 2 losses, both by single point.”\nLast year, The Athletic offered a list of their own, which included Wayne Gretzky’s 1,963 career assists, the furthest goal in soccer (96.01 meters), Michael Phelps’ 23 Olympic golds, and Wilt Chamberlain’s 100-point game.\nPoking around the internet a bit, there’s also FloJo’s 100m record, UConn women’s basketball team’s 111 wins in a row, Cal Ripken’s consecutive game streak, and Simone Biles’ 30 world championship medals.\nAny additions to the list?\n\n \n\n        \n         \nTags: best of · lists · sports",
+          "link": "https://kottke.org/26/07/what-are-the-most-untouchable-records-in-sports",
+          "publishedOn": "2026-07-30T21:49:00.000Z",
+          "wordCount": 1469,
+          "title": "What Are the Most Untouchable Records in Sports?",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049415-a-telegram-arrived-and-i-",
+          "author": null,
+          "description": "A Telegram Arrived — And I Had to Choose Between My Head and My Heart. “On Boxing Day, I rang my father and told him my news. He was momentarily silent until his delayed shock was so great that he dropped his favourite coffee cup and I heard it smash.”",
+          "link": "https://kottke.org/26/07/0049415-a-telegram-arrived-and-i-",
+          "publishedOn": "2026-07-30T20:49:00.000Z",
+          "wordCount": 811,
+          "title": "A Telegram Arrived — And I Had to Choose Between My Head...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049422-a-new-airbus-passenger-je",
+          "author": null,
+          "description": "“A new Airbus passenger jet completed an ultra-long test flight between Australia and France lasting more than 24 hours—paving the way for the world’s longest nonstop commercial flights starting up next year.” Wow.",
+          "link": "https://kottke.org/26/07/0049422-a-new-airbus-passenger-je",
+          "publishedOn": "2026-07-30T19:53:00.000Z",
+          "wordCount": 908,
+          "title": "&#8220; A new Airbus passenger jet completed an...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/the-drawing-room-with-mo-welch",
+          "author": null,
+          "description": "Comedian Mo Welch has a new show on PBS called The Drawing Room, where she interviews people while she draws them (and her guests draw her). What a great idea for a show.\nThe first three episodes are live already: Brett Goldstein, Sarah Silverman, and violinist Vijay Gupta; here’s the premiere episode with Goldstein:\n\nEach episode is only 10-12 minutes long. The lineup of guests for the rest of the season include Demi Adejuyigbe, Tig Notaro, Adam Conover, and Aparna Nancherla.\n\n \n\n        \n         \nTags: art · Brett Goldstein · interviews · Mo Welch · PBS · TV · video",
+          "link": "https://kottke.org/26/07/the-drawing-room-with-mo-welch",
+          "publishedOn": "2026-07-30T19:03:00.000Z",
+          "wordCount": 769,
+          "title": "The Drawing Room With Mo Welch",
+          "imageUrl": "https://i.ytimg.com/vi/GrRLJn1Kbkc/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/07/0049417-the-beauty-of-doing-nothi",
+          "author": null,
+          "description": "The Beauty of Doing Nothing Together. “What you’re doing hardly matters. What matters is inviting someone into the ordinary parts of your life instead of waiting for an occasion that feels worthy of an invitation.”",
+          "link": "https://kottke.org/26/07/0049417-the-beauty-of-doing-nothi",
+          "publishedOn": "2026-07-30T18:12:00.000Z",
+          "wordCount": 1078,
+          "title": "The Beauty of Doing Nothing Together . &#8220;What...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/the-hell-mouth",
+          "author": null,
+          "description": "Volcanologist Laszlo Kestay took this photo of a lava skylight in 1996 while conducting field work at Kīlauea on Hawaiʻi. The hardened lava flows strongly resemble doomed souls being sucked into hell or the damned escaping the underworld.\n\n \n\n        \n         \nTags: geology · hawaii · hell · Laszlo Kestay · photography · volcanoes",
+          "link": "https://kottke.org/26/07/the-hell-mouth",
+          "publishedOn": "2026-07-30T16:52:00.000Z",
+          "wordCount": 753,
+          "title": "The Hell Mouth",
+          "imageUrl": "http://kottke.org/plus/misc/images/editor-1785359827-78f7c764.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/07/0049420-the-legacy-of-the-luddite",
+          "author": null,
+          "description": "The legacy of the Luddite movement changes when you zoom out a bit. “The development of cooperatives around the world is another story that should not end too abruptly. We could still be weaving it today.”",
+          "link": "https://kottke.org/26/07/0049420-the-legacy-of-the-luddite",
+          "publishedOn": "2026-07-30T15:19:00.000Z",
+          "wordCount": 741,
+          "title": "The legacy of the Luddite movement changes when you zoom...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049419-the-trailer-for-wicker",
+          "author": null,
+          "description": "The trailer for Wicker (starring Olivia Colman, Alexander Skarsgård, Peter Dinklage, Elizabeth Debicki). “An outcast in a fishing village commissions a husband for herself made out of wicker.” Looks unhinged (complimentary).",
+          "link": "https://kottke.org/26/07/0049419-the-trailer-for-wicker",
+          "publishedOn": "2026-07-30T14:15:01.000Z",
+          "wordCount": 769,
+          "title": "The trailer for Wicker  (starring Olivia Colman,...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/07/0049414-the-coffee-shop-where-162",
+          "author": null,
+          "description": "The coffee shop where 162 regulars have their own mug (1977). “The cups may not be such a small thing after all. They are a town register and a history and a confirmation that life goes on in a small American town.”",
+          "link": "https://kottke.org/26/07/0049414-the-coffee-shop-where-162",
+          "publishedOn": "2026-07-30T13:39:00.000Z",
+          "wordCount": 785,
+          "title": "The coffee shop where 162 regulars have their own mug...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/07/its-cool-to-be-weird",
           "author": null,
@@ -5148,16 +5268,6 @@
           "wordCount": 15816,
           "title": "Alton Delmore:  “I Helped To Start a Recording Company There In Cincinnati”",
           "imageUrl": "https://www.zeroto180.org/wp-content/uploads/2026/06/Delmore-Brothers-thumbnail.jpg"
-        },
-        {
-          "id": "http://www.zeroto180.org/?p=23944",
-          "author": "Zeroto180",
-          "description": "Not much seems to have been written about this endearingly eccentric trucker tune from 1965.  Billboard‘s September 11, 1965 edition confirms this is strictly a home-grown enterprise: “Big Eight Wheeler Roll On“ Lee Rose (1965) Love the relaxed delivery and imaginative use of time suspension — “back phrasing” a la Willie Nelson, albeit in the […]\nThe post “Big Eight Wheeler Roll On” by Lee Rose — Back Phrasing in the Extreme appeared first on Zero to 180 - Three Minute Magic.",
-          "link": "https://www.zeroto180.org/big-eight-wheeler-roll-on-by-lee-rose-back-phrasing-in-the-extreme/",
-          "publishedOn": "2026-05-31T18:53:39.000Z",
-          "wordCount": 11959,
-          "title": "“Big Eight Wheeler Roll On” by Lee Rose — Back Phrasing in the Extreme",
-          "imageUrl": "https://www.zeroto180.org/wp-content/uploads/2026/05/Lee-Rose-finale-thumbnail.jpg"
         }
       ]
     },
