@@ -349,16 +349,6 @@
           "wordCount": 187,
           "title": "Beam Pipe",
           "imageUrl": "https://imgs.xkcd.com/comics/beam_pipe_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3256/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/nostalgia_content.png\" title=\"Gen-Z got a chunk of the Carboniferous, and now all their memes are about how pathetic and small today's dragonflies are.\" alt=\"Gen-Z got a chunk of the Carboniferous, and now all their memes are about how pathetic and small today's dragonflies are.\" />",
-          "link": "https://xkcd.com/3256/",
-          "publishedOn": "2026-06-08T00:00:00.000Z",
-          "wordCount": 187,
-          "title": "Nostalgia Content",
-          "imageUrl": "https://imgs.xkcd.com/comics/nostalgia_content_2x.png"
         }
       ]
     },
@@ -941,6 +931,16 @@
       "siteUrl": "https://lea.verou.me/feed.xml",
       "articles": [
         {
+          "id": "https://lea.verou.me/blog/2026/dark-mode-toggles/",
+          "author": null,
+          "description": "A good two-state toggle can actually express all three data model states.\nUntil recently, if you looked at most websites with a theme toggle[1], you’d find three options: Light, Dark, and System.\n\n\n\n\n\n\n\n\nExamples of tri-state dark mode toggles.\nIn (LTR) reading direction: Ant Design, Red Hat Design System, Web Awesome, Excalidraw, Taiga, Astro, Hero UI.\nThankfully, these days the trend has shifted towards a simpler two-state toggle, but tri-state ones are still incredibly common.\n\n\n\n\n\nExamples of two-state dark mode toggles.\nIn (LTR) reading direction: Vitepress, Material Design, Adobe Spectrum, Radix, ShadCN.\nThe rationale sounds plausible:\n“System” is a different intent than “Light” or “Dark”!\nOne is a policy (whatever my OS says, do that)\nThe other is a value (dark, forever, I don’t car…",
+          "link": "https://lea.verou.me/blog/2026/dark-mode-toggles/",
+          "publishedOn": "2026-08-06T00:00:00.000Z",
+          "wordCount": 3036,
+          "title": "Dark mode toggles: two states are enough",
+          "imageUrl": "https://lea.verou.me/blog/2026/dark-mode-toggles/image.png"
+        },
+        {
           "id": "https://lea.verou.me/blog/2026/polyfills/",
           "author": null,
           "description": "If you’re a web developer, you may find the title baffling.\n“Polyfills need defending? Who’s against them?!” you might ask.\nTwo weeks ago, I’d be in the same boat.\nPolyfills and I go way back.\nI dug up a JSConf EU talk of mine from 2011 on exactly this topic.\nOne of the few opinions I have held strongly over the years is that polyfills are a net positive for the Web, and the good outweighs the rare failure cases where polyfills became too popular, too soon, and restricted the design space for the native API.\nAs with most things in life, it’s all about the cost-benefit.\nWe don’t stop flying planes because crashes happen.\nWe do a post-mortem and figure out how we can prevent the same accident from happening again.\nAnd crucially, the point of a post-mortem is to find the root cause — not to g…",
@@ -1161,6 +1161,21 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=13136",
+          "author": "Cory Doctorow",
+          "description": "Today's links Eternal Sloptember: Mark Zuckerberg and the fantasy of social media without socializing. Hey look at this: Delights to delectate. Object permanence: Delany x The Onion; Duran Duran x Second Life; Spammers x blog pings; Privacywashing v Doordash; Good ideas are popular. Upcoming appearances: Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Eternal Sloptember (permalink) I'm sure that working in social media – dealing with people as mass statistical abstractions – is a cognitohazard, the sort of thing that could make anyone a little solipsistic, convinced that everyone else is a kind of stimulus-res…",
+          "link": "https://pluralistic.net/2026/08/06/sin-is-when/",
+          "publishedOn": "2026-08-06T10:07:06.000Z",
+          "wordCount": 3980,
+          "title": "Pluralistic: Eternal Sloptember (06 Aug 2026)",
+          "enclosure": {
+            "url": "https://web.archive.org/web/20060818220142/http://movies.crooksandliars.com/HYHEMix.mp3",
+            "length": "3961456",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=13133",
           "author": "Cory Doctorow",
@@ -1617,6 +1632,106 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/08/0049459-the-video-rental-store-as",
+          "author": null,
+          "description": "The video rental store as “third place”. “Decades before recommendation algorithms, video stores served as social hubs where conversation and camaraderie became a form of taste-making.”",
+          "link": "https://kottke.org/26/08/0049459-the-video-rental-store-as",
+          "publishedOn": "2026-08-06T21:58:00.000Z",
+          "wordCount": 1013,
+          "title": "The video rental store as “third place” . &#8220;Decades...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/08/0049462-the-end-of-google-search",
+          "author": null,
+          "description": "The End of Google Search. The internet giant is “changing the formula” of its products and media folks are beginning to assume that there will be no search traffic in the future…and fretting about their survival.",
+          "link": "https://kottke.org/26/08/0049462-the-end-of-google-search",
+          "publishedOn": "2026-08-06T20:29:00.000Z",
+          "wordCount": 955,
+          "title": "The End of Google Search . The internet giant is...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/08/0049464-media-matters",
+          "author": null,
+          "description": "Media Matters: “ABC, CBS, and NBC aired a combined 194 segments about the three major heat events” that hit the US this summer and not a single one of them mentioned climate change. Not one!",
+          "link": "https://kottke.org/26/08/0049464-media-matters",
+          "publishedOn": "2026-08-06T19:20:00.000Z",
+          "wordCount": 688,
+          "title": "Media Matters : &#8220;ABC, CBS, and NBC aired a...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/08/0049463-fun-little-review-by-marc",
+          "author": null,
+          "description": "Fun little review by Marcin Wichary of a 1984 flying video game called Sopwith, which was never supposed to be released to the public (an event that the game’s creator didn’t learn about until years later).",
+          "link": "https://kottke.org/26/08/0049463-fun-little-review-by-marc",
+          "publishedOn": "2026-08-06T18:35:00.000Z",
+          "wordCount": 749,
+          "title": "Fun little review by Marcin Wichary of a 1984 flying...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/08/0049451-this-little-video-of-burb",
+          "author": null,
+          "description": "I love this little video of burbling pasta sauces (sound on). Wish there was a 10-hour YT version for work background noise…",
+          "link": "https://kottke.org/26/08/0049451-this-little-video-of-burb",
+          "publishedOn": "2026-08-06T17:45:00.000Z",
+          "wordCount": 931,
+          "title": "I love  this little video of burbling pasta sauces...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/08/0049461-id-be-lead-harpooner-on-t",
+          "author": null,
+          "description": "I’d Be Lead Harpooner on the Pequod If It Wasn’t for These DEI Hires. “I’m just telling you that it’s getting hard out there for us blue-collar Nantucket lads when all the ships’ owners are catching the Abolitionist Mind Virus.”",
+          "link": "https://kottke.org/26/08/0049461-id-be-lead-harpooner-on-t",
+          "publishedOn": "2026-08-06T16:45:00.000Z",
+          "wordCount": 679,
+          "title": "I’d Be Lead Harpooner on the Pequod If It Wasn’t for...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/08/0049460-25-things-that-explain-am",
+          "author": null,
+          "description": "25 things that explain America, including personal injury lawyer advertisements, Crest Whitestrips, Costco rotisserie chicken, and the Pizza Hut lamp. “The T-shirt cannon merges three American obsessions: guns, sports and freebie giveaways.”",
+          "link": "https://kottke.org/26/08/0049460-25-things-that-explain-am",
+          "publishedOn": "2026-08-06T15:45:00.000Z",
+          "wordCount": 740,
+          "title": "25 things that explain America , including personal...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/08/how-does-an-enigma-machine-work",
+          "author": null,
+          "description": "This is a completely fantastic look at how the Enigma Machine works. Jared Owen constructed a 3D model of the German cipher device and clearly walks the viewer through how the electricity flows through the machine to scramble and unscramble secret messages.\nWhen electricity travels through one rotor it changes the letter once. But remember, we have three of these rotors and they each have different wirings on the inside. When electricity travels through all three of them it changes the letter three times.\nThen at the end, we have the reflector. This also has 26 metal contacts. Inside is more wiring that connects the letters in pairs. So it goes in as one letter and then comes out as another letter.\nTo the right of here is the input wheel. It has 26 wires that go in and connects to the 26 metal contacts.\nLet’s put this all together. Electricity flows through one of the 26 wires, let’s say the wire for the letter Y. Then it gets changed to a different letter at all three rotors. Then it hits the reflector, which again, changes the letter. And then it goes back through the rotors again which changes the letter three more times. And it comes back out on a wire that represents a completely different letter. And if you were counting, this means the letter was changed seven times.\n\n\t\nSeriously, this is one of the best explanations I’ve ever seen of anything on YouTube — by the end of it, I was pretty sure I could now build an Enigma Machine if I needed to. (via benn jordan)\n\n \n\n        \n         \nTags: Enigma machine · Jared Owen · video",
+          "link": "https://kottke.org/26/08/how-does-an-enigma-machine-work",
+          "publishedOn": "2026-08-06T14:45:00.000Z",
+          "wordCount": 1231,
+          "title": "How Does an Enigma Machine Work?",
+          "imageUrl": "https://i.ytimg.com/vi/ybkkiGtJmkM/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/08/0049442-how-wildfire-smoke-is-res",
+          "author": null,
+          "description": "How Wildfire Smoke Is Reshaping Childhood. “Repeated smoke events are changing children’s daily routines, limiting opportunities for outdoor play and social interaction and reshaping how many families experience summer.”",
+          "link": "https://kottke.org/26/08/0049442-how-wildfire-smoke-is-res",
+          "publishedOn": "2026-08-06T14:00:00.000Z",
+          "wordCount": 737,
+          "title": "How Wildfire Smoke Is Reshaping Childhood ....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/08/0049456-this-guy-hooked-his-hamst",
+          "author": null,
+          "description": "This guy hooked his hamster’s wheel up to Strava — Mollie is logging 5-6 miles per day.",
+          "link": "https://kottke.org/26/08/0049456-this-guy-hooked-his-hamst",
+          "publishedOn": "2026-08-06T13:04:00.000Z",
+          "wordCount": 717,
+          "title": "This guy hooked his hamster’s wheel up to Strava  —...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/08/0049447-measured-the-size-of-the-",
           "author": null,
