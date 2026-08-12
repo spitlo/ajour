@@ -6,6 +6,26 @@
       "siteUrl": "https://christianheilmann.com",
       "articles": [
         {
+          "id": "https://christianheilmann.com/?p=10227",
+          "author": "Chris Heilmann",
+          "description": "Translating documents isn’t hard these days, but when it comes to long documents, it still gets tricky as most translation services are limited to a few paragraphs and charge for larger texts. If you use Microsoft Edge, you can use the immersive reader mode to translate huge documents for free though. You can trigger the […]",
+          "link": "https://christianheilmann.com/2026/08/12/quick-tip-translating-long-documents-with-microsoft-edge-immersive-reader/",
+          "publishedOn": "2026-08-11T23:52:58.000Z",
+          "wordCount": 3998,
+          "title": "Quick Tip: Translating long documents with Microsoft Edge Immersive Reader",
+          "imageUrl": null
+        },
+        {
+          "id": "https://christianheilmann.com/?p=10218",
+          "author": "Chris Heilmann",
+          "description": "[prompt: create a viral hero image that shows what I mean. Or, don’t] Currently I am on a half diet of social media as I am still locked out of X and by now I really don’t mind any more. Social media is dead and has been weaponised into a distraction, propaganda and rage discourse […]",
+          "link": "https://christianheilmann.com/2026/08/11/anti-social-media/",
+          "publishedOn": "2026-08-11T18:10:43.000Z",
+          "wordCount": 5091,
+          "title": "Anti-Social Media",
+          "imageUrl": null
+        },
+        {
           "id": "https://christianheilmann.com/?p=9884",
           "author": "Chris Heilmann",
           "description": "In 1937, Karl Loewenstein, a German Lawyer published an essay in the American Political Science Review that can only be described as a blueprint for democracy to defend itself against fascism. You probably never heard of the essay entitled “Militant Democracy and Fundamental rights” and despite having a (highschool) degree in history, neither have I. […]",
@@ -13,16 +33,6 @@
           "publishedOn": "2026-08-04T14:00:40.000Z",
           "wordCount": 4891,
           "title": "A blueprint for democracy to defend itself against fascism from 1937 – more important now than ever…",
-          "imageUrl": null
-        },
-        {
-          "id": "https://christianheilmann.com/?p=9877",
-          "author": "Chris Heilmann",
-          "description": "When adding an email link to a document you should use the mailto: URI scheme: Email Chris That makes the browser open the associated email tool instead of opening the link in the browser. Today I found out that browsers also offer a “copy email” in the context menu that only copies the email itself […]",
-          "link": "https://christianheilmann.com/2026/06/12/til-browsers-offer-a-copy-email-in-the-context-menu-on-mailto-links/",
-          "publishedOn": "2026-06-12T07:16:04.000Z",
-          "wordCount": null,
-          "title": "TIL: Browsers offer a “copy email” in the context menu on mailto: links",
           "imageUrl": null
         }
       ]
@@ -358,6 +368,26 @@
       "siteUrl": "https://remysharp.com",
       "articles": [
         {
+          "id": "three-men-in-a-boat",
+          "author": null,
+          "description": "Really enjoyed it. Lots of stupid tales - surprisingly fresh for 1889.\n\nAs per the title, it's a story, almost, of three men (and their dog), who take a boat from Kingston upon Thames to Oxford.\nI learnt that originally the book was written as a tour guide of the Thames which explains some of the diversions into the history of particular towns or parts of the river.\nAs it turned out, Jerome's stories had so much humour that it turned into the book we have today.\nIt's told from his perspective, even referring to himself as \"J.\" and occasionally breaks through the story to remind the reader that he promised to keep to the truth the the story (which ironically there's a lot of references to fisherman and river workers that have time honoured tradition of lying).\nAlthough there's a touch of sadness towards the end of the book, as the Three Men start their journey home in the rain, the bulk of the book is humourous and made me chuckle along quite often.\nAs Jerome rambles along the river with his friends, retelling stories either from himself or his companions.\nI did really enjoy the book, and mostly because of the stupidity of the characters which I found myself easily relating to (having my own stupidity inner monologue).\nFinally, for a book written in the late nineteenth century, I was quite surprised how tender some of the more sombre parts of the book could be.\nHolds up surprisingly well nearly 140 year old book about a row boat on the Thames.",
+          "link": "https://remysharp.com/books/2026/three-men-in-a-boat",
+          "publishedOn": "2026-08-09T00:00:00.000Z",
+          "wordCount": 1000,
+          "title": "Three Men in a Boat [book]",
+          "imageUrl": null
+        },
+        {
+          "id": "2026-08-07-f9ee44b7",
+          "author": null,
+          "description": "Good article that's backed with data, but this is the bit that really landed for me, a reminder that it's not all \"what aria role is needed here...?\" —\n\nI can confidently say that the best approach to making a web site accessible (to screen readers or not) is by using proper HTML. If done well, ARIA is only needed for complex controls (tabs, trees, carousels, …).\nScreen reader users still benefit the same way sighted users do from hidden elements, particularly visual (and in this case auditory) assaults such as mega menus\n\nOriginal link: adrianroselli.com/[…]/not-all-screen-reader-users-are-blind.html",
+          "link": "https://remysharp.com/links/2026-08-07-f9ee44b7",
+          "publishedOn": "2026-08-07T08:36:19.000Z",
+          "wordCount": 586,
+          "title": "Not All Screen Reader Users Are Blind [link]",
+          "imageUrl": null
+        },
+        {
           "id": "progressive-enhancement-inside-of-javascript",
           "author": null,
           "description": "Lately I've had the opportunity to travel by train and coach, during which time I also tend to work. It's really only during these periods that I'm reminded of how web sites fail so terribly over a slow connection.\nOn the odd occasion I can be guilty of this too. I had a tiny tool that takes markdown and renders it for quick reading (no apps, or split view in VS Code, etc). When I loaded it up on the train, the page asked me to drop the file in to be rendered, which I dutifully did, only for the page to load the source markdown.\nIt's nothing new, but Progressive Enhancement doesn't only apply to HTML being enhanced with JavaScript. It also applies within JavaScript. Sometimes this was the cut the mustard test, but sometimes it's about thinking laterally about JavaScript. In particular, can I capture the user's intent if they try to interact with my page before it's fully ready?",
@@ -635,26 +665,6 @@
           "publishedOn": "2026-06-15T09:08:31.000Z",
           "wordCount": 762,
           "title": "Social media to be banned for under-16s in landmark government move to give kids their childhood back - GOV.UK [link]",
-          "imageUrl": null
-        },
-        {
-          "id": "2026-06-12-eb25c11f",
-          "author": null,
-          "description": "Based on the output of this article the author has styled their project with different AI prompts.\nI think what I find interesting here is after the jQuery mobile themes and especially Bootstrap you come to just visually adapt the most common style.\nWhat this author has done is asked for the design systems of existing software to be adopted into the code.\nWhat frustrates me a little bit is that I actually like the \"Original\" style, which is what AI is pumping out at the moment, as what I see all the time, which just says that I'm not very original…\nSource: envs.net",
-          "link": "https://remysharp.com/links/2026-06-12-eb25c11f",
-          "publishedOn": "2026-06-12T17:02:07.000Z",
-          "wordCount": 588,
-          "title": "AI designed pages and prompts [link]",
-          "imageUrl": null
-        },
-        {
-          "id": "2026-06-12-74cd263b",
-          "author": null,
-          "description": "The UK government's ultimatum to Apple and Google is a blueprint for mass surveillance. A warning on why \"nothing to hide\" won't protect your digital freedom.\n...\nWe're being steered toward a future where \"safety\" is just a euphemism for \"unrestricted access.\"\n\nIf I had read this a few years ago, I'd assume it was the plot for some dystopian novel, but no, it's reality today under (what was supposed to be) the progressive government - not even the Tories.\nAs per the author, I don't expect any of the Big Tech to do anything about it if it means it affects their share of the gold.\nI guess I'll be looking around for alternatives soon enough too (and then for the kids, and the extended family). Yay.\nSource: the.unknown-universe.co.uk",
-          "link": "https://remysharp.com/links/2026-06-12-74cd263b",
-          "publishedOn": "2026-06-12T15:13:51.000Z",
-          "wordCount": 624,
-          "title": "The “Nude” Ultimatum: Privacy Is Dead - The Unknown Universe [link]",
           "imageUrl": null
         }
       ]
@@ -1122,6 +1132,16 @@
       "siteUrl": "https://pluralistic.net",
       "articles": [
         {
+          "id": "https://pluralistic.net/?p=13147",
+          "author": "Cory Doctorow",
+          "description": "Today's links Surveillance vs guillotines: Someone's gonna fleece these rubes, why not me? Hey look at this: Delights to delectate. Object permanence: DeCSS; Warhol Worm; Camgirls x Amazon wishlists; 2021 State of Tech (in 2001); RIAA v grieving family; Stasi disguises. Upcoming appearances: Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Surveillance vs guillotines (permalink) In the summer of 2013, two esoteric, technical, incredibly important texts were published within weeks of one another: the first is the Snowden leaks, which revealed a system of global, pervasive digital surveillance; the second was Tho…",
+          "link": "https://pluralistic.net/2026/08/11/tragedy-of-the-commoners/",
+          "publishedOn": "2026-08-11T11:19:13.000Z",
+          "wordCount": 5198,
+          "title": "Pluralistic: Surveillance vs guillotines (11 Aug 2026)",
+          "imageUrl": null
+        },
+        {
           "id": "https://pluralistic.net/?p=13143",
           "author": "Cory Doctorow",
           "description": "Today's links The bureaucratic AI arms-race is mutually assured destruction: The only way to win is not to play. Hey look at this: Delights to delectate. Object permanence: Seymour Cray's tunnels; War on moisture; $5 wrench cryptanalysis; Nauru files; People's Ride; German transit upholstery fashion; Monopolies v small business; Linkedin will put you in ads; NZ Parliament kicks itself off the internet; Adblock Plus v Facebook adblock-block; Cracking 100m VWs for $40; Trump as defective machine learning; Canada sucks at internet law; Goodhart's Law of AI. Upcoming appearances: Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: …",
@@ -1535,16 +1555,6 @@
           "wordCount": 3027,
           "title": "Pluralistic: Shareholder supremacy and the precog CEO (13 Jun 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=12912",
-          "author": "Cory Doctorow",
-          "description": "Today's links Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme: Not even a QR code can produce a kissable pig. Hey look at this: Delights to delectate. Object permanence: Arrested at Toronto G20; Rule by rentiers; Wrong about the First Amendment; Mounties x Stingrays; (EU) Privacy without monopoly. Upcoming appearances: LA, Menlo Park, Toronto, NYC, Philadelphia, Chicago, Edinburgh, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (permalink) Long before \"agentic AI,\" we had the idea that software would act …",
-          "link": "https://pluralistic.net/2026/06/12/compelled-speech/",
-          "publishedOn": "2026-06-12T20:45:52.000Z",
-          "wordCount": 3955,
-          "title": "Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -1592,6 +1602,76 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/08/0049478-the-most-complicated-boar",
+          "author": null,
+          "description": "“Widely regarded as the most complicated board game ever made, The Campaign for North Africa tries to simulate WW2’s North African theater in as granular fashion as possible…” 1500 hours to finish the game — that’s 1h20m every day for 3 years.",
+          "link": "https://kottke.org/26/08/0049478-the-most-complicated-boar",
+          "publishedOn": "2026-08-12T00:25:00.000Z",
+          "wordCount": 772,
+          "title": "&#8220;Widely regarded as  the most complicated board...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/08/0049477-soft-secession",
+          "author": null,
+          "description": "New vocabulary term: “soft secession”.",
+          "link": "https://kottke.org/26/08/0049477-soft-secession",
+          "publishedOn": "2026-08-11T23:25:00.000Z",
+          "wordCount": 555,
+          "title": "New vocabulary term:  &#8220;soft secession” .",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/08/0049476-good-sentence",
+          "author": null,
+          "description": "Good sentence: “The market’s most lavish rewards do not go to its most productive participants, but rather, to those participants who have the good fortune to emerge from the luckiest of orifices.”",
+          "link": "https://kottke.org/26/08/0049476-good-sentence",
+          "publishedOn": "2026-08-11T22:35:04.000Z",
+          "wordCount": 669,
+          "title": "Good sentence : &#8220;The market&#8217;s most lavish...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/08/0049445-your-brain-is-a-gambling-",
+          "author": null,
+          "description": "“Your brain is a gambling addict that bets on reality. It doesn’t wait for information. It guesses what should happen and adjusts when surprised. Most bets win. But when they don’t, you run into walls.”",
+          "link": "https://kottke.org/26/08/0049445-your-brain-is-a-gambling-",
+          "publishedOn": "2026-08-11T16:21:00.000Z",
+          "wordCount": 978,
+          "title": "&#8220; Your brain is a gambling addict that bets on...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/08/0049474-the-uni-context-is-a-scen",
+          "author": null,
+          "description": "I’ve felt this for years (blogs have global context): “The uni-context is a scenario in which the ways you should act become the same across all different contexts. There’s just one set of norms you should follow all times, irrespective of context.”",
+          "link": "https://kottke.org/26/08/0049474-the-uni-context-is-a-scen",
+          "publishedOn": "2026-08-11T15:21:00.000Z",
+          "wordCount": 1299,
+          "title": "I’ve felt this for years (blogs have global context):...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/08/an-absolute-climate-catastrophe",
+          "author": null,
+          "description": "British climate scientist Kevin Anderson (from a 2024 video):\nSo there is lots that you will hear — lots of rhetoric, lots of good words, lots of optimism about the future. But given we’ve known about this subject and apparently been working on it for 30 years, the trend line tells us that we are heading towards three to four degrees centigrade of warming across this century: an absolute climate catastrophe, a catastrophe for all species including our own. And so that’s the direction of travel. Now, that direction of travel does not have to continue, but the current trend line tells us that all we are doing so far is giving rhetoric and optimism and greenwash, and not driving the levels of change that are necessary to stay within the 1.5-to-2-degree framing of the Paris Agreement.\n\n\t\nAnd:\nAnd I have to be honest and say that my judgment, my best guess as someone who’s worked on this for years, is that we are going to fail. We’re going to go to three or four degrees centigrade of warming, and we’re going to put up with — well, we won’t put up with — we’ll have to live through, or die from, all of the repercussions that that will have. That is a terrible prospect, and one that I think we have to try everything we can to avoid.\nBut the message of hope, if there’s any thread of hope in this, is that it is a choice to fail. We have so far repeatedly — I’m going to say “we”; what I mean is effectively our leaders, politically, academically, in the journalistic community, across the board, those people that are framing this debate — have chosen actively to fail for three decades. And when they have breakfast with their own children, I hope they are thinking about what they have deliberately, what we have deliberately, imposed upon their future.\n\n\t\n\n \n\n        \n         \nTags: climate crisis · Kevin Anderson · video",
+          "link": "https://kottke.org/26/08/an-absolute-climate-catastrophe",
+          "publishedOn": "2026-08-11T14:11:00.000Z",
+          "wordCount": 882,
+          "title": "&#8220;An Absolute Climate Catastrophe&#8221;",
+          "imageUrl": "https://i.ytimg.com/vi/ipdwvvZ8Wu4/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/08/0049475-since-1974-vaccination-ha",
+          "author": null,
+          "description": "“Since 1974, vaccination has averted 154 million deaths, including 146 million among children younger than 5 years… For every death averted, 66 years of full health were gained on average, translating to 10.2 billion years of full health gained.”",
+          "link": "https://kottke.org/26/08/0049475-since-1974-vaccination-ha",
+          "publishedOn": "2026-08-11T13:31:00.000Z",
+          "wordCount": 678,
+          "title": "&#8220; Since 1974, vaccination has averted 154 million...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/08/0049473-taxi-and-ambulance-driver",
           "author": null,
@@ -4880,56 +4960,6 @@
           "publishedOn": "2026-06-15T13:48:00.000Z",
           "wordCount": 1059,
           "title": "Sports but make it wealth inequality :...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/06/0049132-the-worlds-first-trillion",
-          "author": null,
-          "description": "The world’s first trillionaire is a killer. “A year ago, Musk’s actions directly led to the deaths of hundreds of thousands of people. He did it knowingly. And, worse — gleefully.”",
-          "link": "https://kottke.org/26/06/0049132-the-worlds-first-trillion",
-          "publishedOn": "2026-06-12T21:38:00.000Z",
-          "wordCount": 477,
-          "title": "The world’s first trillionaire is a killer . &#8220;A...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/06/0049131-while-reading-this",
-          "author": null,
-          "description": "Two competing (?) thoughts kept going through my head while reading this: “Not even a celeb like Emily Ratajkowski can find a decent man to date” and “A celeb like Emily Ratajkowski especially can’t find a decent man to date”.",
-          "link": "https://kottke.org/26/06/0049131-while-reading-this",
-          "publishedOn": "2026-06-12T19:00:00.000Z",
-          "wordCount": 690,
-          "title": "Two competing (?) thoughts kept going through my head...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/06/0049129-has-died-at-age-99",
-          "author": null,
-          "description": "Joe “Handyman” Negri, a Mister Rogers’ Neighborhood fixture, has died at age 99. “He really was like the friendly fellow you might find walking around a neighborhood. He was just incredibly gentle as a person, but also as a musician.”",
-          "link": "https://kottke.org/26/06/0049129-has-died-at-age-99",
-          "publishedOn": "2026-06-12T17:07:00.000Z",
-          "wordCount": 818,
-          "title": "Joe “Handyman” Negri, a Mister Rogers’ Neighborhood...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/06/0049130-us-authorities-investigat",
-          "author": null,
-          "description": "US Authorities Investigate Huge Etching of ‘8647’ on National Mall Grounds. Bwahaha. Make it a new US National Treasure. An Interior Dept. spokeperson hyperbolically called it a “threat against the president”. 🙄",
-          "link": "https://kottke.org/26/06/0049130-us-authorities-investigat",
-          "publishedOn": "2026-06-12T16:10:00.000Z",
-          "wordCount": 491,
-          "title": "US Authorities Investigate Huge Etching of ‘8647’ on...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/06/0049128-david-hockney-iconic-brit",
-          "author": null,
-          "description": "David Hockney, iconic British artist known for his colorful landscapes and pool scenes, dies at 88. “His work is admired — loved is not too strong a word — by the millions who, worldwide, flock to see it because it presupposes an expectation of pleasure.”",
-          "link": "https://kottke.org/26/06/0049128-david-hockney-iconic-brit",
-          "publishedOn": "2026-06-12T15:39:16.000Z",
-          "wordCount": 1071,
-          "title": "David Hockney, iconic British artist known for his...",
           "imageUrl": ""
         }
       ]
