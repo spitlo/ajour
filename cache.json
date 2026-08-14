@@ -111,6 +111,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3284/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/geology_building.png\" title=\"The administration thinks it's weird, but the geologists say it looks normal.\" alt=\"The administration thinks it's weird, but the geologists say it looks normal.\" />",
+          "link": "https://xkcd.com/3284/",
+          "publishedOn": "2026-08-12T00:00:00.000Z",
+          "wordCount": 187,
+          "title": "Geology Building",
+          "imageUrl": "https://imgs.xkcd.com/comics/geology_building_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3283/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/size_and_lifespan.png\" title=\"With their 13 years recording and performing together and two humans worth of mass, the White Stripes are sandwiched neatly between gray wolves and blue whales.\" alt=\"With their 13 years recording and performing together and two humans worth of mass, the White Stripes are sandwiched neatly between gray wolves and blue whales.\" />",
@@ -349,16 +359,6 @@
           "wordCount": 185,
           "title": "Messi",
           "imageUrl": "https://imgs.xkcd.com/comics/messi_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3259/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/tethys.png\" title=\"In order to carry the necessary crafting supplies, they built the ships at 12:1 scale.\" alt=\"In order to carry the necessary crafting supplies, they built the ships at 12:1 scale.\" />",
-          "link": "https://xkcd.com/3259/",
-          "publishedOn": "2026-06-15T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Tethys",
-          "imageUrl": "https://imgs.xkcd.com/comics/tethys_2x.png"
         }
       ]
     },
@@ -665,16 +665,6 @@
           "publishedOn": "2026-06-16T14:46:39.000Z",
           "wordCount": 561,
           "title": "Enhancing with CSS Grid Lanes [link]",
-          "imageUrl": null
-        },
-        {
-          "id": "2026-06-15-e715aced",
-          "author": null,
-          "description": "The UK government has announced they're going ahead with a social media ban for 16 year old and under.\nIn our household we've already had this restriction in place (at a network/DNS level) so it doesn't impact our kids experiences at all, but I do know from talking to the kids that the do wish their friends had it too. I would add that I'm in no doubt that kids will find work arounds, but the larger effect of this, I think, is important.\nA few quotes that interest me from the GOV.UK news post:\n\nThe ban will therefore include platforms like Snapchat, TikTok, YouTube, Instagram, Facebook and X. We do not intend for messaging services like WhatsApp and Signal to be included in the social media ban\n\nI'm assuming that \"like\" refers to the user-to-user definition, and I'd expect or hope to see pretty clear definitions (though the government doesn't particularly have a track record on clear definitions).\n\nThe government will also be looking in more detail at overnight curfews and breaks in infinite scrolling for under-18-year-olds and will set out more detail in July.\n\nIn particular the breaks in infinite scrolling - though I've been personally arguing that it could be banned altogether - the only function it serves from a UX perspective is \"stickiness\" aka - addition.\nI'm sceptical about the implementation rules and I'm particularly worried about how the government goes about setting the definitions of what products will need to do.\nSource: www.gov.uk",
-          "link": "https://remysharp.com/links/2026-06-15-e715aced",
-          "publishedOn": "2026-06-15T09:08:31.000Z",
-          "wordCount": 762,
-          "title": "Social media to be banned for under-16s in landmark government move to give kids their childhood back - GOV.UK [link]",
           "imageUrl": null
         }
       ]
@@ -1612,6 +1602,96 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/08/open-thread-for-august-2026",
+          "author": null,
+          "description": "We haven’t done an open thread for awhile, so… What have you been working on? How are you feeling? What’s on your mind these days? What’s the best thing you’ve seen this week? Have you called a plumber to your home lately? \nAre you new here? Introduce yourself if you feel like it. Heck, if you’re a regular commenter, reintroduce yourself if you’d like.\n\n \n\n        \n         \nTags: kottke.org · open threads",
+          "link": "https://kottke.org/26/08/open-thread-for-august-2026",
+          "publishedOn": "2026-08-13T20:41:00.000Z",
+          "wordCount": 4014,
+          "title": "Open Thread for August 2026",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/08/0049493-contiguous-us-breaks-its-",
+          "author": null,
+          "description": "NOAA: Contiguous US Breaks Its Record for Hottest Month Ever. “It’s not good when you’re breaking records from the Dust Bowl…” (This record will be broken several more times in the decades to come.)",
+          "link": "https://kottke.org/26/08/0049493-contiguous-us-breaks-its-",
+          "publishedOn": "2026-08-13T20:01:00.000Z",
+          "wordCount": 648,
+          "title": "NOAA:  Contiguous US Breaks Its Record for Hottest Month...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/08/the-moral-unseriousness-of-centrist-conservative-pundits",
+          "author": null,
+          "description": "Jamelle Bouie almost never misses. In this video that’s just shy of 10 minutes long, he chastises American political & cultural pundits for their lack of moral seriousness w/r/t their focus on “wokeness” instead of the real harms being done by the authoritarian Trump regime. (And he worked in a reference to Jonathan Frakes saying no.)\nI bring this up because this is just a great example of a phenomenon I’ve been struck by over the past year. Which is that, in the midst of a government that is systematically dismantling Americans’ rights, that is systematically dismantling the post-World War II world order, that is systematically tearing apart the social safety net, that is trying to exert nearly totalitarian control over large parts of American life, which is constructing concentration cam…",
+          "link": "https://kottke.org/26/08/the-moral-unseriousness-of-centrist-conservative-pundits",
+          "publishedOn": "2026-08-13T19:10:13.000Z",
+          "wordCount": 1304,
+          "title": "The Moral Unseriousness of Centrist & Conservative Pundits",
+          "imageUrl": "https://i.ytimg.com/vi/46tpqFxfomI/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/08/0049490-a-recently-unearthed-conv",
+          "author": null,
+          "description": "A recently unearthed conversation with Anthony Bourdain from 2005. “We discuss Tony’s preferred sucker-punch etiquette, his loyalty to cigarettes & the Chateau Marmont, ayahuasca in Peru, and the talk show he dreamed up with Christopher Walken in mind.”",
+          "link": "https://kottke.org/26/08/0049490-a-recently-unearthed-conv",
+          "publishedOn": "2026-08-13T17:47:00.000Z",
+          "wordCount": 818,
+          "title": "A recently unearthed conversation with Anthony Bourdain...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/08/supersonic-trebuchet",
+          "author": null,
+          "description": "Ok so when you woke up this morning, you probably didn’t expect to watch a 20-minute video about a trebuchet — but to be fair, I didn’t either. But Tom Stanton’s build of a fully mechanical trebuchet that propels a tiny plastic pellet faster than the speed of sound (complete with tiny sonic boom) is genuinely fascinating to watch.\nHe starts with a basic plan, but as he builds & tests, there are all sorts of problems (weight, strength) that he needs to overcome. The final product is impressive, but it’s the process that’s most interesting to me. What a gift these sorts of videos are…you could sometimes find process-heavy shows on PBS (like How to Create a Junk Food) when I was a kid, but if I’d had access to stuff like the supersonic trebuchet video (and all those Lego engineering videos), I’d have probably wanted to grow up to be an engineer.\n\n \n\n        \n         \nTags: engineering · how to · Tom Stanton · video",
+          "link": "https://kottke.org/26/08/supersonic-trebuchet",
+          "publishedOn": "2026-08-13T16:47:00.000Z",
+          "wordCount": 891,
+          "title": "Supersonic Trebuchet",
+          "imageUrl": "https://i.ytimg.com/vi/Co57SfcT-h0/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/08/0049492-a-swarm-of-blood-robots",
+          "author": null,
+          "description": "Craig Mod wrote about his recent adventures using LLMs: A Swarm of Blood Robots. “I now have a comprehensive family tree, naming the very boats my Italian and Polish ancestors came over on in the late 1800s, the villages a few came from…”",
+          "link": "https://kottke.org/26/08/0049492-a-swarm-of-blood-robots",
+          "publishedOn": "2026-08-13T16:12:00.000Z",
+          "wordCount": 757,
+          "title": "Craig Mod wrote about his recent adventures using LLMs:...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/08/0049489-eigendrum",
+          "author": null,
+          "description": "“Draw any shape and hear it as a drum.” Eigendrum: a drum simulator where you can change the shape of the drum to see how it affects the sound it makes.",
+          "link": "https://kottke.org/26/08/0049489-eigendrum",
+          "publishedOn": "2026-08-13T15:47:00.000Z",
+          "wordCount": 770,
+          "title": "&#8220;Draw any shape and hear it as a drum.&#8221;...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/08/0049488-gps-and-the-lost-art-of-g",
+          "author": null,
+          "description": "G.P.S. and the Lost Art of Getting Lost. “G.P.S. has also led us to outsource existential skills: locating yourself in space, parsing out your surroundings, staying calm when you don’t know where you are. Do we lose something when we no longer get lost?”",
+          "link": "https://kottke.org/26/08/0049488-gps-and-the-lost-art-of-g",
+          "publishedOn": "2026-08-13T14:59:00.000Z",
+          "wordCount": 3051,
+          "title": "G.P.S. and the Lost Art of Getting Lost . &#8220;G.P.S....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/08/0049485-are-being-solved-by-llms",
+          "author": null,
+          "description": "Some of the most storied problems in mathematics, those posed by Paul Erdős, are being solved by LLMs.",
+          "link": "https://kottke.org/26/08/0049485-are-being-solved-by-llms",
+          "publishedOn": "2026-08-13T13:55:00.000Z",
+          "wordCount": 633,
+          "title": "Some of the most storied problems in mathematics, those...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/08/the-art-of-the-copyist",
           "author": null,
