@@ -122,6 +122,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3285/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/accretionary_arc.png\" title=\"The late Triassic rifting was caused by a dinosaur trying to use the control panel to escape a predator, but it was eaten before the continent could fully separate.\" alt=\"The late Triassic rifting was caused by a dinosaur trying to use the control panel to escape a predator, but it was eaten before the continent could fully separate.\" />",
+          "link": "https://xkcd.com/3285/",
+          "publishedOn": "2026-08-14T00:00:00.000Z",
+          "wordCount": 187,
+          "title": "Accretionary Arc",
+          "imageUrl": "https://imgs.xkcd.com/comics/accretionary_arc_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3284/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/geology_building.png\" title=\"The administration thinks it's weird, but the geologists say it looks normal.\" alt=\"The administration thinks it's weird, but the geologists say it looks normal.\" />",
@@ -360,16 +370,6 @@
           "wordCount": 187,
           "title": "Side Effect",
           "imageUrl": "https://imgs.xkcd.com/comics/side_effect_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3260/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/messi.png\" title=\"Commentators agree that this will probably be the last World Cup in which Messi faces serious competition.\" alt=\"Commentators agree that this will probably be the last World Cup in which Messi faces serious competition.\" />",
-          "link": "https://xkcd.com/3260/",
-          "publishedOn": "2026-06-17T00:00:00.000Z",
-          "wordCount": 185,
-          "title": "Messi",
-          "imageUrl": "https://imgs.xkcd.com/comics/messi_2x.png"
         }
       ]
     },
@@ -666,26 +666,6 @@
           "publishedOn": "2026-06-19T10:29:59.000Z",
           "wordCount": 752,
           "title": "A bouncer in your pocket by Sacha Judd [link]",
-          "imageUrl": null
-        },
-        {
-          "id": "20-years-of-blogging",
-          "author": null,
-          "description": "Today is the anniversary of the first blog post on this website from two decades ago. It was about client side JavaScript to automatically (albeit blindly) select the \"active\" navigation. Ironically, I'd probably do this on the server side these days.\nAdmittedly, it's imported from my prior blog and the first time I posted on on this domain was in September, but the post in June counts! But then, my domain was registered a full year before on 13 June 2005 (which neither myself, nor the Internet Archive can remember what was on it!).",
-          "link": "https://remysharp.com/2026/06/17/20-years-of-blogging",
-          "publishedOn": "2026-06-17T00:00:00.000Z",
-          "wordCount": 1459,
-          "title": "20 Years of Blogging [blog]",
-          "imageUrl": "https://remysharp.com/images/cards/og/9-6.jpg"
-        },
-        {
-          "id": "2026-06-16-e496d97b",
-          "author": null,
-          "description": "I've been catching CSS Grid Lanes in the socials this week, but somehow had it in my head that it was to do with the gaps (the lanes) between the grid.\nIt's not, it's masonry (which, why not display: masonry 🤷\nThere's a also a decent (albeit stiff) video on how it works.\nTL;DR: mostly you can swap display: grid for display: grid-lanes (but Jeremy goes further to actually add the CSS support check first).\nSource: adactio.com",
-          "link": "https://remysharp.com/links/2026-06-16-e496d97b",
-          "publishedOn": "2026-06-16T14:46:39.000Z",
-          "wordCount": 561,
-          "title": "Enhancing with CSS Grid Lanes [link]",
           "imageUrl": null
         }
       ]
@@ -1063,26 +1043,6 @@
           "wordCount": 2199,
           "title": "Keeping the Web Open and Private in the Bot Era",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/04/Browsing_1920x1080-1080x720.jpeg"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=86157",
-          "author": "Mozilla",
-          "description": "Firefox gives you many ways to make the browser your own, from privacy settings and AI controls to tab management, custom colors, and more. As we continue to improve Firefox, you get more control over how it works for you. Today, we’re introducing a redesigned settings experience that makes your options easier to find, understand, […]\nThe post Firefox is easier than ever to customize appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/firefox/firefox-settings/",
-          "publishedOn": "2026-06-16T12:58:29.000Z",
-          "wordCount": 1559,
-          "title": "Firefox is easier than ever to customize",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/06/SRD-Distilled_Hero-1080x720.png"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=86156",
-          "author": "Mozilla",
-          "description": "Firefox has been busy introducing updates across productivity, privacy and AI. From Project Nova and browser-wide AI controls to expanded privacy protections and new ways to stay organized, the goal is simple: help you spend less time managing your browser and more time getting things done online. But building the best browser isn’t just about […]\nThe post What’s new in Firefox this June, and what’s next on the Firefox roadmap appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/firefox/firefox-roadmap-152/",
-          "publishedOn": "2026-06-16T12:57:54.000Z",
-          "wordCount": 2113,
-          "title": "What’s new in Firefox this June, and what’s next on the Firefox roadmap",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/06/Firefox_Distilled_Roadmap-1080x720.png"
         }
       ]
     },
@@ -4951,106 +4911,6 @@
           "publishedOn": "2026-06-17T13:14:05.000Z",
           "wordCount": 773,
           "title": "Proposed UI rule of thumb : &#8220;If I take a...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/06/0049155-is-this-the-sloppiest-ai-",
-          "author": null,
-          "description": "Is this the sloppiest AI slop video of all time? The AI-generated voiceover (at ~6:45) gets tripped up saying “what WWE” and basically sings Daisy Bell for more than 10 minutes until someone kicks the server.",
-          "link": "https://kottke.org/26/06/0049155-is-this-the-sloppiest-ai-",
-          "publishedOn": "2026-06-16T20:28:00.000Z",
-          "wordCount": 488,
-          "title": "Is this the sloppiest AI slop video of all time?  The...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/06/0049160-music-from-the-films-of-w",
-          "author": null,
-          "description": "If I lived in LA, I would go to this concert at the Hollywood Bowl: Music From the Films of Wes Anderson. “Over three nights, musicians including Beck, Jenny Lewis, Jackson Browne, and Mothersbaugh himself perform favorite songs, scores…”",
-          "link": "https://kottke.org/26/06/0049160-music-from-the-films-of-w",
-          "publishedOn": "2026-06-16T19:38:00.000Z",
-          "wordCount": 801,
-          "title": "If I lived in LA, I would go to this concert at the...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/06/0049158-spielberg-faces",
-          "author": null,
-          "description": "Disclosure Day surely sets a world record for the number of Spielberg Faces.",
-          "link": "https://kottke.org/26/06/0049158-spielberg-faces",
-          "publishedOn": "2026-06-16T18:47:03.000Z",
-          "wordCount": 828,
-          "title": "Disclosure Day surely sets a world record for the number...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/06/walter-whites-big-hat",
-          "author": null,
-          "description": "In this modified scene from Breaking Bad, Walter White’s hat grows in proportion to his ego. YT commenter: “He was just brimming with confidence.” Could be time for a BB rewatch. (via @ernie.tedium.co)\n\n \n\n        \n         \nTags: Breaking Bad · remix · TV · video",
-          "link": "https://kottke.org/26/06/walter-whites-big-hat",
-          "publishedOn": "2026-06-16T17:28:00.000Z",
-          "wordCount": 705,
-          "title": "Walter White’s Big Hat",
-          "imageUrl": "https://i.ytimg.com/vi/PTlVtPV-Qtw/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/06/0049036-film-posters-inadvertentl",
-          "author": null,
-          "description": "“Film posters inadvertently photographed by [British] postwar town planners.” Includes posters for Help!, Shaft, Dr. No, Planet of the Apes, and many more.",
-          "link": "https://kottke.org/26/06/0049036-film-posters-inadvertentl",
-          "publishedOn": "2026-06-16T16:48:00.000Z",
-          "wordCount": 725,
-          "title": "&#8220;Film posters inadvertently photographed by...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/06/0049154-isnt-the-implication-that",
-          "author": null,
-          "description": "“If Platner’s past rhetoric about and treatment of women are the natural price of running a working class candidate, isn’t the implication that working class men by nature mistreat the women in their lives?”",
-          "link": "https://kottke.org/26/06/0049154-isnt-the-implication-that",
-          "publishedOn": "2026-06-16T15:58:00.000Z",
-          "wordCount": 484,
-          "title": "&#8220;If Platner’s past rhetoric about and treatment of...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/06/0049147-a-million-new-spacex-sate",
-          "author": null,
-          "description": "A million new SpaceX satellites will destroy the night sky — for everyone on Earth. They already have 10K satellites in orbit and they want to add a million more. 🥴",
-          "link": "https://kottke.org/26/06/0049147-a-million-new-spacex-sate",
-          "publishedOn": "2026-06-16T15:16:00.000Z",
-          "wordCount": 502,
-          "title": "A million new SpaceX satellites will destroy the night...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/06/new-ambient-album-from-marconi-union",
-          "author": null,
-          "description": "Marconi Union, which you might remember for creating the most relaxing song in the world, has released a new album: Multiforms: Ambient Transmissions, Vol. 3. You can watch the visual album on YouTube or stream it from a variety of sources. This went straight into my Underscore collection.\n\n \n\n        \n         \nTags: Marconi Union",
-          "link": "https://kottke.org/26/06/new-ambient-album-from-marconi-union",
-          "publishedOn": "2026-06-16T14:21:00.000Z",
-          "wordCount": 725,
-          "title": "New Ambient Album From Marconi Union",
-          "imageUrl": "https://i.ytimg.com/vi/8h1AX9jNMho/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/06/0049149-the-40-most-rage-inducing",
-          "author": null,
-          "description": "The 40 Most Rage-Inducing Problems in Tech. Like: “4. Please, please stop asking me to verify my humanity by clicking on tiny motorcycles.” and “35. To Mark Zuckerberg, specifically: Shut up about the Roman Empire.”",
-          "link": "https://kottke.org/26/06/0049149-the-40-most-rage-inducing",
-          "publishedOn": "2026-06-16T13:36:00.000Z",
-          "wordCount": 925,
-          "title": "The 40 Most Rage-Inducing Problems in Tech . Like:...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/06/0049157-releasing-a-flip-phone",
-          "author": null,
-          "description": "Commodore (you know, the 64 folks) is releasing a flip phone. “No social media, no browser. Runs 99% of Android apps (without Android). T9-style texting adds mindful friction. Audiophile grade HD Audio.”",
-          "link": "https://kottke.org/26/06/0049157-releasing-a-flip-phone",
-          "publishedOn": "2026-06-16T12:41:00.000Z",
-          "wordCount": 1007,
-          "title": "Commodore (you know, the 64 folks) is  releasing a flip...",
           "imageUrl": ""
         }
       ]
