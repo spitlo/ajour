@@ -122,6 +122,26 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://store.xkcd.com/",
+          "author": null,
+          "description": "<a href=\"https://store.xkcd.com/\"><img src=\"https://imgs.xkcd.com/store_news/news_back.png\" srcset=\"https://imgs.xkcd.com/store_news/news_back_2x.png 2x\" alt=\"The xkcd store is back, with shirts, stickers, and posters for sale.\" title=\"xkcd store news\" /></ a>",
+          "link": "https://store.xkcd.com/",
+          "publishedOn": "2026-08-21T00:00:00.000Z",
+          "wordCount": 4185,
+          "title": "xkcd store reopening",
+          "imageUrl": null
+        },
+        {
+          "id": "https://xkcd.com/3288/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/archery_feat.png\" title=\"Update: I would not have embarked on this powerscaling venture if I'd known how thoroughly Mark Twain was going to roast me.\" alt=\"Update: I would not have embarked on this powerscaling venture if I'd known how thoroughly Mark Twain was going to roast me.\" />",
+          "link": "https://xkcd.com/3288/",
+          "publishedOn": "2026-08-21T00:00:00.000Z",
+          "wordCount": 180,
+          "title": "Archery Feat",
+          "imageUrl": "https://imgs.xkcd.com/comics/archery_feat_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3287/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/perseids.png\" title=\"Recently I've been watching the Daytime Perseids. I haven't seen a meteor from them yet, but the clouds are pretty and the snacks are good.\" alt=\"Recently I've been watching the Daytime Perseids. I haven't seen a meteor from them yet, but the clouds are pretty and the snacks are good.\" />",
@@ -626,16 +646,6 @@
           "publishedOn": "2026-06-26T00:00:00.000Z",
           "wordCount": 877,
           "title": "Platform Decay (The Murderbot Diaries, #8) [book]",
-          "imageUrl": null
-        },
-        {
-          "id": "2026-06-22-4f7168d2",
-          "author": null,
-          "description": "This really isn't the intended take away from Eric's post (which is worth reading), but I needed a CSS rule that targetting Safari (because their support is weird):\n/* this is gross and I hate it but it works to fix \n   Safari’s layout of the table’s top headers */\n@supports (font: -apple-system-body)\n\nGross, and horrible, but 🙏\nSource: meyerweb.com",
-          "link": "https://remysharp.com/links/2026-06-22-4f7168d2",
-          "publishedOn": "2026-06-22T16:24:15.000Z",
-          "wordCount": 553,
-          "title": "Accessible (I Think) Split-Cell Table Headers by Eric Archived Thoughts [link]",
           "imageUrl": null
         }
       ]
@@ -1536,26 +1546,6 @@
           "wordCount": 3931,
           "title": "Pluralistic: Jailbreaking isn't theft (25 Jun 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=12961",
-          "author": "Cory Doctorow",
-          "description": "Today's links Spying on kids to save kids from spying is very, very stupid: First they came for the VPNs. Hey look at this: Delights to delectate. Object permanence: RIP Darwin's tortoise; ISPs conspire to create copyright jail; Waxy v fair use; Broken Windows is BS; Google is a machine-learning company; \"Writing the Other\"; Canadian wealth-tax. Upcoming appearances: Toronto, NYC, Philadelphia, Chicago, London, Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Spying on kids to save kids from spying is very, very stupid (permalink) The literature on harms to kids from online platforms is complex and nuanced, rif…",
-          "link": "https://pluralistic.net/2026/06/23/destroy-the-village/",
-          "publishedOn": "2026-06-23T11:30:21.000Z",
-          "wordCount": 3278,
-          "title": "Pluralistic: Spying on kids to save kids from spying is very, very stupid (23 Jun 2026)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=12954",
-          "author": "Cory Doctorow",
-          "description": "Today's links Good politics: Just make people's lives better. Hey look at this: Delights to delectate. Object permanence: WWII online; Xbox security blunders; Homeless bloggers; Thermal printer racing game; Robbing a bank to get healthcare in jail; Crumb v Trump; \"The Blues Brothers\"; Bagelheads; Pickpocket training mannequin; Windmill joke; Singularity skepticism; GPU Dieselgate; Peleton bricks treadmills; Juul's junk science. Upcoming appearances: Toronto, NYC, Philadelphia, Chicago, London, Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Good politics (permalink) Some people love to admire a beautiful footb…",
-          "link": "https://pluralistic.net/2026/06/22/8-for-what-we-will/",
-          "publishedOn": "2026-06-22T17:16:08.000Z",
-          "wordCount": 3676,
-          "title": "Pluralistic: Good politics (22 Jun 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -1603,6 +1593,36 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/08/0049521-walking-the-length-of-man",
+          "author": null,
+          "description": "Walking the Length of Manhattan. I did this, solo, right before I moved out of NYC. Loved it. Will do it again someday.",
+          "link": "https://kottke.org/26/08/0049521-walking-the-length-of-man",
+          "publishedOn": "2026-08-21T17:48:00.000Z",
+          "wordCount": 1006,
+          "title": "Walking the Length of Manhattan . I did this, solo,...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/08/0049520-how-97-copies-of-an-unrel",
+          "author": null,
+          "description": "“When Jason Ganos was asked to help sell an old box full of NES cartridges…” How 97 Copies of an Unreleased Version of Super Mario Bros. Duck Hunt Were Discovered in a Wisconsin Warehouse.",
+          "link": "https://kottke.org/26/08/0049520-how-97-copies-of-an-unrel",
+          "publishedOn": "2026-08-21T16:57:00.000Z",
+          "wordCount": 864,
+          "title": "“When Jason Ganos was asked to help sell an old box full...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/08/0049519-cookbooking-a-fans-guide",
+          "author": null,
+          "description": "What a great idea for a book: Cookbooking: A Fan’s Guide. “An eclectic, visually stunning pop-history, Cookbooking explores the most influential and beloved cookbooks through photographs, listicles, graphics, and snappy writing.”",
+          "link": "https://kottke.org/26/08/0049519-cookbooking-a-fans-guide",
+          "publishedOn": "2026-08-21T15:56:00.000Z",
+          "wordCount": 1676,
+          "title": "What a great idea for a book:  Cookbooking: A Fan&#8217;s...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/08/0049518-the-principal-aim-of-pres",
           "author": null,
@@ -4841,126 +4861,6 @@
           "publishedOn": "2026-06-23T13:03:00.000Z",
           "wordCount": 764,
           "title": "Step into a virtual Criterion Closet . &#8220;A walk-in...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/06/0049192-scientists-have-found-evi",
-          "author": null,
-          "description": "Scientists have found evidence of mass death due to the plague 5000 years ago, which goes against the prevailing theory that plague wasn’t that deadly until more recently.",
-          "link": "https://kottke.org/26/06/0049192-scientists-have-found-evi",
-          "publishedOn": "2026-06-22T21:46:00.000Z",
-          "wordCount": 748,
-          "title": "Scientists have found evidence of mass death due to the...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/06/0049194-a-long-oral-history-of-st",
-          "author": null,
-          "description": "A long oral history of Steven Spielberg and his career. “He’s a terrific collaborator. He himself is a continuous lightbulb flickering on and off with one idea after another, but he’s not terribly protective of an idea.”",
-          "link": "https://kottke.org/26/06/0049194-a-long-oral-history-of-st",
-          "publishedOn": "2026-06-22T20:19:00.000Z",
-          "wordCount": 758,
-          "title": "A long oral history of Steven Spielberg and his career ....",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/06/meet-the-man-behind-the-most-beautiful-books-in-the-world",
-          "author": null,
-          "description": "I appreciate what 2K/DENMARK’s Klaus Krogh says about their ambitions when he and his wife started the company:\nWhen I started this company together with my wife, I said we got to become a very very small company. Why? Because we are going to put so much effort into each and every assignment that nobody’s going to pay for it. So we are not going to grow any. Now almost 40 years later, we have the very best customers. We have customers in 43 countries. We do typesetting in Chinese and Japanese. Why? Well, because we take care. We do our very best every time.\n\n \n\n        \n         \nTags: 2K/DENMARK · design · Klaus Krogh · typography",
-          "link": "https://kottke.org/26/06/meet-the-man-behind-the-most-beautiful-books-in-the-world",
-          "publishedOn": "2026-06-22T19:15:00.000Z",
-          "wordCount": 806,
-          "title": "Meet the Man Behind the Most Beautiful Books in the World",
-          "imageUrl": "https://i.ytimg.com/vi/3tIk4CZbJV4/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/06/0049195-the-trailer-for-klara-and",
-          "author": null,
-          "description": "The trailer for Klara and the Sun, directed by Taika Waititi and based on the bestseller by Kazuo Ishiguro.",
-          "link": "https://kottke.org/26/06/0049195-the-trailer-for-klara-and",
-          "publishedOn": "2026-06-22T18:30:00.000Z",
-          "wordCount": 1086,
-          "title": "The trailer for Klara and the Sun , directed by Taika...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/06/0049188-ai-economics-for-dummies",
-          "author": null,
-          "description": "AI Economics for Dummies. “The Wall Street Journal’s business editor moves into Alex’s house, having accepted a part-time position as Alex’s human footstool. He never asks to see the books.”",
-          "link": "https://kottke.org/26/06/0049188-ai-economics-for-dummies",
-          "publishedOn": "2026-06-22T18:18:00.000Z",
-          "wordCount": 484,
-          "title": "AI Economics for Dummies . &#8220;The Wall Street...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/06/0049190-great-piece-by-ta-nehisi-",
-          "author": null,
-          "description": "Great piece by Ta-Nehisi Coates on how “the portrait of America as an imperial power cuts against its self-image as a righteous cradle of democracy” and what that means for the next Black president.",
-          "link": "https://kottke.org/26/06/0049190-great-piece-by-ta-nehisi-",
-          "publishedOn": "2026-06-22T17:29:00.000Z",
-          "wordCount": 494,
-          "title": "Great piece by Ta-Nehisi Coates  on how “the portrait of...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/06/0049186-shifted-the-entirety-of-j",
-          "author": null,
-          "description": "A new seismic phenomenon: seismic waves from the 2011 Tohoku-Oki earthquake ricocheted off the Earth’s core and shifted the entirety of Japan 6 millimeters to the east, enough to disrupt GPS measurements.",
-          "link": "https://kottke.org/26/06/0049186-shifted-the-entirety-of-j",
-          "publishedOn": "2026-06-22T16:56:00.000Z",
-          "wordCount": 753,
-          "title": "A new seismic phenomenon: seismic waves from the 2011...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/06/america-vs-europe-two-ways-to-build-a-city",
-          "author": null,
-          "description": "Architect and urban & computational designer Abhinav Bhardwaj made this great set of slides comparing urban design in the US and Europe, peppered with pithy observations like:\nEuropean space is shaped on purpose: American open space is what’s left over.\nSmall blocks make more corners, more routes, more street life.\nA fine grid offers hundreds of routes; the tree offers one way out.\n\n\n\n(thx, meg)\n\n \n\n        \n         \nTags: Abhinav Bhardwaj · architecture · cities · design · urban planning",
-          "link": "https://kottke.org/26/06/america-vs-europe-two-ways-to-build-a-city",
-          "publishedOn": "2026-06-22T16:00:00.000Z",
-          "wordCount": 1278,
-          "title": "America vs Europe: Two Ways to Build a City",
-          "imageUrl": "http://kottke.org/plus/misc/images/editor-1782137649-11f4e73c.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/06/0049187-are-you-in-the-weights",
-          "author": null,
-          "description": "Are You in the Weights? “LLMs encode their knowledge and reasoning through billions of numbers called ‘the weights.’ ‘In the weights’ means that a model is able to recall someone without using tools like web search.”",
-          "link": "https://kottke.org/26/06/0049187-are-you-in-the-weights",
-          "publishedOn": "2026-06-22T15:19:00.000Z",
-          "wordCount": 1010,
-          "title": "Are You in the Weights?  &#8220;LLMs encode their...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/06/0049185-human-brains-were-not-des",
-          "author": null,
-          "description": "Human brains were not designed to deal with an endless supply of bad news. “We are the same species as we were thousands of years ago. What’s changed is the size of the world it’s asked to scan for threats.”",
-          "link": "https://kottke.org/26/06/0049185-human-brains-were-not-des",
-          "publishedOn": "2026-06-22T14:39:57.000Z",
-          "wordCount": 789,
-          "title": "Human brains were not designed to deal with an endless...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/06/henry-v-lalas-is-the-world-cups-most-compelling-battle",
-          "author": null,
-          "description": "Although I’ve seen a highlight or two, I have not overcome my FIFA+Fox+Trump disgust to watch any of the World Cup so far. MAGA dipshit Alexi Lalas is high on the list of reasons not to tune into any of Fox’s braindead coverage, but it sounds like he’s being dragged on the regular by Thierry Henry. The French Aristocrat and the All-American Idiot: Henry v Lalas Is the World Cup’s Most Compelling Battle:\nLalas enjoyed a solid playing career, but he’s obviously not in the same league as Henry, widely considered the greatest footballer in Premier League history. This vast gulf in on-field pedigree has become more awkward as the tournament has progressed, with Lalas retreating into a meek silence whenever Henry reveals his depth of footballing experience. In a conversation where his co-panelist is casually reminiscing about his days playing alongside Messi or exchanging shirts with Ronaldo Nazário at the World Cup, what exactly is Lalas going to talk about — coming on as a second-half substitute for Earnie Stewart in a friendly against Scotland in 1998? Helping the Kansas City Wizards finish last in the 1999 MLS Western Conference? Did Lalas enjoy an elite playing career? No. But does he do the background reading that could compensate for his relative lack of standing in a conversation with titans like Henry and Zlatan? Also no. But is he charming or funny or charismatic or otherwise magnetic on screen? Eh, no.\n\n\t\nSavage. Here’s Henry and Zlatan kicking the ball around in the studio and pointedly not letting Lalas have a go:\n\n\n \n\n        \n         \nTags: Alexi Lalas · soccer · sports · Thierry Henry · World Cup · World Cup 2026",
-          "link": "https://kottke.org/26/06/henry-v-lalas-is-the-world-cups-most-compelling-battle",
-          "publishedOn": "2026-06-22T13:51:10.000Z",
-          "wordCount": 1904,
-          "title": "&#8220;Henry v Lalas Is the World Cup&#8217;s Most Compelling Battle&#8221;",
-          "imageUrl": "https://i.ytimg.com/vi/OmriRDCFJys/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/06/0049178-this-is-probably-the-defi",
-          "author": null,
-          "description": "This is probably the definitive post about web browsers on video game consoles.",
-          "link": "https://kottke.org/26/06/0049178-this-is-probably-the-defi",
-          "publishedOn": "2026-06-22T13:21:10.000Z",
-          "wordCount": 692,
-          "title": "This is probably the definitive post about web browsers...",
           "imageUrl": ""
         }
       ]
