@@ -390,16 +390,6 @@
           "wordCount": 185,
           "title": "Holes",
           "imageUrl": "https://imgs.xkcd.com/comics/holes_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3265/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/asteroid_threat.png\" title=\"Paleontologists have long worried that the dinosaurs blasted into space 66 million years ago will one day complete their orbits and fall back down.\" alt=\"Paleontologists have long worried that the dinosaurs blasted into space 66 million years ago will one day complete their orbits and fall back down.\" />",
-          "link": "https://xkcd.com/3265/",
-          "publishedOn": "2026-06-29T00:00:00.000Z",
-          "wordCount": 187,
-          "title": "Asteroid Threat",
-          "imageUrl": "https://imgs.xkcd.com/comics/asteroid_threat_2x.png"
         }
       ]
     },
@@ -408,6 +398,16 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "16-for-tia",
+          "author": null,
+          "description": "Tia would have turned 16 this year. Another marker that wouldn't come to be. After Tia was lost and born to stillbirth on 31 August 2010, we quickly had a slew of firsts. The first Christmas without her. First mother's day. First birthday. First day at nursery, first day of school. Not turning 10. 16 is another big age. Then so is 18 and all the others.\nAs a family, we always try to mark her day with something we do together. Something special. For her 10th year, Julie ran ten 10K runs. We were all incredibly proud.\nThis year, I suggested we walk. The thought was inspired by chatting to Jake, and originally I suggested we could walk 16 miles. We'd decided this much earlier in the year, and we started to do some smaller trails - something like 1-2 hour walks. I was pretty apparent, particul…",
+          "link": "https://remysharp.com/2026/08/27/16-for-tia",
+          "publishedOn": "2026-08-27T00:00:00.000Z",
+          "wordCount": 912,
+          "title": "16 for Tia [blog]",
+          "imageUrl": "https://remysharp.com/images/16-for-tia.jpg"
+        },
         {
           "id": "the-talented-mr-ripley-ripley-1",
           "author": null,
@@ -427,6 +427,16 @@
           "wordCount": 606,
           "title": "Dark mode toggles: two states are enough [link]",
           "imageUrl": null
+        },
+        {
+          "id": "im-not-done-using-ai",
+          "author": null,
+          "description": "I recently read this post I'm done using AI (which is primarily around coding but also for general chat).\nAlong with this post, I've read many other posts over the last two months (I have a new RSS reader) that swing on either side: why they're quitting, why they love it. Thankfully I've managed to miss the \"I want to shove AI down your throat\" posts.\nWhat's interesting (to me) about Brett's post is that their introduction experience of LLMs was very close to my own, but the outcome for me is quite different, and I think I know why.",
+          "link": "https://remysharp.com/2026/08/13/im-not-done-using-ai",
+          "publishedOn": "2026-08-13T00:00:00.000Z",
+          "wordCount": 1869,
+          "title": "I'm not done using AI [blog]",
+          "imageUrl": "https://remysharp.com/images/cards/og/9-0.jpg"
         },
         {
           "id": "2026-08-12-d44a7915",
@@ -647,16 +657,6 @@
           "wordCount": 580,
           "title": "Under the hood of MDN's new frontend [link]",
           "imageUrl": null
-        },
-        {
-          "id": "decompressing-33-signal-bytes",
-          "author": null,
-          "description": "In my RSS reader, I stumbled upon this code-golfed (i.e. minimised to death) snippet that's fairly clever, but from the code, utterly opaque.\nI couldn't immediately see how it worked, and since Copilot autocompletes most of my code for me - whether I want to or not, I figured it was a good bit of practice to decompress and understand.\nFirst things first: snooze the little copilot bastard for an hour!",
-          "link": "https://remysharp.com/2026/06/29/decompressing-33-signal-bytes",
-          "publishedOn": "2026-06-29T00:00:00.000Z",
-          "wordCount": 984,
-          "title": "Decompressing 33 signal bytes [blog]",
-          "imageUrl": "https://remysharp.com/images/cards/og/9-0.jpg"
         }
       ]
     },
@@ -1521,16 +1521,6 @@
           "wordCount": 3177,
           "title": "Pluralistic: Jo Walton's \"Everybody's Perfect\" (30 Jun 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=12980",
-          "author": "Cory Doctorow",
-          "description": "Today's links Gemini is better than search because Google enshittified search: We're All Trying To Find The Guy Who Did This. Hey look at this: Delights to delectate. Object permanence: Microsoft antitrust overturned; Scammer carves C64; RIP Jim Baen; GOP rep to constituent's child: \"drop dead\" (literally); CCTVs jacked for botnet; Olympic profitability lie; Human factors in health infosec; Exfiltration via computer fans; Congress's summer schedule: 9 working days; Antitrust is political antigrav; Ted Chiang's 72 Letters; Microsoft antitrust appeal; Vinge on privacy; Breaking open the web; Bernie on Brexit; \"The Perdition Score\"; Intuit v Child Tax Credit. Upcoming appearances: London, Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I've been. Latest b…",
-          "link": "https://pluralistic.net/2026/06/29/arsonist-firefighters/",
-          "publishedOn": "2026-06-29T16:34:57.000Z",
-          "wordCount": 3891,
-          "title": "Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -1578,6 +1568,16 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/08/emptying-the-tabs",
+          "author": null,
+          "description": "Ok, we’re gonna go a little old school today. I’m talking the late 1990s and early 2000s, back before permalinks (sorry), RSS, and social media turned blog posts & tweets into their own little discrete units packaged to be easily passed around and things were less homogeneous. Back then, blogs — at least the ones I loved — tended to be more of a stream of consciousness thing, just an unordered and uncurated list of whatever happened to pop into people’s heads or cross their screens.\nSo, I’ve currently got at least 120 tabs across 20+ windows open in Chrome. I know, I know, I’ve gotta get a tab manager, but this is where I am right now. Each of these tabs contains something interesting and potentially bloggable, but some of them have been sitting there for months and with moving stuff consu…",
+          "link": "https://kottke.org/26/08/emptying-the-tabs",
+          "publishedOn": "2026-08-27T16:12:49.000Z",
+          "wordCount": 4667,
+          "title": "Emptying the Tabs&#8230;",
+          "imageUrl": "http://kottke.org/plus/misc/images/editor-1787846978-c932dc6f.jpg"
+        },
         {
           "id": "https://kottke.org/26/08/dolly-parton-and-kermit-the-frog-sing-everyday-people-1987",
           "author": null,
@@ -4626,66 +4626,6 @@
           "publishedOn": "2026-06-29T21:00:00.000Z",
           "wordCount": 1056,
           "title": "On decision fatigue : &#8220;Why are you so tired? The...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/06/0049233-christian-marclays-the-cl",
-          "author": null,
-          "description": "If you’ve never seen it (or even if you have), Christian Marclay’s The Clock will be showing at LACMA from July 26 to August 23, including two 24-hour showings.",
-          "link": "https://kottke.org/26/06/0049233-christian-marclays-the-cl",
-          "publishedOn": "2026-06-29T19:00:00.000Z",
-          "wordCount": 782,
-          "title": "If you’ve never seen it (or even if you have),  Christian...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/06/phyllis-the-goat-and-the-senior-league-wii-bowling-champions",
-          "author": null,
-          "description": "Senior living communities generally don’t go viral or gain media attention for positive reasons, so it’s nice to see this story about the University Village Retirement Community in Tulsa, Oklahoma and their champion Wii bowling team.\nOn this recent Thursday in June, their hopes are pinned on Phyllis Wimer, known as Phyllis Killer or Phyllis the GOAT for the many strikes she bowls; Charlene “the Grasshopper” Giles, whose hop gives her some extra oomph as she releases the ball; “Marvelous” Marcia Ness, who describes herself as a “tough old broad,” ready to bowl after recovering from a broken wrist and back; and “Rollin’” Ron Demaree, who grips the lower-left handlebar on his motorized wheelchair to propel himself upward and forward for more power in his roll.\n\n\t\nPhyllis the GOAT is 95 years old and rolls 300s in practice sessions like it’s nothing. Here’s a local news segment on the team from a few months ago:\n\nI was very into Wii Sports 20 years ago (!!!) and still occasionally play Switch Sports with the kids (golf, bowling, and tennis mostly). They’re great party/gathering games and evidently also great for staying active and sharp in your 90s.\n\n \n\n        \n         \nTags: bowling · Nintendo · sports · video · video games · Wii",
-          "link": "https://kottke.org/26/06/phyllis-the-goat-and-the-senior-league-wii-bowling-champions",
-          "publishedOn": "2026-06-29T17:00:00.000Z",
-          "wordCount": 933,
-          "title": "Phyllis the GOAT and the Senior League Wii Bowling Champions",
-          "imageUrl": "https://i.ytimg.com/vi/bxxojmQF45s/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/06/0049180-a-retro-70s-tv-intro-for-",
-          "author": null,
-          "description": "A Retro 70s TV Intro for Andor. “Get ready to travel to a far away galaxy that existed a long, long time ago. It’s the science fiction spectacular…ANDOR.”",
-          "link": "https://kottke.org/26/06/0049180-a-retro-70s-tv-intro-for-",
-          "publishedOn": "2026-06-29T15:50:00.000Z",
-          "wordCount": 769,
-          "title": "A Retro 70s TV Intro for Andor . &#8220;Get ready to...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/06/maybe-it-will-happen-today",
-          "author": null,
-          "description": "On Friday, I got a bee in my bonnet that this t-shirt should exist and so I made it and now you can buy it. The shirt is simple, straightforward, $25 (+s&h), and ships all over the world.\nA promotion. Making a new friend. Or the big cork-popping event; you know the one. Today could be the day!\n\n\t\nMaybe it’ll even happen before the shirt reaches your mailbox! We should be so lucky.\nThanks to Dan Cederholm at SimpleBits for his Free Lunch font and to Fourthwall for handling the shopping, printing, and fulfillment.\nOh, and I also zhuzhed up the Goods page, where you can still get the Hypertext, Process, and Choppke’s tees. More fine not-hypertext products to come soon.\n\n \n\n        \n         \nTags: fashion · kottke.org",
-          "link": "https://kottke.org/26/06/maybe-it-will-happen-today",
-          "publishedOn": "2026-06-29T14:00:00.000Z",
-          "wordCount": 945,
-          "title": "Maybe It Will Happen Today",
-          "imageUrl": "http://kottke.org/plus/misc/images/editor-1782669996-5a482830.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/06/0049226-the-writers-who-wrote-the",
-          "author": null,
-          "description": "The Writers Who Wrote The Most in History. “Corin Tellado published more than 4,000 novels, mostly under a contract with Spanish publisher Bruguera, which obligated her to deliver a 76-page novel every single week for years.”",
-          "link": "https://kottke.org/26/06/0049226-the-writers-who-wrote-the",
-          "publishedOn": "2026-06-29T13:04:31.000Z",
-          "wordCount": 1040,
-          "title": "The Writers Who Wrote The Most in History . &#8220;Corin...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/06/0049222-who-wins-the-2026-world-c",
-          "author": null,
-          "description": "Who wins the 2026 World Cup if “not football” decides? This starts with the same 64-team bracket as the actual WC but uses metrics like life expectancy & CO2 per capita to decide matches.",
-          "link": "https://kottke.org/26/06/0049222-who-wins-the-2026-world-c",
-          "publishedOn": "2026-06-28T19:15:00.000Z",
-          "wordCount": 750,
-          "title": "Who wins the 2026 World Cup if “not football” decides?...",
           "imageUrl": ""
         }
       ]
