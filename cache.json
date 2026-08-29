@@ -132,6 +132,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3291/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/launchpad.png\" title=\"It does come at the cost of some launchpad expansions and increased fuel requirements, but that all comes out of the facility's budget.\" alt=\"It does come at the cost of some launchpad expansions and increased fuel requirements, but that all comes out of the facility's budget.\" />",
+          "link": "https://xkcd.com/3291/",
+          "publishedOn": "2026-08-28T00:00:00.000Z",
+          "wordCount": 178,
+          "title": "Launchpad",
+          "imageUrl": "https://imgs.xkcd.com/comics/launchpad_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3290/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/trade.png\" title=\"&quot;You legs may have a comparative advantage at running, but we arms have a competitive advantage at swinging hammers, so unless you accept that we're the dominant limbs and stop hogging the oxygen, that running advantage won't be around for long.&quot;\" alt=\"&quot;You legs may have a comparative advantage at running, but we arms have a competitive advantage at swinging hammers, so unless you accept that we're the dominant limbs and stop hogging the oxygen, that running advantage won't be around for long.&quot;\" />",
@@ -647,16 +657,6 @@
           "wordCount": 637,
           "title": "Why we moved our Bluesky data to Eurosky [link]",
           "imageUrl": null
-        },
-        {
-          "id": "2026-06-30-99723827",
-          "author": null,
-          "description": "A long article (23 min read!) on the rebuild of MDN away from React and into Web Components.\nThere's lots in there, but I particularly like the section starting Web Components that writes about how they're progressively enhancing and how there's thought to the components (such as their mdn-dropdown styles).\nI also really like this pattern where modules are auto-loaded and it's easy to switch JS enabled modules off for testing:\nfor (const element of document.querySelectorAll(\"*\")) {\n  const tag = element.tagName.toLowerCase();\n  if (tag.startsWith(\"mdn-\")) {\n    const component = tag.replace(\"mdn-\", \"\");\n    import(`../components/${component}/element.js`);\n  }\n}\n\nSource: developer.mozilla.org",
-          "link": "https://remysharp.com/links/2026-06-30-99723827",
-          "publishedOn": "2026-06-30T14:04:43.000Z",
-          "wordCount": 580,
-          "title": "Under the hood of MDN's new frontend [link]",
-          "imageUrl": null
         }
       ]
     },
@@ -1109,18 +1109,7 @@
       "title": "A List Apart: The Full Feed",
       "feedUrl": "https://alistapart.com/main/feed/",
       "siteUrl": "https://alistapart.com",
-      "articles": [
-        {
-          "id": "https://alistapart.com/article/designed-for-a-dead-language/",
-          "author": "by",
-          "description": "Every language app in your pocket inherited a teaching method built for Latin. Understanding why that happened is a more useful design lesson than anything the apps themselves will teach you.\nIn 1788, Prussia introduced the Abitur, a standardized national examination required for entry into universities and the civil service. To pass it, students needed to demonstrate measurable, gradable knowledge. The system needed to teach language to large classrooms, produce consistent outcomes, and do it with one teacher and thirty students. The educators responsible for designing this system reached for the only teaching template they had, one that had been used in European schools for two centuries: the method developed to teach Latin.\nLatin, by 1788, was a dead language. Nobody needed to speak it.…",
-          "link": "https://alistapart.com/article/designed-for-a-dead-language/",
-          "publishedOn": "2026-06-30T16:22:27.000Z",
-          "wordCount": 3545,
-          "title": "Designed for a Dead Language",
-          "imageUrl": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9hbGlzdGFwYXJ0LmNvbVwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAxOVwvMDNcL2Nyb3BwZWQtaWNvbl9uYXZpZ2F0aW9uLWxhdXJlbC01MTIuanBnP2ZpdD01MTIlMkM1MTImcXVhbGl0eT04OSZzc2w9MSIsInR4dCI6IkEgTGlzdCBBcGFydCIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxNTgwOTQ3MjZ9.0oP5GNj3vHR_yLJaXkr_AaWMuS_ItN_HPB-deU1HBBgMQ"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Pluralistic: Daily links from Cory Doctorow",
@@ -1510,16 +1499,6 @@
           "publishedOn": "2026-07-01T15:14:12.000Z",
           "wordCount": 3551,
           "title": "Pluralistic: Technocarcinization (01 Jul 2026)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=12985",
-          "author": "Cory Doctorow",
-          "description": "Today's links Jo Walton's \"Everybody's Perfect\": A mystical tour-de-force that makes you feel like your mundane life until this point has all been a boring dream. Hey look at this: Delights to delectate. Object permanence: Corruption; How much (little) are the AI companies making? Upcoming appearances: London, Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Jo Walton's \"Everybody's Perfect\" (permalink) There's a new Jo Walton book, called Everybody's Perfect. Because it's a Jo Walton novel, you know in advance that three things are true about it: It is beautiful; It is profound; It is unlike every other novel,…",
-          "link": "https://pluralistic.net/2026/06/30/serenissima/",
-          "publishedOn": "2026-06-30T11:22:50.000Z",
-          "wordCount": 3177,
-          "title": "Pluralistic: Jo Walton's \"Everybody's Perfect\" (30 Jun 2026)",
           "imageUrl": null
         }
       ]
@@ -4566,66 +4545,6 @@
           "publishedOn": "2026-06-30T21:23:33.000Z",
           "wordCount": 761,
           "title": "What is queer typography?  &#8220;I think that covers a...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/06/0049241-ddd",
-          "author": null,
-          "description": "Gah, this is another thing I’m completely fucking pissed about today: Supreme Court upholds bans on transgender athletes participating in women and girls’ sports.",
-          "link": "https://kottke.org/26/06/0049241-ddd",
-          "publishedOn": "2026-06-30T14:47:00.000Z",
-          "wordCount": 612,
-          "title": "Gah, this is another thing I’m completely fucking pissed...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/06/0049240-great-piece-by-andrea-pit",
-          "author": null,
-          "description": "Great piece by Andrea Pitzer on how lost Ezra Klein is in this current moment, newly relevant because he interviewed fascist activist Christopher Rufo on his NYT podcast (JFC!) “If you don’t know what your core beliefs are, you’re going to get played.”",
-          "link": "https://kottke.org/26/06/0049240-great-piece-by-andrea-pit",
-          "publishedOn": "2026-06-30T14:15:45.000Z",
-          "wordCount": 1565,
-          "title": "Great piece by Andrea Pitzer on how lost Ezra Klein is...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/06/0049238-this-ai-compass-quiz",
-          "author": null,
-          "description": "I found this AI Compass quiz genuinely useful for pinpointing how I actually feel about various aspects of AI. At the same time, I don’t think my result (“The Kontextmaschine”) quite fits…",
-          "link": "https://kottke.org/26/06/0049238-this-ai-compass-quiz",
-          "publishedOn": "2026-06-30T13:58:00.000Z",
-          "wordCount": 1119,
-          "title": "I found  this AI Compass quiz  genuinely useful for...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/06/0049237-we-crunched-the-data-ther",
-          "author": null,
-          "description": "There’s a Grocery Price Emergency in America. “Our research shows that even relatively well-off families are struggling with high prices… President Trump and Congress are neither investing in long-term solutions nor offering short-term relief.”",
-          "link": "https://kottke.org/26/06/0049237-we-crunched-the-data-ther",
-          "publishedOn": "2026-06-30T13:13:34.000Z",
-          "wordCount": 625,
-          "title": "There’s a Grocery Price Emergency in America....",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/06/0049231-a-tour-of-some-playground",
-          "author": null,
-          "description": "A tour of some playgrounds in NYC designed by kids, with features like pollinator gardens, hair-braiding stations, a floor-is-lava obstacle course, and human-sized chess boards. Love it — children should get way more of a say w/ stuff like this.",
-          "link": "https://kottke.org/26/06/0049231-a-tour-of-some-playground",
-          "publishedOn": "2026-06-29T22:00:00.000Z",
-          "wordCount": 890,
-          "title": "A tour of some playgrounds in NYC designed by kids ,...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/06/0049227-on-decision-fatigue",
-          "author": null,
-          "description": "On decision fatigue: “Why are you so tired? The answer has to do with how many times you’ve had to make a decision throughout the day.” And: “The quality of our decisions deteriorates as we accumulate previous decisions.”",
-          "link": "https://kottke.org/26/06/0049227-on-decision-fatigue",
-          "publishedOn": "2026-06-29T21:00:00.000Z",
-          "wordCount": 1056,
-          "title": "On decision fatigue : &#8220;Why are you so tired? The...",
           "imageUrl": ""
         }
       ]
