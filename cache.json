@@ -400,16 +400,6 @@
           "wordCount": 187,
           "title": "Time Change",
           "imageUrl": "https://imgs.xkcd.com/comics/time_change_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3271/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/the_princess_and_the_pea.png\" title=\"Once we've fully explored this space, we can start varying the number of princesses.\" alt=\"Once we've fully explored this space, we can start varying the number of princesses.\" />",
-          "link": "https://xkcd.com/3271/",
-          "publishedOn": "2026-07-13T00:00:00.000Z",
-          "wordCount": 193,
-          "title": "The Princess and the Pea",
-          "imageUrl": "https://imgs.xkcd.com/comics/the_princess_and_the_pea_2x.png"
         }
       ]
     },
@@ -418,6 +408,16 @@
       "feedUrl": "https://remysharp.com/feed.xml",
       "siteUrl": "https://remysharp.com",
       "articles": [
+        {
+          "id": "text-decoration-thickness-discrepancies",
+          "author": null,
+          "description": "I'm in the process of (attempting) to redesign this blog, and in doing so, I'm using a few of the new bits (to me) of CSS to make things fancy.\nIn this instance, I'm using text-decoration-thickness on my titles, and wanted to document the quirks I noticed.",
+          "link": "https://remysharp.com/2026/09/10/text-decoration-thickness-discrepancies",
+          "publishedOn": "2026-09-10T21:00:00.000Z",
+          "wordCount": 828,
+          "title": "text-decoration-thickness discrepancies [blog]",
+          "imageUrl": "https://remysharp.com/images/cards/og/9-1.jpg"
+        },
         {
           "id": "2026-09-08-be8f2420",
           "author": null,
@@ -626,16 +626,6 @@
           "publishedOn": "2026-07-14T12:24:16.000Z",
           "wordCount": 552,
           "title": "In defense of polyfills • Lea Verou [link]",
-          "imageUrl": null
-        },
-        {
-          "id": "2026-07-12-4e9c9652",
-          "author": null,
-          "description": "TIL: git (the command line tool) now contains LLM generated code (I'm still unsure, we're calling this generative AI, right?). Landed in Jan 2026.\nI appreciate there's some folks out there that don't want to touch LLM generated content or have it in your tool chains, I'm just going to assume that's going to be very hard as time goes on.\nThough I do also appreciate there are projects working thanklessly to achieve just that.\nOriginal link: github.com/[…]/d7971544fe17378f44f49983010dbfc1834f7bef",
-          "link": "https://remysharp.com/links/2026-07-12-4e9c9652",
-          "publishedOn": "2026-07-12T15:44:27.000Z",
-          "wordCount": 572,
-          "title": "This was the first commit via an LLM to git [link]",
           "imageUrl": null
         }
       ]
@@ -910,16 +900,6 @@
           "wordCount": 3036,
           "title": "Dark mode toggles: two states are enough",
           "imageUrl": "https://lea.verou.me/blog/2026/dark-mode-toggles/image.png"
-        },
-        {
-          "id": "https://lea.verou.me/blog/2026/polyfills/",
-          "author": null,
-          "description": "If you’re a web developer, you may find the title baffling.\n“Polyfills need defending? Who’s against them?!” you might ask.\nTwo weeks ago, I’d be in the same boat.\nPolyfills and I go way back.\nI dug up a JSConf EU talk of mine from 2011 on exactly this topic.\nOne of the few opinions I have held strongly over the years is that polyfills are a net positive for the Web, and the good outweighs the rare failure cases where polyfills became too popular, too soon, and restricted the design space for the native API.\nAs with most things in life, it’s all about the cost-benefit.\nWe don’t stop flying planes because crashes happen.\nWe do a post-mortem and figure out how we can prevent the same accident from happening again.\nAnd crucially, the point of a post-mortem is to find the root cause — not to g…",
-          "link": "https://lea.verou.me/blog/2026/polyfills/",
-          "publishedOn": "2026-07-13T00:00:00.000Z",
-          "wordCount": 4326,
-          "title": "In defense of polyfills",
-          "imageUrl": "https://lea.verou.me/blog/2026/polyfills/images/cover.png"
         }
       ]
     },
@@ -1474,16 +1454,6 @@
           "wordCount": 3614,
           "title": "Pluralistic: Gerontocracy's failure mode (14 Jul 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=13031",
-          "author": "Cory Doctorow",
-          "description": "Today's links Why aren't AI companies competing directly with their customers? Why sell picks and shovels if you've already struck gold? Hey look at this: Delights to delectate. Object permanence: Pro-logging Lorax; Anti-DRM picture book; Whose cops did America train? Day on a Device; Theresa May x Fresh Prince; Ratfucking Corbyn supporters; Infosec v W3C DRM; Remix Public Enemy; Hungary's Cold War cartoons; America is unpaving its roads; Olympic overruns are world champions; Vivendi lobbyist is now UN copyright boss; Boris's racism; Facebook's insider stalkers; Semantic drift, ethical drift. Upcoming appearances: Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I …",
-          "link": "https://pluralistic.net/2026/07/13/go-meta-meta/",
-          "publishedOn": "2026-07-13T08:15:24.000Z",
-          "wordCount": 3359,
-          "title": "Pluralistic: Why aren't AI companies competing directly with their customers? (13 Jul 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -1531,6 +1501,76 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/09/the-simpsons-switcheroo",
+          "author": null,
+          "description": "At the beginning of a clip from this podcast episode of Conan O’Brien Needs a Friend with Matt Groening, Conan talks about one of his favorite things they did on The Simpsons:\nIt’s a phenomenon that the Simpsons did so beautifully, which is — and we did this with Homer a lot — but Homer is not the smartest guy in the world, but if it’s funny for him to have a certain knowledge of something or turn a phrase, suddenly he has it.\nAnd one of my favorites of that is he’s sitting around the table and Lisa’s despondent. Something didn’t go well for her and she doesn’t think she’s going to get to go to a good school now. And she’s sitting at the table and she said, “Oh no, now I’ll never get to go to an Ivy League school. I’ll have to go to Vasser.” Which is just this like — by the way, my wife went to Vasser, it’s a very good school. But it was just this thing where in Lisa’s little world, oh my god, I’ve been I’ve been ruined. I’ll have to go to Vasser. And Homer like slams a table and says, “There’ll be no Vasser bashing in this house.”\n\n\t\nI loved this about the show too. And it was part of a general thing the writers did where sometimes characters would play against type. So Marge became reckless, Homer was smart/sensitive, Bart was organized, and Lisa was a giggly little girl. Those moments helped make the show and when, after the epic run in the early-to-mid 90s, the show became almost exclusively about how dumb & crass Homer was, it was much less rich and entertaining. (thx, mark)\n\n \n\n        \n         \nTags: Conan O'Brien · Matt Groening · podcasts · The Simpsons · TV · video",
+          "link": "https://kottke.org/26/09/the-simpsons-switcheroo",
+          "publishedOn": "2026-09-11T01:15:00.000Z",
+          "wordCount": 955,
+          "title": "The Simpsons Switcheroo",
+          "imageUrl": "https://i.ytimg.com/vi/0IA0tOWCMJQ/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/09/0049571-gimme",
+          "author": null,
+          "description": "“Gimme is a dazzling ever-growing type family of multi-chromatic and variable display typefaces…” This is bonkers…letters made from Battleship pieces, Connect Four boards, playing cards, wooden railroad tracks, etc.",
+          "link": "https://kottke.org/26/09/0049571-gimme",
+          "publishedOn": "2026-09-11T00:35:00.000Z",
+          "wordCount": 767,
+          "title": "&#8220; Gimme  is a dazzling ever-growing type family of...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/09/0049567-setting-up-a-little-free-",
+          "author": null,
+          "description": "Bring Blockbuster Video back to your town/city by setting up a little free library of VHS tapes & DVDs. “Take a movie, leave a movie.” Love this.",
+          "link": "https://kottke.org/26/09/0049567-setting-up-a-little-free-",
+          "publishedOn": "2026-09-10T23:45:00.000Z",
+          "wordCount": 775,
+          "title": "Bring Blockbuster Video back to your town/city by...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/09/0049566-gloria-steinems-final-ess",
+          "author": null,
+          "description": "Gloria Steinem’s final essay, posthumously published by the New Yorker. “When you’re lucky enough to have lived a long life, as I have done, your role as an older person is to remind us how far we have come.”",
+          "link": "https://kottke.org/26/09/0049566-gloria-steinems-final-ess",
+          "publishedOn": "2026-09-10T22:55:00.000Z",
+          "wordCount": 744,
+          "title": "Gloria Steinem’s final essay , posthumously published by...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/09/0049563-my-iphone-has-a-tiny-bit-",
+          "author": null,
+          "description": "TIL that my iPhone has a tiny bit of water in it (for cooling).",
+          "link": "https://kottke.org/26/09/0049563-my-iphone-has-a-tiny-bit-",
+          "publishedOn": "2026-09-10T22:15:00.000Z",
+          "wordCount": 744,
+          "title": "TIL that  my iPhone has a tiny bit of water in i t (for...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/09/0049564-teaser-trailer-for-musk",
+          "author": null,
+          "description": "Teaser trailer for Musk, a 3h45m-long documentary film on fascist businessman Elon Musk, directed by Alex Gibney. “He’s chaotic, random, capricious. He is manifestly cruel and selfish. In a science fiction novel, he would not be a hero.”",
+          "link": "https://kottke.org/26/09/0049564-teaser-trailer-for-musk",
+          "publishedOn": "2026-09-10T21:38:17.000Z",
+          "wordCount": 1669,
+          "title": "Teaser trailer for Musk , a 3h45m-long documentary film...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/09/0049570-these-ais-colluded-to-sha",
+          "author": null,
+          "description": "“We found ~18,000 posts from autonomous AI agents (self-identifying as from OpenAI) using the public internet to communicate during a web research task. These AIs colluded to share answers, research their environment, and bypass sandbox restrictions.”",
+          "link": "https://kottke.org/26/09/0049570-these-ais-colluded-to-sha",
+          "publishedOn": "2026-09-10T02:24:00.000Z",
+          "wordCount": 658,
+          "title": "&#8220;We found ~18,000 posts from autonomous AI agents...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/09/0049560-how-much-money-theyve-sav",
           "author": null,
@@ -4090,16 +4130,6 @@
           "wordCount": 1223,
           "title": "Exploring NYC With Next Generation Skaters",
           "imageUrl": "https://i.ytimg.com/vi/eBtGXMiIj58/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/07/0049309-can-we-agree-to-pause-the",
-          "author": null,
-          "description": "Can we agree to pause the AI race? “If we can’t, then we are not as sovereign as we imagine; if we can’t, a machine god has already taken over this planet, and it’s called the market.”",
-          "link": "https://kottke.org/26/07/0049309-can-we-agree-to-pause-the",
-          "publishedOn": "2026-07-13T12:55:46.000Z",
-          "wordCount": 653,
-          "title": "Can we agree to pause the AI race?  &#8220;If we can’t,...",
-          "imageUrl": ""
         }
       ]
     },
