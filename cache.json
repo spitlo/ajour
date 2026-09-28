@@ -77,16 +77,6 @@
           "wordCount": 3078,
           "title": "Summary of changes for August 2026",
           "imageUrl": null
-        },
-        {
-          "id": "log.html#jul2026",
-          "author": "Rek Bell",
-          "description": "Hey everyone!\nThis is the list of all the changes we've done to our projects during the month of June.\nWiki, updated ipad media station and solar cooking experiment. Added new information for roscoe bay.\nHakum, started a new comic sequence called Recharge, and re-did the second part of Chase.\nYufo, made improvements to our 2022 Virtual Pet Jam game Yufo, it is now playable in the browser on itch.io.\nGrimGrains, added a recipe for soybean coffee, a very good coffee alternative.\nThousand Rooms, released a Latin Sin Flexion version.\nThis month we participated in Catjam 2026 and released a humble point-and-click called Lepore Express Line. It features many cameos from all our other projects, maybe you can recognize a few? It's written in Uxntal, a concatenative assembly language for a 16-bit o…",
-          "link": "https://100r.ca/site/log.html#jul2026",
-          "publishedOn": "2026-07-30T07:00:00.000Z",
-          "wordCount": 2759,
-          "title": "Summary of changes for July 2026",
-          "imageUrl": null
         }
       ]
     },
@@ -117,18 +107,7 @@
       "title": "Grumpy Gamer",
       "feedUrl": "https://grumpygamer.com/rss",
       "siteUrl": "https://grumpygamer.com/",
-      "articles": [
-        {
-          "id": "https://grumpygamer.com/twp2_announce/",
-          "author": null,
-          "description": "I have good news and bad news.\nFirst the good news.\nThe good news is that we just started production on Thimbleweed Park 2, due out in early 2028.\nWe will self-publish with the help of a private investor.\nMark Ferrari, Gary Winnick, David Fox, Octavi Navarro, Robert Megone, and others from the original team will be back!\nWishlist on Steam!\nI’ll be starting up a Thimbleweed Park 2 dev blog like we did for Thimbleweed Park and posting regularly to keep everyone up to date.\nNow the bad news\nThere is no bad news, it’s all good news.\nP.S. Thimbleweed Park 1 is on sale on Steam, Switch, iOS and Google. But I suspect all my readers already own it.",
-          "link": "https://grumpygamer.com/twp2_announce/",
-          "publishedOn": "2026-07-30T00:00:00.000Z",
-          "wordCount": 807,
-          "title": "Thimbleweed Park 2",
-          "imageUrl": "https://grumpygamer.com//images/twp2.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Emily Short's Interactive Storytelling",
@@ -567,26 +546,6 @@
           "wordCount": 513,
           "title": "A Firefox-only minimap [link]",
           "imageUrl": null
-        },
-        {
-          "id": "2026-07-30-pokemon-emerald",
-          "author": null,
-          "description": "Similar to the Pokemon Yellow recently, I had a GBA Emerald Green sent in for repair.\nJust 24 hours ago, this was going to be a post on how I had failed to repair it, but in a last minute ditch, I managed to save it.\nLoading up the game resulted in nothing, and opening the shell explained why. There was a lot of corrosion around the PCB, but more importantly, two of the legs on the ROM had completely dissolved:\nIt doesn't photograph well, but the crud at the top left is where the chip legs had turned to mush\nThe first task is to remove the main chips (the ROM and the RAM) and examine and then clean up the damage under the chips. The black around the vias (the holes) aren't a great sign either.\nInitially looked like the pads had been lost too, but thankfully they were under there\nWhilst the…",
-          "link": "https://remysharp.com/tif/2026-07-30-pokemon-emerald",
-          "publishedOn": "2026-07-30T12:00:00.000Z",
-          "wordCount": 1049,
-          "title": "Pokémon Emerald [tif]",
-          "imageUrl": null
-        },
-        {
-          "id": "human-software",
-          "author": null,
-          "description": "A book about work, felt like work.\nI suspect this is very specific to me, but I found the majority of the story pretty triggering - specifically, I felt pissed off a lot of the time I was reading. After reading the About the Author section at the end of the book, it looks like I've had a similar timeline of a technical career to them (which perhaps is why the story got under my skin).\nThis is because I spent a decade in a company (over a decade ago) that treated it's employees a lot like the characters in the book and it was doing my in that the story seemed to centre around people who made their company the be-all of their lives.\nThough the story (sort of) follows two main characters, you really don't meet anyone outside of the company, Gerbach, and there's a scene in the book where it seems pretty clear they all live in each other's pockets.\nI didn't really have a good sense of timings until the very end (4 months). The story opens with outages the devs are firefighting, and I couldn't tell if they were still dealing with issues across the timeline or… if they'd just accepted it was all terrible and the characters swan off and pull sickies when their infrastructure is on fire 🤷.\nThen there's the AI aspect that's sort of supposed to be looming, but, sort of not really… Around 2/3rds of the way into the story there's a development (not quite a plot twist) which I managed to guess how it related to the AI.\nI think if you work in the technology industry, and you are (or have been) a dev, then this book might be worth a read. I'm not sure it's quite that accessible outside of the tech industry, specifically around some of the terminology (which, though I knew, I didn't realise there was a full appendix at the end, \"log4j\" might throw some people).\nRead through a recommendation (later realising that the person who recommended it was listed in the author thanks!), I think I'd struggle to recommend it myself.",
-          "link": "https://remysharp.com/books/2026/human-software",
-          "publishedOn": "2026-07-30T00:00:00.000Z",
-          "wordCount": 926,
-          "title": "Human Software [book]",
-          "imageUrl": null
         }
       ]
     },
@@ -1016,7 +975,18 @@
       "title": "Julia Evans",
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "https://jvns.ca/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+          "author": null,
+          "description": "Hello! Recently I needed bike lights for my bike. And I remembered that I\nalready had rechargeable bike lights that I bought ten years ago, that I hadn’t\ntried in a long time. I tried to recharge them, but after fully charging them,\nthey only worked for maybe 5 minutes before they turned off again.\nI don’t know much about electronics, but I’ve been curious about whether it’s\npossible to fix old electronics for a long time, and this seemed like the\nperfect repair project because I might just need to replace the battery.\nSo I went to the local queer makerspace where I’m a member to use the soldering\niron and try to do it! I don’t know much about electronics and this post does\nnot contain any safety advice because I don’t know much about safety.\nI think it’s nice to do projects in a community…",
+          "link": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+          "publishedOn": "2026-09-27T00:00:00.000Z",
+          "wordCount": 1222,
+          "title": "Replacing the old battery on rechargeable bike lights",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Josh Comeau's blog",
@@ -1383,16 +1353,6 @@
           "publishedOn": "2026-07-31T11:56:12.000Z",
           "wordCount": 4925,
           "title": "Pluralistic: Better to beg forgiveness (31 Jul 2026)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=13100",
-          "author": "Cory Doctorow",
-          "description": "Today's links The stupidest imaginable excuses for surveillance pricing: Since 1850, San Francisco's Chamber of Commerce has been pissing in our mouths and calling it rain. Hey look at this: Delights to delectate. Object permanence: RIP Wau Holland; Diebold voting machines suck; How to steal an RFID-locked car; Pirates are big spenders; You can't fight enshittification. Upcoming appearances: Edinburgh, Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The stupidest imaginable excuses for surveillance pricing (permalink) With \"surveillance pricing,\" businesses have finally found something AI can do way, way, way better than…",
-          "link": "https://pluralistic.net/2026/07/30/pay-for-privacy/",
-          "publishedOn": "2026-07-30T12:51:03.000Z",
-          "wordCount": 3674,
-          "title": "Pluralistic: The stupidest imaginable excuses for surveillance pricing (30 Jul 2026)",
           "imageUrl": null
         }
       ]
@@ -4060,106 +4020,6 @@
           "wordCount": 741,
           "title": "The legacy of the Luddite movement changes when you zoom...",
           "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/07/0049419-the-trailer-for-wicker",
-          "author": null,
-          "description": "The trailer for Wicker (starring Olivia Colman, Alexander Skarsgård, Peter Dinklage, Elizabeth Debicki). “An outcast in a fishing village commissions a husband for herself made out of wicker.” Looks unhinged (complimentary).",
-          "link": "https://kottke.org/26/07/0049419-the-trailer-for-wicker",
-          "publishedOn": "2026-07-30T14:15:01.000Z",
-          "wordCount": 769,
-          "title": "The trailer for Wicker  (starring Olivia Colman,...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/07/0049414-the-coffee-shop-where-162",
-          "author": null,
-          "description": "The coffee shop where 162 regulars have their own mug (1977). “The cups may not be such a small thing after all. They are a town register and a history and a confirmation that life goes on in a small American town.”",
-          "link": "https://kottke.org/26/07/0049414-the-coffee-shop-where-162",
-          "publishedOn": "2026-07-30T13:39:00.000Z",
-          "wordCount": 785,
-          "title": "The coffee shop where 162 regulars have their own mug...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/07/its-cool-to-be-weird",
-          "author": null,
-          "description": "I really like what Razaak Eniola has to say here about human difference.\nBefore Prince was Prince, Prince was weird. And that goes the same for probably any of your favorite artists. Before Erykah Badu was Erykah Badu, Erykah Badu was weird. Before Marc Rebillet was Marc Rebillet, Marc Rebillet was weird.\nEverybody loves to clap at the end — and most of the time we are clapping for the wrong reasons. We live in a culture that loves final products.\nIt’s cool to be weird, as long as it’s rooted and aligned with what’s true and what’s sincere.\n\n\t\nI often tell people they’re weird and it’s always a compliment. Before it came to mean odd-looking or “disturbingly different”, weird meant “having power to control fate” — perhaps you could think of it as describing someone who can forge their own way, make their own luck.\nHere’s a short quiz to discover your weirdness: You’re Weirder Than You Think.\nFor whatever reason, this also reminds me of something I read earlier today by Robin Sloan:\nWe should never forget that the product of work isn’t only the work — it’s also the worker.\n\n\t\n(via @witoldriedel & @prisonculture.bsky.social)\n\n \n\n        \n         \nTags: language · Razaak Eniola",
-          "link": "https://kottke.org/26/07/its-cool-to-be-weird",
-          "publishedOn": "2026-07-29T21:00:00.000Z",
-          "wordCount": 1405,
-          "title": "It’s Cool to Be Weird",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/07/0049413-walmart-is-busy-building-",
-          "author": null,
-          "description": "Walmart is busy building out their fast EV charger network in the US…currently 73 locations in 17 states. Their eventual goal is install chargers at “thousands of its locations by 2030”.",
-          "link": "https://kottke.org/26/07/0049413-walmart-is-busy-building-",
-          "publishedOn": "2026-07-29T20:00:46.000Z",
-          "wordCount": 742,
-          "title": "Walmart is busy building out their fast EV charger...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/07/0049411-a-terrarium-iphone-case-t",
-          "author": null,
-          "description": "A terrarium iPhone case that houses actual growing plants and moss.",
-          "link": "https://kottke.org/26/07/0049411-a-terrarium-iphone-case-t",
-          "publishedOn": "2026-07-29T18:45:00.000Z",
-          "wordCount": 728,
-          "title": "A terrarium iPhone case that houses actual growing...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/07/0049406-zugunruhe",
-          "author": null,
-          "description": "“Zugunruhe is a German term describing the restless, twitching urge migratory birds feel when caged — and the same primal restlessness humans feel when trapped.”",
-          "link": "https://kottke.org/26/07/0049406-zugunruhe",
-          "publishedOn": "2026-07-29T17:55:00.000Z",
-          "wordCount": 939,
-          "title": "&#8220; Zugunruhe  is a German term describing the...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/07/some-interesting-apples",
-          "author": null,
-          "description": "Something that still blows my mind is that every apple seed produces a new variety. Every single one.\n\n\t\nThis is a lovely short documentary about a project called Some Interesting Apples, which aims to find apples growing in unusual places (i.e. not commercial orchards but in places where people tend to discard apple cores):\nThe last three years I have been involved with a project called ‘Some Interesting Apples’, the primary aim of which is to record and, where characteristics make desirable (and sometimes where they don’t), preserve wilding apples, i.e., domestic apples growing on their own roots as the result of a discarded core.\n\n\t\nSome of the best apples are then cultivated in an orchard dedicated to wild apples:\nThe ‘Some Interesting Apples’ project collects apples from wild trees that have been grown using cores thrown away — many from car windows or dropped from walkers and animals.\nThe wild trees or ‘wildlings’ are trees that grow from those apple cores discarded in hedges and along train tracks, footpaths and roadsides.\nTheir fruit often goes uneaten or rots — but have now instead be used to create a unique orchard.\nThe orchard has been developed from dropped fruit from more than 600 apple wildings in Cornwall.\nIt has now created Wilding Mother Orchard - the first ever orchard in the UK solely dedicated to cultivating wild-grown, chance-seedling apples.\n\n\t\nThe discovered apple varieties are named for their what3words locations; they have names like Horse Wish Gossip, Panes House Taxi, and Autumn Mushroom Spoke.\nApples are super interesting. I read it years ago now, but I still often think of Michael Pollan’s chapter on apples in The Botany of Desire.\n\n \n\n        \n         \nTags: apples · botany · food · science",
-          "link": "https://kottke.org/26/07/some-interesting-apples",
-          "publishedOn": "2026-07-29T16:39:00.000Z",
-          "wordCount": 1335,
-          "title": "Some Interesting Apples",
-          "imageUrl": "https://i.ytimg.com/vi/TCdRuMDTmV0/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/07/0049405-participants-in-a-recentl",
-          "author": null,
-          "description": "Participants in a recently published study spoke 28% fewer words per day in 2019 than they did in 2005. (People are spending more time alone and more time digitally communicating.)",
-          "link": "https://kottke.org/26/07/0049405-participants-in-a-recentl",
-          "publishedOn": "2026-07-29T15:59:00.000Z",
-          "wordCount": 736,
-          "title": "Participants in a recently published study spoke 28%...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/07/0049408-directed-by-and-starring-",
-          "author": null,
-          "description": "The Thomas Crown Affair? Directed by and starring Michael B. Jordan? Ok, I’m in.",
-          "link": "https://kottke.org/26/07/0049408-directed-by-and-starring-",
-          "publishedOn": "2026-07-29T15:19:00.000Z",
-          "wordCount": 750,
-          "title": "The Thomas Crown Affair?  Directed by and starring...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/07/onlymarms-funding-science-research-on-onlyfans",
-          "author": null,
-          "description": "This is an extremely 2026 story (derogatory): because of the Trump regime’s assualt on scientific funding, a group of scientists who has been studying marmot populations in Colorado since 1962 turned to OnlyFans to fund their research this year.\n\nFrom The NY Times:\nIn June, Daniel Blumstein, a biologist, sat in a field in Gothic, Colo., waiting to see a marmot. The rodent was elusive, leaving his thoughts to wander.\nHe lamented a lack of funding for his work amid federal cuts to scientific research. Then he alighted on the television show “Margo’s Got Money Troubles” and that’s when the epiphany came.\nPerhaps the show’s plot, about a single mother who, unable to find conventional work, turns to the adult-content site OnlyFans to support herself, could be applied to marmots and research funding.\nBack at his lab, Dr. Blumstein pitched the idea (with a wholesome spin) to his colleagues, who offered mixed feedback. But then one of his graduate students suggested naming the profile OnlyMarms.\n\n\t\nHere’s the G-rated OnlyMarms account on OnlyFans; you can also donate to the project directly. More from Live Science:\nOnlyFans is a subscription platform that allows users to pay creators to see exclusive photos and videos. The platform has become popular with adult-only content creators, but it hosts others too, including musicians, athletes and celebrities — and now marmots.\n“We’re trying this out of frustration with an extremely challenging funding environment,” Blumstein said. “If we’re lucky, it can help raise money for supplies and some expenses. But unless we are very lucky, it won’t replace the federal funding that has driven discovery in the US since the 1950s.”\n\n\t\nWe’ve got GoFundMe for healthcare and now OnlyFans for science funding. The privatization of the United States is coming along nicely and the future looks bright!\n\n \n\n        \n         \nTags: Donald Trump · OnlyFans · politics · science · video",
-          "link": "https://kottke.org/26/07/onlymarms-funding-science-research-on-onlyfans",
-          "publishedOn": "2026-07-29T14:19:00.000Z",
-          "wordCount": 865,
-          "title": "OnlyMarms: Funding Science Research on OnlyFans",
-          "imageUrl": "https://i.ytimg.com/vi/jTGc3MHtvAw/sddefault.jpg"
         }
       ]
     },
