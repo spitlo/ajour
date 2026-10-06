@@ -131,6 +131,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3307/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/spectrum_allocation.png\" title=\"Rumor has it that they're finally auctioning off the zeppelin navigation bands, but everyone is worried that the scary boat captains will express interest.\" alt=\"Rumor has it that they're finally auctioning off the zeppelin navigation bands, but everyone is worried that the scary boat captains will express interest.\" />",
+          "link": "https://xkcd.com/3307/",
+          "publishedOn": "2026-10-05T00:00:00.000Z",
+          "wordCount": 180,
+          "title": "Spectrum Allocation",
+          "imageUrl": "https://imgs.xkcd.com/comics/spectrum_allocation_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3306/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/accelerator_energies.png\" title=\"Fans at Daytona always get extra excited when officials decide to introduce some antimatter cars circling the track in the opposite direction.\" alt=\"Fans at Daytona always get extra excited when officials decide to introduce some antimatter cars circling the track in the opposite direction.\" />",
@@ -379,16 +389,6 @@
           "wordCount": 189,
           "title": "Size and Lifespan",
           "imageUrl": "https://imgs.xkcd.com/comics/size_and_lifespan_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3282/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/trick_play.png\" title=\"I've been trying to find out whether the Laws of the Game take the axiom of choice or not, but FIFA officials keep blocking my number.\" alt=\"I've been trying to find out whether the Laws of the Game take the axiom of choice or not, but FIFA officials keep blocking my number.\" />",
-          "link": "https://xkcd.com/3282/",
-          "publishedOn": "2026-08-07T00:00:00.000Z",
-          "wordCount": 187,
-          "title": "Trick Play",
-          "imageUrl": "https://imgs.xkcd.com/comics/trick_play_2x.png"
         }
       ]
     },
@@ -565,16 +565,6 @@
           "publishedOn": "2026-08-09T00:00:00.000Z",
           "wordCount": 1000,
           "title": "Three Men in a Boat [book]",
-          "imageUrl": null
-        },
-        {
-          "id": "2026-08-07-f9ee44b7",
-          "author": null,
-          "description": "Good article that's backed with data, but this is the bit that really landed for me, a reminder that it's not all \"what aria role is needed here...?\" —\n\nI can confidently say that the best approach to making a web site accessible (to screen readers or not) is by using proper HTML. If done well, ARIA is only needed for complex controls (tabs, trees, carousels, …).\nScreen reader users still benefit the same way sighted users do from hidden elements, particularly visual (and in this case auditory) assaults such as mega menus\n\nOriginal link: adrianroselli.com/[…]/not-all-screen-reader-users-are-blind.html",
-          "link": "https://remysharp.com/links/2026-08-07-f9ee44b7",
-          "publishedOn": "2026-08-07T08:36:19.000Z",
-          "wordCount": 586,
-          "title": "Not All Screen Reader Users Are Blind [link]",
           "imageUrl": null
         }
       ]
@@ -1046,6 +1036,16 @@
       "siteUrl": "https://pluralistic.net",
       "articles": [
         {
+          "id": "https://pluralistic.net/?p=13366",
+          "author": "Cory Doctorow",
+          "description": "Today's links Scrutinized: Pervert glasses vs the authentic self. Hey look at this: Delights to delectate. Object permanence: DRM-free in the UK; Maple-leaf roses; Italian Wikipedia shuts down; Vancouver's property speculator tax works; Ex-Soviet leftists launch \"September\"; \"The Every\"; Nielsen x Chinese internet; Get-a-cluevog; Cat EULA; Heart carafe; Millennials screwed; Apple's unlawful evil. Upcoming appearances: Virtual, South Bend, Hudson, Calgary, Winnipeg, Paris, OVancouver, Victoria, Ottawa, Kilkenny, Oxford, Montreal. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Scrutinized (permalink) We're repeatedly told that the killer app for pervert glasses – Meta's…",
+          "link": "https://pluralistic.net/2026/10/05/pervert-glasses/",
+          "publishedOn": "2026-10-05T18:58:11.000Z",
+          "wordCount": 4087,
+          "title": "Pluralistic: Scrutinized (05 Oct 2026)",
+          "imageUrl": null
+        },
+        {
           "id": "https://pluralistic.net/?p=13360",
           "author": "Cory Doctorow",
           "description": "Today's links Economic probabilities for our grandchildren: If only data centers would stop hogging all the copper. Hey look at this: Delights to delectate. Object permanence: RIAA v P2P; Infoseek's anti-terror brain-scanner; Copyrighting every phone number; Carving pumpkins with cookie-cutters; Polish women go on strike; Latent labor in material world; Hitler's meth; \"Flying Saucers Are Real!\"; Hope, not optimism; Broadcast Flag talk; David Suzuki's free research; \"Inquisitor's Apprentice\"; California's tax ban made the rich MUCH richer; Union organizers caught Wells Fargo; Power poses aren't real; \"Ghosts\"; Criticizing tech; \"Savage Love A-Z.\" Upcoming appearances: Brighton, Virtual, South Bend, Hudson, Calgary, Winnipeg, Paris, OVancouver, Victoria, Ottawa, Kilkenny, Montreal. Recent ap…",
@@ -1395,6 +1395,86 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/10/0049737-random-tv-time",
+          "author": null,
+          "description": "Random TV Time: watch old TV pulled from the Internet Archive. 17 channels to surf, including cartoons, 1960s TV, and one that’s only old commercials.",
+          "link": "https://kottke.org/26/10/0049737-random-tv-time",
+          "publishedOn": "2026-10-05T21:20:00.000Z",
+          "wordCount": 789,
+          "title": "Random TV Time: watch old TV pulled from the Internet...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/10/0049722-in-defense-of-the-detour",
+          "author": null,
+          "description": "Designer Giorgia Lupi: In Defense of the Detour. “I fear that A.I. is undermining what makes us most human — the ability to translate lived experience and nuanced thoughts into a unique point of view…”",
+          "link": "https://kottke.org/26/10/0049722-in-defense-of-the-detour",
+          "publishedOn": "2026-10-05T20:19:00.000Z",
+          "wordCount": 1535,
+          "title": "Designer Giorgia Lupi: In Defense of the Detour. “I fear...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/10/0049740-stalin-boys",
+          "author": null,
+          "description": "Stalin Boys is a short documentary about a Joseph Stalin-obsessed middle-schooler from a tiny Texas town who writes a play about the Soviet dictator and enlists his three friends to stage it for the Texas State History Fair. Free to watch online.",
+          "link": "https://kottke.org/26/10/0049740-stalin-boys",
+          "publishedOn": "2026-10-05T18:27:00.000Z",
+          "wordCount": 730,
+          "title": "Stalin Boys is a short documentary about a Joseph...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/10/0049739-nappy",
+          "author": null,
+          "description": "Nappy is a site offering free stock photos of Black and brown people. (The site says they’re going offline in a few months due to a falloff in demand bc of AI. Maybe Internet Archive can do their thing here?)",
+          "link": "https://kottke.org/26/10/0049739-nappy",
+          "publishedOn": "2026-10-05T17:37:00.000Z",
+          "wordCount": 733,
+          "title": "Nappy is a site offering free stock photos of Black and...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/10/o-superman-laurie-anderson",
+          "author": null,
+          "description": "O Superman by artist Laurie Anderson from 1981. Some of the lyrics:\n‘Cause when love is gone\nThere’s always justice\nAnd when justice is gone\nThere’s always force\nAnd when force is gone\nThere’s always Mom\nHi, Mom\nSo hold me, Mom\nIn your long arms\nSo hold me, Mom\nIn your long arms\nIn your automatic arms\nYour electronic arms\nIn your arms\nSo hold me, Mom\nIn your long arms\nYour petrochemical arms\nYour military arms\nIn your electronic arms\nAh, ah, ah, ah\n\n\t\n60 Minutes did a profile of Anderson a few years ago and she explained the meaning of the song (to her):\nThis is a song about how basically technology cannot save you. It’s about a lot of things: justice, safety, power.\n\n\t\n\nAs a kid growing up in rural Wisconsin, this kind of music wasn’t available to me, so I only actually heard this for the first time fairly recently. So I thought I’d post it in case you hadn’t really heard it either — that and the message & meaning it carries is relevant these days.\nI also liked this rendition of it, slowed down and reverbed. There are also several O Superman remixes on Soundcloud of varying quality.\n\n \n\n        \n         \nTags: interviews · Laurie Anderson · music · video",
+          "link": "https://kottke.org/26/10/o-superman-laurie-anderson",
+          "publishedOn": "2026-10-05T16:17:00.000Z",
+          "wordCount": 1436,
+          "title": "O Superman, Laurie Anderson",
+          "imageUrl": "https://i.ytimg.com/vi/Vkfpi2H8tOE/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/10/0049734-mapping-tariffs",
+          "author": null,
+          "description": "Mapping Tariffs explores “the potential impacts of tariffs on jobs and businesses across Canadian cities and communities at the neighbourhood and city level”.",
+          "link": "https://kottke.org/26/10/0049734-mapping-tariffs",
+          "publishedOn": "2026-10-05T15:32:00.000Z",
+          "wordCount": 703,
+          "title": "Mapping Tariffs explores “the potential impacts of...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/10/0049729-neighbors-are-protesting-",
+          "author": null,
+          "description": "After working hard taking away the civil rights of people and granting more powers to our Mob Boss President, Chief Justice John Roberts retreats to a Maine island for the summer. But lately, neighbors are protesting his presence there. Good! No peace!",
+          "link": "https://kottke.org/26/10/0049729-neighbors-are-protesting-",
+          "publishedOn": "2026-10-05T14:40:00.000Z",
+          "wordCount": 607,
+          "title": "After working hard taking away the civil rights of people...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/10/the-2026-comedy-wildlife-awards-finalists",
+          "author": null,
+          "description": "The Comedy Wildlife Awards have announced the finalists for the 2026 competition and, well, these awards never miss. You can almost hear the background music for some of these…\n\n \n\n        \n         \nTags: best of · best of 2026 · photography",
+          "link": "https://kottke.org/26/10/the-2026-comedy-wildlife-awards-finalists",
+          "publishedOn": "2026-10-05T13:30:00.000Z",
+          "wordCount": 645,
+          "title": "The 2026 Comedy Wildlife Awards Finalists",
+          "imageUrl": "http://kottke.org/images/posts/01/editor-1791163802-1a71e73e.jpg"
+        },
         {
           "id": "https://kottke.org/26/10/0049721-is-american-culture-simpl",
           "author": null,
@@ -3984,86 +4064,6 @@
           "wordCount": 770,
           "title": "Thing that I am now invested in:  this woman has spent 30...",
           "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/08/0049459-the-video-rental-store-as",
-          "author": null,
-          "description": "The video rental store as “third place”. “Decades before recommendation algorithms, video stores served as social hubs where conversation and camaraderie became a form of taste-making.”",
-          "link": "https://kottke.org/26/08/0049459-the-video-rental-store-as",
-          "publishedOn": "2026-08-06T21:58:00.000Z",
-          "wordCount": 1013,
-          "title": "The video rental store as “third place” . &#8220;Decades...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/08/0049462-the-end-of-google-search",
-          "author": null,
-          "description": "The End of Google Search. The internet giant is “changing the formula” of its products and media folks are beginning to assume that there will be no search traffic in the future…and fretting about their survival.",
-          "link": "https://kottke.org/26/08/0049462-the-end-of-google-search",
-          "publishedOn": "2026-08-06T20:29:00.000Z",
-          "wordCount": 955,
-          "title": "The End of Google Search . The internet giant is...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/08/0049464-media-matters",
-          "author": null,
-          "description": "Media Matters: “ABC, CBS, and NBC aired a combined 194 segments about the three major heat events” that hit the US this summer and not a single one of them mentioned climate change. Not one!",
-          "link": "https://kottke.org/26/08/0049464-media-matters",
-          "publishedOn": "2026-08-06T19:20:00.000Z",
-          "wordCount": 688,
-          "title": "Media Matters : &#8220;ABC, CBS, and NBC aired a...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/08/0049463-fun-little-review-by-marc",
-          "author": null,
-          "description": "Fun little review by Marcin Wichary of a 1984 flying video game called Sopwith, which was never supposed to be released to the public (an event that the game’s creator didn’t learn about until years later).",
-          "link": "https://kottke.org/26/08/0049463-fun-little-review-by-marc",
-          "publishedOn": "2026-08-06T18:35:00.000Z",
-          "wordCount": 749,
-          "title": "Fun little review by Marcin Wichary of a 1984 flying...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/08/0049451-this-little-video-of-burb",
-          "author": null,
-          "description": "I love this little video of burbling pasta sauces (sound on). Wish there was a 10-hour YT version for work background noise…",
-          "link": "https://kottke.org/26/08/0049451-this-little-video-of-burb",
-          "publishedOn": "2026-08-06T17:45:00.000Z",
-          "wordCount": 931,
-          "title": "I love  this little video of burbling pasta sauces...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/08/0049461-id-be-lead-harpooner-on-t",
-          "author": null,
-          "description": "I’d Be Lead Harpooner on the Pequod If It Wasn’t for These DEI Hires. “I’m just telling you that it’s getting hard out there for us blue-collar Nantucket lads when all the ships’ owners are catching the Abolitionist Mind Virus.”",
-          "link": "https://kottke.org/26/08/0049461-id-be-lead-harpooner-on-t",
-          "publishedOn": "2026-08-06T16:45:00.000Z",
-          "wordCount": 679,
-          "title": "I’d Be Lead Harpooner on the Pequod If It Wasn’t for...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/08/0049460-25-things-that-explain-am",
-          "author": null,
-          "description": "25 things that explain America, including personal injury lawyer advertisements, Crest Whitestrips, Costco rotisserie chicken, and the Pizza Hut lamp. “The T-shirt cannon merges three American obsessions: guns, sports and freebie giveaways.”",
-          "link": "https://kottke.org/26/08/0049460-25-things-that-explain-am",
-          "publishedOn": "2026-08-06T15:45:00.000Z",
-          "wordCount": 740,
-          "title": "25 things that explain America , including personal...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/08/how-does-an-enigma-machine-work",
-          "author": null,
-          "description": "This is a completely fantastic look at how the Enigma Machine works. Jared Owen constructed a 3D model of the German cipher device and clearly walks the viewer through how the electricity flows through the machine to scramble and unscramble secret messages.\nWhen electricity travels through one rotor it changes the letter once. But remember, we have three of these rotors and they each have different wirings on the inside. When electricity travels through all three of them it changes the letter three times.\nThen at the end, we have the reflector. This also has 26 metal contacts. Inside is more wiring that connects the letters in pairs. So it goes in as one letter and then comes out as another letter.\nTo the right of here is the input wheel. It has 26 wires that go in and connects to the 26 metal contacts.\nLet’s put this all together. Electricity flows through one of the 26 wires, let’s say the wire for the letter Y. Then it gets changed to a different letter at all three rotors. Then it hits the reflector, which again, changes the letter. And then it goes back through the rotors again which changes the letter three more times. And it comes back out on a wire that represents a completely different letter. And if you were counting, this means the letter was changed seven times.\n\n\t\nSeriously, this is one of the best explanations I’ve ever seen of anything on YouTube — by the end of it, I was pretty sure I could now build an Enigma Machine if I needed to. (via benn jordan)\n\n \n\n        \n         \nTags: Enigma machine · Jared Owen · video",
-          "link": "https://kottke.org/26/08/how-does-an-enigma-machine-work",
-          "publishedOn": "2026-08-06T14:45:00.000Z",
-          "wordCount": 1231,
-          "title": "How Does an Enigma Machine Work?",
-          "imageUrl": "https://i.ytimg.com/vi/ybkkiGtJmkM/sddefault.jpg"
         }
       ]
     },
