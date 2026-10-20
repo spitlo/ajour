@@ -2,10 +2,166 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2026-10-19T02:08:49.376Z</updated>
+    <updated>2026-10-20T02:24:29.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NPR’s Planet Money recently did a show on tariff refunds...]]></title>
+        <id>https://kottke.org/26/10/0049820-nprs-planet-money-recentl</id>
+        <link href="https://kottke.org/26/10/0049820-nprs-planet-money-recentl"/>
+        <updated>2026-10-19T21:18:00.000Z</updated>
+        <summary type="html"><![CDATA[NPR’s Planet Money recently did a show on tariff refunds and interviewed Panic’s Cabel Sasser about how they decided to refund their Playdate-buying customers for the tariffs surcharge they paid.]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do you believe in life after death? This is a great...]]></title>
+        <id>https://kottke.org/26/10/0049832-do-you-believe-in-life-af</id>
+        <link href="https://kottke.org/26/10/0049832-do-you-believe-in-life-af"/>
+        <updated>2026-10-19T20:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you believe in life after death? This is a great interactive piece by Alvin Chang about people’s beliefs about the existence of an afterlife and how those beliefs change over the course of our lifetimes.]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Tiny 24 FPS E-Ink Game Boy Emulator]]></title>
+        <id>https://kottke.org/26/10/a-tiny-24-fps-e-ink-game-boy-emulator</id>
+        <link href="https://kottke.org/26/10/a-tiny-24-fps-e-ink-game-boy-emulator"/>
+        <updated>2026-10-19T19:33:00.000Z</updated>
+        <summary type="html"><![CDATA[This is really impressive: a software engineer got a Game Boy emulator running at 30 fps on a tiny e-ink screen.
+If you’re familiar with e-paper, you know that they normally refresh much slower (2-3 times a second), not nearly quick enough to play even a simple video game. This guy wrote his own display driver that got the refresh rate up to 30 times per second. From the transcript of the video explaining how e-paper works and how he hacked the display to make it play games:
+Unlike conventional displays like LCD or OLED, ePaper stores its image physically using charged black and white pigment particles. By changing the electric field, the display moves the pigments towards or away from the surface, which in the end gives us black- or white-looking pixel. And usually a sequence of several electrical pulses called a waveform is needed to move the pigment back and forth, before finally driving it towards the new image. This helps produce a clean result without leaving too much of the previous image behind. But this takes a lot of time.
+
+	
+The project is open source — you can get the plans and code on GitHub. This engineer was inspired by Wenting Zhang’s e-paper Game Boy emulator:
+
+Zhang has also made a color e-ink display that runs at 60 fps. Very cool. (via yanko design)
+
+ 
+
+        
+         
+Tags: Game Boy · video · video games · Wenting Zhang]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A 24-minute video tour of the Krasner and Pollock: Past...]]></title>
+        <id>https://kottke.org/26/10/0049824-a-24-minute-video-tour</id>
+        <link href="https://kottke.org/26/10/0049824-a-24-minute-video-tour"/>
+        <updated>2026-10-19T18:41:00.000Z</updated>
+        <summary type="html"><![CDATA[A 24-minute video tour of the Krasner and Pollock: Past Continuous exhibition at the Met. I hope I make it to NYC to see this before it closes in January.]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towers of Babble is a game that mashes up word games and...]]></title>
+        <id>https://kottke.org/26/10/0049834-towers-of-babble</id>
+        <link href="https://kottke.org/26/10/0049834-towers-of-babble"/>
+        <updated>2026-10-19T17:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Towers of Babble is a game that mashes up word games and tower defense games. “Nouns make buildings and other parts of speech make modifiers that you can add to a building to improve its stats.”]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hyperland, a Prescient 1990 TV Show by Douglas Adams]]></title>
+        <id>https://kottke.org/26/10/hyperland-a-prescient-1990-tv-show-by-douglas-adams</id>
+        <link href="https://kottke.org/26/10/hyperland-a-prescient-1990-tv-show-by-douglas-adams"/>
+        <updated>2026-10-19T16:31:00.000Z</updated>
+        <summary type="html"><![CDATA[I’d never heard of this before: in 1990, the BBC aired a program created by and starring Douglas Adams called Hyperland. It begins with a frustrated Adams throwing his TV out (too linear, too non-interactive) and Tom Baker (from Doctor Who) popping up as an intelligent interactive agent that promises to “do your every slightest bidding, to fetch and carry for you, to work tirelessly and selflessly on your behalf, always ready, always willing, no job too small or too menial”.
+Circumventing the limitations of ‘linear’ broadcast TV, the 50-minute programme imagines a new world in which an AI software ‘agent’ - brought to life here by Doctor Who favourite Tom Baker - helps the user (played by Adams) to find and access material of interest in a global world of hyperlinked information - text, im…]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI can operate a screen reader. What does that actually test? [link]]]></title>
+        <id>2026-10-19-c4c792d9</id>
+        <link href="https://remysharp.com/links/2026-10-19-c4c792d9"/>
+        <updated>2026-10-19T16:09:03.000Z</updated>
+        <summary type="html"><![CDATA[Really like the framing of this article. It uses some very visceral (or easy to understand) examples of how people vs. AI would approach the problem space, and my feeling is that this kind of thinking works well when expanding well beyond the scope of accessibility (though this is an excellent place to start).
+The floor plan example is good, but it was this that particularly won me over:
+
+An AI agent starts with advantages a person doesn’t have. […]
+The agent knows the goal before it begins. […]
+A pass tells us the agent found a route, not what finding it was like. AI performs; people experience.
+
+Original link: nicolas-steenhout.com/ai-screen-reader-testing]]></summary>
+        <author>
+            <name>remy sharp's b:log</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lane 8 has released his Fall 2026 Mixtape, 4 hours,...]]></title>
+        <id>https://kottke.org/26/10/0049831-lane-8-has-released-his-f</id>
+        <link href="https://kottke.org/26/10/0049831-lane-8-has-released-his-f"/>
+        <updated>2026-10-19T15:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Lane 8 has released his Fall 2026 Mixtape, 4 hours, recorded live at SF’s Castro Theatre. This one’s going straight into the earholes. Soundcloud, YouTube, and elsewhere.]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Won’t Someone Please Stop Me, Dr. Frankenstein, from...]]></title>
+        <id>https://kottke.org/26/10/0049818-wont-someone-please-stop-</id>
+        <link href="https://kottke.org/26/10/0049818-wont-someone-please-stop-"/>
+        <updated>2026-10-19T14:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Won’t Someone Please Stop Me, Dr. Frankenstein, from Building the Creature? “These are serious concerns. And I think we should all stop. Me, especially. Can anyone make me stop doing the thing I want to do? Apparently not.”]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ta-Nehisi Coates on the Consequence of Donald Trump]]></title>
+        <id>https://kottke.org/26/10/ta-nehisi-coates-on-the-consequence-of-donald-trump</id>
+        <link href="https://kottke.org/26/10/ta-nehisi-coates-on-the-consequence-of-donald-trump"/>
+        <updated>2026-10-19T13:53:26.000Z</updated>
+        <summary type="html"><![CDATA[Writing for Vanity Fair (archive link), Ta-Nehisi Coates says that Donald Trump is the most visionary politician of his era.
+Through a mix of moxie, cynicism, and misanthropy, Trump has made himself into the dominant American of our age. Sometimes a man meets his moment, and Trump met his in the wake of a black presidency and a conservative movement doggedly and patiently pursuing a decades-long counterrevolution. The marriage of Trump’s charisma to a fundamentalist right wing has been bountiful: three Supreme Court justices in four years, the subsequent destruction of national abortion rights, the banishment of affirmative action, the hollowing of the Voting Rights Act.
+
+	
+And the genie may not go back in the bottle:
+But some things can’t be unseen. The example that Trump has set, the scope of what is possible should one embrace the dark powers of the White House, will not dissipate. It turns out that you can deploy secret police onto American streets. You can deport immigrants in defiance of the courts. You can have the Justice Department badger your enemies. And you can become very rich while doing it. And some of the most powerful sectors in America, those who most loudly extol their own love of country, will stand around and watch you do it. Asked why he was making deals during his second term, Trump gave a succinct and chillingly accurate summation: “I found out that nobody cared.” And to the extent that there is a genius to Trump, it is in his apprehension of this reality—so very few people who matter care. When you’re president, they let you do it.
+
+	
+Coates recently discussed this piece on Vanity Fair’s podcast.
+
+
+ 
+
+        
+         
+Tags: Donald Trump · politics · Ta-Nehisi Coates]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: The technopolitics of ad-tech (19 Oct 2026)]]></title>
+        <id>https://pluralistic.net/?p=13417</id>
+        <link href="https://pluralistic.net/2026/10/19/spying-v-context/"/>
+        <updated>2026-10-19T07:08:31.000Z</updated>
+        <summary type="html"><![CDATA[Today's links The technopolitics of ad-tech: Spying is good for tech, context is good for publishers. Hey look at this: Delights to delectate. Object permanence: PNH x Mike Ford; Singapore v Far East Economic Review; Publishing v bestsellers; Architecture v security; Vista v everyone; Free Bieber; Belarus sells the sugar bowls; OCCUPY GEORGE; Grey type sucks; Spinal Tap v studio math; Terry Pratchett x $10t coin; Boy Scouts x copyright maximialism; Canadian Tories x DRM; Herman Cain's 9-9-9 plan; ACLu v secret laws; Fined for suing the cops who shot you; Chicago PD steals millions for cop toys; Turing's Law; Copyleft v Vizio; Trump's killswitch. Upcoming appearances: Vancouver, Victoria, Ottawa, Vienna, Kilkenny, Oxford, Sheffield, Virtual, Oxford, Montreal. Recent appearances: Where I've …]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fusion Device]]></title>
+        <id>https://xkcd.com/3313/</id>
+        <link href="https://xkcd.com/3313/"/>
+        <updated>2026-10-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/fusion_device.png" title="I don't see why people have trouble doing this at room temperature. Using hot rivets would honestly have been MORE work." alt="I don't see why people have trouble doing this at room temperature. Using hot rivets would honestly have been MORE work." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pluralistic: Israeli ad-tech company was a delivery system for "mercenary spyware" (17 Oct 2026)]]></title>
         <id>https://pluralistic.net/?p=13414</id>
@@ -4777,115 +4933,6 @@ Tags: Dolly Parton · music · The Muppets · video]]></summary>
         <link href="https://kottke.org/26/08/0049519-cookbooking-a-fans-guide"/>
         <updated>2026-08-21T15:56:00.000Z</updated>
         <summary type="html"><![CDATA[What a great idea for a book: Cookbooking: A Fan’s Guide. “An eclectic, visually stunning pop-history, Cookbooking explores the most influential and beloved cookbooks through photographs, listicles, graphics, and snappy writing.”]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xkcd store reopening]]></title>
-        <id>https://store.xkcd.com/</id>
-        <link href="https://store.xkcd.com/"/>
-        <updated>2026-08-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<a href="https://store.xkcd.com/"><img src="https://imgs.xkcd.com/store_news/news_back.png" srcset="https://imgs.xkcd.com/store_news/news_back_2x.png 2x" alt="The xkcd store is back, with shirts, stickers, and posters for sale." title="xkcd store news" /></ a>]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Archery Feat]]></title>
-        <id>https://xkcd.com/3288/</id>
-        <link href="https://xkcd.com/3288/"/>
-        <updated>2026-08-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/archery_feat.png" title="Update: I would not have embarked on this powerscaling venture if I'd known how thoroughly Mark Twain was going to roast me." alt="Update: I would not have embarked on this powerscaling venture if I'd known how thoroughly Mark Twain was going to roast me." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: The actual epistemic crisis (20 Aug 2026)]]></title>
-        <id>https://pluralistic.net/?p=13200</id>
-        <link href="https://pluralistic.net/2026/08/20/epistemic-void/"/>
-        <updated>2026-08-20T23:41:21.000Z</updated>
-        <summary type="html"><![CDATA[Today's links The actual epistemic crisis: AI's assault on reality is an opportunistic infection. Hey look at this: Delights to delectate. Object permanence: Disney goths; Running a con room party; Equation Group's fuggly sourcecode; "Bubble"; "The Weight." Upcoming appearances: Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The actual epistemic crisis (permalink) AI is alarming for many reasons: it's a dangerous financial bubble, an environmental catastrophe, and a tool for eroding wages and labor power. But in addition to all that, AI is an epistemic disaster. We've had photoshopped images, voice impersonators and vis…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[&#8220; The principal aim of President Trump’s second...]]></title>
-        <id>https://kottke.org/26/08/0049518-the-principal-aim-of-pres</id>
-        <link href="https://kottke.org/26/08/0049518-the-principal-aim-of-pres"/>
-        <updated>2026-08-20T22:12:00.000Z</updated>
-        <summary type="html"><![CDATA[“The principal aim of President Trump’s second term is revenge,” says Jamelle Bouie.  “Revenge shapes the president’s priorities, drives his actions and structures the decisions of his government.”]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weird Al Yankovic’s Tiny Desk Concert]]></title>
-        <id>https://kottke.org/26/08/weird-al-yankovics-tiny-desk-concert</id>
-        <link href="https://kottke.org/26/08/weird-al-yankovics-tiny-desk-concert"/>
-        <updated>2026-08-20T21:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Holy moly, NPR’s Tiny Desk has been going for a long time. Weird Al Yankovic first stopped by the desk in 2010, so early that they didn’t even have it on YouTube until more recently. And the other day, they had him back for a second session!
-Yankovic focused on originals the first time around, but for this show he brought parodies of Don McLean’s “American Pie” (“The Saga Begins,” from 1999’s Running with Scissors) and Backstreet Boys’ “I Want It That Way” (“eBay,” from 2003’s Poodle Hat), as well as the Weezer pastiche “Skipper Dan,” from 2011’s Alpocalypse. And, for fans of the breathtakingly factual 2022 biopic Weird: The Al Yankovic Story, he performs the film’s Emmy-losing closing-credits blues-rock jam “Now You Know.”
-We only get so many gifts in this life, so let’s set an intention here and now to return “Weird Al” Yankovic to the Tiny Desk in the summer of 2042. But if he’s gonna come back and see us (or whoever’s buried us and moved on) at a sprightly 82, we’ll have to ask him to bring a string section, just to keep things fresh.
-
- 
-
-        
-         
-Tags: music · Tiny Desk Concerts · video · Weird Al Yankovic]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anil Dash built a standalone Touch ID sensor  to use...]]></title>
-        <id>https://kottke.org/26/08/0049516-anil-dash-built-a-standal</id>
-        <link href="https://kottke.org/26/08/0049516-anil-dash-built-a-standal"/>
-        <updated>2026-08-20T20:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Anil Dash built a standalone Touch ID sensor to use with your Mac if you don’t have a newer Apple keyboard. It’s open-source…the code and instructions are on Github.]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analysts Warn U.S. Economy Becoming Overly Dependent On...]]></title>
-        <id>https://kottke.org/26/08/0049515-analysts-warn-us-economy-</id>
-        <link href="https://kottke.org/26/08/0049515-analysts-warn-us-economy-"/>
-        <updated>2026-08-20T19:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Analysts Warn U.S. Economy Becoming Overly Dependent On Anne Hathaway. “We estimate that Anne Hathaway films currently account for a staggering 63% of all U.S. exports.” Zendaya is the other 37%.]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When you take screenshots of posts in iOS social apps...]]></title>
-        <id>https://kottke.org/26/08/0049514-they-use-this-little-tric</id>
-        <link href="https://kottke.org/26/08/0049514-they-use-this-little-tric"/>
-        <updated>2026-08-20T16:59:00.000Z</updated>
-        <summary type="html"><![CDATA[When you take screenshots of posts in iOS social apps like Bluesky or Threads, they use this little trick to replace the “Follow” button with the app’s logo.]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A New Framework for Open Source AI]]></title>
-        <id>https://blog.mozilla.org/?p=86826</id>
-        <link href="https://blog.mozilla.org/en/mozilla/ai/open-source-ai-framework/"/>
-        <updated>2026-08-20T15:57:30.000Z</updated>
-        <summary type="html"><![CDATA[Open or closed AI isn’t a fringe question anymore; it’s a live policy debate, with real consequences for who gets to build, audit, and compete in the AI ecosystem. But as that debate plays out in Washington, Brussels, and beyond, the harder questions are still very much up for discussion. What does meaningful openness actually […]
-The post A New Framework for Open Source AI appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Mark Surman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[&#8220;All our neighbors worked for those firms —...]]></title>
-        <id>https://kottke.org/26/08/0049513-none-of-them-would-let-th</id>
-        <link href="https://kottke.org/26/08/0049513-none-of-them-would-let-th"/>
-        <updated>2026-08-20T14:29:00.000Z</updated>
-        <summary type="html"><![CDATA[“All our neighbors worked for those firms — Facebook, Google and Apple. None of them would let their children interact with any screens. They all knew how addicting they were and how to protect their own children.”]]></summary>
         <author>
             <name>kottke.org</name>
         </author>
