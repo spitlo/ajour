@@ -131,6 +131,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3314/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/vulnerability.png\" title=\"Other numbers are largely unaffected, but anyone using '4' for their certificate key is urged to upgrade to '5'.\" alt=\"Other numbers are largely unaffected, but anyone using '4' for their certificate key is urged to upgrade to '5'.\" />",
+          "link": "https://xkcd.com/3314/",
+          "publishedOn": "2026-10-21T00:00:00.000Z",
+          "wordCount": 178,
+          "title": "Vulnerability",
+          "imageUrl": "https://imgs.xkcd.com/comics/vulnerability_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3313/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/fusion_device.png\" title=\"I don't see why people have trouble doing this at room temperature. Using hot rivets would honestly have been MORE work.\" alt=\"I don't see why people have trouble doing this at room temperature. Using hot rivets would honestly have been MORE work.\" />",
@@ -1062,6 +1072,16 @@
       "siteUrl": "https://pluralistic.net",
       "articles": [
         {
+          "id": "https://pluralistic.net/?p=13429",
+          "author": "Cory Doctorow",
+          "description": "Today's links Adversarial interoperability is a team sport: Vibe-coded jailbreaks are fun, but don't solve the problem. Hey look at this: Delights to delectate. Object permanence: Labour Whip's pro-Iraq war threats; LoC's emulators; Kevin Mitnick plays CIA stooge; ICE: \"The warrant is coming out of my balls\"; WIPO's secret trademark meeting; Linking isn't libel (in Canada); Make: singing busts; Tory minister kills Turing's Law; Trump hotels rebrand as \"Scion\". Upcoming appearances: Vancouver, Ottawa, Vienna, Kilkenny, Courtenay, Vancouver, Oxford, Sheffield, Virtual, Oxford, Montreal. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Adversarial interoperability is a tea…",
+          "link": "https://pluralistic.net/2026/10/21/brittle-individualism/",
+          "publishedOn": "2026-10-21T20:05:21.000Z",
+          "wordCount": 5438,
+          "title": "Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)",
+          "imageUrl": null
+        },
+        {
           "id": "https://pluralistic.net/?p=13424",
           "author": "Cory Doctorow",
           "description": "Today's links The death of history's most successful publisher: Google has a scorching case of \"main character syndrome.\" Hey look at this: Delights to delectate. Object permanence: Civil War x 4,400 ceramic cats; Okaysellers; Frankenstein hat; Clockwork Fagin; Tracking trackers; \"Fever Beach.\" Upcoming appearances: Victoria, Vancouver, Ottawa, Vienna, Kilkenny, Couretnay, Vancouver, Oxford, Sheffield, Virtual, Oxford, Montreal. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. The death of history's most successful publisher (permalink) I published my first story in 1988, when I was 17 years old. Today, at 55, I've published more than 30 books, with three more coming in…",
@@ -1426,6 +1446,116 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/10/meet-prometheus-a-gift-link-search-engine",
+          "author": null,
+          "description": "Sometime in the past few years, media sites like Bloomberg, The Economist, The Atlantic, Defector, Talking Points Memo, and the NY Times started offering a way for subscribers to share paywalled articles with friends and followers. These are commonly referred to as gift links.\nThousands of gift links are shared on websites and social media daily. Some helpful aggregated feeds and hashtags are available, but finding specific information can be difficult. Whenever possible here on KDO, I link to paywalled articles with gift links. To help in that endeavor, I’ve built a gift link discovery tool called Prometheus.\nPrometheus collects gift links to paywalled news articles shared by subscribers — from the New York Times, the Washington Post, the Atlantic, and more. Links are gathered from Bluesky, Mastodon, and the web throughout the day, and you can search by keyword & URL and filter by publication.\n\n\t\nRight now, Prometheus is only available to active kottke.org members while I’m testing and refining it — it’s definitely a beta tool rn. If you’re a member, check it out and let me know if you’ve got any feedback or notice any rough edges.\nAn informed public is the foundation of a healthy society — and while paywalls aren’t the only challenge here, they also aren’t helping. Big thanks to everyone sharing their gift links online and to these media companies for enabling their subscribers to share their journalism with others.\n\n \n\n        \n         \nTags: journalism · kottke.org · Prometheus (search)",
+          "link": "https://kottke.org/26/10/meet-prometheus-a-gift-link-search-engine",
+          "publishedOn": "2026-10-22T00:49:03.000Z",
+          "wordCount": 919,
+          "title": "Meet Prometheus, a Gift Link Search Engine",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/10/0049851-but-this-cell-is-made-by-",
+          "author": null,
+          "description": "“A SpudCell can grow, copy its DNA, divide in two, and start its cell cycle all over again. But this cell is made by people, created from lifeless ingredients.” Um, what?",
+          "link": "https://kottke.org/26/10/0049851-but-this-cell-is-made-by-",
+          "publishedOn": "2026-10-21T21:57:00.000Z",
+          "wordCount": 704,
+          "title": "“A SpudCell can grow, copy its DNA, divide in two, and...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/10/0049802-bastardica",
+          "author": null,
+          "description": "Bastardica is “a foundry for bastard web fonts. Mix, stretch and/or squish them.” E.g. Nervous Sans: “Arial is stacked five times, pseudo-randomly twitching out of line.” I quite like Impacter.",
+          "link": "https://kottke.org/26/10/0049802-bastardica",
+          "publishedOn": "2026-10-21T21:12:00.000Z",
+          "wordCount": 665,
+          "title": "Bastardica is “a foundry for bastard web fonts. Mix,...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/10/0049846-how-did-life-on-earth-ari",
+          "author": null,
+          "description": "How did life on Earth arise? Three of the biggest inflection points were ~4 billion years ago when life first emerged, ~2 billion years ago when eukaryotic cells appeared, and ~580 million years ago when life got big.",
+          "link": "https://kottke.org/26/10/0049846-how-did-life-on-earth-ari",
+          "publishedOn": "2026-10-21T20:07:00.000Z",
+          "wordCount": 712,
+          "title": "How did life on Earth arise? Three of the biggest...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/10/nycs-fastest-bike-messenger-1985",
+          "author": null,
+          "description": "For CBS News in 1985, Charles Kuralt profiled bike messenger David Leopold.\n\nI don’t go slow. I don’t stop for red lights. I go against traffic. I disobey every traffic law there is.\n\n\t\nGreat street footage of NYC from 40 years ago. You might think that Leopold ended up as a stain on the pavement. In 2010, CBS News did a follow-up on him:\n\nSee also Leopold on David Letterman from 1985.\n\n \n\n        \n         \nTags: Charles Kuralt · cycling · NYC · video",
+          "link": "https://kottke.org/26/10/nycs-fastest-bike-messenger-1985",
+          "publishedOn": "2026-10-21T18:54:00.000Z",
+          "wordCount": 862,
+          "title": "NYC’s Fastest Bike Messenger (1985)",
+          "imageUrl": "https://i.ytimg.com/vi/xMvJ83XpGoI/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/10/0049849-the-library-is-closed-fee",
+          "author": null,
+          "description": "The Library Is Closed. Feel Free to Come In. “In communities where workspaces are scarce, libraries are welcoming visitors outside of staffed hours. All they need is a library card.”",
+          "link": "https://kottke.org/26/10/0049849-the-library-is-closed-fee",
+          "publishedOn": "2026-10-21T18:07:00.000Z",
+          "wordCount": 818,
+          "title": "The Library Is Closed. Feel Free to Come In. “In...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/10/0049845-tiny-people-in-a-big-worl",
+          "author": null,
+          "description": "Tiny People in a Big World is like a birdwatching guide, but for people-watching. “I made this campaign to produce a book that will help you notice and appreciate the tiny people who pass through your big world.”",
+          "link": "https://kottke.org/26/10/0049845-tiny-people-in-a-big-worl",
+          "publishedOn": "2026-10-21T16:58:00.000Z",
+          "wordCount": 688,
+          "title": "Tiny People in a Big World is like a birdwatching guide,...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/10/0049833-link-loop",
+          "author": null,
+          "description": "Link Loop is basically a 2D version of Portal. Looks fun!",
+          "link": "https://kottke.org/26/10/0049833-link-loop",
+          "publishedOn": "2026-10-21T16:03:00.000Z",
+          "wordCount": 671,
+          "title": "Link Loop is basically a 2D version of Portal. Looks fun!",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/10/ambient-earth",
+          "author": null,
+          "description": "Ambient Earth is a 7.5-hour, real-time, 4K, remastered video of the orbital view from the International Space Station. Seán Doran took almost 49,000 images from 27 time-lapse sequences captured from the ISS by astronaut Butch Wilmore, repaired, remastered, and interpolated them into this incredible video.\nPerspective is lost when the world speeds by. The scale and beauty of our home planet is truly appreciated when observed on an epic 7.5 hour journey from The International Space Station. This ambitious 4k compilation, crafted through months of meticulous restoration, invites you to slow down and experience Earth in real time just as astronauts do.\n\n\t\nThe video is accompanied by ambient audio recorded on the station by Chris Hadfield. This would be great for a screensaver, but after poking around for a bit, it doesn’t seem like there’s a good way to set a YT video as a screensaver on MacOS (without downloading it or having it be a livestream).\n\n \n\n        \n         \nTags: Earth · iss · Sean Doran · space · video",
+          "link": "https://kottke.org/26/10/ambient-earth",
+          "publishedOn": "2026-10-21T14:49:00.000Z",
+          "wordCount": 759,
+          "title": "Ambient Earth",
+          "imageUrl": "https://i.ytimg.com/vi/alJMoaKpV_E/sddefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/10/0049847-retrieve-samples-for-retu",
+          "author": null,
+          "description": "“Japan launched a $578 million mission Monday on a five-year expedition to land on the largest moon of Mars and retrieve samples for return to Earth.”",
+          "link": "https://kottke.org/26/10/0049847-retrieve-samples-for-retu",
+          "publishedOn": "2026-10-21T13:45:00.000Z",
+          "wordCount": 813,
+          "title": "“Japan launched a $578 million mission Monday on a...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/10/0049830-find-the-place-you-love-t",
+          "author": null,
+          "description": "Find the Place You Love. Then Move There. “The reward from moving just because you want to is hard to defend logically. Some people will think you are crazy…”",
+          "link": "https://kottke.org/26/10/0049830-find-the-place-you-love-t",
+          "publishedOn": "2026-10-21T12:55:00.000Z",
+          "wordCount": 943,
+          "title": "Find the Place You Love. Then Move There. “The reward...",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/10/0049840-i-remember-this-90s-tv-co",
           "author": null,
@@ -4434,16 +4564,6 @@
           "publishedOn": "2026-08-24T12:19:00.000Z",
           "wordCount": 656,
           "title": "Opinion columnist Karen Attiah won her arbitration...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/08/0049522-jodi-ettenberg-on-living-",
-          "author": null,
-          "description": "Jodi Ettenberg on living grief and a serendipitous discovery. “Living grief lacks the tapestry of rituals, language, and social permissions around grieving that a person is offered with death.”",
-          "link": "https://kottke.org/26/08/0049522-jodi-ettenberg-on-living-",
-          "publishedOn": "2026-08-22T14:30:00.000Z",
-          "wordCount": 887,
-          "title": "Jodi Ettenberg on living grief and a serendipitous...",
           "imageUrl": ""
         }
       ]
