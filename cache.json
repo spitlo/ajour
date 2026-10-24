@@ -111,7 +111,18 @@
       "title": "there.oughta.be/",
       "feedUrl": "https://there.oughta.be/feed.xml",
       "siteUrl": "https://there.oughta.be/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://there.oughta.be/a/hood-full-of-pixels",
+          "author": null,
+          "description": "In a week, my uncle will throw a Halloween party, so I’ll need a costume. It might have gotten a bit out of hand with two 128x64 flexible LED matrix panels, an additional 180 individually addressable LEDs, two Raspberry Pi Pico 2 Ws and a Bluetooth speaker. It became a costume that changes its look at will. Click the image to see the video on youtube.com. The video shows the costume in action and demonstrates how it is controlled with an overview of the build. The article here goes into details of the build.",
+          "link": "https://there.oughta.be/a/hood-full-of-pixels",
+          "publishedOn": "2026-10-22T22:00:00.000Z",
+          "wordCount": 5314,
+          "title": "There oughta be a hood full of pixels",
+          "imageUrl": "https://there.oughta.be/assets/images/2026-10-23/youtube.jpg"
+        }
+      ]
     },
     {
       "title": "Grumpy Gamer",
@@ -130,6 +141,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3315/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/forms_of_water.png\" title=\"The 'light' refers to bremsstrahlung.\" alt=\"The 'light' refers to bremsstrahlung.\" />",
+          "link": "https://xkcd.com/3315/",
+          "publishedOn": "2026-10-23T00:00:00.000Z",
+          "wordCount": 182,
+          "title": "Forms of Water",
+          "imageUrl": "https://imgs.xkcd.com/comics/forms_of_water_2x.png"
+        },
         {
           "id": "https://xkcd.com/3314/",
           "author": null,
@@ -1072,6 +1093,16 @@
       "siteUrl": "https://pluralistic.net",
       "articles": [
         {
+          "id": "https://pluralistic.net/?p=13433",
+          "author": "Cory Doctorow",
+          "description": "Today's links Critique and writing: The most important part of a writing workshop is trying to fix other people's stories. Hey look at this: Delights to delectate. Object permanence: USPS nukes the mail; Enron Explorer; \"Scored\"; UAE's international hacker legion; NZ provides hacking tools to torturers; Truecrypt insecure; The Traitorous Eight. Upcoming appearances: Vancouver, Ottawa, Vienna, Kilkenny, Courtenay, Vancouver, Oxford, Sheffield, Virtual, Oxford, Montreal. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Critique and writing (permalink) Through my own writing life, nothing has done more to improve my writing than diligent participation in peer-based worksho…",
+          "link": "https://pluralistic.net/2026/10/23/better-to-give/",
+          "publishedOn": "2026-10-23T20:44:02.000Z",
+          "wordCount": 4147,
+          "title": "Pluralistic: Critique and writing (23 Oct 2026)",
+          "imageUrl": null
+        },
+        {
           "id": "https://pluralistic.net/?p=13429",
           "author": "Cory Doctorow",
           "description": "Today's links Adversarial interoperability is a team sport: Vibe-coded jailbreaks are fun, but don't solve the problem. Hey look at this: Delights to delectate. Object permanence: Labour Whip's pro-Iraq war threats; LoC's emulators; Kevin Mitnick plays CIA stooge; ICE: \"The warrant is coming out of my balls\"; WIPO's secret trademark meeting; Linking isn't libel (in Canada); Make: singing busts; Tory minister kills Turing's Law; Trump hotels rebrand as \"Scion\". Upcoming appearances: Vancouver, Ottawa, Vienna, Kilkenny, Courtenay, Vancouver, Oxford, Sheffield, Virtual, Oxford, Montreal. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Adversarial interoperability is a tea…",
@@ -1410,16 +1441,6 @@
           "wordCount": 5033,
           "title": "Pluralistic: The age of disinvention (25 Aug 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=13215",
-          "author": "Cory Doctorow",
-          "description": "Today's links How Canada can save Americans and defeat America: True Carneyism has never been tried. Hey look at this: Delights to delectate. Object permanence: Brazil v AIDS drug patents; TSA v gel-bras; After the Siege (Russian); Names are hard; Layton's last message; Hospital bill secrets; \"The Unraveling\"; Friction cannot be reduced, only redistributed; Free Kevin; EFF v Barney; MP3tunes; \"Ghosts With Shit jobs\"; Ikea as dystopian design-fiction; Torturing \"young conservatives\"; Roald Dahl body yeast ale; Prisoners die of heat; Privacy v antitrust; The internet is boring (2001); TSA v explosive water; Internet Archive x 9/11; Peter Thiel x litigation financing startup; Universities v unions. Upcoming appearances: Sydney, Melbourne, Brighton, London, South Bend. Recent appearances: Wher…",
-          "link": "https://pluralistic.net/2026/08/24/elbows-really-up/",
-          "publishedOn": "2026-08-24T21:29:38.000Z",
-          "wordCount": 5369,
-          "title": "Pluralistic: How Canada can help Americans and defeat America (23 Aug 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -1446,6 +1467,36 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/10/0049855-the-one-question-i-cant-s",
+          "author": null,
+          "description": "The One Question I Can’t Stand at Restaurants. “The idea of a restaurant I’d never been to using a dossier on me to decide, say, where I should sit, what I was likely to order, even whether I should be given a reservation at all, gave me chills.”",
+          "link": "https://kottke.org/26/10/0049855-the-one-question-i-cant-s",
+          "publishedOn": "2026-10-23T17:44:00.000Z",
+          "wordCount": 1227,
+          "title": "The One Question I Can’t Stand at Restaurants. “The idea...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/10/0049850-us-households-are-paying-",
+          "author": null,
+          "description": "“US households are paying 62% more for drinking water than they did a decade ago — outpacing inflation, grocery prices and household incomes.”",
+          "link": "https://kottke.org/26/10/0049850-us-households-are-paying-",
+          "publishedOn": "2026-10-23T16:30:00.000Z",
+          "wordCount": 685,
+          "title": "“US households are paying 62% more for drinking water...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/10/open-thread-potato",
+          "author": null,
+          "description": "Seems like it’s a good time for an open thread. I cannot remember what number we’re up to, so it’s “Potato”. I just had french fries for lunch and ate the longest french fry I have ever seen.1 I should have taken a photo, but I was in consumption mode and not attention mode. My apologies for the oversight.\nAnyhoo, I’ve been working on the site a lot this week (did you see Prometheus?)2 and have some cool stuff coming up. But I need to take a tiny step back to do some life admin and email3 today, so the site will be a little slower than usual. A fall summer Friday, if you will.\nWhat’s going on in your world? I know the onset of dark & cold in the northern hemisphere makes life challenging for some of you this time of year; I hope you’re hanging in there. I’ve been thinking about what home means, taking long baths, walking a lot, and reading three books, listening to one book, and watching two TV shows, trying to keep everything straight.\nAnd here’s a couple of photos I took of some really cool engravings on a sword at the Tokyo National Museum.\n\nHow many individual french fries do you think you’ve seen/eaten in your life? 10,000? 100,000? 1M? (This is a good Fermi problem.) ↩\n\n\t\nOh, and have you noticed that typos have been much better recently? I built a spellchecker for my post editor, so I’ve been able to more easily spot them. (Cue incident of Muphry’s Law in this post…) ↩\nIf you’ve emailed me in the past ~3-4 months and have not gotten a reply, I apologize. I have been preoccupied with other things (moving, Tokyo, website) and my inbox has become a nightmare (I’m getting 10-20 additional emails per day with people writing in with their new projects, most of them written by AI (You posted X so I thought I’d send you Y. I’m proud of this project. Free, no signup, no tracking, no ads. Etc. Etc.) It’s like spam but sort of not?) I’ve been largely ignoring it and it’s time I get more of a handle on it. ↩\nTags: kottke.org · open threads",
+          "link": "https://kottke.org/26/10/open-thread-potato",
+          "publishedOn": "2026-10-23T11:00:00.000Z",
+          "wordCount": 11671,
+          "title": "Open Thread #Potato",
+          "imageUrl": "http://kottke.org/images/posts/01/editor-1792739809-7d902855.jpg"
+        },
         {
           "id": "https://kottke.org/26/10/0049854-but-its-not-hithealth-poi",
           "author": null,
@@ -4574,56 +4625,6 @@
           "publishedOn": "2026-08-25T14:47:00.000Z",
           "wordCount": 637,
           "title": "More Fucked Today than Yesterday . &#8220;I keep wanting...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/08/0049530-he-electronically-surveil",
-          "author": null,
-          "description": "Flock banned Benn Jordan from their recent convention (they even emailed his hotel to cancel his room) but, taking a page from law enforcement & Flock itself, he electronically surveilled the whole thing from outside, sniffing Wifi, Bluetooth, mics, etc.",
-          "link": "https://kottke.org/26/08/0049530-he-electronically-surveil",
-          "publishedOn": "2026-08-25T13:30:00.000Z",
-          "wordCount": 789,
-          "title": "Flock banned Benn Jordan from their recent convention...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/08/0049529-targets-now-pulled-childr",
-          "author": null,
-          "description": "Target’s now-pulled children’s Halloween costume is so unbelievably racist that it had to, on some level, be purposely done by someone in the decision chain and everyone else was like, “seems ok to me”.",
-          "link": "https://kottke.org/26/08/0049529-targets-now-pulled-childr",
-          "publishedOn": "2026-08-25T11:51:00.000Z",
-          "wordCount": 647,
-          "title": "Target’s now-pulled children’s Halloween costume  is  so...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/08/0049524-using-superparamagnetic-m",
-          "author": null,
-          "description": "Homing pigeons may sense the Earth’s magnetic field using superparamagnetic macrophages in their livers. So metal! 🤘",
-          "link": "https://kottke.org/26/08/0049524-using-superparamagnetic-m",
-          "publishedOn": "2026-08-24T17:47:00.000Z",
-          "wordCount": 794,
-          "title": "Homing pigeons may sense the Earth’s magnetic field...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/08/0049528-this-post",
-          "author": null,
-          "description": "Just quickly reupping this post to remind you things might be slower than usual around here for the next few weeks…moving crunch time is here. (I’ll still be posting though…it’s nice to sit down and flow state through some links occasionally.)",
-          "link": "https://kottke.org/26/08/0049528-this-post",
-          "publishedOn": "2026-08-24T15:55:00.000Z",
-          "wordCount": 1107,
-          "title": "Just quickly reupping  this post  to remind you things...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/08/0049527-meat-proxy",
-          "author": null,
-          "description": "Meat proxy (noun): “A person who forwards AI-generated text, code, or other output without reading, understanding, or validating it. The person acts only as a relay between the AI system and the intended recipient.”",
-          "link": "https://kottke.org/26/08/0049527-meat-proxy",
-          "publishedOn": "2026-08-24T15:00:00.000Z",
-          "wordCount": 644,
-          "title": "Meat proxy   (noun) : &#8220;A person who forwards...",
           "imageUrl": ""
         }
       ]
