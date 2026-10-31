@@ -87,16 +87,6 @@
           "wordCount": 3271,
           "title": "Summary of changes for September 2026",
           "imageUrl": null
-        },
-        {
-          "id": "log.html#aug2026",
-          "author": "Rek Bell",
-          "description": "Hey everyone!\nThis is the list of all the changes we've done to our projects during the month of August.\nWiki, updated various sections in solar cooking experiment.\nDonsol, putting some final touches to the new release.\nHakum, completed Recharge.\nRabbit Waves, added an image for the 404 page, completed a new comic page, and finished a page about Pen and Paper Ciphers.\nGrimGrains, published a new recipe: Curried Lentil Rice Loaf. Updated the section about Weck jars.\nWin7, a little file manager that looks just like the Macintosh windowing system.\nPOP-2, trying to resurrect a ALGOL language from the 70s.\nIn comparison to the past few months spent mostly on our own, we've had a very social August. It seems all our friends made it up north all at the same time. It has been great to run into some familiar faces, meet some new ones, and fill our days wandering in the woods catching up on the time we spent apart. But we really ought to start thinking about returning back south ourselves soon. \nMany of our conversations this month have been about languages and coded messages. How to encode a message, how to transmit them if the signal is noisy and how much of this can be done practically with just a few tools. We've added a new page to Rabbit Waves talking about just that, covering examples from history and some practical pen-n-paper exercises that can be done by anyone.\nPulling on the thread of auxiliary language, Devine made open call to invite anyone writing Concatenative programs to see if they would be willing to implement a POP-2 compiler for their own language. The idea is to see if this mostly dead language from the 70s could be revived as a language of exchange between the different insular Catlang dialects. Devine has also been busy writing a talk, and making many, many slides for the upcoming Oredev 2026 in Sweden.\nBook Club: We are rereading Dracula by Bram Stoker and Paradise Lost by John Milton.",
-          "link": "https://100r.ca/site/log.html#aug2026",
-          "publishedOn": "2026-09-01T07:00:00.000Z",
-          "wordCount": 3078,
-          "title": "Summary of changes for August 2026",
-          "imageUrl": null
         }
       ]
     },
@@ -151,6 +141,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/3318/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/earth_sized_planets.png\" title=\"It probably has an icy mantle over the real silicate geology, but I'm hoping something weird happened to burn off most of the water like with Io.\" alt=\"It probably has an icy mantle over the real silicate geology, but I'm hoping something weird happened to burn off most of the water like with Io.\" />",
+          "link": "https://xkcd.com/3318/",
+          "publishedOn": "2026-10-30T00:00:00.000Z",
+          "wordCount": 182,
+          "title": "Earth Sized Planets",
+          "imageUrl": "https://imgs.xkcd.com/comics/earth_sized_planets_2x.png"
+        },
         {
           "id": "https://xkcd.com/3317/",
           "author": null,
@@ -1064,21 +1064,6 @@
           "wordCount": 2146,
           "title": "AI on your terms: Firefox meets you where you are",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/08/Firefox_Distilled_AI-Controls-1-1080x720.png"
-        },
-        {
-          "id": "https://blog.mozilla.org/?p=86916",
-          "author": "Mozilla",
-          "description": "There’s only so much room on your screen. Pop-ups, overlays, and ads can take over fast, getting between you and what you came to do. That’s where Ad Blocker for Firefox on iOS comes in: a built-in option that blocks many third-party ads and ad-related trackers before they load, helping reduce clutter and distractions while […]\nThe post Introducing Ad Blocker for Firefox on iOS: More Control, Fewer Distractions appeared first on The Mozilla Blog.",
-          "link": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
-          "publishedOn": "2026-09-01T12:45:52.000Z",
-          "wordCount": 1685,
-          "title": "Introducing Ad Blocker for Firefox on iOS: More Control, Fewer Distractions",
-          "enclosure": {
-            "url": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/08/ENG_Firefox_AdBlocker_16x9_Long.mp4",
-            "length": "7005889",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/08/iOS-AdBlocker-1-1080x720.png"
         }
       ]
     },
@@ -1522,6 +1507,76 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/10/0049876-henri-matisses-the-red-st",
+          "author": null,
+          "description": "Great Art Explained: Henri Matisse’s The Red Studio. “Even Matisse wasn’t entirely sure what he had created and nobody wanted to buy it.”",
+          "link": "https://kottke.org/26/10/0049876-henri-matisses-the-red-st",
+          "publishedOn": "2026-10-30T20:19:00.000Z",
+          "wordCount": 696,
+          "title": "Great Art Explained: Henri Matisse’s The Red Studio....",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/10/0049883-the-top-10-paintings-of-j",
+          "author": null,
+          "description": "The top 10 paintings of Judith beheading Holofernes. “I feel like Artemisia has actually thought through the logistics of overpowering a grown man and hacking his head off.”",
+          "link": "https://kottke.org/26/10/0049883-the-top-10-paintings-of-j",
+          "publishedOn": "2026-10-30T19:11:00.000Z",
+          "wordCount": 896,
+          "title": "The top 10 paintings of Judith beheading Holofernes. “I...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/10/three-body-orbits",
+          "author": null,
+          "description": "There are no generalized solutions to the three-body problem. Say you have three planets orbiting each other: it’s impossible to calculate how they will move using Newton’s laws of motion and gravity.\nUnlike the two-body problem, the three-body problem has no general closed-form analytic solution. The differential equations that govern the motions of three gravitating bodies are not integrable and cannot be solved to give explicit formulas for the positions of the bodies as a function of time. For most initial conditions, the dynamical system for three orbiting bodies is chaotic, and the only way to predict their motions is to estimate them using numerical methods.\n\n\t\nBut thousands of stable three-body orbits have been found — their paths repeat after a given interval. The Three Body Orbits website is an atlas of some of those orbits: you can watch each three-body system play itself out in a wide variety of different shapes and complexities. There’s this simple figure 8, this slightly less simple one, and this one that looks like a spirograph.\n\n\n\n\n\nThe site even enables you to search for new stable solutions to the problem in your browser. This is what one of my unsuccessful tests looked like — two of the planets locked in a gravity death spiral while the other one peaces out in the other direction: \n\n\n \n\n        \n         \nTags: infoviz · physics · science",
+          "link": "https://kottke.org/26/10/three-body-orbits",
+          "publishedOn": "2026-10-30T17:58:00.000Z",
+          "wordCount": 865,
+          "title": "Three-Body Orbits",
+          "imageUrl": "http://kottke.org/images/posts/01/editor-1793095974-20fe93dc.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/10/0049881-james-bridle-on-making-ch",
+          "author": null,
+          "description": "James Bridle on making chairs with LLMs. “What we have here is, quite literally, a chair designed by someone who has read a lot about chairs but never actually sat in one.”",
+          "link": "https://kottke.org/26/10/0049881-james-bridle-on-making-ch",
+          "publishedOn": "2026-10-30T16:45:00.000Z",
+          "wordCount": 993,
+          "title": "James Bridle on making chairs with LLMs. “What we have...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/10/0049904-reduced-the-risk-of-death",
+          "author": null,
+          "description": "In a late-stage trial, personalized mRNA vaccines for melanoma “reduced the risk of death or recurrence by 42 percent compared to standard treatment”.",
+          "link": "https://kottke.org/26/10/0049904-reduced-the-risk-of-death",
+          "publishedOn": "2026-10-30T15:25:00.000Z",
+          "wordCount": 671,
+          "title": "In a late-stage trial, personalized mRNA vaccines for...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/10/na-na-na-na-na-na-na-na-site-search",
+          "author": null,
+          "description": "After years in the making (or more accurately, years in the wanting), I finally figured out how I wanted to do search for KDO posts. I’ve been tinkering with this specific implementation since the beginning of the summer and it finally all came together. If you’re a member, please help me to kick the tires on this for a few days. (That link, as well as the search links below, will 404 for non-members for now.)\nHopefully it’s pretty close and then I can open it up to everyone. I’ve been using it for the past week or two and it’s been really helpful so far, especially in surfacing older posts about topics I’m currently writing about or generally interested in. The tag pages are good for that too, but search can help hone in on specifics — like posts I’ve made about fascism or posts that link to McSweeney’s. Search also pulls in results from Quick Links, which aren’t included on tag pages. The rankings still need some work here and there (it’s not magic), but your searches will help calibrate things.\nFor now, the search only looks at posts from 2014 to the present. You can search by keyword, describe what you remember (“the guy who walks in Japan”), or paste a link to find posts that link to it. Search is fuzzy-ish but it’s not an AI bot or anything like that so if you ramble on with a 25-word query, it’s probably not going to work that well. You can sort by best match or newest, search all posts or just Quick Links or main posts, and filter by time (past month, past 3 months, etc.)\nI’ll share more about how search works in a subsequent post. For now, kick the tires and let me know what you think in the comments or via email. As always, bug reports, comments, and suggestions are welcome.\n\n \n\n        \n         \nTags: kottke.org · search",
+          "link": "https://kottke.org/26/10/na-na-na-na-na-na-na-na-site-search",
+          "publishedOn": "2026-10-30T13:42:00.000Z",
+          "wordCount": 2170,
+          "title": "Na, Na, Na, Na, Na, Na, Na, Na, Site Search!",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/10/listen-to-a-long-lost-daft-punk-mix-from-1997",
+          "author": null,
+          "description": "A DJ named Ralph Lawson, who hosted a radio show called Trans Europe Express, found an incredible time capsule in his collection: an hour-long mixtape sent to him by Daft Punk in 1997, shortly after the release of their debut album, Homework. The tape was badly damaged, but he worked with a specialist to restore it and has put the whole mix up on Soundcloud.\n\nAs I write this, the mix has been up for a little over a day and has just over 7000 plays. It’s unclear whether Lawson ever even played it on the show, so we could be among the first people, outside of Daft Punk themselves, to hear this mix in almost 30 years.\nSee also Daft Punk Live DJ Sets From the 90s.\n\n \n\n        \n         \nTags: Daft Punk · music · Ralph Lawson",
+          "link": "https://kottke.org/26/10/listen-to-a-long-lost-daft-punk-mix-from-1997",
+          "publishedOn": "2026-10-30T12:30:00.000Z",
+          "wordCount": 767,
+          "title": "Listen to a Long-Lost Daft Punk Mix From 1997",
+          "imageUrl": ""
+        },
         {
           "id": "https://kottke.org/26/10/rest-in-peace-patrick-stewart-1940-2026",
           "author": null,
@@ -4961,26 +5016,6 @@
           "wordCount": 788,
           "title": "This is a fun read:  If You Build It, Will They Come? On...",
           "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/09/0049542-nationally-unsubsidized-a",
-          "author": null,
-          "description": "Nationally, unsubsidized ACA premiums to jump *another* ~15% next year. We can’t continue like this (but I feel like this has been the case for the last ~10 years and will in fact likely continue…)",
-          "link": "https://kottke.org/26/09/0049542-nationally-unsubsidized-a",
-          "publishedOn": "2026-09-01T14:54:00.000Z",
-          "wordCount": 662,
-          "title": "Nationally, unsubsidized ACA premiums to jump *another*...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/09/0049541-heres-how-noise-cancellin",
-          "author": null,
-          "description": "Here’s how noise-cancelling headphones work (and when they don’t). “This is why ANC is better suited for reducing low, sustained sounds like those of motors and airplane engines, and it’s why such headphones can’t filter out screaming kids.”",
-          "link": "https://kottke.org/26/09/0049541-heres-how-noise-cancellin",
-          "publishedOn": "2026-09-01T14:04:50.000Z",
-          "wordCount": 1059,
-          "title": "Here’s how noise-cancelling headphones work  (and when...",
-          "imageUrl": ""
         }
       ]
     },
@@ -4998,16 +5033,6 @@
           "wordCount": 12615,
           "title": "Pete Drake, 1964’s Fastest Rising Instrumentalist",
           "imageUrl": "https://www.zeroto180.org/wp-content/uploads/2026/10/Pete-Drake-thumbnail-image.jpg"
-        },
-        {
-          "id": "https://www.zeroto180.org/?p=91276",
-          "author": "Zeroto180",
-          "description": "Is it possible that the renegade spirit behind Roulette’s ad campaign for a song considered insanely long for radio would fuel Steppenwolf’s ambition two years later to see how much musical information could be crammed within the confines of a 45’s B-side? 6:13 means some D.J.’s won’t play it;some stations may not program it Record […]\nThe post “Miss Georgia”:  Don Cooper’s Un-cuttable Six-Minute A-Side From 1969 appeared first on Zero to 180 - Three Minute Magic.",
-          "link": "https://www.zeroto180.org/miss-georgia-don-coopers-un-cuttable-six-minute-a-side-from-1969/",
-          "publishedOn": "2026-08-31T23:01:00.000Z",
-          "wordCount": 11943,
-          "title": "“Miss Georgia”:  Don Cooper’s Un-cuttable Six-Minute A-Side From 1969",
-          "imageUrl": "https://www.zeroto180.org/wp-content/uploads/2026/08/Don-Cooper-thumbnail-image.jpg"
         }
       ]
     },
