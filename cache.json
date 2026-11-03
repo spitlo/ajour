@@ -152,6 +152,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3319/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/elevators.png\" title=\"&quot;A reusable elevator would also be great because we'd save so much on the bulky and expensive shields that people currently use to avoid bruises and rug burns when sliding down the stairs.&quot;\" alt=\"&quot;A reusable elevator would also be great because we'd save so much on the bulky and expensive shields that people currently use to avoid bruises and rug burns when sliding down the stairs.&quot;\" />",
+          "link": "https://xkcd.com/3319/",
+          "publishedOn": "2026-11-02T00:00:00.000Z",
+          "wordCount": 178,
+          "title": "Elevators",
+          "imageUrl": "https://imgs.xkcd.com/comics/elevators_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3318/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/earth_sized_planets.png\" title=\"It probably has an icy mantle over the real silicate geology, but I'm hoping something weird happened to burn off most of the water like with Io.\" alt=\"It probably has an icy mantle over the real silicate geology, but I'm hoping something weird happened to burn off most of the water like with Io.\" />",
@@ -390,16 +400,6 @@
           "wordCount": 178,
           "title": "Semaphore",
           "imageUrl": "https://imgs.xkcd.com/comics/semaphore_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/3294/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/asteroid_mission.png\" title=\"Lander, this is Houston. There's been a request that you turn clipping back on and instead set the mass to 1kg. The theorists believe that will be pretty funny.\" alt=\"Lander, this is Houston. There's been a request that you turn clipping back on and instead set the mass to 1kg. The theorists believe that will be pretty funny.\" />",
-          "link": "https://xkcd.com/3294/",
-          "publishedOn": "2026-09-04T00:00:00.000Z",
-          "wordCount": 180,
-          "title": "Asteroid Mission",
-          "imageUrl": "https://imgs.xkcd.com/comics/asteroid_mission_2x.png"
         }
       ]
     },
@@ -1093,6 +1093,16 @@
       "siteUrl": "https://pluralistic.net",
       "articles": [
         {
+          "id": "https://pluralistic.net/?p=13462",
+          "author": "Cory Doctorow",
+          "description": "Today's links Autodoxing: The road to hell is paved with badly thought-through tech policy. Hey look at this: Delights to delectate. Object permanence: Shakespeare programming language; DeCSS is \"pure speech\"; Blue Coat sold surveillance tools to Syrian secret police; \"Extraordinary Catalog of Peculiar Inventions\"; Cable prices rose at double the rate of inflation for 20 years; Supercuts; Antivax x Trump. Upcoming appearances: Kilkenny, Courtenay, Vancouver, Folkestone, Oxford, Sheffield, Virtual, Oxford, Montreal. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Autodoxing (permalink) After 25 years of fighting for human rights amid the wreckage of bad tech policy, I'm…",
+          "link": "https://pluralistic.net/2026/11/02/agony-verification/",
+          "publishedOn": "2026-11-02T08:20:37.000Z",
+          "wordCount": 4363,
+          "title": "Pluralistic: Autodoxing (02 Nov 2026)",
+          "imageUrl": null
+        },
+        {
           "id": "https://pluralistic.net/?p=13455",
           "author": "Cory Doctorow",
           "description": "Today's links Formalities: When it comes to AI, the Copyright Office is restoring copyright to its proper status, as something you have to work to get. Hey look at this: Delights to delectate. Object permanence: GWB x martial law; Li'l Sparky; Dueling Starbuckses; Microsoft buys Skype (does fuckery); Bieber v SOPA; SOPA is the worst; Snowden x rule of law; \"Laserwriter II\"; Russia v DST; Class war funnies; Minnesota's miracle; Icelandic women v sexism; Image analogies; Aussie DMCA ratfucked; \"Authorised Domain\"; Sales tax is regressive; Prince Charles's secret veto; Wells Fargo blackballed workers for refusing to crime; Poe read by Vincent Price and Basil Rathbone; Put it back!; The internet was made for privacy. Upcoming appearances: Kilkenny, Courtenay, Vancouver, Folkestone, Oxford, She…",
@@ -1441,16 +1451,6 @@
           "wordCount": 4380,
           "title": "Pluralistic: Google skates (05 Sep 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=13247",
-          "author": "Cory Doctorow",
-          "description": "Today's links Amazon achieves enshittification inception: Cheating on your fraud is a hell of a thing. Hey look at this: Delights to delectate. Object permanence: Electrolite is back; Mafia rules; Aaronsw on Wikipedia; Proctorio's memory hole. Upcoming appearances: Dąbrowa Górnicza, Warsaw, Brighton, London, Budapest, Edmonton, South Bend, Hudson, Calgary, Winnipeg, Vancouver, Victoria, Ottawa. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Amazon achieves enshittification inception (permalink) Amazon's own balance sheet presents the most compelling evidence that we are stuck in the Enshittocene, the era in which everything is turning into a pile of shit, because the …",
-          "link": "https://pluralistic.net/2026/09/04/cheating-at-fraud/",
-          "publishedOn": "2026-09-04T09:41:25.000Z",
-          "wordCount": 4901,
-          "title": "Pluralistic: Amazon achieves enshittification inception (04 Sep 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -1477,6 +1477,116 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/11/0049921-the-october-inflection-po",
+          "author": null,
+          "description": "Simon Willison: The October Inflection Point for Vibe Game Development. “The thing I find both exciting and shameful about this is that I have got interesting results from so little creative input.”",
+          "link": "https://kottke.org/26/11/0049921-the-october-inflection-po",
+          "publishedOn": "2026-11-02T22:55:00.000Z",
+          "wordCount": 621,
+          "title": "Simon Willison: The October Inflection Point for Vibe...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/11/0049915-arkivism",
+          "author": null,
+          "description": "Arkivism is a search and visual discovery engine for millions of public domain works from the collections of the Smithsonian, The Met, NASA, Library of Congress, National Gallery of Art, Rijksmuseum, and more.",
+          "link": "https://kottke.org/26/11/0049915-arkivism",
+          "publishedOn": "2026-11-02T21:37:00.000Z",
+          "wordCount": 706,
+          "title": "Arkivism is a search and visual discovery engine for...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/11/0049920-ted-chiang",
+          "author": null,
+          "description": "Ted Chiang: “There’s no way to write fiction and guarantee your readers will understand it correctly. There is no way you will ever be able to write something so straightforward that Elon Musk will understand it the way that you intend it.”",
+          "link": "https://kottke.org/26/11/0049920-ted-chiang",
+          "publishedOn": "2026-11-02T20:42:00.000Z",
+          "wordCount": 660,
+          "title": "Ted Chiang: “There’s no way to write fiction and...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/11/0049922-heres-the-trailer",
+          "author": null,
+          "description": "Let’s get this out of the way: Olivia Colman will be great as Mrs. Bennet in the new Pride and Prejudice series; here’s the trailer. But the rest of it has some awfully large shoes to fill — both the 1995 and 2005 adaptations are rightly beloved.",
+          "link": "https://kottke.org/26/11/0049922-heres-the-trailer",
+          "publishedOn": "2026-11-02T19:58:00.000Z",
+          "wordCount": 1360,
+          "title": "Let’s get this out of the way: Olivia Colman will be...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/11/0049882-deskilling-the-human-body",
+          "author": null,
+          "description": "Are contemporary technologies like GPS, phones, and AI deskilling the human body? “In surrendering to a quick technological fix, we are, moment by moment, doing less sensing, navigating, remembering, walking, choosing, and attending.”",
+          "link": "https://kottke.org/26/11/0049882-deskilling-the-human-body",
+          "publishedOn": "2026-11-02T19:19:00.000Z",
+          "wordCount": 747,
+          "title": "Are contemporary technologies like GPS, phones, and AI...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/11/0049913-love-the-idea-of-a-volta",
+          "author": null,
+          "description": "Love the idea of a volta, a pivotal point. “The moment when an acquaintance becomes a friend, when a song goes from background noise to what I will demand people play at my funeral.” Or when a novel goes from boring to incredible.",
+          "link": "https://kottke.org/26/11/0049913-love-the-idea-of-a-volta",
+          "publishedOn": "2026-11-02T18:00:00.000Z",
+          "wordCount": 732,
+          "title": "Love the idea of a volta, a pivotal point. “The moment...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/11/the-collectively-drawn-world",
+          "author": null,
+          "description": "The Drawn Maps are the borders of the countries, state, provinces, and other official territories collectively drawn by more than 300,000 people playing an online daily game called Borderline. There’s a world map as well as maps of the USA, Canada, Italy, and more. There are also timelapse versions of some of the maps.\n\n \n\n        \n         \nTags: art · infoviz · maps",
+          "link": "https://kottke.org/26/11/the-collectively-drawn-world",
+          "publishedOn": "2026-11-02T17:30:00.000Z",
+          "wordCount": 660,
+          "title": "The Collectively Drawn World",
+          "imageUrl": "http://kottke.org/images/posts/01/editor-1793190565-dd4da3b2.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/11/0049919-new-potato-just-dropped",
+          "author": null,
+          "description": "Babe, wake up! New potato just dropped. It tastes like roast chicken.",
+          "link": "https://kottke.org/26/11/0049919-new-potato-just-dropped",
+          "publishedOn": "2026-11-02T16:14:00.000Z",
+          "wordCount": 1219,
+          "title": "Babe, wake up! New potato just dropped. It tastes like...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/11/0049917-trailer-for-season-four-o",
+          "author": null,
+          "description": "Trailer for season four of The Gilded Age, which started yesterday. I love this show for reasons that are unclear to me. But I don’t care! The heart wants what it wants!",
+          "link": "https://kottke.org/26/11/0049917-trailer-for-season-four-o",
+          "publishedOn": "2026-11-02T15:27:00.000Z",
+          "wordCount": 749,
+          "title": "Trailer for season four of The Gilded Age, which started...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/11/0049909-readwise-announces-readwi",
+          "author": null,
+          "description": "Readwise announces Readwise Books. “We’ve built Readwise Books: our very own ebook store and app. In simple terms, you can think of it as a cross between the Kindle and Goodreads apps, where you can buy, read, and track books.”",
+          "link": "https://kottke.org/26/11/0049909-readwise-announces-readwi",
+          "publishedOn": "2026-11-02T14:20:00.000Z",
+          "wordCount": 2014,
+          "title": "Readwise announces Readwise Books. “We’ve built Readwise...",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://kottke.org/26/11/the-ten-best-captain-picard-episodes-of-star-trek",
+          "author": null,
+          "description": "In the wake of Patrick Stewart’s death the other day, I watched a couple episodes of Star Trek: The Next Generation — the two-part series finale All Good Things… in fact.1 Wanting to add more Picard-centric episodes to my watchlist, I did some research.\nThere are several lists out there of the episodes of ST:TNG and Star Trek: Picard where Captain Jean-Luc Picard particularly shines. Some episodes appear on nearly every list; these are the consensus favorites:\nThe Inner Light. “Captain Jean-Luc Picard is struck unconscious by an energy beam from an alien probe. While just 25 minutes pass for the rest of the crew between Picard being struck unconscious and eventually regaining consciousness on the Enterprise bridge floor, the probe makes Picard experience 40 years of lifetime as Kamin, a hu…",
+          "link": "https://kottke.org/26/11/the-ten-best-captain-picard-episodes-of-star-trek",
+          "publishedOn": "2026-11-02T13:30:00.000Z",
+          "wordCount": 2014,
+          "title": "The Ten Best Captain Picard Episodes of Star Trek",
+          "imageUrl": "http://kottke.org/images/posts/01/editor-1793590602-73f0822e.jpg"
+        },
         {
           "id": "https://kottke.org/26/10/0049876-henri-matisses-the-red-st",
           "author": null,
@@ -4895,16 +5005,6 @@
           "publishedOn": "2026-09-08T00:04:22.000Z",
           "wordCount": 750,
           "title": "Teaser trailer  for  You Can See Everything  from Nathan...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/09/autumnal-open-thread",
-          "author": null,
-          "description": "My move is coming down to the wire (omg so many things to juggle!), kids are heading back to school, I’m going to be traveling, and it’s a holiday weekend here in the States, so there’s probably not going to be too much going on here until next week. Thanks for your patience…I can’t wait to get back to work here.\nIn the meantime, I thought I’d open up this thread for folks to share what they feel like sharing. I’ll go first below…\n\n \n\n        \n         \nTags: kottke.org · open threads",
-          "link": "https://kottke.org/26/09/autumnal-open-thread",
-          "publishedOn": "2026-09-03T17:03:00.000Z",
-          "wordCount": 7529,
-          "title": "Autumnal Open Thread",
           "imageUrl": ""
         }
       ]
