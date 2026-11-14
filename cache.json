@@ -152,6 +152,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3324/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/ultimate_movie_series.png\" title=\"Sadly, none of the 14 Land Before Time films manage to make the list, although a small but devoted fan contingent argues that The Great Longneck Migration should beat out Guardians of the Galaxy.\" alt=\"Sadly, none of the 14 Land Before Time films manage to make the list, although a small but devoted fan contingent argues that The Great Longneck Migration should beat out Guardians of the Galaxy.\" />",
+          "link": "https://xkcd.com/3324/",
+          "publishedOn": "2026-11-13T00:00:00.000Z",
+          "wordCount": 182,
+          "title": "Ultimate Movie Series",
+          "imageUrl": "https://imgs.xkcd.com/comics/ultimate_movie_series_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3323/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/meteor_fear.png\" title=\"Don't worry--even though small and potentially deadly meteors hit the ground all the time, statistically you're actually much more likely to die from a rare large one that destroys your whole area!\" alt=\"Don't worry--even though small and potentially deadly meteors hit the ground all the time, statistically you're actually much more likely to die from a rare large one that destroys your whole area!\" />",
@@ -526,16 +536,6 @@
           "publishedOn": "2026-09-19T23:00:00.000Z",
           "wordCount": 912,
           "title": "Dungeon Crawler Carl (Dungeon Crawler Carl, #1) [book]",
-          "imageUrl": null
-        },
-        {
-          "id": "2026-09-15-82704751",
-          "author": null,
-          "description": "Ignoring that every time I read DoH as \"Doh!\" and not DNS over HTTPS, this is still a useful tip from Tantek. A reminder that it's easy for the router to see what's happening.\n\nBy using DoH exclusively, every one of those domain names is sent only to your DoH provider (e.g. Cloudflare or NextDNS) blocking your local router, WiFi, and internet service provider from making a list of which websites you visit, or at least making it much harder\n\nOriginal link: tantek.com/[…]/tip-turn-on-dns-over-https-doh",
-          "link": "https://remysharp.com/links/2026-09-15-82704751",
-          "publishedOn": "2026-09-15T10:01:10.000Z",
-          "wordCount": 634,
-          "title": "tip turn on dns over https doh [link]",
           "imageUrl": null
         }
       ]
@@ -1093,6 +1093,16 @@
       "siteUrl": "https://pluralistic.net",
       "articles": [
         {
+          "id": "https://pluralistic.net/?p=13508",
+          "author": "Cory Doctorow",
+          "description": "Today's links I told you so: Microsoft is too big to live. Hey look at this: Delights to delectate. Object permanence: Canada's corrupt copyright czar; Universal Music CEO v iPod owners; Berlusconi x neo-fascists; Balancing 3,118 coins on a dime; All for-profit healthcare is a problem. Upcoming appearances: Folkestone, Oxford, Sheffield, Virtual, Oxford, Santa Barbara, Montreal. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. I told you so (permalink) Here's the one weird trick that made it possible for monopolies to conquer the world: the antitrust bar changed the rules so that it was impossible to prove whether a company had formed an illegal monopoly, and then these…",
+          "link": "https://pluralistic.net/2026/11/13/outlookpocalypse/",
+          "publishedOn": "2026-11-13T19:44:37.000Z",
+          "wordCount": 5104,
+          "title": "Pluralistic: I told you so (13 Nov 2026)",
+          "imageUrl": null
+        },
+        {
           "id": "https://pluralistic.net/?p=13502",
           "author": "Cory Doctorow",
           "description": "Today's links Uber's labor crash: Replacing serfs with robots just doesn't pencil out. Hey look at this: Delights to delectate. Object permanence: Asimov inspired Al Qaeda; PATRIOT Act scares Canadian customers off US servers; EFF v Trump; Internet infrastructure is unsupported and failing; Nominative determinism debunked; How to fight Trump; Burglars v burglary; NYT said Hitler was only kidding; Folky Song Funny Note; Surviving autocracy; Corporate criminals. Upcoming appearances: Vancouver, Folkestone, Oxford, Sheffield, Virtual, Oxford, Santa Barbara, Montreal. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Uber's labor crash (permalink) There's a specific kind of …",
@@ -1461,16 +1471,6 @@
           "wordCount": 3527,
           "title": "Pluralistic: How an AI moratorium can save AI bosses (16 Sep 2026)",
           "imageUrl": null
-        },
-        {
-          "id": "https://pluralistic.net/?p=13289",
-          "author": "Cory Doctorow",
-          "description": "Today's links Everybody pees: Even Jeff Bezos. Hey look at this: Delights to delectate. Object permanence: Zune won't play Microsoft files; Papercraft 1:1 Mustang; Third gender for Aussie passports; France hacked Canada; EC v links; Welcome to Night Vale; University spends librarian's bequest on football scoreboard; Everything is always broken. Upcoming appearances: Budapest, Edmonton, Boston, South Bend, Hudson, Calgary, Winnipeg, Vancouver, Victoria, Ottawa. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All the rest. Everybody pees (permalink) Jeff Bezos and I are very different people. For one thing, he is a sociopathic billionaire who built his fortune by monopolizing booksell…",
-          "link": "https://pluralistic.net/2026/09/15/bitter-lemon-energy-drink/",
-          "publishedOn": "2026-09-15T07:27:02.000Z",
-          "wordCount": 3326,
-          "title": "Pluralistic: Everybody pees (15 Sep 2026)",
-          "imageUrl": null
         }
       ]
     },
@@ -1497,6 +1497,96 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/11/a-literary-map-of-the-united-states",
+          "author": null,
+          "description": "From Big Think and Pop Charts, A Literary Map of America that “highlights the real and imagined settings of hundreds of books”. Frank Jacobs takes a closer look at some of the imaginary places on the map, including Sleepy Hollow, Lake Wobegon, Brokeback Mountain, and F. Scott Fitzgerald’s East Egg and West Egg.\nThere are many ways to read this map: as a peculiar road map of the United States, a potted history of the same, a metatext of American literature, a guide to American literary genres and their centers of gravity, and more. I will get to at least some of them later, but for now, I want to examine the effect that scholars call broadly “imaginative geography,” more precisely “toponymic capture,” and more elegantly “authorial inscription.” It is the process by which a writer’s vision of a place becomes so dominant that it effectively overwrites that place’s prior identity in the public imagination.\nWe could say other parts of America have been “colonized” by other texts the same way King’s horror stories have influenced our perception of Maine. A gentler metaphor, from Rebecca Solnit’s Infinite City, is of cultural and literary memory as an “overlay.” It resides above physical geography like a transparency on an overhead projector, a slightly shifting but persistent presence. \nIn Landmarks, the English nature writer Robert Macfarlane develops the idea that a sufficiently powerful text doesn’t just describe a landscape, but alters the mind that subsequently encounters it. He uses the verb phrase “to see through” to define it: you see the Suffolk coast through W.G. Sebald, the Mississippi through Mark Twain, the South (as a particularly “Gothic” place) through Faulkner.\n\n\t\n\n\nThe map is available as a poster.\n\n \n\n        \n         \nTags: books · Frank Jacobs · geography · maps",
+          "link": "https://kottke.org/26/11/a-literary-map-of-the-united-states",
+          "publishedOn": "2026-11-13T21:48:00.000Z",
+          "wordCount": 1045,
+          "title": "A Literary Map of the United States",
+          "imageUrl": "http://kottke.org/images/posts/01/editor-1794360139-7c33f2ae.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/11/0049960-solving-the-feynman-resta",
+          "author": null,
+          "description": "Solving the Feynman restaurant problem, i.e. how many dishes should you sample at a restaurant to find your favorite one? “Once you settle on a dish, the best strategy is to order it on every remaining visit.”",
+          "link": "https://kottke.org/26/11/0049960-solving-the-feynman-resta",
+          "publishedOn": "2026-11-13T21:02:00.000Z",
+          "wordCount": 807,
+          "title": "Solving the Feynman restaurant problem, i.e. how many...",
+          "imageUrl": "https://kottke.org/images/unfurls/thumb-49960-61511271.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/11/0049990-mouse-party",
+          "author": null,
+          "description": "Paul Ford made an app called Mouse Party for easily hosting video watching parties for your friends, no web server needed.",
+          "link": "https://kottke.org/26/11/0049990-mouse-party",
+          "publishedOn": "2026-11-13T19:59:00.000Z",
+          "wordCount": 713,
+          "title": "Paul Ford made an app called Mouse Party for easily...",
+          "imageUrl": "https://kottke.org/images/unfurls/thumb-49990-e6c69a28.png"
+        },
+        {
+          "id": "https://kottke.org/26/11/the-surma-boys-of-afghanistan",
+          "author": null,
+          "description": "Afghan-American visual artist Daniel Malikyar recently shared some great photos of what he calls “a fashion subculture unlike anything I’ve encountered before” that he found in a remote village in the mountains of Afghanistan.\n\n\nI met a group of boys in a remote village who had developed their own distinct sense of style. They wore colorful eyeliner called surma, painted their fingernails with henna, and dressed in embroidered clothing and handmade hats decorated with flowers and butterfly clips.\nThis wasn’t something they dressed up for. It was how they dressed every day, each with their own unique interpretation of style and self-expression.\nWith no access to the internet and limited resources, they had created something entirely their own.\n\n\t\nThese photos are part of Malikyar’s Afghanistan Book, which is available for sale from his website. He also produced a short video about these boys:\n\nBe sure to check out the rest of his website and Instagram; amazing work.\n\n \n\n        \n         \nTags: afghanistan · fashion · photography · video",
+          "link": "https://kottke.org/26/11/the-surma-boys-of-afghanistan",
+          "publishedOn": "2026-11-13T18:54:00.000Z",
+          "wordCount": 918,
+          "title": "The Surma Boys of Afghanistan",
+          "imageUrl": "http://kottke.org/images/posts/01/editor-1794457335-3481bccd.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/11/0049991-the-long-lost-source-for-",
+          "author": null,
+          "description": "The long-lost source for a sample in Craig Mack’s Flava In Ya Ear has been found. “Back then, rap producers took care in disguising the samples that they chopped up, making them difficult to trace — not just for legal reasons, but as part of the art.”",
+          "link": "https://kottke.org/26/11/0049991-the-long-lost-source-for-",
+          "publishedOn": "2026-11-13T18:01:00.000Z",
+          "wordCount": 811,
+          "title": "The long-lost source for a sample in Craig Mack’s Flava...",
+          "imageUrl": "https://kottke.org/images/unfurls/thumb-49991-6b3dfe64.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/11/0049988-determine-the-best-litera",
+          "author": null,
+          "description": "Literary Hub is trying to determine the best literary TV adaptation of all time. I have soft spots for Station Eleven, Mindhunter, Shogun, The Expanse, Normal People, and, especially, My Brilliant Friend. (Where is Fleishman Is in Trouble??)",
+          "link": "https://kottke.org/26/11/0049988-determine-the-best-litera",
+          "publishedOn": "2026-11-13T17:04:00.000Z",
+          "wordCount": 1302,
+          "title": "Literary Hub is trying to determine the best literary TV...",
+          "imageUrl": "https://kottke.org/images/unfurls/thumb-49988-2b73e786.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/11/sicily-and-the-family-tree-of-citrus",
+          "author": null,
+          "description": "On his site Notes From the Road, Erik Gauger has a wonderful eight-part series on The Citrus Kingdom, a collection of illustrated stories about citrus fruit and Sicily.\nThe key to the citron’s future—a future that links nearly every aspect of Sicily’s cultural, political and culinary history—lies just outside of urban Palermo. It’s a flat plain that was well watered by three rivers. The Arabs turned it into a fantasyland of fertile agriculture. They dug reservoirs and sank new wells and ran canals out across the valley. They began to see it as paradise—the literal version they knew from Persia. They called it the Conca d’Oro. The Golden Shell.\nToday, mention of Sicily’s Conca d’Oro symbolizes endless citrus groves. But before miles of orange and lemon trees, it was the citron that proved an Asian mountain fruit could survive a Sicilian August. The answer? Yes, as long as the water keeps moving.\nSomewhere in one of those shaded Palermo courtyards, a gardener planted a skinny sapling from a land Sicilians would never see. He was just keeping a tree alive. He had no way of knowing he was starting a kingdom.\n\n\t\nThe image of the hand-drawn illustration above is available as a print.\nYou may remember Gauger from his Hand-Drawn Visual Guide to Chili Peppers.\n\n \n\n        \n         \nTags: art · Erik Gauger · food · illustration · italy",
+          "link": "https://kottke.org/26/11/sicily-and-the-family-tree-of-citrus",
+          "publishedOn": "2026-11-13T15:58:00.000Z",
+          "wordCount": 859,
+          "title": "Sicily and the Family Tree of Citrus",
+          "imageUrl": "http://kottke.org/images/posts/01/editor-1794539797-2d5ca3cc.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/11/0049987-the-100-best-indie-rock-a",
+          "author": null,
+          "description": "The 100 Best Indie Rock Albums of All Time. Includes albums by Death Cab for Cutie, Neko Case, Yeah Yeah Yeahs, Bon Iver, TV on the Radio, Arcade Fire, Broken Social Scene, Liz Phair, and Sonic Youth.",
+          "link": "https://kottke.org/26/11/0049987-the-100-best-indie-rock-a",
+          "publishedOn": "2026-11-13T15:14:00.000Z",
+          "wordCount": 2214,
+          "title": "The 100 Best Indie Rock Albums of All Time. Includes...",
+          "imageUrl": "https://kottke.org/images/unfurls/thumb-49987-c509e0ee.png"
+        },
+        {
+          "id": "https://kottke.org/26/11/0049981-jono",
+          "author": null,
+          "description": "Jono is a video game with 1,000,000 levels. Only one person can play at a time, for 60 seconds, while everyone else watches on a livestream.” As of this writing, the game is up to level 179,579, and Jono has died 250,687 times.",
+          "link": "https://kottke.org/26/11/0049981-jono",
+          "publishedOn": "2026-11-13T14:10:00.000Z",
+          "wordCount": 741,
+          "title": "Jono is a video game with 1,000,000 levels. Only one...",
+          "imageUrl": "https://kottke.org/images/unfurls/thumb-49981-19a5764a.png"
+        },
         {
           "id": "https://kottke.org/26/11/richard-scarry-illustrations-paired-with-karl-marx-quotes",
           "author": null,
@@ -5305,96 +5395,6 @@
           "publishedOn": "2026-09-15T16:55:00.000Z",
           "wordCount": 743,
           "title": "Tycho’s Burning Man Sunrise Set for 2026",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/09/0049576-alex-gibneys-documentary-",
-          "author": null,
-          "description": "Alex Gibney’s documentary reveals that Elon Musk has always been a racist, sexist fraud. “Musk’s ex-wife Justine, whom he married in 2000 and divorced in 2008, says the man the world began to see in 2020 was the one she’d always known.”",
-          "link": "https://kottke.org/26/09/0049576-alex-gibneys-documentary-",
-          "publishedOn": "2026-09-15T15:29:00.000Z",
-          "wordCount": 768,
-          "title": "Alex Gibney’s documentary reveals that Elon Musk has...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/09/0049599-the-final-installment-70-",
-          "author": null,
-          "description": "With a new installment every seven years since 1964, the Seven Up series has followed a group of 14 British schoolchildren from adolescence to adulthood. The final installment, 70 Up, directed by Asif Kapadia (Senna, Amy), is out this week.",
-          "link": "https://kottke.org/26/09/0049599-the-final-installment-70-",
-          "publishedOn": "2026-09-15T14:39:00.000Z",
-          "wordCount": 790,
-          "title": "With a new installment every seven years since 1964, the...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/09/the-spice-drawer",
-          "author": null,
-          "description": "Over the past six months (leisurely) and in the past three weeks (intensely), I’ve cleaned out and packed up my entire house where I’ve been living for the past 10 years. I went through every bit and bob of what I owned and either:\ngave it away (fiddle leaf fig, grill, chairs, stuffed animals,1 blender, rugs)\nsold it (car, coffee table, lamp, iPad)\nput it into storage (art, mementos, chairs)\ntook it with me (very little, mostly clothes & computing things)\nParting with my possessions was surprisingly easy. I’d been planning this move for a while now and had time to get used to the idea and say my farewells. And the concept of having a bunch of stuff, 95% of which I never used or thought about or even remembered owning, was really starting to make me itch. So out it went; I felt lighter with…",
-          "link": "https://kottke.org/26/09/the-spice-drawer",
-          "publishedOn": "2026-09-15T13:24:00.000Z",
-          "wordCount": 4205,
-          "title": "The Spice Drawer",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/09/0049592-a-declaration-signed-by-2",
-          "author": null,
-          "description": "A declaration signed by 25 Fields medalists: “The goals of the AI companies and the goals of the mathematical community are severely misaligned.”",
-          "link": "https://kottke.org/26/09/0049592-a-declaration-signed-by-2",
-          "publishedOn": "2026-09-15T12:24:00.000Z",
-          "wordCount": 639,
-          "title": "A declaration signed by 25 Fields medalists : &#8220;The...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/09/0049568-ratings-of-every-framed-p",
-          "author": null,
-          "description": "From a curator at the Getty, ratings of every “framed picture” emoji. “A total rejection of nature and reality. Why is the horizon rounded? Has this artist seen planet earth before?”",
-          "link": "https://kottke.org/26/09/0049568-ratings-of-every-framed-p",
-          "publishedOn": "2026-09-14T20:20:00.000Z",
-          "wordCount": 723,
-          "title": "From a curator at the Getty,  ratings of every...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/09/0049577-the-2026-winners-of-the-i",
-          "author": null,
-          "description": "The 2026 winners of the Ig Nobel Prize include papers on “a more precise definition of kissing”, “An Aerodynamic Study of the Nose Blowing”, and the discovery “that milk proteins from cockroaches pack 3X as much energy as milk proteins from cows”.",
-          "link": "https://kottke.org/26/09/0049577-the-2026-winners-of-the-i",
-          "publishedOn": "2026-09-14T19:30:00.000Z",
-          "wordCount": 837,
-          "title": "The 2026 winners of the Ig Nobel Prize  include papers...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/09/rocky-sleep-you-watch-question",
-          "author": null,
-          "description": "Project Hail Mary is already on my list of movies that I can just throw on in the backround while I do a bit of work or puttering around. (Not sure whether that’s an endorsement or not…I like the movie!) Anyhoo, if you get tired of the movie, you can watch Rocky sleep for 2+ hours with the PHM soundtrack playing in the background.\n\n \n\n        \n         \nTags: movies · music · Project Hail Mary · video",
-          "link": "https://kottke.org/26/09/rocky-sleep-you-watch-question",
-          "publishedOn": "2026-09-14T18:34:00.000Z",
-          "wordCount": 743,
-          "title": "Rocky Sleep, You Watch, Question?",
-          "imageUrl": "https://i.ytimg.com/vi/afEsGG1O2m8/sddefault.jpg"
-        },
-        {
-          "id": "https://kottke.org/26/09/0049589-busmans-holiday",
-          "author": null,
-          "description": "Now open for business in Nyack, NY: Busman’s Holiday, a stationary store run by (former?) graphic designer Sam Potts, who announced the shop back in March in a KDO open thread. Lots of nice touches here, including a used pencil exchanger.",
-          "link": "https://kottke.org/26/09/0049589-busmans-holiday",
-          "publishedOn": "2026-09-14T17:36:00.000Z",
-          "wordCount": 1239,
-          "title": "Now open for business in Nyack, NY:  Busman’s Holiday , a...",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://kottke.org/26/09/0049585-previous-record",
-          "author": null,
-          "description": "Ok wait, the NES Tetris world record is now 40.26 million??! It took 2 hours and 20 minutes and the previous record was 29 million. At level 255, you hit “rebirth” and the pieces slow down to level 0 speeds again. Totally bonkers.",
-          "link": "https://kottke.org/26/09/0049585-previous-record",
-          "publishedOn": "2026-09-14T16:46:00.000Z",
-          "wordCount": 932,
-          "title": "Ok wait, the  NES Tetris world record is now  40.26...",
           "imageUrl": ""
         }
       ]
