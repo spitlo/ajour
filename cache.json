@@ -162,6 +162,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/3326/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/voyager_crash.png\" title=\"[Several months later] Actually, it looks like what it hit a few months ago was just the START of the crystal sphere zone. New data confirms Voyager 1 has now struck the ACTUAL crystal sphere.\" alt=\"[Several months later] Actually, it looks like what it hit a few months ago was just the START of the crystal sphere zone. New data confirms Voyager 1 has now struck the ACTUAL crystal sphere.\" />",
+          "link": "https://xkcd.com/3326/",
+          "publishedOn": "2026-11-18T00:00:00.000Z",
+          "wordCount": 180,
+          "title": "Voyager Crash",
+          "imageUrl": "https://imgs.xkcd.com/comics/voyager_crash_2x.png"
+        },
+        {
           "id": "https://xkcd.com/3325/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/light_day.png\" title=\"After 49 years, NASA is considering shutting down Voyager 1's multiplayer gaming server; the 172800000ms ping has just become too annoying for players.\" alt=\"After 49 years, NASA is considering shutting down Voyager 1's multiplayer gaming server; the 172800000ms ping has just become too annoying for players.\" />",
@@ -537,16 +547,6 @@
           "wordCount": 1346,
           "title": "Redesign: fonts, alignment and nav [blog]",
           "imageUrl": "https://remysharp.com/images/mono-fonts.avif"
-        },
-        {
-          "id": "dungeon-crawler-carl-dungeon-crawler-carl-1",
-          "author": null,
-          "description": "Not something I'd normally pick, but enjoyable.\nI've never played dungeons and dragons, and in my head, I kept thinking of Minecraft as my rough frame of reference (which I've touched because of the kids but not really played to any real amount).\nThe book follows Carl, who, as we guess from the title and thankfully within a few pages find that he's forced to become a dungeon crawler for the entertainment for some extra terrestrial intergalactic world galloping corporate ring thingy.\nHe descends into the dungeon with his cat, which, thankfully and unsurprisingly gains the ability to talk.\nNone of the characters or the story is particularly unique. I was describing the book to my daughter whom immediately asked if it was based on a video game. It's not, as far as I know, but I guess this is the point, there's lots of cultural shorthand that the story can pull from.\nEven though I say there's nothing surprising in there, it didn't hold the book back from being fun and funny at times.\nIt does try to bring up the indiscriminate mass murder of so-called monsters (ie. not human), and maybe that's picked up in future books (of which I understand there's seven more), but it did rather feel like the character rather quickly took to it like a duck to water. But then, does it matter? This book wasn't trying to be a social commentary on how quickly humans can disassociate.\nI think I'd like to pick up some of the next books in the series, but I'm really not a fan of \"required\" reading to get the complete story, so I suspect if I do ever get to finish book eight, it'll likely be years from now…",
-          "link": "https://remysharp.com/books/2026/dungeon-crawler-carl-dungeon-crawler-carl-1",
-          "publishedOn": "2026-09-19T23:00:00.000Z",
-          "wordCount": 912,
-          "title": "Dungeon Crawler Carl (Dungeon Crawler Carl, #1) [book]",
-          "imageUrl": null
         }
       ]
     },
@@ -817,6 +817,16 @@
       "feedUrl": "https://feeds.feedburner.com/leaverou",
       "siteUrl": "https://lea.verou.me/feed.xml",
       "articles": [
+        {
+          "id": "https://lea.verou.me/blog/2026/nudeps/",
+          "author": null,
+          "description": "The goal is light-build, not no-build\nYou npm install a package (e.g. vue), you write import { createApp } from \"vue\", and it works — as long as there is a bundler in between.\nWithout one, the browser has no idea what \"vue\" is: it only understands URLs, and node_modules/ was never meant to be deployed.\nSo even the simplest project ends up needing a bundler, only so it can use dependencies instead of reinventing the wheel.\nBut bundlers add a significant tax. They process every single file, introduce several layers of abstraction between source and deployment, and these abstractions often leak:\nthings that work fine in the browser can break in the build.\nEarlier this year, I published Web dependencies are broken: Can we fix them? that discusses this from a platform architecture perspective.\n…",
+          "link": "https://lea.verou.me/blog/2026/nudeps/",
+          "publishedOn": "2026-11-18T00:00:00.000Z",
+          "wordCount": 2151,
+          "title": "Nudeps: bundler-like imports, none of the baggage",
+          "imageUrl": "https://lea.verou.me/blog/2026/nudeps/images/image.png"
+        },
         {
           "id": "https://lea.verou.me/blog/2026/tag/",
           "author": null,
@@ -1092,6 +1102,16 @@
       "feedUrl": "https://pluralistic.net/feed/",
       "siteUrl": "https://pluralistic.net",
       "articles": [
+        {
+          "id": "https://pluralistic.net/?p=13531",
+          "author": "Cory Doctorow",
+          "description": "Today's links Enshittifiers groom us for scammers: The harder it is to tell a scam from a shitty business practice, the easier life gets for scammers. Hey look at this: Delights to delectate. Object permanence: Fannish accent; Photoshopping culture; Sixth HHGTTG novel discovers; Dragon sausages must contain dragon; Tumblr users melt Congress's phones; Pizza is a vegetable; Fake news author is a \"satirist\"; Trump wants a seawall around his golf resort (even though climate change is a \"hoax\"); \"Nimona\"; Harvard v meritocracy; Disney loses Roger Rabbit. Upcoming appearances: Oxford, Sheffield, Virtual, Oxford, Santa Barbara, Montreal. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: All…",
+          "link": "https://pluralistic.net/2026/11/18/malice-v-incompetence/",
+          "publishedOn": "2026-11-18T08:28:46.000Z",
+          "wordCount": 4125,
+          "title": "Pluralistic: Enshittifiers groom us for scammers (18 Nov 2026)",
+          "imageUrl": null
+        },
         {
           "id": "https://pluralistic.net/?p=13524",
           "author": "Cory Doctorow",
@@ -1482,6 +1502,86 @@
       "feedUrl": "https://feeds.kottke.org/main",
       "siteUrl": "https://kottke.org/",
       "articles": [
+        {
+          "id": "https://kottke.org/26/11/0050028-what-are-people-for",
+          "author": null,
+          "description": "New short design documentary “about the life and work of the pioneering designer, Patrick Whitney”, directed by Gary Hustwit: What Are People For?",
+          "link": "https://kottke.org/26/11/0050028-what-are-people-for",
+          "publishedOn": "2026-11-18T21:44:00.000Z",
+          "wordCount": 795,
+          "title": "New short design documentary “about the life and work of...",
+          "imageUrl": "https://kottke.org/images/unfurls/thumb-50028-fb95c4e2.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/11/what-happens-to-your-body-when-you-die",
+          "author": null,
+          "description": "Kurzgesagt explores what happens to your body when you die.\nDeath isn’t a single switch that shuts down your entire body at once. When your heart stops beating and your brain goes silent, trillions of cells inside you are still alive, desperately trying to keep themselves running. Death isn’t a single moment, but a slow and surprisingly complex process that can last for weeks.\nWhat actually happens when you die? What makes death so mysterious, and which cells are the last survivors within your body?\n\n \n\n        \n         \nTags: death · kurzgesagt · science · video",
+          "link": "https://kottke.org/26/11/what-happens-to-your-body-when-you-die",
+          "publishedOn": "2026-11-18T20:51:00.000Z",
+          "wordCount": 732,
+          "title": "What Happens to Your Body When You Die?",
+          "imageUrl": "https://i.ytimg.com/vi/fEjvSbI_PT4/maxresdefault.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/11/0050024-taking-with-them-tens-of-",
+          "author": null,
+          "description": "“During the past 20,000 years, huge stretches of formerly inhabited land along the world’s coastal shelves have disappeared underwater, taking with them tens of thousands of years of human history.”",
+          "link": "https://kottke.org/26/11/0050024-taking-with-them-tens-of-",
+          "publishedOn": "2026-11-18T19:44:00.000Z",
+          "wordCount": 751,
+          "title": "“During the past 20,000 years, huge stretches of formerly...",
+          "imageUrl": "https://kottke.org/images/unfurls/thumb-50024-ce55531a.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/11/0050027-this-interactive-explorat",
+          "author": null,
+          "description": "If you want to know what interface designers do, check out this interactive exploration of designing a seemingly simple text input. “Every little decision is a rabbit hole.”",
+          "link": "https://kottke.org/26/11/0050027-this-interactive-explorat",
+          "publishedOn": "2026-11-18T18:48:00.000Z",
+          "wordCount": 783,
+          "title": "If you want to know what interface designers do, check...",
+          "imageUrl": "https://kottke.org/images/unfurls/thumb-50027-a9fa665c.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/11/0050022-ta-nehisi-coates-intervie",
+          "author": null,
+          "description": "Ta-Nehisi Coates interviews Stacey Abrams about the midterm results (archive link). “What we saw on Tuesday was a moment where people realized that the power to improve their own lives had become so desperately thin that they had to use it or lose it.”",
+          "link": "https://kottke.org/26/11/0050022-ta-nehisi-coates-intervie",
+          "publishedOn": "2026-11-18T17:33:00.000Z",
+          "wordCount": 665,
+          "title": "Ta-Nehisi Coates interviews Stacey Abrams about the...",
+          "imageUrl": "https://kottke.org/images/unfurls/thumb-50022-5ea8e13e.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/11/beautiful-bacteria",
+          "author": null,
+          "description": "Tal Danino is a synthetic biologist who works with bacteria, scientifically and artistically.  His aesthetic explorations of bacteria, Microbial Rainbow and Microuniverse, have resulting in a book called Beautiful Bacteria (Amazon). You can check out more of his bacterial photos at TED, The Guardian, Seed, and The Marginalian.\n\n \n\n        \n         \nTags: art · bacteria · photography · Tal Danino",
+          "link": "https://kottke.org/26/11/beautiful-bacteria",
+          "publishedOn": "2026-11-18T16:44:00.000Z",
+          "wordCount": 712,
+          "title": "Beautiful Bacteria",
+          "imageUrl": "http://kottke.org/images/posts/01/editor-1794980187-a373ccbe.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/11/0050018-a-secret-us-report-from-1",
+          "author": null,
+          "description": "A secret US report from 1943 evaluated Adolf Hitler’s psychological profile. “Langer noted that Hitler accused his political opponents of the ‘bombardment of lies’ that Hitler himself assailed them with.”",
+          "link": "https://kottke.org/26/11/0050018-a-secret-us-report-from-1",
+          "publishedOn": "2026-11-18T15:51:00.000Z",
+          "wordCount": 612,
+          "title": "A secret US report from 1943 evaluated Adolf Hitler’s...",
+          "imageUrl": "https://kottke.org/images/unfurls/thumb-50018-4d4a0796.jpg"
+        },
+        {
+          "id": "https://kottke.org/26/11/0049999-this-cloud-forest-in-cost",
+          "author": null,
+          "description": "This cloud forest in Costa Rica is losing its clouds. “Tropical cloud forests make up only 0.4% of the Earth’s land surface, but support 15% of all birds, mammal, amphibians and tree fern species, half of them found only in cloud forests.”",
+          "link": "https://kottke.org/26/11/0049999-this-cloud-forest-in-cost",
+          "publishedOn": "2026-11-18T14:49:00.000Z",
+          "wordCount": 753,
+          "title": "This cloud forest in Costa Rica is losing its clouds....",
+          "imageUrl": "https://kottke.org/images/unfurls/thumb-49999-aaa02944.jpg"
+        },
         {
           "id": "https://kottke.org/26/11/0050026-the-teaser-trailer-for-th",
           "author": null,
