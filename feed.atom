@@ -2,10 +2,121 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://spitlo.github.io/ajour/index.html</id>
     <title>Ajour / Spitlo.com</title>
-    <updated>2026-11-23T04:27:06.228Z</updated>
+    <updated>2026-11-24T07:22:44.525Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://spitlo.github.io/ajour/index.html"/>
     <link rel="self" href="https://spitlo.github.io/ajour/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“McTrot is a continuously open, honor-system endurance...]]></title>
+        <id>https://kottke.org/26/11/0050051-mctrot</id>
+        <link href="https://kottke.org/26/11/0050051-mctrot"/>
+        <updated>2026-11-23T21:52:00.000Z</updated>
+        <summary type="html"><![CDATA[“McTrot is a continuously open, honor-system endurance challenge. A McTrotter visits every McDonald’s in the borough of Manhattan, eating one food item at each, on foot. Self-supported with the obvious exception of eating at McDonald’s. No prize.” Current record is 13 hours.]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Directing Genius of Akira Kurosawa Explained]]></title>
+        <id>https://kottke.org/26/11/the-directing-genius-of-akira-kurosawa-explained</id>
+        <link href="https://kottke.org/26/11/the-directing-genius-of-akira-kurosawa-explained"/>
+        <updated>2026-11-23T20:41:00.000Z</updated>
+        <summary type="html"><![CDATA[This video from StudioBinder looks at how Akira Kurosawa made his films.
+In this video essay, we break down Kurosawa’s filmmaking techniques across Seven Samurai, High and Low, Rashomon, Ikiru, Yojimbo, and more. From dynamic blocking and layered composition to bold movement and weather-driven cinematography, Kurosawa didn’t just direct scenes — he engineered visual storytelling with precision.
+
+	
+See also Where to Start With Akira Kurosawa and Akira Kurosawa — Composing Movement. (via open culture)
+
+ 
+
+        
+         
+Tags: Akira Kurosawa · film school · movies · video]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Courtesy of the Smithsonian and the Internet Archive: The...]]></title>
+        <id>https://kottke.org/26/11/0050037-the-art-of-knitting-1892</id>
+        <link href="https://kottke.org/26/11/0050037-the-art-of-knitting-1892"/>
+        <updated>2026-11-23T19:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Courtesy of the Smithsonian and the Internet Archive: The Art of Knitting (1892), full of knitting patterns, stitches, and lore from more than 130 years ago.]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Reading the air — kuuki o yomu in Japanese — is a...]]></title>
+        <id>https://kottke.org/26/11/0050052-reading-the-air</id>
+        <link href="https://kottke.org/26/11/0050052-reading-the-air"/>
+        <updated>2026-11-23T18:40:00.000Z</updated>
+        <summary type="html"><![CDATA[“Reading the air — kuuki o yomu in Japanese — is a constant exercise, and misreading the air can blow business deals or ruin relationships.”]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tired Women in Art. “I’d never really considered...]]></title>
+        <id>https://kottke.org/26/11/0050046-tired-women-in-art</id>
+        <link href="https://kottke.org/26/11/0050046-tired-women-in-art"/>
+        <updated>2026-11-23T17:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Tired Women in Art. “I’d never really considered exhaustion as a theme in art, and yet there are so many examples of it.” (And what is a still life if not complete exhaustion?)]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Shelf Life of LLM Findings. “How long does a...]]></title>
+        <id>https://kottke.org/26/11/0050047-the-shelf-life-of-llm-fin</id>
+        <link href="https://kottke.org/26/11/0050047-the-shelf-life-of-llm-fin"/>
+        <updated>2026-11-23T15:25:00.000Z</updated>
+        <summary type="html"><![CDATA[The Shelf Life of LLM Findings. “How long does a published finding about LLMs remain true? What we know about AI may have a surprisingly short shelf life.”]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Site Outages and a Slower Holiday Week]]></title>
+        <id>https://kottke.org/26/11/site-outages-and-a-slower-holiday-week</id>
+        <link href="https://kottke.org/26/11/site-outages-and-a-slower-holiday-week"/>
+        <updated>2026-11-23T13:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey folks. Like the rest of the internet & other tech infrastructure, KDO has seen some outages in the past week or so, amounting to a few hours of downtime. Our time here together isn’t what I would call mission critical — reading the site an hour or two after you’d originally wanted to is not the worst thing in the world — but it’s still a bummer to have the site be unavailable.
+The reasons for the KDO downtime have been various, but that it occurred around the same time as some of these other outages isn’t, IMO, coincidental. Security researchers and developers armed with LLMs are going bananas finding exploits in a bunch of the software and infrastructure underpinning, well, everything. On the other side of the aisle, sysadmins are scrambling to fix all of these newly found exploits.
+But of course, poking holes in things is easier & faster than plugging them. LLMs can help with the patching,1 but it’s asymmetric warfare — being slow & careful with upgrades and patches isn’t a luxury you have when so many things are coming at you on a daily basis. Hopefully the situation won’t get too much worse before it gets better, but in the meantime, I’m thankful for everyone who is trying to keep these systems running. 🙏
+Second thing: after a few months on the other side of the world, I’m spending some time with my family for Thanksgiving, and so the site will be a bit slower this week and very early next week. I’ve been pushing quite a bit over the past several weeks and it’s nice to take a bit of a break.
+And it’s probably hurting in other cases, with inexperienced teams rolling out LLM-coded “upgrades” that do more harm than good. ↩
+
+
+ 
+
+        
+         
+Tags: kottke.org]]></summary>
+        <author>
+            <name>kottke.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pluralistic: The Debt Trap (23 Nov 2026)]]></title>
+        <id>https://pluralistic.net/?p=13549</id>
+        <link href="https://pluralistic.net/2026/11/23/grasshoppers-v-ants/"/>
+        <updated>2026-11-23T13:18:44.000Z</updated>
+        <summary type="html"><![CDATA[Today's links The Debt Trap: Obscure causality is the downfall of us all. Hey look at this: Delights to delectate. Object permanence: They Fight Crime; Cantenna wifi TV for Mali; Kakistocracy; Inflation or price-gouging; The long game; Fox v bloggers; Hollywood laundered money for Berlusoni; Katamari earmuffs; EMI v parody cricket songs; "Roller Girl"; Trump U was worse than you thought; London v Dieselgate; Bunnie at USC; Facebook gaslights the web; Apple bans ebooks that mention Apple; Private ambulances v babies in burning buildings; Boss preppers. Upcoming appearances: Oxford, Sheffield, Virtual, Oxford, Santa Barbara, Montreal. Recent appearances: Where I've been. Latest books: You keep readin' em, I'll keep writin' 'em. Upcoming books: Like I said, I'll keep writin' 'em. Colophon: Al…]]></summary>
+        <author>
+            <name>Cory Doctorow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ivory Tower Elites]]></title>
+        <id>https://xkcd.com/3328/</id>
+        <link href="https://xkcd.com/3328/"/>
+        <updated>2026-11-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/ivory_tower_elites.png" title="These ivory tower elites are flouting both CITES and municipal building codes." alt="These ivory tower elites are flouting both CITES and municipal building codes." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Nine Inch Nails Live Archive: download and stream...]]></title>
         <id>https://kottke.org/26/11/0050036-the-nine-inch-nails-live-</id>
@@ -5818,183 +5929,6 @@ I think it’s nice to do projects in a community…]]></summary>
         <link href="https://kottke.org/26/09/0049670-what-if-america-went-comp"/>
         <updated>2026-09-25T19:39:00.000Z</updated>
         <summary type="html"><![CDATA[What if America Went Completely Dark? “We came up with some very astounding numbers. If you knock out nine total substations among those three grids, you can black out the entire United States.” And it could last months?]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pluralistic: Itch scratching (25 Sep 2026)]]></title>
-        <id>https://pluralistic.net/?p=13327</id>
-        <link href="https://pluralistic.net/2026/09/25/other-people/"/>
-        <updated>2026-09-25T18:56:20.000Z</updated>
-        <summary type="html"><![CDATA[Today's links Itch scratching: Love, care and self-actualization. Hey look at this: Delights to delectate. Object permanence: 9/11 x Viridians; Announcing Wikipedia; Infinite Copyright Mickey; Floppy shoulder bag; Wells Fargo's long sleaze; Corbyn wins Labour leadership; Interop v internet monopolies; The billionaires aren't all right; RIP Mike Ford; PGP didn't cause 9/11; Flying Solaris boxen; "Unelectable" Corbyn; Algorithmic management; "That's Disgusting!"; Tax breaks for repair expenses; Climate denial driven by economic doctrine; "100% pumpkin" has no pumpkin; Copyright reversion; "Scholars of the Night"; Apple threatens EU. Upcoming appearances: Edmonton, Boston, Brighton, South Bend, Hudson, Calgary, Winnipeg, Paris, OVancouver, Victoria, Ottawa, Kilkenny, Montreal. Recent appearan…]]></summary>
-        <author>
-            <name>Cory Doctorow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Now We Can Sing is the first single from Max Richter’s...]]></title>
-        <id>https://kottke.org/26/09/0049682-now-we-can-sing</id>
-        <link href="https://kottke.org/26/09/0049682-now-we-can-sing"/>
-        <updated>2026-09-25T18:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Now We Can Sing is the first single from Max Richter’s upcoming album, While the Flood Rages, which will be available wherever you stream your music on Oct 16.]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is a fun daily game: Catfishing. You guess the...]]></title>
-        <id>https://kottke.org/26/09/0049683-catfishing</id>
-        <link href="https://kottke.org/26/09/0049683-catfishing"/>
-        <updated>2026-09-25T17:44:00.000Z</updated>
-        <summary type="html"><![CDATA[This is a fun daily game: Catfishing. You guess the Wikipedia article from its categories.]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terry Riley’s In C is a composition where any number of...]]></title>
-        <id>https://kottke.org/26/09/0049587-this-web-app</id>
-        <link href="https://kottke.org/26/09/0049587-this-web-app"/>
-        <updated>2026-09-25T16:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Terry Riley’s In C is a composition where any number of musicians improvisationally play 53 melodic fragments in the key of C. This web app lets you play multiple In C live performances layered on top of each other. In C to the power of In C, if you will.]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“The Metric Is Not the Mission is a ten-part examination...]]></title>
-        <id>https://kottke.org/26/09/0049663-the-metric-is-not-the-mis</id>
-        <link href="https://kottke.org/26/09/0049663-the-metric-is-not-the-mis"/>
-        <updated>2026-09-25T15:54:00.000Z</updated>
-        <summary type="html"><![CDATA[“The Metric Is Not the Mission is a ten-part examination of how Big Tech moved from building and expanding the open internet to increasingly shaping it around its own metrics, incentives and assumptions.”]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“The Romanian Football Federation (FRF) has introduced a...]]></title>
-        <id>https://kottke.org/26/09/0049666-a-new-black-card</id>
-        <link href="https://kottke.org/26/09/0049666-a-new-black-card"/>
-        <updated>2026-09-25T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“The Romanian Football Federation (FRF) has introduced a new black card to help prevent abusive behaviour from parents at youth-team matches.” If, after two warnings, the black card is shown, the match is permanently cancelled.]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lego’s biggest set ever is coming out soon: the...]]></title>
-        <id>https://kottke.org/26/09/0049681-the-12060-piece-sagrada-f</id>
-        <link href="https://kottke.org/26/09/0049681-the-12060-piece-sagrada-f"/>
-        <updated>2026-09-25T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Lego’s biggest set ever is coming out soon: the 12,060-piece Sagrada Família. $800. It will take as long to build as the actual cathedral — you may not live to see it finished.]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What If We Just Stopped? “We’re in the Looney Tunes stage...]]></title>
-        <id>https://kottke.org/26/09/0049680-what-if-we-just-stopped</id>
-        <link href="https://kottke.org/26/09/0049680-what-if-we-just-stopped"/>
-        <updated>2026-09-25T00:10:00.000Z</updated>
-        <summary type="html"><![CDATA[What If We Just Stopped? “We’re in the Looney Tunes stage of the end of social, where we’ve glided well past the edge of the cliff and it’s slowing dawning on us that the only way left is down. Fast.”]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slab Graveyard]]></title>
-        <id>https://xkcd.com/3303/</id>
-        <link href="https://xkcd.com/3303/"/>
-        <updated>2026-09-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/slab_graveyard.png" title="It's ok if you want to close close your eyes for the slab graveyard, so you can still have fun riding the mantle plume back up afterward!" alt="It's ok if you want to close close your eyes for the slab graveyard, so you can still have fun riding the mantle plume back up afterward!" />]]></summary>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scans of City Textures]]></title>
-        <id>https://kottke.org/26/09/scans-of-city-textures</id>
-        <link href="https://kottke.org/26/09/scans-of-city-textures"/>
-        <updated>2026-09-24T21:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Using a handheld scanner, designer/illustrator Noah Nolet captures textures from surfaces in cities around the world, including Tokyo, LA, Paris, Kyoto, NYC, and Berlin. On his website, he offers city packs of hundreds of scans for sale and free sample packs as well. You can also check out how he captures the textures on Instagram and YouTube. This is a modern take on stone rubbing.
-
- 
-
-        
-         
-Tags: cities · design · Noah Nolet · photography]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Homer’s Catalogue of Ships from the Iliad. Where the...]]></title>
-        <id>https://kottke.org/26/09/0049646-catalogue-of-ships</id>
-        <link href="https://kottke.org/26/09/0049646-catalogue-of-ships"/>
-        <updated>2026-09-24T20:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Homer’s Catalogue of Ships from the Iliad. Where the Greek ships that set out for Troy were from and what they may have looked like. “No Homeric ship survives. What we have are pictures: a handful of painted sherds of the twelfth century BC…”]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Practical Engineering: Are beavers actually good at...]]></title>
-        <id>https://kottke.org/26/09/0049651-are-beavers-actually-good</id>
-        <link href="https://kottke.org/26/09/0049651-are-beavers-actually-good"/>
-        <updated>2026-09-24T19:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Practical Engineering: Are beavers actually good at building dams? (A: Yes, duh.)]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Further Mis-Adventures of Cliff Booth. Brad Pitt...]]></title>
-        <id>https://kottke.org/26/09/0049678-the-further-mis-adventure</id>
-        <link href="https://kottke.org/26/09/0049678-the-further-mis-adventure"/>
-        <updated>2026-09-24T18:59:00.000Z</updated>
-        <summary type="html"><![CDATA[The Further Mis-Adventures of Cliff Booth. Brad Pitt returns as Booth, the character he played in Once Upon a Time in Hollywood, but 8 years later. Screenplay by Quentin Tarantino, directed by David Fincher.]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trace is a daily puzzle game where you build a “recipe”...]]></title>
-        <id>https://kottke.org/26/09/0049653-trace</id>
-        <link href="https://kottke.org/26/09/0049653-trace"/>
-        <updated>2026-09-24T18:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Trace is a daily puzzle game where you build a “recipe” of up to 4 steps to turn a starting set of numbers into another set of numbers.]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The lessons four Islamic polymaths — al-Biruni, Alhazen,...]]></title>
-        <id>https://kottke.org/26/09/0049643-the-lessons-four-islamic-</id>
-        <link href="https://kottke.org/26/09/0049643-the-lessons-four-islamic-"/>
-        <updated>2026-09-24T17:29:00.000Z</updated>
-        <summary type="html"><![CDATA[The lessons four Islamic polymaths — al-Biruni, Alhazen, Avicenna and al-Khwarizmi — hold for students today: “breadth over specialisation, and never let constraints get in the way”.]]></summary>
-        <author>
-            <name>kottke.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Classic, Private, or Smart? Choose the right Firefox window for every task]]></title>
-        <id>https://blog.mozilla.org/?p=87109</id>
-        <link href="https://blog.mozilla.org/en/firefox/firefox-window-types/"/>
-        <updated>2026-09-24T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We spend a lot of time browsing online. Whether you are researching for work, planning a trip, paying your bills, or scrolling through social media, your browser is there for it all. While all these tasks are very different in nature, a lot of people still tend to stick to the same window type for […]
-The post Classic, Private, or Smart? Choose the right Firefox window for every task appeared first on The Mozilla Blog.]]></summary>
-        <author>
-            <name>Mozilla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[50 Songs That Explain America. “The songs were chosen on...]]></title>
-        <id>https://kottke.org/26/09/0049664-50-songs-that-explain-ame</id>
-        <link href="https://kottke.org/26/09/0049664-50-songs-that-explain-ame"/>
-        <updated>2026-09-24T16:39:00.000Z</updated>
-        <summary type="html"><![CDATA[50 Songs That Explain America. “The songs were chosen on the basis that they told me something, sonically or lyrically or emotionally or vibrationally, about America and the idea of America.”]]></summary>
         <author>
             <name>kottke.org</name>
         </author>
